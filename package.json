@@ -1,0 +1,9 @@
+{
+  "name" : "Dispro",
+  "version" : "1.0.0",
+  "description" : "Digitálna zbierka slovenskej prózy",
+  "dependencies" : {
+    "@teipublisher/pb-components" : "latest",
+    "@jinntec/fore" : "2.4.1"
+  }
+}

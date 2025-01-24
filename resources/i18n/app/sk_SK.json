@@ -1,0 +1,324 @@
+{
+  "dispro": {
+	"metadata": "Metadáta"
+  },
+  "language": "Jazyk",
+  "menu": {
+    "documentation": "Dokumentácia",
+    "admin": {
+      "title": "Správa",
+      "recompile": "Prekompilovať ODD",
+      "appGenerator": "Generátor aplikácie",
+      "edit-odd": "Upraviť ODD"
+    },
+    "news": "Novinky",
+    "download": {
+      "title": "Uložiť",
+      "pdf-latex": "PDF (verzia LaTeX)",
+      "pdf-fo": "PDF (verzia FO)",
+      "pdf-title": "Uložiť ako PDF",
+      "fo-source": "Zdroj FO",
+      "latex-source": "Zdroj TeX",
+      "single-page": "Jedna strana",
+      "epub-download": "Uložiť ako e-knihu (EPUB)",
+      "view-tei": "Zobraziť TEI XML"
+    }
+  },
+  "dialogs": {
+    "error": "Bohužiaľ",
+    "close": "Zavrieť",
+    "yes": "Áno",
+    "no": "Nie",
+    "serverError": "Požiadavka na server zlyhala",
+    "generatingFile": "Vytváranie súboru...",
+    "downloadMessage": "Vytváranie súboru na stiahnutie može trvať aj niekoľko minút. Majte prosím strpenie. Po stiahnutí súboru sa dialóg sám zavrie.",
+    "loading": "Nahráva sa..."
+  },
+  "document": {
+    "contents": "Obsah",
+    "selectODD": "Zvoliť ODD",
+    "selectTemplate": "Vybrať šablónu",
+    "selectFeature": "Zvoliť vlastnosť",
+    "normalized": "Normalizované zobrazenie",
+    "plain": "Zobrazenie pre čítanie",
+    "view-type": "Zobrazenie strany",
+    "add-panel": "Pridať zobrazenie",
+    "caveat-heading": "Upozornenie",
+    "settings": "Nastavenia",
+    "caveat": "Pohrajte sa s nastavením a vyskúšajte rôzne šablóny stránok a ODD. Nie všetky kombinácie sú však zmysluplné pre vˇ"
+  },
+  "browse": {
+    "description": "Použite túto aplikáciu na experimentovanie a vyskúšanie rôznych ODD s inštrukciami na spracovanie modelu. Nahrajte vlastné súbory a vytvorte vlastné ODD.",
+    "login": ", aby ste mohli vytvárať súbory a spravovať aplikáciu (predvolený užívateľ: 'tei-demo', heslo: 'demo').",
+    "login-1": "Prihlásiť sa ako",
+    "login-2": "s heslom",
+    "login-3": "A experimentovať v vlastnými súbormi a ODD",
+    "sort": "Zoradiť podľa",
+    "filter": "Filtrovať podľa",
+    "filterPlaceholder": "Filter",
+    "items": "Nájdená {{count}} položka",
+    "items_plural": "Nájdených {{count}} súborov",
+    "title": "Titul",
+    "author": "Autor",
+    "modificationDate": "Posledná úprava",
+    "file": "Názov súboru",
+    "delete": "Odstrániť",
+    "confirmDeletion": "Určite chcete odstrániť tento súbor?",
+    "confirmDeletion_plural": "Určite chcete odstrániť {{count}} súborov?",
+    "documents": "Dokumenty",
+    "documents-removed": "Odstránené dokumenty",
+    "document-not-found": "Dokument nebol nájdený",
+    "document-remove-failed": "Dokument sa nepodarilo odstrániť",
+    "collections": "Lokálna kolekcia",
+    "dts": "Distribuované textové služby (vo vývoji)",
+    "test": {
+      "title": "Kolekcia ukážok TEI Publisheru",
+      "description": "Dokumenty obshuj´"
+    },
+    "playground": {
+      "title": "Ihrisko",
+      "description": "Zapisovateľná kolekcia, do ktorej môžete nahrať vlastné dokumenty na testovanie"
+    },
+    "doc": {
+      "title": "Dokumentácia",
+      "description": "Dokumentácia (pomocou Docbook XML)"
+    },
+    "markdown": {
+      "title": "Ukážka Markdownu",
+      "description": "Príklad použitia markdownu pre statický obsah"
+    },
+    "annotate": {
+      "title": "Ukážky anot´",
+      "description": "Ďalšie ihrisko pre anotovanie dokumentov"
+    },
+    "up": "O úroveň vyššie"
+  },
+  "upload": {
+    "upload": "Nahrať",
+    "drop": "Pre nahratie súborov {{accept}} ich pretiahnite sem."
+  },
+  "demo": {
+    "showCode": {
+      "show": "Zobraziť kód",
+      "hide": "Skryť kód"
+    },
+    "editCode": {
+      "show": "Upraviť kód",
+      "hide": "Zatvoriť editor"
+    }
+  },
+  "clipboard": {
+    "copy": "Kliknutím na ikonu skopírujete do schránky",
+    "paste": "Pre testovanie vložte do vstupného poľa"
+  },
+  "login": {
+    "login": "Prihlásiť sa",
+    "as": "Prihlásený ako {{user}}",
+    "user": "Užívateľ",
+    "password": "Heslo",
+    "invalid": "Chybné heslo alebo meno užívateľa",
+    "requiredGroup": "musí byť členom skupiny {{group}}"
+  },
+  "search": {
+    "search": "Hľadať",
+    "reset": "Obnoviť",
+    "placeholder": "Hľadať",
+    "sections": "Hľdať v oddieloch",
+    "headings": "Hľadať v nadpisoch",
+    "title": "Hľadať v tituloch",
+    "content": "Hľadať v obsahu",
+    "scope": "Obmedziť hľadanie na"
+  },
+  "dts": {
+    "endpoint": "Zvoľte koncový bod",
+    "note": "Vo vývoji: prístup k ďalˇi",
+    "requires-login": "Vyžaduje príhlásenie"
+  },
+  "odd": {
+    "files": "ODD súbory",
+    "manage": {
+      "filename": "Názov ODD súboru (bez prípony)",
+      "title": "Zobrazovaný titul",
+      "create": "Vytvoriť",
+      "create-from-example": "Vytvoriť z príkladov",
+      "delete": "Určite chcete odstrániť ODD súbor {{file}}",
+      "regenerate-all": "Znovu generovať všetky ODD (pomalé)",
+      "filename-error": "Povinné. Použite písmena, číslice, - alebo _",
+      "title-error": "Titul je povinný"
+    },
+    "editor": {
+      "delete-spec": "Urˇ",
+      "save": "Uložiť",
+      "saving": "Ukladanie ...",
+      "saved": "Uložené",
+      "unsaved": "Existujú neuložné zmeny, ktoré sa dostanú do exportu. Naozaj pokračovať?",
+      "download": "Uložiť ODD",
+      "save-as": "Uložiť ODD do adresára",
+      "denied": "Prístup zamietnutý",
+      "denied-message": "Nemáte oprávnenie uložiť {{odd}}",
+      "reload": "Načítať znovu",
+      "reload-confirm": "Akákoľvek neuložená zmena sa stratí. Pokračovať?",
+      "add-element": "Pridať prvok",
+      "odd-source": "Zdrojj ODD",
+      "specs": "Špecifikácia prvku",
+      "jump-to": "Prejsť na prvok",
+      "title-short": "Skrátený názov",
+      "title-short-placeholder": "Skrátený názov na zobrazenie",
+      "description-label": "Popis",
+      "description-placeholder": "Popis ODD",
+      "source-label": "Základné ODD",
+      "source-placeholder": "Východzie ODD",
+      "use-namespace": "Pre použitie iného menn´",
+      "namespace-placeholder": "URI východzieho menného priestoru (ak nejde o TEI)",
+      "title": "Názov",
+      "title-placeholder": "Názov ODD",
+      "model": {
+        "delete-model-label": "Odstrániť model?",
+        "delete-model-message": "Skutočne chcete odstrániť zvolený model?",
+        "description-placeholder": "[Dokumentácia modelu]",
+        "predicate-placeholder": "[Definujte dalšie podmienky, ktoré treba splniť (v xquery)]",
+        "link-with-or": "alebo",
+        "css-class-placeholder": "[Definujte názov triedy CSS (pre extern´",
+        "custom-behaviour-placeholder": "[Vlastné správanie]",
+        "template-placeholder": "[Definujte šablónu kódu, ktorá sa použije na obsah]",
+        "param-name-placeholder": "[Názov parametru]",
+        "empty": "[Prázdny]",
+        "mode-placeholder": "[Režim spracovania - predanie do nasledujúcich modelov]",
+        "set-param": "nastaviť"
+      },
+      "css-source": "Otvoriť CSS súbor"
+    }
+  },
+  "facets": {
+    "show": "Ukázať prvých 50",
+    "genre": "Žáner",
+    "language": "Jazyk",
+    "feature": "Funkcionalita",
+    "form": "Formulár",
+    "period": "Obdobie",
+    "gender": "Pohlavie"
+  },
+  "appgen": {
+    "account": {
+      "user": "Užívateľský účet pre správu aplikácie. Ak užívateľ neexistuje, bude vytvorený.",
+      "owner": "Užívateľský účet, ktorý bude valstníkom aplikácie",
+      "password": "Heslo pre účet, ktor´"
+    },
+    "submit": "Uloiť/Vytvoriť",
+    "index": {
+      "help": "Určite najmenší úsek, pre ktorý sa vytvorý celotextový index. Pre texty členené na oddiely sa typicky najvac hod´",
+      "label": "Prednastavený celotextový index",
+      "index-div": "Vytvoriť pre oddiel",
+      "index-text": "Vytvoriť pre text"
+    },
+    "view": {
+      "help": "Zvoľte, čo sa automaticky zobrazí pri prezeraní textu: jedna strana alebo jeden oddiel. Zobrazanie po stranách si, vyžaduje, aby boli v TEI použité značky &lt;tei:pb&gt;.",
+      "div": "Podľa oddielov (kapitola/sekcia...)",
+      "page": "Podľa strany"
+    },
+    "label": "Prednastavené zobrazenie",
+    "template": {
+      "help": "Zvoľte, ktorá HTML šablóna bude prednastavená.",
+      "label": "HTML šablóna"
+    },
+    "title": {
+      "help": "Názov aplikácie, ktorá sa zobrazí napr. na riadiacom panely",
+      "label": "Názov aplikácie"
+    },
+    "collection": "Meno podradenej kolekcie pre uloženie dokumentov TEI",
+    "abbrev": {
+      "label": "Skrátené meno, ktoré sa použije v URL adresách a názvoch súborov",
+      "placeholder": "Skrátený názov"
+    },
+    "uri": "URL na jednoznačnú identifikáciu aplikácie",
+    "dialog": {
+      "title": "Aplikácia vytvorená"
+    },
+    "open": "Otvoriť",
+    "success": "Vaša aplikácia bola úspešne vytvorená"
+  },
+  "annotations": {
+    "edit": "Upraviť anotáciu",
+    "delete": "Odstrániť anotáciu",
+    "save": "Zlúčiť a uložiť anotácie do TEI",
+    "no-properties": "Nie sú definované žiadne vlastnosti",
+    "person": "Osoba",
+    "organisation": "Organizácia",
+    "place": "Miesto",
+    "term": "Pojem",
+    "date": "Dátum",
+    "reg": "Zjednocovanie",
+    "app": "Položka poznámkového aparátu",
+    "hi": "Zvýraznenie",
+    "ref": "Odkaz (ref)",
+    "pb": "Rozdelenie strany (pb)",
+    "pagenum": "Číslo strany (@n)",
+    "facs": "URL obrázku (@facs)",
+    "abbreviation": "Skratka",
+    "occurrences": "Výskyty v texte",
+    "correction": "Oprava",
+    "expansion": "Rozpísanie",
+    "reference": "Odkaz",
+    "lookup": "Hľadať entitu",
+    "apply": "Uplatniť anotáciu",
+    "apply-all": "Zvoliť a uplatniť všetko",
+    "search-other": "Hľadať výskyty v ďalších dokumentoch",
+    "save-other": "Hľadať výskyty v ďalších dokumentoch a hneď aj anotovať",
+    "changes": "Zmeny",
+    "undo": "Vrátiť poslednú zmenu",
+    "download": "Uložiť zlúčený TEI do súboru",
+    "reload": "Znovu načítať zdrojové TEI",
+    "preview": "Náhľad výsledku po z",
+    "confirm-restore-title": "Potvrdiť obnovenie",
+    "restore": "Našli sa anotácie vytvorené pre tento dokument v predchádzajúcom sedení. Chcete ich znovu načítať?",
+    "confirm-reload-title": "Potvrdiť opätovné načítanie",
+    "confirm-reload": "Zahodiť aktuálne anotácie a znovu načítať zdroj?",
+    "modify": "Použiť úpravy na základný text",
+    "modify-info": "Poznámka: toto nie je anotácia, pri zl´",
+    "permission": "Prístup zamietnutý: nemôžete uložiť anotáciu",
+    "ner": {
+      "title": "Rozpoznanie pomenovaných entít",
+      "description": "Pokúsiť sa automaticky nájsť pomenované entity v texte a označiť ich ako anotácie",
+      "run": "Spustiť",
+      "model": "Vybrať model",
+      "denied": "Našli sa neuložené zmeny: buď ich prosím uložte alebo zahoďte"
+    },
+    "confirm-discard-title": "Zahodiť",
+    "confirm-discard": "Zahodiť zoznam v´",
+    "doc-count": "{{count}} z {{total}}",
+    "toggle": "Zobraziť/skryť náhľad/ovládací panel",
+    "add-entity": "Vytvoriť entitu",
+    "edit-entity": "Upraviť entitu",
+    "edit-reference": "Vyhľadať/upraviť odkaz",
+    "hints": {
+      "modify": "označená entita toho istého typu, ale s iným identifikátorom",
+      "incomplete": "označeý objekt toho istého typu, ale bez kľúˇ",
+      "unmarked": "neoznačený výskyt v texte",
+      "open-in-tab": "Otvoriť dokument v novej karte pre kontrolu"
+    }
+  },
+  "ner": {
+    "title": "Natrénuj  model pre rozpoznávnie pomenovaných entít",
+    "not-found": "Táto funkcia vyžaduje vpustenú službu NER, s ktorou sa nepodarilo spojiť.",
+    "found": "Nájdený TEI Publisher  NER spaCy, verzia",
+    "name-placeholder": "Názov vytváraného modelu",
+    "name": "Názov",
+    "path": "Cesta",
+    "path-placeholder": "Relatívna cesta k dokumentu alebo kolekcii",
+    "path-info": "Zadajte cestu k dokumentu alebo kolekcii, ktorá sa použije ako vstup pre trénovanie. Mala by byť relatívna voči koreňovému adresáru dát.",
+    "lang-info": "Môžete natrénovať nový model pre jazyk alebo zvoliť existujúci model na rozšírenie. Ak nerozširujete existujúci model, musíte zvoliť jazyk. Inak ponechajte prázdne.",
+    "language-placeholder": "Jazyk, pre ktorý sa model vytvára",
+    "language": "Jazyk",
+    "language-error": "Musíte uviesť jazyk alebo základný model",
+    "model": "Základný model",
+    "model-placeholder": "Základný model, ktorý sa rozšíri alebo skopíruje",
+    "vectors": "Zo základného modelu skopírovaťl len vektory",
+    "output": "Výstup trénovania",
+    "prepare": "Príprava trénovacích dát",
+    "start": "Spustiť"
+  },
+  "timeline": {
+    "unknown": "bez dátumu",
+    "clear": "Vymazať výber dátumu"
+  }
+}

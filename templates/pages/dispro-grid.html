@@ -1,0 +1,177 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="config:app-title"/>
+        <meta name="description" content="Dispro grid-based single text layout"/>
+        <meta name="pb-template" content="view-grid.html"/>
+
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/dispro-theme.css"/>
+
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <style>
+            main {
+                display: grid;
+                height: calc(100vh - 128px);
+                grid-template-columns: 1fr 2fr 420px;
+                grid-template-rows: auto 1fr auto;
+                background-image: url('resources/images/triangle-background.jpg');
+                background-size: 100% auto;
+                background-repeat-x: no-repeat;
+                background-color: #e8fafa;
+            }
+            
+            @media (max-width: 1024px) {
+                main {
+                    position:relative;
+                    grid-template-columns: 1fr 2fr;
+                }
+                #metadata {
+                    grid-column: 1 / 1
+                }
+                #metadata * {
+                    font-size 15px !important;
+                }
+                #view {
+                    grid-column: 2 / 3;
+                }
+            }
+
+            @media (max-width: 768px) {
+                main {
+                    position: relative;
+                    grid-template-columns: 1fr;
+                }
+                #view1 {
+                    grid-column: 1 / 1;
+                }
+                #metadata {
+                    display: none;
+                }
+                #metaToggle {
+                    display: block !important;
+                }
+                footer {
+                    grid-column: 1 / 1;
+                }
+                .content-body pb-navigation {
+                    display: none;
+                }
+            }
+
+            .breadcrumbs {
+                grid-column: 2 / 3;
+                background-color: white;
+                max-width:unset;
+                margin: 0px;
+                padding: 0px 25px;
+            }
+
+            #view1 {
+                grid-column: 2 / 3;
+                overflow: auto;
+                padding: 0px 35px;
+                background-color: white;
+                max-width:unset;
+                margin: unset;
+            }
+            
+            #metadata {
+                grid-column: 1 / 1;
+                grid-row: 1 / 3;
+                # border: 1px solid #35424b;
+                # padding: 0px 20px;
+                overflow: auto;
+                margin: 25px;
+                # margin-bottom: 100px;
+                # margin-top: 15px;
+                # margin-left: 15px;
+                # margin-right: 15px;
+                # background-color: #F0F0F0;
+            }
+            
+            #metaToggle {
+                display: none;
+            }
+
+            footer {
+                grid-column: 2 / 3;
+                background-color: var(--pb-toolbar-background-color);
+            }
+
+            footer pb-navigation[direction=forward] {
+                float: right;
+            }
+
+            .toc {
+                grid-column: 3 / 4;
+                grid-row: 1 / span 3;
+                overflow: auto;
+                font-size: var(--pb-base-font-size);
+                background-color: var(--pb-drawer-background-color);
+            }
+
+            .toolbar pb-navigation {
+                display: none;
+            }
+        </style>
+    </head>
+
+    <body>
+        <pb-page locales="resources/i18n/app/sk_SK.json" locale-fallback-ns="common app my-module" data-template="pages:pb-page" unresolved="unresolved">
+            <pb-document id="document1" data-template="pages:pb-document"/>
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                        <app-toolbar data-template="lib:include" data-template-path="templates/dispro-toolbar.html"/>
+                    </app-header>
+
+                    <main>
+                        <pb-drawer toggle="tocToggle" class="toc" emit="toc" subscribe="transcription" max-width="1024px">
+                            <div class="drawer-content">
+                                <h3>
+                                    <pb-i18n key="document.contents">Contents</pb-i18n>
+                                </h3>
+                                <pb-load id="toc" url="api/document/{doc}/contents?target=transcription&amp;icons=true" expand="expand" src="document1" subscribe="toc" auto="auto">
+                                    <pb-i18n key="dialogs.loading">Loading</pb-i18n>
+                                </pb-load>
+                            </div>
+                        </pb-drawer>
+                        <pb-view class="breadcrumbs" src="document1" xpath="//teiHeader/fileDesc/titleStmt/title" view="single">
+                            <pb-param name="header" value="short"/>
+                        </pb-view>
+                        
+                        <paper-card data-i18n="[heading]dispro.metadata" id="metadata" heading="dispro.metadata">
+                            <pb-view class="card-content" src="document1" xpath="//teiHeader" view="single"/>
+                        </paper-card>
+                        
+                        <pb-view id="view1" src="document1" column-separator=".tei-cb" append-footnotes="append-footnotes" subscribe="transcription" emit="transcription"/>
+                        
+                        <footer>
+                            <pb-navigation direction="forward" keyboard="right" unit="page" emit="transcription" subscribe="transcription">
+                                <paper-button>
+                                    <iron-icon icon="icons:chevron-right"/>
+                                </paper-button>
+                            </pb-navigation>
+                            <pb-navigation direction="backward" keyboard="left" unit="page" emit="transcription" subscribe="transcription">
+                                <paper-button>
+                                    <iron-icon icon="icons:chevron-left"/>
+                                </paper-button>
+                            </pb-navigation>
+                        </footer>
+                    </main>
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+        <div class="splash"/>
+    </body>
+</html>
