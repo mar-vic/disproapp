@@ -2,6 +2,9 @@
   "dispro": {
 	"metadata": "Metadáta"
   },
+  "languages": {
+  	"slovak": "Slovenčina"
+  },
   "language": "Jazyk",
   "menu": {
     "documentation": "Dokumentácia",
@@ -45,7 +48,8 @@
     "add-panel": "Pridať zobrazenie",
     "caveat-heading": "Upozornenie",
     "settings": "Nastavenia",
-    "caveat": "Pohrajte sa s nastavením a vyskúšajte rôzne šablóny stránok a ODD. Nie všetky kombinácie sú však zmysluplné pre vˇ"
+    "caveat": "Pohrajte sa s nastavením a vyskúšajte rôzne šablóny stránok a ODD. Nie všetky kombinácie sú však zmysluplné pre vˇ",
+    "metadata": "Metadáta"
   },
   "browse": {
     "description": "Použite túto aplikáciu na experimentovanie a vyskúšanie rôznych ODD s inštrukciami na spracovanie modelu. Nahrajte vlastné súbory a vytvorte vlastné ODD.",
@@ -192,11 +196,20 @@
   "facets": {
     "show": "Ukázať prvých 50",
     "genre": "Žáner",
-    "language": "Jazyk",
+    "language": " Použité jazyky",
+    "timeSlot": "Obdobie",
+    "size": "Veľkosť diela",
+    "short": "Krátke",
+    "medium": "Stredné",
+    "long": "Dlhé",
     "feature": "Funkcionalita",
     "form": "Formulár",
     "period": "Obdobie",
-    "gender": "Pohlavie"
+    "gender": "Pohlavie autora",
+    "male": "Muž",
+    "female": "Žena",
+    "unknown": "Neznáme",
+    "author": "Autor"
   },
   "appgen": {
     "account": {
