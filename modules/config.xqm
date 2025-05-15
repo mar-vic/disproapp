@@ -35,6 +35,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
  : (default: 8000, but check where your server is running).
  :)
 declare variable $config:webcomponents :="latest";
+(:~ declare variable $config:webcomponents :="dev"; :)
 
 (:~
  : CDN URL to use for loading webcomponents. Could be changed if you created your
@@ -42,7 +43,7 @@ declare variable $config:webcomponents :="latest";
  :)
 declare variable $config:webcomponents-cdn := "https://cdn.jsdelivr.net/npm/@teipublisher/pb-components";
 (: declare variable $config:webcomponents-cdn := "https://cdn.tei-publisher.com/"; :)
-(: declare variable $config:webcomponents-cdn := "http://localhost:8000"; :)
+(: variable $config:webcomponents-cdn := "http://localhost:8000"; :)
 
 (: Version of fore to use for annotation editor :)
 declare variable $config:fore :="2.4.1";
@@ -128,6 +129,12 @@ declare variable $config:facets := [
         "hierarchical": true()
     },
     map {
+        "dimension": "author",
+        "heading": "facets.author",
+        "max": 5,
+        "hierarchical": false()
+    },
+    map {
         "dimension": "language",
         "heading": "facets.language",
         "max": 5,
@@ -139,23 +146,46 @@ declare variable $config:facets := [
                 case "la" return "Latin"
                 case "fr" return "French"
                 case "en" return "English"
-                case "slk" return "Slovak"
+                case "slk" return "languages.slovak"
                 default return $label
         }
     },
-     map {
+    map {
         "dimension": "gender",
         "heading": "facets.gender",
         "max": 5,
         "hierarchical": false(),
         "output": function($label) {
             switch($label)
-                case "de" return "German"
-                case "es" return "Spanish"
-                case "la" return "Latin"
-                case "fr" return "French"
-                case "en" return "English"
-                case "slk" return "Slovak"
+                case "M" return "facets.male"
+                case "F" return "facets.female"
+                default return "facets.unknown"
+        }
+    },
+    map {
+        "dimension": "size",
+        "heading": "facets.size",
+        "max": 5,
+        "hierarchical": false(),
+        "output": function($label) {
+            switch($label)
+                case "short" return "facets.short"
+                case "medium" return "facets.medium"
+                case "long" return "facets.long"
+                default return $label
+        }
+    },
+    map {
+        "dimension": "timeSlot",
+        "heading": "facets.timeSlot",
+        "max": 5,
+        "hierarchical": false(),
+        "output": function($label) {
+            switch($label)
+                case "T1" return "T1 (1840 - 1859)"
+                case "T2" return "T2 (1860 - 1879)"
+                case "T3" return "T3 (1880 - 1899)"
+                case "T4" return "T4 (1900 - 1920)"
                 default return $label
         }
     }

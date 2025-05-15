@@ -257,6 +257,27 @@
             display: none;
         }
         
+        /* Styles for removing some of the info from document headers - ugly hack, shouldn't it be posible to modify rendering of teiHeader through ODD? */
+        .documents .tei-fileDesc, .documents .tei-sourceDesc, .documents .tei-encodingDesc, .documents .tei-profileDesc, .documents .tei-revisionDesc {
+           display: none;
+        }
+        
+        .documents .dspr-label {
+            font-family: var(--pb-heading-font-family);
+        }
+        
+        .documents .author-link {
+            text-decoration: underline;
+            margin-right: 5px;
+        }
+        
+        .documents .dspr-link {
+            text-decoration: underline;
+        }
+        
+        .doclist {
+            padding-bottom: 8px;
+        }
     </style>
     </custom-style>
 </head>
@@ -315,7 +336,7 @@
                                     </aside>
                                     <div id="document-list">
                                         <pb-paginate id="paginate" per-page="10" range="5" subscribe="search" emit="search"/>
-                                        <pb-load url="api/collection/{collection}" expand="" emit="search"/>
+                                        <pb-load id="collection" url="api/collection/{collection}" expand="" emit="search"/>
                                         <!--pb-browse url="api/collection" emit="search"></pb-browse-->
                                     </div>
                                 </div>

@@ -12,7 +12,11 @@
                 <field name="text" expression="."/>
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
+                <facet dimension="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
+                <facet dimension="authorRef" expression="nav:get-metadata(ancestor::tei:TEI, 'authorRef')"/>
                 <facet dimension="gender" expression="nav:get-metadata(ancestor::tei:TEI, 'gender')"/>
+                <facet dimension="size" expression="nav:get-metadata(ancestor::tei:TEI, 'size')"/>
+                <facet dimension="timeSlot" expression="nav:get-metadata(ancestor::tei:TEI, 'timeSlot')"/>
                 <facet dimension="feature" expression="nav:get-metadata(ancestor::tei:TEI, 'feature')"/>
                 <facet dimension="form" expression="nav:get-metadata(ancestor::tei:TEI, 'form')"/>
                 <facet dimension="period" expression="nav:get-metadata(ancestor::tei:TEI, 'period')"/>

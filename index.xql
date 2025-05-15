@@ -5,6 +5,8 @@ module namespace idx="http://teipublisher.com/index";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace dbk="http://docbook.org/ns/docbook";
 
+declare namespace eltec="http://distantreading.net/eltec/ns";
+
 declare variable $idx:app-root :=
     let $rawPath := system:get-module-load-path()
     return
@@ -41,6 +43,7 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                 $root/dbk:info/dbk:author,
                 root($root)//article-meta/contrib-group/contrib/name
             )
+            case "authorRef" return head(($header//tei:titleStmt/tei:author/@ref))
             case "language" return
                 head((
                     $header//tei:langUsage/tei:language/@ident,
@@ -48,13 +51,10 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                     $header/@xml:lang,
                     root($root)/*/@xml:lang
                 ))
-            case "gender" return
-                head((
-                    $header//tei:langUsage/tei:language/@ident,
-                    $root/@xml:lang,
-                    $header/@xml:lang,
-                    root($root)/*/@xml:lang
-                ))
+            case "gender" return 
+                head(($header//eltec:authorGender/@key))
+            case "size" return head(($header//eltec:size/@key))
+            case "timeSlot" return head(($header//eltec:timeSlot/@key))
             case "date" return head((
                 $header//tei:correspDesc/tei:correspAction/tei:date/@when,
                 $header//tei:sourceDesc/(tei:bibl|tei:biblFull)/tei:publicationStmt/tei:date,
