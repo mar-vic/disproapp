@@ -5,3 +5,13 @@
 .menubar {
     font-weight: 600;
 }
+
+.header {
+    color: red !important;
+    background-color: green !important;
+    border: 1px solid red;
+}
+
+.tei-header * {
+    color: red;
+}

@@ -1,0 +1,28 @@
+.tei-header {
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 16px;
+}
+
+.tei-header h3 {
+    font-family: var(--pb-heading-font-family);
+    font-weight: 400;
+    font-size: 18px;
+    color: #303F9F;
+}
+
+.tei-header .dspr-label {
+    font-family: var(--pb-heading-font-family);
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+a {
+    font-weight: 300;
+}
+
+.dspr-titlepg-head:not(:nth-child(1)) {
+    font-size: 40px;
+    font-weight: normal;
+    font-style: italic;
+}
+

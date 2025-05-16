@@ -7,6 +7,11 @@
         <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
         <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
         <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+        
+        <!-- Loading the Oswald fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigi=""/>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700;" rel="stylesheet"/>
 
         <title data-template="config:app-title"/>
         <meta name="description" content="Dispro grid-based single text layout"/>
@@ -16,6 +21,7 @@
         <link rel="stylesheet" href="resources/css/dispro-theme.css"/>
 
         <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <custom-style>
         <style>
             main {
                 display: grid;
@@ -121,11 +127,34 @@
             .toolbar pb-navigation {
                 display: none;
             }
+            
+            #metadata {
+                --paper-tabs-selection-bar-color: #607D8B;
+                --paper-tab-content: {
+                font-family: var(--pb-heading-font-family);
+                font-weight: 400;
+                };
+                --paper-card-header: {
+                    background-color: #d1dae0;
+                };
+                --paper-card-header-text: {
+                    font-family: var(--pb-heading-font-family);
+                    font-size: 16px;
+                    font-weight: 400;
+                };
+            }
+            
+            pb-view {
+                margin: 0;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
         </style>
+        </custom-style>
     </head>
 
     <body>
-        <pb-page locales="resources/i18n/app/sk_SK.json" locale-fallback-ns="common app my-module" data-template="pages:pb-page" unresolved="unresolved">
+        <pb-page locales="resources/i18n/app/sk_SK.json" locale-fallback-ns="common app my-module" data-template="pages:pb-page" unresolved="unresolved" theme="/resources/css/components.css">
             <pb-document id="document1" data-template="pages:pb-document"/>
             <app-drawer-layout force-narrow="force-narrow">
                 <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
@@ -150,7 +179,7 @@
                             <pb-param name="header" value="short"/>
                         </pb-view>
                         
-                        <paper-card data-i18n="[heading]dispro.metadata" id="metadata" heading="dispro.metadata">
+                        <paper-card id="metadata" data-i18n="[heading]document.metadata" heading="metadata">
                             <pb-view class="card-content" src="document1" xpath="//teiHeader" view="single"/>
                         </paper-card>
                         

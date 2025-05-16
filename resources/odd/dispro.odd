@@ -1,4 +1,4 @@
-<?xml-model href="teipublisher_odds.xsd"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xml:lang="en"><teiHeader><fileDesc>
+<?xml-model href="teipublisher_odds.xsd"?><tei:TEI xmlns:pb="http://teipublisher.com/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="en"><teiHeader xmlns="http://www.tei-c.org/ns/1.0"><fileDesc>
             <titleStmt><title>Dispro</title></titleStmt>
             <publicationStmt>
                 <publisher>eXistSolutions GmbH</publisher>
@@ -21,15 +21,18 @@
                 </p>
                 <p>born digital</p>
             </sourceDesc>
-        </fileDesc><encodingDesc><tagsDecl/></encodingDesc><revisionDesc>
+        </fileDesc><encodingDesc><tagsDecl><rendition source="dispro.css"/></tagsDecl></encodingDesc><revisionDesc>
             <change when="2024-12-07Z">Initial version</change>
-        </revisionDesc></teiHeader><text>
+        </revisionDesc></teiHeader><text xmlns="http://www.tei-c.org/ns/1.0">
         <body>
             <schemaSpec start="TEI teiCorpus" ident="dispro" source="teipublisher.odd"> <elementSpec ident="titleStmt" mode="change"><model output="latex" behaviour="meta">
             <param name="content" value="."/>
         </model><model output="fo" behaviour="heading"/><model predicate="$parameters?mode='title'" behaviour="heading">
             <param name="content" value="title[not(@type)]"/>
             <param name="level" value="5"/>
+            <outputRendition xml:space="preserve">
+            null
+            </outputRendition>
         </model><modelSequence output="web" predicate="$parameters?header='short'">
             <model behaviour="link">
                 <param name="content" value="title[1]"/>
@@ -46,24 +49,28 @@
                 <param name="content" value="./title"/>
                 <pb:template xmlns="" xml:space="preserve"><h3>[[content]]</h3></pb:template>
                 <outputRendition xml:space="preserve">
-                null
+                
                 </outputRendition>
             </model>
             <model behaviour="inline">
                 <param name="author" value="./author/text()"/>
-                <param name="author-ref" value="./author/@ref"/>
-                <pb:template xmlns="" xml:space="preserve"><span>Autor: </span><a class="author-link" href="author/[[author-ref]]">[[author]]</a><span>[</span><a href="https://viaf.org/viaf/[[author-ref]]" target="_blank">VIAF</a><span>]</span></pb:template>
+                <param name="author-ref" value="substring-after(./author/@ref,&#34;viaf:&#34;)"/>
+                <param name="query" value="concat(&#34;index.html?facet-authorRef=&#34;, ./author/@ref)"/>
+                <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Autor:</span><a class="author-link" href="[[query]]">[[author]]</a><span>[</span><a class="dspr-link" href="https://viaf.org/viaf/[[author-ref]]" target="_blank">VIAF</a><span>]</span></pb:template>
                 <outputRendition xml:space="preserve">
-                .author-link { margin-right: 5px; } span:first-child { font-weight: bold; }
+                .author-link { margin-right: 5px; }
                 </outputRendition>
             </model>
         </modelSequence></elementSpec>
-                <elementSpec ident="teiHeader" mode="change"><model output="latex" behaviour="metadata"/><model output="fo" behaviour="omit"/><model output="web" predicate="$parameters?header='short'" behaviour="block"/><model output="web" behaviour="block">
+                <elementSpec ident="teiHeader" mode="change"><model output="latex" behaviour="metadata"/><model output="fo" behaviour="omit"/><model output="web" predicate="$parameters?header='short'" behaviour="block"/><model output="web" behaviour="block" cssClass="tei-header">
             <param name="fileDesc" value="./fileDesc"/>
             <param name="encoding" value="./encodingDesc"/>
             <param name="profile" value="./profileDesc"/>
             <param name="revision" value="./revisionDesc"/>
             <pb:template xmlns="" xml:space="preserve"><div>[[fileDesc]]</div><div>[[encoding]]</div><div>[[profile]]</div><div>[[revision]]</div></pb:template>
+            <outputRendition xml:space="preserve">
+            color: black;
+            </outputRendition>
         </model></elementSpec>
                 <elementSpec ident="fileDesc" mode="change"><modelSequence output="web">
             <model behaviour="block">
@@ -71,9 +78,9 @@
             </model>
             <model behaviour="block">
                 <param name="quantity" value="./extent/measure"/>
-                <pb:template xmlns="" xml:space="preserve"><span class="label">Rozsah:</span><span>[[quantity]] slov</span></pb:template>
+                <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Rozsah:</span><span>[[quantity]]</span></pb:template>
                 <outputRendition xml:space="preserve">
-                .label { font-weight: bold; }
+                
                 </outputRendition>
             </model>
             <model behaviour="block">
@@ -98,25 +105,19 @@
         </model></elementSpec>
                 <elementSpec ident="encodingDesc" mode="change"><model behaviour="block">
             <param name="lvl" value="./@n"/>
-            <pb:template xmlns="" xml:space="preserve"><h3>Kódovanie</h3><div><span class="label">Úroveň:</span>[[lvl]]</div></pb:template>
+            <pb:template xmlns="" xml:space="preserve"><h3>Kódovanie</h3><div><span class="dspr-label">Úroveň:</span>[[lvl]]</div></pb:template>
             <outputRendition xml:space="preserve">
-            .label { font-weight: bold; margin-right: 5px; }
+            null
             </outputRendition>
         </model></elementSpec>
                 <elementSpec ident="profileDesc" mode="change"><model behaviour="block">
             <param name="gender" value="if (./textDesc/eltec:authorGender/@key=&#34;M&#34;) then &#34;muž&#34; else if (./textDesc/eltec:authorGender/@key=&#34;F&#34;) then &#34;žena&#34; else &#34;neznáme&#34;"/>
             <param name="size" value="if (./textDesc/eltec:size/@key=&#34;short&#34;) then &#34;krátke&#34; else if (./textDesc/eltec:authorGender/@key=&#34;medium&#34;) then &#34;stredne veľké&#34; else &#34;dlhé&#34;"/>
             <param name="canonicity" value="if (./textDesc/eltec:canonicity/@key=&#34;low&#34;) then &#34;nízka&#34; else if (./textDesc/eltec:authorGender/@key=&#34;high&#34;) then &#34;vysoká&#34; else &#34;neznáma&#34;"/>
-            <param name="timeSlot" value="if (./textDesc/eltec:timeSlot/@key=&#34;T1&#34;) then &#34;T1 (1840-1859)&#34; else if (./textDesc/eltec:timeSlot/@key=&#34;T2&#34;) then &#34;T2 (1840-1859)&#34; else if (./textDesc/eltec:timeSlot/@key=&#34;T3&#34;) then &#34;T3 (1880-1899)&#34; else &#34;T4 (1900- )&#34;"/>
-            <pb:template xmlns="" xml:space="preserve"><h3>Profil</h3><div>[[content]]</div><div><span class="label">Pohlavie autorstva: </span><span>[[gender]]</span></div><div><span class="label">Rozsah: </span><span>[[size]]</span></div><div><span class="label">Kanonicita: </span><span>[[canonicity]]</span></div><div><span class="label">Obdobie: </span><span>[[timeSlot]]</span></div></pb:template>
+            <param name="timeSlot" value="if (./textDesc/eltec:timeSlot/@key=&#34;T1&#34;) then &#34;T1 (1840 - 1859)&#34; else if (./textDesc/eltec:timeSlot/@key=&#34;T2&#34;) then &#34;T2 (1840 - 1859)&#34; else if (./textDesc/eltec:timeSlot/@key=&#34;T3&#34;) then &#34;T3 (1880 - 1899)&#34; else &#34;T4 (1900 - )&#34;"/>
+            <pb:template xmlns="" xml:space="preserve"><h3>Profil</h3><div>[[content]]</div><div><span class="dspr-label">Pohlavie autorstva:</span><span>[[gender]]</span></div><div><span class="dspr-label">Rozsah:</span><span>[[size]]</span></div><div><span class="dspr-label">Kanonicita:</span><span>[[canonicity]]</span></div><div><span class="dspr-label">Obdobie:</span><span>[[timeSlot]]</span></div></pb:template>
             <outputRendition xml:space="preserve">
-            
-            
-            .label {
-  font-weight: bold;
-}
-            
-            
+            null
             </outputRendition>
         </model></elementSpec>
                 <elementSpec ident="revisionDesc" mode="change"><model behaviour="block">
@@ -130,49 +131,31 @@
             <param name="pubplace" value="if (normalize-space(pubPlace/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(pubPlace)"/>
             <param name="publisher" value="if (normalize-space(publisher/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(publisher)"/>
             <param name="pubdate" value="if (normalize-space(date/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(date)"/>
-            <pb:template xmlns="" xml:space="preserve"><span class="label">Pôvodné vydanie:</span><span><span class="src-title">[[title]]</span>. [[pubplace]]: [[publisher]] <span class="pubdate">[[pubdate]]</span>.</span></pb:template>
+            <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Pôvodné vydanie:</span><span><span class="src-title">[[title]]</span>. [[pubplace]]: [[publisher]] <span class="pubdate">[[pubdate]]</span>.</span></pb:template>
             <outputRendition xml:space="preserve">
-            .label { font-weight: bold; margin-right: 5px; } .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
+            .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
             </outputRendition>
         </model><model predicate="@type=&#34;firstEdition&#34;" behaviour="block">
             <param name="title" value="if (normalize-space(title/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(title/text())"/>
             <param name="pubplace" value="if (normalize-space(pubPlace/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(pubPlace)"/>
             <param name="publisher" value="if (normalize-space(publisher/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(publisher)"/>
             <param name="pubdate" value="if (normalize-space(date/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(date)"/>
-            <pb:template xmlns="" xml:space="preserve"><span class="label">Prvé vydanie:</span><span><span class="src-title">[[title]]</span>. [[pubplace]]: [[publisher]] <span class="pubdate">[[pubdate]]</span>.[[condtest]]</span></pb:template>
+            <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Prvé vydanie:</span><span><span class="src-title">[[title]]</span>. [[pubplace]]: [[publisher]] <span class="pubdate">[[pubdate]]</span>.[[condtest]]</span></pb:template>
             <outputRendition xml:space="preserve">
-            .label { font-weight: bold; margin-right: 5px; } .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
+            .label { } .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
             </outputRendition>
         </model><model predicate="@type=&#34;digitalSource&#34;" behaviour="block">
             <param name="title" value="if (normalize-space(title/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(title/text())"/>
             <param name="target" value="ref/@target"/>
-            <pb:template xmlns="" xml:space="preserve"><span class="label">Iné elektronické vydanie:</span><a href="[[target]]">[[title]]</a></pb:template>
+            <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Iné elektronické vydanie:</span><a href="[[target]]">[[title]]</a></pb:template>
             <outputRendition xml:space="preserve">
-            .label { font-weight: bold; margin-right: 5px; } .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
-            </outputRendition>
-        </model><model predicate="@type=&#34;firstEdition&#34;" behaviour="block">
-            <param name="title" value="if (normalize-space(title/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(title/text())"/>
-            <param name="pubplace" value="if (normalize-space(pubPlace/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(pubPlace)"/>
-            <param name="publisher" value="if (normalize-space(publisher/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(publisher)"/>
-            <param name="pubdate" value="if (normalize-space(date/text())=&#34;&#34;) then &#34;_&#34; else normalize-space(date)"/>
-            <pb:template xmlns="" xml:space="preserve"><span class="label">Prvé vydanie:</span><span><span class="src-title">[[title]]</span>. [[pubplace]]: [[publisher]] <span class="pubdate">[[pubdate]]</span>.[[condtest]]</span></pb:template>
-            <outputRendition xml:space="preserve">
-            .label { font-weight: bold; margin-right: 5px; } .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
-            </outputRendition>
-        </model><model predicate="@type=&#34;printSource&#34;" behaviour="block">
-            <param name="title" value="normalize-space(title)"/>
-            <param name="pubplace" value="normalize-space(pubPlace)"/>
-            <param name="publisher" value="normalize-space(publisher)"/>
-            <param name="pubdate" value="normalize-space(date)"/>
-            <pb:template xmlns="" xml:space="preserve"><span class="label">Pôvodné vydanie:</span><span><span class="src-title">[[title]]</span>. [[pubplace]]: [[publisher]] <span class="pubdate">[[pubdate]]</span>.</span></pb:template>
-            <outputRendition xml:space="preserve">
-            .label { font-weight: bold; margin-right: 5px; } .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
+            .src-title { font-style: italic; } .pubdate { margin-left: 5px; }
             </outputRendition>
         </model></elementSpec>
                 <elementSpec ident="langUsage" mode="add"><model behaviour="block">
-            <pb:template xmlns="" xml:space="preserve"><span class="label">Použité jazyky:</span><span>[[content]]</span></pb:template>
+            <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Použité jazyky:</span><span>[[content]]</span></pb:template>
             <outputRendition xml:space="preserve">
-            .label { font-weight: bold; }
+            
             </outputRendition>
         </model></elementSpec>
                 <elementSpec ident="language" mode="add"><model behaviour="link">
@@ -203,6 +186,86 @@
             <outputRendition xml:space="preserve">
             text-align: center;
             </outputRendition>
-        </model><model predicate="parent::body or parent::front or parent::back" behaviour="section"/><model behaviour="block"/></elementSpec></schemaSpec>
+        </model><model predicate="parent::body or parent::front or parent::back" behaviour="section"/><model behaviour="block"/></elementSpec><elementSpec ident="author" mode="change"><model predicate="ancestor::teiHeader" behaviour="block">
+            <param name="author-ref" value="substring-after(@ref,&#34;viaf:&#34;)"/>
+            <param name="query" value="concat(&#34;index.html?query=&amp;#38;facet-authorRef=viaf%3A&#34;, substring-after(@ref,&#34;viaf:&#34;), &#34;&#34;)"/>
+            <param name="nQuery" value="concat(&#34;index.html?query=&amp;#38;facet-author=&#34;, ./text(), &#34;test&#34;)"/>
+            <pb:template xmlns="" xml:space="preserve"><span class="dspr-label">Autor:</span><a class="author-link" href="[[query]]">[[content]]</a><span>[</span><a href="https://viaf.org/viaf/[[author-ref]]" target="_blank">VIAF</a><span>]</span></pb:template>
+            <outputRendition xml:space="preserve">
+            .author-link { margin-right: 5px; }
+            </outputRendition>
+        </model><model behaviour="inline"/></elementSpec><elementSpec ident="title" mode="change"><model predicate="$parameters?header='short'" behaviour="heading">
+            <param name="level" value="5"/>
+        </model><modelSequence predicate="parent::titleStmt/parent::fileDesc">
+            <model predicate="preceding-sibling::title" behaviour="text">
+                <param name="content" value="' — '"/>
+            </model>
+            <model behaviour="inline"/>
+        </modelSequence><model predicate="not(@level) and parent::bibl" behaviour="inline"/><modelSequence predicate="@level='m' or not(@level)">
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                font-style: italic;
+                </outputRendition>
+            </model>
+            <model predicate="ancestor::biblFull" behaviour="text">
+                <param name="content" value="', '"/>
+            </model>
+        </modelSequence><modelSequence predicate="@level='s' or @level='j'">
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                font-style: italic;
+                </outputRendition>
+            </model>
+            <model predicate="following-sibling::* and     (  ancestor::biblFull)" behaviour="text">
+                <param name="content" value="', '"/>
+            </model>
+        </modelSequence><modelSequence predicate="@level='u' or @level='a'">
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                font-style: italic;
+                </outputRendition>
+            </model>
+            <model predicate="following-sibling::* and     (    ancestor::biblFull)" behaviour="text">
+                <param name="content" value="'. '"/>
+            </model>
+        </modelSequence><model behaviour="inline">
+            <outputRendition xml:space="preserve">
+            font-style: italic;
+            </outputRendition>
+        </model></elementSpec><elementSpec ident="head" mode="change"><model predicate="parent::div/@type = &#34;titlepage&#34;" behaviour="heading" cssClass="dspr-titlepg-head">
+            <param name="level" value="count(ancestor::div)"/>
+            <outputRendition xml:space="preserve">
+            
+            </outputRendition>
+        </model><model predicate="$parameters?header='short'" behaviour="inline">
+            <param name="content" value="replace(string-join(.//text()[not(parent::ref)]), '^(.*?)[^\w]*$', '$1')"/>
+        </model><model predicate="parent::figure" behaviour="block">
+            <outputRendition xml:space="preserve">
+            font-style: italic;
+            </outputRendition>
+        </model><model predicate="parent::table" behaviour="block">
+            <outputRendition xml:space="preserve">
+            font-style: italic;
+            </outputRendition>
+        </model><model predicate="parent::lg" behaviour="block">
+            <outputRendition xml:space="preserve">
+            font-style: italic;
+            </outputRendition>
+        </model><model predicate="parent::list" behaviour="block">
+            <outputRendition xml:space="preserve">
+            font-weight: bold;
+            </outputRendition>
+        </model><model predicate="parent::div" behaviour="heading">
+            <param name="level" value="count(ancestor::div)"/>
+        </model><model behaviour="block"/></elementSpec><elementSpec ident="body" mode="change"><modelSequence>
+            <model behaviour="index">
+                <param name="type" value="'toc'"/>
+            </model>
+            <model behaviour="block"/>
+        </modelSequence></elementSpec><elementSpec ident="p" mode="change"><model output="print" predicate="ancestor::note" behaviour="inline"/><model behaviour="paragraph" useSourceRendition="true">
+            <outputRendition xml:space="preserve">
+            text-align: justify;
+            </outputRendition>
+        </model></elementSpec></schemaSpec>
         </body>
-    </text></TEI>
+    </text></tei:TEI>
