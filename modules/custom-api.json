@@ -39,6 +39,123 @@
         }
     ],
     "paths": {
+    	"/budovanie_zbierok_1.pdf": {
+    		"get": {
+    			"summary": "Page for redirecting to the first textbook.",
+    			"operationId": "vapi:html",
+    			"parameters": [
+		            {
+		                "name": "file",
+		                "in": "query",
+		                "schema": {
+		                    "type": "string",
+		                    "default": "textbook1"
+		                }
+		            }
+		        ],
+    			"responses": {
+					"200": {
+						"description": "HTML page with JS redirect.",
+						"content": {
+							"text/html": {
+								"schema": {
+									"type": "string"
+								}
+							}
+						}
+					},
+					"404": {
+						"description": "Document was not found",
+						"content": {
+							"text/plain": {
+								"schema": {
+									"type": "string"
+								}
+							}
+						}
+						
+					}
+    			}
+    		}
+        },
+        "/budovanie_zbierok_2.pdf": {
+    		"get": {
+    			"summary": "Page for redirecting to the first textbook.",
+    			"operationId": "vapi:html",
+    			"parameters": [
+		            {
+		                "name": "file",
+		                "in": "query",
+		                "schema": {
+		                    "type": "string",
+		                    "default": "textbook2"
+		                }
+		            }
+		        ],
+    			"responses": {
+					"200": {
+						"description": "HTML page with JS redirect.",
+						"content": {
+							"text/html": {
+								"schema": {
+									"type": "string"
+								}
+							}
+						}
+					},
+					"404": {
+						"description": "Document was not found",
+						"content": {
+							"text/plain": {
+								"schema": {
+									"type": "string"
+								}
+							}
+						}
+						
+					}
+    			}
+    		}
+        },
+    	"/biblio.xlsx": {
+    		"get": {
+    			"summary": "Page for redirecting to biblio file.",
+    			"operationId": "vapi:html",
+    			"parameters": [
+		            {
+		                "name": "file",
+		                "in": "query",
+		                "schema": {
+		                    "type": "string",
+		                    "default": "biblio"
+		                }
+		            }
+		        ],
+    			"responses": {
+					"200": {
+						"description": "HTML page with JS redirect.",
+						"content": {
+							"text/html": {
+								"schema": {
+									"type": "string"
+								}
+							}
+						}
+					},
+					"404": {
+						"description": "Document was not found",
+						"content": {
+							"text/plain": {
+								"schema": {
+									"type": "string"
+								}
+							}
+						}
+						
+					}
+    			}
+    		}
+        },
         "/encyclopedia": {
             "get": {
                 "summary": "Encyclopedia root page",
