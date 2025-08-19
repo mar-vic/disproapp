@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1993860" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Film : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:74646722">
+     Barč-Ivan, Július (1909 - 1953)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1814
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Barč-Ivan, Július
+     </tei:author>
+     <tei:title>
+      Film
+     </tei:title>
+     <tei:pubPlace>
+      NA
+     </tei:pubPlace>
+     <tei:publisher>
+      NA
+     </tei:publisher>
+     <tei:date>
+      1993
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     FILM
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Konečne umíkly svetlá. Na striebornom plátne zjavil sa názov kusu:   TOVÁRŇA. Ľudia sa vrteli na stoličkách. Kino bolo len zpolovice plné.   Trochu údivu sedelo v očiach každého pri nasledujúcom nápise:   Produkcia: ŽIVOT. Viacej nič. Ani obvyklé uvedenie mien hercov a   režiséra. Nič. Rozmýšľať nebolo kedy. Film už bežal. Obraz 1.   Panoráma. Panoráma údolia a hôr. Podvečer. Hory na západe sú ani   obrovské oltáre nejakého pohanského boha, z ktorých siahajú k výšinám   plamene, zapálené slncom už agonizujúcim. V údolí fabrika. Obrovské   komíny dvíhajú sa do nebies, pece hučia, vagóny lanovej dráhy bzučia   ako vôelky, lokomotíva prská, každý atóm tohoto nesmierneho celku ako   by pracoval, bil sa a ruval tempom, ohromným tempom ničím sa vyrušiť   nenechajúcim, víťazne napredujúcim, bezohľadne, kruté, božsky… Ako   výsmech umierajúceho slnca, ako blesk udrie naraz do tmy svetlo,   ožiarujúce celé okolie-
+   </tei:p>
+   <tei:p>
+    ﻿90 Slnce zo zeme vychádzajúce. To železo lejú. Motív zo symfónie   práce. Obraz 2. Slnce sa smeje. Ohromná budova Budova sa zväčšuje, už   je mimo dosah ľudských očí, blíži sa nesmiernou rýchlosťou, už z nej   videť len bránu, obrovskú bránu, už len nápis nápis, ktorý,   tyranizujúc plátno, bije do divákov; DNES SA POTRAVINY VYDÁVAŤ   NEBUDÚ. Nápis sa vzdialuje, zjaví sa opäť brána, pred ňou človek,   hneď dvaja, traja, piati… nesmierne množstvo začiernených,   zašpinených postáv. Obraz 3. Zúfalosť otriasa celý zástup. Bezmocné   výkriky sa ozývajú, najprv tlumené, potom vybuchujúce elementárnou   silou, ako bomby, mlátiace do presýtenej atmosféry. NEMÁME CO JESŤ!   NAŠE DETI HLADUJÚ! BANDA, ZLODEJI!… ŽRAŤ NÁM DAJTE. ŽRAŤ, ŽRAAAÍ…!   Ženy výskajú, huckajú, povzbudzujú mužov, nevedia k čomu, k niečomu   hroznému, strašnému. ONI TOHO NAKRADLI DOSŤ, ALE NÁM NEDAJÚ! NA NICH,   NA NICH! Obraz 4. Muž skočí pred bránu. Chrbtom zakrýva nápis, blíži   sa už je obrovský, ústa jeho zaplňujú celé plátno, ústa so špinavými   zubmi, ústa nenávisťou skrivené, ústa revajúce: ROBOTNÍCI, POĎME SA   PODÍVAŤ DO ZÁSOBÁRNE ! Nesmierna hlava zástupu bleskovite sa vzpruží.   A echo sa valí davom, ako vlna, vlna
+   </tei:p>
+   <tei:p>
+    ﻿91 hotová rozdrúzgať všetko, čo sa jej do cesty postaví. POĎME,   POĎME! Obraz 5. Menšia budova. Zásobáreň. Pred bránou stojí strážca.   Hudba zúfalých nôh sa už ozýva. Zjaví sa prvý robotník, druhý tretí,   piaty…, nesmierne množstvo zašpinených, začiernených postáv. Strážca   skočí dnu a zavrie bránu. Mozoľnaté päste padajú na bránu. Na železo   nimi kované, formované, uliate, na dieťa svoje, ktoré sa vzpiera vôli   rodičovskej. Márne, márne! A hlas, reprodukujúc vôľu OSUDU, reve: K   RIADITEĽOVI! Obraz 6. Vnútro zásobárne. Ruka dvíhajúca sluchátko,   ústa hovoriace do telefónu. Halo, četnícka stanica! Halo, pán   kapitán, pošlite k riaditeľskej budove všetkých vašich mužov. Ale nič   tak zvláštneho. Menšia revolúcia… Obraz 7. Ruky, dvíhajúce kamene,   palice, kyjaky, rozbité železné konštrukcie, všetko, všetko, čo sa im   do cesty postaví a nohy, nohy neúprosne, kruté napredujúce. Obraz 8.   Riaditeľský palác obklopený zástupom. Rev stupňovaný zdvihnutými   rukaim v ktorých sa chvejú kamene, kyjaky, kusy želiez CHLEBA NÁM   DAJTE! JESŤ! JEST! Svaly do maxima vzpružené chystajú útok na bránu.   Brána sa roztvorí. Vyhrnie sa 20 četníkov s namierenými puškami. Dav   ustupuje, váha, reve. Vztek lúdi slzy
+   </tei:p>
+   <tei:p>
+    ﻿92 z očí, slová, výkriky chrlia krv. Robotníčky výskajú, dráždia,   povzbudzujú. Blížia sa k četníkom. Zdá sa, že čas zrodenia sa SMRTI   je blízky. Obraz 9. Riaditeľská kancelária, Ruka držiaca sluchátko,   ústa hovoriace do telefónu. Halo, rýchle, slúžňovský úrad. Čím   najrýchlejšie prosím. Halo, Karol drahý, príď prosím ťa, okamžite.   Robotníctvo sa vzbúrilo. Ty máš moc nad nimi. Teba si vážia. Poď,   riaditeľ a ostatní ušli; je to niečo veľmi vážneho! Obraz 10. Zaplače   siréna. Zprvupomaly, ticho, kvíliac, potom už silnejšie, čím ďalej,   tým viacej výska, hučí, reve, REVE. V žilách stydne i vrie krv.   Siréna hučí ďalej, už energicky, povzbudzujúc. V očiach smeje sa   strach a plače smäd po krvi. Obraz 11. Blízka dedina. Zdiaľky počuť   sirénu. Slabo, ale predsa hrozne. Učupené domčeky apaticky sa dívajú   na svet. Vo vrátach, pri dverách, pred bránami stoja ľudia, hlúpe,   blbe, ľudsky očakávajúc niečo, niečo Čo je mimo dosah monotónnych   fantázií. Ulicou preletí kočiar slúžneho. Len obrovský chumáč prachu   ostáva po ňom. Pomaly sa usadzuje. Siréna už reve, REVE, neúprosne   bičuje nervy do zbláznenia — PRESTÁVKA. Čokoláda Orión. Bufet.   Cukríky, škrieka chlapček. Ľudia pomaly prichádzajú k sebe. Niektorí   idú von, iní ostávajú. V piatom
+   </tei:p>
+   <tei:p>
+    ﻿93 rade sedí blondínka. Pri nej partner. Nervózne stíska vo vrecku   svárené už mentolky, uvažujúc o tom, či ju má ponúknuť, alebo nie.   Vidíš, drgne do svojho muža tučná údenárka v lóži-Hovorila som ti,   poďme inde. Ale ty nie, nie. Ani mená hercov neuviedli, prosím!   Predavačka u Baťu melancholicky vzdychá. Keby v tom hrala aspoň   GretaGarbo, alebo Ramon Novarro, tak ešte. Zprávodajca soc.-dem.   novín, vyťahujúc z vrecka dokaliôenú egyptku, mieri do foyeru.   Súčasne medituje, zapaľujúc cigaretu. Nejaký avantgardistický film.   Rozhodne. Možno Soviet. Sovkino Moskva. Hej! Ale, že cenzúra… Z toho   kuká úvodník. Boľševická propaganda. Odpľuje. Somárstvo, hovorí   spisovateľ a blazeovane kriviac rty, myslí na bravčovinu s knedlíkom   a kapustou, čiže na dnešnú svoju večeru. Robotník v druhom rade zasa   na najbližší „Rudy deň“ a rozhodne sa, že ponesie standartu s nápisom   „Žrať nám dajte, žrať…“ A už cengajú. Ľudia zaujali svoje miesta-Už   ich musí zaujímať najbližší program. A potom zmĺkne všetko, vrtenie   na stoličkách sa obmedzuje, lebo film už zasa beží ďalej… Obraz 12.   Pri bráne riaditeľského paláca. Četníci stoja, ako predtým. Jeden z   nich buchne do pŕs robotníčku príliš vyzývavé sa chovajúcu. Tá mu   napľuje do tvári. A už letí od chrbta kameň čousi rukou hodený,   zasahujúci četníka. Nastane tichosť. Ako keby ruka OSUDU, toho   veľkého originálneho komponistu, bola do svojej
+   </tei:p>
+   <tei:p>
+    ﻿94 najnovšej skladby vpísala Generálnu pauzu. A v tej hlúpej,   blbej tichosti, tak smiešne, tak nijako zvučí dvojslabičné slovo, z   úst veliteľa vychádzajúce: PÁĽTE! Obraz 13, Videí padajúcu ženu,   zasiahnutú do hlavy. Vytryskne krv, krv… A vôňa krvi je taká   pikantná, tak dráždi. Dav sa pohne. Ako keby od chrbta mlátil niekto   doň ohromným bičom. čo je dvadsiatka trasúcich sa ludí proti davu,   davu rozbesnenému, rozzúrenému, urazenému?! četníci ustupujú, ale   nemajú už kedy. Obraz sa ohromnou rýchlo stou blíži, videí len nohy,   nohy klesajúce a nohy, nohy prichystané na šliapnutie, nohy, do   ktorých vstúpila SMRŤ, velká kráľovná, nohy bezohľadne, kruté   napredujúce. Obraz 14. Brána riaditeľského paláca. Mozoľnaté päste   naplnené pomstou, padajú na ňu. To už nie je železo, to je obyčajné,   sprosté drevo, to neodolá a predné voje valia sa rozbitou bránou do   budovy, ako vlna obrovskej sily* hotová rozdrúzgaí, rozbií všetko, čo   sa jej do cesty postaví. Obraz 15. Pred budovou sa zastaví kočiar   slúžneho. Tento hbite, bez strachu vyskočí. Kone však skáču, plašia   sa. Slúžny sa zastaví. A niekto sa ohromne smeje, ba rehce sa   vííazne, neúprosne, kruté… Ohachacha!… Dve muchy jedným úderom… Obraz   16. Riaditeľská kancelária. Inžinier
+   </tei:p>
+   <tei:p>
+    ﻿95 y ruke s revolverom, čaká, dívajúc sa na dvere. Tie márne   odporujú. Už sú rozmlátené. Vrazí prvý robotník, druhý, tretí, piaty…   nesmierne množstvo začiernených, zašpinených postáv. Inženierova ruka   klesá. Tá s revolverom..* Obraz 17. Ruka, ohromná, mozoľnatá ruka,   držiaca revolver obrátený k obecenstvu. Výstrel. Trochu dymu. Obraz   18. Povalený stôl. Pri ňom človek, ležiaci na zemi. Leží spokojne,   neuvažujúc vôbec o tom, že lepšie by bolo ležať na diváni. Je ani   spiaci. Len keby tú malú červenú dierku nemal na čele, z ktorej tečie   krv, krv… Obraz 19. Pred bránou riaditeľskej budovy. Slúžny hovorí   zbytku, ohromnému zbytku davu. ONI ZATO NEMÔŽU. MÚKA NEDOŠLA! NEMOHLI   VÁM DAŤ! ALE POTOM, ROBOT-NÍCI, PRIATELIA, VŠETKO DOSTANETEr ČO LEN   BUDETE CHCEŤ, JA VÁM TO SĽUBUJEM, LEN… Ako keby niekdo ďaleko bol   odznel výstrel. Slúžny sa trasie. Niekto zareve, POZDE! POZDE NAŇHO,   TEN JE TIEŽ BURŽUJ!… Obraz 20. Slúžny beží, zúfale beží. Za ním sa   valí dav tempom pri práci osvojeným, ničím rušiť sa nenechajúcim,   víťazne napredujúcim, bezohľadne, kruté… Slúžny beží a zdá sa, že   Strach pred smrťou má rýchlejšie nohy, než Pomsta, dychtiaca po   ukojení. Už sa blíži súsedná budova, už je ohromná, mimo dosah,   už
+   </tei:p>
+   <tei:p>
+    ﻿96 vidieť len bránu, bránu, ktorou trasúce sa telo muža hodí sa do   budovy. Obraz 21. Oetnícka stanica. Kancelária. Ruka držiaca   sluchátko, ústa hovoriace do telefónu. Haló! Mesto, vojenské   veliteľstvo! Rýchle! Haló, tu četnícka stanica fabriky. Vyšlite sem   celý pluk. Revolúcia vo fabrike. Jedného merníka zabili. Čím   najrýchlejšie… Obraz 22. Pohľad shora. Dolu skočí slúžny na schody a   uteká hore. Za ním dav. Slúžny je už na poschodí, už sa chytá dverí,   v tom ho odtrhne ruka, obrovská, mozoľnatá ruka. A už je tu druhý   robotník, tretí, štvrtý, piaty a už sú palice, kusy želiez v práci a   tempom víťazným a bezohľadne napredujúcim. Obraz 23. Slúžny leží na   zemi. Hmota. Robotník ho chytá za nohu. Druhý za druhú. Deľba práce.   A ťahajú ho dolu schodmi. S prvého poschodia na prízemie je krátka   cesta. Ohromné veselie, radosť, výkriky: VIDÍŠ, TAK S NIMI TREBA! A   smiech, smiech, všetko rozbíjajúci smiech. Nuž, áno veď tá hlava, tá   hlava, nedávno ešte pekne učesaná, tak hlúpe, blbe, smiešne skáče   dolu schodmi. Obraz 24. Pred bránou budovy. Práve vyťahujú slúžneho   dvaja robotníci Dav jasá, reve. ôo s ním? NA ŠÍNY! zareve niekto.   Obraz 25. Šíny fabrické. Okolie. Zjavia sa dvaja robotníci so   slúžnym. Položia ho na šíny. Pekne, jemne, aby sa mu nič nestalo.   Priviažu ho.
+   </tei:p>
+   <tei:p>
+    ﻿97 Obraz 26. Slúžny zblízka. Má rozbitú hlavu Nemôže zato. To tie   schody. Ústa trocha otvorené. Prsia sa dvíhajú a klesajú ešte. Ešte.   Ešte žije. Obraz 27. Dav okolo slúžneho. Niekto prinesie ohromný   kameň. Položia ho na slúžneho. Nuž áno, načo dýcha ? Z úst sa mu   blyští zlatý zub, hrajúc si so slncom. Niekto doň kopne. Zub vyletí.   Chytí ho a uteká preč. Výkriky, túžiace po poslednej atrakcii, sa   ozývajú a búšia elementárnou silou do rozbesnených smyslov. PUSŤTE   LOKOMOTÍVU! Obraz 28. Lokomotíva od chrbta. Pomaly sa rozkuráži.   Ohromný pohľad na šíny, bežiace hadovité, niekam do diaľky,   stretávajúce sa pravdepodobne len v nekonečne. Okrem toho videť ešte   bod niekde v diali, kde sa už šíny pre ľudské oči schádzajú. A   neďaleko toho istého miesta videí i mnoho iných bodov, ináč   položených, tak maličkých, že by to mohli byí ľudia. Tam bude   pravdepodobne najbližšia stanica lokomotívy. A lokomotíva už beží,   letí, tempom, ohromným tempom, ničím sa vyrušiť nenechajúcim víťazne,   kruté napredujúcim. Hahá… POSLUŠNE HLÁSIM, PÁN PREDNOSTA, MIMORIADNY   VLAK UŽ DOŠIEL…! Obraz 29. Pred riaditeľským palácom. Extázia je   preč. Rodia sa znova ľudia, ktorí nevedia, čo majú robiť. Mnohí idú   domov. Ozývajú sa výkriky: DO ZÁSOBÁRNE! Dav váha, dav sa trasie, dav   sa bojí. A to je niečo strašného, keď tolko Iudí schopných k vraždám   sa bojí. Nevedia, Čo majú robiť, nevedia, čo majú robiť, nevedia, čo   by mohli ešte robiť… Obraz 30. Hradská. Smelo, hadovité bežiaca. A po   nej sa valí nesmierne množstvo vojakov s bodákmi (s ktorými sa hrá   slnko) a príslušnou zásobou streliva. A valia sa víťazne, kruté,   bezohľadne, božsky, ako vlna, obrovská vlna, hotová rozdrúzgať   všetko, čo sa jej do cesty postaví, hotová k pomste, ktorej hymnou je   tiež večné, nikdy asi, Bože, zo života ľudského nevyhynúce, OKO ZA   OKO, ZUB ZA ZUB, ŽIVOT ZA ŽIVOT… KONIEC. A obecenstvo sa potom   roztrúsilo. Niektorí išli domov, iní zapadli do reštaurácii, do   kaviarní. V nasledujúcich dňoch vzali film s programu. Dodatočne ho   zakázali, hoci nebol ani produkciou sovietskou, ale domácou.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

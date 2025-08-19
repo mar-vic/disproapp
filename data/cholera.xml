@@ -1,0 +1,2504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1954427" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Cholera : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:730914947">
+     Čajak, Ján (1863 - 1944)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     18895
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Čajak, Ján
+     </tei:author>
+     <tei:title>
+      Cholera
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Hlas ľudu
+     </tei:publisher>
+     <tei:date>
+      1954
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     C H OL E R A
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿I.
+    </tei:head>
+    <tei:p>
+     Azda niet takého človeka na svete, ktorý by sa nebol v živote   svojom aspoň raz zháčil. Sprotiví sa nám životný poriadok, sme   nespokojní s osudom. Postavíme sa proti nemu, a keď vidíme, že naše   sprotivenie je daromné, poddáme sa zas jarmu života aíťaháme ho   spokojne ďalej.
+    </tei:p>
+    <tei:p>
+     Tak sa i s báťom Martinom Maliarom. Báťa Martin nebol obdarený   nadmieru darmi tuzemskými. Okrem ženy a syna, ktorý práve teraz je v   Amerike, nevesty a poldruharočného vnúčaťa nemal inšie, len domček,   sedem krížikov na chrbte a, čo je najhlavnejšie, zdravie, a k tomu   všetkému ešte ako dovažok — neúrečný pípeť. Verne narábal od mladosti   či s motykou, či kosou, či so sekerou, pozdejšie sa častejšie   pridalo, že i so sklienkou.
+    </tei:p>
+    <tei:p>
+     Takto mu tiekol život s roka na rok. On bez reptania, kropil si   potom skyvu chleby í s čeľaďou svojou,, a keď i nemal pozemkov, ale   zato nikdy netrei biedu.
+    </tei:p>
+    <tei:p>
+     Stalo sa to práve roku pána 1913, keď bola vojna na Balkáne, že   vypukla cholera a brala si hojné obete hlavne v Srbsku a v Rumunsku.   Zabehla kedy-tedy i do našej krajiny a najmä v južných krajoch vše   tu, vše tam sa zjavila, aby svet postrašila a aby novinárom obľahčila   ich ťažké položenie. Za to jej boli veľmi povďační, lebo veru o   každom, už či skutočnom a či len vymyslenom, páde napísali siahodlhé   články, a to také,1 že človeku až koža od strachu naskakovala a hneď   pocítil, že sú mu zažívacie ústroje nie v úplnom poriadku. Bolo to   práve koncom augusta, keď je kánikula najpálčivejšia a keď ľudia   zelené uhorky, geregy a dyne najviac jedávajú, že i do háťovho   Martinovho rodiska zavítala. Aspoň to tak doktor ustálil, ba i
+    </tei:p>
+    <tei:p>
+     3
+    </tei:p>
+    <tei:p>
+     ﻿v Pešti potvrdili jeho mienku, že je obec cholerou nakazená. Hneď   žatým sa utvoril zdravotný výbor, zápisnica — čo je najhlavnejšie pri   každom výbore — bola sostavená i náležíte podpísaná. Stoličný lekár i   vrchnosti porobili však náležité poriadky.
+    </tei:p>
+    <tei:p>
+     Aby obrana proti cholere bola úplná, bol poslaný z Pešti mladý   doktor, Žid. Povinnosťou jeho bolo pečlive dozerať na nepovolaného a   /nemilého hosťa.
+    </tei:p>
+    <tei:p>
+     Ale prejdime po tomto potrebnom, krátkom úvode na velavýznamný dej   našej rozprávky.
+    </tei:p>
+    <tei:p>
+     Báťovi Martinovi sa od istého času nechcelo ísť robiť do póla.   Vždy mal nejakú výhovorku, ktorá však obyčajne pred ženou neobstála,   lebo mu tolko nahovorila do duše, že obyčajne potom, aby ženino   hundranie nemusel počúvať, prehodil si kapselu na plece, vzal motyku   alebo kosu a šiel za robotou. Robieval on takto so dňa na deň celé   týždne, ale len s nechuťou, lebo, keď išiel do roboty cez dedinu,   videl, ako si starší páni gazdovia vykračujú do kostola na raňajšie   modlitby, prešiel i popri niektorých chudobnejších svojich   vrstovníkoch, ktorí sedeli na podstienke a tam si oddychovali,   nevládni už do roboty.
+    </tei:p>
+    <tei:p>
+     — Ako je týmto dobre, — pomyslel si v takýto čas báťa Martin, — sú   už penziáši, kdežto ja si musím teraz svoj starý chrbát ustavične   zohýnať, tak, že si drieka večer ani necítim. — Eh, nie je dobre —   len sa deriem, deriem ... A tu ... ,
+    </tei:p>
+    <tei:p>
+     — Kdeže ideš, brat Martin?
+    </tei:p>
+    <tei:p>
+     Prebudený ztrudných myšlienok, pozrel v tú stranu, zkadial počul   hlas, i zazrel Tomáša Sekana, dávneho súdruha z čias mládeneckých.   (
+    </tei:p>
+    <tei:p>
+     — Nuž kdeže idem? — zahundral nevrle. — Idem do roboty. – —
+    </tei:p>
+    <tei:p>
+     — Akýsi nie si ako načim. Chybí ti niečo?
+    </tei:p>
+    <tei:p>
+     — Co by mi nie! Iní v mojom veku si už doma sedia a len čo okolo   domu niečo prplú, alebo najviac ak v humne, ale ja na svoje staré   kolená musím sa vláčiť do poľa. No, či je to
+    </tei:p>
+    <tei:p>
+     4
+    </tei:p>
+    <tei:p>
+     ﻿v poriadku? Ešte keby som bol niečo premárnil v krčme, alebo na   kartách... Keď si človek niekedy i vypije, predsa len neminie toľko,   čo by poškodilo. I teraz máme na pôjde dve vrecia múky, i gsľatu   masti, i poli slaniny. Máme v krmníku už i tri prasce. Vravím mojej   starej, že by sme už nemuseli tak mozoliť, máme na čom žiť. Ale ona   hneď začne kázeň čítať: Čo si vraj len myslím, jestli vraj   nedorobíme, tak sa to ľahko zje ... A potom ivieš, ako žena, začne   nadávať do starých korheľov, daromníkov: tak či chceš, či nechceš,   vykúri ťa do roboty... A ty, kde si bol ?
+    </tei:p>
+    <tei:p>
+     — Bol som si po pálené. Bolo sa už minulo a predsa dobre] padne za   rána na lačnô. Zanesiem ho domov, i žena si chlipne..; čože, môžeme   sa my potrhať, nič s tým nezískame. Ja, vieš-J som už nie súci do   roboty. Hneď sa zadychčím. Dosť som sa narobil od mladi na panskom i   po gazdoch. Teraz nepoviem, keď ma niekto zavolá do ľahšej roboty, že   nejdem, ale so dňa na deň, od rána do večera sa unúvať, to už nejde.   Ešte teraz si so starou niečo dorobíme, krmníkv si vychováme, tak len   hádam vyžijeme. A keď už nebudeme vládať, tak nás potom majú za čo   opatriť: máme chyžu a i pár korún sa nájde.
+    </tei:p>
+    <tei:p>
+     — Veď ja som si tiež tak myslel, ale moja stará? Ona len do   roboty, isn do roboty... Ale tajdem, slnce je už vysoko. S Bohom!
+    </tei:p>
+    <tei:p>
+     Toho dňa mu nijakým činom nešla od ruky robota. Vždy mu bola na   ume tá veliká krivda: on musí robiť ešte ako 7Q ročný starec, kdežto   iní v jeho veku si už hovejú a voľkajú. Keď prišiel na súmraku z   roboty domov, shodil tanistru a motyku s pleca, a to s takým hurtom,   že stará hneď zbadala, že mužovi
+    </tei:p>
+    <tei:p>
+     sadlo niečo na nos. Nepovedala ani slova, ale sa pretvarovala, ako   by nič nebola zbadala. Sadol si na lavicu, utrel si tvár ručníkom! a   niečo zašomral. Stará, akoby nič, vyšla von. Mlčanlivosť ženina
+    </tei:p>
+    <tei:p>
+     ho ešte väčšmi dráždila.
+    </tei:p>
+    <tei:p>
+     Ona si sedí celý deň; v chládku, alebo pred dvercami na   ulici,.
+    </tei:p>
+    <tei:p>
+     5
+    </tei:p>
+    <tei:p>
+     ﻿založí si ruky na brucho a tak klebetí so ženami, kdežto on sa   musí na úpeku potiť. To je predsa nie v poriadku. Takéto my-! šlienky   ho nepokojily.
+    </tei:p>
+    <tei:p>
+     Na nešťastie ešte i nevestino dieťa začalo revať, ako by ho niekto   dral.
+    </tei:p>
+    <tei:p>
+     — Človek ani len v ten večer nemá pokojnej chvíle, — zavrčal   pomedzi zuby. Nevesta vošla ‘do izby a vyberala niečo zo skrine a   pritom nedbala velmi na rev decka. — Čo si nejdeš k nemu, veď vreští,   ako by ho párali!
+    </tei:p>
+    <tei:p>
+     — Nechže vreští, má času, — odvetila nevrle. — Len teraz som mu   prevliekla košeľu, a už si ju celú zaplačkalo. Pripli-) ehtilo sa k   válovčeku pre sliepky, tam sa tak doriadilo.
+    </tei:p>
+    <tei:p>
+     — Veď si vy neviete dozrieť ani len na dieťa. Človek, keď sa celý   deň umolestuje, ani len večer nemá pokoja.
+    </tei:p>
+    <tei:p>
+     — A čo? Či som sa ja hádam len tak povaľovala? Či som! od svitu   netrhala konope? Dlane ma bolia od nich, a teraz mám ešte šatočky   dieťaťu opierať. Veď ja tiež nemám sto očí, ani sto rúk.
+    </tei:p>
+    <tei:p>
+     Vyšla von, buchnúc dvermi.
+    </tei:p>
+    <tei:p>
+     — Či ju vidíš, aká nasršená! Ale tá stará kde sa len tára? Nie že   by už dala večeru. Ozaj. čo len nakľochnila... Stará, čo už nedáš   večeru? Hádam réteš vyťahuješ a či kurča obáraš?
+    </tei:p>
+    <tei:p>
+     — Len ,by si netára], — odvrkla stará a niesla misu zemia-í kovej   polievky.
+    </tei:p>
+    <tei:p>
+     — Na, tu máš, keď si už taký lačný, najedz sa. ,
+    </tei:p>
+    <tei:p>
+     Starý pri ivide polievky zmrštil tvár a povedal: — Prečo si   neuvarila bôbu? Vždy ma len takými pomyjami chováš.
+    </tei:p>
+    <tei:p>
+     — Veď ho hádam nebudem každý deň variť. Predvčerom sme ho mali, a   dnes zas? A keď chceš mať réteše a praženô mäso, tak si sa mohol   pousilovať, že by sme mohli. Ale ten gágor...
+    </tei:p>
+    <tei:p>
+     6
+    </tei:p>
+    <tei:p>
+     ﻿— Co gágor? Aký gágor? Ci som fertáf prepil i či čo? Ci nemáme   všetko, čo sme; i mali?
+    </tei:p>
+    <tei:p>
+     — Ale si ani nedorobil...
+    </tei:p>
+    <tei:p>
+     — Juj, toto je už do porazenia s týmto starým ohreblom. Vieš čo, —   a vstal hore — keď som ti nedorobil, tak od týchto čias ti tiež nič   nedorobím. Dosť som sa už natrmácal. A keď
+    </tei:p>
+    <tei:p>
+     sa ti nepáči moja robota, dobre, od zajtra sa ani nehnem. A ty v   si urob, ako vieš. Ona mi tu bude dohovárať, a ona len co na
+    </tei:p>
+    <tei:p>
+     malo dozre a prasce nachová. Potom už má času vystávať pred domom   so založenými rukami na bruchu a omáíať kdekoho. Pravdaže, potom ani   večere nevie navariť, akej načim. A ešte sa ona postaví a kázeň mi   číta!
+    </tei:p>
+    <tei:p>
+     Posledné slová sa veľmi bôlne dotkly starej.
+    </tei:p>
+    <tei:p>
+     — Nuž, ale či tak? To som si ja zaslúžila pri tebe? Tak) ja   nerobím nič, ja len postávam? A ktože ti varí, opiera a ťal obšíva?   Ktože ti dozre na všetko? A ktože riadi a okáli, ak nie ja? Veď keby   ja nie, tak by si v horšom býval, ako prasa. No, veď som si ja   zaslúžila pri tebe! Ej, veď som ho len i na moje staré kolená! Od   tých čias, čo som sa zaňho zahrdúsilä, nič inšie som si nezaslúžila   uňho, len ustavičné drhnutie od svitu až do mraku. A tu, hla, odplata   ...
+    </tei:p>
+    <tei:p>
+     — Ale nefrfoc mi tu! — skríkol ešte väčšmi napajedený. — Co mi tu   máš vykladať? Nájdeš ma v dobrej vôli a ešte si, slizneš.
+    </tei:p>
+    <tei:p>
+     — Ach, ešte i tol — zvolala, teraz už tiež napaprčená. — No, len   udri, keď ti je po vôli, len bi! To všetko za to, že som ťa v   poriadku držala. Ved by ťa boly dávno vši hrýzly, keby ja nie.
+    </tei:p>
+    <tei:p>
+     — Ach, bodaj ťa, aby ťa! Ale čušíš už raz?! No, to je už, — a   zodvihol ruku k úderu.
+    </tei:p>
+    <tei:p>
+     — Len bi, len bi, ty starý korhelisko! Robiť sa mu nechce,, len   keby sedel za stolom niekde v krčme a pred ním keby bola plná fľaša.   Len si vykonaj svoju vôľu, ale to vedz, že ja
+    </tei:p>
+    <tei:p>
+     7
+    </tei:p>
+    <tei:p>
+     ﻿od týchto čias ani krížom slamy viac nepreložím. Ži si ako vieš.   Ja sa už len akosi prebiedim.
+    </tei:p>
+    <tei:p>
+     Pri posledných slovách sa zas roztúžila a hlasitým nárekom začala   vykladať:
+    </tei:p>
+    <tei:p>
+     — Ach, bože môj, bože! Ach, čoho som sa ja len na moje staré dni   dožila! Ach, len čo si počať? Veď je to už nie na; vydržanie s tým   starým korheiiskom!
+    </tei:p>
+    <tei:p>
+     — Ale prestaň už, hrom udrel do teba, veď sa už ľudia začínajú   sbehávať. Juj, kdeže je nejaké poleno, alebo nejaký drúk, nech ju tu   zahluším, — a začal sa obzerať po kútoch.
+    </tei:p>
+    <tei:p>
+     — čo robíte takú sodomu, ako by sa blížil súdny deň? — vbehla dnu   nevesta, nesúc dieťa na rukách. — Hádam len nechcete mater biť?
+    </tei:p>
+    <tei:p>
+     — Ešte sa i ty miešaš do toho? Veď ja viem, že obe do jedného   mecha dujete. Ale ja vás naučím! — a hnal sa proti) nim.
+    </tei:p>
+    <tei:p>
+     Stará medzitým zbadala, že sa starý veľmi rozpajedil; vedela už zo   skúsenosti, že nie je dobre strunu ešte väčšmi napínať, lebo vtedy už   neujde na sucho. Preto, keď vošla dnu nevesta, vybehla z izby a len z   pitvora ešte kričala, z čoho,1 pravda, sa veľa nerozumelo, lebo starý   tiež neotáľal, ale hrešil
+    </tei:p>
+    <tei:p>
+     a vadil sa, až mu žily nabehly. Dieťa tiež bolo zostrašenói a   plakalo, nevesta tiež prichádzala do rozčúlenia, tak že z pitvora   bolo počuť len jednotlivé slová, ako: starý korheľ, gágor, zrádnik a   iné týmto podobné, nie práve láskavé mená.
+    </tei:p>
+    <tei:p>
+     Hodná chvíľa minula, kým sa búrka trochu utíšila, čo sa stalo tým   spôsobom, že stará a nevesta odišly do komory, tam sa zapravily a   starého nechaly osamote v izbe.
+    </tei:p>
+    <tei:p>
+     Báťa Martin zostal samotný na bojišti. Keď si ešte chvíľu pošomral   a povyhrážal- sa štyrom pustým kútom, ľahol si na, posteľ. Dlho   nemohol zaspať. Prázdny žalúdok si pýtal svoje právo, k tomfu i hnev   ho ešte nebol úplne popustil. Pomaly sa priplichtila k [nemu i   divosť.. Už tomu bolo temer 50 rokov, čo
+    </tei:p>
+    <tei:p>
+     8
+    </tei:p>
+    <tei:p>
+     ﻿na jednom lôžku spával so ženou. I nevesta s dieťaťom spávala v   tej istej izbe. Už bol privykol na mrnčanie malého Ondriška, veď ho,   neraz i pokolísal, keď bol velmi mrchavý. A teraz všetko tak pusto   tak ticho. K tomu rodila sa v ňom akási predtucha: »Teraz tie dve   tam, tie len toho namelú a nasnujú. Čert ich vezmi fi. s babami!« Len   po dlhom premetávaní sa s boka na bok zdriemol.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Ráno len sa počalo brieždiť, nevesta otvorila dvere a, len hlavu   si vopchajúc do nich, zavolala na svokra:
+    </tei:p>
+    <tei:p>
+     — Apo, my už tajdeme.
+    </tei:p>
+    <tei:p>
+     Nedostala odpovedi.
+    </tei:p>
+    <tei:p>
+     — Ci počujete? — zvolala hlasnejšie.
+    </tei:p>
+    <tei:p>
+     — Čože sa stalo? — spýtal sa trhane, vyrušený zo sna.
+    </tei:p>
+    <tei:p>
+     — Nuž ideme do roboty. Aby ste dobrý pozor dávali na dom a všetko   opatrili. Dieťaťu som nechala v hrnčeku mlieka.
+    </tei:p>
+    <tei:p>
+     Keď sa prebudí dajte mu ho, tam je na prípecku. A aby sa
+    </tei:p>
+    <tei:p>
+     nič nestalo.
+    </tei:p>
+    <tei:p>
+     Reči nevestine prekvapily starého. Zprvu ani nevedel, čo majú   znamenať, a preto sa jej chcel spýtať. Ale len čo vyslovil prvú časť   otázky: »Nuž a?« — už nevesta s treskom zatvorila dvere a rýchlym   krokom sa vzdialila.
+    </tei:p>
+    <tei:p>
+     — Hm, hm, tak tajde. No, len no!
+    </tei:p>
+    <tei:p>
+     Sadol si á nohy si spustil s postele nadol. I videl, ako stará   prešla s batôžkom na chrbte popod oblok a za ňou ne ves taj
+    </tei:p>
+    <tei:p>
+     — Len nech tajde, nechže si trochu driek pozohýaa, — hovoril sám   sebe, — veď ona bude vyznávať večer, keď ju ladVie budú bolieť.
+    </tei:p>
+    <tei:p>
+     Ale jednako necítii, hoci sa chlapil, uspokojenia, ba práve   naopak, také mu to bolo čudné, keď teraz zostal sám doma. Počul   kvikot a hrmot zo dvora. Vyhladnuté prasce dodieraly do chlíevpových   dveriec.
+    </tei:p>
+    <tei:p>
+     — Počkajte len trochu hladoši, hneď vás nachovám.
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     9
+    </tei:p>
+    <tei:p>
+     ﻿Vstal utrel si trochu tvár krajom rukáva, posadil si na hlavu   zamastený klobúk a vyšiel voľným krokom na dvor. ChceJ komoru   otvoriť, no zbadal, že je zatvorená. Hľadal kľúč, ale ho nemohol dlho   nájsť.
+    </tei:p>
+    <tei:p>
+     — Kde ho len do pekla jazerného vstrčila? Veď sme ho vždy tu   kladávali, — a pritom šmátral rukou po hriadke pod ústreším. — Kde ho   len podela?
+    </tei:p>
+    <tei:p>
+     Prasce medzitým kvičaly, ani čo by ich už chceli klať.
+    </tei:p>
+    <tei:p>
+     » — Ale veď už poshovejte a nerobte taký hurt, potvory!
+    </tei:p>
+    <tei:p>
+     A pritom chodil a macal rukou popod strechu, či kľúč tam niekde   nenájde.
+    </tei:p>
+    <tei:p>
+     — No, toto je už do porazenia! Tá ho akiste sebou vzala. Co teraz   ?
+    </tei:p>
+    <tei:p>
+     Pozrel ešte raz skúmavé po hrade a stene, a tu hľa, dobre mu oči   nevyklal. Tam visel 11a klinčeku, na stene bezprostredne pri   dverách.
+    </tei:p>
+    <tei:p>
+     — Že som ho nevidel, — pomyslel si a uspokojený vzal ho a otvoril   komoru.
+    </tei:p>
+    <tei:p>
+     Na odpravenej posteli ležal rozvalený a cele skopaný malý   chlapček. Spal ešte. Od spánku mu boly líčka ani jabĺčka červené.   Starý pozrel letkom na malo, potom potichu vzal slamienku, nabral z   vreca kukurice a šiel nachovať hladošov. Ale len čo otvoril dverce na   chlievci a chcel im nasypať, keď tu jedno prasa vyskočilo a,   prešmyknúc sa mu pomedzi nohy, začalo behať po dvore. Báťa Martin   zahrešil, rýchle zatvoril dverce a začal hnať prasa nazpäť. Nechcelo   sa prasaťu zas do chlieva, n preto mu vždy ufujazdilo bokom, tak že   len po veľkej námahe a zadychčaní pošťastilo sa mu prasa vohnať zas   do chlievca.
+    </tei:p>
+    <tei:p>
+     — Bohdaj by ste boly tam podochly, aby ste,; i s potvorami* ako   som ustal! — šomral si zadychčaný.
+    </tei:p>
+    <tei:p>
+     Len čo hodil prascom,. už sa sbehly sliepky okolo neho a, nahnúc   hlavy na bok, pozeraly naň. čakaly tiež, aby sa im
+    </tei:p>
+    <tei:p>
+     10
+    </tei:p>
+    <tei:p>
+     ﻿niečo zo zrna dostalo. Hodil im nevrle so dve priehrštia. Zrno sa   rozsypalo na široko a odskočilo od zeme pri páde, ako keď hrach padá   na zem. Sliepky sa splašene rozutekaly, ale o chvíľočku, už úkradky s   kraja začaly zobať, až konéčne oddaly sa do toho s Velou chuťou.   j
+    </tei:p>
+    <tei:p>
+     Po tejto robote odniesol starý slamienku nazpäť do komory. Chlapča   ešte vždy spalo ani zarezané. Pristúpil k posteli a prikryl ho.   Vyšiel von a potichu zatvoril za sebou dvere.
+    </tei:p>
+    <tei:p>
+     — Do tých čias, kým sa zobudí, donesiem vody z pitnice.
+    </tei:p>
+    <tei:p>
+     Vzal kaňvu a šiel po vodu. Na” ulici sa stretol so ženami, ktoré   už nieslv vodu domov. Bolo mu nevoľno okolo srdca, keď sa s nimi   stretol, lebo nosenie vody je viac ženská ako, chlapská robota.   Starci sa na to len zriedkakedy dajú. S kým-J koľvek sa stretol,   každý sa ho spýtal, kde vraj ide. On nakrátko odvetil, ale si potom   pomyslel: »čo sa ma spytuješ, veď vidíš, po akej robote idem«. Pohľad   ľudí mu bol nepríjemný. Zdalo sa mu, ako by sa už každý bol   dozvedel o svade so ženou,1 i že ho nechala doma ženskú prácu robiť.   Hneval sa sám na seba, hlavne však na ženy, s ktorými sa stretal,   lebo sa mu tak zdalo, ako by sa mu boly vysmievaly. Keď ho už   domrzélá všetko, urobil sa hluchým a slepým, popchol krok, ako mu   stačil, aby sa čím skôr mohol striasť ľudí.
+    </tei:p>
+    <tei:p>
+     Ta idúclty to ešte len išlo, ale nazpäť to už bolo s viacerými   prekážkami spojené. Pitnica bola dosť obdaleč, plná kanva nebola   ľahká, a tak krok musel mierniť a často z jednej ruky do druhej   preložiť, áno i postáť. A tu zas pozdravom a vyptávkam nebolo   konca-kraja. Konečne sa predsa dostal domov. Ale tu ho očakávalo nové   prekvapenie. Ako uličné dverce otvoril, Zazrel na dvore susedu Zuzu,   ako čičíka na rukách rozplakaného O Tvár dieťaťa bola až   rudá od- plaču. Ešte i teraz štkalo, ba niekedy sa mu vydral z pŕs i   krátky vzlykot, ako, dozvuk veľkého, no utišujúceho sa plaču.
+    </tei:p>
+    <tei:p>
+     — čo sa stalo? — spýtal sa prestrašený,
+    </tei:p>
+    <tei:p>
+     11
+    </tei:p>
+    <tei:p>
+     ﻿— Ci sa to tak má dieťa nechať osamote? — zvolala súseda
+    </tei:p>
+    <tei:p>
+     s výčitkou, í s hnevom. — Chúďa, malo sa už zájsť od plaču, celo   bolo zmorené.
+    </tei:p>
+    <tei:p>
+     A čo?
+    </tei:p>
+    <tei:p>
+     — Nuž čo: Riadila som doma stajeň, len keď tu počujem detský plač.   Myslím si: veď ono prejde, veď deti sa i desať ráz rozrevú. Ale tu   nič a nič, plač neprestáva, ba naopak, vždy je silnejší, strašnejší,   tak reku, idem pozrieť, čo sa to u vás robí. Prídem ku dvercom — sú   zatvorené. Co je to? Hádam súseda zabehla na minútku niekam. Počkám   trochu. Ale dieťa Jen plakalo, ako by ho rezali. Zľakla som sa, že sa   ešte zájde, preškriabalo som sa cez vráta idem za hlasom, prídem ku   komore; na šťastie kľúč na klinci. Otvorím — a tu vidím dieťa na   zemi. Akiste spadlo s postele, lebo sa mu na čielku hodná hrča odula.   Aha, aká mu je očernetá, —. a ukázala ju starému.
+    </tei:p>
+    <tei:p>
+     — Hm, hm, len čo sa trochu z domu odmäkueš, hneď je zle.   Išiel som po vodu. Chlapča spalo ani zarezanô; kto by saj bol tomu   nazdal! Veď ľudia často zatvoria deti do izby. Len či sa mu väčšie   nešťastie neprihodilo? Ale mu neúrečná nabehla... hm, hm! —. A kdeže   sú ňaňa Mara, keď ste vy zostali doma V
+    </tei:p>
+    <tei:p>
+     — Ale  išla kdesi do Sitna i s nevestou/ Mňa tu nechalyj   aby som na dom pozoroval. Ešte som bol na -posteli, keď sa sobraly.   Neviem, čo tej starej sadlo na nos. Človek aby ani slova nepovedal,   hneď je namrndená. No len či sa malému horšie nestalo?
+    </tei:p>
+    <tei:p>
+     Pristúpil kľ susede a vzal jej dieťa.
+    </tei:p>
+    <tei:p>
+     Chlapček pozrel naň a počal zas plakať, ako by sa chcel žalovať. —   Neplač, — tešil ho, — dáme papu, —• a išiel s ním do komory.
+    </tei:p>
+    <tei:p>
+     Odkrojil mu okruh chleba, tak že sa mu do rúčky nespratal musel ho   na dvoje rozlomiť.
+    </tei:p>
+    <tei:p>
+     12
+    </tei:p>
+    <tei:p>
+     ﻿— Bude i rnóčo, len ho musíme zohriať. Zapálime žižu. — a už sa   poberal s malým do pitvora, aby rozložil ohňa na ohnisku.
+    </tei:p>
+    <tei:p>
+     * Pri tomto počínaní ani nezbadal, kedy sa vytratila súseda zo   dvora. Dieťa pri vide práskajúceho ohníka sa uspokojilo. Očká sa mu   vyjasnily a pravou rúčkou objímuc šiju starého otcovu, ľavou   ukazovalo ohník a zvolalo: »2iža!« Báťa Martin postavil rajničku na   trojnohu, vylial do nej mlieko, aby zovrelo. Ale aby tam nemusel   čakať bez práce, kým zovrie posadil chlapca na zem a šiel na pôjd,   aby sniesol kôš kukuričných šúľkov. Chcel ich za ten čas, kým mlieko   zovrie, omrviť.
+    </tei:p>
+    <tei:p>
+     Kým sa on tam hore šiplal, obzeral, povyberal šúľky
+    </tei:p>
+    <tei:p>
+     a sniesol ich dolu, mlieko vykypelo, len čo na spodku rajnice   zostalo z neho niečo. Už na dvore pocítil zápach vykypeného   mlieka.
+    </tei:p>
+    <tei:p>
+     — Ale veď som ho len teraz postavil, a už došlo, — zašomral   zlostne a ponáhľal sa do pitvora.
+    </tei:p>
+    <tei:p>
+     Pitvor bol plný dymu a smradu. Priskočil k ohnisku, chytil   rajničku za ucho, aby ju odstavil, ale až zasrkol od bolesti, kým ju   složil, lebo bola horúca ä prsty mu popálila. Ako ju, složil, hneď si   pichol popálený prst do úst a zahrešil, len sa tak ozvalo. Strašne sa   napaprčil, a keby bola bývala tam stará, nebola by obišla na   sucho.
+    </tei:p>
+    <tei:p>
+     Chlapča zasa začaio ústočká do plaču nakrivovať. — Nemrnč,   pluhavstvo jedno.... Veď ti už dám!
+    </tei:p>
+    <tei:p>
+     Vzal handru a pozorne chytil ňou rajničku, len aby sa zasa   nepopálil. Potom vylial pozostalé mlieko na tanier, nadrobil doň   chleba, vzal chlapca do lona, a počal bo chovať.
+    </tei:p>
+    <tei:p>
+     Dieťa sa počas chovy utíšilo. Starý ho choval usilovne.1 Ale čože,   keď mu ruka na takú robotu nebola navyknutá.) Pri každom podnose sa   mu triasla; dieťa si tiež hlávku vše na pravo, vše na ťavo mykalo.   Kým ho nachoval, celé ho po-, polieval, najmä pod hriadkou a na   prsičkách mu bola ko-
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     13
+    </tei:p>
+    <tei:p>
+     ﻿šieľka mliekom nasiakla. Ondriška to mrzelo, počal sa hniezdiť,   rúčkou si preťahoval po mokrom, ako by si tým chcel nepríjemný pocit   oddialiť.
+    </tei:p>
+    <tei:p>
+     — Ale veď sa nehniezď, čudo jedno! No, hľaďže ho, ako sa   doriadilo!’
+    </tei:p>
+    <tei:p>
+     Vzal zásterku a začal mu utierať ústočká i mokrú košieľku. Zástera   bola drsná, z hrubého plátna, jemnú kožtičku driapala na líčku, a   preto sa dieťa hodilo nazad a zavrešťalo.
+    </tei:p>
+    <tei:p>
+     Starý už nahnevaný, skrýkol naň:
+    </tei:p>
+    <tei:p>
+     — Budeš ticho!
+    </tei:p>
+    <tei:p>
+     Dieťa Sa zľaklo. Pozrelo naň, ústočká si sošpúlilo, ako by plač   premáhalo.
+    </tei:p>
+    <tei:p>
+     — Haja, haja! — zvolalo plačlivým hlasom.
+    </tei:p>
+    <tei:p>
+     — No, poď teda haja, — povedal mu už tichšie a odniesol ho do   komory.
+    </tei:p>
+    <tei:p>
+     Uložil ho do postele a potom si sadol k nemu. Dieťa sa kedytedy s   jednej strany na druhú prehodilo, potom vopchalo si palček do úst,   začalo ho mlgať a pritom uprelo oči na zakvačený na stene uterák.   Očká sa mu počaly čím. diaf tým väčšmi úžiť, až sa mu konečne   zavrely.
+    </tei:p>
+    <tei:p>
+     Horko-ťažko čakal starý na túto chvíľku. Chcel odísť. Ale len čo   sa pohol, už tu malý zas otvoril oči. Pozrel naň, rúčkou pošvolil po   perine a ústočká sa mu rýchlejšie pohybovaly pri ssatí palčeka.
+    </tei:p>
+    <tei:p>
+     — Ešte nezaspalo, prôšťa jedno! — pomyslel si a zasa sedel nehybne   pri ňom.
+    </tei:p>
+    <tei:p>
+     Dieťa, keď videlo, že je starý otec pri ňom sa zas uspokojilo.   Očká mu začal} oťažievať, vĺčka sa mu zasa sklopily. Starý už   poučený, nepohol sa od neho, len keď videl po chvíli, ako si palec   vytiahol z úst a ako mu pritom rúčka nevládne odpadla, vstal potichu,   priložil k posteli stolec, aby sa chlapec neskotúľal, a vyšiel na   prstoch na dvor.
+    </tei:p>
+    <tei:p>
+     — Ona sa nazdáva, že si ja nebudem vedieť poradiť, ale
+    </tei:p>
+    <tei:p>
+     14
+    </tei:p>
+    <tei:p>
+     ﻿sa mýli. Dokážem jej, že čo ona môže, to i ja urobím, a ešte   lepšie. Nebude sa mi vysmievať, staryga, — mrmlal si popod nos. — Ale   som ešte nič nemal v ústach, a slncB je už vysoko* — Vrátil sa do   komory, nalial si z krčaha do sklienky páleného a vypil, potom   odkrojil si chleba, vzal cibuľu a začal si ukrajovať a    Hoci bol lačný, jednako mu nechutily prílišne skromné raňajky. Začal   rozmýšľať, či by nebolo dobre niečo uvariť. Ale sa mu nechcelo akosi   poznove oheň rozkladať; možno, i popálenie ho mýlilo, a preto len   omáľal chlebíček. Nechutilo mu.
+    </tei:p>
+    <tei:p>
+     — Ešte si idem jediní vypiť.
+    </tei:p>
+    <tei:p>
+     Tak i urobil. Zasa sa prichytil do chleba. Ako si tak ujedal,   sediac na stolčeku pod ústreším, zazrel na viniči, ktorý sa ťahal   popod strechu, krásne, už zrelé strapky. Odrezal si hneď fdve a s   tflmťou sa oddal do nich.
+    </tei:p>
+    <tei:p>
+     —No, toto je už niečo, aspoň občerství človeka.
+    </tei:p>
+    <tei:p>
+     Po jedení vstal, vzal metlu a začal dvor zametať. Všetko chcel do   poriadku uviesť. Ešte i trlicu, ktorá trochu trčala von zpod ciene,   potisol dnu. Kým všetko vo dvore do poriadku uviedol, bolo už   poludnie. Chlapča sa zas zobudilo a začalo plakať, i Prišiel k nemu a   vzal ho na ruky. Celé bolo mokré.
+    </tei:p>
+    <tei:p>
+     — Ach, prasa! Fuj,-hanba! — začal haniť dieťa. — No, čo teraz s   tebou? — dudril sa. — Musím ti pohľadať nejakú košieľku, — a medzitým   zaviazal mu košieľku hore až pod pazuchou, že mu bruško zostalo holé,   a potom ho posadil na zem.
+    </tei:p>
+    <tei:p>
+     Hodnú chvíľu trvalo, kým košieľku našiel, lebo veru sa on o to   málo staral, kde odkladá nevesta šatôčky. Všetko poprehadzoval a čó   neporiadku doniesol v kasni, kým ju nenašiel. Konečne ho prezvliekol   do suchej a mokrú zavesil na plot.
+    </tei:p>
+    <tei:p>
+     Chvíľku sa dieťa ihralo na dvore, ale potom zasa začalo mrnčať.   Zatúžilo si za matkou i začalo ju vyvolávať.
+    </tei:p>
+    <tei:p>
+     Cit, neplač, mama príde a donesie cukor, — tíšil bo.
+    </tei:p>
+    <tei:p>
+     15
+    </tei:p>
+    <tei:p>
+     ﻿Ale ono nechcelo počúvať a len sa bralo drobným krôčkom, batoliac   satani kačica s boka na bok, k uličným dverciam.
+    </tei:p>
+    <tei:p>
+     — Kde len chce ísť?
+    </tei:p>
+    <tei:p>
+     Vzal ho na ruky. Dieťa začalo revať. — Budem biť, čušíš! — zvolal   nahnevane.
+    </tei:p>
+    <tei:p>
+     Na jeho krik sa zľaklo a ešte väčšmi počalo rumádzgať. — čo. teraz   ?
+    </tei:p>
+    <tei:p>
+     Položil ho na zem, a zasa sa batolilo k dverciam.
+    </tei:p>
+    <tei:p>
+     — Poď, dám papu, — vábil ho k sebe. Išiel ku viniču, odrezal   strapec hrozna a ukázal mu ho. — aha, vidíš, aký je pekný a sladký   ako med!
+    </tei:p>
+    <tei:p>
+     Ako dieťa zazrelo hrozno, prestalo plakať, vztiahlo rúčku za   strapcom, a ako ho chmatlo do rúčky, posadilo sa na zem a počalo   nemotornými prštekmi bobuľku za bobuľkou trhať a sádzať si do úst.   Tak mu chutilo, že mu až šťava tiekla dolu bradou.
+    </tei:p>
+    <tei:p>
+     Starému zasa prišla chuť na jedenie. Zasa si odtrhol hodný strapec   a počal jesť. Ale mu a koši’ml k vo bolo od neho.
+    </tei:p>
+    <tei:p>
+     — Eh, idem si trochu zaliať, — pomyslel si.
+    </tei:p>
+    <tei:p>
+     Vrátil sa mazpäť do komory a nalial si do rumplíka páleného. Vypil   ho na dúšok.
+    </tei:p>
+    <tei:p>
+     — Tak, to mi posilní žalúdok.
+    </tei:p>
+    <tei:p>
+     Ale sa veľmi zmýlil. Na lačno vypité pálené, žatým hrozno, potom   zas pálené a hrozno, a zas naň pálené mu veru neosožilo.
+    </tei:p>
+    <tei:p>
+     Pocítil onedlho rndlosť.
+    </tei:p>
+    <tei:p>
+     — Eh, akosi mi je nie najlepšie. Ale veď to prejde. Hľa, prasce   grúlia.
+    </tei:p>
+    <tei:p>
+     Šiel k, hodil im niekoľko priehrští kukurice, i vody im   nalial do válova a ešte, i hnoj začal zpod nich vymetávať.
+    </tei:p>
+    <tei:p>
+     — Hnusníky, všetko vyryjú. Aha, akú nezdobu narobily, — šomral si   a pritom naprával, čo nezbedníky pokazily. Slnce neúrečne   pripekalo.
+    </tei:p>
+    <tei:p>
+     — Eh, ale je sparno, tamhore hodne kúria, — myslel si a utieral si   znoj s tvári. — Co to malo robí? Ale, čo mi len tak,
+    </tei:p>
+    <tei:p>
+     16
+    </tei:p>
+    <tei:p>
+     ﻿hurtuje tamdnu? No, aká mdloba ma chytá, — poberal sa trochu   nahrbený k malému Ondriškovi.
+    </tei:p>
+    <tei:p>
+     Poobzeral sa po neveľkom dvore. Nevidel ho nikde. Hádami šiel do   pitvora. Práve chcel vkročiť dnu, keď tu v kútiku pri uličných   dvereiach na podstienke zazrel ho ležiaceho na zemi. Prišiel k nemu i   videl, že spí. Slnce pražilo naň, tak, že sa mu, pot perlil na tvári.   Líčka mal červené od horúčosti. Muchy mu veselo lazily po brade i   okolo ústočíak a ssaly do seba sládzu z pozostalej zaschnutej   hroznovej šťavy. Sadol k nemu. Pritiahol ho bližšie k múru, tam bol   chládok.
+    </tei:p>
+    <tei:p>
+     — No, či vidíš, kde sa ti rozložilo! A ako sladko spí! A tiel   dotieravé mušiská, mával rukou ponad tvár chlapcovu.
+    </tei:p>
+    <tei:p>
+     Muchy odlétely, ale o chvíľočku zas len začaly brnkať okolo neho a   sadať mu na tvár. Starý ich zas odohnal, Potom však sa mu nepozdávalo   ustavičné mávanie holou rukou, a preto odlomil halúzku z neďalekého   metličia a tým mu počal muchy odháňať.
+    </tei:p>
+    <tei:p>
+     Onedlho začaly i jemu vĺčka oťažievať. Ani nezbadal, len keď i on   zdriemol. Hlava mu ovisla na prsia, spodná čeľusť mu trochu opadla,   tak že ústa ma! dokorán otvorené. Začal pochrapkávať. Kedy-tedy   pomľaskal ústami, ako by si ich chcel ovlažiť. Zrazu zbledol a tvár   sa mu skrivila od bolesti. Otvoril oči, siahol si rukou na brucho a   začal si ho trieť.
+    </tei:p>
+    <tei:p>
+     — Go je to? — pomyslel si, keď sa ho zasa začala mdloba chytať a   keď sa mu zas začalo tamdnu búriť. — Eh, či mi je nie dobre, — a   odpľul si.
+    </tei:p>
+    <tei:p>
+     Zívol, až mu sánky pukaly, a kŕčovite si vystrel ruky. Horko-j   ťažko sa sosbieral. Chcel sa trochu poprechádzať; myslel si, že mu to   pomaly prejde.
+    </tei:p>
+    <tei:p>
+     Ale to nie neosožilo. V bruchu, ako v nejakom kotle, začalo sa mu   všetko dvíhať a búriť sa. Skrčil sa od muky. Neosožilo.
+    </tei:p>
+    <tei:p>
+     — -Jaj, bo£p môj, azda už tu skapem! A keby som mal aspoň niekoho   pri sebe. Už sa mu akiste posledná hodinka blíži..
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     17
+    </tei:p>
+    <tei:p>
+     ﻿Začal ho studený pot šibať. Od muky už nevedel, čo má robiť.   Dovliekol sa do komory, vzal krčah s vodou a začal piť. Len čo   niekoľko glgov urobil, už tu v ňom tak zhurtovalo,1 že; hneď vybehol   von, a len čo dobehol k hnoju, také dávenie ho pochytilo, že sa   nazdával, že sa hneď všetko v ňom potrhá. Stenal, chudák, až sa   ozývalo. Ale to nebolo ešte dosť, lebo len čo mu trochu odľahlo, hneď   musel utekať do záchodu, kde ho tiež nie menšia muka   prenasledovala.
+    </tei:p>
+    <tei:p>
+     — Jaj, bože môj, — vzdychal a odplúval si, keď sa vliekol umorený   do izby, aby si ľahol na posteľ.
+    </tei:p>
+    <tei:p>
+     Ale len čo si ľahol, už ho zas ťažoba pochytila a zasa len musel   utekať von.
+    </tei:p>
+    <tei:p>
+     Práve vtedy, keď starý najväčšmi vyznával, bola Slivkula na dvore.   Pristúpila k plotu, pozrela cez škáru, i videla, ako sa báťa Martin   trápi. Nastrachovaná vbehla k mužovi do izby.
+    </tei:p>
+    <tei:p>
+     — Palo, požujte, — hovorila, — s báťom Maliarom je nie ■dobre.   Poďteže len von...
+    </tei:p>
+    <tei:p>
+     — A co sa im stalo? Veď im ešte ráno nič nechybelo.
+    </tei:p>
+    <tei:p>
+     — Ja neviem, ale ich také dávenie pochytilo, že sa im už má tamdnu   všetko potrhať, a tak stenú, ako by už k smrti pracovali. To hádam už   tá cholera prišla na nich.
+    </tei:p>
+    <tei:p>
+     — Ale netáraj, čože by...
+    </tei:p>
+    <tei:p>
+     — Ja neviem, ale je nie dobre s nimi. A ako nám bolo povedané od   úradu i od choleráša, tak sa to velmi podobá tej biede. Len vy poďte   a presvedčte sa sami.
+    </tei:p>
+    <tei:p>
+     Palo poslúchol ženu. Len co vyšiel von, už požul, ako sa stised   silí a ako stene.
+    </tei:p>
+    <tei:p>
+     — Hm, hm, veru je to akosi nie najlepšie, môžeš mať i pravdu.
+    </tei:p>
+    <tei:p>
+     — Veď som vám vravela. Len teraz čo robiť, keď je to tak blízko?   Ak to príde i k nám!
+    </tei:p>
+    <tei:p>
+     — Ale hádam len nie.
+    </tei:p>
+    <tei:p>
+     18
+    </tei:p>
+    <tei:p>
+     ﻿— A veru to môže byť skorej, ako nie, Veď ste’ hádam počuli, ako   ľudia v susednej dedine roku 1873 padali na choleru, ako muchy.
+    </tei:p>
+    <tei:p>
+     — T ím ... No, a potom čo, keby i prišlo na nás, čože si po-:   môžeme? Vieš dobre, že »j)roti Bohu nie nemohu«.
+    </tei:p>
+    <tei:p>
+     — Veď je tak, ale ak by i tí doktori predsa len vedeli niečo. Co   hútate, Paľo, keby sme to tak akosi oznámili?
+    </tei:p>
+    <tei:p>
+     — Co? A potom čo? Á jestli sa dozvedia susedia, tak sa potom budú   na nás na smrť hnevať. A to je nie dobre, keď máš suseda   nepriateľa.
+    </tei:p>
+    <tei:p>
+     — Ja nedbám, keď nechcete. Ale jestli upadneme do toho, tak si   potom nerobme výčitky, že sme sa mohli ochrániť. Ja som len dobre   chcela. Veď, Bože môj, či by som ja tiež chcela so sfisedmi tak nič   po nič v hneve zostať? Keby to bola choroba, ako. iné choroby! Ale   keď človek upadne do toho, tak je potom horší od hoviadka, každý sa   ho štíti. Nemá ho kto ani opatriť, ani kto vyniesť na cintorín, len   ho hodia na čierny voz a potom ho v špitáli ešte i párajú. Ani sa len   svoji nemôžu s ním rozlúčiť a oplakal; ho, ako sa patrí.
+    </tei:p>
+    <tei:p>
+     Paľovi toľko žena navravela, že mu už husacia koža začala od   strachu nadskakovať, a preto povedal:
+    </tei:p>
+    <tei:p>
+     — Ako myslíš, nedbám, môže sa to oznámiť, aby si mi potom výčitky   nerobila. Ale, ako to spraviť, aby o tom nik nevedel, lebo ak sa   sused dozvie o tom, tak na nás ani len okom nepozre.
+    </tei:p>
+    <tei:p>
+     — Ak je len tá chyba, tak je to najmenej, tej sa vy nebojte.   Choďte do obecného domu k doktorovi cholerášovi, tomu to povedzte.   Ten vás neprezradí, veď je to úradná osoba.
+    </tei:p>
+    <tei:p>
+     — Hovoríš niečo. Ale on nevie po slovensky, len po maďarsky, tak   akože sa dohovoríme?
+    </tei:p>
+    <tei:p>
+     — Ako, ako? — zastala trochu, nevediac hneď iného bezpečného   spôsobu oznámenia vynájsť. — Ale, hla! Nuž čo, oznámte to rovno   notárovi, ten vás tiež neprezradí. Ci mu je i veľká
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     ﻿starosť o rvás! Len mu vy povedzte susedovo meno a číslo domu veď   on už potom urobí poriadok.
+    </tei:p>
+    <tei:p>
+     — A veru máš pravdu.
+    </tei:p>
+    <tei:p>
+     — No, vidíte, len sa trochu oriaďte a choďte. Kdeže by sme sa   nechali len tak, keď sa môžeme zachrániť.
+    </tei:p>
+    <tei:p>
+     — Veď už urobím, len aby potom...
+    </tei:p>
+    <tei:p>
+     — Ale čo, veď vy to nezakvačte každému na nos. A nazpäť idúc,   nemusíte sa zastaviť hneď, v prvej krčme, lebo to vy tam na bubon   udrete, hneď bude celá dedina vedieť.
+    </tei:p>
+    <tei:p>
+     — Ale, čo len táraš, veď to len vy ženy neviete si jazyky za zubmi   držať, — hovoril už pri obliekaní.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Útrapy Maliarove sa práve boly trochu utísily. Vliekol sa do izby   cele zoslabený. S námahou odkrojil snidku chleba malému Ondriškovi,   ktorý sa bol práve prebudil a potom si ľahol na posteľ, aby si   oddýchol i aby si trochu brucho zohrial. Od slabosti trochu zdriemol.   Vo sne sa mu zdalo, ako by počal nejakú vravu. Myslel, že sa mu to   len tak zdá. Zrazu ho začal niekto za plece mykať. Otvoril oči, a tu   videl stáť obďaleč postele niekoľko ľudí. Po obleku poznal, že jeden   z nich je strážnik a druhý boženík. Tretí bol po pansky oblečený a   držal v ruke za tenší koniec krivaňu, kdežto s ohnutou vrchnou časťou   mykal ho za plece. —
+    </tei:p>
+    <tei:p>
+     – — Co chcete? — spýtal sa tichým, zomdletým hlasom.
+    </tei:p>
+    <tei:p>
+     — Tud maďarul? — spýtai sa ho pán a spustil palicu s ohnutou   časťou na zem. Iste sa obával vziať do ruky. .
+    </tei:p>
+    <tei:p>
+     — Neviem.  — Spýtajte sa ho, eo mu je, — hovoril policajtovi,   — a že odkedy je chorý.
+    </tei:p>
+    <tei:p>
+     Policajt zpoza chrbta doktorovho začal hovoriť:
+    </tei:p>
+    <tei:p>
+     — Pán doktor sa spytuje, že odkedy ste chorý a čo vám chybí? —
+    </tei:p>
+    <tei:p>
+     20
+    </tei:p>
+    <tei:p>
+     ﻿— Ale, veď mi to, pekne prosím, prejde, — prehovoril báťa Martin   ešte väčšmi preľaknutý, keď počul, že je to doktor; hneď mu svitlo v   hlave, či je to nie doktor choleráš.
+    </tei:p>
+    <tei:p>
+     — Mit beszél ? — Iíogy az majd elmulik ncki.
+    </tei:p>
+    <tei:p>
+     — Na to som nie zvedavý, ale mu prísne nariaďte, aby odpovedal na   otázku, lebo že bude zle.
+    </tei:p>
+    <tei:p>
+     Policajt sa postavil do haptáku a skríkol na starého. Chudák   Maliar sa ešte viac naľakal.
+    </tei:p>
+    <tei:p>
+     — Veď ja, pekne prosím, nič... Nuž, hát, trošku ma sililo, a inak   ...
+    </tei:p>
+    <tei:p>
+     — A teraz sa ho spýtajte, že kde ho sililo, — hovoril ďalej doktor   policajtovi, keď mu policajt preložil do maďarčiny, čo povedal   Maliar. — Kde, kde? Hm, — začal starý rozpačité a hanblivé, — nuž,   kdeže to býva, len tam, kam sa chodí.
+    </tei:p>
+    <tei:p>
+     — Veď je tak. Ale či by ste nám vedeli ukázať? — Načo je to? Veď   je to nič...
+    </tei:p>
+    <tei:p>
+     — Povedz mu, aby sa o to nestaral, to sa jeho netýka. — Viete čo,   báťa, — keď povedal starému, čo hovoril doktor,
+    </tei:p>
+    <tei:p>
+     — ani sa neobávajte, ani nič, len sa soberte a hajde, ukážte to   miesto, lebo sa my nemôžemh s vami dlho prplať.
+    </tei:p>
+    <tei:p>
+     Starý sa pomaly sredikal s postele a išiel von. Za ním, obďaleč,   stúpali ostatní.
+    </tei:p>
+    <tei:p>
+     — No, toto som ešte neslýchal, — pomyslel si idúcky starý. — Ale   pre takô ... No, toto...
+    </tei:p>
+    <tei:p>
+     Keď prišli k osudnému miestu, starý ukázal a zahanbený odvrátil si   tvár.
+    </tei:p>
+    <tei:p>
+     Doktor pristúpil, vytiahol z vrecka malú skleničku, rozkázal   cholerášovi, aby ju naplnil, ale aby si pri tom dobrý pozor dal, aby   sa nedotkol.
+    </tei:p>
+    <tei:p>
+     Starý vypľaštil oči od údivu,
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     21
+    </tei:p>
+    <tei:p>
+     ﻿— No, to je len paráda, že sa páni s takým prplú, — pomyslel si.   í
+    </tei:p>
+    <tei:p>
+     Nikdy by si nebol ani len vo sne pomyslel, že by také iňečo bolo   možné.
+    </tei:p>
+    <tei:p>
+     Plnú fľaštičku potom peclive poutierali, v akejsi vodke pozmáeali,   potom pečlive hneď i zapakovali, zapečatili a vzali ju sebou.
+    </tei:p>
+    <tei:p>
+     — Ale, prosím vás, načo vám to bude a čo s tým? — To sa pošle do   Pešti, tam to prezrú, či v ňom niet cholera.
+    </tei:p>
+    <tei:p>
+     — Pi d i to som nepočul! Do Pešti! Uf! — vzdychol si.
+    </tei:p>
+    <tei:p>
+     Bolo poznať na ňom, ako ho to škrie.
+    </tei:p>
+    <tei:p>
+     – Povedzte mu, — hovoril doktor, — že nesmie zo dvora do tých čias   ani na krok von vyjsť, kým mu to vrchnosť nedovolí. Taktiež do domu   nesmie cudzia živá duša prísť. Na ulici však bude postavená stráž,   aby dozerala na to, že by rozkaz bol prísne zadržaný. A ináee dostane   liek, ktorý bude užívať podľa predpisu.
+    </tei:p>
+    <tei:p>
+     — Ale, prosím pekne, ved je to nič, veď som zjedol len strapec   hrozna, veď to prejde, — bránil sa starý. — Čože budem toľký čas doma   zaháľať, keď si treba i zarobiť.
+    </tei:p>
+    <tei:p>
+     — Mi t beszél ľ
+    </tei:p>
+    <tei:p>
+     Policajt mu predložil.
+    </tei:p>
+    <tei:p>
+     — Eh. láry-fáry! Čo som povedal, to sa i stane, punktum t práve to   je podozrivé, že jedel hrozno.
+    </tei:p>
+    <tei:p>
+     Vyšiel von. Policajtovi rozkázal zostať na ulici, strážiť dom   Maliarov, a s ©(statnými odišiel do obecného domu.
+    </tei:p>
+    <tei:p>
+     O pol hodiny žatým doviezli búdku pre strážnika a postavili ju   oproti domu Maliarovmu. Strážnik sa začal vážne pred ňou prechodiť.   Báťa Maliar zatvoril sa i s malým Qndriškom do izby.
+    </tei:p>
+    <tei:p>
+     Šomral, ochkal, stenal ustavične, V bruchu sa mu ešte neprestávalo   búriť. Všetko to by však nebolo najhoršie bývalo, keby len nebola   prišla tá ostuda naňho. Ale tu, hla, vo chvíli čo sa stalo! Ešte do   Pešti! 1 tam budú o tom vedieť. Ale nech by ich
+    </tei:p>
+    <tei:p>
+     22
+    </tei:p>
+    <tei:p>
+     ﻿tam čert vzali * i s Pešťou, to by ho nesužovalo, veď ho tam   nepoznajú a on tam tiež nemá známeho, ale to je najhoršie, že sa to   už rozšírilo po celej dedine. O pol hodiny nebude živej duše v obci,   ktorá by nevedela, čo sa s ním stalo a že je pod zátvo-; rom. Svet sa   toho nahovorí dosť a dosť: i o komisii, i o skle-: ničke, ktorú pošlú   do Pešti.
+    </tei:p>
+    <tei:p>
+     Ale, čože to tak hrmoce? Pozre do obloka, len tak obďaleč, i to   len tak s boka, aby ho s ulice nikto nezbadal. I videl — ó. hrúza! —   ako vezú búdku pre strážnika, ako ju postavili práv© oproti jeho   domu. A na ulici kŕdel detí a žien. Všetkým sa oči blyštia a (div   im, z jamiek nevvskočia od zvedavosti.
+    </tei:p>
+    <tei:p>
+     — No, bohdaj by ste hneď tam pokapali, kde ste! — zahrešil a   sadol si zúfalý pod pec.
+    </tei:p>
+    <tei:p>
+     Malému Ondriškovi sa medzitým zunovalo v izbe sedieť, priplychtii   sa ku dverám a začal malou pastičkou biť na ne a volať: — Otoliť,   otoiiť!
+    </tei:p>
+    <tei:p>
+     — Co sa moceš ustavične? Minútku nemôže byť na pokojij —   zašomral.
+    </tei:p>
+    <tei:p>
+     — Gtoliť! — ozvalo sa pri dverách, a to už plačlivé.
+    </tei:p>
+    <tei:p>
+     — Veď idem, už len nekrič! I tá tvoja slávna mať by už mohla byť   doma, ale boh vie, kde postáva a jazyk brúsi. 1 tá stará!
+    </tei:p>
+    <tei:p>
+     — Co len povie. — pomyslel si a zamrzelo ho. — Rude sa vyškierať,   že sa mi tak poviedlo. Ako čo by som ja mohol) za to. 1 tak je len   ona vínovatá. Keby nie ona, tak všetko mohlo dobre byť. Ja by som bol   išiel do roboty. Veď ja nie že by nechcel, len keď mi je už toho   mnoho. Ale len nec hpríde domov a nech len zas počne, tak potom nech   sa len prace z domu... Jaj, bože môj! Zasa to ide na mňa, — a už   bežal von, ako mu len ešte zbylá para stačila.
+    </tei:p>
+    <tei:p>
+     Onedlho sa zasa ozýva ly vzdychy a stony.
+    </tei:p>
+    <tei:p>
+     — A čo? Co je to? — bolo počuť kričať starú Maliarkh
+    </tei:p>
+    <tei:p>
+     23
+    </tei:p>
+    <tei:p>
+     ﻿z ulice. — Čože, cholera? Ja že by som nemohla do môjho vlastného   domu? To by bolo ešte! A ktože ho opatrí, há?
+    </tei:p>
+    <tei:p>
+     — A moje malé ktože nachová a obriadi? — zavolala nevesta. — Vraj   cholera! Aká cholera?! Len by ste nevymýšľali. Veď to príde všeličo   na človeka.
+    </tei:p>
+    <tei:p>
+     — Ja vás nemôžem pustiť, keď je taký zákaz, — odvetil policajt a   postavil sa do dveriec.
+    </tei:p>
+    <tei:p>
+     A čo budú tí dvaja tam? Musí ich niekto opatriť! — kričí stará.   Veď sú hádam nie psi. Pusťte ma! — zvolala plačúc a išla proti   policajtovi.
+    </tei:p>
+    <tei:p>
+     — Ani na krok! — skríkol policajt hrozivé a postavil sa proti nej.   4 — Jaj, bože môj, čo to len bude? — začala nariekať. Veď som ja len   dožila, ani ma len do svojho vlastného domu neJ chcú pustiť.
+    </tei:p>
+    <tei:p>
+     — Ňaňa, ňanička! — prihovárala sa jej jedna ešte dosť mladá žena.   — Ňaňa! — volá na ňu hlasnejšie, — poďteže sem!
+    </tei:p>
+    <tei:p>
+     Ale stará nepočúvala, čo sa okolo nej deje, a začala nadávať   strážnikovi.
+    </tei:p>
+    <tei:p>
+     — Mama, mama! — bolo počuť zo dvora detský hlas.
+    </tei:p>
+    <tei:p>
+     Zrazu stalo sa niečo neočakávaného.
+    </tei:p>
+    <tei:p>
+     Nevesta, keď videla strážnika zamestnaného s materou, priskočila   ku vrátam, ktoré hneď boly pri dverciach, shodila batôžtek zo seba a   začala sa škriabať hore na vráta. Už práve preložila si jednu nohu na   dvornú stranu, keď tu akési chlapčisko skríklo na policajta:
+    </tei:p>
+    <tei:p>
+     — Aha, ako sa ňaňa škriabu hore!
+    </tei:p>
+    <tei:p>
+     Policajt sa obzrel v tú stranu. Skočil, aby ju stiahol nazpäť, ale   ona hbite si preložila i druhú nohu a spustila sa dolu da dvora.   Súčasne ozval sa taký hlas, ako keď šefraník driape hodne   nakroehmelenú látku.
+    </tei:p>
+    <tei:p>
+     — Bohdaj ťa, aby ťa i s čudom kadejakým, — ozval sa
+    </tei:p>
+    <tei:p>
+     24
+    </tei:p>
+    <tei:p>
+     ﻿nevestin hlas. — No, ako som si sukňu rozdrapila. A to ešte! novú,   len čo som ju dva razy oprala.
+    </tei:p>
+    <tei:p>
+     Ako stará zbadala, že policajt bežal za nevestou, skočila už ku   slobodným dverciam, v okamžení ich otvorila, vbehla dnu a rýchle ich   zapravila.
+    </tei:p>
+    <tei:p>
+     Hrozitánsky smiech nastal medzi divákmi. Strážnik sa obzrel;   nevedel si vysvetliť v prvej chvíli príčinu smiechu, keď tu počul   štrkanie záporu. V prvom prekvapení nevedel, čo má robiť. Mrzelo ho,   i hanbil sa, že ho ženy takto previedly a že si takýto posmech   utŕžil. Zahrešil, potom sa začervenal od jedu, keď videl, ako sa mu   smejú diváci. Rozbehol sa za nimi a začal ich nemilo-; srdne   rozháňať. Deti i ženy sa rozpŕchly. Vrátil sa zas na svoje miesto.   Postál, rozmýšľal, čo má robiť. Či má ženy vyhnať z domu a či nie.   Mrzelo ho vojsť dnu. Predsa, cholera je nie žart, a ak by ju on   tiež mohol utŕžiť. A predsa, veď je už i tak všetko daromné, keď sú   už tam dnu. čo mal robiť, ako sa uspokojiť a strážiť ďalej, aby ešte   viac ľudí nevošlo dnu.
+    </tei:p>
+    <tei:p>
+     Malý Ôndriško bežal k materi s rozprestretými rúčkami a plakal,   ako čo by sa jej bol chcel vyžalovať. Vzala ho do ná- ručia,   prešla mu rukou po tvári, utrela mu vyplakané očká i noštek -a!   pohladkala ho po strapatých, upotených vláskoch. I nahmatala mu   nabehnutú hrču na čele. Ako sa jej dotkla, chlapča zavrešťalo.
+    </tei:p>
+    <tei:p>
+     — Bibi, bibi! — zvolalo a hlávku si odtiahlo, aby sa mu matka   boľavého miesta nedotkla.
+    </tei:p>
+    <tei:p>
+     — čože sa ti stalo? Chúďa, ako mu nabehlo — Putovala si mať dieťa   a nežne ho privinula k sebe a bozkala ho.
+    </tei:p>
+    <tei:p>
+     — Tam, tam, — žaloval sa malý Ondrejko a ukazoval rúčkou na   komoru, — padou ...
+    </tei:p>
+    <tei:p>
+     Ale žatým hneď zabudol na bolesť a pýtal sa dolu. Mať ho spustila.   Chytil ju za sukňu a ťahal ju za sebou a pritom volal:
+    </tei:p>
+    <tei:p>
+     — Papať, papať!
+    </tei:p>
+    <tei:p>
+     — Chúďa, aké je vylačneté, a len jeden deň! Ej, nenechám
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     25
+    </tei:p>
+    <tei:p>
+     ﻿ťa viac doma len tak, keď ťa nevedia ani, opatriť, ani nebedlia   nad tebou.
+    </tei:p>
+    <tei:p>
+     Ppsledné slová povedala hlashe a dôrazne, aby ich svokor počul.   —
+    </tei:p>
+    <tei:p>
+     — Ja neviem, čo ste to len robili, — začala mu výčitky robiť.
+    </tei:p>
+    <tei:p>
+     Chcela mu ,ešte ostrejšie doložiť, keď sa odrazu zasekla a   zostrašene pozrela na svokra. Len teraz zbadala prémemi na ňom. Bol   taký s trápený. zbiednetý!
+    </tei:p>
+    <tei:p>
+     — Apo, čo sa vám stalo? To je už tá cholera, — pomyslela ši a mráz   ju prebehol po tele.
+    </tei:p>
+    <tei:p>
+     Y žala chlapca do náručia a rýchle s ním vbehla do komory.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Práve vtedy, keď sa starej pošťastilo vbehnúť do dvora, vliekol sa   starý Celý zúbožený do izby. Bol zohnutý Vo dva konce a stenal za   každým krokom. Stará pospiechala k nemu.
+    </tei:p>
+    <tei:p>
+     — Co vám je? Čo sa vám stalo?
+    </tei:p>
+    <tei:p>
+     — Ja neviem. — stenal, — len mi je zle. A ak to tak pôjde i ďalej,   tak nedožijem do rána. Už sa nohy trasú podo mnou, čo už nič   nevládzem.
+    </tei:p>
+    <tei:p>
+     — Tam dnu vás bolí? A či ste si takto? — spýtala sa a skú mave   pozrela naňho.
+    </tei:p>
+    <tei:p>
+     — Ale ba, čo by, veď som z domu ani kroka neurobil. Ani som   nejedol, len dsTa strapce hrozna, nuž tak. A čo som prezrel ráno na   lačné a potom za hroznom, aby mi strovilo, lebo som hneď mdlobu   cítil.
+    </tei:p>
+    <tei:p>
+     — Už sa len dnu, a hneď do postele. Ľahnete si a hneď pod pod   perinu, aby ste sa zohriali, — súrila si muža.
+    </tei:p>
+    <tei:p>
+     Ako prišli do izby, sama mu sňala kožuch s pleca, stiahla s nôh   kapce, a keď si ľahol, dobre mu poutláčala perinu, aby ho   zohriala.
+    </tei:p>
+    <tei:p>
+     — Len ležte ticho, kým rozložím ohňa. Zohrejem vám tehlu na nohy a   pokrievku na brucho, hneď vám bude lepšie. Pošlem
+    </tei:p>
+    <tei:p>
+     26
+    </tei:p>
+    <tei:p>
+     ﻿i po Krutošku, tá vám dobre roztrie život i žily. Tak bude vám   lepšie, — a s týín sa už i poberala rozložiť ohňa.
+    </tei:p>
+    <tei:p>
+     O chvíľu už niesla v handre zaobalenú črepovú pokrievku a a   položila mu ju na holé brucho.
+    </tei:p>
+    <tei:p>
+     — Ale to páli, — zasŕkol starý, keď ho začalo pripekať.
+    </tei:p>
+    <tei:p>
+     — Ale, čo by, veď som ju dobre zaobalila, musíte trochu i   potrpieť.
+    </tei:p>
+    <tei:p>
+     — Veď si nedám brucho popáliť, — zvolal starý a odhodil horúcu   pokrievku na bok.
+    </tei:p>
+    <tei:p>
+     — Počkajte, dám ju do uteráka, aleže potom čušte..: 1 ak, —   aipriložila mu ju zase. — A keď vám vychladne, tak povedzte, už sa   druhá hreje. A nohy sú vám ešte studené? — odhrnula trochu perinu a   rukou mu ich omacala. — Veru sú ešte... Počkajte, kým sa tehla Za ten   čas pošlem niekoho pre Krutošku.
+    </tei:p>
+    <tei:p>
+     — Nepustia ťa von. — Veď ja uvidím, či pustia a či nepustia, — a   vyšla na
+    </tei:p>
+    <tei:p>
+     dvor.
+    </tei:p>
+    <tei:p>
+     Nešla na ulicu, ale šla k plotu súsedovie, ktorí bývali pred ich   domom.
+    </tei:p>
+    <tei:p>
+     — Zuza, Zuza1 — volala na súsedu, ale len tak potíšku, uby   strážnik nepočul.
+    </tei:p>
+    <tei:p>
+     Nik sa neozval.
+    </tei:p>
+    <tei:p>
+     — Nie je na dvore, bude akiste v izbe, — pomyslela si. Podišla k   stene. Zaklopala tri razy na ňu a potom počkala. — To ste vy, ňaňa   Ulal — počula o ehvílku.
+    </tei:p>
+    <tei:p>
+     Tak sa zdalo, že boly zvyklé na takéto znamenia.
+    </tei:p>
+    <tei:p>
+     — Ej, pre vás by susedia mohli i pomrieť, ani sa len ne-
+    </tei:p>
+    <tei:p>
+     ozrete.
+    </tei:p>
+    <tei:p>
+     — Ja by som už bola prišla pozrieť, ale keď je zakázané, viete, že   nemožno.
+    </tei:p>
+    <tei:p>
+     — Čo by nemožno. Kto chce, ten vždy môže. — A ako sú báťa?
+    </tei:p>
+    <tei:p>
+     27
+    </tei:p>
+    <tei:p>
+     ﻿— Nič mu nebude. Teraz sa hreje, dala som mu teplú pokrievku na   život a ešte mu dám k nohám horúcu tehlu. Vypotí sa, tak bude zasa,   ako i bol. Vieš, chlap ti je len chlap. Nevie si to pomôcť. Ani si to   nenavarí, len tak o hrozne, vode a na pálenom. Nuž tak čo? A vraj   cholera! Ale už nemám kedy, tak len zabehni po starú Krutošku, nech   ho príde trochu roztrieť.
+    </tei:p>
+    <tei:p>
+     — Kadiaľže, príde, keď stojí stráž.
+    </tei:p>
+    <tei:p>
+     — No, i ty si! Nuž kadiaľže, ako s druhého konca, od humna. Tam za   ten čas Mara odbije jednu dosku z plota. Nech sa tadiaľ pretiahne.   Nik ju nebude vidieť, ani sa len pes ne~: ozre o -ňu. Nechže si tam   strážia na ulici, koľko chcú. Len saj ponáhľaj, aby si ju doma   zastihla, lebo tej tiež zem pod pätami horí, ustavične fŕľa.
+    </tei:p>
+    <tei:p>
+     — Hneď, ňaňa Uľa, hneď, len čo si niečo prehodím na seba: — No.   len no, — poberala sa dnu, keď tu počuje volanie i
+    </tei:p>
+    <tei:p>
+     — Naňa Uľa! Ňaňa Ulal
+    </tei:p>
+    <tei:p>
+     — Co ma voláš? — spýtala sa druhej susedy Slivkuli a priblížila sa   k jej plotu.
+    </tei:p>
+    <tei:p>
+     — Akože sú báťa?
+    </tei:p>
+    <tei:p>
+     — Chvála bohu, lepšie ...
+    </tei:p>
+    <tei:p>
+     — No. už len či sú, ako by mi cent spadol so srdca. — Viete-e,   zatiahla poslednú slabiku trochu spevave, — tak som ich želela-a   ...
+    </tei:p>
+    <tei:p>
+     — Ale veď to prejde.... — Nasypte im do páleného trochu   roztlčeného ďumbiera i trochu papriky; dobre je, keď sa dá do toho   ešte i štipká kánforu. To všetko potom treba dobre potnuťkať a tak im   to dať vypiť.
+    </tei:p>
+    <tei:p>
+     — Ďakujem, už len urobíme, čo budeme vedieť. Ale sa musím   ponáhlať, pozrieť, ho, ako mu je. Už som sa dosť za-   meškala.
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+    <tei:p>
+     ﻿—No, len choďte. Ja som sa už s Paľom shovárala, že by vás bolo   načim ísť vidieť, ale on povedal, že vraj dnes nie, ale len zajtra, —   vyhovárala sa.
+    </tei:p>
+    <tei:p>
+     Bolo jej nevoľno okolo srdca, keď videla, čo sa dialo u Maliarov,   a že v tom mala i ona prsty. A ak ešte nadarmo! Chcela k tomu ešte   užiť i trochu opatrnosti, aby susedia nemysleli hneď na nich, že ich   oni oznámili. Takýmto činom teda chcela sústrasť prejaviť, najmä keď   videla, že »národ«, totiž ľud shŕknutý je za Maliarov a proti   strážnikovi naladený.
+    </tei:p>
+    <tei:p>
+     Ako stará vstúpila do pitvora, hneď šla k ohnisku a pozrela či sa   tehla už dosť zohriala. Priložila si dlaň k nej, ale ju hneď/ i   odtrhla, lebo ju popálila.
+    </tei:p>
+    <tei:p>
+     — Dobre je, — pomyslela si.
+    </tei:p>
+    <tei:p>
+     Vzala staré, už hodne zodraté vrece, zaobalila doň tehlu a   odniesla ju do izby.
+    </tei:p>
+    <tei:p>
+     — No, akože je? — spýtala sa muža.
+    </tei:p>
+    <tei:p>
+     — Zdá sa mi, už trochu lepšie. Nehurtuie mi už tak tam dnu.
+    </tei:p>
+    <tei:p>
+     — Teraz vám ešte priložíme k pätám tehlu, — súčasne už i podvihla   perinu, a už tehla bola opretá o nohy.
+    </tei:p>
+    <tei:p>
+     Onedlho Maliar bol červený ani rak od horúčosti a začal sa mu pot   perliť na čele.
+    </tei:p>
+    <tei:p>
+     — Uf, či mi je len teplo!
+    </tei:p>
+    <tei:p>
+     — Len potrpte, — odvetila stará, — to je dobre. Bude vám   lepšie.
+    </tei:p>
+    <tei:p>
+     Starému nebola teraz trpelivosť na obtiaž, ba práve naopak, strach   pred niečím hrozným ho minul a pocítil príjemný pocit   uspokojenia.
+    </tei:p>
+    <tei:p>
+     — Predsa je žena, len žena, — myslel si. — I sa človek; poškavdá s   ňou, i predsa, keď je človek v kríži, len ona po-j môže. A ako jej to   ide! A ako uhádne, čo načim! No, už ako je, tak je, ale moja stará je   predsa žena, ako načim.
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     29
+    </tei:p>
+    <tei:p>
+     ﻿A aby sa ešte lepšie presvedčil, či jeho žena je naozaj taká, ako   načim, pomaznal sa a povedal:
+    </tei:p>
+    <tei:p>
+     — Nože mi naprav vankúš pod hlavou, akosi sa mi zle
+    </tei:p>
+    <tei:p>
+     leží.
+    </tei:p>
+    <tei:p>
+     Vstala, prišla a napravila mu po vôli;
+    </tei:p>
+    <tei:p>
+     — Jaj, ako ma smädí, donesže krčiažtek s vodou! Podala mu ho a   pritom poznamenala:
+    </tei:p>
+    <tei:p>
+     — Aleže sa nenamáhajte vela, a dajte si pozor, aby ste vodou   nepoliali perinu.
+    </tei:p>
+    <tei:p>
+     Posledné upozornenie bolo daromné, lebo sa mu, ako priložil k   ústam krčiažtek, vyšustlo trochu vody.
+    </tei:p>
+    <tei:p>
+     — Ach, či ste len netrebný, — zašomrala, — len teraz som vás   napomínala, a hla, čo ste už narobili. Keby to pálené bolo bývalo,   viem, že by ste boli na to lepšie pozor dávali, — zanôtila si svoju   starú nôtu.
+    </tei:p>
+    <tei:p>
+     — Ale veď som len troška. Hneď sa to osuší, •— vyhovára sa   starv.
+    </tei:p>
+    <tei:p>
+     Ani najmenej ho nenahnevá dudranie ženino,-lebo! i z toho vycítil   jej starostlivosť k nemu- A k tomu neznejú jej slová teraz tak, ako k   dospelému namerené, ale ako matka hovorieva malému dieťaťu.
+    </tei:p>
+    <tei:p>
+     V tom zašťukly pitvorné dvere.
+    </tei:p>
+    <tei:p>
+     — Ide niekto, — povedala stará, a už otvárala dvere na
+    </tei:p>
+    <tei:p>
+     izbe.
+    </tei:p>
+    <tei:p>
+     — To si ty? — vítala vstupujúcu ženu. Tak ťa doma našla Zuza?
+    </tei:p>
+    <tei:p>
+     — Pošťastilo sa jej, lebo práve len čo som prišla domov od   Bochničky a len čo som si sadla trochu k šitiu, reku, nech trochu   poobšívam, lebo, viete, málokedy sa mi dolezie, keď mi prišlo do umu,   že mám ísť do Roháčov. Tam nevesta ochorela. Už som sa práve sberala,   keď tu Zuza pribehla, ako bez duše, a vraví mi, aby som hneď bežala k   vám, lebo sú vraj báťa na smrť chorí. Tak, hla, som sa sem ponáhľala,   reku, nech
+    </tei:p>
+    <tei:p>
+     30
+    </tei:p>
+    <tei:p>
+     ﻿vidím, čo sa stalo s nimi, —• a pozrela pritom na chorého. —• No   čože vám je? — Ja neviem, len dnes prišla na mňa taká ťažoba,   nazdával som sa, že hneď dušu vypustím, — zastenal starý.
+    </tei:p>
+    <tei:p>
+     — Kata, čo by si mu trochu žily roztrela, bude to len, čemer, —   vravela stará príchodzej.
+    </tei:p>
+    <tei:p>
+     — Dajte sem pravú ruku. Veru je krv zaseknutá, — povedala   mastiarka, keď mu prešla prstami po ramene. — Daj mi na lyžičku   trochu masti.
+    </tei:p>
+    <tei:p>
+     Stará doniesla na varečke. I začalo sa mastenie.
+    </tei:p>
+    <tei:p>
+     Stará Krutoška bola v dedine chýrna mastiarka. Málo bolo domov v   dedine, do ktorých by ju neboli volali k chorému., Ako s tým súvislé   povolanie bolo ešte i obliekanie mŕtvych.* Bola ona vysoká, chudá,   ale pritom mocná osoba. Mastenie jej išlo veľmi -zručne. Pri tejto   práci nehlivel jej ani jazyk, lebo mu ani minútku nedala oddychu.   Ustavične hovorila. Vždy vedela niečo nového. Pri každom takmer páde   navravela chorému, aká je jeho choroba a akú zázračnú moc má jej   mastenie.
+    </tei:p>
+    <tei:p>
+     — Pravdaže je to .čemer! Či vidíte, aké máte hrčky po žilách? Však   ver’ vás tu bolí, a ako puká, —, a pritlačila svojimi mocnými prstami   žilu na ramene a ťahala nimi celou silou.*
+    </tei:p>
+    <tei:p>
+     — Jaj, nieže tak tuho, stenal starý, — veď to bolí!
+    </tei:p>
+    <tei:p>
+     — Ej, nechže bolí, len potrpte, nech sa krv roztre, veď aká    sadnutá! No, tak, ruky sú už. Teraz chrbát a šiju.   Obráťte sa. Tak, — a už začala medhť šiju a chrbát tlačiť.
+    </tei:p>
+    <tei:p>
+     Starý stenal, vše i vykríkol, keď mu už nebolo do strpenia.!
+    </tei:p>
+    <tei:p>
+     — Jaj, jaj, nieže tak nemilosrdne, veď mi zlomíte chrbtovú,   kosť!
+    </tei:p>
+    <tei:p>
+     — Ale čo by, ani reči; uvidíte, budete ako znovuzrodený. Len   trpelivosť! Vy by ste boli zlá žena. Kolko my musíme preniesť... A   vraj cholera! Čože tí páni vedia! Hneď, nech len trochu preberie   alebo nech má tamdnu žrenie, už cholera a hneď
+    </tei:p>
+    <tei:p>
+     31
+    </tei:p>
+    <tei:p>
+     ﻿dovolajú i strážnika. Ako čo by človek bol, bože odpusť, pes alebo   čo. Aby ho ani pozrieť, ani ošetriť nemohli. Uf, horší od pohanov!   Môžeme my jveru akokoľvek, keď pán boh dopustí, tak príde to na   každého.
+    </tei:p>
+    <tei:p>
+     — Pán boh daj dobrý večeri — zvolal niekto vo dverách. — Pán boh   daj i vám, a vitajte, svat! Tak síe nás prišli
+    </tei:p>
+    <tei:p>
+     pozrieť, — vítala ho stará. —, I vy, svatka ?
+    </tei:p>
+    <tei:p>
+     — Počuli sme, čo sa u vás stalo, tak sme vás prišli vidieť. Nuž,   akože sa máte? — a pristúpil k posteli.
+    </tei:p>
+    <tei:p>
+     — Už trochu lepšie. Ale bolo zle. Už som sa nazdával, že ma   oklamali.*)
+    </tei:p>
+    <tei:p>
+     — A čo sa vám stalo? — spytuje sa svatka,
+    </tei:p>
+    <tei:p>
+     — A boh vie, čo to prišlo na mňa. Len sa to počalo vo mne
+    </tei:p>
+    <tei:p>
+     búriť a potom; i siliť. Nazdával som sa, že sa všetko potrhá vo   mne.
+    </tei:p>
+    <tei:p>
+     —Hm, hm, hádam ste sá planej vody napili, alebo ste niečo
+    </tei:p>
+    <tei:p>
+     zjedli?
+    </tei:p>
+    <tei:p>
+     — Ale, čo by, veď som temer ani ničoho v ústach nemaL,
+    </tei:p>
+    <tei:p>
+     — Ej, veď to tak príde, — vraví mastiarka. — Potrpťeže ešte   trochu, už budem hneď hotová.
+    </tei:p>
+    <tei:p>
+     — A kdeže je Mara? — spýtala sa svatka. — Hádam si uspáva   dieťa, —1 odvetila stará. Ešte som jej, ako sme prišli z poľa,   nevidela.
+    </tei:p>
+    <tei:p>
+     Len co dopovedala, už tu Mara vošla do izby. Ako počula na dvore   kroky príchodzích, hneď vyšla pozrieť, kto to, a pri-: plichtila   sa k obloku, aby videla, čo sa deje y izbe. Tam si zazrela rodičov:   Nemohla sa zdržal i vošla dnu. Prišli si, pekne posadali pod pec a   začali sa medzi sebou shovárať. Mastiarka, skončiac robotu, ponáhľala   sa k chorej neveste;
+    </tei:p>
+    <tei:p>
+     *) Oklamaí znamená i to, že keä mŕtveho vynesú do cintorína,   všetci potom sa nazpäf vrátia a len jeho nechajú tam, teda ako bj*»ho   oklamali.
+    </tei:p>
+    <tei:p>
+     32
+    </tei:p>
+    <tei:p>
+     ﻿Medzitým, suseda Zuza nemohla sa zdržať od zvedavosti, aby nevyšla   von zo dvora a tam ponad plot nedívala sa, čo sa robí u Maliarov.   Videla obloky osvetlené, i šumot vravy ju zavial. Nesmierna zvedavosť   ju opanovala. Chcela zvedieť, čo sa deje u susedov. Mala,   pravda, i bázeň pred cholerou, ale zasa tak ju to tiahlo, poťkalo ísť   ta, vidieť, ako je to a čo sa tam robí.
+    </tei:p>
+    <tei:p>
+     — Neslobodno ísť dnu! — počula od ulice hlas strážnikov. — Ale,   veď som mu ja vlastná sestra, — počul sa ženský hlas.
+    </tei:p>
+    <tei:p>
+     — A čo ja dbám, hoci ste mu i stará mať. Mne je tak rozkázané a ja   to musím plniť.
+    </tei:p>
+    <tei:p>
+     – Ci si len zhrdol! Ci ho vidíš! Čože by som ja mala byť môjmu   báťovi starou materou, keď som temer o desať rokov mladšia od neho.   Tak ma naskrze nepustíš?
+    </tei:p>
+    <tei:p>
+     — Nie. — Dobre, tak idem aspoň do susedov a tam sa spýtam, ako mu   je. Tí budú vedieť.
+    </tei:p>
+    <tei:p>
+     — Ta je nie zakázané, ta môžete. Ale aby ste sa neopovážili ísť do   Maliarov, lebo i vás potom zatvoríme.
+    </tei:p>
+    <tei:p>
+     — Ih,- veľká mi je o to starosť! Keď je zákaz, tak je zákaz. —* a   s týtai pristúpila k susedným uličným dvercipm a zaklepala na ne.
+    </tei:p>
+    <tei:p>
+     Zuza už počula všetko, a preto sa hneď poponáhľala otvoriť.
+    </tei:p>
+    <tei:p>
+     — Prišli ste i vy, ňaňa Anča?
+    </tei:p>
+    <tei:p>
+     — Čože by som neprišla! Mám toho jedného brata, a že by som nie!   Veď ak by umrel, tak by som si to nikdy nemohla od-: pustiť, vždy by   mi bolo na svedomí. A vieš, veď by som ja už bola skôr prišla, ale   sme sa na poli dlhšie zabavili. Prišli sme domov, keď už bola noc. A   tu kým sa složíš, kým to, kým ono. trochu sa treba i do-poriadku   doniesť, tak som len teraz stihla.
+    </tei:p>
+    <tei:p>
+     — Tak nevieš, ako je? — Asi pred hodinou, ba mohlo byť i viac, ma   ňaňa poslali po ňaňu mastiarku Krutošku. Tak sa mi zdá, že už i od-i   išla. Tam budú už i svatovou
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     33
+    </tei:p>
+    <tei:p>
+     ﻿— Ale sú nie horšie?
+    </tei:p>
+    <tei:p>
+     — Hádam nie.
+    </tei:p>
+    <tei:p>
+     — Ako by som sa mohla ta dostať? Keby si ma akosi dopravila.   Nemáte nejakého priechodu?
+    </tei:p>
+    <tei:p>
+     — Nájde sa, len poďte za mnou.
+    </tei:p>
+    <tei:p>
+     Zaviedla ju k humnu, tam mali dvercia. Ztade potom prešly cez   škáru do Maliarovho dvora. Zuza ani nezbadala, len keď už bola pri   dverách susedových. Strach ju prejal. Ak to predsa len zle bude. Ale   si potom pomyslela, že veď i iní idú, tí sa neboja, a potom, konečne,   možno na tom ani nič nebude, a tak ani nevedela, ako, len keď už bola   i s ňaňou Ančou dnu a hneď sa. zúčastnila čulého rozhovoru s   ostatnými.
+    </tei:p>
+    <tei:p>
+     Strážnik sa spokojne a s čistým svedomím prechodil pred domom   Maliarovým; veď bol úplne presvedčený o vernom vykonávaní rozkazu.   Vše zívol, vše niečo si zašomral, a čím diaľ. tým trs trpezlivejšie   čakal hodinu, v ktorej mal byť iným zamenený.,
+    </tei:p>
+    <tei:p>
+     T7 V .
+    </tei:p>
+    <tei:p>
+     Na druhý deň ráno sa náš báťa rozhodne lepšie cítil. V noci sa   dobre vypotil i póspal si. Pravda, bol hodne zoslabnutý, žalúdok mu   tiež bol ani vyplákaný; údy ako by mu ich bol niekto dotlkol, v   ústach mal chuť velmi odpornú. No jednako proti včerajšku bolo, s   níjnŕ o veľa slávnejšie.
+    </tei:p>
+    <tei:p>
+     Jeho stará sa už dávno vrtela pri robote. Izba už bola vyriadená,   zametená, taktiež i pitvor. Hyd bol tiež už nachovaný a prasce   negrúlily, ale spokojne ležaly a ich vyduté boky svedčily, že sa   gazdiná už postarala o ne a nachovala ich.
+    </tei:p>
+    <tei:p>
+     Ležal nehybne na posteli a pozeral hore na začadené hrady. Velmi   mu bolo príjemne okolo srdca pri pomyslení, že je už von z   nebezpečenstva. Nemal ešte veľkej vôle do tmavej komôrky. Zachcelo sa   mu ešte zohrievať sa na tom božom slniečku, veď sa ešte tam áosť   náleží. ;
+    </tei:p>
+    <tei:p>
+     34
+    </tei:p>
+    <tei:p>
+     ﻿— Či ste sa už zobudili? — spýtala sa ho do izby vkročivšia
+    </tei:p>
+    <tei:p>
+     žena.
+    </tei:p>
+    <tei:p>
+     — Už je chvíľka tomu, čo som sa precítil.
+    </tei:p>
+    <tei:p>
+     — Ako sa cítite?
+    </tei:p>
+    <tei:p>
+     — Lepšie mi je, len som trochu zoslabený a ako dobitý.
+    </tei:p>
+    <tei:p>
+     — Budete raňajkovať?
+    </tei:p>
+    <tei:p>
+     — Nemám chuti do jedla, len sa mi kyslé žiada. Keby si znala   tanierik kapustnice, ale kyslej, čo len tak páli, tak by som si   zachlipol.
+    </tei:p>
+    <tei:p>
+     — Co tárate, kdeže vezmeme v auguste kapustnice!
+    </tei:p>
+    <tei:p>
+     — Lala, veď je tak. A či nemáš trochu juchy z kvasených uhoriek.   Onehdy bola taká dobrá, ako nakyslasté víno.
+    </tei:p>
+    <tei:p>
+     — To len, to, už ste uhádli, to vám len chybí. Veď ak by ste sa z   nej napili, tak sa vám hneď vaša včerajšia paráda obnoví. Ja, keď si   len na ňu pomyslím, už mi hurtuje tamdnu. To by len bolo! Ako môžete,   starý človek, i také pýtať!
+    </tei:p>
+    <tei:p>
+     — Keď sa mi to žiada.
+    </tei:p>
+    <tei:p>
+     — Žiada, veď ste hádam nie žena, aby ste zabažali. Počkajte len   trochu. Donesiem vám hneď, čo vám načim. Navarila som dobrej   rascovky, len tak vonia, môže ju i sám cisár jesť. Tá vám žalúdok   zohreje i vám ho napraví. Niet lepšie pre takých, ako ste vy, nad   rascovú polievku, — a s tým už išla do pitvora,; aby tam z pavničky   nabrala do taniera z vychválenej rascovky.
+    </tei:p>
+    <tei:p>
+     Doniesla mu ju k posteli.
+    </tei:p>
+    <tei:p>
+     Sadnite ,si a zajedzte si. Počkajte, skôr musím pod tanier uterák   prestrieť na perinu, aby ste ju nepoliali, lebo to od vás tahko   vystane.
+    </tei:p>
+    <tei:p>
+     Starý prezrel so dve lyžičky a potom prestal. — Hádam je nie   dobrá? — spýtala sa urazená,
+    </tei:p>
+    <tei:p>
+     — Nie že by nebola, ale keby si mi kúsok chleba do nej namedlila.   Mohla si smidku i uhriančiť.
+    </tei:p>
+    <tei:p>
+     35
+    </tei:p>
+    <tei:p>
+     ﻿— Hla, veď som i mohla, ale či to včetko príde človeku do umu.   Dobrá bude i tak, — a pritom rezala malé kúsky chleba do   polievky.
+    </tei:p>
+    <tei:p>
+     — Dosť, dosť! Ktože to všetko stroví?! — Len sa vy najedzte, to je   hotový liek. Vošla dnu nevesta. Pozrela na chorého.
+    </tei:p>
+    <tei:p>
+     — A veď ste už zdraví! — zvolala zadivené, keď ho videla
+    </tei:p>
+    <tei:p>
+     jesť.
+    </tei:p>
+    <tei:p>
+     — A či mám ešte ležať? Veď hádam ma ešte nechceš vystrieť na   dosku... Na, už nechcem. Podaj mi, stará, kožuch a kapce. Vstanem   trochu, aby som sa povystieral, lebo som ako dolámaný.
+    </tei:p>
+    <tei:p>
+     — Ved ste si mohli ešte. — Podaj mi len, nie mi je dobre   ležať.
+    </tei:p>
+    <tei:p>
+     Podala mu. Vstal. Prešiel sa k stolu. Zprvu cítil takú slabosť, že   sa musel držať postele, potom sa stola prichytil, aby nespadol. Sadol   si k stolu na lavičku. Ale tu tiež dlho nevydržal.
+    </tei:p>
+    <tei:p>
+     — A kde je malý Ondriško? — spýtal sa nevesty.
+    </tei:p>
+    <tei:p>
+     — Spí ešte ani zarezaný. Celú noc sa neprebudil. Ani len vody   nezapýtal.
+    </tei:p>
+    <tei:p>
+     — Idem trochu von na slniečko, — a poberal sa drobným krokom od   slabosti. Na dvore sadol si na slnečné miesto a zahľadel sa, ako   sliepky hrabaly na hnojisku. Kohút dvoril peknej bielej kochličke,   ktorá, cítiac jeho priazeň, stále sa pridŕžala v jeho blízkosti.   Obskakoval okolo nej a vše krídlami zatrepotal. Ona, ako by toho ani   nebadala, hrabkala ďalej.
+    </tei:p>
+    <tei:p>
+     S ulice počuť hrkot voza. Zastal. O chvílku žatým niekto zaklopal   na vráta a zavolal:
+    </tei:p>
+    <tei:p>
+     — Otvorte!
+    </tei:p>
+    <tei:p>
+     — Kto to môže byť? — pomysle] si starý a zodvihol sa pomaly.
+    </tei:p>
+    <tei:p>
+     Zasa bolo počuť klopanie a volanie.
+    </tei:p>
+    <tei:p>
+     — Už idem, — zvolala nevesta a otvárala vráta.
+    </tei:p>
+    <tei:p>
+     36
+    </tei:p>
+    <tei:p>
+     ﻿Ale len čo ich trochu otvorila, už ich hneď i chcela za-
+    </tei:p>
+    <tei:p>
+     chlopiť.
+    </tei:p>
+    <tei:p>
+     — Len otvorte a neprotivte sa rozkazu, — zvolal strážnik a sám   pomáhal vráta otvoriť.
+    </tei:p>
+    <tei:p>
+     Žatým hneď vtialily kone desinfikačný stroj s komínom. Podobal sa   malému parostroju. Vonku na ulici pred otvorenými vrátami stála velká   hŕba divákov, ktorí s veľkou zvedavosťou čakali na neobyčajné   udalosti, ktoré sa malý odohrávať v Maliarovom dvore.
+    </tei:p>
+    <tei:p>
+     Chudák starý, mal s nôh spadnúť pri vide stroja.
+    </tei:p>
+    <tei:p>
+     — Čo chcete? —• Vidíte, že mi je už nič, — hovoril pri-í šlému   cholerášovi.
+    </tei:p>
+    <tei:p>
+     — Ja mám rozkázané, aby som všetko vyčistil, najmä šaty
+    </tei:p>
+    <tei:p>
+     a periny mám od cholery v pare očistiť, — a s tým už í začal   prípravy robiť.
+    </tei:p>
+    <tei:p>
+     Na povstalý ruch vyšla stará z pitvora na dvor. Pri vitie čudného   stroja ostala stáť ani Lótova žena. Od prekvapenia nemohla zprvu ani   slova preriecť. A keď strojník začal si priprávať stroj, začala sa   jej tisnúť krv do tváre, tak že zrudla. potení zas zbledla od zlosti.   Začala dych chytať, ako by* sa mala zadusiť. Konečne sa jej podarilo   dych dolapiť a s tým i spústá nádavok a viet vyhŕklo z nej.
+    </tei:p>
+    <tei:p>
+     — Čo tu chcete? Nie sme my prašiví, ani svrabu nemáme, aby ste nám   šaty metaly do pece. Beťah vás tam metal, aby vás meta,l i s týlmi,   kto vás poslal!
+    </tei:p>
+    <tei:p>
+     — Žena, nehovorže tak, lebo sa ti môže ešte zle prihodiť,; —   chlácholil si starý ženu.
+    </tei:p>
+    <tei:p>
+     — A vy, starý korhelisko, daromný, čušte. Veď ste vy vinovatí   tejto našej potupe. sa mu ísť do poľa, do roboty. Nechám ho doma,   reku, nechže sa mu stane po vôli, a tu, hľa, len jeden deň a čo sa   stalo!
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     37
+    </tei:p>
+    <tei:p>
+     ﻿Zahanbil sa starý, a to veľmi, keď naň tak žena vykrikovala, že   bok) počuť až 11a ulicu. Sklonil hlavu, trochu sa shrbil a, drobným   krokom odcbodiac, smutne povedal:
+    </tei:p>
+    <tei:p>
+     — Ale. stará, majže rozum, takúto hanbu mi robiť pred národom!
+    </tei:p>
+    <tei:p>
+     Starú už bol prvý nával jedu prešiel. Len teraz zbadala 11a ulici   shlúknutý zvedavý národ. Aby trochu zašemotila, zavolala jedovatým   hlasom:
+    </tei:p>
+    <tei:p>
+     — Akože mám hovoriť, keď sa nám taká potupa i škeda deje. Veď čo   by anjel bol, i ten sa musí nad tou neprávosťou pohoršiť... Ach, bože   môj, už i periny! — skríkla a už bežala
+    </tei:p>
+    <tei:p>
+     — Mara! Mara! Kdeže si ? — Co sa stalo, že, taký krik robíte? —   zvolala dobehnuvšia nevesta.
+    </tei:p>
+    <tei:p>
+     či nevidíš, čo robí choleráš? Veď už ide periny m e ta l do tej   prekliatej mašiny!
+    </tei:p>
+    <tei:p>
+     — Cit, cit, — šeptala nevesta, — Nechže ich vezme, veď sú to len   otcove. Ostatné som ja už popratala hore na pôjd. Tam len   nepôjde.
+    </tei:p>
+    <tei:p>
+     — No, len už robte, len si vyplňte vôľu! Nazdávate sa, že to osoží   niečo? To je všetko len panský výmysel, aby i 1ým chudobu trápili.   Môžete vy ver’, čo chcete, všetko nič neosoží, len čo pán boh chcú!   No, len robte, len robte, — a začala plakať. — Len tni zahubte tie   moje mozole. Veď je to všetko mojich rúk práca. i
+    </tei:p>
+    <tei:p>
+     — Ale, ňanička, veď sa im preto nič nestane, — tešil ju   choleráš.
+    </tei:p>
+    <tei:p>
+     — Akože by nie, keď ich tak oparíte a zasmradíte, — a utierala si   oči. — Mara, — zašeptala neveste, — choď dnu a sober všetky šaty a   odnes ich niekde. Nechaj dnu len starého nohavice a kabát, čo v- ňom   robieva, a k tomu ešte so dve •staré sukne.
+    </tei:p>
+    <tei:p>
+     38
+    </tei:p>
+    <tei:p>
+     ﻿Mara sa stratila, ale stará ďalej pokračovala vo vykladaní.
+    </tei:p>
+    <tei:p>
+     Medzitým, choleráš sa nedal mýliť vo svojom povolaní, ale   pokračoval v práci s náležitou svedomitosťou a dôkladnosťou.
+    </tei:p>
+    <tei:p>
+     Keď už i z jptoMednej ošumelej sukne vyničil do knôta všetky   bacily, vtedy prišla na rad druhá vážna robota.
+    </tei:p>
+    <tei:p>
+     Stará len teraz zbadala, že za strojom prišiel i druhý voz, na   ktorom bol naložený veľký šafeľ haseného vápna a ešte jedna veľká,   asi 8-litrová sklenica, ktorá bola naplnená žltkavou tekutinou.
+    </tei:p>
+    <tei:p>
+     — A teraz si musíte vy kadejaký kútik vykaliť, — povedal starej   choleráš.
+    </tei:p>
+    <tei:p>
+     — A prečo? Či je hádam hnusne u nás? Či sú naše steny nie biele,   ako by boly z cukru? — začala kričať urazená Maliarka.
+    </tei:p>
+    <tei:p>
+     — Ako čo by sme my ani inej roboty nemalý, len ustavičné kaliť, —   pomáhala jej práve teraz prišlá nevesta. — Veď my máme i inšie pred   sebou. tlEji i prať by nám bolo treba, a ešte sme ani konope   nevytrhaly.
+    </tei:p>
+    <tei:p>
+     — Mne je to jedno, Čí chcete, a či nechcete. Poviem v o-j becnom   dome, že nechcete, tak vám potom úrad dá vykaliť dom na vaše   trovy.
+    </tei:p>
+    <tei:p>
+     — Ešte by nám ten to bolo načim! A to všetko pre toho starygáňa, —   duclrala stará. — Chudoba všetko musí; keby to u natára, či by sa tam   pani notárka chytila, tam by bok* pomoci dosť. Avšak ver’, to by   dedina platila? Ale my...
+    </tei:p>
+    <tei:p>
+     — Ako chcete, mne je jedno. Mne je rozkázané, a vy si urobte, ako   viete. Ja vám,... Čože ja... •- a už sa poberal.; — Nemusím sa ja   vadiť s ľuďmi.
+    </tei:p>
+    <tei:p>
+     — Ale veď ja nie na vás, — začala stará druhu nôtu. — Veď ja,   viete... Ale predsa to musí dopáliť, keď nám takéto narobia. Ak teda   musíme, tak už len spravíme... Mara! Mara ľ
+    </tei:p>
+    <tei:p>
+     39
+    </tei:p>
+    <tei:p>
+     ﻿Poď, chyťme sa do toho, aby sme to ešte dnes skončily, lebo čas   nečaká, — obrátila stará, lebo sa bála, ak by ozaj z toho mohlo byť   niečo nepríjemného.
+    </tei:p>
+    <tei:p>
+     — Chyť šafel, nech ho donesieme do pitvora. A vy, starý, mohli by   ste doniesť vedro vody, lebo je husté, treba ho preriediť. A štetky   sú kde? — spýtala sa choleráša.
+    </tei:p>
+    <tei:p>
+     — A či nedoviezli?
+    </tei:p>
+    <tei:p>
+     — Ja ich nevidím.
+    </tei:p>
+    <tei:p>
+     — Ved vám temer oči nevykolú, aha, tam sú pod strechou, — hovorila   nevesta a už ich brala. — A to nové, novučičké.
+    </tei:p>
+    <tei:p>
+     Vo chvíli náradie bolo povynášané a kalilo sa o dušu.
+    </tei:p>
+    <tei:p>
+     Starého Maliara zasa čosi znepokojilo. Gholeráš sa nepoberal   domov, ale začal všetok dvor polievať vápennou vodou. Najmä smetisku   sa dostalo hodne z toho. Onedlho nebolo takého kúta vo dvore, ktorý   by nebol býval vápnom pokropený.! Po tomto vykropení dvor bol celý   biely, ako by bol snehom alebo páperím pokrytý, čo v auguste   bolo niečo neobyčajného.
+    </tei:p>
+    <tei:p>
+     Susedy i zprava i zľava vše jedna, vše druhá prišly k plotu.   -Jedna prestierala na plot nejaký opratý uterák, druhá zas prišla   sbierať ráždie. Bola to robota len naoko, lebo sa ony tam viac zo   zvedavosti, ako z potreby pridŕžaly, aby len čím viac videly, čo sa   robí u Maliarov.
+    </tei:p>
+    <tei:p>
+     Medzitým z uličných divákov jedno chlapča sa vydriapalo na vráta a   ztadc sa čudovalo, čo sa robí na dvore. Zrazu zvrie- sklo a   spustilo sa hbite dolu.
+    </tei:p>
+    <tei:p>
+     — -Jajda, jajda, mamička mojal Jajda, jajdal Už viac nikdy! —   vrešťalo. *
+    </tei:p>
+    <tei:p>
+     Hrubý hlas strážnikov sa do toho ozval:
+    </tei:p>
+    <tei:p>
+     — Bydeš sa tu liepať, potvora! Či nevidíš, že je tu cholera? A ak   sa mi nepakuješ, tak ešte dostaneš so dve!
+    </tei:p>
+    <tei:p>
+     Starý Maliar sa len díval, a díval, čo sa to rohí v jeho dome
+    </tei:p>
+    <tei:p>
+     a dvore. Zašomral a zahreší], ale len tak polohlasne, a krútil   hlavou nad tým prevráteným svetom a jeho bláznivými poriad-
+    </tei:p>
+    <tei:p>
+     40
+    </tei:p>
+    <tei:p>
+     ﻿kami. Takým sa teraz úbohým, opusteným a potupeným cítil, Do izby   sa neopovážil ani íst. Bál sa, ak sa žena zasa na ňom vyvŕši. Ľuďom   sa neopováži], ani do očú pozrieť, lebo sa nazdával, že každému   vyčíta z očú výsmech.
+    </tei:p>
+    <tei:p>
+     A ten otupný stav netrval dlho. Ani nezbadal, len keď sa mu kolena   dotkla malá rúčka Ondriškova.
+    </tei:p>
+    <tei:p>
+     Chlapča, ako sa vyspalo a najedlo, hneď sa vybatolílo na dvor, a   ako zazrelo starého otca, bežalo k nemu. Strapatý bol, líčka od   spania mal ešte červené a k tomu bol hodne, zafúľaný, lebo ho mať   ešte nemala času poumývať. 1 začal sa okolo starého otca obšmietať a   ustavične pritom niečo švitoril. I jemu bolo čudné, čo sa to deje u   nich. Vše sa zohol, jednou rúčkou chytiac sa giat starcových a   druhou rukou šmátral po vápnom zafŕkanej pôde. A keď mu už pršteky   boly biele od vápna, zodvihol sa, ukázal ich starému a zavolal:
+    </tei:p>
+    <tei:p>
+     »Bäk, buk«, čo malo znamenať zafúľané.
+    </tei:p>
+    <tei:p>
+     Slarý sa pri vide Ondriškovom trochu rozjaril.
+    </tei:p>
+    <tei:p>
+     — Už si sa vyhajal? — spýtal sa ho. — Jój, aký si bekanýt-Poď   utrem ti noštek.
+    </tei:p>
+    <tei:p>
+     — Nece! — zvolalo chlapčisko a chcelo odbehnúť od neho. Chytil ho   za rúčku, pritiahol ku sebe a ručníkom mu utrel nos.
+    </tei:p>
+    <tei:p>
+     Dieťa zvriesklo. Zaiste mu musel noštek pritisnúť.
+    </tei:p>
+    <tei:p>
+     — Neplač, počkaj, dám ti, — a hľadal v prusiiaku, čoby mu mohol   dať na ibranie; vytiahol kus motúza.
+    </tei:p>
+    <tei:p>
+     — Aha, spravíme bič. Bude puk, puk, a pôjdeme hotó! Vstal, šiel k   plotu, odrezal z neho prút a uviazal naň mo-
+    </tei:p>
+    <tei:p>
+     túz. Bič bol hotový.
+    </tei:p>
+    <tei:p>
+     Chlapcovi sa pri vide biča oči zaligotaly. Rúčky vztiahol k nemu a   zavolal:
+    </tei:p>
+    <tei:p>
+     – Daj, daj!
+    </tei:p>
+    <tei:p>
+     Starý mu podal bič a vrátil sa s blaženým Ondriškom na staré   miesto, aby si zase tam sadol.
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     41
+    </tei:p>
+    <tei:p>
+     ﻿Chlapča mávalo bičom na všetky strany a kričalo: »Hí, hí,   hotóle
+    </tei:p>
+    <tei:p>
+     — Nože tichšie, potvora malá, veď si mi malo oko vypichnúť.
+    </tei:p>
+    <tei:p>
+     Ale radosť starého netrvala dlho. Choleráš už bol dokončil prácu   na dvore a išiel do izby pozrieť, a vtedy zazrel malého! Ondriška,   ako sa hrá so starým otcom.
+    </tei:p>
+    <tei:p>
+     — Človeče, máte vy boha pri sebe, keď dovolíte, aby sa dieťa   obtieralo okolo vás?
+    </tei:p>
+    <tei:p>
+     — A prečo? — spýtal sa starý.
+    </tei:p>
+    <tei:p>
+     — Ešte vraj prečo! Veď máte choleru, a tá sa chytá. Tak vy   doprajete svojmu vnúčaťu, aby ju i ono dostalo? Odíďte preč od   neho.
+    </tei:p>
+    <tei:p>
+     Obloky na dome boly pootvárané a tak nevesta počula každé slovo.   Vybehla von ani bez smyslov, lebo i beztoho bola na starého   nahnevaná, že im toľko oštary narobil, chytila dieťa do náručia a   pozrela zlostne na starého.
+    </tei:p>
+    <tei:p>
+     — Keby ste už len raz dostali trochu zdravého rozumu, vy ... — a   doložila nie naj lichotivej šiu nadávku.
+    </tei:p>
+    <tei:p>
+     — Co sa ti robí? Ci ju vidíš? — zvolal urazený starý. — Ci som ti   ho vola! a ci čo? A či som nie v svojom dome? Há?! — a začal kričať:   — ešte sa mi taká jedna...
+    </tei:p>
+    <tei:p>
+     Na krik vybehla i stará, nestihla pritom ani štetky složiť z ruky.   Práve sa už chcela pustiť do sporu, keď tu zazrela; vápnom doriadený   dvor a ešte i na dverciach kŕmnika sa belel veľký biely kríž a okolo   neho plno väčších a menších okrúhlych škvŕn.
+    </tei:p>
+    <tei:p>
+     — Pre pána boha! Co sa to robí? — zalomila rukami. — No, toto   nechyroval ešte nikto, ako svet svetom stojí. Ach, bože môj, bože   môj! Co si len počnem ja nešťastná stvora! Veď sa toto ešte nikomu   nestalo-o. Veď je to pre nás velká potupa-a.; Dom náš i dvor takto na   maškaru obrátiť! — vykladala spevave.
+    </tei:p>
+    <tei:p>
+     42
+    </tei:p>
+    <tei:p>
+     ﻿— Ja som vám hneď vravela, — začala jej nevesta dohoJ várať, že to   nebude dobre, ak ich necháme samotných. Mali ste vy, mamo, len zostať   doma. Ale vy nie a nie, nech vraj len skúsi, ako je to doma zostať:   tak, hla, skúsili, ale i my s nimi. Ale tak je to, keď sa človek   mieša do takej roboty, ktorá je nie1 pre neho. A kto si nedorobil za   mladi, tak sa potom musn trápiť i na starosť.
+    </tei:p>
+    <tei:p>
+     — Uf, aby si tam: i s lemešom, aby ti hneď zdrevenel, ,ty jedna   naničhodnica! Ty mi budeš ešte... — vadil sa starý na nevestu.
+    </tei:p>
+    <tei:p>
+     Bolo by prišlo ešte, i do hrubšieho, ale choleráš práve vtedy   skončil robotu na dvore. Vzal velkú fľašu s tekutinou a niesol ju dnu   do chyže. Išly obe ženy za ním, aby videly, čo bude robiť s ňou. On,   ako by ich ani nezbadal, pekne-krásne počal kropiť z-jntejj, a to   najprv y prednej izbe. Robil to tak dôkladnej že sa z tekutiny   dostalo! i povale i všetkému náradiu.
+    </tei:p>
+    <tei:p>
+     Ťažký zápach rozniesol sa po celom dome.
+    </tei:p>
+    <tei:p>
+     — Co šte to narobili? Chcete nás vyhnať z nášho vlastného   príbytku? Kto bude môcť obstáť v tomto smrade? — zalamovala rukami v   zúfalstve stará.
+    </tei:p>
+    <tei:p>
+     — Všetko sa nám naberie tým smradom: šaty, periny, všetko to   bude tam, — dokladala nevesta.
+    </tei:p>
+    <tei:p>
+     — Co robím, to robím, — odvetil choleráš spokojne. Ja viem, čo   robím. Veď ma hádam sama obec poslala ta do Pešti, aby som sa tomu   vyučil. To je nie len tak, ako si to vy myslíte.- Nás tam na klinike   všetko naučili, kde čo načim. I sme hľadeli cez sklo, na tie drobné   zvieratká, čo choleru robia, nuž tak.1 Do mňa vy nebudete dodievať:   takto alebo takto. Ja viem, čo robím, a mám- i diplom. Á keď príde   sem pozrieť pán do-í ktor, tak musí uznať, že ja viem, ako treba   ničiť choleru. To je nie sa vy nazdávate, ale to je tak, ako sme sai   my učili. Veď ja som yide;] i té bacily: to   sú!drobulin~
+    </tei:p>
+    <tei:p>
+     43
+    </tei:p>
+    <tei:p>
+     ﻿ké zvieratká, čo choleru zapríčiňujú, nuž tak. Ale vy len svoje,   lebo vy neviete... Či ste vy videli niečo? Veď je, to nie tak, ako   keď Kľučiarka lišaj začituje ...
+    </tei:p>
+    <tei:p>
+     Ženy zprvu boly trochu prekvapené nad toľkou múdrosťou, ale potom   zasa, keď im smrad začal vŕtať v nose, počaly po-; znovu hlasité   svoju nevôľu na javo dávať. Ale to ešte teraz bolo všetko nadarmo,   lebo dielo bolo už náležíte zavŕšené a choleráš sa ponáhľal   domov.
+    </tei:p>
+    <tei:p>
+     Starému sa zunovalo samotnému byť na dvore, išiel teda pozrieť, čo   tie dve dnu robia; pravda, nie bez istej obavy.i Cítil sa byť   vinovatým, a preto nemal smelosti postaviť sa rázne proti nim. Ako   vstúpil dnu, poobzeral sa dookola. Videl vedro stáť na prostred izby.   Vzal ho a niesol ho von.
+    </tei:p>
+    <tei:p>
+     — čo ho nenecháte, tam, kde je?
+    </tei:p>
+    <tei:p>
+     — A (načo má tu stáť, keď ho už nepotrebujete?
+    </tei:p>
+    <tei:p>
+     — Načo, načo? Nuž nato! Prečo robíte, keď ste už penziáš? —   odvetila [stará posmešne.
+    </tei:p>
+    <tei:p>
+     Starému od jedu i od hanby krv udrela do tvári. Rozpa-, jedil sa a   skríkol:
+    </tei:p>
+    <tei:p>
+     —Teda ja som penziáš? No, keď som, nuž nechže som! —i a chytil   vedrb a hodil ho o zem.
+    </tei:p>
+    <tei:p>
+     — Jaj, bože môj! No, veď ste vy už zasa vyviedli! — začalý   bedákať ženy, keď videly, ako sa rozčapla voda po izbe. — čo teraz ?   (
+    </tei:p>
+    <tei:p>
+     líozbehly sa jedna v jednu, druhá v druhú stranu poi handry a   začaly nimi chytať vodu a žmýkať ju do šafľa a pritom ustavične   dodievaly do starého, ba ešte i jedna druhej si počaly výčitky   robiť.
+    </tei:p>
+    <tei:p>
+     Starý však, nasršený, nečakal nových nadáviek, ale vrátil sa do   dvora a tam si dudral:
+    </tei:p>
+    <tei:p>
+     — Bodaj iby ich! i s potvorami! Či to kedy slýchal človek? Idú do   mňa ani osy. Veď je to nie na vydržanie, a predsa há-;
+    </tei:p>
+    <tei:p>
+     44
+    </tei:p>
+    <tei:p>
+     ﻿dam len som ja gazdom v mojom dome! Toto posledné mu dodalo i ýíly   a smelosti. Vrátil sa dnu a zavolal:
+    </tei:p>
+    <tei:p>
+     — Počujte, nedudrite už toľko, ale radšej prihotujte niečo, veď už   mám skapať od hladu. Ani neviem, kedy som mal niečo v ústach.
+    </tei:p>
+    <tei:p>
+     Ženy tiež už boly náležíte vylačnely, a preto mu neodporovaly, ale   hneď daly do varenia. Rozumie sa, bez šomrania to tiež neišlo, ;
+    </tei:p>
+    <tei:p>
+     VI.
+    </tei:p>
+    <tei:p>
+     Medzitým, čo sa toto dialo u Maliarov, horná súsedka n2 horela od   zvedavosti. Videla ona, pravda, cez plot, ako cholcráš kropil dvor u   Maliarov, ale čo robil v dome, to zostalo pro ňu tajnosťou, a toto ju   veľmi vábilo, lebo práve ztadiaľ poču!;j zavše výkrik a vadu.
+    </tei:p>
+    <tei:p>
+     — Tam sa musia neobyčajné veci diať, — myslela si.
+    </tei:p>
+    <tei:p>
+     Zvedavosť stupňovalo i povedomie jej súčinnosti, lebo veď ona si   nabadurkala muža, aby oznámil, že je cholera u Maliarov. Chodila ani   na tŕni. Nemala nikde pokoja. Rozmýšľala, akým činom by sa mohla   dostať k nim, aby videla na vlastné oči všetko, čo sa dialo u   susedov. Jej položenie bolo háklivé, lebo sa okúňala muža, čo by on   na to povedal, keďže mu ona včera, také strachy nahnala.
+    </tei:p>
+    <tei:p>
+     — čo ti je? — spýtal sa je jmuž. — Len chodíš sem a ta* ako čo by   si niečo a kde nič tu nič. ,
+    </tei:p>
+    <tei:p>
+     — Čože by mi bolo, — odvrkla, ale zato jej nebolo nemilé * |    prihovorenie sa mužovo. — Len mi je čudné, keď si pomyslím, čo sa to   robí u tých susedov. A to pre nič za nič. Hla starý báťa tam sedeli   na kláte i s malým Ondriškom, ako by nič, a bič mu oprávali.
+    </tei:p>
+    <tei:p>
+     Palo sa mrzuté poškrabal za ušima a povedal:. — Veď tak, — a to   si ty všetkému príčina.
+    </tei:p>
+    <tei:p>
+     — Co? Ja?
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     45
+    </tei:p>
+    <tei:p>
+     ﻿— A ktože? Či si mi nehúdla ustavične o tej cholere? A že, by som   len išiel a takto, toto. Ja som sa dosť zdráhal a vravel,; že mi   nenačim, ale ty len svoje. Také si mi strachy až mi už začala husacia   koža nadskakovať.
+    </tei:p>
+    <tei:p>
+     — Veď vy mi hneď zakaždým, že som ja príčina. Nemuseli ste ísť,   veď ste chlap. A potom, veď to bolo i strašné. ako ich napínalo,   ako stenali. Nazdávala som sa, že hneď tam dušu vypustia. Ale (teraz,   keď je už dobre, ďakovať Bohu, docho-l dilo by, aby z nás niekto   išiel ich navštíviť, lebo v noci, keď. som bola na dvore, počula som   kroky i hovor od humna, tuk to zaiste boli ich porzieť. A ak by bola   išla ta i nižná suseda,, čo, ako ju poznám, sa toho ani nezdržala,   lebo ona všade musí dôjsť, kde sa niečo prihodí, tak viete: dochodilo   by i mne ísť, lebo ináče si môžu o nás všeličo pomyslieť.
+    </tei:p>
+    <tei:p>
+     — Veď však si sama...
+    </tei:p>
+    <tei:p>
+     — Veď som — čože som ? Len to som, aby sa oznámilo, že by sa   nerozšírila. Ale to som nie, aby sme ich nechali bez, pomoci. A   potom, viete, i hojím sa, ak by na nás mysleli, že sme my všetkému   príčina. A na to by lahko mohli prísť, jestli sa odtiahneme. Musíme,   viete, tak, ako druhí, aby potom na nás neukazovali.
+    </tei:p>
+    <tei:p>
+     — Hm, ty máš na všetko kadenciu, čo ja dbám, urob; si, ako vieš,   ale aby si sa nepreriekla.
+    </tei:p>
+    <tei:p>
+     — No, to by nám ešte chybelo, veď som hádam ešte pri
+    </tei:p>
+    <tei:p>
+     — No veď tak, lebo...
+    </tei:p>
+    <tei:p>
+     — Nebojte sa, — uspokojovala ho už veselo.
+    </tei:p>
+    <tei:p>
+     Bola rada, že muž už privolil. Prehodila si ručník. Vzala sebou   hodný spuštiak mlieka a už kráčala rýchlym krokom von do humna, aby   sa tadial mohla priplichtiť do Maliarov.
+    </tei:p>
+    <tei:p>
+     Právp vtedy dojedali Maliarove! bobovú polievku. Sedeli pod   ústreším na malých stolčekoch za nízkym stolom. r
+    </tei:p>
+    <tei:p>
+     — Pán Boh daj dobrý večer a daj vám na dobrý úžitok ŕ
+    </tei:p>
+    <tei:p>
+     — Daj Bože! Poď medzi nás, — núkala ju stará.
+    </tei:p>
+    <tei:p>
+     46
+    </tei:p>
+    <tei:p>
+     ﻿« — Ach, ďakujem pekne, my sme už po večeri. Prišla som vás   vidieť, ako ste, reku. Len sa to za amen všeličjoj pridá.
+    </tei:p>
+    <tei:p>
+     — Veru, veru, — odvetily ženy,
+    </tei:p>
+    <tei:p>
+     Starý si pomaly nabral z misy lyžicou a nepovedal ani, slova.   Mrzelo ho veľmi ustavičné vypytovanie. Ani len nepozrel na ňu.
+    </tei:p>
+    <tei:p>
+     — Doniesla som trochu mlieka, — hovorila trochu ostýchavé, — ak by   sa báťovi bolo zažiadalo. Prijmite vďačne, — podávala spuštiak   starej.
+    </tei:p>
+    <tei:p>
+     — Ďakujeme. Načo si sa len ustávala, veď to neboloi treba. ;
+    </tei:p>
+    <tei:p>
+     — Aké ustávame, máme ho, a potom i môžme.. — Ďakujem, a ste   zdraví? — spýtala sa zasa stará a vzala podávané mlieko do ruky.
+    </tei:p>
+    <tei:p>
+     — Ta sme ešte do týchto čias, nič nám nechybí. Ale sa to len   narobilo u vás! Hla, i dvor zavápenili. Kto to len slýchal? —   začínala už hlbšie.
+    </tei:p>
+    <tei:p>
+     — Ej, ver, kto to len videl, nás na taký posmech doniesť! A   ešte nám! i takú škodu a prácu narobiť, — doložila — Keby bolo zač,   ale — zastala —f a potom doložila: — Ešte| i periny, i šaty sme   si museli dať do tej mašiny, Lohdaj by: bola zhorela!
+    </tei:p>
+    <tei:p>
+     — Čo nepovieš?! No, toto je predsa len k bohu volajúca krivda, —   plašia rukami od zhrozenia nad takou velikou krivdou. — A ste hádaní   i kalily dnu? — a nahla hlavu napred, aby lepšie videla. — Veď ste   len nedávno riadily.
+    </tei:p>
+    <tei:p>
+     — Pravdaže sme, ale tu ti nám len rozkážu, vraj musíme, tak   čo ? Protiviť sa nemôžeš, musely sme sa teda do toho od-! dať. Ľahko   je tým rozkazovať, ale nám, čo robímlel Ale keby, len to, tak nech by   ho mútna voda vzala, ale nám ten choleráš éšté ; ĽaCôusi vodkou   všetko zafŕkal. To ti tam dnu smr-, delo, — no, na spadnutie.
+    </tei:p>
+    <tei:p>
+     47
+    </tei:p>
+    <tei:p>
+     ﻿Suseda sa medzitým priblížila až k dverám pitvornýml a za ňou, to   sa. rozumie, išla i nevesta.
+    </tei:p>
+    <tei:p>
+     — Poď .dnu, — volala ju nevesta.  Nedala sa dva razy núkať.   Už pri vchode len akoby; zatajené dýchala, aby jej od smradu, ktorý   jej nevesta predpovedala — zle neprišlo. Ale na jej nemilé   prekvapenie zápach už bol vyvetrený, tak že sa len málo cítil.
+    </tei:p>
+    <tei:p>
+     — Ale veď sa to temer ani nečuje, — prehovorila s náterom   sklamania.
+    </tei:p>
+    <tei:p>
+     — Chvála bohu, už hodne vypáchlo — odvetila natešene nevesta, —   ale vieš, zprvu, stvora božia, som sa nazdávala, že hádam i (do   týždňa nebudeme môcť dnu bývať. Najväčšmi bolo mi ľúto perín, a preto   ...
+    </tei:p>
+    <tei:p>
+     Pozrela na súsedu, zbadala jej na tvári zvedavý a pritom,   nepríjemný výraz. Zasekla sa. Nechcela jej povedať, ako odvláčila na   pôjd, čo len mohla, pred kropením a parením.
+    </tei:p>
+    <tei:p>
+     Suseda zbadala, že Mara chce niečo zatajiť pred ňou, ak-j by jej   nedôverovala. Možno, že ju i potvára. Pri tejto myšlienka strpia, ako   by jej boly mravce prešly po tele. Sklopila oči a potom sa rýchle   obrátila k obloku.
+    </tei:p>
+    <tei:p>
+     — Ale sa tu len až tak jagá všetko od čistoty.. A nc-t vidieť na   stene ani na povale ani len jedného žida.4) Musely ste mať dobré   vápno i štetky.
+    </tei:p>
+    <tei:p>
+     — Čo sa toho tyče, to už bolo. Nové-novučičké nám doniesli, z   obecného domu. Vápno tiež bolo ako sa patrí.  — Je pravda, mali   ste oštaru, ale teraz už máte hotové.; Nemusíte mať starosť o jesenné   kalenie. Budete už na pokoji do Kraeúna. Pri posledných slovách sa   zasa obrátila tvárou k Mare a pozerala na ňu a s úsmevom.
+    </tei:p>
+    <tei:p>
+     — Tak je ako vravíš. Ale ja by som to predsa nebola prijala ani za   neviem čo, hoci som chudobná stvora. Ako len,
+    </tei:p>
+    <tei:p>
+     *) Škvrny, pozostalé pri kalení, volajú židom,
+    </tei:p>
+    <tei:p>
+     48
+    </tei:p>
+    <tei:p>
+     ﻿mohli z takého ničoho narobiť takú oštaru. Kto im to leri   posvietil?!
+    </tei:p>
+    <tei:p>
+     — A ktože by — skočila jej súseda do reči, zasa znepokojená}
+    </tei:p>
+    <tei:p>
+     a šibla pátravé na ňu, či sa niečo už nevyzvedelo. — Veď ti to   teraz tak. Ci môžeš niečo zatajiť? Všetko vyňuchajú. Vysnoría skôr,   ako čo sa najbližší susedia dozvedia. Ja sama som} sa od Katy Vrtáčky   dozvedela, keď sa to už národ sbehával, čo sa deje u vás. Ja som   vtedy bola v humne, vyberala som tam cibuľu. Nájdu isa už i struky   bôbu suché, tak som ich pooberala, kým, reku, stačím, lebo keď sa   veľmi struk vysuší a potom na-) mokne, tak sa potom ľahko rozškerí a   potom bôb vypadne. Tak vidíš, najbližší súsedia sa pozdejšie   dozvedia, ako tí, ktorí na konci ulice bývajú. •• Ale som sa už hodne   rozkrákorila, bude ma môj starý hrešiť...
+    </tei:p>
+    <tei:p>
+     — Veď si sa mohla meškať ešte.
+    </tei:p>
+    <tei:p>
+     — Ach, idem len. Roboty vyše práva. Koľko ráz si hútam} kde sa len   toľká berie? Človek sa nazdáva: no, teraz už budem, mať trochu   odpočinku, — a tu hľa, len čo si pomyslíš, už sa naskytuje i   , i troje, tak že si nestačíš ani len minútku sadnúť.
+    </tei:p>
+    <tei:p>
+     Medzi hovorom poberala sa tichým, voľným krokom. Mara ju   vyprevadila a dosviedčala jej:
+    </tei:p>
+    <tei:p>
+     — Veď je ono tak.
+    </tei:p>
+    <tei:p>
+     — Len keď ste už lepšie. Keď len pán boh pomohol! Škoda by ich   bolo ešte. Človek sú, pravda, už vo veku, ale zato pri sile. A kdeže   sú? — spýtala sa idúcky.
+    </tei:p>
+    <tei:p>
+     — A boh vie, kde sa tytlú, — odvetila Mara nevrlé.
+    </tei:p>
+    <tei:p>
+     Ešte jej neprešiel hnev na svokra.
+    </tei:p>
+    <tei:p>
+     — Musím sa len tak prekĺznuť, — zašeptala, aby ma tu strážnik   nezbadal.
+    </tei:p>
+    <tei:p>
+     Práve chcela Už odbehnúť, keď tu stará vyšla von z komory a niesla   už umytý prázdny mliečnik..
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     49
+    </tei:p>
+    <tei:p>
+     ﻿— Tak sa už poberáš? — spytuje sa jej. — Veď si mohlj ešte zostať   u nás.
+    </tei:p>
+    <tei:p>
+     — Nestihnem, — odvetila šeptom a poobzerala sa, či ju nik nevidí v   Maliarovom dvore.
+    </tei:p>
+    <tei:p>
+     — Keď sa už tak ponáhľaš, tak si vezmi aspoň a ďakujem, ti.
+    </tei:p>
+    <tei:p>
+     — Eh, za málo! Co len to! I druhý raz vďačne, jestli bude   potrebné, — s tývn popchla krok a onedlho sa stratila.*
+    </tei:p>
+    <tei:p>
+     VII.
+    </tei:p>
+    <tei:p>
+     Starý Maliar po vystátom utrpení a chutnej večeri spal ani v   oleji. Stará, pravda, musela ho so dva razy i do boku lakťom ďobnúť,   aby tak nechrápal, lebo že nemôžu preňho ani oka zažmúriť, ale to   všetko neosožilo, lebo po nesrozumit;E lom zahundraní a zaínľaskaní,   len čo sa obrátil, zasa počal húsť svojustarú nôtu, ktorá prechádzala   cez všetky možné tóny. Na úsvite však vstal ani znovuzrodený. Hneď,   ako sa prebudil, zívol si niekoľko ráz z chuti, tak že mu až sánky   pukaly, spustil s po-i stele najprv jednu, potom druhú nohu.   Poškrabal sa v zátylí i po phlpatých prsiach a potom sa začal   obliekať. Keď sa obliekol, vyšiel von.
+    </tei:p>
+    <tei:p>
+     — Stará, — zavolal, — čí máš niečo prihotovené? t
+    </tei:p>
+    <tei:p>
+     — A či už? Iba ak zapraženej polievky.
+    </tei:p>
+    <tei:p>
+     — Ale daj m|i ty s tou žbrndou svätý pokoj! Keď nemáš inšieho, tak   si idem odrezať kúsok slaniny do komory. O chvíľku si už ukrajoval   slaninku s chlebíkom! i s eesna-1 kom.
+    </tei:p>
+    <tei:p>
+     — Ale by si mohla doniesť i dve zelené papriky, ale nech. sú hodne   ostré.
+    </tei:p>
+    <tei:p>
+     Žena mu doniesla a on sa oddal s chuťou do jedenia, len kedy-(
+    </tei:p>
+    <tei:p>
+     tedy zasŕkol a .oddrhol, keď mu paprika hodne popálila ústa.
+    </tei:p>
+    <tei:p>
+     50
+    </tei:p>
+    <tei:p>
+     ﻿Potom vzal do ruky krčah a ťahal z neho do seba dlhým glgom;   studenú vodu.
+    </tei:p>
+    <tei:p>
+     — Ejha, či je len dobrá! — prisviedčal si spokojne, keď kládol;   krčah do kúta. — Njo, a teraz už idem, — a bral si .náčinie a;   kabát.
+    </tei:p>
+    <tei:p>
+     — A kdeže chcete? — spýtala  ho žena. — Nuž, hla, idem na   Breziny.
+    </tei:p>
+    <tei:p>
+     — Pôjdete vy do Trantárie!
+    </tei:p>
+    <tei:p>
+     — Nuž a prečože?
+    </tei:p>
+    <tei:p>
+     — Preto, lebo fvás nepustia.
+    </tei:p>
+    <tei:p>
+     — Ale mňa? A prečo?
+    </tei:p>
+    <tei:p>
+     — Len tak, či nevidíte strážnika pred domom? Starý zostal ako   obarený. Teraz mu prišlo do umu, že je strážený. Prebudil sa zdravý a   čerstvý. V prvom radostnom pocite zabudol na stráž-š cu a chcel ísť   hneď do roboty. í — Tak? — povedal tiahlym, nevrlým hlasom a už   skladal kabát na posteľ. — A čo sa tam presúša ten daromník? líadšcji   by šiel na chotár dozerať! Tam môžu dežmovať, ako chcú. Aha\ kmotrovu   Iluculovu kukuricu tam v Skladinách pred niekoľkými dňami ako   doriadil nejaký darebák! Tri rady mu olámal a všetko kukuričie   dodrúzgal. Ale čo, — doložil už bystrejšie — veď ja im prejdem cez   rozum: pôjdem cez humno, tak potom nech si» dom varujú, ako chcú.   ;
+    </tei:p>
+    <tei:p>
+     — Ej, to už neurobíte, — odvetila mu žena rázne.
+    </tei:p>
+    <tei:p>
+     — A prečo nie ?
+    </tei:p>
+    <tei:p>
+     — Tak, lebo ak príde dnes pred obedom, alebo pred večerom komisia,   tak čo? čože im poviem, kde ste? Či mám za vás; platiť a či sa chcete   dať posadiť na niekoľko dní do chládku?
+    </tei:p>
+    <tei:p>
+     Nepáčilo sa to starému, ale sa predsa nechcel tak ľahko   poddať.
+    </tei:p>
+    <tei:p>
+     — A prečo by som nemohol von, keď iní môžu prísť k nám.: Veď i tým   je zakázané.;
+    </tei:p>
+    <tei:p>
+     — To je pravda, len v tom je rozdiel, že tí, čo prídu k nám
+    </tei:p>
+    <tei:p>
+     51
+    </tei:p>
+    <tei:p>
+     ﻿ukradomky, nebavia sa celý deň u nás, ani neprichádzajú k nám v   taký čas, keď chodí doktor. Ale vy by ste išli na celý deň.1 Medzitým   môžu prísť i desať ráz. A potom, koľkí ľudia by vás videli na ceste a   na poli? Mohol by vás niekto i oznámiť, lak! potom čo ?
+    </tei:p>
+    <tei:p>
+     Akože odolať takýmto dôkazom? Čo mal robiť iné, ako hodiť náčinie   o .zem, zahrešiť a sadnúť si na lavicu.
+    </tei:p>
+    <tei:p>
+     —1 Vidíte, čo ste si dopriali, — začala mu žena dohovárať. — Bolo   vám to načim? Ja som vám dosť pekne vravela: takto a takto, ale vy   nie. Kdeže sa vy môžete rovnať druhým penziá-i šom, ktorí si doma   brUchá vypásajú! Nech si tí robia, ako chcú,i keď majú z čoho, ale   my....
+    </tei:p>
+    <tei:p>
+     — Dosť už, nehnevaj má i ty, mám už beztak dosť.
+    </tei:p>
+    <tei:p>
+     — Veď vy hneď, keď niečo podkúrite... Máte tú istú výhovorku a   (nedáte sa povedať.
+    </tei:p>
+    <tei:p>
+     — Ale, čo mi máš tu perorovať, ani farár na kancli. Už. som   ti...
+    </tei:p>
+    <tei:p>
+     — Ja vám len pekne hovorím, aby ste... — Uf, to je už na   nevydržanie. — vzal klobúk a vyšiel na: dvor.
+    </tei:p>
+    <tei:p>
+     — Vy vždy tak, keď vám chcem do pravdy povedať a stúpiť vám do   svedomia, tak len ldooúk vezmete a hajde. .. Starý zastal ma dvore,   poobzeral sa a potom išiel k uličnýtíi dverciam, ak by už tam   strážnika nebolo, alebo ak by ho pustiL Otvoril dvercia a .vystrčil   hlavu na ulicu.
+    </tei:p>
+    <tei:p>
+     — Idete ho dnu! — skríkol naň strážnik a zatvoril mu dvercia pred   noson/, a to s takým hurtom, že i stará vybehla na, dvor.
+    </tei:p>
+    <tei:p>
+     — Prečo ma nepustíš? Nič zlého som nevykonal, ani soná nikoho   neokradol. Som, chvála bohu, zdravý. Ale vy tiež len tam svoju vládu   ukazujete, kde nenačim. Bohdaj...
+    </tei:p>
+    <tei:p>
+     — Čušteže, pre boha, lebo ešte zle obídeme! — chlácholila
+    </tei:p>
+    <tei:p>
+     52
+    </tei:p>
+    <tei:p>
+     ﻿ho žena. — Dajte už pokoj. Čo sa stalo, už sa neodstane. Veď pán   boh pomôže.
+    </tei:p>
+    <tei:p>
+     — Ale, daj mi pokoj, lebo i teba hneď...
+    </tei:p>
+    <tei:p>
+     — Ja nedbám, keď si nedáte povedať, ale potom sa neža-~ iujte, ak   vás soberú a odvedú do súdu.
+    </tei:p>
+    <tei:p>
+     Pri spomenutí súdu sa spamätal a hneď zacúchol. Znechutený vrátil   sa zas na dvor. Sadol si na klát, hlavu oprel o dlaň asdel tak   chvíľku. Čas sa mu veľmi pomaly niíňal. Zunoval i to. Vstal hore,   poobzeral sa po dvore, či mu netreba niečo opraviť. Dvor bol čistý a   v poriadku, len čo ho vápno hyzdilo. Ale, v kúte za chlievom bola   hŕba haluziny. Z jari kliesnili pri cestách moruše a v cjhtoríne   agáty, tak sa mu haluzia nasbieralo. Hodná hŕba ich bola, i na tri   vozy. Už ich dávno chcel posekať, ale nikdy nemal na to príhodnej   chvíle. Teraz sa mu naskytol čas. Vzal sekeru a djál sa z chuti do   roboty. Najprv okliesnil konáre; od menších haluziek, posekal ich na   drobno, aby boly dobré do pece a na ohnište. Hrubšie kusy odkladal na   bok. Rovnsjšie saj sídu na koly, krivé, porúbe na polienka. Robota mu   išla tak opli ruky, že ani nezbadal, len keď už bolo poludnie. Ženy   si tiež našly robotu. Mladá prala pri studni, stará zasa pod   ústrešírn plátala. Malý Ondriško sa vše pridružil k starej, vše zase   k mladej materi. Nezabudol prísť tiež k starému otcovi, aby mu   spravil zase bič, lebo včerajší bol už dávno v niektorom kúte   odhodený.; Starý teraz ínemial času s takou daromnioou sa prplať,   poslal ho teda k (starej materi, aby mu ho tá spravila.
+    </tei:p>
+    <tei:p>
+     S takou chuťou sekal haluzinu, až sa mu sekera hlboko za-; tínala   do kláta. Pri každom zatnutí hrubšie kúsky lietaly na ďaleko od neho.   Nejedno polienko zaletelo až k vrátam a tam taký lomoz narobilo, že   ľudia zastávali na ulici.
+    </tei:p>
+    <tei:p>
+     — čo sa to robí u Maliarov? — spýtala sa jedna zvedavá, ňanička,   zastaviac sa pri íle Kuchárovie.
+    </tei:p>
+    <tei:p>
+     Ha práve vtedy vyšla trochu pred svoj dom, ktorý stál oproti   Maliarovmu.
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     53
+    </tei:p>
+    <tei:p>
+     ﻿Ila sa potuteľne usmiala, bola známa ako veľká figliarka, a potom   potichu povedala: — A či neviete? Veď to u Maliarov cholera rúba   drevo. Ňanička s [nedorozumením, ba s istou bázňou pozrela na   ílu, ale keď videla posttvo sa zrkadliť na Ilinej tvári, tak   porozumela a zasmiala sa.
+    </tei:p>
+    <tei:p>
+     — No, ale ty si len! Pozri ju len! No, ale také! Vraj cholera   rúba! — Komu by to len prišlo do umu! — a zakaždým sa. zasmiala,   až jej oči nabehly slzami.
+    </tei:p>
+    <tei:p>
+     Ila sa tiež rozchychotala. Potom však, keď sa už dosť na-   smialy, Ila povedala:
+    </tei:p>
+    <tei:p>
+     — Nanička, aleže to nepovedzte nikomu, lebo starý báťa by sa na   mňa na smrť rozhnevali.
+    </tei:p>
+    <tei:p>
+     — O to nemaj starosti. Mala by i čo vraveť, — a s tým, odišla.
+    </tei:p>
+    <tei:p>
+     Ale zato v ten istý deň už celá dedina vedela, že u Maliarov   cholera rúba drevo.
+    </tei:p>
+    <tei:p>
+     Maliarova neobyčajná chuť do roboty neväzela íen v pokání pre   štrajk, ktorý sa mu tak nešťastne skončil, ani dlhá chvíla nebola   príčinou jeho rozohnenosti. Mal on k tomu ešte vážnejšiu príčinu.   Očakával totiž príchod komisie a doktora.
+    </tei:p>
+    <tei:p>
+     — Keď ma budú vidieť, — myslel si, — aký som zdravý, mocný, tak   jednoducho pošlú strážnika domov, a mne dovolia chodiť, kam chcem, a   robiť, čo chcem.
+    </tei:p>
+    <tei:p>
+     Nebola to zlá myšlienka od neho, len to bola pritom chybka, že   nevedel, kedy prídu. A v takýto čas má človek obyčajne tú smolu, že   ho práve vtedy prichytia, keď oddychuje. Potom už môže sa dušiť, ako   chce, nik mu neuverí. Čo mal robiť teda, musel sa sekerou ustavične   rozháňať, a len kedy-tedy odfúknuť si, i to len za ten čas, kým si do   dlane popľul. Chudák, ešte sa i vtedy poobzeral a načúval, či ozaj   neštrknú dverce.
+    </tei:p>
+    <tei:p>
+     Už temer celú hŕbu bol posekal. Okolo neho ležalo plno ráždia apo   lienok. Bolo to tak, ako keď pred pár storočiami od-J
+    </tei:p>
+    <tei:p>
+     54
+    </tei:p>
+    <tei:p>
+     ﻿súdenca za živa na spálenie obložili už ráždim a drevom. Už bol   chudák úplne zmorený, spotený a k tomu mu ešte i hodný mozoľ nabehol   na dlani.
+    </tei:p>
+    <tei:p>
+     Stará zprvu škodoradostne pozerala si kedy-tedy na muža, ako sa   usiluje, ale potom, keď videla, že ustáva a predsa sa pe-; chorí,   zavolala naňho:
+    </tei:p>
+    <tei:p>
+     — Čo sa už tolko namáhate? Máte času, nikto vás nenaháňa.! Ešte   ochoriete.
+    </tei:p>
+    <tei:p>
+     Maliarovi dobre padlý slová ženine. Keď už doktor nepri-i chodí,   aspoň mu žena uzná. I ho polutovala. Ale zato sa tváril,* ako by   nebol počul, a napäl si ešte zbytky sily. Za chvíľku sekal s   predošlou rezkosťou, i to-len preto, aby si nemyslela, že leň na; jej   slová čakal.
+    </tei:p>
+    <tei:p>
+     Práve vtedy, keď si už myslel, že už i tejto povinnosti zadosť   urobil a keď už chcel odložiť sekeru, počul zaštrknúť dverciá. Viac z   pudu, ako z povedomia, takou silou zodvihol sekeru a potom zatal ňou   do konára, že odťaté polienko odletelo, a to práve popri hlave   doktorovej, ktorý vtedy vstupoval do dvora. Doktor od laku odskočil   na bok a v prvom okamihu nazdával sa, že niekto hodil doňho polenom.   Práve chcel zavolať strážnika! na pomoc, keď zbadal, s akou   horlivosťou rúba starý drevo. Maliar sa tváril, ako by nebol zbadal   doktora.
+    </tei:p>
+    <tei:p>
+     — Báťa, co to robíte, veď ste nás mali polenom ovaliť, — zavolal   choleráš, ktorý práve za doktorom zatváral dverce.
+    </tei:p>
+    <tei:p>
+     — Ale ja? — spýtal sa nevinne Maliar.
+    </tei:p>
+    <tei:p>
+     — Veď hádam nie ja?
+    </tei:p>
+    <tei:p>
+     — Vidíš, že rúbam drevo.
+    </tei:p>
+    <tei:p>
+     — Ale sa zato nemusíte vŕšiť na ňom, tak sa oháňate tou   sekerou...
+    </tei:p>
+    <tei:p>
+     — A čo budem, keď nemôžem ísť po robote. Medzitým prišiel doktor k   nemu.
+    </tei:p>
+    <tei:p>
+     — Jó n apo t, hát mit csinál, ôreg? •— prihovoril sa mu.
+    </tei:p>
+    <tei:p>
+     55
+    </tei:p>
+    <tei:p>
+     ﻿Starý podvihol klobúk, utrel si pot s čela a potom odpovedal:
+    </tei:p>
+    <tei:p>
+     — Veru ja nerozumiem, pán doktor, čo hovoríte.
+    </tei:p>
+    <tei:p>
+     — Spytujú sa vás, — vysvetľoval mu choleráš, — čo robíte.
+    </tei:p>
+    <tei:p>
+     — A ver, pekne prosím, sekám, hľa, túto haluzinu, keď ma nepustia   von. A keď mi je nič, tak keby ma už pustili...
+    </tei:p>
+    <tei:p>
+     — A ver, pán doktor, — skočily do reči i stará i nevesta, načim   nám zarobiť si na chleba. Treba nám ísť do pofa. My máme z toho veľkú   škodu í ešte ostuáu-.
+    </tei:p>
+    <tei:p>
+     — Mit beszélnek? — spýtal sa doktor choleráša.
+    </tei:p>
+    <tei:p>
+     Vysvetlil mu lámanou maďarčinou.
+    </tei:p>
+    <tei:p>
+     — A to nejde len tak. Kým nepríde odveta z Pešti, že môžete byť   pustení, za ten čas nesmiete von ani na krok.
+    </tei:p>
+    <tei:p>
+     — Ach, bože môj, veď sme zdraví! — To je mne jedno, to v Peští   rozhodnú.
+    </tei:p>
+    <tei:p>
+     — A dokedy to bude trvať? — spytuje sa stará.
+    </tei:p>
+    <tei:p>
+     — Neviem, môž byť, už zajtra, môž byť napozajtre. Nie je tiež   vytvorené, že potrvá i niekolko dní.
+    </tei:p>
+    <tei:p>
+     Posledné slová doložil viac žartom, aby ich nastráchaL
+    </tei:p>
+    <tei:p>
+     — Jaj, bože môj, hádam len nie.
+    </tei:p>
+    <tei:p>
+     — Veru sa to môže stať. A ak bude dokázaná cholera, taki vás potom   ;ešte o niekoľko dní dlhšie podržíme v zátvore, ak by na niektorom z   vás vypukla.
+    </tei:p>
+    <tei:p>
+     — To nám len ešte treba. Ach, bože môj, bože môj, čo to len bude!   — začala vykladať v zúfalstve stará.
+    </tei:p>
+    <tei:p>
+     — No, no, no, netreba hneď zúfať. To je nič. Aspoň si na staré dni   ,trochu oddýchnete.
+    </tei:p>
+    <tei:p>
+     — To, to, to, treba nám oddychu. Ej, už nám ho len treba L To len   pánom treba a tomuto starému penziášovi. To všetko pre jeho   daromnosť. My, chudobné stvory, oddýchneme si už len tam na   cintoríne. Do tých čias však musíme robiť, aby sme sa) mali na zimu z   čoho Vyživiť a zaodiať.
+    </tei:p>
+    <tei:p>
+     Doktor ich vysvetlivky viac nepočúval. Prešiel s cholerášom po   dvore. Obzrel, či je všetko poriadené a vápnom pokropené.
+    </tei:p>
+    <tei:p>
+     56
+    </tei:p>
+    <tei:p>
+     ﻿Do izby nevošiel, ale si len cez otvorený oblok hlavu dnu   vstrčib
+    </tei:p>
+    <tei:p>
+     a tak poobzeral, či je všetko v poriadku. Potom sa ešte niečo   spýtal cboleráša a žatým sa vrátil domov.
+    </tei:p>
+    <tei:p>
+     Len čo uličné dverce za sebou zatvoril, už tu obe ženy celú spustu   výčitiek vysypalv na úpbhého Maliara.
+    </tei:p>
+    <tei:p>
+     í— Bolo‘nám to načim? Ci sme nemohli žiť pekne v pokoji a robiť   svoju prácu? Ale vám robota naveky smrdela, — sekala stará. — Teraz   sa už môžete povaľovať. — Veď je to len hriech od pána boha takýto   deň stergafi doma, — pomáhala nevesta svokruši. — Koľko sme si mohli   za ten čas zaroeiť. A tu sa povaľujeme už druhý deň a trovíme hotové.   Ale keby len to, ale môže tu utiecť i týždeň.
+    </tei:p>
+    <tei:p>
+     — Nepleť, — odvetil jej starý.
+    </tei:p>
+    <tei:p>
+     Po hlase mu bolo poznať hryzenie svedomia, tak ticho, smutne to   povedal.
+    </tei:p>
+    <tei:p>
+     — Co? A či ste na vlastné uši nepočuli? — odvetila mu hneď v   zápätí nevesta.
+    </tei:p>
+    <tei:p>
+     — Čože vám navariť na obed? Bude dobre hádam paprikáš teľací, čo?   Zarobili ste si naň, — ťala mu stará do živého.
+    </tei:p>
+    <tei:p>
+     Prišlo jej práve teraz do umu, ako jej ohrdil zemiakovú   polievku.
+    </tei:p>
+    <tei:p>
+     — Len si vykonaj svoje, ty staré ohreblo. Len ma zjedaj, však ma   už nebudeš dlho trápiť, — odvetil starý a, odložiac sekeru na bok,   šiel tichým, smutným krokom do komory a zatvoril dvere za sebou.
+    </tei:p>
+    <tei:p>
+     Ženy, nevidiac predmet sporu pred sebou, zatíchly a vrátily sa   každá ku svojej robote. I nastala tichosť, prerušovaná len nevestiným   piestom a kedy tedy Ondrejkovým džavotom, ktorý vše jednu, vše zasa   druhú niečím unúval.
+    </tei:p>
+    <tei:p>
+     — Ach, bože môj, veď je už obed, — zvolala stará, keď počula   zvoniť na poludnie.
+    </tei:p>
+    <tei:p>
+     A už i šla k rozmetanému ráždiu, vzala z neho za náručie, ale   pritom neopomenula zadudrať: — ani si ho len nepoukladal,
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     57
+    </tei:p>
+    <tei:p>
+     ﻿ale ho nechal porozhadzované po celom dvore. — Potom vošla do   pitvora, tam založila oheň. Onedlho už škvrčala masť na pavničke,   nasypala trochu múky a na drobno pokrájanej cibule oi pilne to   miešala varečkou, aby zápražka neprihorela.
+    </tei:p>
+    <tei:p>
+     Zapražená polievka sa onedlho už parila v hodnej hlinenej mise,   položenej na nízkom stole pod ústreším.
+    </tei:p>
+    <tei:p>
+     — Mara, poď jesť a doveď sebou i Ondriška. Starý, poďte už jesť! —   volala všetkých.
+    </tei:p>
+    <tei:p>
+     Mara odložila piest, ruky si poutierala do zástery, Ondriška vzala   na ruky a tak potom pristúpila k stolu.
+    </tei:p>
+    <tei:p>
+     — A prečo nejde ten starigáň? Vždy sa dáva vyvolávať. — Veď už   poďte! — zavolala ešte silnejšie.
+    </tei:p>
+    <tei:p>
+     Nikto sa neozval. — Kdeže ,sa podel?
+    </tei:p>
+    <tei:p>
+     — Veď išli dnu do komory.
+    </tei:p>
+    <tei:p>
+     — Idem poň, —! a s týjm sa už i sobrala.
+    </tei:p>
+    <tei:p>
+     Chytila kľučku, pritlačila ju, no dvere sa neotvorily. Zabúchala   na ne päsťou a ešte skríkla:
+    </tei:p>
+    <tei:p>
+     — Veď už otvorte! Či spíte, či čo vám je?
+    </tei:p>
+    <tei:p>
+     Dvere sa len neotváraly, ani nepočula nijakej odvety.
+    </tei:p>
+    <tei:p>
+     Mráz jej prešiel po tele. Hrozná predtucha sa jej zmocnila.   Priložila ucho ku dverám, ak by predsa niečo počula. Nič. Pozrela cez   kľúčovú dierku, tam tiež nič nezbadala.
+    </tei:p>
+    <tei:p>
+     — Mara, Mara! — vykríkla zdesene.
+    </tei:p>
+    <tei:p>
+     — Čo je? — pribehla nevesta ako bez duše. — Čo sa vám robí?
+    </tei:p>
+    <tei:p>
+     — Ten sa zaiste oželel. Ten si niečo urobil, — a zuby jej začaly   drkotať, ako by ju zimnica bola pochytila.
+    </tei:p>
+    <tei:p>
+     — Ale ba ...
+    </tei:p>
+    <tei:p>
+     — No, už je tak. Či sa nepamätáš na jeho posledné slová: — »Však   ma už nebudeš dlho trápiť!* Ach, ja nešťastná stvora, čo som to len   vykonala. Veď som ja to tak nemyslela. Ach,
+    </tei:p>
+    <tei:p>
+     58
+    </tei:p>
+    <tei:p>
+     ﻿človek môj dobrý, ach, mužu môj milý! čo ste mi to len urobí.i! —   začala vykladať.
+    </tei:p>
+    <tei:p>
+     — Tichože buďte, mama, pobúrite všetkých súsedov. Ešte nevieme, čo   sa stalo, môž byť, že len tuho zaspali, lebo...
+    </tei:p>
+    <tei:p>
+     Stará sa spamätala. Zatíehla. Ale triasla sa na celom tele.
+    </tei:p>
+    <tei:p>
+     — Ach, ako sa len k nemu dostať, keď sa zatvoril, — zabedákala a v   zúfalosti zasa začala búchať celou silou na dvere.
+    </tei:p>
+    <tei:p>
+     — Nerobte taký hurt. Poďte, donesieme rebrík, opreme ho na konci   domín o stenu, tam je otvor na pôjd, ztadiaľ potom môžeme sísť   schodami dolu do komory.
+    </tei:p>
+    <tei:p>
+     — A ’veru máš pravdu.
+    </tei:p>
+    <tei:p>
+     Ako povedané, ,;tak i urobené.
+    </tei:p>
+    <tei:p>
+     VIII.
+    </tei:p>
+    <tei:p>
+     Báťa Martin, vidiac, že mu ani úsilné rúbanie nič neosoží, k tomu   trpké výčitky a úštipky ženine, a najmä ten nešťastný teľací   paprikáš, tak sa ho bôľ ne dotkly, že ostal zmalátnelý na tele i na   duchu. V takomto stave utiahol sa do komory, a aby mu ženy daly   pokoj, zamkol za sebou dvere. Ľahol si na poste!. Chvíľku sa   premetával, potom zaspal. Počul on v spaní niečo, ako by ho boly   volaly, ale sa mu to akoby len zo sna zdalo. Len keď už veľký buchot   povstal, vtedy sa prebudil. »Čo je to?« pomyslel si. V tom počul   nepokojné volanie ženino. »Co sa stalo, že tak volá?« Vstal s postele   a i chcel otvoriť, keď počul, ako stará volá na Maru. *Tá sa   niečoho bojí«, prešlo mu umom a postál trochu. »IIádam o mňa«, pri   poslednej myšlienke zostal ticho, až dych zatajil.
+    </tei:p>
+    <tei:p>
+     — Ten si zaiste niečo urobil! — počul zvonku.
+    </tei:p>
+    <tei:p>
+     »Aha«, a sa škodoradostne usmial, — »však sa hojíš? No, čakaj, veď   ti ja ešte trochu strachu naženiem, viem, že ti prejde chuť ustavične   dodievať do mňa. Just ti neotvorím, po-.
+    </tei:p>
+    <tei:p>
+     59
+    </tei:p>
+    <tei:p>
+     ﻿tráp sa trochu,-; a na prstoch vrátil sa ku posteli a sadol si na   ňu.
+    </tei:p>
+    <tei:p>
+     Ach, ako mu dobre padlo počúvať vykladanie ženino. *líľa, teraz   som už1 i »človek« môj dobrý, i »muž môj miíý« a predtým len   »korhelisko«! Počkaj len, veď ty to odpykáš«. Ale keď počul spomínať   rebrík, vtedy sa znepokojil. »Kde sa len skryť, aby ma menašly?«   poobzeral sa rýchle, potom na jeho vek si neobyčajnou rezkosťou začal   sa štverať hore schodmi ja pôjd. Keď už bol na pôjde, bežal v   protivnú stranu pôjdových dvier. Tam v kúte bola složená poňva.   Učupil sa za ňu a počúval, čo ženy budú robiť. O chvíľku počul   šramot. »Rebrík opieraj ú «, pomyslel si. Tváril sa, ako by spal a   len troštíčku podvihol vĺčka, aby videl, čo budú robiť. í videl   najprv hlavu ženinu vykuknúť, potom ihneď žatým sa už celá vyštverala   na pôjd, Za ňou to isté urobila nevesta. Stará hneď bežala ku   schodom, ktoré viedly do komory, za ňou bežala i nevesta. O chvíľku   zmizly.
+    </tei:p>
+    <tei:p>
+     — Jaj, bože môj, veď ho tu nieto! — počul z komory hlas ženin.
+    </tei:p>
+    <tei:p>
+     — A či sú nie niekde na pôjde? — hovorila so strachom nevesta. —   Veď sme len tak prebehly, ani sme sa neobzri; !v. Ak by sa boli na   niektorú hriadku ...
+    </tei:p>
+    <tei:p>
+     —Jaj, čo to len hovoríš, bože môj, bože môj I v!o to len teraz   bude! — bedákala stará. — Mara! Mara! Iď ty vopred!
+    </tei:p>
+    <tei:p>
+     — Ja nepôjdem, ja sa bojím.
+    </tei:p>
+    <tei:p>
+     — Tak mňa pusť, — a odtisla nevestu a stúpala hore -chodmi,
+    </tei:p>
+    <tei:p>
+     — Div, že nespadla, tak sa jaj podlamovaly nohy od strachu. Ako   vytrčila hlavu z otvoru, s takým strachom obzrela sa po pôjde, že si   srdce počula búchať v prsiach. Na pôjde holo pološero. Na priečnych   hriadkach, ktoré spája ly ramená rohov, bolo všeličo navešané! Zdalo   sa jej to také príšerné, najmä vrecia a rozličné šaty. Vyštverala sa   s veľkou námahou hore a za ňou tiež i nevesta. Postáíy chvíľku tesne   jedna pri druhej.
+    </tei:p>
+    <tei:p>
+     60
+    </tei:p>
+    <tei:p>
+     ﻿lebo boly od strachu ako by na jedno miesto prikuté. Konečne sa   predsa odvážily a pohly sa vlečným, tichým krokom napred. Každú   hriadku si obzrely so strachom, či ho nezazrú niekde visieť na   povrázku. Takto prešly po celom pôjde, ale starého nenašly. Trochu im   bolo ľahšie na srdci.
+    </tei:p>
+    <tei:p>
+     —Ale kde sa len mohol podieť, veď jc predsa nie ihla, pološepky   hovorila stará.
+    </tei:p>
+    <tei:p>
+     — Ja sama neviem. V komore ich niet, tam sme každý kúsok prezrely,   a tu ich tiež nieto... Aha, mama! — zvolala prekvapene odrazu, keď sa   bola dobre poobzerala po kútoch.
+    </tei:p>
+    <tei:p>
+     — Čo je? Čo vidíš? — šeptala stará a hlas jej zmieral od strachu.   , {
+    </tei:p>
+    <tei:p>
+     — Aha tanť, v tom kúte, veď tam oni ležia, — ukazovala prstom na   starého.
+    </tei:p>
+    <tei:p>
+     Stará pozrela v tú stranuj, a ozaj videla tam v pološere ležať   niečo, čo sa podobalo chlapovi. Srdce jej zabúchalo od nepokoja.
+    </tei:p>
+    <tei:p>
+     Pribehly k nemu. Starý tváril sa, ako by tuho spaL Stará sa   sklonila nad neho, pozrela mu do tvári a plece mu pomykalaf
+    </tei:p>
+    <tei:p>
+     — čo to robíte? Vstávajte! — zavolala.
+    </tei:p>
+    <tei:p>
+     Starý sa tváril, ako by sa z tuhého sna prebúdzal. Zamľaskal,   zahundral niečo a konečne otvoril ospanlivé oči.
+    </tei:p>
+    <tei:p>
+     — Čo to vystrájate? Takto nás nastrašiť! Celá sa trasiem od laku,   — dohovárala mu žena.
+    </tei:p>
+    <tei:p>
+     — čo? Prečo? čo sa stalo? — hovoril nesúvisle.
+    </tei:p>
+    <tei:p>
+     — Hľadáme vás, už ako ihlu. Nazdávaly sme sa už, že ste si niečo   urobili, — prehovorila nevesta.
+    </tei:p>
+    <tei:p>
+     — Ale ja? Aha, však vás zlé svedomie hrýzlo. Vždy idete do mňa ako   osy.
+    </tei:p>
+    <tei:p>
+     — Len ste nám vy vykonali! Ešte sa i teraz celá trasiem, čo som   tolký strach prestála. Poďte hneď dolu. A. čo ste sa- tuučupili?
+    </tei:p>
+    <tei:p>
+     Čajak: Cholera
+    </tei:p>
+    <tei:p>
+     61
+    </tei:p>
+    <tei:p>
+     ﻿— Išiel som na pôjd, tam, reku, nepočujem vašich jedovatých   jazykov, a potom ma akosi sen prikváčil.
+    </tei:p>
+    <tei:p>
+     — Poďte už len dolu. Viem, že polievka zastydla. I chlapča,   neoiem, čo si už od tých čias nenarobilo, lebo ho je všade plno, kde   je zle.
+    </tei:p>
+    <tei:p>
+     Sišli pekne-krásne dolu všetci traja. Starý šiel posledný. Stará   sa, kým neprišli na dvor, i dva razy za ním či ide za nimi.
+    </tei:p>
+    <tei:p>
+     Posadali si za stôl. Nevesta posadila si dieťa na lono a tak ho   chovala.
+    </tei:p>
+    <tei:p>
+     — Žena, a ty prečo neješ?
+    </tei:p>
+    <tei:p>
+     — Nemôžem, všetko ma bolí, tak som sa naľakala...
+    </tei:p>
+    <tei:p>
+     Mara, keď sa naješ, zabehneš do apatieky a kúpiš mi za dvadsať   haiierov  Faku!«*) Cestou môžeš sa zastaviť i u Krutošky,   aby ma prišla trochu roztrieť, lebo nohy i ruky sú mi ako zmeravené a   bolí ma celé telo. Musela sa mi krv zaseknúť.
+    </tei:p>
+    <tei:p>
+     V to odpoludnie mal báťa Maliar svätý pokoj. Ženy mu už výčitky   nerobily, ba naopak, stal sa div, divúci. Stará totiž poslala nevestu   pred večerom do jatky na mäso a kázala jej spraviť paprikáš, lebo   vraj treba otcovi sily nasbierať po tej chorobe. Sama variť ešte,   pravda, nemohla, hoci »tuhý íak« ju trochu zohrial i Krutoška sa   pousilovala poroztierať zaseknutú krv, ale jednako sa i teraz cítila   ako dobitá a íadvie i nohy pod kolenami ju boleJy, ako by jéj bol tam   niekto britvou rezal.
+    </tei:p>
+    <tei:p>
+     IX.
+    </tei:p>
+    <tei:p>
+     Na druhý deň nastal mier u Maliarov. Ženám sa už nechcelo dudrať   na starého. Boly bez vôle. Len tak sa tmolily po dvore , po   dome. Práca im nešla od ruky. Stará, pravda, posbierala na pôjde ešte   akési klky a začala ich priasť. Ale v auguste priasť, keď vozy   ustavične hrkocú do poľa a z poľa,
+    </tei:p>
+    <tei:p>
+     *) Kvapky od laku.
+    </tei:p>
+    <tei:p>
+     62
+    </tei:p>
+    <tei:p>
+     ﻿keď v poli práca len tak horí, a ona má tu sedieť pod praslicou,   ako by už bola 80 ročnou mamičkou Stehlíčkou, ktorá už nedovidí, ani   nevládze, tak už len od roka do roka sliní to vlákno.
+    </tei:p>
+    <tei:p>
+     Neveste už tiež podošvy horely. Cítila sa, ako vták v klietke. Ale   obe najväčšmi to mrzelo, že sa teraz so svetom nemohly stýkať. Nik sa   už nestaral o nich. rKaždý div trvá len tri dni«, tak to bolo i u   Maliarov. Ľudia len do tých čias mali o nich záujem, kým to bola   novota. Teraz však, keď videli, že je všetko v poriadku a niet nad   čím ani oči pásť, ani sa tak dobre poplakať, ani pomoci nepotrebujú,   tak išlo to käždé svojou cestou a za robotou.
+    </tei:p>
+    <tei:p>
+     Ani len susedia nedbali o nich. Tí tiež len čo sa brieždiť počalo,   už zapriahli do voza a šli do poľa a nevrátili sa len v pozdný   večer.
+    </tei:p>
+    <tei:p>
+     Báťa Martin bol tiež ako otrávený. Nikde si nenašiel miesta.   Chodil po dvore len tak bez vôle. Pravda, poukladal ráždie   horko-ťažko, ale pritom stenal a vzdychal, ako by boh vie akú ťažkú   prácu bol robil. Potom našiel niekoľko povesien priadze.1 Zmotal ju   do klbka. Nalial do hrnčeka vody, klbko položil dloň a Ipotom položil   si hrnček pod pazuchu a začal priadzu presukovať na motúzy.
+    </tei:p>
+    <tei:p>
+     Ale povedzte vy mne, či je to letná robota? A to ešte pre chlapa!   Veď to chlapi nerobia už len v hlbokej jeseni a v zime. I to na   posiedke, kde sa dá i o všeličom poshovárať. — ale teraz? Keby ho   niekto takto videl, tak by sa mfu hneď! vysmial. Ani sa nezdržal dlho   pri nej, tak sa mu zhnusila. Položil hrnček; i s klbkom na policu.   Preň sa veru už m močiť i do Kračúňa, nedotkne sa ho.
+    </tei:p>
+    <tei:p>
+     Ale čo robiť? Hľa, najlepšie bude, ked si staré bačkory popláca.   Začal sa teda s nimi prplať. Ani to mu nešlo od ruky. Kúsok kože,   ktorý chcel upotrebiť na záplatu, bol ako drevp tvrdý. Šidlo nešlo   doň, musel ho teda najprv močiť. Keď šil
+    </tei:p>
+    <tei:p>
+     63
+    </tei:p>
+    <tei:p>
+     ﻿pichol si šidlo i dva razy do prsta. Div divúci, že i to ne; hodil   do kúta.
+    </tei:p>
+    <tei:p>
+     Ani len do jedenia im nešla chuť, len tak omáľali. Ani nepamätali,   kedy by im bol býval taký dlhý deň, ako práve dlnes. Nevedeli sa už   dočkať večera. Konečne prišiel i večer.
+    </tei:p>
+    <tei:p>
+     Už boli odzvonili na večer, keď sa brali na odpočinok. Len keď tu   počujú ceknutie dveriec a žatým rýchly krok sa blížiť. Začúchli. Co   to bude zas? Niekto silno zaklopal palicou na vereje pitvorných dvier   a žatým ozval sa známy boženíkov hlas :
+    </tei:p>
+    <tei:p>
+     — Gazdovia!
+    </tei:p>
+    <tei:p>
+     —Čože je? — spýtali sa a vyhrnuli sa všetci traja dfo pitvora.
+    </tei:p>
+    <tei:p>
+     — Odkazujú vám pán doktor, že už môžete vyjsť von. Prišla odpoveď,   z Pešti. To vraj nebola cholera.
+    </tei:p>
+    <tei:p>
+     Tváre všetkých sa odrazu vyjasnily a jazyky rozviazaly,
+    </tei:p>
+    <tei:p>
+     — Ja som dobre vedel, že nemám cholery, ale čože, keď mi neverili,   — vravel starý.
+    </tei:p>
+    <tei:p>
+     — Ale beťah, nie cholera. Aká cholera! To nie len tak. No, aj nás   tu pre nič za nič zatvorili, ako čo by sme bolí boh vie akí, —   dudrala stará Urazene.
+    </tei:p>
+    <tei:p>
+     t- Len keď sa už skončilo! Á či už tú ohavu, búdku, odvezú zpred   nášho domu? — spýtala sa nevesta.
+    </tei:p>
+    <tei:p>
+     — Rozkaz je vydaný, aby ju ešte dnes odviezli.
+    </tei:p>
+    <tei:p>
+     — No, chvála bohu. Ale strážnikovi nikdy nezabudnem. Preňho som si   rozdrapila sukňu, a to novú, len v máji kúpenú, keď som sa musela   štverať cez vráta, čo nás ten čudák njechcel dnu pustiť. Tak sa tam   rozhadzoval, ani nejaký generál, a tu Mišo Sekanovie. Veď on nebude   dlho oblečený. Vezme ešte i on motyku do ruky. Potom mu vyčítam, či   sa to tak robí so svojím národom!
+    </tei:p>
+    <tei:p>
+     — Stará, — hovoril rezko Maliar svojej žene, keď hoženflf
+    </tei:p>
+    <tei:p>
+     64
+    </tei:p>
+    <tei:p>
+     ﻿odišiel, — choď po kapseľu a polož mi do nej okruh c,hleba,   slaniny a so dve cibule. Nezabudni dať i trochu soli, aby sním mal   zajtra niečo na obed na poli. Ak by som zaspal, ta že ma zobuď, aby   som mohol včas odísť do roboty.
+    </tei:p>
+    <tei:p>
+     Obava jeho bola márna. Len čo sa brieždiť počalo, už sa báťa   Maliar šmotkal po dvore. Nalial prascom do válova, sliepky vypustil z   kurína. Potom zapáliac si na fajočku, prehodil si kapselu cez plece,   a ozbrojený potrebným náčiním vykračoval si ulicou von do poľa. Tak   sa cítil ako znovuzrodený. A čudné je, ale je zato pravda, že mu ani   len do umu neprišlo závidied penzionášstvo iným.
+    </tei:p>
+    <tei:p>
+     (1917.)
+    </tei:p>
+    <tei:p>
+     K o ,i i e c..
+    </tei:p>
+    <tei:p>
+     65
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

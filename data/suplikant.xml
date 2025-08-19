@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1935110" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Suplikant : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kubáni, Ľudovít (1830 - 1869)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     16006
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kubáni, Ľudovít
+     </tei:author>
+     <tei:title>
+      Suplikant
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Nakladateľstvo slovenskej ligy
+     </tei:publisher>
+     <tei:date>
+      1935
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-19">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     SUPLIKANT
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿I.
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      VÝPRAVA
+     </tei:head>
+     <tei:p>
+      Na Jána r. 1845 — ako všade na evanjelických školách — aj my sme   skladali skúšku na gymnáziu v Miškovci.
+     </tei:p>
+     <tei:p>
+      Rodených Slovákov bolo medzi nami málo, a i z tých už boli   niektorí pomaďarčení. Najviac bolo Spišiakov. Tí tvorili polovicu   našej triedy. Na hlavnú skúšku poprichodili otcovia, matky, aby   videli, za čo vyhadzujú horko ťažko nadobudnuté peniaze: jedni, aby   sa potešili, druhí aby svraštili čelá, tretí, aby povyplácali dlhy,   ktoré narobili nádejní synkovia po krčmách, cukrárňach a obchodoch —   a štvrtí, aby hneď na mieste vylátali svojich synov, ktorí daromné   premrhali čas.
+     </tei:p>
+     <tei:p>
+      Aj ja som bojazlivé očakával otca z domu; nie, že by som mal zlý   prospech, ale pretože ma omínaly rôzne dlžôbky a kabát v záložni.   Yelká suma to síce nebola, ale môj otec bol chudobný dedinský učitel   a ja som vedel, že nedonesie mešec dvadsiatnikov, aby si vymenil   syna, lebo ešte nezaplatil ani za byt, ani za stravu. No
+     </tei:p>
+     <tei:p>
+      7
+     </tei:p>
+     <tei:p>
+      ﻿darmo som sa obával! Otec neprišiel ani na skúšku, ani po skúške.   Aj som sa tomu tešil, aj ma to rmútilo, —najmä keď som videl   naradovaných kamarátov prechádzať sa s rodičmi, ktorí si ich od   radosti k sebe túlili a bozkávali.
+     </tei:p>
+     <tei:p>
+      I ja letím po skúškach domov, ako by mi päty horely, že azda tam   nájdem otca, keď sa oneskoril na skúšku. Ale márne moje strachy i   túžby — o ňom ani chýru ani slychu! Po izbe sa prechodil iba môj   domáci, ktorému som bol dlžen za byt už pol roka a šomral si čosi   popod nos o mojej dlžobe a o mojom otcovi. Už by som bol vďačne   vytrpel bitku za zastavený kabát, len keby otec tu bol býval. Ani   pozrieť som sa nemohol na domáceho! Upieral na mňa svoj e jastrabie   oči tak ostro — tak prísne, — ako kat na svoju obeť.
+     </tei:p>
+     <tei:p>
+      Za mnou prišli domov aj moji šťastnejší kamaráti, posadali si za   stôl, dali sa do halušiek, aby po duševných útrapách, vyhoveli i   žiadostiam brucha.
+     </tei:p>
+     <tei:p>
+      Hodil som knihy do kúta, vybehol von, sadol na podstenie a ja,   šestnásťročný mládenec, tak bolestne som sa rozplakal, ako chlapec,   ktorý zablúdil v hore a nevie, kde sa má podieť. Veď som bol sám na   svete, kdežto v izbe kamaráti jedli, pili a smiali sa v kruhu svojich   rodičov. Zdalo sa mi, ako by ten ich veselý chichot znel len mne na   posmech, vyskočil som a letel von z mesta na čisté povetrie, ako by   horelo.
+     </tei:p>
+     <tei:p>
+      Sám neviem, kade som blúdil — hlava mi horela, srdce búchalo a   nohy letely, kým bolo v nich sily a kým som
+     </tei:p>
+     <tei:p>
+      8
+     </tei:p>
+     <tei:p>
+      ﻿nepadol na tvrdú zem, zomdlený slabosťou a bôľom, kde som nakoniec   i zaspal.. . .
+     </tei:p>
+     <tei:p>
+      Prebudil som sa iba na druhý deň, keď mi zasvietilo blýskavé slnce   do zatvorených očú. Skočím s tvrdého lôžka, obzerám sa okolo a   čudujem sa, kde som sa tu len vzal. Pomaly mi popricbodily na um moje   včerajšie osudy: strach, túžby a sklamané nádeje. Len som smutno   pokýval hlavou a pobral som sa k mestu, domov.
+     </tei:p>
+     <tei:p>
+      Všetci moji kamaráti poodchodili; zdalo sa mi, že iba mne je   súdené ostať ako záloha za dlžoby. Síce som celou cestou premýšľal,   ako by som sa dostal domov k rodičom, ale darmo! Nemohol som si   vymyslieť slušný spôsob, ako sa odpratať. Nakoniec som sa rozhodol   siahnuť len k tomu všeštudentskému, t. j. nepovedať ani „zdraví   buďte!“. . . len pobrať nohy na plecia, a hybaj do svojej dediny. Tu   mi sišlo na um na moje nešťastie, či radšej šťastie, že veru nemám   ani haliera — a z Miškovca do Dubovíc bolo dobrých sedem míľ, aj v   bruchu mi už nemilosrdne škvrčalo.
+     </tei:p>
+     <tei:p>
+      Ach, čo, myslím si, kuráž platí, kocka hrá! Predsa len idem domov,   veď už asi nikoho nebude v mojej izbe; vezmem bielizeň, šaty, nový   klobúk, dostanem za to pár zlatých. A veď čože? naostatok zájdem aj   za päť grošov do vytúžených Dubovíc!
+     </tei:p>
+     <tei:p>
+      Dictum, factum1); tak to urobiť. Ale keď je človek cieľu   najbližšie, niečo neočakávaného mu podrazí nohy a skríži úmysly.
+     </tei:p>
+     <tei:p>
+      x) Ako povedané, tak sa stalo.
+     </tei:p>
+     <tei:p>
+      9
+     </tei:p>
+     <tei:p>
+      ﻿I mne sa tak poviedlo!
+     </tei:p>
+     <tei:p>
+      K domu som sa akosi prikradol, ale dnu, ako sa dnu dostať?   Obkukávam dookola, načúvam, či je niekto dnu, pozerám oblokom — všade   pusto, ticho! No, dobre je, pomyslel som si, a hup doprostred izby!   Nie, omyl, ostal som na prahu ako prikovaný!
+     </tei:p>
+     <tei:p>
+      Po izbe sa prechádzal môj profesor — ipsissima persona2)! — a v   kúte fajčil môj domáci prísnej tvári. Úzko mi bolo okolo srdca, ani   von, ani dnu, prišiel som z dažďa pod odkvap. Vale tibi3) útek môj!   vzdychol som tak citlivo, že mi slza v oku zaibrala.
+     </tei:p>
+     <tei:p>
+      „No len sa dnu, Slovák uram4)!“ povedal pán profesor, ktorý,   mimochodom rečeno, pri všetkom zakorenenom maďarstve, bol dobrým   srdcom a vo svojej dobrote sa dakedy neodvrátil ani od Slováka. Vážne   mi pokýval rukou, ako by sedel za katedrou.
+     </tei:p>
+     <tei:p>
+      Triasol som sa, ako osika.
+     </tei:p>
+     <tei:p>
+      Na rozkaz profesorov vtiahol som sa dnu a zastal som so sklopeným   zrakom uprostred izby, očakávajúc výrok nad svojím previnením, ktoré   som síce neurobil, ale ktoré profesor už iste odsúdil.
+     </tei:p>
+     <tei:p>
+      Bolo neznesiteľné ticho. Profesor mlčal, domáci mlčal, iba vo mne   búchalo dačo tak nahlas ako kováčske kladivo. Nakoniec vystrel domáci   svoje dlhé nohy, vypustil oblak dymu a zamrmlal sťa medveď:
+     </tei:p>
+     <tei:p>
+      2) vo svojej skutočnej podobe 3) s Bohom 4) pán Slovák
+     </tei:p>
+     <tei:p>
+      10
+     </tei:p>
+     <tei:p>
+      ﻿„Veru pekne, otec ma má za blázna a syn tiež! Jeden sa neukáže,   druhý zmizne a ani sa neopýta: ,Gazď uram5), čo som dlžný?1 “
+     </tei:p>
+     <tei:p>
+      Chcel som hovoriť, ale Bob vie, čo mi uzamklo ústa, nemohol som   ich ani otvoriť.
+     </tei:p>
+     <tei:p>
+      Pán profesor sa nado mnou slutoval, lebo som sa triasol od   strachu.
+     </tei:p>
+     <tei:p>
+      Prívetivo sa usmial, chytil ma za ruku, poklepal na plece, pozrel   do očú a milo povedal:
+     </tei:p>
+     <tei:p>
+      „Tak, Slovák uram, chcel si ujsť a mne, tvojmu terajšiemu otcovi,   lenilo sa ti prísť povedať: pán profesor, majte posbovenie. Ej,   fiam6), to som si od teba nezaslúžil. No ale povedzže mi, kde si sa   túlal od včera obeda, veď ťa moji poslovia nikde nemohli   vykutať.“
+     </tei:p>
+     <tei:p>
+      „Ja—ja —ja —som—bol “, zajakalsomsa, slzy mi hraly v očiach, lebo   som viac nemohol povedať ani slova. „Hádam si bol kabát vymeniť,“   zašomral domáci a ofúkol ma dymom z fajky, ako by ma chcel   odfúknuť.
+     </tei:p>
+     <tei:p>
+      Zachvel som sa po jeho slovách ako osika vo vetre. Keby ma   profesor nebol držal za ruku, bol by som asi na zem spadol. Myslel   som, že iba sám viem o kabáte v záložni — a tu domáci spomína i pred   profesorom môj tajný hriech.
+     </tei:p>
+     <tei:p>
+      „Nechajme to,“ hovoril profesor, „také niečo sa stáva i iným   študentom, ale povedz mi, Palikám7), čo mieniš te-
+     </tei:p>
+     <tei:p>
+      6) pán gazda, tu majitel bytu, domáci 6) syn môj j 7) Palko   môj
+     </tei:p>
+     <tei:p>
+      11
+     </tei:p>
+     <tei:p>
+      ﻿raz robiť? Za stravu si dlžen, za byt si dlžen, ako to vyplatíš?   Mne za hodiny, ale to ti odpustím, lebo si sa pilne učil a si   chudobný chlapec, ale byt je nie môj a stravu tiež nikde zdarma   nedávajú. Nože povedz, čo budeš robiť?“
+     </tei:p>
+     <tei:p>
+      „Ach, prosím ponížene,“ zašeptal som, „veď ja neujdem, veď ja tu   zostanem kým — kým — kým otec po mňa nepríde, alebo kým nepošle   peniaze.“
+     </tei:p>
+     <tei:p>
+      „Ba ešte že čo,“ zahundral domáci, „ktože vás tu bude zadarmo   chovať, ktože vám dá byt zadarmo?“
+     </tei:p>
+     <tei:p>
+      „Tvoj otec alebo príde, alebo nepríde, peniaze pošle, alebo nie,   nerob si nádeje,“ hovoril profesor. „Niečo iné sa musí urobiť.“
+     </tei:p>
+     <tei:p>
+      „Iné urobiť? No, na moj’ dušu, pomašíruješ niekde do služby,“   pomyslel som si. Veľmi som sa naľakal, lebo chudobných chlapcov   dávali do služby k bohatým panáčkom, a ja som sa toho bál, ako čert   svätenej vody.
+     </tei:p>
+     <tei:p>
+      Pán profesor sa zamyslel, domáci ešte si vždy popod nos   pohundrával a jeho „teremtette8)“ nemilo doliehalo k mojim ušiam.   Pozorne som pozrel na profesora, čo asi zamýšľa. Konečne sa ku mne   obrátil so slovami:
+     </tei:p>
+     <tei:p>
+      „Palikám, vieš ty čo? Niet inej pomoci, musíš ísť na   suplikáciu9).“
+     </tei:p>
+     <tei:p>
+      8) maďarské zakliatie; ti tvojho... 9) Cirkevné školy evanjelické   v Uhorsku, stredné i vyššie, vydržovaly sa v týchto časoch väčšinou z   milodarov cirkevníkov. Jeden spôsob sbierania milodarov bola   suplikácia. Cez letné prázdniny chodili starší chudobní študenti po   cirkvách im pridelených a „suplikovali“. Istý diel sosbieraných   peňazí patril im.
+     </tei:p>
+     <tei:p>
+      12
+     </tei:p>
+     <tei:p>
+      ﻿„Na suplikáciu?!“ vykríkol som a bol by som skákal od radosti.
+     </tei:p>
+     <tei:p>
+      „Musíš ísť na suplikáciu, a síce na horné Slovensko! Veď aj ty si   Slovák, skúsiš sveta, niečo si usporíš, aby si vyplatil dlžoby. Za   byt a stravu ti zatiaľ poshovejú.“
+     </tei:p>
+     <tei:p>
+      Tak som bol dojatý, že som skoro padol pred ním na kolená. Z   vďačnosti som mu ruku bozkal a tešil som sa ako dieťa jarmočnému.
+     </tei:p>
+     <tei:p>
+      O hodinu bolo všetko v poriadku: dostal som suplikantskú knižku,   vypočul dobré rady pána profesora a nadovšetko ma potešil dvadsiatnik   na cestu. Ešte raz som sa po izbe poobzeral, vzal nový klobúk,   obliekol kabát, najlepšie nohavice, pod pazuchu vzal trochu bielizne,   domácemu povedal „s Bohom sa majte“ a hybaj!
+     </tei:p>
+     <tei:p>
+      Yesele som sa poberal na suplikáciu na borné Slovensko.
+     </tei:p>
+     <tei:p>
+      13
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿II. PEKNE PREPYTUJEM, JA SOM   NIE ŽOBRÁK
+    </tei:head>
+    <tei:p>
+     „Nepáľže tak, napál ty jánové slnko, nevysielaj také ohnivé lúče,   lebo ony nemilosrdne pália zelené lístie stromov, bujnú trávičku,   krásne kvietočky a chudáka suplikanta.“
+    </tei:p>
+    <tei:p>
+     Takto som vzdychal, keď som už tretí deň pochodoval z Miškovca do   slávneho kráľovského mesta Brezna. Nešiel som už tak rezko, ako v   prvý deň svojej suplikantskej púti. Vliekol som sa pomaly, len tak s   nohy na nohu. Pot sa mi lial cícerkom s tvári, líca mi blčaly o závod   so slnkom, ktoré nemilosrdne svietilo na suplikantského   začiatočníka.
+    </tei:p>
+    <tei:p>
+     Hej, veru je to zaslúžený chlebíček a ktože vie, či mi pôjde k   duhu. Ako vidím, ani suplikantom nelietajú pečené holuby do huby. A   dvojnohá ekvipáž ma už tiež oinŕza.
+    </tei:p>
+    <tei:p>
+     Čím dlhšie som šiel, tým vzdialenejším sa mi zdalo slávne mesto.   Ešte som ani vežu nezazrel, lebo s tejto strany mesto len vtedy   vidno, keď je človeku pred no-
+    </tei:p>
+    <tei:p>
+     14
+    </tei:p>
+    <tei:p>
+     ﻿som. Vtedy som to ešte nevedel, preto moja cesta nemala konca   kraja, nebol to ani div pri mojich zapuchnutých suplikantských   nohách.
+    </tei:p>
+    <tei:p>
+     Aj žalúdok ma znepokojoval, lamentoval, lebo od Tisovca som nič   nemal v ústach. Dosť som ho presvedčoval, že trpezlivosť je krásna   ctnosť, ale to nič nepomáhalo. Zacengal som poslednými krajciarmi,   ale ani to neúčinkovalo.
+    </tei:p>
+    <tei:p>
+     Nuž, čo tu robiť?
+    </tei:p>
+    <tei:p>
+     Musím energicky vystúpiť, spravím sa hluchým.
+    </tei:p>
+    <tei:p>
+     Po Brezno som si ho už nevšimol.
+    </tei:p>
+    <tei:p>
+     Okolo druhej popoludní dokyvotal som sa konečne do mesta, vlastne   len do predmestia pod Kiepku, čiže pod Klepuš. Môj nepokojný žalúdok   utíchol i nohy okrialy. Konečne v prístave. No, ale kam ísť. Do fary,   či do školy? Len to by mi chýbalo! Tam by hneď videli z mojej knižky,   že je to nie môj suplikantský okres, že je sem už iný určený a neboli   by mi dovolili chodiť po meste. Mám ísť do krčmy „K Zelenému stromu“?   Načo? Za dva krajciare aj tak nič nedostanem. Bolo to kritické   položenie.
+    </tei:p>
+    <tei:p>
+     Rozmýšľal som, či by som sa nemal vzchopiť a po krátkom oddychu   len tak s prázdnym žalúdkom ísť ďalej do Liptova. Keď som chcel   uskutočniť tento plán, žalúdok zaprotestoval.
+    </tei:p>
+    <tei:p>
+     „Potreba zákon ruší“ a len čo somsaprešmykol popod bránu, hup do   prvého domu na štvorhrannom námestí. . . Takto som začal suplikovať z   domu na dom. Začiatok bol znamenitý.
+    </tei:p>
+    <tei:p>
+     15
+    </tei:p>
+    <tei:p>
+     ﻿Páni mešťania uštedrili môjmu vačku, panie žalúdku. Len čo som   ukázal knižočku, usadili ma za stôl a núkali pána suplikanta   bryndzou, inde zasa dobrým maslom a sladkou kávičkou. Vrecká sa mi   plnily desiatnikmi aj striebornými dvadsiatnikmi. Groše by som nebol   prijal, bo nijaký poriadny suplikant ich neprijímal. Aj skutkom som   dokázal, že poriadny suplikant prijíma len poriadne dary.
+    </tei:p>
+    <tei:p>
+     Rozpoviem vám o tom krátku príhodu. Vyšiel som z domu, v ktorom ma   mladá panička pohostila kávou, v ruke som držal blýskavý dvadsiatnik,   ktorým ma obdaroval mladý manžel, len tak bez podpisu.
+    </tei:p>
+    <tei:p>
+     „Za to si kúpiš peknú fajku,“ pomyslel som si „a ak niečo zvýši,   dám si zaplátať čižmy pánu Tesnošilovi.“
+    </tei:p>
+    <tei:p>
+     Tu som zočilnajnádhernejší obchodkrálovského mesta, pravda s   nemeckým nápisom ,,Fr. M. Grosshandlung“. Vkročil som dnu. Pomocníkov   bolo plno, všetci zdvorilé obsluhovali slečinky, ktoré si tam prišly   pokúpiť potrebné veci. Sám šéf revidoval za písacím stolíkom svoje   „soli und haben“, hodil po mne okom, s posmešným „vítam“ vstal, trel   si ruky a pýtal sa: „Čo ráčite rozkázať?“
+    </tei:p>
+    <tei:p>
+     Vážne som si zastal a hoci som sa slečiniek aj trochu hanbil,   vytiahol som z vrecka knižočku a odkašlal si:
+    </tei:p>
+    <tei:p>
+     „Nič nerozkážem, len prosím a osmelujem sa odporúčať túto knižočku   vašej svetoznámej štedrosti.“ Môj kompliment nedosiahol žiadaného   účinku. Obchodníkova tvár, prívetivo usmiata pri mojom vstupe, po   mojich
+    </tei:p>
+    <tei:p>
+     16
+    </tei:p>
+    <tei:p>
+     ﻿slovách sa svraštila ako kyslá uhorka. Prebehly ňou znaky   sklamania nad ušlým ziskom. Nakoniec sa pán veľkoobchodník spamätal,   siahol do stolíka a podal mi — groš. Slečinky sa potuteľne usmievaly.   To ma dopálilo. Očervenel som, ústa sa mi zimnične chvely pri   odpovedi: „Pekne prepytujem, ja som nie žobrák.“ Groš som opovržlivo   odhodil, schytil kupcovo pero a napísal do spomínanej knižky:
+    </tei:p>
+    <tei:p>
+     „Pán Oklamátor, veľkoobchodník v Brezne 20 strieborných   krajciarov.“
+    </tei:p>
+    <tei:p>
+     Teraz sa začervenal obchodník a zlostne sa rozkričal: „Čo to   robíte? Takú drzosť si vyprosím!“
+    </tei:p>
+    <tei:p>
+     „A ja si tiež vyprosím, aby ste mňa riadneho suplikanta považovali   za žobráka a dávali mi — groš“ a schoval som knihu.
+    </tei:p>
+    <tei:p>
+     „Suplikant a žobrák všetko jedno,“ ozval sa znovu rozhorčený   Oklamátor, otvoril priečinok a trasúcou sa rukou podával mi   dvadsiatnik.
+    </tei:p>
+    <tei:p>
+     „Nechajte si to, pane! To vám bude miesto nádejného zisku! Ja   žobrák vám to darujem!“
+    </tei:p>
+    <tei:p>
+     Po tomto som sa obrátil k usmiatym slečnám s hrdou poklonou a   hybaj von z obchodu, odkiaľ zaznelo čosi ako „impertinenter   Mensch10)“. Znovu zaznel srdečný smiech slečiniek, tento raz však   nepatril mne, ale vymydlenému pánu Oklamátorovi.
+    </tei:p>
+    <tei:p>
+     ,0) drzý, bezočivý chlap
+    </tei:p>
+    <tei:p>
+     Supltkanl — 2
+    </tei:p>
+    <tei:p>
+     17
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿III. SUPLIKANTSKÝ CECH
+    </tei:head>
+    <tei:p>
+     Na druhý deň zastal pán suplikant na hraniciach Zvolena a Liptova,   práve na vrchu Čertovice. Utrel si spotené čelo a zvolal zvýšeným   hlasom ako Mojžiš na vrchu Nebo:
+    </tei:p>
+    <tei:p>
+     „Vítaj mi, zaslúbená zem, vítaj mi Kanaán mojej suplikantskej   púti! Približujem sa k tebe ako tvoj zákonný dedič. Ty si určená   vôlou miškovského profesora, aby si poskytla štedré dary na výchovu   budúcich synov vlasti.“ Keď pán suplikant, t. j. ja sám, dohovoril,   švihol som na všetky strany sveta svojou zbraňou, hlohovou palicou,   ako by som sa mal zmocniť, podobne ako uhorský kráľ, predo mnou   ležiaceho majetku, t. j. vrchov a dolín.
+    </tei:p>
+    <tei:p>
+     Výjav s pánom Oklamátorom som už dávno zabudol, iba včerajšie   suplikovanie v cudzom okrese mi vŕtalo v hlave.
+    </tei:p>
+    <tei:p>
+     „Ale čo? Veď Brezno je nie celý svet a kamarát Psotányi môže   suplikovať po celom mojom okrese a tak si to vynahradí.“
+    </tei:p>
+    <tei:p>
+     Takto som si utíšil svedomie, ale naozaj neviem, čo by
+    </tei:p>
+    <tei:p>
+     18
+    </tei:p>
+    <tei:p>
+     ﻿som Psotányimu povedal, keby hol postupoval takýmto spôsobom.   Nemal som zbytočného času rozmýšľať o tom, lebo som sa ponáhľal   ďalej. Okolo deviatej som sa dovliekol do Kráľovej Lehoty. Tu som už   bol vo svojom revíre, preto som bez okúňania zamieril k pánu   učiteľovi. Už zďaleka som začul krik a veselé hlasy z príbytku.   „Radujte sa s radujúcimi,“ pomyslel som si, rezko zaklepal a   vstiipil. Nemohol som rozoznať predmety v pološere izby, lebo bola aj   dymom zatiahnutá. Hľa, teraz si aj žiaci v škole môžu zafajčiť. Ale   mládenci mali bystrejšie oči, lebo z jednohlasného výkriku: „Hahaha   zasa jeden z nášho cechu,“ som usúdil, že hneď poznali vo mne druha —   suplikanta. Študenti povyskakovali a s niekoľkých strán znelo:   „Vítajte, vítajte! Zkadiaľ ste? Pre ktorú školu suplikujete?“
+    </tei:p>
+    <tei:p>
+     Pochytali ma za ruky, zaviedli ku stolu a musel som na ich zdravie   vypiť hrnček sadnutého mlieka. Potom sa rozpriadol obyčajný   suplikantský rozhovor: kto, odkiaľ, načo a kadia! suplikuje, aby sme   sa oboznámili a zistili, kde sa môžeme prípadne sísť.
+    </tei:p>
+    <tei:p>
+     Bolo ich so šesť, jeden krajší ako druhý. Poprichodili sem z   Kežmarku, Levoče, Brašova, Rožňavy, mali sa sísť pri prameňoch Váhu a   prejsť kraj pozdĺž jeho hrehov. Boli interesantné bledí, ešte príznak   stravy, ktorú dostávali cez školský rok5 a ohorieť ešte nemali kedy.   Niektorým sa už černaly fúziky i hrada. Ja som bol najmladší.   Čiastočne holi „philosophiae“ a „theologiae studiosi11)“
+    </tei:p>
+    <tei:p>
+     n) poslucháči filozofie a teológie
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     2*
+    </tei:p>
+    <tei:p>
+     ﻿iba ja„bonae speiadolescens12)“.Nie div, že ako naj mladší bol som   terčom ich vtipov, ale ani ja som im neostal nič dlžen.
+    </tei:p>
+    <tei:p>
+     Medzi rečou som sa ich vypytoval, ako suplikovali v Lehote, kolko   im kto dal, či medzi pánmi mecenášmi prevláda maďarónsky a či   slovenský duch. Charakterizovali mi ich, ako veľmi vďačných   pohostinných patrónov a pochvaľovali si, ako sa im dobre vodilo.
+    </tei:p>
+    <tei:p>
+     Teraz sa rozhovoril huncút Bedárek, ktorý suplikoval pre Levoču:   „Najmä pán Kazányi je stelesnená slovenská národnosť a dobročinnosť.   Toho neobíďte, braček môj; nechajte si ho na ostatok, aby ste sa   mohli u neho čím dlhšie zabaviť. Bude vás všelijako skúšať, či ste   dosť pevný vo svojej národnosti. Predstaví sa vám ako tuhý maďarón,   bude horlivo brojiť po maďarsky proti slovenskému národu, vy sa však   tým nedajte mýliť. Smelo sa proti nemu postavte, hovorte len   slovensky, brojte ešte horlivejšie proti maďarónstvu,atakobstojíte   pri skúške. Nakoniec sa zasmeje, podá vám ruku, ponúkne vás pohárom   starého desaťročného vína, do knihy zapíše zlatku a do ruky vám   vtisne piatku.“
+    </tei:p>
+    <tei:p>
+     Pekne som sa mu poďakoval za dobrú radu a rozprával som im svoje   dobrodružstvo s pánom Oklamátorom, na čom sa všetci suplikanti   srdečne zasmiali. Potom som šiel spať, ako všetci ostatní. Spali sme   len tak po študentský, každý v inom kúte, po laviciach, po zemi,   jedni na slame, druhí v posteli, jedna čiastka v kuchyni, druhí
+    </tei:p>
+    <tei:p>
+     12) mladík dobrej nádeje
+    </tei:p>
+    <tei:p>
+     20
+    </tei:p>
+    <tei:p>
+     ﻿v izbe, ale vcelku sa nám dobre spalo. Myslím, že nemusím   podotýkať, že sa mi celú noc snívalo o mojom dlhom putovaní a hlavne   o pánu Kazányiovi. Sen sa verne podobal Bedárkovmu vypravovaniu.   Vášnivo som hájil našu slovenčinu, pil som s ním dobré desaťročné   víno po chutnom, výdatnom obede a v ruke som stískal päť zlatých.
+    </tei:p>
+    <tei:p>
+     21
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IV. JA A PÁN KAZÁNYI, ČIŽE KDE TI   DÁVAJÚ BER, KDE ŤÁ BIJÚ, UTEKAJ!
+    </tei:head>
+    <tei:p>
+     Sotvaže na druhý deň vyšlo slnko nad Lehotou, moji druhovia   odišli. O hodinu som vstal aj ja a obliekal sa.
+    </tei:p>
+    <tei:p>
+     Vyleštil som čižmy, že sa ligotaly ako zrkadlo, prišil som   gombičku na nohavice, vykefoval kabát, pričesal vlasy, že som bol ako   zo škatuľky.
+    </tei:p>
+    <tei:p>
+     Že som sa tak pečlivo vystrojil, o to mal zásluhu Bedárek, lebo   včera spomínal i pekné slečinky, ktorých je mnoho v tunajších   panských domoch. Ešte som sa čerstvo pamätal, ako sa usmievaly   breznianske slečinky, keď som neogabaný vstúpil do obchodu. Ani k   pánu Kazányimu som nechcel ísť len tak hocijako. Rozlúčil som sa s   pánom učiteľom, aby ma na obed nečakal, lebo som dúfal, že ma pozve   pán Kazányi.
+    </tei:p>
+    <tei:p>
+     Už som smelšie suplikoval vo vlastnom revíre, a keď 11a veži bilo   jedenásť, práve som došiel k bielemu domu pána Kazányiho. Srdce mi   bilo tuhšie, lebo som sa tej skúšky trochu obával, ale som bol   presvedčený, že dobre obstojím, dodával som si chuti, mysliac si:   Nech dosta-
+    </tei:p>
+    <tei:p>
+     22
+    </tei:p>
+    <tei:p>
+     ﻿nem aj gágorové suchoty, keď budem hájiť svoju slovenčinu, veď   nakoniec si ho ovlažím pohárom desaťročného vína. Len sa do toho!
+    </tei:p>
+    <tei:p>
+     „Bože, pomáhajže!“ zašeptal som a zaklopal na dvere pána   Kazányiho.
+    </tei:p>
+    <tei:p>
+     „Szabad!“13) zamrmlalo čosi dnu medvedím hlasom.
+    </tei:p>
+    <tei:p>
+     Keď som otvoril dvere a uvidel pána Kazányiho, hrôzou sa mi nohy   podlomily. Jeho tvár mi pripomínala Kyklopa, celá bola zarastená,   vykukávalo iba čelo a nos. Ohromné čierne fúzy splývaly s čiernou   bradou, ktorá siahala až na hruď. Keby nebol fajčil, bol by som si   myslel, že nemá ani úst, lebo boly zakryté fúziskami, cez ktoré sa   ledva kudlil dym a ktoré si s úľubou vykrúcal svojou svalnatou   rukou.
+    </tei:p>
+    <tei:p>
+     Zažíval svoje „dolce far niente“. Vystieral sa na pohovke,   pofajčieval si z dlhej tureckej fajky a popíjal dolnozemskú   slivovicu.
+    </tei:p>
+    <tei:p>
+     Zastal som si naprostred izby, zľahka som si odkašlal, pevným   hlasom som vážne odrectoval, prečo som prišiel. Reč sa mi podarila   nad očakávanie, rozradostený priblížil som sa k pánu Kazányimu, aby   som mu podal knižku.
+    </tei:p>
+    <tei:p>
+     Neprerušil ma, iba vyvalil na mňa okále a počúval ma ako socha.   Keď som mu chcel podať knihu, zdvihol sa a povedal: „Mit akar, hová   való, mi a neve, mi járathan van itt — hé?14)“ A svraštil čelo.
+    </tei:p>
+    <tei:p>
+     13) volno! 14) Čo chcete, odkiaľ ste, ako sa voláte, v akej veci   prichádzate — há?
+    </tei:p>
+    <tei:p>
+     23
+    </tei:p>
+    <tei:p>
+     ﻿Ej počkaj, pomyslel som si, mňa len tak ľahko do pasce nedostaneš,   viem koľko bilo! Nahlas však:
+    </tei:p>
+    <tei:p>
+     „Ako som už povedal, som suplikant z Miškovca, roduverný Slovák z   Gemera, menujem sa Pavel Tulipán a mám česť urobiť najponíženejšiu   poklonu vašej velkomožnosti.“
+    </tei:p>
+    <tei:p>
+     Po týchto slovách sa mu tvár svraštila ešte viac, vyzeral tým   hroznejšie.
+    </tei:p>
+    <tei:p>
+     „Mitfecseg? Tán bizóny megbolondult? Suplikánsadta tót koldusa15)   — ešte sa ti tak hrdo pomenuje Slovákom! Nem tudja-e ôcsém, hogy   magyar nemessel beszél?16)“
+    </tei:p>
+    <tei:p>
+     Mňa nezarazily ani tieto nemilé slová, len som si pomyslel, že   Bedárek mal pravdu a že pán Kazányi naozaj vie skúšať slovenských   suplikantov. Príjemne som sa usmieval a hovoril som s bombastom, ako   ma to teší, že v takom veľkom pánovi poznávam zastanou Slovákov.   Dodal som, že sa vo mne nesklame a po tejto skúške pozná vo mne   verného Slováka.
+    </tei:p>
+    <tei:p>
+     „Ennek a fiúnak nincs esze!17)“ zabromžil a složil ruky na   kríž.
+    </tei:p>
+    <tei:p>
+     Už som v duchu jasal, že mi už už podá ruku a pôjde po to staré   víno. Aby som sa mu ešte lepšie zapáčil, začal som protestovať proti   prepiatemu maďarónstvu, ktoré nás Slovákov prenasledovalo i v   škole.
+    </tei:p>
+    <tei:p>
+     Pán Kazányi sa ku mne približoval.
+    </tei:p>
+    <tei:p>
+     15) Čo bľabocete? Vari ste sa zbláznili? Vy slovenský žobrák   suplikantský. 16) Neviete, braček, že sa sbovárate s maďarským   šľachticom? 17) Toto chlapčisko nemá rozum!
+    </tei:p>
+    <tei:p>
+     24
+    </tei:p>
+    <tei:p>
+     ﻿„Lóduljon bázamból, szemtelen tót koldusa!18)“ reval, až sa obloky   triasly.
+    </tei:p>
+    <tei:p>
+     Ešte som vždy necúval — zasmial som sa, lebo som sa nazdal, že   teraz vyvrcholila moja skúška.
+    </tei:p>
+    <tei:p>
+     Pán Kazányi vytreštil oči, vykrútil fúzy, otvoril ústa, ako by ma   chcel sbltnúť. Moja chladnokrvnosť a smelosť bo na chvíľu   zarazila.
+    </tei:p>
+    <tei:p>
+     ,,És mégsem lódul?! Teremtette buncútja, majd megtanítlak én!19)“   rozzúril sa a bežal k stene po korbáč.
+    </tei:p>
+    <tei:p>
+     Iba teraz mi svitlo, koľko bilo. Na žart to bolo predsa len   priveľa, nečakal som na korbáč, vzal som nohy na plecia a hybaj von.   Sypala sa za mnou hrôza nádaviek. Škoda vína, škoda obedu, ale najmä   päť zlatých! No, ale dobre je byť v bezpečí.
+    </tei:p>
+    <tei:p>
+     Na Bedárka som sa právom nahneval, a keby ešte tu bol býval, bol   by som naňho ešte horšie spustil, ako Cicero na Gatilinu. V škole ma   uvítal pán učiteľ s úsmevom a veršom:
+    </tei:p>
+    <tei:p>
+     Tulipánoví za pokutu
+    </tei:p>
+    <tei:p>
+     pán Kazányi nech dá knutu! Čo v Brezne v cudzom poľoval? Kto by ho   dnes poľutoval?!
+    </tei:p>
+    <tei:p>
+     Pánu, pánu —• Tulipánu
+    </tei:p>
+    <tei:p>
+     dedicat perpetuus amicus20) Bedárek m. pr.
+    </tei:p>
+    <tei:p>
+     1S) Practe sa mi z domu, bezočivý žobrák slovenský! 19) A ešte sa   nepracete?! Huncútska potvora, veď ťa ja naučím! 20) venuje stály   priatel
+    </tei:p>
+    <tei:p>
+     25
+    </tei:p>
+    <tei:p>
+     ﻿Nútil som sa do smiechu, aj náhrady sa mi dostalo, nechali mi   dobrých halušiek, ale Bedárkovi to nedarujem, veď „dnes mne, zajtra   tebe!“
+    </tei:p>
+    <tei:p>
+     26
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿v. KTO DRUHÉMU JAMU KOPE, SÁM DO NEJ   PADÁ
+    </tei:head>
+    <tei:p>
+     Asi desiateho júla poberal som sa z Oravy krásnou dolinou do   utešenejšieho Turca.
+    </tei:p>
+    <tei:p>
+     I v Liptove i v Orave dobre sa mi vodilo, všeličo sa mi prihodilo,   čo by stálo za zmienku, ale nebudem to všetko vyratúvať.Len   spomeniem, ako som sa pomstil Bedárkovi.
+    </tei:p>
+    <tei:p>
+     Bedárek sa mi stále vyhýbal. Raz ma predbehol, inokedy zostal za   mnou, alebo ma obišiel aj na hodinu cesty. Neraz som mu hol už v   pätách, ale odrazu zmizol ako gáfor. I druhí suplikanti sa ponosovali   na jeho fígle a prisahali mu pomstu, ale on huncút im vždy uvrzol z   klepca, ako by bol s čertom v spolku.
+    </tei:p>
+    <tei:p>
+     „Uvidíte, chlapci, že mne neujde,“ hovorieval som, „vypomstím sa   mu aj za vás.“
+    </tei:p>
+    <tei:p>
+     Ponáhľal som sa, ako som už spomenul, z Oravy do Turca. Vedel som,   že ma Bedárek chce zasa predbehnúť. Pretože nocoval i s kamarátom   Hladovánskym na fare vo Veľkej Vsi, ja chudobne síce, ale už v   Párnici, čo znamenalo značný náskok.
+    </tei:p>
+    <tei:p>
+     27
+    </tei:p>
+    <tei:p>
+     ﻿„Alebo teraz, alebo nikdy!“ odhodlal som sa. Kráčal som po brehoch   Oravy, kujúc plány proti Bedárkovi. Nedarily sa mi dosť dobre, lebo   ma celého zaujala príroda. Všetko som prenechal len náhode. —   Vchádzal som do doliny, ktorou sa valí hukotajúca Orava popod vysoké   vrchy a nenecháva ani miesta pre hradská, preto ju museli stavať po   bralách a po stráňach. Zdalo sa mi, že som v Thermopylách a snil som   o budúcom slovenskom Leonidovi. Potešil som sa pohľadom na pasúce sa   ovečky, roztrúsené po bralách medzi krovím, ako liezly vždy vyššie a   vyššie na vrcholky hôr, kdesazelenalypašienky. Asi tri sto krokov nad   hradskou horela vatra a okolo nej sedelo šesť pekných valachov.
+    </tei:p>
+    <tei:p>
+     Divné, valasi okolo vatry a ovce ďaleko roztratené. Zastavil som   sa pri vatre a zvolal:
+    </tei:p>
+    <tei:p>
+     „Daj Bob šťastia!“
+    </tei:p>
+    <tei:p>
+     „Bože daj,“ odpovedali.
+    </tei:p>
+    <tei:p>
+     Prisadol som k nim s otázkou:
+    </tei:p>
+    <tei:p>
+     „Tie ovce hore sú vaše?“
+    </tei:p>
+    <tei:p>
+     „Oj, nie mladý pánko,“ znela odpoveď. „Svoj kŕdeľ by sme si len   tak nenechali. My sme boli v Kremnici s oštiepkami a teraz ideme   domov do Zázrivej na salaš. Len čo sa občerstvíme, stúpame   ďalej.“
+    </tei:p>
+    <tei:p>
+     ,,To je iné!“ zarazil som sa, lebo pri mene Zázrivá vybavil sa mi   Jánošík a súčasne i pomsta sľúbená Bedárkovi, ktorého som zazrel na   hradskej s Hladovánskym. Azda budú títo šuhajci z Jánošíkovho rodiska   dosť odvážni a pristúpia na môj plán.
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+    <tei:p>
+     ﻿„Šuhajci“, obrátil som sa k nim, „vyzeráte ako poriadni hôrni   chlapci, urobte mi dačo k vôli, neoľutujete.“
+    </tei:p>
+    <tei:p>
+     Jeden za druhým sa na mňa zadívali.
+    </tei:p>
+    <tei:p>
+     „Ak je to nie nič zlého, prečo nie?“ povedal najstarší.
+    </tei:p>
+    <tei:p>
+     „Ale pravdaže nie, bude to len žart,“ a ukázal som im tých dvoch v   doline a rozpovedal celý svoj plán.
+    </tei:p>
+    <tei:p>
+     Valasi premýšľali, lebo žart sa im nijak nepozdával. Konečne, keď   som to ešte raz odôvodnil a najmä keď som im dal tri lesklé   dvadsiatniky, ako odmenu za ľahkú prácu, pristali na všetko.   Povyskakovali, pľasli do dlaní, zakrútili valaškami nad hlavou a ako   skutoční Jánošíkovi kamaráti, hybaj do doliny.
+    </tei:p>
+    <tei:p>
+     „Útočte iba na toho v tom slamenom klobúku.“ Ešte raz som im   ukázal vinníka a vyškriabal som sa na smrek, aby som nevidený bol   svedkom toho, čo sa bude diať pri Orave.
+    </tei:p>
+    <tei:p>
+     Na hradskej sa prihodilo toto:
+    </tei:p>
+    <tei:p>
+     Bedárek s Hladovánskym sa dostal do iižiny, z ktorej nebolo možné   vyjsť, iba ak do Oravy, alebo na bralá. Unavený Bedárek sa zastavil a   utieral si spotené čelo. Panovalo mrtvé ticho, iba Orava hučala.
+    </tei:p>
+    <tei:p>
+     Suplikanti práve hľadali cestu z úžiny, keď vtom zahrmelo šesť   hlasov a valasi sa vyrútili z húšťavy, ako kŕdeľ napajedených   vlkov.
+    </tei:p>
+    <tei:p>
+     „Stojte židáci, hrom do vašej jeruzalemskej pečene!“
+    </tei:p>
+    <tei:p>
+     Suplikanti zmeraveli ako prikovaní. Hladovánskeho moji hôrni   ehlapci neobkolesili, chytro sa spamätal,
+    </tei:p>
+    <tei:p>
+     29
+    </tei:p>
+    <tei:p>
+     ﻿vyškriabal sa po skale, ako koza, zmizol v húštine, na oravskú   stranu. Druha nechal v pasci.
+    </tei:p>
+    <tei:p>
+     Bedárek stál odhodlane, lebo si iste myslel „audaces fortuna   iuvat21)“ a oháňal sa drieňovou palicou.
+    </tei:p>
+    <tei:p>
+     Vyrazili mu ju z ruky valaškou, musel sa vzdať na milosť a   nemilosť. Sviazali ho, a aby mu nahnali ešte viac strachu,   volali:
+    </tei:p>
+    <tei:p>
+     „Počkaj žide, teraz dostaneš i za seba i za všetkých, čo to   pálenčisko meriate!“
+    </tei:p>
+    <tei:p>
+     Vyvliekli ho ku vatre, aby ho trochu potrápili. Nestačilo im, že   mal poviazané ruky, sviazali ho teraz do klbka. Posadali si okolo   neho, pozerali sa, kde som, či im dovolím, zahrávať si ďalej na   zbojníkov. Rozhrnul som haluzi, prikývol, čo úplne postačilo ich   bystrému zraku. Sám som si našiel pohodlnejšie miesto, aby som videl,   či môj zajatec obstojí pri skúške aspoň tak hrdinsky, ako ja u   Kazányiho. Bedárek v klbku bol obrazom mučedníckej pokory a   hrdinstva. Jeho spotená tvár bola stoicky pokojná, len čelo niekedy   svraštil. Isteže myslel na všeličo, ale toho najhoršieho sa predsa   len neobával. Myslím, že práve táto chladnokrvnosť tak dopálila   mojich valachov, že naraz skočili a obkolesili Bedárka.
+    </tei:p>
+    <tei:p>
+     „A teraz, žide, Bohu dušu a nám peniaze!“ okríkh ho hromovým   hlasom a prevracali suplikantské vrecká.
+    </tei:p>
+    <tei:p>
+     Chudák v klbku nemohol sa brániť, iba oči mu iskrily zlosťou a   žiaľom nad svojou nemohúcnosťou, ale predsa i radosťou, lebo iste si   myslel:
+    </tei:p>
+    <tei:p>
+     21) Odvážlivému šťastie praje.
+    </tei:p>
+    <tei:p>
+     30
+    </tei:p>
+    <tei:p>
+     ﻿„Drobné si poberte, ale na veľké si darmo ostríte zuby, tie sú   dobre schované pod podšívkou, tie dnes neuzrú svetlo sveta.“
+    </tei:p>
+    <tei:p>
+     Aspoň sa mi zdalo, že si to myslí, lebo pohundrával, že vďačne dá   peniaze, len aby ho pustili.
+    </tei:p>
+    <tei:p>
+     „Sto striel sa ti do matere, žide, kde máš peniaze? Syp ich! Ak   nie, hneď si na ražni,“ volali valasi, lebo neboli spokojní s   nálezom.
+    </tei:p>
+    <tei:p>
+     Zajatec sa chladno zasmial a mrdolplecom. Zašuchotal som haluzami,   a keď sa šuhaj ci obzreli, naznačil som, že ich má pod podšívkou.
+    </tei:p>
+    <tei:p>
+     „Aha, hrom sa ti do matere! Hádam sa mu len nebudeme prosiť?“,   zahromžil najstarší valach, vytiahol nôž zpoza opasku, chytil Bedárka   za krk a rozparúval kabát.
+    </tei:p>
+    <tei:p>
+     „Misere mihi!22)“ zašeptal mučený, pretože sa bál, že mu nôž zájde   až do živého. Z kabáta vypadol balík päťzlatkových bankoviek. Bedárek   otvoril oči a zmodralé ústa len vtedy, keď domnelý zbojník držal v   ruke jeho ťažko získané peniaze. Svesil hlavu, ťažko vzdychol a do   očú mu vstúpily slzy zlosti a ľútosti.
+    </tei:p>
+    <tei:p>
+     „Ty cigán cigánsky! Ty darebák naničhodný! Ty si nás chcel   oklamať? Tisíc hrmených! Chlapci, chyťte ho! Stiahnite mu nohavice,   aspoň ho poriadne vyplatíme.“
+    </tei:p>
+    <tei:p>
+     „Mňa vyplácať?“ skríkol hlboko urazený teolog, a tvár mu zbíkla od   hnevu a hanby. „Odstúpte odo mňa — vy pohania, čo neznáte Krista. Mňa   vylátať? Mňa, čo som ten najkresťanskejší kresťan na svete? Mňa   teologa,
+    </tei:p>
+    <tei:p>
+     22) Beda mi!
+    </tei:p>
+    <tei:p>
+     31
+    </tei:p>
+    <tei:p>
+     ﻿budúceho dekana, seniora, biskupa? — Huj, vy šibeničníci! Či sa   nebojíte Boha, že vás tak zatratí, že na veky budete pykať, že ste   mordovali pobožného kresťana, čo hodlá byť kňazom! Huj — vy — vy,“   zprvu sa svíjal a hádzal, potom ich zaklínal už len slabnúcim   hlasom.
+    </tei:p>
+    <tei:p>
+     ,,Do tvojho kňazstva nás nič, toho si beztak ešte nedosiahol,“   hovoril valach. „Ale počkaj, hneď uvidíme, či si kresťan a či žid.   Chlapci sem s tým ražňom!“
+    </tei:p>
+    <tei:p>
+     Náhle Bedárek počul slovo ražeň, zbledol. Ale valach celkom   chladnokrvne vytiahol z kapsy kus slaniny, poopekal ho nad vatrou a   vstrčil Bedárkovi do úst.
+    </tei:p>
+    <tei:p>
+     „Na, zjedz takúto pripečenú, mastnú, ak si nie židisko!“
+    </tei:p>
+    <tei:p>
+     Bedárek ani nezahryznul do slaniny, celú naraz zhltol, lebo videl   v tom jediné oslobodenie.
+    </tei:p>
+    <tei:p>
+     Ešte nám zaspievaj: „Z hlbokosti volám k tobe“ nech vidíme, či   bude z teba aspoň rechtor, ak nie kňaz!“
+    </tei:p>
+    <tei:p>
+     Stiesnený Bedárek začal prenikavým hlasom a z veľkej núdze spieval   ozaj nábožne. Valasi, dojatí už či jeho núdzou a či nábožným spevom,   rozviazali mu ruky i nohy a najstarší mu potajomky vložil peniaze do   vrecka.
+    </tei:p>
+    <tei:p>
+     Tak, tak, myslel som si, nech sa milý Bedárek potrápi, kým si   nájde peniaze. Takto som mu chcel nahnať strachu, ale nie ublížiť.   Všetko dobre dopadlo a on ani netuší, kto mu to vyviedol.
+    </tei:p>
+    <tei:p>
+     Odrazu som pobadal, že moji chasníci po bitke zmizli, len jedného   som ešte zočil utekať bore grúňom, iba keď počujem rachot bričky s   hradskej.
+    </tei:p>
+    <tei:p>
+     32
+    </tei:p>
+    <tei:p>
+     ﻿Valasi ju iste skôr zbadali, preto zavčasu zmizli, mne by bolo   bývalo tiež čudne, keby som nebol býval dobre ukrytý.
+    </tei:p>
+    <tei:p>
+     Brička zastala, neveril som vlastným očiam. Na bričke sedel   Hladovánsky pri bradatom pánovi, iste slúžnom, lebo soskočil aj   stoličný hajdúch a naprával si šabľu.
+    </tei:p>
+    <tei:p>
+     „Tu to bolo,“ ozval sa už teraz smelý Hladovánsky, tu, na tomto   mieste nás prepadli. Bože môj, ani slychu o mojom kamarátovi!“
+    </tei:p>
+    <tei:p>
+     „Jaj, jaj, tu som,“ zabedoval Bedárek, ktorý sa inštinktívne tam   ponáhľal, kde začul ľudí.
+    </tei:p>
+    <tei:p>
+     „Či vás ozaj zbojníci prepadli?“ opytoval sa slúžny inkvizítorským   tónom.
+    </tei:p>
+    <tei:p>
+     „Ozaj, a to šiesti ozbrojení, ukrutní ludia, chceli mi šiju   rozpárať,“ odpovedal tázaný už smelšie, ale jednako ešte trochu   nastrašený.
+    </tei:p>
+    <tei:p>
+     „Tu treba rýchle zakročiť, sadajte na bričku!“ velel slúžny a   dodal zvýšeným hlasom:
+    </tei:p>
+    <tei:p>
+     „Četníci z Kralovian mi idú v ústrety a nebudú už ďaleko, tí hneď   vysliedia zbojníkov.“
+    </tei:p>
+    <tei:p>
+     Iste sa nechcel púšťať do nerovného boja so šiestimi zbojníkmi,   ale radšej ich týmito slovami zastrašiť, a brička hrmela hneď dolu   hradskou a oni piati v nej.
+    </tei:p>
+    <tei:p>
+     Hm, všelijako mi bolo okolo srdca. Pán slúžny nemusel brať túto   históriu ako žart a ja som nemal kade uhnúť četníkom z úzkej doliny.   Keby ma aj četníci zastavili, pomyslel som si, vyhovorím sa im, že o   ničom neviem. Čoskoro mi vŕtalo v hlave celé zakončenie uda-
+    </tei:p>
+    <tei:p>
+     Suplikant —
+    </tei:p>
+    <tei:p>
+     33
+    </tei:p>
+    <tei:p>
+     ﻿losti. Pravdepodobne som sa ja chytil do klepca. Tým dvom som   pomohol na bričku a tým aj k veľkému náskoku predo mnou. Vysuplikujú   mi celý Turiec, veď to už tak býva: „Kto druhému jamu kope, sám do   nej padá.“
+    </tei:p>
+    <tei:p>
+     34
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VL „ACH JOŽKO MÔJ, JOŽKO!“, ČIŽE   SUPLIKANT AKO MILENEC A SNÚBENEC
+    </tei:head>
+    <tei:p>
+     Mám vás nudiť vypravovaním, ako som sa dostal poza kraľovianske   záhrady a získal dosť hodný náskok, kým pán slúžny s Hladovánskym a   Bedárkom podrobne vyšetroval a písal zápisnicu? Keď peniaze našli v   Bedárkovom vrecku, celá príhoda sa zazdala pánu slúžnemu ako   nedovolený žart. Veď aj ja som sa to dozvedel od Hladovánskeho len   tak mimochodom.
+    </tei:p>
+    <tei:p>
+     Či vás mám zabávať líčením Turca, krásneho najmä v lete, ktorý je   ohradený pahorkami, zelenými poliami, lúčinami, popretkávaný   striebornými páskami potokov a na severovýchode lemovaný Váhom? Keď   som vstúpil na jeho pôdu z priesmyku medzi Tatrami a Fatrou, bol som   rozradostený nielen nad samým krajom, ale i nad šťastným vyviaznutím.   Radšej sa poponáhľam a vyrozprávam zaujímavejšiu príhodu.
+    </tei:p>
+    <tei:p>
+     Darmo je, v Turci je všetko milé, keď aj nie pre tých, ktorí sa   tam lopotia, ale iste tým, ktorí cezeň prejdú, v prvom rade   suplikantom a žiakom, ktorí sa nikdy
+    </tei:p>
+    <tei:p>
+     35
+    </tei:p>
+    <tei:p>
+     3*
+    </tei:p>
+    <tei:p>
+     ﻿nestarajú o zajtrajší deň. Preto i mne, suplikantovi, sa zdalo   všetko milé, kraj, reč, piesne i moja ľúbostná príhoda. Nuž teda vám   ju rozpoviem.
+    </tei:p>
+    <tei:p>
+     Bola nedeľa.
+    </tei:p>
+    <tei:p>
+     Posledné dva dni pobehal som celú východnú stranu Turca, potom som   sa dal na západ, aby som nič nevynechal. Po vylíčených už udalostiach   s Bedárkom chcel som si trochu oddýchnuť a poďakovať Bohu, že mi   pomáha naplňovať suplikantský mešec, preto som zabočil cez polia a   lúky do Ivančinej, kde bol kostol i fara. Ale človek mieni, Pán Boh   mení.
+    </tei:p>
+    <tei:p>
+     Namiesto do Ivančinej, ktorá leží na pravom brehu Turca, zašiel   som na ľavý. Stretol som vyobliekaných ľudí, ktorí mi vraveli, že som   asi zmýlil cestu, že je to nie Ivančiná. Vracali sa z kostola domov   do malých roztratených dedín. Čo som mal robiť? Miesto pobožnosti a   chutného obeda kochal som sa iba v malebnom kroji a v pekných   postavách dedinčaniek. Konečne, keď pestrý zástup vždy viac a viac   rednul, dal som sa upraviť k hradskej, smerom môjho ďalšieho   putovania.
+    </tei:p>
+    <tei:p>
+     Ale komuže by sa chcelo putovať v takej horúčave a o hlade. Mne   veru nie. Práve, kde som vystupoval s chodníka na hradskú, lákavé mi   kynuly husté vrbiny od rieky a chladný vánok ma pobádal k spánku a   sladkému odpočinku. Uložil som sa do chládku, zdriemol a pochrápal na   lačný žalúdok lepšie ako nejeden tučný pán po výdatnom obede.
+    </tei:p>
+    <tei:p>
+     Spal som hodnú chvíľu, a keď som si pretrel oči, začul
+    </tei:p>
+    <tei:p>
+     36
+    </tei:p>
+    <tei:p>
+     ﻿som voz, ktorý k mojej velkej radosti uháňal hradskou ku mne. Vo   chvíli som hol na nohách, a hybaj na hradská, aby ma táto vítaná   príležitosť neminula. Kočiš, zazrúc ma, spomalil, zastal pri mne a   sám ma ponúkol, aby som len prisadol. Bol zo mlyna, voz mal prázdny,   iba naprostriedku hŕbu posväzovaných múčnych vriec, ako by pre mňa   pripravených. Sedel som mäkko; paholok pošibal kone, leteli sme ako   víchor, mne to bolo všetko jedno, len keď to bolo smerom mojej   cesty.
+    </tei:p>
+    <tei:p>
+     Po hradskej sme dlho neleteli, pri rieke stál mlyn, kočiš k nemu   zamieril prv, než som sa spamätal. Dosť som mu hovoril, aby postál,   že chcem sísť, že musím ísť ďalej po hradskej. Čím viac som prosil,   kričal, volal, tým viac uháňal, kým sme nezastavili na širokom dvore   pred mlynom.
+    </tei:p>
+    <tei:p>
+     Pred mlynom, ako vždy v nedelu, sedel celý húf ludí a medzi nimi i   mlynár s pani mlynárkou. Povstávab, obklopili voz i mňa so všetkých   strán a tešili sa z nášho príchodu. Len čo som soskočil, mlynár s   mlynárkou ma pochytab za ruky a vítali:
+    </tei:p>
+    <tei:p>
+     „Vítaj, Jožko, vítaj! Veď sme si hneď mysleli, že to ináč ani byť   nemôže, že sa nám musíš vrátiť.“
+    </tei:p>
+    <tei:p>
+     A zo zástupu ktosi zvolal:
+    </tei:p>
+    <tei:p>
+     „Ej, ba veru, zase všetko lepšie pôjde v tomto mlyne, keď tento   tovaryš znovu tu bude!“
+    </tei:p>
+    <tei:p>
+     „Ja Jožko? Ja tovaryš?“ hundral som si a pozeral po všetkých.   Vedel som iste, že ma krstili Palkom a nie Jožkom. Verím, že som   vyzeral ako mlynársky tovaryš, lebo
+    </tei:p>
+    <tei:p>
+     37
+    </tei:p>
+    <tei:p>
+     ﻿tým, že som sa chcel na vreciach dobre uhniezdiť, zamúčil som sa   od hlavy do päty. No predsa len takto nič po nič som sa nechcel stať   mlynárskym tovaryšom z poriadneho študenta, preto som odpieral:
+    </tei:p>
+    <tei:p>
+     „Ale ľudia, čo sa vám robí? Nože sa lepšie prizrite, veď som ja   nie váš tovaryš Jožko?“
+    </tei:p>
+    <tei:p>
+     „Ľal’a ho, že je to nie on?!“ znovu sa ozval ten istý hlas. „Ale   veď aj dnes je taký zamúčený, ako vždy chodil, či v piatok či v   sviatok. Neverte mu, nepusťte ho, on je!“
+    </tei:p>
+    <tei:p>
+     „On je to, on!“ aj kočiš dosviedčal. „Veď som vari nie slepý, hneď   na ceste som ho poznal, keby si sám nebol prisadol, bol by som hoja   hodil do voza a doviezol domov.“
+    </tei:p>
+    <tei:p>
+     Za týchto okolností nemohol som sa vzpierať. Medzi rečou ma   mlynárka viedla za obe ruky do mlyna a šeptala mi dôverne a milo:
+    </tei:p>
+    <tei:p>
+     „Jožko môj, nože sa tak netaj, ako nedávno v Prievidzi na trhu.   Veď som ťa poznala aj volala na teba, ale ty si mi zmizol medzi   ľuďmi. Neboj sa, všetko je v poriadku, len keď si nám tu! Marienka   stále nariekala za tebou, otec sa už nemohol na to dívať, nuž sa   udobril, hoci sa na teba veľmi hneval. Netráp sa, Jožko, budú   ohlášky, bude aj sobáš!“
+    </tei:p>
+    <tei:p>
+     ,,Aha, už viem kolko bilo!“ myslel som si. „Ja mám teda byt’   snúbencom krásnej Marienky, a len preto som uvrzol z domu, že sa otec   na mňa nahneval. Čo by tak asi riekol pán profesor v Miškovci, keby   sa suplikant vrátil do školy s nerozlučnou družkou — so švárnou   nevestou z Turca. Len čo budeme dnu, všetko im vysvetlím.
+    </tei:p>
+    <tei:p>
+     38
+    </tei:p>
+    <tei:p>
+     ﻿Ale práve dnu som bol ešte viac v klietke. Dosť som začínal, že sa   zmýlili, že by zo mňa bol planý mlynár a čo ja viem, čo som všetko   potáral. Starý ma len vychvaľoval, že som dobrý tovaryš, že zaslúžim   byť majstrom, že ma Marienka má rada a že aj teraz sa modlí v   kostole, aby som sa čím skôr vrátil. Starká štebotala okolo mňa ako   okolo pravého Jožka; usadila ma za stôl, posháňala zbytky nedeľného   obedu, núkala ma so slovami:
+    </tei:p>
+    <tei:p>
+     „Keby to dievča skoro prišlo, zaradovalo by sa, že už bude zase   všetko dobre.“
+    </tei:p>
+    <tei:p>
+     Už bolo všetko marné. Sedel som ako snúbenec a mladý zať za plným   stolom. Srdce síce nechcelo vedieť o ničom, ale žalúdok sa nehneval,   naopak dobre si vynahradil dnešný pôst. Bol by som rád ušiel prv z   klepca, než Marienka dôjde a spozná milujúcim zrakom, že som nie tým   pravým. Iste by ma vyhodili z izby na posmech ľuďom, ktorí dosial   stáli pred mlynom.
+    </tei:p>
+    <tei:p>
+     Marienku aj vyzerali, ale ju nevideli. Starostlivá matka ju   vyzerala s návršia, lebo sa dievča rado potuluje popri rieke, odkedy   nebolo o Jožkovi ani chýru ani slycbu. Aj tento raz bude tam niekde,   len aby si niečo neurobilo. Medzitým odvolali mlynára ku kolesu,   ostal som sám, to ma trochu spamätalo. Dlho som sa nemohol   spamätúvať, lebo čo chvíľa sa mohol vrátiť a znovu ma zavrznúť. Hybaj   ja von bočnými dvermi cez mlynicu do poľa. Ozaj som si zľahka   vydýchol, keď som už hol von, hoci ma aj trápilo, že týchto dobrých   ľudí ešte viac popletiem a skutočnému Jožkovi, ak sa vôbec
+    </tei:p>
+    <tei:p>
+     39
+    </tei:p>
+    <tei:p>
+     ﻿vráti, uškodím týmto útekom. Veľmi som banoval za svojou drieňovou   palicou, ale zároveň som sa utešoval, že prospeje Marienke, lebo   podľa nej pozná, že to nebol pravý Jožko, lebo ten by nemohol jej   srdiečko zraniť novým zmiznutím.
+    </tei:p>
+    <tei:p>
+     Veď si toto utrápené srdce zaslúžilo moju drieňovú palicu, však si   ja odrežem hocikde dáku lieskovú. Nepozorovane, medzi hustými   vrbinami, prebehol som značný kus cesty. Potom som už mohol bezpečne   vystúpiť na hradskú, aby som si nezmýlil cestu v neznámom kraji. Aby   som sa dostal z vrbín, musel som prebehnúť krížom cez chodník. Na   chodníku stála dievčina nežná, svieža ako malina, v jednej ruke   držala modlitebnú knižku a tisla k nej rozvitú margarétu. Trhala   lístky a šeptala: „Príde, nepríde!“ Nakonec jej vyšlo: „Príde.“   Naradovaná zatlieskala rúčkami, ale vtom ma zazrela. Stál som ako   prikovaný, očarovaný toľkou krásou.
+    </tei:p>
+    <tei:p>
+     „Ach, Jožko môj, Jožko!“ zvolala strieborným hláskom a myslel som,   že už už si budeme v náručí. Priznávam sa, že by mi to nebolo bývalo   proti vôli. Náhle však zbadala svoj omyl a hneď sa spamätala:
+    </tei:p>
+    <tei:p>
+     „Acb, bodajže ťa, ako som sa oklamala!“ Letela ku mlynu, ako   splašená srnka.
+    </tei:p>
+    <tei:p>
+     Dlho som hľadel za ňou a nemohol som sa ubrániť myšlienkam, ktoré   by som shrnul asi takto:
+    </tei:p>
+    <tei:p>
+     „Škoda, že som nie Jožkom!“ Bol by som sa nedbal vrátiť do mlyna   ako Marienkin snúbenec, lenže teraz by ma oni neboli uznali za svoj   bo Jožka.
+    </tei:p>
+    <tei:p>
+     40
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VII. SUPLIKANTSKÉ DOSTIHY
+    </tei:head>
+    <tei:p>
+     Je vám známo, že suplikácia znamená čím najviac fár vyhľadať,   ponavštevovať i patrónov a dobrodincov, ktorí už vopred prihotovili   svoje milodary pre chudobných evanjelických žiakov. Tak si môžete   predstaviť, ako sme sa my, suplikanti pretekali pri hľadaní fár a   dobrodincov, lebo kto prišiel prvý, dostal nielen do knihy zapísaný   peniaz, ale aj do ruky, a k tomu ešte najlepší obed. Čím viac   vysuplikoval, tým väčší bol jeho podiel. Preto som aj ja predbehoval   Bedárka a Hladovánskeho dolu Liptovom a Oravou a ponáhľal sa celým   Turcom, aby som všetko najlepšie získal pre seba.
+    </tei:p>
+    <tei:p>
+     Ale ani Bedárek, ani Hladovánsky nelenili. Len čo sa dozvedeli už   v prvej turčianskej fare, že je miškovský suplikant už hodne vopred,   nechali Turiec mne a ponáhľali sa dolu na Považie, kde ich čakaly   väčšie dary. Pre spomenuté milostné dobrodružstvo stratil som deň,   aby som opäť získal čas, sadol som si pri Vrútkach na plť a vesloval   prudkým Váhom až k Púchovu, odtiaľ
+    </tei:p>
+    <tei:p>
+     41
+    </tei:p>
+    <tei:p>
+     ﻿som peši pokračoval v ceste. Kým Bedárek s Hladovánskym sliezali   Súľovské skaly a po sadoch záriečskej doliny sbierali dozrievajúce   hrušky, ponáhľal som sa napred, lebo som vedel, že čím južnejšie, tým   bude všetkého viac.
+    </tei:p>
+    <tei:p>
+     Myslel som si, že mi už viac nebudú zavadzať, ale som
+    </tei:p>
+    <tei:p>
+     sa zmýlil.
+    </tei:p>
+    <tei:p>
+     Len si predstavte moje prekvapenie.
+    </tei:p>
+    <tei:p>
+     Po noci na Machnáči, strávenej s tichými pastiermi pri ohníčku,   poberal som sa ešte pred svitaním cez Motešice, ktoré sa pýšia   nádherným kaštieľom grófov Motešických, a pobvizdoval som si na   raňajky veselú pesničku o závod s drozdami, až som zahol na zelenú   lúku. Zrazu som začul za sebou nesmierny štekot, ako by všetci psi z   dediny boli na niekoho nabuckaní, a akýsi krik. Krik mi pripomínal   Hladovánskeho.
+    </tei:p>
+    <tei:p>
+     Obrátil som sa, a skutočne to bol Hladovánsky s akýmsi neznámym   druhom. Utekali z dediny, udatné sa rozháňali palicami, ale to   nepomáhalo. Psi im vyskakovali skoro až na chrbát. Bol by hriech   nepomôcť bližnému a ešte študent študentovi. Pustil som sa do boja.   Utekajúci ma alebo nezbadali, alebo ma pokladali za slabého, lebo len   tak prebehli vedia mňa. Najväčší pes sa oboril na mňa. Miesto   oželenej palice som si opatril červený dáždnik, ktorý som teraz   rozprestrel pred nos dotieravému psovi. Tento sa bo tak naľakal, že   stiahol chvost, obrátil sa zpäť do dediny a všetci ostatní psi za   ním, ako za premoženým vodcom.
+    </tei:p>
+    <tei:p>
+     42
+    </tei:p>
+    <tei:p>
+     ﻿Opýtal som sa oslobodených kamarátov: „Čo vy? Kdeže sa tu beriete   ?“
+    </tei:p>
+    <tei:p>
+     „Ach môj drahý Tulipán, môj roztomilý Tulipánko!“ zajakal sa   dojatý Hladovánsky. „Sám Pán Boh ťa poslal, aby si ma vyslobodil.   Hneď v Lehote som si myslel, že by bolo s tebou lepšie chodiť, ako s   tým figliarom Bedárkom.“
+    </tei:p>
+    <tei:p>
+     „Aha, s Bedárkom!“ sišlo mi na um, že by vlastne Bedárka bolo   treba odplašiť, aby nerobil šarapatu nevinným druhom. Doložil som:   „Bedárek je už nepochybne napred, keď ste vy tu!“
+    </tei:p>
+    <tei:p>
+     „Pravdu máš,“ hovoril Hladovánsky. „On to všetko nastrojil a sám   si sedí už dakde vo fare a popíja teplú kávu.“
+    </tei:p>
+    <tei:p>
+     „Musíme predstihnúť Bedárka“ odhodlane som prehlásil „teda napred,   cestou mi rozpoviete, ako to, že vás tí psi naháňali.“
+    </tei:p>
+    <tei:p>
+     Cesta viedla utešenými lúkami a poliami a prešla nám chytro v   rozprave o tejto suplikantskej katastrofe.
+    </tei:p>
+    <tei:p>
+     Kým som ja odpočíval na Machnáči na čerstvom vzduchu, zatiaľ   Bedárek, Hladovánsky i s Miškom Vrútčanským sa čmudili v sedliackom   dome. Z Ohniska sa valil dym cez celú noc, hľadal škáry, cez ktoré by   unikol, lebo vôbec nebolo komína. Ráno s radosťou dýchali čerstvý   vzduch a rezko si vykračovali. Keď však zazreli nádherný kaštieľ,   Hladovánsky chcel raňajkovať za každú cenu. Bedárek im radil, aby len   šli, že im on vďačne prenechá svoju čiastku a že počká na nich na   nejbližšej
+    </tei:p>
+    <tei:p>
+     43
+    </tei:p>
+    <tei:p>
+     ﻿fare. Bedárek dobre vedel, že tak zavčasu márne pôjdu do kaštieľa,   lebo za rána panstvo spí, a keby aj nespalo, nedá nič, pretože meno   grófov Motešickýcb nebolo uvedené v sozname evanjebckých pánov a   patrónov. Ale Bedárek sa chcel kamarátov striasť.
+    </tei:p>
+    <tei:p>
+     Títo mu sadli na lep a šli do kaštieľa. Na dvore bolo pusto a   všetky dvere pozatvárané. Otvorib predizbu, a tu sa vyvalila na nich   hŕba psov. Neopatrný Miško udrel naj dotieravej šiebo psa palicou.   Pes skučal a zavýjal. Vtom sa rozletely dvere a hajdúch z nich   vystrčil hlavu. Odrazu všetko pochopil. Pochytil korbáč a zvolal:
+    </tei:p>
+    <tei:p>
+     „Aha, psia vandrovnícka háveď; aj psov mi bije, aj panstvo mi ešte   pobudí. Mali by mňa vyhnať zo služby, ja vás preženiem!“
+    </tei:p>
+    <tei:p>
+     Supbkanti nečakali na korbáč a dali sa do behu. Neoblečenému   hajdúchovi sa nechcelo za nimi, otvoril dvere dokorán a zabuckal   psov. Priebeh a zakončenie už znáte.
+    </tei:p>
+    <tei:p>
+     Ľúto mi bolo chudáka Miška, ten sa ešte aj pri vypravovaní triasol   od strachu. Neborák! Sám jeho otec prosil, aby ho len poslali na   suplikáciu, aby nadobudol skúseností a trochu sa posmebl, lebo medzi   ľuďmi býval ako nemý. V Gemeri chlapec plakal a preto bo otec sám   zaviedol do Vrútok. Iba keď tam došiel Hladovánsky, poslal ho s ním,   aby sbieral trpké, supbkantské skúsenosti, ďaleko od ľútostivej   mamičky.
+    </tei:p>
+    <tei:p>
+     Bolo mi všelijako, keď Hladovánsky dokončil, ale nahlas som len   toto povedal:
+    </tei:p>
+    <tei:p>
+     „Nič to preto, vyschne blato, bude leto. Všetko si vy-
+    </tei:p>
+    <tei:p>
+     44
+    </tei:p>
+    <tei:p>
+     ﻿nahradíme ešte dnes u nášho grófa v Uhrovci. som od   iných suplikantov, že je prikázané dozorcovi u grófa K. Zayho usadiť   každého študenta za grófsky stôl a nachovať ho čím by len chcel. Iba   viete čo ? Musíme predstihnúť Bedárka.“
+    </tei:p>
+    <tei:p>
+     Moji kamaráti, ktorí ešte nevedeli zaháňat hlad hvízdaním, ledva   sa tackali. Ešte dobre, že mali nádej na skutočný grófsky obed,   vzmužili sa a pridali do kroku.
+    </tei:p>
+    <tei:p>
+     Na vŕšku, ktorý sme mali prejsť, zabelel sa nám slamený   klobúk.
+    </tei:p>
+    <tei:p>
+     „Hľaďte, Bedárek!“ preriekol prvé, ale dobré slovo mlčanlivý   Miško.
+    </tei:p>
+    <tei:p>
+     ,,Za ním sa.“
+    </tei:p>
+    <tei:p>
+     S vŕšku sme videli lesík, pred ním pusté pastvisko, cez ktoré   viedol chodník k lesíku. S pastviskom hraničily záhrady úhľadnej   dediny s kostolom a farou.
+    </tei:p>
+    <tei:p>
+     Boly to Podlužany, evanjelická cirkev, cieľ nášho raňajšieho   putovania. S vŕšku do dediny vedie kľukatá cesta až na horný koniec,   odkiaľ je ešte hodný kúsok dolu do fary, do ktorej mieril   Bedárek.
+    </tei:p>
+    <tei:p>
+     Moji kamaráti sa pustili za ním, aby zároveň s ním dobehli do   fary. Prezrel som okolie strategickým okom suplikanta, ako generál, a   rozhodol som sa podľa príslovia „neopúšťaj cestu pre chodník“. Hneval   som sa síce na svojich chránencov, že ma tak zradne opustili, že ma   predstihnú a to ešte s Bedárkom. Ale odhodlal som sa konať podľa   porekadla. Za hôrkou som tušil Zay-Uhrovec, do ktorého ma vábil   grófsky obed.
+    </tei:p>
+    <tei:p>
+     45
+    </tei:p>
+    <tei:p>
+     ﻿Posmeľoval som sa, aby som Vytrval v závodení s nevernými   kamarátmi: lepší kus za rána, ako nič cez celý deň. Aspoň dokážem, že   cesta je kratšia ako chodník.
+    </tei:p>
+    <tei:p>
+     Odhodlal som sa hlavne preto, že ma znepokojoval môj nešťastný   žalúdok. Darmo by som bol s ním zápasil, lebo z Machnáča sem je   ďaleko a na obed ešte ďalej.
+    </tei:p>
+    <tei:p>
+     Rezko som kráčal dedinou rovno do fary. Vlasy vetrom rozstrapatené   rozstrapatil som ešte viac, zaklopal na dvere a strojil som sa   škarede zazrieť na Bedárka, ktorý iste sedí za vrchstolom pri dobrých   raňajkách. Ozval sa mi mäkký ženský hlas:
+    </tei:p>
+    <tei:p>
+     „Voľno!“ Ináč bolo ticho.
+    </tei:p>
+    <tei:p>
+     „Bodajže ho, samé ženy!“
+    </tei:p>
+    <tei:p>
+     Rýchlo som si uhladil rozstrapatené vlasy, aby som neurazil nežnú   bytosť, ktorej hlások znel tak milo a mäkko.
+    </tei:p>
+    <tei:p>
+     Vstúpil som, uklonil sa a predstavil sa ako suplikant miškovskej   školy.
+    </tei:p>
+    <tei:p>
+     „Teda tak zďaleka, až z Miškovca vás sem posielajú. Musíte byť   velmi ustatý, sadniteže si, syn môj!“
+    </tei:p>
+    <tei:p>
+     „Syn môj,“ znelo mi tak milo, ako hlas mojej matky. Zdvihol som   oči a skutočne predo mnou nehol nikto iný, ako stará, šedivá,   starostlivá pani. Nebozkal som jej ruku zo zdvorilosti, ale s   opravdovej úcty, ako by to bola ruka vlastnej matky, ktorú som už   beztak celý rok nevidel. Bola skutočne starostbvou mamičkou, čo bolo   vidieť na bedlive opatrovanom dome a hospodárstve, i keď syn farár   nebol doma. I o mňa sa matersky postarala. Posadila ma za stôl,   predložila mi celý peceň
+    </tei:p>
+    <tei:p>
+     46
+    </tei:p>
+    <tei:p>
+     ﻿mäkkého, ako sneh bieleho chleba, plný mliečnik raňajšieho mlieka   a núkala ma, kým som sa len do chuti nenajedol. Suplikantskú knižočku   mi vrátila s dvadsiatnikom a kázala mi, aby som ho sám zapísal, lebo   že ona už nedovidí, a že sa jej okuliare kdesi zapotrošily.
+    </tei:p>
+    <tei:p>
+     Nasýtený, obdarovaný a obklopený toľkou láskavosťou, celkom som   zabudol na Bedárka i na neverných kamarátov.
+    </tei:p>
+    <tei:p>
+     Vtom ktosi zaklopal na dvere.
+    </tei:p>
+    <tei:p>
+     „Ach, ktože to ide,“ povedala moja mamička a sama otvorila   dvere.
+    </tei:p>
+    <tei:p>
+     Vkročili moji neverní kamaráti bez Bedárka. Nesúcitne som sa   prizeral na všetko, čo sa dialo, ako by som ich nikdy predtým nebol   videl a oni sa neodvážili ku mne priznať.
+    </tei:p>
+    <tei:p>
+     Starostlivá mamička privítala i týchto chlapcov vládne, usadila   ich a pohostila čím mohla, keďže ja som už vyprázdnil mliečnik a z   mäkkého chleba zostal iba kúsok. Preto týmto predložila cmar a kúsok   tvrdého, čierneho chleba.
+    </tei:p>
+    <tei:p>
+     „Čo ešte mám, to vám dám“ hovorila „ale môj syn farár mi nenechal   viac peňazí pre suplikantov. Čo som mala, to som rozdala tým, čo tu   boli pred vami.“
+    </tei:p>
+    <tei:p>
+     Ľutoval som ich, že takto obišli, ale ešte viac, že sa to nestalo   aj Bedárkovi. Keď som videl, že sa moji kamaráti dosť nasýtili, aby   mohli vliecť ako tak nohy za sebou, sám som im navrhol pokračovať v   ceste. Boli radi, že môžu isť so mnou.
+    </tei:p>
+    <tei:p>
+     47
+    </tei:p>
+    <tei:p>
+     ﻿„Do paroma, chlapci, ako ste sa mohli tak opozdiť?“ opýtal som sa   ich, keď sme boli za dedinou na pastvisku, ktoré viedlo k lesíku, za   ktorým sa skrývalo eldorádo túlavých študentov, totiž zayuhrovský   zámok.
+    </tei:p>
+    <tei:p>
+     „Ľahko sa ti smiať, keď ťa nezbili,“ vravel Miško skoro s   plačom.
+    </tei:p>
+    <tei:p>
+     „Ktože vás nabil, vás, študentov? Poďme naňho,“ rozhorlil som sa a   krútil svojím červeným slnečníkom, ktorý som zabudol vystreť proti   horúcemu poludňajšiemu slnku, hoci bol vlastne na to kúpený.
+    </tei:p>
+    <tei:p>
+     „Totiž len nás mali nabiť,“ tíšil ma Hladovánsky. „Keď sme sa   chceli škriabať cez ploty, ľudia sa na nás oborili a zahnali nás na   cestu, ktorou sme kráčali po tvojom príklade. Y dedine nás upravili   do školy, že vraj pána farára niet doma, a len keď nám pán učiteľ   nemal čo dať na raňajky, rozhodli sme sa ísť do fary, lebo od hladu   sme nič nevládali.“
+    </tei:p>
+    <tei:p>
+     „No, pekne, ale kdeže sa vám podel Bedárek?“
+    </tei:p>
+    <tei:p>
+     „Toho práve tak naháňali, ale on sa dal chodníkom, dolu dedinou,   okolo plotov, a s vŕšku sme ho videli cválať už pastvinou k lesíku.“   Teda Bedárek nás predstihne do Zay-Uhrovca. Hrozná skutočnosť!
+    </tei:p>
+    <tei:p>
+     V zayuhrovskom zámku bola hostina, totiž len obyčajný, každodenný   obed, ale pre suplikanta znamenal viac ako hostinu. Pán gróf je síce   teraz na letnom sídle, v Bučanoch pri Trnave, ale varí sa pre hostí   tak, ako by bol doma. I dnes je ich tu plno. Už od rána rokovala tu   deputácia Trenčianskej župy; bol tu námest-
+    </tei:p>
+    <tei:p>
+     48
+    </tei:p>
+    <tei:p>
+     ﻿ník županov, slúžny, inženieri, právnici a grófsky úradníci.   Prikryté je vo veľkej jedálni, do ktorej sa ide priestrannou chodbou,   ozdobenou podobizňami členov rodiny z predošlých storočí. Za   vrchstolom sedia župní páni, pri nich grófski úradníci a právnici.   Úradník zo zámku dáva pozor, aby všetko šlo po poriadku, aby pred   každým tanierom stálo trojaké víno a kto si rozkáže i pivo. Posledný   hosť, ale čo sa týka jedenia prvý, sedel za stolom pri krčahu piva —   náš Bedárek.
+    </tei:p>
+    <tei:p>
+     Bedárek za grófskym stolom, a my kde? Pražíme sa na poludňajšom   slnku a ani vystretý slnečník nás dostatočne nechráni proti nemu.   Ledva sme doliezli do zayuhrovskej fary, kde si pán farár   vyšparchával zuby. Na jeho tvári sme čítali: „Pozde, milýdrozde.“   Predstavili sme sa mu síce pokorne, ale zreteľne, ale on len, „dobre,   dobre“ a kráčal k bočným dverám. Dvere viedly do kuchyne, zkadiaľ   však sa ozval na dotaz farárov smutný hlas: „Veru, ich milosť, od   obedu nič nezvýšilo.“
+    </tei:p>
+    <tei:p>
+     „Pri najlepšej vôli vás nemôžem pohostiť, lebo moje domáce odišli   do kúpeľov. Sadnite si a podajte knižočky.“
+    </tei:p>
+    <tei:p>
+     Hneď sme tak spravili, ale pán farár dlho sa v nich prehrabával.   Ľahko bolo nasýtenému prezerať mená darcov z troch žúp, vlastne z   troch seniorátov. Strácali sme trpezlivosť, kým shladúval pero a   riedil černidlo vodou. Konečne zapísal, porúčali sme sa, ako takí, čo   im zuby kleply naprázdno.
+    </tei:p>
+    <tei:p>
+     „Počkajte chlapci, takto vás nemôžem pustiť. Hej, Zuzka, Zuzka!“   volal za nami pán farár a zároveň na
+    </tei:p>
+    <tei:p>
+     49
+    </tei:p>
+    <tei:p>
+     Suplikant — 4
+    </tei:p>
+    <tei:p>
+     ﻿slúžku. Vyhováral sa nám, že nám pozabudol poradiť ísť do zámku,   kde nám z rozkazu jeho milosti grófa a pána generálneho dozorcu dajú   kedykoľvek a čohokoľvek budeme chcieť. „Bude vám tam ako v nebi,“   dodával keď videl, ako sa nám tváre vyjasnievajú. Zuzke rozkázal, aby   nás zaviedla a predstavila v zámku.
+    </tei:p>
+    <tei:p>
+     Pánu farárovmu spamätaniu sa môžeme ďakovať, že môžem začať s   opisom grófského obedu, lebo o chvíľu som už sedel pri ňom, zoči voči   Bedárkovi. Obed už bol v polovici, ale ešte aj z tej polovice   polovica by bola postačila akémukoľvek nenásytnému suplikantovi. Piva   sa nám dostalo menej, lebo Bedárek sa už pousiloval vypiť krčah skoro   na dno; ale predsa postačilo zaliať chutné, trojaké pečienky.
+    </tei:p>
+    <tei:p>
+     Po obede župní páni posedeli. Pozapaľovali si fajky, dopíjali   vínko, málo dbali o nás, pretože pretriasali politické udalosti, do   ktorých sme sa aj tak nemohli miešať. Konečne prešli na jazykové   otázky. Hromžili na školy, na ktorých sa ešte vyučovalo latinsky a   nie maďarsky, ako to vyžaduje duch času a potreba kraja. Týmto pánom   najväčším tŕňom v oku boly slovenské ústavy. Najmä Levoču poobracali   so všetkých strán, pretože sa tam pred rokom presťahovali všetci   žiaci a ctitelia Štúrovi. Mal ju v žalúdku aj neprítomný hostite!.   Bedárka sa to nemilo dotýkalo, pretože on suplikoval za levočské   lýceum.
+    </tei:p>
+    <tei:p>
+     Nepredstavil sa síce ako vyslaný z Levoče, a tuším ešte len teraz   za dobre uznával byť inkognito. Bezpochyby si
+    </tei:p>
+    <tei:p>
+     50
+    </tei:p>
+    <tei:p>
+     ﻿myslel: „Veľa vrán i koňa zje — čože si ja bedár počnem proti   tolkým Iuďom!“
+    </tei:p>
+    <tei:p>
+     To bola voda na môj mlyn. Chcel som skúsiť, či ich skutky   zodpovedia rečiam, a tak sme im my z Gemera a Miškovca predložili   suplikantské knižočky.
+    </tei:p>
+    <tei:p>
+     „Á — magyar iskolák23) — to je niečo iného,“ preriekol tučný pán,   sediaci za vrchstolom a cez okuliare prezeral knižky. Tu i tu síce   pokrútil hlavou, tuším tam, kde boly príspevky slovensky zaznačené;   ale predsa si rozkázal podať kalamár a pero.
+    </tei:p>
+    <tei:p>
+     To ich pohlo povstať od stola. Všetci povstali a k môjmu velkému   údivu práve tí sa prví vytratili, ktorí najviac hromžili na latinu,   slovenčinu a na Levoču. No pri tom všetkom sme dobre obišli, s   poklonami prijali zlatky, ba tučný pán pochlapil sa piatkou na   Miškovec.
+    </tei:p>
+    <tei:p>
+     A Bedárek? Sedel za stolom ako prikovaný, hoci už dobrá polhodina   minula od tých čias, čo všetci povstali. Tvár sa mu menila a bledla.   Myslel som, že je to len od závisti, že on nič nedostal, a že je   zbytočný v zámku pána, ktorý bojuje s Levočou a jej slovenským   ústavom. Bol celý premenený, bál som sa, že ho porazí.
+    </tei:p>
+    <tei:p>
+     I sluhovia sa čudovali, že on ešte sedí, keď už na stole nič met.   Aj úradník sa hanbil za študentovu nezdvorilosť, ktorý nevie, kedy   vstať od stola. Keď ho už chcel napomenúť, že je čas, aby vstal,   pozrel mu do premenenej tvári a predesene zavolal:
+    </tei:p>
+    <tei:p>
+     „Pane, čo je vám? Vy ste chorý!“
+    </tei:p>
+    <tei:p>
+     2S) maďarské školy
+    </tei:p>
+    <tei:p>
+     51
+    </tei:p>
+    <tei:p>
+     4.
+    </tei:p>
+    <tei:p>
+     ﻿Všetci sa obzreli na Bedárka a zdalo sa im, že je skutočne chorý.   Tučný pán oslovil jedného za svojich známych:
+    </tei:p>
+    <tei:p>
+     „Nože, brat môj, ty si taký pol doktor, neraz si uhádol, čo komu   chybí, slutuj sa aj nad úbohým študentom.“
+    </tei:p>
+    <tei:p>
+     Oslovený, starší pán pristúpil k Bedárkovi, skúmavé mu pozrel do   tvári a chytil pulz. Všetky zraky boly na nich obrátené. Spomenutý   pán ohmatal svoj pulz, i pulz tučného pána, a zas Bedárkovi, a lepšie   sa mu prizrel do tvári. Konečne povedal úsudok naozaj múdreho,   improvizovaného doktora:
+    </tei:p>
+    <tei:p>
+     „Ani čert mu je nie; jeho pulz bije celkom tak ako tvoj a ako môj,   bratku. Prirodzene, to nemôže ani ináč byť, lebo sme rovnako   obedovali a rovnako pozreli aj do krčiažkov. My sme však tomu zvykli,   nie ako tento študent, bude lepšie, keď ostane sedeť, alebo radšej   ležať, kým mu pretroví; to je to isté, ako keď bad prehltne barana   alebo zajaca, musí troviť po ležačky.
+    </tei:p>
+    <tei:p>
+     Iste ešte ďalej pokračoval, ale svedkami toho sme už neboli, lebo   Bedárka odviedli do izby pripravenej len pre študentov a veta: „musí   ležať, kým mu pretroví“ popchla nás k odchodu, aby sme vyťažib z   Bedárkovej nevoľnosti.
+    </tei:p>
+    <tei:p>
+     52
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VIII. APO ČENDEKOVIČ, ČIŽE „STARÝ A   NOVÝ SVET“
+    </tei:head>
+    <tei:p>
+     Bedárka sme predstihli, ale do čoho sme sa dostali! V stankovskej   fare nás uvítali: „Väčšia hŕba pýta viac!“ Vskutku to bola hŕba   žiactva, posbieraného zo všetkých kútov sveta a my traja sme počet   ešte zväčšili.
+    </tei:p>
+    <tei:p>
+     Iste veríte, že sa naše suplikantské srdcia prelakly, keď sme   videli okolo seba tolko kobyliek, pustošiacich naše polia. Uspokojilo   nás, že sme prišli v pravý čas, lebo pán farár práve volal na svoju   obstarnú gazdinú: „Babka, dones chleba aj mlieka, študenti by už   jedli.“
+    </tei:p>
+    <tei:p>
+     Poslušná babka postavila na stôl dva velké mliečniky sadnutého   mlieka, prázdne hrnčeky a celý chlieb.
+    </tei:p>
+    <tei:p>
+     „More patrio24), bratia moji,“ hovoril pán farár „nalievajte si a   jedzte. Nožíky iste máte pri sebe, ako poriadni študenti, odkrojte si   len tak po domácky. Čo mám, to dám, ale na chudobnej dedinskej fare   nemôžete v jedlách preberať.“
+    </tei:p>
+    <tei:p>
+     Natolko sme už boli skúsení, že sme v jedlách neboli
+    </tei:p>
+    <tei:p>
+     M) podlá starej obyčaje
+    </tei:p>
+    <tei:p>
+     53
+    </tei:p>
+    <tei:p>
+     ﻿nijak prieberčiví, ale hladní sme boh, ako vždy. No, divné, ani   jeden sa nepriberal k jedeniu. Ja prvý nie, lebo som mal ohľad na   ostatných, dva mliečniky pre toľkých chlapov to je ako psovi mucha. V   škole nás naučih poriadku: po staršom do mlyna; tento raz po staršom   do hrnca. Mladší pozerah na starších, že tí začnú, oni sa však ani   nehli, ani nepozreli v tú stranu, pýšili sa práve touto svojou   prednosťou.
+    </tei:p>
+    <tei:p>
+     Pán farár to spozoroval a obrátil sa práve k mladším:
+    </tei:p>
+    <tei:p>
+     „Nuž čo, vari neviete to porekadlo: oko zapchaj, brucho napchaj ?!   Nehlaďte na pánov teologov, ktorí vám vždy všetko najlepšie pojedia,   tento raz im vy zjedzte smotánku. Kto je z vás najhladnejší, nech si   prvý berie.
+    </tei:p>
+    <tei:p>
+     Pánom farárom posmelený Hladovánsky, vždy hladný ako vlk, dal sa   prvý do mliečnika, za pomoci skromného Miška Vrútčanského,   Modranského a ktorýchsi mladších chlapcov. O chvíľu by ani mačka   nebola mala čo vylízať a keby sa neboli okúňali, boh by posbierali aj   omrvinky čierneho chleba, lenže nijaké neostaly. Tak boli najedení,   že fučali ako Bedárek v zayuhrovskom zámku. Na tvárach sa im zračila   spokojnosť, že predbehli všetkých a že sa im bude pekne snívať na   plný žalúdok.
+    </tei:p>
+    <tei:p>
+     Babka prišla posberať prázdne hrnce. „Babka, babka, zle si si   poradila.“
+    </tei:p>
+    <tei:p>
+     „Ako to pán farár? Veď som tak urobila, ako ste ráčili   rozkázať.“
+    </tei:p>
+    <tei:p>
+     54
+    </tei:p>
+    <tei:p>
+     ﻿„Veď si iba štyroch nachovala. Aj vlasy nám s hlavy ošklbú, ak ich   do rána necháme o hlade. Neostalo ti nič od obedu? Prestri, a dones   všetko, čo máš!“
+    </tei:p>
+    <tei:p>
+     Babka bez odpovedi prestrela na stôl, položila kopu tanierov, k   ním lyžice, nože, vidličky. O chvílu doniesla misu horúcej polievky a   zvyšky od obedu: trochu lekvárového cesta, kúsok baraniny a velkú   misu zelenej fazule. Vedela, že ani to nepostačí, vytiahla zpoza pece   plnú geletku bryndze, prikrytú čistým obrúskom. I dva celé chleby sa   zjavily na stole. Rozkošný pohlad pre hladných.
+    </tei:p>
+    <tei:p>
+     Radosť bolo vidieť, ako všetko mizne so stola. Teraz sme sa naozaj   držali podlá pána farára „kto je najhladnejší, nech si prvý berie“.   Jedlo sa o závod, sám domáci pán híadel so širokým úsmevom.
+    </tei:p>
+    <tei:p>
+     „Dnes sa dostalo cti môjmu stolu,“ hovoril, „len jedzte, ja sa   nikdy nedotknem ničoho, kým nevidím, že sú moji hostia nasýtení.   Musíte mi odpustiť, že nejem s vami.“
+    </tei:p>
+    <tei:p>
+     Pritom sa usmial stranou pre seba, a tuším, že mihol okom na   starších študentov, ako by mal niečo za lubom. No jediaci nič   nespozorovali.
+    </tei:p>
+    <tei:p>
+     Divné, asi traja starší žiaci sa nedotkli jedla. Jeden z nich,   šuhaj bledej tvári, tenký, s dlhým nosom, prikročil k stolu, nachýlil   sa nad misou a usúdil:
+    </tei:p>
+    <tei:p>
+     „Apko Čendekovič, prihrievané jedlá nestoja za nič a prihrievaná   polievka na noc je hotová otrava pre žalúdok.“
+    </tei:p>
+    <tei:p>
+     55
+    </tei:p>
+    <tei:p>
+     ﻿Usalašil sa na pohovku a pohvizdoval si. Musel tu byť ako doma,   keď pána farára nazýval „apkom“. Druhý, tučný šuhaj, ktorého druhovia   volali Ferom Tučným, sa pozde spamätal. Na stole totiž bola už len   bryndza, ale aj on, ako prišiel, tak odišiel od stola, že by mu   nateraz bryndza nepochutila. Len teraz som spozoroval, že i študenti   sú vyberaví.
+    </tei:p>
+    <tei:p>
+     Ani ja som nejedol, lebo od malička som sa pridŕžal starších. I   teraz ma upútal ich rozhovor. Rozprávali o udalostiach, ktoré sa   stály v Bratislave pred rokom, kde slovenské žiactvo opustilo lýceum,   keď Ľudovítovi Štúrovi zakázali prednášať slovenský jazyk a   literatúru. Dal som prednosť duševnému pôžitku pred jedlom, a napiate   som počúval, keď modrooký Branislav, ktorý tiež opustil Bratislavu,   vykladal o budúcnosti Slovanstva a o poslaní slovenského mladíka.   Chcel som byť Slovákom dušou i telom. Ešte som nikdy nepočul tak   nadšeného rečníka, ako bol Branislav. Mal vo mne pozorného   poslucháča. Spozoroval to aj on, pristúpil ku mne, položil mi ruku na   plece a hovoril.
+    </tei:p>
+    <tei:p>
+     „Brat môj, teraz každý na dačo súci šuhaj vystúpi z maďarskej   školy a ide do Levoče, lebo tam sa presťahoval výkvet slovenskej   mládeže. Odtial sa budú šíriť Štúrove myšlienky, tam je dovolené   prednášať nášmu vernému Rimavskému, a objasniť našim šuhajom, čo sú   Tatry, pod ktorými sa narodili a akí majú byť ich Slováci. Aj vy sa   tam stanete pravým synom Tatier, lebo —“
+    </tei:p>
+    <tei:p>
+     56
+    </tei:p>
+    <tei:p>
+     ﻿Sám hostite! mu nedal dokončiť: „Lebo nedrží s tými papajmi, ale s   nami, bude náš! Pozrite sa na nich, už sú hotoví!“
+    </tei:p>
+    <tei:p>
+     Ukazoval na suplikantov, ktorí zjedli všetko do poslednej   omrvinky.
+    </tei:p>
+    <tei:p>
+     Niektorí si už aj z fajky vytriasali, že si po dobrej večeri   chutne zafajčia.
+    </tei:p>
+    <tei:p>
+     „Ho, ho!“ zastal si Fero medzi nich. „Len pomaly, šuhajci; jesť je   tu dovolené jednému pred druhým, to vám oznámil sám pán farár, ja vás   však musím upozorniť, že neviete slušnosti, keď si nepýtate dovolenie   k fajčeniu.“
+    </tei:p>
+    <tei:p>
+     „Tak je,“ ozval sa rozhodný hlas domáceho pána, „kto chce u mňa   prvý raz fajčiť, nielen že musí prosiť o dovolenie, ale musíme bo   pred tým pasovať na rytiera slávneho fajčiarskeho rádu. Tučný, vy   znáte poriadky. Pred pol rokom som vás ja pasoval za svojho   pobočníka. Konajte teraz svoju povinnosť.
+    </tei:p>
+    <tei:p>
+     Potom sa vážne usadil do kresla na hornom konci izby, tak že mal   celú spoločnosť pred očami a ako skutočný velmajster svojho rádu   púšťal oblakové kotúče. To už nebol ten, čo tak vážne povedal: „bo   nedrží s tými papaj mi,“ ale veselý člen figliarskej študentskej   spoločnosti.
+    </tei:p>
+    <tei:p>
+     Keď babka už druhý raz posberala so stola, pobočník Fero konal   svoju povinnosť.
+    </tei:p>
+    <tei:p>
+     Naprostred stola položil pekný súdok, stiahnutý mosadznými   obručami, vystrúhaný z červeného slivkového dreva, naplnený dobrým   nakrájaným tabakom, dve dlhé fajky a zápalky. Na stole horely dve   sviece ako v „šábes“.
+    </tei:p>
+    <tei:p>
+     57
+    </tei:p>
+    <tei:p>
+     ﻿„No,“ hovoril „všetko je hotové. Y súdku je ten naj-
+    </tei:p>
+    <tei:p>
+     lepší tabak. Kto chce fajčiť?“
+    </tei:p>
+    <tei:p>
+     „Ja, ja,“ ozvali sa všetci žiaci bez výnimky. „Kto chce fajčiť,   musí najprv slávnostne prisľúbiť, že sa dá pasovať na rytiera   slávneho fajčiarskeho rádu, a že sa bez akejkoľvek odmluvy podrobí   obradom, nech sú
+    </tei:p>
+    <tei:p>
+     akékoľvek.
+    </tei:p>
+    <tei:p>
+     S týmto sa obrátil k prvému:
+    </tei:p>
+    <tei:p>
+     „Sľubuješ slávnostne?“
+    </tei:p>
+    <tei:p>
+     „Sľubujem!“ Tak to išlo rad radom. Iba Hladovánsky, hoci rád   fajčil, chcel napred vidieť tie obrady. Preto mu pobočník zakázal   fajčiť.
+    </tei:p>
+    <tei:p>
+     Tých, ktorí složili sľub, postavil na koniec izby do dvoch radov,   oproti kreslu, v ktorom sedel „Apo“ a prizeral sa všetkému. Na stene   visela zástera, ktorú sme si dosial nepovšimli. Pobočník si k nej   stal, sosňal ju so slovami „Sem pozeraj“.
+    </tei:p>
+    <tei:p>
+     Na stene sa objavil veľký tabakový list a uprostred neho   pripevnené dve zapekačky. Po boku visela lopatka na údery, ktorú   pobočník teraz vzal do ruky.
+    </tei:p>
+    <tei:p>
+     Babka zvyklá už na tieto žarty, doniesla niekoľko brubšícb i   tenších ostrých polien a položila ich k nohám pobočníka. Tento   premeral znaleckým okom výšku nádejného rytiera, podľa toho vybral   poleno, ktoré položil ku stene hore ostrím. Vzal ho za ruku a   zprostred izby velel.
+    </tei:p>
+    <tei:p>
+     „Kľakaj a pobozkaj zapekačky, slávny odznak fajčiarského   rádu!“
+    </tei:p>
+    <tei:p>
+     Zdráhal sa, ale musel kľaknúť. Pretože nádejný rytier
+    </tei:p>
+    <tei:p>
+     58
+    </tei:p>
+    <tei:p>
+     ﻿bol privysoký, pri bozkávaní fajky sa musel sohnúť, pri čom sa mu   nemenovateľná čiastka tela vystrčila a nohavice sa poriadne   natiahly.
+    </tei:p>
+    <tei:p>
+     „Ryps,“ zakričal pobočník a naozaj rypslo a plaslo na natiahnuté   nohavice novému rytierovi slávneho fajčiarskeho rádu, ktorý sa potom   vrátil na miesto, aby nasledoval druhý, tretí, až do posledného.
+    </tei:p>
+    <tei:p>
+     Nízkym sa vodilo ešte horšie, lebo dostávali ostrejšie polená,   ústami nedosiahli až k zapekačkám, museli teda dohánový list tri razy   obliznúť, aby poznali opravdovú dohánovú chuť. Za toto poznanie draho   platili, lebo museli sniesť trojnásobné údery lopatky nemilosrdného   pobočníka.
+    </tei:p>
+    <tei:p>
+     Celý obrad sprevádzal „Apo“ čiže veľmajster rádu srdečným   smiechom, pri čom sa mu sadlo na brušku len tak natriasalo. Ostatní   sa zabávali a robili poznámky nad trpiacimi.
+    </tei:p>
+    <tei:p>
+     Po tomto obrade každý musel predstúpiť pred „Apu“ a úctivé mu   pobozkať ruku. Za odmenu dostal tou istou rukou frčku do nosa, ale   dosť milosrdnú a každému pri tom vážne odporúčal: „Fumiga   mundum25).“
+    </tei:p>
+    <tei:p>
+     Potom si už pozapalovali a fajčili pri dobrej vôli a veselom   rozhovore.
+    </tei:p>
+    <tei:p>
+     „Babka,“ „Apko“ už tretí raz zavolal na gazdinú, ktorá pribehla   ako veverička.
+    </tei:p>
+    <tei:p>
+     „Zabudla si, že máš dať večeru. Spočítaj nás, aby si nikoho   nevynechala.“
+    </tei:p>
+    <tei:p>
+     26) Nedbaj na svet (doslova: vyúď svet).
+    </tei:p>
+    <tei:p>
+     59
+    </tei:p>
+    <tei:p>
+     ﻿„Čože, večeru? Čo — na každého pamätať?“ divili sa naši noví   rytieri nad nepochopiteľným rozkazom, pretože boli nasýtení nielen   jedlom, ale aj tabakovým dymom.
+    </tei:p>
+    <tei:p>
+     Ale stalo sa! Pobočník pomohol babke vytiahnuť stôl, a táto vrtká   osôbka prikryla hneď pre dvanástich. Dobre si nás spočítala.
+    </tei:p>
+    <tei:p>
+     Teraz však nasýtení suplikanti vyvaľovali oči, lebo im svitlo v   hlave, že si prepásli mastnú večeru tým, že sa napchali kyslým   mliekom a zbytkami od obedu.
+    </tei:p>
+    <tei:p>
+     Pán farár to spozoroval a zasmial sa: „Čo, vari ste si mysleli, že   my pôjdeme o hlade spať, keď ste vy posberali smotánku s mliečnikov a   nepripustili nás k bryndzi. Mali ste vedieť, že k slávnostnému   pasovaniu patrí aj primeraná večera. Pobočník, do roboty!“
+    </tei:p>
+    <tei:p>
+     Pobočník sosňal kľúče a o chvíľu postavil na stôl plné poháre   červeného vína. Na stole už bola misa čerstvých halušiek aj čerstvé   pečené mäso na ďaleko voňalo.
+    </tei:p>
+    <tei:p>
+     „Takúto večeru musím pochváliť i zo zdravotných ohladov,“   poznamenal študent s dlhým nosom a prvý sa nedal núkať, keď pobočník   zavelel: „Chlapci, do roboty.“
+    </tei:p>
+    <tei:p>
+     Robota išla od ruky tým, ktorí odriekli kyslé mlieko a bryndzu. Tí   druhí však sotva vládali obliznúť z týchto dobrých jedál a škarede na   nás pozerali. Dnes nášmu „Apovi“ chutilo dvojnásobne, keď videl u   jedných tolkíi chuť a u druhých také rozpaky.
+    </tei:p>
+    <tei:p>
+     „Ale babka, veď si sa ty prerátala, o jeden tanier je tu viac a   tesno nám je,“ ozval sa pán farár, keď už trochu hlad utíšil a   popozeral sa po stole.
+    </tei:p>
+    <tei:p>
+     60
+    </tei:p>
+    <tei:p>
+     ﻿„Nie, vaša milosť,“ odvetila babka, „ale jeden mladý pán si   nechcel sadnúť, fajčí von pod stenou.“
+    </tei:p>
+    <tei:p>
+     „Pobočník, dnu ho.“
+    </tei:p>
+    <tei:p>
+     Pobočník doviedol Hladovánskeho za šticu. Chudák taký zúrivý   fajčiar, keď dnu nesmel, išiel si von pofajčit. Za pokutu musel fajku   odložiť a všetkým ponalievať.
+    </tei:p>
+    <tei:p>
+     Bratislavskí študenti zodvihli poháre a začali spievať tú   našu:
+    </tei:p>
+    <tei:p>
+     Hej, len vždy veselo —
+    </tei:p>
+    <tei:p>
+     cic koži kozina, ešte nám nebila
+    </tei:p>
+    <tei:p>
+     posledná hodina atď.
+    </tei:p>
+    <tei:p>
+     To bol len povel k rozspievaniu sa. Zaznely i veselé i smutné   národné piesne. Tak znela zádumčivá:
+    </tei:p>
+    <tei:p>
+     „Dunaju slovenský, už ťa zanecháme, keď na tvojich brehoch ústavu   nemáme,“ no odhodlanejšie „Nad Tatrou sa blýska, hromy divo bijú,“   nakoniec zápalisto: „Hej Slováci, ešte naša slovenská reč žije!“
+    </tei:p>
+    <tei:p>
+     Naši mladší študenti načúvali s otvorenými ústami, veď beztak   sotva počuli niečo iné, ako: „Pod oblôčkom vyskakoval, štyri groše   ukazoval.“ Tu sa im otváral nový svet, plný nadšenia a zápalu   mladistvého ducha. Hladovánsky zabudol i na fajku a nalieval rezko a   ochotne. Radi by sme sa boli naučili spievať tak, ako vedeli   bratislavskí študenti.
+    </tei:p>
+    <tei:p>
+     Náš „Apo“ rástol od radosti a opakoval: „Chlapci
+    </tei:p>
+    <tei:p>
+     61
+    </tei:p>
+    <tei:p>
+     ﻿moji, iba vtedy sa dobre cítim, keď som medzi vami. Mladnem pri   vašom speve. Keby to nás tak boli učili. Aspoň vy naučte týchto   mojich rytierov starého rádu, ako sa majú so spevom a nadšením   chystať do života, a nemyslieť len na žalúdok.“
+    </tei:p>
+    <tei:p>
+     Pán farár v tejto chvíli nebol už len figliar medzi študentmi, ale   muž oduševnený za čosi vznešenejšie a vyššie.
+    </tei:p>
+    <tei:p>
+     Páčily sa mi tieto protiklady v jednom človekovi. Prečo by sa   nemohol rozveseliť človek zaujatý vážnymi myšlienkami a naopak,   žartovný zaoberať sa vážnymi vecmi.
+    </tei:p>
+    <tei:p>
+     Predviedol som vám skutočnosť tak, ako som ju zažil na mojej   suplikantskej púti a najmä u „Apu“ Čendekoviča. Na jednej strane   odumierajúci svet obyčajných študentských papajov, na druhej strane   svet nadšenej mládeže, oduševnenej za svätú vec, za pravdu a za život   slovenského národa.
+    </tei:p>
+    <tei:p>
+     Chýlilo sa k polnoci, keď pobočník s Hladovánskym pripravoval   postele. „Apo“, Branislav a spomínaný študent s dlhým nosom odišli do   izby na druhej strane domu, kde bola pre každého odpravená jedna   postel. Značilo to europské trojcisárstvo. Starších upravil pobočník   do vedľajšej izby, kde mal aj sám miesto, tam spali dvaja v jednej   posteli. To boh t. zv. králi. My ostatní sme tvorili republiku, ktorá   sa usalašila v najpriestrannejšej izbe, kde sme sa tak milo zabávali.   Babka doniesla slamy, Hladovánsky ju porozkladal po izbe. Každý sa   prikryl, čím mohol, vyvábi sa a spal, ako v oleji.
+    </tei:p>
+    <tei:p>
+     62
+    </tei:p>
+    <tei:p>
+     ﻿Cisári a králi museli zachovávať dvorskú etiketu, t. j. nesmeli   skôr vstať ako „Apo“, čo po takejto spoločnosti znamenalo len o   desiatej pred obedom.
+    </tei:p>
+    <tei:p>
+     Jedine republika mala právo vstávať, kedy chcela a kedy kto musel.   Babka dala každému na cestu chleba s bryndzou. My suplikanti sme   využili tohoto práva zavčas rána. Všetci išli nahor, len my traja   nadol. Tí za nami, my za nimi na suplikantskú srvátku, keďže sme si   smotánku posberali jedni pred druhými.
+    </tei:p>
+    <tei:p>
+     63
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IX. MOSKVA HORÍ — JAVORINA   ZALIEVA
+    </tei:head>
+    <tei:p>
+     Bŕŕ, ale sa to leje a cedí na úbohé suplikantské hlavy a chrbáty.   Ešte na môj, ako na môj, mňa dosť dobre chráni môj povestný dáždnik,   ale moji kamaráti umokli už ako myši a trasú sa ako osika. Niet   nádeje, že dážď a vietor utíchnu. Celé horné Nitriansko od Považia až   na vysokú Javorinu je zahalené oblakmi. Niet nijakej pomoci, len   stúpať hore vŕškami a poliami, kým sa neobjaví dáky ľudský príbytok.   Konečne pod vŕškom dedina! Veža, kostol a fara. Je to Krajné, želaný   prístav v čas takejto búrky.
+    </tei:p>
+    <tei:p>
+     My zúfalí plavci, správnejšie pešiaci, zdvojnásobili sme rýchlosť   svojich vesiel, čiže nôh, a za chvíľu sme sa otriasali v priestornom   pitvore fary. Všetko sa pred dažďom pouťahovalo, iba z izby sa   ozývaly silné hlasy, ako by sa dvaja sokovia dohadovali.   Neprekvapovalo nás, že prídeme do búrlivej debaty. Lebo v tomto čase   to bolo každodenné. Mienky starších sa rozchádzaly s mladšími vo   filozofii, v teológii, v histórii, i čo sa týka národ-
+    </tei:p>
+    <tei:p>
+     64
+    </tei:p>
+    <tei:p>
+     ﻿nosti a jazyka. Látka k dišputám nechýbala. Uhádol som, že i v   tomto prípade to tak bude, ale div, že som s nôh nespadol, keď v   najrozhorlenejšom hlase som spoznal nešťastného — Bedárka.
+    </tei:p>
+    <tei:p>
+     Neviem, akým spôsobom sa sem dostal, dosť na tom dostal sa sem   pred nami a po suchu. Nehneval som sa, že sa zasa stretáme, lebo po   rečiach Branislavových chcel som sa od Bedárka prezvedieť, ako je to   v tej Levoči. Odložil som dáždnik, netrpezlivé zaklopal a vstúpil   dnu, za ten čas, čo pani farárka odviedla mojich kamarátov k ohňu,   aby sa osušili a ohriali. V izbe naozaj dišputa v plnom prúde, ako   vonku lej ak. Von sa preháňaly oblaky, tu sa pretekali dvaja   debatujúci. Ledva mi poďakovali za pozdrav a vyzvali, aby som si   sadol.
+    </tei:p>
+    <tei:p>
+     „Darmo, pán farár,“ hovoril rozborlený Bedárek, „Rusi vykonali   veľký a hrdinský skutok, ktorý nemá páru v dejinách, keď pred   Napoleonom vypálili Moskvu.“ „Čo to hovoríte?“, ozval sa pán farár   ešte rozhorlenejšie, „veľký, hrdinský skutok? Barbarský severský   skutok. Vzdelaní Gréci nenazvali nadarmo severské, neobučené národy   barbarmi. To platí dnes o Rusoch a o tomto ich neľudskom skutku!“
+    </tei:p>
+    <tei:p>
+     „Nuž veď i vzdelaní Gréci urobili taký barbarský čin, ako   Rusi!“
+    </tei:p>
+    <tei:p>
+     „Kde, kedy by boli vzdelaní Gréci opustili svoje hlavné mesto a   vyhnali obyvateľstvo?“
+    </tei:p>
+    <tei:p>
+     „Nuž za perskej vojny. Na radu slávneho Themistokla opustili   slávne Atény a nechali ich pustošiť perský-
+    </tei:p>
+    <tei:p>
+     Suplikant — 5
+    </tei:p>
+    <tei:p>
+     65
+    </tei:p>
+    <tei:p>
+     ﻿mi barbarmi. Sami odtiahli na ochranné lode, práve tak, ako Rusi   do severských krajov!“
+    </tei:p>
+    <tei:p>
+     „To bolo iné. Duo dum faciunt idem, non faciunt idem26). Tam stál   vzdelaný, hrdinský národ proti hrubej sile, a tuto hlúpy, barbarský   proti vzdelanej Európe.“
+    </tei:p>
+    <tei:p>
+     „Tu sa stalo to isté. Národy Malej Ázie sa daly podmaniť perskými   samovládcami a tiahly s nimi v ozrutných húfoch proti mladému,   sviežemu, helénskemu národu. Tu zasa Európa podmanená Napoleonom   húfne tiahla na podobný národ. Ako tam, tak aj tu národ obetoval   mesto, aby pokoril tyrana. V histórii sa rozhodné činy opakujú. Ako   sa nová sláva a sloboda Atén datuje od ich zničenia Xerxom a od   súčasného víťazstva Helady nad Áziou, tak sa datuje aj sloboda   slovanských detí od vypálenia Moskvy a od pokorenia veľkého víťaza   západu — Napoleona!“
+    </tei:p>
+    <tei:p>
+     „Ba kto by mohol tak blúzniť, ako vy?“
+    </tei:p>
+    <tei:p>
+     „Blúzniť? Ako ja blúznim, blúznili predo mnou aj veľkí mužovia.   Náš slávny Kollár podobne poníma túto vec a o vypálení Moskvy   spieva:
+    </tei:p>
+    <tei:p>
+     „Svetlo slepcum rozžatí jsem chtela, by už pŕece jednou   videli,
+    </tei:p>
+    <tei:p>
+     co j sem j á a co jsou moje deti!“
+    </tei:p>
+    <tei:p>
+     „Podlá vás som aj ja slepec. To si vyprosím od takého mladíka. O   Kollárovi len tolko poviem, že fanaticky
+    </tei:p>
+    <tei:p>
+     20) Keď dvaja robia to isté, nie je to to isté.
+    </tei:p>
+    <tei:p>
+     66
+    </tei:p>
+    <tei:p>
+     ﻿zvelebuje svoje Slovanstvo. Je Cicero pro domo sua.27) Vlastná   chvála smrdí. Nemci už raz dosvedčili, že sú vysoko vzdelaným   národom, a iste ani jeden z ich mužov neponímal tieto veci tak, ako   vy a váš Kollár.“
+    </tei:p>
+    <tei:p>
+     „Ba práve, pán farár. Práve nemecký básnik bol vzorom Kollárovi k   znelke o Moskve. Bol to Tbeodor Koerner, bojovník, ktorý nesúhlasil s   Napoleonovým panstvom, ale mečom bojoval proti nemu. V boriacej   Moskve videl plamene preporodu, z ktorých vyletuje fénix, bo i on   spieva o Moskve:
+    </tei:p>
+    <tei:p>
+     „0 lass dir nur vom Aberwitz verdammen! Ibr Kircben stúrzt,   Palläste brecbt zusammen, — Der Phoenix Russlands wirft sicb in die   Flammen. Docb hochverklärt aus seinem Feuerkranze Wird er erstehn im   friscben Jugendglanze, Und Sanct Georg schwingt siegend seine   Lanze.“
+    </tei:p>
+    <tei:p>
+     „Zase ,Aberwitz‘ (blud, bláznivosť). Tak my starší sa vám zdáme   zblúdili a blázniví, ako by ste vy už boli vychlipkali všetku múdrosť   lyžičkami, prv než by vám fúzy začaly pučiť.“
+    </tei:p>
+    <tei:p>
+     Hľa, pán farár už nehorlil, ale sa hneval a nadával. Rozhorlený   Bedárek to síce spozoroval, ale chcel mať po svojom.
+    </tei:p>
+    <tei:p>
+     „Nie tak, pán farár. Slovo ,Aberwitz‘ nechcel som užiť ani proti   vám, ani proti tým, ktorí ináč na to hladia,
+    </tei:p>
+    <tei:p>
+     27) vo vlastnom záujme
+    </tei:p>
+    <tei:p>
+     67
+    </tei:p>
+    <tei:p>
+     5*
+    </tei:p>
+    <tei:p>
+     ﻿ale sám ste ma vyzvali, aby som svoje tvrdenia odôvodnil výrokmi   slovutných mužov a mysliteľov. Zotrvávam na tom, že slovanské deti   veľkého Ruska vykonaly hrdinský skutok, keď pred Napoleonom zapálily   svoju bielokamennú Moskvu.“
+    </tei:p>
+    <tei:p>
+     „No, ostaňte si pri svojom barbarstve, ktoré v histórii nemá   páru.“
+    </tei:p>
+    <tei:p>
+     „Nuž a Saguntum?“ pokračoval neodbytný Bedárek. „Obyvatelia tohoto   mesta si radšej strechy nad hlavou zapálili a zomierali v   zrúcaninách, ako by sa Hannibalovi podrobili. Vidíte, pán farár, i   vtedajší synovia Helady (Saguntum bola grécka kolonia) volili radšej   smrť v zrúcaninách, ako pokorenie a otroctvo.“
+    </tei:p>
+    <tei:p>
+     Pánu farárovi už bolo dosť. Bol veľmi namrzený, ale aby zmiernil   hádku, previedol reč inam, prešiel niekoľkokrát po izbe a   povedal:
+    </tei:p>
+    <tei:p>
+     „Veď si Kollára aj ja ctím, a nadovšetko sa mi páčia jeho znelky,   písané našou biblickou rečou, u nás prijatou už tri sto rokov. Chcel   by som vedieť, čo Štúr zamýšľa s tou novou slovenčinou, čiže   liptáčinou. Aspoň nám Nitranom by mohol dať pokoj; my to au, ou, uv   vôbec neznesieme.“
+    </tei:p>
+    <tei:p>
+     „Čo chce Štúr so slovenčinou?“ rozhovoril sa nadšený Levočan. „Nuž   čože by chcel? Vzkriesiť národ jeho vlastnou rečou. Mohutne ho   kriesi. Ostatne ako Kollárov ctitel musíte pripustiť, že Štúr len to   uvádza vo skutok, čo Kollár predpovedal a uznal za krásne a za pravé.   Kollár práve slovenčinu vyzdvihol vo svojich znelkách.
+    </tei:p>
+    <tei:p>
+     68
+    </tei:p>
+    <tei:p>
+     ﻿Vo dvoch je to najmarkantnejšie, uvediem z nich len toto:
+    </tei:p>
+    <tei:p>
+     „Ŕeč se slávská mluví všudy tuto (v nebi), V náfečích všech rovno   hotové,
+    </tei:p>
+    <tei:p>
+     V dokonalejší však obnove,
+    </tei:p>
+    <tei:p>
+     Tak, že každý nezvuk vytisknuto. Nýbrž chráni se i od skŕehotu,   Zaléhá pomalú f bŕískavé,
+    </tei:p>
+    <tei:p>
+     Siala (matka Sláva) iíkání kvičlavé S eékáním k medzem Hottentotu.   Milostné a, pak o pŕevelebné Yracejí se zpátkem z vyhnanství,
+    </tei:p>
+    <tei:p>
+     Bejk, šejd, hejl tu hnusné, nepotrebné.“
+    </tei:p>
+    <tei:p>
+     Rečník si tým zle poradil. Popudlivý sok to už nemohol strpieť.   Behal strmo po izbe a volal:
+    </tei:p>
+    <tei:p>
+     „Teda my sme Hottentoti, my sme hnusní a nepotrební zato, že   predlžujeme í, a é a snažíme sa vzdelanejšie hovoriť! Vy sa mi to   opovažujete povedať, vy chlpáň, vy holobrádok. Zabudli ste, že vy ste   sa ešte len mensa, mensae učili deklinovať, keď som ja už dávno   poznal tieto veci. Čo tu chcete, he?“
+    </tei:p>
+    <tei:p>
+     To bola nová urážka, a taká, ktorú nijaký poriadny študent   nestrpí, aj keď sa ho to priamo netýka.
+    </tei:p>
+    <tei:p>
+     Obaja sme vzali klobúky a porúčali sa. Vonku sa len teraz poriadne   rozlialo, ako by Javorina chcela zaliať spomínaný požiar a vietor   hvízdal ií — eé. Pán farár sa utíšil, zdržiaval nás, ale my sme si   volili to horšie.
+    </tei:p>
+    <tei:p>
+     69
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿X. DRUH S DRUHOM / NÁVŠTEVA V   SLOVENSKEJ REDAKCII / MÔJ ALTER EGO
+    </tei:head>
+    <tei:p>
+     Bol krásny, letný deň, jasné nebo, čisté povetrie, priezračné ako   sklo, len tak sa v ňom ligotal svet. Prišli sme od severu s hôr.   Smerovali sme od Modry do Pezinku utešeným krajom, trochu vyvýšeným,   a preto sa nám otváral široko-ďaleko voľný rozhľad. Vpravo sa tiahlo   pásmo hôr, posledné to výbežky „Bielej hory“ a Tatier, ktoré siahajú   k Dunaju, nad ktorým sa vypínajú zrúcaniny bratislavského hradu.   Vľavo sa rozprestieraly diaľne roviny, kadiaľ vedie železničná trať   cez Modru, Pezinok, Sv. Jur do Bratislavy.
+    </tei:p>
+    <tei:p>
+     Spriatelení druhovia sa obdivovali týmto šírym diaľkam, ale ich   túžby zalietaly do Bratislavy. Hnaní túžbou kráčali strmo k pezinskej   stanici. Nasadli do vlaku, ktorý ťahaly dolnozemské kone. Rýchlosť   vlaku sa nevyrovnala ani z polovice rýchlosti ich túžob.
+    </tei:p>
+    <tei:p>
+     Vo vozni, preplnenom nevládnymi cestujúcimi, začali novopečení   kamaráti, vážny rozhovor:
+    </tei:p>
+    <tei:p>
+     „Brat môj, ťažko som ťa dnes poznával, keď si tak
+    </tei:p>
+    <tei:p>
+     70
+    </tei:p>
+    <tei:p>
+     ﻿neústupné hájil svoje stanovisko. To už nebol ten figliarsky   Bedárek z Kráľovej Lehoty, ani ten lenivý had, ako ťa nazval ten   starý pán v Zay-Uhrovci.“
+    </tei:p>
+    <tei:p>
+     Keď som videl, že pri slove: had sa zamračil, dodal som   obratne:
+    </tei:p>
+    <tei:p>
+     „Skutočne si pri hádke vyzeral ako štrkáč. Vrhal si sa na   protivníka ohnivo a silne, svieral si ho a nedal si mu ani   vydýchnuť!“
+    </tei:p>
+    <tei:p>
+     Uchlácholený Bedárek vysvetľoval:
+    </tei:p>
+    <tei:p>
+     „Vidíš, brat môj, so mnou je to tak: rád som veselý, rád vystrájam   žarty, pri ktorých sa aspoň sám zasmejem; povysmievam opozdilcov a   učím ich opatrnosti. Ty nemáš čo ľutovať, šťastne si prešiel pri   skúške. Zo Zay-Uhrovca mám ponaučenie, aby som sa vystríhal niečoho   podobného. Vtedy som sa celý deň ponáhľal, aby som všetko shrabnul a   zmorený som dorazil do Zay-Uhrovca. Hostinou som neokrial, ale celý   zmalátnel. Nemôžem si odpustiť, že som nemohol sekať do protivníkov   našich škôl a našej reči. No vynahradil som si to v Krajnom pri   debate, ktorú si aj ty počul.“
+    </tei:p>
+    <tei:p>
+     „Teda pán farár v Krajnom odniesol aj pre tamtých.“
+    </tei:p>
+    <tei:p>
+     „Bude mi ho ľúto, kým budem žiť.“
+    </tei:p>
+    <tei:p>
+     „Ba len ako si sa dostal s ním do takej hádky?“
+    </tei:p>
+    <tei:p>
+     „Sám začal, že čo vlastne naši dokázali, keď pre jedného Štúra   opustili od rokov slávnu Bratislavu. Mojou povinnosťou bolo hájiť   nielen našich bratislavských mladíkov, ale mu aj dokázať, že Slovanom   svitá nový deň žitia a že dokážu v histórii ešte viac, ako dosial.   Tak sme
+    </tei:p>
+    <tei:p>
+     71
+    </tei:p>
+    <tei:p>
+     ﻿prešli na dejiny, a už ani nepamätám, ako sme sa dostali na Moskvu   z r. 1812.“
+    </tei:p>
+    <tei:p>
+     „Od tejto chvíľky sa datuje naše úprimné priateľstvo,“ a potriasli   sme si pravice.
+    </tei:p>
+    <tei:p>
+     „Tak je, druh môj. Pochopil si ma, prijal si za svoju urážku   druha, obhajujúceho slovenskú vec. Len jedno mi vysvetli, kde sa v   tebe berie toľko národného citu, veď si taký mladý a z maďarskej   školy?“
+    </tei:p>
+    <tei:p>
+     „Slabé národné uvedomenie mám z rodičovského domu. Môj otec je   síce len utiahnutý učiteľ, ale vychoval ma národu. Napolo uvedomelý   dostal som sa do Miškovca, medzi maďarských spolužiakov, s ktorými   som sa čoskoro dohadoval o čisté materiálnych veciach, na pr. či by   Slovák vyžil bez maďarskej slaniny, Maďar bez slovenskej rudy a   dreva, aký chlieb by Maďar jedol, keby mu ho slovenské ruky   nedorábaly. Musíš mi sám priznať, že moje uvedomenie vzrastalo   nevedomky na tejto púti po slovenských krajoch. V Krajnom, pri debate   o zapálení Moskvy, som ťa už úplne chápal. Veď už dávno som si žiadal   počuť takého horlivého Levočana, lebo aj Branislav v Stankovancoch   spomínal levočských študentov. Tvoja hádka v Krajnom ma presvedčila,   že aj ty si jeden z nich.“
+    </tei:p>
+    <tei:p>
+     „Teda ty si hol s Branislavom! Vieš, že ho poslal Štúr, aby svojou   výrečnosťou získával pre národnú vec? Mal si šťastie. Vidíš, mňa to   minulo!“
+    </tei:p>
+    <tei:p>
+     Čas sa nám príjemne krátil líčením udalostí v Stankovancocli, jeho   obsah znáte z ôsmej kapitoly.
+    </tei:p>
+    <tei:p>
+     72
+    </tei:p>
+    <tei:p>
+     ﻿Musím svojim čitateľom vysvetliť, prečo sa môj druh nazýval   Bedárek a ja Tulipán. Takto vtipne nás nazvali naši spolužiaci.   Bledý, chudý, kostnatý, vysoký, často postonávajúci shrnuli v meno   Bedárek. Ja som bol Tulipán pre červené líca.
+    </tei:p>
+    <tei:p>
+     Sosadli sme „u valných prúdov šíreho Dunaja“ a ponáhľali sme sa   krížom cez Bratislavu do Panenskej ulice a ani sme sa neobzerali po   meste. Na Panenskej ulici stál pre nás veľmi významný dom. V ňom bola   redakcia „Národných novín“ a „Tatranského Orla“. Býval tu náš Ľudovít   Štúr. Bedárek mal doporučenie od „Bratislavčanov“, tak totiž menovali   tých, ktorí r. 1844 opustili Bratislavu. Teraz som už aj ja mohol s   ním ísť.
+    </tei:p>
+    <tei:p>
+     Ykročili sme do dvoch priestranných izieb, preplnených spismi,   knihami, papiermi, porozkladanými na stolcoch, stoloch, posteliach,   policiach. Z toho sme usúdili, že izby sú zariadené ako spálňa,   jedálňa a pracovňa. Traja mladí šuhaji pilne pracovali. Náš príchod   ich zpočiatku nevyrušil z práce, iba keď sa im Bedárek predstavil ako   Levočan a oddal pozdravy od známych, tu povyskakovali z miest a   srdečnému vítaniu nebolo konca kraja. Vypytovali sa, čo „naši“ v   Levoči, ako sa majú a čo robili celý školský rok.
+    </tei:p>
+    <tei:p>
+     Živý, veselý rozhovor musel kohosi mýliť v susednej izbe, lebo i   pri hlasitej vrave som tam začul strmé kroky. Po chvíli sa otvorily   dvere a na prahu sa objavila vysoká, mužná postava s perom v ruke, na   ktorom sa ešte lesklo čerstvé černidlo. Bol to sám Štúr, iste   vyru-
+    </tei:p>
+    <tei:p>
+     73
+    </tei:p>
+    <tei:p>
+     ﻿šený z vážnej práce, lebo jeho vážna tvár bola zamračená. Len raz   sa na nás pozrel, a všetci sme uhádli, kolko bilo. Nikto nečakal, kým   sa ozve, ale jeho spolupracovníci sa naň vyrútili: „Vynahradíme to   cez noc, čo zmeškáme. Levočania sú tu.“
+    </tei:p>
+    <tei:p>
+     Na slovo „Levočania“ vyjasnila sa aj Štúrova tvár. Vrelo nám   stisol pravice a srdečne nás uvítal. Zabudol som, že som vlastne len   chlapec z Miškovca, lebo som sa cítil celým Levočanom. Štúr nechal   prácu prácou, vypytoval sa Bedárka na rôzne podrobnosti. Tento ho   ochotne informoval: ako neprajníci premenili slovenský ústav na   homiletické cvičenia bohoslovcov, ako potom mládež založila súkromnú   jednotu, kde by sa cvičila v čistej slovenčine, ako nielen   bohoslovci, ale všetka stredoškolská mládež horuje za slovenčinu, ako   sa vzdeláva, pracuje, reční, ako pozorne počúva prednášky   „Bratislavčanov“ atď., atď. To ste mali vidieť, ako to všetko Štúra   zaujímalo.
+    </tei:p>
+    <tei:p>
+     Keď sa Štúr dozvedel, že som nádejný Levočan, nateraz však ešte   miškovský žiak, adresoval mi nasledujúce slová: „Čože vás tam učia,   skloňovať: mensa, mensae, alebo trochu tej maďarčiny. Veru v tom je   nie život. Na cestu života vás uvedie iba živé slovo slovenčiny a   hlboké myšlienky Slovanstva. Je to síce tŕnistá cesta, najmä pre   prvých, lebo práca je ťažká, ale jedine tak sa prebudí ospalý a   zakliaty národ. V boji zosilniete. Prv než prikročíte k buditeľskej   práci, musíte najprv seba prebudiť. Je to hrozné, ako nás dosial   učili chápať človečenstvo. Vlastný národ vám predstavujú ako   zakliatu
+    </tei:p>
+    <tei:p>
+     74
+    </tei:p>
+    <tei:p>
+     ﻿mŕtvolu. Človečenstvo je večne živé. I náš národ sa musí po   tisícročnom zakliatí prebudiť k životu, uplatniť sa vo vede, umení,   remeslách, obchode a v hospodárstve.“
+    </tei:p>
+    <tei:p>
+     Predsavzal som si pripojiť sa k národnej práci slovenskej   mládeže.
+    </tei:p>
+    <tei:p>
+     Čo vám mám ešte rozprávať? V redakcii sme strávili tri dni. Boli   sme tam ako doma. K spomenutým izbám v redakcii patrila ešte štvrtá a   kuchyňa. Tam viedla „redakciu“ Karolína, Štúrova sestra. Pečovala o   nás starostlivo, na každý deň pripravila skromný obedík, po ktorých   sa dostavovaly tie pravé pôžitky v priateľských rozhovoroch o   národných udalostiach, o básnictve, umení i o vede. Zameškaný čas   nahrádzali v noci, lebo Štúr mal odcestovať do Nitry a hlavné   redaktorské práce malý byť hotové aspoň desať dní vopred. My sme za   ten čas suplikovali v meste, urobili sme si výlet na rumy   staroslávneho Devína. Najmä posledný večer bolo v redakcii živo.   Dobehli k nám žiaci a členovia slovenskej jednoty, ktorí zasadali 4.   augusta v Banskej Štiavnici. Šuhaj ci pribehli zo Štiavnice za dva   dni, aby hneď za horúca uvedomili Štúra o kladných výsledkoch.
+    </tei:p>
+    <tei:p>
+     Na rozlúčku si náš Bedárek predplatil pre seba a troch druhov z   ťažko ušetrených peňazí „Národnie noviny“ a „Orla“. Pre nedostatok   peňazí si levočskí študenti viacerí spolu predplácali jeden časopis.   Štúr videl, že aj ja by som si rád predplatil, keby som mal dosť   peňazí, preto povedal: „Braček zlatý, nože sa usilujte do tej Levoče.   Ale kdekolvek budete na rok študovať, pošlite mi svoju
+    </tei:p>
+    <tei:p>
+     75
+    </tei:p>
+    <tei:p>
+     ﻿adresu a ja vám budem posielať „Noviny“ aj „Orla“.. Za odmenu   získate dvoch, troch a budete sa spolu svedomité vzdelávať a pilne   čítať.“
+    </tei:p>
+    <tei:p>
+     So slzami v očiach som mu poďakoval.
+    </tei:p>
+    <tei:p>
+     S Bedárkom sme sa rozlúčili naprostred Bratislavy. On sa ponáhlal   k Dunaju, odtiaľ loďou do Vacova, hore Novohradom, a ja som sa   poberal sám k dedinám,,Bielej hory“.
+    </tei:p>
+    <tei:p>
+     Keď som osamel, umienil som si nestarať sa už viac o nikoho,   ponáhľať sa domov, usporiadať si veci v Miškovci a žiadať svolenie do   Levoče. Ale ktože sa to len po námestí prechodí? Sú traja. Prvý je   môj milý Hladovánsky, druhý Miško Yrútčanský a ten tretí? Ktože to   môže byť? Pane Bože, vari len nie ja? Veď ako by mi z oka vypadol.   Postava, šaty, posunky, ako by som seba videl. Viedol ich pomedzi   ľudí tak ako som ich kedysi ja vodieval po turčianskych horách, aby   sa nestratili. Veď vari je to nie môj dvojník. To musím vypátrať.
+    </tei:p>
+    <tei:p>
+     „Hej, šubajci, bej“ zavolal som dosť ticho, ale dôrazne. Šuhajcov   to trhlo, obzreli sa a zastali. Darmo ich sprievodca volal, môj hlas   bol účinnejší.
+    </tei:p>
+    <tei:p>
+     „Kde sa tu beriete? Čo tu robíte?“ vyzvedal som sa.
+    </tei:p>
+    <tei:p>
+     Miško s plačom rozprával, ako už dva dni blúdia po meste a nikto   im nevie poradiť, kde je luteránska fara, že keď zaklopú v   parádnejšícb domoch, že im nadávajú a dajú iba dva krajciare, alebo   po kúsku chleba. I Hladovánsky by bol prišiel o všetky peniaze, keby   nebol prispel na pomoc hla tento Jožko.
+    </tei:p>
+    <tei:p>
+     76
+    </tei:p>
+    <tei:p>
+     ﻿Meno „Jožko“ ma upozornilo na tretieho mládenca a pripomenulo mi   čosi viac, veď i ja som bol na čas Jožkom. Teraz som premeral svoje   druhé „ja“ od hlavy do päty. Nápadnú podobnosť som nijak nemohol   uprieť, ale hneď som uhádol, kto to asi bude.
+    </tei:p>
+    <tei:p>
+     „Teda Jožko, náš nový druh zachránil Hladovánskeho peniaze a teraz   vás nebodaj vyvedie aj z trmy vrmy. Ten šuhaj nemá páru. Marienka   bude hrdá, keď sa o tom dozvie.“
+    </tei:p>
+    <tei:p>
+     Jožko sa strhol pri mene „Marienka“ a už som viac nepochyboval, že   som uhádol, koho mám pred sebou. Krátko vám dopoviem, čo ešte patrí k   veci.
+    </tei:p>
+    <tei:p>
+     Jožko s Miškom boli príbuzní, preto im Jožko prispel na pomoc v   pravý čas pri Dunajských mlynoch, kde pracoval po odchode z Turca ako   mlynársky tovaryš. Miškovi aj doma kázali, aby, až sa bude túlať po   svete, pohľadal Jožka, ktorého v spomínanom turčianskom mlyne i dcéra   i rodičia túžobne očakávali. Konečne sme sa sišli my, ktorí sme si   nevedomky zamenili úlohy. Aj som mu vyrozprával, ako za ním vo mlyne   banujú, keď aj mňa pre veľkú podobnosť s ním nechceli pustiť. Ale   dopodrobna som mu celú príhodu nevyrozprával. Nech mu to radšej sami   povedia. Len toľko som mu povedal, ako ma vo mlyne uhostili a ako ma   prosili, aby som sa dopytoval na Jožka Kalinu, ktorý sa mi vraj veľmi   podobá. Jožko im preto zmizol bez stopy, lebo si myslel, že mu bohatý   pán mlynár nedá jedinú dcéru, pretože bol len chudobný tovaryš. Veľmi   sa zaradoval, že ho tam
+    </tei:p>
+    <tei:p>
+     77
+    </tei:p>
+    <tei:p>
+     ﻿predsa radi majú a že by sa tešili, keby sa vrátil. Mňa si však   premeral od hlavy do päty, či sa naozaj tak podobám, ako by tento   Marienkin snúbenec bol tušil, že sa prihodilo niečo viac.
+    </tei:p>
+    <tei:p>
+     No, keď videl, že naše cesty sa nadobro rozchádzajú, spokojne   dokončil svoju úlohu, zaviedol totiž suplikantov k luteránskej fare,   ktorú, ako dobrý kresťan navštevoval, potom všetci cez Trnavu,   Hlohovec, Prievidzu — do milého Turca.
+    </tei:p>
+    <tei:p>
+     78
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿XI. NÁVRAT DOMOV
+    </tei:head>
+    <tei:p>
+     Konečne som musel pomýšľať aj na návrat domov. Celá suplikantská   púť mi minula veľmi rýchle s veselými kamarátmi a skončila   neočakávaným upevnením môjho národného smýšľania. Bol to rozhodný   obrat v mojom živote. Myslel som, že sa na suplikácii len zabavím,   zarobím si niečo, ale odniesol som si omnoho viac — hruď plnú veľkých   túžob. Celou cestou som hĺbal o národných problémoch, a ani neviem,   ako som prešiel Trnavu, Hlohovec, Nitru, Zlaté Moravce, Benedik,   Kremnicu a ako som sa našiel na námestí v Banskej Bystrici.
+    </tei:p>
+    <tei:p>
+     Ale čože? Čím viac som sa blížil k domovu, tým viac ma trápily   trudné myšlienky. Konečne som už musel prísť k otcovi a vyspovedať sa   mu, kde som zmizol, ako som sa rozhodol do budúcnosti. No, ale „keď   si už raz skočil do Dunaja, plávaj ďalej.“ A potom: „Odvážlivému   šťastie praje.“ Teda len rezko napred!
+    </tei:p>
+    <tei:p>
+     Hm, rezko napred, ale unavené nohy nechcú ďalej. Obzeral som sa po   bystrickom námestí, kde by som si
+    </tei:p>
+    <tei:p>
+     79
+    </tei:p>
+    <tei:p>
+     ﻿mohol oddýchnuť. Na námestí stály dva furmanské vozy, ojom   obrátené na Horehronie, do ktorých práve zapriahali.
+    </tei:p>
+    <tei:p>
+     „Pán Boh pomáhaj, furmani! Nevzali by ste ma so sebou?“
+    </tei:p>
+    <tei:p>
+     „Čo by sme nevzali, mladý pánko. Nevezieme nič mimo krmu. Ideme do   Hronca pre železo, ale nocovať budeme ďaleko a len tak na valaských   pašienkach, nevieme či sa vám to bude páčiť.“
+    </tei:p>
+    <tei:p>
+     Mne sa to práve ľúbilo, lebo Valaská bola pri samom Brezne, cez   ktoré som mienil zavčas rána prebehnúť, len aby som sa nesišiel so   Psotányim, lebo som na začiatku svojej púti suplikoval aj v jeho   revíre. No, ale hneď som sa usalašil v mäkkom, voňavom sene, vozy sa   pohly, natriasaly sa síce, ale ja som predsa zdriemnul a vyspal som   sa po chuti. Podvečer furmani zastali pred akousi krčmou, občerstvili   sa, napojili kone, asi o dve hodiny sa úplne sotmelo, vozy zastaly a   mne sa chutne spalo.
+    </tei:p>
+    <tei:p>
+     Na svitaní ma zobudili, že už idú do Hronca. Pretrel som si oči a   skočil s voza. Na pastvisku blčala hrejúca vatra a pri nej stál —   suplikant. Len teraz som si ešte poriadne pretieral oči, lebo som im   nechcel veriť. Spravodlivý Bože, veď to nebol nikto iný, ako   Psotányi. Psotányi ma už zďaleka milo vítal: „Poď braček, zohrej sa,   tebe k vôli som priložil na oheň, lebo od hôl škarede fučalo. Zohrej   sa, pôjdeme spolu ďalej a ver mi, nikdy som sa ti netešil tak, ako   teraz.“
+    </tei:p>
+    <tei:p>
+     Ale ja, myslel som si, bol by som radšej za horou, ako
+    </tei:p>
+    <tei:p>
+     80
+    </tei:p>
+    <tei:p>
+     ﻿s tebou. Snažil som sa o inom hovoriť, aby som vyzvedel, či sa   pustíme do bitky, ako dvaja kohúti na jednom smetisku, alebo či sa   smierime. Tŕpnul som, lebo som vedel, že Psotányi je hrozný   držgroš.
+    </tei:p>
+    <tei:p>
+     „Povedz radšej,“ ozval som sa, „kde sa tu berieš takto zavčas   rána?“
+    </tei:p>
+    <tei:p>
+     „A ty čo tu robíš? Vidíš, toľko opatrnosti ako ty aj ja mám. Keď   si sa včera opytoval, či ťa vezmú do toho prvého voza, ja som už   ležal v druhom. Počul som ťa, ale nič som neriekol, radšej som ťa   prekvapil až dnes ráno. Ja som ťa kázal zobudiť.“
+    </tei:p>
+    <tei:p>
+     Pekné prebudenie, myslel som si, aké budú raňajky? Môj sok sa asi   riadil podľa príslovia „lepšie hneď za rána niečo, ako celý deň nič“.   Nepripustil ma k slovu, ťal hneď do živého:
+    </tei:p>
+    <tei:p>
+     „Veľmi netrpezlivo som čakal, kým sa zobudíš. Chcel som byť totiž   čím skôr na čistom. Chcel som sa s tebou dohodnúť o suplikácii v   Brezne.“
+    </tei:p>
+    <tei:p>
+     No, amen, ten vie o všetkom. Len kto prv začne bitku, či on, či   ja.
+    </tei:p>
+    <tei:p>
+     Ale Psotányi po rozhodnom slove „suplikácia v Brezne“ sa akosi   zarazil a nevedel, ako má pokračovať. Hneď navrhol, aby sme furmanom   zaplatili a spolu sa dohodli až na ďalšej ceste. Bol som rád, že   aspoň furmani nebudú svedkami našej pračky.
+    </tei:p>
+    <tei:p>
+     Šli sme mlčky ďalej, a mlčky sme došli skoro až k samému Breznu.   Pri Brezne sa Psotányi posbieral a začal:
+    </tei:p>
+    <tei:p>
+     „Vieš, braček, toto premilé Brezno je moje rodisko.“
+    </tei:p>
+    <tei:p>
+     81
+    </tei:p>
+    <tei:p>
+     Suplikant — 6
+    </tei:p>
+    <tei:p>
+     ﻿Aha, tak je. Brezno je jeho rodisko. Pozde si na to spomínam,   vlastne on mi pripomína, že je na vlastnom smetisku. Celkom možno, že   rozkáže četníkom, aby ma vyviedli. Ďalšie reči mi potvrďujú jeho vliv   v Brezne:
+    </tei:p>
+    <tei:p>
+     „A vieš, hoci moja mať je chudobná vdova, ale otec bol radným   pánom. Som spriatelený s celým me-
+    </tei:p>
+    <tei:p>
+     stom, s tými najprednejšími. Vidíš... vidíš... uznáš mi. . . že by   sa mi tu ťažko suplikovalo — a — a — a. . . “
+    </tei:p>
+    <tei:p>
+     Teraz mi svitlo v hlave. Pomáhal som mu z rozpakov. „Teda ty azda   chceš, aby som tu ja suplikoval?“
+    </tei:p>
+    <tei:p>
+     „Uhádol si, brat môj. Viem, že mi to urobíš k vôli. Preto som ťa   tak radostne uvítal. Usporíš mi mnoho nepríjemností.“
+    </tei:p>
+    <tei:p>
+     „Ale ja? Ja ti po Brezne viac nebudem suplikovať.“
+    </tei:p>
+    <tei:p>
+     „Nebudeš, nebudeš? A prečo nie, veď tu sosbieraš bodne peňazí.   Veď. . . veď moja mať ťa v žinčici utopí a nakŕmi ťa dobrými   bryndzovými haluškami.“
+    </tei:p>
+    <tei:p>
+     „Za nijakú cenu tu nesuplikujem.“
+    </tei:p>
+    <tei:p>
+     „Nie? Ani keďťa pekne poprosím, ani keďťa nepustím ďalej, kým mi   to k vôli neurobíš. Ani vtedy, keď ti donesiem oštiepok do   Miškovca?“
+    </tei:p>
+    <tei:p>
+     „Ja viac do Miškovca nepôjdem, pôjdem do Levoče.“
+    </tei:p>
+    <tei:p>
+     „Aj ja pôjdem do Levoče.“
+    </tei:p>
+    <tei:p>
+     „Sem ruku.“ Psotányi ju ochotne podal. Dlho som mu ju držal,   pozrel mu do očí a doložil: „Ale v Brezne predsa nebudem   suplikovať.“
+    </tei:p>
+    <tei:p>
+     „Ale prečo nie, keď ti už všetko sľubujem,“ zvolal úplne   zúfale.
+    </tei:p>
+    <tei:p>
+     82
+    </tei:p>
+    <tei:p>
+     ﻿„Preto že som ti už všetko vysuplikoval, nechal som iba faru a   radný dom.“
+    </tei:p>
+    <tei:p>
+     Psotányi s matkou sa veľmi tešili, keď som im vysvetlil celý   prípad. Chudere slzy v očiach hraly, že sa aspoň v Brezne nedozvedia,   ako syn radnej panej musí zarábať suplikáciou to, čo nedochodí zo   skromnej penzie. Ale vedela sa zavďačiť aj suplikantovi, lebo ma k   plnej mise pirohov usadila za vrchstola.
+    </tei:p>
+    <tei:p>
+     Na druhý deň sedel som už doma pri haluškách, ktorými chcela   mamička smieriť rozhnevaného otca so synom pobehajom. Otec totiž ešte   v deň môjho odchodu prišiel večer do Miškovca. Rozhorčoval sa, že pán   profesor bez rodičovského vedomia vypravil jeho syna do sveta, všetko   povyplácal, sobral moje šaty a vysvedčenia. Keď som už bol doma, dal   sa uchlácholiť tým, že som mal účty v poriadku a že som mu odovzdal   maličký zvyšok štvrtiny zo suplikácie. Predsa však hundral, že sa   mne, neskúsenému a ľahko myseľnému mladíkovi mohlo aj zle povodiť. Za   takýchto okolností nemohol som o Levoči ani muknúť!
+    </tei:p>
+    <tei:p>
+     Prázdniny sa pomaly končily. Čím viac som otcovi rozprával o   suplikácii, tým viac sa jeho tvár rozjasnievala a tu i tu doložil:   „No, predsa len bude z teba dačo.“ Konečne som vyrukoval aj s   Levočou.
+    </tei:p>
+    <tei:p>
+     Otec sa zamyslel; zdalo sa, že vážne uvažuje o mojom návrhu, až   konečne sa ozval. „Viem, že budeš musieť vo vzdelaní pokračovať, ale   či budeme mať na to prostriedky. Vidíš, musel som si požičať peniaze,   aby som ťa
+    </tei:p>
+    <tei:p>
+     83
+    </tei:p>
+    <tei:p>
+     6*
+    </tei:p>
+    <tei:p>
+     ﻿mohol z Miškovca vymeniť. Z učiteľstva práve len toľko máme, čo   zjeme a čím sa zašatíme. Peniaze do Levoče z toho nemožno odtrhnúť a   vysuphkovaný zvyšok ti nepostačí ani na začiatok. Aby som nemusel   zpočiatku požičiavať a platiť úroky, dokončíš nižšie triedy v   Ožďanoch, lebo je to bližšie ako Miškovec.“
+    </tei:p>
+    <tei:p>
+     Bol som touto zprávou velmi zarmútený, lebo Ožďany boly iba   chatrná dedina s druhoradým maďarským gymnáziom. Tri dni som chodil s   dlhým nosom.
+    </tei:p>
+    <tei:p>
+     Na štvrtý deň bolo všetko pripravené do Oždian. To všetko bol   batôžtek a kapsa. Batôžtek so šatami mi niesla ženička na chrbte a   kapsa s postruhníkmi a Cicerom sa mi opálala pri boku. Otec bdel nad   nami ako anjel strážca, len aby sme nič nezabudli. V jednej ruke mal   palicu a druhou poklepával po vrecku, či náhodou nezabudol   vysuplikované peniaze. Mamička plakala nad svojím synkom, ktorý   odchádza s takou nechuťou.
+    </tei:p>
+    <tei:p>
+     „Bože, Bože, či na veky zostanem zahrabaný v tých Ožďanoch?“   smutne som sa lúčil.
+    </tei:p>
+    <tei:p>
+     „Predsa si len mal požičať a dať bo do tej Levoče, keď tak velmi   chce,“ vyčítala matka otcovi. „Akože len chudák pôjde s takou   nechuťou.“
+    </tei:p>
+    <tei:p>
+     „Už sa stalo, už sme na ceste,“ hovoril otec. „Áno, syn môj, aj ja   uznávam, že máš pravdu, že sa musíš vzdelávať, ale uč sa konať i to,   k čomu núti slovenská chudoba. Včera som dostal list z Prešova.   Počúvajte. Matkino dedictvo po nebohom bratovi, profesorovi v   Prešove, dostaneme na budúcu jar v hotovosti. Bude
+    </tei:p>
+    <tei:p>
+     84
+    </tei:p>
+    <tei:p>
+     ﻿to vyše sto zlatých. Keby sme všetko vopred minuli, krátko by sme   sa tešili. Na druhý rok pošlemťa s matkou do Levoče, aby si ju   neopustil, kým doštuduješ. Teraz sa tým teš, že podlá sľubu budeš   dostávať „Národnie noviny“ i „Tatranského Orla“. Nuž s Bobom,   mama.“
+    </tei:p>
+    <tei:p>
+     Pobozkal matku na líce, ja ruku a ona ma celého vybozkávala. Tak   som sa dostal cez Ožďany do Levoče. Stalo sa tak, ako otec   predpovedal. „Národnie noviny“ a „Orol“ mi pravidelne docbádzaly a za   rok nám robily velkú službu. Po roku šiel som s kamarátmi, ktorým   Štúrove noviny otvorily oči — do Levoče. Tam sme žili a tam vyrástli   z nás verní synovia slovenského národa.
+    </tei:p>
+    <tei:p>
+     85
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

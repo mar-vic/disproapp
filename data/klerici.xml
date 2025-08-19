@@ -1,0 +1,3423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1931232" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Klerici : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:6463159400273519620006">
+     Igaz-Biskupický, Jozef (1901 - 1949)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     22227
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Igaz-Biskupický, Jozef
+     </tei:author>
+     <tei:title>
+      Klerici
+     </tei:title>
+     <tei:pubPlace>
+      Ostrava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiareň Melantrich a. s.
+     </tei:publisher>
+     <tei:date>
+      1931
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KLERICI
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿Dvaja priatelia
+    </tei:head>
+    <tei:p>
+     Malá izbietka. Nevylíčená a nevymalovaná. V jednom kúte smúti   rozheganá železná posteľ, v druhom kúte stojí malý stolík, pokrytý   spústou kníh a sošitov rôzneho formátu. Na stene visí obligátny   crucifix. A nič viac. Seminárna izba!
+    </tei:p>
+    <tei:p>
+     V tejto zajateckej komôrke trávi svoje dni, študuje a dúma klerik   Ivan Zub. Tu ho navštevuje často jeho priateľ klerik Janko Klinčok. I   dnes si zašiel k nemu z druhého konca seminára.
+    </tei:p>
+    <tei:p>
+     »Prosím ťa úctivé, Ivan, polož si už raz rozum na dlaň a nedri   toľko. Veď bledneš, chradneš očividome. Knihy a veda neutečú, ale   život cvála a uteká, ako šialený. Do zkúšok ešte veľmi ďaleko. Času   dosť . . . dosť, braček ... — hovoril Janko Klinčok, mladík ružovej   tváre a pozeral akosi nonšalantne na svojho priateľa Ivana, ktorého   tvár posiata bola nezdravou bledosťou.
+    </tei:p>
+    <tei:p>
+     Vonku hýrilo jaro, vonku voňalo každé steblo, každý kvet   májom.
+    </tei:p>
+    <tei:p>
+     Tisícerá vôňa hnala sa dravým prúdom cez otvorené okienko do malej   izbietky, ktorá zapáchala pliesňou.
+    </tei:p>
+    <tei:p>
+     V susednej izbe sa tiež ktosi učil. Očuť bolo tlumený hlas. Asi   desiatykrát už opakoval stať z Cicerónovej reči: Fuit, fuit istá   quondam in hac republica virtus. Snáď mu to neišlo do hlavy,
+    </tei:p>
+    <tei:p>
+     5
+    </tei:p>
+    <tei:p>
+     ﻿snáď nemohol pochopiť, prečo má drieť v plesnivej izbe, keď v   za,hrade kvitnú, odkvitajú čerešne ...
+    </tei:p>
+    <tei:p>
+     Očuť bolo plesknutie knihou, buchnutie dvermi a kroky pomaly   zamieraly na dlhej choďbe, ktorá bola tiež ošaparná a dáv no, dávno   nelíčená. Z chatrných obrazov pozeraly na idúcich mrtvé oči rektorov,   prefektov, opátov, biskupov; kde-tu smútil kardinál a vážne sa   tvárili pápeži...
+    </tei:p>
+    <tei:p>
+     Dvaja priatelia sedeli mlčky a zdálo sa, že v tejto chvíli celú   pozornosť sústredili za zmierajúci šum kolegových krokov. Ivan Dub   stal od stola a išiel k oknu. Vydýchnul si z hlboká. Jeho tvár sa   sotva znateľne zapírila..
+    </tei:p>
+    <tei:p>
+     Vzpriamil sa. Dlhá revemda splynula po ňom, ako by dajaká   neviditeľná ruka bola poliala jeho štíhle telo hustou čiernou   tekutinou.
+    </tei:p>
+    <tei:p>
+     Priateľovo oko, ktorý ležal na rozhádzanej postielke, zpočinulo na   ňom s úľubou.
+    </tei:p>
+    <tei:p>
+     — Ivan, ty vyzeráš ako panenka.
+    </tei:p>
+    <tei:p>
+     Ivan sa zapíril ešte viac a mávnul odmietavé rukou.
+    </tei:p>
+    <tei:p>
+     — Nože sa nehanbi, Ivane . . . Len sa rozpamätaj na Aničku.   Chudiatko, tá sa ale naplakala, keď ťa obliekli do tejto šuby.
+    </tei:p>
+    <tei:p>
+     — Čuš, prosím ťa — skočil mu Ivan do reči — podívaj sa radšej na   túto čerešňu. Podívaj! Samý kvet. Mladosť. Bujarosť. Sila.
+    </tei:p>
+    <tei:p>
+     — Mladosť. Bujarosť. Sila. Anička ... Mariška ... — opakoval za   ním ironickým hlasom Janko.
+    </tei:p>
+    <tei:p>
+     Ivan si toho nevšimnul a pokračoval ďalej.
+    </tei:p>
+    <tei:p>
+     — V kvete je najviac energie, kvet plodí, tvorí životy. Sám život   nikdy nie je tak masívne pozitívum, ako jeho zárodok. Zárodok nikdy   nehynie, zárodok mení sa v život a len sám život je predzvesťou   zkazy, hynutia, odumierania a smrti.
+    </tei:p>
+    <tei:p>
+     Ivanov priateľ sa usmieval. Veď vedel, že Ivan je básnikom a   takýmto ľuďom sa ľahko i jedno-druhé odpúšťa.
+    </tei:p>
+    <tei:p>
+     Pred štyrmi rokami prišli spolu do seminára, ktorý ich prijal síce   otvoreným, ale chladným náručím, ako deva, ktorá za
+    </tei:p>
+    <tei:p>
+     peniaze predáva lásku.
+    </tei:p>
+    <tei:p>
+     Vyrástli spolu. Spolu chytali motýlov na rozsiahlych úkach malej   dedinky, obkľúčenej čiernymi lesami, z ktorých sa vypínal
+    </tei:p>
+    <tei:p>
+     6
+    </tei:p>
+    <tei:p>
+     ﻿majestátne Machnáč a svojou šedivou hryvou blahosklonne prikyvoval   vrteniu-prteniu malých dedinôčiek, roztrúsených v jeho stínu.
+    </tei:p>
+    <tei:p>
+     Ivanov otec bol najbohatším gazdom v dedine, Jankov otec bol   chudobným zemedelským robotníkom a žil len z práce vlastných rúk.
+    </tei:p>
+    <tei:p>
+     Ivan oplýval všetkým, za čím len duša zatúžiť môže a predsa jeho   tvár bola bledá, z očú sálal akýsi bôľ, akási tupá rezignácia; Janko   trpel často biedu, často obedoval sadnuté mlieko so zemiakmi a predsa   na jeho tvári kvitlo zdravie a jeho oči hladely na celý svet   galganskou nonšalantnosťou.
+    </tei:p>
+    <tei:p>
+     Ivan išiel do seminára, lebo ho k tomu naviedol otec, ktorý lesk   svojho bohatstva v nezdravej neuvedomelosti a dedinskej zpiatočnosti   chcel pozlátiť kňažským rúchom; Janko sa dal zatvoriť do seminára,   lebo bol chudobný a iná možnosť ďalšieho študovama mu nekynula.
+    </tei:p>
+    <tei:p>
+     Ivan a Janko sa stali obeťmi. Uvedomili si to až pozdejšie, keď sa   im seminár stal núteným domovom, keď nahliadli úplne do jeho tajomnej   konštrukcie. Bolo už pozde! Každá obeť bolí, páli a krváca!
+    </tei:p>
+    <tei:p>
+     Ivan bol chápavý, vysoko inteligentný mladík. Srdce mal citlivé.   Jeho srdce reagovalo na každý falošný tón, vyskytnuvší sa v kozmickej   harmónii ľudských osudov. A pri tom bol až —ľmi vážny. Každú vec   bra až punktičkársky svedomit a vážne. Každú otázku riešiť chcel   až do ostatných dôsledkov. Samozrejme veľmi často narážal na   ťažkosti, často ho potkávaly neúspechy. Nieto divu, že jeho   optimizmus začal sa kaliť, začal tratiť na svojej intenzite. Pomály   sa odcudzoval ľuďom a svetu. Nikto mu nevedel dať konkrétnej rady,   každý filozofoval, každý rečnil a pytval bolestné rany života. Veď   toľko dokázal i on sám, veď i on sám vedel, že pod škrupinou sa   skrýva jádro, ale kto má k tomu prostriedky, aby toto j ádro vylúštil   neporušené ?! . . .
+    </tei:p>
+    <tei:p>
+     Otázky, otázky, celá fúra otázok a zase len otázky! Naša duševná   tragédia spočíva hlavne v tom, že si tieto otázky nevieme   zodpovedať.
+    </tei:p>
+    <tei:p>
+     Prečo? Prečo? Stokrát, tisíckrát prečo a nič viac!
+    </tei:p>
+    <tei:p>
+     Janko takýchto otázok nemal a jestli sa niekedy i na jeho
+    </tei:p>
+    <tei:p>
+     7
+    </tei:p>
+    <tei:p>
+     ﻿životnej dráhe objavil dajaký »problém«, riešil ho mávnutím ruky,   ironickým úsmevom alebo šibalskou poznámkou. Jankovi stačil dým   lacnej cigaretky, aby našiel duševnú rovnováhu, ktorú Ivan nájsť   nevedel za cenu mnohých a mnohých bezosných nocí!
+    </tei:p>
+    <tei:p>
+     Janko hľadel na celý život ako na veľkú tanečnú zábavu, kde musí   každý tančiť, smiať sa a vystrájať blbostí rôznych na tisíce, Janko   nemal nerozriešiteľných problémov.
+    </tei:p>
+    <tei:p>
+     Janko bol pozitívum, Ivan negatívum, alebo opačne. Na tom   nezáleží. Tieto dva živly sa stretly a vybuchly v elektrickej iskre   trvalého a dobrého kamarátstva. Hromosvodom bol ich spoločný   osud.
+    </tei:p>
+    <tei:p>
+     Len medzi ľuďmi rôznych názorov a odlišných duševných svetov sa   môže zrodiť úprimné a trvalé priateľstvo!
+    </tei:p>
+    <tei:p>
+     Vonku spieval máj skomplikované piesne a čerešne tak príjemne   voňaly!...
+    </tei:p>
+    <tei:p>
+     Zavznel zvon.
+    </tei:p>
+    <tei:p>
+     — Sapperlotti, zase do kostola, — vykriknul Janko, keď začul   zvonenie a jeho tvár sa stiahla do grotesknej grimasy.
+    </tei:p>
+    <tei:p>
+     — Poďme!
+    </tei:p>
+    <tei:p>
+     — Ani mi nenapadne, však kostol predsa neutečie a dokonca dnes ani   nemám veľkej chuti chváliť svätého Floriána za ten mizerný obed,   ktorý nám poskytnúť ráčil... — posledné slová zaspieval nápevom   litánií ku Sv. Jozefovi a prevalil sa zase na posteľ.
+    </tei:p>
+    <tei:p>
+     Ivan si začesal vlasy, očistil reverendu a odchádzal.
+    </tei:p>
+    <tei:p>
+     — Nože, počkaj, braček, veď ešte nehučí organ — prerieknul Janko   konejšivým hlasom, keď videl, že jeho slová nemalý na Ivana   účinku.
+    </tei:p>
+    <tei:p>
+     — Vidíš, vidíš,aký si ty nerozvážny. Pomôže ti snáď tých pár minút   leňošenia, za ktoré musíš po večeri očúvať polhodinové litánie od   rektora. Veď ho poznáš. A vieš, i ja, ako i ty a všetci naši   kolegovia, až na tých »lieblingov« rechtorových, by sme sa veľmi   dobre obišli bez kostola, ale čo robiť? Pomoci nieto! Musíme chváliť   aspoň hubami pánbožka, keď mysle a srdcia chvália čosi iného! Buď   preto rozumný a poď!
+    </tei:p>
+    <tei:p>
+     Janko ho posluchnul i teraz, ako vždy!
+    </tei:p>
+    <tei:p>
+     8
+    </tei:p>
+    <tei:p>
+     ﻿V kostole je dusno. Klerici kľačia tesne jeden pri druhom. Na   tvárach majú núdu. Organ hučí, bučí akúsi gregoriánsku pieseň. Ivan   sa pokropil svätenou vodou z mramorovej nádoby, ktorá je postavená   pri vchode a sadnul na svoje obvyklé miesto do zadnej lavice; Janko   sa obzrel bez pokropenia »hysopom« po kľačiacich kolegoch a   prikľaknul k malému Ďurkovi, ktorý sa najviac núdil medzi ostatnými.   Bolo to v dobe krížoviek a malý Ďurko slul ako najlepší krížovkár   seminára.
+    </tei:p>
+    <tei:p>
+     Ivan sa modlil. Snáď ani nie! Kľačal zadúmane mlčky a bez   slova!
+    </tei:p>
+    <tei:p>
+     Janko sa poškriabal sa uchom, drgnul do boka malého Ďurka a   zašeptal mu do ucha: Zvedavý som na večeru ...
+    </tei:p>
+    <tei:p>
+     Kolega neodpovedal. Usmial sa ironicky a keď zavznely zvuky   »Benedictus« — a zanôtil tým nápevom Jankovi do ucha:   Spe—na—a—át...
+    </tei:p>
+    <tei:p>
+     Et cum špenato tuo, rectore — vôle... — Et cum špenato tuo,   rectore — vôle... dokončil takisto Janko.
+    </tei:p>
+    <tei:p>
+     Rektorovo oko sa páslo skúmavo po čiernych reverendách. V   posledných laviciach sedely slúžky a kuchárky. Prezrel si ich   dôkladne.
+    </tei:p>
+    <tei:p>
+     Rektor si namýšľal, že má rád svojich klerikov, ale zkúsené oko   spozorovalo, že o mnoho častejšie pozeral v tú stranu, kde sedely   slúžky a kuchárky, ako po svojich ovečkách mužského rodu. časom si   mlasnul jazykom a pozeral tekavo po kostole. Bolo badať, že jeho   tieto ceremónie nudia ešte najviac zo všetkých, v kostole   prítomných.
+    </tei:p>
+    <tei:p>
+     Rektor sa odrazu ostro pozrel v tú stranu, kde sedel Janko.   Zvraštil obrvy a jeho pravá ruka sa trhla nervózne.
+    </tei:p>
+    <tei:p>
+     Janko s malým Ďurkom lúštili americkú krížovku.
+    </tei:p>
+    <tei:p>
+     Rektor zkypel hnevom.
+    </tei:p>
+    <tei:p>
+     Škandál, čo si to ten nepodarený Klinčok dovoľuje. To mu nikdy   neodpustí. Nikdy! A aby dodal vážnosti svojim energickým myšlienkam,   zahučal z plného hrdla práve zvučiaci akkord: Deus   noster—er—er...
+    </tei:p>
+    <tei:p>
+     Všetci pozreli na rektora. Mnohým vyrástol na tvári ironický   úsmev, iní sa zamračili zlovestne , a Janko Klinčok lúštil ďalej
+    </tei:p>
+    <tei:p>
+     9
+    </tei:p>
+    <tei:p>
+     ﻿flegmaticky krížovku. Uvedomil si síce i on na chytro, že po   takýchto búrkach to obyčajne odnesú žalúdky mladých klerikov, že   modlitby sa pretiahnu obyčajne aspoň o pol hodinu, ale kúzlo   americkej krížovky bolo väčšie, ako hrozba rektora.
+    </tei:p>
+    <tei:p>
+     Čo viac! Keď v refraine gregoriánskej piesne došlo k tomu istému   miestu, kde zahučal rektor, zahučal aj Janko Klinčok.
+    </tei:p>
+    <tei:p>
+     Rektor zrudnul, z jeho očú vyšľahaly zlovestné blesky, stal prudko   a pristúpil, k Jankovi. Ale v tej chvíli mu napadla asi nová   myšlienka, nový spôsob pomsty, premohol sa a sadnul si zase na svoje   miesto.
+    </tei:p>
+    <tei:p>
+     Ivan kľačal nehybne, mlčky. Snáď sa modlil. Nemodlil sa však   ústami, rukami, nohami, ako to činilo niekoľko jeho kolegov k vôli   svojim predstaveným. Modlil sa pre seba a sebe. Nikomu inému. A jeho   modlitba bola zaiste najúprimnejšou v celom kostole. Nechválil boha,   ani ho nehanil. Načo?!
+    </tei:p>
+    <tei:p>
+     Modlitby si predpisovať nedal, lebo vedel, že nikde nie je na   jednej hromade toľko pretvaračnej irónie, toľko výsmechu, ako práve v   modlitebných knihách. Modlitba je vecou úplne subjektívnou.   Modlitebné knižky sú hrubou ironiou, hrubým výšmechom samej   modlitby.
+    </tei:p>
+    <tei:p>
+     Modlitba predpisovať sa nedá, k času viazať sa nedá!
+    </tei:p>
+    <tei:p>
+     Odznely i posledné akkordy záverečnej piesne. Rektor vstal,   zaškúlil zlovestne jedným okom na Janka a zaintonoval mohútnym   hlasom, aby sa aspoň čiastočne vypomstil na žalúdkoch svojich ovečiek   — Te deum t . .!
+    </tei:p>
+    <tei:p>
+     V kostole bolo ticho. Už dávno odumrel k klenbách kostola šum   rektorovho hlasu a ešte nikto nespieval. V prvých laviciach sa ktosi   spamätal a chcel pokračovať v piesni pisklavým hlasom.
+    </tei:p>
+    <tei:p>
+     Janko vyskočil a zakríknul z plného hrdla:
+    </tei:p>
+    <tei:p>
+     — A—me—n—n—n» Eamus in pace!
+    </tei:p>
+    <tei:p>
+     Pobral sa k dverám. Za ním išiel malý Ďurko a pomaly sa vyprázdnil   celý kostol.
+    </tei:p>
+    <tei:p>
+     Rektor ostal sám s niekoľkými teológmi, ktorých pre ich výzvedné   služby vyznamenával zvláštnejšou priazňou, časom dobrým pohárkom   vína. Nazýval ich anjelmi strážcami. Janko ich o mnoho plastickejšie   charakterizoval, keď ich nazval špiónmi Na tom nezáleží. Trebárs ich   remeslo bolo špinavé, získali si
+    </tei:p>
+    <tei:p>
+     10
+    </tei:p>
+    <tei:p>
+     ﻿nehynúce zásluhy v dejinách seminára, lebo konali platné služby   pánu rektorovi.
+    </tei:p>
+    <tei:p>
+     Keď už i posledný »rebelant« opustil kostol, pán rektor stal a   pošiel neistým krokom k oltáru, kde ešte stále kľačali vo zbožných   rozjímaniach anjelovia strážcovia. Títo, ako by vyrušení zo svojich   bohabojných meditácií (a azda mysleli tiež na večeru!) trhli telom a   obzreli sa na rektora, ktorý v tejto chvíli bol už oblečený do   bohabojného a dobrotivého úsmevu.
+    </tei:p>
+    <tei:p>
+     — Chlapci — prerieknul dôverne — chcem sa s vami porozprávať o   dôležitých veciach. Viete, čo sa prihodilo pred chvíľou. .. Ten   Klinčok, ten Klinčok zase sa sprotivil môjmu rozkazu, opovážil sa ma   vysmiať, vysmiať svojho predstaveného, uznáte, že sa škaredo previnil   proti svojmu duchovnému otcovi.
+    </tei:p>
+    <tei:p>
+     Anjelovia strážcovia prikývli mechanický ostrihanými hlavami.
+    </tei:p>
+    <tei:p>
+     — Musí byť potrestaný, lebo jeho vina je nesmierna, ako more...   prerieknul pobožným hlasom j eden z prítomných klerikov po dlhom   uvažovaní.
+    </tei:p>
+    <tei:p>
+     Všetci odobrili kolegovú mienku hlbokým vzdychnutím. Stal sa im   však malheur, lebo zabudli, že povinnosťou bolo zahĺbiť sa   natoľko do modlitieb, že nesmia o ničom vedieť, čo sa okolo nich   deje. Rektor sa zase sotva znateľne ušklebil a ustrajiac svoju tvár   znovu do pobožného, otcovského úsmevu, pokračoval ďalej:
+    </tei:p>
+    <tei:p>
+     — Áno, musí byť potrestaný, uznali ste to aj vy, teraz musíme však   rozriešiť otázku, že akým zpôsobom. Všetci zvráštili obočie a po   dlhej chvíli, keď pán rektor už štyri razy netrpezlivé zakašľal,   vzpriamil sa najstarší (Janko ho kedysi nazval Sanctissimus a to sa i   prilepilo naňho), vypnul sa majestátne, pravú ruku položil na srdce,   ľavú vyzdvíhnul do výšky, odkašľal si ešte raz a obrátiac sa k   oltáru, prerieknul nasledovne :
+    </tei:p>
+    <tei:p>
+     — Jana Klinčoka poznáme veľmi dobre. Je to človek od Boha   odvrátený, vlk v baranej koži, už ani nie je katolíkom. Chová sa ako   ten najhorší paholok, nič nie je mu sväté a vzácné. Je to človek   zvrhlý a zkazený. A hrozí nebezpečie, že svojou hnisavou a bacilami   nevery infikovanou dušou nakazí i viacerých nezkú-
+    </tei:p>
+    <tei:p>
+     11
+    </tei:p>
+    <tei:p>
+     ﻿sených klerikov. Preto vzhľadom na verejnú morálku o dobrú povesť   nášho seminára dovoľujem si čo najpokornejšie navrhnúť, aby bol   okamžite prepustený zo seminára.
+    </tei:p>
+    <tei:p>
+     — Tak je, tak je! — priklincovali ostatní mienku Sanctissima.
+    </tei:p>
+    <tei:p>
+     Zdalo sa, že rektora samého už unúdila táto hnusná komédia, jeho   dobrotivá tvár sa zakabonila a prerieknul len toľkoto:
+    </tei:p>
+    <tei:p>
+     — Dobré je, všimneme si vašej rady.
+    </tei:p>
+    <tei:p>
+     Prekvapené ovečky akosi zahanbene sa pobrali za svojím pastierom   do jedálne.
+    </tei:p>
+    <tei:p>
+     V jedálni čakali už netrpezlivé na rektora a anjelov strážcov.
+    </tei:p>
+    <tei:p>
+     Pán rektor, idúc z kostola, vyzkúšal aspoň sto masiek na svojej   hladko vyholenej tvári, kým sa mu podarilo nájsť zodpovedajúcu   dôležitosti chvíle.
+    </tei:p>
+    <tei:p>
+     Keď vstúpil do jedálne, tváril sa katansky. Ani na obvyklé   »laudetur« nedal odpovede. So zvrášteným obočím a prísne stiahnutým   čelom usadnul hrmotne na svoje miesto.
+    </tei:p>
+    <tei:p>
+     Spamätal sa, stal a začal predriekať tvrdým, energickým hlasom   obvyklú modlitbu pred jedlom.
+    </tei:p>
+    <tei:p>
+     Janko sa ironicky usmieval a hľadel ľahostajne po svojich   kolegoch, ktorí sa väčšinou vážne tvárili.
+    </tei:p>
+    <tei:p>
+     ... et spiritu sancto, amen — dokončili modlitbu a rektor urobil   pár hokus-pokusov nad pariacim sa špenátom a neomastenými   zemiakmi.
+    </tei:p>
+    <tei:p>
+     Jeho prísny pohľad padnul na Jankovu bezstarostnú, len iróniou   trochu podfarbenú tvár.
+    </tei:p>
+    <tei:p>
+     Zakýval naňho ukazovačkom, naznačiac mu, že má k nemu prísť.
+    </tei:p>
+    <tei:p>
+     Janko jedold’alej, ako by nebol spozoroval rektorovho pokynu.
+    </tei:p>
+    <tei:p>
+     Rektor zrudnul a jeho ústa sa trhly nervózne. — Pane Klinčok!
+    </tei:p>
+    <tei:p>
+     — Prosím — ozval sa Janko, nepodívajúc sa vôbec v tú stranu,   odkiaľ hlas prišiel.
+    </tei:p>
+    <tei:p>
+     — Poďte sem!
+    </tei:p>
+    <tei:p>
+     Janko jedol ďalej.
+    </tei:p>
+    <tei:p>
+     12
+    </tei:p>
+    <tei:p>
+     ﻿— Klinčok — zakričal rektor ešte raz mohútnym hlasom a udrel mocne   o stôl. Jedálňou sa začal rozliehať šum . . . hluk . . . kriky . . .   Janko sedel ticho, akosi príliš vážne a neobyčajne dôstojne ...
+    </tei:p>
+    <tei:p>
+     Povstal Sanctissimus.
+    </tei:p>
+    <tei:p>
+     — Kolegovia v Kristu pánu našom ukrižovanom! Myslím, uznáte   všetci, že chovanie kolegu Janka Klinčoka je drzé, nedôstojné múrov a   rúcha nášho seminára, toho seminára, ktorý tak veľkolepe začína   rozkvetať pod múdrym vedením nášho veľaváženého, veľadôstojného pána   rektora.
+    </tei:p>
+    <tei:p>
+     — Nech žije — chcel sa ktorýsi z anjelov strážcov zašmajchlovať   pánu rektorovi, ale jeho výkrik zapadnul bez ozveny. Sanctissimus,   preglgnúc vďačný pohľad svojho rektora, pokračoval ďalej:
+    </tei:p>
+    <tei:p>
+     — Kolegovia, už v kostole sa dopustil hrozného, do neba volajúceho   hriechu, počas božích služieb — bože, odpusť jeho vinu, vzdychnul si   z hlboká — lúštil americkú krížovku! Ja ako najstarší zo študujúcich   v seminári, keďže tento seminár je vedený nie len v duchu bohabojnom,   ale i skutočne demokratickom, ako to dokazuje, že pred chvíľkou náš   veľadôstojný pán rektor vyžiadal si rady svojich podriadených —   navrhujem, aby za súhlasu kolegov a našich veľavážených predstavených   bol hneď prepustený zo seminára. Myslím, že týmto tlumočím žiadosť i   všetkých ostatných kolegov.
+    </tei:p>
+    <tei:p>
+     Zmýlil sa, lebo jeho slova minulý sa zase účinku a okrem   pisklavého hlasu jedného z anjelov strážcov sa zase nikto   neozval.
+    </tei:p>
+    <tei:p>
+     V jedálni panuje ticho. Len časom sa rozlietne sieňou štrngot   náčinia. Janko jie i naďalej s charakteristickou ironiou na tvári.   Ako by sa ani nejednalo o jeho osud.
+    </tei:p>
+    <tei:p>
+     Ticho prerušil sám rektor, ktorý povzbudený rečou Sanctissima,   prehovoril nasledovne:
+    </tei:p>
+    <tei:p>
+     — Drahí priatelia v Kristu! Očuli ste návrh jedného z   najpobožnejších a z najstarších chovancov nášho ústavu. Súhlasíte s   týmto návrhom? Mohol by som síce Jana Klinčoka prepustiť bez vášho   dobrozdania, chcem povedať bez vašej rady, ale aby
+    </tei:p>
+    <tei:p>
+     13
+    </tei:p>
+    <tei:p>
+     ﻿ste videli, že môj seminár je vedený skutočne v duchu pravého   demokratizmu, vyžiadal som si aj vašu mienku. Uznáte, že jeho vina j   e priveľká ?! —
+    </tei:p>
+    <tei:p>
+     Ticho ... hlúpe, bezradné a mučivé ticho ... Ivan pozeral na   Janka, ktorého tvár momentálne nabrala odhodlanosti a v j eho   šibalských očiach sa rozhostil akýsi prísny, trucovitý výraz. Janko   chcel reagovať na rektorové slová.
+    </tei:p>
+    <tei:p>
+     Ivan zbadal jeho úmysel’, prehliadnul v momente vážnosť situácie a   svojmu priateľovi hroziace nebezpečie, stal on.
+    </tei:p>
+    <tei:p>
+     — Pánovia, dovoľte mne, aby som k veci prerieknul niekoľko slov.   Sme všetci ľuďmi krechkými a slabými. Tu nieto výnimky! často víťazia   nad nami zlé náruživosti. Nechcem brániť kolegu Klinčoka, nechcel by   som sám rozhodovať nad jeho osudom, ani nad tým, či je vinným alebo   nevinným. Je to vec relatívna! A keď sme už uderili na strunu   demokratizmu, nech sa jeho zásady uplatnia v celej náplni. Navrhujem   preto, vážení pánovia, aby sa o jeho vine alebo nevine tajne   hlasovalo.
+    </tei:p>
+    <tei:p>
+     — Tak je, tak je! Výborne! — zhučala sieň.
+    </tei:p>
+    <tei:p>
+     Len Janko sedel zadúmane. Položil lyžicu a pozrel akosi udivene na   svojho priateľa. Zdalo sa, ako by jeho oči boly zvlhly. Potom sa   zadíval pred seba, kamsi do diaľky a hladel tak dlho ... dlho ...
+    </tei:p>
+    <tei:p>
+     Janko bol exce ntrická povaha. Patril medzi tých ľudí, ktorí sú   vstave behom piatich minút roniť krvavé slzy — plakať radosťou;   zahoreť smrteľným hnevom a spriateliť sa hlboko.
+    </tei:p>
+    <tei:p>
+     Ivan rozdelil prázdné a zasa posbieral označené lístky.
+    </tei:p>
+    <tei:p>
+     Rektor a anjelovia strážcovia si boli istí vo svojom víťazstve a v   duchu sa tešili dobrému návrhu Ivana Zuba; s víťazstvom počítal i   Ivan, ktorý týmto spôsobom chcel zachrániť Janka aspoň do tej doby,   kým složí zkúšky. Kam že by sa chudák podel bez peňazí a kúska   papieru vo vačku? . . .
+    </tei:p>
+    <tei:p>
+     Ivan za kontroly Sanctissima, dvoch anjelov strážcov a malého   Ďurka, začal čítať lístky.
+    </tei:p>
+    <tei:p>
+     Padlo prvé, druhé, tretie nie. Na tvárach všetkých visel veľký   otáznik.
+    </tei:p>
+    <tei:p>
+     Pätnásť nie ... dvadsať áno ... Jedenadvadsať nie a zasa nie ...   nie ... stále nie a nie...
+    </tei:p>
+    <tei:p>
+     14
+    </tei:p>
+    <tei:p>
+     ﻿Rektor sa hniezdil nervózne na svojom mieste, Sanctissimus rudnul   od zlosti, anjelom strážcom sa triasly ruky.
+    </tei:p>
+    <tei:p>
+     Tvár Ivanova žiarila pekným, príjemným úsmevom. Za každým »nie«   pozrel úkosom na Janka, ktorý s veľkým záujmom pozoroval nie   každodenný boj o jeho bytie či nebytie...
+    </tei:p>
+    <tei:p>
+     Nie ... nie ... nie ... len kedy-tedy padlo jedno áno, vyslovené   zavše akosi stydlive a tichučko.
+    </tei:p>
+    <tei:p>
+     Sanctissimus cítil svoju porážku a v duchu rozmýšľal už na novom   pekelnom pláne, ako by mohol zničiť svojho tajného nepriateľa. Nič   vhodného mu však nenapadlo. A čím výbojnejšie sa rozliehalo sieňou   triumfujúce nie, tým smelšie znel Ivánov sonórny hlas a tým živším a   príjemnejším úsmevom žiarila jeho pekná tvár.
+    </tei:p>
+    <tei:p>
+     Každé víťazstvo nás plní radosťou a víťazstvo dobrého priateľa, za   kterého sme sa exponovali, pôsobí na nás desaťnásobnou intezitou   duševnej rozkoše.
+    </tei:p>
+    <tei:p>
+     — Nie a koniec — vyrieknul Iván víťa zné finále.
+    </tei:p>
+    <tei:p>
+     Skrutínium ukázalo, že proti Ivanovi hlasovalo len 30 z 220   klerikov.
+    </tei:p>
+    <tei:p>
+     Rektor nevedel prísť k slovu, Sanctissimus zalomil hlavou, pozrel   na rektora akosi prosebne, nenajdúc však v jeho očiach potrebného   balzámu na svoju podlú, rozháranú dušu, prezrel si zlostne zástup   nadšených klerikov a vytratil sa z jedálne bez slova. Za ním sa   pobrali i ostatní anjelovia strážcovia a niekoľko duševne slabých   klerikov.
+    </tei:p>
+    <tei:p>
+     Konečne sa rektor spamätal, obrátil sa k Jankovi a povedal len   toľkoto:
+    </tei:p>
+    <tei:p>
+     — Keď vám kolegovia odpustili, odpúšťám Vám v mene ostatných   predstavených aj ja. A na budúce sa polepšite. Idzte!
+    </tei:p>
+    <tei:p>
+     — Nech žije Janko! Nech žije, sláva mu! — hučali nadšene klerici.   Chopili Janka na plecia a za stáleho volania Jankovi na slávu,   vyrojili sa na dvor.
+    </tei:p>
+    <tei:p>
+     15
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿II.
+    </tei:head>
+    <tei:p>
+     Mimoriadna schôdza predstavenstva seminára
+    </tei:p>
+    <tei:p>
+     Rektor usadnul s akousi trpkou resignáciou na stolicu. Zamyslel   sa. Porážka bolí, mučí, hryzie, ako zlé svedomie.
+    </tei:p>
+    <tei:p>
+     Mlčali i ostatní predstavení. Mnohí boli pripravení na výsledok,   mnohých však predsa prekvapil náhly obrat vecí, ale v ukrytom kútiku   srdca sa všetci tešili z rektorovej porážky.
+    </tei:p>
+    <tei:p>
+     Rektor zapil svoj žial veľkým dúškom. Zazvonil. — Števo, prines   nám ešte do sklenice.
+    </tei:p>
+    <tei:p>
+     Mnohí z predstavených už pocítili zápach vína a jazyky sa začaly   pomaly rozväzovať.
+    </tei:p>
+    <tei:p>
+     — Nuž, Klemo, škarado ti to dopadlo s tým šibalom Klinčokom —   prerušil ticho pán prefekt, ktorý bol medzi predstavenými známy pod   menom Kubo a mlasnul jazykom. Robil tak vždycky, jestli povedal niečo   paprikovanejšieho.
+    </tei:p>
+    <tei:p>
+     — Ja som sám tej mienky, musím však opraviť Kubovu sentenciu v tom   smysle, že Klinčok je chlapák na mieste — poznamenal pán spirituál a   na jeden dúšok vyprázdnil celú sklenicu.
+    </tei:p>
+    <tei:p>
+     Rektor sa pohniezdil na stoličke, odkašľal si, pozrel skúmavo po   ostatných vedúcich kolegoch.
+    </tei:p>
+    <tei:p>
+     — Azda len neschvaluješ jeho drzé chovanie aj ty?
+    </tei:p>
+    <tei:p>
+     — Nuž, kamarát, mne imponuje chrbtová kosť a nebojácnosť.
+    </tei:p>
+    <tei:p>
+     16
+    </tei:p>
+    <tei:p>
+     ﻿— Tak je, — začal sa rozohňovať aj pán profesor cirkevných dejín —   Klemo, veď už nahliadni, že sa tak klerici vychovávať nedajú. Ty si   si zapríčinil sám túto porážku. Veď naši klerici už nie sú sopľavými   chlapcami. A ja ti hovorím, že to, čo učinil Janko Klinčok, schopný   by bol učiniť každý z klerikov, keby mal toľko duševnej energie, ako   on.
+    </tei:p>
+    <tei:p>
+     — čo si to povedal? To je drzosť. Ja že by som nebol dobrým   pedagógom? — vzplanul hnevom rektor Klemo a udrel akosi mimovoľne na   zvonek.
+    </tei:p>
+    <tei:p>
+     O chvíľu sa zaskvela nová sklenica na stole. Veď i v seminári je   najlepším liekom na duševnú rozháranosť sklenica dobrého vína.   Predstavení v duchu chválili Janka Klinčoka, lebo nebyť jeho, zaiste   by nebolo došlo k tejto báječnej pitke.
+    </tei:p>
+    <tei:p>
+     Teraz sa už opovážil predniesť svoju sentenciu i starý, osvedčený   spovedelník, ktorý mal všetko rád, ale najväčšou láskou sa   vyznamenával k dobrému vínku.
+    </tei:p>
+    <tei:p>
+     — Nikto nepozná tak dušu klerikov, ako práve ja. Veď mám denne stá   a stá príležitostí nahliadnuť do jej naj ukrytej ší ch záhybov. A   musím konštatovať sine ira et odio, že duša našich klerikov je   chorobná. A nehnevaj sa Klemko náš, na vine si tomu ty sám. Iným si   vo svojom súkromnom živote, iným medzi chovancami. Pretvaruješ sa,   meniš masky, si komediantom a nehnevaj sa, časom veľmi nešikovným   hercom. A myslíš, že klerici nemajú oči, myslíš, že naši chovanci   nerozmýšľajú, necítia, nepozorujú a nevidia? Mýliš sa, každý ti nazre   až do žalúdka —• vyprával monotonným hlasom spovedelník, sťa by bol   karhal dajakého klerika v spovedelnici, ktorý sa mu priznal, že   spáchal hriech proti čistote.
+    </tei:p>
+    <tei:p>
+     Rektor bol zdrtený. Sklamal sa v klerikoch a teraz žiaľbohu sa   musí sklamať i vo svojich najbližších spolupracovníkoch, u ktorých,   mimo vína, hľadal útechu a slová porozumenia.
+    </tei:p>
+    <tei:p>
+     Zdálo sa mu, že spásu môže hľadať už len vo víne. Nuž a víno je   »medicina, prope divina!«
+    </tei:p>
+    <tei:p>
+     Na stole objavila sa zase nová sklenica... tretia, štvrtá, piata,   šiesta...
+    </tei:p>
+    <tei:p>
+     Rektor pil... pil... a pomály začal zabúdať na trpkosti, na   sklamania ...
+    </tei:p>
+    <tei:p>
+     17
+    </tei:p>
+    <tei:p>
+     ﻿— Ale, chlapci, nestojí to za reč. čo sa budeme rozčuľovať nad   takým sopliakom. Vypime si... pime ... !
+    </tei:p>
+    <tei:p>
+     Na chodbách panovalo hrobové ticho. Klerici po odzvonení večierky   zatíchli.
+    </tei:p>
+    <tei:p>
+     Noc bola jasná, ako oko panny. Mesiac hľadel akosi stydlivo cez   veľké okno do jedálne, kde boží služobníci holdovali Bacchovi,   fajčili drahé cigará (rektor ich mal schované pre biskupskú   inšpekciu) a ich krvou podfarbené oči žobronily po čomsi známom,   vedomom a predsa ďalekom . . .
+    </tei:p>
+    <tei:p>
+     Víno rodí vilné myšlienky, víno malú j e na dušu ľudskú obrazy,   ktoré dľa cirkevných zákonov by zaiste prišly na index.
+    </tei:p>
+    <tei:p>
+     Rektor bol v nálade. Starý sluha sotva stačil prinášať z pivnice   nové a nové skleníce. Jeho nohy sa podlamovaly, lebo mimo svojej   šesťdesiatky, bol aj hodne podkuvaný. Prečo, že by si aj on nemohol   pustiť pár glgov, keď si to môžu dovoliť jeho predstavení? Prečo by   sa i on nemohol doriadiť pod obraz boží, keď tak činí pán rektor,   hlava seminára?
+    </tei:p>
+    <tei:p>
+     Rozhodne sa môže! No — a filozofoval, klusajúc predo dvermi — pán   rektor vždycky vravia: exempla trahunt. Keď sa pán rektorko modlia a   k nebesám spínajú ruky, modlím sa aj ja. Ba, to by ani rektorko   nedokázali, čo dokážem ja, bárs som len obyčajným sluhom. Raz, keď   som bol v nálade, pomodlil som sa za pol hodinu dvadsaťpäť očenášov,   dvadsaťpäť zdravasov a dvadsať verímov. Ak to pán rektor dokážu, tak   som Kubo. Ale, nech si len vypijú, však máme vína, ako vody.
+    </tei:p>
+    <tei:p>
+     A starý sluha si začal dúdoliť: Pijem ja, pijem, už som prepil   všetko, ešte mám prepijať teba galanečko ...
+    </tei:p>
+    <tei:p>
+     Na galanečko dal dlhý, tiahly prízvuk. V jeho mysli sa objavila   žena... hej! tá česrtovská vidina všetkých seminárov...!
+    </tei:p>
+    <tei:p>
+     Nikde nemá žena toľko kúzla, ako v seminároch a v kláštoroch. A   nikde nie je natoľko dehonestovaná vo svojej ženskej dôstojnosti, ako   v seminároch a v kláštoroch. Obyvatelia seminárov vo svojej   rozihranej fantázii vyzlečú ženu z celej ľudskosti. Zabúdajú, že žena   má i dušu (viac, ako vo svete!), že žena neslúži len k ukojeniu   zvieracích púdov a hriešiac s ňou (trebárs v duchu) hrešia brutálne a   bezohľadne. Je to logické. Veď kňazom nie je daná možnosť, aby   vzplanuli k žene láskou
+    </tei:p>
+    <tei:p>
+     18
+    </tei:p>
+    <tei:p>
+     ﻿čistou, žena z kníh a vypravovaní poznať sa nedá. Kto nikdy   necítil teplo ženskej bytosti, kto nikde neuazrel hlboko do ženských   očú, ten v žene nemôže nič iného vidieť, ako kus mäsa, ktoré je   sladké, ktoré dráždi, omamuje, za ktorým kričí každá buňka krve,   každý nerv, každý sval... Hlas krve je sýtejší, mocnejší a   presvedčivejší, ako všetky protiženské dissertácie Svätých otcov, —   ako všetky chválospevy a ódy, v ktorých sa žena velebí, ako   Ideál...
+    </tei:p>
+    <tei:p>
+     Obyvatelia seminára i to najnevinnejšie ženské neviniatko milujú,   ako sú milované prostitútky. Obyvatelia seminára nemajú času, nemajú   možnosti, aby ženu milovali ideálne!
+    </tei:p>
+    <tei:p>
+     Nikdy som ešte v živote nepočul, že dedinský farár miluje svoju   gazdinú dajakou ideálnou, platonickou láskou!
+    </tei:p>
+    <tei:p>
+     Celibát! Hej! Ten celibát robí z kňazov zvieraťá, ten im   prikazuje, aby v každej žene videli len objekt k ukojeniu svojich   zvieracích púdov.
+    </tei:p>
+    <tei:p>
+     $ Svätená voda, ani biskupský olej nie sú vstave preformovať   človeka tak, aby odvrhnul heroickým spôsobom od seba každé slovo,   ktoré mu diktuje pohlavie... krv... I kňaz je len človekom z krve a   mäsa! Načo, teda, tie pretvárky, tie tajnuškárstva ... ?
+    </tei:p>
+    <tei:p>
+     Cirkev katolícka nerobí dobre, keď zakazuje svojim sluhom to, čo   zákon prírody schvaluje.
+    </tei:p>
+    <tei:p>
+     Kňaz prichádza často do rozpakov. Ktorý zákon že mu má byť   smerodatným? Zákon prírody, alebo zákon, ktorý vynesú a sankcionujú   jeho kolégovia, ktorí sú tak krechkými a slabými stvoreniami, ako on   sám?!
+    </tei:p>
+    <tei:p>
+     Rodia sa duševné konflikty. Krv začína boj s tvrdou literou   zákona. A som toho presvedčenia, že konflikt zákona prírody s ľudským   zákonom, konči obyčajne víťazstvom krve, ktorej kategorický imperatív   je nepoddajný, neúprosný! Krv, alebo víťazí nad živým, alebo   kapituluje agonizujúc! Krv, krv pohlavia žije, chce a musí víťaziť za   každú cenu! Pár hokus-pokusov biskupa nikdy nerobí zázraky. Nieto k   tomu rozumového dôvodu.
+    </tei:p>
+    <tei:p>
+     Odbilo dvanásť. Polnoc!
+    </tei:p>
+    <tei:p>
+     Rektor položil hlavu na dubový stôl a zaspal. Pán spovedelník
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     ﻿sa vytratil kolísavým krokom držiac sa mocne ramien dvoch svojich   podnapilých kolegov, ktorí si dúdolili: Dobrú noc, má milá, dobrú   noc!
+    </tei:p>
+    <tei:p>
+     Pán profesor cirkevných dejín dopíjal zbytky a pán katechéta   stojac kolísavo nad spitým rektorom spieval zachríplym hlasom   cirkumederumt.
+    </tei:p>
+    <tei:p>
+     Pomály vytratili sa všetci! Len rektor chriapal ďalej a azda   sníval ťažký sen o celibáte.
+    </tei:p>
+    <tei:p>
+     Starý sluha ležal rozvalené na chodbe pred dvermi jedálne a   spieval stále: Galanečko, galanečko... a stále len galanečko v   rôznych tóninách a variaciach ...
+    </tei:p>
+    <tei:p>
+     20
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿III.
+    </tei:head>
+    <tei:p>
+     Tajný spolok »Nikotín«
+    </tei:p>
+    <tei:p>
+     Spolok »Nikotín« pred dvoma rokami založil Janko Klinčok. Popud k   založeniu spolku dalo nariadenie rektora, dľa ktorého sa čo   najprísnejšie zakazuje všetkým obyvateľom seminára fajčiť. Výminku   tvoria len predstavení, civilné osoby a teológovia III. a IV.   ročníku.
+    </tei:p>
+    <tei:p>
+     Na ustavujúcom valnom shromaždení spolku »Nikotín« prítomných bolo   len desať členov, boli to tí najradikálnejší odporci rektorových   nariadení. Po jednomesačnej práci počet členov stúpol na päťdesiat a   dnes vo svojom lône sdružuje skoro všetkých, na ktorých sa vzťahuje   nariadenie rektora.
+    </tei:p>
+    <tei:p>
+     Spolok mal riadne stanový, sankcionované a schválené zvláštnou   komisiou »autonomnej klerickej obce«, ktorej predsedom a súčasne aj   predsedom »Nikotinu« bol Janko Klinčok.
+    </tei:p>
+    <tei:p>
+     V tejto svojej kvalite Janko požíva už od založenia spolku dôveru   svojich kolegov, čestným predsedom po roku bol menovaný po dlhej   výskumnej práci a po dlhom psychologickom štúdiume, Palo Hantár,   starý teolog, ktorý preto neštudoval, aby mohol čím ďalej kleričiť.   Naňho sa síce rektorovo nariadenie nesťahovalo (preto riadnym členom   byť nemohol), ale svojou rebelantskou povahou dokazoval, že pre   záležitosti mladých
+    </tei:p>
+    <tei:p>
+     21
+    </tei:p>
+    <tei:p>
+     ﻿ukrátenýeh klerikov má veľké pochopenie a statočne háji ich
+    </tei:p>
+    <tei:p>
+     vec pred »absolutistickým snemom rektora, profesorského sboru a   ich nahaňačov, anjelov strážcov.« (Takto je to zvečnené v pro-
+    </tei:p>
+    <tei:p>
+     tokóloch spolku!)
+    </tei:p>
+    <tei:p>
+     členské platilo sa v cigaretách a síce mesačne za 3 Kč cigaretiel   bez rozdielu na kvalitu odvedeného fajčiva.
+    </tei:p>
+    <tei:p>
+     Čestný predseda, teológ Paľo Hantár honosil sa súčasne i titulom   úhlavného trafikanta spolku »Nikotin«: On mal na starosti viesť   evidenciu fajčiva, starať sa, aby pokladnica bola stále zásobená a v   páde, že by v pokladnici následkom mimoriadnych výdavkov nebola   dostatočná zásoba, musel schodky zavše nahradiť z vlastnej hotovosti,   lebo mal zámožných príbuzných.
+    </tei:p>
+    <tei:p>
+     A Paľko sa nikdy nedal dvakrát núkať, aby pre všeobecné dobro   obetoval niekoľko Kč. Pokladnica následkom toho vykazovala stále   aktivitu, o čom svedčí zpráva revízorov účtov.
+    </tei:p>
+    <tei:p>
+     členská schôdza odbývala sa dvakrát’ do mesiaca v noci, mohla byť   však svolaná i inokedy v páde potreby. Schôdza výboru konala sa   týždenne. Na tejto užšej schôdzi prejednaly sa vždy vážnejšie   udalosti týždňa.
+    </tei:p>
+    <tei:p>
+     Rektor sa často zamyslel nad veľkou solidaritou, ktorá vládne   medzi klerikmi, rodily sa v ňom všakové myšlienky, ale nič   konkretného vypátrať nevedel.
+    </tei:p>
+    <tei:p>
+     Pochybovanie je vždy zaobalené do akéhosi chaosného mysticizmu.   Každé tajnuškárstvo nás dráždi, podnecuje našu fantáziu a núti nás k   pátraniu.
+    </tei:p>
+    <tei:p>
+     Pátral aj rektor so svojim štábom anjelov strážcov. Janko však   dokázal, že je genialným organizátorom. Nevedeli nič vypátrať,   nevedeli nájsť žiadon kompromitujúci materiál, trebárs rektor sa   neštítil ani bytovej prehliadky.
+    </tei:p>
+    <tei:p>
+     Klerici boli všetci do jednoho verni svojmu práporu, na ktorom sa   skvelo heslo: Amicitia, perseverantia, unitas (priateľstvo,   vytrvalosť, solidarita).
+    </tei:p>
+    <tei:p>
+     Schôdze svolávaly sa obežníkom, ktorý sa vždy začínal: Causa   fumandi datur... napr. malé porcie, ohroženie existencie kolegu X.,   výlet, prázdniny, prehliadka múzea, dobročinná sbierka, atď....
+    </tei:p>
+    <tei:p>
+     I dnes, akonáhle sa skončilo hlasovanie a Janko zvíťazil, od-
+    </tei:p>
+    <tei:p>
+     22
+    </tei:p>
+    <tei:p>
+     ﻿behnúl do svojej izby a napísal obežník, ktorý sa začínal: Causa   fumandi datur: Záležitosť predsedu Jána Klinčoka. Prítomnosť všetkých   nútna. O jedenástej v cvičebni.
+    </tei:p>
+    <tei:p>
+     Za 15 minút vedeli už všetci zainteresovaní o schôdzi.
+    </tei:p>
+    <tei:p>
+     A keď v jedálni za hlavného velenia hlavy seminára holdovalo sa   vínu, keď v jedálni rodily sa hriešne myšlienky v ťažkých hlavách   predstavených — vysvätených kňazov, keď v jedálni hýrilo sa, sťa v   dajakej krčme na ferii mesta, neďaleko jedálne za uzamknutými dvermi   konala sa plenárna schôdza spolku »Nikotin« za predsedníctva hrdinu   dňa, Jána Klinčoka.
+    </tei:p>
+    <tei:p>
+     Schôdzu zahájil Klinčok. Tvár mal vážnu, keď začal hovoriť tichým   síce, ale presvedčivým hlasom.
+    </tei:p>
+    <tei:p>
+     Predodvermi stáli vždy dvaja kolegovia na stráži tak, aby nemohli   byť spozorovaní, ale aby oni mohli každého vidieť, kto sa približuje.   Táto stráž sa menila každých desať minút a následníci povinní boli   vonku stojacich vždy presne o všetkom informovať; predpisovaly to   stanový, »aby nikto ani len o jedno slovíčko nebol ukrátený zo   svätých pojednávaní 2a blaho kňazského dorastu«.
+    </tei:p>
+    <tei:p>
+     Po vyfajčení per jednej cigarety Janko začal svoj preslov:   Kolegovia! Causa fumandi je vám už známou. Nie som povolaný vyrieknuť   súd nad vlastnými činami. Na to ste tu vy a preto som vás aj povolal.   Chcem len toľko pripomenúť, že všetko, čo som dnes učinil, činil som   plným vedomím a svedomím a nie — snáď
+    </tei:p>
+    <tei:p>
+     — ako by sa mnohí mohli domnievať — z nerozvážnosti a   ľahkomyseľnosti.
+    </tei:p>
+    <tei:p>
+     Ad rem! V kostole lúštil som amer. krížovku s kolegom Ďurkom   Janičárskym. Na oko veľká a bezbožná vec. Ďalej, vysmial som rektora   tým, že som zahučal do jeho spevu práve takým hlasom, ako on spieval   a na koniec povzbudil som vás k neposlušnosti.
+    </tei:p>
+    <tei:p>
+     Teda: Tri hriechy! Podrobne analyzovať nebudem. Každý si to spraví   sám a možná už aj učinil.
+    </tei:p>
+    <tei:p>
+     Ako som už povedal, učinil som tak premyslene, lebo som chcel   rektorovi dokázať, — tu začal jeho hlas rozliehať sa po sieni   patetickým tónom, — že v seminári pánmi sme my, že sa nepodrobíme   otrocký jeho chvíľkovým chúťkam a hysterickým
+    </tei:p>
+    <tei:p>
+     23
+    </tei:p>
+    <tei:p>
+     ﻿záchvatom jeho, alkoholom zatemnelého modzgu. Nech vidí, že sme   ľuďmi, že sme inteligentmi, že žijeme v demokratickom štáte, kde už   dávno odzvonili absolutistickému, niekoľkými duševne chudobnými   aristokratmi vytvorenému režimu.
+    </tei:p>
+    <tei:p>
+     Nech žije Klinčok, — vybuchli kolegovia vo frenetickom   potlesku.
+    </tei:p>
+    <tei:p>
+     — Pre pána Floriána, ticho, chlapci, veď zobudíme celý seminár a   prezradíme sa, — konejšil svojich rozohnených kolegov rečník.
+    </tei:p>
+    <tei:p>
+     Sotva vyrieknul Janko tieto slová, otvorily sa prudko dvere a   vbehnúl do siene jeden zo strážcov:
+    </tei:p>
+    <tei:p>
+     — Chlapci, zle je, rektor sa valí po chodbe nadratý, ako snop!
+    </tei:p>
+    <tei:p>
+     — Shasiť svetlo, zamknúť dvere! — zavznel predsedov rozkaz. Na   sieň zaľahla tma a hrobové ticho.
+    </tei:p>
+    <tei:p>
+     Na chodbe znelý neisto rektorové kroky, časom zastal, mumlal čosi.   Janko vytiahnul zo zámku kľúč a priložil ucho na kľúčovú dierku.
+    </tei:p>
+    <tei:p>
+     ja... ja... rektor, hlava najväčšieho seminára osvieteného   biskupa... nech ho pánbožko živí... no, ale ten Kubo ... Jano ...   Klinčok ... zatratení chlapi... naučím vás ... ja som pán ...   rektor... vyhodím vás ... lumpi... — asi toľko vedel vybrať z jeho   nelogického monológu.
+    </tei:p>
+    <tei:p>
+     — No, ale ten vám je doťatý, ako deka, — zasmial sa hlasno Janko   Klinčok.
+    </tei:p>
+    <tei:p>
+     Rozžal elektrické svetlo. Tváre všetkých prítomných boly   vyjasnené.
+    </tei:p>
+    <tei:p>
+     1 na Ivanovej tvári si poihrával veselý úsmev. Janko zrázu shodil   so seba reverendu.
+    </tei:p>
+    <tei:p>
+     — Ďurko, vyzleč sa aj ty. Pôjdeme akoby na záchod. Chytíme   vtáka!
+    </tei:p>
+    <tei:p>
+     Rektorové kroky zmieraly už na konci chodby.
+    </tei:p>
+    <tei:p>
+     Laudetur Jezus Christus! — pozdravil Ďurko rektore, keď sa   priblížili k nemu.
+    </tei:p>
+    <tei:p>
+     Rektor sa podíval na mladíkov akosi nechápavé, chcel sa vzpriamiť.   Kolená sa mu podlomily a nebyť steny, zaiste by sa bol rozvalil na   kamenej chodbe, ako kus dreva.
+    </tei:p>
+    <tei:p>
+     24
+    </tei:p>
+    <tei:p>
+     ﻿— Pán rektor je asi chorý, utekaj, Ďurko, chýtro pre lekára, —   prerieknul Janko veľmi vážnym a sústrastným hlasom.
+    </tei:p>
+    <tei:p>
+     — Nie, nie chlapci, reuma, reuma, pakostnica... to prejde... Idzte   spať!...
+    </tei:p>
+    <tei:p>
+     — Doprevadíme vás až do izby! —
+    </tei:p>
+    <tei:p>
+     — Nie ... nie ... to je len reuma... idem
+    </tei:p>
+    <tei:p>
+     Ale dvaja mladí ľudia chopili milého pána rektora jeden zľava,   druhý zprava a po veľkej námahe podarilo sa ím dopratať ho do jeho   luxusne zariadenej spálne. Uložili ho na pohovku.
+    </tei:p>
+    <tei:p>
+     Rektor sa ani nehnul. Zaspal v tej chvíli.
+    </tei:p>
+    <tei:p>
+     Janko chopil lavór plný so studenou vodou a vylial celý jeho obsah   na rektora.
+    </tei:p>
+    <tei:p>
+     Rektor sa striasol zimnične a otvoril oči, pozrel ospalo okolo   seba, jeho oko padlo na Janka.
+    </tei:p>
+    <tei:p>
+     — To si ty, ty Klinčok. Marš von! Von! ...Síce, poď sem blíž,   chcem si s tebou pohovoriť. Prečo mi ty len robíš takéto   nepríjemnosti? Veď ináč si múdry a nadaný chlapec a taký švárny   šuhaj! škoda ... škoda ... no poď si sem ku mne sadkať ...
+    </tei:p>
+    <tei:p>
+     Janko pozrel naňho opovržlivé, premeral si ho od hlavy až po päty,   odpľul si hlasno a povedal len toľkoto:
+    </tei:p>
+    <tei:p>
+     — S opilým človekom nehovorím. Povyprávame sa zajtra! Porúčam   sa!
+    </tei:p>
+    <tei:p>
+     Rektor sa až teraz plne spamätal. Jankové slová pôsobily naňho   ešte mocnejšie, ako studená sprcha.
+    </tei:p>
+    <tei:p>
+     Ale po chvíli upadol zase len do akéhosi polospánku, do akéhosi   hmlistého ovzdušia a v jeho mysli začalo sa rojiť rôznych myšlienok   na tisíce.
+    </tei:p>
+    <tei:p>
+     Z chaosnej hmly vynoril sa najsamprv obraz Janka Klinčoka. Janko   hľadel naňho vyzývavé a jeho sarkastický úsmev rástol do ohromných   dimenzií... pomály rozplýval sa po j eho čiernej reverende a z   reverendy začalo sa k nemu drať desiatky špinavých rúk ... chcely ho   uchopiť za hrdlo ... — Obraz miznul... Objavil sa nový ... Kubo sa   smeje na celé kolo a svoju zamastenú reverendu dvíha vyše kolien...   prefekt leží na pohovke vo veľmi necudnej polohe... katechéta sedí na   akejsi ohromnej knihe, fajčí hrubú cigaru a objíma akéhosi mladého   klerika... profesor cirkevných dejín tiskne k srdcu akýsi starý rám,   z ktorého
+    </tei:p>
+    <tei:p>
+     25
+    </tei:p>
+    <tei:p>
+     ﻿a usmieva naňho mladá ženská tvár... profesor apologetiky objíma   nahú ženu ...
+    </tei:p>
+    <tei:p>
+     — žena! — zareval v ňom divoko akýsi neukáznený hlas. Touto   ozvenou rozhučaly sa v ňom žily,... napjaly sa svaly ... Tento hlas   šteklil jeho sluch... mámil jeho zrak ... jeho srdce klopalo divoko   ... šialene besne ...
+    </tei:p>
+    <tei:p>
+     žena! — a zmiznul Kubo, prefekt a Janko Klinčok.
+    </tei:p>
+    <tei:p>
+     Obklopilo ho ohromné množstvo nahých ženských tiel, ktoré sa   plazily pred ním v divokom, vilnom tanci, vzpínaly k nemu žiadostivé   svoje biele rúčky a v tomto fingovanom svete žien usnul .tvrdým   spánkom na pohovke, kam ho položili dvaja mladí klerici. — Janko mal   vyjasnenú tvár, keď prišiel nazpät medzi kolegov ktorí ho už   nedočkavé očakávali.
+    </tei:p>
+    <tei:p>
+     — Dobre sa nám to podarilo, chlapci! Však nech sa ešte ráz opováži   rečniť o zhubných a demoralizujúcich následkoch alkoholu na ľudského   ducha a telo. Máme dôkazy!
+    </tei:p>
+    <tei:p>
+     Po krátkej debate a analyzovaní práve sa odohravšiej udalosti   Janko vystúpil zase na predsednícke pódium a po jeho rozjasnenej   tvári rozliala sa bleskurýchle vážnosť a dôstojnosť.
+    </tei:p>
+    <tei:p>
+     — Kolegovia, môžeme pokračovať ďalej a vzhľadom na mimoriadnu   udalosť, ktorá nám pohltila mnoho času, snažiť sa budeme dnešnú   schôdzu redukovať na to naj minimálnej šie. Zdá sa mi, že nás rektor   vyrušil práve v tej chvíli, keď som vyprával o tom, že sa nesmieme   dať terorizovať svojimi predstvenými a že môj dnešný prečin chcel byť   len illustráciou tej zásady, že terorizovať sa ani na žiadon pád   nedáme, zvlášte nie od ľudí, ktorých — trebárs sú i našimi   predstavenými, — mravná úroveň je o mnoho chatrnejšia, ako   najväčšieho nemravníka z nás. Pozrime sa len na hlavu seminára, na   nášho rektora. Bol som očitým svedkom výjavu, ktorý by vzbudil i   medzi laikmi pohoršenie. Náš rektor sa ožral, ako dajaký paholok.
+    </tei:p>
+    <tei:p>
+     — Fuj j — fuj j! — kričali klerici.
+    </tei:p>
+    <tei:p>
+     — Pýtam sa, môže byť takýto človek zodpovedný za svoje činy?   Môžeme následkom toho veriť jeho rečiam, jeho kázňam? Môže byť jeden   ožran vychovávateľom mladých ľudí, ktorí sa prebúdzajú k životu?   Môžeme si takéhoto vodcu ctiť, vážiť a rešpektovať jeho nariadenia?   Myslím, že nie!
+    </tei:p>
+    <tei:p>
+     26
+    </tei:p>
+    <tei:p>
+     ﻿— Nie — nie! — rozzvučalo sa tisícerou ozvenou nad hlavami   klerikov.
+    </tei:p>
+    <tei:p>
+     — Myslím, že týmto som sa pred vami dostatočne ospravedlnil.
+    </tei:p>
+    <tei:p>
+     — Tak je! Nech žije Janko!
+    </tei:p>
+    <tei:p>
+     — Ďalej! Známou j e vecou, že naša strava j e skutočne pod   kritiku. Preto dávam návrh, aby počas raňajiek navštívila rektora   trojčlenná deputácia a požiadala ho v mene všetkých chovancov o   zlepšenie stravy tak kvalitatívne, ako i kvantitatívne. Kto sa chce   podjať aj téjto práce.
+    </tei:p>
+    <tei:p>
+     — Ja — ja — ja — ja — a všetci by boli radi išli na intervenciu ku   rektorovi. Zvedaví boli asi, ako vyzerá po pijatyke.
+    </tei:p>
+    <tei:p>
+     — Ticho, chlapci, veď každý ísť nemôže. Ja by som navrhoval kolegu   Kabaňu, Holmana a Kliku, prípadne i Hantára ako starého teologa.   Súhlasíte s tým?
+    </tei:p>
+    <tei:p>
+     — Dobre je!
+    </tei:p>
+    <tei:p>
+     — A vy, kolegovia?
+    </tei:p>
+    <tei:p>
+     Tázaní prikývli na znak súhlasu hlavou.
+    </tei:p>
+    <tei:p>
+     — Teda tento bod je riešený. Zajtra, ako som už povedal,   navštívite ho v jeho pracovni po raňajkách. Suchými, nevyberanými   slovami mu oznámite, že si prajeme zlepšenie stravy. Bez zbytočných   fráz a krásomluvy. A hneď mu oznámite, že si klerictvo praje, aby už   obed bol zlepšený. Toľkoto ad rem deputácie. A teraz navrhujem, v   páde, že by rektor nevyhovel našej žiadosti a na stole sa objavily   zase len zemiaky a špenát, prípadne fazuľa alebo kapusta bez mäsa,   aby sme všetci, my tu prítomní, bez modlenia sa a bez toho, aby sme   sa len dotkli jedál, opustili ostentatívne miestnosť. Súhlasíte s   mojím návrhom?
+    </tei:p>
+    <tei:p>
+     Ivan Zub sa hlásil o slovo.
+    </tei:p>
+    <tei:p>
+     — Návrh je v podstate dobrý, treba ho však trochu okresať, lebo   nám hrozí nebezpečie, že po dnešnej udalosti, ktorá je zaiste   prototypom solidárnosti a kolegiálnosti, budeme nemilosrdne odhalení.   Preto by som bol tej mienky, aby sa návrh kolegu Klinčoka moduloval v   takomto smysle: Deputáciu k rektorovi vôbec vysielať nebudeme, lebo   každá deputácia svedčí už o organizácii. Ale:. Počas obedu jeden z   nás povstane a zápalistými slovami povzbudí kolegov k boykotu tak   mizernej stravy a požiada v mene
+    </tei:p>
+    <tei:p>
+     27
+    </tei:p>
+    <tei:p>
+     ﻿všetkých kolegov rektora, aby nám bola zlepšená strava. V páde. že   by rektor činil námietky, opustíme korporatívne miestnosť.
+    </tei:p>
+    <tei:p>
+     Ivan sadnul. V sieni nastalo ticho. Každý uvažoval nad jeho   slovami.
+    </tei:p>
+    <tei:p>
+     Po chvíli stal teolog Hantár a nabádal prítomných, aby Klinčokov   návrh bol v takomto znení realizovaný. Po dlhšej debate zvíťazil   návrh Ivanov a súčasne bol Ivan sám poverený, aby on predniesol   patričnú reč k rektorovi.
+    </tei:p>
+    <tei:p>
+     Ivan po dlhšom uvažovaní a duševnom boji vzal na seba bremä   verejného výstupu s tým podotknú tím, aby po jeho preslove, jestli by   sa tento minul po stránke technickej potrebného účinku, k odchodu   povzbudil klerikov niekto iný.
+    </tei:p>
+    <tei:p>
+     A po prečítaní pokladničnej zprávy, vzhľadom na pokročilosť doby,   predseda zakľúčil schôdzu.
+    </tei:p>
+    <tei:p>
+     Členovia dľa stanov vyfajčili zase po jednej cigaretke a ticho sa   roztratili do svojich izbičiek.
+    </tei:p>
+    <tei:p>
+     Na seminár zaľahlo ticho a ožiarené okienka seminára vyhasíňaly   jedno za druhým, ako by sa strácaly pod zem veľké žiariace   svätojanské mušky ...
+    </tei:p>
+    <tei:p>
+     Zhasly všetky. Len jedno jediné hľadí ešte stále rozžiareným okom   do noci.
+    </tei:p>
+    <tei:p>
+     V jeho matnom svetle kmitne sa časom tieň, tieň dlhý a čierny.   Tieň Ivana Zuba.
+    </tei:p>
+    <tei:p>
+     Bdí! Anjel spánku nechce poľúbiť jeho bledé líce. A tak rád by už   položil svoje ukonané telo.
+    </tei:p>
+    <tei:p>
+     Je akýsi nekľudný, jeho mysľou trielia rôzne myšlienky. Musí sa   vyliať, musí sa vyžiť z dojmov a zážitkov, ktoré ho dnes tak mocne a   intenzívne uchopily za jeho citlivú dušu.
+    </tei:p>
+    <tei:p>
+     A keď čerstvý raňajší vzduch a jarná vôňa nakreslila na jeho líce   červenkasté ruže, on ešte písal veľkú báseň, v ktorej prúdila jeho   vlastná krv a hukotal jeho vlastný život... Veď Ivan Zub bol básnikom   ... opravdivým a nežistným básnikom ...
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IV.
+    </tei:head>
+    <tei:p>
+     Predzvesť búrky
+    </tei:p>
+    <tei:p>
+     Jedálňou znie sonorný hlas Ivana. Krátke, úsečné vety zatínajú do   svedomia.
+    </tei:p>
+    <tei:p>
+     ... veď uznajte už raz, dôstojný pane, že táto strava nás hubí a   zabíja. Táto strava nie je vstave hradiť energiu, ktorú tratíme pri   vysilujúcej práci. Klerici sú nespokojní. Seminár vrie ako roj včiel.   Hovorím vám to verejne a otvorene a žiadam v mene všetkých kolegov   zlepšenie stravy.
+    </tei:p>
+    <tei:p>
+     Rektor na začiatku Ivanovej reči bol akýsi dojatý, ohromený. Veď   skôr bol prichystaný na vlastnú smrť, ako na tento výstup. Ivana Zuba   považoval za najlepšieho chovanca celého ústavu a kládol ho vždy a   pri každej danej príležitosti ostatným za vzor. A teraz on búri proti   nemu mladých klerikov ?!
+    </tei:p>
+    <tei:p>
+     Ale čím väčší obdiv, čím väčšia láska, teda čím väčšia akcia, tým   býva väčší odpor a pomsta: reakcia!
+    </tei:p>
+    <tei:p>
+     V rektorovom širokom a neukáznenom svedomí zarevalo čosi silným   hlasom: »Nedaj sa, ukáž, že pánom si ty! Ukáž tým sopliakom, že   hlavou seminára si ty, ty rozkazuješ a ty rozkazovať si nedáš ani od   samého biskupa!«
+    </tei:p>
+    <tei:p>
+     — Náprava predbežne nie je možná! — prerieknul sarkasticky s   povýšnou hlavou a začal objedať kuracie stehienko.
+    </tei:p>
+    <tei:p>
+     29
+    </tei:p>
+    <tei:p>
+     ﻿Tento flegmatický tón, týchto niekoľko slovičiek pôsobily   prapodivné na klerikov. Privyknutí boli na prudké výbuchy, na nadávky   a na dlhé citáty zo Svätého Písma.
+    </tei:p>
+    <tei:p>
+     Ďurko Janičársky, ktorý nikdy neztratil duchaprítomnosť, vyskočil   prudko na stoličku a začal rečniť s páthosom a ohňom:
+    </tei:p>
+    <tei:p>
+     — Kolegovia! Myslím, miera je už preplnená. Dlho sme trpeli, dlho   znášali bez slova a reptania rektorov teror. Dnes a vznášam k   vám, drahí kolegovia, svoj hlas: Nebuďme ďalej otrokmi, nedajme si   šliapať po našom tele, nedajme sa mučiť a týrať ani duševne, ani   fyzicky; od dneška ďalej hladovať nebudeme! Sme ľudmi a rektor nás   považuje za zvieraťa. Dokážme mu, že nimi nie sme a že vieme a chceme   žiť ako ľudia! Kolegovia! Nedáme sa naďalej otročiť!
+    </tei:p>
+    <tei:p>
+     — Nedáme! — rozhučalo sa klerictvo.
+    </tei:p>
+    <tei:p>
+     — Nedáme! — Nedáme!
+    </tei:p>
+    <tei:p>
+     Malý Ďurko otvoril prudko dvere a klerici sa rozjarene vyrojili na   chodbu.
+    </tei:p>
+    <tei:p>
+     Rektorovi zostalo v hrdle kus kosti, pán spovedelník sa útrpne   usmieval, pán prefekt sa hral s vidličkou a ostatní hľadeli pred seba   akosi hlúpo a nechápavé.
+    </tei:p>
+    <tei:p>
+     Bola to zaujímavá chvíľa. Chodby hučaly revom a volaním na slávu   zvlášte Jankovi a malému Ďurkovi.
+    </tei:p>
+    <tei:p>
+     Tieto hlasy, tento nadšený rev doliehal i do jedálne, ktorá   smrdela špenátom a udieraly sta by železným kladivom na rektorové   svedomie.
+    </tei:p>
+    <tei:p>
+     V jedálni panovalo ticho, dusné, nepríjemné ticho
+    </tei:p>
+    <tei:p>
+     Mlčal akosi dojaté aj starý spovedelník, trebárs jeho by nemalo   nič prekvapovať, lebo denne očúva z úst svojich klerikov toľko   nehoráznych svinstiev, že úplne otupel a v hriechu, v priestupkoch   nevidí nič iného, ako spovedelnický materiál, bez ktorého by on,   spovedelník z povolania, žiť nevedel. Jemu sa klerici so všetkým   priznajú, lebo on jediný nevytrúbi do sveta ich tajné náruživosti,   poklesky atď. Týmto priznaním sa im zaiste uľahčí na duši, lebo každé   priznanie, každá spoveď znamená svrhnutie so svedomia bremä akejsi   mravnej zodpovednosti voči prečinom, ktorých sme sa dopustili. A či   sa necítime lepšie, jestli sa vyžaľujeme zo svojich bôľov svojmu   priateľovi? či sa nám neuľahčí,
+    </tei:p>
+    <tei:p>
+     30
+    </tei:p>
+    <tei:p>
+     ﻿jestli nás lekár uistí, že na našu chorobu sú účinné lieky a   netreba zúfať? Týmto sa dá vysvetliť i tá »zázračná moc«, ktorá sa   pripisuje spovedi v kostole!
+    </tei:p>
+    <tei:p>
+     — Nuž, toto vyzerá ako rebelia, pravá revolúcia v seminári! •—   poznamenal profesor cirkevných dejín.
+    </tei:p>
+    <tei:p>
+     Rektor pozeral hlúpo po anjeloch strážcoch. Bol bledý. Poľutovania   hodný!
+    </tei:p>
+    <tei:p>
+     Stal Sanctissimus.
+    </tei:p>
+    <tei:p>
+     — Dôstojní pánovia! Dľa mojej najskromnejšej mienky, ktorá však   pre veľadôstojné predstavenstvo smerodatnou byť nemusí, celú rebeliu   zapríčinil a zorganizoval Ján Klinčok. Odpúšťajú sa mu menšie   previnenia, preto ani nieto divu, že sa dopúšťa stále väčších a   hrozivejších. Preto dovoľujem si navrhnúť, aby bol okamžite vylúčený   zo seminára na postrach tých ostatných. Lebo, súdim, jestli my starí   teológovia môžeme byť spokojní so stravou, môžu byť aj tí mladí   gymnazisti.
+    </tei:p>
+    <tei:p>
+     — To je otázkou, či sú teológovia spokojní s touto stravou —   odseknul prudko spovedelník a pozrel s hnevom na Sanctissima.
+    </tei:p>
+    <tei:p>
+     Sanctissimus zrudnul a neprerieknuc viac ani slova, sadnul na   svoje miesto.
+    </tei:p>
+    <tei:p>
+     Teológovia pozerali bezradne jeden na druhého a pomaly sa   vytratili z jedálne.
+    </tei:p>
+    <tei:p>
+     V rektorovej duši sa odohrával ťažký boj.
+    </tei:p>
+    <tei:p>
+     Zanoril hlavu do dlaní a rozmýšľal. Pred jeho očami začaly sa   zjavovať jednotlivé výjavy z jeho vlastného života rad-radom, sťa na   filmovom plátne... Videl sa ako mladý klerik, kľačiaci pred oltárom   sedmibolestnej panny — vtedy bol ešte človekom — videl svoju   vysviacku — príbuzní plakali, videl svoju rozradostenú matku (ako   dlho už nemyslel na túto dobrú osobu, ktorá sa živí ťažkou pračskou   robotou!), zjavilo sa mu kaplančenie na malej, zapadlej dedinke,   teror vypaseného farára, ktorý každý mesiac menil kuchárky a gazdiny   ... profesúru na teologickej fakulte ... mravný úpadok ...   štréberstvo ... pretvárky pred predstavenými... falošné   pobožnuskárstvo ... hodinové vysedávanie pred oltárom ...   podkopávanie nôh svojim kolegom nadanejším a charakternej ším, aby sa   po ich mŕtvolách mohol vyškriabať na briežok kariéry... rôzne intriky   ... faloš a vymenovanie za rekto-
+    </tei:p>
+    <tei:p>
+     31
+    </tei:p>
+    <tei:p>
+     ﻿ra ... Rektor ... panovačnosť... bezohľadnosť ... teror... ne-
+    </tei:p>
+    <tei:p>
+     cudnosť — zálety, nočné výlety v incognito do mesta... Hľa!   ži-
+    </tei:p>
+    <tei:p>
+     vot rektora jedného veľkého seminára!
+    </tei:p>
+    <tei:p>
+     A — vonku rozlieha sa víťazoslávny rev jeho chovancov, jeho
+    </tei:p>
+    <tei:p>
+     smrteľných nepriateľov. V tejto chvíli zanevrel na celý seminár,   nevýjmuc ani jeho osobných tajomníkov — anjelov strážcov. A
+    </tei:p>
+    <tei:p>
+     pri tom cíti, ako by sa mu dral prúd slz do očú! Opanoval sa!
+    </tei:p>
+    <tei:p>
+     Chcel by plakať! Plakať a škrípať zubami vo svojej bezvláde. —   Klerikov treba nechať vybúriť sa — poznamenal profe-
+    </tei:p>
+    <tei:p>
+     sor cirkevných dejín.
+    </tei:p>
+    <tei:p>
+     — A hlavne, polepšiť stravu — prízvukoval spovedelník.
+    </tei:p>
+    <tei:p>
+     — Tak je — prikývli všetci — lebo sa ti môže prihodiť ešte
+    </tei:p>
+    <tei:p>
+     niečo nebezpečnejšieho.
+    </tei:p>
+    <tei:p>
+     — A čo takého ? — opýtal sa zvedavou podráždenosťou rektor. — Nuž,   Klemko náš, na príklad — ozval sa zase spovedelník
+    </tei:p>
+    <tei:p>
+     — klerici ani večerať nebudú a odídu korporatívne do dajakej
+    </tei:p>
+    <tei:p>
+     reštaurácie.
+    </tei:p>
+    <tei:p>
+     Rektor ovesil hlavu bez slova.
+    </tei:p>
+    <tei:p>
+     Prekonával ťažký duševný boj. Hľadal východisko z tejto
+    </tei:p>
+    <tei:p>
+     ťažkej situácie. Východisko, aby sa i koza najedla i kapusta   zostala. Chcel pristúpiť na kompromis, ktorý by však neurážal jeho   samolúbosť, brutálnosť a bol v plnom súlade s jeho teroristickou   povahou. Lámal si dlho hlavu, ale takýmto spôsobom vybrdnúť
+    </tei:p>
+    <tei:p>
+     z tejto situácie nebolo možné.
+    </tei:p>
+    <tei:p>
+     — Musíš za každú cenu, musíš polepšiť stravu. Jedná sa o
+    </tei:p>
+    <tei:p>
+     dobré meno seminára! — priklincoval ešte raz svoju mienku
+    </tei:p>
+    <tei:p>
+     skeptický spovedelník.
+    </tei:p>
+    <tei:p>
+     — Polepším, áno polepším — a zdalo sa, že tieto rektorové
+    </tei:p>
+    <tei:p>
+     slová sú úprimné.
+    </tei:p>
+    <tei:p>
+     Sotva však prišiel do svojej pracovne, sotva sa roznieslo
+    </tei:p>
+    <tei:p>
+     príjemné aróma drahej cigary, sotva sa uležal v jeho rozpálenej   hlave dobrý francúzsky likér a sotva sa náležíte pokochal na dne   šuplíku zavretom obraze, ktorý predstavoval akt mladého dievčaťa,   dobrá snaha, polepšiť svojim klerikom stravu, vymizla a zaumienil si   skalopevné, že zo svojho nepopustí. Stoj čo stoj, on
+    </tei:p>
+    <tei:p>
+     rektor, musí víťaziť a nie klerici!
+    </tei:p>
+    <tei:p>
+     32
+    </tei:p>
+    <tei:p>
+     ﻿Týmto bola na oko ukončená trápna aféra dňa. Vonku hýrilo slnce,   príjemné voňaly čerešne. Klerici utiahli sa do izbičiek vo   väčších-menších hlúčkoch a čakali na rozkaz, ktorým má byť zlepšená   strava. Rektor zaspal v hlbokej lenoške. Rozkaz neprišiel. Kuchári a   kuchárky škriabali zemiaky a krajali špenát... Janko Klinčok a Ďurko   Janičársky odišli do mesta ujednať večeru pre klerikov do veľkého   záhradného reštaurantu... Rektor spal ďalej, spitý likérom a svojím   víťazstvom...
+    </tei:p>
+    <tei:p>
+     33
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿V.
+    </tei:head>
+    <tei:p>
+     štrajk klerikov
+    </tei:p>
+    <tei:p>
+     Poslanie Jana Klinčoka a Ďurka Janičárskeho skončilo s úspechom.   Večera bola ujednaná a objednaná.
+    </tei:p>
+    <tei:p>
+     Klerici sa obliekli do svojich najlepších šiat, niektorí do civilu   a čakali na odchod.
+    </tei:p>
+    <tei:p>
+     Odbilo šesť! Po chodbách sa rozniesol nepríjemný zápach špenátu.   Dráždil k odboju a k rebelii.
+    </tei:p>
+    <tei:p>
+     Janko učinil ešte jeden pokus. Zašiel k rektorovi. Dvere jeho   pracovne boly zavreté. Zabúchal silne.
+    </tei:p>
+    <tei:p>
+     — Kto je to? — Ján Klinčok!
+    </tei:p>
+    <tei:p>
+     — čo chceš, čo že chceš?
+    </tei:p>
+    <tei:p>
+     Oznamujem vám v mene yšetkých klerikov, že odchádzame do mesta na   večeru!
+    </tei:p>
+    <tei:p>
+     — Čoooo?! — vykriknul rektor a vyskočil na rovné nohy. Otvoril   dvere.
+    </tei:p>
+    <tei:p>
+     Janko stál sebavedome, ani nehnul obrvou. — Ideme do mesta na   večeru! —
+    </tei:p>
+    <tei:p>
+     V rektorovi sa zbudilo zviera. Udrel Janka silne do tváre. Janko   sa zapotácal. Nepovedal ani slova.
+    </tei:p>
+    <tei:p>
+     Odbehnul pod bránu. Zazvonil tri razy. Znamenie štrajku. Klerici   sa vyrojili do záhrady.
+    </tei:p>
+    <tei:p>
+     34
+    </tei:p>
+    <tei:p>
+     ﻿— Pochod! — zavelil Janko Klinčok rozkazujúcim hlasom. Všetci sa   pohli a vo sriadených šíkoch sa dali na pochod do mesta.
+    </tei:p>
+    <tei:p>
+     A rektor vo svojej pracovni objímal so škripotom zubov mrtvý obraz   mladého dievčaťa!
+    </tei:p>
+    <tei:p>
+     V záhradnom reštaurante tak rušno ešte nikdy nebolo. Klerici mali   vysmiate tváre.
+    </tei:p>
+    <tei:p>
+     Znela veselá hudba.
+    </tei:p>
+    <tei:p>
+     —- Chlapci, jieme na účet seminára, piť ale budeme za svoje. Von s   peniazmi! — a za chvíľu sosbieral Janko peknú sumičku, ktorú hneď   deponoval u vrchného na účet vína.
+    </tei:p>
+    <tei:p>
+     Stôl posialy sklenice zlatého moku. Mladé mysle rozohnilo víno,   mladé srdcia opantaly všakové túhy.
+    </tei:p>
+    <tei:p>
+     Reštaurant sa za chvíľu naplnil ľuďmi obojého pohlavia.
+    </tei:p>
+    <tei:p>
+     Prevládalo pohlavie ženské. Kde-tu usmiala sa na toho alebo onoho   svodná ženská tvár a mladí klerici pod dojmom vrelých pohľadov začali   sa roztápať ako vosk na slnci a čoskoro si nevedeli dať rady so   svojimi mladými telami.
+    </tei:p>
+    <tei:p>
+     Nálada vrela, kypela, nálada prichádzala do zenitu.
+    </tei:p>
+    <tei:p>
+     Obecenstvo reštaurantu začalo sa pomaly miesiť s klerikmi, začala   sa medzi nimi vyvíjať vzájomná sympatia a čoskoro sa spriatelili.
+    </tei:p>
+    <tei:p>
+     Našiel sa i dajaký bohatý mecén, ktorý stále a stále doplňoval   prázdne sklenice.
+    </tei:p>
+    <tei:p>
+     Čoskoro sa rozvinula skromná večera vo veľkú zábavu. Niektorí z   mladých klerikov shodili so seba reverendu a pomiechali sa medzi   tancujúcich.
+    </tei:p>
+    <tei:p>
+     Víno rozriešilo úplne spoločenský problém medzi klerikmi a   civilným obecenstvom, víno srúcalo úplne spoločenské a stavovské   predsudky. Klerici cítili sa dobre v tomto novom ovzduší, civilné   obecenstvo to bavilo a tešili sa spoločne z dnešného večera.
+    </tei:p>
+    <tei:p>
+     Zpráva o čine klerikov z biskupského seminára rozniesla sa   bleskurýchle po celom meste. Obecenstva pribývalo.
+    </tei:p>
+    <tei:p>
+     Do reštauranta sa čoskoro dostavila aj periféria. Vypúdrované   dámičky sa usadily za stoly medzi klerikov a dráždily, podnecovaly   týchto vyzývavé.
+    </tei:p>
+    <tei:p>
+     35
+    </tei:p>
+    <tei:p>
+     ﻿Hodiny pádily rýchlym tempom, mecén bol neúnavný vo svojej   horlivosti. Klerici pili, opíjali sa a objímali ženy z periferie.
+    </tei:p>
+    <tei:p>
+     Ďurko Janičársky sedí v náruči mladého dievčaťa a šepce jej   nesmyselné slová. Táto sa smeje na celé kolo, lechce ho pod bradou a   tulí ho k sebe.
+    </tei:p>
+    <tei:p>
+     Mladá krv rozprúdila sa hukotom. Blčia, horia mladé srdcia   smyselnými žiadostiami a túhami.
+    </tei:p>
+    <tei:p>
+     Nálada je v zenite! Hudba výska, kričí, mámi a dráždi tak isto,   ako žena.
+    </tei:p>
+    <tei:p>
+     Mnohí z mladých klerikov sú spití a potácajú sa reštaurantom.   Mnohí zabudli svoje reverendy a polooblečené merajú ulice mesta k   semináru.
+    </tei:p>
+    <tei:p>
+     Niektorí zaspali v náručí žien a prebudivší sa odchádzajú s nimi   kamsi do zapadlých uličiek periferie....
+    </tei:p>
+    <tei:p>
+     Janko Klinčok žiari veselosťou, tančí s akýmsi mladým dievčaťom z   rodiny, ktorá sa prišla podívať na nie každodennú zábavu do   záhradného reštaurantu. Dvorí jej, sťa by tak robil denne. Mladému,   domácky vychovanému dievčatku Janko imponuje. Za chrbátom mamičky sa   ushovorili na schôdzke.
+    </tei:p>
+    <tei:p>
+     Ivan Zub pije málo a v kúte debatuje s človekom s dlhými vlasmi, s   významnou umeleckou tvárou. Zdá sa, že im je táto zábava úplne   cudzou, sú zahrúžení jeden do druhého a nevšímajú si nikoho.
+    </tei:p>
+    <tei:p>
+     Dávno odbila polnoc, dávno odbila jedna, odbily dve po   polnoci!
+    </tei:p>
+    <tei:p>
+     Reštaurant podobá sa fronte, kde zúri bubnová palba Rady klerikov   sa pomály riedia, včuľ odpadne jeden, za chvíľku dvaja, traja a ku   koncu zostalo len niekoľko z tých najsilnejších, v spoločnosti   niekoľko žien ... Pomály odchádzajú i tí neistým krokom a keď mesto   polialo ráno ružovým leskom, vidíme len asi desiatich, ktorí s dvoma   dámičkami zabočujú do ukrytej, maličkej uličky na periférii
+    </tei:p>
+    <tei:p>
+     Hudba utíchla, čiašnici odišli spať a bohatý reštauratér si trie   spokojne ruky.
+    </tei:p>
+    <tei:p>
+     Slnce ožiarilo reštaurant. Vypadal, sťa bojište. Tu rozbitá fľaša,   tam pudrenka, inde zahodená reverenda, tam pošliapané kolláre
+    </tei:p>
+    <tei:p>
+     36
+    </tei:p>
+    <tei:p>
+     ﻿Prišly vy späté upratovačky a reštaurant za chvíľu vyzeral, ako   včera....!
+    </tei:p>
+    <tei:p>
+     Rektor nespal celú noc. Dobré meno seminára je pokazené. Dnes   príde zaiste biskupská vizita.
+    </tei:p>
+    <tei:p>
+     Nieto možnosti na záchranu. Všetko svedčí proti nemu.
+    </tei:p>
+    <tei:p>
+     Čo robiť? — Nič! Francúzsky likér vykonal zase svoje poslanie !   Nech to už praskne všetko! Zavrel sa do izby.
+    </tei:p>
+    <tei:p>
+     Po chodbách sa rozlieha zvuk budíka. Anjelovia strážcovia,   predstavení a klerici, ktorí sa nesúčastnili večere v meste, vytiahnu   sa ešte raz na železných postielkach, stanú a idú sa modliť do   kaplnky za svojich poblúdilých klerikov, z ktorých nie jedon v tejto   chvíli objíma ženské telo a oddáva sa svetským nerestiam
+    </tei:p>
+    <tei:p>
+     Kaplnka je skoro prázdna. Tak otupno je v nej. Organ bučí akosi   ospalé, omšu slúžiaci kňaz pohybuje sa akosi neisto na piedestáli   oltára a na tvárach všetkých táto noc vymalovala dlhé, veľké   otázniky... Len anjelovia strážcovia sú v daj akej si dobrej nálade.   Hľa! Veď to oni predvídali, veď radili rektorovi, ab.v vyhodil toho   buriča. Teraz aspoň poletí a nebude viac nikoho, kto by nimi tak   okaté opovrhoval a pľuval do ich sviaťuškárskych tvárí. ..
+    </tei:p>
+    <tei:p>
+     Raňajšie pobožnosti sa skončily.
+    </tei:p>
+    <tei:p>
+     Po chodbách vôní káva.
+    </tei:p>
+    <tei:p>
+     V jedálni je tiež dusno... Nikomu sa nechce hovoriť, nikto nechce   prejaviť svoju mienku, nikto nechce zaujať stanovisko k udiavšiemu sa   škandálu.
+    </tei:p>
+    <tei:p>
+     Rektor je ešte zavretý vo svojej izbe. Spovedelník sa potuteľne   usmieva, prefekt hľadí bezvýznamné pred seba, profesor cirkevných   dejín číta breviár, katechéta sa pokúsil predniesť akýsi vtip.   Nepodaril sa mu.
+    </tei:p>
+    <tei:p>
+     Klerici sú bezradní. Anjelovia strážcovia pijú zadúmane svoju   riedku kávu. Sanctissimus žiari!
+    </tei:p>
+    <tei:p>
+     A hriešnici? Jediný Ivan Zub je pri raňajkách. Nevšíma si nikoho.   Sedí oddialené. Tvár má trochu bledú, číta...
+    </tei:p>
+    <tei:p>
+     37
+    </tei:p>
+    <tei:p>
+     ﻿Janko Klinčok spí nevyzlečený. Spí spokojne, na tvári má milý   úsmev. Má asi pekný sen o mladom dievčatku, s ktorým sa má potkať za   mestom v malom hájiku.
+    </tei:p>
+    <tei:p>
+     Ostatní tiež odpočívajú na železných postielkach a niektorí kdesi   v malých zapadlých uličkách v objatí predajných žien lámu   nemilosrdne, bezohľadne, až sadisticky paragrafy desať božích   prikázaní a cítia sa celkom dobre vo svojom hriechu. Veď zakázané   ovocie chutná najlepšie!
+    </tei:p>
+    <tei:p>
+     »Raňajší Kurýr« spravil tento deň báječný obchod. Vydal tri   zväčšené náklady. Ľudia hltali labužnícky podrobný opis klerickej   rebelie. Priniesol i škicu Janka Klinčoka.
+    </tei:p>
+    <tei:p>
+     Celé mesto bolo rozbúrené, podráždené, každý sa dozvedal, každý   vedel niečo nového, niečo pikantného. Klericská rebelia stala sa   všeobecným predmetom rozhovorov počnúc perifériou, cez zahálčové   budoáry až na salóny vedúcich štátnych činiteľov, poslancov a   ministrov.
+    </tei:p>
+    <tei:p>
+     Novinári obliehali seminár. Dozvedali sa na všetky strany.   Vykutali i tie najukrytejšie episódky. Celý seminár prevrátili hore   nohami.
+    </tei:p>
+    <tei:p>
+     Janko Klinčok sa nevedel obrániť. Dnes už bol aspoň desaťkrát’   interwievovaný, aspoň dvadsaťkrát’ fotografovaný. Pri tom všetkom   počínal si sebavedome, s prirodzenou, celkom oprávnenou hrdosťou. Bol   hrdinom dňa!
+    </tei:p>
+    <tei:p>
+     Rektor sa ani na obed neukázal. Uzamknul sa do svojej pracovne a   nikomu sa nepodarilo vypátrať, čo tam celý deň robil. Noviny   kombinovaly všeliako. Jedny písaly, že vypukla na ňom zúrivosť, druhé   sa prísahaly, že rektor ušiel na neznáme miesto a je vecou polície,   aby ho vypátrala, tretie boly tej mienky, že sa vzdal svojho úradu a   odišiel na pokánie do kláštora atď. atď.... Slovom: celá záležitosť   sa pertraktovala s patričnou dávkou novinárskej fantázie a   novinárskeho kombinačného talentu.
+    </tei:p>
+    <tei:p>
+     Bomba vybúšila podvečer. Na ulici sa objavili kameloti s čerstvým   vydaním »Nového Večera«. Medzi iným priniesol i pikantnú historku o   troch úplne spitých klerikoch, ktorí v doprovode dvoch dámičiek   pochybnej existencie inzultovali na ulici strážnikov, prečo boli   predvedení na policajný komisariát a
+    </tei:p>
+    <tei:p>
+     38
+    </tei:p>
+    <tei:p>
+     ﻿po výsluchu, pri ktorom vyhrážali sa neslušným a nedôstojným   spôsobom i policajným vyšetrujúcim orgánom, boli zavretí. Ďalej   dozvedel sa, že ešte i v tejto chvíli spia v periferiálnom hoteli   štyria klerici so ženskými. Naj pikantnej šie pôsobila však zpráva,   že žena jedného vysokého štátneho hodnostára zvábila do hotela   nezkúseného, ale veľmi urasteného a sympatického klerika, čo viac:   Janko Klinčok sa staňte pede zasnúbil s dcérou inž. X. Y. Atď., atď.   a dostal už nábidku od filmovej spoločnosti »Omega«.
+    </tei:p>
+    <tei:p>
+     Mesto bolo uveličené. Majitelia novín si treli ruky.
+    </tei:p>
+    <tei:p>
+     Okolo seminára sa hemžilo stále spústa ľudí. Mnoho starých   klebetných babičiek, nezdravých penzionárov a hlavne spústa   študentov, študentiek.
+    </tei:p>
+    <tei:p>
+     V seminári podvečer panovalo ticho. Ako by sa nič nebolo stalo.   Pomaly sa i tí vracali domov, ktorí najviac zabudli na pánbožka a   oddávali sa hriechom necudným a chlipným...
+    </tei:p>
+    <tei:p>
+     Dnes bola dobrá večera. Rektor sa neukázal a kuchári šafárili na   vlastnú päsť.
+    </tei:p>
+    <tei:p>
+     Starý spovedelník, keď lýhal do postele, rozmýšľal nad klerikmi,   ale zaujímali ho najviac tí, ktorí prišli najpozdejšie. Ako že sa mu   zajtra priznajú? Bude že to fúra báječnej pikantérie!
+    </tei:p>
+    <tei:p>
+     Nad seminárom sa rozprestrela noc. Okienka jedno po druhom   vyhasíňaly, sťa nad ránom hviezdy a klerici usínali s mäkkými   vzpomienkami na tvrdých železných postieľkach ...
+    </tei:p>
+    <tei:p>
+     Zajtra príde vizita. Snáď i sám biskup! Zajtra! Budeže to mela,   budeže to veľký deň!
+    </tei:p>
+    <tei:p>
+     Ivan Zub bol kľudný a jeho malé okienko pomaľovala tieňa   naposledy.
+    </tei:p>
+    <tei:p>
+     Janko Klinčok mal nespokojné sny...!
+    </tei:p>
+    <tei:p>
+     39
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VI
+    </tei:head>
+    <tei:p>
+     Noc Jožka Jasného
+    </tei:p>
+    <tei:p>
+     Stalo sa to ešte pred polnocou. Zábava plynula normálnym tokom.   Jožko Jasný slul, ako pobožný, bohabojný klerík. Nebol členom spolku   »Nikotin« a medzi rebelantov dostal sa dnes akosi náhodou, — zo   svedavosti.
+    </tei:p>
+    <tei:p>
+     Ťažké víno ho omráčilo, hudba omámila a pohľad krásnej elegantnej   dámy znarkotizoval úplne jeho mladé srdce. Len nedávno slávil svoje   osemnásťročné narodeniny. Svet nepoznal, život, život v pravom slova   smysle mu bol neznámy. Poznal ho len cez ťažké múry seminára, časom   mu zableskla mysľou i trochu smelšia myšlienka, že snáď, ten život   ani nie je takým jednotvárnym, takým bezbarevným a chudokrvným, akým   mu ho navsuggeroval seminár. Bola to však len myšlienka. Holá a bez   reálneho podkladu na vonok. časom, snáď, i zatúžil za dajakou   premenou, ale seminár je neúprosný, nemilosrdný a on, ako jeho   obyvateľ, musí žiť životom, ktorý drkoce a pokulháva medzi jeho   stenami. On nesmie uplatniť svoje nároky na život, na túhy a   premenu.
+    </tei:p>
+    <tei:p>
+     Ale dnes uvidel život, kus pravého života. Zbúrila sa v ňom mladá   krv, myseľ si vybájila možností na tisíce aspoň dnes využiť a neho   mnoho, pomstiť sa na tých bezbarevných dňoch, mesiacoch a rokoch,   ktoré gniavily jeho mladú dušu v seminári.
+    </tei:p>
+    <tei:p>
+     40
+    </tei:p>
+    <tei:p>
+     ﻿Víno, hudba a žena. Pamätal sa, že Luther tieto tri veci považoval   za postulát pri j emnej životosprávy. Prečo by to nemohol vyzkúšať?   Psychológia má všelijaké zázraky!
+    </tei:p>
+    <tei:p>
+     Jožko Jasný sa napil do sýtosti vína, zanoril sa do mäkkých zvukov   cigáňových husiel a začal tonúť v krásnych očiach elegantnej dámy.   Cítil sa dobre, tak sladko mu bolo okolo duše! Veď tá krásna dáma tak   láskyplne pozerá naňho a jeho osemnásť bujarých rokov začalo revať   mocne po odčinení životných krívd, ktoré sa na ňom pásu medzi   plesnivými múrami seminára. A pocítil akúsi túhu, ktorá stoj čo stoj   musí byť realizovaná!.
+    </tei:p>
+    <tei:p>
+     Elegantná dáma sa naňho usmiala a naznačila mu pohybom ruky, aby   sa vzdialil.
+    </tei:p>
+    <tei:p>
+     Ani sám nevedel, ako sa octnúl po jej boku. Nič si neuvedomoval,   nad ničím nerozmýšľal a nefilozofoval.
+    </tei:p>
+    <tei:p>
+     Dáma kynula na čiašnika. Zaviedol ich do zvláštnej izby.
+    </tei:p>
+    <tei:p>
+     Janko mlčal, trebárs revalo, kričalo a búrilo sa v ňom všetko.   Šiel vedľa mladej dámy, sťa v hypnotickom spánku.
+    </tei:p>
+    <tei:p>
+     Čiašnik priniesol niekoľko skleníc šampaňského, dáma hodila mu s   nonšalantnou eleganciou šuštiaci tisíckoruník a ostali sami.
+    </tei:p>
+    <tei:p>
+     — Ako že ťa volajú, chlapečku môj ?
+    </tei:p>
+    <tei:p>
+     — Jožko — chcel ešte čosi povedať, snáď niekoľko povďačných slov,   ale slovo zamrelo na jeho rtoch. Len pozeral, pozeral v akejsi   rozkošnej bezradnosti na svoju krásnu spoločnicu a noril sa čím dial,   tým hlbšie do sladkých predtúch neokúsených slastí. Chcel zažiť   život. Táto túha už nabrala celkom určitých kontúr! Chcel a uzrelo v   ňom i skalopevné predsavzatie, že táto noc musí byť medzítkom v jeho   živote ... Ale prirodzená ostýchavosť, ktorou značí seminár svojich   chovancov, mu v tom zabraňovala, čakal útok zo strany krásnej   spoločnice.
+    </tei:p>
+    <tei:p>
+     Zdálo sa, že dáme sa až veľmi páči Jožkove chovanie, kochala sa v   jeho bezradnosti a preto čakala s výpadom!
+    </tei:p>
+    <tei:p>
+     Vyprázdnili prvú sklenicu šampaňského. Jožko bol pekný mladík s   kučeravým bujným vlasom, dobre vyvinutej telesnej štruktúry. Dáme sa   zapáčil na prvý pohľad.
+    </tei:p>
+    <tei:p>
+     — Povedz mi, Jožko, bol si ty už v živote so ženou — opýtala sa ho   dáma a privinula ho k sebe.
+    </tei:p>
+    <tei:p>
+     41
+    </tei:p>
+    <tei:p>
+     ﻿— Nerozumiem! — zakoktal Jožko.
+    </tei:p>
+    <tei:p>
+     — Ty si mi ale hlúpučký. Nuž, ako by som ti to mala vysvetliť? No,   len sa tak nečerveňaj. Teda: či si už mal s dajakou ženou čo do   činenia! —
+    </tei:p>
+    <tei:p>
+     Jožko sa zapýril a jeho telom prešla sladká triaška. Sklopil oči a   zakýval len záporne hlavou.
+    </tei:p>
+    <tei:p>
+     — A chcel by si byť? — útočila ďalej krásna dáma, Jožko mlčal v   sladkých rozpakoch.
+    </tei:p>
+    <tei:p>
+     — Nože, Jožinko môj! —
+    </tei:p>
+    <tei:p>
+     Jožkovi vbehla krv do modzgov, oči sa zatemnily.
+    </tei:p>
+    <tei:p>
+     Vrhnul sa divoko do náručia krásnej dámy a tisnul ju mocne k sebe.   Bozkával náruživé jej rty, noril hlavu do jej tela, ľúbal jej hruď,   jej malé rúčky a sťa pozbavený rozumu škrípal zubami. Krásna dáma sa   z počiatku len usmievala, hladkala jeho kučeravé vlasy. Ale výpad bol   nad jej sily. Privinula Jožka mocne a divoko na svoju obnaženú hruď,   bozkávala ho náruživé.
+    </tei:p>
+    <tei:p>
+     Ovinula ich akási červenkastá hmla, opanovalo ich mocné pohlavie a   klesli v bezvedomí na pohovku ...
+    </tei:p>
+    <tei:p>
+     červenkasté svetlo. Polonahé tanečnice. Svodná hudba, šampáňske.   Spev. Tanec!...
+    </tei:p>
+    <tei:p>
+     Bar!
+    </tei:p>
+    <tei:p>
+     Tri písmeny, tristo druhov rozkoše, tridsaťtisíc predtúch, tri   milióny možností poznať život, zamilovať život a znenávidieť   život.
+    </tei:p>
+    <tei:p>
+     Keď prvé šialené výbuchy pohlavia utíchly, keď Jožko Jasný z   počiatku akosi zdrtene usadnul na stoličku pri krásnej dáme, keď   krásna dáma si uspokojené vydýchla a začala kľudne hladkať Jožkovú   tvár, malá izbietka sa im začala zdať príliš úzkou a jej ovzdušie   príliš ťažkým. Dlho sedeli jeden vedľa druhého ticho a bez slova, sťa   stroskotanci na širom mori, keď sa im po dlhej námahe podarilo prísť   na palubu práve okolo plujúcej lodi.
+    </tei:p>
+    <tei:p>
+     — Jožko môj, máš ma rád? — Mám, mám, áno, mám ..... — Poďme, snáď,   niekde inde! — Jožko prikývnul hlavou.
+    </tei:p>
+    <tei:p>
+     42
+    </tei:p>
+    <tei:p>
+     ﻿Čoskoro ich ovial parfúmovaný vzduch elegantného baru.
+    </tei:p>
+    <tei:p>
+     Jožko hľadel okolo seba nechápavé. Takto, práve takto si   predstavoval bar, o ktorom im s takým hnusom a opovržením zavše   hovoril katechéta.
+    </tei:p>
+    <tei:p>
+     Pomyslel si, že to nie je hnus, je to celkom krásna vec, veľmi   pekne cifrovaná hračka pre také nezkúsené dieťa, ako je on.
+    </tei:p>
+    <tei:p>
+     Bar sa mu zapáčil. Cítil sa dobre a obzeral sa okolo seba s   úľubou, ako dieťa, ktoré prvýkrát’ sa octlo v elegantnej osvietenej   sieni, kde sa všetko leskne a trblieta pozlátkom.
+    </tei:p>
+    <tei:p>
+     Páčil sa sám sebe. Od jednoho čiašnika v záhradnej reštaurácii za   drahé peniaze kúpený smoking mu veľmi dobre stál. Aký to rozdiel   medzi dlhou, nemotornou reverendou a týmto praktickým oblekom. Hej!   Keby ho už nikdy nemusel so seba svliecť.
+    </tei:p>
+    <tei:p>
+     Akési mladé, veľmi pekné dievča, odiate len fígovým listom tančí   rozpustilý tanec. Jej hebké telo rozplýva sa v akúsi samorodú rozkoš,   vznáša sa stále výš a výš, ovíja sa okolo ľudských sŕdc, rozteká sa   na všetky strany. Jej oko žiari šibalským ohňom, rozsieva svoje   svodné úsmevy na všetky strany, núka sa každému.
+    </tei:p>
+    <tei:p>
+     Jožko bol uveličený týmto tancom. Hltal každý jej pohyb, kŕmil sa   jej svodným telom, opájal sa jej krásou.
+    </tei:p>
+    <tei:p>
+     Jeho dáma pozerala naňho s úľubou. čím diaľ, tým viac rozpaloval   tento pekný mladík jej krv a plnil ju stále novými a novými túhami a   žiadostiami.
+    </tei:p>
+    <tei:p>
+     — Ako že sa ti to ľúbi, Jožko? —
+    </tei:p>
+    <tei:p>
+     — Krásne je to! —
+    </tei:p>
+    <tei:p>
+     — Ako sa ti ľúbi tá tanečnica?
+    </tei:p>
+    <tei:p>
+     — Je veľmi pekná. Takej peknej ženy som ešte v živote nevidel.
+    </tei:p>
+    <tei:p>
+     — Mám ju povolať sem k nám?
+    </tei:p>
+    <tei:p>
+     — A šla by?
+    </tei:p>
+    <tei:p>
+     — Celkom určite. —
+    </tei:p>
+    <tei:p>
+     — Tak ju zavolajte. Zavolajte!
+    </tei:p>
+    <tei:p>
+     Mladá tanečnica prišla do ich separé vysmiata, akási uveličená po   prevedenej zdarilej tanečnej produkcii.
+    </tei:p>
+    <tei:p>
+     Predstavila sa krstným menom a usadla za stôl.
+    </tei:p>
+    <tei:p>
+     43
+    </tei:p>
+    <tei:p>
+     ﻿Dve ženy! Dve krásné a svodné spoločnice. Jožko rozplýval   radosťou. Pomály sa začal vžívať do úlohy gavaliera a svojou vrodenou   inteligenciou bavil dámy náležité. Mladá tanečnica bola s ním úplne   spokojená. časom ho uštipla na líca a mala z toho ohromnú radosť, keď   sa Jožko začerveňal až po uši. Veď dnes tak ľahko neuvidí človek   niečo podobného!
+    </tei:p>
+    <tei:p>
+     Jožko okrial úplne. Vžil sa do situácie a začal sa cítiť, sťa by   už dávno... veľmi dávno bol zahodil čiernu reverendu a padal z   jednoho ženského náručia do druhého.
+    </tei:p>
+    <tei:p>
+     Mladá tanečnica rozbúrila jeho krv. Začal túžiť za ňou. A práve na   tento moment čakala jeho dáma.
+    </tei:p>
+    <tei:p>
+     Vytiahla z ridikiila niekoľko bankoviek. Podala tieto mladej   tanečnici a kynula jej na odchod.
+    </tei:p>
+    <tei:p>
+     Jožko pozrel na ňu v akomsi nedorozumení. Privinula ho mocne k   hrudi a bozkala vrele na ustá. Jožko zabudol na tanečnicu a ňou   rozbúrená krv splynula v divokom vari s krvou krásnej dámy.
+    </tei:p>
+    <tei:p>
+     Nič nevedel, nič necítil, iba ženské telo, ktoré rval zubami,   zatínal doň nechtami a splýval s ním v jedno, v akúsi divokú pieseň,   mocného odboja, krvavej pomsty za dosavádny neplodný a bezfarebný   život....
+    </tei:p>
+    <tei:p>
+     Spitý láskou a šampáňskym usnul v náruči krásnej dámy
+    </tei:p>
+    <tei:p>
+     Pred obedom prebudil sa v elegantne zariadenej, voňavej izbe.   Poobzeral sa okolo seba. Samá elegancia, lesk a prepych. V momente   pochopil všetko. Hlavu mal akúsi ťažkú a beh myšlienok chaosný,   neurčitý. Cítil sa ako po prestatej ťažkej chorobe.
+    </tei:p>
+    <tei:p>
+     Včerajšia noc začala pred ním víriť, tančiť, krútiť sa v šialenom   tempe. Rozpamätával sa pomály na všetko, videl krásnu dámu, cítil pal   jej bozkov, jej horúce telo.
+    </tei:p>
+    <tei:p>
+     Opanovala ho akási melanchólia, sťa by za niečím ľutoval, sťa by   bol ztratil niečo cenného a drahého.
+    </tei:p>
+    <tei:p>
+     Na chvíľu sa vzbudil v ňom pobožný klerik zo seminára. Vnoril   hlavu do dlaní a jeho myšlienky trielily a pádily v jeho modzgu   šialene.
+    </tei:p>
+    <tei:p>
+     44
+    </tei:p>
+    <tei:p>
+     ﻿Začal ho trápiť jeho hriech a v duši sa začaly rodiť nové   myšlienky. Videl seminár, zazrel sa v kaplnke. V ušiach mu zadunela   hrozivé nedávna kázeň katechétu, v ktorej strašnými far, bami líčil   muky pekla... Videl žeravé a mučivé peklo!
+    </tei:p>
+    <tei:p>
+     Vyskočil rýchle z postele a hľadal reverendu. Do očú mu padlý   pekné elegantné šaty najnovšieho strihu. Hodvábna košeľa a krásna   kravata usmievaly sa naňho z nočného stolíka.
+    </tei:p>
+    <tei:p>
+     čo sa stalo ? Hej! Reverendu odhodil v záhradnej reštaurácii. Nemá   jej viac.
+    </tei:p>
+    <tei:p>
+     A mať ju musí. Nevydrží to!
+    </tei:p>
+    <tei:p>
+     Otvorily sa dokorán dvere a zjavila sa v nich jeho krásna   dáma.
+    </tei:p>
+    <tei:p>
+     Odvrátil hlavu, ako by ju nebol ani zpozoroval.
+    </tei:p>
+    <tei:p>
+     — Dobré ráničko! Ako že sa vyspinkal môj Jožinček? — preriekla   dáma milým hlasom a išla k nemu. Jožko utiekol pred ňou za posteľ.   Chytila ho za ruku a pritisla k sebe. Chcel sa vymaniť z jej objatia.   Nepodarilo sa mu. Jeho oči sa stretly s jej planúcim zrakom. Sily ho   opustily.
+    </tei:p>
+    <tei:p>
+     A v jej vrelom objatí zabudol zase na seminár, zabudol na kázeň o   pekle, zabudol na svet, na všetko.
+    </tei:p>
+    <tei:p>
+     Kúzlo ženy ho omámilo zasa, žena zvíťazila nad jeho mladistvým,   rojčivým a nezkazeným srdcom.
+    </tei:p>
+    <tei:p>
+     Nech sa stane, čo chce; nedbá už na nič a v tom apatickom duševnom   položení klerik Jožko Jasný klerikom viac už nebol. . Prisáhal   krásnej žene, že ju nikdy neopustí, že bude jej otrokom na veky.
+    </tei:p>
+    <tei:p>
+     Krásna dáma bola dojatá a pocítila, že Jožko Jasný začína pre ňu   viac znamenať, ako všetci ostatní mužovia, ktorých okúzlila, ktorí sa   jej korili a zbožňovali každý jej dych, každé slovíčko, každý pohyb   jej krásnych údov a zaumienila si, že stoj čo stoj Jožko Jasný musí   patriť jej, výlučne len jej ...
+    </tei:p>
+    <tei:p>
+     Jožko Jasný sa stal zajatcom krásnej dámy !
+    </tei:p>
+    <tei:p>
+     45
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VII
+    </tei:head>
+    <tei:p>
+     Vyšetrovanie
+    </tei:p>
+    <tei:p>
+     Na druhý deň dostavil sa do seminára v spoločnosti viacerých   cirkevných hodnostárov sám osvietený pán biskup. Dnes ho nikto   nevítal, trebárs bol celý seminár presvedčený, že pán biskup   príde.
+    </tei:p>
+    <tei:p>
+     Brány seminára prekročil ticho a bez hluku. Bol namrzený a   rozháraný.
+    </tei:p>
+    <tei:p>
+     Na chodbe ich potkal spovedelník a bez každej ceremónie zaviedol   do hosťovskej izby. Omluvil sa a utekal za rektorom, ktorý mimo   mladej kuchárky, ktorá mu prinášala stravu, už dva dni neprijal   žiadnej návštevy, už dva dni s nikým neprehovoril am slova. Súdiac   však dľa toho, že mladá kuchárka vyšla vždy z jeho izby vysmiata a   červená, nebolo to s ním ešte asi tak veľmi zle...
+    </tei:p>
+    <tei:p>
+     — Klemo, Klemko, biskup je tu! Otvor chytro a poď! — búchal na   jeho dvere.
+    </tei:p>
+    <tei:p>
+     Rektor neodpovedal.
+    </tei:p>
+    <tei:p>
+     — Ale, pre pána boha, veď neblázni. Biskup je ako hrom Poď! Chytro   poď!
+    </tei:p>
+    <tei:p>
+     V izbe zavŕzgala pohovka.
+    </tei:p>
+    <tei:p>
+     46
+    </tei:p>
+    <tei:p>
+     ﻿— Nemôžem, som chorý. Povedz osvietenému pánu biskupovi, že som   ťažko chorý — znel z vnútra izby rektorov zachrýply hlas.
+    </tei:p>
+    <tei:p>
+     — To nie je možné, Klemo, príde za tebou. To bola studená sprcha   na rektorovú hlavu.
+    </tei:p>
+    <tei:p>
+     — Tak idem, prídem hneď! Povedz biskupovi, že som v kostole.
+    </tei:p>
+    <tei:p>
+     Spovedelník sa potuteľne usmial a odišiel.
+    </tei:p>
+    <tei:p>
+     Biskup bol netrpezlivý. To sa mu ešte za jeho úradovania   neprihodilo, aby on, jeho osvietenosť, musela čakať tak dlhú dobu na   podriadeného. Jeho pobočníci čítali noviny, ktoré pertraktovaly   rebeliu v seminári.
+    </tei:p>
+    <tei:p>
+     Starý kanonik, osobný taj omník a poradca biskupov, už aspoň sto   razy zopakoval: To je hrozné, priamo nemožné!
+    </tei:p>
+    <tei:p>
+     Konečne prišiel rektor. Bol nevyspatý, bledý. Triasol sa ako   osika, na celom tele, keď predstúpil pred biskupa.
+    </tei:p>
+    <tei:p>
+     — Laudetur Jesus Christus — pozdravil pokorne rektor a chcel   pobozkať biskupovi ruku. Biskup učinil odmietavý posunok.
+    </tei:p>
+    <tei:p>
+     — Iďte a svolajte consilium! — zavelil biskup. — K pokorným   službám, vaša osvietenosť.
+    </tei:p>
+    <tei:p>
+     Rektor odbehol do fajčiarskej siene, tam našiel všetkých   predstavených. Oznámil im účel svojho príchodu. Všetci to vzali bez   slova na vedomie a odobrali sa do pojednávacej siene.
+    </tei:p>
+    <tei:p>
+     Potom mal rektor krátke dôverné pojednávanie so Sanctissimom. A   keď od neho odchádzal, tvár mal vyjasnenú, skoro žiarivú ... Príjduc   pred dvere pojednávajúcej siene, tvár si upravil zase do vážneho,   pokorného a svätuškárskeho výrazu. Otvoril pomaly dvere a vklznul   tichým, pokorným krokom dnu.
+    </tei:p>
+    <tei:p>
+     — Laudetur Jesus Christus! — nikto mu neodpovedal. Cez jeho tvár   preletelo mračno, ale v tom samom momente bol už zase tým pobožným,   pokryteckým rektorom.
+    </tei:p>
+    <tei:p>
+     Biskup stál a ráznym hlasom žiadal vysvetlenie udiavšieho sa   škandálu, aký ešte dosiaľ v dejinách žiadneho seminára zaznamenaný   nie je.
+    </tei:p>
+    <tei:p>
+     Rektor vyprával pomaly, presvedčivé. Celú vinu složil na Janko   Klinčoka, ktorý je rodený rebelant. Vyprával veľmi dlho, odvolával sa   na svoju česť a svojho Boha, zaprisahal sa, že je-
+    </tei:p>
+    <tei:p>
+     47
+    </tei:p>
+    <tei:p>
+     ﻿diným vinníkom je ten mladík, s ktorým si nevie dať rady nikto.   Chcel ho i prepustiť, ale u klerictva je veľmi obľúbený, vedel si ich   natoľko získať, že skoro všetci hlasovali proti jeho vylúčeniu. Čo sa   však stravy týka, tá je celkom vyhovujúca, čo môže potvrdiť i sám   kuchár, eventuelne tu prítomní predstavení.
+    </tei:p>
+    <tei:p>
+     Všetci pritakli mechanicky hlavou, lebo poznali i sami rektora a   vedeli, že by to odniesli ich žalúdky a dokonca zbadali, že biskupova   tvár sa stále viac a viac vyjasnieva a hľadí už zase celkom dobrotivé   na rektora.
+    </tei:p>
+    <tei:p>
+     Rektor chcel ďalej pokračovať vo svojich vývodoch, keď chodba   zahučala volaním jeho veľadôstojnosti rektorovi na slávu: Nech žije   náš drahomilovaný rektor, nech žije náš dobrý otec!
+    </tei:p>
+    <tei:p>
+     Biskup pozrel akosi nechápavé na rektora. Je to možné? Takáto   oddanosť a včerajší škandál. Ako sa to dá slúčiť dohromady? A začal   sa plne presvedčovať o jeho nevine.
+    </tei:p>
+    <tei:p>
+     Otvorili sa na sieni dvere a so Sanctissimom na čele vhrnulo sa   dnu asi dvadsať klerikov. Rektor si trel spokojne ruky: Je to predsa   len báječný chlapík ten Sanctissimus. Ako to vedel dobre   narafičiť!
+    </tei:p>
+    <tei:p>
+     Sanctissimus vysúkal na obranu »dobrého otca, vysokorešpektovaného   vychovávateľa, starostlivého učitela« nadšenú reč, v mene celého   seminára mu vyslovil dôveru a želá si, aby ešte dlhé a dlhé roky   pôsobil a pracoval na mravnom povznesení seminára.
+    </tei:p>
+    <tei:p>
+     Biskup bol touto oddanosťou natoľko dojatý, že objal otcovsky   rektora a pobozkal ho na čele.
+    </tei:p>
+    <tei:p>
+     Sanctissima to natoľko dojalo, že sa vrhnul k rektorovým kolenám   len s tou jedinou žiadosťou, aby Ján Klinčok bol hneď prepustený zo   seminára, lebo poblúdili klerici už všetci uznali svoje previnenie a   žiadajú si, aby z ich lona bol odstránený zloduch, ktorý im našepkal   tento hriech. Nech mu v tomto osvietený pán biskup vyhovieť ráči.
+    </tei:p>
+    <tei:p>
+     Janko Klinčok bol okamžite prepustený a pánu rektorovi dostalo sa   biskupského uznania za jeho verné a svedomité plnenie povinností a za   zásluhy, získané na mravnom povznesení seminára ...
+    </tei:p>
+    <tei:p>
+     48
+    </tei:p>
+    <tei:p>
+     ﻿Janko Klinčok prepustený s okamžitou platnosťou! — nieslo sa   seminárom.
+    </tei:p>
+    <tei:p>
+     Janko sa zavrel do svojej izby. Zabalil svoje veci a chcel odísť.   Na svolanie schôdze času už nebolo. Sdelí im svoje stanovisko   písomne.
+    </tei:p>
+    <tei:p>
+     Aké bolo však jeho prekvapenie, keď ho pri bráne čakalo množstvo   klerikov. »Nech žije Janko, nech žije Klinčok!« Uchopili ho na plecia   a nosili so stálym volaním mu na slávu po dvore.
+    </tei:p>
+    <tei:p>
+     Biskup pozoroval tieto scény z okna.
+    </tei:p>
+    <tei:p>
+     Z tohoto som jeleň — poznamenal, krútiac hlavou; Jankove   prepustenie zrušil, sadnul na autiak a dal sa odviesť na   nádražie.
+    </tei:p>
+    <tei:p>
+     Rektor zanevrel úplne na Janka Klinčoka a v duchu sa zaprisahal,   že sa bude na ňom pomstiť ... pomstiť krvavo ...
+    </tei:p>
+    <tei:p>
+     Na druhý deň priniesly všetky klerikálne časopisy siahodlhé   články, v ktorých sa zprávy jednotlivých »pokrokových   protestantských« časopisov dementujú, vyhlasujú za podlú lož a   kvalifikujú ako bezcharakterný boj proti katolíckej cirkvi a jej   ustanovizniam. Na rebilii je vraj len toľko pravdy, že niekoľko   mladých klerikov súc na prechádzke i so svojím dozorcom, ktorý sluje   ako svätec a nemajúc inej možnosti zahasiť svoj smäd, zašli do   záhradného buffetu, v ktorom mimo limonády sa nič iného nepredáva,   následkom čoho zpráva, akoby sa klerici boli poopíjaii, je úplne   vymyslená. Janko Klinčok síce začal spievať a tančiť v záhrade, robil   to však len z mladistvej bujarosti a samopáše. Bol však aj pre tento   prečin náležité potrestaný a len na prímluvu a osobnú záruku jedného   vysokého štátneho hodnostára ponechaný naďalej v seminári.
+    </tei:p>
+    <tei:p>
+     Ďalej sa vyzýva celá verejnosť, aby ani slovo neverila takýmto   bezbožným muchotrávkam.
+    </tei:p>
+    <tei:p>
+     49
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VIII.
+    </tei:head>
+    <tei:p>
+     Keď svietil mesiac...
+    </tei:p>
+    <tei:p>
+     Neďaleko seminára, za striebornou riekou, ktorá laškujúc olizovala   časom, keď zavial silný vietor, massívne múry seminára, rozprestieral   sa malý hájik.
+    </tei:p>
+    <tei:p>
+     Klerici pod dozorom svojich anjelov strážcov často chodili do jeho   lona a žalovali tam svoje krivdy a svoje bolesti. Veď les všetko   očuje a nič nevyzradí! Janko Klinčok nie jeden raz sa vyšplhal na   strom a vo svojej mladistvej bujarosti visel medzi nebom a zemou. Nad   ním voľnosť, pod ním priepasť. Tak dobre sa tu cítieval. Márny bol   krik anjelov strážcov, márne volanie. Neposlúchol. Robil kotrmelce,   akrobatické kúsky a smial sa na celé kolo, keď niektorý zhýkol a bál   sa o jeho život.
+    </tei:p>
+    <tei:p>
+     Nieto preto divu, že zatúžil za týmto lesíkom, že sa chcel aspoň   raz cítiť voľne, bez dozoru a krivých pohľadov.
+    </tei:p>
+    <tei:p>
+     S mladým domácim dievčatkom si ushovorili v tomto lesíku   schôdzku.
+    </tei:p>
+    <tei:p>
+     Slnce klonilo svoju hlávku za hory a zlatým pelom olemovalo zelený   lesík.
+    </tei:p>
+    <tei:p>
+     Janko leží pod košatým stromom na znak. Hľadí, díva sa ‘i   nerozmýšľa. Tak dobre mu je tu ležať vo sladkom očakávaní. Veď zaiste   príde to malé, čiperné dievčatko. Musí prísť.
+    </tei:p>
+    <tei:p>
+     Slniečko zapadlo za hory.
+    </tei:p>
+    <tei:p>
+     50
+    </tei:p>
+    <tei:p>
+     ﻿Janko leží ešte stále spokojne. Zdá sa, že celú pozornosť   sústredil na šum lístia, s ktorým si poihráva jemný severný vetrík.   Bola to jemná hudba, ktorá ho chytala za srdce a unášala kamsi   ďaleko... veľmi ďaleko, kde nieto podlosti, kde sa nepáchajú krivdy,   ako tu ...
+    </tei:p>
+    <tei:p>
+     — Jej! Ale som vás našla — zavznel dievčí hlások za jeho   chrbátom.
+    </tei:p>
+    <tei:p>
+     — To ste vy ? Prišla ste ?! Nože si sadnite!
+    </tei:p>
+    <tei:p>
+     Dievčatko sa akosi začerveňalo. Jankova otvorenosť ju prekvapila.   Veď sa ešte ani dobre nepredstavili a už je k nej taký dôverný. Ako   že k tomu príde. Bola by mala sto chutí obrátiť sa a nechať tu tohoto   galgana. Nedivme sa. Veď tak hlúpo vychovávajú naše mamičky svoje   dcérky.
+    </tei:p>
+    <tei:p>
+     Janko sa usmieval... stále usmieval akosi filigrantsky, sťa by bol   úplne nahliadnul do jej mladej duše a videl boj, odohrávajúci sa   vnej. Veď si ona sadne a ani sa nehnul.
+    </tei:p>
+    <tei:p>
+     — Ale poďme sa radšej prechádzať — nadhodilo dievča po dlhej   chvíli.
+    </tei:p>
+    <tei:p>
+     — Jedno arabské porekadlo hovorí, že lepšie je sedieť ako stáť a   lepšie ležať ako sedieť. Ja myslím, že toto porekadlo má úplne   pravdu. A vy? — žartoval Janko.
+    </tei:p>
+    <tei:p>
+     — Vy ste taký akýsi — chcela snáď Janka trochu pokarhať, ale jej   nenapadol priliehavý výraz a zásady jej dosavádnej výchovy začaly sa   akosi kolísať pod dojmom Jankovej otvorenosti.
+    </tei:p>
+    <tei:p>
+     — Ale veď už dlho neváhajte. Tak dobre sa tu sedí. Zkúste to.
+    </tei:p>
+    <tei:p>
+     Dievčatko sa k nemu priblížilo, Janko sa trochu pozdvihol, uchopil   ju za rúčku a stiahol k sebe.
+    </tei:p>
+    <tei:p>
+     — Vy ste ... ale čo ja viem! — koktalo dievčatko, sťahujúc na   svoje kolienká krátku sukienku.
+    </tei:p>
+    <tei:p>
+     — Akýže som ? Pravda, hodne drzý a nevychovaný! Ale nech ma   omluví, že som klerikom a v seminári nás neučia bonton. To viete,   napchajú nám hlavu všelijakými svätými a sväticami, všelijak hlúpou   vedou, až nás od toho bruchá rozbolia a nič viac. Myslím, že mi moje   drzé chovanie odpustíte a nebudete sa na mňa viac hnevať. Pravda nie,   Anička zlatá?
+    </tei:p>
+    <tei:p>
+     — Ja nie som žiadna Anička, ja som Hela a nie som ani zlatá.
+    </tei:p>
+    <tei:p>
+     51
+    </tei:p>
+    <tei:p>
+     ﻿— Nuž teda Helenka drahá ... — Tak nesmiete so mnou rozprávať.   Keby vás tak moja mamička počula, to by ste ale mali pohon ...
+    </tei:p>
+    <tei:p>
+     — Hej a keby vás tak mamička videla večer v lese s mladým   klerikom, to by bol ale pohon. Helenka sa zapírila až po uši. To je   mnoho! Ona si toho Janka celkom ináč predstavovala.
+    </tei:p>
+    <tei:p>
+     — Pusťte ma, ja idem! —
+    </tei:p>
+    <tei:p>
+     — Ba, akého paroma, snáď na to sme si dali rande, aby sme sa   pohnevali a rozišli?
+    </tei:p>
+    <tei:p>
+     — Nuž, keď ste vy taký... durdila sa Helenka.
+    </tei:p>
+    <tei:p>
+     — Ja som len taký-onaký. Taký malý kleriček! A nič viac. Ale,   navrhujem, aby sme sa udobrili.
+    </tei:p>
+    <tei:p>
+     Chopil jej malú ručičku do svojej a vrele ju stisnul.
+    </tei:p>
+    <tei:p>
+     Oči dievčatka zažiarily akýmsi zvláštnym ohňom. Zabúdla odtiahnuť   svoju ručičku z Jankovej. Jej mladým nevinným tielkom prešlo akési   príjemné teplo, čosi ju zašteklilo v hrudi.
+    </tei:p>
+    <tei:p>
+     Pozrela na Janka dôvernejšie, pritúlila sa k nemu bližšie a v   tejto chvíli zabudla na jeho drzé chovanie. Zdalo sa jej, že ho,   snáď, urazila.
+    </tei:p>
+    <tei:p>
+     — No a nehneváte sa na mňa? — Prečo, Helenka moja.
+    </tei:p>
+    <tei:p>
+     — Nuže, keď som tak vyprávala s vami.
+    </tei:p>
+    <tei:p>
+     — Ako? Tak, ako vás maminka naučila. Vy zato nemô/ žete. Nuž a   dokonca sa to aj tak sluší.
+    </tei:p>
+    <tei:p>
+     — Veď vy ste celkom múdry chlapec. Iný by sa už bol nadúril.
+    </tei:p>
+    <tei:p>
+     — No a snáď aj na vás by sa mohol ešte niekto nahnevať?
+    </tei:p>
+    <tei:p>
+     Helenka nepovedala ani slova. V jej mladej duši začaly sa rachotom   otvárať brány nových perspektív, nové túhy, nové žiadosti raziiy si   cestu v jej srdiečku.
+    </tei:p>
+    <tei:p>
+     Slnce už dávno zapadlo za hory. V korunách stromov začal si nôtiť   jemný vetrík akúsi sladkú melódiu. Podvečer nás vždy sentimentálne   naladí.
+    </tei:p>
+    <tei:p>
+     Dlho sedeli mlčky pod košatým stromom. Večerné šero hustlo, lepilo   sa na zelené stromy a lesík plnilo tajomným nádychom radostných   predtúch niečoho veľkého, čo musí prísť.
+    </tei:p>
+    <tei:p>
+     52
+    </tei:p>
+    <tei:p>
+     ﻿Rozcítil sa i Janko. A v blízkosti mladého, nevinného a pekného   dievčatka seminár utekal kamsi ďaleko, letel závratne a šialene.   Nikdy sa mu tak nehnusil ešte ako dnes.
+    </tei:p>
+    <tei:p>
+     — Ja by som sa vás chcela niečo opýtať — prerušila dlhé mlčanie   Helenka.
+    </tei:p>
+    <tei:p>
+     — Len sa pýtajte, ja budem odpovedať. Vy buďte učiteľkou a ja   vaším malým poslušným žiačikom.
+    </tei:p>
+    <tei:p>
+     — Ale celkom bez žartu.
+    </tei:p>
+    <tei:p>
+     — Veď sa len podívajte na mňa. Snáď som ešte nikdy nebol takým   vážnym, ako dnes. Vy ste ma akosi očarovala.
+    </tei:p>
+    <tei:p>
+     — Povedzte mi, Janko, prečo ste vy klerikom. Ani neviete, aká vás   je ohromne veľká škoda.
+    </tei:p>
+    <tei:p>
+     — Helenka, keby som vám o tom začal vyprávať, nedokončil by som   ani do rána. No a prečo to máte vy vedieť?
+    </tei:p>
+    <tei:p>
+     Helenka pozrela na Janka s akýmsi bôľom, s akousi výčitkou v   jasnom očku.
+    </tei:p>
+    <tei:p>
+     — Chcela by som to vedieť. Povedzte mi to.
+    </tei:p>
+    <tei:p>
+     Janko pozrel najprv akosi skúmavo na Helenku. Usmiala sa naňho a   pritúlila sa k nemu bližšie. V Jankovej duši sa všetko rozpútalo,   rozcítilo a hnalo sa divokým orkánom do jeho modzgu, rozpálilo jeho   srdce, rozprúdilo krv. Jeh ľavá ruka sa dotkla Helenkiných hebkých   vlasov.
+    </tei:p>
+    <tei:p>
+     — Helenka! — vykríknul rozcitene a sovrel tuho jej mladé, štihlé   tielko do svojho náručia. — Helenka, veď ja nie som ani klerikom.   Helenka, veď reverenda ešte nerobí klerikov. Nosím reverendu, lebo   som chudobný a chcem študovať, ináč by som nebol mohol   doštudovať.
+    </tei:p>
+    <tei:p>
+     Mladé dievča privrelo oči a oddávalo sa bezmocne slastiam, ktoré   plynuly veľkým prúdom z Jankovho objatia.
+    </tei:p>
+    <tei:p>
+     — Janíčko, Janko!
+    </tei:p>
+    <tei:p>
+     — Helenka! — A ozvenou týchto dvoch mien bol dlhý... dlhý bozk. V   ich bozku splynuly ich mladistvé duše vo veľkú hymnu sladkých   roztúžení.
+    </tei:p>
+    <tei:p>
+     Noc rozprestrela svoje krýdla nad zeleným lesíkom a mesiac sa   láskyplne usmial na dve mladé bytosti, ktoré ešte v živote nemilovaly   a dnes vzplanuly ohňom čistej a nepokalenej lásky.
+    </tei:p>
+    <tei:p>
+     — A, Janko, vy nezostanete klerikom?
+    </tei:p>
+    <tei:p>
+     53
+    </tei:p>
+    <tei:p>
+     ﻿— Nie, Helenka moja, po maturite zahodím reverendu. — A potom?
+    </tei:p>
+    <tei:p>
+     — Potom, potom, neviem, Helenka. Snáď sa stanem voľakde úradníkom   alebo začnem študovať na vysokej škole.
+    </tei:p>
+    <tei:p>
+     — Ani potom nezabudnete na mňa, pravda, Janíčko môj ? — Na vás   nikdy, nikdy, Helenka moja — a svoje slová spe-
+    </tei:p>
+    <tei:p>
+     čatil dlhým bozkom.
+    </tei:p>
+    <tei:p>
+     — Ani ja, ani ja nikdy!
+    </tei:p>
+    <tei:p>
+     Na cestu vrhal mesiac plné hrste striebra ... Išli do mesta.   Uveličení. Kľudní, plní nádejí a ružových
+    </tei:p>
+    <tei:p>
+     A práve v tomto čase, keď mesiac tak štedre sypal na cestu dvoch   mladých sŕdc striebro, v meste v budoári rozpustilej dámy pobožný   Jožko Jasný oddával sa hriešnej láske a zabudol, že na svete jestvuje   i láska čistá, akou začal milovať bezbožník — Janko Klinčok ...
+    </tei:p>
+    <tei:p>
+     54
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IX.
+    </tei:head>
+    <tei:p>
+     Inkvizícia
+    </tei:p>
+    <tei:p>
+     Janko Klinčok začal milovať a láska robí zázraky. Zdalo sa, že   Janko Klinčok sa úplne premenil, často ho videli jeho kolegovia   zadúmaného, zamysleného. Mimo Ivana Zuba nikomu sa neprezradil so   svojou tajnosťou, žil úplne sebe a svojej láske. A bol nadmieru   šťastný. Stretával sa často so svojím dievčatkom, každé stretnutie   prehĺbilo ešte viac ich lásku a snili o budúcom blahé tichučký,   beznáročný sen ...
+    </tei:p>
+    <tei:p>
+     Rektor zpočiatku nevedel chápať túto premenu. Nechcel ju   pochopiť.
+    </tei:p>
+    <tei:p>
+     Pomsta, ktorá v rektorovej duši dozrela, hlásila sa o svoje práva.   Dlho rozmýšľal nad jej prevedením. Konečne sa rozhodnul.
+    </tei:p>
+    <tei:p>
+     Dnes, po večerných modlitbách, zavolal k sebe Sanctissima a jeho   najvernejšieho priateľa. Ondreja Dumého.
+    </tei:p>
+    <tei:p>
+     Radili sa dlho do noci a keď dvaja zloduchovia opúšťali rektorovú   izbu, mali čierny lesk v očiach a hnusnú tmu v duši... Prisahali na   ukrižovaného a na svoje zdravie ...!
+    </tei:p>
+    <tei:p>
+     Noc hýrila jasom. Janko pohvizdujúc si akúsi melodickú áriu,   kráčal cez kvetistú záhradu k vysokému múru, za ktorým čakala naňho   mladá, nevinná Helenka s roztúženým mladým srdiečkom.
+    </tei:p>
+    <tei:p>
+     55
+    </tei:p>
+    <tei:p>
+     ﻿Janko došiel k stene a chcel ju preskočiť.
+    </tei:p>
+    <tei:p>
+     Vtedy ho uchopily štyri mocné ruky, zapchaly mu ústa a celého   zabalily do čiernej plachty.
+    </tei:p>
+    <tei:p>
+     Bol odzbrojený, bezmocný.
+    </tei:p>
+    <tei:p>
+     Spamätal sa celkom až v tmavej pivničnej komôrke.
+    </tei:p>
+    <tei:p>
+     Pochopil všetko. Je zavretý a odsúdený k pomalému zomieraniu.
+    </tei:p>
+    <tei:p>
+     Komôrka bola tmavá a zapáchala pliesňou. Opanovala ho hrúza.   Hrozné! Je zaživa pochovaný!
+    </tei:p>
+    <tei:p>
+     Začal kričať a mocne búšil do massívnych dverí. Srútil sa na zem   bez vlády, vyčerpaný úplne. Pomoci nieto!
+    </tei:p>
+    <tei:p>
+     Rúval svoje kučeravé vlasy a tĺkol o tvrdú dlážku.
+    </tei:p>
+    <tei:p>
+     Príšerné ticho. Hrozná tma. A Janko Klinčok usnul na tvrdej dlážke   skrvavenými údami a speniacimi ústami.
+    </tei:p>
+    <tei:p>
+     Vonku pod stenou čakalo na svojho milovaného Janíčka dobré a   nevinné dievčatko.
+    </tei:p>
+    <tei:p>
+     Janko neprišiel, neprichádzal.
+    </tei:p>
+    <tei:p>
+     A Helenka odišla medzi svoje biele perinky, ktoré máčala nevinnými   slzami prvého sklamania... Nad ránom usnula tvrdým spánkom a   vychádzajúce slnce sfarbilo na červeno jej bledú utrápenú tváričku   ... Janko sa vzbudil pred poludním.
+    </tei:p>
+    <tei:p>
+     Hrozné prebudenie! Pomsta!
+    </tei:p>
+    <tei:p>
+     V seminári tiekol život ďalej obvyklým tokom. Sanctissimus chválil   i naďalej so sopiatymi rukami pánbožka pred oltárom a sa zdalo, že od   istej doby je ešte o mnoho pobožnej ši, ak býval. Rektor ho   vyznamenával ešte väčšou priazňou, ako kedysi. Len Ondrej Durný sa   zdal byť akýmsi neobyčajne zasmušilým, zádumčivým a kde len mohol   vyhýbal rektorovi a Sanctissimovi. Trápilo ho svedomie, hrýzlo a   mučilo strašné povedomie.
+    </tei:p>
+    <tei:p>
+     O Jankovi sa vydalo úradné komuniké, že utiekol zo seminára a   nieto po ňom žiadnej stopy. Pravdepodobne, vraj, spáchal samovraždu,   lebo dľa svedectva celého seminára v poslednej dobe bolo na ňom badať   veľké duševné deprimovanie a neobvyklú zádumčivosť.
+    </tei:p>
+    <tei:p>
+     56
+    </tei:p>
+    <tei:p>
+     ﻿Záležitosť bola úradne vybavená a Janko Klinčok zmieral v tmavej   pivničnej komôrke.
+    </tei:p>
+    <tei:p>
+     Darmo čakala naňho Helenka. Neprichádzal. Nedával o sebe vedieť. A   v jej mladej duši začaly sa rodiť hrozné predtuchy, ktoré len   kedy-tedy pretkal slabý lúč bledej nádeje... Bola silná. Nezúfala.   Veď nie je možné, aby jej Janko zostal neverným. Veď bol vždy taký   dobrý, úprimný a oddaný.
+    </tei:p>
+    <tei:p>
+     Verila v jeho návrat. Verila v moc lásky. Verila, že sa ešte   uvidia a budú šťastní.
+    </tei:p>
+    <tei:p>
+     A začala rozmýšľať, kombinovať vo svojej mladej mysli.
+    </tei:p>
+    <tei:p>
+     Často sa jej zjavil rektor, často videla v duchu Sanctissima. A po   dlhej dobe uzrelo v nej skalopevné presvedčenie, že vinníkom sú títo   dvaja.
+    </tei:p>
+    <tei:p>
+     Musí, musí sa niečo dozvedieť trebárs i za cenu veľkých obetí,   trebárs i za cenu svojho mladého života. Veď bez Janka svoj život si   ani predstaviť nevie!...
+    </tei:p>
+    <tei:p>
+     Janko Klinčok po prvých záchvatoch celkom prirodzenej zúrivosti a   po prestatí hrozných múk upadol v akúsi apátiu, v akýsi stav mučivej   duševnej letargie. Presedel celé hodiny, dívajúc sa vyjavené na jeden   bod.
+    </tei:p>
+    <tei:p>
+     Schudnul a sblednul úplne. Bol len kosť a koža.
+    </tei:p>
+    <tei:p>
+     Už od pár dni nejedol nič. A kým rektor so Sanctissimom, spiati od   doby tohoto hrozné-
+    </tei:p>
+    <tei:p>
+     ho činu akýmsi zvláštnejším priateľstvom, smiali sa na celé kolo a   popíjali si drahý francúzsky likér v rektorovej izbe, Janko Klinčok   zmorený hladom, duševnými útrapami a horúcou túžbou za svojou milou   Helenkou žiadal si smrť.
+    </tei:p>
+    <tei:p>
+     žil jedine len svojmu dievčatku v tejto tmavej, hroznej komôrke a   nebyť Helenky, už dávno by bol praštil svoju hlavu do massívnej steny   a rozbil ju na sto krvavých kusov.
+    </tei:p>
+    <tei:p>
+     Zajagal i jemu častú lúč nádeje — Helenka!
+    </tei:p>
+    <tei:p>
+     Veď láska tvorí divy, veď láska je mocnejšia ako smrť. A pomaly   začal i on veriť v moc lásky.
+    </tei:p>
+    <tei:p>
+     Dnes usnul akosi kľudnejšie.
+    </tei:p>
+    <tei:p>
+     Hej! Nádeje, nádeje!
+    </tei:p>
+    <tei:p>
+     57
+    </tei:p>
+    <tei:p>
+     ﻿Časom sa ozval v rektorovi hlas svedomia. Búšil mocne na jeho   zatvrdilé srdce, ale rektor nenašiel žiadneho východiska. Pomsta bola   sladká, dobrá... Nech si potrpí, nech sa kája. Ale, ako nájsť konečné   rozriešenie tejto zavyklanej histórie. Smrť? Nie! Natoľko ešte   neklesol. To nie je možné! Veď konečne by mohla byť celá vec   vyjasnená a on by bol zničený. Vedel ,že dnešná moderná technika   polície vypátra každý zločin prv či pozdejšie. Keby vedel len sám o   tejto hnusnej tajnosti, snáď by to dajako zaretušoval. Sú tu však   ešte dvaja ľudia mimo neho. A ľudia krechkí, slabí! Uznal, že spáchal   hlúposť, ale ako ju napraviť?
+    </tei:p>
+    <tei:p>
+     Zjavil sa mu v duchu Jankov otec, ktorý tak hrozne pozeral naňho.   Pocítil ešte i teraz blesky jeho očú, očul jeho prísny hlas.
+    </tei:p>
+    <tei:p>
+     Striasol sa a dal si zavolať Sanctissima.
+    </tei:p>
+    <tei:p>
+     Radili sa veľmi dlho. Asi po dvoch hodinách sobrali sa pod plášťom   čiernej noci tichučko do tmavej komôrky, kde zmieral hladom a   vyčerpaním Janko Klinčok, dobrý chlapec. Sanctissimus niesol malý   balíček s jedlom a veľkú fľašu dobrého likéru...
+    </tei:p>
+    <tei:p>
+     58
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿X.
+    </tei:head>
+    <tei:p>
+     Záhada ženskej duše
+    </tei:p>
+    <tei:p>
+     Veľké vlnobitie, ktoré sa rozpútalo v mladom srdci Helenkinom,   pomaly utíchlo. Helenka sa ukľudnila a dozrievala v silnú ženu, ktorá   je hotová skôr obetovať sa, ako zúfať nad nešťastím, ktoré ju strhlo   na tŕnistej ceste života.
+    </tei:p>
+    <tei:p>
+     žena, žena milujúca je schopnejšia vždy väčších obetí ako muž.   Nikdy neztratí tak rýchle hlavu ako muž!
+    </tei:p>
+    <tei:p>
+     Helenka Dembinská prešla cez všetky laze psychologického prerodu,   počnúc pokusmi samovraždy až na úplné vyrovnanie svojho duševného   sveta s odohravšou sa udalosťou. Teraz je paniou svojej vôle a   svojich citov.
+    </tei:p>
+    <tei:p>
+     Akási náhoda ju sviedla s Ivanom Zubom a od tej doby spoločne   začali pracovať nad Jankovou záchranou.
+    </tei:p>
+    <tei:p>
+     Shodli sa v tom, že Janko sa stal obeťou rektorovej pomsty a dlho   debatovali o možnostiach jeho záchrany. Neusniesli sa však na ničom   konkrétnom, lebo nevedeli nájsť východného bodu, na ktorý by sa vo   svojich prácach mohli pevne oprieť.
+    </tei:p>
+    <tei:p>
+     Otázku rozriešila svojím ženským, na všetko reagujúcim inštinktom   sama Helenka.
+    </tei:p>
+    <tei:p>
+     Pobožnému Sanctissimovi napadlo viac razy, idúc z kostola,
+    </tei:p>
+    <tei:p>
+     59
+    </tei:p>
+    <tei:p>
+     ﻿že jedno mladé dievča, ktoré od istej doby chodieva na ich   pobožností, vyznamenáva jeho skromnú osobu akousi zvláštnejšou   priazňou.
+    </tei:p>
+    <tei:p>
+     Bolo pekné, mladé. Zavše sa naňho usmialo. Mal dojem, že sa jej   páči. A od tej doby začal akosi viac dbať na svoj zovňajšok, holieval   sa denne a vlasy si vždy pečlive začesal.
+    </tei:p>
+    <tei:p>
+     Túha po žene, ktorá sa v ňom tak často rodievala, začala nabi erať   v jeho duši konkrétnych foriem a čoskoro horel nedočkavosťou, aby sa   mohol s ňou stretnúť sám osobne.
+    </tei:p>
+    <tei:p>
+     Mladé dievča so dňa na deň z hodiny na hodinu vtieralo sa hlbšie a   hlbšie do jeho srdca a nie jeden raz sa pristihnul i pred samým   oltárom, že miesto toho, aby myslel na všemohúenosť božiu, kochá sa v   milom obrázku mladého dievčaťa.
+    </tei:p>
+    <tei:p>
+     Konečne sa stretnul s ňou podvečer pred bránou. Opanovala ho mocná   túha uchopiť ju okolo štihlého drieku, zavliecť ju niekde na opustené   miesto a zmocniť sa jej celej.
+    </tei:p>
+    <tei:p>
+     Usmiala sa naňho svodne, koketne a tak vábivo. Sanctissimovi   vrazila celá krv do hlavy.
+    </tei:p>
+    <tei:p>
+     — Slečna, mohol by som s vami hovoriť? — oslovil ju, pozerajúc sa   na všetky strany, či ho niekto nepozoruje.
+    </tei:p>
+    <tei:p>
+     — Ale áno! Ako sa teším. Veď už skoro týždeň túžim za tým   okamihom, aby som mohla byť s vami o samote — prerieklo dievčatko   maskovanou koketériou a usmialo sa ešte svodnejšie naňho, ako pred   tým.
+    </tei:p>
+    <tei:p>
+     — Tak idzte na breh rieky pod ten topoľ, ja prídem celkom určite   za vami — preriekol nervózne, ušklebil sa na ňu a pobral sa do svojej   celly.
+    </tei:p>
+    <tei:p>
+     Dievčatkovou tvárou preletel akýsi víťazoslávny úsmev, pozrela na   Sanctissima túžobne (jemu sa aspoň tak zdalo) a spevavým krokom   odchádzala na označené miesto. Jej, ešte pred chvíľkou usmievavá tvár   hneď zvážnela a smejúce sa oči zahalila hmla ťažkých starostí a   duševného boja.
+    </tei:p>
+    <tei:p>
+     Sanctissimus sa preobliekol do civilných šiat, naplnil si vrecko   cigaretami, vyčesal sa na hladko a zadnými dverami, sťa zlodej,   vykĺzol zo seminára.
+    </tei:p>
+    <tei:p>
+     Tak dávno túžil za ženou. Jeho túha sa plní, čoskoro vyplní v   plnej miere.
+    </tei:p>
+    <tei:p>
+     60
+    </tei:p>
+    <tei:p>
+     ﻿Stretli sa. Sanetissimus, ako sa na gavaliera patrí, bozkal   mladému dievčatku ruku, zapálil si cigaretku a nabídnul jej, aby sa   išli prejsť do malého lesíka.
+    </tei:p>
+    <tei:p>
+     — Veď noc taká krásna je. Vrhnime sa do jej náručia 5 buďme   šťastní, — dokončil svoj naštudovaný preslov.
+    </tei:p>
+    <tei:p>
+     Dievčatko neodpovedalo. — Poďme!
+    </tei:p>
+    <tei:p>
+     Lesík ich prijal tichučko.
+    </tei:p>
+    <tei:p>
+     Noc bola jasná, lesík mysticko popoľavý. Konáre stromov nahýňaly   sa k sebe a zdalo sa, že si o niečom šepcú. O niečom tajomnom a   rozkošnom, o akýchsi dávnych sladkých rozpomienkach. Dievčatko bolo   zadúmané, roztúžené. Sanetissimus to považoval za dobré znamenie a   navrhol, aby si sadli.
+    </tei:p>
+    <tei:p>
+     Dievča učinilo tak bez slova. Sanetissimus sadol si vedľa nej.   Planul, horel po jej mladom tele.
+    </tei:p>
+    <tei:p>
+     Usmievala sa naňho stále svodne a mnohosľubne,
+    </tei:p>
+    <tei:p>
+     Každý jej úsmev bol núkajúcim gestom: »Tu som, vezmi si ma, som   tvojou!« —
+    </tei:p>
+    <tei:p>
+     Sanetissimus nevedel panovať nad sebou. Uchopil ju okoio pása.   Jeho ruky sa triasly a ústa šeptaly horúčkovité slová.
+    </tei:p>
+    <tei:p>
+     — Musíte, musíte byť moja! —
+    </tei:p>
+    <tei:p>
+     Každý jeho nerv, každá buňka jeho rozpálenej krvi kričala a   žadonila po jej kyprom tielku.
+    </tei:p>
+    <tei:p>
+     — Musíte! Musíte byť za každú cenu! — syčal škripajúc zubami a   tisnul ju stále silnejšie a silnejšie k sebe.
+    </tei:p>
+    <tei:p>
+     Dievčatko bolo chladné. Prijímalo len akosi z nútenosti bláznivé   výbuchy Sanctissima.
+    </tei:p>
+    <tei:p>
+     Jeho ústa hľadaly jej malinové pery. Tu ho dievča prudko odsotilo   a skočilo na rovné nohy.
+    </tei:p>
+    <tei:p>
+     — Ešte nie! Ešte nie! Na to máme dosť času — preriekla, usmievajúc   sa stále svodne.
+    </tei:p>
+    <tei:p>
+     Santissimus hľadel na ňu nechápavé, čo to má znamenať? Veď ho ona   sama zvábila.
+    </tei:p>
+    <tei:p>
+     — Dám vám, čo si len prajete! — hovoril Sanetissimus lámavé.
+    </tei:p>
+    <tei:p>
+     — Zajtra! Uvidíme sa na tomto istom mieste o takomto čase, —   prerieklo mladé dievča a odišlo spevavým krokom.
+    </tei:p>
+    <tei:p>
+     61
+    </tei:p>
+    <tei:p>
+     ﻿Sanctissimus hladel dlho za ňou a čím sa viac vzďalovala, tým   mocnejšou bola jeho túho po nej.
+    </tei:p>
+    <tei:p>
+     Musí a musí ju mať za každú cenu!
+    </tei:p>
+    <tei:p>
+     Keď sa nad ránom vracal do seminára, zaumienil si, že i za cenu   tých najväčších obetí musí ju získať.
+    </tei:p>
+    <tei:p>
+     Prijduc do svojej izby, rozvalil sa na chvíľu na nedostlané lôžko,   čoskoro sa však spamätal, preobliekol sa do reverendy a aj dnes, ako   vždycky, bol prvý v kostole pred oltárom.
+    </tei:p>
+    <tei:p>
+     V očiach niektorých mladých, nezkúsenych klerikov bol i naďalej   svätcom...
+    </tei:p>
+    <tei:p>
+     Janko Klinčok ešte ani teraz neztratil nádeje. Hoci jeho telo bolo   zničené, hoci sa mu rektor pri poslednej návšteve zaprisahal, že ho   nechá zhynúť ako všivavého psa, predsa nezúfal, čakal, čakal   trpezlivé. Jesť mu dávali práve len toľko, aby neumrel hladom. Fľašu   likéru, ktorú mu nedávno priniesol Sanctissimus, aby ho získal   napísať dopis vo smysle, že prosí za odpustenie od pana rektora a že   ľutuje svojho činu — praštil o tvrdú zem a žuje stále kúsky suchého   chleba, ktorý zapíja ustatou, shnilou vodou.
+    </tei:p>
+    <tei:p>
+     Rektor učinil ešte jeden pokus.
+    </tei:p>
+    <tei:p>
+     Zašiel si k nemu sám. Mal usmievavú, dobrácku tvár.
+    </tei:p>
+    <tei:p>
+     — Podívaj sa, Janko, — začal otcovským hlasom svoje námluvy —   tvoje vzdorovanie ti beztak nepomôže. A zahubiť, hoci by som ťa mohol   bez každej ťažkosti, ešte ťa nechcem. Si mladý, pekne urastený. Máš   možnosť uplatniť sa v živote. Napíš mi ten dopis. Veď uznaj, musím   byť i ja niečím krytý. Veď nie je možné, aby si ma nevyzradil. A ja   som vtedy zničený.
+    </tei:p>
+    <tei:p>
+     Janko počúval apaticky jeho slová. Bez poznámky.
+    </tei:p>
+    <tei:p>
+     Rektor pokračoval ďalej: Umožním ti existenciu vo svete. —
+    </tei:p>
+    <tei:p>
+     Siahol do vrecka a vytiahol veľký chumáč bankoviek.
+    </tei:p>
+    <tei:p>
+     — Dám ti to všetko. Len mi napíš pár riadkov. Tu máš tušku a pero.   Píš!
+    </tei:p>
+    <tei:p>
+     V Jankovi sa vzbúrila krv. Vzpriamil sa. Pozrel divoko na rektora   a vrhnul do jeho tváre kus chrachotiny.
+    </tei:p>
+    <tei:p>
+     — Tristo hromov, ty pankhart — zavrešťal rektor, uchopil Janka za   krk a praštil ho divoko o zem.
+    </tei:p>
+    <tei:p>
+     62
+    </tei:p>
+    <tei:p>
+     ﻿— Zhyň, ty naničhodník — a kopal ho besne, kam len zasia-
+    </tei:p>
+    <tei:p>
+     hol.
+    </tei:p>
+    <tei:p>
+     Janko ani nemuknul. Najradšej by bol zavraždil v tejto chvíli túto   divokú šelmu, ale sily mu vypovedaly. Ostal ležať bezvládne,   polomrtvý na studenej zemi so zakrvavenými údami.
+    </tei:p>
+    <tei:p>
+     Rektor sa hodnú chvíľu kochal akosi sadisticky v jeho mukách.   Kopnul ho ešte raz a odišiel strmým krokom.
+    </tei:p>
+    <tei:p>
+     Jankov osud bol týmto zo stránky rektorovej spečatený.
+    </tei:p>
+    <tei:p>
+     — Zhyň, zhyň, ty naničhodník! — opakoval akosi mechanicky idúc po   tmavých chodbách do svojej izby...
+    </tei:p>
+    <tei:p>
+     Sanctissimus sa zase stretol s mladým neznámym dievčatkom.   Pochodil tak isto, ako predtým. Dievča jeho týhy vystupňovalo až do   najvyššej miery a keď sa mu zdálo, že dosiahol svojho cieľu, zase ho   prudko odsotilo a utieklo. Z dialky mu zakývalo a zakričalo: »0 tri   dni v hotelu »Amerika«, číslo izby 36.«
+    </tei:p>
+    <tei:p>
+     — Konečne! — vydýchnul si Sanctissimus a čakal horúčkovité deň,   keď sa bude môcť zmocniť mladého dievčatka.
+    </tei:p>
+    <tei:p>
+     Do seminára zavítaly tri dámičky. Elegantné, vyzývavé.   Našminkované a hodne ... hodne napúdrované.
+    </tei:p>
+    <tei:p>
+     Sanctissimus sedel vo svojej izbičke, zabudol isť do kaplnky, ako   to inokedy robieval. Ostatní klerici boli shromáždení v záhrade.   Dámičky zamierily smelým krokom k nim. Bolo na nich badať, že hľadajú   niekoho. Obzrely si dôkladne každého. Medzi tým niektorí, poznavší v   nich svoje dámičky z nočnej exkurzie, zmizli zo záhrady, sťa by ich   bola zem pohltila. Dámičky dopytovaly sa na takých a onakých   mladíkov. Jeden mal byť brunet, druhý červený, tretí bledý, štvrtý   mal mať dlhé kučeravé vlasy atď.
+    </tei:p>
+    <tei:p>
+     — A vôbec všetci boli zelení! — zasmial sa Ďurko Janičársky jednej   do očú.
+    </tei:p>
+    <tei:p>
+     — Ľahko je vám, ale kto nám zaplatí za našu ťažkú prácu? —   vzdychla si bolestne najstaršia z nich.
+    </tei:p>
+    <tei:p>
+     Ďurko Janičarsky ím šibalsky poradil, aby sa vo svojej bolestnej   záležitosti obrátily na pána rektora, ten, snáď, bude mať pre ne   trochu pochopenia v dnešnej ťažkej hospodárskej kríze a naznačil im   cestu k rektorovi..
+    </tei:p>
+    <tei:p>
+     63
+    </tei:p>
+    <tei:p>
+     ﻿Inkrimovaní klerici pomály povyliezali zo svojich úkrytov a stali   sa ihneď stredom záujmu. Obkľúčili ich ostatní klerici a s červenými   tvárami vypytovali sa na podrobnosti noci. Každý mal z nich tvár   skrivenú do veľkého otáznika. Bolo medzi nimi mnoho takých, ktorí   ešte nezažili slasti ženského objatia.
+    </tei:p>
+    <tei:p>
+     Najživšími barvami líčil svoj úpadok Paľo Kapusta, malý, zavalitý   septimán. Sotva mal osemnásť rokov.
+    </tei:p>
+    <tei:p>
+     — Chlapci, to vám bolo niečo sk/ ostného. Zdalo sa mi, že som sa   niekde stratil, zdalo sa mi, že nie som ani na zemi, čosi vo mne   prasklo a... — nemohol dokončiť, lebo sa neďaleko nich objavil, sťa   dajaký novodobý Mefisto, Sanctissimus a pozeral prísnym pohľadom po   rozjarených tvárach mladých klerikov.
+    </tei:p>
+    <tei:p>
+     Paľo Kapusta utíchol a klerici rozdeliac sa na niekoľko hlúčkov,   shovárali sa šeptom ďalej o zakázaných veciach.
+    </tei:p>
+    <tei:p>
+     Rektor pozrel akosi udivene a nechápavé na prišlé dámičky. Čoskoro   sa však spamätal.
+    </tei:p>
+    <tei:p>
+     — Čím môžem slúžiť, moje dámy? — opýtal sa a ponúkol ich   miestom.
+    </tei:p>
+    <tei:p>
+     Dámičky si usadlý akosi ostýchavé. Hoci preskácaly už veľmi mnoho   v živote, ale toto kňažské ovzdušie predsa len trochu divne pôsobilo   na ne. Ale keď rektor vytiahol z malej mahagónovej škryňky dobrý   francúzsky likér, keď jeho oko sa začalo labužnícky pásť po ich tele,   čoskoro sa vžily do svojej úlohy a najstaršia z nich, menom Rózi,   predniesla pisklavým hlasom a farebným štýlom cieľ svojej neobvyklej   návštevy.
+    </tei:p>
+    <tei:p>
+     Rektor sa zamračil a vypil na dúštek obsah kalíška.
+    </tei:p>
+    <tei:p>
+     — A neviete mená tých, s ktorými ste strávily tú noc, — opýtal sa   po dlhšej chvíli.
+    </tei:p>
+    <tei:p>
+     — Nevieme, jeden bol brunet a štihlý, druhý blonďák, trošičku   prihrblý, tretí taký pekný, červený, ostýchavý mladíček, tento aj   trochu koktal. Bol z nich najpeknejší, ale sme s ním aj najviac   vytrpely. Hrozné nám bolo s ním. Stále chcel, aby sme mu priviedly   spovedlníka, že sa musí stoj čo stoj vyspovedať zo svojho hriechu a   potom sa pôjde obesiť. Toľko sme sa ešte v živote v jednom kuse   nenasmialy. A hoci my nemáme rády farárov, z tohoto sme malý radosť.   Síce chodia i ku mne dvaja kňazi.
+    </tei:p>
+    <tei:p>
+     64
+    </tei:p>
+    <tei:p>
+     ﻿To sú tiež fešáci. Hlavne však prvotriedni gavalieri. Platia   nádherne. Keď prichádza ich deň, to sa nikdy nebojím, ako zaplatím   starej rapavej Kataríne za kvartier a za kost, — vyprávala svojim   spôsobom stará Rózi a koketne pozerala na rektora.
+    </tei:p>
+    <tei:p>
+     Rektor načúval pozorne, časom sa usmieval, časom kabonil.
+    </tei:p>
+    <tei:p>
+     — Hovoríte, že ten pekný aj tak trochu koktal? — opýtal sa, lebo   nechcel akosi veriť, že by to mohol byť Peter Kabaňovský, na ktorého   sa úplne hodil popis starej Rózy.
+    </tei:p>
+    <tei:p>
+     — Áno, áno, koktal, — potvrdila aj druhá.
+    </tei:p>
+    <tei:p>
+     Dámičky sa začaly celkom dobre cítiť. Rozložily sa komótne,   rýchlejšie vyprázdňovať kalíšky.
+    </tei:p>
+    <tei:p>
+     — Hrozné, hrozné, akí sú zkazení, — dumal rektor a začal Prehodily   j ednu nôžku cez druhú. Zvedavé oko rektora sa s úľubou túlalo po   hebkých čipkách hodvábnych nohavičiek...
+    </tei:p>
+    <tei:p>
+     Keď sa pobraly z rektorovej izby, malý vyjasnené tváre a Rózi na   chodbe poznamenala:
+    </tei:p>
+    <tei:p>
+     — Nuž veru tento rektor je ešte väčší gavalier, ako tí moji dvaja   fešáci — kňazi.
+    </tei:p>
+    <tei:p>
+     Rektor vyrovnal do haliera účet klerikov s bohatou dávkou   sprepitného »na punčochy«. Róze prikázal, aby špehovala za jeho   klerikmi a každý prípad mu ihneď hlásila, ak uvidí niektorého z jeho   klerikov.
+    </tei:p>
+    <tei:p>
+     Rózi chodievala potom často k rektorovi a jeho prekvapenie rástlo   z dňa na deň, lebo medzi hlásenými previnilcami poznával zavše tých   naj pobožnej ších a veľmi často Ondreja Dumého a Sanctissima.
+    </tei:p>
+    <tei:p>
+     Čoskoro sa presvedčil, že návštevníkmi sú z väčšej čiastky   anjelovia strážcovia a mnohí z predstavených.
+    </tei:p>
+    <tei:p>
+     Rózi sa pomály stala nepostradateľnou pre rektora a jej hmotné   pomery sa od tej doby, čo chodí k rektorovi, značne zlepšily...
+    </tei:p>
+    <tei:p>
+     65
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿XI.
+    </tei:head>
+    <tei:p>
+     Porada troch
+    </tei:p>
+    <tei:p>
+     Ivan Zub sa často stretával s mužom, s ktorým ho osud sviedol v   záhradnej reštaurácii. Bol to Ľudo Lauda, akademický maliar zvučného   mená. Rozumný, inteligentný a vážny muž. Aj on sám strávil kedysi tri   roky v seminári. Mal celkom vážne úmysle stať sa kňazom. Bral svoje   povolanie vážne a pripravoval sa všetkými danými prostriedkami na   svoj úrad. Bol pobožný a svedomitý. Seminár ho natoľko vedel omámiť   svojim dobre maskovaným svätuškárstvom, že začal silne veriť v dogmy.   Chodil denne na prijímanie a dvakrát do týždňa kľakal pred   spovedelníka, aby sa vyspovedal zo svojich domnelých hriechov.
+    </tei:p>
+    <tei:p>
+     A snáď by nikdy nebol opustil kňazskú dráhu, keby sa nebol sklamal   v tom svojom predstavenom, ktorému najviac dôveroval.
+    </tei:p>
+    <tei:p>
+     Bol to starý, šedivý, vychudlý kňaz. Celý seminár ho považoval za   svätca. Jeden z klerikov potajomky pripravoval už i jeho životopis, v   ktorom ho líčil, ako ctnostného, svätého človeka. Spis, po jeho   smrti, mal putovať do Ríma a na základe toho mal byť úradne vyhlásený   za svätca.
+    </tei:p>
+    <tei:p>
+     Lauda sedel raz zamyslený v záhrade. Bolo to v dobe duševných   cvičení. Menovaný kňaz mal práve v ten deň veľmi pôsobivú kázeň o   pekelných mukách. Všetci boli dojatí a zdrtení,
+    </tei:p>
+    <tei:p>
+     66
+    </tei:p>
+    <tei:p>
+     ﻿všetci plakali. I teraz ešte rozmýšľal nad tou kázňou. Odrázu   počuje hlasný smiech a rehotanie na celé kolo-
+    </tei:p>
+    <tei:p>
+     — To sú tí blbci, videl si ich, ako nariekali? —
+    </tei:p>
+    <tei:p>
+     Lauda poznal hlas svätého kňaza. Ešte v ten deň zahodil   reverendu
+    </tei:p>
+    <tei:p>
+     Lauda a Zub často debattovali nad problémom seminára a ushodli sa   vždy na tej mienke, že seminár pôsobí veľmi demoralizujúco nä mladé   duše. Prísna, viazaná a kontrolovaná životospráva činí z mladých   klerikov otrokov, pozbavuje ich slobodnej vôle a týmto i akejsi   potrebnej sebakontroly. Klerici stávajú sa akýmisi strojmi, lútkami v   takisto rukách svojich predstavených, ako i vo víre osudu. Nie sú v   stave samostatne rozmýšľať a podnikať, činia len to, čo im je   nedostatočnými pragmatikami seminárov predpísané, hatení sú v každom   voľnom prejave svojich myšlienok a iniciatív. Nie div, že sa vzbúri v   nich často sebavedomie, prirodzený púd hrdosti a najmä mučený a   týraný púd pohlavia.
+    </tei:p>
+    <tei:p>
+     — Dnes nežijeme v dobách stredoveku. Dnes každý človek je   nadýchaný demokratizmom a žiť chce ľudsky dľa svojho inštinktu a   kategorického imperativu doby, pokroku. Seminár je stredoveku   mučiarňou, na základe čoho nemá oprávnenia zasahovať ešte i dnes do   ľudských osudov a dobovej pedagogie, -— hovoril i dnes Ľudo Lauda   sediac s Ivanom Zubom v malom parku.
+    </tei:p>
+    <tei:p>
+     Hovorili a debatovali ešte dlho a pretriasali osud Janka Klinčoka.   — Som silne presvedčený, že Janko Klinčok sa stal obeťou rektorovej   pomsty, — poznamenal Lauda a pozrel skúmavo na Ivana.
+    </tei:p>
+    <tei:p>
+     — Azda, dokonca je to viac ako pravdepodobné, — preriekol Ivan a   po chvíli pokračoval: Len to neviem chápať, kam ho mohol ukryť, lebo   to si neviem predstaviť, že by i pri všetkej svojej perfídnosti mohol   vraždiť.
+    </tei:p>
+    <tei:p>
+     — A čo robili kňazi za stredovekej inkvizície? čím sa honosili? čo   im bolo pripisované k dobru, ak nie vraždy a mordy, páchané na   nevinných ľuďoch? — hovoril s pátosom Lauda a jeho ináč príjemná tvár   sa zlovestne zakabonila.
+    </tei:p>
+    <tei:p>
+     Rozmýšľali dlho nad krvavými stránkami histórie stredovekých   inkvizícií a presvedčil sa v duchu aj Ivan, že niečo takéhoto sa   mohlo zopakovať aj v biskupskom seminári.
+    </tei:p>
+    <tei:p>
+     67
+    </tei:p>
+    <tei:p>
+     ﻿Z myšlienok ich vyrušil šum ženských krokov.
+    </tei:p>
+    <tei:p>
+     Ivan zdvihol hlavu a pozrel na kolom idúcu ženu. — Slečna, slečna!   — zavolal na mladé dievča.
+    </tei:p>
+    <tei:p>
+     Dievča pozrelo na Ivana a do jej široko otvorených očú padol   záblesk radosti-
+    </tei:p>
+    <tei:p>
+     — To ste vy? Teším sa, že som sa stretla s vami. Už viackrát som   sa chcela s vami stretnúť, ale istá záležitosť mi kázala byť   opatrnou.
+    </tei:p>
+    <tei:p>
+     — Opatrnou? Snáď sa bojíte?
+    </tei:p>
+    <tei:p>
+     — To nie. Ide o Janka, o jeho vec, — a pozrela najprv na Laúdu a   potom tázavo na Ivana.
+    </tei:p>
+    <tei:p>
+     — Nemusíte sa obávať. Je to priateľ. Pozná aj on Jankov osud a   práve pred chvíľou sme rozmýšľali nad ním. Je to akademický maliar   Ľudevít Lauda.
+    </tei:p>
+    <tei:p>
+     Helenka Dembínska si sadla medzi nich. Ivan ju zkúmavo   pozoroval.
+    </tei:p>
+    <tei:p>
+     — Helenka, vy ste sa veľmi zmenila od tej doby, čo som vás   nevidel. Zdálo sa mi vtedy, že ste len malou školáčkou a dnes vidím   pred sebou ženu, vážnu ženu. Akosi ste vyrástla, akosi zvážnela. Ste   však bledšou a chudšou.
+    </tei:p>
+    <tei:p>
+     Helenka neodpovedala na tieto slová, hoci vedela, že nie sú   lichotením. Cítila to najlepšie. Hej! Veď koľko pretrpela, koľko   bezsenných nocí prežila v duchu s milým obrazom Jankovým.
+    </tei:p>
+    <tei:p>
+     — A neviete ešte nič konkretného o Jankovom zmiznutí, — opýtal sa   po chvíli Ivan.
+    </tei:p>
+    <tei:p>
+     — Nič, nič, — bola jej odpoveď. V jej očiach však miesto slzy   zatrblietal oheň odhodlanosti a hrdinstva-
+    </tei:p>
+    <tei:p>
+     — Nič, nič, ale dnes sa určite niečo dozviem.
+    </tei:p>
+    <tei:p>
+     — Ako?
+    </tei:p>
+    <tei:p>
+     — To vám nemôžem ešte povedať. Poviem vám to zajtra.
+    </tei:p>
+    <tei:p>
+     — A keď bude už zajtra pozde? — namietol Lauda, ktorý s úľubou   hľadel na bledú a utrápenú Helenkinu tvár a zrodilo sa v ňom pevné   odhodlanie pomôcť všetkými možnými prostriedkami dvom milujúcim   dušiam.
+    </tei:p>
+    <tei:p>
+     Na dlhé naliehanie tak so stránky Ivanovej, ako i Laudovej Helenka   sa ím sdôverila. Povedala im, ako si získala Sanctissima, ako sa   schádzavala s ním, akou túhou zahorel k nej.
+    </tei:p>
+    <tei:p>
+     68
+    </tei:p>
+    <tei:p>
+     ﻿— Vedela som, že Janko nie je schopný toho, aby ma bez slova   opustil, presvedčila som sa v duchu úplne, že vyhlásenie o jeho   zmiznutí je cigánstvom a preto Janko musí byť živý. čitávala som už   predtým o tmavých kláštorných komôrkach, kam zakopávali za živa mnísi   nepohodlných kolegov, z čoho som prišla na ten úsudok, že niečo   podobného sa mohlo prihodiť i Jankovi. A vediac, že uskutočnenie   takéhoto zločinu si vyžaduje viacero rúk, moje podozrenie z rektora   sa sosunulo hneď na Sanctissima, o ktorom mi Janko často hovoril.   Preto som si zaumienila, že stoj, čo stoj vytiahnem zo Sanctissima   toto hrozné tajomstvo. Predstieranou oddanosťou k nemu chcem si   získať zpät opravdovú lásku Jankovu, — dokončila Helenka svoju spoveď   a odhodlanosť v jej tmavých očiach zajagala desaťnásobnou   intenzitou.
+    </tei:p>
+    <tei:p>
+     — Vy ste hrdinkou! — vykríknul Ivan.
+    </tei:p>
+    <tei:p>
+     — Pravá žena! — poznamenal Ľudo.
+    </tei:p>
+    <tei:p>
+     Zamysleli sa všetci, po chvíli však pozrel Ľudo zvedavo na Helenku   a povedal:
+    </tei:p>
+    <tei:p>
+     — Je to ohromné, slečna Helenka, ale, keď ste sa nám už   vyspovedala, môžete nám povedať i to, čo chcete podniknúť dnes. Azda   vám budeme môcť byť v niečom nápomocní.
+    </tei:p>
+    <tei:p>
+     Helenka sa sotva znateľne začervenala a bolo vidieť na nej, že   nerada by sa sverila so svojim tajomstvom.
+    </tei:p>
+    <tei:p>
+     — Nože, Helenka, povedzte nám to. Veď sme vašimi priateľmi a   chceme vám pomôcť. Ba viete i to, že Janka som mal vždy veľmi rád, že   sme spolu vyrástli, spolu snášali tvrdý osud v seminári.
+    </tei:p>
+    <tei:p>
+     — Teda vám to poviem, — začala Helenka vážne a znovu sa   začervenala. — Dala som si so Sanctissimom schôdzku dnes na večer v   hoteli »Amerika« v izbe číslo 36. Chcem stoj čo stoj dozvedieť sa   niečo bližšieho, niečo konkrétneho o Jankovi. —
+    </tei:p>
+    <tei:p>
+     Zrak Ivanov stretol sa so zrakom Laudovým v udivení. Ani len na   chvíľku nepochybovali o tom, že Helenka i v tom najväčšom boji   zachová svoju česť a nepokalí svoju čistú lásku k Jankovi.
+    </tei:p>
+    <tei:p>
+     Helenka akosi inštinktívne vycítila ich šľachetné myšlienky a   pozrela na nich povďačné.
+    </tei:p>
+    <tei:p>
+     69
+    </tei:p>
+    <tei:p>
+     ﻿— Dobre, Helenka, ale čo budete potom robiť so Sanctissimom, keď   vám povie svoju tajnosť. Natoľko ja tohoto človeka poznám, je to   prefíkanec prvej triedy a je isté, že sa neobránite jeho dotieravosti   — poznamenal Ivan.
+    </tei:p>
+    <tei:p>
+     Helenka neodpovedala. Priznala si v duchu, že na túto eventualitu   zabudla.
+    </tei:p>
+    <tei:p>
+     — Myslím, že nebolo by od veci, keby sme si zavolali na pomoc   políciu.
+    </tei:p>
+    <tei:p>
+     Ushovorili sa, že Lauda hneď zaskočí -za policajným riaditeľom,   ktorý je jeho dobrým známym. Do izby č. 36 sa schovajú nejakým   spôsobom dvaja detektívi ako svedkovia, prípadne ako pomoc, ak by   daná situácia toho vyžadovala. Helenka sa bude snažiť najprv opiť   Sanctissima a napínať jeho nervy až do najvyššieho stupňa.
+    </tei:p>
+    <tei:p>
+     Rozišli sa s tým, že sa za hodinu stretnú pred hotelom.
+    </tei:p>
+    <tei:p>
+     Ľudevítovi Laudovi sa podarilo získať si povolenie policajného   riaditeľa, aby dnes v noci mohol voľne disponovať s dvoma zručnými   detektívmi.
+    </tei:p>
+    <tei:p>
+     Policajný riaditeľ bol vysoký, silný pánko, tak asi päťdesiatnik.   Stále sa usmieval. Bol jeden z tých ochrancov verejného poriadku,   ktorý sa snaží ničiť zlo v koreni, predchádzať zlu.
+    </tei:p>
+    <tei:p>
+     — Priateľu, vy máte divné názory o zločinnosti. No, ale vyhoviem   vám, hoci mi je ťažko veriť, že ešte i dnes by sa páchaly takéto   zločiny v kňažských ústavoch — preriekol pevným hlasom policajný   riaditeľ a stisol mocne Laudovi ruku.
+    </tei:p>
+    <tei:p>
+     — Bol by som tomu i ja rad, pán riaditeľ, ale mám predtuchy, že to   bude ináč.
+    </tei:p>
+    <tei:p>
+     — Predtuchy sú vzácnou vecou — povedal usmievavé policajný   riaditeľ a zahĺbil sa do svojich aktov.
+    </tei:p>
+    <tei:p>
+     70
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿XII.
+    </tei:head>
+    <tei:p>
+     Izba číslo 36
+    </tei:p>
+    <tei:p>
+     Sanctissimus bol celý deň akýsi nervózny. Chodil zamyslene, často   škubal pravou rukou, často sa škriabal vo vlasoch, časom sa usmial,   časom zamračil, slovom choval sa akosi veľmi neobvykle. Dával   roztržité odpovede, dokonca zabudol hneď hlásiť rektorovi, že klerici   sa shovárali o necudných veciach a ktorýsi z mladých gymnázistov   fajčil cigaretku. Inokedy by to bola bývala preňho znamenitá   pochútka, dnes mal mnoho iných, vážnejších starostí.
+    </tei:p>
+    <tei:p>
+     Tancovalo mu stále pred očiami mladé dievča, ktoré ho úplne   očarovalo a jeho myseľ, fantáziu rozšibalo smyselnými túhami do   najvyššej miery.
+    </tei:p>
+    <tei:p>
+     Stmievalo sa a čerešne sa rozhovorily tajomnou vravou. Slnce   dohorelo a podalo svoju červenú rúčku noci.
+    </tei:p>
+    <tei:p>
+     Sanctissimus oznámil, že sa zle cíti a hneď po večeri sa zavrel do   svojej izby.
+    </tei:p>
+    <tei:p>
+     A keď nad seminárom zatrepotal anjel spánku krýdlom kľu du a   ticha, Sanctissimus vyparádený v civilu, naparfumovaný, pobral sa do   mesta, ktoré revalo tisícero svetlami, vábilo a hrešilo ...
+    </tei:p>
+    <tei:p>
+     Mieril rovno k hotelu »Amerika«, lebo už deň pred tým si ho obzrel   a zapamätal dobre cestu.
+    </tei:p>
+    <tei:p>
+     71
+    </tei:p>
+    <tei:p>
+     ﻿Pohvizdoval si a robil dojem človeka svetáka, úplne spokojného so   svojím osudom.
+    </tei:p>
+    <tei:p>
+     Zastál pred hotelom, upravil si kravatu, vyrovnal sa a.vkročil   dnu.
+    </tei:p>
+    <tei:p>
+     Mladý, elegantný portier privítal ho hlučnou poklonou. — čo si   budete priať?
+    </tei:p>
+    <tei:p>
+     — Idem do izby číslo 36.
+    </tei:p>
+    <tei:p>
+     — A tak, vy ste pán profesor Halabra. Ráčte, ráčte, pane   profesore. Dáma vás už netrpezlivé očakáva, pane profesore, len ráčte   za mnou.
+    </tei:p>
+    <tei:p>
+     Portier zaklopal jemne na dvere izby číslo 36. — Voľno! — a pán   profesor Halabra vstúpil dnu. — Ach, konečne, už som bola celá   netrpezlivá. Ráčte si len
+    </tei:p>
+    <tei:p>
+     sadnúť.
+    </tei:p>
+    <tei:p>
+     Sanctissimus sa poobzeral po vkusne zariadenej izbe a usadil sa do   hlbokej lenošky. Zapálil si cigaretku.
+    </tei:p>
+    <tei:p>
+     — Vy ste dnes akýsi zamlklý, neshovorčivý. čo vám je?
+    </tei:p>
+    <tei:p>
+     — Ale nič, nič, drahá slečinka, len mi je to akési nezvyklé —   preriekol na oko ľahostajným hlasom a popásol sa s úľubou na   Helenkinom krásnom tele. Dnes bola skutočne žiarivá, oslňujúca. Cez   hlboko dekoltovanú večernú toaletu žiarilo jej mladé tielko, sťa   biely mramor a vábilo, rozpaľovalo, trýznilo.
+    </tei:p>
+    <tei:p>
+     — Dnes ste skutočne krásna — konštatoval pohnutým hlasom   Sanctissimus.
+    </tei:p>
+    <tei:p>
+     — Ale vy lichotníku, vy mužovia, vy ste všetci jednakí. Každý len   lichotí a nikto nepovie pravdu.
+    </tei:p>
+    <tei:p>
+     — Ale ja vám hovorím čiro-čistú pravdu. Ste krásna!
+    </tei:p>
+    <tei:p>
+     Helenka sa naklonila nad jeho hlavu a začala sa ihrať s jeho   vlasmi. Sanctissimus cítil vôňu jej tela, opojila, omámila ho.   Dráždila až do onemocnenia.
+    </tei:p>
+    <tei:p>
+     — Slečna, slečna, vy ste nádherná. \
+    </tei:p>
+    <tei:p>
+     — Ale veď ma už toľko nechválte. Radšej si štrngnime. Vypime   si!
+    </tei:p>
+    <tei:p>
+     Pritiahla k lenoške likérový stolík. Sanctissimus vypil obsah   celého kalisku na dúšok.
+    </tei:p>
+    <tei:p>
+     Helenka stále nalievala. Santissimus pil... pil... Opájal sa   likérom, opájal Helenkou ...
+    </tei:p>
+    <tei:p>
+     72
+    </tei:p>
+    <tei:p>
+     ﻿— Nože mi vyprávajte niečo o tom vašom seminári. Tak ma to veľmi   zaujíma.
+    </tei:p>
+    <tei:p>
+     Sanctissimus učinil odmietavý posunok. — Ja vám poviem, že je to   drina, humbug. — No a prečo ste vy tam?
+    </tei:p>
+    <tei:p>
+     — Hm, je to ináč ľahký život, človek nemá starosti o byt, o   jedenie, o šatstvo. Má to zaiste aj svoje výhody! Ale čo nás po tom.   Sadnite si radšej pri mňa. Poďte blíž, veď sa tak odo mňa   neodťahujte.
+    </tei:p>
+    <tei:p>
+     Helenka si prisadla k nemu tesnejšie. — No a tí ostatní sú   spokojní?
+    </tei:p>
+    <tei:p>
+     — Spokojný nie je nikto, ale mnohí sa tam dobre cítia. Helenka sa   pritúlila k nemu ešte tesnejšie.
+    </tei:p>
+    <tei:p>
+     Sanctissimus preglgal sliny a triasol sa na celom tele. — No a   búrka už utíchla úplne po tej vzbúre? — Čo vás to má len toľko   zaujímať, drahá slečna? — No a či neviete, že my ženy sme veľmi   zvedavé stvorenia? Sanctissimus neodpovedal. Zadíval sa na ňu dlhým   pohľadom.
+    </tei:p>
+    <tei:p>
+     Jeho oči planuly divokou túhou.
+    </tei:p>
+    <tei:p>
+     — Slečna, slečna, dnes budete moja. Musíte byť!
+    </tei:p>
+    <tei:p>
+     — Keď budete hodný! — preriekla Helenka a pozrela koketne,   šibalský na planúceho Sanctissima.
+    </tei:p>
+    <tei:p>
+     — Slečna, musíte byť mojou!
+    </tei:p>
+    <tei:p>
+     — Ale aký ste horúci — preriekla Helenka, hladiac jeho rozpálenú   tvár.
+    </tei:p>
+    <tei:p>
+     Sanctissimus ju chcel uchopiť okolo pásu, ale Helenka sa mu   šikovne vyšmikla. Postavila sa na prostred izby a zvonivo sa   zasmiala.
+    </tei:p>
+    <tei:p>
+     — Vy ste nešikovný!
+    </tei:p>
+    <tei:p>
+     Sanctissimus chcel vyskočiť z lenošky. Helenka pribehla k nemu a   sotila ho nazpäť.
+    </tei:p>
+    <tei:p>
+     — Prečo ste taký rozčúlený — a utierala krupaje potu z jeho čela.   Sanctissimus ťažko dýchal a hodnú chvíľu sedel celkom bezmocne.
+    </tei:p>
+    <tei:p>
+     — Čo vám je? Vypite si, bude vám snáď lepšie.
+    </tei:p>
+    <tei:p>
+     — Slečna, netrápte ma už toľko, ja to nevydržím. Majte trochu   smilovania nado mnou.
+    </tei:p>
+    <tei:p>
+     73
+    </tei:p>
+    <tei:p>
+     ﻿— Chudáčik môj! — preriekla Helenka ľútostivým hlasom a prešla   svojou mäkkou rúčkou po jeho rozpálenej tvári.
+    </tei:p>
+    <tei:p>
+     — Chudiatko moje! — zopakovala ešte raz. Sanctissimus bozkával   divoko jej ruky.
+    </tei:p>
+    <tei:p>
+     — Ale veď nebuďte taký prudký. Taký ste vtedy škaredý, no ináč ste   taký krásny, taký chutný;
+    </tei:p>
+    <tei:p>
+     Sanctissimus pozrel na ňu akosi povďačné, vysvetlujúc si vo svoj   prospech jej lichotivé slová a bozkával náruživé ďalej jej biele   ruky.
+    </tei:p>
+    <tei:p>
+     — A ozaj, čo sa stalo s tým klerikom, ktorý aranžoval xú vzbúru?   Akože sa len volal?... No...! Pomôžte mi. Mám na jazyku jeho meno.   Ale akú ja mám len krátku pamäť a toľko písaly o ňom všetky noviny —   prerušila ticho Helenka a tvárila sa celkom ľahostajne.
+    </tei:p>
+    <tei:p>
+     Sanctissimovu tvár zahalilo čierne mračno a trhnul sa   nervózne.
+    </tei:p>
+    <tei:p>
+     Neodpovedal.
+    </tei:p>
+    <tei:p>
+     — Ale, veď vy snáď len viete, ako sa menoval!
+    </tei:p>
+    <tei:p>
+     — čo vás po ňom, je to gauner a naničhodník! — odsekol   Sanctissimus nevrle a svoj odpor zapil dúškom sladkého likéru.
+    </tei:p>
+    <tei:p>
+     Helenka v tomto momente by ho bola najradšej šľahla cez ústa,   zdeptala na zem, ale sa opanovala a hrala ďalej báječne naštudovanú   komédiu.
+    </tei:p>
+    <tei:p>
+     — Naozaj? A ja som počula, že to bol báječný chlapík.
+    </tei:p>
+    <tei:p>
+     — Hovorím vám, nechajte ho na pokoji — preriekol podráždene   Sanctissimus a chcel k sebe privinúť Helenku.
+    </tei:p>
+    <tei:p>
+     Helenka sa odtiahla. Dupla trucovité malou nôžkou:
+    </tei:p>
+    <tei:p>
+     —A just si nesadnem k vám, kým mi nepoviete, ako sa volal. — Keď   vás to už tak zaujíma, nuž, Janko Klinčok. — Ahá, Janko Klinčok,   Klinčok; aké pekné meno. A kde mô-
+    </tei:p>
+    <tei:p>
+     že byť teraz tento Janko Klinčok? Je to pravda, že ušiel s akousi   ženskou a nikto nevie nič o ňom.
+    </tei:p>
+    <tei:p>
+     Sanctissimus sa stával nervóznym a čím ďalej, tým častejšie šklbal   pravou rukou.
+    </tei:p>
+    <tei:p>
+     Helenka ho mučila ďalej prirodzenou ženskou rafinovanosťou.
+    </tei:p>
+    <tei:p>
+     — Ja tomu neverím, že by taký smelý a odvážny chlapík utieKol tak   zbabele.
+    </tei:p>
+    <tei:p>
+     74
+    </tei:p>
+    <tei:p>
+     ﻿Sanctissimus sedel ako na tŕni.
+    </tei:p>
+    <tei:p>
+     — No a kdeže by bol ten lump — vykríknul Sanctissimus pod návalom   ťažkých myšlienok.
+    </tei:p>
+    <tei:p>
+     — Keby mi to niekto povedal, dala by som mu hneď tisíc hubičiek,   vyobjímala bych ho, až by mu kosti práskaly.
+    </tei:p>
+    <tei:p>
+     Prisadla si zase bližšie k nemu a chytila ho okolo krku. — Vy ste   taký pekný muž, také máte krásne oči, ústa!
+    </tei:p>
+    <tei:p>
+     Sanctissimova krv začala zase klokotať a prúdiť živým tempom.
+    </tei:p>
+    <tei:p>
+     — Ale veď ma už toľko nemučte, drahá slečna. Veď je to už   hrozné!
+    </tei:p>
+    <tei:p>
+     Helenka mu pozrela hlboko do očú.
+    </tei:p>
+    <tei:p>
+     — Ak mi poviete, kde je Janko Klinčok, budem vašou. Budem, budem —   a začala ho prudko objímať.
+    </tei:p>
+    <tei:p>
+     — Ja neviem, neviem, zkade to mám vedieť — bránil sa   Sanctissimus.
+    </tei:p>
+    <tei:p>
+     — Vy to viete, áno viete! — a objímala ho ešte prudšie.
+    </tei:p>
+    <tei:p>
+     Sanctissimovi búšila všetka krv do hlavy. Schopil sa prudko z   lenošky, uchopil Helenku okolo pása a prevrhnul ju na pohovku. Bol   sťa šialený.
+    </tei:p>
+    <tei:p>
+     — Budete, budete mojou, musíte byť!
+    </tei:p>
+    <tei:p>
+     Helenka zaťala zuby a svorela mocne svoje kolená.
+    </tei:p>
+    <tei:p>
+     Sanctissimus zúril, besnil. Rozpútal sa medzi nimi tuhý boj.   Helenka bola silná a šľachetné úmysle ešte zdesaťnásobnily jej   silu.
+    </tei:p>
+    <tei:p>
+     — Budete mojou, budete, musíte!
+    </tei:p>
+    <tei:p>
+     — Budem — zastonala Helenka — budem, ale len ak mi poviete, kde je   Janko Klinčok.
+    </tei:p>
+    <tei:p>
+     — V seminári... v ... v pivnici... zavretý ... V tejto chvíli sa   odhrnula španielska stena a objavili sa pred zápasiacimi dvaja   robustní mužovia.
+    </tei:p>
+    <tei:p>
+     — V mene zákona! — zahrmel jeden z nich a odsotil prudko od   Helenky Sanctissima.
+    </tei:p>
+    <tei:p>
+     Sanctissimus pozrel na dvoch mužov hlúpo, idiotsky a pustil sa k   dverám.
+    </tei:p>
+    <tei:p>
+     — Len pomaly, pomaly, vtáčka — a zastál mu jeden z detektívov   cestu.
+    </tei:p>
+    <tei:p>
+     75
+    </tei:p>
+    <tei:p>
+     ﻿— čo chcete so mnou, čo som vám učinil, pusťte mňa — bránil sa a   pokúsil sa akosi prosebne pozrieť na Helenku. Táto stála víťazoslávne   pri pohovke a premerala si ho opo-
+    </tei:p>
+    <tei:p>
+     vržlive od hlavy až do päty. Jej oči žiarily triumfom. — Len to   som chcela od vás vedieť, vy naničhodník, fujj! — Ideme na policajný   komisariát!-— zavelil jeden z detek-
+    </tei:p>
+    <tei:p>
+     tívov a otvoril dvere.
+    </tei:p>
+    <tei:p>
+     Sanctissimus sklonil hlavu na prsia a dal sa odviesť bez   slova.
+    </tei:p>
+    <tei:p>
+     Pred hotelom netrpezlivé čakali dvaja priatelia: Ivan Zub a Ľudo   Lauda.
+    </tei:p>
+    <tei:p>
+     Ich tvárou preletela radosť a nadšenie, keď zazreli spútaného   Sanctissima medzi dvoma detektívmi.
+    </tei:p>
+    <tei:p>
+     Sanctissimus spozoroval Ivana Zuba. Zalomil ešte viac hlavu a   pravou rukou ustavične pošklbával.
+    </tei:p>
+    <tei:p>
+     Helenka žiarila radosťou a v duchu objímala už svojho milovaného   Janíčka... Bola šťastná!...
+    </tei:p>
+    <tei:p>
+     76
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿XIII.
+    </tei:head>
+    <tei:p>
+     Rameno spravedlivosti
+    </tei:p>
+    <tei:p>
+     — Dobrý večer, pán riaditeľ, — zakričal Lauda rozjareným hlasom   vstúpiac do pracovne policajného riaditeľa, ktorý bol ešte stále   zahrabaný v aktách. — čože je? — odsekol akosi nevrle riaditeľ   nepodívajúc sa vôbec na rušiteľa.
+    </tei:p>
+    <tei:p>
+     — Ale, veď to som ja, Lauda! —
+    </tei:p>
+    <tei:p>
+     — Ahá, nože vítajte! No, čo nového? — a po jeho zasmušilej tvári   sa rozlial zase úsmev.
+    </tei:p>
+    <tei:p>
+     — Predtuchy sa osvedčily, pán riaditeľ! — — Snáď?
+    </tei:p>
+    <tei:p>
+     — Áno, priznal sa, že Ján Klinčok je väznený v seminári. —   Báječné!
+    </tei:p>
+    <tei:p>
+     Chytil telefón a nariadil, aby na výsluch ihneď k nemu priviedli   mladého muža z hotelu »Amerika«.
+    </tei:p>
+    <tei:p>
+     Pán riaditeľ si najprv dôkladne obzrel previnilca, premeral si ho   od hlavy až po päty a zahundral usmievavé:
+    </tei:p>
+    <tei:p>
+     — Pekný exemplár!
+    </tei:p>
+    <tei:p>
+     Sanctissimus hľadel zarputile do zeme.
+    </tei:p>
+    <tei:p>
+     —■ Ako sa voláte? — začal svoj výsluch policajný riaditeľ.   Sanctissimus neodpovedal.
+    </tei:p>
+    <tei:p>
+     77
+    </tei:p>
+    <tei:p>
+     ﻿— Slečna, vy ste mu natoľko pomútila hlavu, že zabudol aj na to,   ako sa volá? — všetci sa chutno zasmiali.
+    </tei:p>
+    <tei:p>
+     — Nože, pane kandidáte!?
+    </tei:p>
+    <tei:p>
+     — Sanctissimus mlčal a čím diaľ, tým častejšie šklbal pravou   rukou.
+    </tei:p>
+    <tei:p>
+     — Podívajme sa len, — začal riaditeľ prísnejším hlasom, — čo ste   vy za inteligenta. Ako sa voláte?
+    </tei:p>
+    <tei:p>
+     Sanctissimus nereagoval ani na túto prísnejšiu výzvu.
+    </tei:p>
+    <tei:p>
+     Zdálo sa, sťa by bola nejaká neviditeľná ruka pomály sotierala z   riaditeľovej tvári jeho príjemný úsmev.
+    </tei:p>
+    <tei:p>
+     — Pýtam sa vás ešte raz, ako sa voláte!
+    </tei:p>
+    <tei:p>
+     Sanctissimus zdvihol trochu hlavu a sotva slyšiteľným hlasom   preriekol:
+    </tei:p>
+    <tei:p>
+     Anton Barina!
+    </tei:p>
+    <tei:p>
+     — Pane Barina, povedzte nám niečo o osude pána Jána Klinčoka!
+    </tei:p>
+    <tei:p>
+     Ticho. A po chvíli preriekol:
+    </tei:p>
+    <tei:p>
+     — Ja neviem vôbec nič o ňom, iba toľko, že utiekol zo   seminára.
+    </tei:p>
+    <tei:p>
+     — To neni pravda, ste sa mi priznali, že je uväznený v seminári a   chudáčik možná už aj zahynul, — skočila mu prudko do reči Helenka a z   jej očú vyšľahol hnev hustým prúdom.
+    </tei:p>
+    <tei:p>
+     Riaditeľ učinil posunok, aby mlčala.
+    </tei:p>
+    <tei:p>
+     — Nech nám to rozpovie sám pán kandidát! Sanctissimus mlčal.
+    </tei:p>
+    <tei:p>
+     — Ale, pane kandidáte, veď ste sa priznali, prečo to teraz   tajíte?
+    </tei:p>
+    <tei:p>
+     — Neni pravda, to je lož, — vykríkol akousi podráždenou zúfalosťou   Anton Barina.
+    </tei:p>
+    <tei:p>
+     — Pozrite len, podívajte sa na mňa! No! Zkúste to! Sanctissimus   hľadel stále zaryte do zeme. — Vidíte! Nemáte odvahy pozrieť sa mi do   očú! To svedčí
+    </tei:p>
+    <tei:p>
+     proti vám, — a riaditeľ sa rýchle odmlčal hľadiac uprene na   Sanctissima.
+    </tei:p>
+    <tei:p>
+     Sanctissimus zdvihol hlavu a pozrel na riaditeľa. Jeho pohľad   stretol sa s jeho prenikavými očami. Zmiatol sa o ovesil hlavu.
+    </tei:p>
+    <tei:p>
+     78
+    </tei:p>
+    <tei:p>
+     ﻿— No, tak by to bolo dobre. Teraz nám už len povedzte, že kde je   ukrytý Janko Klinčok.
+    </tei:p>
+    <tei:p>
+     — Ja som nič nepovedal, ja som sa nepriznal k ničomu. To je   podvod. To je výmysel’ hentej podvodnice, ktorá chce zničiť dobré   meno nášho seminára-
+    </tei:p>
+    <tei:p>
+     — Mlčte, vy bezbožníku. Veď mi Janko o Vás pekné veci hovoril, vy   naničhodník, — zakríkla naňho Helenka rozčúlene.
+    </tei:p>
+    <tei:p>
+     — Máme troch hodnoverných svedkov, ktorí mi dosvedčili, že ste sa   priznali, že Ján Klinčok je väznený v seminári v pivnici.
+    </tei:p>
+    <tei:p>
+     Chytil telefonné sluchátko.
+    </tei:p>
+    <tei:p>
+     — Haló! Pán aktuár?
+    </tei:p>
+    <tei:p>
+     — To neni pravda, ja som sa ničomu nepriznal, — bránil sa zúfale   Sanctissimus, vidiac, že sa otvára pod jeho nohami bezedná   priepasť.
+    </tei:p>
+    <tei:p>
+     — No, no, konečne pán aktuár, že som sa na vás len dovolal, —   hovoril riaditeľ do telefónu hlasom, sťa by bol vyjednával v dajakej   obchodnej záležitosti, — potrebujem ihneď desať uniformovaných a päť   civilov. Nech čakajú pripravene na ďalšie rozkazy. Po vybavení   prídite ihneď do mojej kancelárie.
+    </tei:p>
+    <tei:p>
+     — Tak, pánovia, všetko vybavené, — hovoril ďalej riaditeľ,   obrátiac sa k prítomným, — a vy, slečna, môžete odísť, ďakujeme vám   srdečne.
+    </tei:p>
+    <tei:p>
+     — Nie, ja idem s vami, musím isť, chcem prvá vidieť Janíčka.   Dovoľte mi to, pán riaditeľ, dovoľte, — žobronila prosebne   Helenka.
+    </tei:p>
+    <tei:p>
+     Riaditeľ sa pozrel dôkladnejšie na Helenku a úsmev na jeho tvári   zmäknul ešte viac.
+    </tei:p>
+    <tei:p>
+     — Tak dobre, hlasy srdca rešpektuje i kriminalista! Môžete nás   doprevádzať. Prosím vás však, ráčte sa premiestiť do inej izby. Pane   Klas, zaveďte ich do mojej čakáme. Do videnia, pánovia!
+    </tei:p>
+    <tei:p>
+     Do riaditeľovej kancelárie sa dostavil aktuár Kantoš. Malý,   prihrblý mužíček, s iskreným zrakom.
+    </tei:p>
+    <tei:p>
+     — K službám, pán riaditeľ!
+    </tei:p>
+    <tei:p>
+     Po dlhšej porade, pripravené mužstvo na čele s riaditeľom   Kašinskym sa pobralo smerom k semináru.
+    </tei:p>
+    <tei:p>
+     Sanctissima odviedli do cely č. 36.
+    </tei:p>
+    <tei:p>
+     79
+    </tei:p>
+    <tei:p>
+     ﻿Noc bola zachmúrená, vzduch preplnený elektrinou, klonilo sa k   búrke.
+    </tei:p>
+    <tei:p>
+     Uliciami niesla sa pieseň kaviarni. Seminár bol pohrúžený do   tuhého spánku.
+    </tei:p>
+    <tei:p>
+     Rektor chrápal v hodvábnych perinách. Pri posteli ležal   nedofajčený oharok z havany.
+    </tei:p>
+    <tei:p>
+     Niekoľko strážnikov obsadilo vchody seminára.
+    </tei:p>
+    <tei:p>
+     Policajný riaditeľ Kašinsky stísnul gombík elektrického zvončeka.   V izbe starého sluhu sa rozzvučal nepríjemným hlasom.
+    </tei:p>
+    <tei:p>
+     — Ký čert že nás to búri? — zahundral starý sluha seminára a   pobral sa k bráne.
+    </tei:p>
+    <tei:p>
+     — Kto tam?
+    </tei:p>
+    <tei:p>
+     — Otvorte, dobrí ľudia!
+    </tei:p>
+    <tei:p>
+     Kľúč zaškrípal v hrdzavom zámku, brána sa otvorila rachotom a   policajný riaditeľ, odsotiac stranou sluhu, prudkým krokom skočil pod   bránu a za ním štyria uniformovaní a traja civilní strážnici.
+    </tei:p>
+    <tei:p>
+     — Sme od polície, zaveďte nás k pánu rektorovi, — rozkázal   riaditeľ starému sluhovi.
+    </tei:p>
+    <tei:p>
+     — Od polície? — Od polície? A načo? Prečo? Dôstojný pán rektor   spia a já ich vyrušovať nesmiem z ich spánku. Nie! Nie! — koktal   starý sluha drkotajúc od strachu zubami.
+    </tei:p>
+    <tei:p>
+     — Rozkazujem vám, aby ste nám ihneď ukázal izbu pána rektora, —   zavelil ešte raz prísnym hlasom riaditeľ Kašinsky.
+    </tei:p>
+    <tei:p>
+     — Nech teda idú, ale musia mu povedať, že ma k tomu prinútili, —   preriekol sluha chcejúc si zachovať za každú cenu svoju reputáciu   pred rektorom.
+    </tei:p>
+    <tei:p>
+     Riaditeľ zaklopkal na dvere rektorovej izby. Nikto sa   nehlásil.
+    </tei:p>
+    <tei:p>
+     Zaklopkal ešte raz. Mocnejšie.
+    </tei:p>
+    <tei:p>
+     Bolo slyšať, ako vrzgla posteľ, rektor sa asi prevrátil na druhý   bok. A bolo zase ticho.
+    </tei:p>
+    <tei:p>
+     Zaklopkal aj tretíkrát.
+    </tei:p>
+    <tei:p>
+     — Kto je to? — predral sa rektorov ospalý hlas k vonku   stojacím.
+    </tei:p>
+    <tei:p>
+     — Ja, ja, Barina! — a riaditeľ báječne napodobnil Sanctissimov   hlas.
+    </tei:p>
+    <tei:p>
+     80
+    </tei:p>
+    <tei:p>
+     ﻿— Dobre, dobre, Tonko, už ti otvorím!
+    </tei:p>
+    <tei:p>
+     Starý sluha chcel čosi zakričať, jeden z detektívov zbadal jeho   úmyseľ a bleskurýchle zapchal jeho ústa dlaňou.
+    </tei:p>
+    <tei:p>
+     Riaditeľ rýchle vsunul, svoj u nohu medzi dvere a len tomuto možno   ďakovať, že dvere sa prudko nezatvorily pred nimi.
+    </tei:p>
+    <tei:p>
+     — V mene zákona! — a riaditeľ s revolverom v ruke vkročil do   rektorovej elegantne zariadenej izby.
+    </tei:p>
+    <tei:p>
+     Rektor sa postavil na prostred izby a bezočivo premeral od hlavy   až po päty riaditeľa Kašinského. A hoci sa triasol na celom tele   zimnične, hoci jeho zločin v tejto chvíli zahalil úplne jeno myseľ a   pocítil prudký osteň svojho hriechu v každom svale, v každej bunke   krvi, predsa sa premohol a urazeným hlasom preriekol:
+    </tei:p>
+    <tei:p>
+     — Aké sú to spôsoby? Akým právom si dovoľujete vyrušo vať náš   seminár a búriť ma zo spánku? Je to drzosť, bezočivosť, ktorú   náležíte odpykáte. Vyprošujem si to a rozkazujem vám, ak) hlava   seminára, aby ste ihneď opustil seminár, čo sme, snáď, zlodeji, lebo   kmíni ?!
+    </tei:p>
+    <tei:p>
+     — Mám ten dojem a preto som si vás dovolil vyhľadať v tak   nevhodnej chvíli. Som policajný riaditeľ Teodor Kašinsky a v mene   zákona vás zatýkam. Pred chvíľou som to isté učinil s pánom Antonínom   Barinou.
+    </tei:p>
+    <tei:p>
+     Rektor zblednul a jeho ruky klesly bezvládne. Toto trvalo len malú   chvíľku a pozrel zase vyzývavé na policajného riaditeľa.
+    </tei:p>
+    <tei:p>
+     — A to prečo? Akým právom vy smiete zatýkať mojich klerikov? —
+    </tei:p>
+    <tei:p>
+     — Lebo ste sa previnili proti zákonu. — Chachacha! — zasmial sa   drzo rektor.
+    </tei:p>
+    <tei:p>
+     Policajný riaditeľ zvraštil obočie a úsmev zmiznul úplne z jeho   tváre.
+    </tei:p>
+    <tei:p>
+     — Zavreli ste z pomsty Janka Klinčoka do pivnice! — Humbug!   Humbug! — kričal rektor sťa šialený.
+    </tei:p>
+    <tei:p>
+     — Tak je! A teraz vás žiadam v mene zákona, aby ste ma zaviedol na   miesto, kde tento chudák hynie hladom a snáď práve zomiera.
+    </tei:p>
+    <tei:p>
+     — Humbug! Humbug! — kričal ďalej rektor.
+    </tei:p>
+    <tei:p>
+     81
+    </tei:p>
+    <tei:p>
+     ﻿Policajný riaditeľ pozrel na rektora ostro a prenikavé.
+    </tei:p>
+    <tei:p>
+     — Oblečte sa a poďte so mnou!
+    </tei:p>
+    <tei:p>
+     — Chachacha! — zarehotal sa zase rektor, — Tak? Nie! Nájdem si ho   aj sám.
+    </tei:p>
+    <tei:p>
+     V tom momente rektor uchopil bleskurýchle ťažký strieborný   svietnik a vrhol sa na riaditeľa. Riaditeľ sa šikovne uhnul a   svietnik dopadol hrmotne na dlážku.
+    </tei:p>
+    <tei:p>
+     Otvorily sa prudko dvere a vtrhla dnu na chodbe stojaca stráž.
+    </tei:p>
+    <tei:p>
+     Rektora spútali a posadili do hlbokej leňošky. škripal zubami ;   časom sa zarechtal, sťa šialený, časom zahľadel sa kamsi do   dialky.
+    </tei:p>
+    <tei:p>
+     Policajný riaditeľ nariadil jednomu zo strážnikov, aby dával pílny   pozor na rektora a on s ostatnými s vážnou, zamyslenou tvárou pobral   sa dlhými chodbami seminára.
+    </tei:p>
+    <tei:p>
+     Prekutali celý seminár. Hľadali usilovne až do bieleho rána.
+    </tei:p>
+    <tei:p>
+     Rektor sa pokúsil prehovoriť strážnika, aby ho pustil la slobodu,   strážnik bol sťa vytesaný zo žuly, neprerieknul ani slova. Rektor sa   zahľadel potom apaticky pred seba a hľadí stále ... stále, ako   paralytik...
+    </tei:p>
+    <tei:p>
+     Ráno bolo nádherné, sťa vykúpaná, vyparádená panna. Usmievalo sa a   štedre sypalo svoje vňady do prebúdzajúcich sa očú ľudí.
+    </tei:p>
+    <tei:p>
+     Policajný riaditeľ pátral stále. Jeho tvár bola bledá, pod očiami   mal čierne kariky.
+    </tei:p>
+    <tei:p>
+     Zdalo sa, že situácia je beznádejná. Všetky pokusy primäť rektora   k priznániu zlyhaly.
+    </tei:p>
+    <tei:p>
+     Šiel zamyslene chodbou a rozhodnúl sa, že sa pokúsi ešte s Antonom   Barinou a snáď konfrontácia týchto dvoch zloduchov vrhne pár jasných   papršlekov do tmavého väzenia nešťastného Janka Klinčoka.
+    </tei:p>
+    <tei:p>
+     Na chodbe mu prišiel do cesty starší klerik.
+    </tei:p>
+    <tei:p>
+     Riaditeľ sa pozrel naňho prenikavé. Bol to Andrej Durný, ktorý od   dňa, čo pomáhal uväzniť Sanctissimovi Janka Klinčoka, nemal kľudnej   chvíle a výčitky svedomia i jeho lúžko vydláždily
+    </tei:p>
+    <tei:p>
+     82
+    </tei:p>
+    <tei:p>
+     ﻿tŕnim. Zazrúc policajného riaditeľa, ostal stáť na mieste a   zblednúl. Riaditeľ vycítil inštinktívne, že tento človek zaiste bude   mať niečo spoločného s neobjasneným zločinom.
+    </tei:p>
+    <tei:p>
+     — Dovoľte, velebný pane, — pristúpil k nemu riaditeľ.
+    </tei:p>
+    <tei:p>
+     Andrej Durný hľadel do zeme a bolo na ňom vidieť, že bojuje ťažký   duševný boj. Zrázu sa vzpriamil, pozrel odhodlane do riaditeľových   očú a prerieknul pevným hlasom:
+    </tei:p>
+    <tei:p>
+     — Poďte so mnou!
+    </tei:p>
+    <tei:p>
+     Zaviedol ich do temnej pivnice. — Rozsvieťte lampu!
+    </tei:p>
+    <tei:p>
+     — Je to zbytočné, velebný pane, túto pivnicu som už prekutal. Ján   Klinčok nie je tu.
+    </tei:p>
+    <tei:p>
+     — Len rozsvieťte!
+    </tei:p>
+    <tei:p>
+     Andrej Durný odhádzal pri stene nakúpené dosky a haraburdie.
+    </tei:p>
+    <tei:p>
+     — Otvorte tieto dvierka!
+    </tei:p>
+    <tei:p>
+     Po dlhej a namáhavej práci policajným orgánom podarilo sa vyvaliť   dvere.
+    </tei:p>
+    <tei:p>
+     Všetci tŕpli nedočkavosťou.
+    </tei:p>
+    <tei:p>
+     Očiam prítomných naskytol sa hrozný obraz.
+    </tei:p>
+    <tei:p>
+     Na zemi leží kus skrvaveného, opuchlého a dokaličeného ľudského   tela. Sama modrina, sama krv!
+    </tei:p>
+    <tei:p>
+     Janko Klinčok leží, sťa mŕtvola. Oči má vyšpúlené, tvár   dokrvavenú, zsinalú a bledú. Reverenda roztrhaná na kusy leží   neďaleko neho. Biela košeľa je kus zeme, tvár kus mäsa z jatky, oči   dve vyhaslé hviezdy, kúpajúce sa v barine, nohy a ruky kusy   neforemnej zakrvavenej, zafúlanej a zašpinenej masy.
+    </tei:p>
+    <tei:p>
+     Riaditeľ sohnul sa nad neho. Srdce bije, snáď dobíja posledné   údery...
+    </tei:p>
+    <tei:p>
+     — Rýchle, rýchle telefonovať pre policajného lekára. Nech príde   autom, najrýchlejším tempom! — vydal riaditeľ rozkaz.
+    </tei:p>
+    <tei:p>
+     Z povaly kapala špinavá voda.
+    </tei:p>
+    <tei:p>
+     Jedon zo strážnikov (nedávno nastúpivší službu) sa rozplakal, ako   malé dieťa.
+    </tei:p>
+    <tei:p>
+     Všetci stáli nad živou mŕtvolou dojatí, zamíkli a tichí, ako slza   bôľu. . .
+    </tei:p>
+    <tei:p>
+     Vonku pršalo. Príroda rozpútala sa divokým orkánom. Do
+    </tei:p>
+    <tei:p>
+     83
+    </tei:p>
+    <tei:p>
+     ﻿seminárnej záhrady udrel hrom. Rozštiepil na sedem kusov odkvitlú,   plodiacu Čerešňu...
+    </tei:p>
+    <tei:p>
+     — Janíčko, môj, Janko! Kriste! Janíčko! — zaúpel ženský hlas vo   dveroch.
+    </tei:p>
+    <tei:p>
+     Helenka vrhla sa k Jankovi a začala obsypávať bozkami krvavé   rany.
+    </tei:p>
+    <tei:p>
+     Janko sa nehnul.
+    </tei:p>
+    <tei:p>
+     Pozrela v akomsi nedorozumení na policajného riaditeľa. — žije!   Hneď príde lekár, — šeptal riaditeľ.
+    </tei:p>
+    <tei:p>
+     — žije? Bude žiť?
+    </tei:p>
+    <tei:p>
+     — Bude, bude, slečna, len ticho, — konejšil Helenkin bôľ riaditeľ   a pohladil jemne jej vlásky.
+    </tei:p>
+    <tei:p>
+     Helenka si z hlboká vydýchla.
+    </tei:p>
+    <tei:p>
+     Prišiel lekár. Starý morózny pán, privyknutý na všetko. Zarazil sa   aj on a jeho tvárou preletelo mračno.
+    </tei:p>
+    <tei:p>
+     — Hrozné, niečo strašného! Veľmi vážna vec! Ale je nádej, mám   nádej!
+    </tei:p>
+    <tei:p>
+     — Nádeje, nádeje... rozzvučalo sa Helenkinou dušou tisícerými   zvukami...
+    </tei:p>
+    <tei:p>
+     Ivan Zub plakal v kúte ticho a úsedave... — Sviňstvo, svinstvo,   zajtra sa dám vypísať z katolíckej cirkve, — hundral lekár, keď   odnášali Janka Klinčoka v bezvedomí do nemocnice •..
+    </tei:p>
+    <tei:p>
+     Rektor dostal celu číslo 87. — vedľa Sanctissima.
+    </tei:p>
+    <tei:p>
+     Seminár ostal bez pastiera, ovečky sa pomaly roztratily na cudzie   pasienky
+    </tei:p>
+    <tei:p>
+     Spovedelník mal najväčšiu radosť z preplnenej pivnice. Popíjal si   vesele so svojmi kamarátmi. Pri plných sudoch zabúdali na svojho   rektora, len kedy-tedy zahundral: — Ja som vedel, vedel som, že to   takto skončí...! Tak mu treba!
+    </tei:p>
+    <tei:p>
+     84
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿XIV.
+    </tei:head>
+    <tei:p>
+     Odplata
+    </tei:p>
+    <tei:p>
+     — Už je po kríze, už to bude dobre, — preriekol lekár stojaci nad   Jankovým lôžkom, — naše nádeje sa splnily.
+    </tei:p>
+    <tei:p>
+     Helenka by bola najradšej vybozkávala tohoto starého pánka, ktorý   prinavrátil jej Janíčka zase životu.
+    </tei:p>
+    <tei:p>
+     Janko umytý, oblečený v bielom ležal naznak v bielych perinách na   železnej špitálskej postielke. ,
+    </tei:p>
+    <tei:p>
+     Tvár mal bielu, čistú. Sálala z nej akási veleba, akési   povznesenie sa nad zem, zdálo sa, ako by so zatvorenými očami dúmal   nad niečím krásnym a povznášajúcim.
+    </tei:p>
+    <tei:p>
+     Helenka sedí trpezlivé pri lôžku a čaká až tento martýr života   otvorí svoje blankýtne oči. Prvý pohľad musí patriť jej, jej, ktorá   priniesla toľko obetí preňho, ktorá by jeho prípadnú smrť bez váhania   spečatila svojou vlastnou krvou.
+    </tei:p>
+    <tei:p>
+     Slnce vrhlo kus tepla, snop svetla na Jankovú tvár a Janko otvoril   oči.
+    </tei:p>
+    <tei:p>
+     — Janíčko, Janko môj! — skríkla Helenka a v slziach radosti   utopily sa jej dobré očičká. Ich zraky sa spoj íly, ako dve   elektrické iskry, na malú chvíľočku, na chvíľočku, ktorá je   hodnotnejšia, ako celý život...
+    </tei:p>
+    <tei:p>
+     — Helenka! — a Jankové oči sa zase zatvorily. Janko usnú!, aby   stal, ako víťaz, ako šťastný muž ... Zvíťazil!
+    </tei:p>
+    <tei:p>
+     85
+    </tei:p>
+    <tei:p>
+     ﻿Helenka bola blažená, jej očičká žiarily ako dve nezabúdky   Helenkiné srdiečko bolo ako kus chleba... dobré, biele a mäkučké...   Janko stal, uzdravený, víťazný s desaťnásobnou láskou k svojej   Helenke Jej rodičia ho prijali s otvoreným náručím a pečovali oňho,   ako o svoje vlastné dieťa. No, veď bude ich!
+    </tei:p>
+    <tei:p>
+     Klement Satus, bývalý rektor z biskupského seminára v H. bol   odsúdený na 8 rokov žalára pre pokus vraždy. Anton Barina pre   napomáhanie pokusu k vražde na 3 roky káznice. Andrej Dumý bol   oslobodený.
+    </tei:p>
+    <tei:p>
+     Klement Satus prijal rozsudok apaticky a prial si len toľko, aby   nebol väznený v H , ale v niektorej inej väznici; Anton Barina choval   sa zpupne a stále vyhlasoval, že je úplne nevinný a čin svoj   previedol len na priamý rozkaz rektorov, rozsudok je vraj — dľa jeho   skromnej mienky — úplne nemožný a nespravodlivý. — Nič mu   nepomohlo.
+    </tei:p>
+    <tei:p>
+     Andrej Dumý sa poklonil hlboko, pošiel k Jankovi a so slzavým   zrakom ho prosil za odpustenie. Janko mu odpustil, stisli si ruky a o   Andrejovi Dumom nikto viac nepočul ani slova ...
+    </tei:p>
+    <tei:p>
+     Proces bol veľkou senzáciou aj v zahraničí. Referovalo sa o každej   maličkosti mikroskopickou presnosťou.
+    </tei:p>
+    <tei:p>
+     Janko Klinčok húpnul do stredu záujmu a zvedavosti. Mužovia mu   tisli srdečne ruku a ženy vrhaly naňho vábivé úsmevy ... Janko mal   pre každého úsmev, pre každého pekné slovo, ale srdce dal Helenke,   jedine svojej dobrej Helenke. Ona mu zachránila život, on jej otvoril   brány nového života. Helenkin otec (bohatý továrnik) im kúpil veľký   statok a v samote, v lône prírody, ďaleko od sveta žili v spokojnosti   len sebe, svojim túham a ideálom.
+    </tei:p>
+    <tei:p>
+     Ivan Zub, už v civilu, bol im za svedka, keď aj úradnou prísahou a   sľubom vernosti potvrdili svoju lásku ...
+    </tei:p>
+    <tei:p>
+     Biskupský seminár odkvitnúl, ako čerešňa v jeho záhrade, keď   pominul máj; spovedelník odišiel do penzie a celý život ľu-
+    </tei:p>
+    <tei:p>
+     86
+    </tei:p>
+    <tei:p>
+     ﻿toval tých časov, keď seminár bol bez rektora a dvere pivnice boly   dokorán otvorené; profesor cirkevných dejín bol preložený do malej   zapadlej dedinky za obyčajného kaplána, lebo sa opovážil pochybovať o   pápežovej neomýlnosti; prefekt sa na stará kolená zamiloval do akejsi   starej predávačky, išiel na dedinu za farára a starú predávačku si   vzal za gazdinú.
+    </tei:p>
+    <tei:p>
+     Klerici sa rozutekali na všetky strany sveta pod dojmom ohnivej a   dojímavej reči Ďurka Janičárskeho na poslednej schôdzi spolku   »Nikotin«. V seminári zostalo len niekoľko mladých a nezkúsených,   ktorí žiaľ bohu ani po tak hrozných udalostiach nemali dosť odvahy a   orientovanosti pustiť sa do sveta za kúskom chleba síce tvrdším, ale   spravodlivejším, ako v seminári...
+    </tei:p>
+    <tei:p>
+     Nový rektor, mladý, elegantný muž skoro ženských rysov zaujal svoj   úrad vo znamení láskavosti, shovievavosti a dobroty. Strava bola   prvotriedna. Stále sa usmieval a hladkal otcovsky svojich klerikov,   nejedenkrát i pobozkal, hoci i medzi ostatnými toho lebo onoho. Jeho   láska bola však čoskoro odhalená. Nový prefekt, tvrdý a nepoddajný   človek prichytil ho v jeho izbe s jedným mladým klerikom vo veľmi   chúlostivej situácii. Vec prišla pred biskupa. V dôsledku toho bol   preložený do ženského kláštora za spovedelníka, kde sa spriatelil   natoľko s tamojším katechétom, že predstavená vypovedala zo   žiarlivosti obidvom a prijala dvoch iných pastierov pre svoje   ovečky.
+    </tei:p>
+    <tei:p>
+     Seminár pomály osirel, oďkvital, odumieral, a čoskoro bol   prerobený na azyl pre padlé dievčaťá...
+    </tei:p>
+    <tei:p>
+     87
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿XVI.
+    </tei:head>
+    <tei:p>
+     Posledná cesta
+    </tei:p>
+    <tei:p>
+     Roky plynuly ako voda... Čas utekal rýchle, šialene a divoko
+    </tei:p>
+    <tei:p>
+     Rok podával roku ruku a závodily o ľudské životy a osudy... Úsmevy   rástly, úsmevy umieraly. šťastie kvitlo a odkvitalo, ako ruža. Rodily   sa vzdychy, rodil sa spev.
+    </tei:p>
+    <tei:p>
+     Smrť zápasila so životom a človek, syn smrti aj života, tlieskal   rukami, i smial sa, i plakal nad týmto zápasom.
+    </tei:p>
+    <tei:p>
+     Osud človeka je v rukách i života i smrti. Jednomu rozkazuje,   druhého poslúcha a pri tom kuje plány i proti jednomu i proti   druhému, človek stáva sa rebelantom, revolúcionárom a hynie obyčajne   z vlastnej ruky.
+    </tei:p>
+    <tei:p>
+     Uplynulo už mnoho rokov od toho času, čo mladí klerici lumpovali v   záhradnej reštaurácii. Tváre stvrdly, ako kus čierneho chleba v   šufliku továrenského robotníka, oči hľadia triezvo na svet a ruky i   modzog vylievajú prúdy energie na chalúpky, na paláce.
+    </tei:p>
+    <tei:p>
+     Janko Klinčok hospodári šťastne na svojom statku. Helenka sa stala   dobrou ženou a pečlivou matkou. Sú blažení! Jankov starý otec,   ktorého vzal k sebe, má najväčšiu radosť z malého vnúčka, ktorého   prezýva klerikom.
+    </tei:p>
+    <tei:p>
+     88
+    </tei:p>
+    <tei:p>
+     ﻿— Otecko, to slovo klerik, viac nepovedzte, ani počuť nechcem viac   o tom, že môj Janiček bol kedysi klerikom, — karhá Helenka deda.
+    </tei:p>
+    <tei:p>
+     — Len sa mi nedurdi, — bráni sa starý Klinčok, — keby môj Janko   nebol býval klerikom, vtedy by Helenka Dembinská nebola dnes Helušou   Klinčokovou.
+    </tei:p>
+    <tei:p>
+     A — život uteká... hodiny utekajú ako minúty, dni ako hodiny, roky   ako dni...
+    </tei:p>
+    <tei:p>
+     Ivan Zub svoje každoročné prázdniny trávi u Janka Klinčoka. A   tieto týždne obidvaja považujú za najšťastnejšiu dobu celého   roku.
+    </tei:p>
+    <tei:p>
+     Ivan Zub je profesorom na reálnom gymnáziu v K... žiaci ho majú   radi a pre jeho veľkú inteligenciu a rozsiahle vedomosti si ho   všeobecne vážia.
+    </tei:p>
+    <tei:p>
+     Nedávno vydal veľké dielo o stredovekej inkvizícii, ktoré svojim   hlbokým založením, správnym psychologicko-filozofickým pojatím a   dôkladným štúdiumom mu zaistilo zvučné meno vo vedeckých kruhoch a   hovorí sa o jeho povýšení na univerzitnú katedru.
+    </tei:p>
+    <tei:p>
+     Samozrejme cirkev dala toto významné dielo na index-
+    </tei:p>
+    <tei:p>
+     O Jožkovi Jasnom vedieť len toľko, že sa oženil s bohatou dámou,   ktorá ho prvá zvábila, a žije svetácky život z jej kapitálu, ktorý   zdedila po strýkovi v Amerike, žije bezstarostne, moderne a   neviazané. Miluje iné, ona iných...!
+    </tei:p>
+    <tei:p>
+     Sanctissimus po odpykáni trestu utiahol sa do kláštora kapucínov,   kde sa mu podarilo svätých pátrov presvečiť o svojej nevine. Po roku   bol vysvätený za kňaza, po dvoch rokoch opustil kláštor a dostal   miesto, ako kaplán v malom vidieckom mestečku, kde sú i ženy a život   je voľnejší, ako medzi ponúrymi stenami kláštora...
+    </tei:p>
+    <tei:p>
+     Janko Klinčok je na cestách so svojou ženičkou. Obzerajú si svet,   obzerajú ľudí. obzerajú prírodu a jej krásy.
+    </tei:p>
+    <tei:p>
+     Pätnásťkrát podal už rok roku ruku. Ich láska je ešte svieža a   usmievavá, ako jaro.
+    </tei:p>
+    <tei:p>
+     89
+    </tei:p>
+    <tei:p>
+     ﻿Janko sa prechádza po uliciach M... Proti nemu sa vlečie žobrák,   starý, otrhaný, vychudlý a zarastený.
+    </tei:p>
+    <tei:p>
+     Janko siahne do kapsy a vytiahne mincu. Pozre sa do tvári   žobráka.
+    </tei:p>
+    <tei:p>
+     — Rektor!
+    </tei:p>
+    <tei:p>
+     žobrák odvrátil hlavu a chcel bez slova odísť. — Neutekajte!
+    </tei:p>
+    <tei:p>
+     — Dajte mi pokoj, — odseknúl bývalý rektor, ktorý v elegantnom   mužovi tiež spoznal Janka Klinčoka.
+    </tei:p>
+    <tei:p>
+     — Chcem vám pomôcť, odpustil som vám všetko, rektore!
+    </tei:p>
+    <tei:p>
+     — Pomôcť! Mne pomôcť, — zarechtal sa a pokračoval trochu   kľudnejším hlasom. — Mne nech už nikto nepomáha. Mám už dosť pomoci.   — Nechcem od ľudí nič. Toto mi pomáha — a vytiahol z vrecka fľašu   špiritusu.
+    </tei:p>
+    <tei:p>
+     — Ale ja to myslím celkom vážne, učili ste nás, že zlo treba   dobrým odplácať ...
+    </tei:p>
+    <tei:p>
+     Bývalý rektor pozrel na svojho bývalého klerika a zdalo sa, že   jeho rysy zmäkly, ale o chvíľu vychraptel zo svojho špiritusom   prepáleného hrdla kus divokého smiechu a odišiel otrhaný,   vyhladovaný, biedny ...
+    </tei:p>
+    <tei:p>
+     Elegantný Janko Klinčok pozeral hodnú chvíľu za ním a jeho tvár   zosmutnela
+    </tei:p>
+    <tei:p>
+     Na druhý deň priniesly časopisy v policajnej kronike zprávu, že v   zapadlej uličke v drevenej búdke sa obesil istý žobrák, v ktorom   zistili bývalého rektora biskupského seminára, Klementa Satusa... žil   v spoločnej domácnosti so starou ženskou, menom Rózi.
+    </tei:p>
+    <tei:p>
+     Koniec.
+    </tei:p>
+    <tei:p>
+     90
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

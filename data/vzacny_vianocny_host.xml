@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1924415" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Vzácny vianočný hosť : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:732047587">
+     Bodnár, Július (1870 - 1935)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1787
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bodnár, Július
+     </tei:author>
+     <tei:title>
+      Vzácny vianočný hosť
+     </tei:title>
+     <tei:pubPlace>
+      Myjava
+     </tei:pubPlace>
+     <tei:publisher>
+      Tlačou a nákladom Daniela Pažického
+     </tei:publisher>
+     <tei:date>
+      1924
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿VZÁCNY VIANOČNÝ HOSŤ.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Už šieste Vianoce sa približovaiy a ešte jeho nebolo doma. Mnohí   už na vojnu sj zabudli, len Márii Drahovská nemohli svojho muža, Jána   Drahovského dočkať z ruského zajatia. Už keby jej nebol pisal, že je   na žive, nebola by taká netrpelivá, ale takto vždy si mysli, že azda   len príde. Ved sa už toľko navyzvedala, či je medzi legionármi ? — Či   je na žive ? Aie od dvoch rokov, akoby uťal, ani chýru o ňom. Hľa, aj   malý Jurko, ktorý pri vypuknutí vojny bol len dvojročný chlapček a   tak svojho tatíčka dobre ani nezapamätal, je už osemročný šuhaj, a   tiež by chcel svojho otecka videf. Veď mal by sa aj čim pochválif. Už   druhú zimu dala ho mamička do školy, čítanie mu ide ako po masle. Aj   listok by vedel tsííčkovi napísať, len keby vedel kam.
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    Mária Drahovská bola veími rozumná a verná žena a nadovšetko dobrá   matka. Ako milovala svojho muža, ísk v jeho neprítomnosti celú lásku   svoju preniesla na diets, na malého Jurka. Bez toho, aby ho bola   maznala, milovala ho z celej duše, lenže ona túto lásku k dieťaťu   uplatňovala v dobrej výchove. Á malý Jurko akoby bo! porozumel   krásnej snahe matkinej, poslúchal ju a učil sa dobre, aby jej tak   vynahrádzal nezvestného muža, ako svojho otca.
+   </tei:p>
+   <tei:p>
+    A veď aj bolo čo vynahrádzať, nie len vzdialeného otca, ale ešte   viac prítomného bezcitného starého otca, Ondreja Drahovského, ktorý   veru nepreukázal žiaden cit, žeby mu v Rusku zajatý syn, ján   chyboval; íež pohrúžený do mamonärstva málokedy smyslel si naň, tým   menej sa vyzvedal, či žije alebo nie.
+   </tei:p>
+   <tei:p>
+    Ondrej Drahovský bol pravzor opravdového a nesvedomitého lakomca.   Sluha nemohol uňho dlho vydržat a keď aj doslúžil, zavesil mu pravotu   za nejakú škodu, aby s celým platom nešiel domov. Aj k synovi sa tak   choval, ako k paholkovi. Poučiť ho nedil v ničom, a keď
+   </tei:p>
+   <tei:p>
+    ﻿5
+   </tei:p>
+   <tei:p>
+    bol už aj odrostlý, nepovolil mu chvíľku času, aby si mohol   odpočinúť, niečo si pričítať, alebo s ľudmi sa poshovársť. A preto aj   tak otupel, nemal žiadnej veselosii, ani radosti zo života. Len čo ho   jeho rozumná žena trochu povzbudila, aby sa neopúšťal na duchu, sťa   nejaký otrok, ale aby sa povzniesol nad trpkú prítomnosť, že však to   ešte aj lepšie bude. Nevľúdny otec za každým, keď len trochu   prebudilo sa v synovi ľudské sebavedomie, už mu pohrozil, že ho   vydedí, že môže ísť aj so ženou a dá všetko staršiemu synovi,   Michalovi, ktorý bol ľahšieho svedomia a zunujúc robotu uprskol do   Ameriky. Tu viedol dosť dobrodružný život, ale otcovi, či už   následkom neprítomnosti, začal byl vzácnejším a sľuboval si na ňom   viac.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Lakomý otec syna Jána aj na vojnu tak vystrojil. Keď vyšla   mobilizácia v noci s 31. júla na 1. august 1914. roku všade nastaiy   tklivé chvíle, ťažké ľúčenie, vrúcne vzdychy k
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    Bohu; len starý Drahovský nezdal sa byť dotknutým týmto vážnym   okamihom, jeho ženu úplne zachvátil kŕčovitý nárek nevestin, ale   Ondrej Drahovský dal sa vadiť a vykríkať na syna. Darmo ho krotila   žena, Zuzanna Drahovská, on len blúzni!, ako šialený.
+   </tei:p>
+   <tei:p>
+    — Vší k si ío on nevymyslel, tiež by radšej ostal doma, aspoň   naposledy mal by si sa  nim pekne rozlúčiť, kto ho vie, či sa aj   prinavráti kedy, riekla a ulieraia si slzy.
+   </tei:p>
+   <tei:p>
+    — Vráti — nevráti, čo mám z neho. Ty si ho maznala, preto nenie k   ničomu. Len vojančina a vojančina a ty človeče rob na staré dni. Len   čo došiel domov po troch rokoch vo* jančenia a teraz zas ide sa   povaľovať.
+   </tei:p>
+   <tei:p>
+    — Ej, keby ste vedeli tatiček, kam musím ísť, ináče by ste   hovorili. Viem, že som tu len za paholka, ale radšej by som ostal   doma. Neblížte mi už tofko.
+   </tei:p>
+   <tei:p>
+    — Že za paholka! Snáď by si chcel, aby som ti odovzdal majetok a   ja aby som robil za teba. Ešte si musíš počkať. Nedám, ej nedám si z   rúk ani jednu brázdu.
+   </tei:p>
+   <tei:p>
+    ﻿7
+   </tei:p>
+   <tei:p>
+    — Ale čo ťa je po všetkom, riekla stará, veď, kto ho vie, či sa   nám náš synáček s j vráti, — a dala sa do usedavého plaču. — Radšej   mu daj niečo do cesty, možno, že to už naposledy.
+   </tei:p>
+   <tei:p>
+    — Nedám, veru nedám, nech mu ten dá, kto ho volá a komu bude   slúžiť. Čo si myslíš, že ja mám nejakú banku?
+   </tei:p>
+   <tei:p>
+    Skormútený syn povediac tíško s Bohom, vykradol sa von zo stavania   do tmy s celou odhodianosfou, že pôjde do vojny a čo tam hneď aj   zahynie. Naľakaná žena vybehla za nim aj so synkom, aby sa aspoň ona   s ním naposledy pekne rozlúčila, jeho bôl svojimi slzami umiernila,   seba i so synkom do jeho srdca zavrela.
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    Už dávno započali sa prvé bitky okolo Lublina a Ivan Gorodu. Janko   Drahovský ešte 8 prvými oddielmi odišiel z Trenčína a tak bol aj on   účastný tých bojov. Jeho žena, Mária, nemala odpočinku. Ked nespals,   tak sa iste mo-
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    dlila za svojho muža. A nie len doma, lež aj v kostole. Pri   modlitbách za vojakov nie raz celý kostol do plaču uviedla. Chodila   jak omámená. Veď druhí aj z bojišťa písali a ona riadka nedostala.   Doma zas nebolo sa s čím potešiť.
+   </tei:p>
+   <tei:p>
+    Nie nadarmo hovori sa, že ľudia sú na miesto čeria. Tak aj tu   našly sa také nesvedomité ženy, ktoré túto tieseň Máriinu zneužiiy a   úbohú stvoru neprestajne predesovaly. Tak jedna jej hovorila, že   počula, že do Lieskovca vrátil sa akýsi ranený vojak, ktorý vie o jej   mužovi, akou hroznou smrťou sišiel so sveta, že ho v močiari kone   zašliapali. Naša Mária schytila sa do Lieskovca hľadať onoho raneného   vojaka, lenže ho nebolo, ani nikto o jej mužovi ničoho nevedel.
+   </tei:p>
+   <tei:p>
+    Zas iná žena skríkla, že veru cestovala s istou Sínolinčankou,   ktorá jej vyprávala, že upadol do akejsi vlčej jgmy, pripravenej pre   nepriateľa a tam biedne zahynul. Mária bežala aj do Smolinského, ale   zas nebolo z chýru nič pravdivého.
+   </tei:p>
+   <tei:p>
+    ﻿9
+   </tei:p>
+   <tei:p>
+    Ešte ju takto so pár rázy previedli, až jej vážnejší a dobre   smýšfajúci ľudia vysvetlili, aby nedala na podobné chýri nič, lebo   pod Lublinom bolo mnoho nsšeho vojska zajaío a tak veľmi ľahko, že sa   aj jej manžel nachodí už y
+   </tei:p>
+   <tei:p>
+    Rusku.
+   </tei:p>
+   <tei:p>
+    A vskutku, okolo Vianoc prvého roku vojny už písal istý Dúbravan,   že je v Rusku zajatý a spolu s ním je aj Ján Drshôvský. Bolo že tu   radosti, Mária div že s nôh nespadla, matka zaplakala, ba ešte aj   zatvrdilého otca radostná zpráva prenikla.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Od odchodu Janka Drahovského minulo už pár rokov a vojna nič   nepopúšťaia, ba kam ďalej, tým väčšou prudkosťou zúriía. Naši zajatí   na Rusi počali sa prebúdzať, 80 svojimi národnými vodcami oboznamovať   a ako legionári pod prápor československý verbovať. Zavítal ta aj   „tatfček národa“ Masaryk a vyzval našich vojinov, aby sa organizovali   v československú armádu,
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    ktorá by potierala zhubný nemeckc-madarský vplyv v Rusku. Naši   húfne prihlasovali sa k československým plukom legionárskym a medzi   nimi aj Janko Drahovský. Siovensko-národné povedomie sa v ňom tak   prebudilo, že by bol išiel hneď svojich bývalých katov rúbať.
+   </tei:p>
+   <tei:p>
+    Medzitým doma u Drahovských sa tiež všeličo premenilo. Starý   Ondrej Drahovský až teraz cítil, koho v synOvi utratil. Poneváč   odobierky k vojsku neprestajne trvalý, sluhu nebolo možno dostať.   Všetky práce, ak len nechcel zaostať za druhými, prišlo jemu samému   konať. Nie raz sa požaloval, nie raz ukazoval narobené ruky, nie raz   si vzdýchai:
+   </tei:p>
+   <tei:p>
+    — Ej keby sa Sen syn navrátil z Ruska, však mi ío nenie možno   obkonávať. Nechám všetko radšej tak. A pre koho sa ja mám takto   trápiť?
+   </tei:p>
+   <tei:p>
+    — Už si však smyslíte na syna, riekla Mária, ale vtedy ste si to   nevedeli vážif.
+   </tei:p>
+   <tei:p>
+    — Vedd-nevedef, človek nemôže vtdeť všetko. Aj pokarhať bolo   treba.
+   </tei:p>
+   <tei:p>
+    — Však íersz ste už na karhaný a ešte
+   </tei:p>
+   <tei:p>
+    ﻿11
+   </tei:p>
+   <tei:p>
+    môžete byť aj viac, kto ho vie, či sa kedy vráti — a slzy kanuly   jej s očlí. — Bola by chyba, ak by sa nemal vrátiť, a čo by som sám s   toľkým majetkom robil. — Čo je po majetku, riekla Mária. Vy len
+   </tei:p>
+   <tei:p>
+    majetok máte na mysli, viac než svojho syna.
+   </tei:p>
+   <tei:p>
+    Starý už bez šomrania počúval podobné výčitky, jeho srdce vždy   viac a viac mäklo, ba kde ho nevideli, aj sa poplakal, keď si na   svojho syna smyslel.
+   </tei:p>
+   <tei:p>
+    V.
+   </tei:p>
+   <tei:p>
+    Už je dávno po vojne. Streľba utíchlä, vojská sa s bojíší   porozchádzaly, celé ľudské pokolenie si vzdychalo, že bude sa môcť   venovať pokojnej a tvorivej práci. Len náš Janko Drabovský gs ešte   nenavrátil. Tam je s ostatnými našimi na Sibíri, kde robia česť nášmu   československému štátu, pomáhajúc ratovať úbohé Rusko pred   prevratnými živly.
+   </tei:p>
+   <tei:p>
+    Vzdor tomu, že da! vedeť o sebe, že je na žive, u Drahovských kam   ďalej íým viac zažie-
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    ra sa žravá pochybnosť. Už teraz nie lén nevesta, ale aj stará, —   ba aj starý narieka. Aj on naučil sa tak plakať, že by ho nikto   nepoznal, že je to Drahovský.
+   </tei:p>
+   <tei:p>
+    Len malý synáček, jurko, nechcel ukázať žiadnu pochybnosť. On sa   vždy chystal, ako si tatíčka privíta.
+   </tei:p>
+   <tei:p>
+    — Mama, pani učiteľka ma zase naučily modlitbu za nášho tatíčka.   Už ju aj viem a budem sa ju vždy modlievať, kým sa nenavrátia.
+   </tei:p>
+   <tei:p>
+    — Len sa modli, dieťa moje, teba snáď lepšie vyslyší Pán Boh, než   nás hriešnych.
+   </tei:p>
+   <tei:p>
+    — ja sa aj budem tú modlitbu modlievať, dokiaí len tatíček   neprídu. Tak by som ich rád videt. Aspoň „na Ježiška“ keby došli, by   nám rozprávali.
+   </tei:p>
+   <tei:p>
+    — Dal by to Pán Boh, dieťa moje; ale neverím, lebo nič, — nič   nepíše a Vianoce sú už tu.
+   </tei:p>
+   <tei:p>
+    Zavítal konečne milý a radostný svätý Štedrý večer. V najviac   rodinkách boly duše duchovnou slasťou naplnené, len uDrahovských   sedela akási tieseň na tvárach. Veď chyboval
+   </tei:p>
+   <tei:p>
+    ﻿13
+   </tei:p>
+   <tei:p>
+    ten, bez ktorého bolo všetkým ťažko žiť a ešte ťažšie zomref.
+   </tei:p>
+   <tei:p>
+    Sedela už celá rodinka za stolom, prikryté mal aj ján Drahovský,   ak by on nedošiel, zasadne miesto jeho hosť, lebo aj on je tam na   pohoštinstyo odkázaný. Tak to uviedla do zvyku Mária. Boli všetci   smutní, veď to už piate Vianoce bez neho, keď odrazu malý Jurko   skríkne: „Mama ktosi klope.“
+   </tei:p>
+   <tei:p>
+    Mária vybehne von, že snáď súsedia prichádzajú na štedráky, keď   odrazu vo vojenskom úbore v kozáckej sibírskej čapici predstúpi pred   ňu mohutný rázneho chodu a divého výzoru vojačisko, tak že cele   preľaknutá bežala do izby. A ešte viac ufaknúl sa tejto strašnej   postavy malý Jurko.
+   </tei:p>
+   <tei:p>
+    Ale preľaknutie netrvalo dlho, lebo hneď poznali, že ten ruský   vojak nenie nikto iný, než člen rodiny a náš sibírsky legionár, Ján   Drahovský, ktorý konečne prez Japonsko, Ameriku šťastne navrátil sa   domov.
+   </tei:p>
+   <tei:p>
+    Ach bolože tu radosti! Všetci susedia hneď pribehli a vyzvedali   sa, ako sa mu vodilo. Jurko
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    neschádzal s rúk tatíčkových. Starý Drahovský za stolom nemohol   ani slova prerieknuť, len čo si slzy utiera! s ručníkom. Ženy dávaly   to, čo najlepšie na stôl a všetci oslavovali Hospodina, že im dal   dožiť tohoto šťastného večera. Ale najviac Ján Drahovský, že   nestrádal, netrpel nadarmo, lež navrátil sa ako slobodný občan   oslobodeného československého štátu. /. B.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

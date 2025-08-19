@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1935594" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Obrázky z prázdnin : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton (1857 - 1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4091
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bielek, Anton
+     </tei:author>
+     <tei:title>
+      Obrázky z prázdnin
+     </tei:title>
+     <tei:pubPlace>
+      Praha
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1935
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     OBRÁZKY Z PRÁZDNIN
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Obdobie mojich študentských het živo mi je v pamäti, vďačne   pamätám sa naň. Keď tieto okolo mňa, keď duma zjaví sa v mysli, môj   duch tak rád sa zastaví u doby, kedy s knihou a perom v ruke stál som   v radoch ctiteľov múz a robil im poklony, tu geometrickými sadami   všemožných hypotéz, tam skandovaním Ovídiových distichonov alebo   učením sa zpamäti veršov Vergiliovej Aeneidy.
+   </tei:p>
+   <tei:p>
+    Tak sú mi tie časy ako čarovný prelud, ako sviatok, pri ktorého   spomienke zabaví, pohostí sa duša, ako baví a hostí sa oko na zjave   pestrej, bujarej lúky, plnej vône a farieb.
+   </tei:p>
+   <tei:p>
+    Rozprávam.
+   </tei:p>
+   <tei:p>
+    Prišiel deň odchodu. Na tvári každého študenta úsmev, v srdci   radosť. Klopoty skúšok a strasti školského roku ako by ich hodil do   vody, a slasti prázdnin — len rukou Siahnuť po nich. Čím bližšia   hodina odchodu, rozčúlenie tým väčšie. V predvečer rozlúčky nastalo   pakovanie a pre študenta jedna veľmi ťažká záhada: zriadenie   cestovnej toalety. Ale kde by i nie! Jeden kabát nemá lakťa, druhý   podšívky, nohavice nárokujú na muzeum, a botky —
+   </tei:p>
+   <tei:p>
+    83
+   </tei:p>
+   <tei:p>
+    6*
+   </tei:p>
+   <tei:p>
+    ﻿ani tá moderná sloboda, deravé, vykrivené. A z tohoto všetkého   sosbierať potom oblek! Nožnice, ihly, nite, kefa — veci to, za ktoré   nijaký poriadny študent nedá inokedy ani fajku tabaku — prišly do   ceny; a keď konečne i tieto prekážky boly nám za chrbtom, čo z   jedného kraja skúpili sme sa do hlúčku, potom zahvízdal rušeň a na   sklonku večera vystupovali sme z vozňov a vítali sa s usmiatymi   tvárami našich dobrých, našich milých. . .
+   </tei:p>
+   <tei:p>
+    A zasa znovu sadli sme navoz, veľký ani loď, a uháňali do dolín   medzi vrchy, do toho teplého, sladkého rodného hniezda. Večer pomaly   schýlil sa na okolie, na hory, a mesiac vykukol tam v diali zpoza   černavých skál. Čím dial, tým známejší každý dvorec, každá cestička,   potôčik, úvrat’ a stráň. A všetko to pláva v tom namodralom,   ovzdušnom, priesvitnom závoji, v tom trasľavom kmite pozdných chvíľ.   Až konečne tu sme pri bielučkom známom domku, pri drahom hniezde   drahých pamiatok, a čosi kamsi v náručí uradostenej matky, tam už u   prameňa lásky a jej zlatého srdca. Hladká mi vlasy a díva sa mi do   očú. Tvrdé ťahy študenta zmäknú, sladkosť rozleje sa mu po tvári, a   je zasa dieťaťom, a díva sa a díva na drahé ťahy rodičky, do jej   nevýslovne dobrých očí.. .
+   </tei:p>
+   <tei:p>
+    Zobudil som sa po sladko prežitej noci a vyšiel von. Díval som sa   brde, sviatočne vôkol seba. Príroda žiarila v plnom rozkvete krás,   bory kynuly mi pozdravom, lúky priateľstvom. Ako by aj nie, veď boli   sme starými zná-
+   </tei:p>
+   <tei:p>
+    84
+   </tei:p>
+   <tei:p>
+    ﻿mymi od mala, a veru radi sa mali, ako brat so sestrou, keď zjavil   som sa uprostred nich. Jedni vítali dakedajšieho druha v hrách, tí   starí, tí tešili sa, že tak dobre rastiem a „triebim“ sa medzi   svetom. Že tu bol kabát, tam halena, to nebolo nikomu na závade.   Bohužiaľ, tieto rozdiely rodia sa v ľuďoch až neskôr pri treniciach a   ťažkostiach života, a preto sú potom i tak ostré.
+   </tei:p>
+   <tei:p>
+    A minulý sa pomaly sviatočné dni príchodu a život vchádzal do   kolají všedností, ak totiž tú bujarosť mladých liet možno nazvať   všednosťou. Pero, kniha, výlety s puškou, s chlopcom alebo udicou   bývalý stálym programom bezstarostného študenta. Do toho sa zamiešala   návšteva druha alebo člena rodiny, a deň míňal sa za dňom ticho,   nepozorovane. Prečastým druhom mojich zábav býval hájnik Brhel. Býval   hore, vyše dediny, tam na krížnych cestách, aby každý, kto ide z   hory, musel mu popred zelené obloky. Už tomu asi pätnásť rokov, a   jednako, ako by i dnes živý stál predo mnou. Vysoká postava s   vykrútenými fúzmi, rovným, odmeraným chodom, nezbytnou puškou na   pleci a s hlucháňovým perom za klobúkom. Starý vojak zpod Milána a   Verony, prudký, no dobrák až po posledný halier. On bol mojím prvým   učiteľom, keď bral som do ruky pušku, učil ma z hniezd vyberať   vtákov, chovať drozdov a skalných vrabcov. Celé poldne túlavali sme   sa spolu po horách za divinou, po ostrých, neschodných skalách za   vtáčou. Jemu patrila tá prvá z mojich návštev, ba priznám sa, čím   viac klopaly mi na dvere prázdniny, tým častejšie myslel som na
+   </tei:p>
+   <tei:p>
+    85
+   </tei:p>
+   <tei:p>
+    ﻿neho. Tá osmahlá tvár a ostrý hlad kukaly z každej litierky, z   každého riadka na mňa a vábily myseľ ta v chlad ihličnatých hôr za   srnkou, alebo na neschodné skaly za mohutným dravcom ovzdušia,   rýchloletým orlom.
+   </tei:p>
+   <tei:p>
+    Hneď na druhý deň sišli sme sa s Brhelom pod našimi lipami.   Zavolal som na neho, idúceho po ceste, obzrel sa a na tvári zrodil sa   mu úsmev. Sľúbil som mu, že prídem, a deň potom, za jasného podvečera   vybral som sa k nemu chtiac s ním pri najbližšej príležitosti do hôr.   Malá záhradka na preddomí, zelené okienka s kvetúcim muškátom a veľké   jelenie parohy tak milo kynuly mi. Po stenách v klietkach čŕkali   mladí drozdí, pohvizdovali skalní vrabci, na topoli rapotala a   hojdala sa straka a za domom žblnkotal čerstvý potôčik.
+   </tei:p>
+   <tei:p>
+    Odhačkoval som malé dvierka a vošiel dnu. Y domku ticho, Brheľa   nebolo doma. Žena jebo, Terezka, sedela na lavičke pri dverách a   vyšívala. Kroky zavznely, postál som; starenka pozdvihla hlavu.
+   </tei:p>
+   <tei:p>
+    „Pánboh daj dobrý večer, Terezka!“
+   </tei:p>
+   <tei:p>
+    Terezka ponjknula si okuliare na nose a skočila ako mladica.
+   </tei:p>
+   <tei:p>
+    „Ach, Bože môj, veď sa len dívam, dívam, kto to, ale kto by sa   nazdal, že si to ty kurka moja; z teba je už celý mladý pán. .A   dívala sa, či sa nenahnevám, keď mi len tak po starom zvyku hovorí.   Ja usmieval som sa a krútil si malé fúziky.
+   </tei:p>
+   <tei:p>
+    „Nič nerobí, Terezka, len sa vy nedajte mýliť,“ ho-
+   </tei:p>
+   <tei:p>
+    86
+   </tei:p>
+   <tei:p>
+    ﻿voril som. Ona usmiala sa potom, a trochu bokom sa pohybujúc, s   rukama pod zásterkou ukrytými, blížila sa ku mne.
+   </tei:p>
+   <tei:p>
+    „Veď si aj ja myslím, že dobrým slovom hlavy neprebiješ. My starí   to už len tak hovoríme, ako nám srdce na jazyk donesie. Ale vidíš,   aká som zábudlivá, ani som ťa neponúkla, aby si si sadol,“ hovorila   ďalej, a zvrtnúc sa utierala záponou lavičku; „no, tuto, alebo ešte   lepšie, keď pôjdeme do izby.“
+   </tei:p>
+   <tei:p>
+    „Nie, Terezka, lepšie je vonku.“
+   </tei:p>
+   <tei:p>
+    „Dobre, dobre, ale ponúkla by som ťa niečím. Budeš, dieťa moje,   smotánky? Taká je ako maslo.“
+   </tei:p>
+   <tei:p>
+    A skočila do izby, nečakajúc odvety. Na tvári, v reči, v pohyboch   žiarila jej taká srdečnosť, prívetivosť, že milo mi bolo dlieť blízko   nej.
+   </tei:p>
+   <tei:p>
+    „Rozprávajteže, Terezka, ako sa vám vedie,“ riekol som, vezmúc za   vďak jej dárok.
+   </tei:p>
+   <tei:p>
+    „No, Bože môj, len tak, ako my, ako nám kedy príde. Raz dobre, raz   zle.“ Potom dívajúc sa po mne, doložila; „kto by to bol povedal, že   tak vyrastieš. Keď som ťa pestovala. .. “
+   </tei:p>
+   <tei:p>
+    „. .. bol som maličkým, však?“ pretrhol som ženičku s úsmevom.
+   </tei:p>
+   <tei:p>
+    Pomýlená, nevedela chytro ako vetu zakončiť, hovorila: „Veru, málo   čo väčší ako tento palček.“ Po malej prestávke pokračovala: „Vidíš,   my to len tak onakvo rozprávame, ako nám na jazyk príde. Ale zabudol   si mi povedať, ako sa ti vodilo na školách,“ a pozrela mi do očí.
+   </tei:p>
+   <tei:p>
+    87
+   </tei:p>
+   <tei:p>
+    ﻿I pohovoril som jej všetko, čo som vedel, potom pýtal som sa po   Brheľovi.
+   </tei:p>
+   <tei:p>
+    „Hm, čo by ten robil, chodí s tým flintiskom od rána do večera. Aj   sa s ním dosť nahúznim, ale potom si pomyslím, keď je v službe, musí   robiť, čo mu kážu a nechám tak.“
+   </tei:p>
+   <tei:p>
+    „A zdravý je?“
+   </tei:p>
+   <tei:p>
+    „No, neponos Bohu, len aby horšie nebolo. Keby tých nôh nie, ale   sa ponosuje, ako by mu olova na ne prikladal.“
+   </tei:p>
+   <tei:p>
+    „Len ho opatrujte, Terezka, aby vám dlho požil.“
+   </tei:p>
+   <tei:p>
+    „Veď ho ja, veru, opatrujem, kurka moja, ako oko v hlave. Každé   ráno má mrvánkov v sladkom mlieku, koľko chce, na obed tiež mu   neumálim, a na večer ani nejedáva okrem kúsok slaninky s chlebom. Ale   keď je on tiež čertova zelinka. Ani by človek nepomyslel. . .“
+   </tei:p>
+   <tei:p>
+    „A neposlúcha vás?“
+   </tei:p>
+   <tei:p>
+    „Hja, ako mu kedy príde. Keby len nie ten nešťastný trúnok, ale   ten mi odoberá môj pokoj.“
+   </tei:p>
+   <tei:p>
+    „No?“
+   </tei:p>
+   <tei:p>
+    „Hja, prosím ťa, zlé kamarátstvo. Zvábia ho do krčmy a potom, pane   Bože, pomôž. On je mäkkého srdca, napája, koho vidí, a potom stone. A   ty sa s ním tráp, sužuj. A keby si ti chcel dať povedať. . . “
+   </tei:p>
+   <tei:p>
+    „A čože vám ukrivdil?“
+   </tei:p>
+   <tei:p>
+    „Oh, Bože chráň, škaredého mena mi on nedá, ale keď už má niečo v   hlave, to je s ním hotová muka. Toť kedysi som sa mu skoro do vlasov   nanosila.“
+   </tei:p>
+   <tei:p>
+    88
+   </tei:p>
+   <tei:p>
+    ﻿Hľadel som na ňu; starena rozprávala.
+   </tei:p>
+   <tei:p>
+    „Prišli z poľovky, polesný dal im čosi vypiť. I vyčkávam ho až do   tuhého večera, už nikde nesvietili. Zrazu šuchne mi niekto u okna.   Dívam sa a vidím, že stojí pri obloku, klope a volá: „Doma je pán   BrheI, vyslúžený kaprál a sínajského panstva hájnik?“ Ako by žeravého   uhlia do mňa nasypal. Vyskočím; „veru doma, pekne doma,“ rečiem a   chľapnem sa od čuda po kolenách, „túla sa po krčmách a druhí statoční   Iudia spia už doma.“ I chcem mu otvoriť dvere, ale on sa zvrtne a   povie: „No, keď pána Brhela niet doma, nemám tu čo hľadať“ — a hybaj   zasa do krčmy. Predvčerom zasa ho sviedli do krčmy. Čakám a čakám.   Príde kedysi o desiatej, a zasa klope: „Doma je pán BrheI, vyslúžený   kaprál a sínajského panstva hájnik?“ „No, doma, doma,“ volám ticho,   „len už poď spať, už je čas!“ Ale mrcha, čo minevyvedie? „Keď je   doma, nemusím ísť domov ja,“ obráti sa a hybaj preč! Div som sa   nestratila od hnevu, ale predsa mi potom prišiel onedlho domov, a   smial sa, čím som sa ja viac hnevala.“
+   </tei:p>
+   <tei:p>
+    „No, vidíte, to si on len žart robil,“ vyhováral som, hladiac   utajiť úsmev.
+   </tei:p>
+   <tei:p>
+    „Veru, zastávaj ho; také darebnice vystrájať, a to starý chlap.   Veď už má. . .“ dala si hlavu dolu, potom hore, a pýtala sa sama   seba: „ale kolko je, čo sme spolu? Po sestrinej smrti štyri roky, čo   sme sa sobrali, a tá umrela v ten velký hlad. . . bude už na dvadsať   štyri roky, teda už bude mať dobrú päťdesiatku na chrbte, a
+   </tei:p>
+   <tei:p>
+    89
+   </tei:p>
+   <tei:p>
+    ﻿nelení sa mu pletky stvárať, ako by po fašiangoch chodil.“
+   </tei:p>
+   <tei:p>
+    „Veď vám on to každý deň neurobí. ..“
+   </tei:p>
+   <tei:p>
+    „Tak, ešte to by mi bolo treba; veď by som sa mu ozaj do vlasov   nanosila. .. “
+   </tei:p>
+   <tei:p>
+    A mykla rukou, trhla hlavou, ako na dôkaz, že je odhodlaná svojmu   úmyslu platnosť získať, ak by jej muž ešte raz ,,pána Brheľa“ hľadal   pod svojimi vlastnými oknami.
+   </tei:p>
+   <tei:p>
+    Slnko už zapadalo; nachová žiara rozlievala sa po hrebeňoch   zelených bŕd a dolinou vial čerstvý chlad.
+   </tei:p>
+   <tei:p>
+    Brhelová išla skladať oheň, odbývať statok, ja bol som v záhradke   sám. Bavil som sa tu vtáčou v klietkach švitoriacou, tam kopovom pri   nohách mi driemajúcim, alebo smial sa veveričí v bubne svoje   ostroskoky prevádzajúcej. 0 chvíľu došiel i Brheľ. Z očí svietila mu   radosť uvítania. Vykrúcal si fúzy, behal sem tam, ukazoval vábniky,   pušky, náboje, srnčie parožky, natiahnuté kože z jazvecov chytených   do chlopca, orbe perá, drapy a zobáky, ktoré nosieval do úradu, aby   si vyzdvihol patričnú odmenu za postrel. Až v noci vrátil som sa   domov, radujúc sa v duchu sľubom hájnikovým, že pôjdeme nastaviť tam   a tam na jazveca, postriežiť na srnu, zastať si na orla alebo   rýchloletú kaňu. Chodníky, pirte a lazy čiernych hôr môjho rodiska   oživly v mysli mojej, a ja z duše radoval som sa každému výletu do   jedľových alebo bukových tíšav čiernych Beskýd.
+   </tei:p>
+   <tei:p>
+    Asi o týždeň stretol som ho na krížnych cestách vedú-
+   </tei:p>
+   <tei:p>
+    90
+   </tei:p>
+   <tei:p>
+    ﻿cich cez vrch Korchan do Lieskovca. Šiel som od svojich. Sedel pod   krížom, ustatý, pušku majúc preloženú cez skrížené nohy. Odpočíval.   Ja bavil som sa chvíľu s ním, potom išli sme spolu domov. Pri   rozlúčke mi povie:
+   </tei:p>
+   <tei:p>
+    „V pondelok na noc pôjdeme do hôr; pôjdete?“
+   </tei:p>
+   <tei:p>
+    „A našli ste čo?“
+   </tei:p>
+   <tei:p>
+    „Našiel veru ja. ..“
+   </tei:p>
+   <tei:p>
+    „Nuž?“
+   </tei:p>
+   <tei:p>
+    Nehovoril nič, len sa usmieval. Ja nedotieral som na neho, bol som   rád výletu. Rozišli sme sa pred našimi.
+   </tei:p>
+   <tei:p>
+    „Ale na obed sa pohneme!“ volal na mňa obďaleč, a zmizol vo tmách.   Potom do nedele som ho nevidel; no sotva sme v pondelok odložili   lyžice, Brheľ už čakal na mňa a môjho priateľa.
+   </tei:p>
+   <tei:p>
+    „Tu sú svorky,“ hovoril som Brheľovi vyjdúc von, „psi sú   zavretí.“
+   </tei:p>
+   <tei:p>
+    „Teraz nebude ich treba; len pár ostrých nábitkov aby sme mali pri   rukách.“
+   </tei:p>
+   <tei:p>
+    O malú chvíľku kráčali sme k horám.
+   </tei:p>
+   <tei:p>
+    Pohorie Beskýd sú azda najmenej známe brdá našej domoviny. Ležia   na severnom pomedzí nášho rodiska a delia naše kraje od Polska a   Sliezska. Málokomu octnú sa v ceste. Život Slovenska prúdi najviac   korytami Moravy, Váhu, Nitry, Hronu, Ipľa a Slanej. Čo leží v druhé   strany, to odľahlé, zabudnuté, neznáme. A predsa nikto nebanoval, kto   zavítal v lono Beskýd. Tá tajomná tichosť slúčená s mohutnosťou,   veľkoleposťou foriem, romantikou výhľadu, bohatstvom rastlinstva   vyrazená je tu tak
+   </tei:p>
+   <tei:p>
+    91
+   </tei:p>
+   <tei:p>
+    ﻿vypuklé i na sebe menšom útvare celku, že s istou nábožnou bázňou   kráčaš v tomto chráme večného ticha a bojíš sa vzbudiť hluk hrmotom   prudkého kroku a vzrušiť ozvenu hlasom náhle vyrazeným z pŕs. Čerň   jedlín, zeleň bučín pretkaná lúčinami, hlboké doliny s potôčkami   plnými pstruhov, prudké svahy plné malinia, zimolúzu a jemelia s   kamennými rebrami tam vo výši, v dolinách a na pätách bŕd malé domky,   úzke hony s chudým osením; to všetko spája sa ti pred očami v   idilický celok a ostáva príjemnou upomienkou na celý rad rokov   neskôr.
+   </tei:p>
+   <tei:p>
+    Povyše dediny obrátili sme sa vľavo. Brheľ kráčal pred nami a   stúpal lučinou vždy nahor. Ja s priateľom za ním. „Dnes si vystreme   nohy,“ riekol čakajúc pár krokmi napred a utierajúc si pot s čela.   „Ale nám už len môžete povedať, kam pôjdeme,“ prihováral som sa mu,   obracajúc svoj zrak na kraj. „Až za Raču. ..“ Roztvoril som oči. Rača   je asi štyri tisíce stôp vysoký vrch, deliaci chotár Starých Bystríc   od poľskej obce Rajcze. „A čo tam bez psov?“ Brheľ odfukoval a   usmieval sa. My obrátili sme sa k nemu, chcejúc mu z tvári vyčítať   tajnosť. Čakali sme. „Budeme hľadať vlčie hniezda,“ riekol hájnik a   díval sa na nás, ako by stopoval, aký účinok bude mať na nás táto, i   v poľovníckych kruhoch zriedkavá udalosť.
+   </tei:p>
+   <tei:p>
+    92
+   </tei:p>
+   <tei:p>
+    ﻿Pravdu rečiem, nie práve najkrajšie mi znelo, keď počul som, že   máme až za Raču. Bol som tam už raz, no nezabudol som posial na   námahy s tým výletom spojené. A vtedy pohli sme sa z domu hneď po   polnoci, a dnes sála tá horúčosť ako z vykúrenej pece. Iba novota   zriedkavého podniku účinkovala na mňa príjemne. Statne kráčali sme   hore. Cez oblú stráň viedol chodník na proťajší nižší hrebeň hôrneho   výbežku a zmizol v lese. Octli sme sa v chlade. Ihličie jedlín   ševelilo nám nad hlavami. Ráz prírody zmenil sa očividome; ostrý   výraz samoty, opustenosti zieral z každej skaly, z každého pňa. Naše   postupovanie potkávalo sa vždy s väčšími ťažkosťami. Tu v cestu   povalený ohromný peň, tam poprieč ležiaci strom alebo šíp hroziaci   oku šibnutím, to všetko prekážalo nám v pochode. Dovôkol ticho, iba   ak ti pri nohe zašustí, zachrestí utekajúci had, bojazlivá jašterka,   alebo pukne a rozhodí prach biela, čertovým mieškom z\aná jedovatá   huba. A v šír i v dial blúdiace oko nevidí nič iba horu a horu a ucho   nečuje okrem občasného škreku sojky len tupý chropot vlastného kroku.   I zahladíš sa; duma z tej čiernej hory sadne ti na prsia, do srdca,   tajné rozochvenie spojené s nádychom samoty vezme nad tebou vrch, a   oko tvoje tekavo sprevádza tie hmlisté obrysy modrastej diale, ako   tratia sa a miznú na pokonných čiarach obzoru.
+   </tei:p>
+   <tei:p>
+    Vyšli sme na lúku. Pod nami perspektíva čiernej doliny, nad nami   zlatočervené jahušky, vprostred vápenistétemä výšiny a na pár krokov   čistý pramienok vody.
+   </tei:p>
+   <tei:p>
+    93
+   </tei:p>
+   <tei:p>
+    ﻿Tuhou chôdzou krupaje potu zjavily sa nám na čele. Čerstvý chlad   ovial nám tváre.
+   </tei:p>
+   <tei:p>
+    „Aby sme si odpočinuli,“ vyzýval súdruh a položil sa vedľa   studienky na trávu.
+   </tei:p>
+   <tei:p>
+    „Mladí páni, tu odbavíme i večeru!“ rozkazoval Brheľ rozväzujúc   nošu.
+   </tei:p>
+   <tei:p>
+    „Hádam až na temene?“
+   </tei:p>
+   <tei:p>
+    „Obídeme ho; musíme tadiaľto vbok cez úval k Senkovu.“
+   </tei:p>
+   <tei:p>
+    „Ako ste prišli na to hniezdo?“ pýtal som sa medzi jedením.
+   </tei:p>
+   <tei:p>
+    BrheI sa sebavedome usmial. „To mám ešte od nebohého otca.“ Potom   doložil: „Možno, že ešte pôjdeme zpäť aj naprázdno. Mne sa len zdá,   že tu musí niečo byť; iste neviem.“
+   </tei:p>
+   <tei:p>
+    „A po čom súdite?“
+   </tei:p>
+   <tei:p>
+    „Podlá zdania. Tu — ukázal na svahovité, ovciam na salašoch   letujňcim za pašu slúžiace lúky — najviac napádajú lichvu.“
+   </tei:p>
+   <tei:p>
+    Počúvali sme pilne; hájnik rozprával:
+   </tei:p>
+   <tei:p>
+    „Na Blatách za nedlhý čas už šiestu ovcu urvali; siedmu som im len   pred pár dňami z hrtana vytrhol.“
+   </tei:p>
+   <tei:p>
+    „A, prosím vás, čo vás sem donieslo?“
+   </tei:p>
+   <tei:p>
+    „Kdeže by sa hájnik nezatúlal. Ja som aj v týchto horách ako doma.   Moja obora siaha az po oščadnícke hory. A j ako tu už býva, že horári   radi zamiešajú cudziu kašu, nuž i ja chtiac nechtiac každý týždeň   vyjdem na temä Rače, či nám kto divinu nekosí. . . “
+   </tei:p>
+   <tei:p>
+    94
+   </tei:p>
+   <tei:p>
+    ﻿„A chytili ste už kedy niekoho?“
+   </tei:p>
+   <tei:p>
+    „Ó, to sa tu stane; najmä tu v Oščadniciach máme takých dobrých   súsedov.“
+   </tei:p>
+   <tei:p>
+    Po chvíli pokračoval:
+   </tei:p>
+   <tei:p>
+    „Pozajtre bude týždeň, vybral som sa hore a sadol tam hore na   stráň k valachovi. Rozprávame sa, až keď psi začnú brechať. Keď to   trvalo dlhšie, upriamil som pozor a načúvam. Čo to ? Ale ovce sbily   sa dohromady, strachom dívaly sa sem tam, a psi len brešú a s hrozným   skokom šmykli do húšť a vy .To bude vlk, kričím valachovi a utekám k   ovciam, a jemu kývam, aby s valaškou zastal na tom mieste, kde psi   zmizli v húšti. Netrvalo dlho, pokraj lesa plúžila sa vlčica rovno k   ovciam, ale som jej pustil olovo do kožucha, že skoro nemala sa ani   ako vrátiť.“
+   </tei:p>
+   <tei:p>
+    „Nuž a psi kde boli?“
+   </tei:p>
+   <tei:p>
+    „Psi brechali hlboko v lese.“
+   </tei:p>
+   <tei:p>
+    „A to je ako možné?“
+   </tei:p>
+   <tei:p>
+    „Boli za vlkom.“
+   </tei:p>
+   <tei:p>
+    „Veď rozprávate, že plúžil sa pozdĺž húšti.“
+   </tei:p>
+   <tei:p>
+    „Hja, to má svoj fortiel. Práve z toho súdim, že tu kdesi budú   mladé.“
+   </tei:p>
+   <tei:p>
+    BrheI sa usmieval ako človek, ktorý dáva hádky a rád je, že nemôže   mu ich nikto uhádnuť. My so súdruhom čakali sme vysvetlenie.
+   </tei:p>
+   <tei:p>
+    „Keď vlčica vrhne a nosí mladým žranicu, vtedy nechodí sama, ale   jej pomáha i vlk. A potom človeku by sa ani nesnívalo, čo títo dvaja   majú fíglov. Kde začujú korisť, idú a pozorujú z blízkej húšťavy, čo   sa robí. Keď
+   </tei:p>
+   <tei:p>
+    95
+   </tei:p>
+   <tei:p>
+    ﻿neni nič povážlivého nablízku, vyskočí najprv vlk; ale keď psi   alebo človek pustia sa do neho, uhne do húšťavy a vábi za sebou, láka   čím hlbšie do lesa. Ale vlčica je žatým v zálohe a striehne; keď   vidí, že lesť sa podarila a psi sú ďaleko, vrhne sa na osamelé stádo,   chytí ovcu a odvlečie ju mladým.“
+   </tei:p>
+   <tei:p>
+    „A inokedy nechodia po dvoch?“
+   </tei:p>
+   <tei:p>
+    „Nie, len keď majú mladé!“
+   </tei:p>
+   <tei:p>
+    „Hm, myslím, hľa niečo z poľovníckych skúseností, o ktorých   nedočíta sa človek z kníh.“ Môj priateľ sa pýtal:
+   </tei:p>
+   <tei:p>
+    „A kedy vlčica obyčajne vrhá?“
+   </tei:p>
+   <tei:p>
+    Začiatkom mája, niečo po Ďure, ale beda tomu okoliu, kde peleší. Y   prvých dňoch sám vlk zaobstaráva potravu a vtedy nezná žartu. Je   slepý, hluchý. Neminie týždňa, aby nezmizla ovca, jahňa, tela a   čokoľvek, čo dostane sa mu blízko drapov. Ale je to aj práca nasýtiť   tri až sedem nadmier hltavých, pažravých, vždy hladných hrtanov. A   čím ďalej, tým viacej spotrebujú títo hltavci, až konečne, ak   nepodarí sa zničiť hniezdo jedom alebo olovom, ľudia veľkými škodami   rozhorčení, shluknú sa v tlupu, a horu za horou, dohnú za dolinou   prekutajú, aby zničili pažravú divinu.“
+   </tei:p>
+   <tei:p>
+    „A podarí sa to niekedy?“ „Ťažko; vlčica je pri vrhaní velmi   obozretná. Y ska-
+   </tei:p>
+   <tei:p>
+    lách, úžlahinách ustiela si pelech.“
+   </tei:p>
+   <tei:p>
+    Slnko tam na západe kládlo n ž na hrebeň hôr svoj zlatý účes.   Okolo neho nach zory a zlatých obláčkov na
+   </tei:p>
+   <tei:p>
+    96
+   </tei:p>
+   <tei:p>
+    ﻿tisíce. Hora i dolina, les i stráň skvelý sa v pokonnom ožiarení.   Tiene sadaly na doliny a šírily sa po pätách hôr.
+   </tei:p>
+   <tei:p>
+    BrheI zastal. „Kam teraz?“ pýtali sme sa.
+   </tei:p>
+   <tei:p>
+    „Ku Senkovu pod ostré Úžľabiny.“ Zavznel chrup kroku. Čerstvý prúd   vetra zavial z hôr.
+   </tei:p>
+   <tei:p>
+    Mrak stlal si i po výšinách. Takmer znať bolo, ako uberá sa   príroda na odpočinok. Postupne zamieral život dovôkol, koruny stromov   černely sa nad našimi hlavami, okolo nás vždy väčšia tma. Len kde tu   vidno kus tmavomodrej oblohy a hviezdy — ako keby množstvo zlatých   svetielok zavesil na vrcholce štíhlych jedlíc.
+   </tei:p>
+   <tei:p>
+    BrheI stúpal popredku, my šli sme tíško za ním. Len ak kedy tedy   suchá haluz praskla nám pod nohami. Dovôkol ticho ako v chráme a   šepot húšťavy ako vzdych vrúcej modlitby. S vrchu do doliny a zasa   hore viedol nás chodník. Náš vodca stúpal iste; mal všetky schádzky a   križovatky v malíčku. My sme ho slepo nasledovali. Konečne vyšli sme   na lúku; celý skvost letnej noci vznášal sa nad nami. Mesiac zjavil   sa na čiernom chobote príšernej Babej Gory, povetrie bolo plné vône z   húb, materinej dúšky, hôrnych travín, a zdalo sa, ako by z kmitu   striebristých lúčov utkaný závoj visel na černi lesných priehlbín a   tichu veľkých hôr.
+   </tei:p>
+   <tei:p>
+    Hoci sme boli ustatí po tvrdej chôdzi, jednako tak sladko mi bolo   u srdca. V tom tajomnom mieri uprostred nočného ticha, v súsedstve   toho tajného šumenia, ďaleko od záští a životných búr cítil som sa   ako dieťa v mäkkej, čistej kolíske.
+   </tei:p>
+   <tei:p>
+    97
+   </tei:p>
+   <tei:p>
+    Obrázky z hôr — 7
+   </tei:p>
+   <tei:p>
+    ﻿Po namáhavom, asi tri hodiny trvajúcom pochode octli sme sa na   lúčnatom sedle. Pred nami vrch Šenkov, vpravo hlboká, Čiernym potokom   zvané dolina, vľavo hory Rajcze a za nami vysoká Rača.
+   </tei:p>
+   <tei:p>
+    Brheľ zastal; zdalo sa, že váha. Pýtali sme sa po príčine.
+   </tei:p>
+   <tei:p>
+    „Neviem, kde vábiť. Možno, že sú i za chotárom v Poľskej.“
+   </tei:p>
+   <tei:p>
+    Trvalo chvíľu, kým hútal. My stáli sme nemo vedľa neho.
+   </tei:p>
+   <tei:p>
+    „Oprobujeme tu,“ rozhodoval konečne. „Všetko tak vyzerá, že budú v   Úžlabinách.“
+   </tei:p>
+   <tei:p>
+    Postúpil pár krokov napred a kynul nám.
+   </tei:p>
+   <tei:p>
+    ,,Ja idem do húšťavy, vy sadnite si tu na pne. Natiahnite   kohútiky, ale potom s výstrelom pozor, lebo neprišli sme dnes   strieľať.“
+   </tei:p>
+   <tei:p>
+    Sadli sme si na starý vyvrátený strom, pušky odpočívaly nám na   kolenách. Pod mesiac vkradla sa mrákava, sotmelo sa. Na horách plával   ohromný mrak. Z doliny vial chlad rovno do tvári, o nohy pokúšala sa   studeň rosy. Čakali sme.
+   </tei:p>
+   <tei:p>
+    Brheľ zmizol nám pred očami v liúšťave. Chrup kroku unikal v   diali, až zanikol. Minul okamih, dva, potom chvíľa. Nič. . . iba   jemný tajomný šum vetra v korunách a miliardy iskrivých svetiel nad   nami. Ale zrazu z húšťavy, tam z hlbiny došiel nám do uší zvuk, nie,   istý odtieň zahučania ako zpod zeme. Znel tiahle, temne, tupo a vytiu   až po možnosť sa podobal. Mimovoľne stisol som hlaveň
+   </tei:p>
+   <tei:p>
+    98
+   </tei:p>
+   <tei:p>
+    ﻿pušky, mriavky behaly mi po tele, lovecká triaška sa ma chytala. S   vlkom nestál som ešte zoči voči, a v pamäti ožily mi všetky tie   rozpomienky, ktoré si ľud o tomto hroznom dravcovi za zimných časov   rozprával a mne ho v takých čiernych ťahoch predstavil.
+   </tei:p>
+   <tei:p>
+    Môj priateľ sedel tesne vedľa mňa. Ruky oboch spočívaly na puške a   zrak náš namierený bol do lesa, či skoro zjaví sa čakaná šelma. .   .
+   </tei:p>
+   <tei:p>
+    No ani haluz sa nehla, len mesiac svietil nepremenlivo nad nami a   ticho bolo zasa ani na cmiteri.
+   </tei:p>
+   <tei:p>
+    Vytie v húšťave vzniklo znovu, tak iste, tak ťažko ako predtým.   Ozvena zamrela v skalách, v dolinách a na tmavom priestore hôr zasa   nebolo počuť iné, iba ten tajný nočný šum.
+   </tei:p>
+   <tei:p>
+    Ale zrazu ako by elektrická iskra prelietla naším telom. Hľadeli   sme, odkiaľ to. Kňučanie, tiahly, brechotu podobný štekot, plač,   škrek, vrčanie, funenie ozvalo sa z Úžlabín. Ako koncert papagájov,   alebo ako keby človek ďasov z reťazi popúšťal, taký škrek otrel sa   nám o uši.
+   </tei:p>
+   <tei:p>
+    „Čo to?“ rečiem a skočím na rovné nohy.
+   </tei:p>
+   <tei:p>
+    Onedlho zjavil sa Brhel; úsmev žiaril mu z očí.
+   </tei:p>
+   <tei:p>
+    „Čo to?“ opakoval som, pristúpiac k nemu. „Uhádol som. Vlčica   peleší v TJžľabinách. To vĺčatá
+   </tei:p>
+   <tei:p>
+    zavýjajú.“
+   </tei:p>
+   <tei:p>
+    Znovu sme si sadli a dávali pozor na koncert vlčích šteniat, no   netrval dlho. Zrazu utíchlo všetko a so strany Rače ozývalo sa vytie,   ako nedávno z húštiny. Hlas ten istý, no trochu plačlivejší, zosilený   hlbokým zavýja-
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    99
+   </tei:p>
+   <tei:p>
+    ﻿ním vlka samca, do ktorého v krikľavejších prieťahoch miešal sa   štekot samice. Štence potom utíchly a neozvaly sa viac.
+   </tei:p>
+   <tei:p>
+    „Aha!“ zvolal Brheľ, „dávajú výstrahu.“
+   </tei:p>
+   <tei:p>
+    „Kto?“ pýtam sa.
+   </tei:p>
+   <tei:p>
+    „Vlk s vlčicou, aby štence nekňučaly.“
+   </tei:p>
+   <tei:p>
+    „A tu y húšťave?“
+   </tei:p>
+   <tei:p>
+    „To lákal som ja, chtiac sa dozvedieť, kde je hniezdo.“
+   </tei:p>
+   <tei:p>
+    Teraz sa mi vysvetlilo, čo znamenalo vytie v húšťave. Brheľ   napodobňoval hlas vlkov, aby štence priviedol do omylu a zvedel, kde   pelešia.
+   </tei:p>
+   <tei:p>
+    Po malom čase vybrali sme sa zpäť a zbývajúcu časť noci strávili   sme na salaši. Tu nám Brheľ vyprával, že vykutanie vlčieho hniezda   patrí medzi najťažšie lovecké kúsky. Lovec musí tu znať, kedy sú   starí ďaleko od hniezda, a to stane sa len v čase, keď sú na lupe.   Najpríhodnejší srok na to je stred júla. VÍčatá už vyspely natoľko,   že okolo hniezda môžu sa pohybovať, a preto samec so samicou odvažujú   sa i vzdialenejších podnikov.
+   </tei:p>
+   <tei:p>
+    „Nuž a čo z toho, keď vlci sú ešte v hore ?“ hovoril som.
+   </tei:p>
+   <tei:p>
+    „I na to príde čas. Keď sa vie, kde je hniezdo, v najbližších   dňoch sobereme sa na Úžíabiny a s honcami obkľúčime i mladých i   starých a postrieľame ich.“
+   </tei:p>
+   <tei:p>
+    Ustatí prišli sme domov. Dobre padlo nám vypočinúť námahy   prebdelej noci. Cenu za únavu obsiahli sme potom o týždeň, keď po   vydarenom hone, chvojkami okrášlení, dovliekli sme domov šesť vlčích   šteniat i s vlčicou, rozumie sa, zastrelenou.
+   </tei:p>
+   <tei:p>
+    100
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

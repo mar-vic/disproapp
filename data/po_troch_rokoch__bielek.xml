@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1935335" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Po troch rokoch : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton (1857 - 1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     8467
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bielek, Anton
+     </tei:author>
+     <tei:title>
+      Po troch rokoch
+     </tei:title>
+     <tei:pubPlace>
+      Praha
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1935
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PO TROCH ROKOCH
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿I.
+    </tei:head>
+    <tei:p>
+     Pred vieskou Hruboklátom je živo. Práve pred tabuľou, o ktorej   ťažko tvrdiť, či je farbená na červenobielo-zeleno, alebo na   čierno-žlto, stojí asi šesť svalnatých šuhajcov. Majú vojenské   čiapky, plátené nohavice a modré kabátiky. Na chrbtoch na paličkách   nastoknuté nesú batôžky, za čiapkami bujné kyty a spievajú:
+    </tei:p>
+    <tei:p>
+     Keď som išiel z vojny, môj koníček voľný tak za mnou nariekal jak   moja frajerka.
+    </tei:p>
+    <tei:p>
+     A tá pieseň zuní dolinou ako zvuk poľnice, je samá radosť,   veselosť a zamieňa sa v rozličných nápevoch, no každý vyráža   natešenie prameniace v shliadaní milých známych krajov, rodnej viesky   a v blízkom objatí svojich drahých. Vidno, že sú to vyslúžilci.   Kráčajú chytro v rade. Dolinou znie:
+    </tei:p>
+    <tei:p>
+     13
+    </tei:p>
+    <tei:p>
+     ﻿Nebojím sa Turka, ani Brandipurka. Len sa bojím prevebce tej   kaprálskej palice.
+    </tei:p>
+    <tei:p>
+     Spev rýchle sohnal, čo kde živého v dedine. Mnoho toho síce   nebolo. Práce schopní pracovali na rob, v dedinke iba pasáci husí,   menšie deti, a ak nejaká stará babka ostala doma varovať malé   vnúčatá.
+    </tei:p>
+    <tei:p>
+     Ale títo malí domobranci narobili zato viac škreku než húfy   vyrastlých. Na spev vojakov odpovedali i oni krikom. Bola toho plná   cesta, že stará Ivka Pokryvková, nemohúc odolať zvedavosti, hodila   látanie stranou, vychytila z kolísky vnúča a išla zahasiť svoju slabú   stranu na preddomie. Vojaci práve dochádzali. Upreli na ňu oči. Bola   ona prvým dospelým, ktorého zazreli v obci. Zastali. Územčistý Imrich   Lúka priblížil sa k nej.
+    </tei:p>
+    <tei:p>
+     „Ale moja radostná strynká, vítam vás,“ i prikrčil sa k nej a   chcel ju objať.
+    </tei:p>
+    <tei:p>
+     Ivka cúvla; nemohla sa rozpamätať na podobného vnuka. Dívala sa   naň.
+    </tei:p>
+    <tei:p>
+     „Čo ste už zabudli na mňa, strynká?“ pýtal sa vojak a postavil sa   do gliedy.
+    </tei:p>
+    <tei:p>
+     „Prizrite sa mu len.“
+    </tei:p>
+    <tei:p>
+     „Neviete, ako ste ho naháňali po záhumní, keď vám tam hrušky   objedal?“
+    </tei:p>
+    <tei:p>
+     „A za šticu ho naťahovali, keď mu husi vošly do zbožia?“
+    </tei:p>
+    <tei:p>
+     14
+    </tei:p>
+    <tei:p>
+     ﻿„Veď sa mi len priznajte,“ domlúval vojak. Potom so smiechom   hovoril k ostatným: „To bude najlepšie, aj sám otec sa ma odrečie,   keď mu prídem domov,“ a znovu sa blížil k starkej.
+    </tei:p>
+    <tei:p>
+     „To pre tie fúziská.“
+    </tei:p>
+    <tei:p>
+     „Ale azda pre tieto,“ obrátil sa chytro Imrich a pyšne si ich   vykrúcal. Potom hovoril k Ivke:
+    </tei:p>
+    <tei:p>
+     „Neverte mu, strynká, to je pekný riad. On len závidí, keď nemá.   Vojak bez toho, ako dievča bez frajera.“
+    </tei:p>
+    <tei:p>
+     „A k šabli a flinte to práve tak, ako stužka do vlasov.“
+    </tei:p>
+    <tei:p>
+     „Hej, a k muzike, keby ste vedeli! Ale bude to aj za život teraz v   dedine! Keď si tak staneme do radu, hudci zahudú a počneme ostrôžkami   brnkať...“ A Imrich sa trochu prihnul, čapicu vtlačil do tyla a chcel   starkú objať, že ju vykrúti.
+    </tei:p>
+    <tei:p>
+     Táto sa len dívala, nevedela, či to zo smiechu, či naozaj.
+    </tei:p>
+    <tei:p>
+     Konečne riekol druhý vojak.
+    </tei:p>
+    <tei:p>
+     „Ale, strynká, odmyslíte si z neho tie fúziská, hádam sa mu   priznáte.“
+    </tei:p>
+    <tei:p>
+     Ivka sa len dívala. . .; zrazu premenil sa jej obličaj. Brada sa   podala k ústam, ústa sa rozšírily na smiatie; plašia si rukou o   koleno.
+    </tei:p>
+    <tei:p>
+     „Ale, bodajžeťa bodaj i s chlapcom! Teda si to ty? Aký volentier   sa stal z neho!“
+    </tei:p>
+    <tei:p>
+     „No, vidíte, veď hovorím, že tá kúdeľ pod nosom!“ Pokryvkovej   nedotkla sa poznámka.
+    </tei:p>
+    <tei:p>
+     „Veď som hľadela, ale kto by sa nazdal, že to Imrich.
+    </tei:p>
+    <tei:p>
+     15
+    </tei:p>
+    <tei:p>
+     ﻿Taký psohlavec. Akosi si sa vyrodil. Keď išiel na vojnu, bol ako   panenka, priam jeho mať — a teraz. . .“
+    </tei:p>
+    <tei:p>
+     „Zvojačil sa na tom profunte.“
+    </tei:p>
+    <tei:p>
+     „Ba ho Prajz vynaháňal a guľky obšmýkaly.“
+    </tei:p>
+    <tei:p>
+     „Juj, pre Boha, ľudia, nerozprávajte,“ zhrozila sa Ivka, „načo to   rúhať sa proti Bohu,“ a pretiahla strachom tvár.
+    </tei:p>
+    <tei:p>
+     „Ach, len sa nebojte, strynká, veď sme tu, a guľka vojakovi ako   haluška hladnému. Čím viac, tým lepšie.“
+    </tei:p>
+    <tei:p>
+     „No len no, posmešníci, buďte radi, že ste tu...“ hrozila starká a   poznávala rad radom veselých šuhajcov, ktorí boli radi, že môžu   strynkej i niečo takého povedať, čoho sa ona bojí.
+    </tei:p>
+    <tei:p>
+     Slnko sklonilo sa žatým nad hory. Vojaci rozišli sa kam ktorý a   nad dedinou zjavil sa dym, znak, že gazdinky už prišly z póla a   stroja večeru. Vieska Hrubokláty rozprestierala sa s dvoch strán   cesty a za potokom. Asi v prostriedku v rade gazdovských bydlísk stál   úhľadný malý domček, pred ním gágal húfik husí a dobýjal sa do dvora.   Dvierka vrzly, vyšla deva a zaháňala husi do rieky. Mala v ruke   šitie, na sebe farbistý oblek a nezdala sa mať zaujatosť pre to, čo   sa okolo nej robí. Vracala sa čerstvým krokom zpäť asi ako v   myšlienkach. Bola mladá, driečna, na tvári sedela jej živosť a oči   tak dobre pristaly vážnemu, prívetivému vzhľadu. Pred vrátmi zastala   a podívala sa hore.
+    </tei:p>
+    <tei:p>
+     „Čo robíš, Katuška?“ zavznel hlas zdola a súsedovie Betka, buclaté   zdravé dievča stálo pred ňou.
+    </tei:p>
+    <tei:p>
+     16
+    </tei:p>
+    <tei:p>
+     ﻿„Vítam ťa, Betka, len tak sa dívam, mamka mi je v poli. Kam   ty?“
+    </tei:p>
+    <tei:p>
+     „Len som sa tak pobrala k tebe.“
+    </tei:p>
+    <tei:p>
+     „No, vojdi,“ hovorilo dievča, vrznúc dvermi.
+    </tei:p>
+    <tei:p>
+     „Ale nie, lepšie je tu vonku, zasedela by som sa.“
+    </tei:p>
+    <tei:p>
+     Betka založila si ruky pod záponu, potom pýtala sa: „Čo   šiješ?“
+    </tei:p>
+    <tei:p>
+     „Ale také pletky. Vyšívam oplecká.“ „A ide ti to?“
+    </tei:p>
+    <tei:p>
+     „No, len keby to také šiplavé nebolo.“
+    </tei:p>
+    <tei:p>
+     „Len ťa prosím, neobmeškaj sa s tou mojou záponou. Chcem v nej do   Lešian na hody.“
+    </tei:p>
+    <tei:p>
+     „Oj jej, ešte tri týždne. Aj ju zderieš dotial.“ „A j ako, i pre   seba robíš?“
+    </tei:p>
+    <tei:p>
+     „Áno, rada by som si niečo sbodla.“ „Strojíš i ty?“
+    </tei:p>
+    <tei:p>
+     „Neviem ešte, čo mamka.“
+    </tei:p>
+    <tei:p>
+     Ohe postály na chvíľu; zrazu Betka nahla sa niečo ku predu a   značne zaujatejšie pýtala sa:
+    </tei:p>
+    <tei:p>
+     „Ale vieš už? Hádaj, kto prišiel?“ Katuška roztvorila oči.
+    </tei:p>
+    <tei:p>
+     „Kto?“
+    </tei:p>
+    <tei:p>
+     „Hm, vojaci,“ riekla významne. „Videla som Imricha Lúku i Števa   Parohu; bolo ich asi šesť.“
+    </tei:p>
+    <tei:p>
+     Katuška ostala stáť. Pootvorila ústa, rozšírila oči a zbledla. „I   Števko Paroha prišiel?“ bolo jej už na ústach, ale premohla sa.   Zpráva účinkovala ako nečakaný rachot hromu. Akýsi vnútorný otras sa   jej zmocnil, skoro
+    </tei:p>
+    <tei:p>
+     Obrázky z hôr — 2
+    </tei:p>
+    <tei:p>
+     17
+    </tei:p>
+    <tei:p>
+     ﻿pokúšal sa o ňu závrat. Trvala hodná chvíľa, kým opanovala   vzrušenie. Zatajac dych pýtala sa:
+    </tei:p>
+    <tei:p>
+     „A kedy prišli?“
+    </tei:p>
+    <tei:p>
+     Betka tázavým pohľadom spočinula na dievčati. Jej oči vzaly výraz   smevavej tajnosti, rozprávaly všetko, čo Katuška nechcela povedať.   Konečne hovorila:
+    </tei:p>
+    <tei:p>
+     „Nedávno, akosi o pol večierka,“ a dívala sa dievčaťu sdielne do   očú.
+    </tei:p>
+    <tei:p>
+     Tejto udrela krv do tvári. Betka smiala sa a s dôrazom, že všetko   vie, šepla Katke do ucha: „Počuješ, taký ti je ten Števo ako kalina,“   a potom, keď dievča v rozpakoch chytalo konce záponky a sklopilo oči,   doložila: „ale už idem, naši ma budú hľadať.“
+    </tei:p>
+    <tei:p>
+     „Čo tak náhliš dievča?“ znel hlas shora a vdova Hanulčíkovie, mať   Katuškina, vyšla s motykou a noškou zemiakov z bočnej uličky.
+    </tei:p>
+    <tei:p>
+     „Lala, strynká,“ ohliadla sa Betka a vycerila zuby.
+    </tei:p>
+    <tei:p>
+     „No, poď k nám!“
+    </tei:p>
+    <tei:p>
+     „Ďakujem, nemám ako, len sa vy ukážte raz k nám. Idem, dobrú noc.“   Matka vošla dnu. Ohník zablčal na ohnisku a dve ženské sa krútily   okolo večerných prác.
+    </tei:p>
+    <tei:p>
+     Katka po rozhovore s Betkou ostala ako vymenená. Mysel sa jej   roztratila na všetky strany. Začala prácu, a nedokončiac ju, už mala   medzi rukama druhú. Chodila, krútila sa, no bez ciela. Myse! nebolo   možno upraviť v istý tok. Rozochvenie, túha, bázeň i hmlistá radosť   vlnila sa jej žilami.
+    </tei:p>
+    <tei:p>
+     Práve sbierala po stole v rozčúlení rozsypané ihly.
+    </tei:p>
+    <tei:p>
+     18
+    </tei:p>
+    <tei:p>
+     ﻿„Katka, dones vody,“ znel rozkaz, „a dolej do hrnca, aby   nepukol.“
+    </tei:p>
+    <tei:p>
+     „Už, už, mamka, len čo šitie popracem,“ a ruky jej šibko behaly po   stole za ihlami.
+    </tei:p>
+    <tei:p>
+     Trvalo to chvíľku, kým voda prišla, no nešťastie! Katka nepozrela,   kde čo kladie, putňa sa prevrátila a voda liala sa po zemi.
+    </tei:p>
+    <tei:p>
+     „Ale, dievča, čo stváraš, bude tu zasa ako v chlieve,“ hrešila   mať. „Daj pozor!“
+    </tei:p>
+    <tei:p>
+     A keď táto bez slova, zahanbená, stierala mláku a potom šla do   stajne odprávať statok, matkine oči nápadne spočinuly na jej tvári a   otázka skrsla v mysli:
+    </tei:p>
+    <tei:p>
+     „Ale čo je to dievča dnes také zjašené?“
+    </tei:p>
+    <tei:p>
+     Vdova Hanulčíková už vyše dvadsať rokov býva v Hrubokláte. Dva   roky po sobáši odsťahovali sa sem z mesta a jej nebohý muž porábal   debnárčinu. Išlo im dobre. Vystavali domček, kúpili rolku a nežiadali   od nikoho nič, iba od Boba zdravie. Ale ináč určené bolo sbora. Otec   manžel podľahol, minul rok, žena ostala vdovou, dieťa sirotou.   Dôchodky odpadly a ťarcha žitia závislá na dvoch rukách navštívenej   ženy. Ale Pán Boh keď i vezme, no i dá. Vdovica našla prácu: prala   šorce, rubáše, hladila podviky a rukávce a vydržiavala i seba i   dievča. Keď však toto povyrástlo, pribudlo i rúk a pri skromnosti   malý zvyšok zmizol časom pod vrchnákom dubovej truhly. A v tom tichom   žití míňaly sa roky. Matka ostarela, dcéra dospela,len tá čistá   obielená chalúpka bola vždy tá istá, biela, čistá, ako rubáš mladej   ženy.
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     2*
+    </tei:p>
+    <tei:p>
+     ﻿Slnko bolo už na západe. Hrebene hôr vyzeraly ako skamenelé slevy   morských vín a plávaly v zlatozeleni. Po dolinách vial chlad a tieň,   hory černaly a západ skvel sa rumeňom večernej zory. Dolu cestou   vŕzgaly plné, zbožím obťažené vozy, device so spevom tiahly z poľa,   deti preháňaly sa hore dolu, statok ručiac vracal sa domov.
+    </tei:p>
+    <tei:p>
+     Pomaly prišiel večer. Šero rástlo, modrastá hmla tam v dolinách,   nad horami množstvo iskrivých hviezd a mier i tu dolu i tam vo výšach   rozhostil sa zôkol vôkol.
+    </tei:p>
+    <tei:p>
+     U Hanulčíkov sa už svietilo. Hanulčíková bola v izbe. Katuška   sedela na preddomí. Deva za devou prichádzala sem a smiechu,   veselosti a šuškania nebolo konca kraja. Kedy tedy prešiel kto vpriek   cestou, smiech vtedy zatiahol a shovor zatočil sa na malichernosti   toho malého sveta, ktorý Hruboklátom sluje a tu „udalosť“ o príchode   vojakov zaujímala miesto prvé. Konečne zazvonili na pokoj. Devy   roztratily sa kam ktorá. Na ceste zanikol pomaly ruch, život, i Katka   utiahla sa z preddomia a pobrala sa do komôrky. Y samote zasa ju   prevládal predošlý nepokoj. Myšlienka za myšlienkou rodila sa v   hlave, obava, akási zlá predtucha skľučovala ju. Nevdojak ponorila sa   do minulosti. Bolo to kedysi dávno, pred tromi rokmi. Števo Paroha   bol jej známy, ako ktokoľvek druhý. Keď sa s ním sišla, shovárali sa,   častejšieho obchodu nemali spolu. On boháč, ona chudobná; ani   smelosti nemala známosť s ním nadpriadať. Milo jej síce padlo, že   šuhaj prívetivo s ňou prehovoril, zažartoval, v tanci jej
+    </tei:p>
+    <tei:p>
+     20
+    </tei:p>
+    <tei:p>
+     ﻿dal prednosť, neunižoval ju. Až to potom samo tak prišlo k tomu,   ona sama nevie ako. Bola v Bráznici na púti. Bolo to pred Michalom,   keď vojaci rukujú. Poshovárala sa, pokúpila, čo bolo treba, a pred   večerom pospiechala domov. Na vŕšku v hore sadla si u kaplnky   odpočinúť. Pozrela do vnútra, tam bolo tak ticho, tak sviatočne.   Mimovoľne spiala ruky a modlila sa. Za otca, matku a Boh vie ešte za   čo.
+    </tei:p>
+    <tei:p>
+     Vtom zavznel krok. Obzrela sa, zhýkla, Števko stál pred ňou.   Zlakaná vstala hore. Z reči do reči, až šuhaj chytil ju za ruku a tak   pekne, tak od srdca hovoril jej, že hlava sa jej točila a zem utekala   pod ňou. Slúbil, že ju vezme a prosil, aby čakala, kým príde z vojny.   Prisľúbila mu. Roky minulý. Od toho času nebola s ním, nepočula o   ňom, no vždy myslela naň. Či zabudol, či pamätá na sľub, či ju ešte   tak má rád ako hovoril, alebo či to bolo len náhle omámenie ?
+    </tei:p>
+    <tei:p>
+     Mesiačik kuknul cez malé okienko a osvietil komôrku. Devu našiel   na kolenách so sopiatymi rukami. Modlila sa.
+    </tei:p>
+    <tei:p>
+     21
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿II.
+    </tei:head>
+    <tei:p>
+     Stará Korábová bývala na nižnom konci Hruboklátu i so svojím   mužom, hrobárom. Ľud ju zval vedomkyňou. Jej vedomosť záležala v tom,   že brala sa pomáhať od úsadu, zdutia, všelijakých rán, modlievala sa   u zomrelých, a že nechýbala pri svadbách, krsteniach a podobných   rodinných slávnostiach. Znala každého na okolí, a v dedine nebolo   dňa, čo by nebola navštívila jednu alebo druhú z tých známych   gazdiniek, ktoré sa o jej vedu zaujímaly.
+    </tei:p>
+    <tei:p>
+     Je nedeľa, u rychtárov je ako v kostole, iba starý otec sedí na   prahu a fajčí. Vedľa neho odpočíva strážny Orech a za ním malý vnuk   Martin. Kedy tedy brnkne psovi na nos, alebo chytí ho za uši. Pes sa   otrasie, trpí ďalej a malý šuhaj prekladá hlavu s boka na bok,   usmieva sa a usilovne poťahuje psa za chvost ďalej.
+    </tei:p>
+    <tei:p>
+     „Martinko, daj psovi pokoj,“ napomína starík a pritom s úsmevom   krúti hlavou a díva sa na chlapca. Chlápä zrazu ustane a zahľadí sa   na cestu. Blíži sa ženská a mieri rovno do rychtárov.
+    </tei:p>
+    <tei:p>
+     22
+    </tei:p>
+    <tei:p>
+     ﻿„Čo porábate?“ pýta sa Korábová čo možno najsladšie a usmieva sa   na starkého.
+    </tei:p>
+    <tei:p>
+     „Nuž len tak, ako v nedeľu. Vítajte, hľadáte nás?“
+    </tei:p>
+    <tei:p>
+     „O, nie, len som tak prišla dlhú chvíľu zahnať. Ako dýchate?“
+    </tei:p>
+    <tei:p>
+     „No, len tak, vy sa pochváľte.“
+    </tei:p>
+    <tei:p>
+     „Keby bolo lepšie, neškodilo by. Nohy nás už nechcú nosiť. A pani   rychtárka je doma?“
+    </tei:p>
+    <tei:p>
+     „Tam bude kdesi v záhrade,“ a starík ukázal jej smer, kadiaľ má   ísť.
+    </tei:p>
+    <tei:p>
+     Korábová odišla, rychtárku našla na záhrade. Modlila sa. „Pomáhaj   Pánboh, kmotrička moja zlatá; ale azda vás neturbujem.“
+    </tei:p>
+    <tei:p>
+     „Uslyš Pánboh, oj nie, priam som u konca. Vítajte, sadnite   si.“
+    </tei:p>
+    <tei:p>
+     „Ďakujem, len som sa tak na chvíľu zastavila, keď vás nevidno, j   ak rok dlhy.“
+    </tei:p>
+    <tei:p>
+     „Má toho člo\ ek dosť od rána do večera. Tu roľa, statok, dom — a   tak to ide deň po dni, že si ani vydýchnuť nemôžem.“
+    </tei:p>
+    <tei:p>
+     „Ja, \eru, neúrekom, vy toho máte. Nie tak ľahko sa vám kto   vyrovná.“
+    </tei:p>
+    <tei:p>
+     Pani rycbtárka sa samolúbo usmiala. „Je z vôle božej, len aby sme   stačili.“ „Ó, nemajte strachu, však ste ešte chvalabohu ako
+    </tei:p>
+    <tei:p>
+     mladica. Kto by vás neznal, aj zaprisahal by sa, že nemáte ešte   dievky na vydaj. Zdravá.. . červená... až radosť.. . “
+    </tei:p>
+    <tei:p>
+     23
+    </tei:p>
+    <tei:p>
+     ﻿A Korábová hľadela na rychtárku sladko a prikyvovala hlavou, že to   pravda, čo hovorí.
+    </tei:p>
+    <tei:p>
+     Táto pozrela na Korábovú spokojne a prehrnula v modlitebnej knihe   pár karát napred. Padlo jej to vhod, že svet o nej ešte   nepochybuje.
+    </tei:p>
+    <tei:p>
+     „Veru tak, kmotrička moja. Ale to ani ináč neide. Pánboh nič   zadarmo neberie. Máte, ale i dáte. Chudoba sa neobživí tolme v celej   dedine ako u vás. Akože by vám to nevynahradil?“
+    </tei:p>
+    <tei:p>
+     Kmotra neodpovedala, no z očú jej zračilo, že reč tá sa jej lúbi.   Bola ona z tých osôb, ktoré sú dobré, no slabé, labko prístupné,   poverčivé a chválybažné. Kto jej vedel na nôtu trafiť, tu čistcu,   polejčeku, hrdejbarky alebo jazevčieho, zajačieho sadla doniesť,   klebietkou sa zavďačiť, kto ju, a najmä jej dievku, pochválil,   vyvýšil, ten bol na veky dobre u nej zapísaný. A ostrozraká a   vypočítavá Korábová rozumela tomuto remeslu. Tu jej doniesla batôžik   zelín až hen od Kozej skaly, ktoré o jánskej noci po jej rebrách   nasbierala. Tu sa jej zavďačila, že tam a tam sa muž so ženou   povadil, a keď potravné zásoby ubývaly, chytila sa rozumu a s   uradostenou tvárou prišla a vyprávala, ako jej „zlatú kmotru“   robotníci chválili, že dobre ich stravovala, že na jedle od mastnoty   plávaly oká ako krajciare a o žobrácke, ktorej tu tam almužny   poskytla, celú kapitolu vyprávať, ako ju požehnávala, modlila sa za   ňu a priala jej dlhého života. Že potom za vďak šuplo do Korábovej   vrecka, tu uzlík krúp, pre deti chleba, omastku, hrnček mlieka,   údeniny,
+    </tei:p>
+    <tei:p>
+     24
+    </tei:p>
+    <tei:p>
+     ﻿to bolo vecou prirodzenou a Korábovej nešlo o to slovko alebo   pochvalu. Ba mnoho ráz, aby sa zachovala, sľúbila, že bude o jej   štedrote a dobrote rozprávať celému svetu a že sa jej odslúži za   priateľstvo, čo by hneď nohy po kolená mala zodrať.
+    </tei:p>
+    <tei:p>
+     Ženičky shováraly sa živo. I rychtárka prišla do prúdu a tu   šuškom, tu hlasne cúdily svoje náhlady a dodávaly rečiam svojim   významu buď posunkom rúk, pohybom hlavy, alebo výrazom očú.
+    </tei:p>
+    <tei:p>
+     Korábová po reči naklonila k rychtárke hlavu, žmurkla a   pokračovala:
+    </tei:p>
+    <tei:p>
+     „Ale však už viete, drahá kmotrička, že vojaci prišli domov?“
+    </tei:p>
+    <tei:p>
+     „Počula som; a kolko?“
+    </tei:p>
+    <tei:p>
+     „Že šesť; už som aj s ktorýmisi bola.“
+    </tei:p>
+    <tei:p>
+     „A jako si chvália?“ „Tak, sú ako by na nich nacápal. A ten Števo   Parohovie vybehol ako jedla. Skoro som ho ani nepoznala.“ „To je na   otca. Parohovci sú všetci z takého floku.“ „Ale sa tá jeho mať i má.   Nevie si od pýchy, kam oči položiť naň. Bola som tam, motyku mi   nakúval.“ „No, prosím vás, keď tri roky nebol doma. Ale čo je pravda,   to je pravda, Števo bol vždy poriadny čeladín.“ Korábová mala v   úmysle inšie, Parohovci boli akosi súperi s rychtárovci, a rychtárka   rada videla, keď ju držali za najbohatšiu a zároveň za   najusilovnejšiu a najlepšiu gazdinú. Práve mala na jazyku, že začne   podceňovať spôsob hospodárenia u kováčov a postaví do protivy
+    </tei:p>
+    <tei:p>
+     25
+    </tei:p>
+    <tei:p>
+     ﻿opatrnosť rychtárkinu, keď tu z čistá jasna úsudok o Števovi   zmiatol jej úmysel tak, že táto v náhlosti nevedela, čo je vo veci a   odkiaľ ten prajný obrat. Pootvorila ústa a jej zrak tázavo spočinul   na kmotrinej tvári. Vzdychla si, ako je to zle každému vôľu hľadieť,   po srsti ho hladiť a z nosa mu čítať, čo myslí.
+    </tei:p>
+    <tei:p>
+     Nehovorila nič. Čakala, kým rychtárka začne. Táto, ako by   netušila, čo Korábka mieni, preriekla ako pre seba: „Teraz Števka   oženia.“
+    </tei:p>
+    <tei:p>
+     Korábová len čakala, čo bude ďalej. Zrazu jej svitlo. „Aha, tu   si,“ potešila sa v duchu. Azda rychtárka chce navliecť reči o svojej   dievke a vyhliadla si Števa? No, to by bola ešte lepšia voda na jej   mlyn než daromné klebety. Vtedy mamičky nešetria, hlbšie načrú do   truhiel a nevážia, neťažkajú na rukách, že je podarúnka priveľa,   neodsypú z uzlíka strovy, keď sa im mnoho zdá. To by bolo, veru, len   opatrnosť, aby rychtárka dobre sadla na lep, potom to už pôjde.
+    </tei:p>
+    <tei:p>
+     „No, to je ako na dlani,“ odpovedala Korábová, ,,— len...“
+    </tei:p>
+    <tei:p>
+     ,,.. . Len mu vybrať. . .“
+    </tei:p>
+    <tei:p>
+     „To, to, to, kmotrička zlatá, to; ako by ste mi s jazyka strhli,   ale s tým bude opletačka, keď. .. “
+    </tei:p>
+    <tei:p>
+     „Tak, alebo tak, ale kováčovci si môžu dievčatá ako treba   ocúdiť.“
+    </tei:p>
+    <tei:p>
+     „Im, a jako! Čože jej pochybí? Oviec salaš, statku plná maštaľ,   rolí až ťažko. Môže sa v mlieku kúpať a krížom slamy nemusí   preložiť.“
+    </tei:p>
+    <tei:p>
+     26
+    </tei:p>
+    <tei:p>
+     ﻿„Aj to kladivko len čosi vykuje. . „Verte, tam sa peniažky len   sypú. . . “ „Ale veď oni Parohovci majú rozum, budú si vedieť   vybrať.“ „I ja si hútam, ale kde tu v dedine?“ Rychtárkou trhlo,   divne pozrela na Korábovú. Táto sa usmiala a pokračovala: „Ja už   viem, kde tí zaklopú. Ktože by im tu bol roveň?“ „Kto?“ ozvala sa   rycbtárka zvedavo. „Joj, pane Bože, kmotrička, však ste, tento,   hanblivá. Kde by klopali, ak nie u vás, ktože sa na dohne vašej Ivke   vyrovná?“ Rycbtárka spokojne žmurkla očima. „No, naše dievča nemá s   tým náhlo.“ „Náhlo, náhlo! Ale by jej to ono pristalo takto v podvike   prísť k mamke a spýtať sa: mamko, čo porábate?“ Korábka nahla sa až k   tvári a usmievajúc sa čakala, či sa jej poznámka ľúbi.“
+    </tei:p>
+    <tei:p>
+     „Kmotra, vy máte vždy nabité, vy len viete človeku chuti   dodať.“
+    </tei:p>
+    <tei:p>
+     „Aj, kmotrička moja radostná, ja som vám také ako žihadlo. Obrátim   sa raz a sto ráz vidím. Ale verte mi, neublížim vám ani muške; vždy   len na dobré cielim.“
+    </tei:p>
+    <tei:p>
+     Potom dodala: „Budete vidieť, že to bude tak. Aj, ja to už mám ako   sväté písmo. A teraz vám i niečo pošuškám: ja som starej kováčke už   dala zavoňať... také veci mám toť — ukázala tvrdú, mozoľnatú päsť — a   uhádnem na tri míle, čo k sebe pasuje.. .“
+    </tei:p>
+    <tei:p>
+     27
+    </tei:p>
+    <tei:p>
+     ﻿Korábová hodila rukou a sebavedome žmurkla na rychtárku.
+    </tei:p>
+    <tei:p>
+     „A čo hovorila?“ pýtala sa táto.
+    </tei:p>
+    <tei:p>
+     „Nuž čo, len jej tak oči zizaly z tých tlstých líc. Čo môže   hovoriť? Veď viete, že matere držia také veci v tajnosti. Usmievala   sa.“
+    </tei:p>
+    <tei:p>
+     Obe zastaly, každá rozmýšľala o svojom. „A čo vy na to kmotra?“   pýtala sa Korábová. „No, keby išlo svojím poriadkom a bolo by jej to   súde-
+    </tei:p>
+    <tei:p>
+     né, ja by som proti tomu nebola.“
+    </tei:p>
+    <tei:p>
+     „Však ja o tom dobre viem, kmotrička zlatá. Vy, veru, nemusíte na   trh s Ivkou. Pre dobrý tovar do domu prídu. Bože môj! Veď je to   dievča ako kus zlata. Kováčovci budú radi, keď sa im dáte do rodiny.   Majú, majú, je pravda, ale Ivka i do roboty, i do parády, i do reči,   ako nejaká princezná, a k tomu z gruntu, ktorý nemá páru v dedine. .   . “
+    </tei:p>
+    <tei:p>
+     Zadychčala sa rýchlou mluvou. Oddychovala, potom usmiala sa, mykla   rukou a pokračovala:
+    </tei:p>
+    <tei:p>
+     „Ale viete čo, kmotra moja, nechajte to len na mňa, uvidíte, jak   to narafičím.“
+    </tei:p>
+    <tei:p>
+     Nastalo prehováranie. Rycbtárka sa okúňala, zdráhala.
+    </tei:p>
+    <tei:p>
+     „Ak chcete, nedbám — povolila po dlhšom zdrábaní, — viem, že ste   boli ku mne vždy úprimná...“
+    </tei:p>
+    <tei:p>
+     „Tak, Bože môj!“ znel vzlykavý hlas Korábovej — „ľúto hovoriť, vy   najlepšie viete o mojom dobrom srdci. Dala by som vám i tej krvi,   keby som vám mohla dobre urobiť. . . “
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+    <tei:p>
+     ﻿„Len to teda nejako navlečte, však... no viete, že ruka ruku   umýva.“
+    </tei:p>
+    <tei:p>
+     „Ale, — doložila konečne — prichádza mi na um, že Števo pred tou   odbierkou sa jašil za tou Hanulčíkovou.“
+    </tei:p>
+    <tei:p>
+     „Ach, dajte pokoj, veď by sa mu mať do vlasov nanosila. To ako myš   v kostole; ani spomínať.“
+    </tei:p>
+    <tei:p>
+     „A pre lepšiu istotu,“ končila svoje plány, „veď sa ja postarám o   to a zasmažím jej, že sa jej odnechce chlapcov svádzať.“
+    </tei:p>
+    <tei:p>
+     „Ženské sedely ešte dlho, šuškaly si, Korábová rozkladala rukama,   rychtárka prikyvovala hlavou. Až v samý večer, usmiata, chytrým   krokom vracala sa Korábová domov.
+    </tei:p>
+    <tei:p>
+     29
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿III.
+    </tei:head>
+    <tei:p>
+     Števko Paroha chytro sa vpravil do nového živobytia. Na profunt,   flintu a kaprála zabudol, ako by kameň hodil do vody, ale mal i j   ako. Mamka ho chovala ani vtáčika v klietke a otec len spokojne   prižmurkoval, keď syn s chuťou chytal sa práce či na poli či pri   vyhni.
+    </tei:p>
+    <tei:p>
+     Okrem domácich málo s kým bol ešte na dlhom slove. Odpočíval,   krome ak vybehol na krátky čas k rodine, alebo prišli kamaráti z   vojny a tí vliali života i humoru do prúdu každodennosti.   Podvečierkami bol celý matkin. Musel rozprávať, ako sa mu tam vodilo,   ako ho chovali, zaobchodili s ním. A potom líčil, čo vystál v páli, v   daždi, v zime, keď s flintou execíroval, ako celé dni po poli a   vrchoch behal, ako mu dunela streľba z kanónov poza uši. A tu potom   prestrašená starenka žehnala sa krížom, pohladila syna po lícach, ako   by mu chcela povedať: chvalabohu, syn môj, keď si mi len už tu, viac   by som ťa ta nepustila.
+    </tei:p>
+    <tei:p>
+     I po dedine zabudli spomínať návrat vojakov. Výsad-
+    </tei:p>
+    <tei:p>
+     30
+    </tei:p>
+    <tei:p>
+     ﻿ný oblek všednel, prichádzal do kútov, šuhajci chytali sa zrebných   košiel, valaských nohavíc, hune. Števkovi to ľahšie padlo, on sa   držal za remeselníka, bol, ako sa hovorí, viac od pera a knihy a   nosil sviatkami oblek síce skromný, no remeslu primeraný. S Katuškou   od svojho príchodu sa ešte nestretol. Pozeral ju pri muzike, medzi   druhými, no bez výsledku. Matka zachorela, dievča neodchádzalo od   nej, opatrovalo ju, a keď i ukázalo sa medzi svetom, s mladým Parohom   sa nesišlo. I počal si každý náhodu túto vysvetľovať po svojom. Katke   nevšímavosť táto prichádzala zprvu ťažko, konečne uspokojila sa, ako   vedela. Myslela, že zabudol, vytrezvel, že sľub vyšumel mu z hlavy.   Len kedy tedy, v časoch riedkeho oddychu zamyslela sa, prichádzaly na   ňu čierne chvíle samoty, potom dumala, dumala, bez cieľa, bez   účelu.
+    </tei:p>
+    <tei:p>
+     I Števkovi vírily podobné myšlienky v hlave. Bol v rozpakoch,   nevedel, čo si má o Katuškinom počínaní myslieť. Konečne ustálil sa,   že je ono schválne, rozmyslené. A v toto vzájomné ochladnutie   zasiahla i Korábová. Voda sama išla jej na mlyn. Vedela, že človek na   to má jazyk, aby hovoril. A hovorila. Tichučko, ako keď vetrík   zaveje, že ledva lístok pohne sa na stonke, počala sa šíriť zvesť, že   Števo Paroha bude sa ženiť a že sa otiera o rychtárovu dcéru. A zvesť   rástla, chýr sa šíril, šíril a išiel z domu do domu, až z toho plná   dedina. Každý myslel, že chýr zakladá sa na pravde, no komu to vyšlo   prvému z úst, nevedel nikto. Tá od tej a tá od tej to po-
+    </tei:p>
+    <tei:p>
+     31
+    </tei:p>
+    <tei:p>
+     ﻿čula a tak to išlo až do nekonečna. Lesť sa podarila. Dobre   hovorila rychtárke: „Nemajte strachu, zlatá kmotrička moja, nik sa   nedozvie o tom. Ale je to predsa v poriadku. Oči chlapcovi upriamime   na dievča, však sa mu ono samo potom do srdca dostane. Musíme mu   hlavu napraviť, aby sa mu rozbrieždilo. Privykne a potom sa ani   nenazdáte, až vám podperení pytači otvoria dvere, a vy budete škvariť   a piecť, až celá dedina rozvonia.“
+    </tei:p>
+    <tei:p>
+     Zpráva doletela i do Hanulčíkov. Dievča ju kúpilo za ťažký, tichý   plač a mnoho sĺz. Bývalo tichšie a zadumanejšie, no premáhalo sa,   najmä pred matkou. Vďaka dlhému vojančeniu Katka bola zvyknutá   postrádať šuhaja, a tak zvesť bola len smutnou dohrou trojročného   rozlúčenia. Umienila si bez slova, bez výčitky zniesť úder tento,   pravda, za cenu vnútorného pokoja a duševného mieru. Števovi vyhýbala   zúmyselne. I hrdosť i umienenie bránilo jej stavať sa mu v cestu.   Števka žatým ženil celý svet, on sa klebetám usmieval, iba to ho   mrzelo, keď myslel na možnosť, že sa o tom dozvie i Katka a povstanú   z veci nové zápletky. Keď však chýr plával na površí ďalej, a svet   držal ho za hotový peniaz, umienil si tomu urobiť prietrž, dohovoriť   sa s Katkou, starú známosť obnoviť a učiniť klebete koniec.
+    </tei:p>
+    <tei:p>
+     Ale „skutek útek“. Rozxnrzené dievča neukazovalo sa, sedelo doma   ako prikované. Darmo číhal Števko, že ju večierkom zazre, darmo   klepal na okienko okrášlené muškátom. Y izbičke svetlo nezasvietilo,   z vnútra sa nik neozval, okienko zostalo zavreté.
+    </tei:p>
+    <tei:p>
+     32
+    </tei:p>
+    <tei:p>
+     ﻿Nepokoj Števkov trval. Ale veselosť dvadsiatich piatich rokov a   povedomie, že on nemá na skrslom chýre účasti, tíšily ho, až nadišiel   predvečer bráznických hodov.
+    </tei:p>
+    <tei:p>
+     Chýlilo sa k večeru, po dedine panoval živší ruch. Gazdinky   včaššie prišly z poľa. Musely zarábať na pečivo. Zajtra kto ten z   rodiny zaskočí do Bráznice a neni obyčajom v našich vrchoch vystrájať   von z domu s prázdnymi rukami.
+    </tei:p>
+    <tei:p>
+     „Zuzka, tiež sa strojíš?“ kričala súsedka od rieky na domov   spechajúcu známu. —
+    </tei:p>
+    <tei:p>
+     „Ale kde! Kto by tam lámal nohy cez tie vrchy. Ale Hana sa   vystrája i s Mišom. Náhlim, aby som im niečo upiekla.“ A tak to išlo   z domu do domu, U ryčhtárov toho tiež mali vyše hlavy, lebo veď si   len Ivku mamka kadejako nevystrojí. Ale hoci je robota príjemná,   jednako neni pani rychtárka dnes akosi naladená. Ako by aj mohla byť.   Tí chlapiská, to musí vždy diabla vymyslieť a práve na protiveň.   Nevie, kde má ruku položiť, a jej muž ako na truc dá svolávať výbor,   aby ona potom každého obchodila. A keby už mala aspoň zarobené.
+    </tei:p>
+    <tei:p>
+     Po ceste tmolí sa húf detí. Medzi nimi vidno dvoch hájnikov s   lieskovicami, chodiacich naporad svolávať „slávny výbor“ do   zasadnutia.
+    </tei:p>
+    <tei:p>
+     Vonku stojacie ženy napnuté čakajú, o čo sa má sísť slávna rada.   Ale darmo, nikto sa nesmiloval nad nimi. Hájnici mlčky prešli popri   nich.
+    </tei:p>
+    <tei:p>
+     „Dívaj sa, ako ti idú; ako čo by nás tu ani nebolo.“
+    </tei:p>
+    <tei:p>
+     Obrázky z hôr — 3
+    </tei:p>
+    <tei:p>
+     33
+    </tei:p>
+    <tei:p>
+     ﻿Najstarší z hájnikov spravil vážnu tvár a len tak z poly úst   odvrkol:
+    </tei:p>
+    <tei:p>
+     „Nemáme ako.“
+    </tei:p>
+    <tei:p>
+     „No, a čo sa teda tlčiete ako Marek po pekle a nedáte svetu   pokoja?“
+    </tei:p>
+    <tei:p>
+     Druhý z hájnikov zastal a obzrel sa:
+    </tei:p>
+    <tei:p>
+     „Chodíme oznamovať, aby sa ženy dostavily na úrad, že sa im budú   zajtra ústa pod zámok dávať. . “
+    </tei:p>
+    <tei:p>
+     „Hej, veď by sa ti zišlo, ty psie plemeno; i tak ich máš ako   mlyn!“
+    </tei:p>
+    <tei:p>
+     „No, len mi príď pod ražeň, však ti ja dám tiež tvoj grgán pod   zámok.“
+    </tei:p>
+    <tei:p>
+     Hájnici sa zakrútili do domu. I stará Hanulčíková stála vonku a   načúvala odkazom bojachtivých žien. Chcela už dnu, ohzre sa, zazre   blízko seba Korábovú so sladkým úsmevom.
+    </tei:p>
+    <tei:p>
+     „Pánboh daj dobrý večer, tetička, chvalabohu, že vás zasa vidím.   Teda už hore, no dobre, dobre, ďakovať Bohu...“
+    </tei:p>
+    <tei:p>
+     Hanulčíková zdĺžila tvár. Nerada videla túto ženu, vyhýbala jej a   málo prišla s ňou do styku, no nemohla už dnu.
+    </tei:p>
+    <tei:p>
+     „Dala som smrti výkupné, preskočila ma.“
+    </tei:p>
+    <tei:p>
+     „Ja som, veru, hneď vedela, že vám Boh pomôže. Ste ešte pri sile.   Čo by si Katuška bez vás počala. Tak.“
+    </tei:p>
+    <tei:p>
+     Kývla hlavou a dívala sa útrpne vdove do očú. Tejto nešla reč na   jazyk. Stála bez odpovedi.
+    </tei:p>
+    <tei:p>
+     „Čakáte niekoho?“
+    </tei:p>
+    <tei:p>
+     34
+    </tei:p>
+    <tei:p>
+     ﻿„Ó, nie, len sa tak dívam... “
+    </tei:p>
+    <tei:p>
+     „A Katušku máte doma?“ „Doma, kdeže by bola.. .“
+    </tei:p>
+    <tei:p>
+     „Ale vidíte, tetička moja, máte raz dobrú dcéru. Nepočuť o nej   ničoho, ako by jej ani v dedine nebolo a pri tom pracovitá, čo by   včela. Ale tak je, ja vždy hovorím: Seď dievčatko v kúte, ak si   dobrá, najdú te.“
+    </tei:p>
+    <tei:p>
+     Hanulčíková len stála, načúvala. „A čo tu máte nového?“
+    </tei:p>
+    <tei:p>
+     „Hm, čože my vieme, máme so sebou dosť oštary.“
+    </tei:p>
+    <tei:p>
+     „Ak by, reku. Ja tam na dolnom konci neviem ani, či som na   svete.“
+    </tei:p>
+    <tei:p>
+     Potom neskôr pýtala sa:
+    </tei:p>
+    <tei:p>
+     „Je to pravda, že sa Štefan Paroha žení.“ „Nepočula som.“
+    </tei:p>
+    <tei:p>
+     „Veru tak; a že si berie rychtárovie Ivku. ..“
+    </tei:p>
+    <tei:p>
+     „Možno; však sa len oženiť musí a dievča tiež na to rastie.“
+    </tei:p>
+    <tei:p>
+     „Že už má skoro byť i svadba. Starí že sú už ushovorení.“
+    </tei:p>
+    <tei:p>
+     Hanulčíková pokývla hlavou. Prečo by si Števo nemohol od rychtárov   ženu vziať?
+    </tei:p>
+    <tei:p>
+     „A čo je pravda,“ začala Korábová znovu, „šikli by sa k sebe. On   má, ona má a mastný mastného vždy nájde. Chudobné dievča aby teraz sa   neúfalo bohatému.“
+    </tei:p>
+    <tei:p>
+     Postála a vyberala z Hanulčíkovej, ako sa jej to dotkne. Potom   pokračovala:
+    </tei:p>
+    <tei:p>
+     „Hm, ako čudne sa ten svet krúti. Kolkým sa ten
+    </tei:p>
+    <tei:p>
+     35
+    </tei:p>
+    <tei:p>
+     3*
+    </tei:p>
+    <tei:p>
+     ﻿Števo zaliečal. Hovoria, že i Katuška mu prebíja hlavu. Prečo nie,   však je, veru, ako jabĺčko. Ale dobre, že dievča neverilo a nedalo si   pomútiť hlavu. Čo by tam taký boháč chudobné dievča bral. Dobre si je   teraz dať pozor. Svet je falošný.“
+    </tei:p>
+    <tei:p>
+     Vdova stiahla obrvy, čo tá osoba tu chce, veď, ako je rok dlhý,   neotrú sa o seba. Azda má niečo za lubom? I znela jej odpoveď   odmietavo, prudko:
+    </tei:p>
+    <tei:p>
+     „Števo si môže brať, odkiaľ chce a koho chce, nás do toho nič. Ak   chcete nejaké pokúšenie stvárať, nám dajte pokoj. Ani moja dievka   nezhorí na slnku. S tým ste si nemuseli nohy k nám drať.“
+    </tei:p>
+    <tei:p>
+     A zvrtla sa, nechajúc Korábovú stáť.
+    </tei:p>
+    <tei:p>
+     „Aha, trafila som škohlani do živého,“ smiala sa táto, „dočkaj,   veď vám ja ešte zakúrim.“ Potom obzrela sa ešte raz na čistý, biely   domček a pobrala sa dolu.
+    </tei:p>
+    <tei:p>
+     Katuška sedela počas rozhovoru na prahu. Počula všetko. Bola bledá   ako smrť. Hľadela uprene na šitie. Matka bez slova prešla popri   nej.
+    </tei:p>
+    <tei:p>
+     Večer pýtala sa: „Katka, máš chuť zajtra doBrázniče?“
+    </tei:p>
+    <tei:p>
+     „Neviem, radšej by som bola doma.“
+    </tei:p>
+    <tei:p>
+     „Len sa vystroj, tetka by sa starala o nás.“
+    </tei:p>
+    <tei:p>
+     Dievča po večeri zašlo k Betke. Bola tam dlho. Mesiac bol už   vysoko nad hrebeňom hôr, keď vracala sa domov. Hviezd celé roje   trasľavo mihotaly sa na nebi, ich priesvitný kmit vlnivo plával v   ovzduší. Po vieske ticho, mier, len ozvena salašnej poľnice nesie sa   s horskej výšavy nadol.
+    </tei:p>
+    <tei:p>
+     36
+    </tei:p>
+    <tei:p>
+     ﻿Ocítiac sa na ceste, zrýchlila krok a ponáhľala domov. Príde k   dvierkam, nazre hore cestou, žatým však s druhej strany uhla mihne   tieň, zavznejú rýchle kroky, dievčaťom trhne, obráti sa a stojí ako   vyjavená. Pred ňou zastal si Števko. „Dobrý večer, Katuška. Odkiaľ   ideš?“ „Pánboh daj i tebe. Bola som toť u Betky.“ Hlas oboch znel   pritlmene, ťažko. Ako keď človeku tuho bije srdce a on hľadí   vydýchnuť. „Som rád, že som s tebou, veď som už ani nevedel, či   žiješ?“ Dievča mu pozrelo do očú, ako by chcelo hovoriť: „Ci ja za to   môžem?“ „Nevidieťťa nikde. . .“ „Nemám kedy; mamka polihuje, musím sa   mať okolo domu.“ „A ja som ťa toľko ráz pozeral. Aj tu som bol. . .“   „Musím byť u mamky. Bojím sa ju nechať samotnú.“ Z dievčaťa viala   chladná zdržanlivosť. Šuhaja zarazily skúpe odpovedi, jednako chcel   sa dozvedieť, ako je s ich známosťou. Mal devu zo srdca rád,   myslieval na ňu a radosťou oplýval, keď prichádzajúc domov, kojil sa   nádejou, že uvidí otca, matku a milovanú devu privinie k sebe; No,   zmenilo sato. Dnes stojí tu oproti nej skoro ako cudzí. Tak to nemôže   byť. Povie, musí jej povedať všetko; veď mu to káže srdce, svedomie a   sovrie ju v náruč, pošeptá, že ju má rád, že nikoho nechce, iba ju...   „A čo si takej zlej vôle Katuška.. . ?“
+    </tei:p>
+    <tei:p>
+     37
+    </tei:p>
+    <tei:p>
+     ﻿„Prečo Števko?“
+    </tei:p>
+    <tei:p>
+     Hlas šuhajov znel citlivo, dotýkal sa duše. Dávne upomienky sa   zobudily, ožily, srdce strepotalo citným záchvevom. V duši rodila sa   ľúbosť. Ale vtom kmitol sa deve pred očima obraz Korábovej i tá   jedovatá poznámka: „dobre, že neverila..., čo by taký boháč i   chudobnú vzal,“ a zasa opanovaly ju pochybnosti. Ak svádza, klame?   Načo by mu zavadzala, stavala sa v cestu? Radšej ustúpi. I stála s   predošlým výrazom v očiach, s predošlým chladom na jazyku. „Keď si   taká ako ľad, nemáš dobrého slovka. .. “ A šuhaj vyriekol slová tieto   značne tichšie. „Vieš,“ dievčaťu zatajoval sa hlas, „musím pamätať na   seba i na mamku. Neidem sa ti stavať v cestu. Načo väčších žiaľov. ..   ?“ „Katuška!“ zvolal šuhaj. Potom postál. „Teda všetko vie; uverila,“   pohybovaly sa mu ústa. „Ale načo verí? Veď keď som k nej prišiel,   prihováram sa — môže vedieť že len ju mám rád, že len ju chcem.“ I   vyrástla mu v srdci pochybnosť, pobúrila ho. On má svedomie čisté,   neublížil nikomu, prečo teda tá studenosť, to čudné odpudzujúce   držanie. Rozochvenie trvalo, množilo sa. Chcel jej podať ruku, dať s   Bohom. Ale predsa zrobí ešte pokus. Potom nech sa robí, čo chce. „A   pôjdeš zajtra na hody?“ pýtal sa. Malá otázka, veľký význam. Tam   schádzajú sa, obo-
+    </tei:p>
+    <tei:p>
+     38
+    </tei:p>
+    <tei:p>
+     ﻿znamujú a rozhodujú o svojom osude mladí ľudia. Na hody chodí   dievča pre dar, ktorý vyvolený jej srdca kúpi výlučne pre ňu na   trhu.
+    </tei:p>
+    <tei:p>
+     Dievča vedelo, že pôjde, no stálo ako v zadumaní. Srdce jej,   pravda, šepkalo „áno“, okolnosti „nie“. Rozhodla sa. Nemožno; tú   hanbu nezniesla by, keby ju Števo nechal. Neide sa mu stavať v cestu.   Vyhovorila sa:
+    </tei:p>
+    <tei:p>
+     „Nepôjdem; musím ostať u mamky.“
+    </tei:p>
+    <tei:p>
+     Šuhaj stál; ešte vždy neveril reči. Ale z úst dievčaťa nevyšlo   čakané slovo, nie tecba.
+    </tei:p>
+    <tei:p>
+     „Nuž dobre sa maj, Katuška,“ riekol v rozochvení, v urazenej   hrdosti. „Neveril som. . . ale čo budem darmo hovoriť? Nasilu ťa   nebudem zvať. Urob, ako vieš. Len aby si neobanovala. ..“
+    </tei:p>
+    <tei:p>
+     Zvrtnul sa, odišiel.
+    </tei:p>
+    <tei:p>
+     Dievča stálo ako stĺp. Chcelo volať, nebolo na koho. Hlas jej   uviazol v hrdle. Vypukla v plač.
+    </tei:p>
+    <tei:p>
+     39
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IV.
+    </tei:head>
+    <tei:p>
+     Slniečko zasvietilo nad čiernymi horami Hruboklátu. Letné hmly   sadaly na zem a tiahly sa čo biele plachty po sihhnách a úbočiach   oživených rosou. Vzduch voňal vlahou, jasné obláčky preháňaly sa po   výšinách a ponad skromné domky v korunách topoľov, líp preháňal sa   vetrík, laškoval, že lístky rozbesedily sa a tiahlym šumom oživovaly   súlad letného rána.
+    </tei:p>
+    <tei:p>
+     Po domoch už dávno živo. Kým si gazdina odbaví statok, oriadi   deti, prihladí si vlasy, oblečie sa, ubehne dosť času a k tomu treba   včaššie prísť do Bráznice, aby sa nezdalo, že prišlo sa len najesť,   rovno k mise. A mladá chasa, tá sa musí ponáhľať ešte lepšie.   Dievčaťom treba k pernikárovi kupovať srdiečka so zrkadielkom alebo   obrázkom, na ktorom ,,on“ a „ona“ v radostnom roztúžení na seba   hladia a pod nimi je veršík. Potom musia tiež kúpiť sedem detí za   kraj čiar, zrkadielko, pre mladších bratov harmoniku, koníka s   píšťalkou, harasu na vyšívanie, pár stužiek, čipák, šnúrok a   podob-
+    </tei:p>
+    <tei:p>
+     40
+    </tei:p>
+    <tei:p>
+     ﻿ných maličkostí. Šuhajcom páči sa zasa trblietačka, nožíky, fajky,   mosadzné gombíky, klobúky, remene, biče a potom každý kúpi pre svoju   milú, čo sa mu najlepšie páči, schová do prusliaka a podá jej to   zpiatky idúc, nezabudnúc si vziať za odmenu velké medové srdce,   spokojný úsmev a vďačnosť zračiacu sa z mladej tvári.
+    </tei:p>
+    <tei:p>
+     A mali by ste vidieť potom tú parádu v najbližšiu nedelil. Lesklá   zápona, kvetovaný ručník, čipák a stúh vo vlasoch! Dievčatá usmievajú   sa radosťou, pozerajú jedna po druhej a štebocú:
+    </tei:p>
+    <tei:p>
+     „Ale ty si len za ňu, akú fertušku si to obliekla!“
+    </tei:p>
+    <tei:p>
+     „To som si na bráznické hody nadobudla,“ odvetí tázaná trochu   neiste. „Z malín som si to shonobila. Ale ten tvoj ručník! Svieti sa   ako slnko. Kde si to. . . ?“
+    </tei:p>
+    <tei:p>
+     „Hja, ten už mám dávno, len mi ho bolo ľúto dať na hlavu. To mi   tatko z dola doniesol.“
+    </tei:p>
+    <tei:p>
+     A i jedna i druhá dostala to len pred pár dňami na ,,bodové“, ale   od koho, to každá drží v tajnosti, hoc o tom celý svet vie. Isté je   len, že by sama deva mrzela sa najviac, keby dárca ručníka bol jej   tatkom, a že lesklá zápona má s malinami toľko súvisu, ako oheň s   vodou.
+    </tei:p>
+    <tei:p>
+     Na ceste hore dolinou idú húfiky ludí. Sú všetci v sviatočnom   úbore. Na devách a vydatých ženských len šuchocú tvrdé naškrobené   šorce a pestria sa ružové ručníky i stužky s vrkočov dolu splývajúce.   Každý nesie čo to so sebou; každý je rád, že k rodine, známemu   nepríde s prázdnymi rukami, zavďačí sa tiež čím tým. Kde tu vidno   vozy s plno ľuďmi. Hrkocú a bežia o prekot ďalej.
+    </tei:p>
+    <tei:p>
+     41
+    </tei:p>
+    <tei:p>
+     ﻿Čo pešie, to zvrtne chodníkom naľavo a preseknúc vrch prejde cez   horu, rovno sa spustí nad Bráznicu.
+    </tei:p>
+    <tei:p>
+     Medzi týmito poslednými bola i Katka. Išla s Betkou niečo v   pozadí. Kráčaly v pozadí azda naschvál, chcely ísť samotné. Števo   Paroha bol už dávno napredku. Celkom sa premenil od včerajška. Akási   divá rujnosť sa ho chytila. Bol omámený, chcel sa vybúriť, vyhulať.   Nepokoj a vzdory, zial a hrdosť, trpkosť a sklamanie ho opanovaly.   Dočkal rychtárovcov a šiel s nimi. Matka Ivkina bola samý úsmev, samá   sladkosť, no Korábovej nedočiahla na hlavu. Tá s pocitom sebavedomia   pozerala na svoje dielo a neprestávala žmurkať a lakťom šťuchať   rychtárku, keď Števo neobyčajne nápadne besedoval s usmiatou Ivkou.   Cesty ubývalo, s vŕšku bolo už vidno Bráznicu i ludí, mrviacich sa   medzi šiatrami ako mravce. Hodovníci zamiešali a stratili sa medzi   svetom.
+    </tei:p>
+    <tei:p>
+     So dvoch strán cesty rozostavené boly šiatre so všetkým možným   tovarom. Pernikári rozloženými sladkosťami lákali červené, buclaté,   vysmiate devy. Povedia za dlhým stolom chudý, jarabooký kupčík   vychvaľuje svojmu obecenstvu zrkadielka, harmoniky, drumble,   retiazky, zahybáky, modlitebné knižočky, Brunclíka, Genovefu,   peštianske kalendáre a premnohé iné drobnosti. Dolu nižšie od   ctihodného mešťana z Kysuckého Nového Mesta, svojho remesla kušniera,   kupovali ľudia kožuchy, čiapky a remenné opasky. Jeho súsed zasa   núkal remeň na krpce a predával „na vlastnil škodu“. A šiat* rov   kolko len srdce ráči, dlhé rady s oboch strán. V kaž-
+    </tei:p>
+    <tei:p>
+     42
+    </tei:p>
+    <tei:p>
+     ﻿dom inšie, v každom to najlepšie. Tam zevluje židák, vykrikuje a   prisahá sa, že dáva za pol ceny. Chváli, ako hy im jeho čipky   pristaly do hlavy. Vedia neho jajká druhý a predajúc hádže druhým   udicu, akú škodu trpí. Konečne teší sa tým, že „človek mnoho sa   natrápi, kým príde o všetko“. Medzi húfmi sem tam chodia paňmámi i   pantátovia z Moravy a núkajú zámky a nožíky, papuče, varečky, lyžice,   klobúky a podobné potrebnosti. Celé tržište podobá sa mase, večne   živej, sviatočne odenej. Vrav, výkriky, smiech, škrek, výskot miešajú   sa v pestrú, pohyblivú smesicu, tvoriacu skupiny vždy nové a nové,   podlá okolností sa meniace.
+    </tei:p>
+    <tei:p>
+     Katuška s Betkou boly už tiež na tržišti. Betka zostala medzi   známymi, jej družka zamierila k tetke. Kráčala opatrne za šiatrami,   aby ju od Parohov nikto nezočil. Nechcela sa dať vidieť Števkovi a   mala v úmysle hneď popoludní vrátiť sa zpäť.
+    </tei:p>
+    <tei:p>
+     Zvonili do chrámu. Ľud hrnul sa k pobožnosti, rýnok zostával   prázdnym, kupujúcich ubývalo, kupci sedeli na truhlách a shovárali   sa. Revnivosť medzi nimi prestala, boli zasa starí známi, ako keď   domov prídu a za dlhých zimných večierkov rozprávajú si o svojich   skúsenostiach. Tu tam niektorý čítal utŕžené groše, druhý ujedal z   doneseného pokrmu, tretí vyťahoval čerstvý tovar a štvrtý sypal   koníkovi k vozu priviazanému obrok.
+    </tei:p>
+    <tei:p>
+     Števko sa tiež pobral do kostola. Pretlačil sa cez svet medzi   Hrubokláťanov a sadol si rovno k rychtárovým. Istý druh vzdoru vzal   nad ním vrch. Nech vidí každý,
+    </tei:p>
+    <tei:p>
+     43
+    </tei:p>
+    <tei:p>
+     ﻿že sa on nemusí nikomu prosiť a podkladať, že dievčat dosť a len   ruku vystrie a celé húfy pôjdu za ním.
+    </tei:p>
+    <tei:p>
+     Obzeral sa, ako by bladal Katku; umienil si, že jej pozre spurné,   uprene do očii. Ale márne čakanie. Katušky nevidel. Stála tam v   kútiku pri dverách chrámových a modlila sa.
+    </tei:p>
+    <tei:p>
+     Potom svet sa vyrojil zasa na vonok, rýnok bol ešte plnší, živší.   Kto mal známych, pobral sa s nimi domov, kto nie, otvoril svoj uzlík,   sadol so svojimi pod holým nebom a pojedal. Pod búdami zavznela   hudba. Čo do skoku, zanechávalo rýnok a utekalo vbok. Zavznel potom i   spev. Šuhajcom to húdli podlá ich zamilovanej nôty, potom cbytily sa   páry a vrtily, krútily až hlava išla kolom.
+    </tei:p>
+    <tei:p>
+     Slnko počalo sa skláňať. Katuška dosť neskoro odobrala sa od   tetky. Zabovorily sa, nuž ponáhľala sa teraz tým viac. Idúc rýnkom,   len mimochodom obzrela sa po blízkej búde. Tam bolo živo. Driečny   vojak stál pred hudcami, spieval, a potom tanec, vír, až taký dupot   znel v okolí. Poznala, bol to Števkov hlas, Števkova postava. Ako by   jej zem horela pod nohami, utekala preč, až zmizla za dedinou.
+    </tei:p>
+    <tei:p>
+     Mrkalo, keď prišla pod vŕšok. Čo krok hore, to obzor väčší,   malebnejší. Prudkou chôdzou sčervenelá, postála a obrátila sa k   vieske. Za chrbtom šumela jej hora, z viesky doznieval šum, vrava,   hudba. Jej zrak tekal po smesici sem tam, až konečne utkvel na jednom   bode a trval na ňom zmeravený. Cítila slabosť, sadla si. Nevidela   nič,
+    </tei:p>
+    <tei:p>
+     44
+    </tei:p>
+    <tei:p>
+     ﻿iba Števa, ako v divej rujnosti zvŕta jej sokyňu a tancuje, až zem   duní pod nohami. Ťažký žiaľ sovrel jej srdce. Prišiel jej na um, ako   včera čakal ju pod okienkom, ako citne sa jej prihováral a ona bola   proti nemu ako ľad. Svedomie pozdvihovalo svoj hlas. Veď mu ublížila,   ukrivdila, a nemala prečo. Či musela brať za hotový groš všetky reči   a klebety?
+    </tei:p>
+    <tei:p>
+     Pri takýchto výčitkách pobrala sa dial, bola už v bore a kráčala v   tichom zadumaní pod ťarchou vlastného obviňovania.
+    </tei:p>
+    <tei:p>
+     Bola by zaplakala, až by sa to bolo ozvalo v horách.
+    </tei:p>
+    <tei:p>
+     Tiché šero rozkladalo sa po bore. Korenná vôňa ovzdušia šírila sa   zemou, ozdobenou hustým machom, bohatou trávou a pestrým kvietím.
+    </tei:p>
+    <tei:p>
+     I dostúpila vrcholu. Svah bory klonil sa už na Hruboklát. Slnko   zapadalo, hrebene hôr kúpaly sa v zlatožiari, na nimi plávaly barance   ako kytice ruží. Diaľka zanikala v modrastej hmle.
+    </tei:p>
+    <tei:p>
+     Okolo bolo ticho. Dievča zastalo, obzrelo sa. Stálo pred kaplnkou,   čistou, úhľadnou, s obrazom Spasiteľa. V úzadí do polokruhu tiahla sa   bujná ohrada z jedličia. Pred obrazom horelo svetlo.
+    </tei:p>
+    <tei:p>
+     Katuškou zatriaslo. Slychové tepny sa napäly, v hlave kmital obraz   za obrazom, v srdci zadunela búrka. Sadla si na lavičku, ruky složila   do lona a nemo dívala sa na milé miesto.
+    </tei:p>
+    <tei:p>
+     Hla, tam priblížil sa k nej, povedal jej, ako ju lúbi, potom   pritúlil ju k sebe a díval sa jej dlho, dlho do očú.
+    </tei:p>
+    <tei:p>
+     45
+    </tei:p>
+    <tei:p>
+     ﻿A potom išli spolu ruka v ruke, svet sa im zdal rajom, tá tvrdá   zem samými ružami a život veselou piesňou na horách.
+    </tei:p>
+    <tei:p>
+     Ale všetko to je už preč, a čo zostalo, sú len trápne spomienky,   veľké sklamanie.
+    </tei:p>
+    <tei:p>
+     I vstalo dievča ako pudom hnané, kľaklo a modlilo sa skrúšene.
+    </tei:p>
+    <tei:p>
+     V Bráznici žatým celý ruch hodov sústredil sa okolo rozostavených   búd a trval nepretržite. Hudba znela živo; do kola si zastali i mladí   ženáči so svojimi ženami. Okolo jednotlivých skupín tancujúcich   utvoril sa kruh s divákmi, znel spev, smiech a veselosť na ďaleko.   Mladý Paroha tancoval od polvečera bez oddychu. Ako by chcel v tom   speve a tanci zabudnúť sám na seba. Dievčatá vychytal naporad okolo.   Ale pri všetkom výskaní nebolo mu jednako akosi volno. Čosi ho   ťažilo, cítil prázdnotu, chýbalo mu niečo do rovnováhy duševnej,   neišla mu tá radosť zo srdca, ba badal, že sa premáha, nudí. Sadol si   na lavicu, zamyslel sa, zatesknil, tušil akúsi opustenosť.
+    </tei:p>
+    <tei:p>
+     Tá hudba prichádzala ako výsmech a tá veselá, bezstarostná vrava   ako ťažké pomlúvanie.
+    </tei:p>
+    <tei:p>
+     Mrkalo, slnko bolo už nad horou. Števko prestal tancovať,   myšlienky ho neopúšťaly. Tak ťažko padlo sa mu dívať na tie veselé   rozihrané tváre. Neváhal, sobral sa ticho, bez hluku a išiel zpäť   domov.
+    </tei:p>
+    <tei:p>
+     Dvíhal sa mrak, čerň noci rodila sa vôkol, keď došiel na vrch   hory. Bolo ticho ako v chráme. Stúpal bez hluku pohrúžený v sám seba.   Zrazu zastal, zostril zrak, díval sa.
+    </tei:p>
+    <tei:p>
+     46
+    </tei:p>
+    <tei:p>
+     ﻿Pred kaplnkou stála Korábová a kukala dnu. Smraštil obrvy, tá žena   bola mu vždy odporná. Umienil si, že dočká, kým zájde. Stal si za   blízky peň. Aké však bolo jeho prekvapenie, keď z kaplnky vyšla   Katuška a vidiac Korábovú skoro vykríkla.
+    </tei:p>
+    <tei:p>
+     „Lala, Katuška.. . ani človek nevie, kde te nájde. Už z   hodov?“
+    </tei:p>
+    <tei:p>
+     „Už strynká.. .“
+    </tei:p>
+    <tei:p>
+     „A čo tak včas? Veď tam dievčatá ešte vyskakujú, len tak hučí   okolo.“
+    </tei:p>
+    <tei:p>
+     „Nech si tam. Mamička je sama doma.“
+    </tei:p>
+    <tei:p>
+     Števovi, očúvajúcemu pilne rozhovor, neušiel pozornosti sekavý   nádych Korábkiných poznámok.
+    </tei:p>
+    <tei:p>
+     „A čo sa ti, dievčička, porobilo, veď si bledá ako stena a oči máš   vyplakané ako mäso?“
+    </tei:p>
+    <tei:p>
+     „Ani mak, stryná, to mi len tak prišlo medzi modlením.“
+    </tei:p>
+    <tei:p>
+     „Ej, neklam, neoklameš ty starú babu.“ Potom so sebeckým úsmevom   pýtala sa: „A za koho si sa modlila?“
+    </tei:p>
+    <tei:p>
+     Dievča bolo ako na tŕni.
+    </tei:p>
+    <tei:p>
+     „Každý človek má sa za koho pomodliť.“ „A dievča zvlášť; na   príklad za muža, čo?“ „I to by nebol hriech.“
+    </tei:p>
+    <tei:p>
+     „To sa rozumie, ale to si mala urobiť už včera. Dnes na body mohla   si už niekoho zasnovať,“ riekla popudlivo baba, no vždy ešte so   smiechom.
+    </tei:p>
+    <tei:p>
+     „Nebudem ja nikoho zasnúvať, stryná.“
+    </tei:p>
+    <tei:p>
+     47
+    </tei:p>
+    <tei:p>
+     ﻿„Myslíš? Hm, dobre máš... Ale čo tam po planých rečiach,“ a   Korábová kývla rukou, „vidíš, rada ťa mám, keď sa modlíš. Nemáš ty   len nad Pána Boha. Chudobný človek toľko sa naúfa, naverí . . .“
+    </tei:p>
+    <tei:p>
+     Katuška stála vždy v nedorozumení. Nevedela, kam mieri   Korábová.
+    </tei:p>
+    <tei:p>
+     „Nerozumieš. . . ? nedbám, poviem ti; aspoň budeš vidieť, že ti   dobre chcem. Oj, moje srdce je ako kus zlata. Viem ja, prečo plačeš.   Uletel vtáčik z klietky, však? A Števo Parohov, to je vtáčik so   zlatým perím. Sľuboval, že ťa vezme, čo? Hja, ja o tom dobre viem,   nemusíš sa červenať. Vidíš sľuby sa sľubujú. Prišiel z vojny,   zabudol, a teraz nespúšťa s oka Ivu rychtárovie. Vláči sa za ňou ako   tieň a keby si videla, čo vystrája pri mu zike, neverila by si sama   sebe.“
+    </tei:p>
+    <tei:p>
+     Dievča ako by varenou vodou oblieval. Rudlo, bledlo. Z očú jej   sálal hnev, urazenie. Ostrá reč škaredej baby sypala sa ako voda na   úpuste. Oči škodoradostne behaly sem a tam. Videla, že víťazí a čím   dial väčšiu priepasť tvorí medzi mladými ľuďmi. Bola smelá.
+    </tei:p>
+    <tei:p>
+     „Darmo vymýšľate, Korábová. Mladý Paroha môže si vziať, koho chce,   ja nikomu v ceste nestojím.“
+    </tei:p>
+    <tei:p>
+     „A čo sa nazdáš, že ja hovorím, že ty komu zavadziaš? Ó, nie. Ja   dobre viem, že sa ty s rychtárovie nemôžeš za prsty chytať. Veď si   ako kostolná myšička, rada, že žiješ. Ale tú faleš, tú faleš som ti   chcela osvietiť. ..“
+    </tei:p>
+    <tei:p>
+     Potom sa prikrčila, zasmiala sychravým smiechom a doložila:
+    </tei:p>
+    <tei:p>
+     48
+    </tei:p>
+    <tei:p>
+     ﻿„Neni to dobre, keď sa Človek utečie k Pánu Bohu, keď sa také   chudobné stvorenie modlí?“
+    </tei:p>
+    <tei:p>
+     Katuška stála ako zmarená. Hnev, žiaľzápasil s trpezlivosťou jej.   Chcela sa pustiť do plaču, chcela utiecť, chcela jej tie reči   stonásobne vrátiť, no nedalo sa. Len stála, ústa pootvorené nemohly   slova vyriecť.
+    </tei:p>
+    <tei:p>
+     „Mlčíš, dievčička, mlčíš, no vidíš, kto mlčí, ten svedčí. Uznáš   aspoň, že ti dobre chcem. . .“
+    </tei:p>
+    <tei:p>
+     „Korábová, majte so mnou pokoj; ja vám nič nerobím a preto, že som   chudobná, do mňa pichať nemusíte. Ani mňa Pán Boh neopustí. . . “
+    </tei:p>
+    <tei:p>
+     „Tak. . hľa, aká hrdopýška! Dobre jej chcem ajazykom ti odplatí. A   čo ti robím? Hovorím, aby si bola múdrejšia a mala pokoj s Parohovým   vojakom, a ona starej žene jazykom odplatí. . . “
+    </tei:p>
+    <tei:p>
+     A pozrela sa bodavo na dievča. Prsia sa nadýmaly od rýchleho   hovoru. Katka žatým zronená sklopila oči a Korábová pokračovala:
+    </tei:p>
+    <tei:p>
+     „Druhý raz never svetu, nerúb vysoko a nemaj tej hladnej pýchy,   lebo pýcha peklom dýcha a len smiech utŕžiš od sveta, vieš? Alebo sa   nazdáš, že ťa Parohov ozaj chcel? Možno, že za služobnú, ale za ženu   nikdy. Neznáš ešte vojakov? Taký vlkolak, len klame. . . svádza.“
+    </tei:p>
+    <tei:p>
+     Dievča ešte za reči vypuklo v horký plač, zakrylo si rukami   tvár.
+    </tei:p>
+    <tei:p>
+     „Nehuč, čertovo rebro!“ zavznel v trápny výjav hlas Števov a   pretrhol Korábovú v prúde lží.
+    </tei:p>
+    <tei:p>
+     Táto strachom vykríkla, zavrávorala, no zazrúc na-
+    </tei:p>
+    <tei:p>
+     49
+    </tei:p>
+    <tei:p>
+     Obrázky z hôr — 4
+    </tei:p>
+    <tei:p>
+     ﻿pražené rameno pobrala sa chytro preč. Z očú šuhaja sršal hnev, z   tvári vzrušenie. Priskočil k zdesenej, poníženej deve a chytiac ju   okolo pásu, viac niesol ako viedol úbohú k lavičke.
+    </tei:p>
+    <tei:p>
+     Nastala trápna, ťažká chvíla. Stál pri dievčati a díval sa súcitne   na jej bledú, ubolenú tvár. Hlava mu trnula zdesením a krv udierala   mu do tvári nad výjavom, ktorého bol svedkom. Vyjasnilo sa mu. Už   vedel odkiaľ chýry o jeho ženbe, kto je ich pôvodcom a z akej   príčiny. Teda chceli zasiať medzi nich nesvár; napadli bezbranné   dievča; unížili ho, aby došli cieľa. No to sa nestane! I on má právo   povedať slovo a veruže ho povie; povie, že až svet uši nastrčí a   ľudia nebudú vedieť, čo od čudovania počať. Teda preto ho Katuška v   predhodový večer tak chladne prijala, keď sa mu nechcela stavať v   cestu. I pozrel teplým zrakom na uplakané dievča a srdce mu búšilo   ako zvon. „Ty si dobré, dobré dievča, Katuška moja,“ šepkal a sovrel   ju v náruč. Už ťa mi nikto neodcudzí, budeš mojou, ako je Pánboh nad   nami,“ a chytil jej hlavu a hladkal tie bledé líca a mäkké vlasy a   díval sa jej celou žiarou dobrého srdca do očú. Potom nastal medzi   nimi hovor tichý a trval dlho. A srdce našlo si priechod k   úprimnosti, k uznaniu a shoda a mier navrátily sa do duší sebe   blízkych, určených. Vstali. Večer už rozhostil sa nad nimi. Veľkolepá   a širo-
+    </tei:p>
+    <tei:p>
+     50
+    </tei:p>
+    <tei:p>
+     ﻿šíra obloha posiata bola jasom hviezd a mier sadol a objal i tam   dole tie malé chatky tichej viesky i dumné čierne hory.
+    </tei:p>
+    <tei:p>
+     Kráčali ruka v ruke a zasa sa im zdalo, že snijú ten blažený sen o   šťastí, že kráčajú ružami, že ich život ako veselá pieseň na horách.   . .
+    </tei:p>
+    <tei:p>
+     A rozprávať vám ďalej?
+    </tei:p>
+    <tei:p>
+     Prečo nie; veď keď dostal som sa už von z bludišťa, kde drsné   poryvy záujmov stoja proti sebe: teraz lahko mi písať o šťastí   druhých. Rozprávať vám, ako chýr o príhode pri kaplnke rozniesol sa   vieskou, ako dievča dievčaťu, súseda súsede oznamovala najnovšiu   tajnosť a staré babky, ponosujúc sa na prevrátenosť terajšieho sveta,   šepkaly si a skúmavým pohľadom obzeraly Katušku a Števka.
+    </tei:p>
+    <tei:p>
+     No, veď rozumie sa to samo sebou a v našich dedinách bez podobných   príprav ani veselia nebolo. Dosť bude poznamenať, že zvesť dostala sa   i do Parohov a spôsobila nemalé vzrušenie. Nastalo žehranie, hnev,   roztržky. Matka krútila hlavou, hnevala sa. Konečne domrzela vec   starého, zamiešal sa i riekol žene:
+    </tei:p>
+    <tei:p>
+     „Počuješ, stará, čo urobíme s tým chlapcom?“
+    </tei:p>
+    <tei:p>
+     „Čo? Nuž zabráni sa mu,“ riekla táto chytro, „kde by si aj rozum   podel, aby si mu to snáď mal dovoliť?“
+    </tei:p>
+    <tei:p>
+     „Hm, ty si to hneď rozhodneš. To sa lahko povie, Hanka. Ale   zabúdaš, že keď si Števo čo do hlavy.. . “
+    </tei:p>
+    <tei:p>
+     „Oj, to ja viem; priam ako ty..
+    </tei:p>
+    <tei:p>
+     Starý sa usmial.
+    </tei:p>
+    <tei:p>
+     51
+    </tei:p>
+    <tei:p>
+     4*
+    </tei:p>
+    <tei:p>
+     ﻿„Vieš, ono je to na dvoje. Keď ti je po vôli, vtedy je Števo na   teba, keď nie, vtedy na mňa.“
+    </tei:p>
+    <tei:p>
+     „Ale v tom sa zo mňa vyrodil. To on má z teba.“ „Nedbám: inšie ti   teraz poviem.“
+    </tei:p>
+    <tei:p>
+     Žena čakala.
+    </tei:p>
+    <tei:p>
+     „Vieš o tej histórii, o tých dvoch ľuďoch?“
+    </tei:p>
+    <tei:p>
+     Kováčka sa netrpezlivo dívala, starý sa len usmieval. „Nevieš?   Škoda, to je celá rozprávka, šikla by sa i do
+    </tei:p>
+    <tei:p>
+     kalendára.“
+    </tei:p>
+    <tei:p>
+     Ženu prechádzala trpezlivosť. „Len si postoj, mám kedy do dlhých   rozprávok.“
+    </tei:p>
+    <tei:p>
+     „Hneď, hneď, len trpezlivosť, Hanka.“ Potom pokračoval:
+    </tei:p>
+    <tei:p>
+     „Bolo to v Hrubokláte. Ona sa volala Hanka, on Ondrej Paroha.   Otcovia sa spierali; keď by nie tej tvrdej hlavy... “
+    </tei:p>
+    <tei:p>
+     A kováč smial sa vždy.
+    </tei:p>
+    <tei:p>
+     „Ty, ty, ty, ani neviem, ako by som ti povedala,“ durdila sa polo   v smiechu polo v hneve žena — ty si vždy taký blázon.“
+    </tei:p>
+    <tei:p>
+     ,, A so Števkom ti je to navlas tak, Hanka. Darmo sa spieraš. Ja   už viem, že tým len kňaz pomôže. A vidíš, sme už starí, i v dome   pomoc potrebná. ..“
+    </tei:p>
+    <tei:p>
+     Keď stará len nechcela popustiť, dodal ešte: „A načo mi to má   mrnkať za ušima.“
+    </tei:p>
+    <tei:p>
+     No, že potom pred takýmto dokumentom musela ustúpiť i žena,   rozumie sa samo sebou. A keď prišiel večer a uradostený šuhaj   prikradol sa k tomu bielemu či-
+    </tei:p>
+    <tei:p>
+     52
+    </tei:p>
+    <tei:p>
+     ﻿stému domčeku a zvestoval, že zajtra prídu pytači, aby Katuška   bola prichystaná, tu nevýslovné blaho zajasalo na jej očiach, na   celej tvári a tichá komôrka stala sa zasa svedkom modlitby, ale   šťastnej, vďaky plnej, až z tajín duše sa prýštiacej.
+    </tei:p>
+    <tei:p>
+     53
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

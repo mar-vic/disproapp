@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1899613" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Poviestka z hôr : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton (1857 - 1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     14944
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bielek, Anton
+     </tei:author>
+     <tei:title>
+      Poviestka z hôr
+     </tei:title>
+     <tei:pubPlace>
+      Skalica
+     </tei:pubPlace>
+     <tei:publisher>
+      Tlačou a nákladom Teslíka a Neumanna
+     </tei:publisher>
+     <tei:date>
+      1899
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    (íl. Eiclek •*
+   </tei:p>
+   <tei:p>
+    pouiestka z hôr.
+   </tei:p>
+   <tei:p>
+    UH. SKALICA,
+   </tei:p>
+   <tei:p>
+    TLAČOU A NÁKLADOM TESLÍKA A NEUMANNA.
+   </tei:p>
+   <tei:p>
+    1899.
+   </tei:p>
+   <tei:p>
+    Poviestka z hôr.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿I.
+    </tei:head>
+    <tei:p>
+     Zná ho každé dieťa v dedine, z ďaleká kričia naň susedi: „Mišo,   kam ideš“, a susedky: „Tarajda, kde ste boli“, je on vôbec   širokoznámou osobnosťou v poctivej obci Triesková a predsa, bárs sa   mn kloní silno k pädesiatke, keď by si sa ho pýtal po jeho otcovskom   mene, dlho by sa musel sužovať, kým by mu prišlo na rozum. Nuž ale   prosím vás, jakoby on aj mohol všetko vedeť? Y škole ho učili be, a,   ba, be, u, bu, potom musel sa trápiť a tĺcť po svete, div že si rozum   neprevrátil a nieto ešte aby sa musel na staré dni všeliakými menami   kynožiť a vbíjať si jich do hlavy. Bez toho sa on ver’ posial   obišiel. Prvý raz volali ho po mene, keď bol v odbierke. Doviedli ho   tam kdesi do
+    </tei:p>
+    <tei:p>
+     ﻿4
+    </tei:p>
+    <tei:p>
+     mesta, ktoré znal len z toho, keď jeho mamka rozprávala, že tam   maslo za soľ predáva. Bychtár ho postavil pred jakýchsi pánov (iste   to boli Nemci; mali tenké a hrubé bruchá) a tí ho obracali, stavali   pod mieru a potom pustili ho preč. Druhý raz nemohol sa dorozumet s   farárom. Prišiel na ohlášky. „Pánko . . . tento . . .
+    </tei:p>
+    <tei:p>
+     prišli sme na ohlášky”, hovoril sviatočno starý svat a poškrabal   sa beznáročne za tylom. Pán farár (bol nedávnym) hľadá milého Tarajdu   v knihách, ale Tarajdu nič a nič, až keď starý kostolník pomohol z   kaluže a povedal, že mladoženích je otcovským menom Kúriš; „veď že sa   dobre pamätá . . . ale jakoby i Bože môj nie! . . . veď jakoby to len   včera bolo, veď s jeho otcom za ovcami preskakovali jarky a šibenice,   naháňali sa poza kríčky a valili dolu lúkami kolesá. I potom strhlo   sa po čase svadbisko a náš Mišo doviedol si do malej chalúpky ženicu   mladú, šibnú a živili sa potom jako vedeli. Ona vedela chýrno prat   šaty, bielií a keď nebola na výrobkoch, chytila ihlu a vyšívala   susedám podnyky, oplecká a čapce. On v tie
+    </tei:p>
+    <tei:p>
+     ﻿5
+    </tei:p>
+    <tei:p>
+     časy bol honelníkom. K tejto hodnosti však neprišiel tak, jakoby   to mnohým sa pozdalo. Začal bol s pasením husí, potom ho prijali za   kravára, neskôr chodil na burgyňu a až potom pristavil ho bohatý   ďaleký strýko ku ovcam.
+    </tei:p>
+    <tei:p>
+     Tu sa mu otvoril život zcela neznámy. Bol pod bačom, ktorý sa pri   tomto remesle zostarel. Nevedel orať, nie siať, ale zato pri salašoch   nebolo ani na troch dolinách takého majstra jako starý bača. Jeho   ovce boly sta -lasice a neochorela mu od rokov ani jedna. I priučil   sa Mišo behom služby čomu-tomu a keď pristal za baču sám, vedel si   poradit, keď mu niekto, jako ovčiari hovoria, „do školy vošiel “ Za   to prichytili ho potom ľudia, ani sám nevedel, k čomu. Pomáhal krave,   čo dojila krvavé mlieko, dával od preškodenia zelinky, naprával   vytknuté ruky, nohy a tak postúpil časom do verejnej mienke za   osobnost vážnu, medzi ženami vplyv majúcu.
+    </tei:p>
+    <tei:p>
+     I pochytila potom túto výsadu Mišovu vnímavá obec a využila ju v   prospech svoj vyvoliac ho jednohlasne za
+    </tei:p>
+    <tei:p>
+     ﻿6
+    </tei:p>
+    <tei:p>
+     hármedzkeho. Nemal proti sebe nikoho okrem svojej ženy. Táto v   hneve chcela použiť i argument: hrniec vriacej vody, no udatnému   predstavenstvu pošťastilo sa predísť i tomuto nešťastiu a Tarajda   odtedy zastáva úrad hármedzkeho.
+    </tei:p>
+    <tei:p>
+     Lež jak milý Mišo málo dbal o role čo gazda, j ako hármedzký ešte   menej staral sa o ne. Inokedy dosť frflali naň susedí, že keď kosí   tak vyzerá jakoby žida provieslom priviazal na koňa, lež jeho Eva   predsa ho kedy tedy vyštuchala do roboty. Lež teraz nedaj Bože dostať   ho ku kose alebo motyke. Tých „poriadkô“, „zákonvô“ toľko chodí z   mesta od „pánvôch“, že nestačí, čoby si chodením nohy zodral po   kolená. A ešte koľko musí vystáť preto od sveta! Žena mu ustavične   ubližuje že je leňoch a vo dvore si rozprávajú, že tak je to, keď sa   kto po salašoch a pri úradoch zavedie, že ver’ ten nie je k ničomu   ani pri dedovizni, ani pri statku a nedbá, čoby mu pokrovisko pred   samým nosom sletelo na hlavu.
+    </tei:p>
+    <tei:p>
+     Lež susedí zle mieňa; oni nevedia posúdiť výšku postavenia   Mišovho. Yjr
+    </tei:p>
+    <tei:p>
+     ﻿7
+    </tei:p>
+    <tei:p>
+     tlčie i on pekný groš medzi svetom, bárs nie motykou, kosou alebo   inším hospodárským nástrojom. Kde ktorá truhla je zlá, tu ju hneď   dopracú Tarajdovi na sánkach, aby ju popravil. A gazdiny čoby robily,   keďby jim nepopravoval rozsušené putne, hratky, dieže a neztiahnul   jich obručami? A súsky, klepce na myši a potkanov, potom zbenky,   šalie atď. kto robieva? Ba áno, i v poctivom remesle tesárskom nie je   on nováčkom. Kde sa stavia chalupa, tam on chýbat nesmie; oko jeho   jakoby inžinier odmeral a keď brnkne do uhlistej vody zamočenou   šnôrou, tak mu to strelí, j ako čoby bol mal už starého otca   tesárom.
+    </tei:p>
+    <tei:p>
+     Čo mu tak niekedy jeho stará alebo rovesníci ublížia, za to   dostáva on dostatočnej náhrady od mladej chasy. Y jej očiach je on   mnohoznamenajúcou osobou a nikto by sa mu nezpriečil, čoby ho priam   jedno za druhým tri dni na dedinské vyháňal. Bol on — j ako ľudia   hovoria — muzikálnym, a keď sa strhnul v dedine tanec, tu chuchmavý   židák nevedel sa dost okolo neho naobskakovač,
+    </tei:p>
+    <tei:p>
+     ﻿8
+    </tei:p>
+    <tei:p>
+     aby sosbieral muzikantov a šiel po vôli urobit tej mladej   krvi.
+    </tei:p>
+    <tei:p>
+     „I oldomáš bude, Miško, i dobrú večeru nastrojím a do basy tež sa   vám čosi dostane“, nahováral šušlavým úsmevom chudý žídáôik a potom,   aby ho ešte lepšie na koňa posadil, doložil: „Ja veru neviem čo tí   mládenci počnú, ked sa vy pominete, Miško, ved tí hudci tak rednú j   ako lastovičky v jeseni a škoda mladej krv e, keď si ani zaskočit   nemôže“.
+    </tei:p>
+    <tei:p>
+     Židák hovoril v metafore; mladá krv zosobňovala tu jeho vačok.   Prakticná fantazia.
+    </tei:p>
+    <tei:p>
+     Mišo sa uškrnul: ľúbilo sa mu zaliečame židákovo. Zahundral čosi   popod nos? povedal tri razy „čo“, pripomenul poriadky a vypijúc za   pol litra tej horkej vody, dal si paličku pod pazuchu, skrčil sa,   zatlačil si barančinu na čelo a pomaly íupkal domov.
+    </tei:p>
+    <tei:p>
+     Žatým však súmrak bol už nad dolinou. Žena varila večeru a   netrpelivé deti tmolily sa okolo ohňa a robily shon po izbe a okolo   stola. Po chvíľke vnišiel i Tarajda, sadnul si na lavicu do kúta   a
+    </tei:p>
+    <tei:p>
+     ﻿9
+    </tei:p>
+    <tei:p>
+     prezeral v ženinej modlitebnej knižke obrázky.
+    </tei:p>
+    <tei:p>
+     „Teba tiež aby vyčakával, nikdy nevieš prísť kedy je čas“,   privítala ho žena obrátená súc k nemu chrbtom a ukladala triesky na   ohnište.
+    </tei:p>
+    <tei:p>
+     „Však ešte nie je ani navarené“, bránil sa muž dívajúc sa do kúta,   kde deti robily shon.
+    </tei:p>
+    <tei:p>
+     ,,Ale môžeš pomôct niekdy i pri statku, vidíš, že nestačím“.
+    </tei:p>
+    <tei:p>
+     Mišo nechal túto poznámku bez odpovede. Mali tam už taký domáci   poriadok, že žena mala vždy poslednie slovo.
+    </tei:p>
+    <tei:p>
+     Prešla zase chvíľka. Deti robily po izbe lomoz a kričaly až sa jim   štice parily. Jedno naháňalo druhé, toto kričalo, tamto sa smialo.   Gazda však čokoľvek ztrpel len vresky nie, okrem toho i žena robila   mu výčitky, nuž zmrzútnel. Chcel už dávno zkríknuť na chasu, no   Čakal, čo povie mater; táto však pilno porábala okolo ohňa a nechala   byt deti deťmi. Zrazu jedno prehodilo sa na prostred izby a počalo   kričat.
+    </tei:p>
+    <tei:p>
+     ﻿10
+    </tei:p>
+    <tei:p>
+     Otcovi to už bolo primnoho. Vyskočil . . .
+    </tei:p>
+    <tei:p>
+     „Ale toto tieto špaty, veď tú izbu prevráfa! Ej, len sa neztrať   niekam do kúta, jak vezmem ten remeň . . .
+    </tei:p>
+    <tei:p>
+     Trochu sa prichýlil, ruka mu zašla za pás a tento argument   účinkoval. Detváky rozpŕchly sa po kútoch ani motýly a v izbe bolo   ticho.
+    </tei:p>
+    <tei:p>
+     Po večeri gazdina začala rozhovor.
+    </tei:p>
+    <tei:p>
+     „Otec, na zajtrá nemáme soli“.
+    </tei:p>
+    <tei:p>
+     Miša sa patrne otázka netýkala; sedel pod pecou, díval sa pokojno   a ťapkal z fajky.
+    </tei:p>
+    <tei:p>
+     Žena opakovala: „Počuješ, otec, zajtrá ti nemám čím posoliť“.
+    </tei:p>
+    <tei:p>
+     Mnž vidiac, že sa to v tichostí odbyt nedá, nnž povedal:
+    </tei:p>
+    <tei:p>
+     „Veci som ti len včera dal dva zlaté, odkiaľ že ti vezmem“ ?
+    </tei:p>
+    <tei:p>
+     ,.A porcie teda z čoho vyplatíš? Nevieš, že zajtra príde   notariuš?“
+    </tei:p>
+    <tei:p>
+     Mišovi svitlo v hlave, že i takéto výdavky sú na svete. Na. dva   zlaté sa teda nž nemohol opreť. Nemala by žena
+    </tei:p>
+    <tei:p>
+     ﻿11
+    </tei:p>
+    <tei:p>
+     potom na porcie. Bola ona rodinným pokladníkom.
+    </tei:p>
+    <tei:p>
+     „Nu, však si včera zmútila“, hovoril po chvíľke jakosi nesmelo,   nepozrúc ani na ženu.
+    </tei:p>
+    <tei:p>
+     „A nevieš, že máme isť do Harantov za kmotrov ?“ slovila niečo   podráždene žena; „za čo potom kúpim múky, čo upečem?“
+    </tei:p>
+    <tei:p>
+     Trpezlivý muž mlčal,
+    </tei:p>
+    <tei:p>
+     „No, dáš, či nedáš?“
+    </tei:p>
+    <tei:p>
+     „Hm, hm,“ hundral tento pre seba. Potom urobil kyslú tvár, potom   siahnul do záhrenia a vytiahnul plátenó vrecko. „Ani na páčku tabaku   mi nezostane.“
+    </tei:p>
+    <tei:p>
+     Gazdiná sobrala zo stola po krajciari vyčítaný obnos na funt   soli.
+    </tei:p>
+    <tei:p>
+     „Veď ja viem“, kývala proti nemu hlavou „ty si taký gazda. Žena a   deti môžu od hladu aj rozutekať sa po svete, len aby si ty svoju pípu   plnú mal. Pane Kriste že ťa prežehnaj, ja neviem čo to s tým smradom   na večné veky máš!“
+    </tei:p>
+    <tei:p>
+     Zabudli sme doložiť, že Tarajda požíval od obce dve sinekury:   bájnictvo i hlásnictvo. Medzi podobným rozhovorom
+    </tei:p>
+    <tei:p>
+     ﻿12
+    </tei:p>
+    <tei:p>
+     uhol sa bol už čas silno na noc. Do Tárajov nadbehnul už i tohto   kollega a volal Miša po zamesknaní. Tento obliekol kožuch, vzal   halapartňu a trúbu a vyšiel na noc. Jeho druh s lampášom šiel pred   ním.
+    </tei:p>
+    <tei:p>
+     Vonku bolo jasno. Kosa a Yeíký voz svietily čisto, žiarno. Naši   pomocní dľa týchto riada svoj čas. Nepomýľa ani minúty, okrem jak len   chcú. I dnes hodiny šly značne prv. Mišo mal zajtra deň u obce: chcel   si trochu podriemať. Vyzvonil na svitanie, vyšiel na seno a spal j ak   o zarezaný.
+    </tei:p>
+    <tei:p>
+     Však dobrého nie j e nám nikdy dosť; včas ráno klopali mu už na   oblok. Bol to Ondrej Rolinec. No o tomto vedela tiež len matrika   kňazova. Y dedine volali ho Bliščiakom, ba v najnovšom čase dostal i   meno „Zákon“, bo súc obecným hájným mal vždy plné rukávy zákonov, tak   asi, j ako kecF naši slúžnovia prindú za roky raz do dediny rychtára   „vymenovať“ (nechcem povedať: vyvoliť).
+    </tei:p>
+    <tei:p>
+     „Mišo, brat môj hore, hore!“ kričal Ondrej ; „pán rychtár ma   vystrojili k vám,
+    </tei:p>
+    <tei:p>
+     ﻿13
+    </tei:p>
+    <tei:p>
+     aby sme rozkázali porcie. Prídu i pán notariuš a taký veľký pán   len vedia, j ako ide zákon. Hore, vstávajte!“ a búchal na dvere.
+    </tei:p>
+    <tei:p>
+     O chvíľu zjavila sa vo dveroch Katra; zapálila lampu a za ňou   sliezol potom s povaly zo sena i Mišo.
+    </tei:p>
+    <tei:p>
+     Bol z varty celkom oblečený; kožuch mal naopak, preplnený samými   steblami. Na starých nohaviciach na kolene visela mu z vrchu   natrhnutá záplata. Čapicu mal vtlačenú až niže uší a žmurkal oôima, j   ako ľudia hovoria, j ako žaba z prachu.
+    </tei:p>
+    <tei:p>
+     Na krik a svetlo počali sa budič, i deti. Najmenšie začalo   vrieskať v kolíske, druhé, niečo väčšie, na posteli mu pomáhalo. Na   peci a na laviciach počaly sa na to dvíhať jedno za druhým plachty a   hune a odvšiaľ vykukla strapatá, kučeravá hlava. Y chytrosti nedalo   sa počítať, koľko jich je. „Ako mrvancov“, kecľby sme v prísloviach   hovoriť chceli.
+    </tei:p>
+    <tei:p>
+     Úradní sa pomaly vytratili. Vizbe zostala len gazdiná s deťmi.   Bola ona hospodárkou na mieste. Bola z tých, ktorí pracujú nielen   rukama, no i hlavou. Y
+    </tei:p>
+    <tei:p>
+     ﻿14
+    </tei:p>
+    <tei:p>
+     dome bola neobmedzeným vladárom aj-ej snpremacii podrobiť sa musel   i hospodár. A darilo sa jej to dobre. Naše ženy vôbec ďaleko predôia   mužov. Pomer tento nabýva tým väčšej pravdepodobnosti, čím   hornatejšie kraje berieme do ohľadu. A pre túto príčinu vídame po   našich vieskach tak často ženu držať opraty i bič, kdežto muž   uspokojí sa obyčajne nejakým vysokým úradom v kráľovstve, v ktorom   rozkazuje žena. Mnohí sa nad týmto čudujú, nedržia to za prirodzené,   aČpráve je ono to najprirodzenejšie na svete. Kde prevaha ducha, tam   i moc, svrchovanosť, kde slnko, tam tmy niet. Y takomto pomere k   svojmu domu nachádzame ju i dnes. Jako sa muž vzdialil z domu, hneď   sa prichytila k robote. Učiôíkala malé v kolíske, zakúrila do pece,   poshánala, poumývala deti a šla odbavovať statok. Pod statkom   rozumieť sa má síce len kravička a teliatko, no ale kravička,   mamička, hovoria naši ľudkovia, áľ u Tarajdov tak si ju opatrovali,   tak ju radi mali jako oko v hlave. A teraz práve mnoho starostí leží   na hlave Katre Tarajdovie.
+    </tei:p>
+    <tei:p>
+     ﻿15
+    </tei:p>
+    <tei:p>
+     Najstaršiu dcéru sozvali jej na službu. Je sama. Ale ona na to   ešte s božou pomocou akosi zmôže. Od malý potĺkala sa po cudzých   ľuďoch, starala sa na seba i do seba a nepostojí ešte ani dnes čoby   chvílocky na mieste. I deti si vychováva dobre. Sú viazanejšie, než   ktorékoľvek vo dvore, nosia sa čistucko bárs chudobno. Dvanásťročné   dievča pasie statok a pomáha v dome materi okolo poroby; menší   chlapec zas varuje jej menšie deti a y lete pasie husy. Y chyži jej   to čisto vyzerá.. Muž jej vystavil pri peci sporák, steny sú biele,   kde tu visí obrázok. Y kúte pri armarii stojí mocný dubový stôl,   najpeknejší v celej dedine, lebo chudobný sedliak neide za svojím   nábytkom do mesta k stolárovi a tuná v dedine nevie to tak nikto   pririchtovať, j ako Mišo Tarajda, zaslúžilý náhončí, hlásnik, hájnik,   tesár, bednár, stolár a v páde potreby i ránhojic poctivej obce   Trieskovej.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Y dome Ďura Zázriváka ide to všetko širším chodníkom než n   Mikuláša Kuriša,
+    </tei:p>
+    <tei:p>
+     ﻿16
+    </tei:p>
+    <tei:p>
+     alebo jako ho po našský zovú, Miša Tarajdu. Nuž ale šťastie a   nešťastie nechodí po horách, ale po ľuďoch, a tak jako každý nemôže   byť bohatým, tak nemôže byť ani chudobným. Jednomu nadelí Boh na   lúke, druhému na roli; Zázrivákovi nadelil vo svete. Býval gazdom pri   žatve a burgyni, neprepil, nepremárnil, nuž má. Roľka za roľkou   pribývala, tak, že teraz majú tam i slúžku a paholka.
+    </tei:p>
+    <tei:p>
+     Po strynnej známosti majú tam toho roku Žofku, najstaršiu dcéru   Tarajdovu. Už tam porába na tretí týždeň. Y dedine hovoria, že u   Zázrivákov neurobia poslušným krivdy a že sa jich device a paholci   držia i po tri štyri roky. Jako sa zdá, i Zofke nie nechýba. Spieva   od rána do večera, vystrája smiechy, žarty, no pritom mizne jej práca   zpod rukú j akoby pálil. Ale je i vyvinutá, silná. Vyzerá j akoby ju   ulial a do roboty je jako jašterica. Majú ju však i radi; gazdiná   nepovedala jej ešte zlého slova, ba i prísny gazda hladí spokojno na   ňu.
+    </tei:p>
+    <tei:p>
+     Keď má čas, vezme ihlu, vyšíva alebo šije a tu i tu zabehne i k   materi. Donesie
+    </tei:p>
+    <tei:p>
+     ﻿17
+    </tei:p>
+    <tei:p>
+     deťom kus koláča, chleba, vyzvŕta j ich semotam, potom j ich   pohladká, poshovára sa s materou, otcom a zas ponáhľa sa ku   gazdom.
+    </tei:p>
+    <tei:p>
+     Bolo v nedeľu na nešpore. Práca stála, Žofke bol dlhý čas, nuž   vybrala sa k rodičom. Prešupla cez záhumnie; tam v úzadí belel sa   milý rodičovský dom. Blížila sa mu s radosťou v ústrety.
+    </tei:p>
+    <tei:p>
+     Matku našla samotnú. Bola smutná, zrazená.
+    </tei:p>
+    <tei:p>
+     „I dobre žes’ prišla, Žofka, mala som práve isť k vám“, vítala ju   matka.
+    </tei:p>
+    <tei:p>
+     Potom si sadlj a Katra rozprávala Žofke dlho, dlho čosi. Zdala sa   jako rozhorlenou, časom hovorila silnejšie, potom zas jakoby jej   slová znelý jako dohováranie, zas neskôr prešla do zvukov skoro   plačúcich, trúchlivých a konečne hrozila sa dievčaťu prstom. Dievča   žatým sedelo pri materi jako primrazené. Oči sklopilo dolu, žmolilo   medzi prstami fiertušku, svietily mu v očach slzy, nehovorilo nič a   až keď sa večerilo, bralo sa ticho, žialno domov.
+    </tei:p>
+    <tei:p>
+     2
+    </tei:p>
+    <tei:p>
+     ﻿18
+    </tei:p>
+    <tei:p>
+     U gazdov čelad už bola v staji. Žofka stavila sa v humne, nabrala   krmu, dala statku a potom šla pre vodu k studni.
+    </tei:p>
+    <tei:p>
+     Súmrak už bol nad dolinkou. Y prírode vyzeralo to pusto. Sňahový   pokrov belel sa bezživo, trúchlo zôkol vôkol.
+    </tei:p>
+    <tei:p>
+     Devy zo dvorov boly už dávno preč. Na žriedle však predsa našla   niekoho. Zdalo sa, že poznala ho z daleka. I zbladla .... pomaly,   váhavo blížila sa ku vode.
+    </tei:p>
+    <tei:p>
+     „Ej, Žofka, j akosi sa nechceš dať vidieť“, vítal ju šuhaj s milým   úsmevom; „včera som tu stál, neprišla si, a dnes tiež už dávno čakám.   Hu! skoro ma zima prechodí. Co si taká pyšná?“
+    </tei:p>
+    <tei:p>
+     „Prečo bych bola pyšnou, Štefko,“ hovorila deva j akosi chladno v   polbok obrátená a mala oči sklopené, „vieš, že si sama rozkázať   nemôžem. Gazdiná chorie, mala som robotu okolo nej.“
+    </tei:p>
+    <tei:p>
+     Hlas devin zvučal žialno. Šuhaj prekvapeno pozrel na ňu. Oči mu   hovorili, že je na všetko pripravený, len na to nie. Krv skokmi   zprúdila sa mu v žilách.
+    </tei:p>
+    <tei:p>
+     ﻿19
+    </tei:p>
+    <tei:p>
+     Žofka stála vždy v tom istom postavení. Hľadela do čistého zrkadla   studienky zadumeno, smutno. Cernavý súmrak a mrtvý výraz k zime sa   chýliacej jasene obrúbil tvár jej v bľadosť, ktorej otcom bôľ srdca a   matkou pohnutá duša až v hlbinách.
+    </tei:p>
+    <tei:p>
+     „Tvojej gazdinej nechýba nič, Žofka,“ riekol neskôr šuhaj. „Včera   bola u strýkov celkom zdravá, pri sebe a vystrájala so mnou i   smiechy. A dnes videl som ju ráno i popoludní v kostole. Niečo   druhého ťa trápi; vidím ti to na tvári. Alebo snáď som ti niečo   urobil, keď si zrazu takou cudzou zostala oproti mne?“
+    </tei:p>
+    <tei:p>
+     Štefkovi vydraly sa slová rovno až z prsú. Nápadnou chladnosťou   devy prekvapený, hovoril rýchlo, jedným dychom ; potom pristúpil o   krok k dievčaťu a hlbším, citným hlasom sa pýtal:
+    </tei:p>
+    <tei:p>
+     „Prečo si taká smutná, Žofka?“ povedz mi.“
+    </tei:p>
+    <tei:p>
+     Táto ešte vždy mlčala; zdalo sa, že v duši jej zúri boj. Y oôach   svietily veľké slzy.
+    </tei:p>
+    <tei:p>
+     ﻿20
+    </tei:p>
+    <tei:p>
+     Šuhaj len s najväčším premáhaním
+    </tei:p>
+    <tei:p>
+     seba čakal na odpoveď devinu. Znovu sa pýtal, až konečne, keď deva   len stála bez slova ani zkamenelá socha, s trpkosťou —
+    </tei:p>
+    <tei:p>
+     znelo to jako výčitka — riekol: „Snád nechceš mi do oôú   povedať,
+    </tei:p>
+    <tei:p>
+     že ma nechávaš tak . . . . nu povedz,
+    </tei:p>
+    <tei:p>
+     neboj sa, nebudem ti svedomie začitovať!“ Šuhaj zrazu sa zmenil;   slová znelý
+    </tei:p>
+    <tei:p>
+     studeno jako lad. Účinok nevystal; deva sa zrazu obrá-
+    </tei:p>
+    <tei:p>
+     tila, pozrela hore a uprela výčitkou hlboké svoje oči na šuhaja.   Tento zprvu sklopil oči, potom však pozrel ostro, jakoby chcel
+    </tei:p>
+    <tei:p>
+     nazreť až do srdca a čakal.
+    </tei:p>
+    <tei:p>
+     „Štefko, blížiš mi,u hovorilo dievča
+    </tei:p>
+    <tei:p>
+     citlivo; „ty sám vieš, že to nie pravda, ale keď to tak ide medzi   svetom, že chod-
+    </tei:p>
+    <tei:p>
+     níky vedú i hore i dolu potom
+    </tei:p>
+    <tei:p>
+     sa trochu zamyslela, j akoby hútala, čo vyslovila, alebo j akoby   si chcela usporiadať v mysli čo ešte povedať má a po-
+    </tei:p>
+    <tei:p>
+     kracovala:
+    </tei:p>
+    <tei:p>
+     „Myslel si ty, Štefko, aj na to, že
+    </tei:p>
+    <tei:p>
+     kedysi budeme sa museť rozlúčiť — za-
+    </tei:p>
+    <tei:p>
+     nechať ?“
+    </tei:p>
+    <tei:p>
+     ﻿21
+    </tei:p>
+    <tei:p>
+     I stane sa, že zčista jasna udre hrom. a ľudia prekvapeno obzerajú   sa, zakiaí ten rachot: Stefka však nebol by zarazil v tej miere ozon   oblačnej iskry, jako tieto v náhlom* zvrate uvedené slová. Zbladnul,   pozdvihol strmo hlavu, otvoril oči a díval sa . . .
+    </tei:p>
+    <tei:p>
+     Deva hovorila ďalej :
+    </tei:p>
+    <tei:p>
+     „Tlak je mi ťažko na srdci, akoby mi na ňom mlynské kamene   závislý. Nechcela som ti to povedať, ale lepšie bude, keď sa   poshovárame aj o tom. Mne posial bránila pýcha, a ty snáď si preto   nehovoril, jak si nechcel sostrašiť mňa. Už snáď aj ty vieš, že tvoja   mať nám nežičí. Dnes bola som u otcov. Matka skoro plakala. Tvoja   matka jej naodkazovala, že aby sa jej nesnívalo, že si dievku vydá do   vás, že na teba inakšie čakajú, že som ti ja nie roveň, aby som si   tak pyšno neviedla a teba nesvádzala a za tebou sa nevláčila, lebo že   to ver’ nie je pekne, keď devojna tak za mládencom lipí.“
+    </tei:p>
+    <tei:p>
+     Reč Žofky sekla v hlasitom štkaní; zem mu utekala zpod nôh a svet   krútil sa mu dookola. Chcel hovoriť, nemohol,
+    </tei:p>
+    <tei:p>
+     ﻿22
+    </tei:p>
+    <tei:p>
+     chcel objať návalom žiaľu ovládanú devu, no obával sa. Srdce   chcelo mu rozboriť prse . . . Stál . . .
+    </tei:p>
+    <tei:p>
+     Prešla chvíľa; deva v plači, šuhaj v mrákote stáli jeden pri   druhom. „Vidiš, Stefko“, hovorilo dievča ďalej, „my sa musíme tak   rozísť. Ja nesmiem robiť medzi vami hriechu. Musela som to sľúbiť   svojej mamke; ona je chudobná, ale vedie si veľmi na seba a tvojej   materi sa nikdy nepodloží. Lepšie to bude pre oboch, keď vrátime sa z   krátkej cesty . . ,w
+    </tei:p>
+    <tei:p>
+     Posledné slová devy znelý ticho, no boly určité. Naši prostí ľudia   neradi sa púšťajú na pole erotického vyrážania citov a zvlášte   ženy-nie. Tie práve vtedy vedia panovať nad sebou, keď kritické   okamihy žitia zburia cit a zatískajú rozvahu do úzadia. Y takýchto   okamihoch, keď muž ztratí rovnováhu duše, zabudne na seba, dá sa   uchvátiť, tam žena udrží sa na povrchu a zapre sa až po   Gíolgothu.
+    </tei:p>
+    <tei:p>
+     Nastal trápny okamih. Deva dokončila a šuhaj nevedel začať.
+    </tei:p>
+    <tei:p>
+     Konečne vzmôhol sa.
+    </tei:p>
+    <tei:p>
+     ﻿23
+    </tei:p>
+    <tei:p>
+     „Nie, Žofka, nie,“ hovoril bôľno. „Snáď moja mat ani toľko   nehovorila, koľko vaším prišlo do uší, a potom, reči sa hovoria a   chlieb sa jie. Moja mat má ma rada. Možno, že baží po bohatej   neveste, ale ona popustí. Popustí, Zofka, ver’ popustí. Jako prídem   domov, hneď sa budem shovárat o tom.“
+    </tei:p>
+    <tei:p>
+     „To nie, pre Boha nie, Stereo . . .! to by sa dostalo do uši a   reči svetu. Ja by som sa v dedine ani neobstála, utiekla by som   svetom.“
+    </tei:p>
+    <tei:p>
+     Šuhaj sa zas zamlčal.
+    </tei:p>
+    <tei:p>
+     „Nuž a jakože sa dohovorím s rodičmi, keď nechceš, aby som jim o   tebe hovoril.“
+    </tei:p>
+    <tei:p>
+     „čakaj na vhodnú chvíľu; z tohoto by bol nový hriech. Potom, keď   ta budú chcet zenit, rob, čo vieš . .
+    </tei:p>
+    <tei:p>
+     „A do tých Čias ?“
+    </tei:p>
+    <tei:p>
+     „Do tých čias,“ opätovalo dievča jakosi váhavo, neisto, „rozíde sa   nám cesta čím hore, tým dolu. Budeme sa znač len tak obďaleč. Obídeš   ma pri muzike, družine a v kostole a ja sa budem chovat tak, j ako   som mamke sľúbila. Zarmútit
+    </tei:p>
+    <tei:p>
+     ﻿24
+    </tei:p>
+    <tei:p>
+     ju nesmiem; ona sa dňom nocou trápila, aby ma vychovala.“
+    </tei:p>
+    <tei:p>
+     Dievča hovorilo odhodlano, no bľadosť tváre a zvláštny kmit oka   svedčil, že sa premáha, že vedie so sebou boj.
+    </tei:p>
+    <tei:p>
+     Štefko netrúfal, kam až to príde s nimi. Počal prehovárať všetkým   možným spôsobom, no bezvýsledno Deva urcito sotrvala na stanovisku   svojom a jasno osvedčila sa, že na pomere terajšom nedá sa ničoho   premeniť, kým j ich rodičia stavajú sa jích citom oproti.
+    </tei:p>
+    <tei:p>
+     „Zofka, ty máš tvrdé srdce,“ hovoril šuhaj; „ani na tom ti   nezáleží, čo budú hovoriť naši, ked prerečiem s nimi o tebe . .   .“
+    </tei:p>
+    <tei:p>
+     „Yšak jak prelomíš a nezabudneš prísť ... — jak nie, nuž nech sa   stane vôľa božia . . .“ Zofka urobila krok ku studni a ponorila putňu   v hladký povrch vody.
+    </tei:p>
+    <tei:p>
+     Potom sa rozlúčili; dvoje úst zašeptalo „dobrú noc“ a štvoro očí   zrkadlilo žiaľ, hlboký, až z tajín duše prýštiaci žiaľ. Mladoň   zabúdzal na seba. Y tvár udrela mu krv. Urobil niekoľko prudkých   krokov,
+    </tei:p>
+    <tei:p>
+     ﻿25
+    </tei:p>
+    <tei:p>
+     chcel devu objať, sovreť na|sypje Jíŕsá,; n-qf. cúvnul. Z tváre   Zofkinej zmižnul čo blesk každý cit a ohľad j ako severný vietor   vanul od nej. I stáli málo jedefi proti druhému; potom deva vzala   puťne, pohliadla na šuhaja ešte raz pohľadom dlhým, hlbokým, povedala   mu „s Bohom“ a zmizla na záhumní. Stefko zostal tam stáť. Zem sa mu   triasla pod nohama a mhlisté hory a vrchy krútily sa s ním dookola. Y   dušu vkradnul sa mu ťažký bôľ, hlava mu horela páľou a hruď pnula sa   mohútno ztrasením. Potom sobral sa a zamieril domov.
+    </tei:p>
+    <tei:p>
+     U Mikulov — tak volali Štefanových otcov — už kúrili. Otec sedel   za stolom a pozeral Sibillu. Nad stolom kmitala lampa a v rohu nad   armariou visel na klinku zavesený suchý veniec z obžiniek. Starý   Mikula patril do kruhu tých vý- sadnikov, ktorí vedeli „z   knižky1 Bolo to už v jích rode, že každý člen pýšil sa   znalosťou čítania. Jeho dedo, starý otec a otec boli dedinskými   notáriusmi za dlhá roky a aj on tento úrad pred rebelliou zastával,   no potom chytil sa výživy dru-
+    </tei:p>
+    <tei:p>
+     ﻿26
+    </tei:p>
+    <tei:p>
+     hej. Ešte do nedávna behali ľudia k nemu so „štelúnkami,“ ale v   poslední časy vyšiel i on z úžitku. Jakési cudzó poriadky nastaly v   krajine a v dedine okrem kňaza a rechtora nevyznal sa v nich nikto.   Za mladý bol chudobným. Pálieval v horách uhlie a jeho žena chodila   na výrobky do sveta. Potom, jako, jako nie, nevedel nikto — no   zbohatnul. Budia si šuškali, že mu bolo dobre stavieb nadvíhať,   čiastok nakúpiť, ked našiel poklad. Teraz je už jako na pokoji.   Chodieva každé ráno do kostola; pod pazuchou nesie veľkú, ťažkými   žltými sponami opatrenú, v koži viazanú knihu a v ručníku v kožušku   má uschované na štvoro rozpukané okuliare. Po službách božích vráti   sa domov, prizre si okolo domu a keď treba, vyjde i na roľu. Do   podrobností sa nemieša; to je starosťou synovou a on vie, že   Stef je pilný a podarený, nuž načo by mali obadva soliť   polievku. Jeho polovička však bola letorou celkom rozdielna od svojho   muža. Už bolo silno ku šesťdesiatke, no bola živá, hodná a do roboty   ani žihadlo; stará ale jará, jako príslovie hovorí. Prácu
+    </tei:p>
+    <tei:p>
+     ﻿27
+    </tei:p>
+    <tei:p>
+     viedla si sama a o slúžke nechcela ani chyrovať. „Zmôžem ja to   ešte, otec,“ hovorila, keď jej tento pripomenul pomoc a ďalšie   nahováranie prestalo potom samo sebou. Ináč obrábalo sa tam   hospodárstvo dľa storočného kalendára, Sibilly, snov a starodávnych   povier, a jak mali Mikulovci lepšie úrody než sused, to bolo len   preto, že mladému sa to jakosi ináč darilo, keďže: mladé ruky, skorá   robota. Co sa však duševných statí týka, to stará Mikulová žila —   jako vôbec tisíce našich žien — v poverčivých názoroch žitia až po   najkrajnejšie hranice možnosti a či lepšie povedano nemožností.   Nevykristallizovanó pochopy kresťanstva podávaly si ruky so zvykmi,   účinkami, s počínaniami a so starodávnymi názormi dávnych božestiev a   vyrážaly sa v každom odlyku jej zamestknania Skriatky, zmoci,   ježibaby, strygy, magy atď. mali tu svoje práva a podržali svoju moc.   Veštice preškodúvaly ľudom, urôovaly nemoce, naznačovaly osudie,   dávaly výstrahu a pokynu jej krokom a to tak šlo od najmenšej smety   za dvermi až po obšir-
+    </tei:p>
+    <tei:p>
+     ﻿28
+    </tei:p>
+    <tei:p>
+     nejšie námahy veľadenia každodenného chlebíka.
+    </tei:p>
+    <tei:p>
+     Zvláštne čo bolo pri nej úkazom, to bola nezvratná viera v   predurčenie. Keď sa v dedine stala nejaká príhoda, tu Mikulová bola   prvá čo povedala: „to už mal od Boha súdené.“ A keď zas tešila do   nehody upadlú kmotru, susedu, známu, tu hlavný zástoj hraly slová:   keď má niečo človeka nadísť, tu on tomu nevjďme, čo by sa hneď pod   zem schoval.
+    </tei:p>
+    <tei:p>
+     Že však vedela obísť úskalie nebezpecia zásady tejto, mala čo   ďakovať svojej pilnosti. Týkala sa táto jej viera viac na   predurčenie, ktorému ide človek v ústrety v otázkach závažnejších.   Človek mal u nej súdené hneď pri narodení, čo bude z neho a jakými   chodníkmi bude kráčať na svete tomto. Obecané mal šťastie nešťastie,   skorú smrť, dlhý život, chudobu, bohatstvo, slovom všetko čo spadá   pod otázniky životných udalostí a budúcnosť bola u nej pochopom,   ktorá zakrývala rúškou len to, čo nevyhnutelne stať sa má a musí.
+    </tei:p>
+    <tei:p>
+     Ináče napriek pokročilému veku je z nej gazdiná na miesto. Y dome   je čisto
+    </tei:p>
+    <tei:p>
+     ﻿29
+    </tei:p>
+    <tei:p>
+     a každá vec, ktorá kde stoji, vyzerá tak, jakoby tam bola   vyrástla. Susedí síce povrávajú, že je skúpa, že si nedopraje ani   výpomoci, lež nie odtiaľ vetor fúka. Ten, kto od malý zapriahnutý bol   v robote, ani na starosť od nej a tomu nikto po vôli nespraví, čoby   priam to lepšie vykonal jakoby sa to druhému zdalo. Steŕko bol z detí   len sám doma; bolo ich len dvojičko: dcéra a syn. Dcéra sa vydala   pred rokom do záhoria a prichádza k rodičom len na hody alebo   odpustky. Susedy sa už vtedy zpytovaly, že kedy sa strhne u Mikulov   svatba, že toto a ono, nuž ale čoby sa žena rozumela zákonom a   poriadkom. Na to, že Steŕko len teraz vyšiel z tretej odbierky,   neprišly, a tak zvedavosť jejich až do dnes obstatá bola hmlou   otáznika a odpoveď Mikulovej „že však i jeho súdená nie je snáď ešte   len v plienkach,“ neuspokojila jich vonkoncom.
+    </tei:p>
+    <tei:p>
+     Medzitým bolo sa už nadobre stmilo Steŕko Mikula po osudnej   rozprave so Zofkou obrátil sa bol domov. Pod strechou rodičovského   domu človek trpezlivejšie nesie ťarchy života než pod holým
+    </tei:p>
+    <tei:p>
+     ﻿30
+    </tei:p>
+    <tei:p>
+     nebom a v okamihoch sám pud ženie otrasenú bytost v útulok   domácého krbu. V návale prvého rozhorčenia chcel hneď zatat do živého   a prehovoriť s rodičmi a hútal po ceste, jako má to začať Lež nešlo   mu to tak lahko jako bol myslel. Žiadna zdravá myšlienka nemohla mu   vyzreť v hlave. Konečne umienil si, že urobí tak, jako mu radila   Žofka. Kozhodnul, no neuspokojil sa. Krv dvaadvadsiati rokov rýchlo   sa vzbúri, zpení, obrazotvornosť má živé barvy a srdce pozná len dva   svety: žial a radosť. Pokoja, mieru tam niet.
+    </tei:p>
+    <tei:p>
+     Jako sa obznal so Žofkou, nevedel ani sám Naši dedinskí šuhaji nie   sú lenníkmi tej sentimentálnej škrobenosti, j akú v našej spoločnosti   vidíme, a potom srdce ver’ nevedie memoiry o svojich citných vznetoch   a neláme si hlavy, aby dľa predpisu chovalo sa tak, j akoby sa to   chladnému rozumu pozdalo: srdce je svobodné, voľné jako vták, ktorý   zakrúži svoj let práve ponad tie hory, ktoré sa jemu pozdajú.
+    </tei:p>
+    <tei:p>
+     ﻿31
+    </tei:p>
+    <tei:p>
+     Celkom takto stalo sa to i s našimi mladými. Šuhaj videl devu na   poli, na muzike, v družine, v kostole a poznalo sa to, jako sa   poznajú lastovičky, keď na jar zaštebocú na strechách prihorných   našich viesok. Štefko blýskal po jasných očiach mladej device a táto   sa neodhadzovala, keď driečny šuhaj nepohŕdal iiou chudobnou, ba   vyznačoval ju pred majetnejšími, z lepšieho domu dievčaty. Lebo   nemyslite, že na dedine niet rozdielu. Yeími berie sa tam na váhu,   kto roveň a kto neroveň. Aristokracia v huňkách.
+    </tei:p>
+    <tei:p>
+     I tak vzniknul — j ako príslovie hovorí — na streche o   Po ružových dobách prvej lásky priíla trpkosť zkúšok a strádania.   Začala sa s tým, že mať Stefkova, počúvajúc čo a jako jej syn svádza,   chytila to za Hávu a za horúca odkázala Zoŕkinej mater, že veru aby   svojej dcére dala naučenie, že z tej múky chleba nenapečie. Potom   padla kosa na kameň a hriech prišiel potíšku, nezbadano a sadnul až   za vrch stola.
+    </tei:p>
+    <tei:p>
+     Šuhaj nechcel isť rovne dnu, vošiel do maštale Obával sa, že sa mu   potkne
+    </tei:p>
+    <tei:p>
+     ﻿32
+    </tei:p>
+    <tei:p>
+     jazyk a potom vypovie to, čoby teraz
+    </tei:p>
+    <tei:p>
+     povedať nesmel. Vyčkal, kým paholok sa neodbaví.
+    </tei:p>
+    <tei:p>
+     Po chvíľke prišla jich matka zvať k večeri. Zazrela i syna.
+    </tei:p>
+    <tei:p>
+     ,.I ty si tu?“ pýtala sa syna. Stefku pobúrila otázka. „A kdeže by   som mal byť, mamka?“ opýtal sa jakosi s odvrávaním. Matka pozrela ná   neho. Zdal sa jej byť nesvoj ským. /
+    </tei:p>
+    <tei:p>
+     „Ja som myslela, že budeš ešte v dedine,“ povedala s istou   narážkou. Šuhaj sa premohol; mal na jazyku ostré slovo, no piéhltnul   ho, bárs ťažko mu to prišlo. I
+    </tei:p>
+    <tei:p>
+     Večera už bok na stole Potom prišla od Balvanov susfda, za non   druhá, tretia a ženičky sa ponaly rozkrákorily. Ženy si majú vždy df   božej vôle čo narozprávať. Stefko sa doposiaľ ani nepohnul od stola.   Bol zamysleným, málomluvným. Matka občasne z boku podívala sa naň.   Znamenala, že je značne bľadším. I vedela, že už unrelo. Spokojno   obrátila sa potom k.
+    </tei:p>
+    <tei:p>
+     ﻿33
+    </tei:p>
+    <tei:p>
+     Medzi rečou prišiel neskoršie i šuhaj, Ondrej Bartekov, vrstovník   a kamarád Stefov; pobavil sa a volal Stefka k nim
+    </tei:p>
+    <tei:p>
+     „Kdeže sa vystrájate proti noci?“ pýtala sa matka, pozrúc neľúbo   na syna.
+    </tei:p>
+    <tei:p>
+     „Ideme trochu k Bartekovým,“ hovoril tento jakoby poprlene; večery   sú dlhé a spať je ešte zavčasu.
+    </tei:p>
+    <tei:p>
+     „Ó, nebojte sa, strynká; keď sa človek večierkom trochu   rozkrákorí, takým je ráno do roboty ani jeleň,“ hovoril mladý Bartek,   prajúc domácim „dobrú noc.“ Dva mladí potom odobrali sa von.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Na horňom konci Trieskovej vidno na tamtej strane rieky malý, z   predu malou záhradkou otočený domôok. Nateraz bydlí v ňom statočný   občan Michal Susurka spolu so svojou, na závidenie zručnou ženou Ivou   Sušurkovou. Sú chudobní, ale dosiaľ udatno bránia sa psote. Iva je   hľadanou osobnosťou v celej dedine. Neminie jedno pečenie, čoby tá,   druhá kmotra
+    </tei:p>
+    <tei:p>
+     Poviestka z hôr.
+    </tei:p>
+    <tei:p>
+     3
+    </tei:p>
+    <tei:p>
+     ﻿34
+    </tei:p>
+    <tei:p>
+     sa nerozpomenula na ňu poplanúchom, koláčom, alebo o mútení kúskom   masla a hrnčekom mlieka a o Yianocach sype sa jej to ani   šestonedielke do kúta. Ale nech nikto nemyslí, že to len preto, keď   šťastie za ňou chodí. Nie; to je len odplata za úslužnosť   preukazovanú svojim spolubližným. Komu treba poradí proti nemoci,   nezahanbí sa ani pri statku a vyzná sa v čomkoľvek. Pri krstinách vie   pekne zavinšovať a neprevedie ju v reči žiadna kmotra, čoby si hnecF   jazyk až po tylo zahovorila. Má okrem toho mäkké srdce. Na pohrebe,   pri zomrelých tak pekne vykladá, že to až srdce stisne, no za to   nahradí si to pri veseliach a rozličných karoch na toíko, že šťastní   prísediaci od smiechu chytajú sa už za bruchá a hlasitým „bodaj si sa   nestihlo,“ privolávajú starej Ive, že j ako sa jim to veľmi páči.
+    </tei:p>
+    <tei:p>
+     Jej muž podobne je chlapina na svojom mieste. Poneváč rolí nemajú,   rúbava kde-tu drevo, dá sa najať za posla, hotuje pasce na potkanov,   vystruhuje varechy, ližice, pletie slamienky a na čo je najpyšnejším,   je to, že na výročitých sláv-
+    </tei:p>
+    <tei:p>
+     ﻿35
+    </tei:p>
+    <tei:p>
+     nosťach doziera streľbe z mažiarov, a ked mu to potom rachotí,   vytrčí veľké žltavé zuby, uškŕňa sa a s kým sa len stretne tomu   rozpráva, že jako dobre nabíjal a mažiare že sa po výstreloch tak   prevŕhaly jako v jaseni plné vrecá na zemiaônisku. Ináčej zpýtaj sa   ho, čo najradšej, a on, kedby sa svojej Ivky nebál, povedal by ti, že   ver’ dobrú (rozumej veľkú) í ajku tabaku a teplý kút pod pecou. Lež o   týchto tajnosťach jeho srdca málo kto vie. Jeho žena nahúdla by mu   toľko poza uši, žeby to za to nestálo. Opatrnosti nikdy nezbýva.
+    </tei:p>
+    <tei:p>
+     Y domci bývajú len sami dvaja: detí nebolo. Na protivnej strane   izbice je malá komôrka. Tu má Šušurková svoje kráľovstvo; tam boly   uschované i jej poklady, a síce zeliny, zakrútené opatrno v handrách,   jako: černobyľ, koščibal, .marunku, výzob, derazu, rutu, cintariu,   bobovník, horkú ďatelinku, netresk, hrdú bárku atď. Rozumela sa i do   liečenia ľudí. Proti boleniu hlavy, klaniu a podobným nemociam, ktoré   sú medzi našimi, prácou zmorenými íudmi na bielomdni, vedela   jedno
+    </tei:p>
+    <tei:p>
+     druhé j ako okädiť, začítať, dať to i to
+    </tei:p>
+    <tei:p>
+     ﻿36
+    </tei:p>
+    <tei:p>
+     užiť a podobné. A v tomto smysle upotrebovaly ju gazdiny rad radom   a device boly jej nad mieru vďačné, keď jim poveštila na milenca   alebo odpútaného frajera sľúbila jednej druhej priviesť zase nazpät.   Obzvlášte však vítanou bola u Mikulov. Steŕova matka svojimi   životnými názormi a náhľadmi spadala silno v kruh Ivinho   zamestknania. ba táto slúžila jej čo rádkyna, kedykoľvek nejaká   okolnosť, jako nehoda, nešťastie alebo hmlistá záhada zaľahla nad Mi   kul ovci a gazdiná sama nevedela si poskytnúť pomoci a vymotať sa z   krížnej cesty prípadne nemilého položenia. Okrem toho spolu rástly a   Mikulová odriekala Ive i syna, ktorého ale Pán Boh povolal už dávno   ku sebe, a v ten istý deň pristupovaly obe ku oltáru a prisahaly   mužom svojim vernosť až do smrti. Bola jaksi tajomníkom a dôverníkom   rodiny a Mikulová nič vážneho nepodujala, do ničoho sa nepustila, kým   nevedela o tom i Iva, kým i táto neosvietila svoju mienku a   neprežuvala vec čím hore tým dolu.
+    </tei:p>
+    <tei:p>
+     ﻿37
+    </tei:p>
+    <tei:p>
+     Y takomto pomere trvalý naše ženy už dlhé roky. Jedna doplňovala   druhú. Každá myslela, že druhej dobre robí a čakala za to odplatu od   Pána Boha. Neminulo dňa, čoby Iva nebola nakukla „ku svojej zlatej   kmotričke.“ Stávalo sa to však obyčajne štáby náhodou, zvlášte vtedy,   keď sa pieklo, mútilo. Poshovárala sa, pokrútila, poradila jedno,   druhé a potom odoberúc a vrátac sa tri, štyri razy nazpät poberala sa   ďalej. Patrila ona medzi tie naj šťastlivé ženičky, ktoré vždy   zabudnú „niečo“ povedať.
+    </tei:p>
+    <tei:p>
+     Keď sme už takto predstavili ďalšieho dejateľa skromnej poviestky   naším čitateľom, vrátime sa zase k predmetu nazpät a rozprávač budeme   ďalej.
+    </tei:p>
+    <tei:p>
+     Po našich hôrnych dedinkách skoro dostaví sa zima a sniažik zavíta   prv, nežby polovice jasene pominulo. Hospodári utečú sa do chalúp,   poľná robota odpočíva. Nastanú pôrobky tu dnu a plúšte a vetry tam   von.
+    </tei:p>
+    <tei:p>
+     U Mikulov mlátili. Starý pokašlával, nechutila mu ani fajka a   celou jeho robotou bolo, jak pozrel do maštale alebo
+    </tei:p>
+    <tei:p>
+     ﻿38
+    </tei:p>
+    <tei:p>
+     do humna. Jeho žene išlo to tiež nesnadno : starí ľudia žalujú sa   vtedy na prse. „November nem ember,“ povedal Sládkovic, a „marec,   poberaj sa starec,“ hovorí príslovie. Práve je práca okolo konopí;   robota táto potrebuje mocných rúk a zdravé prse. Zápach sadá na   pľúca; stará
+    </tei:p>
+    <tei:p>
+     Mikulová kašlala.
+    </tei:p>
+    <tei:p>
+     „Ej, Zuzka, dosluhujeme, dosluhuje-
+    </tei:p>
+    <tei:p>
+     me,“ hovoril jej zpoza chrbta muž, kývajúc pomaly hlavou. „Lepšie   by to dru-
+    </tei:p>
+    <tei:p>
+     hómu svedčalo, my už starí .... Ten
+    </tei:p>
+    <tei:p>
+     kašeľ . . . .“
+    </tei:p>
+    <tei:p>
+     Žena sa obrátila; zdalo sa, že bola
+    </tei:p>
+    <tei:p>
+     prekvapenou. Muž patrno vytrhnul ju
+    </tei:p>
+    <tei:p>
+     z myšlienok
+    </tei:p>
+    <tei:p>
+     „Pomôžme si, otec; ked sme chceli
+    </tei:p>
+    <tei:p>
+     byť mladými, musíme chceť byť i starý-
+    </tei:p>
+    <tei:p>
+     mi. Však kedysi môž’ byť i lepšie.“ „Veru, veru, pomoc by už bola   treba.
+    </tei:p>
+    <tei:p>
+     Ochodza rastie, sily slabnú. Ale ty to až vtedy uznáš, ked   prihára. Keby si mala aspoň dievky; ale toť už dávno po Všech
+    </tei:p>
+    <tei:p>
+     Svätých. “
+    </tei:p>
+    <tei:p>
+     Stará hnula plecoin; bolo v tom čosi,
+    </tei:p>
+    <tei:p>
+     jakoby chcela povedať: „Ja ked chcem,
+    </tei:p>
+    <tei:p>
+     ﻿39
+    </tei:p>
+    <tei:p>
+     zaopatrím si dievku i o pol noci.“ Konečne však zdvihla sa,   postála a dívala sa na muža. Y jej zraku j akoby niečo hovorilo, že   muž ju nerozumie, že on myslí inšie, a ona zase inšie. I dívala sa   naň zase a nehovorila nič.
+    </tei:p>
+    <tei:p>
+     Starík vydržal pohľad; v zraku sa mu zasvietilo, ústa vyjadrily   malý úsmev. Čakal. Žena má slovo. Na nej je rad, aby niečo   pevedala.
+    </tei:p>
+    <tei:p>
+     Tato však mlčala ani ryba. Konečne začal Mikula:
+    </tei:p>
+    <tei:p>
+     „A ked zpeôuješ sa mat poslužnú, na nevestu si ešte   nepomyslela?“
+    </tei:p>
+    <tei:p>
+     Starík sa usmieval srdcom. Matkám zablisne v očiach, ked sa jim   spomína vydaj dcérin; .otcovia sú zas hrdí, ked je reč o ženbe   synovej.
+    </tei:p>
+    <tei:p>
+     Starík hovoril mäkko, dôverne. Tvár matky vyjasnila sa zážehom   peknej úfnosti. Opravdn, ona od istého času vážno zapodieva sa s   myšlienkami týmito. Mnž však nemusí vediet o všetkom, čo žena myslí.   Preto na koľko sa dalo, ľahostajnejšie povedala:
+    </tei:p>
+    <tei:p>
+     ﻿40
+    </tei:p>
+    <tei:p>
+     „Prečo bych si s tým lámala hlavu? Ked vyčkáme času, príde to samo   od seba. Yed len nezhorí na šušiarku; oženit sa musí.“
+    </tei:p>
+    <tei:p>
+     „času, času,“ povrával pomaly otec. „A nevieš, že čas je už tu? Z   odbierky vyšiel, fašianky na záhumní a chlapec už na mieste, čo s ním   vyčkáš?“
+    </tei:p>
+    <tei:p>
+     „No, no, j akým si náhlivým zostal. I z neba spadnul i odpočinul,“   hovorila niečo hlasnejšie žena pohybom ruky dávajúc na javo, že sa   ona do toho lepšie rozumie; potom pokračovala: „a nevieš, že sa   takéto veci musia prežuvat i zhora i zdola? Chlapec je pochábeľ,   kuriplach, na neho sa nemôžeš znechat. Ja by ch sama rada, kedby to   mohlo byt už na fašianky; ale jak nebude?“
+    </tei:p>
+    <tei:p>
+     „Hm, hm,“ premýšľal starík, „i ja to tak myslím . . . hm, veru   tak; ved uvidíme, ono to príde do poriadku, tu treba sa obozret, áno,   tak, tak — ja nedbám.“
+    </tei:p>
+    <tei:p>
+     Keď muž takto dal jasný dôkaz svojej povoľnosti na javo, matka   pristúpila potom bližšie k nemn. Chcela !sa o tejto
+    </tei:p>
+    <tei:p>
+     ﻿41
+    </tei:p>
+    <tei:p>
+     veci rozhovoriť obšírnejšie. V okne však mihnul sa stieň a ona   zamĺkla.
+    </tei:p>
+    <tei:p>
+     Na prahu zjavil sa Štefko. Prišiel z humna z vejacky; bol   zaprášený. Na širokom klobúku mal plno pliev.
+    </tei:p>
+    <tei:p>
+     „Do ktorého priehradku dáme ten jačmeň, otecko?“
+    </tei:p>
+    <tei:p>
+     rA čo je už po viatke?“
+    </tei:p>
+    <tei:p>
+     „Už je i odmeraný; lež bude treba čosi vriec. Mamička, potom   doneste.
+    </tei:p>
+    <tei:p>
+     „Ja idem do sýpky,“ hovoril otec, „a ty buď na mlatovni. Obozri   sa, Zuzka, po komore, aby si nachystala mlatcom večeru,“ preriekol   obrátený ku gazdinej a vyšiel von.
+    </tei:p>
+    <tei:p>
+     Štefko poberal sa na humno. Od osudnej nedele bolo vídať na ňom   premenu. Šuhaj j ako iskra bol dnes viac do seba zavreným,   zádumčivým. Jeho chovanie však zmenilo sa oôividno oproti matke.   Poslúchnul, bol povoľným vo všetkom, no keď sa mali spolu pustiť do   dlhšieho rozhovoru, zostal roztržitým, slová j akoby mu viazly v   hrdle a on j ich odtiaľ kliešťami ťahal. I matka zdála sa chladnejšou   oproti nemu. Vedeli oba, že majú
+    </tei:p>
+    <tei:p>
+     ﻿42
+    </tei:p>
+    <tei:p>
+     ťažko na srdci, že sa niečo prihodilo,- čo sa postavilo medzi ňu a   syna, no každý dusil to v sebe. Čakali oba na vhodnú chvíľu a   mysleli, že táto rozoženie mrákavy, ktoré sa nad nebom lásky   materskej a synovskej začerňaly.
+    </tei:p>
+    <tei:p>
+     Napriek všetkým starosťam však rozhovor vedený s otcom hlkoko   utkvel jej v hlave. Už bez toho dávno myslí o tom a mienka mužova ju   len v predsevzatí utvrdila. Kedy len koľvek stačila, zapodievala sa   predmetom týmto; tu i tu prehovorila i s mužom a keď dokončievala   alebo zapocínala nejakú prácu, ked bola ustatá, tešila sa s tým, že   však, jak nebude chceť, nebude sa museť potom už trápiť. Jej starý a   ona budú si žiť v tichosti, bezstarostno a starosť okolo hospodárstva   prevezmú druhí — mladí.
+    </tei:p>
+    <tei:p>
+     Ľudom, ktorým robota po našský hovoriac rastie v rukách, idú tie   dni tak, jakoby kamene do vody metal. Len sa človek obozre, zobudi a   pred sebou má tu božiu nedeľu. Robotný ľud si tu ľahšie vydýchne,   lebo po mozolnej práci šiestich dňov má pred sebou lehotu odpočinku   a
+    </tei:p>
+    <tei:p>
+     ﻿43
+    </tei:p>
+    <tei:p>
+     po ťažkom zápase vo víre sebaudržania dobre je odpočinúť,   poskytnúť umdlenému telu novej sily a dušu posilniť v prameni vôd   živých.
+    </tei:p>
+    <tei:p>
+     Y sviatok popoludní stroja sa pomaly naši dedinčania na nešpor.   Mládež, jakonáhle odhodí ližicu, ihneď ide preč. Schádza sa potom v   domoch okolo kostola a trávi tam čas rozpravou, smiechom, žartom,   jako už kedy príde. Stárež, tá sa sbiera pred kostolom a beseduje tam   a shovára sa až kým nepríde čas, oddať to, čo božieho je, Bohu.
+    </tei:p>
+    <tei:p>
+     Od Mikulov okrem gazdinej dnes všetci brali účasť na nešpore. Túto   trápil nadmieru kašel, strážila pec a oči mala uprené do modliacej   knihy. Vôkol bolo ticho, len šepot modlitby a vrúcny vzdych starenky   zvlnil kedy-tedy povetrie štýr stien izby a smieŠal sa v jednotvárny   tlkot nástenných hodín.
+    </tei:p>
+    <tei:p>
+     Po čase čuť bol na ceste shovor. Ľudia sa vracali z kostola. Y   tomto čase odbývajú sa po vieskach našich riadne návštevy.
+    </tei:p>
+    <tei:p>
+     ﻿44
+    </tei:p>
+    <tei:p>
+     „Pochválen Kristus,“ začuť bolo hlas pri otvorení dverí.
+    </tei:p>
+    <tei:p>
+     Mikulová sa obzrela; zazrela Šušnrkovú s veľkou modlitebnou knihou   pod pazuchou.
+    </tei:p>
+    <tei:p>
+     „Až na veky; vítajte u nás,“ vítala chorľavá s úsmevom. „Sadnite,   poseďte si.u
+    </tei:p>
+    <tei:p>
+     „Nevidela som vás v kostole, kmotrička moja zlatá, nuž ohlásila   som sa u vás, či vás reku niečo nezašlo a jako nažívate?“
+    </tei:p>
+    <tei:p>
+     Ivka prišla čosi nahrbená a divala sa Mikulovej do tváre; hlas jej   bol sladký.
+    </tei:p>
+    <tei:p>
+     „Keď sa len dáte videt — j akoby ste bývalý v tretom chotáre.   Človeka by mohli pre vás i vyniesť.“
+    </tei:p>
+    <tei:p>
+     Sladká tvár Šušurkovej premenila sa odrazu j ako keď zájde mesiac   za čierňavu. Pozrela ustarostnene, ustrašeno na Mikulovú.
+    </tei:p>
+    <tei:p>
+     „Nuž a pre Pána Boha, vari vás niečo zašlo, kmotrička moja? Veď   ste len mohli pre mňa odkázaí.“
+    </tei:p>
+    <tei:p>
+     „Jakosi som ochorela; hm, mrcha kováč, polátané mechy, starý   človek a zodrané pľúca, to je j akoby za groš a to
+    </tei:p>
+    <tei:p>
+     ﻿45
+    </tei:p>
+    <tei:p>
+     druhé za . dva kraj čiare. Veci to asnácľ len prejde.“
+    </tei:p>
+    <tei:p>
+     „No, dívajme sa, ani by sa človek nenazdal, j ako chytro Pán Boh   na neho doloží chorobu!“ zvolala prekvapená Ivka. „To bude, duša   moja, prestydnutie. Verabože to! ach, beháte od rána do večera a to j   akoby ste mali tak horúcu krv j ako za mladý — v jednej suknici. Moja   matka, Pán Boh daj jej slávu vecnú, tiež z toho zišla zo sveta, a   stará Gabaôikova tiež si tak pritiahla nemoc, len len že to   nezaplatila životom HnecT donesiem lipového a bazového kvetu . .   .
+    </tei:p>
+    <tei:p>
+     _ „Nechajte, Ivka, však to máme aj doma; ked si trochu vypociniem,   zase prídem k sebe.“
+    </tei:p>
+    <tei:p>
+     Potom Mikulová počala rozprávač o jednom druhom. I dedinčania majú   kruh záujmov tak, j ako ktorékoľvek vrstvy spoločnosti. I jich bolí,   i oni sa tešia, i oni vedia rozoznač dobré od zlého A potom slúža jim   tieto rozdiely žitia za základ strasti i slasti a oni radujú alebo   žalujú sa, jako to už jednomu druhému vyplnené alebo zklamané túžby   životných
+    </tei:p>
+    <tei:p>
+     ﻿46
+    </tei:p>
+    <tei:p>
+     otázok so sebou donášajú. Potom zvrátila stará Mikulová reč na   domáce zamestknanie. Y poslednie časy vyrástly jej hospodárske   trampoty silno vyše hlavy. Sťažovala sa:
+    </tei:p>
+    <tei:p>
+     „Ked sa človek od rána do večera utrhá, ukmáše, veru že potom   oslabne. Yiete, starému človeku už len kus chleba a teplý kút.“
+    </tei:p>
+    <tei:p>
+     „Veru toho oplevadla je u vás primoc. Ja nemám nič okrem kravičky   a teliatka a večer, ked si ľahnem, až mi tak tie staré žily drnejú.“   Potom po chvíli doložila :
+    </tei:p>
+    <tei:p>
+     „Celý svet sa vám čuduje, že to stačíte odoliet.“
+    </tei:p>
+    <tei:p>
+     „Nuž ked človek musí, čo si počne? Na cudzého sa nemožno   zanechal“
+    </tei:p>
+    <tei:p>
+     Šušurková pozrela na gazdinú. Bolo v tom čosi zvedavého, pýtavého   a zkúmavého; vytrvala oôima dobrú chvilu na nej. Potom kývla hlavou,   usmiala sa a riekla:
+    </tei:p>
+    <tei:p>
+     „Bože náš, jak ľahko by si druhý človek poradil, kedby tak vo   vašej koži bol. Ten by si veru hlavy nelámal.“ Slová
+    </tei:p>
+    <tei:p>
+     ﻿47
+    </tei:p>
+    <tei:p>
+     tieto sprevádzala Ivka ustavičným, no trochu záhadným, premeneným   úsmevom.
+    </tei:p>
+    <tei:p>
+     Yari si len nepristavím do každého kúta dievku a nebudem sa dívat,   j ako mi celý dom na ruby obráťa,“ odvrávala gazdiná uprúc svoj   pohľad na blízko sediacu susedu.
+    </tei:p>
+    <tei:p>
+     Táto dosial nezpustila pohľadu zo svojej kmotry. Ci chcela, aby z   jej čela vyčítala, čo myslí, kam mieri, alebo preto sa dívala na   gazdinú, aby mohla uhádnut jej myšlienky, kto to vie?
+    </tei:p>
+    <tei:p>
+     Konečne sa odhodlala:
+    </tei:p>
+    <tei:p>
+     „A nemáte hodného syna?“ pýtala sa neisto, j akoby s obavou.
+    </tei:p>
+    <tei:p>
+     „Nuž?“
+    </tei:p>
+    <tei:p>
+     Mikulová zaiste vedela, čo Ivke v hlave vŕta, no čakala až vyhodí   kartu. Nebola to nedôvera; nebolo medzi nimi tajností, lež tak to   býva medzi našimi mamičkami,
+    </tei:p>
+    <tei:p>
+     e nedaly by to za neviem čo, kecľ druhý a nie ony pripomenie jim   sobáš, vydaj detí.
+    </tei:p>
+    <tei:p>
+     „No hla, jaka ste zdržanlivá oproti mne, kmotrička,“ hovorila   dotknuto Ivka. „Nuž nacože máte syna? Syn je na to’
+    </tei:p>
+    <tei:p>
+     ﻿48
+    </tei:p>
+    <tei:p>
+     aby sa oženil a doviedol pomoc do hospodárstva. Ožeňte ho a bude   po starosťach.“
+    </tei:p>
+    <tei:p>
+     Nahováraôka uprela tázavo oči svoje na Mikulovú a čakala čo   povie.
+    </tei:p>
+    <tei:p>
+     „Veď by to ono nebolo zle, ale keď to tak hneď nejde. A potom   chlapec je teraz zvetrený . . . bude sa protiviť. Však viete, že sa   pochabil za tou Tarajdovou devojnou.“
+    </tei:p>
+    <tei:p>
+     „Mhm, tá Žofkovatá, čo slúži u Zázrivákov, viem; no daj ti mi   Bože, tá vám veru studňu nevysuší. No — chúďa, holé je jako prst a   ešte sa chce zaliečať vášmu synovi!“
+    </tei:p>
+    <tei:p>
+     „Jakby sme mu ju mohli nejako z hlavy vystrašiť, veru ku   fašiankom; neviem, či by sa neztrhla svadba,“ povedala Mikulová po   chvíli.
+    </tei:p>
+    <tei:p>
+     „No o to je malý strach,“ tvrdila Ivka. „Podstavte palicu, čo   mrtvých merajú, pod prah a on tak sa premení, j akoby ju nikdy jakživ   nebol poznal “
+    </tei:p>
+    <tei:p>
+     Po týchto začiatkoch Mikulová zahovorila sa hlbšie. Dve kmotry   pritúlily sa k sebe. Rozhovor jich vlnil sa tiško a
+    </tei:p>
+    <tei:p>
+     ﻿49
+    </tei:p>
+    <tei:p>
+     tratil sa pološeptom po izbe. Šušurková sa rozhovorila)   prikyvkovala horlivo hlavou, rozkladala rukama a kládla si občasne   ukazováčik na dlaň. Starej Mikulovej musel sa páčiť rozhovor. Tvár   jej ztratila bľadosť, oči žiarily pokojno. Až k večeru odobraly sa   susedy od seba.
+    </tei:p>
+    <tei:p>
+     Bolo sa už nadobre stmilo. Ivka prihrbená ponáhľala sa hore   cestou. Pred krčmou pri mostíku dohonila ženskú.
+    </tei:p>
+    <tei:p>
+     „To ty, Betka? Ani som ťa nepoznala. Kam ideš?-1
+    </tei:p>
+    <tei:p>
+     „Veru domov, strynká naša; chlapec mi je chorý, bola som kúpiť   cukru. A vy odkiaľ?“
+    </tei:p>
+    <tei:p>
+     „Idem od Mikulov; kmotra chorľavie, bola som ju navštíviť a   poradiť. Natrápi sa to človek, natrápi medzi tým svetom; ale úfam, že   budem mať zásluhu u Pána Boha. A tvojmu chlapcovi čo chýba?“
+    </tei:p>
+    <tei:p>
+     „Klanie ho sužuje, strynká; už som sa mu nasnášala liekov od   výmyslu sveta a nič mu nie je lepšie. Včera som dala i chudobným, aby   sa modlili za dobrý úmyseľ, nuž neviem, či jich Pán Boh vyslyší.   Nesiem tu od žida kúsok cukru,
+    </tei:p>
+    <tei:p>
+     ﻿50
+    </tei:p>
+    <tei:p>
+     radila mi to tetka. Už neviem, či sa mu polahcí.“
+    </tei:p>
+    <tei:p>
+     „Hm, hm, veru pri malých deťoch len Pán Boh pomáha. Chod s ním do   kostola a obetuj Panne Márii dve sviece, asnád sa mu nemoc   prevráti.“
+    </tei:p>
+    <tei:p>
+     Ivka by bola ešte všeličo vedela ženičke poradiť, no táto sa   náhlila domov. Prialy si dobrú noc a rozišly sa.
+    </tei:p>
+    <tei:p>
+     IY.
+    </tei:p>
+    <tei:p>
+     Na dvore Zázrivákov je živo. Chlapy chodia semotam, snášajú,   shľadávajú a vystrájajú do Zavŕšia voz, a v takýchto pádoch dobre   načim prizreť, či je všetko v poriadku, lebo jak o kom, tak o   paholkovi piati, že jak sa mu leni pohnút vo dvore raz, v cudzom   svete sa toľko ponashýba, že ho až chrbtová kosť zabolí. I sám starý   gazda vyšiel von, pozerá, popravuje a vlastnou rukou pripravá putňu a   opálku ku rebrinám. Musí to byt všetko tak prichystané, jako sa   patrí. Na cestu vystrojený najmladší syn Janko stojí
+    </tei:p>
+    <tei:p>
+     ﻿51
+    </tei:p>
+    <tei:p>
+     s kapsou v ruke pri voze a obzerá bič. Mater pridŕža mu kožuch,   pokrovec a v druhej ruke drží veľký do ručníka zaviazaný pagáč. Strká   mu ho do kapsy.
+    </tei:p>
+    <tei:p>
+     Za touto vyskakuje si veselo malý šuhaj ôek a chytá sa starej   matere za sukňu. Oblečený je stoicky: v košielke, v palučkách s holou   hlavou. Nezaháňa ho nikto do izby; neboja sa, že prestydne. Náš ľud   je otužený, neztrasie ním nič a nieto ešte trocha zimy. —
+    </tei:p>
+    <tei:p>
+     „Stlýko, stlýko,“ kričí malá chlapina, „mám klajcial!“
+    </tei:p>
+    <tei:p>
+     „Ale čo nepovieš! A kde si vzal toľko peňazí?“ pýtal sa ho Janko   so smiechom.
+    </tei:p>
+    <tei:p>
+     „Starý ňanka mi dali,“ hovorilo s hrdosťou chlapča, a poskakujúc   na jednej nohe ukazovalo ho semotam.
+    </tei:p>
+    <tei:p>
+     „A kde idete, stlýko ?“ pýtala sa chlapina o chvíľu.
+    </tei:p>
+    <tei:p>
+     „Ďaleko, syn môj; neprídem až pozajtre.“
+    </tei:p>
+    <tei:p>
+     Malý šuhaj na to j akoby sa zaradoval. Priskočil k Jankovi a   hovoril:
+    </tei:p>
+    <tei:p>
+     „Kúpte mi píšťalku, koníka aj koláč!“ Podával mu krajčiar.
+    </tei:p>
+    <tei:p>
+     ﻿52
+    </tei:p>
+    <tei:p>
+     „Ale za krajčiar mi toho toľko nedajú,“ doháňal sa s chlapčekom   Janko.
+    </tei:p>
+    <tei:p>
+     Dieťa ovesilo hlávku; „a ked viac nemám,“ povedalo smutno a   rozšírilo dlane.
+    </tei:p>
+    <tei:p>
+     „Pýtaj si od mamky.“ „Mamka mi nedajú.“
+    </tei:p>
+    <tei:p>
+     „Teda od starej mamky.“
+    </tei:p>
+    <tei:p>
+     Dieťa pozrelo zpýtavým ockom na starkú a čakalo.
+    </tei:p>
+    <tei:p>
+     „Pýtaj si, neboj sa; povedz, že ked prídeš z výžinku, že jej   vrátiš,“ posmeľoval ho Janko.
+    </tei:p>
+    <tei:p>
+     Chlapy sa pustili do smiechu. Zahanbené dieťa zakrútilo sa do   starkiných šiat. Po chvíli Janko vysadnul, voz zahnul cez bránu a na   to zahrkotil po ceste.
+    </tei:p>
+    <tei:p>
+     Žofka stála na preddomí. Keď domáci vnišli dnu. šla zatknúť   bránu.
+    </tei:p>
+    <tei:p>
+     Od známeho rozhovoru so Štefkom bolo sa prechýlilo už na týždeň   štvrtý. Ona zostala sľubu svojmu vernou. Vyhybovala každej schôdzke,   rozhovoru a pretrhla každú schôdzku s ním. Padalo jej to ovšem ťažko.   Mužný a prudký obyčaj mladého Mikulu zarezal sa bol prihlboko do   srdca devinho, nežby sa bol mohol
+    </tei:p>
+    <tei:p>
+     ﻿53
+    </tei:p>
+    <tei:p>
+     odtiaľ ľahkým činom vyrvať. No tvrdý svet, jej dobré meno, matkin   rozkaz kázaly tlumit to, po čom túžilo srdce a ona musela sa   podvoliť, poslúchnuť. No tak to býva medzi ľudmi: od seba odženieš a   zo srdca nevypúdiš, a tak tomu bolo i so Žofkou. Cím viac treba bolo   city svoje priviesť do zabudnutia, tým viac dovolávalo sa srdce práva   svojho. I trval v duši jej boj tvrdý, tým tvrdši, že hrozil jej   pekným snom zmar, ktorý už v hlbinách otriasa bytosť mladého   stvorenia. Lež tieto duševné otrasy nepredraly sa na povrch; dusilo   jich mladé stvorenie v sebe a skrývalo bôle svoje v tajinách srdca   svojho. Y tomto zápase otrasov strážila nad ňou i matkou schválno do   popredia pošinutá hrdosť; je ona bez toho tak mocno vyvinutá u našich   devic, že v mnohom páde presahuje hranice najmužnejšieho   sebazaprenia.
+    </tei:p>
+    <tei:p>
+     V týchto pomeroch natoľko menšiu stranu zlej sudby mala deva na   svojich bedrách, že jej úlohou bolo vyčkať na riešenie a toto ležalo   v rukách mladého Mikulu. Deň za dňom takto uchádzal, a
+    </tei:p>
+    <tei:p>
+     ﻿54
+    </tei:p>
+    <tei:p>
+     dva mladí viseli medzi obavou a nádejami, až Yianoce boly na   predpraži najbližšieho času a blížily sa rýchlym krokom ku predu.
+    </tei:p>
+    <tei:p>
+     U Mikulov tiež hnalo sa to všetko starým smerom Mikulová   postonávala. Ledvá že stačila poobzerať sa okolo kuchyne, za to však   Ivka Sušurkovie tým viac zdržovala sa jej pri boku. Zastávala   všeliakó hodnosti; bola viacmenej klučiarkou, kuchárkou, lekárom   nadovšetko tajomníkom. Mikulová mala predpísané užívať všelijaké   odvary zelín, no zdravie nielen že neprichádzalo, ba bola zo dňa na   deň mdlej šou, slabšou.
+    </tei:p>
+    <tei:p>
+     čím viac však nabývala nemoc pravdepodobnosti, tým viac   vystupovaly do popredia i myšlienky synovho ženenia. Mať sama bola s   otcom už viacráz na slove a bolo určeno, že hned po Yianocach   prikročí sa pilno k prezvedom. O nevestu nebolo strachu. Y dedine   nebolo bohatších ľudí j ako oni, len dvaja. Títo boli však ďaleko   majetnejšími než Mikulovci. Sem zvrátila Stefova matka svoj pozor. Y   oboch domoch boly device na vydaj, prečo že by jedna alebo druhá   ne-
+    </tei:p>
+    <tei:p>
+     ﻿55
+    </tei:p>
+    <tei:p>
+     mohla zostať jej nevestou? I zaoberala sa pilno v myšlienkach s   úmyslom týmto. Do tajnosti zasvätená Ivka rozhodne, že to nebude   proti srsti a tak rozhodnuto,
+    </tei:p>
+    <tei:p>
+     že po sviatkoch prikročí sa k veci. „Už mi to bolo dávno v hlave,   kmo-
+    </tei:p>
+    <tei:p>
+     trička“, dôverovala si, „jakoby ste mi to len z úst vyňala . . .   len som nechcela
+    </tei:p>
+    <tei:p>
+     vám chuti pokaziť . . .; ej, dobre ja to
+    </tei:p>
+    <tei:p>
+     poznám, čo komu vonia!“
+    </tei:p>
+    <tei:p>
+     Ivka sebavedome sa usmievajúc dí-
+    </tei:p>
+    <tei:p>
+     vala sa na gazdinú.
+    </tei:p>
+    <tei:p>
+     „Ono by to nebolo zle,“ hovorila táto,
+    </tei:p>
+    <tei:p>
+     „ale aj nevesta nepríde ku mne na holé kúty — len aby nám to   nezolhalo na-
+    </tei:p>
+    <tei:p>
+     pokon,“ doložila s úsmevom.
+    </tei:p>
+    <tei:p>
+     „Ale pre Pána Boha, prečo?“ vykríkla udivene Ivka; „či nie je   Stefko
+    </tei:p>
+    <tei:p>
+     šuhaj j ako kalina alebo čo? To by veru bolo pekne! Ani len na to   nemyslite,
+    </tei:p>
+    <tei:p>
+     kmotrička moja!“
+    </tei:p>
+    <tei:p>
+     Nastala doba prímeria. Neskôr začala
+    </tei:p>
+    <tei:p>
+     Mikulová:
+    </tei:p>
+    <tei:p>
+     „Ale čo povie na to syn?“
+    </tei:p>
+    <tei:p>
+     Nový činiteľ nenadále prišiel do počtu. Šušurková sa pýtala:
+    </tei:p>
+    <tei:p>
+     ﻿56
+    </tei:p>
+    <tei:p>
+     „A dali ste mu užiť, čo som vám doniesla ?“
+    </tei:p>
+    <tei:p>
+     „Ešte pred desiatimi dňami.“
+    </tei:p>
+    <tei:p>
+     „Nuž?“
+    </tei:p>
+    <tei:p>
+     „Neviem ešte; zdá sa mi, že je tichším. Možno, že mu to vyjde “   Oči Sušurkovej jakoby hovorily: „to som si istou.“ Žiaril v nich   povedomý blesk.
+    </tei:p>
+    <tei:p>
+     „Nechajte len,“ hovorila, „budete videť, že to príde. Co sa vleče,   neuteče.“ Oči jej svietily povždy.
+    </tei:p>
+    <tei:p>
+     „Ale keď do mlyna zalieča sa Záhorákov syn?“ pochybovala   Mikulová.
+    </tei:p>
+    <tei:p>
+     „Bože môj, mladosť radosť, kmotrička moja; uvidíte, jako sa to   obráti, kecľ príde pýtač od Mikulov.“
+    </tei:p>
+    <tei:p>
+     „A do rychtárov chodí j akýsi z druhej dediny.“
+    </tei:p>
+    <tei:p>
+     „Daj ti mi Bože! vohľaôka každému a žena jednomu,“ usmiala sa   Sušurková, pohladkajúc si dvaráz dlane; však jak nebude vo mlyne,   bude u rycktárov, a jak nie u rychtárov, nuž vo mlyne. A potom, ved   sú i inde vášmu synovi roveň dievčatá na vydaj.“
+    </tei:p>
+    <tei:p>
+     ﻿57
+    </tei:p>
+    <tei:p>
+     „Nu, tak, tak je,“ prisviedôala matka; „jak mu je súdené, nuž bude   mu i dané.“
+    </tei:p>
+    <tei:p>
+     Ivke nezapadol úsmev na tvári. Hovorila :
+    </tei:p>
+    <tei:p>
+     „Dočkajte len, kmotriôka zlatá, jako to pôjde, jako po masle. Prv   sa ja o tom prezviem, j akoby sa vám prisnilo. O, nejednomu som ja už   cestu vyšliapala! Budete videť, že sme dobre mierily, že mu je to   súdené. O, j akoby aj nie, veď Pán Boh vie čo robí!“
+    </tei:p>
+    <tei:p>
+     Potom počaly susedky šepotať. Pravdepodobno rozprávala Ivka, že j   ako sa ona do toho pustí a jako to bude pekne a dobre. Že pritom   nezabudla do popredia potisnúť svoje sladké „ja,“ to nebude hriechom   nám si domysleť. To však je skutkom, že sa jej dnes dobre darilo. Až   v noci s hodným batôžkom pod pazuchou prišla domov.
+    </tei:p>
+    <tei:p>
+     Medzitým, bárs zámysle synovho ženenia s najväčšou obozretnosťou   držané boly pod pokrývkou a i Sušurkovej odporučano držať jazyk na   uzde, chýr predsa presiaknu! do širších vrstiev a počali si v ňom   rozprávať i v dedine. Device braly
+    </tei:p>
+    <tei:p>
+     ﻿58
+    </tei:p>
+    <tei:p>
+     Štefka silnejšie na mušku, usmievaly sa a podkúšaly, že vedia čo   je vo veci, a zvesť bola v nedeľných poradách mamičiek vzatá zo   všetkých strán do reči, určovano, nakoľko je tvrdenie možnosťou a   hádano, do čiej strechy uderí tento nový blesk.
+    </tei:p>
+    <tei:p>
+     I šuhajovi prišiel chýr do ušú. Y prvom okamihu zbľadnul, no dosť   rýchlo premohol sa, zaťal zubami, zmraštil obrvím a nepovedal ani   slova. Nápadným bolo síce i jemu, že Sušurková tak často navštevuje   dom rodičov, že s materou vedie rozhovory, šušká atd. Umienil si, že   bude pozornejšim a poobzerá sa, aby vyzvedel, čo je vo veci.   Predovšetkým však rád by bol býval na slove so Žofkou. Obával sa, ze   zvesť zablúdi i do Zázrivákov a v deve len utvrdi domnenie, že pomer   jich udržať sa nedá, a on príde i o té slabé výklady opätného   sbliženia, ktorými sa kojil, tešil a utvrdzoval. Toto však sa mu už   nepodarilo. Zofka tak obratne vedela sa držať od neho obďaleč, že   nemohol s ňou nielen že prehovoriť, no ani len znamienkom dať jej na   vedomie, že je jej i teraz
+    </tei:p>
+    <tei:p>
+     ﻿59
+    </tei:p>
+    <tei:p>
+     verným a že to nie pravda, čo svet chytil o ňom do reči. I   nepozostávalo mu inšie než sústredniť svoj pozor na vyzkúmahie   zámyslov matkiných a potom vyčkať, kým táto nevtiahne do svojich   plánov i hlavnú osobu: jeho.
+    </tei:p>
+    <tei:p>
+     Stará Mikulová žatým čím dial tým väčšmi slabla. Len tažko udržala   sa na nohách a nakoľko nemoc postupovala do popredia, natoľko i ju   zaujímaly myšlienky. Cítila, že musí sa stať v dome obrat. Inokedy,   keď jej prišlo na myseľ, že musí oddať opraty hospodárstva sile   mladšej, nevedela sa striasť istej odstrašujúcej predtuchy, no dnes   bola spriatelenou už i s tým a sama cítila j akýsi duševný mier, keď   sa zabrala do hlbín svojich plánov. My. ľudia, sme takí. Keď sa v   našej duši zrodí úmysel, alebo vznikne v širej diali neurčitý výhľad,   tu nádej hneď obdarí barvou a leskom deti našej duše a obostre jich   pelom milozdania, osvieti jejich pekné strany, tak že človek počne   mimochodom s nimi sa zaoberať, po nich túžiť a si jich žiadať, a   jestli jich dosiahnúť nie je V stave — natoľko privyknul už k ním   —
+    </tei:p>
+    <tei:p>
+     ﻿60
+    </tei:p>
+    <tei:p>
+     citi, že chýba mu niečo, že nevyplnenou zostala časť jeho duše a   že nepokoj vhniezdil sa mu v záhyby srdca. Mikulová podobne   prechádzala už tieto state vnútorného naladenia. Y izbe jej zkrsla   mladá postava zručnej nevesty, j ako ohebne má sa okolo roboty, j ako   rada príjme slovo a ustatkuje starších, a keď sa vsnila v tie pekné   výjavy rodinného súladu a svornosti, samosebou vyšiel jej na   zvráskovatelú tvár úsmev radosti a ženba synova dozrela v otázku,   ktorú čím rýchlejšie prispeje rozriešiť, tým väčšieho uspokojenia   podá svojmu presvedčeniu a svojej duši.
+    </tei:p>
+    <tei:p>
+     Y týchto myšlienkach však najviac nepokoja jej uspôsobila   neistota, kam sa má obrátiť synovi po nevestu. Najradšej by bola,   keďby z mlyna alebo od rychtárov, no nevia posial nič istého.   Sušurková neprezvedela sa ničového nič a na slepo ona ver’ kroka   neurobí, tak isto, j ako že tu stojí a volá sa Zuzannou Mikulovou.   Hádala v mysli na tú súdenú, no i jedna sa jej zdala byť nou i tá   druhá. Je síce pravda, že i u mlynára i u rychtára ide
+    </tei:p>
+    <tei:p>
+     ﻿61
+    </tei:p>
+    <tei:p>
+     to z vysoká, zvyšša než u nich. Rychtár chodí v čižmách a rád sa   pánšti a mlynár je rozpustným; ide mu j ako sám chce, kúpil si i   modrý odev so striebornými gombíkami a vedie si hrdo, ani z mesta.   Nuž ale ani oni nie sú z posledných, a prečožeby to nemohlo hyt jedno   k druhému roveň? Co má čakať rychtár, čo mlynár? Na celom okolí nie   je tu súcejšieho vydaju prejích dievky jakokuním. Lež len ktorá je to   tá súdená? ktorá by sa lepšie vydarila, poslúchala jako nevesta? Na   ktoré dvere by mala dať zaklopať, kam kuknúť 11a priezory beztoho,   žeby j ich odpravili, to boly všetko otázky, 11a ktoré mala   zodpovedať budúcnosť a ktoré zaujaly jej myseľ tým viac, lebo čoby sa   čokoľvek stalo, čoby jej syn do smrti sa neoženil, stará Mikulová   zahanbiť a ponížiť sa nedá a rovnalo by sa jej to hotovej smrti.
+    </tei:p>
+    <tei:p>
+     O synovej vôli neprišlo do reči. Dla matkinho úsudku nebolo to   jeho starosťou, aby sa on miešal do podobných záležitostí, bo vraj   mladá chasa nemá ešte prečisteného rozumu. Ona je zkúsenejšou,
+    </tei:p>
+    <tei:p>
+     ﻿62
+    </tei:p>
+    <tei:p>
+     staršou a svojmu decku zaiste nechce zle. Však potom, ked mu   prebrodia cestu, bude mať dosť času o tom premýšľať. A tak na   starosťach zbudlo až na to, že ešte nebolo istoty, ktorá je to tá   súdená. Žeby však jej budúca nevesta mohla sa nachádzať i von z kruhu   tých dvoch, Mikulovou do cieľa vzatých devic, to starenke ani   nenapadlo. Hral tu zástoj onen „roveň“ a tak tá súdená musela sa   vynachádzať neomylne len v tom „roveň“ a to boly len dve rodiny:   rychtárová a vo mlyne. Inšie bolo proti prírode, nemožnosťou niečo   takého, „čo nie je človeku obecanó“.
+    </tei:p>
+    <tei:p>
+     A v tomto súhlasila s non i Šušurková. „Ó, Pán Boh chráň azavaruj,   kmotrička naša, o to nemajte strachu; Pán Boh to múdrejšie zariadil,   ako sa to sprostému človeku zdá. Veľký krčah mnoho vody načre a na   veľký voz veľkú fúru kladú. Ani na to len nemyslite, vedby potom ani   poriadku na svete nebolo.“
+    </tei:p>
+    <tei:p>
+     Na podobné dôvodenie ver’ že potom protimlnva zaniknúť musi, a tak   ked nebolo príčiny k obavám, v pokoji a s isto-
+    </tei:p>
+    <tei:p>
+     ﻿63
+    </tei:p>
+    <tei:p>
+     tou očakávala starostlivá matka budúci rozvoj vecí
+    </tei:p>
+    <tei:p>
+     Lež človek mieni a Boh mení. Vianoce už silno postúpily ku predu   Do Adama a Evy neboly len štyri dni. Hospodári a gazdinky majú teraz   najviac práce a hodiny nikdy tak spešno neidú jako v predvečer   výroôitých sviatkov. Každý zdržuje sa doma; práca množí sa v rukách a   niet jej konca ani kraja.
+    </tei:p>
+    <tei:p>
+     Mikulová napriek nemoci držala sa povždy hore hlavou; nemala   stania, kým neporobila si jedno, druhé, čo pred sviatkami padalo na   váhu tým viac, aby ju svet neposúdil, že ani cez tie božie dni nevie   si usporiadať v dome j ako treba a nezdoba že jej vykúka z každého   kúta. Práca však vzala svoje: slabé telo podľahlo a ona musela na   posteľ..
+    </tei:p>
+    <tei:p>
+     Náhly zvrat k zlému a starenkin žltý obličaj sostrašily i   domácich; obstali ju a divali sa po sebe. Otec chcel poslať do mesta   pre lekára, čomu sa však nemocná zoprela, udávajúc, že to samo sebou   prejde, jakonáhle si trocha vypočine. Žiadala si Šušurkovú.
+    </tei:p>
+    <tei:p>
+     ﻿64
+    </tei:p>
+    <tei:p>
+     Táto nebola u Mikulov už tretí deň. Gazdinú našla úplno premenenú,   upadnutú.
+    </tei:p>
+    <tei:p>
+     „Ej, kmotra, zabúdate- na nás; ani jakoby nás v dedine nebolo.   Vítajte, sadnite u nás,vítala ju hlasom slabým, nezvučným.
+    </tei:p>
+    <tei:p>
+     Ivka s tvárou najväčšieho prekvapenia blížila sa k posteli. Na   tvári radilo sa jej prekvapenie, sladkosť, starosť, zdesenie a   útrpnosť jedno za druhým. Sadla si na okraj lóža, pýtala sa po   nemoci, po liekoch a potom hádala prečo sa choroba k zlému chýli.
+    </tei:p>
+    <tei:p>
+     Potom nasledoval celý rad predpisov. Sušurková znala na sto   prípadov vyčítať, j ako sa jej pacientom zrazu nemoc obrátila a oni   potom žili dlhé roky, čerství ani ryba. I vyslovila konečne zlatej   kmotričke, že ani ona sa ničoho obávať nemusí.
+    </tei:p>
+    <tei:p>
+     „Sotvá ja dotiahnem do Sylvestra, Ivka,“ vetila potahmo nemocná;   „cítim, že mi ubýva sily.“
+    </tei:p>
+    <tei:p>
+     Na Šušurkovej bolo znať, že na podobnú reč nebola pripravená.   Podívala sa na nemocnú a potom sladkým hlasom preriekla:
+    </tei:p>
+    <tei:p>
+     ﻿65
+    </tei:p>
+    <tei:p>
+     Škoda si vám robiť ťažké myšlienky. Nebojte sa, ešte to Pán Boh   nedá. Už som vám dávno prf dpovedala, že najprv mňa vynesú.u
+    </tei:p>
+    <tei:p>
+     Nemocná sa zasmiala. Bol to trpký úsmev. Potom hovorila:
+    </tei:p>
+    <tei:p>
+     „Taký som mala tažký sen; však sa pamätáte na moju nebožkú matku   Pán Boh jej Iahkoduši. Bolo to j ako v Záhorí na robotách . . .   Robili sme pri zboží. Zrazu som sa ja odtržkala od ostatných a   pustila som sa ani sama neviem kam. Idem, chodím, blúdim a nevedela   som kade mám ísť. Zrazu prídem do hory; plačem a dívam sa, kade by   som mohla výnsfi von, až tu od chrbta začujem hlas. Obozrem sa a   vidím svoju nebožkú matku; kývala na mňa prstom. Pustila som sa   výskoky ku nej. lež ona ztratila sa mi zpopred očú jako hmla. Už ma   volá.“
+    </tei:p>
+    <tei:p>
+     Niečo podobného bolo Ivke v inšom prípade dokumentom, dnes však   nie. Nie na to bola ona už 40 rokov v svojom remesle, aby nevedela   vyhodit z hlavy to, čo nechcela aby sa tam zahniezdilo. Lež dnes to   nešlo; nemocná na všetko
+    </tei:p>
+    <tei:p>
+     Poviestka z hôr.
+    </tei:p>
+    <tei:p>
+     5
+    </tei:p>
+    <tei:p>
+     ﻿66
+    </tei:p>
+    <tei:p>
+     pokrúcala hlavou. Bola pristaršou, než aby upustila od toho, čo   sama za nevyhnutnú, staí sa majúcu udalosí považovala.
+    </tei:p>
+    <tei:p>
+     „Je to už tak súdené,“ riekla; „umreí musí každý, nikto nezhorí na   slnku. Všetko by bolo dobre a v poriadku, len keď neviem čo so synom,   a neviem, kto zatlačí mužovi oči.“
+    </tei:p>
+    <tei:p>
+     „Vy ste si toho už mnoho namyslela, kmotrička,“ znelý ďalšie   prehovárania lekára v čepci; „nezabiehajte tak ďaleko. Nie ste   dnešnou; bude to hneď ináč, len aby sa prehodilo na inakší čas,“   doložila kuknúc do okna.
+    </tei:p>
+    <tei:p>
+     „Nech je už jako Pán Boh chce,“ odpovedala nemocná a zamyslela   sa.
+    </tei:p>
+    <tei:p>
+     Na jej čele bolo videí, že vo vňntri ju niečo tlačí, že čosi má na   srdci a nerada ide s tým na vonok Y očiach driemala jej myšlienka a   tvár zračila, neistotu starosl
+    </tei:p>
+    <tei:p>
+     Dve susedy diely za istý čas mlčky vedľa seba; potom chytila sa   slova nemocná. Obrátila smer svojej reči na žeňbn syna a vyzvedala   sa, či nevie nejaký chýr z mlyna alebo od rychtárov.
+    </tei:p>
+    <tei:p>
+     ﻿67
+    </tei:p>
+    <tei:p>
+     „Veru ešte nie; koíkokoľvekráz som tam prišla, vždy sa niekto   napodjaril. A načo vám to leží na srdci? však nebude vo mlyne, bude u   rychtárov.“
+    </tei:p>
+    <tei:p>
+     Nemocná zmraštila čelom. Ona a chodiť po pytačkách z domu do domu   jako žobrák za kusom chleba. Toho sa ver’ nedožije nikto, čoby priam   jej dom nevesty nevidel a všetko obrátilo sa na ruby. I zadívala sa a   skoro mrzuto zvolala:
+    </tei:p>
+    <tei:p>
+     „Ej, to ver’ zas nie, Ivka, Mikulovci nepôjdu z domu do domu a   čoby priam toľko zlata mala, koľko sama odváži. Môj syn pôjde len na   isté . . .“
+    </tei:p>
+    <tei:p>
+     Šušurková nevedela odporovať. Riekla:
+    </tei:p>
+    <tei:p>
+     „No veď ja to, kmotrička, tak nemyslím ; však sami vidíte, že z   týchto dvoch je mu ktorási súdená.“
+    </tei:p>
+    <tei:p>
+     To uspokojilo; Mikulová umlkla. Potom pokračovala:
+    </tei:p>
+    <tei:p>
+     „Nu, však je to; ale ktorá?“
+    </tei:p>
+    <tei:p>
+     „Však cez sviatky sa budeme prezvedať; nestarajte sa.“
+    </tei:p>
+    <tei:p>
+     „Cez sviatky, cez sviatky,“ hoVorila ťahavo; a jak umrem prv j ako   sviatky pridá?“
+    </tei:p>
+    <tei:p>
+     ﻿68
+    </tei:p>
+    <tei:p>
+     Ivka zvedavo pozrela na nemocnú. Nevedela čo mieni.
+    </tei:p>
+    <tei:p>
+     Po dlhšej prestávke počala rozhovor zas gazdiná:
+    </tei:p>
+    <tei:p>
+     „Počujte, kmotra, s niečím sa vám zdôverím. Vy ste bola vždy   príchylnou k nám a aj ja som mala vždy dôveru vo vás; veci sme spolu   rástly a v láske a svornosti spolu nažívaly od mladý. Vidíte, som   stará; v prsach mi chrčí a nedá mi dýchať Bojím sa, aby som zrazu   neusnula na veky. Moja matka kedysi rozprávala, že sú také vedomkyne,   čo vedia osúdenca alebo osúdnicu privolať. I ona že dala môjmu   nebožkému otcovi začítať, keď chcela vedeť kto je ten jej budúci. Aby   som si nadobudla istoty, umienila som si, že i ja to urobím, dám po   veštiť, aby som privolala Stefkovu budúcu. Jak by ma Pán Boh vzal,   zomrem aspoň v pokoji a nebude mi ťažko lúčiť sa s týmto svetom.“
+    </tei:p>
+    <tei:p>
+     Starká si odpočinula; vystaly jej prse, hovorila rýchlo, jedným   dúškom.
+    </tei:p>
+    <tei:p>
+     „Vidíte Ivka, vy ste zkúsená, múdra osoba, vy mi budete vedeť   poradiť. Tak mi odlahne na srdci, j akoby mi centy
+    </tei:p>
+    <tei:p>
+     ﻿69
+    </tei:p>
+    <tei:p>
+     z neho sňal. Ja sa vám odslúžim. Pomôžete mi, vezmete sa na to   ?“
+    </tei:p>
+    <tei:p>
+     Otázka nemocnej upravená bola isto, vážno.
+    </tei:p>
+    <tei:p>
+     Ivka zdĺžila tvár prekvapením a strachom v tom najväčšom smysle   slova. Pohľiadla na nemocnú zrakom udiveným, potom sklopila oči   jakoby sa zabierala v myšlienky a hľadala niečo v zákutí svojich   zkúseností. Prešla chvíľka; nikto nepreriekol slova. Nemocná dívala   sa na ňu; čakala na odpoveď.
+    </tei:p>
+    <tei:p>
+     „Hm, veď, však uvidím, už som pozabúdala,“ hovorila výhovorčivo   vedomkyňa jedno za druhým; keď to potom prihorí človeku na prsty.   Nemajte toľko starostí, veď sviatky sú už tu — potom sa   dozvieme.“
+    </tei:p>
+    <tei:p>
+     „Nie, Ivka, už som si umienila; chytíte sa na to?“
+    </tei:p>
+    <tei:p>
+     „Bojím sa — keď je to také strašné; ale keď už len chcete, nedbám   . . neurobila by som to ani za celý poklad . . . potom sa pýtala: „a   na ktoré máte úmysel ?“ Nemocná udivene pozrela na ňu. Tak silno bolo   vryté v jej myseí, že to musí
+    </tei:p>
+    <tei:p>
+     ﻿70
+    </tei:p>
+    <tei:p>
+     byť len tých dvoje dievčat, ktoré si praje, že nezbadala, j ako   môže Ivka túto otázku predložiť.
+    </tei:p>
+    <tei:p>
+     „A prečo sa to pýtate?“
+    </tei:p>
+    <tei:p>
+     „Musím j ich najprv začítat na krížných cestách. Ináč by sa vám   ťažko podarilo, co máte v úmysle.“
+    </tei:p>
+    <tei:p>
+     „Nu, na mlynárovu a rychtárovu. Však sa vám len nesníva, aby som i   na druhé myslela ?“
+    </tei:p>
+    <tei:p>
+     „No, ved aj ja tak myslím“, poddávala sa Šušurková.
+    </tei:p>
+    <tei:p>
+     „A jakby sa zjavila i taká, na ktorú sme nepočítali?“
+    </tei:p>
+    <tei:p>
+     Šušurková kývla plecom; čo bolo komu súdené, to bolo u nej v   platnosti na veky. Nuž povedala:
+    </tei:p>
+    <tei:p>
+     „To ja už neviem, kmotrička; ale na to netreba ani mysleť Jakoby   to len mohlo byt, ved sa to nijako nesrovnáva.“
+    </tei:p>
+    <tei:p>
+     Nemocná sa uspokojila Bolo to tak povedané j ako sama chcela.   Potom pýtala sa:
+    </tei:p>
+    <tei:p>
+     „A kedy to podujmeme?“
+    </tei:p>
+    <tei:p>
+     „Na štedrý večer, pred samou utierňou; inokedy sa to nešikuje,   nemalo by
+    </tei:p>
+    <tei:p>
+     ﻿71
+    </tei:p>
+    <tei:p>
+     to výsledku. Viete,? každá vec má svoj poriadok a svoj čas.“
+    </tei:p>
+    <tei:p>
+     Po tomto rozhovore Ivka pritúlila sa bližšie k nemocnej, spravila   tajomstvennú tvár a šepotom dávala úpravy nemocnej, čo všetko má sa   prichystať, ked sa vystroja siahnuť na rúšku budúcnosti a so smelou   rukou vmiešať v dielo rúk božích tresky menlivej ľudskej   krehkosti.
+    </tei:p>
+    <tei:p>
+     „ A budete môcť vstať z postele?“ pýtala m pri odchode Ivka.   „Musíme sa vybrať spolu do. kostola “
+    </tei:p>
+    <tei:p>
+     . „ Jakosi by som si ešte trúfala,“ znela odpoved. – .
+    </tei:p>
+    <tei:p>
+     „Ja . vás budem čakať pri forfcni pri kostole. Dobre sa zakrúťte,   aby ste ešte viac neprestydla. Košeľu oblečte naopak. Ked odtrúbi   jedenástu, ja budem už na mieste; vy sa vytraťte, aby vás nikto   nezbadal, nevidel, nepoznal. To, čo som vám povedala, pošlite mi hned   ráno. Ja idem ešte dnes o pol noci na krížne cesty a musím sa sblížiť   i rychtárovcom mlynu. Zdraví sa majte.“
+    </tei:p>
+    <tei:p>
+     „S Bohom; chodte, Ivka; dobrú noc.“
+    </tei:p>
+    <tei:p>
+     ﻿72
+    </tei:p>
+    <tei:p>
+     Na vonku premenil sa rýchlo čas. Nebo sa zakabonilo, zo šedých   oblakov valil sa hustý sňah v chomáčoch a divý vetor stenal v   dialných horách a hučal po príšerno bielom, zamretom poli. Tma hustá,   čierna tma šírila sa desno po okolí a sťaby olovenou tiažou visela   nad pustým výzorom hornatej dedinky. Zdalo sa, že tu smrť býva; po   ceste nevidno človeka, každý je rád, že je doma, a len kde tu cez   malé prícestnó okienka vlnia sa pruhy malého svetla a hádžú zlomené   odblesky na mrtvú, bielu plachtu okolia. Kde tu zavije pes a na to   zahviždí vetor a v tejto odstrašujúcej strane živlov zeje ťažká,   hustá tma pozdných hodín.
+    </tei:p>
+    <tei:p>
+     „Nám jako nám“, hovoria pri pecach utúlení dedinčania, „ale tým,   ktorých pristihlo na cestách!“
+    </tei:p>
+    <tei:p>
+     „Nech jim Pán Boh pomáha“, prajú dobrí ľudkovia a rozprávajú si   príhody, ktoré zakúsili oni v podobnej chvíli na cestách.
+    </tei:p>
+    <tei:p>
+     Lež predsa nie celkom pusto na vonku. Keď vetor spočine a nemetá   chomáče do tváre, na tmu zvyklé oko zbadá
+    </tei:p>
+    <tei:p>
+     ﻿73
+    </tei:p>
+    <tei:p>
+     hore cestou spiechat postavu a vidí ju zmiznúť v uličke, vedúcej   do domu Zázrivákov.
+    </tei:p>
+    <tei:p>
+     Postava nahne sa k oknu; tam ešte svieta. Obíde okolo, vrzne   dvierkami, zastaví sa v blízkom kúte a čaká.
+    </tei:p>
+    <tei:p>
+     Yetor medzitým trval ďalej. Na dvore rástly záveje na vidomoči a   predmety halily sa v tmavú, hmlistú neurčitosť. Chujavica občas   ztíchla, postava použila vhodnej chvíľky, pristúpila k nádvornímu   obloku a pozorovala, čo deje sa dnu. Zrazu náhlo ustúpila zpät do   kúta a upriamila pozor k pitvoru.
+    </tei:p>
+    <tei:p>
+     Prešla chvíľka, nádvorné dvere vrzly a ženská postava zašerela sa   vo tme. Tieň čakajúceho opatrno vystúpil zo tmy. „Žofka, Žofka,   čut bolo pritlumené, silným šepotom vyrazené slová, „počkaj, musím ti   niečo povedal“
+    </tei:p>
+    <tei:p>
+     Deva sa ztrhla; preľaknuto dívala sa do tmy. Neznáma postava na   prstoch blížila sa k nej.
+    </tei:p>
+    <tei:p>
+     „Pre Boha, Štefko, to si ty? čo tu hľadáš! ?u zkríklo uduseno   dievča a utekalo zpät.
+    </tei:p>
+    <tei:p>
+     ﻿74
+    </tei:p>
+    <tei:p>
+     „Žofka, nechoď, počkaj, budeš banovať. Najprv počuj, čo ti chcem   povedať a prečo som v takej škaredej chvíli prišiel.“
+    </tei:p>
+    <tei:p>
+     „Deva j akoby nečula, už držala kľučku za hlavu.
+    </tei:p>
+    <tei:p>
+     „Žofka, jak máš ešte úprimné srdce ku mne, postoj a pod sem. Ja   nemôžem až tam ísť, tam by nás počuli. Už tu čakám dobrú hodinu,“   hovoril šuhaj a cúvnul zase do kúta.
+    </tei:p>
+    <tei:p>
+     „Deva postála; zdala sa byť na rozcestí. Potom zrazu sa obrátila a   rýchlo kráčala k čakajúcej postave.
+    </tei:p>
+    <tei:p>
+     „No, hovor, Štefko; lež chytro, aby nevyšiel gazda.“
+    </tei:p>
+    <tei:p>
+     Šuhaj začal; reč jeho plynula tiskom, šeptom. Vyrazené myšlienky   však zrkadlily rozčúlenie, neurčitosť, radosť. Naposledy pýtal sa   dievčaťa:
+    </tei:p>
+    <tei:p>
+     „Teda prídeš, Žofka?“
+    </tei:p>
+    <tei:p>
+     Deva neodpovedala. V okne mihnul sa tieň. Mladým trhlo, Žofka   skočila ku dverám a šuhaj zmiznul j ako tieň za dvierkami východu. V   pitvore stretla sa s gazdom.
+    </tei:p>
+    <tei:p>
+     „Nebol tu nikto, Žofka?“
+    </tei:p>
+    <tei:p>
+     ﻿75
+    </tei:p>
+    <tei:p>
+     „Nevidela som nikoho, sváôko,“ odpovedalo dievča.
+    </tei:p>
+    <tei:p>
+     „Ale veď sa mi pozdalo, že tu pod oknom ktosi šuští,“ hovoril   gazda, vychádzajúc obzret sa po dvore.
+    </tei:p>
+    <tei:p>
+     Žofka vnišla do izby. Domáci sedeli okolo pece; ona sadla si ku   kúdely. Bola bľadá a triasla sa na celom tele.
+    </tei:p>
+    <tei:p>
+     Y.
+    </tei:p>
+    <tei:p>
+     Blížil sa pomaly svatvečer. Po domoch koná sa práca parou a   gazdinky snáď len pri hodoch majú tolko obchodu co dnes. Zmrkne sa čo   nevidel hviezdičky povyskakujú na oblohu a mrak sadne nezbadano na   chaty našich hôr. Oheň veselo blkoce na ohniskách; z obidvoch strán   obstaté sú bachratými hrnci a pri vykúrenej peci sedia v rade učupené   malé detváky a čakajú na prvý koláč.
+    </tei:p>
+    <tei:p>
+     Y izbe žatým je už všetko v poriadku ; podlaha je zametená,   prípecok obielený, obrázky, lavice a stôl poumývané a nad armariou   postavený je bujný snopec žita a zelená parožka z jedliny. Mužské   po-
+    </tei:p>
+    <tei:p>
+     ﻿76
+    </tei:p>
+    <tei:p>
+     hlavie je už v paráde; to nemá toľko na hlave čo ženy. Odbaví sa   statok, zatkne sa ponad každý vchod čerstvá jedličia chvojka, vykropí   sa maštaľ svätenou vodou, porozhadzuje sa po štyroch stranách sveta   po hrsti zbožia a je po Kačinej svatbe. Potom postáva a vyhybuje   ženám: lebo tieto neradi vidia, keď sa jim kto pletie po čas roboty   popod nohy.
+    </tei:p>
+    <tei:p>
+     U Mikulov strojí večeru dcéra Matka si žiadala, nuž otec odkázal   pre nich, aby prišla i s rodinou. Naši ľudia nešli by síce cez tieto   sviatky ani na krok od domu, no ale potreba zákon ruší a človek aby   sa nikdy nezariekal. I jej to ide hbyto: mala sa od koho naučit Matka   jej síce nepomôže. Ledva že sa drží na nohách. Nuž ale ani nie je   treba, veď jej sama káže, aby sa nechápala z postele, ale starí ľudia   si nedajú povedal Oni až vtedy uznajú, keď jim prichodí na prsty.
+    </tei:p>
+    <tei:p>
+     Jakonáhle sa zveČerie, domáci shromáždia sa do chyže. Stôl je už   prikrytý a svetlo horí nad armarkou. Potom pridá i ženy a čeľaď sadne   si k večeri,
+    </tei:p>
+    <tei:p>
+     ﻿77
+    </tei:p>
+    <tei:p>
+     Na stole rozostavané sú oplátky, petržlen, cesnak, chlieb, koláče,   mäd, orechy a jablká rad radom. Jedenie začina sa s modlitbou. Potom   každý vezme oplátku, natre ju mädom a zjie. Žatým umlknú a pozorujú   na gazdu. Tento vstane, zažmúri oči a vyberie každému po orechu. Komu   sa dostal zdravý, bude zdravým až do budúcich Vianoc, komu chybný,   zachváti ho nemoc alebo smrť. Kým pri sediaci zabávajú sa zkúmanim   jadier, ga-idiná rozdáva húbovú, trhancami zavarenú polievku, za čím   nasleduje krúpna mädová kaša a rezanky, obsypané tvarohom. Potom   rozkrája gazda koláče, naleje čeladi hriatóho, chytí pohárik a začne   vinšovať. Čeľaď s povznesenou tvárou počúva starečka a keď dokončí po   jednom zbližuje sa k nemu, aby jej na čelo mädom namazal kríž. Okrem   známej povery treba to i na to, aby ju svet návidel a aby bola takou   dobrou j ako ten mäd. Gazdiná po modlení prvá vstane a prichytí sa ku   chystaniu pre statok. Každému oddelí kúsok oplátky, jablka, cesnaku,   petržlenu a zaobalí do cesta. Gazda však vezme
+    </tei:p>
+    <tei:p>
+     ﻿78
+    </tei:p>
+    <tei:p>
+     vajce, mäd a sprevádza ju a hladí statok rad radom najprv vajcom,   aby bol tlstým, okrúhlym a potom robí mu medzi rožkami krížik mädorn,   aby ho radi mali kraviari a neublížili mu na paši.
+    </tei:p>
+    <tei:p>
+     Ked sa takto všetka práca ukonči, nastanú posedky. Ženské a mužské   pohlavie posadá si, kam sa komu páči, smeje, a shovára sa. Co v dome   svobodného, vytratí sa do súsedov a každý čaká tú mystičnú, tichom   noci, žiarou zimných hviezd a poesiou krásných spomienok obrúbenú   utiereň.
+    </tei:p>
+    <tei:p>
+     Mikulová napriek všetkým prehováraniam domácich nechcela sa   odobrať na pokoj Jakonáhle vytrúbil hlásnik jedenástu, vytratila sa   potíšku do komory,  sviatočný kožuch, zakrútila sa   ■opatrno do šatky a vyšla na vonok. Nemocou skľúčená len ťažko brala   sa napred. Kostol bol na dolňom konci viesky. Bol synom predošlého   stoletia, čierny a ohradený bol parkanom. Za ohradou bol cmiter, Bola   smelšou, než aby sa bála vkročiť do tmy, no ztriaslo ňou, ked videla   pnúť sa do výše stavbu posvätnej budovy. Kostol
+    </tei:p>
+    <tei:p>
+     ﻿79
+    </tei:p>
+    <tei:p>
+     je ešte povždy obkľúčený v názore nášho1 prostého ľudu tajomným   okružím istej posvätnej hrôzy, a jako tam rád zájde si vzdychnút   nábožný ľud vo dne, tak rád obíde ho v hodinách tmy, bo noc, jako   príslovie hovorí, má svoje právo a svoju, moc.
+    </tei:p>
+    <tei:p>
+     Na fortne čakala ju Ivka. Pod plachtičkou mala zakrútený batôžok;   šla Mikulovej pár krokmi v ústrety.
+    </tei:p>
+    <tei:p>
+     „Čakáte?“ pýtala sa Mikulová.
+    </tei:p>
+    <tei:p>
+     „Už vás dobrú chvíľu vyzerám“, znela odpoveď.
+    </tei:p>
+    <tei:p>
+     Ženy vnišly v okružie cmitera.
+    </tei:p>
+    <tei:p>
+     Pred nimi tratila sa do výše černavá veža s kohútom, hviezdou a   krížom a v úzadí čeril hrebeň ostrého príkrovu. Okolie samo dýchalo   desnou temnotou. Zôkol bolo mrtvé ticho, len hviezdičky žiarily na   čistom zimošnom nebi jagotavo.
+    </tei:p>
+    <tei:p>
+     Ivka šla popredku a čakala tichým krokom za ňou sa ubierajúcu   Mikulovii. Vchod pod zvonicu, cez ktorý išlo sa do kostola, bol   otvorený. Zvonicou volajú na mnohých miestach otvorený, prístupný   spodok veže. V uhloch držaly budovu
+    </tei:p>
+    <tei:p>
+     ﻿80
+    </tei:p>
+    <tei:p>
+     štyri ozrutné opory a boly niečo vyššie v krížovom spiati   poschodnými stolicami dovedna upevnené.
+    </tei:p>
+    <tei:p>
+     Ženy obišly hlavný vchod a daly sa v pravo pod vežu. Dvere chrámu   boly už otvorené. V kostole kmitalo sa pred oltárom svetlo večné.   Jeho lúče rozplývaly sa po tmavom, tajomnom priestore j akoby zlatými   vláknami a vynimaly sa uprostred velebného ticha magicky. Bázeň a   skrúšenost vkrádala sa v srdce: city zodpovedajúce dôstoju miesta   toho, kde toľké tisíce sŕdc prosí veľkého Boha v milost, o   požehnanie, a kde človek nájde mier a útechu í vtedy, ked ju už na   celom svete ztratil.
+    </tei:p>
+    <tei:p>
+     Mikulovú prechádzal mráz. Pritúlila sa tesno k sprievodkyni.   Inokedy prichádzala sem prosit o požehnanie i íahkým srdcom   prekračovala prah kostola Dnes chvelo sa jej vnútro pocitom ľaku a   bez prekážky poddávala sa pokynom spoloônice.
+    </tei:p>
+    <tei:p>
+     Najprv kľakly a modlili sa: Iva vyňala potom zpod obrúska obstojný   batôžok a rozkrútila bo. Bol tam hrniec, malá rieôica, dva nože, v   jednom uzlicku
+    </tei:p>
+    <tei:p>
+     ﻿81
+    </tei:p>
+    <tei:p>
+     popol, pozostatky zo štedrej večere a vreteno.
+    </tei:p>
+    <tei:p>
+     Šušurková vstala prvá. Vyzerala desno* Oči jej sa iskrily a ostrý   nos odrážal sa nápadno od chudej, zvráskovitelej tváre. I ztriaslo to   Mikulovou až v kostach a len kedy-tedy, s výrazom nadprirodzenej   bázne utkvela pozorom na nej Všade dívala sa na ňu tma, len tichá   lampa rozháňala čiernu noc a rozlievala bľadó, príšerné svetlo v   obvode hrobového zátišia.
+    </tei:p>
+    <tei:p>
+     Dejanie sa začalo. Ivka podala spoločníci vreteno a postavila naň   riečicu, potom obhádzala podlahu zelinkami, urobila kriedou kruh a   odriekala potíšku zariekacie formulky proti moci zlého. Žatým išla s   kriedou k uholným oporám, poznačila jich krížikami, pokropila   svätenou vodou a pristúpila v ten bok odkiaľ chcela, aby sa dostavila   súdená, hádzala v tom smere odrobiny z pozostatkov zo štedrého večera   a hovorila:
+    </tei:p>
+    <tei:p>
+     Jako hory do vysoká, j ako vody do hlboká, tak jich para po ňom, i   radovizeň, i túžovizeň
+    </tei:p>
+    <tei:p>
+     ﻿82
+    </tei:p>
+    <tei:p>
+     i bážovizeň, i prichylizeň po šuhajovi, po mládencovi j ako   kalina, j ako malina.
+    </tei:p>
+    <tei:p>
+     Mikulová stála tíško v kútiku; šeptala. Či to bola modlitba,   nevedno. Oči jej desno tekaly raz na privolávajúcu spoločnicu, raz   zas do svätyne. Sušurková robila pohyby rukama. Tak strašno vynímala   sa v tej tme! a dnu v kostole žiarila lampa tak tajomno, príšerno.   Zazdalo sa jej, že v bfadom priestore chrámu pohybujú sa čierni,   neurčitých podôb duchovia.
+    </tei:p>
+    <tei:p>
+     Iva rad radom, tri razy opakovala formulku. Potom prišla ku   riečici. Ukazovala chudým, kostnatým prstom na popol.
+    </tei:p>
+    <tei:p>
+     „To je, čo mi zostalo z popola holubacích sŕdc, čo som sypala v   mlyne a u rychtárov. Podajte mi ho sem.“
+    </tei:p>
+    <tei:p>
+     Mikulová sa nahnula; ruka sa jej triasla, ústami jej drkotalo od   strachu.
+    </tei:p>
+    <tei:p>
+     Zariekaôka zas obišla tri razy riečicu a odriekala čosi pošepky,   potom šla na predošlé miesto, obrátila sa chrbtom v tú stranu čo   predošle a hádžuc popol z opaku ruky hovorila:
+    </tei:p>
+    <tei:p>
+     ﻿83
+    </tei:p>
+    <tei:p>
+     Nejeden, nedva, netri, šibte sem prudké vetry, dievky bohaté,   skočné, chytré, veselé, šibné i robotné
+    </tei:p>
+    <tei:p>
+     Neštyri, nepäť, nešesť, sedem z jedenia, pitia šibte jich sem,   nech neposedia, nepostoja, nech bez meškania sem sa stroja!
+    </tei:p>
+    <tei:p>
+     Nie osem. deväť a nie desať, len jednu hodnú semká obráť; jednu   jedinkú tú súdenú, Pánom Bohom mu obecanú.
+    </tei:p>
+    <tei:p>
+     Po tejto práci pozostalý popol roztrúsila v povetrí a hovorila:   „Ja ťa žehnám päťmi prstmi, šiestou dlaňou, aby teraz prišla sudba   suďbička na ňu.“ Potom stknula na zade ruky dohromady a zariekala   otčenáš naopak. Ku koncu však prišla k rieôici, zapchnula nožíky za   lyká a krúťac ju hovorila:
+    </tei:p>
+    <tei:p>
+     Svätí mládenci a panny, buďte na pomoci nyní, nech sa zjaví tá   súdená, Pánom Bohom obecaná, Svätí mládenci a panny, prosíme vás o to   nyní. Poď, poď, poď!
+    </tei:p>
+    <tei:p>
+     ﻿84
+    </tei:p>
+    <tei:p>
+     Toto sa dialo do razu tretieho. Nožíky zastaly náhodou na strane   mlyna a rychtára. Ive zažiarily príšerné oči. „Šťastie, kmotrička,“   hovorila. „ítiečica ukazuje prajno. Teraz staňme si do kúta a   čakajme.“
+    </tei:p>
+    <tei:p>
+     Mikulová hodila na seba kríž, ťažký vzdych vydral sa jej z prsú.   Tak nevoľno, tak strašno bolo jej okolo srdca. Dívala sa so strachom   okolo seba, jakoby živú bytnosť hľadala alebo jakoby sa obávala, že   nekoho vidí. Príšerný náter vyvolaného okamihu tak mohútno zvíril   hlbiny duše jej, že beztak už zoslabnuté nohy podlamovaly sa a ona   len s najväčším napnutím v stave bola udržať sa hore. Keďby nebola   mala pred sebou dobre rozvážený úmysel, nebola by vydržala na mieste;   no or a zostala. Strach nebol v stave soslabiť jej pevnú   odhodlanosť.
+    </tei:p>
+    <tei:p>
+     Zariekačka sviazala do uzlíka predmety. Potom utiahly sa ženy do   blízkeho kúta, sadly tam na máry a čakaly.
+    </tei:p>
+    <tei:p>
+     Žatým nastúpil vetrík. Cmiterné lipy vŕzgaly bezlistými konármi   sucho, ostro, a v nezmernej diali žiarily na tmavo-
+    </tei:p>
+    <tei:p>
+     ﻿85
+    </tei:p>
+    <tei:p>
+     modrom sklepení všesvetov hviezdy traslavo, nádherno. Mikulová   zápasila ustavične so strachom; obzerala sa ustavične, kedy vystúpi   pred nich čierna príšera a pohltí svojím ohnivým pažerákom všetko   zôkol-vôkol. Cez kosti chodil jej mráz; učupila sa v kútiku.   Prebudilo sa svedomie.
+    </tei:p>
+    <tei:p>
+     S rozochveným srdcom očakávaly zariekacky, či sa niekto blíži. V   blízkosti bolo ticho j ako v hrobe.
+    </tei:p>
+    <tei:p>
+     „A jak nepríde nikto?“ pýtala sa šeptmo Mikulová, prikloniac sa   tesno k susede.
+    </tei:p>
+    <tei:p>
+     „Nuž súdenej v dedine nie je.“ V tom nastalo bezvetrie.   Čakajúcim
+    </tei:p>
+    <tei:p>
+     sa zazdalo, že počujú v diali neurčitý odzvuk kroôajov. Ivka   potrhla starenku; zostrily duch a nacúvaly. Dochádzalo to sem j ako   vetrom donášané, v priestore vznikló klopkanie. Kroky nabývaly výrazu   určitejšieho: blížily sa. Starenke búšilo to v srdci, jakoby udrel na   zvon; zatajila dych a vskutku! biela, rýchlym krokom sa blížiaca, v   biely šat zavinutá postava obvyšnej devy prešla popri nich a vstúpila   do kostola.
+    </tei:p>
+    <tei:p>
+     ﻿86
+    </tei:p>
+    <tei:p>
+     Dve ženy vstaly. Pri bľadom svetle trasľavej lampy oko nevládalo   určito zachytí t obrysy kľačiacej postavy. Nevedely kto to. I   priblížily sa až ku kľačiacej. Táto mala ruky zložené a vrúcno   modlila sa. Iva pristúpila až na krok a položila jej ruku na   plece.
+    </tei:p>
+    <tei:p>
+     „Kto je to?“ pýtala sa pritlumeno, rozochveno
+    </tei:p>
+    <tei:p>
+     Kľačiacou trhlo; obzrela sa Zrak jej placho, bojácno dospel tváre   sta) enky. Bola bľadá, jako nad vodami mesiac. I trasúc sa   vyriekla:
+    </tei:p>
+    <tei:p>
+     „Ja, tetička, Žofia od Taiajdov. Tak ma sem niečo tahalo, prišla   som sa pomodlit Pánu Bohu.“
+    </tei:p>
+    <tei:p>
+     „Ježiš, Maria!“ vykríkla starenka a zavrávovala k lavici.5
+    </tei:p>
+    <tei:p>
+     „Čo je vám, pre Boha, tetička?!“ zkriklo dievča a skočilo chytit   ju pod pazuchy.
+    </tei:p>
+    <tei:p>
+     „Nie, nie; len ma dovedzte domov, prišiel mi závrat,“ riekla táto   naklonená vopred, trasúca sa ako vŕbový prút a držiaca sa stolice   obidvoma rukama.
+    </tei:p>
+    <tei:p>
+     ﻿87
+    </tei:p>
+    <tei:p>
+     Šušurková stála jako socha; krv jej zamrela v žilách, zatajilo jej   reč, jazyk jej koktal nesrozumiteľné zvuky hrôzy a oči vyvalila   stípkom.
+    </tei:p>
+    <tei:p>
+     Len na opakované prízvukovanie Žofky stala si z druhého boku a   viedla zranenú starenku z kostola von.
+    </tei:p>
+    <tei:p>
+     Sviatky narodenia božského učiteľa rýchlo prešly ponad tiché   chatky hôr našich, ba zamrel už v horách i vetor Sylvestrovej čiernej   noci a ľudia spomínajú si na ten pekný svatvečer a rátajú na prstoch,   že máme zas o jedon rok viac. Len u Mikulov sviatkovali v smútku a   obavách Na utiereň sa sberajúci domáci obrátili sa v stĺpy, keď   roztvorily sa dvere a do chyže vstúpila starká matka, bľadá jako   smrt, viac nesená jako podopieraná Ivkou, — a kto vedel, radšej by sa   bol smrti nadál — i nenávidenou Žofkou od Tarajdov.
+    </tei:p>
+    <tei:p>
+     Výkrik hrôzy a zdesenia zastydnul všetkým na tvári. Oblopili ju,   každý sa
+    </tei:p>
+    <tei:p>
+     ﻿88
+    </tei:p>
+    <tei:p>
+     chcel pýtať čo sa stalo, čo je, no íak udusil slovo v hrdle a   potreba náhlej pomoci rozohnala jednoho tam, druhého inam.
+    </tei:p>
+    <tei:p>
+     Y tme zdesenia Žofka so Šušurkovou pobraly sa preč. Deva v   neistote a so strachujúcim srdcom, čo bude mať táto udalosť za   výsledok; Ivke zas podlamovalo závratom nohy, svet sa jej krútil   dovôkola a ani nevedela, j ako dostala sa domov. Veď ozaj, je to   hrozné, keď celý názi r žitia, presved čenie 60. rokov, nymbus, vplyv   a príôetnosť chýru zblkne v požiar, zničí všetko a nechá za sebou   posmech, o ktorom rozprávať bude celá dedina, hanbu, ktorú prilepia   jej na čelo a potom zavierať budú pred ňou dvere.
+    </tei:p>
+    <tei:p>
+     I chcela by sa bola v tomto okamihu ztratit pod zemou a nevidet sa   ani na svete !
+    </tei:p>
+    <tei:p>
+     U Mikulov poslali na naliehanie synovo a dcérino hneď ráno pre   lekára. Starenka spravila kyslú tvár, ale keď už bol tu, dala sa   prezkúmať a prijala i liek. Potom nasledovaly ťažké dni choroby,   obava a nežná opatera dobrých deti a
+    </tei:p>
+    <tei:p>
+     ﻿89
+    </tei:p>
+    <tei:p>
+     starostlivého muža, až konečne po viac týždňoch nastal obrat k   lepšiemu.
+    </tei:p>
+    <tei:p>
+     I vstala starenka a šmotlala sa semotam po izbe a neskôr i po   kuchyni. Na čo predtým ani za neviem čo nebola by svolila, dnes   vidíme tiež v dome: a síce služobnú. „Ked nemôžeš preskočiť, podlez   Zuzka,“ povedal starý a prijednal sám na svoju päsť devicu do domu.   Urobil niečo podobného prvý raz v živote; nuž ale oba vedeli: že kto   sa topí i britvy sa lapá.
+    </tei:p>
+    <tei:p>
+     Gazdiná pristala i na to; jej určitosť sa zlomila na útrapách   ťažkej nemoce, nemala už tej pružnosti ducha, čo predtým. Rada bola,   že má pokoj a nie toľko starostí na hlave.
+    </tei:p>
+    <tei:p>
+     Starý Mikula zas, keď sa mu práce nakopilo, vzdychal: „nemaj nič,   zle je, a maj čo, ešte horšie.“ Tak rád by si bol sadnul, odpočinul   si, no nedalo sa. Ženin dozor spočival zväčšej strany na bedrách   jeho; musel sa držať na nohách.
+    </tei:p>
+    <tei:p>
+     I starene sa nezdály tieto výminečné poriadky. Úmysle jej zmizly   jako hmla, nevesta vystala a fašianky tu, ba skoro bude i po nich.   Bodlo ju, keď počula, že
+    </tei:p>
+    <tei:p>
+     ﻿90
+    </tei:p>
+    <tei:p>
+     tam a tam bude svatba a ten a ten bude si brať tú alebo tú. „Tak   je to,“ hovorila sama k sebe, „ktosi to má šťastia, až samo za ním   chodí.“ Potom sa zamyslela a utkvela jej v mysli tá čierna noc   osudného privolávania budúcej nevesty a zjavila sa jej duši tá biela   Žofka, j ako kľačí a modlí sa v kostole pobožno, vrúcne.
+    </tei:p>
+    <tei:p>
+     Takto dostavila sa pomaly jar; lastovička zašvitorila pod oblokom,   hory oživly, trávička sa rozzelenala a roľník vychádzal na- hony s   pluhom; siatím a prácou. Zaoral, zabránil,. potom kľaknul na kolená a   prosil Boha o požehnanie. Všade premena, len u Mikulov nie. Ešte   najlepšie sa vodí Šteťkovi: vie, na čom stojí. Matka nestojí proti   nemu so zbraňou; sama vyrazila si ju z ruky, poddala sa. On čaká.
+    </tei:p>
+    <tei:p>
+     Medzi rodičmi udala sa istá premena. Častejšie sa schádzajú a vždy   šepotu plné ústa a plné ruky pohybov. Musí byt čosi vo veci. A   vskutku! Y nedeľu zavolá otec Stefka dnu, matka mu počne rozprávat,   že je už z odbierky von, že sú starí, nevládzú, že hospodárstvo   rozvlece cudzý svet atcľ., nuž aby sa oženil. Šuhaj udá
+    </tei:p>
+    <tei:p>
+     ﻿91
+    </tei:p>
+    <tei:p>
+     podmienky a za ním na — a prehováranie až do soboty, až konečne   matka sa musí poddat. Yed beztoho už len preto hovorila, aby si   zostala dôslednou: vedela, že, čo komu súdené, to že ho ver’   nemine.
+    </tei:p>
+    <tei:p>
+     „Ale, daj pokoj, Zuzka, i my sme boli chudobní a Pán Boh nám   pomohol. Uvidíš, že budeš tomu kedysi i sama rada. Nech je tej   piesničke už koniec, nech mi to tu za ušima nemrnčí . . .“
+    </tei:p>
+    <tei:p>
+     Potom zhadzovali dvoch mladých z kazatelnice. Svet zhýknul,   mamičky dívaly sa po sebe a po dedine o inšom sa nehovorilo, iba o   ohláškach Žofkiných, a každý sa čudoval, j ako to môže len byt a j   ako sa to len mohlo dohromady zvarit?
+    </tei:p>
+    <tei:p>
+     Za ohláškami čo nasleduje známe. Strýkovia, stryne, svákovia,   svácky, ujcovia, tetky, kmotri, susedi, priatelia, známi, potom   družice, družbovia, široké i stari svati shrkli sa na veselie a   spevu, tancu, vinšovaniu nebolo konca za celé tri dni.
+    </tei:p>
+    <tei:p>
+     I stará Šušurková sa dostavila; zavolal ju Štefko. Chuderka,   natrápila sa dost. Hralo sa jej o výživu, no svatvečernie čary   zostaly pred svetom v tajnosti. I
+    </tei:p>
+    <tei:p>
+     ﻿92
+    </tei:p>
+    <tei:p>
+     bolo všetko dobre. Ona varila zelinky, veštila, liečila, iba do   jednoho domu by sa nebola odvážila zásluhy si robiť u Pána Boha ani   za svet: do Mikulov. A potom, neskôr, ked sa jej dôverne opýtala   niektorá susedka: „ale prosím vás, Ivka, vy ste múdra osoba, povedzte   mi, j ako sa dostala tá Zofka do Mikulov za nevestu? Ved si ja skoro   hlavu prevrátim a nemôžem sa toho dohmatať; ale ked je človek v tej   starosti taký ohlúpený, že nevie ani kde má hlavu . . .
+    </tei:p>
+    <tei:p>
+     Ivka spravila na to zas tajomstvennú tvár, usmiala sa veľavýznamne   a riekla: „Hm, prosím vás, všelijako idú veci na svete ... ja som to   hned predpovedala . .. len som nechcela nič hovoriť . . . však viete,   j ako to ide medzi svetom, tak j ako hodiny semotam, nuž ale no,   všetci ľudia všetko vedia . .
+    </tei:p>
+    <tei:p>
+     „Nu, však aj ja tak myslím, Ivka; Pán Boh vás opatruj!“
+    </tei:p>
+    <tei:p>
+     „Pán Boh uslyš; štastno si porábajte !w
+    </tei:p>
+    <tei:p>
+     ﻿93
+    </tei:p>
+    <tei:p>
+     Novellista už sospájal nite skromného deju dovedna, vyrovnal proti   vy, urobil zadosť právu srdca; novellista už dokončil, no má ešte   slovo človek dobrého srdca, ktorý z hlbín duše praje dobrým ľudom   požehnania a šťastia. A tak myšlienky ešte roja sa v hlave a poslušné   pero nevie sa rozlúčiť s postavami príhorných chát nášho rodiska.
+    </tei:p>
+    <tei:p>
+     Starý Mikula dobre predpovedal svojej žene, že ona sama bude   kedysi tomu rada, že Zofku dostala za nevestu. Vydarila sa jej ani   sama lepšie si nemohla žiadat aby bolo a vkradla sa jej do srdca až   tam, kam matka schováva žiarlivé poklady svojej duše: krv a kosť   svoju. I vyplnily sa jej tie pekné sny o odpočinku a až na vlas a   láska žehnala jích snahám a požehnanie uhostilo sa medzi nimi.
+    </tei:p>
+    <tei:p>
+     A potom, keď časom bociaň sadnul aa strechu a doniesol do daru   vnúča buclaté ani bochníčok a pekné j ako jahoda: radosti nebolo ani   konca ani kraja.
+    </tei:p>
+    <tei:p>
+     Len niekedy domrzla ju Katra, tiež stará mat. Mikulovej sa zdalo,   že dievča
+    </tei:p>
+    <tei:p>
+     ﻿94
+    </tei:p>
+    <tei:p>
+     je podáte na syna, Tarajdovej zas, že na dcéru. I povstaly   rozdiely:
+    </tei:p>
+    <tei:p>
+     „Len sa podívajte, švagrinká, jaké má líčka! Ani čoby Stefkovi z   oka vypadlo“, hovorila prvá.
+    </tei:p>
+    <tei:p>
+     „A veru sa mýlite“, odporovala táto. „I nos, i očí, i ústa, ani   celá matka. Ani chýru, ani slychu o otcovi. Opýtajte sa kohokoľvek.   Ale j akoby to aj mohlo byt. . . ?“
+    </tei:p>
+    <tei:p>
+     Keď ale prišla na pohôdky dcéra zo Zavŕšia a doniesla tiež malé   dievčatko, tu stará mat posadila to vedľa seba a hovorila: „V Závrší   mám Belenku a doma Cernuľku. Potom dala si jich na lono a pohrávala   sa s nimi bárs aj do večera.
+    </tei:p>
+    <tei:p>
+     A keď po rokoch rodiny bolo viac, keď to už behalo, tmolilo sa po   dome, dvore a ceste, tu už shrbená starenka nevládala za nimi a   hnevala i radovali, sa a potom vnišla do izby a čakala, kým ostatní   prídu z poľa, kým bude večer. . :.
+    </tei:p>
+    <tei:p>
+     Lebo v tejto dobe dňa odchýlil sa Stefko od zvykli starších a   zaviedol na posedkoch i čítanie. Prišiel občasne i svokor Mišo a   častejšie Katrena, matka, po-
+    </tei:p>
+    <tei:p>
+     ﻿95
+    </tei:p>
+    <tei:p>
+     ťažné š a všetci dohromady počúvali, čo to tí páni navymýšľajú v   tých knihách.
+    </tei:p>
+    <tei:p>
+     Keď gazda čítal niečo poučného, tu každý počúval napnuto.   Najlepšie sa to páčilo starenke:
+    </tei:p>
+    <tei:p>
+     „To musel jakýsi kňaz písať,“ hovorila pobožno a načúvala   ďalej.
+    </tei:p>
+    <tei:p>
+     Keď ale mali niečo na zasmiatie, tu smiechu nebolo konca kraja.   ObzvláŠtne Mišovi sa páčilo. Rehotal sa až sa chytal za brucho.
+    </tei:p>
+    <tei:p>
+     „I bodaj si sa nestihlo!“ hovoril, utierajúc si pot z čela.
+    </tei:p>
+    <tei:p>
+     „Bodaj si sa zapadlo!“ súhlasila Katrena a smiala sa a packala sa   obidvoma rukama po kolenách. Potom neskoršie, keď Stefko knižku   odložil a veselosť utíchla, doložila:
+    </tei:p>
+    <tei:p>
+     „Pane Kriste ho prežehnaj aj s pisárom! ja len neviem z čoho to má   hlavu, keď vie toho toľko do tej knižky napchať. To by človekovi aj   hlavu prevrátilo!“
+    </tei:p>
+    <tei:p>
+     A rozišli sa v pokoji, v láske a šťastí.
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

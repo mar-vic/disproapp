@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1911482" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Martin Rebrina a jeho chodníčky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:70948507">
+     Gašparík-Leštinský, Jozef (1861 - 1931)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2336
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Gašparík-Leštinský, Jozef
+     </tei:author>
+     <tei:title>
+      Martin Rebrina a jeho chodníčky
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Tlačou a nákladom J. Gašparíka
+     </tei:publisher>
+     <tei:date>
+      1911
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ﻿Martin Rebrina a jeho chodníčky
+    </tei:head>
+    <tei:head>
+     Obrázok z našich časov
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Martin Rebrina bol hodný mladý šuhaj a remeselník v Medzihorí.   Remeslu vyučil sa u kolárskeho majstra Štefana Bahríka vo Svätom   Michale a bol i na vandrovke vo Svrčinovej, v Jedlinách a v   Topofovciach. Z Topoľoviec privolal ho domov chorý otec, ktorý cítil,   že dni jeho života sú už spočítané.
+   </tei:p>
+   <tei:p>
+    „Syn môj, ja som dnes-zajtrá tu, a ako vidíš, samotný, bez pomoci   a opatery ani byt nemôžem. Ty sa musíš oženiť !“ riekol starý Rebrina   svojmu synovi hned, ako sa domov vrátil. „Tvoju staršiu sestru Marku   vyplatil som ešte pred trimi rokmi, ked išla do Ameriky, a domček, na   ktorom, pravda, zaintabulovarto je tých 300 zlatých,
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    čo som jej dal ako výplatok, keď m í čo chvíľa zatlačíš, oči,   zanechám tebe. Kolára niet v celej dedine a keď sa budeš usiloval   tých B00 zlatých si ľahko splatíš.“
+   </tei:p>
+   <tei:p>
+    Martinovi pozdal sa návrh otcov a neroinuly štyri týždne, už stál   pred oltárom s driečnou Zuzankou Suchých, sirotou po nebohom, dobrom   priateľovi starého Jána Rebrinu.
+   </tei:p>
+   <tei:p>
+    Zuzanka, okrem výstroja, doniesla Martinovi v hotovosti 800   zlatých vena. A aby sa peniažky neztrovily, sama mu navádzala, aby si   za ne pristavil ešte jednu izbu na dielňu, že by totiž mal kde svoje   remeslo prevádzal, lebo domec Rebrinovie pozostával len z jednej   izby, pitvora a komôrky.
+   </tei:p>
+   <tei:p>
+    Martin poslúehnul ženu, dal postaviť hodnú izbu a konča nej pod   jednou strechou i dosť hodnú kôleh na drevený materiál.
+   </tei:p>
+   <tei:p>
+    Ale 800 zlatých nebolo na to dosf. A bolo treba i dreva kúpif, nuž   musel otec ku starej dlžobe ešte nových 800 zlatých pripožičat. * *   *
+   </tei:p>
+   <tei:p>
+    ﻿Ked bolo všetko hotové, i dvorik usporiadaný, Martin chytil sa do   remesla. Robil za pár dní dosf usilovne a aj roboty bol by mal dosf,   ale skoro sa ukázalo, že sa mu dákosi nechce pri kláte stáf.   Odskakoval každú chvíľu: tu na záhumnie, tu do súsedov, tu do krčmy;   alebo šiel za bieleho dňa kravičku popásf; tu zas na druhú dedinu   kúsok dreva alebo prasa pozrel; v lete robieval s kamarátmi výlety do   hory; v zime chodieval priateľom a kamarátom zakáľal, pri čom naučil   sa dobre popíjal -— a sekera medzitým odpočívala za rámom v prázdnej   dielni.
+   </tei:p>
+   <tei:p>
+    Žena sa nad tým trápila a dosf často mu i dohovárala, ale Martin   vždy ju vedel uchlácholif a všelijako sa vyhovoril.
+   </tei:p>
+   <tei:p>
+    I starý Rebrina krútil hlavou a často dudral popod nos, že to veru   nebude dobre. Ale syn čím dial, tým väčšmi zanedbával svoje remeslo.   Celý deň fajčil ani Turek a ked tu i tu i zafal do toho dreva, hned   hodil sekeru a často navštevoval svojho súseda, kapčiara, ktorého   žena vraj vedela
+   </tei:p>
+   <tei:p>
+    5
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    robiť veľmi dobré hríaío. Ba často najkrajší čas dňa presedel s   udicou vo vrbine pri potoku.
+   </tei:p>
+   <tei:p>
+    „Ej, synku, synku, mal by si predsa len lepšie piloval svoje   remeslo, a nie sa sháňať po kadejakých nestatkoeh,“ prehovoril   konečne namrzený otec. „Veru, veru!“ doložila nespokojná žena, „Ved   by hoja piloval, keby sa odplatilo p ale dnes škoda sa poriadnemu   človeku pri remesle trápiť.“ „A predsa ked robíš, len vyrobíš!“   dodala Zuzka, „Keby ľudia platili! Ale dnes nik nechce platiť.   Starému Lopúehovi spravil som oje ešte pred mesiacom, dosiaľ mi zaň   nezaplatil ; Kalinovi obložil som koleso, povedal mi, aby som len   poshovel, že teraz Repuliakovi spravil som nový predok, ani sa len   neopýtal, čo príde zaň. Roboty by pravda bolo- dosť! Mám rozkázané   štyri nové vozy, ale ja som nie blázon, aby som sa na druhých ľudí   trápil! Kúpiť drevo, spraviť z neho voz a čakať za peniazmi aj
+   </tei:p>
+   <tei:p>
+    ﻿tri mesiace — na to ma nik nedostane! Veď som azda len bláznivé   huby nepo jedol!“ „Synku, synku ty zle mudruješ. Ked ti nezaplatia   dnes, zaplatia ti zajtrá alebo pozajtre ! A groš medzi ľud m i je   omnoho lepší, ako ked ho máš vo vrecku a sedíš u Žida.“ „Neviem, čo   mám z toho, čo je medzi ludmi! Keby som si tu i tu nechytil a   nepredal dáku tú rybku, nemal by som ani na dohán.“ „Rybačka pre   remeselníka — to je už ten najposlednejší zárobok,“ riekol rozmrzený   otec. „Pamätaj si: sto muzikantov, sto jágrov a sto rybárov — tristo   žobrákov!“ „Hovorte si, čo chcete; ja viem, čo robím! Naše remeslo je   ťažké, človek sa pri ňom narobí, ako kôň. Drevo je drahé — a ľudia   zle platia; škoda sa darmo trápiť.“ „Veru škoda, komu sa nechce   robiť,“ doložil otec posmešne. „Dnes je najlepšie takému, ktorý je v   službe; ked dostane svoj mesačný plat, hned sa má na čo opret; nemusí   sa o nič starať a má vždy groš medzi rukami. Skoda,
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    že som nebol vojakom; už by som bol dávno býval strážnikom pri   železnici alebo hajdúchom u viceišpána; i horárom som už mohol byť,   ba i na poštu by ma boli vzali za sluhu — a bol by som si žil, ako   pán. „Sluhom byť, syn môj, pánov obsluhovať, to je veru pre   remeselníka slabé panstvo!“ Ale Martina sa už nič nechytilo; on   remeslo zanedbával i dalej, a to zo dňa na deň väčšmi. I dalej chodil   s centimetrom vo vrecku z krčmy do krčmy a ked nerobil, pomaly sa i   ľudia od neho odpútili.
+   </tei:p>
+   <tei:p>
+    *• * *
+   </tei:p>
+   <tei:p>
+    Jedného dňa prišiel Martin Rebrina celý uradostený domov. „No,   žena moja, už ti mám službu! Zjednal som sa k notárovi za úradného   sluhu a budem i obecným bubeníkom.“ „Pre Boha, človeče, či sa nebudeš   hanbiť?!“ zkríkla utrápená žena. „Synku, synku, ty si vari rozum   potratil!“ doložil rozhnevaný otec. „Nuž či som
+   </tei:p>
+   <tei:p>
+    ﻿ía ja na to dal na remeslo, aby si bubon vláčil po dedine a   notárovi behal do krčmy s fľašou?! Nerob, človeče, hanbu ostatným   remeselníkom a nerob hanbu ani mne, šedivému starcovi!
+   </tei:p>
+   <tei:p>
+    „Zhorím od hanby, keď fa prvý raz počujem bubnovať! zkríkla   Zuzka a zalomila rukami.
+   </tei:p>
+   <tei:p>
+    „A čo by to bola za hanba?! Ved tam budem pánom! „Úradný   sluha, to je celkom inšie, ako obyčajný sluha. Budem mať 36 korún na   mesiac, budem si žiť ako pán a budeš i ty popri mne paňou.
+   </tei:p>
+   <tei:p>
+    „Ďakujem pekne za také panstvo, ked ma miesto pani majstrovej budú   volať pani bubeníčkou!“
+   </tei:p>
+   <tei:p>
+    „Syn môj, ty si sa dal na mýľne chodníčky ; toto ma privedie do   hrobu,“ riekol užialený otec a neminul týždeň, odobral sa za svojou   ženou na zaslúžený odpočinok.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    * * *
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    Martin otca pochoval. A poneváč na ženu nedal mnoho, teraz už bez   prekážky vstúpil do „úradnej“ služby a hneď v prvý deň s bubnom   oznamoval po dedine všelijaké rozkazy a nariadenia.
+   </tei:p>
+   <tei:p>
+    Zpočiatku sa mu to páčilo, lebo v tejto úradnej službe dostalo sa   mu tu i tu i vypiť, a čo bolo pri tom najhlavnejšie, nemusel „ťažko“   robiť, len behal a obsluhoval. Ale časom i to sa mu zunovalo. Ledva   vydržal do roka v tomto „úrade.“
+   </tei:p>
+   <tei:p>
+    Po roku šiel za robotníka na novozaloženú parnú pífu. Najprv kláty   navaľoval, potom dosky ukladal a naposledy stal sa nočným strážnikom.   Tam bol ešte najspokojnejší. Denne zarobil 2 koruny; výplata bola   každé dva týždne — a keby medzi píľou a jeho domom nebolo bývalo   dvoch krčiem, bolo by sa dalo z toho i so ženou a deťmi pekne vyžiť.   Ale takto žena i s deťmi — a bolo ich už štvoro — natrela sa dosť   biedy.
+   </tei:p>
+   <tei:p>
+    ﻿Naposledy Martinovi zunovala sa i píla. Tak aspoň sám hovoril. Ale   jeho žena pozdejšie dozvedela sa z hodnoverného prameňa, že posledne   trochu viac vypil, zaspal, zanedbal svoju povinnosf a bol zo služby   prepustený. „Žena moja, ja pôjdem do Ameriky.“ „Nebolo by ti bývalo   treba ani píly, ani Ameriky, keby si bol pekne rúče doma robil   remeslo! Ked si ty prestal robiť, na nižnom konci osadil sa druhý   kolár, a pozri, ten si už aj dom nadobudol; má dvoch pomocníkov,   troch učňov — a ako dobre sa opatruje. Ale ten robí!“
+   </tei:p>
+   <tei:p>
+    „Hej, ale ten dostal so ženou poltretej tisícky, a nie mizerných   800 zlatých, ako ja s tebou! Tomu bolo ľahko domy kupovať.“
+   </tei:p>
+   <tei:p>
+    „Ale jeho dom je aspoň päťtisíc zlatých hoden! A koľko ten má   dreva i roboty narobenej ! Ba má už i peniaze odložené, a medzi   svetom má iste viac, ako si ty mal. Okrem toho ten, ked prišiel do   našej dediny, musel ísť bývať do hospody; ty si
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    mal otcovský dom a za moje peniaze si si ho zväčšil. No a my sme   už siedmy rok spolu, ale ty neodložil si za ten čas ani groša.“
+   </tei:p>
+   <tei:p>
+    „Hej, ale ja som musel otca pochovaf a štvoro krstení   odbavit.“
+   </tei:p>
+   <tei:p>
+    „Veď si si na otcov pohreb 100 zlatých požičal!“
+   </tei:p>
+   <tei:p>
+    „Požičal, nepožičal — všetko jedno! Ale ked tu zostanem, nesplatím   tú dlžobu ani za sto rokov. Tu človek raz nemôže groša odložiť.“
+   </tei:p>
+   <tei:p>
+    „Ked nechce!“
+   </tei:p>
+   <tei:p>
+    „Pozriže, Zuzka,“ začal Martin vážnym presviedčajúcim hlasom:   „Mišo Jeleň len teraz rok išiel do Ameriky, a už 700 zlatých poslal   žene. Jano Klocok, čo slúžil u Kaňuru za paholka, za štyri roky   poslal tri tisícky. Mafo Belica je tam ešte len deväť týždňov, a jeho   žena práve dnes dostala od neho po pošte 125 korún; tu by ich veru   nebol odložil ani za dva roky! Tu je nič, tu sa raz žiť nedá! Ja som   sa rozhodnul ísť do Ameriky. Tam budem mať dobrý plat,
+   </tei:p>
+   <tei:p>
+    ﻿budem ti posielaf a za dva-tri roky splatíme si celú dlžobu.“ „A   kde vezmeš na cestu?“ „Pripožičiam si ešte. VecT je dlžoba   zaintabulovaná, nebudeš sa musef trápif so zmenkami.“ „Urob si, ako   chceš! Ale mne sa tak zdá, že ked tu nebolo z teba nič, že nebude z   teba mnoho ani tam,“ riekla utrápená žena a šla po svojej práci.   Martin ku starej dlžobe pripožičal si 300 zlatých, z ktorých pravda   dostal do ruky len 250 zlatých, lebo úroky a trovy, spojené s   vykonaním pôžičky, stiahly sa vopred. Teraz celá dlžoba obnášala už   1000 zlatých. „Ved vám ja budem posielaf! S Bohom, žena moja! S   Bohom, deti moje! Dobre sa mi majte !“ Pobozkal ich a ponáhľal sa do   vozňa práve zastavšieho vlaku. O chvíľku ozvala sa trúbka, vlak sa   pohnú! a odchádzajúci Martin Rebrina s vozňa kývajúc rukou, privolal   slziacej žene a pri nej stojacim defom posledné s Bohom!
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    * * *
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    Rebrinová zostala doma so štyrmi defmi sama, bez muža. Muž, ktorý   jej sľúbil, že jej bude písať a posielať, písal jej všetkého   dohromady leu tri razy; raz, ked vystúpil na breh; druhý raz, ked jej   sdelil, že bol dva týždne bez roboty, ale že sa mu už podarilo prácu   dostať; a tretí raz jej napísal, že ležal štyri týždne chorý v   nemocnici. Od tých čias nedal viac o sebe znať. Opustená žena utiahla   sa s deťmi do komôrky; izbu i bývalú dielňu vydala do prenájmu; krém   toho chodila na zárobky: sadiť, okopávať, hrabať, kopať, šaty prať,   mazať; popri tom priadla, párala piera a tak sa s drobnými deťmi   živila. Ale na úroky od dlžoby nevládala zaplatiť ani haliera. A o   mužovi ani chýru, ani slychu. Pomocnica čakala, kým len mohla, ale   konečne, ked jej trpelivosť prekročila hranicu, oddala úpis svojmu   pravotárovi a ten pôžičku zažaloval. Lenže jedna bieda nerada   chodieva sama, obyčajne pridruží sa k nej i druhá kamarátka. A tak sa   stalo i tu.
+   </tei:p>
+   <tei:p>
+    ﻿Martinova sestra Marka, ktorú ako vieme — nebohý otec vyplatil,   vydala sa v Amerike za istého Burgonya Jánoša a tam, ako bohužiaľ   mnohí, i ona vzdialila sa od Boha, ztratila vieru, statočnosf, ba i   sve-- domie. Ona dobre vedela, že otcovský dom nebol vtedy viac   hoden, ako 600 zlatých, a dobre vedela i to, že jej brat Martin okrem   toho musel doopatrovaf a pochovat starého chorého otca. Ona dobre   vedela, že na rodičovskom majetku nemá už čo hľadať, lebo 300 zlatých   dostala 5 ale vedela i to, že nebohému otcovi nedala na tie peniaze   žiadnej poistenky, nasledovne že záležitosť nie je pozemnoknižne   prevedená. Poslala teda z Ameriky jednému tunajšiemu fiškálovi   plnomocenstvo a ten na základe potrebných dokumentov súdobne žiadal   pre Máriu Burgonya rodenú Rebrina pravú polovicu Rebrinovskóho domu,   tak, ako teraz stojí. Úbohá žena, čo mala robiť? Ked už mala oproti   sebe dvoch fiškálov, musela si i ona vziať tretieho, Pravota sa   viedla, zadržaly sa všetky sú-
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    dobné formality a dom konečne prišiel na licitáciu.
+   </tei:p>
+   <tei:p>
+    Súd sestre Martinovej neprisúdil čistú pravú polovicu domu, ako   žiadal jej fiškál, lebo sa dokázalo, že dva razy po 300 zlatých   vypožičal naň otec a 100 zlatých vypožičalo sa jemu na pohral);   kdežto Martin len akoby na svoju čiastku pripožičal si 300   zlatých.
+   </tei:p>
+   <tei:p>
+    Dom predal sa na licitácii za 3605 korún. Z toho dostala Pomocnica   svoju požiadavku i s úrokami; zaplatila sa závislá daň a pravotnó   trovy s nákladkami trom fiškálom a eksekútorovi; krém toho Márii   Burgonya rod. Rebrina dostalo sa 520 korún ako podiel z rodičovského   domu. A Martinova žena ešte i svojich 800 zlatých, ktoré doniesla   mužovi a vložila do stavby, ztratila úplne. Dom kúpil krčmár Abrahám   Winkelštein •— a Rebrinová po uplynutí 15 dní musela sa z neho i s   defmi navždy vypratal. Úbohú ženu i s defmi prichýlila do svojej   izbičky jej krstná matka, chudobná vdova Katarína Čriepková. Od tých   čias trápi sa,
+   </tei:p>
+   <tei:p>
+    ﻿robí krvopotne a vychováva svoje deti až podnes.
+   </tei:p>
+   <tei:p>
+    Najstaršiemu chlapcovi už minulo štrnásť rokov. Martin je v   Amerike už na desiaty rok, ale opustená žena darmo čaká od neho   lístok, tým menej dáky ten dolár, ktorý by sa jej veru zišiel, a   ktorý u nás má ešte i dnes takú príťažlivú moc, že k vôli nemu už   nejeden vrhol seba i celú svoju rodinu do záhuby. Len teraz, asi pred   mesiacom, písal jej jeden známy z Ameriky, že jej muža videl, ale že   ani tam nie je nič z neho. Žije vraj s jednou Polkou; čo vyrobí, to   prepije a každá robota sa mu hned zunuje. Vyzerá biedne — a do svojho   rodiska mohol by sa vraj dostať len tak, ak by ho americká vláda   vypovedala a poslala — šupom. Utrápenú Rebrinovú v Medzihorí každý   ľutuje a niektoré ženičky hľadia jej tu i tu niečím pomôcť. Naproti   tomu meno jej muža Martina stalo sa po celom okolí porekadlom. Ked   totiž daktorý remeselník začne zanedbávať svoje remeslo, alebo gazda   svoje gazdovstvo, a pričasto navštevuje krčmy, ho-
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    voria o ňom: „Ten už vychodí na Rebrinove chodníčky!“ A keď   niektorej ženičke príde mužíček z krčmy domov od rána len popoludní   alebo až nad ránom, i tá zakončí mu kapitolu slovami: „Ty si už na   Rebrinových chodníčkoch!“
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1935189" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Bože môj, otče môj, však je ten svet zmotaný! : ELTeCedícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton (1857 - 1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4878
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bielek, Anton
+     </tei:author>
+     <tei:title>
+      Bože môj, otče môj, však je ten svet zmotaný!
+     </tei:title>
+     <tei:pubPlace>
+      Praha
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1935
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     BOŽE MÔJ, OTČE MÔJ, VŠAK JE TEN SVET ZMOTANÝ!
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Dedinka Hlatýň leží neďaleko môjho rodiska v dlhej, čiernej   doline, bežiacej až po samé brehy nášho Váhu. Jej vyšný koniec opiera   sa na prudký svah pokonných výbežkov Javoriny, dolný však siaha až po   vŕštek, ktorý i s tejto strany uzaviera malú viesku, dávajúc chotáru   podobu tichého hniezda.
+   </tei:p>
+   <tei:p>
+    Cez vŕšky, bokami čiernych jedlín chodieval som do Hlatýňa k   svojmu priateľovi. Volal sa Peter Žalín a bol „zemským pánom“ tej   obce. Až nad samou dedinkou, vyjdúc z hôr, zjavila sa smesica   skromných chalúp s bielym kostolíkom na čele. Tak často sadol som a   hľadieval na ňu. Bolo tu ticho, bez života, bez krvi a jednako milo   padlo mi zrieť tie malé chalúpky, ten biely kostolík, objatý   stromovím až po samý driek, a hľadať smer toku bystrého potôčka v   tuhozelenom osení až tam dolu niže vetchého černavého mlyna.
+   </tei:p>
+   <tei:p>
+    So Žalínom bol som známy od mala. Spolu chodievali sme do školy,   spolu zažívali slasti a treli starosti študentského života. A čas   nemal zlého vplyvu na naše priateľstvo, ba azda utužil ho. Tešil som   sa vždy, vchodiac návštevou pod starý známy krov, vždy   priateľský.
+   </tei:p>
+   <tei:p>
+    57
+   </tei:p>
+   <tei:p>
+    ﻿Peter býval v počernom, starobylom prízemnom dome. Ľudia menovali   ho kaštieľom. Vchádzalo sa doň mohutnou bránou. Na rohoch stavania   pýšily sa rondely. Najskôr pomník to ambícií niektorého z predkov. Za   domom bol veľký dvor a za ním záhrada. Pod zemiansky odznak   hlatýnskeho zemského pána patrilo asi päť dedín, teraz už len   pozostatky bývalého statku: pár sedení, regál a prevažná časť   chotárnych hôr. Jeho otec mal ešte päť šesť ráz toľko; ale prišla   povodeň a tá veru neosožila podnes nikomu, nuž syn konečne i tomu bol   rád, že koľko toľko so zdravými údami dostal sa na breh a pozostatky   majetku tak zriadil, aby mu poskytly každodennú výživu.
+   </tei:p>
+   <tei:p>
+    Ináč nepatril on medzi tú vrstvu pre rodinné alebo svoje viny   upadlých ludí, ktorí hromžia, hnevajú sa a nerobia nič; naopak, bol   veselej mysli, žil prítomnosti, oral, sial, dozeral, a keď sa dalo,   rybáril, poľoval, tak, ako to asi majú vo zvyku naši v horách zavretí   gentlemani.
+   </tei:p>
+   <tei:p>
+    Bol júlový čas; s Petrom sedeli sme v jeho pracovni. Na stenách   visel kde tu obraz, starý popukaný; najskôr predkovia. Okolo nich a   pod nimi rozličného druhu zbroje. Môj hostite! vystieral sa na   diváni, husté tabakové oblaky plávaly mu nad hlavou. Ja stál som pri   okne, pri pulte, a prezeral som rozličné staré haraburdie. Cez okná   vrhalo nám slnko celú záplavu svetla a tepla. Výhľad viedol na dvor a   v diali končil sa horami; celé reťaze černaly sa ich pred nami.
+   </tei:p>
+   <tei:p>
+    58
+   </tei:p>
+   <tei:p>
+    ﻿„Pah, ale je dusno!“ prerušil Peter ticho a vyvalil kotúč dymu   celou parou ponad stôl.
+   </tei:p>
+   <tei:p>
+    Zasmial som sa. Peter sa hneval.
+   </tei:p>
+   <tei:p>
+    „No, povedz ty niečo múdreho, keď sa smeješ; môj mozog v tejto   spare nevie sa zmôcť na poriadnu myšlienku.“
+   </tei:p>
+   <tei:p>
+    Neviem, čo múdreho vystalo zo mňa, no isté je, že oprel som si   dlhú fajku o lakeť, sadol na výklenok a čítal ďalej. Peter čakal;   potom díval sa po stenách, obrazoch, vypnul hlavu, ako by niečo v   mysli snoval, náhle vstal a priblížil sa ku mne.
+   </tei:p>
+   <tei:p>
+    „Načúvaj, budem ti rozprávať. . .“ Nijaká odpoveď. Ticho.
+   </tei:p>
+   <tei:p>
+    „Bol jeden mních. . .“
+   </tei:p>
+   <tei:p>
+    Pozrel som sa hore a díval sa na usmievajúceho sa Petra.
+   </tei:p>
+   <tei:p>
+    „Ale toto je s tebou do úteku,“ dupol nohou, „mlčíš ani ryba, ako   by ti rozum zamrzol.“
+   </tei:p>
+   <tei:p>
+    Teraz bolo na mne usmiať sa.
+   </tei:p>
+   <tei:p>
+    „Hm, tak je to s knihožrútom,“ mudroval priateľ; „povedz mi aspoň,   čo budeme robiť?“
+   </tei:p>
+   <tei:p>
+    „Ja ver neviem, čo by sme. ..“ podotkol som.
+   </tei:p>
+   <tei:p>
+    „To som už dávno vedel, že nevieš, ale tým si nepomôžeme.   Mysli!“
+   </tei:p>
+   <tei:p>
+    „Pôjdeme pod lipy. . .“ „Azda do tej spary?“ „Kúpať sa. .
+   </tei:p>
+   <tei:p>
+    „Ešte je včas.“
+   </tei:p>
+   <tei:p>
+    59
+   </tei:p>
+   <tei:p>
+    ﻿„Nuž urči si sám, keď ti je moja mienka nie po vôli,“ riekol som a   čakal.
+   </tei:p>
+   <tei:p>
+    Peter sa poprechodil po izbe, zastal a hovoril:
+   </tei:p>
+   <tei:p>
+    „Posvačíme a vyberieme sa na raky.“ „Čo rozum, to. . .“
+   </tei:p>
+   <tei:p>
+    ,,. . .rak,“ pretrhol ma priateľ a spokojne si sadol na starý   kožený diván, ako by bol Boh vie akú záhadu rozlúštil.
+   </tei:p>
+   <tei:p>
+    O chvíľku priniesla nám stará gazdina občerstvenie, potom sa môj   hostiteľ vytratil porobiť poriadky. Ja šiel som vopred a čakal   spoločníkov na ceste.
+   </tei:p>
+   <tei:p>
+    Žalín s dvoma spoločníkmi dohonili ma uprostred dediny. Držali sme   sa potoka smerom k horám. Slnko pražilo nám do chrhta celou silou.   Ani slnečníky nepomáhaly. Zelinka, kvet, nať umdlene skláňaly sa pred   zážehom jeho žiare. Lúče zdaly sa bodať. Pot rinul sa nám čelom a   kráčali sme volne. Naši pomocníci išli vedia nás. Minuli sme pomaly i   viesku. Okolo potôčka na úzkej rovinke šelestilo a vlnilo sa osenie.   „Kadial pôjdeme?“ pýtal som sa. „Tadiaľto cez lavičku,“ ukazoval   Števo, bývalý kočiš. „Okolo potôčka bude nám bližšie,“ hovoril Peter,   ukazujúc rukou na smer cesty. Štefan bystro prebehol cez dve úzke, za   lávku slúžiace brvienka. Bol územčistej, okrúhlej postavy, asi 65-   ročný. Živý sťa živé striebro a hovorný ani stará babka.
+   </tei:p>
+   <tei:p>
+    60
+   </tei:p>
+   <tei:p>
+    ﻿Podla vlastného soznania slúžieval v kaštieli ešte za Petrovho   otca a prešiel postupne cez všetky stupne úradov, počnúc od kuchtu až   po kozel pánovho koča. Lež i znať bolo, že zvŕtal sa okolo pánov.   Jeho úsmev bol vymuštrovaný, i pri svojej starobe posluhoval ani   strela, hovoril „prosím ponížene“ — „ráčia“ — „pán urodzený41 — „i   veľmi“; volal „Janči“ — „Jóži“, na kone zasa „Lu-
+   </tei:p>
+   <tei:p>
+    ca“ -— „Róža“ a fúzy nosil silne vykrútené dohora. Šli sme s   Petrom niečo pozadu. Števo bol v tuhom roz-
+   </tei:p>
+   <tei:p>
+    hovore s druhým pomocníkom, rozkladal rukama a smial sa.
+   </tei:p>
+   <tei:p>
+    „Ten starý Števo je vždy dobrej vôle,“ rečiem priateľovi.
+   </tei:p>
+   <tei:p>
+    „Čo by nie? Biedy, veru, nemá. Za nebohého otca usporil si pekných   pár zlatých, kúpil si rolku, a žije ticho, bez starosti.“
+   </tei:p>
+   <tei:p>
+    „A slúžiť už nechce?“
+   </tei:p>
+   <tei:p>
+    „Ako nebožký oči zavrel, za celý svet som ho nemohol udržať; ťažko   doslúžil rok. Ale zato každý deň aj štyri razy šibne mi do maštale, a   beda paholkovi, keby našiel niečo v neporiadku.“
+   </tei:p>
+   <tei:p>
+    „A ty?“
+   </tei:p>
+   <tei:p>
+    „Ja sa smejem, a keď som dobrej vôle, volám ho „pánom išpánom“.   Potom sa začne božiť, že však sa mi on už veru neukáže na dvore, keď   sa z neho vysmievam, ale ráno nájdem ho zasa pri koňoch ako s   paholkami kriky robí.“
+   </tei:p>
+   <tei:p>
+    Druhý náš spoločník, Jano, bola iiplná protiva starého
+   </tei:p>
+   <tei:p>
+    61
+   </tei:p>
+   <tei:p>
+    ﻿Števa; strednej postavy, nahrbený, chudý. Hlavu mal strapatú, oči   drobné, malý, člapatý nos a bradu dohora k ústam shrnutú. Neholený   vyzeral značne starším než Štefan; velké ústa natrhovaly sa, ako by   sa bol usmieval. Chodil guckavo, polámané; slovom, pozrel sa človek   naň a videl až možné hranice opusteného človeka. Bojazlivý zrak a   výraz tvári zračil akúsi plačlivú flegmu, ktorá sa vyvinula časom až   po ten prostučký úsmev. Videl som ho už pár ráz u Žalína, no nepadol   mi do očú. Dnes prvý ráz, čo som bližšie neho. Pýtal som sa   Žalína:
+   </tei:p>
+   <tei:p>
+    „A tento chlapík sa zdržuje stále u teba?“
+   </tei:p>
+   <tei:p>
+    „Stále; to je môj penzista. . .“
+   </tei:p>
+   <tei:p>
+    Na rtoch sedela mi otázka; Peter hovoril:
+   </tei:p>
+   <tei:p>
+    „Za starkého opatroval rybníky a tešil sa zvláštnej jeho   pozornosti. Teraz ho mám testamentárne na starosti.“
+   </tei:p>
+   <tei:p>
+    „Ale ako mohol tvoj nebožtík priľnúť k tejto chlapme? Veď je to   stelesnený židovský strach.“
+   </tei:p>
+   <tei:p>
+    „Neviem; ako som počul, kdesi pri reštaurácii zlámali mu rebrá.   Odtedy i jachce, ba skoro by som povedal, že je blbý. Ináč však   neublíži ani kurčaťu.“
+   </tei:p>
+   <tei:p>
+    „Hm, tí starí mali rozličné gustá,“ hovoril som.
+   </tei:p>
+   <tei:p>
+    „Ale prečo? Vidíš, navykne človek. Hovorím ti, že keby som ho za   týždeň nemal na očiach, samému by mi chýbal.“
+   </tei:p>
+   <tei:p>
+    Pred nami bola zasa lavica. Prešli sme na druhý bok potôčka.
+   </tei:p>
+   <tei:p>
+    „A chytali ste vy už kedy raky?“ pýtal som sa mlčan-
+   </tei:p>
+   <tei:p>
+    62
+   </tei:p>
+   <tei:p>
+    ﻿livého Jana. Oslovený škuľnul bokom na mňa, usmial sa a hovoril:   „I, oj jeej . . . už,“ potom zajachtal dve tri slová, posledné   slabiky prehltol a usmial sa znova.
+   </tei:p>
+   <tei:p>
+    „Taák! Neraz premeral on túto cestu, keď nosil koše za pánmi na   poľovku — prosím ponížene,“ zamiešal sa do reči Števo. „Ej za   nebohého pána bolo v Hlatýne len sveta žiť,“ doložil neskôr, tak ako   sám pre seba.
+   </tei:p>
+   <tei:p>
+    „Chodievalo sem panstva, však ver?!“
+   </tei:p>
+   <tei:p>
+    „Tak, až hen z druhého konca stolice. Kočov neraz plný dvor, ani   prejsť sa nedalo. A to neboli len zkade ruka zkade noha páni. Na   dvadsiatnik nehľadel, keď išlo o diškreciu.“
+   </tei:p>
+   <tei:p>
+    „A pri reštauráciách čo ste robievali?“
+   </tei:p>
+   <tei:p>
+    „Jaá, vtedy to bolo ešte ináč! Dňom nocou sme chodili sem a tam, a   kde človek prišiel, všade muzika, hostina a spevu, až tak sa ozývalo   v dedine. Keď som prišiel domov, plný mešec dvadsiatnikov vysypal som   žene na stôl . . .“
+   </tei:p>
+   <tei:p>
+    „A kto vás to tak častoval?“
+   </tei:p>
+   <tei:p>
+    „Kto? — nuž páni, prosím ponížene. Div, že nebohého pána na rukách   nenosili. Pri ňom pamätali potom i na kočiša . . A potom, keď už   starík bol v prúde, začal rozkladať ako sa to za starodávna žilo, ako   chodili z kaštieľa do kaštieľa, hodovali, veselili sa. A pri   reštauráciách ako spili mnoho ráz celú dedinu, že „páni bratia“ v   omámení miesto koňov kravy povyvádzali z maštale, osedlali ich a   takto chceli ku voľbe.
+   </tei:p>
+   <tei:p>
+    63
+   </tei:p>
+   <tei:p>
+    ﻿Prišli sme k miestu, kde výbežok z hory delil dolinku vo dvore.   Pred slnkom zastrela nás zrazu hora, s boku ovanul nás chlad.
+   </tei:p>
+   <tei:p>
+    Na pár krokov pred nami zjavila sa píla. Staré, černavé stavanie,   opreté jednou stranou o bok hory. Vôkol stohy klátov a poukladaných   dosák.
+   </tei:p>
+   <tei:p>
+    „Števko, zabehnite mi pre piliara!“ volal Žalín, „ak mu je nie   naspech, pomôže nám.“
+   </tei:p>
+   <tei:p>
+    Štefan išiel, my kráčali sme ďalej. Potôčik tiekol ticho, bol   plytký, s podmolami a plieskami, v takýchto miestach radi zdržujú sa   raci.
+   </tei:p>
+   <tei:p>
+    Peter hľadal príhodné prúty, Jano obzeral sačky, ja priväzoval som   na prútiky mäso.
+   </tei:p>
+   <tei:p>
+    „Začneme tuto,“ hovoril Žalín a dával prúty pod moly. Vtom došiel   i piliar; Števo chytal sa sačka a stal si oproti újesti   Žalínovej.
+   </tei:p>
+   <tei:p>
+    „Ako sa darí?“ pýtal sa priatel piliara; „režete, režete?“
+   </tei:p>
+   <tei:p>
+    „No, ešte by to išlo, pán urodzený, ale neviem, čo s doskami.“
+   </tei:p>
+   <tei:p>
+    „Nuž?“
+   </tei:p>
+   <tei:p>
+    „Pečú sa na slnku a moknú. Zošúveria sa. . .“ „A prečo?“
+   </tei:p>
+   <tei:p>
+    „Ľudia nechcú voziť, že im Levko utŕha.“ Žalín krčil čelo. „A   mnoho ich leží na sklade?“ „Skoro dva tisíce.“
+   </tei:p>
+   <tei:p>
+    Postúpili sme k malému pliesku, založili sme prúty, ale raka ani   za drahé peniaze. Ak ktorý aj potrhol, ale z dier
+   </tei:p>
+   <tei:p>
+    64
+   </tei:p>
+   <tei:p>
+    ﻿nechcel. A tak to išío hodnú chvíľu. Až zrazu pribehne Števo a   volá:
+   </tei:p>
+   <tei:p>
+    „Sem prúty, tuto sú krásne miesta! Videl som so dvoch, takí boli   ako papuče. Sú na dne,“ kričal, nadstavujúc újesť.
+   </tei:p>
+   <tei:p>
+    Voda zabiehala tu pod vŕbie a odrazená tiekla pomaly. Nebolo si   možno žiadať krajšieho miesta na nadstavenie.
+   </tei:p>
+   <tei:p>
+    Každý díval sa pozorne na svoj prútik. Na protivnej strane stáli   dvaja so sačkami. Ubehlo niekoľko okamihov.
+   </tei:p>
+   <tei:p>
+    Môj prút vo vŕbí sa pohol. „Pozor!“ volám. Števo prikročil.   Zostril som zrak; prút sa hýbal, ako keby naň niekto na druhej strane   ťukal tvrdým predmetom. Poťahujem; Števo ľahol si na zem, odhrnul   trávu, lístie a díval sa do vody.
+   </tei:p>
+   <tei:p>
+    „Ale je za on — ako krpec. Len pomaly — ide — celé klepetá má   von.“
+   </tei:p>
+   <tei:p>
+    Ale prútom nemohol som ani hnúť. Zastokol sa mi na raždie — a   trhnúť? Polakám raka a zastraším ho. Čo robiť?
+   </tei:p>
+   <tei:p>
+    „Jano, skoč, skoč a tichúčko odhrň raždie!“ volal Števo.
+   </tei:p>
+   <tei:p>
+    Jano poslúchal; opatrne vkročil do vody.
+   </tei:p>
+   <tei:p>
+    „Taák — len poď — neboj sa, veď to nekúše,“ rozprával si Štefan,   „jedno klepeto založ si na mäso, druhé na prút — no, veď si ty dáš   povedať — nie si Nemec... “
+   </tei:p>
+   <tei:p>
+    „Jaaáj!“ zreval Jano, pustil raždie a vyskočil von.
+   </tei:p>
+   <tei:p>
+    65
+   </tei:p>
+   <tei:p>
+    ﻿Dívali sme ša V zadivení. Rak môj — tam! Voda zamútená...
+   </tei:p>
+   <tei:p>
+    „Lala, čoho sa ľakal, joój — aké je sprosté — hľa, tam pláva —   brnkol mu do nohy... a tak skríkol, ako by ho dral, a to len potkan;   — si mi ty len za neho — veru pekné,“ kričal Števo, uzrúc prvý   potkana utekajúceho dolu vodou.
+   </tei:p>
+   <tei:p>
+    Žalín sa smial, mne bolo ľúto raka. Obzrel som sa, za mnou sedel   poprskaný Jano. Smial sa i on.
+   </tei:p>
+   <tei:p>
+    „Bodaj si sa nestihlo aj so špatou,“ jachtal sa a otriasal krupaje   vody s košele.
+   </tei:p>
+   <tei:p>
+    Dočkali sme, kým sa očistí voda. Žalín naložil si na kríž nohy a   zapaľoval cigaru. Ja upriamil som pozor na Jan.i; Štefan ho domŕzal a   rozkladal rukama. Tento žmuikal a hniezdil sa ako na mraveništi.
+   </tei:p>
+   <tei:p>
+    Potôčik krútil sa kľukaté. Počalo nám šťastie priať. Števo behal   so sačkom sem tam, s chuťou vyťahoval a kládol do vrecka chytené   raky. Raz tu, raz tam vykukla jeho šedivá hlava zpomedzi vŕbia.   Poľakaný Jano bol opatrnejším; do vody nemohli sme ho nahnať ani za   dukát. Pomaly vystupovali sme vyššie. Medzi sliedením a vravou   zašuštilo pred nami krovie. Obvyšná, chudá, dopredu schýlená postava   zjavila sa na chodníku.
+   </tei:p>
+   <tei:p>
+    „Pomáhaj Pánboh!“
+   </tei:p>
+   <tei:p>
+    „Uslyš Pánboh! Odkialže, odkiaľ, Ondrejko?“ pýtal sa môj   priateľ.
+   </tei:p>
+   <tei:p>
+    „Veru z mesta, pán môj; Levko ma dal na právo.“
+   </tei:p>
+   <tei:p>
+    „A čo má do vás?“
+   </tei:p>
+   <tei:p>
+    66
+   </tei:p>
+   <tei:p>
+    ﻿„Mám mu dať za zbožie. . . “
+   </tei:p>
+   <tei:p>
+    „Akože vám vyšlo?“
+   </tei:p>
+   <tei:p>
+    „Ešte sám neviem, ako bude. Predvčerom mi popísali všetko, nuž hol   som sa opýtať, čo a ako.“
+   </tei:p>
+   <tei:p>
+    Vytiahol z kapsy papiere a ukázal ich Petrovi. Stálo tam, že   Ondrej bol dlžen 86 zlatých, zaplatil 72 zlatých, a pre 14 zlatých   zapravotil úžerník sedliačika, sekvestroval ho a narobil mu nových 40   zlatých útrat.
+   </tei:p>
+   <tei:p>
+    „Čože vám tam povedali?“
+   </tei:p>
+   <tei:p>
+    „Veru, pán môj, dohre ani sám neviem. Tí páni tam chudobe neprajú.   Povedali čosi o súde a poslali ma preč.“
+   </tei:p>
+   <tei:p>
+    Peter díval sa do obžaloby. „Krčmár vás žaluje na 54 zlatých,“   hovoril.
+   </tei:p>
+   <tei:p>
+    Ondrej pozrel prestrašene na nás. Ruky sa mu začaly triasť, slzy   mu svietily vo vysilených, žltých očiach.
+   </tei:p>
+   <tei:p>
+    „Ale, Bože môj, veď som mu už 72 zlatých dal,“ žaloval sa   trasľavým hlasom — „ako by to mohlo len byť?“
+   </tei:p>
+   <tei:p>
+    „Veru tak; 40 zlatých vám narobil útrat.“
+   </tei:p>
+   <tei:p>
+    Úbožiak svesil smutne hlavu. „Čo si počnem, kde sa pohnem?“ šepkal   samému sebe.
+   </tei:p>
+   <tei:p>
+    „Ale ako ste mohli za 86 zlatých zbožia nabrať?“ pýtal som sa.   pohnutý lútostou nad úbožiakom. Čakali sme. Ondrej v ťažkom zadumaní   stál pred nami. Zdalo sa, že ma nepočuje. 0 dobrú cbvílu hovoril:
+   </tei:p>
+   <tei:p>
+    „Už to trvá štyri roky. Brat mi prišiel z Dolniak z roboty málo   živý. Potom ulabol. Zbožie som si pokynožil na lieky, na pohreb, a na   jar nemali sme už čo do úst
+   </tei:p>
+   <tei:p>
+    67
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    ﻿položiť. Išiel som ku krčmárovi Levkovi a vzal som päť meríc   jačmeňa na sejivo. Spravili sme sa, že mu dám na jeseň desať meríc.   Padlo sucho, zbožia nebolo, vystavil som obbgátor, a tak to narástlo,   ani sám neviem ako . . . “
+   </tei:p>
+   <tei:p>
+    „A čo ste neprišb ku mne prv?“
+   </tei:p>
+   <tei:p>
+    „Hm, prosím ponížene, neviem ani, kde mám hlavu. Žena mi chorie,   syn mi umrel. Ide mi do zahynutia.“
+   </tei:p>
+   <tei:p>
+    „Ale na koníku môžete zarobiť pár zlatých. Dosák na píle   plno.“
+   </tei:p>
+   <tei:p>
+    „Už bo nemám,“ hovoril smutne Ondrej a zasa slzy búšily mu do očí   — „skapal mi, i kravu som musel predať na dlh.“
+   </tei:p>
+   <tei:p>
+    „A čo vás to tak dohnalo do škody?“ „Vysilil sa, keď sme vláčib z   bory drevo.“
+   </tei:p>
+   <tei:p>
+    Vo mne vrelo; rozhorčenie, žiaľ a zlosť lomcovala mi v útrobách.   Žalín sklopil oči a paličkou čmáral figúrky v piesku. Potom dívali   sme sa bez slova na úbohého. Nevedeb sme bo potešiť; skľúčene, bez   nádeje stál pred nami, zapadlé oči upieral do prázdna.
+   </tei:p>
+   <tei:p>
+    „Vysihl sa,“ šomral potichu.
+   </tei:p>
+   <tei:p>
+    Ja som sa odvrátil. Urobil som pár krokov k potoku. Nemožno mi   bolo dívať sa na úbohú obeť.
+   </tei:p>
+   <tei:p>
+    Žalín vyprával sa s ním ďalej. Len jednotlivé slová dopadaly mi do   uší. Obzrel som sa.
+   </tei:p>
+   <tei:p>
+    „Neberte si to tak k srdcu, Ondrejko, veď Pánboh pomôže; príďte   zajtra ku mne,“ hovoril mu priateľ.
+   </tei:p>
+   <tei:p>
+    Ondrej stál, pošupol si bunku. Ďakoval; hlas sa mu triasol.
+   </tei:p>
+   <tei:p>
+    68
+   </tei:p>
+   <tei:p>
+    ﻿„Nechajte, nechajte,“ bránil sa Peter, „len potom príďte!“ volal   za ním, keď tento tratil sa v kroví.
+   </tei:p>
+   <tei:p>
+    Žalín vrátil sa k nám. Na tvári sedel mu nepokoj; bolo znať, že   ľutoval úbožiaka. Mlčky stúpali sme hore potôčkom a nadstavovali   prúty.
+   </tei:p>
+   <tei:p>
+    Sačok plnil sa medzitým, nám bolo pomýšľať na zpiatočný pochod.   Slnko bolo už za obzorom, hory hádzaly tiene; sychravá páľa dňa   zmenila sa v lahodný chlad podvečierka. Okolo nás triasol sa vzduch   ako pohyb vlniek a kde tu rozsypaný obláčok obrúbený bol zlatým lemom   žiaru k západu schýleného slnka.
+   </tei:p>
+   <tei:p>
+    Obrátili sme sa domov. Spád dolinky vyžadoval rezký krok. Vysoká   hora i modravé okružie výšin kúpaly sa v nádhere nachovej zory. Vôkol   po roliach vlnilo sa osenie, šumivo, lahodne. V úzadí čiernych hôr   belel sa skromný kostolík viesky a s boku sypel, hrkotal, žblnkotal   horský potôčik a uháňal nadol. Ticho bolo všade, a jednako zdalo sa,   že cíti človek, ako nesie sa lahodný ruch po horách i dúbravách, a   čuje zvuky skvostné, lietajúce i hore v ovzduší i tu dolu po krásach   rozvitej prírody. Keď dochodili sme k dedinke, z hôr niesol sa už   chlad na tiché chalúpky vesťou večerného súmraku.
+   </tei:p>
+   <tei:p>
+    „Nepôjdeš so mnou k árendátorovi?“ pýtal sa Peter, „musím sa s ním   rozprávať o tie dosky. Všetky mi zhnijú.“
+   </tei:p>
+   <tei:p>
+    „Myslíš toho, čo sa tak o toho Ondreja postaral?“ „Áno.“
+   </tei:p>
+   <tei:p>
+    ,,Nedbám, poďme!“
+   </tei:p>
+   <tei:p>
+    69
+   </tei:p>
+   <tei:p>
+    ﻿Na výstrel výše Žalínovho hniezda bola krčma. Nie zlé, nie dobré   stavisko, ako kam mnoho ľudí chodí. S boku bol dvor, uzavrený   hospodárskymi stavaniami.
+   </tei:p>
+   <tei:p>
+    Levko, árendátor, bol práve na dvore. Zbadal nás a spechalťarbavým   krokom v ústrety. Bol strednej výšky, s červenkavými vlasmi a až   hnusnou tučnotou napadnutý človek. Mäsitý podbradok zakrýval mu   krátky chlpatý krk. Zamastený náprsník len tolko, že objal veľké   brucho; kde tu mal i gombíky poodtŕhané. Bol v negližé — v habatkách.   Jeho pohyby prezradzovaly neokresanú, utajenú pýchu; mäsom obejduté   oči vykúkaly mu zpod obŕv ako okrúhle gombíky, no zato dívaly sa   hlboko, nebezpečne. Celý sa uparil, kým k nám došiel. Fučal.
+   </tei:p>
+   <tei:p>
+    „Aké to šťastie, takých vzácnych hosťov,“ klaňal sa Petrovi,   „prosím, prosím, nech sa páči sem, do bočnej izby; tam sú sedliaci,   korheli,“ ukazoval nalavo a otváral napravo dvere.
+   </tei:p>
+   <tei:p>
+    „Máme tu neporiadok,“ dychčal šušlavým prízvukom, „páni odpustia —   ako pri robote.“
+   </tei:p>
+   <tei:p>
+    Stieral napochytre so stola prach a odhŕňal oči urážajúce červené   záclony.
+   </tei:p>
+   <tei:p>
+    „Fuj, ale je dusno, až tak so mňa tečie,“ žaloval si sadnúc   si.
+   </tei:p>
+   <tei:p>
+    Zadíval som sa naň; bodavé jeho oči bebaly sem a tam. TJsta mal   nastrojené ku smiechu; červeným ručníkom utieral si plnú tvár.
+   </tei:p>
+   <tei:p>
+    V izbe bol najväčší neriad. Na posteliacb spočívaly kopy spodných   šiat; na stoliciach klobúky, zaobuv, tác-
+   </tei:p>
+   <tei:p>
+    70
+   </tei:p>
+   <tei:p>
+    ﻿ne; na zemi dieže s bryndzou, hrnce s husím tukom, sklenice,   poháre, a čo doplnok, práve nad hlavou Levkovou visel na klinci   zavesený veniec cesnaku. Dojem celku vrcholil v nepríjemnom, až do   nevystátia dráždivom puchu.
+   </tei:p>
+   <tei:p>
+    Levko hol shovorný; mal azda zásadu, že hosťov treba zabávať.   Konečne, nemôžuc sa dočkať začiatku, pýtal sa:
+   </tei:p>
+   <tei:p>
+    „Rozkážu azda niečo, pán urodzený?“ Mluva mu išla sladko, no dával   na vedomie, že nechce zadať ani sebe. Po dokončenej vete sa obyčajne   trochu nahnul a mnul si ruky.
+   </tei:p>
+   <tei:p>
+    „Bol som na píle,“ hovoril Žalín, „piliar sa mi ponosoval, že sa   nevozí. Dosky hnijú, šúveria sa. Prišiel som ich upamätovať na   kontrakt.“
+   </tei:p>
+   <tei:p>
+    Levko pokrčil nosom. „Nechce mi svet ísť, pán urodzený, a potom   som aj pozabudol. Nech mi ráčia veriť, toľko starostí mám na   hlave...,“ a árendátor vošiel si rukou do kučeravých vlasov.
+   </tei:p>
+   <tei:p>
+    Peter pozrel ostrejšie hore a hovoril: „Chcú povedať, že ľudia hy   išli, len že im utŕhajú na furmanke?“
+   </tei:p>
+   <tei:p>
+    Levko vyskočil; cítil sa byť naj výš urazený.
+   </tei:p>
+   <tei:p>
+    „Ale ja že neplatím, pán urodzený? Ukrivdil som ja koho, čo by len   o krajciar? To je takto:. . . ale načo i hovoriť? Sedliakovi sa   nezaslúžiš, sedliak je korheľ. Nech mi veria, že toľko platím, —   toľko, že až hanbím sa hovoriť, aby ma svet nevysmial. Nezarobím ani   pod neht, ani toto,“ a luskol dvoma prsty o nehty. „Len aby človek so   sedliakom mal pokoj!“ dodal melodickým vzdychom, a oči mu svietily,   ako by ublížením.
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿„O tom je škoda hovoriť,“ zastavil bo priateL „Sedliaci rad radom   si sťažujú. Nech pamätajú len na kontrakt. Alebo pristanem i na to,   že zrušíme záväzok. Dosky hniť len nemôžem nechať.“
+   </tei:p>
+   <tei:p>
+    Petrov hlas znel prísne. Árendátorom trhlo. Prudko pozrel na   Žalína, no keď videl, že on to doopravdy mieni, urobil statočnú tvár   a riekol:
+   </tei:p>
+   <tei:p>
+    „Keby tu neišlo o slovo a statočnosť, veru by som si to rozmyslel;   ale slovo je slovo a Levko Eisenštein slovo drží,“ dodal s prídavkom   sebavedomia a pošucbol sa na stoličke.
+   </tei:p>
+   <tei:p>
+    I ja i Peter porozumeli sme metafore árendátora, no nechali sme ju   bez poznámky.
+   </tei:p>
+   <tei:p>
+    Eisenštein obrátil potom reč na druhé predmety. Jeho slová   prizvukovaly ponosy, biedu, hanu. Jajkal, až sa bory zelenaly. My   však boli sme iných náhľadov; ba dalo sa mu tušiť, že je mnoho Iudí   na svete, ktorí hlivia, leňošia, bohatnú. I zasa vzplanula tvár jeho   urazením, ublížením, a kto vie čím ešte.
+   </tei:p>
+   <tei:p>
+    „Dobre sa im smiať,“ hovoril rozhorlene, „páni vyberú si árendu,   vyzdvihnú mesačný plat; ale ja, ja musím platiť ešte i od toho, aby   som robiť a žiť mal na čom. Robotník je vo Iný, Pánboh šťastím   vládne, a hoci sa aj dorobí, neni kupca — daj darmo, a so sedliakom   niet čo začať. Kým žuje, čuje, ale keď prehltol, nestará sa aby   zaplatil. Keby vedeli, aké dobrodenie ja tým luďom preukazujem, kolko   im dám zarobiť, ale rob, čo chceš...! Kto sedliaka zná. ..!“
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿Árendátor prešiel po tejto reči dva tri razy po izbe, odfúkol si a   pokračoval:
+   </tei:p>
+   <tei:p>
+    „A čo povedia na to pán urodzený? Dal som predlani vyše sto meríc   zbožia medzi ľudí. Chodili, prosili, a ja blázon, dám sa na čokoľvek   nahovoriť. Dobrý človek aby sa radšej ani na svet nenarodil (bľusnul,   domnievajúc sa, že mu to neuveríme), a teraz už tretí rok, čo nevidím   kraj čiara. Sedliak je huncút. . ., kto bo nezná, draho by ho   kúpil.“
+   </tei:p>
+   <tei:p>
+    Podobné refrény zelenej nenávisti opakovaly sa ako Catove „ceterum   censeo“. My nechceli sme podpísať árendátorove náhľady. Povstaly   rozdiely v náhľadoch. Rozhovor bral širšie smery, každý zastával   svoje. V prúde hovoru vrzly dvere a ktosi volal: „Mladý pánko, aby   išli do šenku!“
+   </tei:p>
+   <tei:p>
+    Levko sa schytil a nechal za sebou poloodchýlené dvere. V izbe   bolo šero, nehovorili sme nič; zvonku bolo očuť Levko v hlas:
+   </tei:p>
+   <tei:p>
+    „Vítaj, Jakub; teda si sa už vrátil zo zárobkov?“ „Už veru s božou   pomocou, mladý pán.“ „Ako sa ti darilo?“ „Len pomaly: ako v cudzom   svete.“ „A boly zárobky?“ „Veru dosť malé. Zimnica nás trápila.“ „No   . . ., no že si len prišiel: prišiel si azda o poriadok?“ „Rád by som   veru, aby som si to shodil s krku.“
+   </tei:p>
+   <tei:p>
+    „No to sa mi ľúbi, poriadok nado všetko; i ja to rád. . . poď do   izby.“
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿Vo zvedavosti pootvoril som dvere. Vonku bolo ticho. „No, sadni   si, veď to nestojí peniaze; tak. .. pôjdeme k oknu, aby sme lepšie   videli,“ očuli sme Levkov hlas. Neskôr zasa hovoril ten istý: „Daj   pozor! Keď si sa vyberal, dal som ti štyri zlatky na dve merice žita.   Však je tak? To sú teda dve merice žita. Poďme ďalej! Okrem toho pri   rozlúčke mal si päť litrov páleného. To je jedna zlatka.“ „Ba zdá sa   mi, že len štyri.“ „Pozri sa, tu máš!“ ukazoval mu hebrejské značky z   knihy. „Lala, akej je dobrej vôle! Musel mnoho vyrobiť, keď sa mu   chce vystrájať žarty,“ bránil Levko svoju položku. Potom riekol   vážne: „A či ty Levka nepoznáš?“ Jakub bol odzbrojený; neodpovedal.   Veriteľ rozprával ďalej: „Potom dal som ti päť meríc jačmeňa do   sejby. Máš mi dať za to desať.“ „Čo by som tajil, tak je.“ „Ale   čakaj, najprv sa ťa opýtam: dáš mi zbožie, alebo zaplatíš v   hotových?“ Dlžník chvíľku mlčal. „Peniaze by som dal, mladý pán. Však   vedia, že o Anne zbožia nieto.“ „No, dobre, dobre, veď ťa ja nesilím.   Ja som, akým sám chceš. Takého blázna niet v troch stoliciach; moja   dobrota ma už mnoho peňazí stála.“ Keď Jakub mlčal, veriteľ   pokračoval: „Teda, keď budeš platiť hotovými, obrátim to na pe-
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿niaze. Dve merice žita 8 zl., 1 zl. za pálené, desať meríc jačmeňa   je 25 zl.; dohromady 34 zl.“
+   </tei:p>
+   <tei:p>
+    „Ale mladý pán,“ znel hlas dlžníkov, „nech to počítajú ináč, veď   na jar neboio tak zbožie.“
+   </tei:p>
+   <tei:p>
+    „A čo ty na jar platíš?“ skríkol Levko. „Nevieš, že teraz je   zbožie drahšie?“
+   </tei:p>
+   <tei:p>
+    „No tak je; ale veď im pekné interesy platím. Môžu ma tiež   upovážiť.“
+   </tei:p>
+   <tei:p>
+    „A pováži ťa kto v dedine tak ako ja? Išiel si odo mňa prázdno?   Čo? Povedz! Treba soli — dám; treba sejiva — dám; treba trúnok — dám;   treba peniaze, omastku, zemiaky, kto dá? Však len Levko? Dá ti kňaz   alebo rechtor?“
+   </tei:p>
+   <tei:p>
+    Potom prestal, aby o chvíľu započal:
+   </tei:p>
+   <tei:p>
+    „Ale ja viem, poznám ťa, ty si múdry človek, ale si len žarty so   mnou vystrájaš. Zvoľnel si; muselo sa ti dobre vodiť. No,povedz,   činení tak, či Levko pravdu nehovorí? Vieš si to ty dobre rozvážiť,   že ti ja darmo čakať nemôžem. Buď rád, že som ti pomohol; darmo len   žobráci berú. Alebo, ako chceš, dobre, nech je na tvojom — hovorím,   že moja dobrota ma už mnoho peňazí stála — daj mi zbožie, a ja budem   i s tým spokojný.“
+   </tei:p>
+   <tei:p>
+    Sedliačilc mlčal: pristal. Levko počítal ďalej:
+   </tei:p>
+   <tei:p>
+    Teda to je 34 zl.; okrem toho máš mi dať od volov dve merice raži,   to je 6 zl., dva dni roboty 5 zl....“
+   </tei:p>
+   <tei:p>
+    „To nechajme, mladý pánko, až na všesvätský poriadok. Až keď z   burgyne prídem. . . “
+   </tei:p>
+   <tei:p>
+    „Aj máš čosi starého dlhu; dočkaj ... 16 zl. je toho. . . “
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿„Dobre, dobre, však netajím. Ale teraz nemám. . .“
+   </tei:p>
+   <tei:p>
+    „Neboj sa, veď ja nič. Ale vieš, poriadok je poriadok. Máš mi dať   24 zl., od volov 11 zl. a starého dlhu 16 zl.; to len 61   zlatých.“
+   </tei:p>
+   <tei:p>
+    „Ale ja by som. . .“
+   </tei:p>
+   <tei:p>
+    „Načúvaj, nepretrhuj ma v reči, veď ja pristanem, na čom chceš.   Keď mi nedáš ani krajciara, i tak bude dobre. Teda koľko chceš teraz   platiť?“
+   </tei:p>
+   <tei:p>
+    „Nemám iba 20 zlatých.“
+   </tei:p>
+   <tei:p>
+    „No, vidíš, i tak je dobre. Zostaneš mi dlžen 41 zl. To je už   poriadok. Plať, kedy chceš; Levka môžeš i naopak obrátiť, ako rukáv   na kabáte. Len sa mi tuto podpíš.. . vieš, sme smrteľní. . . a bude   dobre. . .“
+   </tei:p>
+   <tei:p>
+    Odpoveď som nedopočul. Krútila sa mi hlava. Za chvíľu árendátor   bol už medzi nami; oči sa mu smialy. Azda ten „poriadok“ mu išiel k   duhu.
+   </tei:p>
+   <tei:p>
+    Keď octli sme sa na ceste, pýtal som sa:
+   </tei:p>
+   <tei:p>
+    „Teda tak je to s tým zbožím? Prečo si ho len nezavrátil?“
+   </tei:p>
+   <tei:p>
+    „A načo? Čo tým vyhrám? Radšej nepoviem nič, a dozviem sa, čo títo   páni majú za lubom. Hlavou múr prebíjať — márna námaha.“
+   </tei:p>
+   <tei:p>
+    Nechcel som vyvracať priatelove náhľady; neskôr pýtal som sa:
+   </tei:p>
+   <tei:p>
+    „Ale snesie sa to s tvojím svedomím trpieť túto hyenu vo vlastnej   krčme?“
+   </tei:p>
+   <tei:p>
+    „Hm, snesie, nesnesie; a keď musím. . . ?“
+   </tei:p>
+   <tei:p>
+    Pozrel som udivene naňho.
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+   <tei:p>
+    ﻿„Vidíš, môj nebožký bol často v peňažných nesňádzach. Voľby,   reštaurácie, inštalácie, kongregácie — a čo ja viem, koľko mali tí   starí tých ,,-cie“, hrnuly sa ako ľudia na jarmok, a to všetko bolo   spojené s výdavkami. I dostal v takúto chvíľu terajší árendátor krčmu   i s regálom na dvaatridsať rokov do prenájmu za štyri tisíce zlatých!   Kým nesíde srok, povedz mi, kto ho pohne odtiaľ?“
+   </tei:p>
+   <tei:p>
+    Nevedel som dať odvety. Priateľ hovoril ďalej:
+   </tei:p>
+   <tei:p>
+    „A keď mu vyjde srok, čo mu urobím? Už dnes má pol dediny v kapse   a rolí dva razy toľko čo ja. Ak ho vypudím, nuž pôjde, keď bude   musieť, no spustoší celú dedinu a strhne za sebou ľud. On pôjde,   zavedení úbožiaci budú musieť. . .!“
+   </tei:p>
+   <tei:p>
+    Neriekol som nič. Cez kosti prebehol mi mráz. Ľutoval som ten ľud,   tú moju krv a kosť. On je sirota, ale taká, že ani macochy nemá.
+   </tei:p>
+   <tei:p>
+    Slnko už zamrelo na horách, keď vchodili sme do dvorca. Šli sme   jeden pri druhom ticho, bez slova. Neveselé myšlienky vírily mi v   hlave. Zvonili na večer, z hôr vanul chlad, ľudia z dennej práce   ponáhľali sa pod tiché, skromné krby. . .
+   </tei:p>
+   <tei:p>
+    Po večeri bolo mi úzko v tesnej izbe; vyšiel som pod lipy. Mesiac   v úplnku plával nad čiernym hrebeňom hôr. Na lúkach dvíhala sa ľahká,   biela hmla. Vôňa lúčnych kvetín a ševel stromovia šíril sa ovzduším.   Na okolí spo-
+   </tei:p>
+   <tei:p>
+    77
+   </tei:p>
+   <tei:p>
+    ﻿číval striebristý, priesvitný závoj mesačných lúčov. Dýchal som   plnými pľúcami vonný, korenný vzduch. Okolo mňa kedy tedy prešiel   unavený robotník alebo tichým hrkotom nákladný voz. Na nebo   vyskakovaly hviezdy, ako kvety za májovej noci na lúke, a tichým,   iskrivým leskom žiarily na tichú, horskú dedinku.
+   </tei:p>
+   <tei:p>
+    Bolo mi tak dobre samotnému. Duma svedčí človeku najlepšie vtedy,   keď okolo neho všetko spí. Načúval som, ako by som bol chcel schopiť   tlkot srdca matky zeme. Celý svet samá vznešenosť, samá idea; protivy   a drsné úzadie zmizlo. Mier. . . pokoj; škoda, že len do rána.
+   </tei:p>
+   <tei:p>
+    Zo zadumania vytrhol ma pozdrav. Obzrem sa, predo mnou zmätený   Ondrej, držal v ruke klobúk. Vedia neho stálo chlápä v chudobnom,   ošumelom odeve.
+   </tei:p>
+   <tei:p>
+    „Mysleli ste, že to Žalín, však?“ prihovoril som sa mu čo možno   najvlúdnejšie.
+   </tei:p>
+   <tei:p>
+    „Veru, pán môj; v noci lahko zmýli sa človek.“ „No nič preto.   Odkiaľ, Ondrejko?“
+   </tei:p>
+   <tei:p>
+    „Bol som u sestry; čosi sa roznemohla.“
+   </tei:p>
+   <tei:p>
+    Pozrel som hore. Svetlo mesiaca dopadalo mu rovno v tvár. Taká   bola bledá. ..
+   </tei:p>
+   <tei:p>
+    Pri ňom stojací chlapec držal sa otcovej hune, ako by sa ma   bál.
+   </tei:p>
+   <tei:p>
+    „A toto chlapča je vaše?“ pýtal som sa.
+   </tei:p>
+   <tei:p>
+    „Veru, moje, pán môj,“ odpovedal a hladil ho po hlave. „A kolko   máte detí?“
+   </tei:p>
+   <tei:p>
+    99 Hja, dosť... mnoho... sedmoro; ako chudobný človek.“
+   </tei:p>
+   <tei:p>
+    78
+   </tei:p>
+   <tei:p>
+    ﻿„Ákoťa volajú, šuhajko?“ dozvedal som sa, vystierajúc po chlapcovi   ruku.
+   </tei:p>
+   <tei:p>
+    Chlápä schovalo sa za otca. Nedôverovalo mi.
+   </tei:p>
+   <tei:p>
+    „No, nehoj sa, povedz, že Štefan,“ posmeľoval ho otec, „veď sú to   dobrý pán.“
+   </tei:p>
+   <tei:p>
+    Vytiahol som striebornák. „Na — hovorím — nech ti mamka kúpi na   košeľu,“ a podával som mu.
+   </tei:p>
+   <tei:p>
+    „Daj páčku tomu pánovi a bozkaj ruku,“ ťahal ho otec ku mne.
+   </tei:p>
+   <tei:p>
+    „Nechajte, Ondrejko, však sa on i tomu priučí,“ riekol som,   hladiac chlapcovi vlásky.
+   </tei:p>
+   <tei:p>
+    Hlásnik trúbil práve desiatu.
+   </tei:p>
+   <tei:p>
+    Ondrej sa odobral a spiechal hore dedinou.
+   </tei:p>
+   <tei:p>
+    Ja hladel som za ním, až mi zmizol s očí, no tá bledá tvár   nevychádzala mi z umu.
+   </tei:p>
+   <tei:p>
+    Myslím, myslím; zrazu dotkne sa mi ucha tiahly, smutný spev. Rodil   sa tam kdesi na horných lúkach. Načúval som:
+   </tei:p>
+   <tei:p>
+    „Bože môj, Otče môj, však je ten svet zmotaný!“
+   </tei:p>
+   <tei:p>
+    I tak bolo mi bôlno u srdca. Sklonil som hlavu do dlaní, a ťažká   duma tiahla mi dušou. . .
+   </tei:p>
+   <tei:p>
+    79
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944474" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Záhadná Agáta II: hra pokračuje : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84161303">
+     Detrich, Július (1874 - 1946)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     12245
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Detrich, Július
+     </tei:author>
+     <tei:title>
+      Záhadná Agáta II: hra pokračuje
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      S T. ŠROBÁR
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Hra pokračuje
+    </tei:head>
+    <tei:head>
+     Pokračovanie románu Záhadná Ägáfa.
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿I
+    </tei:head>
+    <tei:p>
+     Kocúr Miško sa nemohol udomácniť v hotelovej izbe pri Irene.   Splašene skákal sem-ta. Irena sa sotva dočkala rána. Počítala s tým,   že Agáta prišla nočným rýchlikom. Preto ráno, len čo sa rozvidnilo a   slnko vyhuplo zpoza hôr, vzala Miška a ponáhľala sa k vile Agáte.   Cestou sa zaoberala svojím poslaním, do ktorého sa dostala temer   proti svojej vôli. S jasnou skutočnosťou vedela hodnotiť svoje   postavenie s obidvoch strán. Najjasnejší jej však bol jej postoj voči   Larnovi, ktorého city voči nej a naopak neboly vôbec také, aké si   azda predstavovala v čase, keď nevedela o ňom skoro nič. S jej strany   to nemohla nazvať láskou. A kryštalizovať svoje city voči nemu nemala   príčin. Larn bol už vonku, keď vyšla. Stretla ho pred hotelom. Ako by   bol čakal na tento okamžik. Inokedy bola by ho rada videla, no nie z   hlbších citov, ale skôr z konverzačnej nevyhnutnosti. Pozdravil sa   jej hneď, ako vychádzala, a pripojil sa k nej bez váhania. Irena   cítila v tomto okamihu rozhodnutie.
+    </tei:p>
+    <tei:p>
+     Povedal:
+    </tei:p>
+    <tei:p>
+     5
+    </tei:p>
+    <tei:p>
+     ﻿— Nechápem, ako ste sa mohli rozhodnúť prísť do Ľubochne po našom   rozhovore. Či ste vôbec nemali v úmysle zaujať to stanovisko, aké som   mal na ume? Elena váhavo odpovedala: — Nechcem byť viazaná. A okrem   toho u Remira nechcem vzbudzovať nijaké nádeje. Nie je to v mojej   povahe. — Nerozumiem. — Jasne povedané: Chcela som ujsť z prostredia,   kde ma po našej schôdzke všetko svieralo. Musíte pochopiť. Nič   horšieho niet nad neistotu. — Chápem vašu obavu, ale predsa ste mali   mať tolko porozumenia. Veď ide o nás dvoch. Či sa azda mýlim? —   Predpokladali ste hádam také niečo? Keď áno, prečo? Myslíte, že naše   schôdzky boly predzvesťou hlbších citov? Ak sa tak nazdávate, klamete   sa. — Irena! Je to možné? — zvolal polozúfalo. — Za takých okolností,   aké sa stály áno, lebo neverím, že by ste boli mohli tak pokračovať,   ako ste urobili, keby ste boli mali niektorú ženu tak rád, akú lásku   sa mne snažíte nahovoriť. To nie je pravdepodobné! Larn mlčal.   Spomalil kroky. — Možno máte pravdu, — povedal. — Ale počítam s vašou   mlčanlivosťou. — O tom niet pochybností, — odpovedala Irena chytro. —   Bude dobre, keď toto bude naša posledná schôdzka ... Nechcem sa   kompromitovať a nechcem byť pre nejaký omyl vtiahnutá do nejakej   pochybnej aféry! Larn mlčal. A Irena žasla nad svojou odvahou a   Rozhodnosťou, akou mu to povedala. Nemohla zniesť jeho prítomnosť.   Povedala dodatočne:
+    </tei:p>
+    <tei:p>
+     6
+    </tei:p>
+    <tei:p>
+     ﻿— S Bohom.
+    </tei:p>
+    <tei:p>
+     Ale ruku mu nepodala. Temer s neopísateľnou hrôzou konštatovala,   že nerobí správne, ak zostane pri záväkoch, ktoré jej Remir ako tajnú   službu uvalil na plecia. Nemala v tejto chvíľke odvahu vyžadujúca   dvojakú hru.
+    </tei:p>
+    <tei:p>
+     Larn šiel ešte stále s ňou. Potom odbočil a bez slova sa rozišli.   U Ireny táto divná rozlúčka zanechala neujasnenosť a drtivú   stiesnenosť, hraničiacu strachom. Len neskôr si to uvedomovala. V   tejto stiesnenosti a podvedomého strachu šla hodný kus alejou,   hľadajúc východisko k samostatnosti a nezávislosti. Rozhodla sa   zavolať telefonicky Remira a požiadať ho, aby ju zbavil služby a   zodpovednosti. Touto nádejou sa čiastočne uspokojila. Predovšetkým   chcela odovzdať Miška. Pod tlakom tohto rozhodnutia pridala do kroku,   vyhľadávajúc pohľad na vilu Agátu.
+    </tei:p>
+    <tei:p>
+     Ale medzitým ing. Marvan vyzeral oknom zo svojej izby. Vidiac viac   z okna, položeného o poschodie vyššie, najmä, keď vila Kovalského   stála na vršku. V záhrade vily Agáty videl Agátu so psami chodiť   popri plote. Zdalo sa mu, že ich soznamuje s priestorom okolo   vily.
+    </tei:p>
+    <tei:p>
+     Vyšiel von, ale nemal úmysel ísť hneď k vile Agáte. Obišiel preto   chodníkom Kovalského vilu a kráčal do úbočia. Tu sa stretol s Larnom,   ktorý, rozíduc sa s Irenou, vracal sa zpät do hotela.
+    </tei:p>
+    <tei:p>
+     — Mám veriť náhode, že sme sa tu stretli? — spýtal sa Larn s   akýmsi významným tónom, ktorý Marvan si nevšimol.
+    </tei:p>
+    <tei:p>
+     — Náhoda vedie dohadom, — odpovedal ing. Marvan.
+    </tei:p>
+    <tei:p>
+     — Rád by vedel, k akým?
+    </tei:p>
+    <tei:p>
+     Marvanovi jeho tón zoživel predošlú prvú otázku, čo
+    </tei:p>
+    <tei:p>
+     7
+    </tei:p>
+    <tei:p>
+     ﻿bolo príčinou, že sa pozastavil pri ňom a dohadoval sa po príčine,   prečo Larn tak povedal.
+    </tei:p>
+    <tei:p>
+     Ale Marvan nemal ani zdania o zákulisí.
+    </tei:p>
+    <tei:p>
+     Preto povedal s jasnou skutočnosťou:
+    </tei:p>
+    <tei:p>
+     — Keď som videl Irenu a teba, nuž bol dohad veľmi jasný!
+    </tei:p>
+    <tei:p>
+     — Aký? Jasný? — zachvel sa Larn.
+    </tei:p>
+    <tei:p>
+     Marvan sa zasmial.
+    </tei:p>
+    <tei:p>
+     — No, dohovor som v tom videl!
+    </tei:p>
+    <tei:p>
+     — Medzi mnou a Irenou?
+    </tei:p>
+    <tei:p>
+     — Veď je to pochopiteľné!
+    </tei:p>
+    <tei:p>
+     Larn sa uspokojil.
+    </tei:p>
+    <tei:p>
+     — Mýliš sa. Práve sme sa rozišli! Nebol to nijaký dohovor, ale   náhoda! Nechápem, kedy prišla Irena. Kde si sa s ňou stretol?
+    </tei:p>
+    <tei:p>
+     — Prišla autom, — povedal ing. Marvan. Ale viac však nič   nepovedal. Postriehol zvláštny rýchly kmit v Lámových očiach a   udivená otázka hovorila mnoho.
+    </tei:p>
+    <tei:p>
+     — Au-tom??
+    </tei:p>
+    <tei:p>
+     Marvan prisvedčil.
+    </tei:p>
+    <tei:p>
+     — Autom? Autotaxou? — vyzvedal chytro.
+    </tei:p>
+    <tei:p>
+     Marvan vtedy pochopil, že je istý rozdiel prísť autodrožkou, alebo   vojenským autom. V tomto videl Larnov krok k akémusi povedomému   tušeniu, ktorý s jeho strany mohol hodnotiť len ako číry dohad.
+    </tei:p>
+    <tei:p>
+     — No, istotne, — povedal. — Či ju mal niekto priviesť? Je to pekná   žena! Rád by ti čoskoro gratuloval!! — dodal Marvan s významným   tónom. Ale pretože zazrel Irenin svetlý šat v aleji, podal mu ruku na   rozlúčku.
+    </tei:p>
+    <tei:p>
+     — Veď sa ešte uvidíme! — povedal, ako by sa náhlil. Larn podávanú   ruku stisol, mal ju vlhkú, Marvanovi na-
+    </tei:p>
+    <tei:p>
+     8
+    </tei:p>
+    <tei:p>
+     ﻿padlo, žeby mal s ním dlhšie zostať. Ale keď Larn na jeho poslednú   otázku neochotne čosi zabručal, dal radšej prednosť porozprávať sa s   Irenou, ktorej rátal, príde do cesty, keď výjde úzkym vychodeným   chodníčkom v miernom úbočí.
+    </tei:p>
+    <tei:p>
+     Keď však prišiel bližšie, videl, že Irena je už v spoločnosti   Agáty. Zbadala ho a zakývala na neho. Nebolo možno vyhnúť. A koniec   koncom ani nemal dôvod.
+    </tei:p>
+    <tei:p>
+     Zo záhrady vybehol Lord. Na hube mal košík.
+    </tei:p>
+    <tei:p>
+     Marvan si to len mimochodom všimol, lebo do toho vtislo sa   vzájomné predstavovanie, i keď istá známosť medzi Marvanom a Agátou   už predtým bola, obaja túto známosť nedali najavo. Agáta strnulé   pozrela sa mu do tvári. Marvan si to vysvetľoval ako akt, preň nie   práve významný.
+    </tei:p>
+    <tei:p>
+     — Pán inžinier Marvan, — povedala do toho Irena, — má veľký podiel   na prenesení Miška. Lebo niet jeho, sotva by som ho udržala. Tak sa   hádzal. Mala som aj kufor, ktorý mi potom pán inžinier pomohol niesť,   Agáta!
+    </tei:p>
+    <tei:p>
+     — Ďakujem vám, — povedala Agáta.
+    </tei:p>
+    <tei:p>
+     Celé predstavovanie a poďakovanie z Agátinej strany bolo suché.   Marvan cítil túto suchosť obzvlášť veľmi. Preto nerád zdržoval. Chcel   sa odporúčať. Avšak k tomu nedošlo. Tak, ako Marvan bol upútaný   statným psom, Lordom, tak Agáta sa zahľadela na jeho hubu, držiac ju   vo vzduchu, ako by čosi čuchal. Takýto znak Agáta už poznala. Ale   Marvan nie. .
+    </tei:p>
+    <tei:p>
+     Lord sa priblížil bližšie, ňuchajúc stále čosi. Keď sa dostal   tesne k Marvanovej blízkosti, zaňuchal jeho pravú ruku, zaskučal a v   nasledujúcom okamihu skočil na neho.
+    </tei:p>
+    <tei:p>
+     9
+    </tei:p>
+    <tei:p>
+     ﻿— Lord! — zvolala prenikavo Agáta, tušiac blízkosť príčiny, pre   ktorú sa to stalo. Ale v skutočnosti aj ona bola ďaleko od   pravdy.
+    </tei:p>
+    <tei:p>
+     Marvan psa odsotil nabok, ale ten opäť poňom skočil. Marvan   prudkou ranou ho druhý raz odrazil tak, že zostal ležať na zemi, no   nie zranený, ale v snahe strhnúť košík s pysku. Trhal ho prednými   mohutnými labami celou silou. Agáta dala chytro Miška Irene a chytila   Lorda za ohlávok. Potom sa narovnala a pes s ňou, čiastočne   uspokojený. Zdvihla svoje oči k Marvanovi a s výčitkou povedala:
+    </tei:p>
+    <tei:p>
+     —, Nevystríhala som vás?
+    </tei:p>
+    <tei:p>
+     Marvan oprášil svoje čaty a povedal: — Nič sa nestalo. — Mohlo sa   to zle skončiť! — povedala Agáta, kým Irena tento výjav pozorovala s   úžasom a trápnou mlčanlivosťou. Nijako si to nevedela vysvetliť.   Lord, i keď bol čiastočne utíšený, priplichtil sa opäť k jeho pravej   ruke, ktorú Marvan mu dal ňuchať, vidiac psov inštinkt v   priplichťovaní. Agáta z počiatku nechápavo pozorovala tento Marvanov   úskok a odťahovala psa, ale keď Marvan pokynul jej, aby nechala,   uhádla, že sa zaoberá dohadmi. — Nič som mu nespravil — povedal ing.   Marvan. — Ako je to možné! Lord, sa volá? — Nesmiete sa soznamovať s   ľuďmi! — odvetila Agáta — a ani nereaguje na volanie, hoci by to bolo   jeho správne meno, keď ho volá niekto cudzí! Marvan potom dal mu   zavoňať jeho ľavú ruku a hneď zase pravú. Zaujímavým bolo, že Lord   zlovestne vrčí len pri ňuchaní pravej ruky.
+    </tei:p>
+    <tei:p>
+     10
+    </tei:p>
+    <tei:p>
+     ﻿Agáta si to povšimla. Chytro sa spýtala: — Komu ste podávali   ruku?
+    </tei:p>
+    <tei:p>
+     — Nikomu. — povedal Marvan a uvažoval, kam siaha toto chytré   dievča svojim počínaním. — Nikomu — a predsa niekomu. — podotknul   neskoršie.
+    </tei:p>
+    <tei:p>
+     — Komu?
+    </tei:p>
+    <tei:p>
+     — Pánu Larnovi!
+    </tei:p>
+    <tei:p>
+     Agáta temer skríkla: — On je tu??
+    </tei:p>
+    <tei:p>
+     A tým prezradila pred Marvanom ďalšiu nitku sieti, ktorou je   opradená zákulisná skutočnosť vily Agáty a jej obyvateľov.
+    </tei:p>
+    <tei:p>
+     — Prepáčte — omlúvala sa Agáta chytro. — Nechcela som tak zvolať.   To pod dojmom udalosti. Prepáčte. Musím vás nechať. — a vzala Miška   od Ireny, prikázala Lordovi prísne ísť vopred. Šiel skrúšene s takou   poslušnosťou, ako len zviera s vrodenou inteligenciou bolo schopné.   Keď Marvan s Irenou ostali sami, rozložil nechápavo rukou a spýtal sa   jej: — Jej správanie je zvláštne! Irena sa zľahka usmievala. Tak   zľahka, že to sotva bolo vidieť. Urobila niekoľko krokov dolu alejou,   kým ľahko podotkla: — Mne nie. — Vám nie? — Nie. Pretože jej   správaniu rozumiem! Takéto vysvetlenie pokladal Marvan za neúplné.   Preto povedal: — Nerozumiem tomu. Čo, keby ste mi to vysvetlili?
+    </tei:p>
+    <tei:p>
+     11
+    </tei:p>
+    <tei:p>
+     ﻿Irena pokračovala pomaly alejou bez slova. Trvalo to dlhšiu   chvíľku, kým dostal Marvan kúsavú odpoveď. — To sa nedá vysvetliť.   Len ... — Len? — Nenaliehajte prosím! — Prepáčte, nechcel som. Nemám   tušenia o naliehaní. Ale veľmi by vám bol povďačný, keby ste tak   urobili. Vedie ma k tomu istá súvislosť. -—• To by som vám musela   mnoho povedať. A nie len povedať. Ale — prezradiť. Bude preto lepšie,   keď o tejto veci sa nezmienime. Som totiž viazaná slovom, preto   nevykladajte si to ako nedôveru, alebo neochotu. Podľa všetkého,   stretli ste pána Larna na odchode? — Áno. — odpovedal Marvan. —   Hovorili ste — napríklad o mne? — Pýtal sa, kedy ste prišli. — A vy   ste mu povedali? — Nemal som mu čo mnoho hovoriť. Ale, — umlkol na   moment Marvan — nepovedal som mu, že ste prišli vojenským autom.   Irena chvíľku mlčala. Marvan cítil, že to bol preňu silný argument.   Ale vykladal si to z inej strany, inak to chápajúc. — Vari sa vás   spytoval na to? — Hovorí taká skutočnosť vám v neprospech? — spýtal   sa Marvan s vyčkávajúcim momentom. Usmiala sa. — Vy viete čítať   myšlienky. — povedala pomaly a významne pokračujúc! — Spájate   udalosti s udalosťami a jedenotlivé úseky si viac všímate, ako treba.   Ale, že ste
+    </tei:p>
+    <tei:p>
+     12
+    </tei:p>
+    <tei:p>
+     ﻿mu to nepovedali, ďakujem vám za to. Tiež súčasne ďakujem za   odprevadenie. Pôjdem do svojej izby. Ďakujem! Vklzla do hotelu   chytro, akoby sa obávala, že povie viac. Marvan túto náhlosť v tomto   smysle si vysvetloval.
+    </tei:p>
+    <tei:p>
+     Keď vošla Irena do svojej izby,čakala ju už tam Agáta. Jej   zjavenie sa tu v izbe bolo pre Irenu viac ako prekvapenie.
+    </tei:p>
+    <tei:p>
+     — Irena, prepáč, že som tu. — povedala Agáta pevne, rozhodnutá   hovoriť stručne do krajnosti.
+    </tei:p>
+    <tei:p>
+     — Naopak. Teší ma, že si tu — odpovedala chytro Irena. — Dobre   bude, keď po tom všetkom nerušene sa porozprávame a to i to   vysvetlíme!
+    </tei:p>
+    <tei:p>
+     — Súhlasím! — prisvedčila Agáta a otvorene sa jej spýtala: —   Pracuješ s Larnom??
+    </tei:p>
+    <tei:p>
+     Takáto otázka by bola vedela Irenu vyviesť z koľají, ale v tomto   momente stalo sa len toľko, že Irena zaváhala s odpoveďou.
+    </tei:p>
+    <tei:p>
+     — Je to podivná otázka! — odvetila po chvíľke.
+    </tei:p>
+    <tei:p>
+     — Irena, vieš, že neni to divná otázka! I keď možno nevieš príčinu   toho všetkého, v podvedomí rysuje sa ti istý obraz neúplnosti, avšak   práve preto ľahko pochopíš a je ti pochopiteľná táto moja otázka!
+    </tei:p>
+    <tei:p>
+     — Divné, divné, Agáta!
+    </tei:p>
+    <tei:p>
+     — Pod slovom divné, skrýva sa komplex nevyriešených otázok!   odpovedala chytro Agáta. — A týmto komplexom je uzol príčiny, pre   ktorú som sa ťa tak spýtala. Pracuješ s Larnom?
+    </tei:p>
+    <tei:p>
+     — Ja ťa nepoznávam, Agáta!
+    </tei:p>
+    <tei:p>
+     — To je vedľajšie v tejto chvíľke. Odpovedz mi na tú otázku priamo   bez akejkoľveek inej tézy, ktorá by snáď ti v tomto momente   napadla.
+    </tei:p>
+    <tei:p>
+     13
+    </tei:p>
+    <tei:p>
+     ﻿— Nie. Nepracujem s Larnom. Ale na čom by som mala s nim   pracovať?
+    </tei:p>
+    <tei:p>
+     — Irena! Vystríham ťa pred tým človekom! Prišli ste do Ľubochne   ushovorení, alebo náhodou?
+    </tei:p>
+    <tei:p>
+     — Náhodou, Agáta!
+    </tei:p>
+    <tei:p>
+     — Skoro sa mi nechce veriť takej náhode! Ach, Irena, ako je mi   ťažko sa ťa takto spytovať! Veď musíš pochopiť, že nechcem ťa   stratiť. A tiež nechcem, aby si bola ty stratená!
+    </tei:p>
+    <tei:p>
+     Irena vzala jej ruky do svojich.
+    </tei:p>
+    <tei:p>
+     — Vrav, Agáta! Čo je vtom? Vrav! Teraz, alebo nikdy: Povedz, prečo   sa Larn zaujíma o našu rodinu?
+    </tei:p>
+    <tei:p>
+     Irena vysela jej pohľadom na rtoch.
+    </tei:p>
+    <tei:p>
+     — Irena... — začala Agáta ticho. — Je to len ... je to len... Ah,   neni možno ti to tak lahko povedať! Nechcem ťa pokladať za zlomyseľnú   a za vypočítavú. Pohovorím si s otcom a o ďalšom sa rozhodnem s ním.   Keď chceš, príď dnes k nám do vily! Čakám ťa o pol ôsmej večer.   Vyhovuje ti ten čas?
+    </tei:p>
+    <tei:p>
+     — Vyhovuje. Prídem!
+    </tei:p>
+    <tei:p>
+     Agáta bez ďalšieho, mlčky odišla.
+    </tei:p>
+    <tei:p>
+     14
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿II.
+    </tei:head>
+    <tei:p>
+     To, čo sa robilo vo vile Agáta, bolo predmetom Marvanových úvah.   Videl v ten večer ísť do vily Irenu, ktorú Agáta čakala pred   bránou.
+    </tei:p>
+    <tei:p>
+     Marvan usudzujúc, rozhodnul sa urobiť prvý krok k rozjasneniu   tejto veci. Bolo skoro pol desiatej večer, keď sa dostal do záhrady   vily Agáty.
+    </tei:p>
+    <tei:p>
+     Pri okne rástla mohutná svrčina na ktorú sa vyškriabal, hladiac   škárou popri záclone, nepriliehajúca na kraj okna.
+    </tei:p>
+    <tei:p>
+     Vo vile bolo ticho.
+    </tei:p>
+    <tei:p>
+     Zrazu nastal prenikavý desný výkrik.
+    </tei:p>
+    <tei:p>
+     Marvan s určitosťou vedel, že to vykríkla Irena Bonátová. Hneď   nasledoval ďal’ší, pričom sa zdalo, že krik sa približuje, že   kričiaca uteká chodbou vily.
+    </tei:p>
+    <tei:p>
+     Jeho predpoklad sa splnil.
+    </tei:p>
+    <tei:p>
+     V nasledujúcom momente sa dvere prudko rozletely a Irena vybehla   ako pološialená z vily. V jej tvári, ktorú Marvan zazrel na   chvíľočku, sa zračila neopísateľná hrôza a strach.
+    </tei:p>
+    <tei:p>
+     Za ňou vyšla Agáta.
+    </tei:p>
+    <tei:p>
+     15
+    </tei:p>
+    <tei:p>
+     ﻿— Irena! — volala tlmene Agáta. — Vzpamätaj sa! Ale Irena utekala   záhradou ako smyslov zbavená. Vtedy za záclonou videl Marvan dve   postavy... Jedna, ako myslel, bola starého profesora a druhá Agátina,   ktorá sa na moment vrátila do vily. Medzi tieto dve postavy, vhupla   postava — tretia.
+    </tei:p>
+    <tei:p>
+     Agáta potom vybehla von, držiac v ruke vreckovú svietilňu. A aj   kabát mala hodený na seba. A tá tretia postava, tá sa pohybovala   sem-ta.
+    </tei:p>
+    <tei:p>
+     Marvan sa spustil so stromu a šiel poza stromy za nimi. Zastihol   ich na konci záhrady, pri zadných dverách, kade Irena chcela sa   chytro dostať do hotela, lebo odtiaľto viedol chodník, deliaci sa na   dve strany; jeden viedol k vile Kovalského a druhý do hotela.
+    </tei:p>
+    <tei:p>
+     — Irena! — počul Marvan Agátu vravieť. — Neboj sa! Vidíš, v akom   prostredí žijem... I ja som sa tak zľakla. Je to len chvíľkový ľak,   ktorý prejde! Poď, vráť sa medzi nás .. . Ten tretí keď ožil, prešla   ma podobná hrôza, aká prešla teba! Poď, vráť sa. Už v bratislavskej   vile žil ten tretí... A teraz žijeme tu s nim, ja, môj otec, a on...   ten tretí! Veď ako inak by ho mohla nazvať? Len krátko a vecne: Ten   tretí! Poď, vráť sa! Irena! ... — Nie, nie, nemôžem! — odporovala   Irena predchnutá hrôzou.
+    </tei:p>
+    <tei:p>
+     Irena vrátila sa do hotela temer útekom. A Agáta mlčky ju   pozorujúc, vrátila sa záhradou do vily.
+    </tei:p>
+    <tei:p>
+     Od tej príhody sledoval Marvan so zvýšenou pozornosťou vilu Agátu.   Vo vile, keď predtým v oknách bola tma, cez noc sa teraz ustavične   svietilo, i keď svetlo bolo tlmené záclonami. Bolo isté, že vo vile   sa čosi robí.
+    </tei:p>
+    <tei:p>
+     Irenu potom od toho dňa nevidel Marvan so pár dní. A
+    </tei:p>
+    <tei:p>
+     16
+    </tei:p>
+    <tei:p>
+     ﻿predsa bola v hoteli. Túlala sa lesom. Potom dostala vyrozumenie   od Remira, že sa musí schádzať s Larnom. Robila to tak automaticky,   bez záujmu, ako bábka, ktorá je vedená inou, cudzou mocou. A Lam, nič   netušiac, stačilo mu, keď sedel pri nej, i keď mlčala, alebo, keď   prezerala módne žurnále. A medzitým sa svíjalo klbko protišpionážnej   siete.
+    </tei:p>
+    <tei:p>
+     Niekoľko dní po udalosti vo vile Agáte, sedela Irena vo svojej   izbe, zaoberajúc sa možnosťou, zbaviť sa úlohy, ktorú Remir od nej   žiadal, a zaoberajúc sa tiež Larnovou stálou prítomnosťou, i keď v   poslednej dobe badala na ňom silný nepokoj, dostala telegram, ktorý v   chytrosti myšlienky prečítala: Príďte večer. Váš otec ťažko nemocný.   Remir.
+    </tei:p>
+    <tei:p>
+     Irena chytro porovnávala túto skutočnosť. Dotkla sa myšlienkami   hodiny odchodu večerného rýchlika. Bolo to o necelú polhodinku.   Sbalila temer bezmyšlienkovite svoje veci, vyrovnala účet a večerným   rýchlikom odišla z Ľubochne, nestačiac o tom vyrozumieť ani Agátu a   na Larna celkom zabudla.
+    </tei:p>
+    <tei:p>
+     V ten večer, keď Irena sedela v rýchliku, uháňajúcom do   Bratislavy, Marvan, len čo sa zažlo svetlo v izbe vily Agáty,   nepozorovane sa dostal do záhrady a na svrčinu, ako tej noci.
+    </tei:p>
+    <tei:p>
+     Opäť videl tri postavy. Ten tretí sa prechádzal sem-ta. Na chvíľu   zastal. A v salóniku sa ozval hlas:
+    </tei:p>
+    <tei:p>
+     — Agáta vyskočila zároveň so svojim otcom. Profesor vzal pušku,   ktorá visela na stene v predsieni, psi sa vyrútili do záhrady za   neustáleho profeseorovho volania:
+    </tei:p>
+    <tei:p>
+     — Lord, Alica, hľadaj!
+    </tei:p>
+    <tei:p>
+     S ohlušujúcim brechotom, ako diví, rozbehli sa záhra-
+    </tei:p>
+    <tei:p>
+     2
+    </tei:p>
+    <tei:p>
+     17
+    </tei:p>
+    <tei:p>
+     ﻿dou, zatiaľ sa Marvan s napätím držal na vetvách starej svrčiny,   pozorujúc psov, ako sa snažia šialene vykonať rozkaz starého   profesora, ktorý ich s puškou v ruke nasledoval.
+    </tei:p>
+    <tei:p>
+     Marvan nepochyboval ani minútu o tom, že psi ho nájdu. Snažil sa   len vyššie dostať na svrčinu, aby ho hneď nezbadali.
+    </tei:p>
+    <tei:p>
+     K tomu však nedošlo. Nemal kedy. Lebo psi, len čo pribehli k   bráne, odtiaľ rovno, ňuchajúc pyskami po zemi, rútili k starej   svrčine, kde zastali s brechotom, vyskakovali na strom, snažiac sa   dostať hore.
+    </tei:p>
+    <tei:p>
+     — Tu je! — skričal profesor. — Tu je — a namieril.
+    </tei:p>
+    <tei:p>
+     — Otče! Daj pozor! — zvolala Agáta úzkostlivo.
+    </tei:p>
+    <tei:p>
+     Ale výstrel zaznel. A Marvan, stratiac rovnováhu, spadol so   stromu. Psi sa momentálne rozbehli, ale Agáta skočila medzi ne.
+    </tei:p>
+    <tei:p>
+     — Lord! Alica! Preč! — kričala.
+    </tei:p>
+    <tei:p>
+     I profesor ich začal odháňať.
+    </tei:p>
+    <tei:p>
+     — Len Lorda preč, otec! Hrdlo mu prehryzne! Aby sa mu dačo   nestalo! ....
+    </tei:p>
+    <tei:p>
+     — Veď som naň nemieril. — ospravedlňoval sa profesor. — Len konár,   ktorého sa držal som zasiahol a ten sa odlomil.
+    </tei:p>
+    <tei:p>
+     Marvana vniesli do vily. Pádom sa len omráčil. V predsieni ho dali   na diváň a Agáta mu podala kalíšok koňaku.
+    </tei:p>
+    <tei:p>
+     Keď profesor videl, že sa preberá z mrákot, zmizol za dverami, kde   bol ten .tretí. . . Marvan sa rozhliadol po izbe.
+    </tei:p>
+    <tei:p>
+     — Prečo ste prišli? — šepla Agáta. — Nevystríhala som vás?   Nepokladali ste to za vážne upozornenie?
+    </tei:p>
+    <tei:p>
+     Profesor sa vrátil zpät.
+    </tei:p>
+    <tei:p>
+     18
+    </tei:p>
+    <tei:p>
+     ﻿— Agáta! Ty si niečo vravela? — Ale, otče! Ako by som mohla?
+    </tei:p>
+    <tei:p>
+     — Veď to! — povedal profesor a obrátil sa k Marvanovi. — Ako ste   prišli na myšlienku, vyškrabať sa na 5 vr činu? Povedzte!
+    </tei:p>
+    <tei:p>
+     Marvan mu chcel odpovedať, ale profesor nečakal. Utiekol do izby,   kde bol ten tretí, z ktorej sa len pred chvíľou vrátil.
+    </tei:p>
+    <tei:p>
+     Odtiaľ bolo počuť:
+    </tei:p>
+    <tei:p>
+     — Je to podivné ... Kto je ten tretí? .. . Aká je chutná! ... Oči   má také naľakané... Agáta sa volá. Veľmi milé meno! . . .
+    </tei:p>
+    <tei:p>
+     Marvan sa potom spýtal Agáty: — Kto je ten tretí?
+    </tei:p>
+    <tei:p>
+     — Ako to viete?
+    </tei:p>
+    <tei:p>
+     — Videl som tri postavy. Vás, otca, a toho tretieho. Kto je to?   Povedzte!
+    </tei:p>
+    <tei:p>
+     — Ticho! Nemáte práva ani myslieť, nie to ešte hovoriť, lebo ten   tretí vie, čo myslíte! — odpovedala Agáta.
+    </tei:p>
+    <tei:p>
+     — Čože? Ten tretí? — Nemyslite!
+    </tei:p>
+    <tei:p>
+     Profesor sa vtom vrátil.
+    </tei:p>
+    <tei:p>
+     — Vy ste inž. Marvan, z Bratislavy? — Hej. Ako to viete? — žasol   Marvan.
+    </tei:p>
+    <tei:p>
+     — Na tom nezáleží. Môžete odísť. Ale vás upozorňujem: Nepríďte sem   viac. Inak neručím za psov!
+    </tei:p>
+    <tei:p>
+     Marvan si s námahou stal na nohy a sprevádzaný Agátou vyšiel.   Agáta ho odprevadila až k bráne vily.
+    </tei:p>
+    <tei:p>
+     — Počuli ste, čo povedal môj otec? — spýtala sa ho.
+    </tei:p>
+    <tei:p>
+     — Nič som nepočul — myslel si Marvan. A tie isté slová sa ozvaly v   salóniku.
+    </tei:p>
+    <tei:p>
+     .2*
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     ﻿Marvan potom nahlas povedal:
+    </tei:p>
+    <tei:p>
+     — Vy sa bojíte! Už vo vašom liste som vycítil váš strach! Nechápem   toho starého profesora, ako vás mohol pripútať k sebe. I keď je to   váš otec! Aké veci len robí! Povedzte. To by som chcel vedieť. Musím   sa o tom dozvedieť.
+    </tei:p>
+    <tei:p>
+     Agáta odvetila:
+    </tei:p>
+    <tei:p>
+     — Čo vás do toho? — Chcem, aby ste . — Čo chcete?
+    </tei:p>
+    <tei:p>
+     — Nesmiete žiť v takom nebezpečenstve, v akom žijete! Smiala   sa:
+    </tei:p>
+    <tei:p>
+     — Aké nebezpečenstvo? Povedzte! — To, čo ste mali na mysli v   liste!
+    </tei:p>
+    <tei:p>
+     Nič som nemala na mysli! — odpovedala odmietavo a prudko   Agáta.
+    </tei:p>
+    <tei:p>
+     — Mne nič nevyhovoríte! Bojíte sa, A radi by ste sa vymanili z   toho, čo obklopuje vášho otca.
+    </tei:p>
+    <tei:p>
+     Agáta sa zasmiala.
+    </tei:p>
+    <tei:p>
+     — Smejete sa? Ale váš smiech nie je ozajstný! — vybuchol   podráždene. — Chcete svojou obeťou zastrieť čudáctvo svojho otca! Nič   viac a nič menej! Možno je to ešte horšie a nebezpečnejšie!
+    </tei:p>
+    <tei:p>
+     Zasekla bránu.
+    </tei:p>
+    <tei:p>
+     — Už dosť! Nechcem ani slova počuť.
+    </tei:p>
+    <tei:p>
+     — Agáta! — oslovil ju krstným menom a chytil jej ponad mrežky ruky   za zápästia. — Nebuďte takou! Vy mi musíte rozumieť! Nie ste mi   ľahostajná. Stali ste sa mi drahšou, ako som zprvoti myslel. Vaše oči   sľubujú oddanosť, i keď je v nich prísna hrdosť. Neodchádzajte!
+    </tei:p>
+    <tei:p>
+     — Pusťte ma — zažiadala a vymanila ruky z jeho.
+    </tei:p>
+    <tei:p>
+     20
+    </tei:p>
+    <tei:p>
+     ﻿— Musím sa s vami ešte porozprávať. Musím sa s vami zajtra   sísť.
+    </tei:p>
+    <tei:p>
+     — S nikým sa neschádzam — odvetila.
+    </tei:p>
+    <tei:p>
+     — To vám váš otec zabraňuje. Bojí sa, viem, tuším to, že on vám   zabraňuje a prísne vás drží, aby sa nič nedostalo na svetlo, čo   vzišlo z jeho čudáctva!
+    </tei:p>
+    <tei:p>
+     Smiala sa zasa. Bol to smiech Marvanovi veľmi protivný,   provokatívny. Urobila sa ako by nerozumela čo vraví, smejúc sa,   povedala mu:
+    </tei:p>
+    <tei:p>
+     — Prečo by mi mal môj otec zabraňovať? Aké čudáctvo? Nikto mi   nezabraňuje a potom, môj otec nie je žiadny čudák! Je to moje vlastné   rozhodnutie a moje vlastné stanovisko: s nikým sa neschádzam ani   zajtra, ani pozajtra. Sbohom!
+    </tei:p>
+    <tei:p>
+     Odchádzala chytro s hlavou vztýčenou, hrdá a odmietavá. Za ňou sa   plazil jeden zo psov.
+    </tei:p>
+    <tei:p>
+     Ivan Marvan zostal chvíľočku pri bráne. Dvere vily sa zavrely. A   vonku ztíchlo. Pozrel sa na okno.
+    </tei:p>
+    <tei:p>
+     Ten tretí sa prechádzal zasa po izbe.
+    </tei:p>
+    <tei:p>
+     21
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿III.
+    </tei:head>
+    <tei:p>
+     Rýchlik Prešov – Bratislava prišiel do Bratislavy s polhodinovým   oneskorením. Prúd ľudí, vyhrňujúci sa s vozňov, utvoril miešaninu   postáv, každá s iným cieľom a s inými úmyslami prišla sem.
+    </tei:p>
+    <tei:p>
+     Silueta bratislavského hradu černela sa v diaľke ako nejaká obluda   noci. Rachot električiek a klaxonov aut, vtieral sa do myšlienok a   rozbíjal sa o hrany stien domov s dutou ozvenou.
+    </tei:p>
+    <tei:p>
+     Irena Bonátová dala sa doviezť domov autom. Šla plná napätia a   neopísateľnej nedočkavosti. Myšlienky na Ľubochňu a na svoje   poslanie, pre ktoré ta šla, vírily jej v hlave a najviac ju   znepokojoval telegram, ktorý prečítala cestou najmenej desafráz. Meno   Remirovo znelo jej v sluchoch v akomsi monotonnom súzvuku, osoba jeho   zdala sa jej vzácnejšia a bližšia. Taká starostlivosť o jej otca s   jeho strany vyznela u nej ako najhlbší cit, ktorý v tejto chvíľke   cítila dvojnásobne. Bol preplnený hĺbkou, dôverou. Skúmať ho, a   kryštalizovať, znamenalo prijať ho a priznať sa k nemu s oddanou   otvorenosťou. A to so svojej strany v tejto chvíľke, plnej   roztrieštených a nedopl-
+    </tei:p>
+    <tei:p>
+     22
+    </tei:p>
+    <tei:p>
+     ﻿nených dojmov, nemohla urobiť. Krátkosť času, rýchlosť auta, a   napokon prenikavé škrípanie bŕzd, bolo mocným momentom k chyteniu sa   príčiny svojho príchodu.
+    </tei:p>
+    <tei:p>
+     Vrhla ustarostený pohľad na okno otcovej spálne, zastreté   žalúziami a len slabý nažltkastý svit sa predieral cez škáry   rolety.
+    </tei:p>
+    <tei:p>
+     Prudko a dlho zazvonila.
+    </tei:p>
+    <tei:p>
+     O chvíľku prišla otvoriť služobná.
+    </tei:p>
+    <tei:p>
+     — Ako je otcovi? — spýtala sa chytro, vrútiac sa dnu. Služobná,   nechápavo sa tváriac, nevedela čo má povedať.
+    </tei:p>
+    <tei:p>
+     — Ako by malo byť? — zvolala prekvapene. — Ešte sú hore. Iste   čítajú! — vhŕkla tie slová do škripotu dvier.
+    </tei:p>
+    <tei:p>
+     — Je mu niečo lepšie??
+    </tei:p>
+    <tei:p>
+     — Lepšie? Veď vášmu oteckovi nič nie je.
+    </tei:p>
+    <tei:p>
+     Pán Bonát, počujúc Irenin hlas, vyšiel v župane do predizby.
+    </tei:p>
+    <tei:p>
+     Ty si sa vrátila? Veď si vravela, že zostaneš v Ľubochni najmenej   dva týždne! Aspoň som tak predvídal.
+    </tei:p>
+    <tei:p>
+     — Ty si zdravý?
+    </tei:p>
+    <tei:p>
+     — Čo by mal byť chorým?
+    </tei:p>
+    <tei:p>
+     — Ale, veď, otecko — bozkávala ho — Pán Remir mi poslal tento   telegram. Oznamuje mi v ňom, že si ochorel.
+    </tei:p>
+    <tei:p>
+     Klenotník prečítal telegram a zasmial sa.
+    </tei:p>
+    <tei:p>
+     — Tomu nerozumiem — povedal, zvážniac náhle, dodal: — Nechápem,   veď mne nič nie je. Chuderka, Irena! Dieťa! — poľutoval ju, dojatý   jej strachom. — To ťa ten dobrák Remir naplašil.
+    </tei:p>
+    <tei:p>
+     Otcov smiech pôsobil blahodárne na Irenine nervy. Spustila sa do   kresla v otcovej spálni a hlavu si dala do dlaní.
+    </tei:p>
+    <tei:p>
+     — Dieťa, ty si sa zmenila! — povedal klenotník Bonát
+    </tei:p>
+    <tei:p>
+     23
+    </tei:p>
+    <tei:p>
+     ﻿starostlivo, klzajúc po nej pohľadom, v ktorom bolo toľko   pátravosti.
+    </tei:p>
+    <tei:p>
+     Zdvihla sa.
+    </tei:p>
+    <tei:p>
+     —Musím k Remirovi — povedala
+    </tei:p>
+    <tei:p>
+     — Ale teraz v noci? Teraz len nepôjdeš k nemu?
+    </tei:p>
+    <tei:p>
+     — Musí mi to vysvetliť.
+    </tei:p>
+    <tei:p>
+     — Nerozumiem, prečo by si to nemohla odložiť na zajtra. Veď je   temer polnoc. Ktovie, či Remir nemá službu. Prípadne môžeš ho zavolať   telefonicky.
+    </tei:p>
+    <tei:p>
+     Avšak z úradu sa dozvedela, že Remir je v tomto čase mimo   Bratislavy, kde, nik nevedel jej v úrade povedať. A potom, ani nebolo   možno. Jedno bolo isté, Remir telegram žiadny neposlal.
+    </tei:p>
+    <tei:p>
+     Kto teda poslal telegram?
+    </tei:p>
+    <tei:p>
+     Spustila sa do klubovky, húževnaté rozmýšľajúc. A za chvíľočku   usilovného hľadania, spájajúc nitky, osoby, záujmy, pred jej očami   vyrástla tupá bezvýrazná osobnosť Larnova.
+    </tei:p>
+    <tei:p>
+     Temer skríkla, keď si túto lož a podvod uvedomila. Čo sa teraz   môže diať v Ľubochni vo vile Agáte? Či nebol to len manéver s jeho   strany dostať ju preč z Ľubochne?
+    </tei:p>
+    <tei:p>
+     A v tú chvíľu v Ľubochni vo vile Agáty, — ten tretí zastal za   záclonami. Hneď sa otvorily dvere a Agáta s otcom vyšli do záhrady,   nasledovaní tretím ...
+    </tei:p>
+    <tei:p>
+     Ten tretí, bol postavou silný mužský, podobajúci sa nemotornému   chlapovi. Kráčal pomaly, z kroka na krok, zanechávajúc pri každom   pohybe tlmený zvuk, podobajúci sa ťažkému oddychovaniu.
+    </tei:p>
+    <tei:p>
+     — Dogy preč! — zvolala do toho Agáta tónom, v ktorom sa odrážala   hrôza. — Veď sú v záhrade, otec!
+    </tei:p>
+    <tei:p>
+     24
+    </tei:p>
+    <tei:p>
+     ﻿Hlas zarezal sa do tmy a zanikol bez ozveny v korunách svrčín   lubochnianskych lesov.
+    </tei:p>
+    <tei:p>
+     — Nech sú tu! — odvetil starý profesor. A zasmial sa do tmy. V   jeho očiach vzbĺkol oheň akejsi náruživej radosti z pohľadu, ktorý sa   mu naskytol hneď v zápätí.
+    </tei:p>
+    <tei:p>
+     Lord a Alica vybehli z húštiny a s ohlušujúcim brechotom vrhli sa   na tretieho. Boj, ktorý nastal medzi psami a tretím, bol bojom medzi   životom a smrťou. Na strane psov bojoval život a na strane tretieho   mŕtva hmota, smrť železa a ocele, oživená myšlienkou ... — Zabije   ich! — skríkla Agáta. — Nech ich zabije! — zasyčal starý profesor —   Beštie! A s pýchou sa díval na toho tretieho, ako mlčky bez námahy   odráža útoky v prítomnej chvíli priam zdivených dog.
+    </tei:p>
+    <tei:p>
+     — Zab ho! Zab ho! — kričal profesor.
+    </tei:p>
+    <tei:p>
+     Dogy posmelené týmto výkrikom náruživosti, zdively ešte viac. Aj   so strany tretieho, stály sa útoky a odrazy prudkejšie a   priamejšie.
+    </tei:p>
+    <tei:p>
+     Naraz Alica bolestne zakvičala a odpadla nabok.
+    </tei:p>
+    <tei:p>
+     — To som nechcel! — prehovoril tretí.
+    </tei:p>
+    <tei:p>
+     Agáta vedela, že to povedal jej otec. S hrôzou sa odvrátila a   utekala do svojej izby.
+    </tei:p>
+    <tei:p>
+     V izbe bola tma. Keď Agáta vošla, oprela sa o dvere a oddychovala.   Bojovala sama so sebou, hľadajúc ďalšiu silu a odvahu. Hľadala   uspokojenie a oddych mozgu.
+    </tei:p>
+    <tei:p>
+     Potom čiastočne uspokojená rozsvietila.
+    </tei:p>
+    <tei:p>
+     Sotva sa tak stalo, prenikavo skríkla. Oknom v tom momente vhupol   niekto do izby. Poznala ho. Bol to Larn. —■ Nechcel som vás nastrašiť   — povedal a kráčal k nej — Irenu som konečne dostal z Ľubochne.   Nepracuje so
+    </tei:p>
+    <tei:p>
+     25
+    </tei:p>
+    <tei:p>
+     ﻿mnou, ako ste si mysleli, ale s — Remirom! A teraz, dnes, lebo   nikdy: chcem plány týkajúce sa toho všetkého a najmä toho tretieho!   ...
+    </tei:p>
+    <tei:p>
+     — Nie! — skríkla! — Nikdy!
+    </tei:p>
+    <tei:p>
+     — Nemám kedy jednať, lebo do rána musím byť za hranicami! Všetko   som položil na jednu kartu — povedal dôrazne Larn. — Viete o mne   príliš mnoho, aby bolo možno urobiť nejaký ústupok pre zajtrajší   deň.
+    </tei:p>
+    <tei:p>
+     Priblížil sa k nej.
+    </tei:p>
+    <tei:p>
+     Agáta ho s hrôzou videla pristupovať krok za krokom. Cítila takú   úžasnú slabosť a vyčerpanosť po dnešnom dni. Teraz prišla ešte aj   táto príhoda.
+    </tei:p>
+    <tei:p>
+     Larn. Ako sa bála toho človeka. Ujsť už nemohla. Aby zachránila   to, po čo prišiel, bolo treba zavolať toho tretieho.
+    </tei:p>
+    <tei:p>
+     Jej myšlienka, v ktorej prichádzala záchrana, dotkla sa toho   tretieho, ktorého prijímanie rozkazov sa skrížily a ktorý rozkaz bol   silnejší,.ten prevládal. A starý profesor s úžasom zistil, že tretí   kráča do vily, odraziac posledný útok Lordov s takou prudkosťou, že i   Lord mal toho práve dosť.
+    </tei:p>
+    <tei:p>
+     Tretí, oddychujúc ťažko kráčal predsieňou ku schodišťu, ktorým sa   šlo k Agátinej izbe.
+    </tei:p>
+    <tei:p>
+     V tom zastal.
+    </tei:p>
+    <tei:p>
+     Agáta sa schúlila na zem. Ako podťatá spadla. Stratila vedomie.   Larn prešiel popri nej a vyšiel do chodby, chcejúc sa dostať do   profesorovej pracovne.
+    </tei:p>
+    <tei:p>
+     Profesor, cítiac Agátinu neprítomnosť, zavolal:
+    </tei:p>
+    <tei:p>
+     — Agáta! Agáta!
+    </tei:p>
+    <tei:p>
+     Avšak nik sa neozval.
+    </tei:p>
+    <tei:p>
+     Larn, ktorý bol vtedy na ceste chodbou do profesorovej
+    </tei:p>
+    <tei:p>
+     26
+    </tei:p>
+    <tei:p>
+     ﻿pracovne, cúvol pod týmto výkrikom. Videl profesora stáť uprostred   siene. Obrátený bol bokom. Ale jednako, i keď ho Larn poznal, mýlil   sa. Lebo to nebol profesor. To bol ten tretí.
+    </tei:p>
+    <tei:p>
+     Larn pod dojmom tohto stretnutia zastal na chvíľu, hoci vedel, že   treba rátať s každou sekundou.
+    </tei:p>
+    <tei:p>
+     Vošiel chytro do profesorovej pracovne a rozhádzal všetky spisy,   až našiel spis: ten tretí...
+    </tei:p>
+    <tei:p>
+     Vzal ho chytro pod pazuchu, presvedčiac sa predtým, či obsahuje aj   plány a podrobný popis sostavenia. Spis bol v kartónovej obálke,   sviazaný dvoma šnúrami. Potom sa poobzeral po miestnosti, ktorá ho   udivovala rôznymi malými technickými zázrakmi, lebo rozličné   súčiastky, majúce istý význam, mohol nazvať len zázrakmi. Tento   pohľad do zlomku profesorovej práce vzbudil v ňom neopísateľnú   zvedavosť.
+    </tei:p>
+    <tei:p>
+     Predovšetkým ho upútal malý aparát, podobný rádiovému prijímaču,   ktorého gombík keď otočil, rozžalo sa v ňom svetlo a ozval sa   hlas:
+    </tei:p>
+    <tei:p>
+     — Otec! Otec! Larn je tu!
+    </tei:p>
+    <tei:p>
+     V hlase poznal Agátu.
+    </tei:p>
+    <tei:p>
+     Naľakaný obrátil gombičku a utekal chytro ku dverám, lebo v   predsieni sa ozval druhý hlas:
+    </tei:p>
+    <tei:p>
+     — Otec! Otec! Larn je tu!
+    </tei:p>
+    <tei:p>
+     Larn s hrôzou zistil, že to vraví ten, čo stojí v predsieni,   ktorého pokladal za profesora a ani trochu netušil, že je to ten   tretí...
+    </tei:p>
+    <tei:p>
+     Profesor Topoľ, počujúc hlas, vyskočil z lavičky, ktorá bola   predodvermi a vbehol do predsiene.
+    </tei:p>
+    <tei:p>
+     — Agáta! — zvolal.
+    </tei:p>
+    <tei:p>
+     Agáta sa ozvala ústami toho tretieho
+    </tei:p>
+    <tei:p>
+     27
+    </tei:p>
+    <tei:p>
+     ﻿— Otec! Otec! Larn je tu!
+    </tei:p>
+    <tei:p>
+     Larn cúvol so spismi toho tretieho nazpät do profesorovej pracovni   a otvoril oblok. Chcel vyskočiť, ale len potom si uvedomil, že   pracovňa profesorova sa nachodí vo vežičke, odkiaľ vyskočenie nebolo   možné.
+    </tei:p>
+    <tei:p>
+     Vrátil sa preto rozrušený na schody, ktorými na veľké prekvapenie   videl vystupovať domnelého profesora.
+    </tei:p>
+    <tei:p>
+     Ale zazrel aj profesora. Šiel za tretím.. . Situácia pre Larna   stávala sa čoraz hroznejšia, ak chcel vziať spisy a sám sa   zachrániť.
+    </tei:p>
+    <tei:p>
+     Ten tretí bol už hore. Larn cúvol pred ním do profesorovej   pracovne a vytiahol zbraň. Nazdal sa v momente, že je to niektorý   profesorov priateľ, alebo spolupracovník.
+    </tei:p>
+    <tei:p>
+     Vystrelil.
+    </tei:p>
+    <tei:p>
+     Tretí sa rozosmial. Larnovi prešiel mráz telom. Bol to smiech tak   hrozný, znel priškrtené, zadŕhavo, že Lam na moment priam   zmeravel.
+    </tei:p>
+    <tei:p>
+     — Na mňa môžte strieľať! — kričal škrekľavo a smial sa oným   odporným priškrteným smiechom, naháňajúci Larnovi meravú hrôzu.
+    </tei:p>
+    <tei:p>
+     Larn vystrelil druhý, tretí raz. Ale ten tretí sa len stále   rehotal. Larn bol v pomykove. Nevedel, čo chytro spraviť. Spisy,   týkajúce sa toho tretieho, držal v ľavej ruke a v pravej zbraň. Keď   ten tretí vyšiel až k nemu, Larnovi vyšly oči priamo z jamôk. Nikdy   nevidel takú odpornú tvár, akú mal tento profesorov   spolupracovník.
+    </tei:p>
+    <tei:p>
+     — Larn!! Hahaha! — zasmial sa profesor zároveň s tým tretím. — To   je ten tretí! Vidíte ho! — ukazoval na neho. — Vidíte ho! To je ten   tretí!
+    </tei:p>
+    <tei:p>
+     Profesor nadšený odbojom tretieho, ktorý vydržal všetky tri rany   bez najmenšej poruchy, predišiel tretieho,
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+    <tei:p>
+     ﻿nedbajúc na nebezpečenstvo z Larnovej strany. Smial sa, ukazoval   na tretieho:
+    </tei:p>
+    <tei:p>
+     — Vidíte ho! To je ten tretí!
+    </tei:p>
+    <tei:p>
+     Larn rozčúlený a vzrušený, starého profesora odsotil s takou   surovosťou, že stratil rovnováhu a skotúlal sa po schodoch,   poudierajúc si hlavu, ostal ležať na zemi.
+    </tei:p>
+    <tei:p>
+     Agáta, preberúc sa z bezvedomia, práve vtedy otvorila dvere na   svojej izbe.
+    </tei:p>
+    <tei:p>
+     — Otec! Otec! — kričala. — Larn je tu!
+    </tei:p>
+    <tei:p>
+     Profesor zdvihol hlavu, zasyčal:
+    </tei:p>
+    <tei:p>
+     — Špión! Špión! Zradca!
+    </tei:p>
+    <tei:p>
+     Larn chcel prejsť okolo tretieho, ale Agáta, zbadajúc spisy v jeho   ruke, dotkla sa myšlienkou tretieho, ktorý prudkou ranou srazil Larna   a vytrhol mu spis.
+    </tei:p>
+    <tei:p>
+     Larn sa zdvihol a bol na rozpakoch. Zbraň mu vypadla na zem,   spadnúc dolu schodmi do predsiene. Vtom tretiemu vypadly spisy z   ruky. A Larn po nich znovu chmatol. Nestarajúc sa o okolie, pustil sa   predsieňou na útek.
+    </tei:p>
+    <tei:p>
+     — Lord! Alica! Lord! Alica! — zvolala Agáta a utekala dolu   schodmi. Tam na zemi narazila na otcovo telo. Chudák, ležal na zemi,   stonajúc.
+    </tei:p>
+    <tei:p>
+     — Otec! — zvolala Agáta ľútostivo a pomohla mu postaviť sa na   nohy.
+    </tei:p>
+    <tei:p>
+     — Choď za ním. Poštvi psov. Musíme ho dostať.
+    </tei:p>
+    <tei:p>
+     Vtedy ing. Marvan, ako obyčajne, chcel sa dostať do vily Agáty   zadným vchodom záhrady. Ale psi ho zbadali.
+    </tei:p>
+    <tei:p>
+     Počujúc však krik z vily, vyzeral na vchod, z ktorého videl   vybehnúť postavu, o ktorej nevedel, že je to Larn. Súčasne zaznel aj   Agátin krik a volanie na psov. Psi sa obzreli, ale nereagovali na   Agátino volanie. Pravdepodobne
+    </tei:p>
+    <tei:p>
+     29
+    </tei:p>
+    <tei:p>
+     ﻿predpokladali, že jej rozkaz sa týka Marvana. Preto zúrivejšie   dobiedzali na plot záhrady, za ktorým stál.
+    </tei:p>
+    <tei:p>
+     — Lord! Lord! — zaznel potom Agátin hlas. Agáta utekala záhradou.   Psi sa rozbehli napolo k nej.
+    </tei:p>
+    <tei:p>
+     — Lord! Alica! Chyťte ho! Tam je! — ukazovala za Lámovou postavou,   ktorý sa motal sem-ta. Zrejme nemohol potrafiť k dvierkám.
+    </tei:p>
+    <tei:p>
+     Napokon dostal sa k plotu, ktorý chcel preskočiť. Avšak za svojimi   pätami kohosi cítil. Bol to Lord, ktorý ho zbadal v poslednej   minúte.
+    </tei:p>
+    <tei:p>
+     Lord sa vymrštil, zdrapil Larna za kabát vo chvíli, keď z polovice   bol už na druhej strane. Kabát sa roztrhol a spisy vypadly na zem,   avšak na druhú stranu záhrady. Larn mal ich možnosť ešte vziať, ale   zmätok bol pre neho príliš veľký a nemal na to dosť času, zisťovať   skutočnosť, lebo prvou jeho myšlienkou bola záchrana samého seba.
+    </tei:p>
+    <tei:p>
+     Agáta prepchala ruku cež škáru plota, vzala spisy, leží ace tesno   pri plote a schovala ich k ňadram.Vtedy blízko zahučal motor auta a   ostré svetlo vyrazilo krážom cez tmu z húštiny.
+    </tei:p>
+    <tei:p>
+     Marvan Larna osvietil. Vtedy ho poznal. Auto sa vyrútilo na   hradskú šialenou rýchlosťou. A jeho hukot zanikal v diaľke.
+    </tei:p>
+    <tei:p>
+     Nastala tichosť. Maryan stál za chvíľu udivene, neschopný srovnaf   udalosti do klbka, ktoré by bol pochopil a ktoré by bolo osvietilo   príčinu Larnovej nočnej návštevy vo vile Agáta. Záhradou utekala   Agáta k svojmu otcovi, ktorý stojac medzi dvermi vily, držal si   hlavu. Za ním stál ten tretí...
+    </tei:p>
+    <tei:p>
+     30
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IV
+    </tei:head>
+    <tei:p>
+     Prvá noc, ktorú strávila Irena Bonátová po svojom príchode do   Bratislavy, bola nocou úmorného premýšľania, v ktorom sa snažila   vhĺbiť čo možno najviac do udalostí posledných dní, v ktorých mala   nenazdanú účasť Remirovým prispením.
+    </tei:p>
+    <tei:p>
+     Predovšetkým Larn bol jej pred očami ako dobrodruh, s ktorým nutno   rátať a s jeho intrigami narábať ako s predloženou figúrou na   šachovnici.
+    </tei:p>
+    <tei:p>
+     Spomínala pri tej príležitosti Remirov náhľad na povolanie   protišpionážnej služby a odsúdila Larnove chovanie ako dosť nízke,   cynické a nedôstojné. A akže ani k nej nemal ohľad, jeho hra bola v   tejto chvíli najmakateľnejšia, aby Irena pochopila dostatočne svoje   postavenie s vedomým sily a oprávnenosti zaujať protivné   stanovisko.
+    </tei:p>
+    <tei:p>
+     O Remirovi sa nič bližšieho dozvedieť nemohla. Rozhodla sa   predovšetkým k prehliadke Larnovho bytu, v ktorom hľadala kľúč a   zároveň sieť, v ktorej by Lam zaviazol.
+    </tei:p>
+    <tei:p>
+     Ale Lámov byt, skladajúci sa s dvoch izieb, našla temer   neporušený. A nič nenasvedčovalo Larnovmu odcho-
+    </tei:p>
+    <tei:p>
+     31
+    </tei:p>
+    <tei:p>
+     ﻿du, alebo aspoň blížiacej sa nejakej príprave, nasvedčujúcej   odchod za hranice. Taký bol dojem z prvého pohľadu. Pakľúčom podarilo   sa jej otvoriť aj Lámov písací stôl, v ktorom však našla jednu   pištoľu a ďalekohľad.
+    </tei:p>
+    <tei:p>
+     Pri písacom stole bol kôš na papier, v ktorom boly dva roztrhané   lístky. Jeden bol roztrhaný na kúsky a druhý len čiastočne. Irene   dalo hodne práce poskladať tieto lístky a polepiť ich na kus papieru,   ktorý našla na písacom stole.
+    </tei:p>
+    <tei:p>
+     Vtedy v podvedomí vycítila, že vonku zastalo auto, a že ktosi ide   hore schodami. Ani zdania nemala, že je to Larn.
+    </tei:p>
+    <tei:p>
+     Len keď vstúpil dnu a stáli zoči-voči, uvedomila si svoju vysokú   hru. Na jeho zaprášenom kabáte bolo vidieť, že cestoval celú noc,   prekonávajúc ďalekú cestu. Irena si toto v rýchlosti uvedomila v   momente, keď Larn spustil pohľad na polepené lístky, ležiace na stole   a na otvorenú zásuvku písacieho stola, z ktorého hľadela pištoľa.
+    </tei:p>
+    <tei:p>
+     — Hráte vysokú hru! — vmietol jej do očú. — A nebezpečnú. Tuším,   že si to ani neuvedomujete! Podľa všetkého, krása ženy je dobrá i pre   protišpionážne oddelenie ministerstva zahraničných vecí! Človek   nevie,kde-čo môže k takémuto zamestnaniu pomôcť!
+    </tei:p>
+    <tei:p>
+     Za reči strhol telefonný aparát a rozbil ho. Irena dívala sa na   neho zprvu prestrašene a udivene, čudujúc sa, kde sa tu náhle vzal a   tiež jeho rečiam, ktoré jasne vravely o prehľadnosti jej   postavenia.
+    </tei:p>
+    <tei:p>
+     Videla ho ísť k zásuvke písacieho stola, ktorú odomkol a vybral   nejaké dokumenty.
+    </tei:p>
+    <tei:p>
+     — Nenamáhajte sa, sú to pasy, — povedal jej, vidiac ju hľadieť na   papiere. — Pasy na rôzne mená, ktoré keby
+    </tei:p>
+    <tei:p>
+     32
+    </tei:p>
+    <tei:p>
+     ﻿ste vedeli, aj tak by ste tým Remirovi neposlúžili! A nemajte   obavu, nič vám neurobím. To je moja slabosť voči pekným ženám, akou   nesporne ste, Irena! Dodnes som vás vždy ja vyhľadával. Tentokrát   túto starosť nechám vám. Dúfam, že budem hoden vašej námahy.
+    </tei:p>
+    <tei:p>
+     Po týchto slovách skočil ku dverám, zamkol ich a do kľúčového   otvoru vložil patentný nedobyjač. Irena si len vtedy uvedomila, že je   sama. Vonku zahučalo auto, hukot ktorého vzďaľoval sa jeho   odchodom.
+    </tei:p>
+    <tei:p>
+     Šla ku dverám len v akomsi podvedomí nedôvery. A oprobovala kľučku   dvier. Stisla ju a chcela dvere otvoriť, Ale nedaly sa. Rolety boly   spustené a zamknuté. Ešte šťastie, uvažovala, že svetlo má tu. Inak   by bola ako v temnici.
+    </tei:p>
+    <tei:p>
+     Skľúčene si sadla za stôl a presedela tak dlhú chvíľu, až sa   napokon spamätala a začala uvažovať, ako sa dostať z izby. Dlhá doba   prinútila ju zaoberať sa dopisnicami, ktoré našla roztrhané v koši na   papier, a teraz umne poskladanými a polepenými na papieri.
+    </tei:p>
+    <tei:p>
+     V jednej dopisnici stálo:
+    </tei:p>
+    <tei:p>
+     Čakám sľúbené. Odmena syr a oštiepky, pravdaže
+    </tei:p>
+    <tei:p>
+     v zlate. T.
+    </tei:p>
+    <tei:p>
+     V druhej stálo:
+    </tei:p>
+    <tei:p>
+     Výstup je namáhavý. Ale čakáme vás. T,
+    </tei:p>
+    <tei:p>
+     Obsah lístkov Irenu sklamal. Zostala sa dívať na ne chvíľu temer   bezmyšlienkovite, až ju pohľad, vpíjajúci sa do posledných riadkov,   týkajúcich sa prísľubu zlata, oživel, a spokojne si sadla za stôl,   dala sa do ďalšieho hľadania.
+    </tei:p>
+    <tei:p>
+     3
+    </tei:p>
+    <tei:p>
+     33
+    </tei:p>
+    <tei:p>
+     ﻿V.
+    </tei:p>
+    <tei:p>
+     Ing. Ivan Marvan sa vrátil do Bratislavy nasledujúci deň po   udalostiach vo vile Agáta. Vedel, že len svojím vlastným pričinením   príde na koreň veci.
+    </tei:p>
+    <tei:p>
+     Útek Larnov z Ľubochne za takých okolností bol mu k nepochopeniu.   Večer ešte hľadal Irenu, ale keď sa dozvedel, že aj ona odišla, videl   v tom nepriamy dohovor.
+    </tei:p>
+    <tei:p>
+     Odpoveď na všetko musí mu dať buď Irena Bonátová alebo Larn. Do   Bratislavy prišiel večerným rýchlikom. Dal sa zaviezť k Larnovmu   bytu, kážuc šoférovi zastať opodiaľ, lebo zbytok cesty chcel urobiť   peší.
+    </tei:p>
+    <tei:p>
+     Cestou sa dohadoval, či Larna nájde doma a akým úskokom by mal ísť   na neho, aby dostal, čo chcel.
+    </tei:p>
+    <tei:p>
+     Opatrne stisol kľučku dverí, presvedčiac sa predtým, že v izbe sa   svieti. Cez škáru videl svetlo. Ale súčasne ho táto skutočnosť   pomiatla, lebo v otvore zbadal nedobyjač.
+    </tei:p>
+    <tei:p>
+     Kľučka tlmene cvakla. A chvíľku bolo ticho. Potom zreteľne počul   kroky. Marvan napäl sluch a priložil ucho ku dverám.
+    </tei:p>
+    <tei:p>
+     34
+    </tei:p>
+    <tei:p>
+     ﻿Zdalo sa mu, že kroky stíchly tesne pri dverách. Opakoval   stisnutie kľučky. A čakal.
+    </tei:p>
+    <tei:p>
+     Irena počúvala. Opatrné stisnutie kľučky dvier Lámovho bytu a   tichosť, aká potom nastala, vravela o akomsi náznaku, ktorý sa dá   momentálne ťažko uhádnuť.
+    </tei:p>
+    <tei:p>
+     — Kto je? — spýtala sa Irena.
+    </tei:p>
+    <tei:p>
+     Marvana ženský hlas zháčil. Najmä, keď mu bol hlas povedomý.   Pochyboval, že by sa táto žena ohlásila, keby tam bola dobrovoľne.   Alebo, keby jej vzťah k Larnovi nebol bližší ako priateľský.   Usudzoval. Ohlásil sa vyhýbavo:
+    </tei:p>
+    <tei:p>
+     — Hľadám pána Larna.
+    </tei:p>
+    <tei:p>
+     — Kto ho hľadá? — ozval sa Irenin hlas.
+    </tei:p>
+    <tei:p>
+     — Jeho priateľ, Marvan. .. Inžinier Marvan ... — povedal.
+    </tei:p>
+    <tei:p>
+     — Marvan . . . Inžinier Marvan? — zaznel hlas, Marvanovi povedome   jší, ale ešte nie celkom jasný. — Ivan Marvan? — opakoval ženský hlas   s akýmsi vyčkávaním. — Ano! — prisvedčil Marvan. Kde by som našiel   pána JLarna, vedeli by ste mi povedať? — pokračoval, vyčkávajúcim   opatrným tónom. — Možno by som vám vedela povedať, — povedala Irena.   — Ale najprv . .. najprv by ste mohli otvoriť dvere. Ja som tu totiž   v nedobrovolnom väzení... Pán Marvan?
+    </tei:p>
+    <tei:p>
+     Rozumeli ste ma? Som to ja, Irena Bonátová! Nebola som
+    </tei:p>
+    <tei:p>
+     •celkom istá, či ste to vy.
+    </tei:p>
+    <tei:p>
+     — Vy, vy, slečna Bonátová? To je
+    </tei:p>
+    <tei:p>
+     — K nepochopeniu, však? — dodala.
+    </tei:p>
+    <tei:p>
+     — Veru k nepochopeniu. Ale, žiaľbohu, nemôžem otvoriť dvere. V   zámku je patentný nedobyjač. Musíte chvíľku počkať. Hneď sa   vrátim.
+    </tei:p>
+    <tei:p>
+     3*
+    </tei:p>
+    <tei:p>
+     35
+    </tei:p>
+    <tei:p>
+     ﻿— Rada počkám chvíľku, veď sedím tu od predpoludnia. Dlhá doba,   však?
+    </tei:p>
+    <tei:p>
+     — Dosť dlhá, — prisvedčil ing. Marvan. A chytro odchádzal. Začínal   chápať, že Irena mala nejaký konflikt s Larnom, a že ich priateľské   styky boly len naoko, pod rúškom akéhosi vzájomného poznávania. Ale   pre akú príčinu sa dostala Irena do Larnovho bytu, to nemohol   pochopiť, nakoľko jej odchod z Ľubochne bol hlásený podľa záznamu v   hotelovej knihe o niekoľko hodín prv, ako odchod Larnov, ktorého   videl odchádzať autom samého.
+    </tei:p>
+    <tei:p>
+     Ing. Marvan, vrátiac sa z domu s potrebným náčiním na otvorenie   dvier čo možno najskôr, chápajúc Ireninu netrpezlivosť, ktorá priamo   hraničila s jeho netrpezlivosťou, dozvedieť sa od nej aspoň niečo.   Čakal vysvetlenie.
+    </tei:p>
+    <tei:p>
+     Ale, keď dvere boly otvorené, a Irena stála pred ním, nevedela   Marvanovi vysvetliť, ako sa dostala do Larnovho bytu. Bolo   pochopiteľné, že tu treba hlbšieho vysvetlenia, čo nemohla urobiť pri   zamlčaní svojho tajného poslania.
+    </tei:p>
+    <tei:p>
+     — Prečo ste odišli z Ľubochne? — spýtala sa ho, ako by toto bolo   dôležitejšie. Napokon ing. Marvan mal dojem, že je pred vyšetrujúcim   sudcom a nie pred Irenou, ktorá by pod touto okolnosťou mala byť   dôvernejšou a úprimnejšou. Veď shoda udalostí vliekla ich temer   jednou cestou.
+    </tei:p>
+    <tei:p>
+     — A vy prečo? — vyhŕkol. Pozrela sa na neho. A Marvan mal mnoho   príčin nedôverovať jej, najmä, keď miesto otvoreného stanoviska   zaujala zdržanlivú pózu a jej tón zostal ďalej tónom vyšetrujúceho   sudcu.
+    </tei:p>
+    <tei:p>
+     — Pozrite sa, — povedal Marvan bezohľadne. — Vy ste tu a ja som   tu. Vedľajšie, čo nás pohlo k odchodu z Ľubochne. Chcel by som   vedieť, ako ste sa dostali do bytu.
+    </tei:p>
+    <tei:p>
+     36
+    </tei:p>
+    <tei:p>
+     ﻿— Dvermi, — povedala Irena, čistiac si nechty.
+    </tei:p>
+    <tei:p>
+     — To je teda odmenou za vyslobodenie z nedobrovoľného väzenia? Keď   tak myslíte, bude lepšie, keď sa o veci zmienim polícii...
+    </tei:p>
+    <tei:p>
+     Skočila.
+    </tei:p>
+    <tei:p>
+     — To neurobíte!
+    </tei:p>
+    <tei:p>
+     Marvan ihneď zaujal iné stanovisko. Rozhodol sa ísť okľukou a   diplomatickej šou cestou k jadru. Povedal podráždene:
+    </tei:p>
+    <tei:p>
+     — Vy teda viete o Larnovej nečestnej hre?
+    </tei:p>
+    <tei:p>
+     — Ja? O akej nečestnej hre?
+    </tei:p>
+    <tei:p>
+     — Čo hľadal vo vile Agáta včera v noci? A čo robí vo vile   profesora, ktorého ostatne mám za čudáka . .. Robia sa tam čudné   veci... Už váš výkrik tomu nasvedčoval.
+    </tei:p>
+    <tei:p>
+     Otvorenosť, s akou šiel, presvedčoval Irenu, že je viac   informovaný o okolnostiach, do ktorých sa dostala temer tak isto ako   on.
+    </tei:p>
+    <tei:p>
+     — Aký výkrik?
+    </tei:p>
+    <tei:p>
+     Nahol sa k nej a zašeptal tlmene
+    </tei:p>
+    <tei:p>
+     — Báli ste sa!...
+    </tei:p>
+    <tei:p>
+     — Báála? Čoho? — nechápala.
+    </tei:p>
+    <tei:p>
+     Nejasne jej riekol:
+    </tei:p>
+    <tei:p>
+     — Vy viete, koho ste sa zľakli.
+    </tei:p>
+    <tei:p>
+     — Neviem.
+    </tei:p>
+    <tei:p>
+     — Bojíte sa toho — tretieho! Razom umlkla.
+    </tei:p>
+    <tei:p>
+     — Vy teda viete niečo o tom? — spýtala sa ho váhavo.
+    </tei:p>
+    <tei:p>
+     — Pozrite sa: Vy odpovedáte kúsavo a neochotne. Miesto toho, aby   sme si navzájom kus svetla vložili do veci, vy hráte úlohu nevedomého   dievčaťa, ktoré nevie, čo sa stalo vo vile Agáte a čo a aké má v tom,   alebo v onom
+    </tei:p>
+    <tei:p>
+     37
+    </tei:p>
+    <tei:p>
+     ﻿priamy, alebo nepriamy vzťah Larn. Že je to vzťah nečestný, to   vie! Že vás zamknul do svojho bytu, usudzujem, že ste sa mu stali   nebezpečnou. A dohadovať sa s vami ešte ďalej nemám ani čas, ani   chuť! S Bohom!
+    </tei:p>
+    <tei:p>
+     Obrátil sa o odchádzal.
+    </tei:p>
+    <tei:p>
+     — Neodchádzajte!
+    </tei:p>
+    <tei:p>
+     — Idem na políciu! — povedal.
+    </tei:p>
+    <tei:p>
+     Utekala za ním.
+    </tei:p>
+    <tei:p>
+     — Nechoďte! Vybavím vec sama
+    </tei:p>
+    <tei:p>
+     — Vy? Môžem o tom pochybovať,
+    </tei:p>
+    <tei:p>
+     — Prečo?
+    </tei:p>
+    <tei:p>
+     — Neviem, akú úlohu hráte v týchto veciach v spojitosti s Larnom.   Najmä, keď si spomeniem, že vaše styky s Larnom boly priateľské.   Mohol by som sa domnievať, že ho zastávate.
+    </tei:p>
+    <tei:p>
+     — Mýlite sa.
+    </tei:p>
+    <tei:p>
+     — Mýlim? Tešil by som sa, keby sa tak stalo. Ale nemám ani trocha   nádeje, že je tomu skutočne tak. Aspoň vy tú nádej nevzbudzujete,   prepáčte mi, že som tak otvorený!
+    </tei:p>
+    <tei:p>
+     — Konečne, oznámte to polícii, — povedala do toho. — Oznámili by   ste len svojho priateľa.
+    </tei:p>
+    <tei:p>
+     — Priateľa? — zasmial sa Marvan. — Larn mi nebol nikdy priateľom v   pravom slova smysle. Bol mi priateľom zo školských lavíc. A od toho   času uplynulo desať rokov. Medzitým sme šli svojou cestou. Naše   záujmy sa križovaly. Čomu sa venoval, neviem. Ale i keď mi bol   priateľom, nemohol by ho ľutovať, ak sa venuje nejakej zlej veci.   Podľa udalostí tak usudzuje! A mnoho okolností ma vedú k takej   domnienke.
+    </tei:p>
+    <tei:p>
+     Irena sa dohadovala, či Marvan vraví pravdu a naopak,
+    </tei:p>
+    <tei:p>
+     38
+    </tei:p>
+    <tei:p>
+     ﻿Marvan zase úchytkom ju pozoroval, ako sa tvári a nakoľko možno   dôverovať jej sľubu, že pôjde na políciu.
+    </tei:p>
+    <tei:p>
+     Irena sa máličko pousmiala a podala mu ruku:
+    </tei:p>
+    <tei:p>
+     — Urobte, ako chcete, pán inžinier. Ale ja by som vám radila, aby   ste týmto veciam dali pokoj. Čo vás je vôbec do toho? Ubezpečujem   vás, že vec speje k rozuzleniu. S Bohom.
+    </tei:p>
+    <tei:p>
+     Rozišli sa na najbližšej križovatke ulíc, vzájomne si nedôverujúc.   Takého rozídenia a rozriešenia z Ireninej strany nečakal. S jej radou   prišly mu na um Agátine slová: Nepleťte sa do vecí, do ktorých vás   nič nie je! A skutočne, čo ho potom všetkom? Uspokojený, striezlivo   uvažoval bez prenáhlenia: Co mu záleží na veciach odohrávajúcich sa   vo vile Agáta? Či chce len uspokojiť sám seba?
+    </tei:p>
+    <tei:p>
+     Ak áno, nech teda ide vývin vecí svojou cestou a nech pritom   zaujme stanovisko tichého pozorovateľa. Veď tým len splní Agátino   želanie: Nepleťte sa do vecí, do ktorých vás nič nie je! Ci nie sú to   výstižné a srozumiteľné slová?
+    </tei:p>
+    <tei:p>
+     39
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VI.
+    </tei:head>
+    <tei:p>
+     I keď sa Marvan snažil byť lep tichým pozorovateľom udalostí,   predsa nemohol sa vyhnúť myšlienkam, dotýkajúcich sa vily Agáty a   najmä jej obyvateľky.
+    </tei:p>
+    <tei:p>
+     Do Ľubochne prišiel za ranného šera.
+    </tei:p>
+    <tei:p>
+     Na chvíľočku si ľahol, avšak sotva sa slnko dotklo hladiny   vlniaceho sa Váhu, vstal s myšlienkami na Agátu.
+    </tei:p>
+    <tei:p>
+     V záhrade sa už preháňali psi. A medzi krovmi, ktorými viedol   chodník pozdĺž záhrady, zbadal farebné Agátine šaty.
+    </tei:p>
+    <tei:p>
+     Bola už na rannej prechádzke.
+    </tei:p>
+    <tei:p>
+     Rozhodol sa ísť k vile, chcejúc sa s Agátou porozprávať o veciach,   ktorým hoci sa snažil vyhnúť, predsa nemohol. Cítil, že Agáta bude   otvorenejšia a prístupnejšia. Veď predošlý rozhovor, i keď bol z   čiastky s jej strany odmietavý, bol predzvesťou takéhoto vývinu.
+    </tei:p>
+    <tei:p>
+     Cím viac sa blížil k vile, tým viac rozoznával Agátu, stojacu   medzi krovím na malej čistinke.
+    </tei:p>
+    <tei:p>
+     Napätie u neho vzrastalo, hľadajúc vhodné slová, ktoré by mohol   nadviazať rozhovoru o predošlej noci.
+    </tei:p>
+    <tei:p>
+     Agáta sa práve poberala do vily a aj jeden zo psov šiel
+    </tei:p>
+    <tei:p>
+     40
+    </tei:p>
+    <tei:p>
+     ﻿za ňou. Keď sa Marvan približoval, druhý pes, ležiaci na čistinke,   kde predtým stála Agáta, sa zdvihol, tlmene zavrčiac.
+    </tei:p>
+    <tei:p>
+     — Neodchádzajte! — povedal Marvan. — Rád by som sa s vami   porozprával.
+    </tei:p>
+    <tei:p>
+     Chytila Lorda za ohlávok a zastala, hľadiac na neho. Marvan   uhádol, že jej zostatie nebolo na jeho výzvu, ale že i ona chcela   niečo povedať.
+    </tei:p>
+    <tei:p>
+     Alica hlučne zabrechala a len na Agátin náznak zatíchla a spustila   sa do trávy. Lord stál pri Agátinom boku a ňuchal do vzduchu, ako by   vetril prichádzajúceho človeka.
+    </tei:p>
+    <tei:p>
+     Agáta pristúpila k plotu a chytro sa ho spýtala:
+    </tei:p>
+    <tei:p>
+     — Kedy ste prišli z Bratislavy?
+    </tei:p>
+    <tei:p>
+     Marvan priamo úžasol. Prekvapením sa nemohol ani zmôcť na odpoveď.   — Čudujete sa, že to viem? — spýtala sa.
+    </tei:p>
+    <tei:p>
+     — A ako to viete?
+    </tei:p>
+    <tei:p>
+     — Viem to. Boli st§ tu za záhradou, keď pán Larn bol vo vile. Vy   ste to boli, čo ste ho osvietili. Však?
+    </tei:p>
+    <tei:p>
+     — Ale ako to viete?
+    </tei:p>
+    <tei:p>
+     — Boli ste u Larna?
+    </tei:p>
+    <tei:p>
+     Oči uprela naň a jej zvláštny pohľad bol ako by prosbou ale aj   pripomienkou toho, čo mu povedala v prvých dňoch.
+    </tei:p>
+    <tei:p>
+     Marvan napochytre v duchu sháňal slová, ktorými by odhalil toho   tretieho a všetko, čo súviselo s ním. V podvedomí cítil, že sa   nemožno s ňou hrať na schovávačku. Pokladal ju za príliš inteligentnú   a vopred vedel, že by prezrela jeho manéver a skôr by sa nedostal k   ničomu, ako keď bude otvorene s ňou rozprávať.
+    </tei:p>
+    <tei:p>
+     — Nechcem, aby ste to považovali za dotieravosť,
+    </tei:p>
+    <tei:p>
+     41
+    </tei:p>
+    <tei:p>
+     ﻿povedal. — Ale musíte mi porozumieť: chcem vám pomôcť, ako to bude   v mojej moci!
+    </tei:p>
+    <tei:p>
+     — Neodpovedali ste mi na moju otázku: boli ste u Larna?
+    </tei:p>
+    <tei:p>
+     — Bol som, prisvedčil váhavo a dohadujúc sa, dodal: — Ale odkiaľ   to viete?
+    </tei:p>
+    <tei:p>
+     — Viem to, — prikývla a čudne dodala: — Slovo prednesené v   rozhlase sa nestratí. Ako sa teda môže stratiť myšlienka?
+    </tei:p>
+    <tei:p>
+     — Myšlienka? — žasol jej logike. — Čo má myšlienka spoločného so   slovom? — spýtal sa jej.
+    </tei:p>
+    <tei:p>
+     — Ako by nemala! — povedala. — Veď je prvá ako slovo! Či u vás   príde vopred slovo a potom myšlienka?
+    </tei:p>
+    <tei:p>
+     Za chvíľu sa díval na ňu a netrpezlivo povedal:
+    </tei:p>
+    <tei:p>
+     — Rozprávate v hádankách!
+    </tei:p>
+    <tei:p>
+     Usmiala sa milo, skoro shovievavo.
+    </tei:p>
+    <tei:p>
+     — V hádankách? Vám to predsa musí byť jasné! Či to nie je   srozumiteľné: Slovo je vždy druhé. A myšlienka je prvá! Keď sa zrodí   myšlienka, po nej nasleduje slovo, alebo čin!
+    </tei:p>
+    <tei:p>
+     Úžasol nad jej filozofiou.
+    </tei:p>
+    <tei:p>
+     — Nevravte tak! Aspoň vy nie! To nie je pre ženu! Tuším v tom   filozofiu vášho otca. Žena nemá filozofovať! Veda nie je pre ženu!   Nenávidím ženy filozofky!
+    </tei:p>
+    <tei:p>
+     — Táák?
+    </tei:p>
+    <tei:p>
+     — Tald Chcete sa schovávať za filozofiu a to vám rozhodne   nepristane! A ani vaše vnútro po tom netúži. Ste samotárka, lebo   prijímate rozličné frázy! Pozrite sa na tú krásu okolo! Krásne hory!   Žiariace slnko! Čistá, azúrovite čistá obloha! Smejte sa! Na vašich   perách nevidno úsmev. Nič. Len chmúrny pohľad pred seba. Mňa   neprekabátite! Chcem vás vyslobodiť z tohto pekla, z tejto mučivej   sa-
+    </tei:p>
+    <tei:p>
+     42
+    </tei:p>
+    <tei:p>
+     ﻿moty! Výhovorka na vedu ... Nie, žiadna veda ... Vy sa
+    </tei:p>
+    <tei:p>
+     čohosi bojíte, čo je úzko spojené s vaším otcom, ktorého filozofia   vám naháňa strach. Strach z neho, z jeho činov
+    </tei:p>
+    <tei:p>
+     a strach zo seba samej! — Dosť! — prerušila ho. Pokračoval:
+    </tei:p>
+    <tei:p>
+     — Ste záhadná. I vaše meno je záhadné! I vila vášho
+    </tei:p>
+    <tei:p>
+     otca je záhadná! Čo je okolo vás, všetko je záhadné. I váš pohľad.   I vy! Skrývať sa chcete za frázy vedy, ktoré tu neobstoja pre čudné   udalosti vo vašej vile. Ste ako sfinga. Ste ako z mramoru! Ste z   kameňa! A to všetko pod vply1- vom akýchsi záhadných vecí, ktoré sa   tesne dotýkajú vášho otca! Ste pod jeho vplyvom! Čo vám rozkáže,   to
+    </tei:p>
+    <tei:p>
+     poslušne urobíte, i keby -sa to protivilo zákonu! — Ale, čo to   vravíte? — Rozumeli ste mi, ako vidím! Rozosmiala sa na jeho   vášnivých rečiach. Ale nebol to
+    </tei:p>
+    <tei:p>
+     smiech ozajstný. Bol stiesnený, vyumelkovaný. Ale i tak
+    </tei:p>
+    <tei:p>
+     musel priznať, že jej pristane.
+    </tei:p>
+    <tei:p>
+     — Máte len bujnú fantáziu! — povedala mu. — Prečo
+    </tei:p>
+    <tei:p>
+     sa o to zaujímate? Co sa konečne staráte do vily môjho otca
+    </tei:p>
+    <tei:p>
+     a najmä do mňa?
+    </tei:p>
+    <tei:p>
+     — Agáta! — zašeptal vzrušene. — Vy to musíte vedieť!
+    </tei:p>
+    <tei:p>
+     Nie ste mi ľahostajná! Váš osud je spojený — temer s mo-
+    </tei:p>
+    <tei:p>
+     jím, tak by som povedal!
+    </tei:p>
+    <tei:p>
+     Zapýrila sa. Vtedy videl, že nie je ani z kameňa a ani
+    </tei:p>
+    <tei:p>
+     z mramoru.
+    </tei:p>
+    <tei:p>
+     — Už som povedala, že bude lepšie, keď sa viac ne-
+    </tei:p>
+    <tei:p>
+     uvidíme!
+    </tei:p>
+    <tei:p>
+     — Nevravte tak! To nehovoríte vy, váš cit, ale strach
+    </tei:p>
+    <tei:p>
+     z otcových nárokov na vás, lebo stali ste sa mu nepostrá-
+    </tei:p>
+    <tei:p>
+     43
+    </tei:p>
+    <tei:p>
+     ﻿dateľnou pri jeho takzvanom vedeckom bádaní, o čom však   pochybujem.
+    </tei:p>
+    <tei:p>
+     — O to sa netrápte. A vedľajšie, či o tom pochybujete, alebo nie.   Môj osud je dávno spečatený! Prv, ako ste prišli sem. A prv, ako ste   došli k veciam, ktoré rozvírily vo vás divné dohady. Na veci sa nedá   nič meniť. S Bohom!
+    </tei:p>
+    <tei:p>
+     Chladnosť jej slov ho priam zamrazila. Pozeral za ňou, ako kráčala   chodníkom do vily.
+    </tei:p>
+    <tei:p>
+     Vtedy Marvan zdvihol zrak k oknu izby vo vežičke. Videl tam stáť   starého profesora a pri ňom sa šklabil ten tretí...
+    </tei:p>
+    <tei:p>
+     Marvan sa s hrôzou odvrátil.
+    </tei:p>
+    <tei:p>
+     44
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VII.
+    </tei:head>
+    <tei:p>
+     Nad Ľubochňou sa vznášalo vojenské výzvedné lietadlo v nízkom   lete.
+    </tei:p>
+    <tei:p>
+     Irena, sediac za pilotom, prezerala kraj. Z času na čas pozrela sa   na rozložené lístky, ktoré našla v Larnovej pracovni v koši na   papiere. Známky z lístkov boly strhnuté a na ich mieste rysoval sa   plán miesta. Obidva lístky navzájom scelovaly plán, ktorý Larnovi bol   istotne už známy.
+    </tei:p>
+    <tei:p>
+     Lietadlo odbočilo od Ľubochne a letelo smerom na Žilinu. Neskôr sa   vrátilo juhovýchodne a napokon pristálo v poli. Elena vystúpila a   lietadlo odletelo.
+    </tei:p>
+    <tei:p>
+     Pokračovala horským chodníkom vyše hodiny. Vzdialenosť chaty „T”   sa zmenšovala. Irena ju videla. Stála v úzadí čistinky, obklopená   hustým lesom.
+    </tei:p>
+    <tei:p>
+     Veľké „T” bolo znázornené svrčinami.
+    </tei:p>
+    <tei:p>
+     Nezasvätencovi nebolo to nijako podozrivé. Veľké „T” bolo vidieť   už z diaľky. O jeho vrchné rameno boly uviazané štyri kone. Nepokojne   hriebly nohami a strihaly ušami. Niektoré sa vzpieraly. Bolo zrejmé,   že neboly navyknuté na toto miesto.
+    </tei:p>
+    <tei:p>
+     45
+    </tei:p>
+    <tei:p>
+     ﻿Irena zastala a ľahla si do zoschnutej trávy, sústredene   pozorovala chatu, ktorá mohla sa skôr vilou nazvať ako chatou. Už   pohľad na ňu hovoril o vkuse a majetnosti majiteľa. Mala   reprezentatívny vzhľad. Mala šesť okien dopredu. Uprostred bol vchod.   Nad dverami visely mohutné parohy jeleňa. A na zábradliach drevených   schodov sedely dva vypchaté hlucháne.
+    </tei:p>
+    <tei:p>
+     Irena yyčkala na tomto mieste až do večera. Sotmelo sa prv, ako sa   nazdala. Lesom zavial chlad a podivne monotónny šum húdly vetve a   vrcholce svrčín, mierne sa poddávajúc nárazom večerného vetríka.   Cítila chlad,i hlad. Uvažovala. V chate sa zažlo svetlo. Niektorý z   koní zaerdžal. Irena chcela ísť k chate predovšetkým zo zadu. Chcela   najprv zistiť, či nachodí sa tam aj Larn. Ale prv, ako sa zdvihla,   niekde blízko nej zapraskala suchá vetva.
+    </tei:p>
+    <tei:p>
+     Ktosi musel byť nablízku.
+    </tei:p>
+    <tei:p>
+     Irena sa obzrela. Ale vzhliadla len do tmy. A keď sa lepšie   rozhľadela, zdalo sa jej, že v tme rysuje sa tmavšia škvrna od tmy,   ktorá sa pohybuje. Äno. Nemôže sa mýliť. Bola to mužská postava,   blížiaca sa s kroka na krok smerom k chate. Na moment zastala. Irena   rozoznávala ju medzi tmou, chvíľami sa nazdávajúc, že to klam. Že .to   tieň niektorej svrčiny, alebo, že je to hustejší ker. Chvíľku bolo   ticho. Nehlo sa ani steblo trávy.
+    </tei:p>
+    <tei:p>
+     V napätej tichosti Irena cítila, že je to nie monotónny šum. Ani   dych lesa — ale dych človeka, ktorý stál a ťažko oddychoval. Chvíľami   dych bol tlmený, tichý, ale predsa zrejmý.
+    </tei:p>
+    <tei:p>
+     Mužský sa pohol. Irena sa pritisla lepšie k zemi, strežiac, čo   bude ďalej. Mužský odbočil viac k nej. Irene tĺklo
+    </tei:p>
+    <tei:p>
+     46
+    </tei:p>
+    <tei:p>
+     ﻿srdce kdesi v hrdle. Neznámy sa priblížil temer na dosah. Irena   čupela v tráve, ani nehnúc brvou.
+    </tei:p>
+    <tei:p>
+     Naraz jej ten človek bol povedomý. Bol to — Remir.
+    </tei:p>
+    <tei:p>
+     Momentálne pocítila nesmiernu radosť z tohto stretnutia. Keď   hľadala príčinu tejto radosti, nevedela napochytre, či má radosť z   jeho osoby, alebo zo svojho dôvtipu, ktorý ju priviedol na správny   chodníček, vedúci ku chate „T”. Ale i keď mala dvojakú radosť, predsa   nevedela pochopiť, odkiaľ Remir prišiel. Podľa čoho sa sem   dostal.
+    </tei:p>
+    <tei:p>
+     Remir sa náhle obrátil.
+    </tei:p>
+    <tei:p>
+     V ruke zaleskla sa mu zbraň. Mieril na ňu.
+    </tei:p>
+    <tei:p>
+     Jej radosť presahovala medze opatrnosti. Pohla sebou. A tým sa   prezradila. Šuchot zoschlej trávy a prudkejší dych, dotkly sa   Remirovej ostražitosti.
+    </tei:p>
+    <tei:p>
+     — Pán Remir! Som to ja, Irena!
+    </tei:p>
+    <tei:p>
+     Jej šepot bol pre Remira nesmiernou úľavou. Skočil k nej, vzal jej   ruky do svojich.
+    </tei:p>
+    <tei:p>
+     — Málo chýbalo, že som nestrelil! — povedal jej. — Kde sa tu   beriete! Povedzte! Veď prísť na toto miesto vyžadovalo pre mňa toľko   námahy! A vy tu! A potom vraj, nehodíte sa na toto povolanie! Je tu   Larn, neviete?
+    </tei:p>
+    <tei:p>
+     — Neviem. Ale istotne. Bol v Bratislave. Zamknul ma do svojho   bytu, keď zistil, že som v službách protišpionáže . . . Neviem, ako   sa to dozvedel.
+    </tei:p>
+    <tei:p>
+     A rozpovedala mu v krátkosti posledné udalosti.
+    </tei:p>
+    <tei:p>
+     — Viete, čia je to chata? — spýtala sa ho.
+    </tei:p>
+    <tei:p>
+     Prisvedčil:
+    </tei:p>
+    <tei:p>
+     — Viem. Musíme pokračovať veľmi opatrne. Patrí istému vyššiemu   úradníkovi z istého vyslanectva. Bude dobre, keď sa priblížime k nej.   Vy choďte s jednej a ja s druhej strany.
+    </tei:p>
+    <tei:p>
+     47
+    </tei:p>
+    <tei:p>
+     ﻿Opatrne sa priplichtili k stenám chaty. Kone pri veľkom „T”   nepokojne zaerdžaly. To prinútilo Remira vrátiť sa, len Irena   nevenovala tomu takú pozornosť. Mala teda náskok pred Remirom.   Hrozilo síce, že sa prezradia, keby niekto z chaty vyšiel. Ale   nestalo sa tak. S náskokom získala obraz, ktorý sa jej naskytol, keď   pozrela oknom, zastretým priesvitnou záclonou, do chaty.
+    </tei:p>
+    <tei:p>
+     Chata bola moderne zariadená. Nechýbaly ani pohodlné klubovky.   Steny boly vyzdobené kobercami a kožušinami. Usúdila v chytrosti, že   v chate sú tri miestnosti.
+    </tei:p>
+    <tei:p>
+     Miestnosť, do ktorej nazrela, bola ako by predsieňou, zariadená   pre väčšiu spoločnosť. Bolo tam šesť kluboviek a v rohoch pri širokom   okne vpredu umiestnené boly pohodlné otomany.
+    </tei:p>
+    <tei:p>
+     Uprostred bol okrúhly, dosť veľký stôl, nad ktorým visela   petrolejová moderná lampa, svietiacia silným, jasným svetlom.
+    </tei:p>
+    <tei:p>
+     Okolo stola v klubovkách sedeli štyria mužskí. Trom sa dívala   priam do tvári, štvrtý bol obrátený chrbtom k nej. Ale i tak ho   poznala.
+    </tei:p>
+    <tei:p>
+     Bol to Larn.
+    </tei:p>
+    <tei:p>
+     Ostatných nepoznala.
+    </tei:p>
+    <tei:p>
+     Práve hovoril, živo gestikujúc. Jeden z mužských, vysokej   vojenskej postavy, vstal a Larnovi čosi vravel. Irena potisla oblok,   ktorý nebol zdnuky zavretý, len privretý. Počula:
+    </tei:p>
+    <tei:p>
+     — Zostali by sme pri našom návrhu! — mužský hovoril lámanou s   slovenčinou. Bolo vidieť, že bol cudzinec.
+    </tei:p>
+    <tei:p>
+     Mužský pokračoval:
+    </tei:p>
+    <tei:p>
+     — Máme možnosť vás vyslobodiť. Išlo by o plány toho tretieho. Naša   vláda si vysoko cení vedeckú Topoľovú čin-
+    </tei:p>
+    <tei:p>
+     48
+    </tei:p>
+    <tei:p>
+     ﻿nosť. Ochotne zvýšime vám sľúbenú sumu o päťdesiat percent, akže   plány toho tretieho budete nám môcť dať do troch dní!
+    </tei:p>
+    <tei:p>
+     — Ak budem môcť niečo vykonať, urobil by som to ešte tejto noci.   Avšak žiadal by som vyplatenie celej čiastky vopred.
+    </tei:p>
+    <tei:p>
+     Mužský sa odmlčal.
+    </tei:p>
+    <tei:p>
+     — To nejde. Ale môžeme vám sumu dať z ruky do ruky: Vy dáte plány   a my vám vyplatíme zmienenú čiastku.
+    </tei:p>
+    <tei:p>
+     — Súhlasím! — povedal Larn. Odprevadíte ma do Skalnatej doliny   ešte teraz. Za poldruhej hodiny boli by sme na mieste. Pokúsim sa v   noci vkradnúť sa do vily.
+    </tei:p>
+    <tei:p>
+     — Rýchlikom však nemôžete cestovať. Kolega pôjde s vami do   Bratislavy. V dedine máme auto.
+    </tei:p>
+    <tei:p>
+     Iný muž sa zdvihol a dodal:
+    </tei:p>
+    <tei:p>
+     — Auto diplomatov neprezerajú. Nebojte sa. Ak bude treba, zaveziem   vás až za hranice.
+    </tei:p>
+    <tei:p>
+     — Za hranice — Švajčiarska? — spýtal sa Larn opatrne.
+    </tei:p>
+    <tei:p>
+     — Až za hranice Švajčiarska! — a zapálil si cigaretu. — S vami   rátam aj — vo Švajčiarsku! Tam nám môžete byť tiež užitočný. Keď sa   však chcete k niečomu rozhodnúť, nesmiete strácať čas.
+    </tei:p>
+    <tei:p>
+     Larn vtom urobil pohyb, ktorý svedčil, že sa rozhodol. Vstal a   šiel ku dverám. Mužskí, ktorí sedeli, sa tiež zdvihli. Bolo vidieť,   že idú tiež s ním.
+    </tei:p>
+    <tei:p>
+     Irena cúvla do húštiny.
+    </tei:p>
+    <tei:p>
+     O chvíľku videla Larna a jeho spoločníkov nasedať na kone. Miernym   klusom pustili sa do doliny.
+    </tei:p>
+    <tei:p>
+     Remir, ktorý tiež sledoval ich odchod, uvažoval. Irena zbadajúc   jeho pohľad na poslednom koňovi, ktorý tam zo-
+    </tei:p>
+    <tei:p>
+     49
+    </tei:p>
+    <tei:p>
+     4
+    </tei:p>
+    <tei:p>
+     ﻿stal uviazaný pri veľkom „T”, uhádla jeho myšlienku. Ale čakala,   čo povie. Podotkla;
+    </tei:p>
+    <tei:p>
+     — Poznali ste ich?
+    </tei:p>
+    <tei:p>
+     — Áno. Bol to Larn, šofér a úradník vyslanectva. Ten, čo ostal v   chote, volá sa sa plukovní Feyer a je pobočníkom vojenského   pridelenca. Má na starosti priemyselnú a vojenskú špionáž. Ale   nesmieme čakať. Idem za nimi! — a urobil pokus ísť ku koňovi.
+    </tei:p>
+    <tei:p>
+     Plukovník Feyer vyšiel vtom pred chatu. Remir cúvol a Irena chytro   povedala;
+    </tei:p>
+    <tei:p>
+     — Vyčkajte! Upútam jeho pozornosť!
+    </tei:p>
+    <tei:p>
+     A prešla húštinou, vyjdúc na čistinku s rozčuchranými vlasami.
+    </tei:p>
+    <tei:p>
+     Plukovník Feyer fajčil pred chatou. A díval sa na mierne zamračenú   oblohu.
+    </tei:p>
+    <tei:p>
+     Keď zbadal Irenu, odhodil cigaretu a popošiel jej naproti.
+    </tei:p>
+    <tei:p>
+     — Prepáčte, — povedala Irena. — Zablúdila som. Stalo sa mi to prvý   raz. Nepoznám tento kraj.
+    </tei:p>
+    <tei:p>
+     — Neviem dobre po slovenský, — ospravedlňoval sa plukovník. — Ale   dúfam, že sa dorozumieme. Ráčte dnu. Občerstvíte sa a ak dovolíte,   odprevadím vás trochu.
+    </tei:p>
+    <tei:p>
+     Irena, tváriac sa, že je ustatá, šla do chaty. Plukovník zrejme   chcel hrať gavaliera. Ponúkol ju, aby si sadla.
+    </tei:p>
+    <tei:p>
+     Remir medzitým pristúpil ku koňovi, odopäl ho od veľkého „T” a   vysadol naň, prudkým klusom rútiac sa do Skalnatej doliny. Vtedy   plukovník Feyer ponúkol Irene šálku teplého čaju.
+    </tei:p>
+    <tei:p>
+     50
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VIII.
+    </tei:head>
+    <tei:p>
+     Na kraji lubochnianskeho lesa zastali traja jazdci. Jeden -z nich   sostúpil s koňa a kráčal podlesím. Druhý sa pustil miernym cvalom do   dediny. Tretí zostal a čakal na mieste.
+    </tei:p>
+    <tei:p>
+     Vtedy za záclonou vily Agáty mihol sa tieň toho tretieho ... A v   predsieni obliekala si Agáta kabát. Pri nej stála Alica, netrpezlivo   čakajúc na jej odchod.
+    </tei:p>
+    <tei:p>
+     •— Otče! — zavolala Agáta do dverí. — Idem sa pozrieť, ■či Irena   prišla. Alicu si beriem so sebou.
+    </tei:p>
+    <tei:p>
+     — Lorda nechaj v záhrade, — povedal profesor. A Agáta prisvedčila.   Zhasila svetlo v predsieni a odišla. Pred očami mala široký chrbát   tretieho, ako ho zazrela pred odchodom.
+    </tei:p>
+    <tei:p>
+     Ľahký mráz jej prešiel chrbtom, keď si naň pomyslela. I keď sa už   nebála, ako zpočiatku, jednako vzbudzoval u nej strach, najmä teraz,   keď vyšla do tmavého večera.
+    </tei:p>
+    <tei:p>
+     Zastala u vrát záhrady a videla tretieho vrátiť sa k otcovi. Na   chvíľu postála pri bráne a pozorovala. Tieň tretieho mihal sa sem-ta.   Len teraz jej prišlo na um, že musí oblok lepšie zastrieť, aby nebolo   tak vidno. Len oni dvaja žijú
+    </tei:p>
+    <tei:p>
+     4*
+    </tei:p>
+    <tei:p>
+     51
+    </tei:p>
+    <tei:p>
+     ﻿vo vile, a ten tretí, to bol tieň, zjavujúci sa zvečera za   záclonou obývacieho salónika.
+    </tei:p>
+    <tei:p>
+     Pustila sa cestou k hotelu, v ktorom Irena bývala. A teraz pri   takomto úmysle, navštíviť ju, uvažovala o príčine a o všetkom, čo ju   znepokojovalo, zvlášť čo sa Ireny týkalo.
+    </tei:p>
+    <tei:p>
+     Nechcela sa dožiť výčitiek s jej strany, v prípade, že by sa   dostala pod zorným uhlom priateľskeej náklonnosti k Larnovi do   ťažkého vyšetrovania a ku kompromitácii.
+    </tei:p>
+    <tei:p>
+     Chcela ju priateľsky upozorniť na následky takéhoto priateľstva a   tiež požiadať o naprostú mlčanlivosť, čo sa toho tretieho týkalo .. .   Lebo od toho večera, kedy navštívila vilu Agátu, nebolo možno sa s   ňou rozprávať. Agáta rátala nájsť u nej toľko porozumenia.
+    </tei:p>
+    <tei:p>
+     Tiež ing. Marvan jej prišiel na um. Pri spomienke na neho,   usmievala sa ľahkým, temer rozpačitým úsmevom.
+    </tei:p>
+    <tei:p>
+     Vtedy, keď Agáta zahla do aleje, z lesa vystúpil Larn a zabočil   poza vilu Agátu, k zadným záhradným dvierkam.
+    </tei:p>
+    <tei:p>
+     Larn nemal mnoho času. Vedel o tom. Preto jednal chytro. Vošiel do   predsiene bez toho, žeby Lord to spozoroval. Pes stál pri predných   dvierkach, dívajúc sa za odchádzajúcou Agátou a Alicou. Skučal   nespokojne nad takouto zradou, nechať ho samotného v záhrade.
+    </tei:p>
+    <tei:p>
+     Takáta poníženosť zaľahla mu veľmi na jeho statné verné srdce.   Prednými labami dotýkal sa brány a oči mu horely zármutkom.
+    </tei:p>
+    <tei:p>
+     Larn využijúc tohto Lordovho žiaľu, dostal sa ku dverám obývacieho   salónika, ktoré keď otvoril, videl ísť profesora ing. Topoľa hore   schodmi do svojej pracovni v izbe vo vežičke.
+    </tei:p>
+    <tei:p>
+     Toho tretieho si Larn nevšimol. Ten stál za dvermi.
+    </tei:p>
+    <tei:p>
+     52
+    </tei:p>
+    <tei:p>
+     ﻿Larn vybehol hore schodmi. A vrútil sa do profesorovej izby.   Profesor ani nemukol. Tak bol prekvapený.
+    </tei:p>
+    <tei:p>
+     Sviazal ho a do úst vložil mu šatku. Larnov pohľad zistil, že   profesor mal úmysel pracovať na plánoch tretieho, lebo spisy,   týkajúce sa tohto, ležaly rozprestreté na písacom pracovnom   stole.
+    </tei:p>
+    <tei:p>
+     — Tak! — zabručal Larn víťazoslávne. — A teraz si prezriem vaše   poznámky, pán profesor.
+    </tei:p>
+    <tei:p>
+     A plány začal dávať dohromady.
+    </tei:p>
+    <tei:p>
+     Profesor Topoľ nemohol sa ani pohnúť, ani zvolať. Kropaje potu   rozlialy sa po jeho čele.
+    </tei:p>
+    <tei:p>
+     Medzitým Lord, skučiac nad zradou Alicinou a Agátinou, rozbehol sa   po záhrade ako zjašený. Behal sem-ta, až narazil na Larnovu   stopu.
+    </tei:p>
+    <tei:p>
+     Zdvihol pysk do výšky a ňuchal. Potom sa pustil za stopou ...
+    </tei:p>
+    <tei:p>
+     Pootváral si dvere v predsieni a hore schodmi šiel s takou   opatrnosťou, ako by sa obával stratenia stopy.
+    </tei:p>
+    <tei:p>
+     Larn vložil plány tretieho do kartónovej obálky a sháňal ešte   nejaké veci, užitočné pre jeho chlebodárcov.
+    </tei:p>
+    <tei:p>
+     Vtom počul vrzgnutie dvier. Prudko sa obzrel.
+    </tei:p>
+    <tei:p>
+     Dvere sa rozletely a Lord ostal stáť na ich prahu. Snížil sa k   zemi, ľahol si na predné dlapy, potom s úskokom odmeriaval   vzdialenosť medzi ním a Larnom, srsť sa mu ježila a jeho oči dostaly   zloveštiaci lesk.
+    </tei:p>
+    <tei:p>
+     Priblížil sa rapídnou rýchlosťou a v zápätí sa vymrštil, skočil na   Lama, hľadajúc jeho hrdlo . . .
+    </tei:p>
+    <tei:p>
+     Tesáky sa lesklý vo svetle žiarovky. Pes zúriac, trhal s Larna s   najväčšou zúrivosťou šaty.
+    </tei:p>
+    <tei:p>
+     Larn sa snažil dostať do vrecka ruku, kde mal zbraň.
+    </tei:p>
+    <tei:p>
+     53
+    </tei:p>
+    <tei:p>
+     ﻿Odrážal psove útoky kopaním a bitím. Pes ho však všade chmatol.   Larnovi tiekla krv z rúk, z tvári.
+    </tei:p>
+    <tei:p>
+     Až napokon sa Larnovi podarilo vytrhnúť zbraň z vrecka. Výstrel   zahrmel a Lord, stelesnená zvieracia vernosť, odpadol, slabo   zaskučiac, zostal nehybne ležať.
+    </tei:p>
+    <tei:p>
+     — Je po ňom! — zašeptal strnulé Larn, prudko oddychujúc. A veľmi   sa poponáhľal k odchodu. Plány mal pod pazuchou. Kopol Lorda do   chrbta.
+    </tei:p>
+    <tei:p>
+     — Beštia! — zasyčal, aby si uľavil.
+    </tei:p>
+    <tei:p>
+     Profesor ing. Topoľ dusiac sa, pozoroval ho pomerne pokojne.   Nemohol ani kričať, ani sa pohnúť. Pripadal si ako hospodár, ktorý   nemôže zachraňovať svoj dom, horiaci plameňom, keď prázdna je studňa   ...
+    </tei:p>
+    <tei:p>
+     Ale i keď jeho sily boly sviazané, sila myšlienky sa dotkla   tretieho. Tretí nemohol tak chytro prísť, ako to bolo treba. Avšak   predsa prišiel.
+    </tei:p>
+    <tei:p>
+     Larn chcel práve vykročiť z profesorovej pracovni, keď tretí sa mu   postavil do cesty.
+    </tei:p>
+    <tei:p>
+     Larn zdesený cúvol.
+    </tei:p>
+    <tei:p>
+     Z očí toho tretieho šľahalo svetlo. Larn bleskurýchle strelil dva   razy. Ale ten tretí mlčky, ani nereagujúc, zavrel dvere.
+    </tei:p>
+    <tei:p>
+     — Nikde nepôjdete! — povedal rázne,
+    </tei:p>
+    <tei:p>
+     Larn vystrelil tretí, štvrtý raz.
+    </tei:p>
+    <tei:p>
+     Tretí sa rozosmial.
+    </tei:p>
+    <tei:p>
+     — Už ma môžete poznať! ... — povedal. — Položte plány na stôl.   Ihneď!
+    </tei:p>
+    <tei:p>
+     Larn sa zoškeril:
+    </tei:p>
+    <tei:p>
+     — Obluda! — zasyčal.
+    </tei:p>
+    <tei:p>
+     Na tele mu naskočila husia koža. Už sa ho hrôza zmoc-
+    </tei:p>
+    <tei:p>
+     54
+    </tei:p>
+    <tei:p>
+     ﻿ňcvala. Zježené vlasy tretieho mu pripomínaly zvierací, skoro   predpotopné mŕtvolný vzhľad.
+    </tei:p>
+    <tei:p>
+     Ten tretí udrel si na prsia:
+    </tei:p>
+    <tei:p>
+     — Ja som ten tretí!
+    </tei:p>
+    <tei:p>
+     A Larn s hrôzou v ňom spoznával profesora Topoľa. Tak sa mu   podobal jeho hlas. Tretí sa zasmial: — Ja som profesor, ing. Topoľ!   Ja! Ja som ten tretí! — a bil sa do pŕs, pričom jeho hruď dunela   mohutnými údermi. Jeho ruky boly ťažké ako olovo. A predsa s nimi   ľahko pohyboval.
+    </tei:p>
+    <tei:p>
+     — Vráťte plány! — a keď Larn sa nemal k činu, ale obchádzal ho,   snažiac sa dostať mu od chrbta, tretí vytrhol mu ich z ruky. Ale Larn   mu ich chytro zasa vzal. Larn zbadal, že tretí nemá v rukách takú   citlivosť. Využil toho. Ale tretí spozoroval jeho zámer. Keď sa Larn   chytal kľučky dvier, tretí prudkým úderom sa dotkol jeho slúch, a   Larn odpadol ako panák z handár.
+    </tei:p>
+    <tei:p>
+     Potom tretí pristúpil k profesorovi a uvoľnil mu ruky. V tej   chvíli ostal nehybne stáť pri stoličke. *
+    </tei:p>
+    <tei:p>
+     Poľná cesta sa rozvírila prachom.
+    </tei:p>
+    <tei:p>
+     Remir odchádzal od chaty „T” na dobrom jazdeckom koni. Vojenčil   pri jazdeckom pluku, nuž nebolo preň ťažko znovu privykať na   sedlo.
+    </tei:p>
+    <tei:p>
+     Vila Agáta ho privítala tichosťou. Ihneď vybehol po schodoch. A   mal predsa len šťastie. I keď všetko nezazrel. Ale ten jedinečný úder   toho tretieho, ktorým Larna srazil na zem, zostane mu navždy v   pamäti.
+    </tei:p>
+    <tei:p>
+     Od prekvapenia nebol schopný ani slova vyrieknuť, keď videl toho   tretieho kráčať k profesorovi a vyslobodiť ho z remienok.
+    </tei:p>
+    <tei:p>
+     55
+    </tei:p>
+    <tei:p>
+     ﻿Vtedy Topoľ zbadal Remira.
+    </tei:p>
+    <tei:p>
+     — Prišiel som neskoro! — povedal Remir.
+    </tei:p>
+    <tei:p>
+     — Neskoro, ale predsa včas! — povedal profesor ing. Topoľ. Povedal   to práve vo chvíli, keď sa Agáta vracala do vily, nenájduc Irenu v   hoteli.
+    </tei:p>
+    <tei:p>
+     Alica ju predbehla.
+    </tei:p>
+    <tei:p>
+     V predsieni počula Agáta: — Alica! Nechaj ho!
+    </tei:p>
+    <tei:p>
+     To skričal jej otec.
+    </tei:p>
+    <tei:p>
+     Agáta myslela, že toho tretieho, ale keď vošla a naskytol sa jej   hrozný obraz, vtedy všetko pochopila.
+    </tei:p>
+    <tei:p>
+     Remir jej pomohol vyniesť mŕtvého Lorda do záhrady pri stálom   Alicinom zavýjaní.
+    </tei:p>
+    <tei:p>
+     — Úbohá Alica! — povedala Agáta. — Stratila verného druha!   Stratila kamaráta! Ako zavýja! — dodala ešte k Remirovi.
+    </tei:p>
+    <tei:p>
+     Alica chytila Lordovu nohu a ťahala ho, snažiac sa ho vzbudiť.
+    </tei:p>
+    <tei:p>
+     — Lord nežije, Alica! — povedala jej Agáta.
+    </tei:p>
+    <tei:p>
+     Ako by pochopila význam Agátiných slov, stala si k Lordovi a ticho   vyla do prichádzajúcej noci.
+    </tei:p>
+    <tei:p>
+     56
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿IX.
+    </tei:head>
+    <tei:p>
+     Dni utekaly. Ing. Ivan Marvan túlal sa lubochnianskýmí lesmi,   lúčiac sa v duchu s Ľubochňou.
+    </tei:p>
+    <tei:p>
+     Bol rozhodnutý odcestovať v najbližších dňoch. Rátal, že odcestuje   zajtra, ba ešte toho dňa, ale odchod odkladal so dňa na deň.
+    </tei:p>
+    <tei:p>
+     Až sa napokon stalo niečo neočakávaného.
+    </tei:p>
+    <tei:p>
+     Práve keď balil, roztvorily sa dvere a dnu vstúpila Agáta. Za ňou   stála Alica.
+    </tei:p>
+    <tei:p>
+     Marvanovi pripadal tento deň ako ten prvý, keď Agáta vstúpila do   izby a žiadala o dovolenie vziať si — zbraň. A potom, keď žiadala od   neho dopis ...
+    </tei:p>
+    <tei:p>
+     Marvan nebol vstave slovo povedať. A Agáta stála chvíľu mlčky,   dívajúc sa na neho s akýmsi pochopením jeho úžasu. Inokedy vážna a   odmietavá, dnes šla k nemu a podala mu ruku.
+    </tei:p>
+    <tei:p>
+     — Prepáčte, — povedala, — že vyrušujem.
+    </tei:p>
+    <tei:p>
+     57
+    </tei:p>
+    <tei:p>
+     ﻿— Temer vás nepoznávam, — povedal jej Marvan. — Ste to vôbec vy?   .. .
+    </tei:p>
+    <tei:p>
+     — Áno, som to ja, Agáta Topoľová! — povedala. — Dopočula som sa o   vašom úmysle, odísť ... Nuž rozhodla som sa vás hneď navštíviť a   požiadať vás o prepáčenie ... Stály sa medzi nami, vzhľadom na   okolnosti, v ktorých som žila, isté nedorozumenia. .. Nebolo to mojou   vinou. A že som sem prišla, je to vlastne želanie môjho otca, ktorý   vás chce bližšie poznať, lebo shodou okolností, skoro by povedala   osudových, nazreli ste do .. . — nedokončila.
+    </tei:p>
+    <tei:p>
+     Marvan povedal:
+    </tei:p>
+    <tei:p>
+     — Do záhadnej vily Agáty?
+    </tei:p>
+    <tei:p>
+     — Áno. Podľa vašej predstavy, áno!
+    </tei:p>
+    <tei:p>
+     — Ale vysvetlite mi, kto vám povedal, že odchádzam? Vôbec,   nerozumiem, aká príčina je v tom, že ste prišli sem, ku mne, vy,   odmietavá, hrdá — filozofka!
+    </tei:p>
+    <tei:p>
+     Usmiala sa.
+    </tei:p>
+    <tei:p>
+     — Už som povedala: Myšlienka sa nestratí! Ak to pochopíte, nie je   treba viac vysvetľovať.
+    </tei:p>
+    <tei:p>
+     Marvan sa nechápavo zatváril. — Pozrite sa, pán inžinier .. . —   Ako vy viete, že som inžinier? ... — Viem to. Povedal mi to ...
+    </tei:p>
+    <tei:p>
+     — Kto? — zvolal Marvan. Ticho povedala:
+    </tei:p>
+    <tei:p>
+     — Ten tretí!
+    </tei:p>
+    <tei:p>
+     — Kto??
+    </tei:p>
+    <tei:p>
+     58
+    </tei:p>
+    <tei:p>
+     ﻿— Ten tretí! Poďte k nám, predstavím vám ho! — a
+    </tei:p>
+    <tei:p>
+     urobila pohyb k odchodu. Ukázala na dvere a Alica skočila k   Marvanovi, ťahala ho za kabát.
+    </tei:p>
+    <tei:p>
+     Agáta sa zasmiala.
+    </tei:p>
+    <tei:p>
+     — Múdre zviera! — povedal Marvan. A pripojil sa k Agáte. Vyšli z   vily Kovalského, pripadajúc si, ako dávni priatelia, poznajúci sa už   dávno, hodne dávno.
+    </tei:p>
+    <tei:p>
+     I Agáte to tak pripadalo.
+    </tei:p>
+    <tei:p>
+     Alejou, ktorou šli, šuchotilo ihličie. Alica vybehla vopred nich,   prekĺzla sa pootvorenou zadnou bránkou vily Agáty a zastala nad   čerstvým kopčekom. Zavyla smutno a žalostne. A pustila sa do   hrabania?
+    </tei:p>
+    <tei:p>
+     — Čo tam hľadá? — spýtal sa Marvan so záujmom.
+    </tei:p>
+    <tei:p>
+     — Lord tam leží! Larn ho zastrelil. Vy o tom nič neviete, že Larn   bol zatknutý?
+    </tei:p>
+    <tei:p>
+     Marvan vyjavené pozrel sa na ňu. A požiadal ju, aby mu vysvetlila   udalosť. Agáta povedala krátko, čo sa stalo v posledných dňoch.
+    </tei:p>
+    <tei:p>
+     — Alica! — zavolala Agáta.
+    </tei:p>
+    <tei:p>
+     Vošli do vily.
+    </tei:p>
+    <tei:p>
+     — Tu je pán inžinier Marvan, otecko! — predstavila ho Agáta.
+    </tei:p>
+    <tei:p>
+     Starý profesor podal Marvanovi ruku.
+    </tei:p>
+    <tei:p>
+     — Vítajte u nás! Teší ma, že ste prišli, — povedal profesor ing.   Topoľ a ponúkol ho cigaretou, ukážuc na klubovku.
+    </tei:p>
+    <tei:p>
+     — Sadnite si! Ste inžinierom rádiotechniky. Čo poviete na môj   návrh: Staňte sa mojim spolupracovníkom.
+    </tei:p>
+    <tei:p>
+     59
+    </tei:p>
+    <tei:p>
+     ﻿— Ja, pán profesor?
+    </tei:p>
+    <tei:p>
+     — Vybral som si vás, pán inžinier.
+    </tei:p>
+    <tei:p>
+     — Ale, pán profesor, veď o mne nič neviete a ja temer nič zasa o   vás ... Len toľko, že vila Agáta je záhadnejšou so dňa na deň. Vo   vile Agáte dejú sa podivné veci. Súhlasí to, pán profesor?
+    </tei:p>
+    <tei:p>
+     — Súhlasí! Ale, — usmial sa profesor shovievavo, milo a   priateľsky, — ale nie je to tak. . . Nie je v tom žiadna záhada. A   žiadny zločin! A potom, o vás viem dosť. Viem vaše myšlienky.   Nezazlievajte mi to. Chytil som vaše myšlienky . .. Pochopíte . . .   Počúvajte!
+    </tei:p>
+    <tei:p>
+     — Už od rokov, — začal profesor, — pracujem na svojej téze, že   myšlienka je sila, ktorá sa dá prakticky dokázať. Na tomto základe   som pracoval a pracujem. Snažil som sa myšlienkou uviesť niečo do   pohybu. Moja dcéra Agáta, i keď si často vyčitujem, že som ju vzal k   sebe ako spolupracovníčku, vedela by veľa rozprávať, počnúc od   začiatku . . . Najmä od vtedy, od určitej chvíle, keď začal existovať   — ten tretí.. .
+    </tei:p>
+    <tei:p>
+     — Ten tretí? — vydýchol ing. Marvan.
+    </tei:p>
+    <tei:p>
+     — Áno. Menujem ho tak, aké meno má medzi nami a tiež tak, ako ho   aj vy poznáte: Ten tretí! A ten tretí, pán inžinier, pozrite sa, ide   práve sem . . .
+    </tei:p>
+    <tei:p>
+     Marvan obzrel sa.
+    </tei:p>
+    <tei:p>
+     I videl toho tretieho otvoriť dvere izby vo vežičke a sostupovať   dolu schodami. Marvan sa zdvihol. — Len seďte ... Agáta. Pusť Alicu   von do chodby ... ■—- upozornil na to profesor a Agáta vzala Alicu za   ohlávok a vypustila ju zo salónika.
+    </tei:p>
+    <tei:p>
+     60
+    </tei:p>
+    <tei:p>
+     ﻿— Ten tretí zachytil moju myšlienku a prišiel sa vám predstaviť, —   povedal profesor práve vo chvíli, keď tretí prišiel až k Marvanovi a   uklonil sa pred ním, podal mu svoju ťažkú ruku.
+    </tei:p>
+    <tei:p>
+     — Som tretí! — povedal.
+    </tei:p>
+    <tei:p>
+     Marvanovi naskočila husia koža na chrbte. Zdvihol sa, ale pod   tlakom profesorovho pohľadu, sadol si opäť a pozeral sa na tretieho   pohľadom, v ktorom bolo chvíľkové nepochopenie, podvedomá bázeň a   akýsi neurčitý druh hrôzy.
+    </tei:p>
+    <tei:p>
+     Tretí pokračoval:
+    </tei:p>
+    <tei:p>
+     — Profesor Topoľ vložil do mňa život. Vložil do mňa tie   najjemnejšie súčiastky mechanizmu, aké len ľudský mozog v prítomnom   storočí vynašiel. Tieto súčiastky hýbu mnou, hovoria mojimi ústami,   ale sú to myšlienky profesora inžiniera Topoľa! Aparát, pozostávajúci   z týchto jemných súčiastok, prijíma myšlienky vysielané do diaľky   päťsto metrov. Chápete teda, pán inžinier, aký to má význam? !
+    </tei:p>
+    <tei:p>
+     Marvan úžasol a povedal:
+    </tei:p>
+    <tei:p>
+     — Chápem, pán profesor! — podal profesorovi ing. Topoľoví ruku. —   Dovoľte mi, aby som vám gratuloval k takémuto epochálnemu vynálezu.   Som priamo ohromený týmto geniálnym vynájdením! Je to dielo, ktoré   vás i náš národ preslávi za hranicami.
+    </tei:p>
+    <tei:p>
+     — Ďakujem vám, — povedal profesor. Vidím vo vás oddaného   spolupracovníka. A dúfam, i učenlivého žiaka.
+    </tei:p>
+    <tei:p>
+     -— Bude mi cťou, pán profesor, keď budem môcť byť
+    </tei:p>
+    <tei:p>
+     61
+    </tei:p>
+    <tei:p>
+     ﻿vaším žiakom. Sľubujem vám, že vás nesklamem, — povedal Marvan a   stisol podávanú profesorovu ruku.
+    </tei:p>
+    <tei:p>
+     — Sme teda dohovorení! Odo dnes budeme pracovať spolu! Musíme   čeliť rôznym nástrahám zvonku, lebo agenti cudzích vlád sú mi stále v   pätách! Ale ja nechcem, aby sa tento vynález použil ako vraždiaci   nástroj! Nie! — zvolal vášnivo starý profesor. — Nech mi je Boh   svedkom, že nesledujem tento cieľ! Chcem len uľahčiť pracujúcemu   človekovi, aby na nebezpečné miesta poslal stroj — toho tretieho. To   je všetko, čo skrýva záhadná vila Agáta! Dobrú noc!
+    </tei:p>
+    <tei:p>
+     Vstal a odchádzal do svojej pracovni, nasledovaný tretím . . .
+    </tei:p>
+    <tei:p>
+     Marvan, len čo dvere tretí za sebou zavrel, obrátil sa k Agáte a   povedal jej:
+    </tei:p>
+    <tei:p>
+     —• Odpusťte mi, že som vás a vášho otca upodozrieval! Ale boli ste   skutočne taká záhadná! Celým svojím správaním. I slovami.
+    </tei:p>
+    <tei:p>
+     — Je vtom niečo záhadného? — spýtala sa Agáta ticho.
+    </tei:p>
+    <tei:p>
+     Marvan prisvedčil.
+    </tei:p>
+    <tei:p>
+     — Áno, i nie! Ten, kto pochopí rapídny vzmach techniky, ten nie je   prekvapený. To, čo je dnes na papieri, zajtra stáva sa skutočnosťou.   Technika speje. A ľudský duch nespí! Budem šťastný, keď budem môcť   spolupracovať s vaším otcom. A medzi nami, dúfam, že je odpustené,   najmä s vašej strany, lebo ako viem, nevedomosť hriech nespôsobuje. A   neubližuje! Krivdil som vám, i vášmu oteckovi! Časom stali ste sa mi   takou drahou a vzácnou. Mohli by ste mi dôverovať?
+    </tei:p>
+    <tei:p>
+     62
+    </tei:p>
+    <tei:p>
+     ﻿— Viem vaše myšlienky, — povedal mi ich ten tretí, — otázka dôvery   s vašej strany zostáva zbytočná, — povedala Agáta. — Ostáva už len,   či mi budete vy dôverovať?
+    </tei:p>
+    <tei:p>
+     — Agáta! — zašeptal.
+    </tei:p>
+    <tei:p>
+     Vtom šepote bolo vyznanie viery a dôvery.
+    </tei:p>
+    <tei:p>
+     Koniec.
+    </tei:p>
+    <tei:p>
+     63
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

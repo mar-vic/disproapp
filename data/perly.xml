@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1896111" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Perly : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:37793174">
+     Bežo, Ján (1842 - 1905)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5487
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bežo, Ján
+     </tei:author>
+     <tei:title>
+      Perly
+     </tei:title>
+     <tei:pubPlace>
+      Tlačou Jána Bežu a spol.
+     </tei:pubPlace>
+     <tei:publisher>
+      Senica
+     </tei:publisher>
+     <tei:date>
+      1896
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Perly
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿»Ďaleko je slnce od zeme, Ivane?« pýtal sa uštipačne Karol Lipský   v stolárskej dielne otcovej učňa Ivana Snažila. Ivan Snažil, šuhaj   štrnásťročný, čiperný, pohľadu múdreho, oprúc svoje modré oči na   mladého pána, riekol úprimne: »Neviem Karoíko. Jak je ďaleko slnce od   zeme?« Karol chcel sa mu ešte ďalej posmievať, ale to úprimné   vyznanie a poctivé oko Iva* novo zarazilo prúd jeho vtipkovania. I   oto* čil sa na päte a odsekol; »Sto tridsať šesť miliónov kilometrov,   Kubo!« Ivan neriekol ani slova, ale rozvažoval na mysli ohromný ten   počeť a zamerkoval si ho. Toho večera, keď svoju prácu vy* konal,   našiel v dielne knihu o hviezdár* štve, ktorú tam bol Karol   bezpochyby zas budol. S radosťou siahol po nej, popadol tenkú lojovú   sviečku a pospiechal do svo* jej komôrky, aby sa pohrúžil do vznešes   nej vedy. Dychtivo čítal list po liste, a nič ho nevyrušilo z   pozornosti. Polnoc už od* bila. Teprv zhasínajúca sviečka prinútila   ho opustiť drahocennú knihu a položiť sa na lúžko. Ale dlho ešte   nezaspal, premý* šľajúc s podivením o tom, čo bol práve I Študent a   učeň.
+   </tei:p>
+   <tei:p>
+    ﻿4 čítal. Aj ešte vo sne obletovaly ho obrazy nebeských telies:   slncá, mesiace, planéty a všelijaké hviezdy. Nasledujúceho dňa stál   Ivan j ako vždy včasné v dielni pri svojej práci, lež s no* vým   citom: z čiastky radostným nad tým, čoho sa bol dočítal, z čiastky   žalostným, že videl pred sebou nemožnosť navštevovať školu, jako   majstrov syn a tam dôkladne všetkému sa naučiť, po čom dychtivá my*   seľ jeho túžila. »Ale veď sa môžem v noci učiť, keď Ka* rol spí«,   vravil sám k sebe a rozjímal o prostriedkoch, jako si nočné svoje   cviče* nie zariadi. Práve vkročil Karol do dielny a pristú* piac k   Ivanovi, počal sa ho zase uštipačne vypytovať: »Koí’ko kilometrov má   zem v objeme?« »Štyricať tisíc kilometrov na rovníku«, bola rýchla a   určitá odpoveď. Karol sa zarazil, ale za chvíľku riekol s   vysmievavými posunky: »Nu teda my bezpochyby tiež môžeš riecť, koľko   me* siäcov má Jupiter?* »Jupiter má štyri mesiace*, odpovedal Ivan   dôrazne. »£ podívajme sa, hádam ešte i to vieš, koľko má Jupiter   kruhov vôkol seba?« pýtal sa Karol znovu. »Jupiter nemá. kruhov, ale   len jasné pásy, ale Saturn má kruhy®, odpovedal Ivan zase určite.   Karol bol na chvíľu celý pomätený, lebo takých odpovedí sa bol   nenaďál. Od divu
+   </tei:p>
+   <tei:p>
+    ﻿a strachu, aby naposledy otcov učeň viac nevedel, než on sám,   nemohol ani hovoriť. Až po chvíli preriekol: »Ale rád bych preš dsa   vedel, Ivane, od koho si toľko vedo* mostí nadobudnul?« »Z vašej   knihy o hviezdach, ktorú ste včera tu zabudok, odpovedal skromne   Ivan. »Tak? ty sa opovažuješ brať moju kni* hu? To je pekne! Čo ty   máš do mojich kníh? Keď to ešte raz urobíš, uvidíš, čo dostaneš.   Myslím, že by si lepšie urobil, keby si sa pridržal tvojej práce a   nechal na pokoji moje knihy do ktorých ťa nič není«. »Ale však som   svoje práce nezanedbal, čítal som v noci po práci, a knihe vašej som   pranič neurobik. »Však by si aj špatné pochodil, keby si jej bol   niečo urobil. Povedám ti raz na vždy: Mojím knihám pokoj k Úbohý Ivan   sklonil hlavu a zarmútil sa nemálo nad neočakávanými ťažkosťami,   ktoré sa mu naskytly. Peňazí na knihu nemal, ani neznal priateľa,   ktorý by mu jich bol požičal a tým jedinú túžbu jeho vyplnil. Po   nejakom premýšlaní obrátil sa prítulným hlasom k synovi majstrovmu   vraviac: »Karolko, prosím vás, požičajte mi tú knižku, dám na ňu   veľký pozor«. »Nepožičámk odvetil zpurne Karol. Učeň znal dobre   sebeckú povahu maj* strovho syna, o dva roky od neho staršie* ho, a   preto ho viac neprosil. Videl, žeby k 5
+   </tei:p>
+   <tei:p>
+    ﻿6 poučnej zábave ináč neprišiel, lež by si potajme Karolovu knihu   brával, ale to ne? dopustila prirodzená jeho úprimnosť. Od tej doby   premýšľal ustavične, jakoby si podobnú knihu zaopatriť mohol. Ivan   učil sa už na tretí rok, a poneváč bol príčinlivý a vtipný,   nadobudnul si už nemalej obratnosti v tom remesle, pracú? júc skoro   jako dobrý tovaryš. Sediac raz večer po práci v dielne a premýšlajúc   o Karolovej knihe hviezdárskej, napadlo mu, že môže nejakú malú vec   shotoviť a za utr? žené peniaze žiadúcu knihu si opatriť. Hneď   nasledujúceho dňa žiadal si od majstra k tomu dovolenie. Majster   naklonený súc usilovnému svojmu učňovi, dovolil, aby v prázdnych   chvíľach nejaký malý výrobok si shotovil. Radostne počal teraz Ivan   pracovať na ozdobnej schránke (truhličke), ktorú z odpadkov dreva tak   vkusne sostavil a pek? nými ozdobami opatril, že mohla považo? vať sa   za malé majstrovské dielo. Nadeja,. že schránkou tou príde k túžobne   žiada? nemu cieľu, dodávala mu chuti a pilnosti pri nočnej práci. Za   tri týdne bola schrán? ka hotová. Ostýchavým krokom prechádzal sa po?   tom za niekoľko večerov po meste, oboze? rajúc sa po kupcovi, ktorý   by mu schránku jeho odkúpil. Päť zlatých, ktoré za ňu žia? dal, zdály   sa mu byť pokladom, ktorým vr? chol svojich všetkých práni uskutoční.   Konečne vstúpil tiež do domu pána Šťa?
+   </tei:p>
+   <tei:p>
+    ﻿stného, ktorý vystavil nedávno pred me* stom veľkolepú dielnu na   rozličné železné a parné stroje. »Čo chcete, mladý muži?« pýtal sa   pán Šťastný vstupujúceho Ivana. »Neráčil byste, pane, kúpiť túto   schrám ku? dám ju lacno®, odpovedal Ivan. »Začo je?« »Za päť zlatých.   Pracoval som na nej tri týždne po dennej práci; ráčte mi veriť, že   stojí najmenej desať zlatých®. »Shoíovil ste ju sám? Schránka je pe*   kne vyvedená. Ale snáď ste ju doma nes vzal? Kto že je vaším pánom   majstrom?® Ivan sa zapálil, a pohnutím mu schránka div z ruky   nevypadla. Skromným, ale do= jemným hlasom vyrozprával teraz príčinu,   prečo tú prácu podnikol, a vylíčil tak ži= vými slovy svoju túžbu po   hviezdárskej knihe, že mu pán Šťastný nielen žiadaných päť zlatých   dal, ale aj krásne viazanú kni* hu o hviezdárstve a počtárstve k tomu   da« roval. »Dajte mi ruku, statný mladíku®, vravil »a pokračujte len   tak ďalej. Úfam, že sa ešte sejdeme. Bude mňa srdečne tešiť, uvi=   dímďi vás ešte tak horlivého za vzdelanie ducha svojho®. Plný radosti   kvapil Ivan domov. Od tej doby vídať bolo každého dňa svetlo v ko=   morke jeho pozde do noci. Knihu o hvies zdach skoro prečítal, ba v   krátkom čase vedel ju celú zpamäti, ale soznal skoro, že mnohému i   pri najlepšej pozornosti nero- 7
+   </tei:p>
+   <tei:p>
+    ﻿8 zumie. I presvedčil sa vďačne, že mu pán Šťastný nie darmo   daroval aj počtárstvo. Novou horlivosťou obrátil tedy pilnosť svoju k   počtárstvu. Za rok už nebolo vety, ktorú by nebol viackrát   prepracoval a sa* mostatne iným spôsobom previedol. Medzi tým bol aj   čas jeho učnovstva prešiel; stal sa tovaryšom. Ďaleko široko nebolo   tak výborného a obratného robot* nika. Ivan za príkladom druhých   vybral sa tiež do sveta. Ztráviac v cudzine niekoľko rokov, vrátil sa   ako dokonalý stolár do mesta, v ňomž sa bol vyučil. Práve v tom čase   otvoril sa tam pričine* ním niektorých osvietených mužov a ľu*   dumilov ústav pre vyššie vzdelanie reme* selníkov. Do toho ústavu   vstúpil Ivan bez meškania. Usporil si za niekoľko rokov niečo peňazí,   ktoré chcel teraz k dokoná* lejšiemu vzdelaniu svojmu upotrebiť. I tu   obrátil na seba pozornosť podporcov ústa* vu, medzi nimi bol tiež pán   Šťastný. Tí poslali potom schopného mladíka na poly* technický ústav,   kde vedeckou dôkladno* sťou základy všetkých priemyslových ná* uk si   nadobudnul. Po skončených štúdiách stal sa správcom, pozdejšie aj   spolumaji* teľom veľ dielny pána Šťastného. Preslá* viac svoje meno   znamenitými vynálezy, rátal sa k najbohatším a najvzdelanejším   občanom svojej vlasti A jako sa viedlo medzi tým Karolovi Lipskému?   Vstúpiac devätnástym rokom na vysoké
+   </tei:p>
+   <tei:p>
+    ﻿školy, oddal sa učeniu právnickému. Plyš tký základ, jaký si   nadobudnul na stred* ných školách, nebol s to, aby obrátil snahu jeho   k dôkladnému učeniu. Držiac sa zo* vnajšieho lesku a podporovaný súc   shoví* vavým otcom, vykonal síce predpísané štúdia, ale pri množství   schopnejších spo* lužiakov nepodarilo sa mu obdržať sluš* ného   miesta. Po smrti otcovej zdelil Karol majetok pre počiatočníka v   priemysle síce dosť značný, ale nedostatočný pre toho, kto nič robiť   a len z úrokov živý byť chce. Karol neznajúc šanovať, premrhal za ne*   dlhý čas všetok majetok usilovnosťou ot* covou nadobudnutý. Nastala   trpká bieda. Karol privlastnil si síce všetko, čo patrí k úhľadnému   zovnaj* šku, soznal skoro s úžasom, že ku každej skutočnej práci je   zúplna neschopným. Núzne musel sa teraz živiť pisárstvom, pri čom sa   ukázalo, že i tu je povrchným a nespoľahlivým pracovníkom V biede a   núdzi bol by konečne zahynul, keby šťastnou náhodou bývalý učeň otca   jeho, dozvediac sa o jeho stave, nebol sa ho laskave ujal a stálu   výživu mu zaopas trií. _ * _ Pokrok a pravé vzdelanie nezávisí na nás   vštevách čo jak dobrých škôl, ale na vlas stnej príčinlivosti a na   stálom odhodlanom duchu. Vo školách nemôže sa podávať ves da sama,   ale otvára sa k nej len brána. 9
+   </tei:p>
+   <tei:p>
+    ﻿Každému kto má ducha čilého a bystrého* otvorí sa tam cesta k   najvyššiemu povolá* niu. To buď potechou chudobnému, pri* činlivému,   ale aj výstrahou ľahkomyseľ* nému mladíkovi. 10 ZanglickéhoJ. K.
+   </tei:p>
+   <tei:p>
+    ﻿»Remeslo má zlaté dno«, tak znie pri* slovie ešte zo starých   časov. Je to sve* dectvom toho, že za oných časov spôsobní a usilovní   remeselníci dobré zárobky mali. Ale vtedy boli remeselníci aj vážení   ľ u* dia, nebolo to zriedkavosťou, že v hrdom slobodnom kráľovskom   meste zaujímal miesto mešťanostu statočný krajčírsky alebo obuvnícky   majster. Neni divu, že starí majstrovia tak rádi spomínajú tie staré   časy a prialy by si, keby sa zas i so všetkými starými remeselníckymi   ponad* kami navrátily! Ale keby sa to dalo preš viesť, tak by s tým   nebolo pomoženo; mm selo by sa tisíc a tisíc strojov (mašín) zni* čiť   a tiež toľko továrni (fabrík) zboriť, lebo čo predtým remeselník na   zdĺhavej ceste v malom počte svojou rukou shoto* voval, to sa teraz   strojmi s tisícerou silou z najväčšou rýchlosťou v nekonečnom po* čte   vykonáva. Keby sa aj našiel tak bláz* nivý národ, čo by sa o dielo   zborenia po* kúsil, ten druhý cieľ by predsa nedosiahol, lebo   fabrikácia u iných národov by tým len mohútnejšie účinkovala. Stroje   a fa* briky sú pokrokom ľudského ducha v obo* re vynálezcov, j ako   kedysi za starých II. Stav remeselnícky.
+   </tei:p>
+   <tei:p>
+    ﻿12 časov boly takým pokrokom nástroje pre remeselníkov. Hľaďme   teda miesto na mi» milosť radšej na prítomnosť a budúcnosť, a obráťme   zreteľ náš na to, čímby sa i te* raz ešte k pozdvihnutiu remeselníka   pri? spelo. Spôsobnosť, usilovnosť, statočnosť, mier* nosť a dôvera v   Boha, to sú tie stĺpy, na ktoré remeselník svoje šťastie stavať má.   Len ak si ho na týchto základoch stavia, môže sa úfať zdaru. Kto ale   chce spôsobným remeselníkom byť, ten musí sa zavčasu k tomu pripravo*   vať, aby si isté známosti a užitočnú obrat= nosť privlastnil. Jeho   pozornosť má byť zo= strená, rozum otvorený, ruka k obratnosti   uspôsobilá. Počtová ť, merať a kŕ es s 1 i ť, to sú požiadavky   velikého významu pre každého budúceho remeselníka. Aby znal hbite   čítať a správne písať sa tiež po= zaduje. Po skončenom školskom behu   vstúpi bu* dúci remeselník u niektorého majstra za učňa. Blaze mu, ak   prišiel do učenia k člo* vekoví spôsobnému, usilovnému a boha*   bojnému! Povinnosť učňova je potom po* zorlivým, usilovným, verným a   poslušným byť a pri takom majstrovi neškodí to mla* díkovi nič, keď v   prísnej podriadenosti trpeť a snášať musí všeličo; on tým len   otvrďuje sa k ľahšiemu snášaniu pozdej* ších nesnádzi a namáhaní.   Tovaryš remeselnícky má vandrovať, to je starý, užitočný zvyk. Nech   vidí, jako sa remeslo vonku vo svete v rozličných diel-
+   </tei:p>
+   <tei:p>
+    ﻿nach prevádza, a keď oči otvorí, doista uvi* dí, že sa aj tovaryš   ešte mnoho, veľmi mnoho učiť má. Nech pohľad svoj rozšíri, z tesného   kruhu života vystúpi. Vandrovanie poskytuje veliké a rozma* nité   výhody poťahom na mravné vzdelá* nie mladého remeselníka. Ono je   dobou ku shromaždeniu bohatého pokladu zkúšeno* sti. Cudzina už   nejednoho slabúcha pre* tvorila na znamenitého muža. Obchod s mnoho   ľudmi, s nimi cestovaním do styku prišiel, blahodajne účinkoval na   neho. Mnohý mladý remeselník prichádza do zlých okolností skrz to, že   chcel zavčasu pánom a majstrom byť. Začne na svoju ruku robiť, bez   potrebných zkúšenosti, bez peňažných prostriedkov, bez mena. Aby len   dačo robiť mal, prijíma nepriaznivé zá* kažky a práce, čím prichodí   ku škode a pomaly na mizinu. Druhí zase dajú sa samozištnosťou sviesť   k nespravodlivosťám a k ničemným ro* botám. Čo sa na taký spôsob   zarobí, ne* donáša požehnania. Samozištný remesel* ník ztratí dôveru   a vážnosť. Práve opak toho dokazuje sa pri tích, ktorí sa spoko* jujú   so skrovnejším výdelkom a odvádza* jú práce dobré. Takí dosahujú   skoro do* brý chýr a dostatočné zákažky a trebárs pri menšom zisku,   nachádzajú svoje sta* točné vyživenie. Najviac škodia si tí   remeselníci, ktorí mnoho sľubujú, ale málo splnia. Raz dané slovo,   malo by sa trebárs so všetkým na* 13
+   </tei:p>
+   <tei:p>
+    ﻿14 pnutým zadržať. Nič nenie omrzlejšie pre zámluvu práce, ako   prázdne sľuby. Nedá sa naskrze tajiť, že v našich časoch mnohé   remeslá upadly; predsa však nechý? ba na príkladoch, že spôsobní,   statoční a usilovní remeselníci nachádzajú svoje po* riadne   vyživenie. Sú to obyčajne takí, čo skromne, poriadne a mierno žijú,   zdržajú sa od každej márnomyselnosti a osobova* nia a nedajú sa   sviesť k vypínavým plá* nom a podujatiam, ale chcejú počestní re*   meselníci byť. Jejich práca povolania je jim vážna; hľadia sa   zdokonaliť; nečakajú lenivo, až sa jim robota ponúkne, ale ju   hľadajú, a »kto hľadá, ten nájde«, hovorí príslovie. Dariadi sa jim   jejich podujatia, tak to nepripisujú všetko sebe, ale pripo* míňajú   si tú nábožnú výpoveď, že »všetko na božom požehnáni záleží«. Heslo   jejich je: mysleť, pracovať, modliť sa!
+   </tei:p>
+   <tei:p>
+    ﻿V cudzine, menovite vo Francúzsku, učia sa remeselníci , svojmu   remeslu nie len v dielne prakticky, ale študujú ho tiež vo školách i   spisoch odborných. Tam skoro každý remeselník vyzná sa v kreslení a   číta odborný časopis svoj, z ktorého sa do* zvedá o najnovších   vynálezoch, menovite z oboru remesla svojho, ako aj o iných ves cách   dôležitých. Jaký div teda, že fran* cúzski remeselníci majúc   vytríbený vkus, vedia výrobkom svojim dať formu a úpra* vu umelú a   príjemnú, čím nad remeselní* kov iných národov vynikajú. Francúzska   dielňa remeselnícka podobá sa často škole, v nejž sa kreslí, maluje a   na zkúšku pracuje; tu potom niet divu, že učeň ztráviac v podobnej   dielne pod do* zorom vzdelaného majstra tri roky na uče* ní a   nabudnúc nato ďalších zkúsenosti v iných vzorných dielňach, stáva sa   tiež re* meselníkom znamenitým, vo svojom obore náležíte vzdelaným.   Nuže, mládež naša remeselnícka, schop sa i ty za príkladom   francúzskych učňov a tovaryšov k náležitému vyučeniu a vycvi* čeniu   sa vo svojom remesle. Čítaj, keď prá* zdnu chvíľu máš, užitočné,   vzdelávateľné III. Vzdelanosť v remeslách.
+   </tei:p>
+   <tei:p>
+    ﻿knihy, nadvrch do oboru tvojho remesla patriace. Keď niet   slovenských, hľaď si za* opatriť knihy české. Českí remeselníci už   statne kráčajú za príkladom vzdelaných národov. Zkúmaj každú lepšiu a   dokonáš lejšiu prácu, pochodiacu z ruky spôsobnés ho majstra.   Rozmýšlaj o nej, oďkresli si ju alebo jej jednotlivé čiastky,   napodobňuj, slovom uč a zdokonaľuj sa pri každej pri* ležitosti v   remesle svojom. Príčinliví remeselníci naši, vynasnažujte sa, aby   výrobky vaše boly nie len trvanlivé a vkusné, ale ešte aj umele   vyvedené; po* tom nebude treba všelijaké výrobky z ďas leka dodávať a   za ne veliké peniaze vyhas dzovať, ale peniažky zostanú tu u vás a   zkúsite, že i dnes ešte platí to staré prís slovie: Remeslo má zlaté   dno. 16 (Dľa spisu »Cesta k zámožnosti*.)
+   </tei:p>
+   <tei:p>
+    ﻿Ano, ešte raz: Remeslo má zlaté dno. Avšak nevie každý toho dna   dosiahnúť. Kto si ho chce pripraviť, týmto sa riadiť musí; Všímaj si   bedlivo všetkého, čo máš v dielni pred očima. — Pracuj pozorne a ne*   trať chuť ku svojmu remeslu, ak si dačo pochybil; každý učeň od chýb   začína. — Nezanedbávaj učňovských a priemyselných škôl, ktoré tu i   tam pre teba sriadené sú; čomu sa z mladi naučíš, na starosť ako bys   našiel. — Pátraj, odkiaľ pán tvoj dostáva potrebné suroviny a kde sú   lacnejšie a do* konalejšie. Idúc na vandry, čítaj a pýtaj sa, aby si   zvedel, kde tvoje remeslo najdokonalejšie prevádzajú. Pamätaj, že   nenie dobre zostať príštipkárom (záplatárom). O tých mie* stách   vediac, umieň si, že ich navštíviš a skôr sa nevrátiš, dokiaľ bys   neosvojil si vedomostí a zručnosti mierou svrčkova* nou; čo si sám   sebe sľúbil, vykonaj, a česť a úžitok nemine ťa. — V mladom veku ceň   vyšej dielnu dokonalú lež ledabolú, trebárs by si v onej menej peňazí   vyzískal než v tejto — Rodnému kraju a rodu svojmu ni* kde sa   neodcudzuj, a nadobudnúc zkúše* IV. Remeslo má zlaté dno.
+   </tei:p>
+   <tei:p>
+    ﻿nosti, vráť sa do domoviny svojej a spievaj rodu svojmu. Hlavnou   vecou je sporivosť, šanoba. Spor látkou; dvaráz meraj, raz len rež,   abys veľa odpadkov nenarobil, a tie, čo narobiť musíš, nech sú také,   aby sa mohly k menšiemu upotrebiť. Čo zbylo a v reme* sie upotrebiť   sa nedá, nevyhadzuj, ale sbie* raj; na všetko sa kupci nájdu. Spor   nástrojami. Čo potrebuješ, maj, ale nič zbytočného nekupuj. Nerozumom   a ľahkomyseľnosťou sa moc nástrojov pos kazí. Majúc dobrý nástroj,   usporíš si na« máhanie; čo vykoná silný sekerou tupou, to môže slabý   sekerou ostrou. Spor miestom. Kde hádže sa piate prez deviate, tu   viac miesta sa potrebuje, než: kde je všetko v poriadku a na svojom   mieste. 18 Spor časom. Dôležité je delenie práce;, mášdi pomocníkov,   rozdel prácu tak, by jedni druhým do rúk pracovali. Zle by si   pochodil, keby pomocník s prácou svojou stroj od stroja prebehovať a   samým pre? chádzaním a nástrojov hľadaním čas mariť musel. Aj medzi   dobrými robotníky sú takí, z nich jedni to, druhí inšie radšej,   lepšie « rýchlejšie robia. — Zkúmaj, ktorými ná* strojárni rýchlejšie   práca sa vykoná; ry* chlejšie šije sa ševkou než rukou. — Suro* viny   maj dobre pripravené. Nebavídi sa tkáč, trhásli sa mu prádza? Rátaj a   zase rátaj, aby si nepredával bud niže ceny ani pretiahnutím zákažní*   kov si neodvrátil. Účetné knihy maj vždy
+   </tei:p>
+   <tei:p>
+    ﻿v poriadku; tie povedia ti, čo je väčšie — či tvoje výdane alebo   príjmy. — Vynasna* žuj sa vyhoveť zákažníkom a kupujúcim; pri predaji   buď trpelivý, mierny a vlídny, nikoli prchký. Kto nekúpi dnes, môže   kú* piť zajtra. — V čase hojnosti pamätuj na staré dni; buď šanobný   za celý svoj život; chybuje, kto ľahko míňa, čo snáď ľahko   nadobudnul. — Zdokonaľuj sa stále, stuj a premýšľaj, jako by si   pozdvihol re# meslo svoje, a nehovor: »Otec môj tiež tak robil, a   dobre sa mal«. Zaiste, čo není; časy sa menia, a my s nimi.   (»Prumyslová čítanka«.) 19
+   </tei:p>
+   <tei:p>
+    ﻿Usilovné ruky, spojené s vytrvalosťou a rozumnosťou, dochádzajú   skôr
+    <tei:emph>
+     neskôr, ale vždy zaslúženého ovocia. Nie vymyslený,   ideálny, ale skutočný príklad toho chcem milej našej mládeži   vyrozprávať v nasledu
+    </tei:emph>
+    júcich riadkoch. Každý národ pociťuje   svojich, v jednom lebo druhom obore vynikajúcich mužov, umelcov a   vynálezcov; tak anglický sa ho* nosí vynálezcami v obore lučby j ako   aj strojníctva, nemecký svojimi spisovateľ* mi a filozofmi atd. Náš   národ slovenský, ačkoľvek malý, chudobný, zaznaný, potia* čený dal   vlasti predsa viacej mužov, ktorí učenosťou, dovednosťou a umením   vynikli a veľkej slávy došli. Lenže, bohužiaľ, ve= liká väčšina   jejích zaprela pôvod a rod svoj a on — úbohý — stojí tu, akoby bez   mužov na svet súcich. Tým väčšiu úctu za* ■sluhujú tí mužovia, ktorí   nie len že nad sú* čašníkov svojich vynikli a krajinského alebo práve   svetového chýru došli, ale ktorí sa ani rodu svojho neodznali a za   je* ho reč sa nestydeli. Takýto šľachetný a vynikajúci muž bol aj   Jozef Pozdech, v y* nálezca nového spôsobu sosta* v e n i a zvonov,   ktorého chcem tu našej v. Jozef PozdecK.
+   </tei:p>
+   <tei:p>
+    ﻿remeselníckej mládeži predstaviť za vzor ku povzbudzeniu a   príkladu jeho nasledo* vaniu. (Vidz jeho podobizňu na strane 2.)   Týmto mužom sa náš národ honosí už pre* to, že z biedného, nepatrného   Slováka stal sa bol mužom široko ďaleko známym. On narodil sa roku   1811, dňa 22. febru# ára v Hrnčiarovcách pri Trnave. Rodičia jeho Ján   a Helena rodzená Gubrický boli roľníci. I syn jejích bol na túto   prácu od* kázaný a konal už od chlapčenstva svojho všetky práce,   ktoré sa roľníckym chlap* com nakládajú. Avšak iný osud čakal mla*   dého chlapca; nie roľníctvo malo mu chlieb donášať, lebo už jeho   mladiství duch naj* radšej zaoberal sa s vecmi mimo všedných prác   roľníckych stojacími. Už jako deväť* ročný chlapec sostavoval   všelijaké figúry, a neraz pobral svojej matke slamené chle* bové   košíky, ktoré si na podobu zvonov ponapravoval a zkúšal, jako by to   ľahšie ísť mohlo a pri tom cirkevné pesničky spie* val. Rodičia   vidiac jeho nechuť ku roľ* níctvu a oproti tomu tým väčšiu náklon*   nosť k učeniu, dali ho do Trnavy do školy, poneváč v dedinských   školách učilo sa to* ho času najviac 3 alebo 4 mesiace prez rok. Bolo   to r. 1822, keď sa dostal do Trnavy, by sa s celou chuťou a   usilovnosťou pri* chytil učenia v škole. Lež čo z chuti, keď nieto   pomoci a prostriedkov k vyučeniu v cudzom svete. I náš mladík octnul   sa dosť skoro na hraniciach najväčšieho a naj* smutnejšieho   nedostatku. Hladom morený navštevoval kláštorskú kuchyňu. Poneváč   21
+   </tei:p>
+   <tei:p>
+    ﻿ale do tejto len vtedy chodiť smel, keď bol deň preňho určený,   stalo sa neraz, že ne* mal čím hlad utíšiť. O velikej biede svojej sa   ale pred rodičmi nezradil z obavy, aby ho zo škôl nestrhli. Keď   prišiel do prvej latinskej triedy, tu len tak mohol pokračo* vať v   učení, že svojim spolužiakom kde tu pomahal v štúdiách, za čo u   jednoho lebo druhého prenocoval, alebo niekedy chovu dostal. V takom   trápení súc postavený, není div, že očividome upadnul na tele; a keď   prišla jeho matka a pýtala sa ho so skormúteným materinským srdcom,   čo mu je, že tak upadol na tele, tu musel vynsť s farbou a povedal   úprimne, že sa živí je* dine z milosrdenstva a úprimnosti dru* hých.   Od týchto čias dávala mu matka tý* denne dva chleby; ale čo je to pre   mladíka, ktorý vo svojom veku taký pokrm potre« buje, ktorý má   sosilniť i telo i ducha? Chytil sa teraz do nového zárobku. Začal   totiž pre chlapeov hračky robiť, by si tým* to zárobkom iné zaopatriť   mohol k výžive. Ponajprv spravil z papieru a dreva tmav* ský   jezuitský kostol, ktorý sa mu pošťa? stilo za päť zlatých predať.   Neskôr robil betlehemy, šarkany, za čo dostávali od chlapcov už   chlieb, už zase pár krajciarov. Keď sa ale chlapec takými vecmi   zaoberá, ktoré nepatria do školy, a týmto svoje učeš nie zanedbáva,   ba čo horšie, zanedbávať musí, jestli sa’ chce živiť, súc na seba sa*   mého ponechaný: tu musí aj vystať pokrok vo vedách, čo sa i s naším   Pozdechom sta* lo. Vidiac, že mu len žiť treba, pri tom ale 22
+   </tei:p>
+   <tei:p>
+    ﻿nemožno bolo sa učiť, bol prinútený školu ponechať druhým, ktorí   šťastlivejším osu« dom obdarení boli. Týmto zanechánim škôl rozhodnul   sa osud nášho rodáka; nezbývalo mu inšie ako remeslo. Roku 1827 stal   do kováčskej vihne a oddal sa s najväčšou usilovnosťou kováčstvu. O   tri roky bol už za tova* ryša prepustený a ako taký cestoval, po*   čnúc svoju vandrovku od Modry, kde tri mesiace ztrávil. Z tadiaľto   šiel do R á* b u, a pracoval za dva mesiace; poneváč ale nebolo tuná   toľkej roboty k dobrému výrobku a k tomu ešte i choroba panovala,   odišiel do Promontoru a už po štyroch dňoch do Handžabýku, kde ostal   v ros bote za deväť týždňov. Tu svojou usilov* nosťou a sbehlosťou   vyzískal si toľkej priazni u ľudu, že majster počal podo* zrive na   neho zazerať. Náš mladík ani mys šlienky nemajúc svojmu majstrovi   chceť byť na ujmu, aby vyhnul pohoršeniu, odi* šiel náhle v zimnom   čase a len v letných šatoch z majstrovho domu, obrátiac kroky svoje   na Rackerestúr. Sem prijduc, celý zimou premretý, uhospodil sa síce u   kováča, avšak tento nemal preňho žiadnej roboty. Kováč mu sdelil   svoje zlé polo* ženie, že mu nákovu ukradli, mechy ale že sú veľmi   zkazené, tak že, čo by aj chcel dačo urobiť, nemôže nič začať pri   pohus bených mechoch. Náš rodák, aby si aspoň chovu u kováča   nadobudnul, ponúkol sa kováčovi, že on mu mechy napraví, ač? koľvek   nikdy dosiaľ takej práce v rukách 23
+   </tei:p>
+   <tei:p>
+    ﻿nemal. Kováč naradovaný, dal mu mech da roboty, a stalo sa, čo si   sám náš Pozdech nemyslel, bo mech tak napravil, že bolo možno o   nedlho do roboty sa chytiť. To bol jeho prvý a to samostatný po* kus   okolo mechu. Za mesiac sa zdržoval u tohoto kováča, potom ale šiel do   Pákozdu a zas do Belehradu a K i= 24 š k u n?F úlôpsállášu, tu i tam   2—3 mesiace sa pobaviac. Pre zúriacu v tom kraji koleru a ešte z inej   dôležitej príčiny vrátil sa náš rodák zpäť do Hrnčiaroviec. Roku 1831   umreli mu totiž v jednom tý= dni: matka, sestra a dvaja bratia, krom   toho ale i otec onezdravel. Poostanúc so svojím otcom a s jedným 3,   druhým hro ným bratom, nahliadol, že prišiel naň rad rodinu   zaopatrovať, a preto, čo bolo najs bližšie, toho sa lapil, totiž   gazdovstva. O nedlho za tým sa oženil. V manželstve po* žehnal ho Boh   8 dietkami; 2 chlapci a 6 dcérami, z ktorých jedine dcéry vychoval i   povydával, synov ale pochoval. R. 1832 chytil sa svojho remesla a   začal ho jedine dľa svojej potreby a možnosti, totiž v cu* dzom dome,   a potrebný riad, ako i starý rozdrganý mech kúpil za celých 95 zlat.   »šajn« — to sa rozumie, že teraz ešte len na úver. — Prvá jeho práca   bola mech si opraviť, čomu, ako už vieme, sa bol pod« učil ked bol na   vandrovke. Súsední ko* váči dozvediac, ba i na vlastné oči sa pre*   svedčiac, že Pozdech mechy napravovať zná, dali si tiež jemu svoje   mechy pona= právať; neskôr ale chytil sa do shotovos
+   </tei:p>
+   <tei:p>
+    ﻿vania malých nových mechov, j aké zvlášte cigáni potrebujú. Roku   1834 chytil sa do shotovovania väčších nových mechov, a síce prvý   urobil pre seba, o čom chýr roz* niesol sa po celom okolí, následkom   čoho započal pilnejšie shotovovať mechy, pri čom však robil i   kováčsku robotu, železné pluhy, hrubšiu robotu do mlýnov atď. Roku   1846 poslal dva veľké mechy na umeleckú výstavu do Pešti, ktoré nie   dľa užívaného, ale podľa svojho vlast* ného spôsobu sostavil. Mechy   odkúpili mu hneď na výstave, a od tohoto času dávali pešťanskí kováči   jemu shotovovať mechy až do Hrnčiaroviec. Poneváč mnohí tamej* ší   kováči videli, že náš rodák’svojím vy* nálezom mnohým potrebám zadosť   urobiť môže,a že sa nikde lepšie nevypláca dobrá práca, než vo veľkom   meste, kde sa i ma* teriál vo veľkom a tak lacnejšie kúpiť dá:   nahovorili ho, aby sa v Pešti usadil a tuná prevodzoval svoj obchod.   I odhodlal sa teda prísť do hlavného mesta krajiny, že ale tu veľmi   zlý byt dostal, pracoval z po* lovice doma v Hrnčiarovciach. — Za bla
+    <tei:emph>
+     hodárne účinkovanie jeho dostal r. 1847 pochvalný diplom od   uhorské
+    </tei:emph>
+    ho priemyselného spolku. Búrlivé časy r. 1848 i nášho   rodáka po* hromou navštívily; bo následkom falošné* ho udania zavreli   ho v Pešti do žalára, kde bez výsluchu 14 týždňov sedel. Zä touto   pohromou nasledovala druhá a to ešte väč* šia r. 1849. Dom jeho so   všetkým činom padol v obeť nemilosrdnému ohňu, tak že 25
+   </tei:p>
+   <tei:p>
+    ﻿26 ubohému nič neostalo iba role, manželka a dietky. Od teraz už   nemohol na dvoje svos ju robotu konať a preto i s rodinou svojou   odstehoval sa do Pešti. R. 1857 dostal z Francúzska k poprac veniu   mech na p r e ťa h o v a n i e vína, pri ktorej práci prišiel na iné   sostavenie mechov. Uskutočniac túto svoju myšlienku, bol vynálezok   hotový, za ktorý od pe* šťanskej hospodárskej výstavy diplom dostal.   R. 1850 vynašiel robenie o v a h ných a cilindrových mechov s   vonkajším rovnochodom, kdežto posiaľ len s vňútorným rovnochodom bo*   ly, tak že ani nebolo možno tieže čistiť. Za tento vynálezok obdržal   tohože roku privilégium a r. 1862’ od krajinského hospodárskeho   spolku odmenu prvej triedy. Ale všetko toto prevyšuje vynálezok   nového sostavenia zvonov, nad čím už od dávna bol rozmýšľal a konečne   r. 1860 i v život uviedol. Kto zná nedo? statky a obťažnosti, s   ktorými spojený je starý spôsob zvonov a týchže upotrebenie, ten len   s pochvalou a povďačnosťou spo« míňať môže meno Pozdechovo. Nie na   dar* mo obdržal rodák náš privilégium na svoj vynálezok. Nie na darmo   udelil mu kráľ uhorský zlatý záslužný kríž. Výhody, ktoré poskytuje   Pozdechov no* yý spôsob pred doterajším starým sú na* sledujúce: Zvon   možno 12—14 razy kolom krútiť, keď sa totiž od udierania srdca na
+   </tei:p>
+   <tei:p>
+    ﻿jednom lebo druhom mieste vydral, ná» sledkom čoho aj 12—14 razy   dlž trvať hu* de; a poneváč sa rovnako dere: svoj pô* vodný čistý   hlas vždy zadrží. Trvácnosť zvonov pri tomto sostavení je o 1 pätinu   í tým dlhšia, že keď pri starom spôsobe zvon za istý čas 750 raz   udre, pri novom spôsobe len 600 raz. Keď rany jedna zsl druhou   pozdejšie nasledujú, je i hlas zvonu čistejší, lebo sa tento   samostatnejšie vo zvone zvlniť môže. — Vysoké čepy súc nižej   umiestnené, než pri starom spôsobe, nepotrebuje teraz zvon toľko   miesta pod časom zvonenia, kolísanie sa zvona neza* pričiňuje žiadne   otrásanie na väžových múroch a k zvoneniu nenie potrebná ani piata   čiastka tej sily, ktorá potrebná bola pri starom sostavení; srdce so   zvonom te* raz nie na jednu ale v protivnú stranu sa pohybujúc,   vydáva zvon čistejší a trvác* nejší hlas, a zastavenie zvona ďaleko   ne? nie tomuto teraz tak nebezpečné ako pri starom spôsobe, kde   následkom veľmi sih ného úderu už nejeden zvon pukol. I pre zvonárov   je Pozdechov spôsob bez vše* tkého nebezpečenstva, lebo keby sa aj   sr* dce odtrhlo, padne rovno len pod zvon. Objednávky na takéto zvony   prichádza* ly zo všetkých strán vlasti i vonkova. Pri všestrannom   tomto obchode vstúpil náš rodák do radu veľkých obchodníkov a   ustavične konal väčšie cesty už v Uhorsku už v cudzozemsku. Žil cele   familiárne. Sta* rosť o jeho rodinu bola otcovská a on sa nikde   necítil doma, len v kole svojej ro* 27
+   </tei:p>
+   <tei:p>
+    ﻿28 diny. K čomu pravda vo veľkej miere do* pomáhala sporivosť   manželky a usilovnosť jeho dietok. Domácnosť viedla taktuplná a   starostlivá ruka matky, za prácou obchodu hľadel bystrý zrak otca, a   s pomocou svo* jích statných dcér — všetkých za Slovákmi vydatých —   zdarile viedol rozsiahly oh* chod. Týmto spôsobom prevodzovaná práš   ca bola výsledkom korunovaná a nado* budia nášmu Pozdechovi značný   majetok v Pešti. Pri tomto všetkom nezabudnul na to:zkadepochádza,   čímbolapre koho žiť má. Jako rodeného Slováka neoceniteľné bolo jeho   postavenie v strede pešťanských Slovákov, ktorí jeho úprimnú vôľu   oceniť a vážiť si vedeli. On a súdruh jeho Jozef Zarzetzky, fabrikant   zápaliek, boli stlpami pešťanských Slová* kov; oni dodávali smelosti   druhým, aby nezúfali v boji za vlasť a národ. K čomu* koľvek bolo   treba otvoriť štedrú ruku, pri* speť radou a pomocou, nezchádzalo u   neho nikedy, bo národné ciele boly vždy po* hnútkami každého činu   jeho. On bol ten, ktorý nezdráhal sa ísť so slovenskou de* putáciou k   ministrovi Eôtvôsovi prosiť o slovenské školy. Jednoduchosť,   prostosr* dečnosť a neviazanosť v držaní sa boly tie známky, po   ktorých ho bolo poznať, že bol rodený a opravdivý Slovák.
+   </tei:p>
+   <tei:p>
+    ﻿Býval veselého ducha, rád videl’nevinné vtipy a neraz sa zahovoril   s j akýmikoľvek krajanmi, nech boli oni len Slováci. — Do* žil dosť   vysokého veku. Daj Boh mnoho takýchto mužov národu nášmu! (Dľa   »Minervy«.) 29
+   </tei:p>
+   <tei:p>
+    ﻿Nakladateľstvo G.  E. BEŽO v TRNAVE vydalo: Vzácny Amerikán   napísal: FERD. DÚBRAVSKÝ. Humoristický malomestský románok Cena Kčs   8*—.
+   </tei:p>
+   <tei:p>
+    ﻿Napísal: FERDINAND DÚBRAVSKÝ. Cena Kčs 10*—. Na prievoze. Román zo   zbojníckeho života v polovici 19. storočia.
+   </tei:p>
+   <tei:p>
+    ﻿Svadobné obyčaje, príležitostné reči, vy vôdzky a iné zvyky.   Slovenské veselie. ERNEST í N VITE K Sosbieral: Cena Kčs 3*50   Ohrožená o láska, o Román. Napísal: J. VERNE. Poslovenčil:   KOSTIVIARSKY. Cena Kčs 6’—. ■x.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿G.  E. BEZO V TRNAVE R o m ú n o v á k n i H o v ň a ; Bučan ;   Besednice. Diel I . ‘. -3.— « » -Diel li. -i . K 3í
+    <tei:emph>
+     - »
+    </tei:emph>
+    DiellIÍ. . … .r.-,. K 4.— F. Dúbravský: Vzácny Amerikán. Humor.   román. . . . . . . / . • . . , K 8.^- A. Dohnal; Ako som dostal pol   hpna zeme K 4t—F. V.; Medzi írskymi pj-rátmi. Doferótiruž* styq,zo   života námorných lúpežníkov. . K. 2.— • V. Nový: Dobrodružstvo vo   Floride. … K J.— Slovenské veselie. Ernestín Vitčk. .’ K-,’ 3-50   Ohrožená láska. Román. . . – . : K 6.— Z baníckej viesky. Rom, z   baníckeho života, K , 8.— Búrka a úskalie. U cla lás t zo života mor=    ských rybárov. . . K 5.— Qrišov. Miško.’Obr. z vi   kasární’ R 2Í—Na;prievoze. Román zo zbojníckeho života’ R 10.—^ ,   Tajnosti rybníka mníchov K 4.— Fraskavice., Humoresky . K 4,-», Na   bfcsedc. 20 rôznych sOšitov povestí’a pohádok á . . . • . . . . R   -«..60 C. Gallay: Anďersenove poviedky. Viaž. £ 18.— Sťŕýéko   Ferdinand: “Koľady.« . .’ . . . R 2.— Cervjcnka A.: Svätá zem.   lllustr. cestopis . K
+    <tei:emph>
+     6’ ’ Div.ad.elnié hry. Petrovič Ján .   ml.: Všetko za národy Čino
+    </tei:emph>
+    _ hra z. .dáb, oslobodenia! . .. .   . . . ,K ’ 4.~ Elo M. Šáitdor/ rán otec Kašnik. Obraz zo slov.   mlynárskeho živoíá v 3. dejstv. K 10.-—” Nasilu stal sa lekárom.   Veselohra v 3. dej. od Molieresú. .  . . R* ■ 4.— ’’ Pán rychtár.   Dráma žo života ľudu slovom ského v 3, dejoch s premenou od dr. Ľud.   ’ Okaňikal . . . S R 3,-— Belinka a šedem trpaslíkov. Činohra v 5 d..   R 4.-— Popelka. Činohra’ v 5. ácjoch . . . . . ’R 4.-— N á, k 1 a   d o ni v y‘š 1 o:
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

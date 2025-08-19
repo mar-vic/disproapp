@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1904989" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Poklad : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84103218">
+     Čipka, JonatánDobroslav (1819 - 1861)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2951
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Čipka, Jonatán Dobroslav
+     </tei:author>
+     <tei:title>
+      Poklad
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1904
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿POKLAD
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿„Hja! dobre tvojmu pánovi gazdovať; keby mne boli peňazí nanosili,   tak ako jemu, i ja by som bol takým gazdom, ak nie inakším.“ „Nuž,   súsed, a ktože mu ich nanosil?“ „Kto mu nanosil? — Ten, kto mal. —   Dobre sa poznal tvoj pán i s Jánošíkom, i s Gajdošíkom, i so   všetkými, čo chodili v zelených košieľkach,“ „Teda žeby mu zbojníci   boli nanosili?“ „Ja už neviem, či boli zbojníci, či čo boli, len že   poza bučky chodili.“ „Hm, i to je možné, za to ani raz nezaprisahám   sa.“ Takto shovárali sa Ondrej, sluha Lipnického a Strngeľ, jeho   súsed. 1
+   </tei:p>
+   <tei:p>
+    ﻿4 Strngeľ mal v biednom vozíku dva mizerné koníky zapriahnuté,   štveme motúzkami posväzovanó, kolesá neokovanó, rozkyvotané; bál by   si sa na takom záprahu pustiť na hodinu cesty. Ale v Lipnického voze   zapriahnuté boly konská, hladké ako lasicé, silné ako ľvi; štveme   pekne vymastené, remenné; kolesá okované; na voze nová košina. S tými   koňmi a na tom voze mohol by si sa pustiť kraj sveta. Kým si pri tom   na ceste s ťarchou trochu oddýchli, bolo počuť vŕzgať dákysi voz.   „To, bude bezpochyby Rázvora; dočkáme ho“ -— povie Strngeľ. „Pravdu   máte, súsed, to je jeho spev; lebo on len na výročité sviatky voz   mastieva,“ prisvedčí Ondrej a ešte z daleka zakričí na Rázvoru: „Hej,   súsed, ten voz dákosi na lačno spieva; kedyže ste ho mastili?“ „Jaj,   Ondriško, ved si ešte ani ty všetko nepreskočil“ — pozrel naň bokom   dochodiaci Rázvora. —- „Čože sa máš posmievať? Každý najlepšie vie,   ako mu v hrnci vrie.
+   </tei:p>
+   <tei:p>
+    ﻿A ja — veru nečaroval by som sa s tvojím pánom, čo som aký   chudobný!“ „Yeru ozaj; — lebo si ja dušu nechcem zapredať.“ bol   zapredal; kdeže by bol nabral toľkého bohatstva? — Jaj, nedá sa teraz   gazdovať z ničoho. A že mu otec nič nenechal, to dobre vieme.“ „Kde   vraj nabral? Ved to celá dedina vie, kde nabral! Vari moja stará mať   len jeden raz videla zmoknuté kura leteť do kochu? Nuž tam nabral,   hľa! Zmok mu nanosil.“ Ondrej zavrtel hlavou. „Hm hm!“ vraví, „veru   by som teda ani ja s ním nečaroval.“ „Nepieťte že, sused, nepleťte!“   povie na to Strngeľ. „Ktože by vám to veril? Ale tak je to: kto do   školy nechodí, ten verí aj na zmoky a mátohy. Nelietal ten zmok   kochom, čo Lipnickému peniaze nosil; ale chodil dvermi a nosil zelenú   košieľku.“ „Ale ozaj ?“ „Nuž a či si ju môj pán zapredal? „Že či vraj   zapredal? Akože by si ju ne- „Nuž kdeže teda to všetko nabral?“ 5
+   </tei:p>
+   <tei:p>
+    ﻿6 „To ja neverím, čo mi dušu na dlaň vyložíte,“ zkríkne Rázvora;   „lebo sú zbojníci vari blázni nosiť druhému peniaze? Prisahať sa vám   nebudem; ale verte mi, že je Lipnický dosiaľ s čertom v porozumení.“   Takto dohadovali sa spolu: čo jeden povedal, to druhý nechcel uveriť;   kremä Ondrej za možné držal i jedno i druhé, až došli do dediny. „Na   večer sídeme sa u suseda Dobrôtku“ — povie Strngeľ — „ten ho   najlepšie pozná, a uvidíte, že mám pravdu! Ondriško,, príď aj ty,   ketf si obriadiš, kone.“ „Dobre, teda uvidíme!“ — prisviedčali   Rázvora aj Ondrej a dojdúc medzitým k domom, pozaťahúvali každý do   svojho dvora. Sotva zmrklo, už susedia boli u Dobrôtku ; o chvíľku   prišiel aj Ondrej. „Zuzka, rozsvieť!“ zavolal Dobrôtka na vnučku, „a   vy, susedia, posadajte si.“ Netrvalo to za otčenáš a na kozube   blnkotaly suché bukové triesky. „Teraz si pozapaľujme,“ povie domáci   gazda.
+   </tei:p>
+   <tei:p>
+    ﻿S pípkami posadali okolo stola; pod pecou priadly ženy a zase za   druhým koncom stola Zuzka s druhými deťmi párala peria. „Súsed, vy   však poznáte Lipnického!“ prerečie Rázvora a kotúče dymu pustí z úst.   „Pane Bože! či ho vraj poznám? Ved som s jeho otcom chodil do školy a   od tých čias znám celé bydlo i židlo Lipnického ! “ „Ja hovorím, že z   ničoho gazdovať nemožno,“ pokračoval Rázvora — „a Lipnickému vraj   všetko zhorelo, čo mu otec zanechal.“ „A ja hovorím,“ pretrhol mu reč   Štrngeľ, „že sú to pletky; Lipnického zelené košieľky postavily na   nohy!“ „To ja neverím,“ zvolal Rázvora; „už som vám povedal, že mu   zmok nosí peniaze!“ Dobrôtka sa usmial a riekol: „Dobre, že ste ho   pripomenuli; i tak som deťom sľúbil, že im budem rozprávať, ako   Lipnický zbohatol. — Deti, či budete počúvať?“ „Budeme, budeme!“   zkríkla Zuzka a za ňou ostatné. 7
+   </tei:p>
+   <tei:p>
+    ﻿8 „Teda počúvajte! — Ja Lipnického poznám od malička; jemu ani   zmok, ani zbojníci nenanosili peňazí — on našiel p oklad!“ Ondrej   pokýval hlavou, že to veru najskôr tak bude, a ostatní vyvalili oči.   „Lipnický mohol byt asi v šiestom roku“ — začínal ďalej Dobrôtka,   potiskujúc do fajky dohán — „keď raz jeho otec, Pán Boh mu daj radost   večnú, dal ma jako súseda svojho povolať už večerom ku sebe. Nebe   bolo jasné ako rybie oko; na kozube práve doháralo a oblokom   zasvietil plný mesiac. Ako by som teraz hľadel naňho : bľadý ako   stena, ležal starý Lipnický na posteli, oči mal hlboko vpadnuté,   dýchal strmo a krátko, vedel som, že nedotiahne ďaleko.“ „Či ste to   vy, súsed?“ preriekol slabým hlasom, akonáhle počul, že dvere ■   vrzgly. „Lepšie, povedá, a o nedlho bude všetko dobre.“ — Tu ma   chytil za ruku. — „Yy viete, súsed môj drahý,“ hovoril trasľavým   hlasom, „čo som mal, keď som prišiel do „Ja som to, súsedko. Ako že   sa máte ?“
+   </tei:p>
+   <tei:p>
+    ﻿vašej dediny; zdravé údy, chuť do práce a Boha nad sebou! Aj teraz   veľa nemám; tento domček je všetko moje bohatstvo ! Keby mi Pán Boh   bol poprial dlhšieho života, možno, žeby som bol zanechal aj väčšiu   pamiatku po sebe môjmu synovi; ale takto bude všetkému koniec. Tento   dom teda a moje otcovské požehnanie nechávam môjmu synovi, — Pod sem,   dieťa moje,“ zavolal na tikajúceho chlapca, rozduchujúceho medzitým   zhasínajúci oheň, — „tento dom a moje otcovské požehnanie nechávam   tebe ■— ostatné nájdeš v tisovej truhličke,“ Tu ho pritisol k srdcu:   „Ach dieťa moje! pred rokom si mi utratilo matku, a teraz tratíš   otca.“ — Viac hovoriť nemohol, hlas mu v hrdle zatislo —- a o chvíľku   bolo po ňom. Na kozube oheň utuchnul; mesiačik uchýlil sa za hustý   oblak a v izbe stmilo sa doceia. Mňa prešiel mráz, srdce mi stislo,   neviem či od laku, či od žiaľu; — prežehnal som sa svätým krížom a   prežehnal som i mŕtvolu; chlapca som chytil :za ruku a odviedol preč.   9
+   </tei:p>
+   <tei:p>
+    ﻿10 O chvíľku poschodili sa susedia a v dome nebožkóho bolo počuť   nábožný spev, ozývajúci sa až do svitania. Na tretí deň pochovali sme   mŕtveho a náš terajší sused Lipnický ostal samotný na svete ako prst;   krém Boha nad sebou nemal tu dolu nikoho. -—• Ale Pán Boh je dobrý*   deti moje; stará sa on aj o siroty, a tak staral sa aj o Lipnického.   Pán učiteľ práve vtedy potreboval méndíka a náš šesťročný chlapec bol   rád, že dostal sa- do školy. — Neraz on stál s hrnčekom pred našimi   dvermi a vaša nebohá stará mat neraz mu ho naplnila. Pán učiteľ ho   rád videl, lebo bol poslušný a učil sa dobre. Ked bolo treba niečo   poslúžiť, to Lipnický najoehotnejšie poslúžil, a keď mu za posluhu tu   i tu dali groš dva, neprejedol ho na lakôtkach, ako- druhí mendíci,   ale si dal pánu učiteľovi odložiť. Y lete, ked stačil a v škole nebol   potrebný, írč, ako druhí, ale išiel na strniská klásky,   ktoré. každú sobotu vyiruajÄa niekomu odpredal. Vidíte, deti   moje,
+   </tei:p>
+   <tei:p>
+    ﻿takto sa trápil kedysi náš sused Lipnický, ktorý teraz má veľký   dom, šesť krásnych koní, osem tučných volov, tristo dojek a plné   súseky zbožia.“ „Nuž ale akože zbohatnul?“ zvolal netrpelivý Rázvora.   „A kdeže je ten poklad, čo našiel?“ skočil do reči Strngeľ. „Len   počkajte málo, hned vám poviem,“ krotil ich vážne Dobrôtka a   pokračoval: „Pán učiteľ, ktorý teraz staral sa o sirotu, ako vlastný   otec, vzal do domu Lipnických želiara a z prenájmu toho i šatil   chlapca i kupoval mu do školy potrebné veci. Ale ľudia vravia, že   neštastie nikdy nechodí samo, ale trebárs ešte aj desať kamarátov   dovedie za sebou, —r a tak povodilo sa aj našej sirote. Nebolo dosť   na ztrate otca a matky: chudáčik, prišiel ešte aj o svoje dedictvo, o   svoj dom.“ „Ach, chudák Lipnický!“ zkríkla Zuzka a s ňou ostatné   deti. „Nuž akože sa to stalo ?“ „Akože sa stalo, dievka moja? — Stará   11
+   </tei:p>
+   <tei:p>
+    ﻿12 Orša, ktorá pre svoju nedbanlivosť po pýtaní chodí a vtedy ako   dievča slúžila v dome, zanedbala vymiesť koch, ačpráve jej to gazdiná   bola prísne naložila. Yed vymetiem zajtra, myslela si, a z toho   zajtra nechala robotu zase na druhé zajtra, a tak odkladala so dňa na   deň, až nasbieralo sä v kochu mnoho sadzí. Raz práve z prvého sna, o   ktorom vravia, že je najsladší, zobudí ma krik: „horí, ľudia,   ratujte, horí!“ Bežím k obloku ako bez seba a hľa — kdeže horelo? U   môjho súseda. Najskorej pozobúdzam domácich, potom bežím na dedinu,   kričím, volám; — ale celá dedina spala ako zakliata! Až kedy nekedy,   ked už celý dom stál v plameni, začnú sa po jednom sbehávat a hasiť.   Vietor fúkal preč od nás a tak sme my, chvála Bohu, nezhoreli, ale   neboráci súsedia naši, asi desiati za radom, našli ráno miesto domov   už len hromady popola a rumov. Bolo tu plaču, bolo nariekania!   Lipnický, chudák, zalamujúc rukama, chodil po zrúcaninách svojho   posledného dedictva. Želiar jeho ľahko vyniesol svoj malý   nábytok,
+   </tei:p>
+   <tei:p>
+    ﻿a neztratil temer ničoho; ale Lipnickému neostatý iba holé   popukané múry, popol a v popole staré pozohýnané klince a železivá.   „Aspoň to, čo mi Pán Boh’ ešte zanechal, zachránim!“ pomyslel si   chlapec a počal vyhrabávať z popola staré železivo. I vyhraňuje,   chudáčik, usilovne a šbiera. Tu i tu bolo počuť, ako zasipel   vyhrabaný živý uhoľ, keď horúce slzy z očú siroty naň padlý. Ale on   si len sbieral, až nasbieral hodnú hŕbku klincov. „Takto ti za to   nikto nič nedá!“ pomyslel si a začal narovnávaf skrivené klince na   jednej tlapka vej skale; ktorá trčala z múru. Takto napráva a rovná,   a čo vyrovná, to odkladá na hromádku. Ale jeden klinec bol prihrubý,   tak, že o veľa ťažšie bolo treba biť naň, ako na druhé. I uderí naň   druhý i tretí raz, a hľa! kameň, na ktorom klince vystieral, odvalí   sa a oku zadiveného chlapca ukáže sa truhlička z červeného tisového   dreva.“ „Ja som na to docela zabudol!“ vykríkne Rázvora. 13
+   </tei:p>
+   <tei:p>
+    ﻿14 „Pravda je, veď mu otec na smrteľnej posteli povedal o nej !“   zvolá zase Strngeľ. „Ach, ach, tak predsa ani zmok, ani zbojníci, ale   poklad“ •— pokrútil hlavou aj Ondrej. „Náš Lipnický truhličku vyňal,   otvoril; — ale čo v nej bolo, to krém neho a Boha nevedel žiaden   duch.“ „Oj, to veru mohol aj blázon vedet,“ preriekol Rázvora   posmešne. „Tak tak,“ ozval sa Strngeľ; „čože by mohlo byt? Dukáty —   samučičké dukáty boly!“ „A to veru dukáty, samučičké dukáty!“   prisviedčal aj Ondrej. „Dom Lipnického zhorel; nikto nepostaral sa o   jeho vystavenie; miestisko stálo pusté a v krátkom čase zarástlo   bodliačim a žihľavou. Ľudia si dlho šeptali o tisovej truhličke, o   poklade; ale že Lipnický nechytal sa do stavania nového domu, začali   o tom pochybovať a pomaly zabudli na to docela.“
+   </tei:p>
+   <tei:p>
+    ﻿„Lebo varí bol blázon,“ povie Štrngeľ, „aby hneď bol dal znaf o   nálezku, ešte by bol kráľ pýtal tretinu.“ „Mal ten už aj vtedy muchy,   ako ich má i teraz“, dosvedčil Rázvora; „tomu človek neprejde cez   rozum, čo by sto hláv mal.“ „Celých dvanást rokov pominulo, čo na   miestisku Lipnického domu rástlo bodfačie a žihlava; za tých dvanásť   rokov on sa učil a vandroval a za celý ten čas žiaden z nás ho   nevidel. Mohol byt asi dvadsaťdvaročný, ked navrátil sa z vandrovky,   a tu začal stavať velký dom; vzal štyroch tovaryšov do vyhne (do   šmikne) a po celej dolnej zemi predávali furmani vedrá ním okúvané,   všetkým okolným pánom on okúval koče, celej dedine on robil pluhy i   brány; slovom kde aká kováčska robota skrsla, tá sa uňho stavila. —   Ľudia, si zase šeptali o tisovej truhličke a o poklade; niektorým   snívalo sa o zbojníkoch, ako nášmu susedovi Strngelovi, druhým o   zmokoch, ako Rázvorovi. Aj ja som počal mysleť na tisová truhličku,   lebo som na tieto moje uši počul, ked umie- 15
+   </tei:p>
+   <tei:p>
+    ﻿16 rajúci otec hovoril: „ostatné nájdeš v tisovej truhličke!“   Predvčerom dal ma Lipnický zavolať k sebe. „Súsedko,“ rečie mi,   „sadnite si!“ a podal mi stolec. Ja si sadnem: „čo by ste, reku,   radi, pán sused ?“ „Rád by som sa s vami poshováraf tak po súsedsky.   — Ešte sa azda rozpamätáte na ten pre mňa smutný večer, ked som   utratil otca. Okrem mňa, len vy ste boli svedkom jeho smrti a jeho   slov: „tento dom a moje otcovské požehnanie nechávam tebe; ostatné   nájdeš v tisovej truhličke,“ boly posledné slová môjho drahého otca.   Ach, ešte cítim jeho stydnúce ústa na mojej tvári! — Vy ste slová   jeho azda hore nebrali, ako ani ja, zvlášte ked som tisovej truhličky   nikde nevidel a nikde nenašiel. Aj by som bol na to docela zabudol,   keby som divným spôsobom nebol prišiel k tej truhličke. Môj dom   zhorel — ako viete — a sám opustený prehŕňal som sa tam v tom   zhorenisku a vystieral som klince i druhé že-
+   </tei:p>
+   <tei:p>
+    ﻿lezivá na kameni vystrčenom z rozpuklého múru. V tom podá, vyvalí   sa mi ten kameň a ja nájdem v múre tisovú truhličku. Piný nádeje   bežím na záhumnie, aby ma India nevideli, ked ju budem otváral.   Poobzerám sa ešte raz do okola a vrchnák zodvihnem — čože bolo v nej?   Tu vidíte všetko, čo som našiel!“ A v tom mi podal starú, ale dobre   zachovanú modlitebnú knižtičku. Roztvorím ju: hned na prvej strane   -stálo veiikými červenými literami vytlačené; Modli sa a pracuj, a čo   zarobíš, zavaruj! „Tak je toto ten poklad, o ktorom si ľudia   rozprávajú, že ste ho našli v tisovej truhličke ?“ pýtam sa so   smiechom, ako by som mu nechcel veriť. „To je ten poklad!“ —   odpovedal vážne. „To veru nezaslúžilo, že otec na smrteľnej posteli   spomenul!“ „Že nezaslúžilo?“ pozrel mi prísne do očú. „A ja vám   hovorím, že všetko, čo mám, je ovocím tohoto pokladu.“ „Neviem, ako   by to mohlo byť?“ 17
+   </tei:p>
+   <tei:p>
+    ﻿18 „Hneď vám to vysvetlím. Akonáhle som otvoril knižtičku, padlý   mi, ako aj vám, do očú litery: „Modli sa a pracuj a čo zarobíš,,   zayaruj.“ Y tom okamžení som si pomyslel, že sú to posledné slová   môjho otca. Srdce ma zabolelo a slzy ma zaliaty ; plakal som, dobre,   že sami dačo nestalo. Keď som sa uspokojil, pozrel som znovu do   knižky, prečítal som tie slová zase, a kto by bol za mnou stál, bol   by počul, ako som skrúšene vykríknul: „Áno, budem sa modlievaf, budem   pracovať, budem varovať!“ — a sľub tento držal som verne až po dnes!“   „Pán učiteľ, ktorý sa už tiež rozsýpa a na ktorého dobrodenia nikdy   nezabudnem, dal ma do mesta k statočnému kováčovi za učňa.“ „Že   prichytil som sa k.remeslu z chuti, o tom vám ani vraveť netreba; ale   poviem v krátkosti, ako sa mi vodilo, ako mi Pán Poh aj k tomu   dopomáhal, že som si mohol voľačo zavarovať. — .0 nedlho, keď som sa   trochu rozumel do kováčstva, dohotovili sme jeden koč. „Lipnický,   zavolá
+   </tei:p>
+   <tei:p>
+    ﻿na mňa majster, odvezieš s kočišom tento koč a donesieš peniaze.“   — Vyhodil som sa na kozlík a za hodinu boli sme na druhej dedine U   jednoho pána. Pánovi ľúbila sa robota, účet o robote a nákladku na   koč vyplatil nám do krajciara a na vyše toho vtisol mi do hrsti   dvadsiatnik za posluhu. „Tu máš, hovorí, na pohár vína za tvoje   ustávame.“ — Druhý bol by bezpochyby urobil, ako pán povedal; ale mne   prišlo na rozum, čo bolo v knižke modlitebnej napísané, — dvadsiatnik   som zavarovak Na druhý deň prišiel do výhne súsed s hodným kusom   železa. „Nepotrebujem to, vraví; chlapče, kúp si ho trebárs ty, dám   ti ho za dvadsiatnik.“ ia som pozrel na majstra, či mi to dovolí.   Majster sa usmial. „No, povedá, čože hladíš? Ak máš peniaze, kúp si;   môžeš z toho niekoíko párov čižiem podkovať.“ Nuž veru som ja to   železo kúpil a ono stalo sa základom môjho majetku.“ „Večierkom, ked   si už tovaryšia fajčili, alebo spali, s dovolením majstrovým pod-   19
+   </tei:p>
+   <tei:p>
+    ﻿20 kúval som čižmy na svoju ruku a moja majetnosť zrástla   pomaličky natoľko, že ked ma prepúšťali, vládal som nielen útrpvy   prepúšfanky statočne zaplatiť, ale na vyše toho vyčítal mi majster na   ruku dvadsať tvrdých toliarov, bielych ako srieň. „Toto je, vraví,   tvoj statočne nadobudnutý majetok; usiluj sá tak aj ďalej, Pán Boh,   ta požehná!“ „S plačom lúčil som sa potom s mojím prvším dobrým   majstrom a išiel som s batôžkom na chrbáte s palicou v ruke zkusovaf   svet. —■ Nejeden raz to bolo, čo ma i chuť vábila, i kamaráti   zvádzali, to do krčmy, to ku kartám, to na iné veci a miesta, kde   človek hriešne čas trávi, zdravie i peniaze nemilo Bohu utráca; ale   poručenstvo otcovo ochránilo ma vždy. Bol som zvyknutý modlil sa ráno   i večer, za každým mi teda do očú prišly slová: „Modli sa a pracuj a   čo zarobíš, zavaruj.“ aj na vandrovke ’verne zadržal Vo dne robil som   majstrovi, ■tr »sk|i;|iiý4iyd}r aJ do dvanástej — sebe. Za-
+   </tei:p>
+   <tei:p>
+    ﻿robené peniaze odkladal som opatrne, až nasbieralo sa mi tisíc   zlatých.“ „S týmito vrátil som sa do rodnej dedinky našej, začal som   budovať výheň i dom. Skoro naučili sa ľudia ku mne s robotou a hrnú   sa mi vždy noví objednávatelia; znak toho, že yyhotúvam robotu dobrú   a nikóko nepretiahnem v cene. Takto rástlo a rastie i remeslo i   hospodárstvo moje so dňa na deň pri zlatom poručenstve otcovskom.“   „Taký to hľa! bol poklad, súsedia moji drahí a dietky moje milé!“   dokončil Dobrôtka svoju rozprávku. Rázvora a Štrngeľ poškrabali sa   poza uši. Ondrej pokýval, že to veru inak už ani byť nemôže; lebo, že   veru jeho gazda i s čeliadkou modlieva sa, pracuje a varuje. Deti   okolo stola šeptaly si a slubovaly: Aj my budeme sa modliť, aj my   budeme pracovaťj aj my budeme varovať! 21
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

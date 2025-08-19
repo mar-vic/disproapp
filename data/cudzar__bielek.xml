@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk193551" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Cudzár : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton (1857 - 1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4819
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bielek, Anton
+     </tei:author>
+     <tei:title>
+      Cudzár
+     </tei:title>
+     <tei:pubPlace>
+      Praha
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1935
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     CUDZÁR
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Ako sa octneme na hradskej ceste, vedúcej z Varína na sever, hneď   padne nám zrak na tú skalnatú, černavú Maguru s Malým Kriváňom v   čele. Pocit samoty zavládne našou dušou, tak odlúčené, odľahlé,   zabudnuté zdajú sa tieto dolinky, lazy a kúty nášho domova. Asi tri   hodiny na sever v súsedstve oravskej Zázrivej na hradskej ceste leží   v doline, ale viac po okolitých vrchoch roztratená Terchová. Západným   chotárom nesie sa až po Čiernu Ľutyšu, horu to bohatú na skrýše pre   divinu a významnú svojím mytologickým názvom. Zanechajúc vyše dediny   hradskú, odrazíš sa vľavo na chodník; tu lieštím, tam krovinou krúti   sa ustavične nahor, na hrebeň mierne spadajúceho horského sedla. Asi   vprostred vrchu, medzi roľami, lúčinami, dvormi leží murované   stavisko, panským majerom zvané. Neznámemu až v bezprostrednej   blízkosti vynorí sa z obtáčajúcej ho zelene pred oči. Prekvapene   dívaš sa naň, lebo fantázia tvoja čokoľvek predstavovala si v   odľahlom tomto kúte, len kamenné stavisko nie. O tomto stavisku, t.   j. o jeho šafárovi budem rozprávať mojim trpezlivým čitateľom. Niť   deja zamotáva a rozmotáva sa v časoch Jánošíko- 131 o*
+   </tei:p>
+   <tei:p>
+    ﻿vých. Pred dvanástimi rokmi cestoval som pešky tým krajom. Boly to   smutné chvíle. Dnes už „kultúrnu misiu reprezentujúci úzus“ —   vyhadzovanie slovenských žiačikov zo škôl — dostal sa za údel i mne —   z mladšej generácie prvému, — nuž chodil som z dverí do dverí, sťa   vlkmi hnaná ovca a klopal, či nedalo by sa nájsť pre poctivú prácu   nejaké miestečko. Cesta viedla ma okolo majera. I utkvelo mi v   pamäti, čo mi vtedy môj vodič rozprával. Podávam to svojmu   obecenstvu, čo malú upomienku na minulosť. 132
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿I.
+    </tei:head>
+    <tei:p>
+     Je daždivý deň, začiatok septembra. Hrebene magurských vrcholcov   zahalené sú hmlou. Hmla zaľahla i do dolín a ich pestrý šat zakrytý   je nedvižnou rúškou. I obloha je plná dumy. Olovené oblaky preháňajú   sa ponad samú zem a na jej povrch prší dážď, ostrý ako ihlice. Po   dvoroch je, ako by tam živej duše nebolo; i pole je pusté, žatva   stojí. Aj veselé slovo väzí v hrdle; na celej doline nepočuť   piesenky, hoci inším časom zdá sa, že každý kríčok vie spievať, tolko   citu chová v sebe srdce šumných pohorských diev. Vyše majera asi na   dohodenie, medzi Leštím a ovocným stromovím vidno dvorec. Pozostáva z   troch chalúp. Okná každej hladia na dolinku. Z prostredného vykukne   ohčas hlava, potom schytí ruka zasa praslicu a pradie. Vreteno vesele   jej fŕka od ruky. Oproti nej sedí obstarná ženička, suseda; shovárajú   sa. „Ale je to za čas,“ rečie susedka a odhodí frndžiace vreteno,   poťahujúc niť. 133
+    </tei:p>
+    <tei:p>
+     ﻿Dážď zašplechoce na malom okienku, ženičky pozrú von a pokývajú   hlavami. „Len aby tých našich nezastihla táto plušť na ceste.“ „A   kedy sa vybrali?“ „Hneď zavčas rána; ani som ich nechcela pustiť, ale   môj nedal sa zdržať, aby sa neoneskoril.“ „Ja, veru ono s tými pánmi   neni čo žarty vystrájať. A najmä keď treba platiť.“ „Ej, veď veru   nie! Len keby sme stačili, ale s roka na rok to ide horšie.“ Gazdina   zasa vstala a dívala sa okienkom na chodník. „Veru aj ten tvoj mohol   už tu byť,“ riekla súsedka, dívajúc sa na gazdinú. „Veď veru mohol;   ako by ste mi z úst vyňali. . .“ „Len aby sa mu čo neprihodilo. ..“   „Priam myslím,“ odpovedala gazdina. „Ten šafár, to hotové čudáčisko…   “ „Tak; kto môže, veru nech ho obíde ako zlého ducha. Ale čo? cudzár   ako cudzár, všetci rovnakí. ..“ Na pitvore zavznely kroky. V   najlepších rokoch muž, vysoký ani jedla, vošiel do izby. „Keď si už   len tu,“ hovorí gazdiná, ale potom umlkne, ako by uťal. Mužova tvár   dýcha rozmrzelosťou, hnevom. „A kôš kde si nechal?“ pýta sa neskôr.   Gazda svliekol huňu a sadol si na podpiecok. Ženičky čakaly, čo bude   hovoriť. Keď si odfúkol, sobral sa: „Ani človek nevie, kde ho   mrzutosť čaká; skoro by som bol do hriechu prišiel. . .“ 134
+    </tei:p>
+    <tei:p>
+     ﻿Prestrašená žena pozrela na muža úzkostlivo. Tento obrátiac sa   trocbu k susedke pokračoval: „Mal som pár brudiek pekného syra; eh,   myslím, strasiem si aspoň šafára s krku. I poviem žene, že zanesiem   na majer od oviec. Našiel som ho práve na dvore. Pán šafár, reku,   doniesol som vám od tých ovečiek. Vošli sme do izby. Zakašle, chodí   sem tam a vykrúca si fúzy a len chodí, ako by ma tam ani nebolo.   Potom si sadne a chytí lajster. „Máš mi dať šestnásť funtov?“ „Tak   je, šestnásť, tu sú, pozrite si,“ hovorím odväzujúc košík. Chytí   hrudku a obzerá ju. Ja len čakám. „To si sober domov, ja takého syra   nevezmem; čo myslíš, že som vrecom okadený?“ povie mi. „Veď je to   samé blato!“ „Ale prosím vás, pán šafár, čo máte proti tomu syru? Veď   je ani sneh a odtečený, že sa až mrví. Do kaštiela ho posielam koľko   rokov, a nikto mi nedal viny. . .!“ „Mlč!“ skríkol na mňa a oči mu   vystavilo navrch — „v kaštieli si robia, ako vedia, a ja si robím,   ako sa mne ľúbi. Čo mi ty budeš rozkazovať?“ „Oh, Pánboh chráň, ale   kde ja inakšieho syra vezmem, keď sa ani tento neľúbi.“ Potom, keď sa   nahundral, vzal kúsok a okoštoval ho. Ani tak sa mu neľúbilo. Že som   ho pomiešal s kravským, že takto onakvo, až horko ťažko doniesol   váhu. No, meraj, hútam si, ale div som nezašiel od divu. Váha   ukazovala pol pätnásta funta! 135
+    </tei:p>
+    <tei:p>
+     ﻿„A takto ma ty chceš vyplatiť,“ osopil sa na mňa, ukazujúc na   váhy, „i donesieš blato i chceš ma oklamať na váhe?“ „Na mojej váhe   váži ten syr pol sedemnásta funta, pán šafár,“ hovorím mu. „Ba   povedz, že dvadsať,“ kričal, červený ako kohút. „Aj, znám vás dobre   vy. . . vy. . . vy. . .! Keď beriete, ste sladkí ako med a krčíte sa   poníženosťou ako otroci; ináč však sdriapali by ste i kožu s   človeka!“ A zahrešil do zaňátov, a Boh vie ešte do čoho, až som   myslel, že sa tá izba zrúti na nás. Ja som len stál. Chcel som sa   ozvať, ale potom nechal som tak. Čo sa budem, hútam, s tebou zarážať,   veď sa len kedysi vyfúkaš. Doženiem ti na jeseň ovce a nech sa rohatí   s tebou kamarátia a nie ja. Ale odrazu mu čosi pobehalo po hlave,   nechal syr tak a bežal k stolíku. „Počuješ, a s tými peniazmi čo?“   Mňa to už domrzelo: čo sa budem cudzárovi podkladať, myslím si. I   povedal som mu: „Nemajte starosti, šafárko, zaplatím i to, len mi to   spočítajte, kolko je toho dohromady.“ „Mal si vlani na Michala 30   dvadsiatnikov… od tých ti príde interesu 15.“ „Nuž, tak je, veď ako   sme sa spravili, netajím.. .“ „Potom som ti požičal tri toliare. . .“   „Ej, mýlite sa, šafárko. . . len dvadsiatniky.“ „Ale kedy to bolo?“   pýtala sa žena zrak do povaly uprúc, ako by rozmýšľala 136
+    </tei:p>
+    <tei:p>
+     ﻿„Okolo Turíc, vieš, išla si za ne Zoríkovej kmotre do kúta   nakúpiť.“ „Veru, veru, pamätám sa; akosi podvečer si ich doniesol,“   hovorila žena. Keď som mu to povedal, ani čo by mu bol dal zaucho.   „Čo sa opovážiš?!“ skríkol a vyskočil zpoza stola. „Mám na to   svedkov…“ „Veď ti ja dám svedkov; zaplatíš, alebo prídeš o chalupu.“   Čím dial, tým bol posadlejší; sotva som mu rozumel, chodil, behal sem   i tam, rozhadzoval rukama. „Aj interes aby si mi hneď a hneď   doniesol; ani hodinu ti nečakám. . . za moju dobrotu! Vy nevďačníci   vy. . . vy… “ a len tak sa mu sypaly z úst nádavky. Myslel som, že bo   porazí, ale keď sme už tak ďaleko prišli, ani ja som nemlčal. „Pán   šafárko, na ten interes mal by som mať už tu niečo odrobené.“ „Áno   máš, máš. . . bababa! Odrobil si si už i kapitál, ba ti ja musím už   doplatiť!“ kričal a zasa sa smial. Až ma mráz prechádzal. Taký bol,   len mu roby chýbaly. Ej, myslím si, keď si pred rokmi otrhaný prišiel   do majera, nikto nevedel, čo v tebe trčí. Ale potom mi prišlo na um,   že každý si môže pýtať svoje a rečiem mu: „A neviete, že na Turíce   vzali ste si zo salaša dve jarky, žena vám doniesla dve kvočky po   ôsmich kuraťoch a na jar oral som vám dva dni?“ I nebolo mu viac   treba; kôš so syrom praštil o zem a 137
+    </tei:p>
+    <tei:p>
+     ﻿mňa chytil za huňu a hnal von. Len som sa díval, či nechytá   palicu, a dával pozor, aby som sa mohol chytro zvrtnúť, ak by mal   vôľu do bitky. Žena počúvala ako primrazená. „Mal si mu, pre Boha,   dať pokoj,“ riekla so strachom. „Vieš, čo starým Ondráškovcom   vyviedol? Doniesol ich o všetko.“ „Neboj sa ani mak, Hana, nedám sa   ja tak ľahko komu pod cepy. Veď pravda je ešte aj pre mňa. Dosvedčím   mu svedkami; však dosť sa už nasdieral našej chudoby.“ „No, veď len   aby bolo,“ hovorila opatrnejšia žena, „ale keď sa   jetostakýmsvetáromťažkozaprsty chytať.“ Gazda zahovoril a o chvíľu   vyšiel von. „Kto mu len dá rady,“ šepkala stará suseda, „lebo celý   svet nanivoč privedie“ a nachýlila hlavu k praslici. 138
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿II.
+    </tei:head>
+    <tei:p>
+     Je predmichalský týždeň; chudoba tohoto kraja teší sa na tento   čas, ako Pánboh na dobrú dušu. Dnes, keď náš na seba ponechaný lud v   ďalekej cudzine musí hľadať kus horkého chleba — o Michale vracia sa   v kruh svojich drahých, a i v ten čas, keď dej tejto poviedky   odohrával sa v zákutí magurských bŕd, michalský a predmichalský   týždeň bol každému dňom úfnosti. Zdola zo Žiliny, Čadce, Bytče   prichádzavali do dolín bohatí mäsiari a zakupovali ovce na priekup a   najviac na soleninu pre pltníkov z Oravy a Liptova. I Yarín stál za   tých časov v lepšom chýre než dnes. Bol obchodným strediskom medzi   severom Trenčianska a juhozápadom Oravy; Zázrivou, Erdúdkou až po   Kuhín. Lysičani, Belani, Riečničani, Ľutyšani, Vadičovci, Strážani,   Gbelanci, Tižinci a Strečňani mali tu svoj obchodný stredobod a   donášali na jarmoky zbožie, ovocie, krásne, ešte dnes málokde videné   útvary z ovčieho syra, hydinu, lykové koše, domáce plátno, valaské   súkno a rozličné druhé obchodné a priekupné články. 139
+    </tei:p>
+    <tei:p>
+     ﻿Niže majera na obidvoch brehoch potôčka leží dvor pozostávajúci   asi z ôsmich chalúp. Slnko sklonené je nad Čiernou Ľutyšou a   osvetľuje vŕšky terchovských horalov kosmo dopadajúcimi lúčami. Na   dolinách i stráňach už všetko sožaté, iba hrebene výšin belejú sa   pomaly zrejúcim ovsíkom. Asi uprostred dvorca pri úžľabine na klátoch   sedí pár mužov. Hune majú remeňmi pripásané, na hlavách široké   klobúky. Shovárajú sa. „Boli ste dnes v kostole, Adamko?“ „Bol i s   deťmi; mal som trochu vykonávania, v robotný deň sa nedá, nuž človek   si to v tú božiu nedeľu rád odbaví pri jednom.“ „Čo tam slýchať. ..   ?“ „Veru neviem, Ďurko náš, nemal som ako medzi ľudí. . .“ „Ale že   starý dvorský pôjde preč?“ „I ja očúvam; škoda, že sme mu boh   privyknutí.“ „Že dostaneme kohosi z Dolniak?“ „Ak sa podá na tamtoho   cudzára,“ sedliaci hodili hlavami na majer, „nebudeme si mať čo   závidieť.“ „Ale ľudia boží, čo som vám dochýroval?“ Sedliaci obzreli   sa na sedliaka blasne otázku položivšieho a zvedavo sa naň dívali.   „Že sa náš mladý „osviecený“ má ženiť.“ „Nehovorteže, teda ženiť.“   „Ja, veru ženiť: a že si bude brať až z Novohradu.“ „A kto vám to   doniesol?“ 140
+    </tei:p>
+    <tei:p>
+     ﻿„Včera idúcky z lúk rozprával mi to šnúrkár Jakub.“ „Hja, budeme   sa teda mať podarkov čo nasnášať.“ „Hm, ináč nemáš; môj otec hovoril,   že keď páni tancujú, chudoba platí za muziku.“ Sedliaci zahladeli sa   pred seba, rozhovor utíchol. Za uhlom stavania zjavily sa dve   postavy. Barančie čierne čiapky, po kolená kožuchy, dobre chované   telá a v úzadí velkí psi prezradzovali mäsiarov. „Pánboh daj šťastia,   susedia!“ „Uslyš Pánboh, vítajte, páni majstri, ej dávno sme vás   nevideli. Ale čo i po vás, vy len vtedy k nám, keď vám voňajú   košiare.“ „Ale zato kapsa mi pamätá, kedy sa zatúlam na terchovské   cholvarky,“ odvetil so smiechom mäsiar. Potom neskôr dodal: „A j ako   sa máte, Adamko?“ „No len tak ako v horách. . . vy sa pochválte?“   „Ďakovať Bohu, ešte by sme boli; a deti?“ „Deti ako deti, len aby   bolo chleba a rycbtár nad nimi.“ „Veru to máte všade tak; Ivka, žena   čo porába?“ „Jo, čo by tej, má už druhé zuby, ale len prvý rozum.“   Chlapi sa smiali i mäsiar. „Veď, veď,“ pochleboval o chvíľku tento…   „nedávno vidím vám ju vo Varíne na trhu. Taká bola červená, vysmiata,   vyčipkovaná. .. ale ktože si? hádam, kukám, až potom prišlo mi na um,   že to gazdina Adama z terchovských cholvarkov. Kričím na ňu: Ivka, I!   ale stratila sa medzi ludí. Ani som ju viac nevidel.“ 141
+    </tei:p>
+    <tei:p>
+     ﻿Adam sa samobrde usmial. Vedel, že mäsiar si podkladá pod kúpu;   ale i reč nebola planá a s dobrým slovom nikomu hlavy neprebili. Po   podobných vítankách mäsiari prisadli si k horalom. „Azda ovečky ste   prišli pozrieť, pán majster?“ pýtal sa jeden z nich. „Máme chuť;   jeseň už predo dvermi.“ „Oj, však kúpite dosť, mali sme, neponos   Bohu, žičný rok.“ „A svetu groša treba.“ „To chýba všade,“ riekol   jeden z mäsiarov a po chvíli sa pýtal: „Budete doma podvečer? Ešte by   sme chceli tu bore — a ukázal — na okolité dvory kuknúť.“ „I budeme,   len sa pojednajte, dočkáme vás.“ Mäsiari odišb a zahnúc na majerný   dvor zmizli. „Ten šafár bude toho mať zasa bodný kŕdeľna predaj,“   hovoril Adam gazda k súsedom. „Tak, len čo ja viem má na predaj asi   60 kusov. A koľko mu ešte ostane!“ „Aj ja mu veru pozajtre doženiem   dve ovce.“ „Čože, dlžen si mu i ty?“ „Pokrýval som srub; volky   nevoľky musel som i ja obutý do vody “ „Bože môj, neni skoro človeka,   ktorý by mu nevliezol do pasce… a keď sem prišiel!“ „Veru nemal háby   celej na sebe. Len tá červená brada sa mu blyšťala zďaleka. Ale ja   som hneď povedal: po- 142
+    </tei:p>
+    <tei:p>
+     ﻿čuješ, žena, mne sa ten človek nelúbi. Má fúzy ako líška — celý   Judáš.“ „A bol rád, keď mu kto do hrnca kapusty podaroval, a teraz   ide nám pri ňom o hrdlo.“ „Ba o hrdlo; som len zvedavý, čo svedie s   tou Panákovou vdovou?“ „Dnes ráno dal zasa volať pre ňu rychtára.“   „Že vyhral proti nej to právo; bude ju chcieť zálohovať.“ „Veru málo   čo nazálohuje; už ju o všetko doniesol.“ Shovor vedúci náhle zastali.   Shora prudkým krokom spiechal okolo nich šafár sprevádzaný panskými   paholkami a rychtárom. „Kam len idú?“ šepkal jeden. „Však uvidíme.“   Šafár obracal sa chodníkom do vŕšku. Sedliaci zvedavo dívali sa za   ním. „Azda do Panákov?“ „Veru i mne sa zdá; dočkajme, keď prídu k   plotu.“ „Pozrite, už sú pri studni. . . “ „Idú k vdove. Chudera, tiež   by som nechcel byť v jej koži,“ riekol jeden. „Poďme pozrieť, čo bude   s ňou robiť,“ mienil najmladší. „Iď, ak chceš, aby ťa za svedka po   súdoch vláčili, ja veru mám pokoj.“ 143
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿III.
+    </tei:head>
+    <tei:p>
+     V malej, plotom okrúžlenej chalúpke na predku dvora bývala vdova   Panáková s jedinou dcérou Borčou. Po smrti mužovej dala si roličku do   árendy a živila sa vyšívaním, kým dcéra, keď nebolo v dome roboty,   zašla i na zárobky do súsedov alebo kamkoľvek, kde sa práca trafila.   Živily sa ako mobly, až pred dvoma rokmi šafár kúpil rolu susediacu s   jej záhonmi a dovolávajúc sa, že dva, podnes vdovou užívané záhony   patria jemu, chytil ich do práva. Časy utekaly; vdova sa bránila, no   obhajoba mala pažerák bez dna. Bieda zjavila sa okolo domu, klopala   na okno, na dvere a konečne sadla si za stôl. Ale ešte nebolo   najhoršie; štvoro zdravých rúk nie ľahko poddá sa hladu, no nešťastie   nespí. Šafár podplatil súdy, vdove odobrali najcennejšiu časť poľa a   okrem toho i útraty závislý jej na krku. Rozžialená nad nešťastím,   obľahla. Na Borču svalily sa všetky ťažkosti zápasu o udržanie seba a   nemocnej. So zdvojenou silou pracovala, aby poskytla chorej, čoho   potrebuje, a pomohla jej na nohy. 144
+    </tei:p>
+    <tei:p>
+     ﻿Práve sedela pri posteli a dívala sa v žialnom zadumaní na bledú   matku, keď v pitvore zavznely kroky a šafár s rychtárom i posluhmi   vošli dnu. Nemocná strhla sa, klesla a triaška prebehla jej telom,   Borči šitie vypadlo z ruky… Rychtár složil klobúk; šediny zabelely sa   staríkovi na hlave. Bojazlivo, ako keď niekto len najväčším tlakom   nútený odhodlá sa na niečo — chodil očami po nemocnej, dievčati a   šafárovi. Čakal, že svedomie sa pohne v cudzárovi, no darmo. Kašlal.   . . „Vdova Panáková, máte zaplatiť 25 rýnskych pánu šafárovi na súdne   útraty. Vyrovnajte sa, alebo musím vás zazálohovať.“ Na posteli   hnutie, vzlyk, plač… Dcéra Borca zakryla si rukama tvár. Tíšila matku   a hladila ju po šedivých vlasoch. I kameňu by ťažko bolo sa dívať na   úbohé ženy. Len šafár díval sa tvrdé na svoje obeti. „Ale veď nám to   ešte neoznámili od súdu,“ bránila sa starká. „Tak inštancie ti budú   vypisovať, aby si zaplatila,“ osopil sa škodoradostne šafár na vdovu.   „Teda, čo budete robiť?“ pýtal sa neiste rychtár. „Čo, Bože môj, keby   ja vedela čo?“ zaplakala nemocná. „Pre Boha, majte s nami   milosrdenstvo, pán šafár!“ prosila deva. Tento stál ako soľný stĺp.   Konečne riekol: 145 Obrázky z hôr — 10
+    </tei:p>
+    <tei:p>
+     ﻿„Načo ste sa púšťaly do súdov. Máte zaplatiť?“ „Kde by sme vzaly,   pán šafár; veď vidíte, že mi matka na smrteľnej posteli. Však keď   ozdravie, zaplatíme.“ Cudzár zdal sa nepočuť prosbu devy. Kynul   rychtárovi, aby zálohoval; ale tento váhal. Zápas ľútosti s   povinnosťou jasne zrkadlili sa mu na tvári. Riekol: „No, proste ešte   pána šafára, veď vrelá prosba až k nebesiam dosahuje.“ A sám   pristúpil k nemu a pomáhal úbohým. „Ja nemôžem urobiť nič, bolo sa im   neprieť, teraz je už neskoro. Nech sa učia poriadku!“ „Aspoň im   dočkajte, pán šafár.“ „Nebudem čakať. Ja som sa im nakázal chytať za   prsty.“ „Ja sa vám zaručím za ne.“ „Ani tak. Zálohujte!“ Rychtár   díval sa ako v nedorozumení. Krútil hlavou: „Teda nech sa stane vôľa   božia. Ukážte truhlu!“ Hrozný plač bol odvetou na tieto slová. Dievča   nechcelo dať kľúča, boženík so sekerou musel otvoriť veko. Nemocná   zalomila rukama, z hrdla sa jej vyrážaly výkriky úzkosti, zúfalosti a   rozhorčenia. Zdvihla ruky ako k hrozbe, oči vystúpily z jamiek.   Prišiel rad na komoru. Rychtár znovu pokúsil sa vyrovnať rozdiely, no   darmo. Borisa behala sem a tam ako rozumu zbavená. Úzkostlivo zierala   do kúta, kde v malej truhličke bolo jej všetko: sviatočné šaty. No   zúrivcovi padla do oka i táto skrinka; kázal ju von. 146
+    </tei:p>
+    <tei:p>
+     ﻿„Pán šafár, pre všetko na svete, neberte mi to! Štyri roky som sa   trápila na to. Pre božie milosrdenstvo!“ Rychtár s paholkami bol   vonku. Šafár ostal s devou samotný. „Hahaha, divý holúbok, už   krotneš? No, pekne, to je už iná. . .“ a pristupoval s mraziacim   smiechom ku nej. „Neboj sa, poď ku mne. .. neboj sa, veď som ja nie   zlý človek. Ak chceš, ani sa toho netknem. . .“ a urobil krok,   obojmúc devu okolo pása. Tejto udrela do hlavy krv. Napriahla päsť a   búšila zúrivcovi celou silou do tvári. Nasledoval výkrik, kliatba;   pribehli našli šafára v krvi; nevedeli, čo to znamená. A ešte väčší   úžas sa ich zmocnil, keď šafár vrhol sa na dievča a počal ho biť, že   až spadlo na zem. „Pán šafár, čo to stvárate, veď zabijete úbohú,“   skríkol rychtár a hodil sa medzi nich. Zúrivec zastal, no tým väčšia   zloba bo podišla, keď videl, že mu starec zastúpil cestu k Borci.   Cbcel ho odsotiť; žatým paholci zdvihli údermi omámenú devu, ktorá   ako smyslov zbavená pustila sa do úteku, tam k horám. 147 10*
+    </tei:p>
+    <tei:p>
+     ﻿rv. Nadišiel večer. Jesenný, ostrý vietor plával dolinou i horami   a tieto hučaly, že až úzko prichádzalo v tých čiernych, samotných   horách. Na Maguru sadla hmla, iba na úpätí bŕd a v dolinách zreje   tma. Trápne vyjíma sa temné desno v podruží tých židových balvanov,   hučiacich hôr, čerňou sýtych dolín. Všetko sedí doma. Vonku len   bosorky, škriatky a zloduchovia . Ľudia postúpili im právo a utiahli   sa v štyri kúty svojej izby. Ba i v tú chatu vtiahol kráľovič na   zlatom koni, potom šarkan s dvanástimi hlavami a pred tvárou uprene   načúvajúcich diev — priadok a šuhajov vzplanie boj o zlatovlasú   pannu, i izba naplní sa pomaly divotvornými bytosťami, že mnohá   vretenom vrtiaca poslucháčka sedí ako na špendlíkoch a každú chvíľku   je hotová vyskočiť, ak by ju prípadne rozpravou oživený černoduch za   suknicu trafil potrhnúť. Ale predsa nie to tak pusto, samotne vonku.   Na vrchu sedla, ktorým prevaľuje sa chodník okolo majera vedúci,   jedľová hora siaha až po samú pirť. Zdá sa, ako by 148
+    </tei:p>
+    <tei:p>
+     ﻿sa orážal o uši zvláštny ruch, ba kroky a kedy tedy neurčitý   ľudský zvuk. Z okraja hory otvára sa spád vrchu až do doliny. Kde tu   kmitá slabé svetielko; azda z okien tmou obkľúčených dvorov. „Ale tu   si už pohovieme,“ zavznel hlboký hlas na chodníku a čierne postavy   vyrútily sa na okraj hory. „Zajdime trochu vbok, tam je studienka.“   „Veru; nebude nám treba po vodu.“ Tlupka obrátila sa vpravo. Na samom   konci hory zastali. „Chlapci, složte oheň!“ znel povel. „Veru sa zíde   odpočinúť. Pred polnocou by sme na Koziu skalu jednako nedorazili.“   Žiara osvetlila vatrové ložisko. Okolo ohňa na huniach oddychovalo si   asi dvanásť chlapov ani jedle. Povedia pušky, za pásmi nože a   pištole. Tváre zosobnená divá odhodlanosť a smelý vzdor. Na štvrť   hodiny od majera a roztratených dvorov rozložil sa nocľahom postrach   okolia, krkolomnou smelosťou a chýrom až v nadčloveka vyvýšený   Jánošík. „Ďuro, ukáž, čím ťa to v Ľutyši žid podaroval,“ rozkazoval   Jánošík, kývnuc otázanému rukou. Oslovený vytiahol malý, drevenou   zátkou opatrený súdok. Vodca kynul zasa v druhú stranu a velil:   „Jano, prelej si gágor, a tu máš tento žlták, nech ti švagor Adamčík   dá ovcu, a povedz mu, že ak chce, nech príde medzi nás.“ 149
+    </tei:p>
+    <tei:p>
+     ﻿Tento vstal a bez slova zmizol v tmách; súdok žatým koloval vôkol   vatry. „Kde je Harko?“ ozval sa posledný v kole držiac súdok na   ďalšie podanie. „Nevieš, že má deň?“ ozval sa ostrým hlasom ďalší   súdruh i pozrel s nevolou na opytujúceho sa, ako by mu vytýkal.   Niektorí z hôrnych chlapcov medzitým vstali a hotovili drevo na   vatru; druhí čistili zbroj alebo vyťahovali a presúšali pušný prach   na papieroch. „Zajtra sa pozreme do Oravy, chlapci,“ hovoril Jánošík,   „aby sme chodníky nepozabývali.“ „Aj valaškou nebude škodno zazvoniť   kde komu,“ mienil jeden zavalitý, divého výzoru šuhaj. ,,To, to. . .;   na Starých Bystriciach stretol som sa na trhu s Oravcami. Žalovali,   že zákamenoklinskému krčmárovi rohy rastú.“ Vtom zavznel hvizd; znel   hlboko, ku koncu ostro. Potom v troch krátkych sekoch sa stratil. „I   u sto hromov! Azda v Terchovej opováži sa kto na nás i do hory!“   skríkol Jánošík a celá tlupa skočila na nohy a chytala valašky,   pušky. Hora hučala, zbojníci striehli každý šust. Dvaja-dvaja dívali   sa vo všetky strany sveta. Y napnutom položení zavznelo hvizdnutie   druhé. Onedlho ihličie zašustilo, na pirti zjavil sa strážnik, vedúc   devu Borišku, trasúcu sa od zimy, s nohama tŕním skrvavenými. 150
+    </tei:p>
+    <tei:p>
+     ﻿„Ale čo vedieš za mátohu?“ kričali hôrni chlapci, hrnúc sa zvedavo   oproti nim. Kde tu zavznel i smiech, no len nakrátko. Ako sa dostala   deva v kráž žiare, vidno bolo, že lejú sa jej slzy dolu tvárou a ťahy   sú rozryté bôľom a vzbudzujú milosrdenstvo. „Ale ký rohatý ťa sem   vyštveral, dievča?“ pýtal sa Jánošík, hladiac udivený na Borišku.   Dievča pustilo sa do plaču. Strach i zima chodily jej po kostiach.   „No, no, len nie z babských fňukov; ty si akási divá hrdlička, neboj   sa, zima ti je? no poď sa zohriať,“ hovoril priateľskejšie vodca.   Potom sa jej pýtal: „A jako ťa zovú?“ „Borou Panákovou.“ „Toho   nebohého, čo tu vyše majera býval?“ „Toho.“ „A j ako si k nej   prišiel, Horko?“ zamiešal sa do reči Adam. Horko rozpovedal priebeh   lapenia a Jánošík vyzviedal sa potom devy: „Kde si sa tu zatúlala?“   Dievča vyrozprávalo, čo sa prihodilo medzi matkou, ňou a šafárom.   Hlasité výkriky nevôle, zloby a hnevu sprevádzaly rozpravu devinu.   Sám vodca za reči viac ráz smraštil čelom a tvár jeho nadobudla   hrozivého výzoru. Hôrni chlapci umíkli; neradno bolo rozprávať, keď   vodca sa chmáril. Po chvíľke pýtal sa: „A už dávno, čo tento holomok   sa tu skrýva?“ 151
+    </tei:p>
+    <tei:p>
+     ﻿„Už skoro desať rokov.“ „Ale keď tak málo počuť o ňom?“ „Ľudia sa   boja rozprávať.“ „Hja, veď je to tak! Ten svet dá si radšej pásy   rezať s chrbta, než hľadel by si spomôcť.“ Jánošík zasa sa zamlčal;   len hrozivý výzor tvári prezradzoval, že je pobúrený. Prechádzal sa s   priklonenou hlavou; potom riekol: „Chlapci, viete čo? Po večeri   pôjdeme do majera!“ Povel odznel bez poznámky, vodca rozkazoval   ďalej: „Ty, Matej, po večeri soberieš sa obzrieť miesto. Vráť sa čím   skôr, my ťa tu budeme čakať.“ A závislá nad terchovskými horami a   dolinami tuhá noc. Na nebi sa pohybovaly čierne, nedvižné oblaky od   severu aťahaly sa ponad Yáh k pustému Starému Hradu, šedivému Strečnu   a k strašným krúťňavám Besnej. Obloha spustila vĺčka, jednej   hviezdičky nebolo na nebi, a hora i les, vŕšok i dolina zmizly v   ťažkých tmách pozdných chvíl. Hlásnik tiahlym zvukom oznamoval jednu   po polnoci. Okolo majera pusto ako na cmiteri. V každej chalúpke už   tma, iba ak vietor zašustí v krovinách, zakňučí v stromoch, až vtáčik   zdvihne bojazlivo hlávku, zajac učupí sa pod medzou a zo sna vyrušený   človek so strachom načúva, či neblíži sa nebezpečie. Šafár po výstupe   s vdovou vrátil sa domov. Mimo 152
+    </tei:p>
+    <tei:p>
+     ﻿obyčaja nemohol sa zbaviť myšlienok na výstup. Tá bledá nemocná   vdova a dobité dievča väzily mu v hlave. Inokedy tak mu bolo dobre,   keď dal pocítiť svoju moc, no dnes nijako nemohol sa vžiť do toho   pocitu. Prudkým krokom meral izbu: „Ah, čo! chrapúni, chrapúni ani   nemrknú,“ mávol rukou a sadol si za stôl. Už bol večer, hodina za   hodinou sa míňala, v šafárovej izbe tma, dovôkol majera ticho. I   vietor zastal. Za uhlom však vynoria sa zrazu postavy; kráčajú   opatrne, obzerajú sa. „Vy dvaja pôjdete zahaspriť maštale,“ znel   tichý hlas, „dvaja si stanete na uhly, ostatní rovno na dvere!“   „Zavŕtaj pod rígeľ, Ďuro, a ty maj nastrojený sochor.“ A práca šla   ticho; vietor oprel sa do stromov a hučal ovzduším. Ani najčuvnejšie   ucho nebolo by nič podozrivého zbadalo. Konečne nastal zápas kovu s   kovom; sochor zvíťazil, dvere schrapäly, vchod bol voľný. Šafár sa na   buchot zobudil, skočil prestrašene s postele, zažal svetlo a schytil   pištoľ. Na dverách zahrmel silný huehot. „Kto si, čo chceš?“ znelo z   izby. „Otvor!“ „Neotvorím, a kto prvý vkročí do dverí, zastrelím ho!“   „A s ostatnými jedenástimi čo potom počneš?“ znel hlas zvonku.   153
+    </tei:p>
+    <tei:p>
+     ﻿Šafár zbledol, išiel k obloku, rozbil bo úderom pästi a kričal:   „Kto z Boba, daj radu, zbojníci!“ Ale rýchle cúvol. Zvonku zavznel   výstrel a gula zaryla sa mu pred samým nosom do múru. Vtom však   popustily i dvere. Na smrť preľaknutý šafár ani nevedel, keď bol na   zemi a jeden zo zbojníkov ležal mu na prsiacb. „Ak sa hneš,   preženiemťa olovom!“ znela hrozbabrániacemu sa šafárovi a druhý oprel   mu pištoľ na čelo. „Čo chcete, čo prepadáte pokojných ľudí?“ „Hľa   ešte i pokojným ostane! Však si ako ovečka?“ kričal naň Adamčík, „ani   vody zakaliť nevieš, čo?“ Jánošík, ktorý dosial len rozkazy vydával,   obzrel sa. Tesne za ním bola postava zakrútená v čiernej huni. Kývol   rukou, druhovia ustali. I chytil postavu za ruku, doviedol ju pred   šafára a riekol: „Chlape, vediem ti mátohu!“ zpod hune vykĺzla   postava strhanej devy. Šafár odvrátil hlavu; zbledol, zaklial.   „Poznáš ju?“ pýtal sa vodca hôrnych chlapcov. Nijaká odveta. „Sviažte   mu ruky!“ znel povel. „A teraz, divoch, ukáž, čo si nalúpil!“   Dostrkali cudzára k truhle a odtrhli veko. Jánošík vytiahol papiere a   prezeral. „Blesky božie, čo tento divoch už posvádzal!“ skríkol   nahnevaný. „A ja som o tomto nevedel. A tu skoro pol truhly zlata.   Potom vzal sám hrsť triesok a založil na 154
+    </tei:p>
+    <tei:p>
+     ﻿kozúbku oheň. Vyťahoval z truhly papiere a hádzal ich do plameňa.   Šafárovi vyvstaly oči z jamiek; zareval. Oheň trávil zápisy a iné   listiny desaťročnej úžery! „Vidíš, pánko, čertu slúžil, čert ho   vzal,“ smial sa zlostne vodca. Potom obrátil sa k druhom a riekol:   „Chlapci, čo nájdete, vezmite sebou. A tohoto tu do kozia!“ Rozkaz   hyl vykonaný vo chvíľke. Do klbka sviazaný divoch sekal zubami   zúrivosťou a bôľom. Zbytoční roztratili sa po izbách, komorách, a kde   čo bolo, brali. Jánošík žatým chodil po izbe, v ktorej zastihol trest   šafára. Tu tam postál a prizrel ku kozúbku, či všetky papiere   zhorely. Keď sa hôrni chlapci shromaždili, prišiel rad na obsah   železom obitej truhly. Lup bol prevedený chytro. Horská chasa bola   hotová na odchod. Jánošík obrátil sa k poviazanému šafárovi a   hovoril: „Chlape, prišiel si sem a cical našu chudobu až do krvi. Čo   ušetril pán, to dobil si ty. Ale kára ťa pristihla. Bol si, ako keď   vlk zatára sa medzi kŕdeľ oviec. Ale táto — ukázal na devu — a jej   nezdravá mater boly posledné ovce, ktoré si strhal. Zajtra sa daj   odvliecť preč, neukáž sa tu viac, lebo — pri pamiatke svojej matky ti   prisahám! — túto valašku zamočím ti sám do hlavy, ak kedy do týchto   dolín vkročíš! Mal by som vôľu strestať ťa ináč, no teraz nechám ťa   ešte tak. Aspoň keď sa sídeš s tebou rovnými vlkmi, porozprávaš im,   akými rífami meria sa v našich horách pravda.“ 155
+    </tei:p>
+    <tei:p>
+     ﻿Zbojníci vyšli von; tam bolo tak ticho ako predtým. „Chlapci,   čerstvo na Koziu skalu, oddýchneme si len tam,“ velil vodca a tlupa   povestných zbojníkov zmizla v tmách. Na druhý deň ludia s utajenou   radosťou rozprávali, čo sa stalo so šafárom. Väčšie bolo ich   prekvapenie a radosť, keď tento zmizol bez stopy. Úrady darmo   sliedily po páchateľoch, nebolo nikoho, kto by vysvetlil vec, kto by   bol podal objasnenie. Len Borča a jej mať vedely všetko, tie tešily   sa podarúnku Jánošíkovmu, no rozprávať o tom nechcely nikomu, ani za   svet nie! 156
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

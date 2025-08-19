@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk193595" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Kopáč pokladov : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton (1857 - 1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5657
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bielek, Anton
+     </tei:author>
+     <tei:title>
+      Kopáč pokladov
+     </tei:title>
+     <tei:pubPlace>
+      Praha
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1935
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ﻿KOPÁČ POKLADOV
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Bolo to v rokoch 187. . . Zdržoval som sa čo študent na Starých   Bystriciach u mojej nebožkej tetky. Farárom bol tam vtedy Ján Holáč,   v pol stolici „pánkom“ zvaný, dobrota človek páru nemajúca a môj   veľký priaznivec. Bolo to v druhej polovici septembra. Stromy   požehnaním skláňaly sa až k zemi, sušiareň pracovala. Podvečierky   trávili sme vždy pri peci. Sám „starý pánko“, starec osemdesiatnik,   dieťa predošlého storočia vytrvale bral účasť na našich besedách. A   bolo by nám bez nebo i smutno bývalo, tak milo vedel sa vyznať medzi   nami. Mal asi päť tisíc duší vo svojej farnosti a každého oslovoval   krstným menom. Deväť desatín svojich ovečiek krstil a vyše 56 rokov   už vtedy bez ustania farároval na tom istom mieste. Pamätám sa:   jednému sušiarnikovi bolo meno Pážik, druhý sa volal Adam Chovanec. I   shovárali sme sa od výmyslu sveta o všeličom. Jano Pážik ešte dnes   žije, Adam Chovanec vysťahoval sa do Chorvátska; Boh vie, čo je s   ním. Chudák, pre svoju pilnosť musel opustiť ten „milý rodný kraj“.   Naskupoval rolí, no všetko za vypožičané peniaze. Vysoké úroky   nedonášala tá chudá zemička. I videl svoje nerovné, predal všetko
+   </tei:p>
+   <tei:p>
+    103
+   </tei:p>
+   <tei:p>
+    ﻿a zašiel v tú diaľnu studenú cudzinu. Dym z pece vystupoval hore.   Žiara ohňa osvetľovala predpecie, sušiarnici s papekmi sedeli proti   čeľustiu a piekli zemiaky. My s fajkami preťahovali sme sa po úzkych   laviciach.
+   </tei:p>
+   <tei:p>
+    Večer už myriadami zlatých očí díval sa na tichú dolinku. Studený   vetrík vial nám do tvári cez škáry a zvestoval predmichalský   mrázik.
+   </tei:p>
+   <tei:p>
+    Lesy sa popreťahovaly, vrátili sme sa k ohňu.
+   </tei:p>
+   <tei:p>
+    „Strojí sa na mráz,“ tvrdil posledne vstúpivší Adam. „I hviezdy   lipkajú, a to že na čas,“ odpovedal Jano. Potom začiahli papekmi do   ohňa a obracali zemiaky.
+   </tei:p>
+   <tei:p>
+    „Ale kde sa to len vezme na nebi toľko tých hviezd?“ pýtal sa Jano   vykutrúc z pahreby zemiak a šúľajúc ho medzi rukami.
+   </tei:p>
+   <tei:p>
+    „Hm, kde, Pánboh vie, kde,“ hovoril Adam a pozeral cez škáru na   oblohu.
+   </tei:p>
+   <tei:p>
+    „A keď to len tak svieti,“ pokračoval tým istým hlasom Pážik.
+   </tei:p>
+   <tei:p>
+    „Že sú to lampky, ktoré večer anjeli zapália, aby videli, čo sa   robí na zemi.“
+   </tei:p>
+   <tei:p>
+    „Ba že sú to spravodlivé dušičky, ktoré prišly do neba a Pánboh   obrátil icb potom na hviezdy.“ Pážikovi vyhaslo vo fajke. Prikrčil   sa, vzal žeravý uhlík, položil do hbnenky a ťukal naň nehtom. Keď mu   už horelo, riekol:
+   </tei:p>
+   <tei:p>
+    „Tohoto roku budeme mať včas zimu.“
+   </tei:p>
+   <tei:p>
+    „Možno; len aby taká nebola ako pred piatimi rokmi.“
+   </tei:p>
+   <tei:p>
+    „Veru sme vtedy všetci dosť vystáli; mne všetky prsty omrzly.“
+   </tei:p>
+   <tei:p>
+    104
+   </tei:p>
+   <tei:p>
+    ﻿„A ja som prišiel o dve ovce.“
+   </tei:p>
+   <tei:p>
+    „Mhm,“ dodal Pážik, „to vtedy, keď ich to ten vlk kupoval?“
+   </tei:p>
+   <tei:p>
+    „Nože nám rozprávajte, ako to bolo,“ zamiešal som sa medzi   nich.
+   </tei:p>
+   <tei:p>
+    Adam hovoril:
+   </tei:p>
+   <tei:p>
+    „B°lo t° práve o predmichalských židovských sviatkoch. Za rána sa   zobudím, počujem tú. . . ú, túú... ú, ej, reku, už židi trúbia na   mráz a hneď vyhnal som čeľaď ráno zemiaky kopať. Nastaly holé mrazy.   Náhle som sa so zemiakmi odbavil, šťastie, že pamätal som na okurivo.   Nestačil som dva vozíky dodať, tu sneh sa počne chumeliť a valil sa   ako z vreca. Zpočiatku sa nám to páčilo. Oziminy budú mať, reku,   kabát, ale keď záveje rástly a my museli sme každé ráno celé hodiny   pracovať, kým dostali sme sa k maštaliam, do humien, tu nám to počalo   ísť do živého. Na ceste nebolo vidno človeka, voza, všetko bolo   zaviate. Ľudia rozprávali si o rozličných nešťastiach. Drevo zdraželo   na neuverenie, ľudia jeden druhému kradli ho zo dvorov. Vtáctva   sohnalo sa do dediny celé húfy a čím viac snehu, tým častejšie chýry   kolovaly o nešťastiach. Tam zjedol vlk handrára, že mu len nohy   zostaly v krpcoch, tam ledva že ušiel mu drotár. A že to neboly   povedačky, bolo ti treba vyjsť večer len na preddomie. Hú,. . . hú. .   . hú... začul si tam na čiernych horách vyť vlkov, keď kedy tedy   poutíchol vietor, že hučalo to ako keď trúbi dvanásť. Ľudia   rozprávali: jeden videl vlka tu, druhý dvoch, tri inde. Až zrazu   jed-
+   </tei:p>
+   <tei:p>
+    105
+   </tei:p>
+   <tei:p>
+    ﻿ného rána očuli sme, že Kanderovi na hornom konci vbíjali sa v   noci do maštale. Ja som si už popredku porobil opatrenia, maštaľ mám   osamote, a zlé nespí, ale v prvú noc nič, ani v druhú, ani v tretiu,   až kedysi o týždeň, na šťastie, v jednu noc sa zobudím. Bolo to akosi   k ránu; prevalím sa na posteli, zavrem oči, no, ako by nejaký šuch,   tak zazvučalo mi v ušiach. Zostrím pozor a počujem kňučanie; hneď mi   prišli vlci na myseľ. Načúvam; a veru, kňučanie tak sa nieslo, ako   keď pes behá sem a tam po dvore a chce sa schovať pred mrcha chvíľou.   Len som čakal, až naraz počujem dupot; bľačanie, ovce sbíjajú sa do   čuby, a cengot zvoncov. Hybaj ja von. Zapálil som lampáš, vzal   obušek. V stajni už bolo všetko vzbúrené. Zjavím sa na rohu. Dvaja   vlci ako jalovice kňučali a spínali sa na nohy a škriabali po dverách   a stenách. Dobehnem a cap jednému po hlave. Svalil sa na zem a ceril   na mňa zuby. Druhý stratil sa za uhlom. Nečakal som — ak by ich bolo   blízko viac, vbehol som do izby a vzbúril če* ľaď. Keď sme sa   vrátili, po vlkovi nebolo ani pamiatky.“
+   </tei:p>
+   <tei:p>
+    „A ten, čo ste ho zaťali?“ „I ten bol preč, ostala len kaluž   krvi.“ „A nenašiel ho nik?“ „Ba, hájnik našiel ho kdesi v horách už   stuhnutého.“ „To bolo v tú zimu, keď zomrel i starý Bísaha?“ „Veď;   akosi po Novom roku.“ „A kto to bol?“ pýtal som sa. „Tu jeden sedliak   na Nových Bystriciach. To bol celý magnáš, mal zlata ako smetí.“
+   </tei:p>
+   <tei:p>
+    106
+   </tei:p>
+   <tei:p>
+    ﻿„No, dopovedzte nám i o tom,“ núkal som sušiarnika.
+   </tei:p>
+   <tei:p>
+    „Bol on z Nových Bystríc, z havrelských barónov a keď mu zomrel   otec, nemal ani čo by tuto,“ Adam fúkol si do dlane. „Za mladi   potĺkal sa po dobrých ľuďoch a potom chodil na nájom. Páni stavali   vtedy továreň, lámali kamenie. Náš Bísaha vyberie sa raz za rána   včaššie do práce. Ide horou a tak nenazdajky praští do bútľavého buka   obuchom. I počnú padať z vybitej diery dukáty, bol ich tam celý   kotol. Sobral sa domov a vystaval si dom a ostal rychtárom. Keď   zomrel, nevedel mu svet ani o sume.“
+   </tei:p>
+   <tei:p>
+    „A nechal deti?“
+   </tei:p>
+   <tei:p>
+    „Nechal, ale holi ešte malé a žena nerozumela sa peniazom, ba že   sa pustila i do rozoliša. Keď jej bránili, uchytila ceduľu a išla ku   krčmárovi: „Jakubko, dajte mi trochu sladkého, ale tuto do vašej   izby, aby ma svet nevidel.“ A potom pila, pokiaľ hrdlo ráčilo. Prišlo   platiť. „Jakubko, tu máte tento papierik, vydajte mi,“ a otŕčala mu   päťdesiat alebo i sto zlatých. Židák, vediac, s kým má prácu, vydal   jej z piatich zlatých. Tak sa potom milé peniažky rozkotúľaly.“
+   </tei:p>
+   <tei:p>
+    „A žida neprichytil nikto pri fígli?“
+   </tei:p>
+   <tei:p>
+    „Prichytil, ale čože. kto faramunovi poradí?“
+   </tei:p>
+   <tei:p>
+    „A deti?“
+   </tei:p>
+   <tei:p>
+    „Tie sa podelily; gazdujú, ako vedia.“
+   </tei:p>
+   <tei:p>
+    „Ale tu si ludia často rozprávajú o pokladoch,“ priadol som niť   rozhovoru, „muselo ich tu byť dosť.“
+   </tei:p>
+   <tei:p>
+    107
+   </tei:p>
+   <tei:p>
+    ﻿„A veru ešte aj je, len sa nevie, kde. Jánošík mal zlata ani   kráľ.“
+   </tei:p>
+   <tei:p>
+    „Keby tak Adamov otec tu bol, ten vie o tom navyprávať. Čože my!“   skočil do reči Pážik. „Čože ten vie?“ „Veru vie, ako by nevedel, keď   chodí ich i hľadať.“ „Čo, Adam, váš otec hľadá poklady?“ Adamovi bolo   nedobre; ako by bo tá tajnosť mrzela. Hniezdil sa a robil dlhú tvár.   Chcel tajiť, no chytro poznamenal som ja: „I o mojom starom otcovi to   hovorili. Nie je to nič hriešneho. Kto vie, kde koho šťastie čaká. Ja   sám nedal by som sa ponúkať mnoho.“ „Ale to svet potom ohovára, ako   by Boh vie čo... “ „Ja, čo po svete, Adamko; čo svetu všetko   zavadzia! Keby sme na to mali myslieť, až by nás závrat chytil.“ Adam   mlčal. „No, Adam, rozprávajte nám. ..“ Po mnohom zdráhaní,   vyburcovaný otázkami chytil sa Adam do rozprávky: „Môj tatko ešte s   nebohým starým otcom chodili do vrátňanskej doliny hľadať poklady. V   našej rodine kováčstvo panuje od náveku sveta. I starý otec bol   kováčom i môj otec; ide to vždy s otca na syna. Náš koreň je hen z   oravskej Zázrivej. Ktorýsi z predkov presťahoval sa sem. Že sa   oboznámil s Bystričanmi na terchovské hody a títo zvábili ho sem.   Vtedy ešte na celej tejto doline nebolo kováča. I porábal si svoju   prácu poctivo a dobre sa mu viedlo.
+   </tei:p>
+   <tei:p>
+    108
+   </tei:p>
+   <tei:p>
+    ﻿Ja, čo pamätám, chodieval otec vždy dva razy do roka preč, do   terchovských vrchov. Keď blíži sa Svätjána, prestane robiť, chodí sem   a tam osamote, málo s kým sa shovára, taký je, ako by ho nejaká tajná   moc hnala a rozkazovala mu. Potom zrazu stratí sa a príde až kedysi o   týždeň.“
+   </tei:p>
+   <tei:p>
+    „A našiel už kedy čo?“
+   </tei:p>
+   <tei:p>
+    „Neviem, ale veď by bolo vidieť.“
+   </tei:p>
+   <tei:p>
+    „Z vás nikto nechodieva s ním?“
+   </tei:p>
+   <tei:p>
+    „Dokiaľ nebohý starší brat žil, brával ho častejšie so sebou,   potom chodil zväčša sám.“
+   </tei:p>
+   <tei:p>
+    „Vy ste neboli s ním?“
+   </tei:p>
+   <tei:p>
+    „Len raz ešte.“
+   </tei:p>
+   <tei:p>
+    „Kedy?“
+   </tei:p>
+   <tei:p>
+    „Teraz na Jána. Keď už chudák slabne, báli sme sa ho samého   pustiť.“
+   </tei:p>
+   <tei:p>
+    „Nuž?“
+   </tei:p>
+   <tei:p>
+    „Ako sa obracalo k Jánu, otec, ako by ho bol vymenil. Vieme už   jeho náturu, zvyčaje, nechali sme ho, ani sme mu nebránili, aby šiel.   Len som ho prosil, aby ma vzal so sebou. Keď pozvolil, pohli sme sa.   Otec mal nachystaný batôžtek. Za celý svet nechcel mi ho dať odniesť.   Tiahli sme na Ľutyšské vrchy, potom vbok Vyše Terchovej.“
+   </tei:p>
+   <tei:p>
+    „Ej, syn môj, keby sme mali v maštali aspoň tolko kráv, kolko ráz   som túto cestu premeral, nebolo by nám treba takto nohy otlkať,“   hovoril otec, kráčajúc shrbený hore vrchom.
+   </tei:p>
+   <tei:p>
+    „A kde budeme nocovať, tatko?“ pýtam sa.
+   </tei:p>
+   <tei:p>
+    109
+   </tei:p>
+   <tei:p>
+    ﻿„Kde Pánboh dá, Adamko, však sa len nestratíme.“ Keď nás kto   stretol a pýtal sa, kam ideme, otec hneď skočil do reči: „Len tak po   práci, dobrý človek, za zlatom, za striebrom i za kúskom chleba,“ a   uháňal, že ťažko mi bolo za ním. Ale keď sme mohli, to obišli sme   každého; aspoň otec vždy tie chodníky vyberal, po ktorých málo sveta   chodí.
+   </tei:p>
+   <tei:p>
+    Práve bolo podvečer, keď sme boli nad Terchovou
+   </tei:p>
+   <tei:p>
+    „Do dediny nepôjdeme, tatko?“
+   </tei:p>
+   <tei:p>
+    „Nie, Adamča, čo by sme tam robili; pôjdeme len hore k horám,“   riekol otec a usadol na veľký plochý kameň odpočinúť.
+   </tei:p>
+   <tei:p>
+    Ja som si sadol vedľa neho, rozviazal batôžtek a núkal otca jesť.   Nechcel. Mne chutilo, ukrajoval som si chlieb s tvarohom po kúsku.   Otec fajčil.
+   </tei:p>
+   <tei:p>
+    Pred nami dolina a čierne hory. Všade ticho, ako by to bol druhý   svet, taký tajný, neznámy. Samota vzala vrch nado mnou. I ľahko i   teskno mi bolo u srdca. V úzadí belely sa steny Kozej skaly.
+   </tei:p>
+   <tei:p>
+    Môj otec mieril okom hore. Ani sa nezdalo, že by mal pre inšie   smysel. Fajčil a ustavične díval sa ta, kde leží Kozia skala. Ja som   ho nechal, „nech si pohovie,“ myslím si.
+   </tei:p>
+   <tei:p>
+    Slnko práve bolo nad Račou (vrch ležiaci medzi Poľskom a   Trenčianskou stolicou pri Starých Bystriciach). Magura svietila sa v   slnečnom lesku, ponad jej hrebene krútili sa orli a kane. Kde tu zo   zelenej plochy svahu belela sa ozrutná skala a veľké rozpukliny tak   vyzeraly zďaleka ako čierne žily.
+   </tei:p>
+   <tei:p>
+    110
+   </tei:p>
+   <tei:p>
+    ﻿„Vidíš,“ dal sa do reči otec, „hentam ten ostrý sokor je Razsutec   a to vyše neho je Kozia skala; tam Jánošík býval, ta pôjdeme.“
+   </tei:p>
+   <tei:p>
+    Ja očima som chodil po označených miestach. Nad nimi plávaly   obláčky, ako by periel na niť nastokal. Potom sme vstab, sbehb na   dostrelenie nižšie, obrátib sa cez poľany a mierih vždy naľavo vbok,   dolu do dobny.
+   </tei:p>
+   <tei:p>
+    Keď dostab sme sa do úbočia, slnko práve zapadalo za hory. Do   tvári dul nám chladný vetrík, stúpab sme rezko. Hory spúšťaly tiene,   svetlo redlo, tma prikrádala sa z húštin do úbočia; iba potôčik   žblnkal po kamenistom koryte a penil, syčal, kde sa mu väčší balvan   postavil v cestu.
+   </tei:p>
+   <tei:p>
+    Dolina úžila sa viac a viac, tma hustla, hviezdy ligotaly sa a my   ohrátib sme sa vbok na vrchy. Po úzkom chodníku cez lúky kráčali sme   hore jeden za druhým. Na otcovi znať bolo únavu, často popostál,   oddychoval. Prišb sme do jedbčia, a keď našb sme sa na poľane, na   zavolanie žiaril proti nám ohník.
+   </tei:p>
+   <tei:p>
+    „Čo to, tatko?“ pýtal som sa.
+   </tei:p>
+   <tei:p>
+    „Salaš, tu prenocujeme,“ riekol otec a postál v hustej po kolená   siahajúcej tráve. Začuli sme štekot psov, za nimi vybehol i bača, bál   sa vlkov, no keď videl, že dobrí ľudia idú, išiel oproti. „Valachov   som poslal do dediny; ja, že sa vracajú, a to vy.“ Potom zaviedol nás   do koliby a nevedel nám dať miesta.
+   </tei:p>
+   <tei:p>
+    111
+   </tei:p>
+   <tei:p>
+    ﻿„Dobre, že si len prišiel, Ondrejko, tak som rád, ako by vlastného   brata videl. Poď sem, sadni si vedia mňa,“ a ofukoval mu miesto, kde   si má sadnúť. „Toto je tvoj syn?“ pýtal sa ukážuc na mňa. „Veru môj;   prišiel teraz naň poriadok, keď Ďurka vzal Boh.“ „Chudák, kto by sa   bol o ňom nazdal!“ A zasa obrátil sa ku mne, hovoril: „Poznať, že to   tvoja krv, keď si bol mladý, ani by vás nebol rozoznal.“ Medzi rečou   vbehlo do koliby dievča. Ostalo prekvapením u vchodu stáť, privítalo   nás a začalo variť večeru. Otec zabudol na únavu, bol shovorný,   veselý. Ja mlčky a zvedavo som očúval, keď si dvaja starci spomínali   na tie staré časy, príhody a ponosovali sa, že dnes neni to už tak,   ako bývalo. „A úroda ako stojí u vás, Ondrejko?“ pýtal sa bača po   večeri. „Ďakovať Bohu, úfame sa, len aby nám čas postál.“ Potom vyšli   von a šepkali, Boh vie čo. Ja ostal som s dievčaťom v kolibe   rozprávkou. Minulo hodne času, kým sa starí vrátili. Bača sobral   motyky, čakany, otec batôžtek a strojili sme sa na cestu. „Mariška,   valachom povedz, aby dali na ovce pozor,“ kázal dievčaťu bača a   stratili sme sa v húšti. Uzučký chodník viedol nás hore a skrúcal sa   poľanami, horami a popod ostré skaly. Bača mi dal nástroje,
+   </tei:p>
+   <tei:p>
+    112
+   </tei:p>
+   <tei:p>
+    ﻿zažal lampáš a svietil. Ticho bolo okolo nás. Na nebo vysypalo sa   hviezd ako včiel o rojení a mesiac vznášal sa nad hrebeňom tých   čiernych, ostrých skál. Hory boly ako zakliate, len sova a kuvik   húkaly v nich. Pod nami v dolinách a priepadliskách bola tma, že by   ju krájať mohol. Kráčali sme ticho, hory ubývalo, ostré, skalné   sokorce však ako by vyskakovaly zpod zeme ako zakliate ľudské   postavy.
+   </tei:p>
+   <tei:p>
+    Po úzkej pirti, skoro štvornožky, zahnuli sme nabok, potom zasa   prudko hore a zastavili sme sa až na temene Kozej skaly.
+   </tei:p>
+   <tei:p>
+    „Adam, slož čakany,“ riekol ticho otec. Poslúchol som. Starci   sopäli ruky a modlili sa. Ja som si sadol medzi dva kamene a čupel.   Od hory dul studený vietor, zima ma prechodila.
+   </tei:p>
+   <tei:p>
+    Bača vykresal z kameňa ohňa a položil pod vatru. Môj otec vytiahol   z batôžka akúsi starú knihu, trojkrálovú kriedu roztĺkol na prach a   sypal po zemi okolo nás do kruhu, potom urobil to isté i so svätenou   vodou a žehnal štyri strany sveta, a keď takto ubezpečil miesto, na   ktorom mali sme hľadať poklad, sadol si s bačom na zem a čítali z tej   knihy slová naopak, robili kríže, kolá a za každým razom opakovali   dovedna, hádžuc akési zeliny a temian do ohňa.
+   </tei:p>
+   <tei:p>
+    „Duchy a moci skalné, čo v žilách zeme plodíte trasenie, oheň a   vodu, zlato, striebro, železo, živý oheň a sol a strážite poklady   zakliate, dajte nám šťastného vnuknutia a zjavte luďom obecané   zakliate poklady, svetu na osoh
+   </tei:p>
+   <tei:p>
+    Obrázky z hôr — 8
+   </tei:p>
+   <tei:p>
+    113
+   </tei:p>
+   <tei:p>
+    ﻿a spomoženie a zvelebenie Boha Otca, Syna i Ducha svätého.   Amen.“
+   </tei:p>
+   <tei:p>
+    Yatra horela; raz otec, raz bača hádzali do nej z blízkeho   batôžka; plamienok vyšľahol a dym krútil sa pomaly dohora.   Zariekanie, odklínanie a citovanie z tej starej knihy trvalo ďalej.   Ja bojazlivo díval som sa na dvoch hľadačov; nad nami tajomná noc a   množstvo zlatých očí, pod nami hustá tma a medzi nebom a zemou my na   ústach so zariekaním, zaklínaním duchov a vyzývaním tajomných   mocností. Zdrobil ma strach, chcel som sa modliť a zrak padol mi na   otca. Bledý, s divným, leskom očí pohyboval sa sem a tam. Žltkastý   plameň tak mátožné ich osvetľoval, že vyzerali ako z polosveta.
+   </tei:p>
+   <tei:p>
+    Hľadači nevideli, nepočuli; tak boli zabratí v kruh svojich prác,   že zdalo sa, že pre nich svet a všetko, čo je na ňom, odumrelo.
+   </tei:p>
+   <tei:p>
+    Môj otec vzal znovu do rúk začmudenú knihu, pristúpil s bačom k   veľkému bukovému pňu a potom položil knihu na zem; potom merali s   bačom na kroky, ťahali palicou čiary a klopali tylcom valašky na   pôdu.
+   </tei:p>
+   <tei:p>
+    Mňa mrazilo až u srdca. Ako v pomýlení díval som sa raz na nebo,   raz pred seba a zasa na zariekačov.
+   </tei:p>
+   <tei:p>
+    Otec kývol rukou na mňa; hnul som sa ako na drátoch. Ukázal na   čakan a kázal čakať, kým mi nedá znamenie rukou.
+   </tei:p>
+   <tei:p>
+    Hľadači obrátili sa jeden k druhému chrbtom, robili kríže,   poznačili užší kruh okolo seba a hovorili:
+   </tei:p>
+   <tei:p>
+    114
+   </tei:p>
+   <tei:p>
+    ﻿Moci tajné, černokrížne, v skalách, v slujach čo bývate; osvieťte   nám vo tme ťažkej bydla svojho čo chováte? Kop motyčka, kop!
+   </tei:p>
+   <tei:p>
+    Kop dukáty, dvojrynštiaky, toliare i dvadsiatniky, cveng zlatníkov   zazvuč zemou, lesk zajagaj nocou temnou. Kop motyčka, kop!
+   </tei:p>
+   <tei:p>
+    Potom sme začali kopať. Nikdy nikto tak usilovne nekopal ako my,   krupaje potu vysadly nám na čelo, čierna prsť kopila sa pri vatre;   otec korýtkom vynášal ju nabok. Kedy tedy natrafili sme na štrk,   kameň. Medzi prácou raz otec, raz bača meral okom smer jamy, často   ťali sme do koreňov blízkeho pňa. Ten vetrík taký bol teraz dobrý,   ani som nepamätal, že len pred chvíľou ma mrazil. Jama sa hĺbila,   kedy tedy povyskakovali sme von, otec nohami, valaškou proboval, či   niekde nejaká prázdnina nehučí.
+   </tei:p>
+   <tei:p>
+    Trvala tá práca asi dve hodiny, otec obšmietal sa okolo pňa a   zrazu kričí na baču: „Jano!“
+   </tei:p>
+   <tei:p>
+    Prestali sme kopať, obzreli sme sa. Otec sa díval na nás ako   víťaz. Stál pri koreňoch a kýval.
+   </tei:p>
+   <tei:p>
+    Jeden skok a zjavili sme sa pri pni.
+   </tei:p>
+   <tei:p>
+    „Načúvajte,“ riekol, a valaškou búchal pod koreňmi.
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    115
+   </tei:p>
+   <tei:p>
+    ﻿~,,Hu... u.. . ú,“ ozývalo sa to pod pňom. My s radostným   očakávaním sklonili sme sa dolu a načúvali. „Nechajme tamto tak a   kopme tuto,“ rozkazoval otec. I chytili sme sa do práce, kruh s   kriedou spravil bača, čakan zazvučal vo vápenistom štrku a zem len   tak fŕkala pod údermi ťažkých nástrojov. Ohník, opatrovaný otcom,   vysoko vyšľahol z vatry a svietil našej práci. Otec stál nad nami,   čítal z knihy, zaklínal a zaháňal od nás zlé. Zvuk prázdnoty ozýval   sa pod pádmi čakanov a čím diaľ, tým bol väčší. Ja bil som celou   silou ostrím železa do zeme, krv mi behala po žilách ako oheň a čakal   som každú chvíľu, že prebijem do podzemia dieru a odtiaľ zablyšti sa   mi kopa zlata. Ale išiel som skamenieť, keď zazvučal mi nad hlavou   hrozný, chraptivý hlas: „Stoj!“ Obrátim zrak hore i s bačom; nad nami   bledý, zúfalý stál otec a s vypnutou rukou ukazoval na východ. Tam   dennica vyskočila nad hory a žiarila do tmy, ako by ružu zapálil.   Bača vyskočil a odhodil motyku. „Veď kopme!“ zvolám, no starci ma už   nepočuli. Citovali zasa z tej starej knihy, robili kríže, kolá a   zariekali duchov. Opakoval som otázku; otec nemo pokrútiac hlavou   kázal odložiť motyku a ukázal na dennicu. Ešte som nevedel, čo je vo   veci, ale zašla ma úzkosť a bôľ, keď pozrel som na zbedovanú tvár   otcovu. Díval som sa nemo do tmy.
+   </tei:p>
+   <tei:p>
+    116
+   </tei:p>
+   <tei:p>
+    ﻿Keď začalo sa brieždiť, hýbali sme sa do dolín. Hmly vystupovaly   zo zeme; zdalo sa, že to duchovia zahalení v plášte vznášajú sa nad   dolinami. Ostrý vietor dul nám do tvári.
+   </tei:p>
+   <tei:p>
+    Na salaši bolo už ticho, len bačova Juliša čakala nás v kolibe.   Valasi s ovcami roztratení boli po holiach. Po nasýtení, ustatí   prácou, chôdzou, ľahli sme si spať a popoludní vracali sme sa   domov.
+   </tei:p>
+   <tei:p>
+    „Kedy zasa prídeš, Ondrej?“ pýtal sa bača otca, keď tíško spolu   rozprávajúc lúčili sa.
+   </tei:p>
+   <tei:p>
+    „Ak dá Boh zdravia, až keď bude čas,“ odvetil tento zadumane,   smutne.
+   </tei:p>
+   <tei:p>
+    „Večná škoda, že sme sa tak neskoro nastrojili, ja som myslel. . .   “
+   </tei:p>
+   <tei:p>
+    „Darmo je, s božou pomocou prečkáme i to, veď do Michala neni   ďaleko.“
+   </tei:p>
+   <tei:p>
+    Potom sa rozlúčili. Zpäť idúc obišli sme Ľutyšu a horami prebili   sa rovno na Krasotýň. Otec mi išiel bez slova a náhlil, že ťažko mi   bolo za ním. Bál som sa oň i volal som: „Tatko, do večera ďaleko,   prídeme domov dosť, nenáhlite. Sadnime si radšej a odpočiňme si   trochu.“
+   </tei:p>
+   <tei:p>
+    Boh sme na poľane. Pred nami hory, potom dolina, v úzadí čierna   Magura s kamennými sokorci Razsutcom a Kozou skalou.
+   </tei:p>
+   <tei:p>
+    „Po Michale, ak Boh dá, pôjdeme veselší ztadialto,“ riekol   zamyslene starík. Potom dodal: „Len keď sme tak neskoro na to   prišli.“
+   </tei:p>
+   <tei:p>
+    Ja som mu prisvedčil.
+   </tei:p>
+   <tei:p>
+    117
+   </tei:p>
+   <tei:p>
+    ﻿„Ej, ale som sa nalámal nôh za ním,“ hovoril sám sebe, „až som   zošedivel.“ Potom zadumal sa sám do seba a hľadel v tú stranu, odkiaľ   sme prišli a pokračoval:
+   </tei:p>
+   <tei:p>
+    „Keď nám Boh pomôže, nebude to už tak ako bolo, ej, nie. Mám vás   troch,“ a oko jeho dobrotou spočinulo na mne, „štvrtý už nepotrebuje,   už zaplatil, len nech mu je Pánboh milostivý — a uvediem vás do   inakšieho človečenstva ako ste. Ty si nemal chuť do kladiva, zháňaš   sa po roliach a statku, maj si teda: kúpim ti kuricovskú čiastku;   môžu na nej aj dvaja gazdovia vyžiť. Ďura dám do vyhne, nech sa   opatruje na otcovizni ako vie, a Jána prižením do rychtárov. A ja si   budem chodiť od jedného k druhému a tešiť sa budem z vás, keď sa   budete dobre správať, dobre si gazdovať; ale stále nebudem u nikoho,   aby som sa vám neprejedol. ..“
+   </tei:p>
+   <tei:p>
+    A rozprával ešte dlho, dlho, čo nám on všetko zaopatrí, pokúpi,   keď nájde hľadaný poklad. Reč jeho bola taká istá, ako by ho už len   pár dní delilo od shrnutia toľkej sumy, a keď vykladal, ako si nás   zaopatrí, až triasol sa mu hlas od pohnutia. Bol by som mu ruky   vybozkával a hladkal ho, keby nebol býval hriech pretrhnúť ho.
+   </tei:p>
+   <tei:p>
+    „A čo to máte za knižku?“ pýtal som sa otca, upamätujúc sa na   starú zožltlú knihu.
+   </tei:p>
+   <tei:p>
+    „To je »krištofka«. S ňou sa hľadajú poklady. Však, keď na Michala   pôjdeme, naučím ťa i z tej.“
+   </tei:p>
+   <tei:p>
+    A potom, keď sme sa o kopaní širšie rozhovorili, riekol: „Keď kedy   budeš hľadať poklady, daj si pozor, aby si nemal roztratený rozum;   nesmieš o inšom myslieť, len čo
+   </tei:p>
+   <tei:p>
+    118
+   </tei:p>
+   <tei:p>
+    ﻿robíš. Ani vidieť nesmieš inšie. Komu iné vŕta v hlave, ten radšej   nech sedí pod pecou, ani do súdneho dňa ich nenájde. Ale nemysli   tiež, že sa ti poddá hneď; najprv sa musíš vyučiť a privyknúť.“
+   </tei:p>
+   <tei:p>
+    „A j ako ste sa vy dali na kopanie?“
+   </tei:p>
+   <tei:p>
+    Otec môj hovorí zdĺhavo, dnes bol ešte viac zamyslený než   obyčajne. Prešla dobrá chvíľa, kým mi odpovedal.
+   </tei:p>
+   <tei:p>
+    „Vidíš, poviem ti i to. Aspoň zvieš, ako mi darmo svet blíži, že   bažím za pokladmi, zháňam sa za svetárstvom a zariekam, čo neni moje.   Ale čo nás po tom. Kedysi ešte za nebohého otca to bolo. Sedí večer   na prahu a odpočíva. „Daj Boh šťastia,“ ozvalo sa za ním, obzrie sa a   vidí pred sebou shrbenébo žobráka. Bol sivý ako holub a suchý ani   vŕbový sohnutý prút, horko ťažko opieral sa o palicu. „Dobrý človek,   smilujte sa a dajte mi nocľah,“ rečie. „I vďačne, starký, ale musíte   vziať za vďak i vo vyhni.“ Žobrák si sadol, stará mať opatrila ho a   postlala mu. Pomaly išli spať i domáci, otec išiel na dvor pozrieť,   či je všetko uzamykané, ide okolo vyhne a počuje žobráka stenať, ako   by mu duša na jazyku čupela. Domáci našli starého na slame, oči mu   dúpkom stály, na celom tele sa triasol. I kynul otcovi, aby matku   poslal von a začal hovoriť: „Vidíš, Ondrejko, ty ma už nepoznáš, a ja   som ťa, keď si bol malý, toľko ráz mal na rukách. S tvojím otcom sme   boli kamaráti, spolu sme boli na vojne. On potom ostal doma a mne sa   lepšie pozdalo chodiť si po horách a štrngať valaškou po zboji. . .   no, neľakaj sa syn môj ... veď vidíš, že som ako hromom
+   </tei:p>
+   <tei:p>
+    119
+   </tei:p>
+   <tei:p>
+    ﻿opálený peň, ruky sa mi trasú, bez sily. . . vlády. A potom: to   všetko už len bolo, odvykol som, už dvadsať rokov, čo chodím po   dobrých ľuďoch, ostal som sám ako vŕba na zhorenisku, všetci kamaráti   ma predišli. Dobre, že som prišiel aspoň sem. Už rok, čo ťahám do   týchto hôr, aby som aspoň medzi svojimi umrieť mohol. Cítim, že už   dlho nebudem; tak mi je ľahko, že som aspoň pri známom. Tak načúvaj,   Ondrejko! Zajtra budeš mať so mnou prácu; potom hľadaj tu v tejto   tanistre, aby som ti na veľkú obtiaž nepadol a aby si na mňa pamätal,   daj pozor, čo ti budem teraz hovoriť: vieš vyše Terchovej Kozákovskú   poľanu? Iď tam, môj vnuk je tam bačom a spolu sa vyberte na Razsutec.   Hľadajte Rovné skaly, bača a každý Terchovan ti ich ukáže. S polnoci   sú sokorce, ako by ich tam niekto povsádzal. Za týmito je bukový peň,   teraz bude už zbútľavený. Okolo tak na dobré mlynské koleso týmito   rukami zakopal som kotol zlata. Potom zasa daj pozor na krížové   chodníky ako sa prevaľuje cesta do Zázrivej, priam pri kríži; na päť   krokov hore je guľatý kameň. Tam sme do veľkej zakopanej rokle, keď   Jánošíka stolice naháňaly, o tri svety pratali zlato, striebro a   všetko, čo sa len dalo. Iďte, hľadajte a spomôžte si. Myslel som, že   ešte dojdem do Zázrivej, ale darmo je. Rozdeľte sa spravodlivo. . .   nech vás Pánboh požehná.“
+   </tei:p>
+   <tei:p>
+    Starý žobrák sa zadychčal, prsia sa mu dmuly ako mechy; odpočíval,   potom hovoril:
+   </tei:p>
+   <tei:p>
+    „Tak mi je ľahko, že vám budem môcť dobre urobiť,
+   </tei:p>
+   <tei:p>
+    120
+   </tei:p>
+   <tei:p>
+    ﻿ja som sa tak či tak toho nesmel dotknúť, ani spomenúť o tom, kým   žijem, už by som nemal nič na srdci, len ešte pozdrav vnuka baču a   jeho deti; mal som ich rád. Po mojej smrti iď do Zázrivej, pýtaj sa   na Hančikovský cholvarok. Nájdeš tam chalúpku, kde som býval. Odober   sa od nej. Ani neviem, prečo ti to hovorím, ale viem, že mi bude   ľahšie v hrobe, keď sa pomodlíš tam za moju dušu Otčenáš. Y cintori   mám ženu. . . úbožká... a deti,“ hlas starcov sa zimnične triasol,   „požehnaj i tých, keď ja už nemôžem dôjsť. A potom, Ondrejko môj, syn   môj zlatý, nezabudniže i na tie bory, tak som v nich známy ako ty vo   svojej izbe a rád som ich mal ako samého seba — pri každej studničke   som sedával, pod každým stromom odpočíva], z každého jarčeka   pil!“
+   </tei:p>
+   <tei:p>
+    Reč starcovu pretrhol záduch alebo bolesť. Neskoršie doložil:
+   </tei:p>
+   <tei:p>
+    „Keby ich ešte aspoň raz mohol vidieť! Možno, že by som ešte ani   neumrel!“
+   </tei:p>
+   <tei:p>
+    Ku polnoci starca opúšťaly sily; usnul na veky. Hneď po pohrebe   vybral sa otec hore a začali s bačom kopať.
+   </tei:p>
+   <tei:p>
+    „A nikdy nič nenašli?“
+   </tei:p>
+   <tei:p>
+    „Raz, keď už i ja som chodieval, našli sme pár zlatých peňazí, ale   odtedy ako by uťal.“
+   </tei:p>
+   <tei:p>
+    „Azda sa prepadly?“
+   </tei:p>
+   <tei:p>
+    „Aj nie, proti tomu je spôsob, ale žobrák sa už hádam dobre   nepamätal.“
+   </tei:p>
+   <tei:p>
+    „A nebojíte sa, ak pod týra pňom čo bude, že to bača vykope?“
+   </tei:p>
+   <tei:p>
+    121
+   </tei:p>
+   <tei:p>
+    ﻿„To nie. Nesmie; sme pod prísahou.“ „A prečo nekopali sme ďalej   ?“
+   </tei:p>
+   <tei:p>
+    „To sa môže len do dennice, by sa prepadol.“ „Však sme mohli i   dnes tam zostať!“ „Ja, Adam, to ide termínom; bez termínu. . .“ „A   kedy je to?“
+   </tei:p>
+   <tei:p>
+    „V svätojánsku a svätomichalskú noc a môžeš i v noc na Veľký   piatok.“
+   </tei:p>
+   <tei:p>
+    Odpočinuli sme si a išli ďalej; mne to všetko tak čudne   prichodilo. Volnil som kroky, aby otec neustal. V samý večer, poza   záhrady, aby nás ľudia nevideli, prišli sme ustatí domov.
+   </tei:p>
+   <tei:p>
+    „No, a na Michala vystrojíte sa hore?“
+   </tei:p>
+   <tei:p>
+    „Ak dá Boh zdravia! len pôjdeme, ak by nás Boh predsa niečím   požehnal.“
+   </tei:p>
+   <tei:p>
+    A potom minulo viacej ako desať rokov; minulo, ako by ten kameň   hodil do vody. Málo slov, mnoho významu. Premena za premenou hnala sa   víchrom časov, nádeje ako kmitavé bludičky zostávaly vždy v tej istej   diali a nič iné, iba kruté mrazy to boly, čo sadaly na krásne nivy   mladistvých snov, ako kŕdeľ havranov, keď sadá na doliny v ťažkú,   hmlistú jeseň. Kvet za kvetom schnul, padal, sen za snom krehol a v   tých ňadrách, ktorým bol kedysi celý svet málo, nezostalo nič, iba   láska k hrsti otcovskej zeme, k tým rodným horám a k zvukom sladkej   mamičky. Len vo chvíľkach tichej dumy, ako pri
+   </tei:p>
+   <tei:p>
+    122
+   </tei:p>
+   <tei:p>
+    ﻿kmite mesiaca, zjavujú sa niekedy duši mojej tie lužné obrazy a ja   im žehnám ako matka cestám svojho dieťaťa. Zjav však je vidom   vzácnym, riedkym. Poryvy žitia sú nepriateľmi spomienok a ostrie   každodennosti uchváti prečasto myseľ vo vír, kde všetkému krásnemu   strojí nástrahou ťažkosť o bytie.
+   </tei:p>
+   <tei:p>
+    Minulo desať rokov. Kút chalupy — svet celý — ostal mi osou, okolo   ktorej sa krúti osud spokojnej rodiny, a tichý tok žitia údelom   snaživej duše. Sedel som pod jabloňou, bol krásny júlový podvečer,   díval som sa dovôkol. Jabĺčka sa začaly pŕliť, čerešne v celých   strapcoch visely dolu a lesklý sa ako rubíny. Kvetu plný sad, vône   celé údolie, veselosti celý svet a spevu každá medza. Vetrík hral sa   s panožkami stromu, cez korunu prelamovaly sa slnečné lúče a   mriežkovaly svetlými očkami tôňu jablone. Za mnou gagotala húska s   kŕdľom libiek a šklbala trávu, predo mnou na plote nadhadzoval sa   vrabec a ukazoval sto chutí na čerešne. Neoriem, nesejem. . .
+   </tei:p>
+   <tei:p>
+    Zďaleka blížil sa ku mne hosť, priateľ. Chcel som ho privítať;   vybúšil som proti nemu hrozitánsky kotúč dymu a zaradoval sa mu. My   dedinčania sme všetci takí. Na privítanie dáme dámam na počesť   strieľať pod oknom z mažiarov, slovom radi sme, keď vidíme súcu tvár,   nie to ešte keď priateľ príde. I besedili sme, minul deň a hybaj   potom za účelom malého výletu do sveta.
+   </tei:p>
+   <tei:p>
+    Tá železnica má tú jedinú chybu, že cez to bájne Považie tak   chytro preletí. Stanica za stanicou, hrad za hradom, mestečko za   mestečkom, kaštieľ za kaštieľom
+   </tei:p>
+   <tei:p>
+    123
+   </tei:p>
+   <tei:p>
+    ﻿mihá sa ti to pred očami ako kaleidoskopický zjav, a ty ani   nezbadáš, že blížiš sa k Magure, čiernej výzorom, veľkolepej   postavou, k Strečnu, k tomu svedkovi dávnych dôb, na ktorý dnes len   pustovka sadá.
+   </tei:p>
+   <tei:p>
+    ,,Varín,“ zakričí konduktor, vlak zastane, my dolu ta v smer   doliny terchovskej, k Malému Kriváňu, Razsutcu, Kozej skale a potom   cez Riečnice, Staré Bystrice, Krásno a Čadcu domov.
+   </tei:p>
+   <tei:p>
+    Slnko pálilo, na plochu hôr padalo celé more zlata, príroda dmula   sa životom a skvela sa v úplnom rozviťku svojich krás. Ja už dávno   prestal som myslieť na milé mne postavy starobystrických kopáčov   pokladov. Kedy tedy ako iskra vyskočily mi z úzadia mojich spomienok   a stratily sa zasa vo tme každodennosti. I dnes celkom v druhé smery   zabratá bola moja myseľ. Veľkoleposť kraja, až desne smelé útvary   vrátňanských skalných skupenín, čierne hory, klokotavé pramene vôd,   bujná kvetná, bohatosť travín a istý uzavrený, samému sebe žijúci ráz   celku s nádychom tajným, ako by pohádkovým: to vypudilo všetko iné z   priestoru mojej mysli a opanovalo celú jej postať.
+   </tei:p>
+   <tei:p>
+    Mali sme v úmysle vyjsť hore na vrchy, na noc sbelinúť však do   Terchovej alebo, ak sa oneskoríme, požiadať vrátňanského horára o   nocľah.
+   </tei:p>
+   <tei:p>
+    I kráčali sme hore v rozhovore tichom, srdečnom. Dolina sa úžila,   potôčik, maznävé decko údolia žblnkotal vesele vo vápencovom koryte.   V riečišti tu a tam ležal spadnutý balvan, okolo neho svazy vodných   travín, za-
+   </tei:p>
+   <tei:p>
+    124
+   </tei:p>
+   <tei:p>
+    ﻿penených okrajom priezračnými bublinami a sykotom do machovitého   povrchu bijúcich prúdov vody. Po štrkovitých brehoch prestieraly sa   koberce machu, barvené nezábudkou, čakankou, a voňala materina   dúška.
+   </tei:p>
+   <tei:p>
+    Tu sme postáli; pod skaly mrskaly pstruhy a sto chutí rástlo na   malý rybolov. Ale nebolo času. Hory sa skoro spájaly dovedna, nad   nami dvíhaly sa vrchy, obzor sa úžil, iba tam na výšavách zelenaly sa   lúky a šerily skaly.
+   </tei:p>
+   <tei:p>
+    Čas bol vystúpiť hore. Po chodníku pirťami hodili sme sa nahor,   kráčajúc zvoľna hore malou úžľabinou, okolo nás chlad lesa a ticho   samoty. Iba malý chrobák lezie po tuhozelenom listí zimolúzu a vták   strepoce krídlami tam hore. Prsia sa dmú, červeň bije do tvári. Ale   pozor! Oproti nám v malej diali čuť šramot vetiev. Čo to? Azda   medveď, vlk? Hľa, haluzie orešia sa uhne a zo zelene vynorí sa   postava ani jedľa. Prekvapene, nepripravene stáli sme a dívali   sa.
+   </tei:p>
+   <tei:p>
+    „Dobrý človek, dobre ideme ku Kozej skale?“ Horal sa díval:   „Dobre, páni moji, ale vám bude už neskoro.“
+   </tei:p>
+   <tei:p>
+    Ja hladím; kto to? Ťahy známe, výzor videný; dívam sa...
+   </tei:p>
+   <tei:p>
+    „Mladý pán. . .“ „Ale ty si to, Janko?“ skríknem naj výš   prekvapený a podávam Adamovmu bratovi, najmladšiemu synovi   spomínaného hľadača pokladov, pravicu. „Ťažko som ich poznával. .   Veru, bolo to už dávno, ale jednako sme sa len poznali.
+   </tei:p>
+   <tei:p>
+    125
+   </tei:p>
+   <tei:p>
+    ﻿„Čo tu robíš?“
+   </tei:p>
+   <tei:p>
+    Mladý Chovanec díval sa na mňa v nedorozumení. „Veď ja tu bývam. .   .“
+   </tei:p>
+   <tei:p>
+    Zasa mne prišlo nerozumieť mu. „Nuž.. . ?“
+   </tei:p>
+   <tei:p>
+    „Priženil som sa sem. Tu hore máme cholvarok, cez leto   bačujem.“
+   </tei:p>
+   <tei:p>
+    Vrátil sa s nami. Viedol nás priečnym chodníkom hore na výšiny.   Asi za pol hodinu boli sme pred kolibou. Mňa tak milo sa dotklo, že   stretol som sa s dávnym známym, nestačil som sa s ním ushovárať.   Uhostil nás syrom a črpákom sladkej žinčice. Mladý Chovanec s veselou   tvárou díval sa, ako nám to chutí.
+   </tei:p>
+   <tei:p>
+    „Teraz mi, Janko, rozprávaj, ako sa ti má starý otec,“ začal som   reč.
+   </tei:p>
+   <tei:p>
+    Janko pozrel náhle hore. Úsmev zmizol, smútok zračil sa mu z oka.   „Čože, zomrel?“ „Už deväť rokov leží tu v terchovskom cintori.“ „Ty   si ho doopatroval? Vidíš, dobrý syn je z teba.“ „Nie, mladý pánko;   spadol tu na Kozej skale so skál a rozdrúzgal sa,“ hovoril smutne   Chovanec. Roztvoril som oči; ožilo mi Adamovo vyprávanie. Mráz   prešiel mi telom. „Bol za pokladmi?“ pýtal som sa súcitne. „Áno!   Skĺzla sa mu noha. Zabil sa na fľaku.“ „A poklad?“ pýtal som sa, no   vidiac, že mám syna pred sebou, neopakoval som otázku, keď mlčal.   „Úbohý!“ vyšlo mi z úst ticho, nezbadané. „Veru si
+   </tei:p>
+   <tei:p>
+    126
+   </tei:p>
+   <tei:p>
+    ﻿pokúpil role, veru si chodil od syna k synovi a tešil sa z nich!   Sladké odpočinutie!“
+   </tei:p>
+   <tei:p>
+    Ušla chvílka; nikto nerušil ticho.
+   </tei:p>
+   <tei:p>
+    „A ty kde si sa tu vzal?“
+   </tei:p>
+   <tei:p>
+    „Mňa priženili k dcére bačovej, otec s ním chodieval do   vrchov.“
+   </tei:p>
+   <tei:p>
+    „A Adam ako sa má tam dolu?“
+   </tei:p>
+   <tei:p>
+    „Neviem; už dva roky nepísal. Predtým sa žaloval, že mu zdravie   neslúži. Hm, v cudzom svete neni tak ako doma, vždy čosi chybí; i to   zlato ťa tlačí.“
+   </tei:p>
+   <tei:p>
+    Jano sa zamyslel. Na tvári si mu poznal, ako ho to bolí, že rodný   brat tam ďaleko v cudzom svete.
+   </tei:p>
+   <tei:p>
+    Ja som prv ľutoval otca, teraz syna; ani mne nešlo do   rozprávky.
+   </tei:p>
+   <tei:p>
+    K večeru išli sme zpäť. Jankovi perlilo sa na očiach pohnutie,   bolo vidno, že by tak rád, keby sme zostali tam. My len šli. Asi sto   ráz som sa obzrel na polanu, ako by som tam nechával niečo milého,   drahého. Začul som cengot spiežovcov a spev trávnice. Odvrátil som   sluch, môj priatel nemo šiel vedia mňa. Bôl vkradol sa mi do srdca,   oddal som sa dumám. . .
+   </tei:p>
+   <tei:p>
+    127
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

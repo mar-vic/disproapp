@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1925409" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Deťom : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5671
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Deťom
+     </tei:title>
+     <tei:pubPlace>
+      Mladá Boleslav
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Chládek
+     </tei:publisher>
+     <tei:date>
+      1925
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-19">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     DEŤOM
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿Keď ešte naši Turanci skoro všetci chodili za podomovým obchodom,   mávali tí bohatší káru o dvoch kolesách a tú káru im ťahal nejaký   veliký hafan.
+   </tei:p>
+   <tei:p>
+    Aj nám raz s takými troma veľkými psy doviezli drevo, keď nám ho   žiaden forman pre zlú cestu doviezť nechcel.
+   </tei:p>
+   <tei:p>
+    Nuž, o jednom takom hafkovi chcem vám rozprávať. Bol sivý a nie   veľmi pekný; mal velikú hlavu, zamračené oči, a nebola by som nikomu   radila, aby sa ku káre jeho pána priblížil. Netak by bol pocítil jeho   ostré zuby. Keď na svojej púti po krajine dakde tí kupci sa   zastavili, tu milý Truc ľahnulsi pod káru, kým jeho gazdovia po   dedine predávali. Oni všetok svoj tovar bez strachu mohli odísť. Ak   bol Truc pod károu, nikdy sa im nič neztratilo. A keď dakde v   neznámom kraji venku nocovali a gazda si presťrel huňu a ľahnul vedľa   káry na ňu, tú Truc sa položil k nemu a svoju šedivú na prsia; tak si   pána strežil. Bol taký tfeŕn.ý a svojmu pánovi, že sa tento mohol   spustiť.
+   </tei:p>
+   <tei:p>
+    PRÍKLADNÁ VERNOSŤ.
+   </tei:p>
+   <tei:p>
+    TRUC.
+   </tei:p>
+   <tei:p>
+    1
+   </tei:p>
+   <tei:p>
+    ﻿Raz, keď prišli na zimu domov, vozil gazda s Trucom na káre z hôr   drevo. Vybrali sa skoro ráno. Ešte na nebi hviezdičky svietily a bolo   veľmi zima. Truc dostal svoj pokrm; zapriahli ho, a už bežal, len tak   belučky sňah na všetky strany sa mu rozletuval. V horách bolo tak   tichučko, jako v takom veľkom kostole, keď sa všetci ľudia ticho   modlia. Zpoza strieborných oblakov vykukol kedy-tedy mesiačik, ako   keby sa hanbil alebo akoby sa ihral na schovávačku. No, že je to z T.   hodne ďaleko, slniečko už vychádzalo, ako keby sa ohnivá guľa bola   vykotúlila kdesi z poza ľadových hôr a poliala všetko tekutým zlatom,   keď prišli k cieľu. Ej vtedy bolo v horách pekne! Všetky stromy jako,   by si boly poobliekaly biele šaty a navešaly na seba samé krištále a   diamanty; a keď na ne slniečko zasvietilo, spravilo im zlaté korunky   z rubínovými okrasami na hlavy. Ľudia ani dobytok si tej krásy   nevšímali; prišli pre drevo a museli ho hlboko zpod snahu vyhrabovaf,   a bárs bolo ukrutne zima, aj sa pri tom zapotili. Trucov gazda musel   si až kožuch vyzliecť; hodil ho na kraj hlbokého jarka, zavolal na   psa: „Truc varuj!“ a Truc poslušnesadnul si na kožuch a varoval. Bol   ustatý. Keď sa mu papučky začaly zahrievať, svalil sa a zadriemal.   Medzitým jeho gazdovi trafil sa dobrý priateľ, ktorý mu ponuknul:   „Privážte si, ujček, tú káru k môjmu vozu; nemusíte tahaf, Svezem vám   to dole.“
+   </tei:p>
+   <tei:p>
+    „Veru ti budem netaký vďačný, synku, keď mi to svezieš“, potešil   sa Trucov gazda. Priviazali ojokáry o plný voz a aj kone aj ľudia   ponáhľali skorej do-
+   </tei:p>
+   <tei:p>
+    2
+   </tei:p>
+   <tei:p>
+    ﻿mov. Zrazu zobudil sa Truc; a pozerá, pozerá — pána nikde! Veď on   snáď príde, myslel si. Však tu má kožuch, jjríde si preň. Nevedel,   chudiak, že gazdovi jeho nebolo zima, keď musel popri káre bežať, a   kde bolo zle, i ju zadržovať, až sa spotil. Na kožuch si, pravda, ani   nezmyslel. V horách stíchlo; jedna zápraž za druhou odišla. Pomaly aj   povolávanie na kone i kravičky zatíchlo. Nikde ani vtáčka ani   letáčka, nie to človeka. Len nad výmolom šedi osamelý pes a vyzerá   starostlivé, kedy sa jeho dobrý gazda vráti! Vyzerá hodinu, vyzerá   dve, tri — nič, ach, nič. Bárs ma netak teplú bundu, ale je mu predsa   zima. Ešte keby mohol behať, zahrial by sa ; ale pán mu kázal; „Truc,   varuj!“, no tak on vstať nesmie, je už veľmi hladný a smädný. Keď   slnffečko zapadlo, začal chudiak štekať, až ochraptel, a potom   žalostne vyť. Ale hory sú veliké, od ľudských obydlí veľmi daleko; —   nikto ho nepočul, nikto.
+   </tei:p>
+   <tei:p>
+    Zrazu začal hviézdať vietor; shadzoval sneh so stromov; kedy-tedy   zapraskaly haluze a zlomily sa pod tou ťarchou krišťálovou. Truc už   vyť nemohol; skrútil sa do klbečka, strčil nos do chlpov kožucha. Na   nebi dvihaly sa šedivé mračná; vietor ich od kiaľsi dohnal — potom sa   natrhly. ani čo by si perinu natrhnú], takú velikánsku, velikú, a to   sňahové, studené páperie začalo sa sypať a sypalo sa, sypalo, až   zasypalo všetko, čo na zemi ležalo, aj chudiaka verného Trúca. A v   horách bolo ticho, ticho, ako v hrobe.
+   </tei:p>
+   <tei:p>
+    Medzitým, keď vrátil sa gazda Trucov domov, gazdiná sa veľmi   divila, že pesneide večerať: „Truc!
+   </tei:p>
+   <tei:p>
+    3
+   </tei:p>
+   <tei:p>
+    ﻿— Truc!“ volala. 1 deti volaly: „Truc, na!“ Zrazu odhodil gazda   lyžicu na stôl, udre sa do čela. „Ach, čo som ja to spravil! Truc   zostal v horách, kázal som mu varovať kožuch.“ Vedel gazda, že verný   psík rozkaz nezruší, že sa s miesta nepohne. Pre neho ísť nemohol;   bolo už tma; ustatý jako bol ani by ta nedošiel a ani by ho v tej tme   nenašiel. Celá rodina bola zarmútená; deti nad Truckora plakaly.   Gazda sám v noci málo spal, a jak začalo svitať, už ponáhľal do hôr.   Keď videl, jaké je všetko zaviate, bál sa, že cestu k tomu výmolu   nenájde, ale našiel. Ešte bol dosť daleko, začal volať, hvízdať.   Nikde nič v horách; zostalo ticho jako v hrobe. Zrazu zakopnúl o čosi   pod snahora; sohnul sa. Hľa, kúsok jeho kožucha vykuká zpod bieleho   príkrovu. Píchnul do tej hŕby palicou. Vnr!— ozvalo sa pod sňahom:   „Truc“! V tej chvíli zdvihla sa biela kopa a pes s radostným zavytím   skočil ku svojemu pánovi. Nech ho ta teplá perina neprikryje, bol by   zmrznul. Takto bol živý. A veru nie len on skákal od radosti, že vidí   pána, aj ten ho objímal, hladil, dával mu kusy chleba, ktoré vo   veľkej papule len sa mu tak prepadaly. Potom zahvízdnul a veselo   putovali domov, kde sa celá rodina radovala, že Truc žije.
+   </tei:p>
+   <tei:p>
+    Jeho gazda mi tú udalosť sám rozprával, a ja som sa netak tej   krásnej psej vernosti a poslušnosti obdivovala. A len to som si   priala, aby som ja bola taká verná svojmu Pánovi, Pánu Ježišovi, a   taká poslušná. Ach, detičky, aj vy, aj ja mnoho sa od toho Trúca   môžeme naučiť. Truc by bol radšej
+   </tei:p>
+   <tei:p>
+    4
+   </tei:p>
+   <tei:p>
+    ﻿zmrznul a umrel v tých horách hladom i smädom, jako by bol rozkaz   svojho gazdu prestúpil a odbehnú!. Veď on by bol veľmi ľahko trafil   domov, on by svojho gazdu vyšľakoval. Čo ho v tých horách zadržalo,   bola len poslušnosť a vernosť.
+   </tei:p>
+   <tei:p>
+    Nie nadarmo posiela nás Slovo Božie často k zvieraťom do školy. A   preto nikdy nehádžte kamene, keď vidíte nejakého nepekného psíka! Kdo   zná, neni-li to tiež taký verný a poslušný Trucko, od ktorého sa nám   treba učiť i Pána Boha i ľudí poslúchať a aj Jemu aj ľuďom byť verný,   aby sa na nás mohli spoľahnúť.
+   </tei:p>
+   <tei:p>
+    Truc už dávno nežije; mal len jedon život, ktorý užitočne ztrávil,   a ľudia až dodnes ho po dobrom spomínajú.
+   </tei:p>
+   <tei:p>
+    Nám ale hovorí Pán Ježiš; „Budiž verný až do smrti, a dámť korunu   života.“ Nás čaká za vernosť a poslušnosť odmena v tom večnom,   krásnom živote u nebeského Otca našeho.
+   </tei:p>
+   <tei:p>
+    ﻿Jedon z najveselších a často najrozpustilejších pasákov t.-ských   bol Peterko M. Že mal chudobných rodičov, to ho netrápilo, veď bol   zdravý a silný. Netaké si otec jeho robil nádeje, akú bude maf z neho   pomoc, až vyrastie. Aj on si svoj další život všelijako krásne   predstavoval. Ale není deň ako deň í Bola krásna jaseň. Kde jaký   kríčok a strjm obliekol na seba barvy, až tak v očiach šteglilo. Na   poli bolo défom rauosf žif. — Slniečko krásne svietilo, vetierok po   vŕškoch fúkal a dolinami sa z-irážal, ako by nevedel, kdesa usadiť;   nútil pastierikov, ktorí na strniskách kravičky pásli, aby svoje   kabátiky pozapínali. Aj Petrik mal svoju kabanicu len tak na pleci   zavesenú, a že bol odtrhol nedávno prvý gombík, keď sa na gombíky   ihrali, mal to teraz len motúzkom s iazane. — Chlapci robili si   ohníky zo zemačnišfa a piekli zemiaky. Petrik pri svojom ohníku ležal   hore znak, ruky za hlavou založené. Kravička pásla sa mu na neďalekej   lúčke; nemal o ňu starosť. — Hvízdajúc sa rozhliadal bystrými,   modrými zrakmi po jasennom krásnom svete. Všetko bolo teraz také   pekné: nebe aj zem. Nad hlavou letely
+   </tei:p>
+   <tei:p>
+    P E T E R K O. Pravdivá udalosť.
+   </tei:p>
+   <tei:p>
+    6
+   </tei:p>
+   <tei:p>
+    ﻿mu divé husi a gágajúc ako by volaly: „S Bohom, Peterko, dobre sa   na nás podívaj, lebo nás ty veru už nikdy neuvidíš!“ Začal, že ich   bude čítať, ale ony zdvihly sa výš a výš, takže ich už viacej videí   nebolo.
+   </tei:p>
+   <tei:p>
+    Zrazu strelily zemiaky v pahrabe, z ktorej sa už len dymilo; ohník   bol dohorel. Pctrík skočil na rovné nohy, rozhrnul pahrabu.
+   </tei:p>
+   <tei:p>
+    „Chlapci, poďte jesť, moje sú už upečené!“ volal na kamarátov.   Pribehli a hostili sa kráľovsky, veď neni nič nad na poli upečené   zemiaky. V tej slobode, v tej prekrásnej jedálni, kde slniečko   každému spravilo na hlavu korunku a vetrík hral ako u veľkých pánov   muziku, jedon z chlapcov vytiahnu! tri veliké mrkve, podelil a dal   najväčšiu Peterkovi. Tento vytiahnu! si nožík, či jako v T. hovorili   britevku, s ktorou sa pri každej príležitosti rád chválieval,   oškriabal mrkvu a začal chrúmať. Ale dobrota mu dlho netrvala, veď   jeho Stračena dala sa strečkovať, musel bežať, zahnať ju nazpäí. Veru   ho prehnala, neposlušnica! Nasilu chcela do súsedovej daťeliny a nie   a nie ju vyhnať. Peterkovi až pot vystúpil na čelo tým behaním a   kabanica ešte mu prekážala, keď ju nemohol rozopäf. Uzol si bol pevno   zaliahnul, keď ho chcel rozviazať. Darmo, čo sa s tým trápil. „Peter,   poď, slnko už zapadá.“ volali kamaráti. Ono naozaj zapadalo, také   ohnivé, ružovo-zlato-červené, polialo celý kraj tekutým zlatom, ako   čo by ho bolo Peterkovi ukázalo, aby sa naň ešte raz dobre podíval,   prv než za hory zapadne. Potom zapadlo, ach, navždy, aspoň pre   Peterka, veď v tej chvíli prerezal chlapec šnorku na kabanke;
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿robil tak s hnevom. Uzg povolil sile, pritom nožík odskočil a   Petrík s desným výkiikom klesnul dole tvárou k zemi. Keď ho naľakaní   kamaráti zdvihli, mal tvár krvou zaliatu a pravé oko vypichnuté. Ako   sa s ním domov dostali, nevedeli by sami povedať. Ó, jaká to žalosť   pre zkormútených rodičov! Dlho to trvalo, než sa úbohý Petrík natoľko   vyliečil, že mohol zas vstať a chodiť. Bárs mu ešte jedno oko   zostalo, ale že mnoho krve ztratil, bolo i toto slabé a zakalené.   Neuvidel už nikdy divé husi leteť, neodobraly sa tam darmo od neho.   Čo bolo teraz zo všetkých nádejí chlapca i jeho tatíčka? Nič. Všetko   v jednom okamihu ztratené. Rodičia Petrovi brali ho teraz so sebou,   keď išli za svojím obchodom, a tu sa musel o seba sám postarať, musel   si od dobrých ľudí chleba vypýtať. Aby nebol taký trpký, kúpil mu   otec harmoniku, že sa s hraním skorej preživí. Ale bol to biedny   život!
+   </tei:p>
+   <tei:p>
+    Raz na tej púti za chlebom prišiel do krásnej panskej zahrady   Grófa G., práve keď mal tento veľmi vzácnych hosťov. Arcikňažna   Gizela bavorská diela tam so svojimi deťmi. Panie sa prechádzala po   parku, nechaly poloslepého malého Slováčika chvíľu hrať, potom ho   nielen obdarovaly, ale arciknažna kázala vyrozprávať Petrovi, ako   prišiel o oko. Dala zavolať jeho otca; kým prišiel, písala dva lístky   adresované na očnú nemocnicu do Viedne. Doručila tie listy otcovi a   rozkázala mu, aby zaviedol chlapca do tej nemocnice viedenskej a   tieto listy tam odovzdal, že tam jej muž pri svojich návštevách vždy   chodieva, doktorom pri operáciách pomáha, po-
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    ﻿neváč je sám vyučený očný lekár. Dala chlapcovi na cestu peniaze a   tam v nemocnici že ich to už nič stáť nebude. — Netaký šťastný   navrátil sa otec s chlapcom k ostatnej rodine.
+   </tei:p>
+   <tei:p>
+    Krátko potom vybrali sa do Viedne a vyhľadali očnú kliniku. Otec   sa prestarával, ako to bude, či tam chlapca ozaj prijmú. Márna   starosť! Sotva ukázali lístok, ktorý im tá kráľovská dcéra bola dala,   už každý, ale každý upravoval aj im radil, kade, kam a ku komu majú   ísť. Pekne, poriadne s nimi, chudobnými dedinármi, zachádzali aj   sluhovia, ošetrovateľky a doktori. To všetko pre odporučenie   najvyššie, ake so sebou niesli. Krom toho bol už ich príchod z   najvyššieho miesta opovedaný a miesto pro Peterka pripravené.
+   </tei:p>
+   <tei:p>
+    Zrovná tak, ako v živote, keď Syn kráľovský, Pán Ježíš, podpíše sa   na našu prosbu, keď On vydá rozkaz, aby nám ľudia pomohli, oni, či   chcejú lebo nie, pomôcť musia, áno, všetko nám musia zariadiť a dať.   Alebo myslíte, že by tých dvoch dedinských chudiakov tak boli   obsluhovali v tej velikej parádnej nemocnici? Však je to tam, počnúc   od domovníka, pán nad pána! Ani by sa žiadon nebol na nich obzrel
+   </tei:p>
+   <tei:p>
+    „Žiadon nepríde k otcovi len skrze mňa“, hovorí Pán Ježiš; teda   ani my nesmieme ináč pred Panovníka neba a zeme pristúpiť, len s Jeho   podpisom, len v mene Syna Božieho. Ak ale takto prídeme, splní sa   nám: „Začo byste v mene mojom Otca prosili, dá vám !“ Nuž, za Petríka   primluvila sa dcéra kráľovská a jej muž, princ Leopold Bavorský; keď   dostavil sa do kliniky, išiel s doktormi sám chlapca operovať.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿Prezreli mlhou zatiahnuté oko, prehlásili, že je pomoc možná, a   hneď sa i dali do práce, ktorá sa im šťastne podarila, takže princ   Leopold spokojný s dielom neha] chlapca v rukách doktora N., ktorý ho   mal ešte preväzovať a nejakú maličkosť dokončiť. „Neboj sa,“ tešila   ošetrovateľka chlapca, ktorému v tej úplne tmavej izbe bolo clivo,   „veď len pár dní budeš vo tme, potom ti strhnú obväz a už zase uvidíš   Boží svet ako predtým.“
+   </tei:p>
+   <tei:p>
+    Mal Petrik za tie dni, keď bol sám, dosť času premýšlať, ako to   bude, keď zase pôjde na pole. Za nič na svete nebude po dobrých   ľuďoch chodiť. Odhodí harmoniku, stane sa radšej pastierom. Znovu a   znovu predstavoval si to slnce, jako vtedy zapadalo, prv než prišiel   o oko, i tie kŕdle divých husí, a jako Stračena skákala, chvost hore   zdvihnutý, až sa tomu nahlas musel zasmiať.
+   </tei:p>
+   <tei:p>
+    Dva razy ešte mu doktor N. čosi na oku poprával, a to viac bolelo,   jako keď ho princ operoval; no on si z toho nič nerobil, veď už   nebude poloslepý, uvidí zase slnce i hviezdy i ten svoj milovaný   rodný kraj! Keď mala byť páska chlapcovi s očí zosňatá a on na svetlo   vyvedený, prišiel k tej radostnej udalosti aj tatíčko Peterkov, veď   mu ho už mali vrátiť zdravého. Netaké si robil nádeje, čo z neho ešte   vychová, bárs bude mať už len jedno oko, keď len nemusí zostať slepým   žobrákom.
+   </tei:p>
+   <tei:p>
+    Kto opíše ten okamih plný radostných nádejí a očakávania? Čo dialo   sa v srdci jak chlapcovom tak mužovom, keď ruky lekára sňaly konečne   pásku
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿■a vyviedly ho z tmavej izby do inej mierne slnkom osvietenej? „No   tak pozri, kto je tu“, zavolala rozradovaná ošetrovateľka, veď kdekto   sa s Peterkom tešil. Pozrel chlapec, hľadí, otvára oko veľké; na   bledej tváričke zasadnul ustrašený výraz; pomaly zdvihnul ruky,   pretrel si oči. „Kde som to?“ volá naľakano. „Prečo je tu tak tma ?   Zdvihnite tie čierne záclony! Otvorte tie okenice! A či je noc?“
+   </tei:p>
+   <tei:p>
+    „Neni, synku, však je poludnie,“ pretrhnul teskné jeho volanie   otec. „Či nevidíš, Peterko, však slnko svieti!“
+   </tei:p>
+   <tei:p>
+    Áno, svietilo plným prúdom; záclony boly už odtiahnuté, svietilo   márne; nikdy ho viac modré, čisté oko chlapcovo neuvidí. Pre neho   nebolo viac na zemi dňa. Nikdy, nikdy neuzrie svitať za rána, zapadať   za večera zore ružové. Nespatrí letef divé husi nikdy viac.   Presvedčili sa lekári dosť skoro: úbohý chlapec bol slepý úplne a   beznádejne. Operácia princova vrátila mu svetlo, ale doktor N. ju tak   zakončil, že všetko, ale všetko bolo pokazené. Na miesto rozožatia   vyhasla i posledná iskrička svetla v oku Peterkovom. — Kto opíše, čo   dialo sa vtedy v srdci úbohého dieťaťa, kto kedy zabudne zúfalý jeho   nárek? Veď kto kromä osleplého súdruha pochopí nenahraditeľnú jeho   ztratu? Kto podá opis boľasti otca v nádejach sklamaného, keď mu   slepé dieťa vrátili a on si ho ulicami viedenskými odvádzal na   železnicu? Nikto to nepodá.
+   </tei:p>
+   <tei:p>
+    Kde komu žaloval sa otec. Všeličo mu ľudia radili, aj dobré aj   zlé. Najviac mu radili, aby sa
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿obrátil na arcikňažnu Gizelu, že ona musí teraz chudiaka, slepého   chlapca sa zaujať, keď ho priviedli v tej nemocnici do takého   nešťastia. Je bohatá, dobrá, dá mu iste ročnú podporu. Nuž proboval   otec, proboval, chodil sem tam, písal, ale že vrana vrane oko   nevyklove, nič to nebolo naplat. Som istá, že sa doktori nepodriekli.   Keď princ Leopold druhý raz prišiel a na výsledok operácie chlapcovej   sa spýtal, oni svojho kolegu nezradili. Nezvedela arcikňažna nikdy,   čo sa s jej chránencom stalo. Zmiznul s oči — zraiznul s mysli! Snáď   keby bola zazrela raz malého slepca, jako biedne s harmonikou v   rukách hrá pri ľudských príbytkoch a sbiera tie často aj odrdlané   groše, tie krajice chleba, neraz tvrdého a plesnivého, keby sa bola   podívala do smutnej, zamračenej tváre, na ktorej nešťastie písalo   svoje vety, istotne bolo by jej ho prišlo Túto a bola by sa nad ním   smilovala.
+   </tei:p>
+   <tei:p>
+    Ach, viedlo sa Peterkovi veľmi zle. Otec chudobný ťažko živil   svoju veľkú rodinu. Chlapec im bol všetkým na ťarchu. Nikdy už   nemohol sa otcovi odslúžiť. Dávali mu všetci cítiť, že už ničím   nebude, len žobrákom. Chlapec stával sa tým zlostným a tvrdým. Do   hĺbky jeho nešťastia, aké nosil v malom srdci, žiadon neznal sa   vhĺbiť. Vlastnej matky nemal a nevlastná bola od trápenia zemského   omrzelá, ľahostajná osoba. Poneváž Peterka nemal kto vodiť, dal mu   Pán Boh taký zvláštny dar, že naučil sa chodiť sám. Vzal si nejakú   paličku a klopkal si ňou po zemi. Vždy vedel, kde je hradská alebo   chodník, kde
+   </tei:p>
+   <tei:p>
+    12
+   </tei:p>
+   <tei:p>
+    ﻿stojí strom alebo voz. Že vraj počul, ako tam, kde niečo stálo,   zem ináč pod jeho paličkou a kroky zunela.
+   </tei:p>
+   <tei:p>
+    Keď prešlo pár nešťastných rokov, nechodil už chlapec s rodičmi.   Platil si nejakého od seba mladšieho chlapca a chodili spolu. Vtedy   hrával už len po krčmách k tancu aj prez celú noc a bol od opilej   chasy dobre platený. Doriastol sám v pekného mládenca. Bárs bol   slepý, nosil sa vždy čisto a strojne. Zvláštnu záľubu mal v pekných   porcelánových fajfkách s dlhými a krátkymi pipasarmi. Pijatika, bárs   ustavične v krčme sedel, sa ho nepridŕžala.
+   </tei:p>
+   <tei:p>
+    Býval i uprostred veselej vospustností vždy smutný, vždy vážny.   Brával si do služby takého chlapca, ktorý znal čítať. Pri nedeli, aj   keď išli poľom a sadli si odpočinúť, dal si mu čitať zo Studničky   alebo z kancionála modlitby a pesničky. To ovšem, čo by ho v jeho tme   a zármutku bolo potešilo, so sebou, bárs bol evanjelik, nemal. Keď na   zimu prišli domov, sedával pravidelne v kostole. Prišiel ta vždy s   otcom; počúval pozorne a myslel, že už je to dosť a bol rád i   spokojný, že si, jako všetci hovorili, odbavili, čo sa patrilo. A tak   by to s ním bolo išlo ďalej prez celý život. Keď mal také dobré   remeslo. So žartom hovorieval, že ide na dolniaky dlhy vyberať. Keby   bol chcel, aj tri ženy by bol dostal, mohol si aj vybrať. A bolo by   to asi tak skončilo, jako v poviestkach: sobrali sa a žili a žili,   dokiaľ nepomreli. Ale prišlo do toho čosi nečakané a dalo celému   životu Petra M. cele inú tvárnosť. A to je tretí odsek jeho života.   —
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿Keď v r. 1892 poberal sa mladík za svojím túlavým povolaním, vzal   so sebou chlapca, Janka H. Bol to pekný, čiernooký, čiernovlasý   chlapík, tak asi 12 ročný, švihký, obratný v pohyboch aj vreči, jako   taký dobre rastlý prútik. Že jeho matka, chudobná jako kostolná myš,   sa s ním rozlúčila, bol div, ale núdza vraj i železo láme. Krom toho   nebývalo chlapcom u Petra zle. Pekne ich zašatil, za obul a ešte aj   niečo služby si priniesli.
+   </tei:p>
+   <tei:p>
+    Poplakal si Janíčko, keď sa octnul v cudzine. On, syn vrchov a   hor, nemohol zvyknúť na tú Dolnú zem, rovinu jako dlaň. Plakal za   mamičkou, no ešte za niečím, čo mu nadto všetko bolo drahé. Takého   chlapca Peter ešte nemal. Poslušný, úslužný a vždy do spevu. Keď   dakde odpočívali, vytiahnul si malú knižočku; mal v nej popísané   pesničky, Netak sa to tými rovinami rozliehalo, keď si začal čistým   hlasom spievať. Neboly to sväté spevy z kancionála, ani svetské   pesničky. Ale nech bola ktorá chcela, každá z nich ospevovala Pána   Ježiša, Syna Božieho. — Peter málo alebo vôbec nikdy nemyslieval na   Neho, no keď janko vždy mu Ho spomínal a keď počul, ako sa chlapec   dôverno za všetko k Nemu modlí, začal aj on o Ňom premýšľať. Janík   mal so sebou Nový Zákon, a keď teraz sedeli spolu, nečítali už len   modlitby zo Studničky; predčítaval [anko Slovo Božie a Peter počúval   a rozvažoval. Keď sa bol chlapca spýtal, zkadiaľ má tie pesničky,   rozprával mu tento radostne, akú tam majú doma nedeľnú školu a že sa   v nej učia celé kapitoly Slova Božieho nazpamäť, i tieto pesničky   a
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    ﻿že majú aj detský spolok; kto do neho patrí, ten musí každý deň   čítať Bibliu. Nepijú žiadon opojný nápoj, lebo že je to hriech.   Rozprával, ako oni tam milujú Pána Ježiša, preto že On ich tak veľmi   miloval, až za nich umrel a že im odpustil hriechy a raz prfde si pre   nich a vezme ich k sebe do neba. Prez celé leto si o týchto veciach   rozprávali. Peter naučil sa tie piesne spievať, ba daktoré i hrať.   Slovo Božie nechal si toľko opakovať až to všetko, čo znal Janko, aj   on mohol predniesť zparaäti. Janko často hovoril, aký je to hriech,   tie pijatiky, tance, tie kriky, to smrduté fajčenie, a Peter všetko   uznal, že má pravdu a veľmi mu bolo ťažko okolo srdca, že sa ináč   živiť nemohol. Sotva sa oba tej zimy dožili.
+   </tei:p>
+   <tei:p>
+    V prvú nedeľu, ktorú už doma trávili, prišiel Janko do svojej   nedelnej školy, ale nie sám; s ním prišiel vysoký, pekný mladík   vážnej, smutnej tváre, jednooký a slepý. V to odpoludnie začal pri   Petrovi druhý doktor operáciu, začal mu strhať s duchovných očí belmo   samospravedlnosti. Než tá zima pominula, smel mladík povedať o sebe s   veľkou radosťou: „Bol som slepý, ale už vidím.“ Telesné oči zostaly   síce ešte ďalej nevidomé, zato tie duchovné sa kamdiaľ jasnejšie   roztváraly. Mohol už aj on s druhými opravdivé spievať: „Mne Ježiš   odpustil hriechy, pokoj svoj našiel som v Ňom!“ Nevynechal mladík ani   jednoho detského shromaždenia, ani jednej príležitosti, počuť Slovo   Božie, ktoré si veľmi zamiloval. Potešil sa konečne nad svojou   telesnou slepotou, len jedno želel, že si nemôže Bibliu sám   čítať.
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿No i to bolo k dobrému; musel mu ju čítať otec, ktorý by ináč   nebol po nej siahnul. Hovorí sa, že všetky cesty vedú do Ríma. Či je   pravda, neviem, ale to viem, že cesty človeka, ktorý má byť spasený,   všetky vedú do nového Jeruzalema, aj tie zdánlive najhoršie. Nech   neoslepne Peter, snáď nikdy nepozná to svetlo večné a nestane sa Jeho   služobníkom.
+   </tei:p>
+   <tei:p>
+    Žiadna zima neuletela Petrovi M. tak rýchlo, jako tá   najšťastnejšia, ked postretnú! sa s ním Pán Ježiš, ktorý vystrel   náruč a povedal: „Poďte ku mne všetci, ktorí pracujete a obtiažení   ste a ja vám odpočinutie dám!“ „Návraťže sa ku mne, lebo som ťa   vykúpil!“ „Ja som svetlo sveta, kto mňa nasleduje, nebude chodiť v   temnosti, ale bude mať svetlo života.“ On počul, išiel a našiel   odpočinutie, pokoj, dosiahnu! svetlo, kťoré všetky jeho tmy krásne   prežiarilo a blaženosť k neopísaniu naplnila jeho srdce. Áno týchle   uletela zima!
+   </tei:p>
+   <tei:p>
+    Odchod z domova nikdy nebol Petrovi tak ťažký. Povedomie, že musí   preč do toho zlého sveta, medzi tú neprávosť, hrať k tým hriešným   tancom, počúvať tie oplzlé, zvieracie škreky opilcov, ich ohavné   zlorečenie a kliatby, áno živiť sa takou neprávosťou, veľmi ho   mučilo. — No myslel, keď inej cesty neni, tak musí ten ťažký kríž na   seba brať. Ale listy, ktoré Janko za neho písal, boly kamdiaľ   smutnejšie. Znel z nich výkrik ustrašenej duše, ktorá až teraz začala   chápať, uprostred jakého bahna to posiaľ žila, komu to slúžila.
+   </tei:p>
+   <tei:p>
+    „Pomôžte mi k nejakému inému zamestnaniu.
+   </tei:p>
+   <tei:p>
+    16
+   </tei:p>
+   <tei:p>
+    ﻿ja v týchto pekelných dierach ďalej hrať nemôžem!“ Táto prosba   znela z každého listu. —Nuž, priatelia, ktorých mal a ktorí ho pre   Krista milovali, robili, čo mohli, hľadali všetko možné. Oni trpeli s   ním, modlili sa za neho a čakali iste a nečakali darmo, lebo keď i   dakedy Otec nebeský zdanlivé žiadnej odpovedi nedáva, On už dávno   robí prípravy, aby tá pomoc bola čo najkrajšia. Riadenie Božie je   podivné. Čo medzitým zarmútený Peter M. úpenlivo volal tam v tej   pustej rovine Uhorska: „Pane, vysloboď ma, pomôž mi,“ volal uprostred   krásnych hor švajčiarskych žijúci jeho brat a priateľ v Kristu J. Ch:   „Pane, pomož mi niečo nájsť pre Petra, aby sa mohol dostať do nejakej   školy pre slepých!“ Sám mnoho vykonať nemohol, bol chudobný žiak   misijného ústavu St. Chrisch., nemajúci žiadnych bohatých a lebo   mocných známostí.
+   </tei:p>
+   <tei:p>
+    Ale Boh veliký počul oboch, i keď pomoc zdánlive dlho váhala. — V   tom čase vystrájal sa v horúcom, ďalekom Egypte žijúci bohatý   továrnik Lavanči do Európy, do Paríža a chcel navštíviť aj misijný   ústav chrišonský. V tomto ústave žil on tiež raz ako chudobný   mladíček. Ztadiaľ odišiel do Egypta a Boh, ktorý je múdrosť sám,   udelil mu z tejto múdrosti tak, že sa mu podarilo vynajst zvláštne   mydlo, na ktorý vynález dostal patent. Pozdejšie otvoril si malú   továreň a o krátký čas bol z neho bohatý, dobre známy muž. Tento   bohatý muž ešte i vtedy, keď bol chudobným, veľmi ľutoval, že je v   Egypte tak mnoho slepých. Keď už mohol, súc majetným, otvoril   jednu
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿školu pre slepých v Egypte, druhú v Paríži. Vydržiaval obe a mal   pritom spojivá zo všetkými školami pre slepých v Európe. Tohoto muža   Pán poslal na Chrišonu.
+   </tei:p>
+   <tei:p>
+    Priateľ Petrov ho neznal. Bavil sa pár dní, žiaci misijní až v   posledný večer mali príležitosť soznať ho bližšie, keď im vyrozprával   svoje osudy. Na druhý deň skoro za rana odchádzal.
+   </tei:p>
+   <tei:p>
+    Aký bol J. Ch. zarmútený, že už nemal príležitosť dostať sa k   nemu! On by iste bol niečo urobil pre nášho Petra. On by mu bol   poradil. Snáď by ho bol niekde odporúčal. Ach, že sa tak neskoro   dozvedel, kto a čo on je! Taký zarmútený a pri tom odhodlaný aspoň   niečo urobit, napísal pánu Lavančimu list.
+   </tei:p>
+   <tei:p>
+    Nebola to maličkosť pre tak skromného, viac bojazlivého než   bojovného mladíka, akým J Chr. vtedy bol, písať .takému chýrečnému   mužovi a predniesť mu prosbu, aby urobil niečo pre jeho priateľa   Petra v Úhorsku, aby sa tento mohol niečo naučiť, čím by sa ďalej   mohol živiť a nemusel kráčať tou cestou hriešnikov. No áno, maličkosť   to nebola, ale stalo sa. Ktosi neviditeľný riadil ruku, ktorá písala,   a srdce toho, kto čítal.
+   </tei:p>
+   <tei:p>
+    O pár týždňov prišla odpoveď. „Peter M. nech ide do Viedne, do   školy pre slepých, je tam očakávaný, všetko pre neho pripravené i   zaplatené. N. N.“ Teraz bolo vysvetlené, prečo tak dlho nedal Pán   Ježiš odpovedi. Egypt je ďaleko od Švajčiarska a ešte ďalej od   Uhorska a tam znal On človeka, o ktorom vedel, že Petrovi, ktorého na   zemi nikdy
+   </tei:p>
+   <tei:p>
+    18
+   </tei:p>
+   <tei:p>
+    ﻿nespatril a nevedel o ňom, že vôbec žije, keď On mu rozkáže, bude   hotový pomôcť. Tohoto muža musel napred z Egypta do Európy vystrojiť   a musel pri tom dočkať, než si tam doma svoje veci usporiada. Potom   ho musel poslať, aby išiel svoju bývalú školu navštíviť, a čo až v   poslednej chvili priviedol ho k tomu, aby žiakom k posilneniu viery   svoje osudy sdeľovai. Áno, musel ho priviesť pred oči J. Ch., abymu   mohol písať, Tohoto zase všetkými nezdarmi musel priviesť na tú   myšlienku:: „Snáď tento človek, alebo nikto.“
+   </tei:p>
+   <tei:p>
+    Ach, Pán náš má neraz veľmi mnoho práce, aby nás vyslyšal, keď k   Nemu voláme, a nám sa zdá, že alebo spí, ako tam na jazere, alebo   nepočúva a váha. Tak bolo aj tu. Ale teraz, ak raôžte, tak si   predstavte radosť priateľov na Slovensku, keď tá zvesť prišla a keď   okamžite listovne volali Petra, aby prišiel! A jeho úžas, jeho   radosť! Už len v nebi budeme sa viac radovať. Ani dva týždne   nepominuly a Peter sedel v košikárskej dielni, bol v riadnej a   znamenitej škole pre slepých, kde mal možnosť naučiť sa čítať i písať   dvoje písmo slepých a pritom krásné a dobré košikárske remeslo Hoci   neztrávil tam ani rok, vyšiel ako hotový majster. Láska Božia   rozliata v srdci p. Lavančiho opatrila ho všetkými nástrojmi a istou   čiastkou pénazi na matéria! do začiatku; a čo bolo nade všetky   poklady sveta, dala mu i Slovo Božie písmom slepých tlačené, koľko ho   bolo v reči českej, štyri evanjelia, niektoré epištoly a žalmy. Kto   by to bol slepému, nešťastnému žobráčkovi
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿povedal, že bude jako vážený košikársky majster statočne živiť   nielen seba, ale aj ovdovelého, osamelého otca svojho, že tento, ním   ku Kristu privedený, čítávaf mu bude ti knihy Biblie, ktoré si on   čítať nemohol? A kto by mu to bol povedal, že obdarený zvláštnými   darmi Ducha Svätého, on slepý telesne, duchovne slepých povedie k   svetlu večnému? Stalo sa oboje! Neraz bola izba plná, vôkol stola   sedely duše žíznivé, a pred stolom sedel mladý, slepý kazateľ,   čítajúci dotykom prstov v knihe svätej, tvár, ktorá za detinstvá   bývala smutná a mračná, teraz taká bola krásná výrazom pokoja a   svetla na čele a s blaženým úsmevom vôkol výmluvných rtov. Boly   chvíle, v ktorých Peter mal takú radosť z Pána Ježiša, ktorého veľmi   miloval, že sa to ani slovami vyjadriť nedalo. Telesná chudoba   zostávala jeho údelom na zemi, ale patril medzi tých: „Jako nie   nemajúci, avšak mnohé zbohacujíce“. Vždy šťastný, vždy spokojný,   spoluobčanmi ctený, bratmi a sestrami v Kristu milovaný odišiel   uprostred veku svojho ta, kďe „Kráľa v okrase Jeho uzrú oči naše“.   Snáď idúc domov, anjelmi nesený, smel sa podívať po milovanej otčine,   ktorú už telesným zrakom nespatril, a tam potom pred Pánom svojím v   raji vyznal iste, že „dobre všetky veci učinil“ a že tá telesná   slepota, ako bola s počiatku velikým nešťastím, stala sa mu v ruke   Božej zdrojom večnej blaženosti a šťastia bez konca.
+   </tei:p>
+   <tei:p>
+    ﻿Sedeli v teplo prehriatej izbuške dvaja veľmi pekní a veľmi   šťastní ľudia. Tam vonku padal sneh i ich hlavy pokrývaly šediny, no   to tým starým hlavám ešte krásy dodalo. Starenkina strunná kedysi   postava bola už zošlá, zhrbená, nedosahovala by už mužovi ani po   srdce, keby aj on ako strom pod ťarchou nebol sa zohnul. Tak čože   bolo na nich vlastne pekného? Veď krása je údelom mladosti. Ach, boly   to také dve krásne staré tváre, z každej vrásky hľadela dobrota, z   očí žiaril nezhasiý oheň lásky a rozlieval sa im celými obličajami,   obletoval dobrotivé, opadlé úsla. A tak si boli jeden druhému   podobní. Nie div, veď prez dlhé roky často a dlho hľadeli na seba, až   sa tak jedon v druhom zobraznili.
+   </tei:p>
+   <tei:p>
+    Vonku panovala taká pekná, snehová zima. Stromy pokrývala okyt, so   striech odvisaly dlhé krišťalové zvony a slnce sa v nich   dúhovobarevne zhliadalo. Nikde nezrieš sýtej barvy života. Darmo   hľadal by si vôňu kvietia, a na zemi predsa toľko krásy. „Ej, poď sa,   prosím ťa, podívať!“ volal starec na starenku, a keď k oknu, pri   ktorom stál, pristú-
+   </tei:p>
+   <tei:p>
+    KRÁSNA ZIMA.
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿pila, pritiahol ja vedfa seba na lavicu, „Vidíš tie deti, jako sa   kĺzajú?“ ukazoval na neďaleký potok. „Pamätáš, ako sme sa kedysi my   dvaja kĺzavali?“ — „Pamätám“, usmiala sa starenka, „a ľad sa preboril   a ty si ma vytiahnul z vody.“ Pohladila vetchou rukou jeho šediny. —   „No to bolo už dávno!“ — „Veru dávno, Jurko! Ba, čo sme my už všetko   spolu na tom svete prežili, zlé i dobré! A kto by nám bol povedal, že   tak dlho spolu žiť budeme?“ — „A že koniec toho života bude   najpeknejší“, dokončil on, a jal sa ruku ženinu pohládzať. „Keď sa na   tamtú jabloň a ten orech podívam a myslím, aká si pri mne stála mladá   a krásna, keď som ich sadil — ani tá ružička, čo v tvojej zahrádke   kvitla.“ — „Hja, keď vtedy bolo okolo aj v nás jaro a teraz je zima a   my oba zapadli sme snehom! Veď ani nad teba nebolo krajšieho   mládenca.“ — „Pekné bolo to jaro, keď sme sa znovu soznali a keď v   našom srdci začali slávici spievať a rozmarín rozváňať, no já by som   túto zimu zaň nezamenil; či ty áno?“
+   </tei:p>
+   <tei:p>
+    Hľadeli oba starci na seba a usmiali sa rovnak pekným úsmevom.   „Ani ja nie, starý môj, bárs sa rada na tie mladé časy rozpomínam.“   Sadli si oba starci k tomu slniečkom zimným osvietenému oknu a dali   sa v rozpomienkach preberať, ako keď deti prehŕňajú obrázkovú knihu a   pri daktorých obrázkoch zvlášte dlho sa bavia. Oni zvlášte dlho   sotrvali pri tej dobe, keď nechala im ďaleko od nich vydatá dcéra za   čas svojho malého synáčka. Tam, kde dcéra bývala, chodilo chlapčiatko   do nedeľnej školy,
+   </tei:p>
+   <tei:p>
+    22
+   </tei:p>
+   <tei:p>
+    ﻿bárs neznalo ešte čítať, ale znalo mnoho veršíkov z Biblie   nazpamäf a mnoho pesničiek oslavujúcich Syna Božieho, Pána Ježiša.   Keď ich tak milým hláskom spievalo a tak detinsky Synu Božiemu   verilo, začali babička i deduško o Ňom rozmýšlaf. Aby malého trapiča   uspokojil, musel deduško sosnaf veľkú Bibliu s police a čítať i   rozprávať histórie z evanjelia a tie dávno známe, no i dávno   zabudnuté zo Starého zákona. Aby synáček veľmi nezaostal za druhými   školáky, poslala mamička jeho soznam tak zvaných zlatých textov a   knižočku s názvom „Pomňcka“. V tejto bolo pre učiteľov nedeľnej školy   na každú nedeľu vysvetlenie a ešte pri tom na každý deň krátky   výklad. Zaľúbilo sa to babičke, začali si podľa tej knižky každodenne   slovo Božie čítať a ani nevedeli, jako bolo, jakó nie, poznali, že   veru oba veľmi potrebujú Spasiteľa hriešnikov. Dali sa Ho hľadať a že   On prišiel, aby hľadal a spasil to, čo bolo zahynulo, teda aj ich, no   tak sa vzájomne našli. Splnily sa pri nich dve zasľúbenia: „Včas   večera bude ráno“ a „Malé pacholátko ich povedie“. Nenechala mamička   dlho svoje dieťa u rodičov, nemohla bez neho vydržať, no dosť dlho,   aby ich k Pánu Ježišovi priviedlo.
+   </tei:p>
+   <tei:p>
+    Pri tomto obrázku sa starci najdlhšie zabavili. Roky od tých čias   prešly, ale oni nikdy nezabudli na ten druhý máj, máj jara   duchovného, ktoré tak prežívali spolu, jako kedysi to jaro telesnej   mladosti a kde im čas prespevovania prišiel a hlas hrdličky počutý   bol v ich srdciach.
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+   <tei:p>
+    ﻿Ak dakto napíše knihu a ona nemá pekný koniec, žiadného tá kniha   neuspokojí. Tak každý človek píše svoj vlastný životopis anjelmi. On   zo dňa na deň, ako by diktoval, a anjelia píšu. Ej, nejedna z týchto   kníh zle zakončená neuspokojí ani písateja, ani čitateľov, ani Boha.   Chýbä v nej práve ten, kde našiel Spasiteľ   dušu a ona našla jeho. V takom zle zakončenom životopise   neni krásnej zimy, tam je na koniec len ťarcha, choroba, opustenosť a   smrť. Ó, dietky milé, ktoré Pána Ježiša znáte a milujete, či znajú Ho   aj vaši deduškovia a babičky? Ak nie, spievajte im o Ňom, volajteich   k Nemu! Budú si aj na vás, jako na svojich dobrých anjelov raz   spomínať? Myslite o tom!
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

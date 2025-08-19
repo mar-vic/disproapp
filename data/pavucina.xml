@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1904689" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Pavučina : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84103218">
+     Čipka, JonatánDobroslav (1819 - 1861)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3278
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Čipka, Jonatán Dobroslav
+     </tei:author>
+     <tei:title>
+      Pavučina
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1904
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿PAVUČINA
+   </tei:p>
+   <tei:p>
+    ﻿Francúzske vojny šťastne sa skončily. Napoleon, francúzsky cisár,   bol vypovedaný zo zeme a zavedený na ostrov Helenu. Ale víťazné   vojská, medzi nimi i naše uhorské, nastupovaly cestu k domovu,   opúšťajúc pokorenú Franciu. Mužovia vracali sa k svojim ženám, bratia   k svojim sestrám, synovia k otcom, ba aj otcovia k synom, lebo vtedy   mnohých mladších i starších boli pozaberali do vojny. Naše slovenské   dediny vítaly tiež prišlých víťazov.
+   </tei:p>
+   <tei:p>
+    Do Orechoviec prišli naraz dvaja: Janko .Lasica a Jurko   Zabydovský. Na čierno-žltých stužkách visely obom s hrudi strieborné   pozlátené krížiky. Čo to malo znamenať, ukazoval nápis: „Odmena   udatnosti.“ Že si ju naozaj zaslúžili, to ukazovaly švíky
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    na ich čelách, najistejší to znak bojovníka, že hlavu svoju   smrteľným ranám nadstavuje a udatné bojuje.
+   </tei:p>
+   <tei:p>
+    Naši vítazi nikdy vraj nevideli sa za mladi; ale nehody vojenské   ľahko šprinteľujú ľudí, spriatelily teda aj našich. — Na samotného   Lasicu oborili sa raz traja Francúzi; on sa bránil, pokiaľ na nohách   stáť mohol, ale vraj veľa vrán aj koňa zedia, —- nášmu Lasicovi   prepálila francúzska guľa hnát a on padol s nôh. Francúz práve dvíhal   šabľu, že ho pošle na druhý svet, ked do čela guľkou uhodený   sklesnul, ostatní dvaja ušli; bo hľa ! silný Zabydovský v tom dorazil   na nich a teraz postavil sa pri omdlenom Lasicovi. čelo, z ktorého   krev tiekla, oviazal mu svojím ručníkom, chytil ho popod pazuchu a   viacej zaniesol, ako zaviedol ho do tábora, A od toho času boli ako   bratia, hotoví jeden za druhého ostatnú kvapku krve vycedif.
+   </tei:p>
+   <tei:p>
+    Ako teda hovorím, po skončenej vojne oba prišli do Orechoviec. —   Zabydovskómu vyšla naproti žena a po päťročnom rozbi
+   </tei:p>
+   <tei:p>
+    ﻿cení radostne objala svojho muža. Vedľa matere stála dvanásťročná   Hanka, pekné černookó dievča. I táto pritúlila sa k otcovi a bozkala   mu ruku. Vytešený bojovník zodvihol dcéru, pritisol k srdcu a   vybozkával ju, až jej čelo očervenelo.
+   </tei:p>
+   <tei:p>
+    „Vidíš, bratku, aký som šťastný,“ riekol v tom radostne k   Lasicovi, „toto je moja žena a moja dcéra!“ A na Lasicovi bolo   poznať, ako teší sa, že vidí rodinu svojho priateľa. „Teším sa,   teším,“ hovoril potriasajúc Zabydovskej ruku; „nech som dobrým, takej   žene a takej dcére treba páru hľadať.“
+   </tei:p>
+   <tei:p>
+    Lasica bol svobodný; krém jednoho brata, o ktorom ale počul, že je   veľký korheľ a márnik, nemal na svete nikoho. Rodičov ešte za mladi   utratil a malá, po nich pozostalá hospôdka dávno prešla cez bratov   gágor; umienil si teda, že si v Orechovciach kúpi domček, aby aspoň   so svojím priateľom Zabydovským pokojne prežil svoje ostatné dnL
+   </tei:p>
+   <tei:p>
+    Tu vnišli do izby. Na prostriedku stál
+   </tei:p>
+   <tei:p>
+    5
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    lipový stôl, na stole pečená hus, holba vína a dva poháriky, —   vari ich Hanka celý deň umývala, lebo sa mohol nazreí do nich ako do   zrkadla ! Otec kývnul hlavou ; poobzeral sa do okola a kývnul zase:   „Dobre, — pekne! Poznať, že sa statočne opatrujete; steny vybielené,   obloky poumývané, zrkadlo vyutierané, povala bez pavučín, stôl čistý   a na ňom pečená hus s holbou vína! Dobre, pekne! Pod sem, žena moja,   nech ťa ešte raz pritisnem k srdcu !“
+   </tei:p>
+   <tei:p>
+    „Nie mňa, ale dcéru si pochváľ,“ odpovie matka; „to je všetko jej   robota!“
+   </tei:p>
+   <tei:p>
+    „Nuž si to ty, dievka moja, tak pekne obriadila všetko?! Som   šťastný otec, ved mi to všetko tak prichodí, ako čo by zajtrá malý   byt Turíce! Vidíš, bratku, tak túžobne nás čakaly, ako Turíčne   sviatky!“
+   </tei:p>
+   <tei:p>
+    Tu si sadli vyslúžili bojovníci k stolu. Zabydovský zodvihol   pohár; „Sláva nášmu milostivému cisárovi a kráľovi i celému víťaznému   vojsku jeho! — Sláva i ruským bojovníkom, ktorí nám ako bratia verne   pomáhali! Daj Pane Bože, aby sme teraz
+   </tei:p>
+   <tei:p>
+    ﻿už pokojne prežívať mohli doma aj s našimi rodinkami! “
+   </tei:p>
+   <tei:p>
+    „Sláva! Pán Boh uslyš!“ prisviedčal Lasica, štrngol pohárom a   pripil.
+   </tei:p>
+   <tei:p>
+    Prvý deň pominul pri samých otázkach a odpovediach. Čo všetko v   jeden deň vyrozprávať si chceli! Matka chválila dcéru, že je čistotná   a pracovitá, že je matke ako pravá ruka a otec za každým pokýval   hlavou ; „Dobre, dievka moja drahá, dobre; to som si žiadal, aby som   doma takú dcéru našiel.“ — A Hanka nebola by dala za celý svet, že   otec bol s ňou spokojný.
+   </tei:p>
+   <tei:p>
+    Ale ona túto chválu aj zaslúžila. Lebo ráno ako vstala, najprv   bežala na potok pod obloky, doniesla si čerstvej vody a vyumývala sa   do červená, na to sa pekne učesala a poobliekala. Keď bola so sebou   hotová, vymietla izbu, poutierala obloky, stôl a lavice, tak že ked   rodičia z komory do izby prichodili, už bolo všetko poriadené, — V   sobotu vždy celé popoludnie strávila pri riadení domu. Tu umývala   stôl a lavice, tu zmetala s povaly pavučiny, tu mazala
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿ohnisko, ukladala na policu čistý vyumývaný riad — všetko v dome   vyzeralo vyčistené, ako nové! — Ktože by teda tak čistotné dievča   nebol mal rád?! Ktože by ho nebol chválil?! I sám Lasica, keď si už   potom domček kúpil a do Zabydovských na pôsedky a besiedky prichodil,   neraz prehodil, žeby veru aj do jeho domku zišla sa taká poriadna a   čistotná Anička.
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    Takto prebehol temer celý rok. Dlhé zimné večery tiekly im ako   voda pri besiedkach a sladkých rozpomienkach na vojenský život.
+   </tei:p>
+   <tei:p>
+    Ale vravia, že ked je nebe najjasnejšie, zamračí sa, a tak stalo   sa aj u Zabydovských. Pán Boh vie, či zo závisti a či z porasty, či   už prečo, ale dakto im podpálil dom, práve o polnoci, tak že   nezvedali, len ked im už povala prehárala a ledva že s dušou a s   telom ujsť mohli. Chudák Zabydovský stískal, uťahoval si, gazdoval na   vojne, len aby domov s prázdnou rukou neprišiel, a teraz zhynulo v   plameni všetko, i čo žena s dcérou doma nagazdovaly!
+   </tei:p>
+   <tei:p>
+    ﻿Čo tu mal robit? Nový dom stavať! Yed nemal ani babky, všetko mu   zhorelo! A čím by bol splácal nájom ? A tých niekoľko krajciarov, čo   každodenne dostával od cisára, ešte i pri malom zárobku, sotva   stačilo na omastu a na chlebík pre troch ľudí! — V takomto smutnom   položení nevedel, čo má robiť. Vo vojne, ked Francúzi shŕkli sa okolo   neho, vedel, že má šabľu ťahať a biť, ale tu ? Tu naskrze nevedel,   čoho sa chytiť!
+   </tei:p>
+   <tei:p>
+    I stojí takto so založenýma rukama pri hasnúcich hlavniach a   premýšľa, kde sa podie samotretí; v lete ešte ako V lete, ale na zimu   ? Starému bojovníkovi slzy počaly v očiach hrať. — Tu ho potrasie   ktosi :za plece, obzre sa a vidí, že pri ňom stojí Lasica.
+   </tei:p>
+   <tei:p>
+    „Chlape, ty plačeš! Bysťu Bohu, vojak nesmie plakať! Vrav, čo ti   je?“
+   </tei:p>
+   <tei:p>
+    „Vidíš,“ odpovie Zabydovský, „môj dom a v ňom všetko, čo som horko   ťažko nahonobil, zhorelo!“
+   </tei:p>
+   <tei:p>
+    „A preto plačeš? A či nevieš, že Lasica žije a že bol by dávno   hnil, keby tvoja
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    guľka nebola Francúzovi čelo prepálila? A nevieš, že ten Lasica má   svoj dom a k tomu hodný mešec Napoleonovských dukátov? Pod, bratku,   pod ochranca môjho života, i dom i mešec je ti vždy otvorený!“
+   </tei:p>
+   <tei:p>
+    „Ale ja mám ženu a diéta!“ povie smutne Zabydovský.
+   </tei:p>
+   <tei:p>
+    „Bystu Bohu, čo by si mal desať žien a desať detí, ku mne všetci   pôjdete! Pravda,“ vraví dalej, „tá francúzska guľa ma v nohe tu i tu   omína, a ked ma rozbolí, som omrzlý, rozkatovaný, tak že by som vtedy   všetkých Francúzov postínal, ale sa budem premáhať. Vtedy radšej   ujdem do tretích súsedov, len aby tvoja žena a tvoje dieťa nemusely   moje kliafa počúvať! Pod, ochranca môj! Vidíš, ja na svete nemám   nikoho, krém Boha a teba!“
+   </tei:p>
+   <tei:p>
+    Ešte v ten deň ubytoval sa Zabydovský i so ženou i s dcérou v   Lasicovom dome.
+   </tei:p>
+   <tei:p>
+    Ako pri starom vyslúžilcovi to tam nebárs poriadne vyzeralo :   steny boly očadnutó, lebo ich nemal kto bieliť, a fajčiť naveky sa   fajčilo; stôl a lavice zababrané,
+   </tei:p>
+   <tei:p>
+    ﻿lebo ich nik neumýval; cez obloky ledva predieralo sa svetielko,   lebo ich nik neutieral. A povala? — tam si pavúky svobodne robily   siete na početné muchy, lebo nik nemiešal sa im do remesla.
+   </tei:p>
+   <tei:p>
+    Ale to všetko premenilo sa s príchodom Hankiným. Hned na druhý deň   celú izbu vybielila, stôl, lavice a obloky vyumývala a všetko   poriadila; tak že Lasica skoro ani svoju vlastnú izbu nepoznal, a   povedal: „No v tejto čistej izbe raz tak dlho a raz tak veselšie   budem žif, ako v tej začmudenej a zapavúčenej.“
+   </tei:p>
+   <tei:p>
+    Takto bývali dlho spolu. Lasica často stenával na postrieľanú   nohu, ale nikdy neklial; lebo dobrá Hanka starala sa oňho. Ona   sháňala domáce lieky a nemala pokoja, kým mu boľasti neutíšila. V   taký čas hovorieval Lasica: „Hanka, Hanka, prisám Bohu nezomrem, kým   ti pamiatky neurobím!“ A Hanka naveky začervenala sa; lebo nerada   videla, ked ju do očú chválili.
+   </tei:p>
+   <tei:p>
+    Ale človek mieni, Pán Boh mení. Lasica raz veľmi onezdravel a   Hankine lieky viac
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    nespomáhaly. Prišiel aj lekár z mesta a keď chorého obzrel, len   pokrútil hlavou a kývnul rukou. Lasica priam vedel, koľko bilo; nebál   sa smrti, ked francúzske guľky lietaly, nebál sa jej ani teraz.
+   </tei:p>
+   <tei:p>
+    Práve bolo na mraku. Lasicovi bolo trochu ľahšie. I zavolá   Zabydovského k sebe: „Pošli to dievča,“ hovorí, „pre notáriuša a ty   si sadni ko mne.“
+   </tei:p>
+   <tei:p>
+    O chvíľku vrátila sa Hanka i s pánom notáriušom, ale hneď musela   zase von výnsí aj s matkou.— Asi po dvoch hodinách notáriuš odišiel.   Čo tam robil, čo nie, to nik nevedel, lebo po odchode jeho bol stôl   prázdny, ako predtým; ale bezpochyby dačo písali, lebo na stole   ležalo pero a v ňom svietilo sa ešte černidlo.
+   </tei:p>
+   <tei:p>
+    O chvíľku za tým Lasica usnul. Všetci chodili na prstoch, aby ho   nezobudili; ale to netrvalo dlho a on strhnul sa zo sna. Bolo mu   horšie a čím ďalej tým horšie, — |l5)Íp?kna druhý deň vyzvonili, dušu   vy-IflpíL. äHKnka sa rozplakala, i sám Zaby-4opM|hí:ýel si slzu. A   veru mohli plakaf,
+   </tei:p>
+   <tei:p>
+    ﻿lebo v jeho dome bývali a na jeho stole jedávali.
+   </tei:p>
+   <tei:p>
+    Vyslúžilého bojovníka vyprevádzala na. tretí deň celá dedina. Na   truhle mu bolapribitá šabľa, ktorou dakedy nepriateľom vrahom hlavy   srážal. Za truhlou kráčal Zabydovský, jeho žena a jeho dcéra v   čiernom obleku a celou cestou im slzy tiekly. Neplakaly len z   obyčaje,- ale plakali od veľkého žiaľu; lebo do hrobu niesli ich   dobrodinca.
+   </tei:p>
+   <tei:p>
+    Ľudia si hned po pohrabe rozprávali, že Zabydovský musí z domu,   akonáhle o smrti Lasicovej dozvie sa jeho brat, a aj sama Zabydovská   bála sa toho; ale Zabydovský hovorieval, že sa toho nemajú čo báť,   lebo že je teraz dom ich vlastný i so všetkým, čo je v ňom. — A tak   to muselo vskutku byt, lebo žiaden duch nezastarel sa do nich, ani   brat Lasicov nehlásil sa.
+   </tei:p>
+   <tei:p>
+    Nepominulo ešte celkom polroka, ako Lasicu pochovali. Prvý sáah   napadol v Orechovciach. Poľovníci shovárali sa o zajacoch
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿a Zabydovský, ktorého život bola streľba, umienil si tiež, že   zavčas rána vybehne pozrel, či dakde nenájde zajačieho šľaku. Žena ho   pravda odhovárala, aby neišiel: „Ja, neviem, čo mi je, ale tak ako čo   by mi niečo šeptalo, že sa ti tam zle bude vodiC. Len dnes, mužík môj   drahý, len dnes nechod, pekne fa prosím.“
+   </tei:p>
+   <tei:p>
+    Ale Zabydovský nedal sa odhovoriť a ženu vysmial, že čo by sa mu   vraj stalo, že ved neide na medvede, ani na divé svine, len na   zajace. — Nestačil teda východ začervenať sa, už boí na nohách. —   Poobzeral pušku, ktorá už pár mesiacov stála nabitá, preložil novú   kupku a v dobrej nádeji vyšiel z domu. Pri boku mu netrpelive skučali   dva starí kopovi, dobre že neroztrhali svorku, ktorá ich len v pravý   čas a na svojom mieste mala pustiť po svobode. I pustí ich hned na   kraji húšťavy a sotva skočili dva tri razy, už ich bolo počuť štekať,   džavkat, už mali zajačí šľak.
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    Náš poľovník si zastal na najbližšiu pirť. Psi štekali, len tak   ozývalo sa úbočou a
+   </tei:p>
+   <tei:p>
+    ﻿štekot ich vždy viac a viac približoval sa. Už .bolo počut i skoky   zajačie. Zabydovskému srdce zatrepoce od radosti, — krásny ročiak   letel hore pirťou ako guľa. Priloží — namieri — pác! —- puška   spraští, ale vtom okamžení bolo počut krik: „Jaj, Bože môj! Jaj, Bože   môj!“ Zabydovskóho puška roztrhla sa a on ležal na zemi zkrvävený a   ostal celkom bez seba.
+   </tei:p>
+   <tei:p>
+    Na tretí deň už Zabydovskómu vyzváňali. Dva dni trápil sa chudáčik   s roztrepanou hlavou a vystál neslýchané muky. — Takto dom   Zabydovskóho, ktorý ešte nestačil prvý smútok složit, do roka musel   obliecí druhý, a to o mnoho boľastnejší; — lebo teraz kráčala za   truhlou opustená vdova so sirotou. Bodaj by nikto na svete nedožil sa   vdovského, tým menej sirotského chleba Horký, horký je to   život, a tým horkejší, čím viacej do okola nepriateľov a závistníkov.   — To zkúsila i vdova Zabydovskóho i jej dcéra Hanka.
+   </tei:p>
+   <tei:p>
+    Sotva rozchýrilo sa, že Zabydovský zomrel, už hlásil sa nebohého   Lasicu márno-
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    tratný brat a žiadal odmrt po bratovi. Predtým nebolo o ňom   chyrovať; neukázal sa ani za života bratovho, ani po jeho smrti,   pokiaľ Zabydovský žil; ale teraz objavil sa, aby dovŕšil nešťastie,   ktorým Hospodin navštívil zarmútenú vdovu a sirotu.
+   </tei:p>
+   <tei:p>
+    Dedinská vrchnosť sišla sa. Za vrch stola sedel pán rychtár, z   pravej strany pán notáriuš, z ľavej pán podrychtár a ostatní starší.   —• Tu vystúpi Lasicov brat, žiada dom i domové náradie po bratovi; ba   čo viac, žiada i plat od domu, od tj čias, ako jeho brat   umrel.
+   </tei:p>
+   <tei:p>
+    Pán rychtár pokýval hlavou a pán notáriuš prisvedčil tiež: „Tak je   1 ■— po bezdetnom bratovi dedí vždycky brat; notabene, jestli   poriadku neurobil. “ Musíme skorej vypočuť vdovu !“
+   </tei:p>
+   <tei:p>
+    Vdova prišla, —■ hľadá ako stena i od žiaľu za mužom i od strachu,   že ju pred rychtára volali, a pán notáriuš začal takto hovoriť :
+   </tei:p>
+   <tei:p>
+    „Zabydovská! I mnoho vážny úrad i celá dedina vie, že váš vlastný   dom zhorel a
+   </tei:p>
+   <tei:p>
+    ﻿že vás Lasica z lásky prijal do svojho domu, či je tak ?“
+   </tei:p>
+   <tei:p>
+    „Tak je,“ odpovedala vdova a slzy jej vypadly.
+   </tei:p>
+   <tei:p>
+    „Dom teda nebol váš, ale Lasicov, ako ani domové náradie, ktoré   ste vy dosial užívaly. Teraz hlási sa Lasicov vlastný brat, ako   prirodzený dedič, a žiada vás, aby ste mu bratov dom aj s náradím   bratovým vydaly.“
+   </tei:p>
+   <tei:p>
+    Zabydovská stála ako kamenná, lebo nevedela, čo má odpovedať na   reči notáriušove; konečne predsa osmelila sa a zajikavo preriekla:   „Pravda je, že dom, v ktorom bývam, i s náradím, ktoré užívam,   prináležal Lasicovi; ale môj nebohý muž hovorieval, že mu to Lasica   všetko na smrteľnej posteli poručil.“
+   </tei:p>
+   <tei:p>
+    „To je možno,“ dosvedčil notáriuš a zmraštil čelo; „ale na to musí   byť písmo; vaše slová pred právom nič neplatia. Či teda máte dáke   písmo od nebohého Lasicu?“
+   </tei:p>
+   <tei:p>
+    „Nemám,“ odpovedala vdova.
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    Notáriušovi vyjasnilo sa čelo ; pozrel bokom na Lasicovho brata a   bolo vidno, ako obom smejú sa oči od radosti. „Tak teda,“ akosi vážne   pretváral sa pán notárius, — „tak teda dom i s náradím prináleží tu   Lasice vmu bratovi a vy za týždeň vy pakujete sa z neho!“ — Tu sa   obrátil k Lasicovi; „Ste spokojný, pán Lasica?“
+   </tei:p>
+   <tei:p>
+    „Spokojný,“ odpovedal márnik; „medzitým žiadam aj plat od domu na   ten čas, ako môj brat umrel.“
+   </tei:p>
+   <tei:p>
+    „I to vám právom prináleží; lebo od toho času, ako váš brat umrel,   Zabydovskú len ako vašu želiarku možno považovať. Tak teda   Zabydovská, zaplatíte pánu Lasicovi aj plat od bývania v dome.“
+   </tei:p>
+   <tei:p>
+    „Ja nemám ani babky,“ odpovedala vdova a po obidvoch lícach tiekly   jej cícerkom slzy; „na pohrab mužov vytrovila som sa do haliera.“
+   </tei:p>
+   <tei:p>
+    „Tak vám i vašej hrdej dievke popredárae šaty,“ preriekol posmešne   notáriuš. „A teraz už môžte odísť!“
+   </tei:p>
+   <tei:p>
+    Úbohá vdova odišla. Ach, ale kameň bol
+   </tei:p>
+   <tei:p>
+    ﻿by zaplakal nad ňou. Líca od ustavičného žiaľu bľadó, oči od   ustavičného plaču červené — ak tomu strach, ako by už išly šaty s nej   predávať. Chuderka ani nevedela kade ide a kde stúpa, lebo sa   nazdala, že celá dedina na ňu prstom ukazuje : „hľa, tamto tej idú   šaty predávať!“
+   </tei:p>
+   <tei:p>
+    Takáto u sužovaná prišla domov. Hanka sa uľakla, ked na ňu pozrela   a bála sa pretrhnúť jej žalostné tikanie. — „Ach, dievka moja drahá!“   začala po chvíli hlasité nariekať — „muž môj, muž drahý,   premilený!
+   </tei:p>
+   <tei:p>
+    — prečo že si ma prečo radšej sebou nevzal? — Otec, otec, načo že   si načo nechal svoje dieťa, aby s neho šaty predávali ?“
+   </tei:p>
+   <tei:p>
+    — Tu padla Hanke okolo hrdla. — „Ach, dievka moja drahá! i s teba   i so mňa budú šaty predávať, lebo nemáme ako zaplatiť nájom Hasičovmu   bratovi!“
+   </tei:p>
+   <tei:p>
+    Neborka Hanka, ktorá sama potrebovala potešenia, dosť tešila   rozžialenú matku, že si šaty predávať nedá, pokiaľ ona žije, že bude   robiť, čo ruky po lakte zoderie, kým nevyrobí a nezaplatí nájom, a do   tých
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    čias že im asnád len počkajú. Ale matku nemohla potešiť; lebo táto   dobre znala lakomosť a nemilosrdnosť notáriušovu a od márnika tiež   nebolo čomu úfať sa.
+   </tei:p>
+   <tei:p>
+    A tak vskutku stalo sa. Na druhý deň prišiel notáriuš s niekoľkými   úradskými do domu, prezrel, popísal a popečatil všetko, čo tam bolo,   shabal a popečatil i ich vlastné šaty. „Za týždeň,“ rečie, „môžete si   ešte svoje veci vymeniť; ale od teraz už ja ruku kladiem na ne, kým   nájom nebude zaplatený.“
+   </tei:p>
+   <tei:p>
+    Dosť ho Hanka prosila, aby im toho posmechu nerobil, že ona bude   deň a noc pracovať, že statočne zaplatia nájom od domu, len aby im   poshoveli; notáriuš mal kamenné srdce, jeho to nepohlo.
+   </tei:p>
+   <tei:p>
+    Blížila sa sobota; smutný ten deň v ktorý Zabydovská aj s dcérou   malý vypratať sa z domu. Ach nie vypratať, ved nemalý čo pratať, len   výnsť v jedných hábočkách, čo na sebe malý. A kde ? Do šíreho sveta;   lebo v dedine, v ktorej šaty s nich predávať budú, hanbily sa ostať.   — Y piatok
+   </tei:p>
+   <tei:p>
+    ﻿večer ich upomenul, desiatnik, že zajtra zavčas rána majú výnsť —   a matka s dcérou preplakaly celú noc.
+   </tei:p>
+   <tei:p>
+    Svitlo, — Na celom nebi nebolo videť obláčka, slnce svietilo, ako   by nikdy nemalo zapadnúť. Ach, či azda i ono tešilo sa z ich   nešťastia, ako mnohí v dedine ? Hoj tešilo, tešilo, ale nad blízkym   ukončením ich žiaľu a trápenia, nie nad nešťastím 1
+   </tei:p>
+   <tei:p>
+    Utrápená matka už držala kľučku v hrsti, že otvorí dvere, aby   vykročila z izby, v ktorej toľko žiaľu prežila, Hanka poobzerala sa   ešte raz po izbe. Včera ju vyriadila, vyčistila, aby vraj ľudia   nepovedali, že tu neČistotníci bývali; včera vybielila steny,   vyumývala stôl i lavice, vyutierala zrkadlo i obloky; včera posmetala   pavučiny — a hľa! — iste cez noc pavúk nasnoval —“ nad zrkadlom na   hrade visela zase veľká pavučina!
+   </tei:p>
+   <tei:p>
+    I nemohla to naša čistotná Hanka strpeť, aby ľudia nepovedali, že   pavučiny v dome nechala! Vezme metličku a vráti sa, kde
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿pavučina visela. Zatiahne metličkou — čo tb ? Zpod hrady vypadol   dákysi papier a za ním hned čosi štrnglo na stole. I zodvihne to   Hanka a podá materi. Táto rozkrúti papier a číta:
+   </tei:p>
+   <tei:p>
+    22
+   </tei:p>
+   <tei:p>
+    „V mene blahoslavenej Trojice! f f f Ja niže podpísaný, tušiac   blízku smrf, tento dom i so všetkým náradím, ktoré v ňom nachodí sa,   k tomu hotových päfdesiaf kusov Napoleonských dukátov, ktoré som si   vo vojne shospodáril, porúčam Hanke Zabydovskej za jej vernú službu,   ktorú mne chorľavému a úbohému lazárovi vždy z radosti a vdačne   dokazovala; a síce porúčam tak, že poneváč som si všetko toto   vlastnou pilnosfou nadobudol a zo starootcovského ničoho k tomu   nepridal, teda ani môj márnotratný brat, ani žiaden z mojej rodiny,   jestli by sa ktorá našla, nebudú mat do toho práva. Dané v   Orechovciach, dňa 6. marca roku Pána 1818. Ján Lasica, vyslúžilý   vojak.“
+   </tei:p>
+   <tei:p>
+    Zabydovská nemohla slova preriecf, zvlášte ked videla, že je písmo   dedinskou pe-
+   </tei:p>
+   <tei:p>
+    ﻿caťou potvrdené a notáriušovou rukou podpísané. Pozrela na dcéru,   padla jej okolo hrdla a plakala — nie od žiaľu, ako pred týždňom, ale   od radosti.
+   </tei:p>
+   <tei:p>
+    „Pán Boh nás zachránil od posmechu, dievka moja!“ —hovorila po   chvíli. „Toto písmo svedčí, že je dom náš, so všetkým, čo je v ňom —   tu je pečať dedinská a tu podpis notáriušov!“
+   </tei:p>
+   <tei:p>
+    Tak hľa, čistotnosť Hankina dopomohla k tomu, že spravodlivé   poručenstvo ona dostala; lebo celý úrad uznal písmo toto ža   spravodlivé a notáriuš, na ktorého sa dosvedčilo, že majetok Hankin   chcel s bratom Hasičovým skrivodlive užiť, bol sám s posmechom z   úradu zhodený.
+   </tei:p>
+   <tei:p>
+    Hanka dostala neskoršie poriadneho muža na prístupky do domu a   žijú po nich už aj detné deti a vždy statočne opatrujú sa, vždy si   dom čistotné a pekne riaďa.
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

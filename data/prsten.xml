@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1904308" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Prsteň : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84103218">
+     Čipka, JonatánDobroslav (1819 - 1861)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     7552
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Čipka, Jonatán Dobroslav
+     </tei:author>
+     <tei:title>
+      Prsteň
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1904
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PRSTEŇ﻿
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿Na pravom brehu Šajavy, neďaleko vysokého Radzíma, leží neveľká,   kedysi od Čechov založená, ale teraz už čisto slovenská dedina. Na   vyšnom konci stojí vysoký očemetý kaštieľ; pred kaštieľom štyri staré   lipy, vysoké ako veže, hrubé ako kochy. Na prvý pohľad poznať, že   stavanie toto už veľa rokov prečkalo. — Je to obydlie až posiaľ   žijúcej rodiny Chotínskovskej, Chotínskovci, ako chýry idú, boli vraj   kedysi príkladom dobrého, statočného panstva, opravdoví to otcovia   svojich poddaných.
+   </tei:p>
+   <tei:p>
+    Starý Šimún od poddaných, keď niečo
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    potrebovali, nežiadal nikdy hárkových prosieb, ale poshováral sa s   nini dôverne a čo uznal za spravodlivé, to prisúdil im bez všetkého   modlikania a kolenkovania. Jeho krásne hory holý svobodné pre každého   gazdu; nepotreboval iba do kaštieľa prísf a povedať: „Pán otec, pán   urodzený! staviam dom alebo stodolu, potreboval by som sto kusov   dreva“ — a dobrý kresťanský pán dal mu poldruha sta kusov, aby mu   vraj nebolo málo. Jeho plné sypáme boly otvorené na jar každému, koho   poznal, že sa usiluje a že drží slovo; bolo dosť, keď svojmu dobrému   pánovi povedal, že by rád orať, ale že nemá na siaťa, a on mu hneď   kázal vymerať, koľko potreboval, pod tou podmienkou, že to všetko   statočne navráti, keď mu zase Pán Boh požehná. A chrám Boží? — ten   bol vždy preplnený, že jablko nebolo by malo kde padnúť,, lebo zemské   panstvo od najväčšieho do najjmenšieho popredku išlo k službám Božím   a spoločne modlilo a prežehnávalo
+   </tei:p>
+   <tei:p>
+    ﻿sa so svojimi poddanými, spoločne s nimi spievalo nábožné piesne a   poslúchalo kňaza, vykladajúceho tajomstvá božské, dobre vediac, že   sníe pred Bohom všetci jedna rodina a že Pán Boh nerobí rozdielu   medzi pánom a sedliakom. Takto bolo tam kedysi. Poddanstvo volalo   Šimúna Chotínskeho dôverne pánom otcom a on ich zase úprimne volal   svojimi dietkami. Srdce skákalo od radosti každému sedliakovi,   kedykoľvek medzi nich prišiel a podlá svojej obyčaje hovoril: „Dietky   Božie, len sa usilujte a statočne držte, ja vám vo všetkom, kde budem   môcť, budem na pomoci.“ Ale toto všetko zrazu sa premenilo. Starý   Simún zomrel, a poddaným zo zlatých časov zostala iba pamiatka, iba   smutný spev: „Boly časy boly, ale sa minulý.“ Starý Simún, ako   hovorím, zomrel, a panstvo pripadlo na jeho syna Jána, ktorý dla   chýrov, že jeho mladší brat Bohuslav vo vojne zahynul, bol jedinným   dedičom, a ktorý, poneváč bol najviac v cudzine vy-
+   </tei:p>
+   <tei:p>
+    5
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    chovaný, svojich poddaných takmer ani nepoznal. Medzitým Simún   nezomrel bez toho, žeby nebol urobil poriadku i sám so sebou i so   svojím  Tak dobrý a nábožný pán ako on, nemohol   prekročiť do večnosti na taký spôsob. Cítiac, že sa blíži ostatná   hodinka, dal zavolať pána farára, svojho syna a dvoch vnukov a   pomodliac sa najskôr Pánu Bohu, takto začal hovoriť: „Syn môj   premilený! cítim, že sotva dnešný deň prežijem; chcem teda ešte s   tebou prehovoriť dôverné slovo a dať ti ostatné otcovské požehnanie.   A.ko som ti často hovorieval, náš rod je starý a je vo vážnosti v   celej krajine; ale na aký spôsob prišiel k zemianstvu a k tomuto   panstvu, to až posiaľ nevieš. Počúvaj teda, dieťa moje, všetko ti   vyrozprávam, ako som to od svojho umierajúceho’ otca počul a ako som   to rozpovedal i tvojmu, bohužiaľ už nebohému bratovi Bohuslavovi, ked   sa do vojny vystrájal. Y tejto našej dedine býval kedysi chu-
+   </tei:p>
+   <tei:p>
+    ﻿dobný síce, ale bohabojný sedliak. „Pomáhaj Pán Boh!“ bolo jeho   obyčajné pozdravenie, s tým prichádzaval do zámkov panských i do   chalúpok sedliackych. Pán Boh obdaril ho vraj silou tela, akou na ten   čas žiadon v dedine nemohol sa pochválil. Bol vysoký ako jedla, mocný   ako dub; päťročného dubca vytrhnú! bolo mu vraj hračkou a Sajavu   preskočil akoby nič. Všetci sa pred ním triasli, ked sa dakedy   nahneval a fažkou päsťou zahrozil. — Volali ho „Mocným Petrom.“ Za   starodávnych časov, ako si sa to hádam aj v školách učil, chodievali   nie len veľkí páni po svojich panstvách, ale aj sami kráľovia po   svojich krajinách, všakovak preoblečení, aby tak sami videli, kde je   chyba, a čo treba napraviť. Mocný Petro pásol statok na holiach. Bolo   to hned z jari, ked sa už role boly obrobily. Hudba liatych zvoncov,   ktoré statok na šijach nosil, ozývala sa po úbočiach a slávici   vyspevovali svoje podvečerné piesne. Ostatný blesk zapadajúceho slnka   ztra-
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    til sa a Petro sňal s hlavy široký klobúk, prežehnal sa a ďakoval   Bohu, že zase šťastlivé prežil jeden deň. V tom bolo v húšfave počuť   streliť. „Čo to?“ — strhol sa, dokončievajúc modlitbu. — „Kto tu   strieľa? čo? ak sú to zlí ľudia? a ak práve dakoho zastrelili? I   stisne v ruke ostrú valašku, ktorú vždy so sebou nosievaj, a v   okamžení zmizne v hustej bučine. Pod hrubým rozkonáreným bukom stálo   dvanásť chlapov — rovných, ako dvanásť liatych sviec. Stáli v kruhu,   husto jeden vedľa druhého, tak že Petro nemohol videť, čo v   prostriedku majú. Na boku ležal mrtvý človek s roztrepanou hlavou.   „Há! teda teba zronila guľka?“ pomyslel si Petro a stisnúc zuby,   skočil medzi zbojníkov, ktorí ho ešte neboli zbadali. „Pomáhaj Pán   Boh!“ zvolá podľa obyčaje a ostrá valaška zaligoce sa mu nad hlavou.   Ukrutná banda zdúpnela, vidiac, že ozornó chlapisko zvŕta im valaškou   nad hlavami.
+   </tei:p>
+   <tei:p>
+    ﻿Tu sa ozve na zemi ležiaci a tuho poviazanýmuž: „Dobrý človek, ak   si z Boha, zachráň ma!“ Krv valila sa mu z čela a to svedčilo, že je   nešťastný. — I stisne Petro zubami znovu, zvrtne sa tri razy okolo, a   polovica zbojníkov ležala mŕtva na zemi. Ostatní, vidiac   nebezpečenstvo a neslýchanú silu sedliakovu, rozutekali sa na všetky   strany — a nešťastný muž bol zachránený. Slzy vďačnosti zperlily sa v   očiach zachráneného, keď mocný Petro roztĺnal húžvy, ktorými bol   poviazaný. „Kto si, ochranca môjho života?“ padol mu okolo hrdla,   cítiac sa byt svobodným; „povedz, šľachetná duša, aby som sa ti mohol   odmeniť.“ „Odmeniť?“ zasmial sa Petro ; „čoby ste tam odmieňali? Veď   som ja to prvý raz neurobil a odmeny som nikdy nečakal, ani nežiadal.   Myslite radšej na to, ako sa dostanete do dediny a ako krv zastaviť.“   Bolo skutočne treba, aby sa mu zastavila krv, ktorá mu z čela   cícerkom tiekla,
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    lebo ľahko by bol mohol celkom z krvi ztiecť. I chytí ho Petro   popod pazuchy, privedie k blízkej čistej studničke, ranu vymyje a   pozaväzuje. „No, či tu so mnou prenocujete?“ opýta sa ho, naprávajúc   mu handričku na čele, „a či vás mám odprevadiť do dediny?“ „Rád by   som do dediny, lebo som slabý a potrebujem pomoc lekárovu“, odpovedal   ranený. „Teda dobre, chyťte sa ma okolo hrdla, za pol hodiny sme v   dedine; tam vás opatria, lebo si ja statok nemôžem cez noc samotný   nechať,“ hovoril Petro, a vezmúc raneného na chrbát, ponáhľal sa s   ním do dediny. O hodinu bol zase na holiach, tešiac sa v srdci, že   zachránil človeka. Ach, a ktože by mu bol mohol dať väčšiu odmenu,   ako bolo to povedomie, že zachránil človeka od smrti a vykonal svoju   kresťanskú povinnosť? Kto bol vlastne ten, koho zachránil, to nevedel   a o to sa ani nestaral; jemu bolo všetko jedno, nech bol ktokoľvek,   len si bol človek. —
+   </tei:p>
+   <tei:p>
+    ﻿Takto po.minuly dva mesiace. Petro pokojne pásal na holiach svoje   statky a zriedka kedy myslel na to, čo dobrého pred dvoma mesiacmi   urobil. Aj v dedine už málo o tom rozprávali, lebo tomu podobné Mocný   Petro už viac ráz bol vykonal. — Nikto teda na to nemyslel, ked tu   nenazdajky na prostried dediny zastane koč nevídanej krásy s   nádherným slúžobníctvom. Vážny, obstarný muž vykročil z neho,   opytujúc sa okolo stojacích ľudí, že kde býva Mocný Petro ?   Sbehávajúci sa ľudia nemohli pochopiť, čo tak veľký pán chce s Mocným   Petrom? a odprevádzali ho očima až do samého domu Petrovho. „Či ste   vy, môj drahý, Mocný Petro? spýtal sa pán pri kozube sediaceho a do   fajky si napchávajúceho Petra. „Tak ma ľudia volajú,“ odpovedal   tento. „A či ste vy zachránili nášho najmilostivejšieho kráľa pred   vražedlnou rukou zbojníckou ?“ „Kráľa? — ja som kráľa nikdy   nevidel
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    — nie, ja som kráľa nezachránil!“ zľakol sa Petro, vychytiac z úst   zapálenú fajku. „Áno, kráľa ste zachránili pred dvoma mesiacmi“,   pokračoval pán; „jeho verného sluhu už boli zastrelili, chybelo ešte   okamženie a — bola by osirotela celá krajina. Kráľ to bol, môj drahý,   kráľ, ktorý vo vašich horách zablúdil, a teraz odmeňuje sa vám   kráľovsky.“ Tu vyňal z peknej zlatej škatuľky krásny prsteň s velikým   čistým diamantom a stokýňajúc mu ho na prst hovoril: „Tento prsteň   noste na pamiatku od vášho kráľa; sú v ňom vyryté tie isté slová,   ktorými ste ho, skočiac medzi zbojníkov, pozdravili, a ktoré potešily   dušu utrápepeného panovníka, ako hlas nebeského anjela, — slová a   pozdravenie vaše „Pomáhaj Pán Boh,“ ktoré Otec nebeský vyslyšal.   Potom zase vyňal veliký list a podávajúc mu ho vravel: „Týmto listom   vás zase najjasnejší panovník pozdvihuje na zemianstvo, a žiada,
+   </tei:p>
+   <tei:p>
+    ﻿aby ste celá túto dedinu, ako znak vďačnosti od neho darom prijali   a pokojne i s vašimi potomky držali. Ja som tajný radca Jeho   Jasnosti, vyslaný tým cieľom, aby som vám prial šťastia v mene celej   slávnej kráľovskej rodiny a aby som vás uistil o zvláštnej   náklonnosti najjasnejšieho panovníka.“ Takto sa stal chudobný Petro,   bohatým pánom, prijmúc meno Chotínskeho, ako v liste kráľovskom   stálo, a my sme, syn môj, opravdoví potomci jeho.“ Tu na chvíľku   starý Simún umíknul, lebo dlhým hovorením bol sa unavil. Ale   vydýchnuc si dakoľko ráz a odkašľajúc si, stiahol s prsta zlatý   prsteň s veľkým diamantom a podávajúc ho synovi hovoril ďalej: „Syn   môj úprimný! Toto je ten kráľovský dar, ktorým náš rod právom môže sa   honosiť. Ako vidíš, úprimné slovenské pozdravenie nášho pradeda   „Pomáhaj Pán Boh!“ je v ňom vyryté. Tento prsteň je najväčší a   najzvláštnejší poklad našej ro-
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    diny; zdá sa, že na ňom a v ňom leží Božie požehnanie. Od viac sto   rokov ide tento klenót s otca na syna a vždy dáva sa prvorodzenému. I   ja ho teda tebe porúčam, aby si ho varoval, ako dve oči, jestli nie   pre inšie, aspoň ako starobylosť rodu nášho. V čas potreby, predaj   zeme, lúky, predaj dom i statky — ale prsteň tento zachovaj potomkom   svojim.“ Tieto posledné slová s takou horlivosťou povedal otec Simún,   že zase musel si odkašlať a oddýchnuť. Potom slabým hlasom hovoril   ďalej: „Tvoj brat Bohuslav, dieťa moje, ako ti je známo, umrel   bojujúc za vlasť proti dotieravým Francúzom. Budeš teda samojediný   vládnuť chotínskym panstvom. Poddanstvo, ako počúvam, bojí sa ťa, že   budeš prísny a nemilosrdný; ale to iste len preto, že ta nepozná.   Nie! — ja umrem s tým presvedčením, že potomok chudobného sedliaka,   Mocného Petra, nezabudne na to, že i on pochodí zo sedliackej krvi! —   A práve preto tak úprimne a obšírne vyrozprával
+   </tei:p>
+   <tei:p>
+    ﻿som tí pôvod rodu nášho, aby si sa rozpamätal, kedykoľvek naplní   sa ti srdce hnevom a omrzlosfou, že ako celé zemianstvo, tak aj náš   rod pochodí len z ľudskej krvi, :— že sme tedy pôvodne nič nie   viacej, ako ktorýkoľvek náš poddaný! — Buď dobrým otcom a nie   ukrutným pánom svojich poddaných a oni ta budú miloval a požehnávať.   Oj, drahé deti moje, keby som vám môjho ducha a moje smýšľanie mohol   do srdca vdýchnuť: viem, žeby ste i vy i vaši poddaní boli šťastní.   —- Poďte, nech vás ešte ostatný raz vyobjímam a vybozkávam.“ Malí   vnukovia sa rozplakali, syn padol otcovi okolo hrdla a na boku   sediaci pán farár vzdychol, utierajúc si slzu: „Iste, iste na takýto   spôsob musí syn zdediť otcovho ducha, otcovo .smýšľanie!“ Keď sa   trochu utíšil, obrátil sa Simún k pánu farárovi, prosiac ho, aby sa s   ním pomodlil a podľa kresťanskej obyčaje skrze velebnú sviatosť   oltárnu smieril ho s Pánom Bohom.
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    Tu rozkázal otvoril dvere, a poddanstvo, ktoré na dvore bolo valne   shromaždené, vnišlo tichým krokom do izby, kde chorý pán ležal, aby   bolo svedkom jeho poslednej nábožnosti a aby pomodlilo sa za spasenie   duše svojho dobrého pána.
+   </tei:p>
+   <tei:p>
+    Najstarší pokľakali si najbližšie ku posteli, za nimi mužovia v   strednom veku, potom dorastajúca silná mládež. Ach, všetci, všetci,   od najmladšieho do najstaršieho, boli by radi vymodlili od Pána Boha,   aby im dobrého pána ešte i dalej na zemi zanechal.
+   </tei:p>
+   <tei:p>
+    Ale Pán Boh v svojej múdrej rade ustanovil ináč. Po vykonanom   nábožnom skutku a po prijatí svätej večere Kristovej bol starý pán   tichý a pokojný, smierený so zemou i s nebom. — „Vcfačne umrera,“   hovoril ešte k shromaždenému poddanstvu, „vďačne umrem, deti moje 1   veď smrí krestanovi nie je nič strašného ! Pán Boh nech vám pomáha!   Pán Boh nech vás požehná! Buďte verní môjmu synovi, ako ste mne boli!   milujte ho, ako ste mňa milovali! — A vám, velebný pane, ďakujem za   toto horlivé po-
+   </tei:p>
+   <tei:p>
+    ﻿sllnenlé vo viere a v nádeji! Ale mám k vám ešte jednu prosbu!   Týchto mojich malých vnučkov vychovávajte vy, velebný pane, v bázni   Božej a zaštepte im do srdca lásku ku všetkým ľudom, zvlášte ku   svojim poddaným, lebo len tak budú šťastní na zemi!“
+   </tei:p>
+   <tei:p>
+    To boíy ostatné slová jeho. Obrátil sa na druhý bok a usnul. Ach,   a ten sen bol sen večný, z ktorého na tejto zemi neprecítne, — iba   ked príde Spasiteľ, aby vzkriesil pokolenie ľudské k poslednému súdu   . . •
+   </tei:p>
+   <tei:p>
+    Nábožný kňaz, vidiac, že starý pán dokonal, vstal so stoličky, na   ktorej sedel, a obrátiac sa k slziacim sedliakom, zvolal: „Moji milí!   Tak pokojne umiera opravdový kresťan!“
+   </tei:p>
+   <tei:p>
+    Ján Chotínsky po smrti otcovej stal sa samostatnom pánom.   Poddanstvo, ktoré ho pri smrti starého pána videlo slziť, tešilo sa,   že bude dobrým, ako býval jeho otec. Ale, bohužiaľ, táto nádeja ich   sklamala.
+   </tei:p>
+   <tei:p>
+    Pán Ján Chotínsky, ktorý preto, že medzi slovenským ľudom   nezrástol, nevedel ho
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    2
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    ani Túbiť, a za príkladom mnohých iných lipnul k reči a národnosti   maďarskej; naproti tomu reč a národnosf slovenskú a celý národ, z   ktorého krvi i on sám pochádzal, kde len mohol, vysmieval, znevažoval   a prenasledoval, súc omámený tou myšlienkou, že v krátkom čase musí   sa pomaďarčiť celá krajina. V horlivosti svojej išel tak ďaleko, že   poddaným svojim naložil, aby, keď niečo chcú dostať, podali pred neho   prosbu napísanú v maďarskej reči. To celú dedinu naplnilo hlbohým   smútkom a veru neraz najmä starších, ktorí ešte jeho otca dobre   poznali, bolo počuť boľastne vzdychať, kedykoľvek z kaštieľa domov   prichádzali; „Oj, škoda, škoda starého pána! s tým sme sa vždy   dôverne shovárali, a tento nám nedá ani len pristúpiť k sebe!“ —-
+   </tei:p>
+   <tei:p>
+    Ale najhoršie bolo, to, že si slovenskú reč na • toľko zhnusil, že   ani slovo Božie v tejto reči nechcel poslúchať, a poneváč v kostole   ináč sa nekázalo, na pocty Božie ani nikdy nechodieval.
+   </tei:p>
+   <tei:p>
+    Pánu učiteľovi naložil, aby v škole všetko
+   </tei:p>
+   <tei:p>
+    ﻿Učil po maďarsky, a tento obávajúc sa, aby neprišiel o chlieb,   plnil rozkaz zemského pána. Ale práve to bol kameň urážky! Otcovia a   matky, ktorí zo svojich clietok chceli vychovať nie Maďarov, ale   kresťanov, vidiac, že sa v škole pre samé slovíčka, geografie a   histórie maďarské z náboženstva a iných potrebných známostí temer nič   neučia, nechceli ich ta posielať, ale radšej si ich doma sami   učievali nábožné modlitby a prenikavé piesne.
+   </tei:p>
+   <tei:p>
+    To Chotínského náramne mrzelo. Dal celú dedinu sohnať a napomínal   ich prísne, aby svoje deti dali maďarsky vyučovať. A keď sa títo   verejne osvedčili, že oni chcú, aby ich deti Slovákmi ostaly,   rozhnevaný Udrel päsťou na stôl a zvolal: „Veď sa vám ja   odslúžim!“
+   </tei:p>
+   <tei:p>
+    Od toho času bol na poddaných mrchavý, ako čert.. Každú triesočku   dreva museli si kupovať za drahý peniaz a na panskô museli chodiť   práve vtedy, keď sami mali najpilnejšiu robotu.
+   </tei:p>
+   <tei:p>
+    A toto boly tie časy, kde sa medzi jeho
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿Pán farár, dľa poručenia umierajúceho starého otca, až posial   vychovával mladých pánov. Starší asi šestnásťročný, volal sa Ján, na   otca; mladší asi dvanásťročný, Bohuslav, na strýka.
+   </tei:p>
+   <tei:p>
+    Priblížila sa jaseň a šestnásťročný Ján vybral sa do Kečkemétu,   aby sa vraj madarsky dokonále naučil. Dvanásťročný Bohuslav ostal   ešte u pána farára.
+   </tei:p>
+   <tei:p>
+    Odchádzajúcemu Jánovi otec prísne naložil, aby už od toho času   vždy len po madarsky hovoril a len maďarské listy písal, lebo že   slovenčina je vraj len sedliacka reč, ale maďarčina že je reč panskál   Pán farár sa zasmial, keď toto počul.
+   </tei:p>
+   <tei:p>
+    lebo nemohol pochopit, ako človek, ktorý pokladá sa za vzdelaného,   môže takto hovoriť.
+   </tei:p>
+   <tei:p>
+    Dvanásťročný Bohuslav ostal teda u pána farára, a tento, pamätajúc   na svoju povinnosť a na ostatné slová starého pána, vy-
+   </tei:p>
+   <tei:p>
+    ozývala tá smutná „Boly íly, ale sa minulý!“ —
+   </tei:p>
+   <tei:p>
+    20
+   </tei:p>
+   <tei:p>
+    ﻿chová val ho v bohabojnosti a zastupoval clo jeho mladého srdiečka   lásku ku všetkým
+   </tei:p>
+   <tei:p>
+    ľudom.
+   </tei:p>
+   <tei:p>
+    Kaz, prechádzajúc sa po brehoch Šajavy, stretli mizerného   žobráčika, ktorý ich raa.darským jazykom prosil o almužnu. Pán farár   čiahol do vrecka, vyňal pár krajciarov a podávajúc ich žobrákovi,   potešil ho v jeho prirodzenej reči.
+   </tei:p>
+   <tei:p>
+    Malý Bohuslav veľmi sa čudoval, že žobrák po madarsky hovorí, lebo   si myslel, že žobrákom môže byt iba Slovák. „Ale, staričký,“ spýtal   sa ho prívetivé, „či vy neviete po slovensky ?“ — „Nem értem,   úrfiacskám, ón magyar vagyok!“ (Nerozumiem, mladý pánko, ja som   Madar) — odpovedal žobrák.
+   </tei:p>
+   <tei:p>
+    „Tak je to predsa nie pravda, čo otec Jankovi hovoril, že je   madarčina reč panská ! tento je žobrák a predsa nevie iba po   madarsky,“ hovoril obrátiac sa k pánu farárovi.
+   </tei:p>
+   <tei:p>
+    „Bohuslavko môj!“ — chytil ho nábožný muž za ruku — „to pán otec   len zo žartu
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    povedal; i medzi Maďarmi jesto dosť chudobných ľudí, práve tak,   ako medzi Slovákmi bohatých. A vôbec o žiadnej reči nemožno povedať,   žeby bola sedliacka alebo panská.
+   </tei:p>
+   <tei:p>
+    „Ale páni, čo k nám chodia, všetci hovoria po maďarsky“ —   odpovedal Bohuš.
+   </tei:p>
+   <tei:p>
+    „Pravda, syn môj, ale sú preto nie-všetci Maďari. Vidíš, ja s   pánom otcom tiež maďarsky hovorievam, lebo viem, žeby mu to nebolo   milé, keby som sa mu po slovensky prihovoril; ale preto svoj   slovenský jazyk ľúbim, a za to, že som Slovák, sa nehanbím“ —   vysvetlil mu to farár.
+   </tei:p>
+   <tei:p>
+    „Ale otec hovorieva, že sú Slováci vraj sprostí a my že musíme byt   Maďarmi, ak chceme byť múdrymi“ — nadhodil zase Bohuš.
+   </tei:p>
+   <tei:p>
+    „Pán otec rozumie, len sedliakov, a sedliaci i medzi Maďarmi najdú   sa sprostí, ba v nejednom ohľade sprostejší od Slovákov. Vidíš, syn   môj, i ja som tak by som teda i ja múl byt sprostý ?“
+   </tei:p>
+   <tei:p>
+    „To nie“ — začervenal sa Bohuš — „na
+   </tei:p>
+   <tei:p>
+    ﻿vás aj pán otec povedal, že ste veľmi múdry, žeby som vás len   poslúchal vo všetkom. Ale druhí Slováci vraj sú sprostí.“
+   </tei:p>
+   <tei:p>
+    „Ani o druhých nemôže sa to celkom povedať. Tvoj nebohý strýčik   Bohuslav — Pán Boh mu daj slávu večnú! — držal sa tiež za Slováka,   najradšej hovorieval po slovensky a Slovákov zastával kde len mohol —   a to bol veru veľmi múdry a učený človek!“
+   </tei:p>
+   <tei:p>
+    „Ale že je Madarov viac, ako Slovákov,“ povie zase Bohuš, hľadiac   pánu farárovi do očú.
+   </tei:p>
+   <tei:p>
+    „V uhorskej krajine možno, že ich je viac“, odpovedal kňaz, tešiac   sa, že sa chlapec pustil do takej rozprávky, kde mu bludné domnenie   bude môcť z vyraziť, „ačpráve o tom sa aj pochybuje; ale na celom   svete je Slovákov alebo vlastne Slovanov šestnásť ráz viac ako   Madarov. Týchto je niečo vyše päť rnillionov a tamtých je skoro sto.   Lebo musíš vedeť, syn môj, že ■po slovansky hovoria Rusi, Poliaci,   Česi, Horvati, Srbi, Bulhari atd.“
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+   <tei:p>
+    ﻿„Tak sú teda títo všetci Slováci?! — divil sa Bohuš.
+   </tei:p>
+   <tei:p>
+    24
+   </tei:p>
+   <tei:p>
+    „Slováci sú. vlastne len tí, čo okolo Tatier bývajú, ale Slovania   sú všetci. Oni sa spolu rozumejú a považujú sa za jeden národ“—   objasnil mu túto vec kňaz.
+   </tei:p>
+   <tei:p>
+    „Tak teda by som ja, pán farár, aj Poliaka a Rusa mohol rozumef   ?“
+   </tei:p>
+   <tei:p>
+    „Nuž a s tými, čo z Poľskej k nám prichádzajú na kosbu, či si sa   často neshovával?“
+   </tei:p>
+   <tei:p>
+    „A či Poliaci tak hovoria? — ved je lo temer tak, ako po   slovensky!“
+   </tei:p>
+   <tei:p>
+    „Taký asi rozdiel je aj medzi ostatnými nárečiami slovanskými.   Slovák shovorí sa ľahko so všetkými a so svojou rečou prejde temer   pol Európy. Nuž čo by sa teda mal za takýto rozšírený jazyk hanbit ?   A v druhých krajinách aj grófi, kniežatá, ba i sami kráľovia   slovansky hovoria. — A čože svedčí i ten prsteň so slovenským   nápisom, ktorý tvoj otec na prste nosí, — či nie to, že predtým ani   kráľovia nehanbili sa za slo* venskú reč?“
+   </tei:p>
+   <tei:p>
+    ﻿„Ja teda radšej budem Slovákom, ako Macfarom“, hrdo odpovedal   Bohuslav, „keď je Slovanov viac ako šestnásť ráz viacej!“
+   </tei:p>
+   <tei:p>
+    „Nie tak, syn môj“ — usmial sa farár — aby si len preto mal byt   Slovákom, že je týchto viac; ale preto máš byt Slovákom, že pochádzaš   zo slovenskej krvi, že slovenčina ti je reč materinská. Vidíš, syn   môj, keby si ty tvoju slovenskú reč potupil, tak by sľ potupil aj   svoju matku, aj svojho starého otca, ktorých tak často spomínaš, a   ktorých si tak rád videl, lebo títo obidvaja najradšej slovensky   hovorievali.“
+   </tei:p>
+   <tei:p>
+    Bohuslayovi zperlily sa slzy v očiach, keď pán farár spomenul   matku a starého otca.
+   </tei:p>
+   <tei:p>
+    „Ja od tohoto času nebudem sa maďarsky učif!“ preriekol po chvíli   zodvihnúc slzavé oči na pána farára, „lebo ani moja matka nevedela po   maďarsky!“
+   </tei:p>
+   <tei:p>
+    „Pán Boh zachovaj, diéta moje!“ dohováral mu kňaz, „ty sa maďarsky   budeš učif, aby si trebárs ešte lepšie po maďarsky vedel, ako sami   rodení Maďari. Ale pri tom
+   </tei:p>
+   <tei:p>
+    25
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    všetkom môžeš verným ostaí svojmu národu, — svoju materinskú reč   pri tom všetkom môžeš najradšej videí, slovenské knihy najradšej   čítať, a Slovákov, kde by sa im robila krivda, zastávať a dla   možnosti napomáhať ich šťastie a osvetu.“
+   </tei:p>
+   <tei:p>
+    Takto sa shováral nábožný a svojmu národu verne oddaný farár so   svojím učedlníkom, a malý Bohuslav vrátil sa domov s tým pevným   úmyslom, že bude a ostane Slovákom, ale že aj maďarsky dobre sa   naučí.
+   </tei:p>
+   <tei:p>
+    A to bolo rozumne, chvalitebne! Hej, keby všetci slovenskí šuhajci   nosili v srdci svojom takéto úmysly, tak náš slovenský kraj   rozzelenal by sa v krátkom čase . . .
+   </tei:p>
+   <tei:p>
+    Pominutý dva roky. Z Kečkemétu očakávali Jána, ktorý každý mesiac   maďarské \listy písaval a reč túto, ako to z nich bolo poznať, vedel   už dosť dobre. Otec tešil sa na príchod syria ; tešil sa i Bohuslav   na príchod brata; len pán farár nepokojne krútil hlavou, keď čítal   posledný jeho list. Stály v ňom slová, ktorých neočakával. „Mrzí
+   </tei:p>
+   <tei:p>
+    ﻿ma,“ — stálo tam — „že medzi tých sprostých prekliatych Slovákov   musím sa navrátiť. “
+   </tei:p>
+   <tei:p>
+    Otcovi, ktorý o Slovákoch sám lepšie nezmýšľal, to sa pravda   páčilo. Ale farár ťažko, vzdychával, keď počul, že to otec schvaľuje.   „Beda“ — myslel si — „beda tomu poddanstvu, ktoré dostane ss pod ruku   takým pánom, ktorí ho menujú sprostým a prekliatym.“ Videl dobre   tento muž, že už i nevinné srdce Jánovo naplnené je nenávisťou proti   svojmu vlastnému národu a bludnými nádejami o pomaďarčení celej   krajiny-
+   </tei:p>
+   <tei:p>
+    O pár dní zahrmel pod oblokmi krásny koč, a túžobne čakaný Ján bol   doma. Biela okrúhla tvár, veľké sivé oči, vysoké hladké čelo, pekné   gaštanové vlasy, čistý prenikavý hlas, všetko toto ukazovalo na   slovenského mládenca, len reč jeho svedčila, že prichádza z   kečkemétskéj pustatiny.
+   </tei:p>
+   <tei:p>
+    Otec ho objal a pobozkal; objal ho i Bohuš plný radosti, so   slovami: „vítam ťa, brat môj drahý!“ Ach, ale tento chladne
+   </tei:p>
+   <tei:p>
+    27
+   </tei:p>
+   <tei:p>
+    ﻿28
+   </tei:p>
+   <tei:p>
+    odtisol úprimného brata, pozrúc mu prísne do očú: „Či v našom dome   ešte vždy tá sprostá slovenčina panuje?“
+   </tei:p>
+   <tei:p>
+    Bohusiav cítil ostrosť bratových slov. Chcel mu odpovedať, ale mu   otec predchytil reč; „Tak, syn môj,“ zvolal radostne, potľapkávajúc   Jána — „tak, vyškoľ ho, on hovorí, že bude Slovákom!“
+   </tei:p>
+   <tei:p>
+    „Ha, ha, ha!“ rozosmial sa zmadarčený Ján — „teda ku pluhu s ním!   Slováci sú stvorení ku pluhu, nech orie, keď chce byt Slovákom!“
+   </tei:p>
+   <tei:p>
+    -Bohuslava slzy zalialy. Nemyslel, že ho vlastn}? brat, ktorého   tak úprimne miloval, na ktorého príchod tak srdečne sa tešil, takýmto   chladným spôsobom privíta.
+   </tei:p>
+   <tei:p>
+    Prihovárali sa mu i starí slúžobníci, najmä ale jeho bývalá   pestúnka. Úbohá, od dvoch týždňov iba o ňom. hovorila, tak   netrpezlivo ho čakala, a on keď sa mu prihovárala, sotva jej   odpovedal, šeptajúc otcovi po maďarsky: „nemôžem vystáť toto sprosté   slovenské plemä!“ A to všetkých náramne bolelo.
+   </tei:p>
+   <tei:p>
+    ﻿Hoj, mladí páni, aj vaša čelíadka má srdce! — aj vaše poddanstvo   cíti krivdu! – ak chcete, aby vás ono rado videlo, musíte ho aj vy   radi videf, ináče bude sa len triasf pred vami, ale lúbif vás   nebude!
+   </tei:p>
+   <tei:p>
+    Na druhú jaseň i Bohuslav musel íst do Kečkemétu, otec mrzel sa na   farára, že mu takých myšlienok nabil do hlavy, a domnieval sa, že ho   Kečkemét pomaďarčí, ako pomaďarčil Jána. Ale sa zmýlil. Bohuslav tri   roky strávil medzi Maďarmi, ale slovenskú reč predsa vždy miloval.   Maďarsky naučil sa dokonálejšie ako Ján, ale slovensky najradšej   hovorieval a slovenské knihy najradšej čítaval.
+   </tei:p>
+   <tei:p>
+    Takto šiel rok za rokom, až sa i Ján Chotínsky, syn Simúna,   sostarel a dvaja mladí Chotínskovci osiroteli. Prsteň so slovenským   nápisom dostal Ján, ako prvorodzený. Už jeho otca mrzelo, že nápis na   tomto drahom klenote rodiny Chotínskovskej bol slovenský, lebo mu   farár vždy vyhadzoval na oči, že je i on Slovák, že to svedčí nápis   na prsteni. Ale vážnosť a úcta
+   </tei:p>
+   <tei:p>
+    29
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    naproti tejto starobylej pamiatke zbraňovala mu ten   prsteň-odhodiť.
+   </tei:p>
+   <tei:p>
+    A mladý Ján? ten vďačne holby dal polovicu svojho panstva, keby sa   tento nápis bol mohol premeniť na maďarský! A niet sa mu čo diviť.   Jeho otec odovzdal mu ho chladne, nie s takou vážnosťou , a   sviatosťou, ako to starý Simún bol urobil.
+   </tei:p>
+   <tei:p>
+    Raz boli sa s bratom strany národnosti podohadovali. „Nečudoval by   som sa ti, brat môj“, dohováral Bohuslavovi, „že slovenčinu zastávaš,   keby si bol sedliak, —- ale uhorský zeman !“
+   </tei:p>
+   <tei:p>
+    „Nuž, a či uhorský zeman každý musí byť Maďarom?“ — odpovedal   vážne Bohuslav. •— „Pozri na prsteň, aký že je na ňom nápis? Či to   slovenské pozdravenie nesvedčí, že ten kráľ, z ktorého milosti stali   sme sa zemanmi, nášho pradeda ako Slováka povýšil na zemianstvo ?! A   keby bol chcel, aby Sme sa pomaďarčili, či by nebol dal doň maďarské   pozdravenie vyryť?
+   </tei:p>
+   <tei:p>
+    Ján nevedel, čo má odpovedať Bohuslavovi, ktorý ho touto rečou   dôkladne za-
+   </tei:p>
+   <tei:p>
+    ﻿vrátil. I strhne s prsta svätú pamiatku a zateremtetujúc hodí ju o   zem celou silou: „nech čerti“ — vraj — „nosia takéto prstene!“ —   Nesmyselník! zabudol, čo starý otec hovoril na smrteľnej posteli, že   je to najväčší a najzvláštnejší poklad rodiny Chotínskovskej a že,   zdá sa, ako by na ňom ležalo Božie požehnanie? — Ale tak to býva:   prepiatá horlivosť neváži si ani najsvätejšie veci, -— prepiatá   horlivosť necíti úcty ani proti takýmto starobylým pamiatkam   rodinným!
+   </tei:p>
+   <tei:p>
+    Asi o tri dni prišiel Bohuslav náhodou ku zlatníkovi v susednom   mestečku. Tento ho úctivé privítal, lebo poznal ho už dávno ako   statočného mladého pána. I shovárali sa dôverne o všeličom. Tu naraz   vstane zlatník, vyne z kasne zlatý prsteň a podá ho Bohuslavovi: „či   tento klenot poznáte, mladý pane?“
+   </tei:p>
+   <tei:p>
+    Bohuslav sa zľakol, vidiac, že je to pamätný prsteň rodiny   Chotínskovskej so slovenským nápisom.
+   </tei:p>
+   <tei:p>
+    „Poznám“ — odpovedal po chvíli, uprúc
+   </tei:p>
+   <tei:p>
+    31
+   </tei:p>
+   <tei:p>
+    ﻿32
+   </tei:p>
+   <tei:p>
+    oči na zlatníka, ako by mu cez dušu bol chcel prezret — „a čo ten   prsteň u vás robí ?“
+   </tei:p>
+   <tei:p>
+    Zlatník pokrčil pleciami a riekol: „mám rozkaz, aby som ho   prerobil!“
+   </tei:p>
+   <tei:p>
+    „Prerobiť?! A kto vám to rozkázal?!“ skočil mu zadivený Bohuslav   do reči.
+   </tei:p>
+   <tei:p>
+    „Môj brat? —• či ho slepá horlivosť už tak daleko zaviedla ?! A Čo   máte s ním robiť?“
+   </tei:p>
+   <tei:p>
+    „Mám ho prekovať a vyryť do neho madeirský nápis.“
+   </tei:p>
+   <tei:p>
+    „Madarský nápis?!“ vykríkol Bohuslav. „Teda už ani na tejto   starootcovskej pamiatke, ani na kráľovskom dare nechce trpeť   slovenskej reči?! Bože, Bože, či to už daleko prišlo!“
+   </tei:p>
+   <tei:p>
+    Tu sa zamyslel. Prešiel si rukou pár ráz po tvári a skočiac so   stoličky, chytil zlatníka dôverne za ruku: „Pán majster, ja viem, že   ste vy statočný človek, viem, že nerád by ste sa dopustiť klamu; ale   myslím aj to, že k takýmto starobylým pa-
+   </tei:p>
+   <tei:p>
+    „Yáš pán brat!“ odpovedal zlatník.
+   </tei:p>
+   <tei:p>
+    ﻿mlatkam cítite v srdci väčšiu úctu, ako môj brat. Ak ma radi máte,   ten prsteň neprerábajte!“
+   </tei:p>
+   <tei:p>
+    „A čo poviem vášmu pánu bratovi?“
+   </tei:p>
+   <tei:p>
+    „Spravte druhý prsteň, tomuto podobný, a vyryte mu doň madarský   nápis — nech si ho má! Ja vám zaň statočne zaplatím a tento zadržím   si pre seba!“
+   </tei:p>
+   <tei:p>
+    Zlatník pokrútil hlavou: „A jestli by sa o tom váš pán brat   dozvedel?“
+   </tei:p>
+   <tei:p>
+    „On sa o tom nedozvie; ja budem mlčať a vy tiež! — Pre Boha vás   prosím, urobte mi to k vôli, prácu vašu zaplatím vára dvojnásobne!“   ,
+   </tei:p>
+   <tei:p>
+    Zlatník mlčal. A Bohuslav hľadiac mu do očú, netrpelive čakal na   odpoved.
+   </tei:p>
+   <tei:p>
+    „Nechže teda bude !“ preriekol po chvíli majster, —■ „ale   dvojnásobnej pláce neprijmem ; nie, to neurobím, lebo to by tak   vyzeralo, ako keby som si chcel svedomie predať. Ale vám k vôli —•   vám k vôli to Urobím, lebo vás poznám.“
+   </tei:p>
+   <tei:p>
+    Takto sa zachránila táto drahá pamiatka
+   </tei:p>
+   <tei:p>
+    33
+   </tei:p>
+   <tei:p>
+    3
+   </tei:p>
+   <tei:p>
+    ﻿34
+   </tei:p>
+   <tei:p>
+    a Bohuslav, majúc prsteň v ruke, pritisol ho k ústam, požehnávajúc   ten okamih, v ktorom prekročil prah dverí zlatníkových.
+   </tei:p>
+   <tei:p>
+    Od toho času ani jeden z bratov nespomenul starootcovský prsteň,   Ján mlčal. Bezpochyby ostíchal sa vyjaviť pred bratom, čoho sa   dopustil; bezpochyby mu svedomie šeptalo, že zneuctil dávno   spráchnivelé kosti Petra Mocného, svojho pradeda. A Bohusláv mlčal   tiež, ťažko vzdychnúc za každým, kedykoľvek stretlo sa jeho oko s   novým prsteňom na bratovej ruke.
+   </tei:p>
+   <tei:p>
+    Bratia tak nerovného srdca a smýšľania, ako bol Ján a Bohuslav,   nemohli dlho na jednom chlebe obstáť a v jednom dome bývať. Ján   chcel, aby sa nikto v dome neopovážil slovensky hovoriť — a Bohuslav,   ten. zase s čeliadkou shováral sa vždy len po slovensky.
+   </tei:p>
+   <tei:p>
+    To bola príčina, že sa často zharušili a napokon docela   rozdelili.
+   </tei:p>
+   <tei:p>
+    Bohuslav vystavil si kaštieľ na druhom konci dediny. Pred oblokmi   na preddomŕ stály dve mladé lipky. Za domom bola stro-
+   </tei:p>
+   <tei:p>
+    ﻿mová záhrada. Každý z jeho poddaných dostal darom dva štepíky, aby   si ich zasa* dil pred dom, a okrem toho prútikov na štepenie koľko   kto potreboval. Bohuslav bol opravdovým otcom svojich poddaných; on   sa udal tak hovorila celá dedina — na starého otca Šimúna, A to bola   pravda, lebo i on, ako jeho starý otec, miloval a napomáhal ich,   nakoľko len mohol. Nuž a či to mohlo ináč byt ? vecí Bohuslav tiež   držal sa za Slováka, ako jeho poddaní, — ved on tiež v tej reči Pána   Boha vzýval, ■— ved spoločne s nimi Pánu, Bohu sa modlieval, -“* ved   jeho žiadosť bola, aby Slovákom holo dobre, aby boli šťastní: ako že   by teda bol mohol zle nakladať so svojimi slovenskými poddanými   ?!
+   </tei:p>
+   <tei:p>
+    Ale inakšie bolo to s tými, čo sa dostali jeho bratovi. Tento im   nikdy nedal pekného prívetivého slova. S- teremtettovaním ich vítal a   s, teremtettovaním prepúšťal, lebo. — ako viemepovažoval ich za   sprostých, prekliatych Slovákov.  sedliaci, dosť čo cez deň   vyrobili sa na panskom —
+   </tei:p>
+   <tei:p>
+    35
+   </tei:p>
+   <tei:p>
+    ﻿36
+   </tei:p>
+   <tei:p>
+    a za odmenu od pána nedostali ani len pekného slova!
+   </tei:p>
+   <tei:p>
+    Ktorému z týchto dvoch bratov vodilo sa lepšie, to moji mladí   čitatelia ľahko uhádnu. Naozaj tak sa zdalo, ako čo by v   starootcovskom prsteni bolo ležalo Božie požehnánie, — ako čo by Otec   nebeský tú kráľovskú žiadosť „Pomáhaj Pán Boh l* — ktorú vdačný kráľ   v prsteni bol poslal Mocnému Petrovi -— naozaj chcel vyplniť.   Bohuslav bol jeden z najmajetnejších pánov v celom okolí. Jeho zeme   boly vždy najlepšie pokosené, lebo poddaní radi ho videli a každý   usiloval sa panštinu čím najvernejšie odparovať.
+   </tei:p>
+   <tei:p>
+    Naproti tomu jeho brat Ján, ktorý odcudzil si srdce svojich   poddaných,, klesal v hospodárstve so dňa na deň, lebo poddaní, vidiac   jeho studenost a nenávisť naproti sebe-, obrábali mu role z nechuti,   len tak nasilu — a silená vec nikdy vraj dobrá nebýva. K tomu   pripojilo sa ešte jeho každodenné ýhajdákanie so sebe rovnými   rozpálenými a prepiatými mladými pánmi, ktorí
+   </tei:p>
+   <tei:p>
+    ﻿deň po dni dvíhali a vyprázdňovali poháriky na rozkvet vlasti, —   tak že poddaní jeden za druhým dostali sa do zálohu, až na ostatok   všetko prišlo na bubon a on prinútený bol žiť len práve z lásky a   dobroty bratovej.
+   </tei:p>
+   <tei:p>
+    Takto pominulo zase niekoľko mesiacov, Ján, ktorého tlačila   chudoba a nedostatok, stal sa pokornejším; ale o Slovákoch ešte vždy   posmešne hovorieval, sa za Madara — z čoho, pravda, musel sa celý   svet len smiat
+   </tei:p>
+   <tei:p>
+    Raz z jari sedeli s bratom pod rozvíjajúcimi sa lipami, pred   kaštieľom Bohuslavovým. Bolo to práve na mraku. Ján paprúc palicou v   piesku, preklínal osud, ktorý uvrhol ho do takej chudoby, a Bohuslav   potešoval nepokojného brata, že je Pán Boh dobrý, že to všetko môže   sa ešte napraviť, a že mu on vdačne v čomkoľvek poslúži. V tom vŕzly   dvercia na bráne. Bratia zodvihnú oči a vidia neznámeho muža,   nesúceho v ruke zapečatený list
+   </tei:p>
+   <tei:p>
+    37
+   </tei:p>
+   <tei:p>
+    ﻿38
+   </tei:p>
+   <tei:p>
+    „Prosím, páni moji“, — uklonil sa úctivé pred nimi — „či tu bývajú   Chotínskovci?“ „Tu !“ odpovedali zrazu obidvaja — „čože dobrého   ?“
+   </tei:p>
+   <tei:p>
+    „Tento list prichádza z Paríža; ako ráčite videí, adressovaný je   na pánov Chotínskovcov. Ja som poštár z Rožňavy, chcem ho Vašim   Milostiam sám oddaf, lebo je zvláštne rekomandovaný!“ odpovedal   poštár.
+   </tei:p>
+   <tei:p>
+    Bohuslav, ponúknul poštára, aby si sadol, vzal mu list z niky,   pozrel na adressu a rozpečatil ho.
+   </tei:p>
+   <tei:p>
+    „Brat môj drahý!“ skríknul po chvíli ■plný radosti, obrátiac sa k   Jánovi — „náš strýk Bohuslav žije, je bohatý a všetko svoje bohatstvo   porúča tebe, ako prvorodzenómu. Tu čítaj, a vyjasni zamračené   čelo!“
+   </tei:p>
+   <tei:p>
+    Tak bolo vskutku. Ján presvedčil sa o tom vlastnýma očima.
+   </tei:p>
+   <tei:p>
+    „Potomci môjho drahého brata Jána Chotínskeho“ — takto stálo v   liste —- „a žvlášte prvorodzený, ktorý vlastne má byť mojím dedičom,   ktorý avšak svoje prvo-
+   </tei:p>
+   <tei:p>
+    ﻿rodzenstvo, ako i to, že pochodí od Mocného Petra, musí zvláštnym   dôvodom dokázať, nech príde čím najskorej do Paríža, aby ešte pred   smrťou mohol som mu odovzdať môj majetok, ktorý obnáša vyše   milliona.“
+   </tei:p>
+   <tei:p>
+    Potom stál tam v krátkosti jeho životopis, v ktorom im oznámil,   ako ho raneného Francúzi chytili a za dlhé časy držali v temnici. Ale   medzitým že sa vojna skončila a on, dostanúc svobodu, zostal v   Paríži, kde s pomocou Božou prišiel k takému bohatstvu.
+   </tei:p>
+   <tei:p>
+    Jánovi iskrily sa oči radosťou, ked tento list prečítal. „Tak teda   bude koniec biede!“ ■— zvolal zrazu — „tak teda nebudem prinútený žiť   z milosti bratovej!! Dosť, dosť to bolo, že tak dlho niesol som toto   ťažké bremeno bratovej milosti. Nie, Bohuslav, nebudem viacej almužnu   prijímať z tvojej ruky! Boh vidí, že mi to ťažko padalo,“
+   </tei:p>
+   <tei:p>
+    „Ľutujem“ — obrátil sa k nemu smutnou tvárou Bohuslav, čudujúc sa   nad rečou bratovou — „ľutujem, že ti tak ťažká bola
+   </tei:p>
+   <tei:p>
+    39
+   </tei:p>
+   <tei:p>
+    ﻿|p|j||jpw^a! Ak som ti urobil čo dobrého, brat môj, povedať, že by   ti bol ía oči vyhodil. Boh vidí, že som na to nikdy nepomyslel. A z   bratovej ruky niečo prijať, je — myslím — nie almužna! Oj Janko,   Janko! keby si do môjho srdca mohol nazreť, nehovoril by si také   reči.“
+   </tei:p>
+   <tei:p>
+    Na druhý deň bolo všetko pripravené k odchodu. Aj Bohuslav vybral   sa s ním, nie síce preto, aby niečo zdedil po bohatom strýkovi, —   nie, on to všetko vďačne doprial svojmu bratovi, — ale aby ho aspoň   raz v živote videl, a ruku tú, ktorá dakedy za vlasť verne bojovala,   pritisol k srdcu a úctivé pobozkal. Lebo vtedy, keď strýk bol odišiel   do vojny, ešte ani jeden neboli na svete. —
+   </tei:p>
+   <tei:p>
+    Bolo práve poludnie, keď cestujúcim bratom zablyšťaly sa parížske   veže. Poludňajšia hudba zvonov, nádherné maľované domy, čisté rovné   ulice, krásne sochy a pomníky, strakaté obyvateľstvo, kráčajúce   uliciami hlavného mesta francúzskeho — všetko toto zaujímalo našich   cestovateľov tak, že ne-
+   </tei:p>
+   <tei:p>
+    40
+   </tei:p>
+   <tei:p>
+    ﻿vedeli, kde majú skôr oči obrátif. Zrazu koč, na ktorom sa viezli,   zastane pred velikým krásnym domom. Vodca povedal, že je to obydlie   Chotínskeho, aby sa im páčilo sísf, a Jánovi dobre srdce nevyskočilo   od radosti, keď si pomyslel, že to bude jeho.
+   </tei:p>
+   <tei:p>
+    Obratní sluhovia zaviedli ich hneď k starému pánovi. Šedivý, asi   osemdesiatročný starec sedel na lenoške. Na čele bolo mu vidno tri   veliké švíky — tri isté znaky verného bojovníka za vlasí. Pod   hustými, šedivými obrvami svietily sa mu veľké sivé oči, vlastnosf to   rodiny Chotínskovskej. Hlava a ruky triasly sa mu od staroby.   Prichádzajúci bratia, hned poznali, že je to ich strýk, lebo vyzeral   tak, ako by starému Šimúnovi bol z oka vypadol. I sklonili sa pred   ním úctivé, siahajúc po trasúcej sa ruke. A starý Bohuslav objal   bratancov trasúcim sa náručím.
+   </tei:p>
+   <tei:p>
+    „Vitajte, dietky moje !“ zvolal plný radosti v slovenskej reči —-   „na prvé videnie vás poznávam, že ste Chotínskovci. Áno,
+   </tei:p>
+   <tei:p>
+    41
+   </tei:p>
+   <tei:p>
+    ﻿42
+   </tei:p>
+   <tei:p>
+    potomkovia Mocného Petra! Všetky tahy našej rodiny sedia vám na   tvári! Ktorý že ste prvorodzený?“ Tu pozrel na lavicu Jánovu : „Aha,   viem, ty si, syn môj, prvorodzený — však si ty? lebo ti vidím na ruke   dar kráľovský! Oj, deti moje, je to zvláštna pamiatka, je to zvláštny   klenot! Ukáž, syn môj, nech ešte raz prečítam to úprimné slovenské   pozdravenie. Akože ta volajú, ty môj budúci dedič ?“
+   </tei:p>
+   <tei:p>
+    „Jánom.“ odpovedal tento trasúcim sa hlasom, a vidiac, že mu strýk   prsteň sťahuje, zbľadol ako stena.
+   </tei:p>
+   <tei:p>
+    „Jánom? — dobre — tak volali aj môjho nebohého brata! — Ale čože   je to za prsteň?“ zvolal starý Bohuslav, hľadiac na nápis a nedôverne   pozrel mu do očú: „či si ty Chotínsky?“
+   </tei:p>
+   <tei:p>
+    „A či si prvorodzený ? “ spýtal sa zase starý bojovník, hľadiac mu   prísne do očú.
+   </tei:p>
+   <tei:p>
+    „A či ti tento istý prsteň otec zanechal?“
+   </tei:p>
+   <tei:p>
+    „Chotínsky“ — odpovedal bojazlivé Ján.
+   </tei:p>
+   <tei:p>
+    „Prvorodzený!“ — dosvedčil tento.
+   </tei:p>
+   <tei:p>
+    ﻿Ján stál ako na tŕni; nevedel, čo mu má na túto otázku odpovedať.   Dlho sa zajakal, až konečne vyslovil lož: „ten istý!“
+   </tei:p>
+   <tei:p>
+    Šedivý starček sa zamyslel. Pokrútil hlavou a ostrý zrak uprel na   zbľadnutého Jána.
+   </tei:p>
+   <tei:p>
+    „Ty si teda nie Chotínsky! naša rodina mala prsteň zo slovenským   nápisom! ty nemôžeš byt mojím dedičom!“
+   </tei:p>
+   <tei:p>
+    „Pán strýčik, to je ten istý prsteň, ale dal som ho prerobiť“,   zašeptal Ján bojazlivým hlasom, vidiac, že zlaté zámky, ktorých si už   v mysli bol nastaval, počínajú sa rúcať.
+   </tei:p>
+   <tei:p>
+    „Prerobiť? — prerobiť? — takú starobylú pamiatku prerobiť ?! — A   prečo si ho dal prerobiť? — či sa asnád pokazil?“
+   </tei:p>
+   <tei:p>
+    „Nie, pán strýčik, ale ma mrzelo, že bol v ňom slovenský   nápis.“
+   </tei:p>
+   <tei:p>
+    „Mrzelo ťa, že bol v ňom slovenský nápis?“ strhol sa starý   Bohuslav. „Hovorím, že si ty nie Chotínsky; Chotínskovci boli   Slováci, a ty si, ako vidím, nie Slovák.“
+   </tei:p>
+   <tei:p>
+    43
+   </tei:p>
+   <tei:p>
+    ﻿44
+   </tei:p>
+   <tei:p>
+    „Áno, pán strýčik, ja som Chotínsky, prvorodzený syn vášho   vlastného brata; ale ako uhorský zeman nemôžem byť Slovákom,   krajinský zákon žiada, aby sme boli všetci Madarmi,“ odpovedal Ján   trochu smelšie.
+   </tei:p>
+   <tei:p>
+    „Ha! ako uhorský zeman tjr nemôžeš byt Slovákom?“ skočil starý   vojak s lenošky, ako by bol ohňa doň nasypal. „Hovorím, že si ty nie   Chotínsky! Krajinsk} zákon žiada, aby všetci, ktorí chcú   prísť do verejného úradu, znali maďarskú reč, ale nie, aby museli byť   Maďarmi a aby svoju materinskú reč a národnosť zapreli a potupili.   Myslíš, že ja neviem, čo krajinský zákon žiada ? Krajinský zákon   žiada, aby všetci milovali vlasť a kráľa ! a či Slovák vlasť a kráľa   nemôže milovať ?! Či som ja vlasť a kráľa nemiloval? — pozri na tieto   švíky! •— či som ja nemiloval?! — he, či som ja nemiloval ?! A ty   vravíš, že si Chotínsky?! Nie, ty si klamár, ty si podvodník! — Ale   si nemysli, že ma oklameš! Mojím dedičom bude len ten, kto   preukáže
+   </tei:p>
+   <tei:p>
+    ﻿žtarootcovský prsteň so slovenským pozdravom !“
+   </tei:p>
+   <tei:p>
+    Rozhorlený bojovník prišiel k Jánovi, že ho vysotí, ale pozrúc na   Bohuslava, zastal s otázkou: „A ty kto si?“
+   </tei:p>
+   <tei:p>
+    „Ja som Bohuslav, mladší syn vášho nebohého brata! prichádzam, aby   som môjho strýka aspoň raz v živote videl a aby som mu mohol   preukázat moju úctu“ — odpovedal úctivé Bohuslav,
+   </tei:p>
+   <tei:p>
+    „A čím dosvedčíš, že tvoje slová sú pravdivé ?* — pozrel naň   strýk.
+   </tei:p>
+   <tei:p>
+    Bohuslav sa začervenal, V duši jeho boí náramný boj. Zlatníkovi   bol slúbil, že o prsteni bude mlčať, a strýk žiadal, aby dokázal, že   je opravdový Chotínsky. Čo mal robiť? Musel s pravdou von — to   žiadala povinnosť.
+   </tei:p>
+   <tei:p>
+    „Nehnevajte sa, strýk môj drahý!“ preriekol pokorným hlasom —   „klenot rodiny Chotínskovskej je zachovaný; starootcovský prsteň je u   mňa!“ Tu vyňal z vrecka vzáctnu pamiatku, a podávajúc ju starému   strýkovi, úctivé sa poklonil pred ním-
+   </tei:p>
+   <tei:p>
+    45
+   </tei:p>
+   <tei:p>
+    ﻿46
+   </tei:p>
+   <tei:p>
+    Šedivý starec pohliadnuc do prsteňa, potriasol hlavou, ď dve veľké   slzy skropily mu šedivé fúzy. „Pomáhaj Pán Boh!“ preriekol po chvíli   —r. „ako sladko . znie toto, pozdravenie! —- Bože môj, Za osemdesiat   rokov si mi pomáhal! Áno, pomáhal si mi! Bol som nemocný, dorábaný —f   a uzdravil si ma! Bol som väzňom, a vysvobodil si ma 1 Bol som   chudobný obohatil si ma! Áno, áno, dobrý Bože! Požehnanie kráľovo   plnilo sa,, ako vôbec na našej rodine, tak zvlášte na mne!“ Tu si   utrel padajúce slzy á chytiac Bohuslava prívetivé za ruku, hovoril k   nemu takto:
+   </tei:p>
+   <tei:p>
+    „Bohuško, ty si moje dieťa 1 ty si môj dedič I ■ Umierni som si   pevne, že len ten bude mojím dedičom, ktorý donesie túto   starootcovskú pamiatku — a na tom stojím 1 •— Ale, povedz mi syn môj,   čo je toto za človeka?“ ukážuc na Jána.
+   </tei:p>
+   <tei:p>
+    „To je môj vlastný brat,“ odpovedal Bohuslav — a všetko verne   vyrozprával, ako pohádali sa spolu strany národnosti, — ako mu on   nadhodil, že sú oni Slováci, lebo že
+   </tei:p>
+   <tei:p>
+    ﻿ta svedčí í slovenský nápis v prsteni, ako ho rozhnevaný brat   zahodil na zem a ako ho potom on u zlatníka našiel a zachránil.
+   </tei:p>
+   <tei:p>
+    Starý bojovník bíadnul, keď mu mladý Bohuslav rozprával, že Ján   hanbí sa za slovenčinu, „Há!“ skríkol rozhorlene, „ty nepodarený   potomok statočných predkov l Teda hanbíš sa za to, že si Slovák?! —   teda hanbíš sa i za tvojho pradeda, ktorého zásluhou stal si za   zemanom?! Teda hanbíš sa aj za mňa, ktorý ani v cudzine nezaprel som   svoju národnosť, ktorý aj tu hrdý som na to, že som Slovan?! —•   Dobre, ja teda tiež hanbím sa za teba! Z môjho imania nedostaneš ani   haliera, ačpráve bol som ho obecal tebe, ako prvorodzenému. Kto hanbí   sa za mňa a za svoj rod, ten nie je hoden mojej lásky!“ — Tu obrátil   sa k mladšiemu bratovi: „Bohuško drahý, ty si môj syn, moje úprimné   dieťa! Pod, nech ťa pritisnem k srdcu ! — na tvojich prsiach chcem do   večnosti prekročiť!“ I padol mu okolo hrdla a plakal. Plakal tento   starý bojovník, objímajúc šľachetného bratanca, ako dieťa.
+   </tei:p>
+   <tei:p>
+    47
+   </tei:p>
+   <tei:p>
+    ﻿48
+   </tei:p>
+   <tei:p>
+    Ale rozčúlenie, ktoré spôsobil tento vyjav V údach starčoka,   složilo ho na posteľ. Žiadne lieky viac nespomáhaly. Na tretí deň   dokonal, ako si žiadal, na prsiach Bohuslavových, ktorý teraz zdedil   jeho majetok, vyše milliona zlatých.
+   </tei:p>
+   <tei:p>
+    Obrátilo sa na peniaze všetko, okrem drobnejších vecí, ktoré   zadržal si na pamiatku, — a tak vrátili sa naši mladí Chotínskovci   domov. ~ Na ceste bol Ján smutný a zamyslený, ale že by sa bol   hneval, nebolo poznaf. Y duši počínalo mu svitať, a začal uznávať, že   blúdil až posiaľ, Ale mlčal.
+   </tei:p>
+   <tei:p>
+    Prijdúc domov, odišiel do svojho kaštieľa, stisnúc Bohuslavovi   úprimne ruku na rozlúčenie. Zdalo sa, že k bratovi cíti novú, dosiaľ   nevídanú náklonnosť a úctu, že mu dedictvo strýkovo nezávidí a že   dopraje mu ho zo srdca 1 Ale mlčal a nehovoril ničoho.
+   </tei:p>
+   <tei:p>
+    Na druhý deň zavčas rána prišiel k nemu Bohuslav. Ján bol už na   nohách. Stál pri obloku opretý a čítal.
+   </tei:p>
+   <tei:p>
+    „Dobré ráno, brat môj drahý!“ pozdravil
+   </tei:p>
+   <tei:p>
+    ﻿ho srdečne Bohuslav. „Tak za včas rána a v knižke? to je nie tvoja   obyčaj!“ I natiahol sa, aby videl, v čom je pohrúžený, — a Ján čítal   krásnu báseň Kollárovu: „Nechte cizích, mluvte vlastní rečí, Sláva   Slavum slouti Slovany!“ „Janko drahý!“ zvolal Bohuslav plný podivenia   — „čo to čítaš?“ „Ja som sa presvedčil, Bohuslave!“ odpovedal Janko   vážnym hlasom. „Presvedčil?“ pozrel mu Bohuslav vrelo do očú. „Áno,   presvedčil! — uznávam, že som blúdil a zneuctil prach praotcov   našich. Presvedčil som sa aj o tom, že my môžeme byt verní vlasti a   kráľovi, a pri tom i svoju reč a národnosť slovenskú môžeme najradšej   videí,“ hovoril ďalej vážne. „A ja toto tvoje presvedčenie chcem   zapečatiť“ — povedal na to Bohuslav. „Tu máš, brat môj všetko, čo   tebe samému prislúcha!“ V tom podal mu starootcovský prsteň i
+   </tei:p>
+   <tei:p>
+    49
+   </tei:p>
+   <tei:p>
+    4
+   </tei:p>
+   <tei:p>
+    ﻿50
+   </tei:p>
+   <tei:p>
+    s dedičstvom strýkovým. „Prečítaj, brat môj, prečítaj pozdravenie   pradedovo !“ Ján dlho sa zdráhal, ale na srdečnú prosbu bratovu   konečne vzal do ruky prsteň, pozrel doň a vzdychol: „Pán Boh pomáhaj   !“ „Áno, pomáhaj Pán Boh!“ — padol mu Bohuslav okolo hrdla —   „aby si stálym ostal v tom, v čom si sa — ako hovoríš — presvedčil! —   Pomáhaj Pán Boh, aby si bol verný svojej vlasti, i kráľovi, ale i   svojmu slovenskému rodu !“
+   </tei:p>
+   <tei:p>
+    Odtlačeno zo „Zorničky“ sv. H. r. 1847,
+   </tei:p>
+   <tei:p>
+    ﻿Nákladom J. Gašparíka, kníhkupca v Turčianskom Sv. Martine vyšhr   dosial nasledujúce knižky:
+   </tei:p>
+   <tei:p>
+    Malý katechismus dra M. Luthera. Viaž. 24 hal. Poŕádek Sväté   Pašie. Viazané 32 halierov. Dĺžeň, mäkčeň a ypsilon. Návod, ako možno   za tri
+   </tei:p>
+   <tei:p>
+    dni naučiť sa správne pó slovensky písať. Napísal J. G. Leštinský.   Cena 40 hal.
+   </tei:p>
+   <tei:p>
+    Poklad. Rozprávka. Napísal Jonatan Dobr. Čipkay. Cena 12 hal.
+   </tei:p>
+   <tei:p>
+    Laoík. Rozprávka. Napísal Aug. Horislav Škultóty. Cena 10   halierov.
+   </tei:p>
+   <tei:p>
+    Pavučina. Rozprávka. Napísal Jon. Dobr. Čipkay. Cena 12   halierov.
+   </tei:p>
+   <tei:p>
+    Ztratené peniaze. Rozprávka. Napísal A. H. Škultóty Cena 10   halierov.
+   </tei:p>
+   <tei:p>
+    Skapaný diamant. Rozpr. Od J. D. Čipkaya, 20 hal. Starootcovský   prsteň. Rozprávka. Od Jon. Dobr. Čipkaya. Cena 24 hal.
+   </tei:p>
+   <tei:p>
+    všetky slovenské knihy,
+   </tei:p>
+   <tei:p>
+    Detvan. Báseň od Sládkoviča. Cena 30 hal. Divadelné hry pre deti.   Dve knižočky po 20 hal. Dobré knižky. 6 knižočiek po 20 hal.
+   </tei:p>
+   <tei:p>
+    Knižnica Béžová. 30 knižočiek po 10, 14, 20, 24 a 40 hal. celok   kor. 4‘90.
+   </tei:p>
+   <tei:p>
+    Krém toho dostať u neho
+   </tei:p>
+   <tei:p>
+    medzi nimi i nasledujúce;
+   </tei:p>
+   <tei:p>
+    ﻿Kytka z Tatier. Od Strýčka Slavoša. Cena 2 kor. Lacné čítanie. 25   knižočiek po 12, 20, a 30 halierov,
+   </tei:p>
+   <tei:p>
+    Lacné knižky 3 knižočky po 10 a 20 hal. Rečňovanky. Dve knižo’ky   po 30 hal. Robinson Crusoe. Druhé vydanie. Cena kor. 1-10. Rozprávky   Fr. Hotfmana. 6 knižiek po 80 hal. Slovenské hádky. Cena 32 hal.
+   </tei:p>
+   <tei:p>
+    Školské prázdniny. Cena 30 hal., viaž. 40 hal. Venec slovenských   národných piesní. Cena 1 kor. Vinšovník. Od Zátureckého. Cena 50 hal.   Vybrané spisy Kŕ. Smida. 5. knižočiek za kor. 130 Zlaté perličky pre   dobré detičky. Cena 30 hal. Zo slovenskej chalúpky. Cena kor.   D60.
+   </tei:p>
+   <tei:p>
+    Zo sveta malých. Cena 80 hal. Zo života. (S obrázkami.) Cena 20   hal.
+   </tei:p>
+   <tei:p>
+    Hospodárske prednášky od J. Slávika, cena 20 hal. Náuka   hospodárstve. Napísal Andrej Bážik, sv. I.
+   </tei:p>
+   <tei:p>
+    Prednášky o ovocinárstve, ktoré držal K. Nečesálek, cena 20 hal.   Štepársky kalendárik pre začiatočníkov v ovocinár-
+   </tei:p>
+   <tei:p>
+    Včelár. Sostavil E. Lovecký, cena 60 hal. Verný radca pri   opatrovaní a liečení dobytka a cena 60 hal. iHOm,
+   </tei:p>
+   <tei:p>
+    Poštou každá menšia knižka o 10 hal., väčšia o 20 * žA    halierov viac.
+   </tei:p>
+   <tei:p>
+    celok kor. 3
+   </tei:p>
+   <tei:p>
+    Cena 60 hal.
+   </tei:p>
+   <tei:p>
+    stve, cena 20 hal.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Cena 24 halierov.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
