@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1891230" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Zakáša — darmo je! : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     11851
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Zakáša — darmo je!
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1891
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Zakáša — darmo je!
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿I. Jano Machaj složil lyžicu na stôl a utrel si rukávom ústa,   ktoré sú od kýšky zafúľané. Jeho žena Katrena i syn malý Janko   pozreli naň, ako by sa ho pýtali: »Ale už? Čože tak málo?« Gazda sa   natiahol po čiapku, prežehnal sa a postavil čiapku na hlavu. Bol v   nej ako hríb, lebo tvár mal veľmi širokú a čiapka bola veľmi   malá.
+   </tei:p>
+   <tei:p>
+    »Kieže ješ ?« ponúkla ho žena, vidiac, že švábky skoro pol misy   zostáva.
+   </tei:p>
+   <tei:p>
+    »Je na nič!« odvrkol gazda. »Na mlieko ráno ani pozreť, bŕŕ — zas   sa mi bude čkať od neho až do poludnia. A predsa ho dávaš každý od   Boha deň. Ale kapustnice neuvarí ani za svet, lebo za tou mi srdce   piští.«
+   </tei:p>
+   <tei:p>
+    »Na nič!« zhrozila sa Katrena. »Mlieko mu je na nič. Ba keby si   nevymýšľal. A akože budem variť kapustnicu, keď jej nemám? Včera   večer som kapustu smývala.«
+   </tei:p>
+   <tei:p>
+    »Len sa vyhovor«, na to gazda. »Ty máš hneď výhovorku. Čo ja rád,   to ty nechceš. Preto smývaš i kapustu každý deň. Viem ja. Teraz si   jedz: ja nechcem.« S tým udrel dvermi a už bol von.
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    ﻿100
+   </tei:p>
+   <tei:p>
+    Katrena zostala s ohrdeným jedlom, ale neriekla ani slova. Znala   muža, že nehodno s ním žartovať. Dnes bude celý deň fučať, že sa   nenajedol a že ho moria hladom. A ono nik ho nemorí. Žena vymýšľa, čo   by on tak najradšej: ale neraz by mu nevyhoveli ani traja kuchári.   Tak i dnes iste čosi inšie ho jeduje. Vina musí padnúť na jedlo, už   či je to mlieko alebo kapustnica. Keby bola dnes navarila kapustnice,   bol by sa možno najedoval, čo nedáva mlieka. Bol by vymyslel, že je   prismudnutá, alebo nezapražená: vôbec bol by nejakú vinu našiel. »To   je kríž s ním!« pomyslí si Katrena, odnášajúc misy so stola. »Čím som   prehrešila, že ma Pán Boh takto tresce!« A keď si toto pomyslela,   hneď jej na srdci odľahlo. Potešila sa, že takto nič po nič trpí:   iste že jej to Pán Boh inou cestou vynahradí. Možno na deťoch, možno   na imaní. Ani sa dobre neuspokojila, keď muž vrátil sa do izby. Nebol   ani o poznanie vľúdnejší, preto Katrena radšej sa mu ide odpratať.   Šla do kuchyne. »Stará!« volá na ňu muž pevným hlasom. Vidno, čosi   vážneho má jej rozkázať. Složila riad na lavicu v kuchyni a hneď sa   vrátila do izby. »Čo je?« hovorí, utierajúc si belasou zásterou ruky,   hoc i boly čisté. Katrena na čistotu. že k Puchorovcom nepôjdeš«,   riekol
+   </tei:p>
+   <tei:p>
+    ﻿101
+   </tei:p>
+   <tei:p>
+    muž, položiac päsť na stôl. Katrena zadívala sa naň, lebo vlastným   ušiam nemohla uveriť. »Ani na piaď, lebo ak vstúpiš nohou do toho   prekliateho domu, ja ti ju v tú hodinu odtnem. Ja ich naučím!« Bol   veľmi nahnevaný. Katrena neohlásila sa proti tomu, že jej idú odťať   nohu. Bola by rada vedieť, čo sa tak rozpajedil na Puchorovcov. Ale   muž nehovoril už nič, a keby sa ho bola opýtala, bol by na ňu vylial   svoju zlosť. Nepovedala ani slova a šla nazad do kuchyne. I tak jej   kto-ten povie, čo sa skúrilo medzi ním a Puchorovci. Puchorka sama   možno ešte dnes do poludnia pribehne. Len aby ju ten »drak« tu   nenapopáckal: lebo ak mu Puchorka na oči príde — iste koniec sveta   jej urobí... »To je dom!« hundre si gazda Jano Machaj. »To je už dom!   Nikomu sa nemôžeš požalovať: ani len žena sa ťa neopýta, čo ti je,   čerte alebo diable. Utečie sebe do kuchyne, a ty sa jeduj a zhrýzaj   pre takých, takých — poživáčov!« Vyšiel do dvora a rozhliadal sa po   všetkých kútoch. Dvor priestranný — a, čo veľmi málo býva, čistý.   Stajne, chlievy, ovčiareň i humno — všetko v najkrajšom poriadku.   Stavy skoro nové a nedávno iba slamou pošité. V cieni plno dreva,   kláty prihotovené na pílu, ale ešte tohto roku nedá ich píliť. Pod   stajňou je i tak stôs dosák, s ktorými nevie, čo si poradiť. Sú vo   stôsoch pokálané polená, v druhom zas pne — vôbec, je tu dreva, že by   ho bolo Machajovi dosť:( ^ý
+   </tei:p>
+   <tei:p>
+    ﻿102
+   </tei:p>
+   <tei:p>
+    sa i dve zimy sňaly. Pred stajňou hŕba hnoja, vysoká a objemná,   ani čo by Machaj nebol gazda, ale nejaký zemský pán. Iný keby túto   hojnosť videl, napríklad Ondro Puchor, a keby to všetko bolo jeho,   tancoval by od radosti, že je taký boháč. Ale Jano Machaj sa neteší,   ešte sa jeduje, čosi sa mu veľmi, veľmi nepáči. Preto ani do roboty   sa nechytá, a veru pomaly bude treba reparovať pluhy a brány, lebo   Jozefa bude o dva týždne. Neťahá ho chuť k ničomu, iba čo hnev mu   srdce zožiera. Otvoril dvere na stajni a vstúpil dnu. Zarazila ho   spara, ako v každej stajni, kde je mnoho statku. A tu ho je vyše   práva. Tamto dve kravy podvihly hlavu a nadstavujú uši, či sa im   gazda neprihovorí. Za prejmou stoja zas jalovice; jedna prepchala   hubu špárou a fúka kravám do žľabu, pričom sečka na všetky strany   poletuje. Vedľa nich vlaňajšie býča si šantuje. V kúte pri samých   dverách hnieždá sa tohoročné teľce. Sú obe vydarené, gazda ich   prisadil. Mal by na čom pásť oči, keby chcel. Ale on neprihovoril sa   ani kravám: beztoho nie sú hodný, aby gazda na kravu pozrel, nie to   ešte prihovárať sa jej. S kravou nech sa mazní gazdiná: on neberie   peniaze ani za maslo, a bez mlieka by on ešte ta vyžil. Jalovice a   teľce, to i samo prezimuje, dosť že im lecikedy pohodí chĺpok sena,   alebo zatrúsi do sečky niečo trojky. On radšej si prezre voly.
+   </tei:p>
+   <tei:p>
+    ﻿103
+   </tei:p>
+   <tei:p>
+    Žľab majú oproti popri stene a dvoma prejmami sú oddelené od seba   tri páry roháčov. Gazda vstúpil k prvému páru, hneď pri dverách   oproti teľcom. Aká to krása! Voly obrátily sa ku gazdovi; náručný   pohodil hlavou, udrúc dlhým, rovným rohom o stenu, v ktorej sú   poupchávané špáry machom. »No, čože?« prihovoril sa mu gazda a   potľapkal ho po lopatke. Vôl miesto odpovedi zafučal a prezeral, či   gazda nejde vsypať niečo dobrého do žľabu. Ale nesype nič, len vymetá   sečku, čo zvýšila, a nesie ju kravám. »Na— žer!« núka ich. »No,   nepáči sa, mazny!« okríkol kravy, keď iba poňuchaly sečku a netýkajú   sa jej. »Koláče vám budem vypekať — nebojte sa! Počkaj, trlica, po   iné roky by si vymietla i sečku z odriapaných snopkov: teraz jačmenná   smrdí.« A viac sa na kravy neozrel, vrátil sa k prvému páru. Pohladil   podsebného rukávom: vôl sa prehol ani lasica a šibol gazdu chvostom.   »No — ty oplan!« nadával mu gazda, ale vidno, že sa naň nehnevá. »Už   si sa popravil trochu: ale si odpratal nejednu meričku jačmeňa, kým   tá škutina s teba sišla.« A pošuchal ho dlaňou po šiji. Vôl stál ani   upečený: srsť sa na ňom skoro ligotala. Gazda prekročil burtnicu a   zastal. Dlho, dlho díval sa na svoje sivé voly, ktoré má už skoro   celý rok, ktoré miluje väčšmi, než ženu i vlastné dieťa.
+   </tei:p>
+   <tei:p>
+    Ťažko mu bolo odtrhnúť sa od nich. Bol
+   </tei:p>
+   <tei:p>
+    ﻿104
+   </tei:p>
+   <tei:p>
+    by tak stál do večera, ba do súdneho dňa, a díval sa na ne. Ale   musí ísť i k druhej páre. Tá stojí hneď za prejmou. No nie sú také   veliké, ale sú to tiež pekné junce. Náručný obrátil ku gazdovi svoju   krásnu hlavu. Naozaj krásna! Čelo široké, z neho vyrastajú rohy, ešte   sú skoro celkom čierne. Len pri samom koreni počína kvitnúť biely   pásik. A ten lalok, široký, a skoro ku samej hube! I šija mocná, veru   sa nezľakne jarma, ani hocijakého ťažadla. »Jeleň, Jeleň!« oslovil ho   gazda a poškrabal medzi rohami. »Čože — nepáčilo sa?« hrešil ho,   vidiac vo žľabe mnoho sečky. »Majstri! sečku odfúkať, jačmeň vyzobať.   Príde na psov mráz: var’ ti inde slaninou budú priprážať, čo?« A   prevalil sa naň a, prevesiac ponadeň ruku, šúchal ho po boku.   »Podarené hovädo!« myslí si, vymetajúc a čistiac žľab. »Takého ešte v   tejto stajni nebolo. Údov pevných, rohov do široká. . . Hm, ale toho   podsebného musím prekupčiť: ten sa k nemu nešikuje...« A gazda Machaj   zabudol na všetek hnev a všetky krivdy, čo musel kedy znášať: bol   celý uspokojený. Tam odrastené, robote priučené voly: do oračky sa   nemusí hanbiť s nimi. 1 hradskú by s nimi preoral. Tu zas junce,   ktoré cez leto na holi vyrastú a na zimu dohonia tie staršie. »Mohol   by orať i na týchto«, myslí si a usmieva sa. »Ale načo? Dosť na   starších pooriem — tieto budú brániť za mnou...« Ale tu padla mu na   dušu zase
+   </tei:p>
+   <tei:p>
+    ﻿105
+   </tei:p>
+   <tei:p>
+    tôňa. Obkročil prejmu a stál naraz za tretím párom.
+   </tei:p>
+   <tei:p>
+    »No, čože sa hádžeš, ako potkan vo vreci!« zašomral na junca,   ktorý, zbadajúc gazdu, hneď odskočil na ľavo. »Ty ničomník ničomný!   bohdaj si bol skapal tam!« Junec pozoroval, že gazda ho nemá veľmi   rád, preto nespúšťal s neho oka. Odskočil na bok, a bol by vyskočil   možno i na šop, keby nebol retiazkou ku žľabu priviazaný. »Čože sa   duríš, ty ničiga podkasaná. Ak chytím ten tiesk, tak ťa hlobnem   —«
+   </tei:p>
+   <tei:p>
+    Poodstúpil nazad a prezeral svoje najmenšie junce. Ale nie je   dobre videf, lebo stoja v kúte, a tam je dosť tma. Vošiel medzi ne,   odopäl retiazky a vyviedol junce zo stajne. Retiazky im zapäl okolo   šije, aby sa po zemi nevliekly, a junce na svobode podvihly hlavu a   zalomily šije a pustily sa dvorom. Pekné divadlo, ako si tam   strečkujú! Ale gazdu, ako vidno, to neteší. Čím ďalej, tým väčšmi je   mu tvár smutnejšia a hnev veliký rozjedá sa v ňom. »Kde som podel   oči, kde, ja starý blázort?« nadáva si v tichosti. »Došikovať si do   stajne takého čaptavého čerta!« Pritom pozeral veľmi p i i n e   jednému z juncov na zadné nohy. »Zakáša — darmo je. . .« to je koniec   pozorovania. A tento výsledok ešte väčšmi ho rozjedoval. »Nebudeš mi   ty dlho špatiť moju stajňu. Odpeliam ťa, čo odpoly darmo. ..«
+   </tei:p>
+   <tei:p>
+    »Pane Bože, čo sa mu robí?« trápi sa Ka-
+   </tei:p>
+   <tei:p>
+    ﻿106
+   </tei:p>
+   <tei:p>
+    trená v komore pri obloku. »Čože sa blaznie s tými junci? Ešte   niektorý trafí zle skočiť, a galiba je hotová.« No onedlho zazrela   mužovu tvár, ako zaháňal junce do stajne, a hneď prikrčila sa pod   oblokom, aby ju nezbadal. »Aký je nafúkaný! Čože mu zas sadlo na   nos?« Vošla do kuchyne ešte dokončiť rannú robotu a potom šla do   izby, kde už stály navíjačky s pradenom.
+   </tei:p>
+   <tei:p>
+    Ani pol fajfy nenavila, keď počula, že muž ide popod stenu, kamsi   von. »Kdeže ide otec?« pýtala sa chlapca, ktorý sedel pri stole a   cmúľal si palec. »Choď na cestu a pozri, kde pôjde.« Chlapec vybehol   ako guľa za otcom. »Veď je to len kríž s takým mužom!« vzdychala si.   »Priadzu by už prichodilo navíjať, a krosná rozhegané. On sa neozre,   len vždy voly! Ba či im zas nenasypal jačmeňa?« Nechala navíjačky a   vbehla do stajne. Prezrela žľaby, ale sa sklamala; boly čisté,   vymetené. »Predsa nie!« potešila sa a šla ku kravám. Sečky majú plný   žľab. »Obriadil vás, obriadil: pekne vás ten riadi!« vzdychala,   presýpajúc sečku vo dlaniach. »Nebojí sa Boha: nevinné hoviadka vadiť   samou sečkou!« Vbehla do rezačky, načrela plnú ličienku ďateliny,   ktorá na drobno porezaná bola v kúte, a vsypala ju kravám a   jaloviciam. »Nate; aspoň keď ho niet doma, obživíte sa trochu.«
+   </tei:p>
+   <tei:p>
+    Vrátila sa s uspokojeným srdcom ku navíjačkám a rozmýšľala, aký   ona má s mužom
+   </tei:p>
+   <tei:p>
+    ﻿107
+   </tei:p>
+   <tei:p>
+    kríž. Malý Jano vbehol do izby celý zadychčaný. »Mamo, otec — otec   išiel...«
+   </tei:p>
+   <tei:p>
+    »No, kdeže išiel, moje dieťa?« sošila ho matka.
+   </tei:p>
+   <tei:p>
+    »Išiel —« a tu sa zas zasekol: »do vyhne!« vykríkol tak tuho, ako   keď z fľaše vyskočí špunt. »Sňal sa so strýkom Chrobákovie a vošli do   vyhne.«
+   </tei:p>
+   <tei:p>
+    »No, dobre, syn môj!« pochválila ho mať. Syn si sadol k stolu a   cmúľa palec. Mať si myslí: »Veď je to len kríž s takým mužom. Každý   deň u kováča!«
+   </tei:p>
+   <tei:p>
+    11.
+   </tei:p>
+   <tei:p>
+    Jano Machaj ani azda druhú zapekačku nedokúril u kováča a ani   nevypočúval všetko, čo sa prihodilo od včera obeda v dedine, keď na   jeho dvore zavrzgaly dverce a nimi vstúpila Puchorka, ešte dosť mladá   Eva. Že čo u Machajov hľadá? Radšej sa spýtajte, čo tak pozde prišla.   Jedného dňa neminie, aby nebola u Machajov, a niekedy je dva, ba i   tri razy. S Katrenou je vrstovnica, a staré kamarátstvo zostalo, hoc   Katrena sa vydala za bohatého a Eva iba za domkára. Alebo možno pre   túto nerovnosť v majetku také tuhé kamarátstvo bolo medzi nimi. Lebo   veru neviem, či by Eva do Machajov tak často zabehovala, keby bola   taká bohatá, ako je Katrena, alebo keby Katrena bola
+   </tei:p>
+   <tei:p>
+    ﻿108
+   </tei:p>
+   <tei:p>
+    taká chudobná, ako ona. Čo raz do Machajov príde, nikdy nič   nedonesie, ale veru skoro vždy niečo odnáša.
+   </tei:p>
+   <tei:p>
+    Ale dnes nejde tak smelo, ako indy. Zakráda sa po dvore, ani   kavka, keď hľadá v čerstvej brázde chrústov; obzerá, či nezmerčí   niekde »jeho«, gazdu. Je si skoro istá, že keby sa tu s ním stretla,   nebolo by jej to na osoh: aspoň gazda by ju nejako radostne nevítal.   »Nebude doma, bude u kováča«, myslí si — a šuch!, už je v pitvore a   nakukuje všetkými dverami, kde by mala koho hľadať. No v komore   ticho, v kuchyni ticho, len z izby počuť šumot; to navíjačky robia   vietor. Vopchala hlavu medzi dvere, prezrela izbu a všetky kúty, či   ten, koho toľme sa bojí, niekde nečupí, a keď nespáčila nikoho,   vrtko, ani koza na streche, vhupla do izby.
+   </tei:p>
+   <tei:p>
+    »A si doma, Katrena?« pýta sa gazdinej.
+   </tei:p>
+   <tei:p>
+    »Kdeže by bola; vidíš, že som doma«, odpovedá gazdiná.
+   </tei:p>
+   <tei:p>
+    »Nuž ja že budeš niekde«, na to Eva.
+   </tei:p>
+   <tei:p>
+    Kto by bol teraz na ne hFadel, myslel by, že Katrena nemá Evu za   sebe rovnú. A ono je nie tak. Má ju ináč veľmi rada. A to by sa ani   nezdalo, keby Eva bola inakšia: ale tá sa Katrene sama podkladá, ako   by jej bola slúžka.
+   </tei:p>
+   <tei:p>
+    »Tvoj je nie doma?« pýta sa gazdinej. »Nevidela som ho na   dvore.«
+   </tei:p>
+   <tei:p>
+    »Išiel kdesi«, odpovedá Katrena, ale nedopovedala, kde. »Máš i   šťastie, že si ho nena-
+   </tei:p>
+   <tei:p>
+    ﻿109
+   </tei:p>
+   <tei:p>
+    trafila. Nesobral by ho na dve fúry. Jeduje sa na vás: i zakázal   mi do vás chodiť. Čo ste mu to zase vyviedli? Ja neviem nič, iba   tuto, keď sa fúka, ani moriak, pre čosi.«
+   </tei:p>
+   <tei:p>
+    Eva si zakryla obe ruky zásterkou až po lakte a počúvala pozorne,   čo Katrena hovorí. »Naozaj ti zakázal? A ty čo? Nič si   nepovedala?«
+   </tei:p>
+   <tei:p>
+    Katrena prestala točiť koleso a pozrela na ňu s výčitkou. »To len   tak povedať, ako tvojmu Ondrovi. Čušala som, ako by mi ústa zašil. 1   nepôjdem k vám, lebo sa zaveral, že mi nohy odtne. . .«
+   </tei:p>
+   <tei:p>
+    »Ten nešťastný jazyčisko!« zalomila Eva rukami, ako by sa bolo   veľké nešťastie stalo. »Ja ho zabijem, to nešťastné taradlo!« A kto   pozrel na jej pevnú, územčistú postavu, na ramená ako války, ľahko by   uveril, že by zdolela zabiť ,taradlo‘. »Len počuj, čo ti nevyvedie!«   A složila ruky na prsiach, pozrúc zpod čela na Katrenu. »Bol s tvojím   u Mochúľa skoro do polnoci a povadil sa s ním. Tá šepleta! Povie ti   mu« — tu sa nachýlila ku Katrene a stíšila hlas: »povie mu, že vraj   tvoj sa nevyzná pri juncoch; že kúpil vraj čaptavého!« Pomlčala, ako   by čakajúc, čo Katrena povie. Ale Katrena nič neodpovedala. »Len si   posúď, stvora moja, keď tvojmu do očú takú vec povie! Zabiť ho môže   radšej, ako mu to povedať. A ten niktoš ti mu zjavne povie, že vraj   máte junca čaptavého.«
+   </tei:p>
+   <tei:p>
+    ﻿110
+   </tei:p>
+   <tei:p>
+    »A je naozajst čaptavý ?« pýta sa Katrena. Reči Evine sa jej málo   dotkly.
+   </tei:p>
+   <tei:p>
+    »Je čaptavý — to je ako na písme, keď môj raz povie«,   odpovedá Eva trochu sklamaná. Mívala si, že Katrena bude kto vie ako   hromžiť na Puchora, a tá nič. »Môj sa rozumie do juncov. Ale kto mu   rozkázal hneď vybľabotať! Tvoj bol, ani čo by hrom bol šibol doňho. 1   bol by ho možno podrúzgal, keby môj nebol skočil do pitvora a potom   do pivnice. Presedel tam do tých čias, kým sa tvoj nesobral a nešiel   spať. Prišiel po polnoci, a ešte ako mi to rozprával, zub na zub mu   nedopadoval: taký bol zdurený. A tvoj ako vraj vykrikoval po krčme!   Nechoď mi do domu, neukáž sa mi na oči, lebo takto a takto. . .   Vidíš«, zakvačila ruku o ruku a vystrela ich proti Katrene: »vidíš,   čo mi narobil: a keby prečo, ale pre sprostého junca! Keď je čaptavý,   nech je tam čaptavý — nemusel mu to vyhodiť na oči! Kde sa ja hodím,   kde sa ja obrátim, ak sa tvoj odhodí od nás!« vykladala, ako nad   smrťou najmilšieho človeka. »Záhon pod ľan, druhý pod švábku: kto mi   to dá, kto mi to nahradí ?«
+   </tei:p>
+   <tei:p>
+    Katrena sa dívala do zeme a neodpovedala.
+   </tei:p>
+   <tei:p>
+    »Nič nepovedal? Čo urobí? Dá nám pod ľan a pod švábku tie zemičky?   Lebo ak nie, ja — ja. . .« Tu pustila sa do plaču a zásterkou   utierala si oči, hoci nebolo v nich ani znaku po slzách. »Ja mu   poviem: nech príde, nech
+   </tei:p>
+   <tei:p>
+    ﻿111
+   </tei:p>
+   <tei:p>
+    uperie toho, ako chce, nech ho zmláti, ako hniličku — ja mu ho   budem držať, hej, na mojr pravdu, budem. Lebo čo nedržal jazyk za   zubami, čo štekal, keď mu nebolo treba. A ja pre jeho jazyk ostanem   bez lanu a švábky? Jaj, kebys’ vedela!« vytrčila Katrene päsť, že ani   paholok by ju nemal takú; »kebys’ vedela, ako by ho bola poobháňala!   Ale on — čušal, sedí od rána v kúte, ani čo by sa mu duša bola   ztratila. Na moj’ pravdu, ľúto mi ho prišlo.« A kútky sa jej trhly a   brada potriasla. »Neborák — banuje! Neviem, čo by dal, keby sa to   nebolo stalo...« Eva zas priložila zásterku k očiam, ktoré i teraz   ostaly celkom suché. »Nič nechcel na ráno, ani raz do úst; už som ho   i prosila, nechcel ani lyžku. A uvarila som dobrej rascovice, len tak   voňala. Nuž neviem, čo...«
+   </tei:p>
+   <tei:p>
+    »Nuž čože by!« odpovedala gazdiná. »Len neplač nič po nič. Ako sa   povadili, tak sa udobria. Keď čaptavý, nuž čaptavý — veď mu neprebil   hlavu. Príde raz oračka, jednako si bez tvojho neporadí. Kto mu   zapoháňa? Paholok? Ten bude na jednej páre brániť. Do pluha zapriahne   dve páry, a k tým treba pohoniča: kohože iného vezme? Len dajte   pokoj. Keď sa fúka, nech sa fúka; veď on príde do vás a bude sa ešte   prosiť.« Táto reč potešila Evu nesmierne. Tvár sa jej vyjasnila a oči   sa usmievaly. »Prosiť sa mu bude — pamätaj moje reči 1« doložila   gazdiná.
+   </tei:p>
+   <tei:p>
+    ﻿112
+   </tei:p>
+   <tei:p>
+    »Dal by Pán Boh!« vinšovala Eva. »Môj pôjde hocikde vďačne.« A Eva   už bola celkom uspokojená. Naraz sa zobzerala po izbe a tichým hlasom   pýtala: »Katrena — nemáš kapustnice? Kapustnice by mu uvarila. Po   včerajšku mu pľuští, azda si tej zaje. Bojím sa, aby sa mu niečo   nestalo, lebo je naozaj smutný.«
+   </tei:p>
+   <tei:p>
+    »Bude kapustnice dosť«, zvestovala Katrena. Zabudla v tomto   momente, ako vyhovárala sa mužovi, že kapustnice nemá, lebo kapustu   vraj včera smývala. »Len na, trochu mi navíjaj, ale nepomäť pradeno!«   A odišla.
+   </tei:p>
+   <tei:p>
+    Eva chytila rúčku, krútila koleso, ale práca nešla jej tak, ako   Katrene. Nenavíjala sa niť ku niti tuho a riadne, ako sa žiada, i niť   na pradene jej preskočila a odvisla na navíjačkách. Ani pásmo   nevedela, ako svedčí, rozpustiť: vôbec priadza sa skomolila a fajfa   bola mäkká, čo niti boly krížom-krážom.
+   </tei:p>
+   <tei:p>
+    »Choďže, choďl« odháňala ju Katrena. »Ja len neviem, ako môžeš byť   takáto ničomná! Ani navíjať nevie, ako sa patrí. Ruky ti poodtínať.   No — no...« jedovala sa, naprávajúc pradeno. »Všetko   rozčuchrala.«
+   </tei:p>
+   <tei:p>
+    »Veď počkaj I« miešala sa jej Eva.
+   </tei:p>
+   <tei:p>
+    »Nechaj — netýkaj sa!« odháňala ju. »Tam si vezmi kapustnicu.   Rezeň slaniny máš tam. Bude aspoň zapražiť. No, ale takto roztriasť   pradeno!«
+   </tei:p>
+   <tei:p>
+    Eva bežala ku peci, kde bol hrniec s ka-
+   </tei:p>
+   <tei:p>
+    ﻿113
+   </tei:p>
+   <tei:p>
+    pustnou polievkou. Pustila si jej na jazyk, ústa sa stiahly na   gombičku. »Haj, či je — ani britva! Len ako držíš tú kapustu? Takej   polievky nemáš v celej dedine. No, ale sa zaraduje Ondráš —■ a ešte   slanina! Akože sa ti odslúžim? Počkaj: keď budeš priadzu na krosná   naprávať, prídem ti pomôcť, len mi daj znať. A teraz idem — ďakujem   pekne: dobre sa maj!«
+   </tei:p>
+   <tei:p>
+    Skryla hrniec pod zásteru a do druhej ruky rezeň slaniny, a takto   obťažená vyšla do pitvora. Katrena ju vyprevádzala. Iba tu, predo   dvermi vo dvore, gazda Machaj.
+   </tei:p>
+   <tei:p>
+    Eve dobre hrniec nevypadol a slanina. Videla, že gazda sa   nepotešil, zazrúc ju odnášať čosi.
+   </tei:p>
+   <tei:p>
+    »A je, ľaľa, už dosť pekne —• ovce už zajtra vraj vyženú na pašu«,   prihovorila sa mu Eva.
+   </tei:p>
+   <tei:p>
+    »Ba ja teba vyprášim, ak raz odpášem remeň. Len také franforce   budú lietať za tebou! Čože tu chce, táto jašterica, čo chce: a ešte   ti z domu bude vydry odvláčať! Čože je to?« A bez veľkých príprav   odhodil zásterku, zpod ktorej sa mu usmiala širanica s kapustnicou a   hodný rezeň slaniny. Skoro zdupnel, ako to videl. Kyslá chuť a pekná   vôňa polievky pošimrala mu nos; i tá slanina taká pekná. A ako stoja   obe! Eva drží širaňu za obe uchá a usmieva sa hlúpo; Katrena zas sa   trasie. »Tak vy takto? Vydry vypúšťať, keď ja vytiahnem nohu z domu?   A mne kapustnice ani za lyžku nežičiť, a kade-
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy II. 8
+   </tei:p>
+   <tei:p>
+    ﻿114
+   </tei:p>
+   <tei:p>
+    tade v širaniciach roznášať? Komu je tá slanina?* zahrmel na   Evu.
+   </tei:p>
+   <tei:p>
+    »Jaj, Bože!« podskočila od strachu. »Ondrášovi nášmu. . .«
+   </tei:p>
+   <tei:p>
+    »Čo?« vykríkol a v tú chvíľu už mal širaňu v rukách. Eve zvýšily   iba uchá. S velikým udivením hľadela na ne, ako mohly sa tak   odtrhnúť. Zpomedzi rúk gazdových tiekla cícerkom kapustnica a   rozšírila sa v celom dome kyslastá vôňa. Širaňa bola puknutá a či   zabitá. »Mne toto robiť ?« oboril sa na vlastnú ženu. »Takto mňa   cigániť?« A širaňu podvihol nad hlavu, že mu polievka tiekla do   rukáva a až do pazuchy.
+   </tei:p>
+   <tei:p>
+    Katrena už vedela, čo ide byť. Skočila mužovi za chrbát a   prikrčila sa, chytiac sa mu pliec. On sa dosť obracal, ale ona sa   tiež obracala. Rozjedovaný hodil širaňu na prostred pitvora. V   pitvore zdudnelo, z izby sa ozval detský krik: »Mamó — mamó!« Katrena   vyskočila na podstenok splašená, čo muž teraz už urobí. Ale ten   fučal, odhŕňajúc nohou črepy zo širanice, a hrešil. Eva medzitým   uskočila. Polievka sa vyliala, to je pravda: ale slaninu predsa   ratovala.
+   </tei:p>
+   <tei:p>
+    Ukrutný Machaj vošiel do izby a tíšil ustrašeného syna: »No, neboj   sa — nik ťa nebije!«
+   </tei:p>
+   <tei:p>
+    Katrena odbehla do súsedov, »či už naprávajú priadzu na krosná«.   Vybola tam do samých polvečier. Prišiel po ňu syn Janko, »aby mať   prišla variť, že ju otec volá«. Vtedy mať
+   </tei:p>
+   <tei:p>
+    ﻿115
+   </tei:p>
+   <tei:p>
+    vrátila sa i so synom domov, a gazda sa jej predsa nedotkol.
+   </tei:p>
+   <tei:p>
+    111.
+   </tei:p>
+   <tei:p>
+    Jano Machaj tak sa premenil, že sama Katrena počala sa báť oňho.   Spomenutý výstup v stajni a vo dvore s najmenšími junci opakoval   skoro každý deň. Zavieral pritom dverce na závoru, aby ho nikto   neprichytil. Ale čím dial prehliadal, tým jasnejšie videl, že Ondro   Puchor má svätú pravdu. Junec zakášal nohou. Mimo toho chôdza jeho   bola veľmi neporiadna, lebo ometal zadkom, čo každý musel na prvý   pohľad spozorovať. »Kde som mal oči, kde som mal oči ?« nadával si   zakaždým, keď vyviedol junce do dvora. A prečo ich vyvádzal? Lebo   zkrsla v ňom každé ráno akási úfnosť, že junec tú chybu nemá od   prírody, ale iba do času, a že azda minulej noci ju ztratil. A čo raz   ho revidoval, zakaždým sa presvedčil, že úfnosť bola nadarmo. A   pritom, aká to hanba, keď Machaj má chybného junca! Ako ho svetu   ukáže, ako ho zapriahne? Iste ľudia pôjdu na diváky, keď prvý raz   zapriahne junce, lebo ich máva na div: ako sa musí hanbiť. »Kde som   podel oči ?« narieka ustavične. A ono vie dobre, kde podel oči. Junce   kúpil od Mičincov, len tak z nenazdania, keď sa stretol s nimi v   meste. Nebolo s ním Ondra Puchora. Ondro Puchor — to boly jeho   oči.
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    ﻿116
+   </tei:p>
+   <tei:p>
+    Chodieval s ním po jarmokoch; Ondro vyberal, prezeral, a vždy   prezrel dobre, i výhodne kúpil. A vtedy azda prvý raz ho nemal so   sebou -— i tak obesil si na hrdlo čaptavého junca. To ho jedovalo;   to, že Ondro je majster pri voloch, a on nespôsobný. A ako mu Ondro   do očú povedal, že chybne kúpil: vtedy ho veliký hnev zaujal. A ten   hnev neprestáva, ale nanovo sa rozširuje, čo raz pozre na nešťastného   junca. Keby ho mohol odpeľať, čo hneď za pol ceny! Čo by mu vyničel a   nezostalo po ňom pamiatky! Chytro by kúpil druhého a nik by nezvedel,   čo Jano Machaj vyviedol. Ale junec nie. Stojí v stajni, a bude stáť,   kým ho gazda neodvedie na jarmok. A len aby ho včas predal, kým z   dediny chlapi neprídu...
+   </tei:p>
+   <tei:p>
+    Nikomu sa nezjavil, že sa vyberá na jarmok. Ani žene nerozkázal   upiecť kabáč a obariť slaniny alebo postaviť do kapusty klobásy. V   deň jarmoku, na svätého Jozefa, vstal o druhej po polnoci a obliekol   sa do šiat trochu sviatočných, trochu robotných. Katrena zobudila sa   na šuchot.
+   </tei:p>
+   <tei:p>
+    »Kde sa sberáš?« pýta sa ho ešte rozospatá.
+   </tei:p>
+   <tei:p>
+    »Ba že si tak počula!« okríkol ju muž. »lndy by ju kanóny   nezobudily, teraz má uši tenké. Lež a spi!«
+   </tei:p>
+   <tei:p>
+    Ľahko sa to povie! »Čo, keby sa šiel zverbovať, alebo obesiť!«   pomyslela si Katrena, a veľmi sa predesila. Bola i tak rozospatá, a   potom
+   </tei:p>
+   <tei:p>
+    ﻿117
+   </tei:p>
+   <tei:p>
+    vídala po tieto dni muža zamysleného. »A veru ten ide na jarmok!«   vhuplo jej do hlavy. Muž si zakladal kapsu na plece; z toho usúdila,   že sa sberá na jarmok.
+   </tei:p>
+   <tei:p>
+    »Bola by ti niečo uvarila«, ponúkla sa úslužne, teperiac sa z   postele. »Čože si nepovedal večer, že do dňa sberáš sa na jarmok ?«   Bola žena poslušná, ale tu ho musela vyhrešiť, že nemá k nej   dôvery.
+   </tei:p>
+   <tei:p>
+    »Toť — vybubnovať to dám v dedine, či čo!« zahriakol ju   najedovaný. »Povedám ti: lež a spi. A nepovedz nikomu, kde som«,   doložil trochu vľúdnejšie. »Ach, Pane Bože, postretajže!« vzdychol   zbožne, podvihnúc klobúk a hľadiac do povaly; »aby som darmo   nechodil...«
+   </tei:p>
+   <tei:p>
+    Katrene nepáčil sa celý ten spôsob, ako sa vybral. Už to, že   zatajoval, kam ide, i že bez spiežovcov vedie junce — to všetko sa   tak pozdávalo, ako keby muž chcel niekoho podviesť a potajomne   sprostiť sa juncov. Bola skoro istá, že na takej veci nebude   požehnania. A bolo jej Túto. Ak nepredá, vráti sa ešte väčšmi   nahnevaný a hnev ten na nej vyleje. Spomínala, v akej ju mal kedysi   vzácti, až časom jeho city ochladly, ani keď vodu od ohňa odstaví.   Teraz začína s ňou zachodiť, ako každý iný starec so ženou. Prišlo   jej ľúto časov, kým za ňou chodil. Čo vtedy nasľuboval! Že bude   celkom inakší, ako tí druhí. Maľovala si život, že jej k vôli všetko   sa prevráti. Dnes už vidí, že jej planéta
+   </tei:p>
+   <tei:p>
+    ﻿118
+   </tei:p>
+   <tei:p>
+    nebola odchodnejšia od tých, čo druhým nad kolískou svietily. Kým   privykla, kým sa rozlúčila s nádejou, že všetko sa splní, nejednu noc   preplakala. Teraz už neplače, navykla niesť svoje bremeno.
+   </tei:p>
+   <tei:p>
+    Ondro Puchor prebudil sa ešte za tmy. Cestou bolo čuť hlas   spiežovcov, hovor idúcich do jarmoku. Pohladil načuchrenú hlavu,   sadol na posteli a veliké nohy spustil na zem.
+   </tei:p>
+   <tei:p>
+    »Ty, dnes je v meste jarmok«, prihovoril sa žene, ktorá pri kozube   priadla, púšťajúc pod prsty strašné hľuzy pačesov. Bola Eva   Puc’norova priadka veľmi planá. »Čo ja urobiť: ísť, či nejsť?«
+   </tei:p>
+   <tei:p>
+    Složila ruky na lono a vreteno popustila, že celembalo na začatej   niti. Pozrela na muža s úsmevom na tvári. »Veď by bolo. Doma nemáš   roboty — ale čo tam budeš robiť? Machaj ťa nezavolal ?«
+   </tei:p>
+   <tei:p>
+    Ondro zazíval a hodil rukou. »Horký! Ani nepozre v tú stranu, kde   som ja. Ako keby ja bol na vine juncovi. Nepozre ten. A bezo mňa ho   neodpelia— pamätaj! Lebo na jarmoku jazykom nadkladaj: a ten je na to   nespôsobný. 1 tají sa, že na jarmok nepôjde, a ono Mochúľ to vie, a   ja som hneď vedel; takého lazára on v stajni nestrpí. Nepôjdem —   neudobrí sa. A vidíš, mňa toto veľmi mrzí. Pôjdem — neviem, čo ma tam   potká.« Zahľadel sa do ohňa a či na ženu. »Čerti mi posvietili to   slovo na jazyk:
+   </tei:p>
+   <tei:p>
+    ﻿119
+   </tei:p>
+   <tei:p>
+    ale nešťastná pálenka! Ej, radšej som sa mohol zabiť. Radšej.«
+   </tei:p>
+   <tei:p>
+    »Ale choď«, riekla Eva veľmi láskavé. »Choď, azda sa pomerí. Lebo   naozaj bez neho nám je ťažko. 1 zárobok, i takto ťa zratuje. Choď,   probuj šťastie. Ja pôjdem ku Katrene na priadky. Jeho nebude doma,   Katrena bude rada.«
+   </tei:p>
+   <tei:p>
+    »J a j, čo som plietol tým nešťastným jazykom !« vyčítal si Ondro.   »Ale kto sa nazdal, že si tak vezme na nos? A vonkoncom ja to takto   nenechám. Zárobok ako zárobok: ale, vieš, ťažko mi je, ak si nájde   druhého pohoniča do oračky! Už som tak uňho privykol —- veď sme boli   ako bratia!«
+   </tei:p>
+   <tei:p>
+    Obliekol sa napochytre; zjedol, čo bolo; zahodil kapsu, pravda,   prázdnu, a halenu sviatočnú, zavesil si čugaňu a hybaj. Eva   vyprevadila ho na ulicu a tam mu ešte vinšovala.
+   </tei:p>
+   <tei:p>
+    Títo ľudia nažívali tak utešene, že hociktorý mladý pár mohol by   im závidef. A to len keď boli medzi sebou. Medzi svetom tak sa   držali, ako iní, lebo svet by ich bol dosť ľahko vysmial, že sa   maznú. Eva niekedy pred ženami zle-nedobre na svojho, len aby ženy   videly, že ani ona nie je do muža zaľúbená. A ona je ešte dosiaľ   zaľúbená a on tiež. A bude už pomaly desať rokov, čo sa sobrali.   Ondro bol hrubý krajčír, šil nohavice i haleny pre svoju a dve   súsedné dediny. Pritom dve letá bol voliarom a tu priučil sa od   starého Jura všeli-
+   </tei:p>
+   <tei:p>
+    ﻿120
+   </tei:p>
+   <tei:p>
+    čomu. Po Jurovej smrti stal sa on najlepším doktorom a vôbec   znalcom statku, menovite rožného, a najväčšmi volov. Nie div, že Jano   Machaj, upriamený na pekný statok, obľúbil si Ondra a nepohol sa   nikam bez neho. Na každý jarmok ho volal a Ondro vždy rozhodol, ktoré   junce a prečo kúpiť alebo nekúpiť. Iba teraz Jano sám bol pri kúpe. A   to stalo sa takto. Bol v meste a tu zazrel Mičincov, ako ženú kdesi   junce na jarmok. Chlapi ich už v meste čakali, zastavili a vyberali   si z kŕdľa čo lepšie. Jano sa dal sviesť. Kúpil junce, o ktorých sme   už toľko pohovorili. Prvé bolo, že si dal zavolať Ondra; chcel sa mu   pochváliť kúpou. Ondro iba pozrel: videl, že sa Machaj oklamal. Kúpil   i nepekného junca i so slabými nohami. Hneď si umienil, že tie nebude   v Janovej stajni trpeť, že ich predá pri prvej príležitosti. A ono   stalo sa čosi iného: opil sa, vybľabotal Janovi, že čaptavého junca   kúpil, a Jano vypovedal mu z kamarátstva. Keby nie Mochúľ, Ondro by   ani nevedel, že Jano išiel na jarmok. Krčmár Mochúľ bol teraz Janovi   tajomníkom.
+   </tei:p>
+   <tei:p>
+    Ondro si vec takto rozhútal. Pôjde na jarmok, narazí Janovi kupcov   nejakých neznámych a prikmotrí sa k Janovi, nastane smierenie a večer   sa vrátia ako dobrí priatelia. Lebo čo majú z tohoto? Jano škodu a   Ondro psotu. Jano musí hľadať iného pohoniča k jari a ten ho natiahne   v cene a možno i do roboty nebude
+   </tei:p>
+   <tei:p>
+    ﻿121
+   </tei:p>
+   <tei:p>
+    súci. A potom ako by mu dalo hľadať inde prácu a kde by ju takú   našiel! Veď len koľko sadla, masla, mlieka, slaniny, múky a hrachu   nadonášala Eva od Machajov. Skoro nikdy s prázdnou rukou ju nepustí   Katrena. Iba tak sa dá vysvetliť, prečo u Puchorov nebýva psota;   Puchor nemá vôbec zemí a remeslo ide dosť lahodne. Len tak si možno   predstaviť, kam sa podeje u Machajov to maslo a tá slanina, ktorej   minie sa práve toľko, ako v každom dome, kde je plno čeliadky.
+   </tei:p>
+   <tei:p>
+    Nie div, keby náš Ondro preto banoval za Machajom. Ale smutný je   nie tak preto, ako pre iné. Naučený je od rokov s Janom chodievať,   začal sa tak cítiť, ako by gazdom bol on, a nie Jano. Čo raz viedol   Janove voly a počul ich vychvaľovať, bolo mu, ako by to boly voly   jeho. I v dedine ho ctia, že je gazdom u najlepšieho skoro   hospodára.
+   </tei:p>
+   <tei:p>
+    Preto dnes ráno neťažilo sa mu vstať, neťažilo sa mu ísť do   jarmoku. Chcel všetko vydobyť, čo utratil.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Jano Machaj zaujal výhodné stanovisko na trhu. Sviazal junce   vodzkou a stál pri nich, čakajúc, či nejaký kupec učlovečí sa pozreť   na ne. Statku, menovite volov, dostavilo sa málo. Tak obyčajne býva   na Jozefskom jarmoku. Ani jeden gazda nepredáva statok pred oračkou:   iba
+   </tei:p>
+   <tei:p>
+    ﻿122
+   </tei:p>
+   <tei:p>
+    koho bieda donúti, alebo kto ho má nepodarený, slabý. I kupcov   málo. Čo lepší gazda, každý hľadí si zadovážiť statok na Brtomila   alebo na Gála; pred zimoviskom je lacnejší. Pred oračkou kupujú iba   takí, čo nemajú krmu dostatok, alebo čo predali statok na stajni, a   to veľmi výhodne. Junce, do roboty slabé, málokto bude kupovať, keď i   tak krmu je na mále, a čo jest, to sa minie v oračke. A Janove junce   nie sú do roboty, na šiji nemalý nikdy jarma.
+   </tei:p>
+   <tei:p>
+    Ondro znal veľmi dobre, že sú okolnosti veľmi nevýhodné: ale úfal   sa, že šťastie ho neopustí. Jano, ten málo rozmýšľal. Jemu šlo o to,   aby dnes akokoľvek sprostil sa juncov. Bolo už dobre k poludniu, keď   ešte vždy stál pri nich a ani jeden kupec nespýtal sa ho na cenu, ba   ani len nezastal pri ňom. Tí, čo pri ňom s volmi stáli, už dávno   odišli. Pijú kdesi oldomáš. Okolo nich sa len tak kupci rojili. Všade   dookola vrava, krik, prísahy, kliatba, požehnávanie, iba pri ňom   ticho a smutno, ako by stál na ztratenej varte. Ešte dobre, že nikto   z dediny ho nespáčil a nepustil sa s ním do reči. Bol by zahynul od   hanby, nech by ho nejaký známy prichytil stáť pri takýchto   kalikách.
+   </tei:p>
+   <tei:p>
+    Práve bol pohrúžený v takýchto myšlienkach, keď zazrel zďaleka   Ondra na jednej čistine. Obzerá sa na všetky strany, ako by niekoho   pilne hľadal. »Čo tu chce?« myslí si Jano. »Iba ten mi ešte   chýbal!«
+   </tei:p>
+   <tei:p>
+    ﻿123
+   </tei:p>
+   <tei:p>
+    A skryl sa za junca, ako len mohol, aby ho Ondro nezbadal.
+   </tei:p>
+   <tei:p>
+    Naraz Ondro pozrel na junce — preletel mu tvárou úsmev, ako by si   povedal: »Už ste tu!« Jano videl ten úsmev; uhádol, že Ondro hľadá   jeho. Veď, ľaľa, i blíži sa k nemu.
+   </tei:p>
+   <tei:p>
+    »Choď mi v čerty, falošník!« zahundral a zazrel na Ondra. Potom   odvrátil sa v inú stranu. Každú chvíľu čakal, že Ondro príde k nemu a   prihovorí sa mu. A bál sa ho akosi. Dlho stál v neistote: konečne   obzre sa nesmelo vpravo, ľavo — na všetky strany. Ondra nevidno.   »Chvalabohu!« zaradoval sa. »Len daj, Pane Bože, aby ho už   nevidel!«
+   </tei:p>
+   <tei:p>
+    A stojí zase opustený, ako sirôtka na vypasenom prielohu, nemajúca   družiek kvietkov. Okolo neho sa kupuje, predáva, iba on ako by ho tu   nebolo. »Ktosi mi porobil!« myslí si. »lste ten, ten neprajník. Čo tu   hľadá — a vidno, za mnou prišiel. Čo chce so mnou?« A zdalo sa mu, že   Ondro je jeho najväčší nepriateľ. »Musí čosi vedieť: musí! Jediný raz   som kupoval bez neho, a už sa mi takto povodilo. A nebodaj ich už   nepredám. Chce sa vypomstiť na mne, čo som sa s ním neporadil. Ale ja   ukážem, že i sám môžem... A ono, keby on bol býval so mnou, nebolo by   sa toto stalo. On sa rozumie. A ja nemusím iba s ním?...«
+   </tei:p>
+   <tei:p>
+    Bol by sa dlho takto zhrýzal, keby sa neboli priblížili dvaja   chlapi v dlhých širiciach
+   </tei:p>
+   <tei:p>
+    ﻿124
+   </tei:p>
+   <tei:p>
+    Zastavili sa pri ňom a ticho si šuškali. Neboli zďejší, tak ako zo   Zvolenskej keby boli. »To sú oni!« myslí si Jano, a srdce mu   hlasnejšie bilo. »Ak týmto ich nepredám, tak už nikomu.« Tak mu bolo   akosi mdlo, cítil sa osamelým. Prvý raz má sa jednať s kupci bez   všetkej pomoci, a už ztratil chladnú krv. »Keby tu bol, už by sa im   bol prihovoril«, vraví mu akýsi vnútorný hlas. »Nie, nech si len tam   ostane, kde je. Do tých čias je dobre, kým ho nevidím . . .«
+   </tei:p>
+   <tei:p>
+    »Akože ich ceníte, švagre?« pýtal sa jeden, oprúc sa na čugaňu a   široký klobúk šibnúc z tyla na čelo.
+   </tei:p>
+   <tei:p>
+    »Bez piatich pol štvrta«, odpovedá Jano, a hneď si zas myslí:   »Málo som zacenil — pred jarou bývajú v cene. Ale čo, ja som dal   rovných tristo, a za rovných im ich zaraz dám.«
+   </tei:p>
+   <tei:p>
+    Druhý sa poškrabal za uchom a oprel lakťom o čugaňu. »Dáte ich bez   pätnástich...«
+   </tei:p>
+   <tei:p>
+    »To je moc!« zahriakol ho prvý. »Kdeže bez pätnástich! Za rovných   mám voly do pluha: to volím doložiť tých pätnásť a kúpiť si voly. Veď   sú toto mačatá!« Pristúpil k jednému a chytil ho za hubu, prezrúc mu   zuby, tak i druhému. »Povedám, v druhom roku. Bez pätnástich nedám —   za pol treťa, ak chcete.«
+   </tei:p>
+   <tei:p>
+    »Nuž čože sa budeme jednať, dám naraz ostatnú cenu: bez   desiatich!« Jano bol hotový spustiť i niže rovných, bol hotový   odpeľať junce
+   </tei:p>
+   <tei:p>
+    ﻿125
+   </tei:p>
+   <tei:p>
+    za každú cenu. Bol netrpelivý a strach, že ho kupec nechá... Kupec   pozrel prekvapený na kamaráta. Janovi uškodilo veľmi, že slovo   spustil päť. Päť, a čo hneď šajn, na prvé slovo spustiť je vec veľmi   podozrivá. Kupci hľadeli druh na druha. Ten pohľad vravel: »Toto sa   mi nepáči!« Obišli junce ešte raz, pohladili, potľapkali, prešmátrali   a koniec prehliadky bol, že sa starší pýtal: »Nemajú nejakú chybu?«   »Čo za chybu? Veru to!« vykríkol Jano celý zgalamutený. »Nemajú tie   chyby, ani čo by špendlíkom bodnúť...«
+   </tei:p>
+   <tei:p>
+    »A žerú takto ?«
+   </tei:p>
+   <tei:p>
+    »Ako keby pálil«, veral sa Jano. »Pšeničnou sečkou som ich kŕmil.   Nemám krmu, tak ich predávam. Príde mi strechu driapať. A žerú. 1   prúta by žraly. Ľúto mi je ich predať: ale krmu niet, ako hovorím.«   Jano sa sám sebe divil, kde sa v ňom tá reč berie.
+   </tei:p>
+   <tei:p>
+    Kupci počúvali a prisviedčali. »Teraz krmu dosť; chvalabohu,   strechy budú na pokoji: to nie ako za lanským. Nuž pšeničnú sečku —   hm!« A kupec krútil hlavou, hľadiac na zem a šťukajúc čugaňou. Jano   bol by dal neviem čp, keby zvedel, čo si kupci myslia. A ono pozrel,   čo ten jeden tak pozorne hľadí na zem. Začervenal sa, ako žiak, keď   ho dochytia na cigánstve. Pred chvíľou istil kupcom, že junce žraly   pšeničnú sečku: a tu sám náručný, ten
+   </tei:p>
+   <tei:p>
+    ﻿126
+   </tei:p>
+   <tei:p>
+    nešťastný čapták, vyniesol pravdu na svetlo. Tam pri zadných   nohách belie sa jačmeň — pozostatky nezažitej potravy...
+   </tei:p>
+   <tei:p>
+    »Ale i pritrúsite niečo do tej pšeničnej sečky!« posmeškoval   starý. »Kde sa vzal tu ten jačmeň ?« Pozrel na Jana, ale ten stál ako   obarený a bol by náručného zaraz zabil. »Tie sta na dobrom koste. V   niektorých dedinách ani ľudia jačmeňa nemajú.«
+   </tei:p>
+   <tei:p>
+    Jano nevedel, čo odpovedať. Bolo mu do plaču, že ho stíha také   nešťastie pri tomto junci. Bolo mu clivo tu samému, nezkúsenému,   obhadzovať sa okolo dvoch, veľmi prefíkaných kupcov. K tomu videl   pred sebou istotu, že junce povedie nazad a v dedine ho vysmejú.
+   </tei:p>
+   <tei:p>
+    »No — dobre som vám poradil ?« ozval sa hlas, nášmu Janovi dobre   známy. Hlas Ondrov. »Kde sa ten len berie ?« myslí si Jano, ale naraz   ako keby mu ťarcha padla so srdca. Pozrel naňho, oči sa im sňaly, a   ten jediný pohľad zahnal všetky hnevy. Ondrej sa usmial, ako by mu   chcel povedať: »Neboj sa, my už tie junce nejako minieme.« A v Janovi   zobudila sa naraz úfnosť, že dnes ešte bude zbavený tejto poškvrny,   ktorú si sám uvalil na hlavu a či doviedol do stajne.
+   </tei:p>
+   <tei:p>
+    »Poradil ako poradil«, odpovedá starší kupec. »Junce sa vidia,   takto naoko: ale toto sa mi vonkoncom neľúbi«, ukázal na jačmeň na   zemi.
+   </tei:p>
+   <tei:p>
+    ﻿127
+   </tei:p>
+   <tei:p>
+    Ondro sa hneď vynašiel. Zasmial sa Janovi a opýtal sa ho: »Švagre,   a vy stojíte tu od počiatku ?«
+   </tei:p>
+   <tei:p>
+    Jano vedel, že nesmie sa dať Ondrovi do známosti. Ako videl jeho   tvár, už bol na mieste. Uhádol, čo otázka znamená. »Nie — len toť som   sa sem dobil. Bolo tu moc statku, musel som tam na kraji stáť«,   ukázal v tú stranu, kde sa končil rýnok. »Nemohol som sa dotisnúť,   len nedávno sa trochu preriedilo.«
+   </tei:p>
+   <tei:p>
+    »To sa môže veriť i neveriť«, odpovedá starší kupec Ondrovi. »Lebo   maznáky si nadobudnúť, to je horšie, ako rozmaznaná žena.«
+   </tei:p>
+   <tei:p>
+    »A keď je i tak — čože, preto junce môžu byť do sveta. Akože ich   vy chováte, keď sa sberáte do jarmoku? Na moj’ pravdu, ani vy   neskúpite zrnom. Jačmeňom ich natláčať, komu by to vystačilo! To je   ako medzi sedliakmi: keď si doma, zješ i švábočku v kožkách, a keď   ideš medzi svet, už ti len žena obarí tej slaninky alebo klobásy. No   — ľaľa! Trochu jačmeňa! Pozrite, čoho máte na tomto rynku. Na moj’   pravdu, chotár by ním obsial. Len sa pojednajte — vy nadhoďte a vy,   švagre, spusťte,, a bude oldomáš. Junce sú mladé, ale, ľaľa, krotké.«   A obišiel ich, tľapkal a hladil; junce to trpely. »No, a to je moc,   keď sú nie durné. Divoká ani jarmom neskrotíš. Tieto budú orať samy,   bez pohoniča: budú chodiť, ako deti. A to je tiež moc hodno. No,   koľkože dávate ?«
+   </tei:p>
+   <tei:p>
+    ﻿128
+   </tei:p>
+   <tei:p>
+    »Ja pol treťa«, odpovedal kupec. »Ale tuto vysoko zaťali. Bez   desiatich pol štvrtá...«
+   </tei:p>
+   <tei:p>
+    »Hm«, pokrútil Ondro hlavou. »Medzi vami je veľa, deväťdesiat. I   vy musíte podbehnúť, i tamten«, ukázal na Jana, »spustiť. Keby to   bolo na mne, ja by moc netryznil: preťal by to na poly; ten polovicu,   ten polovicu. Tľapnúť do ruky a vypiť oldomáš. Ľaľa, ide byť poludnie   beztoho. No — posošte sa: nadhoďte, ale nie nejakú špetku. Čím viac   nadhodíte, tým prv sa snímete.«
+   </tei:p>
+   <tei:p>
+    »Ja som už beztoho spustil päf«, ohlásil sa Jano.
+   </tei:p>
+   <tei:p>
+    »Veď tak, čože budete tvrdí! Čo je slušná vec, je slušná vec. No,   pohnite, veď on tuto švagor ešte spustí...«
+   </tei:p>
+   <tei:p>
+    Starý kupec obišiel junce ešte raz. Prezeral im chrbáty, či sú v   nich nie uhry, všetko poprezeral, poodstúpil na bok a z diaľky ich   muštroval. Skrčil sa a popod ne pozeral na druhú stranu. 1 rohy dlho   prezeral a pohladil; azda si myslel, že sú falošné. Zadíval sa juncom   i do očú, ako by z nich chcel uhádnuť, čo si junce myslia. Vôbec   ničoho nič mu neušlo. Ani nohy a chvosty neobišiel. Zdá sa, že   konečne sa rozhodol, že junce iste kúpi. Pristúpil k Janovi a riekol   mu chladne a určite:
+   </tei:p>
+   <tei:p>
+    »Pol treťa i dva. Zjednajte sa, švagre, viac vám nik nedá.«
+   </tei:p>
+   <tei:p>
+    »To je málo«, riekol Jano sklamaný. Na
+   </tei:p>
+   <tei:p>
+    ﻿129
+   </tei:p>
+   <tei:p>
+    toľké prezeranie myslel, že mu nadhodí aspoň desať. »To je   málo.«
+   </tei:p>
+   <tei:p>
+    »No, z malého býva viac«, riekol Ondro. »Spusťte i vy, a dobre.   Povedzte radšej hneď ostatnú cenu«, a tu zažmurkal na Jana tak   dôverne, ako kedysi ešte, kým boli dobrí. »No — nech ho sám Pán Boh   požehná...«
+   </tei:p>
+   <tei:p>
+    »No— bez pätnástich«, riekol Jano ochotne. Ale tu sa tvár Ondrova   svraštila. Jano sa chcel ospravedlniť. »Keby mal krmu nadostač, nedal   by ich. Ale kde sa pohneš? Už som zas spustil. A tuto švagor...«
+   </tei:p>
+   <tei:p>
+    »Vidíte, vy akosi nemáte sa k tomu oldomášu!« dohováral Ondro   kupcovi. »Hen od toho sme počuli slovo. To je slušné slovo: pät na   jeden raz. A vy dva! Povedzte, čo máte: ľaľa, domov sa bude i vám i   nám poberať. Zajtra robota.«
+   </tei:p>
+   <tei:p>
+    »Už nech je, ako chce«, ohlásil sa mladší kupec, ktorého   trpelivosť prešla. »Dám päť.«
+   </tei:p>
+   <tei:p>
+    »To je moc! Kdeže päť!« zasekol ho starší.
+   </tei:p>
+   <tei:p>
+    »Už neberte nazad!« zavolal Ondro. »Vy«, obrátil sa k mladšiemu,   »akože vaše poctivé meno?«
+   </tei:p>
+   <tei:p>
+    »Juro.«
+   </tei:p>
+   <tei:p>
+    »Vy, Juríčko, sami vidíte, že sú hodný. A tuto váš otec. . .«
+   </tei:p>
+   <tei:p>
+    »Brat«, naprával ho mladší.
+   </tei:p>
+   <tei:p>
+    »Nuž brat — neuzná. Vy ste Jurko. Môj otec bol tiež Juro — Pán Boh   mu daj slávu
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy II. 9
+   </tei:p>
+   <tei:p>
+    ﻿130
+   </tei:p>
+   <tei:p>
+    večnú! Bol dobrý človek. No, pristaňte na tých päť«, obmäkčoval   staršieho.
+   </tei:p>
+   <tei:p>
+    »Keď už sľúbil, nuž sľúbil.« A obrátil sa k Janovi, chytiac ho za   ruku. »Nech vás Pán Boh požehná: dajte ich za tých päť...«
+   </tei:p>
+   <tei:p>
+    »Nie«, krútil Jano hlavou. »Tak by ma predali. Bez tých   pätnástich.«
+   </tei:p>
+   <tei:p>
+    »Kdeže takto dôjdeme?« dohováral mu kupec. »My sme nadhodili,   musíte i vy spustiť.«
+   </tei:p>
+   <tei:p>
+    »Veď som spustil päť, a vy ste horkoťažko nadhodili tri. Podvýšte.   Kdeže by ja za päť? Ale aby ste vedeli, že si vás šacujem — bez   sedemnástich. Ale to je už ostatné slovo.«
+   </tei:p>
+   <tei:p>
+    Starší kupec pustil mu ruku a riekol smutne: »Nie, toľko ani nemám   — to je groš veliký. Na tie peniaze. . .«
+   </tei:p>
+   <tei:p>
+    »Oj, ja počkám«, núkal sa Jano. »Čo by nepočkal? Junce i tak   nejdem kupovať. 1 mesiac, i desať týždňov počkám. Vidím, že som   natrafil na človeka.. .«
+   </tei:p>
+   <tei:p>
+    »Ja, čakať ako čakať: ale kde tu vziať, keď nemáš z čoho? O desať   týždňov tak ťažko mi zaplatiť, ako dnes. Ja najradšej z ruky do ruky.   No, nepusťte si prvého kupca...«
+   </tei:p>
+   <tei:p>
+    »Bez sedemnástich. . .«
+   </tei:p>
+   <tei:p>
+    »Nie, nie! No, ako chce, už akokoľvek za päť. No, dajte ich, verte   mi, starší som človek — nikde ich nedostanete. Pozrite len, veď je to   dengľavé. To iba zábavka, nie do roboty. A
+   </tei:p>
+   <tei:p>
+    ﻿131
+   </tei:p>
+   <tei:p>
+    tento« — ukázal na náručného — »má chvost spadnutý. To tiež je   chyba.«
+   </tei:p>
+   <tei:p>
+    »No, to je iba naoko. Čože, keď nemá toho hrebienka na chvoste!«   zamiešal sa Ondro. »To je iba srsť. A krása — to je ako v poli tráva:   uschne a na oheň býva vržena. Veď ani žena je nie bez chyby!«   poučoval ho, položiac si palec na nos. »I žena má: tu oko škuľavé, tu   zuby štrbavé, tu ruky popukané. A, na moj’ hriešnu, taká, čo má   chybu, je lepšia: aspoň ti nemôže povedať, že je pekná a ty mrzký. 1   sviňa je pľuhavá, a predsa si palce z nej oblížeme. Povedzte, čo   myslíte, ale päť je málo.«
+   </tei:p>
+   <tei:p>
+    »Dáte ich za šesť?« ozval sa razom starší. »Vyčítam vám na dlaň —   šesť. Ale už viac nie, ani babky...«
+   </tei:p>
+   <tei:p>
+    »Bez tých sedemnástich...«
+   </tei:p>
+   <tei:p>
+    »Juro, poďme«, riekol starší k mladšiemu. »Už ja vidím, že sa   nepojednáme.«
+   </tei:p>
+   <tei:p>
+    »Bez dvadsiatich!« volal Jano za nimi. Ale odpovedi nedostal.   Kupci odišli. Jano je celý zmorený. Ono kupci i odchodili i vracajú   sa. Často je nemožno kúpiť niečo, kým tri razy neodídeš. Ale Janovi   sa zdá, že títo už sotva sa navrátia. »No, čo teraz ?« pýta sa Jano   Ondra tak dôverne, ako kedykoľvek predtým.
+   </tei:p>
+   <tei:p>
+    »Prídu. Ten je tvrdý — ťažko dostaneš viac, ako rovných...«
+   </tei:p>
+   <tei:p>
+    »Len aby bolo toľko, i niže! Len sa ich sprostiť, tak alebo   tak.«
+   </tei:p>
+   <tei:p>
+    9*
+   </tei:p>
+   <tei:p>
+    ﻿132
+   </tei:p>
+   <tei:p>
+    »Spúšťaj pomalšie«, napomínal ho Ondro. »Po jednom, po dva rýnske.   Päť nikdy — len vydržať!«
+   </tei:p>
+   <tei:p>
+    Trvalo dosť dlho, a kupci sa neukázali. Už sa zvonilo, a kupcov   nič. »Už neprídu«, vraví smutne Jano. »Ja vidím, že ma neminie viesť   ich nazad.«
+   </tei:p>
+   <tei:p>
+    Ondro mlčal, bál sa prehovoriť slovo. O dlhú chvíľu zazreli vracať   sa oboch kupcov.
+   </tei:p>
+   <tei:p>
+    »Ja zacením päťadvadsať, ako chce«, radil sa Jano.
+   </tei:p>
+   <tei:p>
+    »Uvidíš, ako sa ti ukáže. Dobre, zaceň.« A hneď obrátil sa ku   kupcom. »No, vidíte, nikde takýchto juncov, čo by sa vám tak   šikovaly. Nikde nenájdete. Už sme sa chceli sobrať domov: ale, reku,   počkajme, lebo sa tí vrátia.«
+   </tei:p>
+   <tei:p>
+    »No, jest tam juncov dosť a — šumné«, chváli starší. »A kupca nič:   takýto drobnejší statok dnes sa nemíňa. Tam nám i núkali —- ale,   reku, poďme, probujme. Nuž, akože vy?«
+   </tei:p>
+   <tei:p>
+    »Bol tu teraz chlap, ako povedal, zkadiaľ?« obrátil sa Ondro na   Jana s otázkou.
+   </tei:p>
+   <tei:p>
+    »Počkaj, nemôže mi na um...«
+   </tei:p>
+   <tei:p>
+    »Nuž, zkadekoľvek: čaká nás v regáli. Ak chcete, dám vám rovných   tristo. Tak povedal. Tam bude čakať v regáli. My sme ešte nesľúbili;   čo poviete vy? To bolo jeho prvé slovo. My sme mu pustili za   päťadvadsať...«
+   </tei:p>
+   <tei:p>
+    »Za tristo ste mohli dať i oldomáš zaplatiť. Cena veFmi pekná. Nuž   za tristo!« krútil kupec
+   </tei:p>
+   <tei:p>
+    ﻿133
+   </tei:p>
+   <tei:p>
+    hlavou a usmieval sa. V tom smiechu ako by stálo: »Také fígle ty   nechaj doma, tie som ja dávno zodral v krpcoch.«
+   </tei:p>
+   <tei:p>
+    »A čo vy poviete?« vypytuje sa Ondro. »Šesfdesiat, ak chcete. Viac   nedostanete.
+   </tei:p>
+   <tei:p>
+    Ani ten vám ich nedá, iba ak by peniaze robil. Šesťdesiat je už   moc. To sú nie junce ani na tristo — nie to päťadvadsať. Peniažky vám   odčítam a pôjdeme vo meno Božie...«
+   </tei:p>
+   <tei:p>
+    V.
+   </tei:p>
+   <tei:p>
+    Tak už zostalo medzi nimi len šesťdesiatpäť zlatých. Kupci mali   chuť k juncom, Jano zas chcel predať, a tak jednačka trvala   nepretržite ďalej. Pravda, pomaly ubúdalo, ale Jano odhadzoval po   hodne a tak blížil sa každým krokom k svojmu cieľu, hoc veru kupci   neboli takí ochotní a nešli mu veľmi v ústrety.
+   </tei:p>
+   <tei:p>
+    Už slnce dosť dobre nachýlilo sa nad vrchy, keď došli tak ďaleko,   že medzi nimi už bol iba šesták, oldomáš a vôdzka. Jano utratil   beztoho toľko, že škoda by sa mu nenahradila, keby šesták, oldomáš a   vôdzka i zostaly na jeho strane. Bol by vďačne popustil, ale to   nesmel a nemohol. Čo sa dalo, urobil: naraz sa jednali o šesták,   oldomáš a vôdzku, kdežto veru by sa bolo malo jednať najprv o čisté   peniaze, potom o oldomáš a nakoniec o vôdzku. Lebo toto je veľmi   dobrý a rozumný poriadok. Kupec má tri
+   </tei:p>
+   <tei:p>
+    ﻿134
+   </tei:p>
+   <tei:p>
+    príležitosti rozvážiť a kúpiť alebo nekúpiť. A tu kupec veľmi sa   zpätkoval na konci, či má kúpiť, či nie. Ale, obozrúc si junce, musel   sám v sebe uznať, že gazda pustil junce veľmi lacno. Len či je to   všetko s kostolným riadom! Či niet chyby, alebo či sú zdravé? Ale   chyby zjavnej nemohol nájsť a choroby nebolo takto vidno. Práve bilo   na veži päť hodín, keď kupec ponúkol ostatný šesták i pol oldomášu a   Jano druhú polovicu a vôdzku. Už len si vziať, čo komu patrí, a ísť   každý domov. Šlo sa spoločne do hostinca; Jano viedol junce, oba   kupci a Ondro za ním. Ondro ich dosť zahováral. Starší kupec pobadal,   že náručný zakáša.
+   </tei:p>
+   <tei:p>
+    »Takto som ja nekupoval, takto nie: počkajte, švagre!« zavolal na   Jana, keď ešte boli na rynku. »Veď tento náručný je kylavý.« »Čo   zase!« zvolal Ondro s najväčším udivením. »Ale iďte — kylavý. Ja   nevidím n i č.« Jano nemohol ani slova povedať. Keby sa bol ohlásil,   každý by videl na ňom, že veľmi dobre vie, čo náručnému chybí. Takto   sa zdalo, že od hnevu nemôže slova povedať. Zato rečnil zaňho Ondrej.   »To je nie kylavý: akýže vám je kylavý. . .«
+   </tei:p>
+   <tei:p>
+    »Zametá, veď len pozrite, ako zametá. Nože pohnite, švagre.« Jano   urobil niekoľko krokov, a chyba bola veľmi jasná, Ondro ju nemohol   odtajiť. Neodpovedal hneď, kupec hovoril: »No, vidíte: povedám   kylavý. Ja ho nemôžem prijať.
+   </tei:p>
+   <tei:p>
+    ﻿135
+   </tei:p>
+   <tei:p>
+    Veď len poďte, švagre, pozrite sami. Juro, pojmi junce ty!«
+   </tei:p>
+   <tei:p>
+    Mladší brat viedol junce, a Jano s ostatnými hľadel na náručného.   Ako by sa nebol dosť nahľadel na tú mrzkú chôdzu! Veď celé dni myslel   na ňu, i v noci sa mu o nej snívalo! A tu musel sa pretvárať, že iba   teraz ju prvý raz vidí.
+   </tei:p>
+   <tei:p>
+    »To je nie kylavosf!« ozval sa Ondro s velikou určitosťou.   »To nič inšie, iba priesil.«
+   </tei:p>
+   <tei:p>
+    »Priesil!« rozosmial sa kupec. »Priesil je to, keď mu noha   nabehne: to je priesil. A kde ten má nabehnutú? Vidíte, nikde —■ nuž   ani priesila nemáte. A kde by dostal priesil? V stajni, či kde?«
+   </tei:p>
+   <tei:p>
+    »Kým prišiel do mesta. Možno, veľmi utekaly. Neutekaly vám ?«   pýtal sa Jana.
+   </tei:p>
+   <tei:p>
+    »Ledva som ich držal. Junce vypočinuté, i povláčily ma po poli«,   zacigánil Jano.
+   </tei:p>
+   <tei:p>
+    »No, vidíte!« obrátil sa ku kupcovi. »Priesil, nič iné — iba   priesil. Tiež čerti posvietili«, hrešil Ondro očistom Jana; »kŕmiť   junce jačmeňom: a posvietili! To junca veľmi šteklí taká chova so   zrnom...« Jano ovesil hlavu, ako by následkom tejto výčitky: ale to   naozaj nebolo. Ovesil, lebo videl, že kúpa je zmarená.
+   </tei:p>
+   <tei:p>
+    A kupec, menovite starší, mlčal, kým prišli pod regál. Tam zastal   naraz a riekol: »Švagre, ja tých juncov nechcem. To sú junce nie do   roboty. Keby nie tá chyba...«
+   </tei:p>
+   <tei:p>
+    ﻿136
+   </tei:p>
+   <tei:p>
+    »Veď sme sa dojednali!« vykríkol Jano.
+   </tei:p>
+   <tei:p>
+    »Dojednali — ale ja som o tom nevedel. A nemáte ani závdavku«,   doložil s uspokojením. »A čo by i závdavok bol, ja by ho oželel.   Takéto junce by neviedol do domu...«
+   </tei:p>
+   <tei:p>
+    Jano ho všelijako zdržiaval. Bol by hotový i na cene spustiť, ale   kupec nechcel o ničom počuť. Tak sa stalo, že do regála nevošli   všetci štyria, iba dvaja — Ondro a Jano. Junce uviazali na vráta.   Miesto oldomášu pili iba tak na hlucho; Jano platil sám. Sedeli   smutne za stolom, nehovoriac ani slova.
+   </tei:p>
+   <tei:p>
+    Tak išla ťľaša za fľašou a naši sa rozhovorili.
+   </tei:p>
+   <tei:p>
+    »Nuž čo urobím e ?« pýta sa Jano. »Ako sa ho strasieme?«
+   </tei:p>
+   <tei:p>
+    »Hm — braček, to je ťažká vec. Taký čaptavý čert. . .«
+   </tei:p>
+   <tei:p>
+    Toto slovo pobodlo Jana. Všetek hnev, čo bol kdesi ututlaný, znovu   sa prebudil. »Čaptavý! Čo by to toľko opakoval — čaptavý! Viem, že je   čaptavý!«
+   </tei:p>
+   <tei:p>
+    »Ja neopakujem: len povedám, že ho ťažko predáš«, vyhováral sa   Ondro, lebo sa preľakol.
+   </tei:p>
+   <tei:p>
+    »Ba opakuješ — ustavične len čaptavý. Aký je, taký je. Beztoho iba   si ty vymyslel, že si ho ty nekupoval. Nuž čože máš opakovať toľko?   Keď čaptavý, nuž čaptavý!«
+   </tei:p>
+   <tei:p>
+    Keby bol Ondro čušal, nebolo by sa nič stalo. Ale ako si Ondro   vypil, hneď chcel sa
+   </tei:p>
+   <tei:p>
+    ﻿137
+   </tei:p>
+   <tei:p>
+    umyť zo všetkého, len aby jemu zostalo navrchu. »Ja nepovedám:   čože ja! Ja, bohuprisám, bol by radšej, keby nebo! čaptavý. Ale ten   starý sám, ľaľa, soznal, že zametá: ja som nie vina...«
+   </tei:p>
+   <tei:p>
+    Ale Jano nepočul len to, že Ondro povedá čaptavý. A to slovo   rozbúrilo ho, že by sa bol šiel biť. »Nie vina! Nie vina! A kto   vymyslel?« skočil na rovné nohy za stolom, chytiac fľašu. »Kto šiel s   kupcom — há? Kto mu pohovoril moje junce? Kto mi kupca odvábil?« Bol   by s fľašou urobil Pán Boh vie čo, keby mu ju neboli z ruky   vykrútili. To ešte väčšmi ho rozjedovalo. »Budeš ty mňa   prenasledovať? Kto ťa sem volal? Tritisíc. . .« A už si skrúcal   opasok a podhodil halenu na druhé plece.
+   </tei:p>
+   <tei:p>
+    Ondro videl, že je zase tak, ako v krčme pred dvoma týždňami.   Sobral sa a skrčený prebil sa pomedzi chlapov do pitvora. Keď bol na   ulici, už bola tma. Ovial ho čerstvý vetrík a to mu vrátilo rozvahu.   »Čerti mi zas posvietili. . .« hundral. »No, čo teraz? Čo? Bohdaj ste   skapali i s lazármi!« klial nešťastným juncom. »Teraz už zas je, ako   bolo. To je divok — to je pohan! Veď som mu nepovedal nič, pomáhal   celý deň, ako Pán Boh prikázal —■ a takáto odplata!« S nesmiernym   žiaľom pobral sa hore mestom do domu.
+   </tei:p>
+   <tei:p>
+    Jano stíchol, ako bol samotný. Podoprel hlavu a rozmýšľal nad   svojím nešťastím. Už vedel naisto, že junce prischnú na ňom, že
+   </tei:p>
+   <tei:p>
+    ﻿138
+   </tei:p>
+   <tei:p>
+    nezatají pred dedinou, aké má žobráky. »Ako chce. Veď ho ja   naučím, kto mi niečo povie!« A už poprával opasok, chystajúc sa do   bitky. Potom prišiel naň akýsi tichý žiaľ, že je takto samotný.   Poobzeral sa v krčme, kto tu sedí. Boli to samí jarmočníci, sedeli v   hrbkach a shovárali sa spolu. Iba tam pri peci sedí drotár samotný,   pred ním prázdna fľaša, a, ako vidno, už nemieni viac piť. Jano   zakýval na drotára.
+   </tei:p>
+   <tei:p>
+    »Kde idete, švagre ?« pýtal sa ho.
+   </tei:p>
+   <tei:p>
+    »Budem tu nocovať«, odpovedá drotár cudzím prízvukom.
+   </tei:p>
+   <tei:p>
+    »Sadnite si«, a nalial mu hneď do skleničky. »Vypite, švagre, odo   mňa.«
+   </tei:p>
+   <tei:p>
+    »Pán Boh daj nám zdravia vospolok a pomáhaj nám vo všetkom«,   zazdravkal drotár a vypil až na dno. Keď narovnal tvár po svraštení a   postavil skleničku na stôl, nahol sa k Janovi. »A zkadiaľ ste,   švagerko? Pred chvíľou ste sa tu hádali s akýmsi. Čo sa vám stalo   ?«
+   </tei:p>
+   <tei:p>
+    Jano hodil rukou. »Ani nespomínajme. Radšej vypite!«
+   </tei:p>
+   <tei:p>
+    A tak Jano častoval drotára a seba až do noci. Keď blížila sa   polnoc, zabudli oba da všetko. Oblapili sa okolo hrdla a tu si   zaspievali, tu sa tešili. Drotár sa žaloval, aký má ťažký chlieb, čo   sa natrápi, napotíka medzi cudzím svetom. Jano otvoril zas pred ním   boľavú ranu srdca, vyjavil mu, akého má junca. Drotár tešil Jana, ten   zas drotára; i vybozkávali sa, ani čo by
+   </tei:p>
+   <tei:p>
+    ﻿139
+   </tei:p>
+   <tei:p>
+    boli frajer a frajerka. Tak boli radi, že sa sňali, a boli istí,   že takých hodných, statočných ľudí už pod slncom nenájde.
+   </tei:p>
+   <tei:p>
+    Ale tu príde krčmár, keď už sami dvaja zostali, a povie Janovi:   »Gazda, vám bude najlepšie prenocovať u mňa...«
+   </tei:p>
+   <tei:p>
+    »Nie —■ n i e!« vykríkol Jano. Prišlo mu na um, aký by bol   posmech, keby ráno, v biely deň sa vliekol hore dedinou s čaptavým   juncom. Iste by spravili naň pesničku. »Nie — ja idem, vo meno Božie.   Pomaly dôjdem. . .« Ale ako sa zodvihol, tak musel sadnúť. Trúnok ho   prevládal.
+   </tei:p>
+   <tei:p>
+    »No, poďte, švagerko, poďte! Ja vás povediem!« hlásil sa drotár a   chytil ho okolo pása. A drotár bol mocnejší chlap, nohy mal pevnejšie   i hlava ešte netrešťala. »Poďte, vyprevadím vás vyše mesta.«
+   </tei:p>
+   <tei:p>
+    Jano zakrútil hlavou a zamumlal čosi. »E — ja som opilý,   bohuprisám. . .« Naraz sa rozkročil na prostred izbe, zaknísal, a,   ako vidno, rozmýšľa veľmi hlboko nad čímsi. »Švagre — poď so mnou. Ty   si môj švagor —- zavedieš junce. Poď do nás...« Drotár sobral, čo   ležalo pod pecou, a zahodil si na plece. »Počkaj, počkaj —- ty trhan   — žobrák! Počkaj!« A chytil drotára za plecia. »Ty budeš u nás bývať   — poháňať junce... Vieš junce poháňať — ha?«
+   </tei:p>
+   <tei:p>
+    »No! Však som gazdovský syn!« pochválil sa drotár.
+   </tei:p>
+   <tei:p>
+    ﻿140
+   </tei:p>
+   <tei:p>
+    »Budeš cez jar poháňať. Ondro, coky z môjho domu! Coky!«
+   </tei:p>
+   <tei:p>
+    Drotár len to vedel, že je zjednaný na celú jar. A bol rád. Zarobí   možno menej, ale bude mať dobrý, spokojný život až do leta. Umienil   si Jana sa nespustiť, lebo sa mu pozdávalo, že je človek dobrý a   statočný.
+   </tei:p>
+   <tei:p>
+    Jano tedy doviedol nielen junce, ale i poponiča k jari. Vlastne   pohonič dohnal nielen Janove junce, ale i budúceho gazdu na pleci   dovliekol.
+   </tei:p>
+   <tei:p>
+    VI.
+   </tei:p>
+   <tei:p>
+    Jano na druhý deň sa zadivil, keď zazrel v izbe drotára. Ako ho   videl, včerajšok so všetkými príbehmi stal mu pred oči. Bol krásny,   teplý deň, v poli začal sneh kopnieť, ovce bľačaly, lebo voňala im   paša. Celý deň strávil v spoločnosti drotárovej. Lebo dva-tri dni   takéto — a už celá dedina vyjde do poľa.
+   </tei:p>
+   <tei:p>
+    Nebolo mu ľúto, že si najal takého cudzieho pohoniča. Drotár zdal   sa dosť schopným a slúchal gazdu i gazdinú. Katrena, pravda, nebola   veľmi vďačná, že musí takého cudzieho obchodif, ale sa udobrila.   Drotár jej poslúžil, čo mohol; podrotoval hrnce, poplátal paňvy, i   pobil všetky vane a kaňvy. Iba okolo statku bol nešikovný trochu, ale   za niekoľko dní privykol. Každý večer sa priahalo do prázdneho voza.   Probúvali stredné a najmenšie junce. Minulo
+   </tei:p>
+   <tei:p>
+    ﻿141
+   </tei:p>
+   <tei:p>
+    týždeň, a junce privykly jarmu, a že pole obschlo, vyšli chlapi s   pluhmi do roboty.
+   </tei:p>
+   <tei:p>
+    Ondro sa rozžialil, že ho Jano tak odprášil a prijal kadejakého   drotára. V dedine nemal pokoja, lebo ľudia si navymýšľali kadejakých   klebiet. Preto hneď v utorok veľkonočný sobral sa do Pešti, že tam   zostane až do žatvy. Tak sa, hľa, všetko premenilo. Eva tiež prestala   chodiť do Machajov; len keď prišla na ňu veliká tvŕdza, zabehla   Katrene niečo pomôcť. Ale to bola pomoc veľmi slabá, lebo všetko   pokazila, čoho sa dotkla.
+   </tei:p>
+   <tei:p>
+    Jano bol za čas celkom spokojný. Drotár poháňal, ako svedčí, voly   i junce. Najmenšie junce sa tiež dobre priučily chodiť v brázde,, ale   Jano dosiaľ ich nenávidel. Keby boly mocnejšie, ta by ich dal   paholkovi, nech by na nich bránil: aspoň by mu neboly ustavične na   očiach. Lebo čo raz pozrel na čaptavého, odpadla mu hneď vôľa od   roboty. A pomaly i pohonič sa mu prijedal. Drotár neraz zastal na   úvrati a obzeral sa po svete.
+   </tei:p>
+   <tei:p>
+    »Eh, divno je to, gazda, takto chodiť len v tej istej brázde. Keby   tú chôdzu složil dovedna, už by bol v Krakove, alebo v Prajskej. A   takto si vždy iba v jednom chotári. Drotárovi je lepšie. Každý deň   vidí iný svet.« Tak často hovorieval Janovi, keď sa v ňom zobudil ten   divný pud, ktorý niektorých fudí ženie s miesta na miesto a nedá im   nikde pokoja.
+   </tei:p>
+   <tei:p>
+    ﻿142
+   </tei:p>
+   <tei:p>
+    A to pachtenie po túlaní drotárovi nedalo pokoja. Často v noci sa   prebudil a nemohol viac zaspať. »Však je to hriech mne takto na   jednom mieste sedeť«, vyčítal si v taký čas. »Keby chcel niekde   sedeť, zostal by doma pri žene a deťoch, a nie tu pri cudzích ľuďoch.   . .«
+   </tei:p>
+   <tei:p>
+    »Ale veď ti platí«, ozval sa v ňom druhý hlas. »Nikde bys’ toľko   nezarobil, čo zarobíš tu. A pritom ti je i lepšie. Máš chovu dobrú,   netúlaš sa po víchre a daždi, pospíš si pod strechou a v súši. .   .«
+   </tei:p>
+   <tei:p>
+    A práve to, že tak ľahko a snadno mu ide zárobok, že tak málo   vystojí hladu, zimy a nepokoja: práve to sa mu zdalo hriechom a   leňošením. Nakoniec ho zaujal taký nepokoj, že ledva sa premohol   ostať v poli. Najradšej by bol chytil kapsu a utiekol do šíreho   sveta.
+   </tei:p>
+   <tei:p>
+    V jednu nedeľu ráno riekol gazdovi: »Gazda, dajte mi niečo, musím   žene niekoľko groši poši ať.«
+   </tei:p>
+   <tei:p>
+    »Nuž a koľko chcete ?«
+   </tei:p>
+   <tei:p>
+    »Koľko mi dáte.«
+   </tei:p>
+   <tei:p>
+    Jano nemal peňazí pri ruke, dal mu dve zlatky. Drotár ich vzal,   obesil si kapsu a odišiel. Nevrátil sa večer, ani na druhý deň —   ztratil sa, že nikto nevedel povedať, kde.
+   </tei:p>
+   <tei:p>
+    »Tulák — tulák!« riekol Jano. »Z tuláka bude večne tulák!« Len mu   bolo ľúto, že drotár tak utiekol. Keby sa mu bol zjavil, bol by mu   vyplatil všetko do krajciara, lebo pláca to bola
+   </tei:p>
+   <tei:p>
+    ﻿143
+   </tei:p>
+   <tei:p>
+    zaslúžená. Ale vedel, že drotár sa ešte niekedy zastaví a potom   dostane dôplatok.
+   </tei:p>
+   <tei:p>
+    Pohoniča stáleho už nebolo dostať. Musel si ich najímať na dni, a   to moc vychodilo. Niekedy ani tak ho nedostal, a tu jedna pára,   obyčajne najmladšie, zostávala na stajni. »Keby bol Ondro doma, už by   bol tu«, pomyslel si vše v takej tvŕdzi: »ale Ondro je v Pešti.« Bol   by ho vytiahol z Pešti, ale ten nepríde. Vodí sa mu dobre a posiela   žene veľké peniaze. Pravda, Jano nevedel, že posiela ešte väčšie   listy a v každom ho odpytuje a pozdravuje. Kto by sa bol opovážil   také pozdravenie oddať Janovi?
+   </tei:p>
+   <tei:p>
+    Tak sa minula jar, prišlo leto a statok všetek išiel na hoľu. Jano   zabudol na všetko, lebo teraz juncov nemal na očiach. Paholok   chodieval každú druhú nedeľu za nimi a niesol im soli. Prišly roboty   okolo sien a prišla i žatva. Tí, čo v Pešti neboli usalašení, nemohli   vydržať tú horúčavu. Vrátili sa radšej domov na menší zárobok, ale   tiež na milší. Veselšie je to v poli žať, kosiť a hrabať, ako v   zakydaných šatách maltu miešať, alebo tehly vláčiť. S prvými sa   dostavil Ondro. Žena ho ťažko poznala. Zapustil si bradu i fúzy a na   sebe mal akési belásky a na hlave klobúčik.
+   </tei:p>
+   <tei:p>
+    »Akože je Jano?« bola jeho prvá otázka, keď sa oholil a ako-tak   obriadil. »Predal už tie nešťastné junce?«
+   </tei:p>
+   <tei:p>
+    »Ešte ich má«, odpovedala Eva. »To je za-
+   </tei:p>
+   <tei:p>
+    ﻿144
+   </tei:p>
+   <tei:p>
+    novit. Ten sa neudobrí.« Eva sa veľmi premenila od tých čias, čo   nebola utisnutá na Katrenu. Nebolo psoty, nechodievala už tak často   do Machajov. Katrena sa konečne nedivila. Jano ich tak pourážal, že   veru nemali prečo byť k nemu takí, ako predtým. Len jej bolo ľúto, že   nemá jej kto pokaziť to i to, keď Eva nechodí.
+   </tei:p>
+   <tei:p>
+    Ale Ondro sa úfal, že všetko privedie sa do starej koľaje. V   kostole si naschvál sadol k Janovi a, pomodliac sa krátko, pozdravil   ho: »Pán Boh s nami!« A Jano mu ďakoval: »1 Duch svätý!« Nevypýtal sa   ho, pravda, ako sa mu v Pešti vodilo, neztratili vôbec slova, nuž ale   Jano nikdy nebol vefmi do reči.
+   </tei:p>
+   <tei:p>
+    Neminulo ani dva týždne, a tu príde do dediny hrozný chýr. Junce   sa pováfaly! Zprvu sa nevedelo, čie. Až tu doviedol voliar tri. Jeden   z nich bol Machajov.
+   </tei:p>
+   <tei:p>
+    Jano bol užialený, ako by mu dieťa bolo umrelo. Najkrajší junec,   jeho Jeleň, musel tak pochodiť! A čo bolo najkrajšieho na ňom, to si   dokaličil: rohy zvalené. Keď vošiel do stajne a videl mu roh celembať   popri hlave, ten istý roh, ktorý kedysi tak krásne stál, nášmu Janovi   slzy vypadly. Oprel sa o junca, nariekal nad ním. »Prečo, Bože, prečo   letí na mňa takáto škoda! Keby to ten, alebo druhý — ale tento! Čo ja   budem robiť?« Tu nebolo inej správy, ako rohy postaviť, ako načim. A   to vie iba Ondro. Neraz si už junce pováfaly rohy a Ondro bol na   to
+   </tei:p>
+   <tei:p>
+    ﻿145
+   </tei:p>
+   <tei:p>
+    majster. Tak ich napravil, že by nik nebol poznal, že boly kedy   pováľané. »Preňho je to, preňho!« jedoval sa Jano. »On mi   porobil!«
+   </tei:p>
+   <tei:p>
+    A keď si všetko rozložil, tu sa mu tak ukazovalo, že letí naň   škoda od tých čias, čo sa s Ondrom rozkmotril. Kto to robí, ako to   robí, nevedel: iba Ondra začal sa už báť. »Nie — nech sa robí, čo   chce — nezavolám ho.« A premýšľal, koho by zavolal. Počul kdesi, že   býva starý gazda, ale to je hen v Liptovskej. »Nezavolám, radšej nech   ma to stojí majetok.« A vybral sa ešte tej noci do Liptovskej za tým   starým.
+   </tei:p>
+   <tei:p>
+    Ondro, ktorý bol pôvodcom všetkej škody, ako si Jano myslel, ten   sedel doma a istotne čakal, že ho dajú volať. Nepochyboval ani   minútu, že Jano, čo ako ťažko, sám príde, alebo niekoho pošle. Vedel   si predstaviť, ako Jano cíti túto škodu, a aby ju napravil, bude   hotový hocičo urobiť. Ale prešlo dopoludnie a skoro večer tu, a nikto   poň nechodí. Tu naraz Eva prišla s novinou veľmi podivnou.
+   </tei:p>
+   <tei:p>
+    »Jano včera večer kdesi odišiel a nikomu nepovedal, kde, ani kedy   sa navráti. Katrena plakala, keď som s ňou hovorila. Zakázal jej ku   volu niekoho volať...«
+   </tei:p>
+   <tei:p>
+    »To ako na mňa padá, na mňa!« dovtípil sa Ondro. »Koho iného by   volala, iba mňa. Čo som mu urobil, že tak zanevrel na nás? Veď som   vždy len dobre chcel i pomáhal, nuž toto je odplata. Dobre, veď mu ja   nepôjdem. Oj, nie,
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy H. 10
+   </tei:p>
+   <tei:p>
+    ﻿146
+   </tei:p>
+   <tei:p>
+    nech si nemyslí. Teraz už nie, a čo by ma de siati volali!«
+   </tei:p>
+   <tei:p>
+    Ondro bol naozaj veľmi nahnevaný, lebo ináč by sa nebol takto   zariekal. 1 odišiel z domu a rovno do vyhne. Tam sa ho chlapi   vypytovali, či už napravil juncovi Janovmu rohy. Ešte vo vyhni sa   nevedelo, čo Jano urobil.
+   </tei:p>
+   <tei:p>
+    »Škoda letí naňho veliká. Junce boly hodný pol piata«, riekol   jeden.
+   </tei:p>
+   <tei:p>
+    »Viac! Takého nebolo v celom kŕdli. Ono sa to napraví, ale úhoriť   na ňom nebude.«
+   </tei:p>
+   <tei:p>
+    »Ani v jaseni ho nebude priahať. Kdeže, kým sa mu roh chytí.«
+   </tei:p>
+   <tei:p>
+    »Ba či sa chytí ?« pochyboval ktorýsi. »A neodhnil, ľaľa, roh   kedysi volovi, čo sa pováľal? I musel ho nebohý Polčiak na mäso   predať. Čože je potom, keď raz volovi roh odhnije? Šutu nik nekúpi,   iba mäsiar, alebo nejaký zemän.«
+   </tei:p>
+   <tei:p>
+    »Ale tomuto sa chytí«, vravel kováč Ondrovi. »Keď vy raz   napravíte...«
+   </tei:p>
+   <tei:p>
+    »Ja som nenaprával«, odpovedal Ondro.
+   </tei:p>
+   <tei:p>
+    »Nena...« a kováč nedopovedal od divu. »A čo nejdete, človeče? S   takou vecou nehodno odkladať.«
+   </tei:p>
+   <tei:p>
+    »Ja do tisíc jazerných čertov!« ozval sa bývalý notáriuš. »Čože   ste smysleli, keď nejdete? Už či je tak, lebo tak medzi vami, ale   hoviadko zratovaf treba. Jano sa nebodaj okúňa po vás poslať: lebo   čosi sa vraj medzi vami skudlilo. No, ale sme kresťania — čo vidíš na   druhom,
+   </tei:p>
+   <tei:p>
+    ﻿147
+   </tei:p>
+   <tei:p>
+    čakaj na sebe. Óvy — óvy, keď ste tak neboli.« A notáriuš bol celý   pogalamutený. »Kto by sa bol nazdal, že ste taký, taký zanovit!«
+   </tei:p>
+   <tei:p>
+    Ostatní chlapi tiež Ondra nezastali, ale všetci šli doňho, ako   osy.
+   </tei:p>
+   <tei:p>
+    »Veď by ja šiel, ani by nečakal, či ma zavolá, ale...« A to »ale«   nemohol dokončiť od ľútosti.
+   </tei:p>
+   <tei:p>
+    »Čože vám sadlo na nos, akô ale!« dobíjal doň notáriuš.
+   </tei:p>
+   <tei:p>
+    »Keď mi zakázal — hej, zakázal!« dopovedal Ondro. »Žene svojej   naručil, aby nikoho nevolala. Akože pôjdem! Ale nasilu mu pôjdem do   stajne? Ešte by ma zabil — veď je to zbojník, nie človek. Taký junec!   Radšej nech vyničie, ako by mňa zavolal. Povedzte, je to   kresťan?«
+   </tei:p>
+   <tei:p>
+    Notáriuš krútil hlavou a hundral si čosi popod nos. To sa mu   veľmi, veľmi nepáčilo. Ale Ondro aspoň to docielil, že chlapi už   nedobíjali doň. Ale čo mu z toho bolo? Nič. Bolo mu smutno a ťažko,   že nemôže ísť pomôcť. Bolo mu ľúto, že ho Jano pre akési pletky takto   uráža. Nie — vo vyhni nemohol už vydržať. Sobral sa a išiel k Židovi.   Dal si naliať proti žiaľu. Žiaľ sa vytrácal zo srdca a do hlavy sa   usalašila akási ťarcha, tak že hlava ovisla a bola by padla na zem,   keby nebolo stola.
+   </tei:p>
+   <tei:p>
+    Bývalý notáriuš, človek v tých veciach vyzkúsený, podobral sa   pomeriť Jana a Ondra. Kým bol v úrade, neraz udobril ešte väčších
+   </tei:p>
+   <tei:p>
+    10*
+   </tei:p>
+   <tei:p>
+    ﻿148
+   </tei:p>
+   <tei:p>
+    hlavajov, ako títo. Neraz čo prišli žalovať, vyrovnali sa pred ním   a zaplatili na dobrý oldomáš. Niektorí sa pri oldomáši tak udobrili,   že sa bozkávali a oblápali; iní sa nanovo pobili, že na druhý deň   bolo treba znovu ich merif a oldomáš utvrdiť. Vybral sa do Machajov,   že toho krutohlavca nakriatne, ale nenašiel ho doma. Katrena   nevedela, kde sa podel, iba to vedela, že k juncovi nemá volať   nikoho.
+   </tei:p>
+   <tei:p>
+    »Nuž tak!« jedoval sa notáriuš. »Bude on tak! No, počkaj! My   zavoláme sami na tie rohy majstra. Ondro var’ len pôjde: no, Ondro   pôjde, človek je dobrý a výslužný. A keď rohy budú napravené a Janovi   sato nebude páčiť — nech! Nech si to pokazí potom sám...«
+   </tei:p>
+   <tei:p>
+    A ako rozsúdil, tak i spravil. Zavolal niekoľko prednejších gazdov   a šiel k Ondrovi. Nenašiel ho doma. Hľadali ho všade, najmä po   krčmách — i našli ho u Mochúľa, ako spal, s hlavou na táfli   opretou.
+   </tei:p>
+   <tei:p>
+    »No, tento tiež nič nespravím, smial sa notáriuš. »On sám sa   pováľal, museli by sme najprv jeho vykurovať.« A kurovali ho tak, že   ho doviedli domov a uložili do slamy. Tam mal najprv vytrezveť.
+   </tei:p>
+   <tei:p>
+    Jano neborák darmo šiel do Liptovskej. Prvý gazda, u ktorého sa   vyzvedal, kto tu napráva pováľané rohy, poradil mu — Ondra   Puchora.
+   </tei:p>
+   <tei:p>
+    »A nejakého iného neznáte? Veď bol akýsi starý chlap. . .«
+   </tei:p>
+   <tei:p>
+    ﻿149
+   </tei:p>
+   <tei:p>
+    »Ja — ten je už so šesť rokov v zemi. Ja, starý Michal, ten bol   nad Puchora, i nad všetkých. Musíte už len na Puchorovi pristať.«   Šiel na druhú dedinu, lebo neveril, že by tu nebolo iného majstra — a   tu mu tiež Ondra poradili. Ondro mal tu všade veľmi dobrý chýr. Večer   ľahol u jedného gazdu a nado dňom sobral sa domov. Už videl, že   nebude pomoci. Ondra volať, to radšej nikoho. Oželel junca. Bol už   deň, keď dochodil do dediny. »Darme som sa túlal deň a dve noci«,   vyčitoval si. »Musím ho dať zarezať — musím...« A tu mu prišlo na um,   že Ondro mu vždy poslúžil, a čo spolu robili, vždy im dobre vypadlo.   A druhý človek by ho bol všelijako prenasledoval. »No — nemal som ho   vtedy na jarmoku odháňať. A čo som vyhral? Drotárisko mi v najtvrdšej   robote utiekol. Mal som sa jeho držať, a nebolo mi toto treba.. .«   Keď vstupoval do dvora pomyslel si: »A ak ma Katrena neslúchla, ak   zavolala Ondra ?« A vidno na ňom, že by Katrenu nevyhrešil. »Eh — čo,   tá nemá toľko rozumu!« Pozrel k stajni, a hľa — tam sú dvere   otvorené. »Čože ich nezaprela!« jeduje sa Jano a kráča rovno k   stajni. Ťažko mu bude pozreť na skaličeného junca, keď mu nemôže   poradiť. Zastal vo dverách, lebo v stajni našiel neobyčajných hostí.   Chlapi stáli okolo junca a držali ho, Ondro mu priväzoval medzi rohy   furmu, ktorú sám bol dnes do dňa z lipového
+   </tei:p>
+   <tei:p>
+    ﻿150
+   </tei:p>
+   <tei:p>
+    dreva vystrúhal. Ondro je veselý a kommanduje
+   </tei:p>
+   <tei:p>
+    chlapov. Starý notáriuš sa mu síce tiež mieša do remesla, ale na   toho Ondro nič nedá.
+   </tei:p>
+   <tei:p>
+    »Budeme tu rozkazovať lebo vy, lebo ja«, zaťal ho pred chvíľou.   »Ale dvaja nie!«
+   </tei:p>
+   <tei:p>
+    A notáriuš zahundral: »No — teraz chce byť každý papľuh múdrejší   od starého.« Ale sa viac neohlásil.
+   </tei:p>
+   <tei:p>
+    Jano, ako videl túto hara-varu okolo junca, tú chtivosť všetkých,   veľmi sa potešil. Utiahol sa tichúčko, aby ho nik nepobadal, a vošiel   do izby. Tam bola Katrena. »Kto to sohnal tých chlapov ?«
+   </tei:p>
+   <tei:p>
+    Katrena zmrzla. »Ja som nie: to starý notáriuš.. « Čakala, že   pôjde medzi nich a rozpráši ich. 1 ona by zle pochodila, a ešte keby   zvedel, že im varí hriato...
+   </tei:p>
+   <tei:p>
+    »Treba ich počastovať«, vraví muž. »Pririchtuj niečo, idem ich   zavolať. ..«
+   </tei:p>
+   <tei:p>
+    Katrena ešte väčšmi sa zadivila, a menovite ako videla, že Jano je   milý, vľúdny. Nepochválila sa, že jeho rozkaz je už zbytočný. Vošla   do kuchyne, ako by niečo hotovila. Ako bola sama, složila ruky a z   úst jej vyšly slová : »Chvala Pánu Bohu — i za toto!«
+   </tei:p>
+   <tei:p>
+    A mala za čo ďakovať, lebo o chvíľu voviedol Jano všetkých, i   Ondra. A keď Katrena
+   </tei:p>
+   <tei:p>
+    á stôl, čo nahotovila, tu sa rozprestrela veliká   radosť. Starý notáriuš a vinšoval veľmi dlho, tak že hriato,
+   </tei:p>
+   <tei:p>
+    ﻿151
+   </tei:p>
+   <tei:p>
+    čo držal v poháriku, celkom vychladlo. Z toho vinša nezachoval som   si iba koniec, a ten znel: »Nebo hnév mnohé zmutky plodí a svornosť   mnohú radosť rodí.« A všetci chlapi prikyvovali, Ondro sa nemohol   zdržať a povedal: »Bohuprisám, je pravda!« Jano, ten mlčal, ale každý   videl na ňom, že to tiež cíti. »A jej si tiež poslala niečo ?« pýtal   sa Jano, vojdúc za Katrenou do kuchyne. »Oj, a neraz!« priznala sa   Katrena. »I keď si nevedel.« »No len, no !« pohrozil jej prstom, ale   nebolo vidno, že sa hnevá. »Eva, ja mám predsa len dobrého muža!«   chválila sa jej na druhý deň Katrena. »Hundre, ale je takto dobrý. .   .« »No, nech sa len nepokazí«, žičí jej Eva.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1947887" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Sluha : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:29540125">
+     Royová, Kristína (1860 - 1936)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     16158
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Royová, Kristína
+     </tei:author>
+     <tei:title>
+      Sluha
+     </tei:title>
+     <tei:pubPlace>
+      Stará Turá
+     </tei:pubPlace>
+     <tei:publisher>
+      Modrý kríž
+     </tei:publisher>
+     <tei:date>
+      1947
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-20">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     SLUHA﻿
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿„Syn človeka neprišiel, aby mu slúžili, ale aby on slúžil.“
+   </tei:p>
+   <tei:p>
+    Mat. 20, 28.
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Práve keď sedliak Ondrášik potreboval najviac pomoci a nevedel   zkadiaľ ju vziať, prišiel mu do domu človek nevolaný, nečakaný.
+    </tei:p>
+    <tei:p>
+     Bolo to raz v nedeľu podvečer v najtuhšej žatve. — Ondrášik sedel   v sade pred domom, majúc starosťami ťažkú hlavu podopretú do dlaní.   Zrazu zaštekal na dvore Fidél a pred ustarosteným hospodárom zastal   mladý, zdravý muž, poriadne zašatený, a keď sa pozdravili, hovorí, že   si prišiel hľadať robotu.
+    </tei:p>
+    <tei:p>
+     Ondrášik nebol práve z tých, čo tak hneď hocikoho do práce vezmú:   no, mladý človek sa mu akosi pozdal a on veľmi potreboval robotníka.   — Žena ležala mu nezdravá. Zaťovia ho odbehli: — jeden vlani, druhý   na jar — do Ameriky; odvolali za sebou i ženy; zostala mu v dome len   najmladšia, asi 16-ročná dcéra. Mal kraviara, ten sa škaredo pobil s   chasou; ležal kdesi u matky; — a robotníka nikde nemôžeš dostať! Nuž   prijal Ondrášik chasníka. »Však« — myslel — »za to nič nedám, čo ho   skúsim; vezmem ho, aspoň kým Ondrej ozdravie.«
+    </tei:p>
+    <tei:p>
+     Spravili sa, čo dostane na deň, a čo, ak zostane aj cez   mlatbu.
+    </tei:p>
+    <tei:p>
+     Tej noci spal Ondrášik tak dobre, ako už od dávneho času nie; a   jeho žena, keď i spať nemohla, nemusela aspoň nad tým stonať, ako len   ten jej starý tú robotu zdolá?!
+    </tei:p>
+    <tei:p>
+     ﻿6
+    </tei:p>
+    <tei:p>
+     Všetko sa Ondrášikovcom na robotníkovi ľúbilo, len meno mal divné:   volal sa Metod Ružanský. Však sa tak kedysi aj apoštol Slovákov   menoval, ktorý to v Nitre býval a ľudu Slovo Božie kázal; ale   sedliaci svojim synom také mená nedávali, len niektorí katolíci (a   Ondrášik bol evanjelik).
+    </tei:p>
+    <tei:p>
+     No, ale na všetko človek privikne. Aj na toho Metoda v 1.—skom   chotári privykli, hoci bol tu toho mena jediný. — Všeobecná mienka   panovala medzi ľuďmi, keď s poľa svážali: »Ondrášik dostal dobrého   robotníka!«
+    </tei:p>
+    <tei:p>
+     Ako dobrého, vedel on sám najlepšie. Nepil, nepôjde sa medzi chasu   biť; nefajčil, nepodpáli stodolu. — V týždni robil od rána do noci a   v nedeľu čítal. Zlého slova si od neho nepočul; vždy bol dobrej vôle.   Keď Dorka niektoré jedlo pokazila a otec sa hneval, — on vyhovoril,   prichválil.
+    </tei:p>
+    <tei:p>
+     Ondrášikovi sa to všetko zaMbilo; začal si ho jednať od   Všechsvätých za sluhu.
+    </tei:p>
+    <tei:p>
+     »Dobre«, hovorí Metod, »zostanem u Vás slúžiť, ak ma vezmete na   dva roky a ak mi dovolíte, aby som si tam hore na šope spravil   bývanie.«
+    </tei:p>
+    <tei:p>
+     Divil sa sedliak, čo by to mohlo byť za bývanie.
+    </tei:p>
+    <tei:p>
+     »Uvidíte, že dobré. Co na to vynaložím, ak sa Vám bude Túbiť a ak   budete môcť upotrebiť, až pôjdem preč, — môžete mi vrátiť náklad, ak   nie, rozoberiem a predám.«
+    </tei:p>
+    <tei:p>
+     Pristal Ondrášik, a keď prišly prvé daždivé dni, doviezol si Metod   dosky a len dva dni strávil pri tom popri inej práci.
+    </tei:p>
+    <tei:p>
+     Keď bol hotový a zaviedol sedliaka i dcéru pozrieť, zadivil sa   Ondrášik:
+    </tei:p>
+    <tei:p>
+     »Akú on bude mať izbu! Krajšiu ako my! No čo v zime?«
+    </tei:p>
+    <tei:p>
+     »Spať môžem aj v studenom, a zohriať sa mi cez. deň dáte.«
+    </tei:p>
+    <tei:p>
+     ﻿7
+    </tei:p>
+    <tei:p>
+     Z dosák, ktoré mu zostaly, sbil si Metod malý stolík, kúpil si   pletenú slamenú posteľ i stoličku, do rohu urobil policu i vešiak na   šaty.
+    </tei:p>
+    <tei:p>
+     Mal to tu, až milá vec! Najmä keď zasa neskôr zapravil okná do   strechy, ukazoval sa nimi ten krásny výhľad na neďaleké hory, šíre   polia a lúky a na to dakedy tak krásne, hoci už často jesennými   hmlami kryté nebo.
+    </tei:p>
+    <tei:p>
+     Prví susedia Ondrášikovcov boli Petrášovci. Tí mali už 20-ročného,   veľmi poriadneho i pekného syna, ale hoci boli majetní ľudia, nevedel   on ani čítať ani písať, — a čo viac — bol chromý. Po dome sa však   pomaličky šúchal a čo-to spravil, ale ďalej nemohol chodiť.
+    </tei:p>
+    <tei:p>
+     Petrášová mala svojho Samka najradšej z detí. Otec nebol na neho   priam dobrý; hneval sa, že taký veľký syn nič v dome nepomáha, a že   mu vždy bude na ťarchu. Keby nie materinskej lásky, bol by sa mladík   dosť zle mal v rodičovskom dome, a budúcnosť ležala pred ním smutná;   lebo, ako to obyčajne býva, že tí, ktorí sa nemôžu pohnúť, chceli by   vykonať veľké veci vo svete, — tak aj on; ale nemohol.
+    </tei:p>
+    <tei:p>
+     Raz, ako tak sedí v nedeľu odpoludnia pod sadom sám a sám, —   všetci z domu boli odbehli, ktorí k muzike, ktorí do krčmy alebo do   poľa, nuž ako tak sedí, hlavu do dlaní podopretú a myslí, — zastane   pred ním susedov sluha, nesúc v ruke akúsi knihu.
+    </tei:p>
+    <tei:p>
+     Zmocnila sa mládenca smutná závisť. On je len sluha a vie čítať, —   a ja taký sprosták. Sotva poďakoval za prívetivý pozdrav.
+    </tei:p>
+    <tei:p>
+     »Keď tak sám sedíš, iste ti je dlhý čas;« prehovoril Metod.   »Priniesol som ti knihu.«
+    </tei:p>
+    <tei:p>
+     Samko zrumenel až po vlasy. »Načo mne kniha, keď litierky   nepoznám?!« zamračil sa.
+    </tei:p>
+    <tei:p>
+     »Odpusť mi, nevedel som«, mierne odvráva sluha.
+    </tei:p>
+    <tei:p>
+     ﻿8
+    </tei:p>
+    <tei:p>
+     »No, keď je tak, ak chceš, zostanem tu budeme si čítať   spolu.«
+    </tei:p>
+    <tei:p>
+     Tak začala známosť nových susedov.
+    </tei:p>
+    <tei:p>
+     O Petrášovie plot opierala sa chalúpka žida Dávida. Býval v nej už   len sám. — Mal dve kozy, celý deň chodil okolo nich; a keď nemal   práce s kozami, tak preberal staré handry a kosti a čo kde bolo. —   Nosily mu ich gazdiné; dával im za ne cvemy, ihly. — Za mladi chodil   za tým obchodom i dosť ďaleko po okolí, dnes už len pokiaľ kozy   vládaly.
+    </tei:p>
+    <tei:p>
+     Nik na svete nevidel ešte usmiať sa starého Dávida; ináč bol to   človek dobrý a krotký. Dosť sa mu už svet naubližoval; no on všetko   zniesol.
+    </tei:p>
+    <tei:p>
+     Hovorilo sa, že mal kedysi za mladi i ženu, prv ako prišiel bývať   do Hradovej, a že mu ju ktosi vzal. — No, kto vie, či to bola pravda,   alebo nie.
+    </tei:p>
+    <tei:p>
+     Po hornom boku pri Ondrášikovi susedil, k nemalej mrzutosti   gazdovej, Martin Podhájsky, remeslom čižmár, ale taký opilec, že mu   každý s cesty vyhol. — Bývala s ním i jeho matka. Žena, keď nemohla   vydržať, išla radšej do služby, posielala ďeťom šaty i obuv, ináč by   boly musely v zime pomrznúť. Posielala i svokre za to, že deti   opatruje, zpočiatku aj mužovi kedy-tedy nejakú košeľu. No, keď on   vždy všetko premrhal, omrzelo ju, prestala.
+    </tei:p>
+    <tei:p>
+     Ondrášik, keď sa mal s Podhájskym sísť, a tento bol opitý, —   triezvy už ani nebýval, — radšej sa mu vyhol.
+    </tei:p>
+    <tei:p>
+     Raz našiel ho Metod na mol spitého ležať v močidle, už len-len že   sa nezadusil. Mal blata plné ústa, nos i uši, sotva ho vytiahol.   Práve išiel tade okolo Cigán; toho poprosil, aby mu pomohol.
+    </tei:p>
+    <tei:p>
+     Zaniesli nešťastného opilca k Ondrášikovým do šopy, položili ho na   slamu. Metod zohrial vody, a tak ho celého poriadne poumýval, ako —   neprirovnáva-
+    </tei:p>
+    <tei:p>
+     ﻿9
+    </tei:p>
+    <tei:p>
+     júc prasiatko — keď je už na koryte. Najskôr sa opilec bránil, ale   pomaly vytrezvel, prestal zlorečiť; a keď ho ešte Metod ostrihal,   oholil, ostrihal dlhé nechty, bol tomu sám rád.
+    </tei:p>
+    <tei:p>
+     Od tých čias mal Ondrášikov sluha veľkú moc nad úbohým opilcom; čo   chcel, to s ním mohol spraviť. Rozkázal si u neho ušiť obuv a   Podhájsky musel sľúbiť, že než tie čižmy ušije, nebude piť. Ani   nepil. Aby mu večer nebola dlhá chvíľa, chodil Metod za ním a čítal   mu z matkiných knižiek, z Biblie a Kancionála a z novín, ktoré nosil   so sebou.
+    </tei:p>
+    <tei:p>
+     Bol už november, a sedliaci po večeroch nemali takej práce.   Čítaval teda Metod aj doma gazdinej a dcére z tých novín; aj Ondrej   ho rád počúval. Ondrášik bol veru rád, že si jeho sluha predpláca   noviny; on v svojom živote na také niečo nepomyslel, a bola to predsa   dobrá vec. No boly to aj dobré noviny; aj z Písma si sa z nich   podučil, aj čo sa vo svete robí, dozvedel.
+    </tei:p>
+    <tei:p>
+     Chválila si nezdravá gazdiná sluhu:
+    </tei:p>
+    <tei:p>
+     »Opatruje ma, ako syn, a je to múdry človek. Naviedol môjho, aby   smel sporák postaviť v kuchyni. Odkedy tam Dorka varí, je mi omnoho   ľahšie, tá horúčosť ma trápila; a aby sa starý nehneval, že mnoho   dreva spálime, sám doviezol z hôr dve fúry. Druhý sotva to spraví, čo   mu rozkážeš; tento si sám nájde.«
+    </tei:p>
+    <tei:p>
+     Raz večer doniesol Podhájsky tie čižmy, priam keď si čítali.   Ponúkli ho sadnúť. Nebol opitý. — Odtedy nechodil Metod za ním, ale   on sem; mali z toho všetci osoh. Pred večerom, keď sa zmrklo,   chodieval Metod zasa k susedom. Dozvedely sa ženy, že učí Samka   Petrášovie čítať.
+    </tei:p>
+    <tei:p>
+     Raz sa opýtal, či by ho smel so sebou doviesť. »A prečo by si   nesmel?« prisvedčila gazdiná. »Nech mu prejde čas, chudákovi.«
+    </tei:p>
+    <tei:p>
+     No, tak im cez tie zimné večery čas uchádzal, až milá vec! Veľa   peria napárali. Ondrej netúlal sa
+    </tei:p>
+    <tei:p>
+     ﻿10
+    </tei:p>
+    <tei:p>
+     s chasou; Ondrášik nešiel do krčmy, strúhal radšej varešky, a   Samko sa učil od neho.
+    </tei:p>
+    <tei:p>
+     Raz, ako tak sedia, rozprávala Dorka, že je starý Dávid chorý, je   mu vraj zima; kto vie, či si má čím zakúriť. V ten večer bol Metod   práve dočítal jednu knižku, povedal »Dobrú noc!« a odišiel.
+    </tei:p>
+    <tei:p>
+     »Uvidíte, že on pôjde k tomu židovi!« povie Ondrej.
+    </tei:p>
+    <tei:p>
+     »Ach však tam chodieva«, ohlásil sa Samko; »neraz som ho videl, že   mu vody doniesol.«
+    </tei:p>
+    <tei:p>
+     »Choď, nože, Ondrej, pozrieť cez okno, či je tam«, radila Dorka,   »a čo robí?!«
+    </tei:p>
+    <tei:p>
+     Nuž Ondrej išiel. Trvalo dosť dlho, než sa vrátil.
+    </tei:p>
+    <tei:p>
+     »Videl si ho?« zavolal Samko.
+    </tei:p>
+    <tei:p>
+     »Videl, žid leží na posteli, a Metod mu predtým varil akýsi čaj a   teraz mu číta z knihy.«
+    </tei:p>
+    <tei:p>
+     »A ako mu číta? Však Dávid vie iba nemecky a židovský čítať,   povedal mi to raz, keď som sa ho pýtal.«
+    </tei:p>
+    <tei:p>
+     »Ako, — neviem; slovensky to nebolo. Ale ten starý ho tak počúva,   ani oči s neho nespustí.«
+    </tei:p>
+    <tei:p>
+     »Je on divný človek, ničoho a nikoho sa neštíti«, vzdychol si   Podhájsky.
+    </tei:p>
+    <tei:p>
+     »Veru divný; ale dobre že prišiel«, prisvedčila gazdiná. »Odkedy   ho máme, vždy vieme, ako sa vodí deťom v Amerike; predtým sme aj   mesiace nič nevedeli o nich. Nikto z nás nevie písať; no on to tak   všetko popíše, čo mu hovorím. Deti sú celé šťastné, že toľko o nás   vedia; píšu tiež. Len keď som mu kázala, aby o sebe napísal,   nechcel.« »0 sebe nebudem rozprávať«, povedal mi.
+    </tei:p>
+    <tei:p>
+     Ba tak sa tá zima minula! Jar prišla skoro, ani sa ľudia   nenazdali.
+    </tei:p>
+    <tei:p>
+     Raz v nedelu stál Ondrášik so sluhom na konci sadu; pred nimi   močidlo a veľký breh, porastený riedkou trávou a kríčkami.
+    </tei:p>
+    <tei:p>
+     ﻿11
+    </tei:p>
+    <tei:p>
+     »Počujte, gazda!« hovorí Metod. »Toto vám tu špatí celý váš   majetok, veru by ste mohli kúpiť ten breh od obce.«
+    </tei:p>
+    <tei:p>
+     »Ale ja? A načo by mi to bolo?« zadivil sa sedliak, že jeho   rozumný sluha také niečo môže hovoriť.
+    </tei:p>
+    <tei:p>
+     »Ach, nuž veď ten breh by sa dal skopať, z hliny by bola dobrá   tehla a ostatným možno zasypať tieto močiare.«
+    </tei:p>
+    <tei:p>
+     »Tehly mi netreba, rolí mám dosť; načo by mi bola tá tatra?«
+    </tei:p>
+    <tei:p>
+     »Tak viete čo, kúpte ju pre mňa, a ja si to od vás odkúpim. Mne sa   tu u vás ľúbi: mám pár sto zlatých, za tie dva roky postavím si tu   pomaly chalupu, budem vaším susedom.«
+    </tei:p>
+    <tei:p>
+     Zasmial sa Ondrášik zdanlivému žartu. Ale nebol to žart; Metod   skutočne nedal pokoja; naklonil hospodára. Kúpil Ondrášik i predal mu   breh a močiar. Dohodli sa, že dokiaľ nebudú tuhé roboty, tri hodiny,   — a keď bude robota, dve cez deň smie on tu na svojom kopať.
+    </tei:p>
+    <tei:p>
+     No, keď prešla siatba, hovorí Metod: »Viete, gazda, dva týždne,   alebo i tri nemáme súrnu prácu, tak ja vám štvrť roka budem len za   chovu, nechajte mňa a Ondreja za tie týždne robiť okolo môjho; či   necháte? «
+    </tei:p>
+    <tei:p>
+     »No, nedbám; aj ja ti pomôžem, lebo by som veru rád videl, čo   spravíš. Keď máš pár sto zlatých, to si si radšej mohol niekde kúpiť   izbietku.«
+    </tei:p>
+    <tei:p>
+     »Viete, to by bola len izbietka, a ja budem mať dom!« zasmial sa   šuhaj. »Uvidíte, môj Boh, v ktorého dúfam, mi pomôže.«
+    </tei:p>
+    <tei:p>
+     Chodili sa susedia dívať na diváky, čo robí Ondrášikov sluha.
+    </tei:p>
+    <tei:p>
+     Najal si Podhájského i s matkou, k tomu on a Ondrej, kedy-tedy aj   Dorka, áno, i sám gazda, kopali breh a zasýpali menšie močidlo;   nasvážali toľko hliny, že bol kus nielen vyrovnaný, ale ešte vyše   cesty zvýšený a ako nejaká záhrada, tak vyrobený.
+    </tei:p>
+    <tei:p>
+     ﻿12
+    </tei:p>
+    <tei:p>
+     Metod kúpil v školskej záhrade stromky-nižiačky, nasadil ich pekné   tri rady. A napodiv! Keď prišlo leto, všetky sa ujaly. Potom začali   robiť tehly, a keď robota ostatných odvolala, Podhájskych robili   ďalej, až dokiaľ nešli do výžinku . . .
+    </tei:p>
+    <tei:p>
+     »Kto by nám to bol povedal, že Ondrášikov sluha dá nám taký dobrý   zárobok!« hovorila Podhájska a pritom požehnávala šuhaja, že ho sám   Boh poslal. Martin vraj už nepije; už ani čo by to on nebol, taký je   krotký. Veľmi želie predošlý zlý život a modlí sa k Bohu, aby mu   odpustil hriechy.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Bolo také pekné letné popoludnie; ľudia povychádzali na pole   obzerať úrody. Medzi tými, ktorí sa tiež strojili, bol aj gazda   Petráš. Práve ako oblieka kabát, vojde do izby Metod.
+    </tei:p>
+    <tei:p>
+     Nebolo Petrášovi ľahostajné, — hoci sa tak tváril, — že susedov   sluha toľko dobrého preukazuje jeho synovi, že ho dosť dobre cez zimu   naučil litery skladať i písať. Bol on pyšný sedliak a dosť ho mrzelo,   že mu syn musí zostať taký sprostý. Návšteva Metodova bola mu teda   milá; vedel, že ide za synom, ale chcelo sa mu samému s ním   pohovoriť. Ponúkol mu miesto na lavici a sám si tiež sadol.
+    </tei:p>
+    <tei:p>
+     »Samko príde hneď«, ospravedlňoval syna, »kamsi vyšiel a však   vieš, že jemu to dlho trvá, kým sa vráti.«
+    </tei:p>
+    <tei:p>
+     »Bude aj lepšie«, usmial sa šuhaj. »Je mi milé, že som vás našiel,   sused, a že jeho tu niet; prehovorme spolu rozumné slovo, ktoré mi už   dávno leží na srdci.«
+    </tei:p>
+    <tei:p>
+     Zadivil sa sedliak, aké slovo má šuhaj k nemu.
+    </tei:p>
+    <tei:p>
+     »No tak, čo chceš?«
+    </tei:p>
+    <tei:p>
+     ﻿13
+    </tei:p>
+    <tei:p>
+     »Premýšľali ste už, čo bude z vášho jediného syna ďalej ?«
+    </tei:p>
+    <tei:p>
+     Muž prekvapene pokrčil plecami. »Žobrák!« preriekol sucho. »Môžem   ja za to?
+    </tei:p>
+    <tei:p>
+     Však mu čiastku nechám, ale čo s ňou spraví? Sedliak z neho nikdy   nebude«.
+    </tei:p>
+    <tei:p>
+     »To aj ja myslím a počul som, že si chcete vziať zaťa do domu.   Dokiaľ má Samko ešte matku a vás, to ide; ale čo potom, až sa   pominiete? Bude odkázaný na milosť a nemilosť ostatných; zle s ním   naložia; a je to váš jediný, prvorodený syn.«
+    </tei:p>
+    <tei:p>
+     »Prečo mi to hovoríš?« podoprel sedliak hlavu do oboch rúk.   »Myslíš, že mňa to dosť netrápi, keď na neho pozriem? — Načo je na   svete?«
+    </tei:p>
+    <tei:p>
+     »Nepýtal sa na svet!« vážne odvetí šuhaj. »Sused, vy, ako otec,   najmenej máte právo takto hovoriť. Keď mu Boh dal život, iste má pre   neho na zemi nejakú prácu; no i vy ste mu ho dali, a je vašou   povinnosťou, aby ste mu k nej dopomohli.«
+    </tei:p>
+    <tei:p>
+     »Ľahko tebe hovoriť, keď si zdravý; no, čo mám s ním začať   ja?«
+    </tei:p>
+    <tei:p>
+     »Ak chcete niečo pre vášho syna urobiť, dal by som vám radu.«
+    </tei:p>
+    <tei:p>
+     »Chcem, len povedz;« muž vzal ruku šuhajovu do svojich.
+    </tei:p>
+    <tei:p>
+     »Bývate na ceste, všetci ľudia z fílie idú tadeto okolo. Pristavte   mu tam k tej komore izbietku a otvorte mu skliepok. Môže predávať   masť, múku a čo také. Chodíte často do mesta; čo treba, doveziete mu.   Keď pár sto zlatých vložíte do toho, zaistíte synovi budúcnosť.   Dokiaľ ste ešte vy, môže sa s vami chovať, opatríte ho; zatiaľ   dospeje v muža, avšak nie je ináč chorý, a pekný mládenec je z neho,   rada si ho vezme i poriadna dievčina, keď bude vedieť, že ju   uživí.«
+    </tei:p>
+    <tei:p>
+     »Čítať som ho už s pomocou Božou naučil;« pokračuje šuhaj,   medzitým čo sedliak len hlavou krútil
+    </tei:p>
+    <tei:p>
+     ﻿14
+    </tei:p>
+    <tei:p>
+     a celý zadivený na neho hľadí. — »Hovoril som so starým Dávidom o   ňom; je hotový naučiť ho rátať aj predávať, však vy viete, že židovi   sa nikto v obchode nevyrovná. Tak premýšľajte o tom, ide Samko a   nechcem, aby vedel, o čom sme hovorili, až keď sa rozhodnete.   Zavediem ho trocha do hája.«
+    </tei:p>
+    <tei:p>
+     Než sa sedliak nazdal, bol už v izbe sám. Videl cez okno, ako   Metod drží Samka okolo pása a vo veselom rozhovore s ním vedie ho   sadom, až mu i ■zmizli zpred očí.
+    </tei:p>
+    <tei:p>
+     »Co mi to len povedal?! ■— a ako hovorí, ani kniha! Kto by si také   niečo pomyslel? Ba, načo ten chasník príde! To je ako s tým zasypaným   močidlom. Samko hovorí, že musel mnoho sveta prejsť a veľa skúsiť. —   Ale má pravdu; aj ja by som bol rád, keby z chlapca ešte niečo   bolo.«
+    </tei:p>
+    <tei:p>
+     Vyhľadal si sedliak ženu; zavolal ju na pole. Ale málo dnes z úrod   videli, lebo sa len radili a radili, a sedliačka až tak omladla   nádejou, že z jej miláčka ešte čosi bude v živote.
+    </tei:p>
+    <tei:p>
+     Medzitým sedeli tí dvaja, o ktorých oni spolu rozprávali, v   neďalekom dubovom háji, okolo nich kŕdeľ detí a Metod im   rozprával.
+    </tei:p>
+    <tei:p>
+     Všetky deti v dedine poznaly Ondrášikovie Metoda, lebo vraj deti a   psi vybadajú, kto je k nim dobrý a idú za ním. Bol im za svojím   brehom vykopal v potoku štvorhrannú jamu aby sa mohly kúpať; aj stav   im spravil, kde mohly lepšie chytať rýbätá. Na poli neraz pomohol   malým pasákom z ťažkostí. Na jar, keď mal podvečer trocha času,   narezal si vŕbových prútov a robil z nich píšťalky, z bazových   konárov striekačky a pukačky, teraz zase z orechov grumble; mal toho   vždy plné vrecká a delil medzi ten malý, darov žiadostivý národ.   Behaly za ním ako psici, a kade šiel, či dedinou, či polom, vždy bolo   počuť; »Ujček Metod! Ujček Metod!«
+    </tei:p>
+    <tei:p>
+     ﻿15
+    </tei:p>
+    <tei:p>
+     Neraz, keď mu gazdiná dala na pole chleba so syrom na olovrant,   rozdelil ho chudobným husiarom.
+    </tei:p>
+    <tei:p>
+     No deti malý kráľovskú radosť, keď tak, ako i dnes mohly sa dostať   k nemu, posadať si k jeho nohám a počúvať.
+    </tei:p>
+    <tei:p>
+     Veď také rozprávky rozprávať, ako ujček Metod, nevedel nik na   svete! — To bola medzi nimi všeobecná mienka.
+    </tei:p>
+    <tei:p>
+     Na neďalekej lúčinke pásly sa ovce i kravy popriväzované o koly a   deti sediac ticho ako peny, počúvaly i teraz rozprávku. Jeden z   chlapcov našiel mladú mŕtvu lastovičku. »Ak chcete, budem vám   rozprávať voľačo o lastovičkách,« povedal ujček Metod; a deti: »Äno,   áno, o lastovičkách.«
+    </tei:p>
+    <tei:p>
+     »Tak počúvajte, ako prišly lastovičky domov.«
+    </tei:p>
+    <tei:p>
+     Ďaleko, ďaleko, tam kde na Vianoce stromy kvitnú a ovocie zrie,   tam kde je toľko krásneho a takého kvietia, o akom u nás ani   nechyrovať, — no i toľko hadov, že až hrôza na človeka prichádza, tam   v ďalekej Afrike malý lastovičky veľké shromaždenie a snem.
+    </tei:p>
+    <tei:p>
+     A bolo vám to krásne shromaždenie. Všetky lastovičky sa boly   najprv okúpaly v rose, očistily si svoje šatočky a teraz každá z nich   vyzerala ako nejaké poriadne dievčatko: čierne vlásky hladunko   učesané, čierne kabátiky ani z aksamietu, čierne očká, ružová   vestička, biele náprsenky a suknička s dlhou vlečkou, — ako nejaká   veľká pani.
+    </tei:p>
+    <tei:p>
+     Sletovaly sa k tomu snemu so všetkých strán, po stách, ba i po   tisícoch. Keď už boly všetky, tak začalo shromaždenie.
+    </tei:p>
+    <tei:p>
+     Začaly si ho spevom a modlitbou. Kto neverí, že sa lastovičky   modlia, nech sa ich opýta, a nech si to nájde v Slove Božom napísané.   Ja istotne viem, že sa modlia, i že poslúchajú Boha, svojho   Stvoriteľa.
+    </tei:p>
+    <tei:p>
+     ﻿16
+    </tei:p>
+    <tei:p>
+     Nuž teda začaly so spevom a modlitbou. Potom, keď všetko stíchlo,   oznámil im zprávu, že nakoľko je už čas opustiť Afriku a vrátiť sa do   starej vlasti, má sa teraz urobiť porada, v ktorý deň a hodinu   nastane ťaženie, a že majú byť prednesené zákony a rady, ako sa na   tej ceste zachovať.
+    </tei:p>
+    <tei:p>
+     Jednohlasne vyvolily si lastovičky starších správcov medzi sebou a   potom ich zasa ticho počúvaly.
+    </tei:p>
+    <tei:p>
+     — Zajtra, keď budú ľudia počítať prvého, povinné sú všetky   dostaviť sa na miesto každoročnej schôdzky. — Ktoré by sa oneskorily,   musia zostať v Afrike.
+    </tei:p>
+    <tei:p>
+     Poletíme najprv krásnymi krajinami, až prídeme k veľkej vode; — tá   voda sa menuje more. Hlaďte sa všetky držať pohromade, tak, ako vás   podelia, lebo ktorá zaostane, tá ani jedna nie je bezpečná pred   divými vtákmi. Pred tisíc lastovičkami majú i draví vtáci strach;   jednu alebo dve pohltia.
+    </tei:p>
+    <tei:p>
+     Kým ešte poletíme krásnymi krajinami, musíte dobre počúvať na   povel a často a dlho spoločne odpočívať. — A keby aké veľké množstvo   múch bolo okolo vás, nesmiete sa nimi objedať, aby ste nestučnely a   neboly potom priťažké.
+    </tei:p>
+    <tei:p>
+     Pri mori budeme mať zasa shromaždenie; odovzdáme sa do rúk Božích,   lebo nastane pre nás nebezpečná cesta. Nikde neuzriete nič iného, len   vodu a vodu; ustať v lete nesmiete, lebo nebude si kde sadnúť.
+    </tei:p>
+    <tei:p>
+     Všetko záleží od nášho Stvoriteľa; preto len tá lastovička preletí   cez more, ktorá najlepšie bude Božie, nám dané zákony poslúchať a   najviac sa modliť. — I teraz sa pomodlíme.« Nuž pomodlily sa,   zaspievaly; snem skončil.
+    </tei:p>
+    <tei:p>
+     Na druhý deň až sa tak všetko černelo na brehoch veľkej krásnej   rieky! Priletelo najprv sto, potom tisíc lastovičiek, a potom ich už   bolo toľko, že by ich nikto nebol spočítal. Vyzeralo to ako nejaký   vojenský tábor. Medzi tým zástupom preletovaly šedivé lasto-
+    </tei:p>
+    <tei:p>
+     ﻿17
+    </tei:p>
+    <tei:p>
+     vičky, robily poriadky, — menovaly vodcov. No boly tu i biele   lastovičky, také bielučké a čistučké, že sa zdalo, ako by nikdy   zemský prach na ne nebol padol. Tie preletovaly medzi tými podelenými   plukmi a napomínaly k modlitbám a poslušnosti oproti svätému   Stvoriteľovi, živému Bohu.
+    </tei:p>
+    <tei:p>
+     Pretože aj medzi lastovičkami sú chlapci a dievčatká, nuž tí   chlapci bavili sa medzi sebou, merali si krídelká, ktorý má dlhšie,   ktorý bude môcť viac preletieť. Rozprávali si, že more preletieť, to   je vraj nič; — nevídali mora! Robili si medzi sebou známosti, pustili   sa i do pasovania, aby vraj vedeli, ako bojovať s dravcami.
+    </tei:p>
+    <tei:p>
+     »Nechajte to!« napomínala stará, šedivá vodkyňa. »Veď vy nemáte   bojovať; Boh bude bojovať za vás, len prosiť Ho musíte a veriť a   letieť. — Keby ste s každým dravcom chceli bojovať, nikdy neprídete k   cieľu.«
+    </tei:p>
+    <tei:p>
+     Dievčatká si zase šepkaly medzi sebou, aké ktorá má šaty, ktorá má   hladšie učesanú hlavičku, belšiu náprsenku a dlhšiu vlečku.
+    </tei:p>
+    <tei:p>
+     Priletela k nim biela lastovička a vraví vážne: »Na Boha myslite a   na tú ďalekú cestu; krása pred záhubou nezachráni, a ak ktorá z vás   padne do toho mora, zahynie aj so svojou krásou.«
+    </tei:p>
+    <tei:p>
+     Pohľadaly si staré lastovičky každá svojich chlapcov a dievčatá,   ponaprávaly zvlášte na chlapcoch — ktorí sa boli celí rozcuchali, —   všetko, čo treba. Pomodlily sa, zaspievaly a: »S Bohom Afrika! S   Bohom Afrika!« zaznelo z tisícich a tisícich hrdielok.
+    </tei:p>
+    <tei:p>
+     Slnce sa zatmelo od toho čierneho oblaku. Ľudia prestávali   pracovať, hľadeli na ten oblak a hovorili: »Lastovičky idú   domov.«
+    </tei:p>
+    <tei:p>
+     Ach, pekná to bola cesta tými krásnymi krajmi, letieť až po more;   pekná už i pre tie nové a nové známosti, ktoré si lastovičky medzi   sebou robily. Na povel vodkýň muselo sa často a dlho odpočívať, takže   temer žiadna lastovička necítila únavy.
+    </tei:p>
+    <tei:p>
+     2
+    </tei:p>
+    <tei:p>
+     ﻿18
+    </tei:p>
+    <tei:p>
+     Zrazu zazrely v diaľke more. »Odpočívať!« znie rozkaz. Mnohé   najradšej pustily by sa hneď ďalej, ale vodcovia, že nie; treba   oddych krídlam a posilu v spoločnej modlitbe.
+    </tei:p>
+    <tei:p>
+     Prezeraly vodkyne celý tábor. Kto vraj má čo akú malú odreninu,   alebo azda pierka nalomené, alebo čokoľvek nemocné, aby to vyznal,   shromaždenie bude ňaň čakať, kým sa úplne uzdraví.
+    </tei:p>
+    <tei:p>
+     Tu niektoré vyznaly, ale iné nepripisovaly tomu význam. Čože   odreniny! To sa na tej ceste zahojí!
+    </tei:p>
+    <tei:p>
+     Iné zasa, neposlušné, keď tak mnoho múch bzučalo okolo, nemohly sa   zdržať a len ich hltaly a hltaly. Napomenutie bielych lastovičiek, že   len ten, kto- vie seba zaprieť a krotiť svoje žiadosti, preletí cez   more,— pustily jedným uchom dnu, druhým von. — Ony za tých pár dní,   čo tábor pri brehu ležal, tak stučnely a zlenively, že kde sadly, tam   driemaly; a ak nedriemaly, tak len po tých muchách škúlily. Driemaly   aj keď bolo zasa veľké modlitebné shromaždenie; áno, keď sa všetky   modlily, ich hlas si nepočul a i keď spievaly s ostatnými, len tých   múch boly žiadostivé.
+    </tei:p>
+    <tei:p>
+     »Tak teda, v mene nášho Stvoriteľa, ideme ďalej!« zaznelo   táborom.
+    </tei:p>
+    <tei:p>
+     »S Bohom, Afrika! S Bohom, Afrika!« volalo zasa tisíce hrdiel.   »Cez to more, cez to more ideme domov!« a ozvena odpovedala: »domov   !«
+    </tei:p>
+    <tei:p>
+     Presvedčili sa tí chlapci, ktorí to tam pri rieke povedali:   »Nevídali more«, že to more je veľké, — aké veľké!
+    </tei:p>
+    <tei:p>
+     Letely dlho a nikde nič nevidíš, len vodu a vodu. — Nohy i   krídelká boly tak ustaté, hlavičky umdleno začaly klesať, oči túžobne   vyzeraly, ach, vyzeraly miesto odpočinku, a vodcovia vždy len veleli:   »Letieť, letieť!«
+    </tei:p>
+    <tei:p>
+     Tie, ktoré si na brehu nevšímaly svojich odrenín a nalomených   krídeliek, padaly jedna po druhej do zelenej vody. Keď padla niektorá   zdravá, chvíTu nie-
+    </tei:p>
+    <tei:p>
+     ﻿19
+    </tei:p>
+    <tei:p>
+     sla ju voda, potom novou silou vzchopila sa zasa; ale ony sa   nemohly vzchopiť, tonuly a zahynuly.
+    </tei:p>
+    <tei:p>
+     Tie muchami vytučené lastovičky zaostávaly po jednej, najskôr   málo, potom viac, sily ich opúšťaly. »Počkajte nás, počkajte!«   volaly, prosily, — máme! Rozkaz vodkýň znel: »Letieť, letieť!« a to   bol rozkaz Boží, lebo Boh každej poslušnej lastovičke vymeral a do   krídeliek dal práve toľko sily, koľko potrebovala na preletenie mora,   ale s každou chvíľočkou tej sily ubývalo, nesmela sa baviť a   postávať.
+    </tei:p>
+    <tei:p>
+     Úbohé, neposlušné lastovičky! Tam na brehu nevedely odolať   telesnej žiadosti, a teraz boly priťažké do letu, a následok tej   žiadosti bol, že ich telo stiahlo do mora. — K tomu prišla zrazu   búrka, lejak, víchor. — Na stá a stá lastovičiek padlo do mora. No,   ktoré boly poslušné a vedely sa modliť, zase sa len vzchopily. Ale z   tých neposlušných sa už ani jedna nevzniesla hore; pre tú svoju   neposlušnosť umieraly v tých strašných hlbinách. Neuvidia nikdy svoje   rodné hniezdočká, nikdy, nikdy neprídu domov!
+    </tei:p>
+    <tei:p>
+     Keď bolo s lastovičkami najhoršie, uvidely z ďaleká plávať loď.   Obsadily ju, kde ktorá mohla. Ó to bola radosť! Plavci na lodi sa   síce z toho veľmi netešili, ale cestovatelia a deti, ktoré sa na tej   lodi viezli, radovali sa z ich milého štebotania a posielali po nich   pozdravy domov do rodného kraja. Keď jedny si na lodi odpočinuly,   sadly si zasa druhé, tretie a tak sa všetkým uľavilo.
+    </tei:p>
+    <tei:p>
+     No, ešte jedna búrka s víchrom preriedila rady vtáčieho tábora.   Zdalo sa lastovičkám: »Nie je možné, musíme všetky zahynúť!«
+    </tei:p>
+    <tei:p>
+     »Nezahynieme!« volaly biele vodkyne; »len veriť a poslúchať, Boh   nás posilní!«
+    </tei:p>
+    <tei:p>
+     »Zem! zem!« zakričaly vtom prvé tisíce. Zajasal celý tábor.   Vtáčatká sobraly všetku poslednú silu, a až na tie, ktoré v poslednej   chvíli stratily nádej v Božiu pomoc a tak ich sila opustila a ony   popadaly a
+    </tei:p>
+    <tei:p>
+     2*
+    </tei:p>
+    <tei:p>
+     ﻿20
+    </tei:p>
+    <tei:p>
+     pohynuly temer pri samých brehoch Európy, — nuž až na tie, všetky   šťastne dosiahly zem a rozložily sa k dlhému radostnému   odpočinku.
+    </tei:p>
+    <tei:p>
+     Keď okrialy, ožily, bolo zasa shromaždenie. Začalo sa modlitbou a   jasavým spevom chvály oproti dobrému Stvoriteľovi, ktorý im tak   predivne pomohol.
+    </tei:p>
+    <tei:p>
+     Potom zasa čakala dôležitá práca a porada.
+    </tei:p>
+    <tei:p>
+     Dosial letely všetky spolu, teraz nastalo triedenie. Každá   lastovička musela udať svoje rodisko.
+    </tei:p>
+    <tei:p>
+     Boly tu lastovičky anglické, francúzske, ruské, nemecké,   talianske, rakúske, české a slovenské. — Tak ich teda potriedily   najskôr podľa krajín, potom podľa krajov, a nakoniec podľa miest a   dedín.
+    </tei:p>
+    <tei:p>
+     Poďakoval sa celý tábor šedivým vodkyniam; prijaly napomenutie,   aby, keď ktorá domov príde, prišla s veľkým jasotom a oznamovala   ľuďom príchod leta. Pozdravily sa navzájom, a už letia kam ktorá v   šíry svet. Ešte v lete pokrikujú jedny na druhé:
+    </tei:p>
+    <tei:p>
+     Vy kam?«
+    </tei:p>
+    <tei:p>
+     »Do Petrohradu, do Moskvy!«
+    </tei:p>
+    <tei:p>
+     »A vy kam?«
+    </tei:p>
+    <tei:p>
+     »Do Paríža!«
+    </tei:p>
+    <tei:p>
+     »A my do Prahy!«
+    </tei:p>
+    <tei:p>
+     »A my do Viedne.«
+    </tei:p>
+    <tei:p>
+     »My do Ríma!«
+    </tei:p>
+    <tei:p>
+     »S Bohom leťte, s Bohom leťte!«
+    </tei:p>
+    <tei:p>
+     Keď sa už jedny od druhých oddelily a ktoré užšie spolu patrlly, k   sebe pridružily, začaly sa české lastovičky so slovenskými   rozprávať.
+    </tei:p>
+    <tei:p>
+     »Kam idete vy?«
+    </tei:p>
+    <tei:p>
+     »My do Viedne.«
+    </tei:p>
+    <tei:p>
+     »A kde tam bývate?«
+    </tei:p>
+    <tei:p>
+     »My sme si postavily hniezda na Votívnom kostole, je to kostol   postavený na pamiatku, že keď raz chcel zlý človek zabiť cisára,   nedal mu to Boh. Je
+    </tei:p>
+    <tei:p>
+     ﻿21
+    </tei:p>
+    <tei:p>
+     pravda, neradi nás tam ľudia videli; ale my sme sa opýtaly Pána   Boha, či smieme, On, že áno, — nuž tak bývame. — A tieto tu až na   samom vrchu Štefanskej veže. — A vy ste zkadiaľ?«
+    </tei:p>
+    <tei:p>
+     »My sme z Prahy, bývame na Hradčanoch, to bol kedysi zámok, kde   českí kráľovia bývali, — a na Svätovítskom kostole. — Neraz sme si už   myslely, že by sme tým ľuďom pomohly stavať, — keď ten kostol už viac   než sto rokov stavajú. — aby raz boli hotoví.« »My zasa ideme do   Trenčína.«
+    </tei:p>
+    <tei:p>
+     »To je kde?«
+    </tei:p>
+    <tei:p>
+     »Nuž na Považí.«
+    </tei:p>
+    <tei:p>
+     »A my ideme do Pešti; tam je dobre bývať, lebo pri Dunaji je všade   dosť komárov.«
+    </tei:p>
+    <tei:p>
+     »Bývate vari v Budínskom hrade?« »Ó nie, tam by nám bolo smutno.«   »A vy ste zkadiaľ?«
+    </tei:p>
+    <tei:p>
+     »My sme z dedín, máme blízko k sebe; len cez vŕšok preletíme, už   sme jedna pri druhé j.«
+    </tei:p>
+    <tei:p>
+     »No, — tu je hranica; musíme sa rozlúčiť. Pamätajte na nás; Boh   vás sprevádzaj!«
+    </tei:p>
+    <tei:p>
+     »Boh vás sprevádzaj!«
+    </tei:p>
+    <tei:p>
+     Tak prišly lastovičky z Afriky cez to ďaleké more, každá do svojho   kraja, do svojho mesta a dediny, áno každá rovno až do svojho   hniezdočka. Prišly až do našej dediny, do našich domov. Prišly s   veľkým jasotom. Vítali sme ich tiež radostne:
+    </tei:p>
+    <tei:p>
+     »Ach, lastovičky prišly, bude leto!«
+    </tei:p>
+    <tei:p>
+     »Nuž tak prišly lastovičky domov«, — končil Metod. »No, ako raz vy   prídete domov? Alebo myslíte, že ste už doma, že tu na večné veky   budete bývať? «
+    </tei:p>
+    <tei:p>
+     »Nebudeme«, zamyslely sa staršie deti, »lebo musíme umrieť.«
+    </tei:p>
+    <tei:p>
+     »A kam potom? «
+    </tei:p>
+    <tei:p>
+     ﻿22
+    </tei:p>
+    <tei:p>
+     »Do hrobu!« — volaly jedny.
+    </tei:p>
+    <tei:p>
+     »Do neba!« zasa druhé.
+    </tei:p>
+    <tei:p>
+     »Áno, v nebi je náš domov. No myslíte, že iste prídete do neba? —   Čo tie lastovičky robily na ceste?«
+    </tei:p>
+    <tei:p>
+     »Ony sa modlily, — ony poslúchaly«, ohlásil sa malý chlapček;   nejedlý mnoho múch.«
+    </tei:p>
+    <tei:p>
+     »Tak hľa, vidíte, ak chcte prísť do neba, aj vy musíte poslúchať,   čo Pán Boh káže, a nesmiete to robiť, čo on zakázal. •— Teraz mi   povedzte ten veršík, čo som vás učil.«
+    </tei:p>
+    <tei:p>
+     »Prišiel Syn človeka, aby hľadal a spasil, čo bolo zahynulo.«
+    </tei:p>
+    <tei:p>
+     »Či viete ešte, kto je ten, Syn človeka?«
+    </tei:p>
+    <tei:p>
+     »Pán Ježiš Kristus!« volaly deti.
+    </tei:p>
+    <tei:p>
+     »A koho to prišiel hľadať?«
+    </tei:p>
+    <tei:p>
+     »Nás.«
+    </tei:p>
+    <tei:p>
+     »Áno, nás. On prišiel, ako som vám už povedal, umrel na kríži za   vaše a moje hriechy, a hľadá nás. Kto v Neho verí, ten ide za Ním,   ten už nemusí zomrieť za svoje hriechy; on nič nepotrebuje, len — ako   tie lastovičky — poslúchať. Tak Pán Ježiš dovedie ho domov do neba; a   to bude veľká radosť tam každý zaletí do svojho domčeka, ako do   hniezdočka.
+    </tei:p>
+    <tei:p>
+     »No, ale už choďte, — váš dobytok je nespokojný,
+    </tei:p>
+    <tei:p>
+     — a nezabudnite, ako prišly lastovičky z tej ďalekej krajiny   domov, a majte ich rady, ctite si ich, že tú ďalekú cestu prekonaly,   lebo to sú tie poslušné lastovičky; tie neposlušné sa utopily v mori   a tam sú pochované.«
+    </tei:p>
+    <tei:p>
+     Rozbehly sa deti na lúku za dobytkom, šuhaji zostali sami v   hlbokom zamyslení.
+    </tei:p>
+    <tei:p>
+     »Počuj, Metod«, povie zrazu Samko, »to je akási neobyčajná   rozprávka. — Ak je to obraz nášho odchodu do neba, to sme my tu u nás   v Hradovej ani na ceste nie.«
+    </tei:p>
+    <tei:p>
+     ﻿23
+    </tei:p>
+    <tei:p>
+     »Tak? Myslíš? A prečo?« perami šuhaja preletel pekný úsmev.
+    </tei:p>
+    <tei:p>
+     »Nuž tie lastovičky začínaly všetko s modlitbou, ony sa k odchodu   hotovily; a my tak žijeme, ako by sme tu na večné veky mali bývať, —   a predsa máme v dedine cintorín!. — My nič nezačíname s   modlitbou.*
+    </tei:p>
+    <tei:p>
+     »A prečo nezačínate? Či nie je Boh dobrý? Ci nie je On hodný, aby   ste Ho chválili? Nie je On všemohúci, aby ste si všetko od Neho   vypýtali!«
+    </tei:p>
+    <tei:p>
+     »Je; ale my na Neho nemyslíme.«
+    </tei:p>
+    <tei:p>
+     »Samko, tie lastovičky malý snem a modlitebné shromaždenie, skôr   ako letely domov. Bolo by síce slušné, aby celá vaša dedina sišla sa   dohromady s tým úmyslom odovzdať sa na modlitbe Bohu a prosiť Ho, aby   vás cez to more šťastne preniesol k brehom večnej spásy. No, keď tak   neučinia všetci razom, nemohli by sme to začať my dvaja, nemohli by   sme to urobiť hneď, teraz?«
+    </tei:p>
+    <tei:p>
+     »Hneď, a tu? To by vari malo byť v kostole!«
+    </tei:p>
+    <tei:p>
+     »Sme i teraz v chráme, vystaval si ho Boh sám, a On je na každom   mieste; nemyslíš?«
+    </tei:p>
+    <tei:p>
+     »To je pravda; no ja sa neviem modliť.«
+    </tei:p>
+    <tei:p>
+     »Chceš sa dať zahanbiť vtáčkom? Lastovičky vedia povedať svojmu   Stvoriteľovi, čo potrebujú, prečo nie ty? On je ako Otec, a dobrý   Otec. Poďakuj Mu za to, čo všetko ti dodnes dal; odpros Ho, že si na   Neho nemyslel, a popros, aby ti odo dneška pomohol tak žiť, aby si   raz prišiel domov.«
+    </tei:p>
+    <tei:p>
+     Už sa bolo hodne zvečerilo, keď sa oba priatelia vrátili.
+    </tei:p>
+    <tei:p>
+     Zamyslený Samko nevidel, akí boli rodičia veselí a k nemu dobrí;   on videl pod návratím hniezdo a sem-tam preletujúce pekné vtáčatko;   jemu vždy znelo v mysli:
+    </tei:p>
+    <tei:p>
+     »Tak prišly lastovičky domov.«
+    </tei:p>
+    <tei:p>
+     ﻿24
+    </tei:p>
+    <tei:p>
+     »Ach, vzdychol si z hlbín duše, »tu som ich mal každý rok a   nevedel som, že mi ich posiela Pán Boh ako živé napomenutie, že i ja   mám raz prísť domov a že sa mám chystať na tú cestu.«
+    </tei:p>
+    <tei:p>
+     »Čítajte Božie Slovo vo vašich domoch, nájdete Krista; On vás   spasí a naučí, ako máte ísť domov, skrze Svojho Ducha!« povedal   Metod, keď sa rozchádzali.
+    </tei:p>
+    <tei:p>
+     On chcel poslúchnuť a čítať najskôr len sebe, veď Písmo ešte dobre   nepoznal; potom, keď sa naučí, budú ho i druhí počúvať, budú!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Pred svojím domom sedel pod košatým orechom starý žid Dávid a   drobil chudými prstami suchý chlieb pre svoje krotké sliepočky.   Mesiac svietil na šedivú, nepokrytú hlavu osamelého muža, — muža,   ktorý na šírom svete nemal nikoho.
+    </tei:p>
+    <tei:p>
+     Je pravda, že mal i tento domček i kúsok sadu pri ňom; tento orech   i lavička pod ním boly jeho majetkom, no, nebola to tu jeho vlasť. On   bol cudzí uprostred cudzincov, s ktorými nikdy nemohol hovoriť vo   svojej rodnej reči.
+    </tei:p>
+    <tei:p>
+     Zostarel v tejto dedine, ale nezvykol v nej, tak málo, ako kde   inde.
+    </tei:p>
+    <tei:p>
+     Nič ho tu neviazalo. Ľudia privykli na neho, on na ľudí; k láske   to neprišlo.
+    </tei:p>
+    <tei:p>
+     Cez zimu keď chorľavel, vedeli susedia, že je chorý; no neprišli.   Veď kto by išiel k židovi! Len jeden chodil: len jeden! A chodil   verne i opatroval, on sa neštítil.
+    </tei:p>
+    <tei:p>
+     Na neho starec musel myslieť vždy; myslel i teraz. — Stretlo   starca nad hrobom dačo nečakané: začalo sa srdce, o ktorom myslel, že   je dávno pocho-
+    </tei:p>
+    <tei:p>
+     ﻿25
+    </tei:p>
+    <tei:p>
+     vané, — začalo sa zahrievať láskou k tomu mladému cudziemu   šuhajovi, a ten šuhaj bol kresťan.
+    </tei:p>
+    <tei:p>
+     Najprv hľadel starec na neobyčajné počínanie cudzinca, — ktorý sa   tu tak nečakane objavil, ako keď svitne nečakaný lúč svetla, — s   nedôverou pravého žida, ktorý pretrpel medzi kresťanmi mnoho   ústrkov.
+    </tei:p>
+    <tei:p>
+     Ešte nik zo susedov nebadal rozdiel medzi sebou a Ondrášikovým   sluhom, — a žid ho už dávno videl. Videl ho od toho okamžiku, keď po   prvý raz priniesol mu ten cudzí mládenec vodu zo studne a potom sa v   biednej jeho kuchynke posadil a tak milo rozprával, ani čo by mal   starého Dávida rád, — jeho, ktorého nikto nemal rád, ba aj tí   najbližší ho opustili. Nedôverčivo špehoval starec šuhaja, či sa   nepotkne, či neklesne v hriechoch, v akých všeobecne »kresťania«   žili. No máme! Dodnes nevidel škvrny na jeho bezúhonnom počínaní.   Nepil, nezlorečil, znal prikázania Božie, tie židom na Sinai dané, a   plnil ich deň čo deň. Žid videl, že mladý kresťan miluje Boha, a že   skutočne miluje ľudí.
+    </tei:p>
+    <tei:p>
+     Dopytoval sa potajomky; no nebolo azda na okolí suseda, či susedil   s chalupou alebo roľami, ■— ktorému by Metod nebol poslúžil. — Starý   hlásnik rozprával, že si v zime niesol nošu dreva z hôr, a dohonili   ho Ondrášikovci, viezli šúštie. Metod hneď zastavil, vzal starcovi   drevo, vyložil na fúru, ponúkol mu svoje miesto na sedenie, a sám   celou cestou išiel pešky vedľa voza až po jeho chalupu.
+    </tei:p>
+    <tei:p>
+     A zasa z jari, keď kopali jarok okolo Ondrášikovej role, okopal i   roľu, ktorú pri nich mala stará, neprívetivá vdova Hlinárka. Každý sa   tej zlej ženy podnes bál, — keď ľuďom zle vynadá; — nikto jej   neurobil dobre, len tento cudzí chasník.
+    </tei:p>
+    <tei:p>
+     Neboly to veľké veci, ktoré on robil ľuďom, — však ani nemohol,   bol len jednoduchým sluhom, — no jedno bolo isté: on všetko videl, čo   človeku chý-
+    </tei:p>
+    <tei:p>
+     ﻿26
+    </tei:p>
+    <tei:p>
+     bálo, a ak to bolo v jeho moci, tak mu poslúžil z lásky. Ba tak to   robil, ako by ináč ani nemohol.
+    </tei:p>
+    <tei:p>
+     Striehol žid, akým sluhom bude šuhaj, či sa za krátky čas   nepokazí: Už to bolo vyše roka a nikdy tak verne Ondrášikovi zaťovia   neopatrovali jeho veci, ako tento sluha. Čo len mohol polepšiť, či v   dome, či v hospodárstve, na všetko gazdu naviedol. Ani Eliezer   nemohol byť vernejším Abrahámovi, ako on *bol tomuto sprostému   sedliakovi.
+    </tei:p>
+    <tei:p>
+     Žid držal Ondrášika za sprostého; on videl často, že miesto hore,   ide dolu vodou, — no on by ho nebol napomenul. Načo, — pohana?!   Pohŕdal ním práve tak, ako sedliak židom. Videl žid, že je Metod   múdrejší, ako jeho gazda, ale nikdy nepočul šuhaja ináč o gazdovi   hovoiriť, len s úctou a láskou.
+    </tei:p>
+    <tei:p>
+     Všetko bolo na mladíkovi čisté. — Bol mladý a aj u Ondrášikov mali   dcéru, u Petrášov dve. Studňa bola pred židovými oknami. Žid   striehol, či neuvidí niečo takého, ako druhí mládenci robievali, — a   ľudia to nazývali žartom a pochabosťou mládeže. Neraz videl starec   všetky tri dievčatá, ako im Metod vody naťahal, prívetivé sa pritom s   nimi rozprával, ony sa usmievaly na neho, on na ne, ako by im všetkým   trom bol bratom.
+    </tei:p>
+    <tei:p>
+     Mimovoľne prirovnával ho žid Jozefovi Egyptskému. A hoci   Petrášovie dievky boly dosť rozpustilé, oproti nemu chovaly sa aj ony   slušne; ba boly, odkedy on chodil za Samkom, akési poriadnejšie.
+    </tei:p>
+    <tei:p>
+     Keď minulý týždeň prišiel Metod k nemu, potešil sa žid; cítil on,   že je dlžníkom, a už dávno by bol rád mladíkovi jeho lásku nejakou   službou odplatil, a teraz ho šuhaj sám prišiel prosiť o službu.
+    </tei:p>
+    <tei:p>
+     Rozprával mu, čo by asi mohlo z chromého Samka byť, ak on, Dávid,   sa ho zaujme a naučí ho nielen rátať, ale mu aj poradí, ako by mohol   začať ten obchod.
+    </tei:p>
+    <tei:p>
+     ﻿27
+    </tei:p>
+    <tei:p>
+     Azda nikomu na svete neurobil by to Dávid povolí, ale keď ho Metod   žiadal, svolil ochotne, — no vraví:
+    </tei:p>
+    <tei:p>
+     »Prečo sa tak staráš o toho suseda, však ti je celkom cudzí? Čo ho   nenecháš? Má rodičov, rodinu, nech sa o neho starajú.« — Pritom   striehol starec, či nepovie Metod niečo zlého na Petrášovcov.
+    </tei:p>
+    <tei:p>
+     »Viete, sused«, hovorí šuhaj: »Milovať budeš Pána, svojho Boha,   celým srdcom a svojho bližného, ako samého seba! Keby som ja bol   chromý, i mne by dobre padlo, keby sa niekto o mňa postaral. Rodičia   majú Samka radi; no, keď oni nepremysleli podnes nič pre neho, musím   to urobiť ja, mne dal Hospodin tú myšlienku a verím, padne im dobre   tá rada.«
+    </tei:p>
+    <tei:p>
+     Ach, za všetko musel starec mladého kresťana obdivovať a milovať,   len za jedno by ho temer nenávidel: že mu nedal pokoja so svojím   Kristom. Vždy mu o Nom rozprával; skoro z každej kapitoly Starého   Zákona prišiel na Neho, a každý rozhovor končil týmto:
+    </tei:p>
+    <tei:p>
+     »On vás miluj e.«
+    </tei:p>
+    <tei:p>
+     Nemyslel by starý Dávid na tie rozhovory, keby mohol zabudnúť;   nemyslel by ani teraz, no nemôže. Prečo si len dovolil predčítavať   tie histórie o Nom, ktorý vraj bol tým semenom ženy, ktoré potrie   hlavu hada; bol tým semenom Abrahámovým, v ktorom požehnané majú byť   všetky čeľade zeme, — bol vraj tým synom Dávidovým, tým Mesiášom!   Učenie jeho bolo také dobré; bolo to učenie lásky, vkrádalo sa do   srdca starcovho, krivdou utrápeného, ako olej, liečiaci rany.
+    </tei:p>
+    <tei:p>
+     Dodnes, keby bol poznal učenie Kristovo, bol by sa Dávid studeno   zasmial; veď z tých, ktorí žili okolo neho a kresťanmi sa menovali   podľa toho Krista, ani jeden nežil podľa Jeho učenia. Zlorečili,   krivoprisahali, bili sa, neodpúšťali; — pritom chodili do kostolov,   ale nič tak nerobili, ako sa im kázalo.
+    </tei:p>
+    <tei:p>
+     ﻿28
+    </tei:p>
+    <tei:p>
+     Boly v dedine dva kostoly, dvoje vyznania: katolíci i evanjelici.   Nenávideli jeden druhého, potupovali vieru a učenie jeden druhého, a   pritom vraj verili a klaňali sa Tomu, ktorý kázal lásku a   milosrdenstvo. Ó, zasmial by sa šeredne starec, keby bol prišiel k   nemu jeden z nich a ponúkal mu učenie Kristovo; bol by ho porovnal so   životom vyznávačov. No, ten dobrý, cudzí šuhaj žil, skutočne žil, ako   Kristus kázal; on toho Krista miloval a poslúchal, on to mohol. No,   keď to mohol on, prečo nemohli tí ostatní? Prečo bol medzi nimi a   tými ostatnými taký rozdiel?
+    </tei:p>
+    <tei:p>
+     Zamyslel sa starec; nemal mu kto dať odpoveď na otázky.
+    </tei:p>
+    <tei:p>
+     »Dobrý večer!« zaznelo vtom neďaleko. Pred ním zastal ten, na   ktorého dnes už tak mnoho myslel, ale dočkať sa ho nemohol.
+    </tei:p>
+    <tei:p>
+     »Už som sa nazdal, že vás nebudem môcť navštíviť.«
+    </tei:p>
+    <tei:p>
+     »Veru aj ja som si myslel, že už neprídeš.«
+    </tei:p>
+    <tei:p>
+     Vráskovitým obličajom starcovým preletela žiara radosti. Keď   človek dlho nikoho nemal a potom kohosi začne ľúbiť, býva to veľmi   hlboký a silný cit.
+    </tei:p>
+    <tei:p>
+     »Sadni si!« pomkol sa ochotne muž na lavičke. »Čakám s čím prídeš;   ako si pochodil u Petrášov?«
+    </tei:p>
+    <tei:p>
+     Metod si sadol a rozprával.
+    </tei:p>
+    <tei:p>
+     »Neviem, neviem«, krútil žid nedôverčivo hlavou, »či si on ináč   nerozmyslí.«
+    </tei:p>
+    <tei:p>
+     »Dúfam v to najlepšie; modlil som sa i teraz, aby sa tá vec   zdarila a verím, že budem vyslyšaný.«
+    </tei:p>
+    <tei:p>
+     Tak rozprávali sa chvíľu, a starec sám robil plány, ako by si asi   Petrášovci mohli začať. Srdce starého obchodníka sa v ňom   rozhrievalo.
+    </tei:p>
+    <tei:p>
+     »Sused«, povie zrazu Metod, »prečo ste si nezačali obchod sami,   keď ste vedeli, aké príhodné je toto miesto? Prečo ste sa trápili s   tými handrami?« Šuhaj vzal ruky starcove do svojich a hľadí mu   prívetivo v tvár, pokrytú náhle hlbokým zármutkom.
+    </tei:p>
+    <tei:p>
+     ﻿29
+    </tei:p>
+    <tei:p>
+     »Načo, načo by mne bol býval obchod? Kto by sa bol o ostatné   postaral? Som na svete sám, ako strom na púšti. Čosi robiť, akosi   živiť som sa musel, bol by som umrel bez práce v zármutku a v   opustenosti; no tak som robil, čo sa dalo. Ale načo mi to pripomínaš?   «
+    </tei:p>
+    <tei:p>
+     Starec skoro surovo vytrhol ruky a zakryl si nimi tvár, oprel   lakte o kolená.
+    </tei:p>
+    <tei:p>
+     Chvíľu sedí tak schúlený, celý premožený bolesťou rozpomienky;   šuhaj hľadí na neho s netajenou účasťou a sústrasťou, potom zrazu   objíme starca a pritúli si tú starú, šedivú hlavu k mladej svojej   hrudi. A starca nepri vinul už dávno nikto; on už dávno nepocítil,   aká je to slasť, byť objímaný. Raz kedysi, keď ešte bol mladý, znal   on, oj znal, — ako taký prejav lásky blaží. Potom keď to pominulo,   navždy pominulo, keď náruživo, ale márne vystieral náruč do prázdna,   keď mu srdce temer túžbou zamieralo, márne tak dlho to srdce   umŕtvoval, až myslel, že vypudil z neho každý ľudský cit, že je ono   už ako skala. A teraz sa dokázalo, že nebolo, že bolo len ľadom. Ľad   roztopil sa, keď prišlo slnce.
+    </tei:p>
+    <tei:p>
+     Striasol sa muž v náručí šuhaja, ako keď sa starý strom víchrom   zakláti; prudké zaštkanie vyrvalo sa mu z hrudi, — prvé slzy po   rokoch, po dlhých rokoch stekaly mu po zvráskovanom líci.
+    </tei:p>
+    <tei:p>
+     Šuhaj netíšil plač mužov, on oprel mladú hlavu o šedivú stacovu,   oči mu zvlhly, a pretože klesnuté ruky nekryly už tvár plačúceho,   sotierai mu slzy s líc i očú.
+    </tei:p>
+    <tei:p>
+     »Nechaj«, hovorí prerývano starec; »prečo sa zapodievaš so starým   židom? Každý si ma oškliví; prečo ma nenecháš?«
+    </tei:p>
+    <tei:p>
+     »Preto, že vás mám rád, sused môj milý.«
+    </tei:p>
+    <tei:p>
+     »Prečo by si ma mal rád?« znova rozplakal sa starec. »Mňa dávno   nemal nikto rád, — raz kedysi moja matka: — potom som myslel, že ona,   ale to bol klam.«
+    </tei:p>
+    <tei:p>
+     ﻿30
+    </tei:p>
+    <tei:p>
+     »Čo bol klam?«
+    </tei:p>
+    <tei:p>
+     »Pusti ma«, vymaňoval sa muž, »a nepýtaj sa«. Šuhaj pustil.
+    </tei:p>
+    <tei:p>
+     »Verte sused, bolo by vám ľahšie, keby ste dakomu povedali, čo vás   už roky tlačí. Ja som cudzí, vyzradiť vás nemám komu; ak mi   dôverujete, zdôverte sa mne. Mám vás rád a budem s vami cítiť.«
+    </tei:p>
+    <tei:p>
+     »Nedbám«, vzpriamil sa žid, — z vyhasnutého oka vyšľahol plameň, —   »mnoho dobrého si mi urobil aj teraz, že si sa starého muža neštítil.   Si dobrý, svet je zlý; azda ťa zavarujem od nešťastia, budeš   opatrnejší, ako ja, nedáš si ublížiť.
+    </tei:p>
+    <tei:p>
+     Keď pozrieš na mňa, na moju shrbenú postavu, do zvráskovanej   starej tváre a do poloslepých očí, azda by si ani neveril, že i ja   som bol raz mladý, pekný, ako v hore strom, tak ako ty dnes«, začal   starec; oprel vychudnutú postavu o strom, zadržal šuhajovu ruku vo   svojich rukách.
+    </tei:p>
+    <tei:p>
+     »Mal som pekný obchod po rodičoch, hoci som nebol bohatý, ale som   veril, že až mi Boh mojich otcov požehná, budem sa vzmáhať. No, bol   som predsa len veľký boháč; mal som ženu, ako ten kvet na Libanone a   dieťa, ach dieťa! Ani Mojžiš nemohol byť krajší, keď sa dcéra   Faraónova nad jeho krásou zľutovala. Keď si pomyslím na to šťastie,   na tú vtedajšiu blaženosť, viem, že ani Adam v raji nebol šťastnejší;   — ach, a to všetko pominulo.
+    </tei:p>
+    <tei:p>
+     Ako ti to povedať? Ja som býval z domu mnoho preč, ten nešťastný   obchod ma preč ťahal, a nevedel som, že aj druhý mal oči.
+    </tei:p>
+    <tei:p>
+     Raz idem domov, plný radosti a nádeje; prídem, — dom prázdny   —«
+    </tei:p>
+    <tei:p>
+     Starec vnišiel si rukou do vlasov. »Prišiel druhý, vzal mi poklad   očí i skvost srdca. Ešte keby to bol býval gój, ale vlastný, vlastný   . . . . !
+    </tei:p>
+    <tei:p>
+     Zúfal som si, behal som ako šialený, súdil sa, — všetko márne.   Musel som dať lístok prepustenia, a zákon prisúdil jej i dieťa. On   bol vyšší ako ja, bol
+    </tei:p>
+    <tei:p>
+     ﻿31
+    </tei:p>
+    <tei:p>
+     v úrade pri stolici; mňa, biedneho žida, všade odpravili, nikde   nebolo spravodlivosti ani u Boha. Im vo – dilo sa ako sami chceli,   kým neodišli. — Potom zmizli z Uhorska a ja som sa nikdy viac   nedozvedel, kde je moje dieťa, čo sa stalo z neho.
+    </tei:p>
+    <tei:p>
+     Ach, Metod, keď si na to myslím, spýtal by som sa, ako Jób, kde je   Boh, že by som išiel až pred Neho, a tam by som predniesol svoju   žalobu. On jedine zná, čo sa stalo z mojej dcéry Estery, a čo sa   stalo s ňou, so ženou. Opustila ma, zradila; ale ja nemôžem veriť, že   na nej bola vina. — Bola veľmi mladá, keď sme sa sobrali: on bol   pekný človek, veľký pán, naviedol ju. Keby sa bola chcela nazpät   vrátiť, všetko by som jej bol odpustil, bol by som ju prijal — ó, ako   rád —! Ale ma k nej nepustili, a jej vari povedali o mne, že budem   ukrutný, zlý; ona sa bála, uverila, a tak bolo všetko, všetko   stratené.
+    </tei:p>
+    <tei:p>
+     Utiekol som z toho mesta, zakopal seba i svoj zármutok tu v tomto   kraji, čakal som, že už v zime príde smrť, že ma vyslobodí z tohoto   súženia, a že si svoju bolesť vezmem do hrobu, — a ty si ma prinútil,   aby som rozprával, a teraz znovu ožilo, aj strata, aj túžba, bolesť,   — všetko. Čo máš z toho?«
+    </tei:p>
+    <tei:p>
+     »Mnoho, drahý starče! Viem, za čo sa modliť; — a príde raz chvíľa,   kedy nebudete ľutovať, že ste sa mi zdôverili.«
+    </tei:p>
+    <tei:p>
+     Šuhaj vstal. Žid mimovoľne tiež; vnišli do malej chalúpky.
+    </tei:p>
+    <tei:p>
+     Tam, keď starec zažal svetlo, zbadal šuhaj prázdne nádoby; vzal a   priniesol čerstvej vody. Nato postlal chudobné lôžko mužovo, — tak   ako mu ho v nemoci postlával, potom prisadol k nemu na lavicu k   stolu, otvoril veľkú, starú knihu a začal čítať.
+    </tei:p>
+    <tei:p>
+     Žid bol pokryl svoje šediny čiapočkou, — i on položil si klobúk na   mladú hlavu, aby ho1 neurážal, keď Židia považujú za neúctu oproti   Slovu Božiemu, keď ho číta muž s nepokrytou hlavou.
+    </tei:p>
+    <tei:p>
+     ﻿32
+    </tei:p>
+    <tei:p>
+     Dnes, — hoci čítal 53. kapitolu proroka Izaiáša. a mladík   uprostred čítania rozprával, o kom číta, — dnes starec neprotirečil,   a ticho, vážne sa rozišli.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Neraz uteká týždeň za týždňom, mesiac za mesiacom, ani človek   nevie, kam sa tie dni minulý. Tak bolo i u Ondrášikovcov. Mali oni   síce mnoho roboty, ale ani cez jedno leto ju tak ľahko neporobili,   ako toho roku.
+    </tei:p>
+    <tei:p>
+     »Azda je to preto« — myslela gazdiná, — »že začíname Božím Slovom,   a že tak aj končíme.«
+    </tei:p>
+    <tei:p>
+     Ona sama bola už natoľko zdravá, že mohla variť; nemusela Dorka   vystať z poľnej práce. — Len jej už ráno všetko ponosili, Metod,   Ondrej i ona, či drevo, či vodu, — všetko jej opatrili, čo mohli, a   keď boli bližšie, ten-ktorý dobehol sa podívať, či jej niečo netreba.   — Nikdy ešte Ondrášikovej nebolo tak dobre na svete.
+    </tei:p>
+    <tei:p>
+     Muž býval predtým neraz zlý, tvrdý, — i ona bola tvrdej hlavy. On,   keď sa napil, — hoci nebol opilcom, — robil po dome zle, ona sa   vadila; potom neraz aj týždeň spolu nehovorili.
+    </tei:p>
+    <tei:p>
+     Povydávali dcéry, — zaťovia nechceli poslúchať; hospodárstvo nešlo   nijak. Dnes to sedliačka cítila, že nebolo na celom dome Božieho   požehnania. Veď oni sa ani nemodlili čo rok zdlže, okrem keď išli k   svätej spovedi, len už ráno každý, keď vstával, niečo zašomral, — aj   pritom nič nemyslel.
+    </tei:p>
+    <tei:p>
+     Nevďační boli, zlí, celkom od Boha odpadnutí; ako ich mal   požehnávať?
+    </tei:p>
+    <tei:p>
+     Uznala žena, že sa musí vrátiť k Bohu, a vrátila sa aj srdcom.   Cítila, že keď kto na svete, tak ona potrebovala Spasiteľa. Otvorila   svoje srdce Synu Božiemu, Pánu Ježišovi Kristovi a On ju prijal.
+    </tei:p>
+    <tei:p>
+     ﻿33
+    </tei:p>
+    <tei:p>
+     Keď tak raz s mužom večer sami sedeli, priznala sa mu a prosila   ho, aby jej odpustil, že nebola takou dobrou ženou, akou mala byť, že   už chce, keď ju Boh ešte raz vrátil k životu, lepšie žiť po Božej   vôli a lepšie robiť svojim domácim.
+    </tei:p>
+    <tei:p>
+     Zahanbil sa Ondrášik, slzy vkradly sa mu do očí.
+    </tei:p>
+    <tei:p>
+     »Nuž odpusťme si«, hovorí; »lepšou si ty mne bola ženou, ako ja   tebe mužom. Ale Metod má pravdú, nemôžeme tak ísť až po smrť, lebo čo   potom? — Musíme zastať a začať ináč.«
+    </tei:p>
+    <tei:p>
+     »Veru sme my Bohu žili naprotiveň.«
+    </tei:p>
+    <tei:p>
+     »Ešte som nikomu nepovedal, tebe poviem, -— keď toho chasníka   vidím, ako on žije, a pomyslím ako som ja žil ešte za mládenectva a   aj podnes, vždy sa musím hanbiť. Mali sme to Božie Slovo, ale   nečítali sme ho, ako je rok dlhý. Nuž a povedzme, žili sme horšie,   ako tá nemá tvár. Tá žerie, spí, robí, ■— žerie, spí, robí, — ale   aspoň nehreší. Aj my sme spali, robili, jedli, pritom pili,   zlorečili, preklínali aj Boha aj ľudí, a tak sme aj tie naše deti   vychovali. Už sa nečudujem, že sa kam-ktoré rozbehly, — malú doma   malý dobrotu.«
+    </tei:p>
+    <tei:p>
+     Tak rozprávali si muž so ženou. — Bolo to v ten istý večer, — raz   v katolícky sviatok, — keď zasa v sade rozprávali spolu Samko   Petrášovie a Dorka. On sedel na lavičke, ktorú bol Metod spravil pre   gazdinú, ona stála opretá o starú hrušku a počúvala, ako jej   rozprával tú peknú poviedku o lastovičkách, ako ony prišly domov. A   pritom jej hovoril, že aj on je už na tej ceste, že začína a končí   každý deň modlitbou, a že sa už chráni prestupovať príkazy Božie. —   Pritom jej rozprával, že sa učí u starého Dávida rátať i lepšie   písať, a že tatíčko mu otvoria sklep, že to, čo pristavujú, bude   bývanie pre neho.
+    </tei:p>
+    <tei:p>
+     Tešila sa dievčina úprimne. Už od detstva bývalo jej Samka ľúto, a   neraz neskôr myslievala, čo len z neho bude. No, vtedy, pravda, on   vôbec nemohol chodiť, teraz už chodil, hoci pomaličky, a ináče   bol
+    </tei:p>
+    <tei:p>
+     3
+    </tei:p>
+    <tei:p>
+     ﻿34
+    </tei:p>
+    <tei:p>
+     z neho švárny mládenec. Nebude on len tak naprázdno posedávať pred   domom alebo v sade. Dorka síce vedela od jeho sestier už dávno, čo to   stavajú, ale robila sa, že nevie, aby mu radosť nepokazila.
+    </tei:p>
+    <tei:p>
+     Prišiel k tomu Ondrej, práve keď Samko zase tie lastovičky   spomínal; ■— on to už od neho bol kedysi počul. Dali sa rozvažovať,   že by to bolo pekné i slušná vec, aby tak išli spolu, ako tie   lastovičky, aby spolu mali také modlitebné shromaždenie.
+    </tei:p>
+    <tei:p>
+     »Viete«, hovorí Dorka, »keď každý deň v živote je kúsok tej cesty   domov, každý deň by sa tak mal začať. Tie lastovičky vždy, prv než   kus odletely, modlily sa a spievaly.«
+    </tei:p>
+    <tei:p>
+     Keď potom k večeru sišla sa u Ondráškov rodina k večeri a po   večeri kázal gazda Metodovi, aby čítal z Biblie, pozrela Dorka na   Ondreja, tento na ňu, pozrela aj na rodičov, a v duši vznikla jej   otázka: » Tuším aj oni chcú ísť s tými lastovičkami?!*
+    </tei:p>
+    <tei:p>
+     Medzitým čo okolitý svet ďalej v hriechoch spal, začala sa rodina   Ondrášikova a ich susedia budiť. — Duch Svätý otváral im oči i Písmo,   začali hľadať Boha a poznávať seba, svoje hriechy; no začali poznávať   i Krista, a vybrali sa s tými lastovičkami domov. Len — škoda, — nie   všetci.
+    </tei:p>
+    <tei:p>
+     Tej jesene zarodily slivky veľmi v tom kraji. Toľko krásnych ich   viselo na stromoch, až sa pod nimi haluze lámaly.
+    </tei:p>
+    <tei:p>
+     »Vieš čo?« hovorí raz odpoludnia Petráš synovi, »vypýtam si na   obecnom dome povolenie na várku; napálime slivovice. Odkúpim aj od   druhých, zadám o licenciu, môžeš predávať slivovicu; a aj takto, keď   len ľuďom zavdáš, skorej do sklepú prídu.«
+    </tei:p>
+    <tei:p>
+     Pichly tie slová šuhaja; nepovedal nič otcovi. — No, keď odišiel   otec do stodoly, vybral sa za Metodom. Našiel ho kopať na jeho   grunte. Neďaleko kopali aj Podhájskych.
+    </tei:p>
+    <tei:p>
+     ﻿35
+    </tei:p>
+    <tei:p>
+     »Vítaj, Samko! Čo ideš?«
+    </tei:p>
+    <tei:p>
+     »A — len tak, musím ti čosi povedať.«
+    </tei:p>
+    <tei:p>
+     Privítali sa kamaráti a Samko rozpráva, čo mu otec hovoril.
+    </tei:p>
+    <tei:p>
+     Osmutnela tvár Metodova. Blesk hnevu, aký u neho Samko nikdy   nevidel, vyšľahol mu z očí.
+    </tei:p>
+    <tei:p>
+     »To hľa je diablova myšlienka. Samko. čo by si povedal, keby ti   otec kázal, aby si vzal túto motyku a zabil hen suseda   Podhájskeho?«
+    </tei:p>
+    <tei:p>
+     »Ale, Metod, čo mi to hovoríš?! Také niečo by mi otec nikdy   nekázal«, naľakal sa šuhaj; »a ja by som to nikdy neurobil.*
+    </tei:p>
+    <tei:p>
+     »Ó, urobíš, len si otvor krčmu, tajnú, či verejnú. Vieš, akým bol   Podhájsky strašným opilcom, ako ho to zničilo aj na tele, a že bol už   ako zver. Dnes milosť Božia učinila pri ňom premenu, aj on je medzi   tými lastovičkami, ktoré letia domov. Vidíš, že sa ani — okrem k vám   a k nám — nikam neodváži, aby ho nepotiahlo do krčmy; je ešte veľmi   slabý proti pokušeniu. Vieš to iste, že keď vy začnete so slivovicou,   a on to bude mať na očiach tu v najbližšej blízkosti, že, keď ten   smrad bude mu udierať pod nos, že odolá? On príde k vám kúpiť si   múky, alebo soli; bude mať ten najlepší úmysel nedať sa zviesť k   hriechu, príde ako tá ovečka keby sama vošla do jatky, — a otec tvoj   ponúkne, zavdá mu, alebo ty sám mu zavdáš z priateľstva, on okúsi,   jeho žalúdok začne sa búriť, zobudí sa v ňom žiadosť, neodolá,   vypije, najprv len kalištek, no zajtra už dva. Potom, ako by mu ohňa   nalial, musí piť, piť, — stane sa z neho zasa opilec, horší než bol;   stane sa z neho zver. — Svetlo Božie v ňom umrie, telo onemocnie,   zoslabne, a on skoná niekde ako zver. Bol tou lastovičkou, ktorá išla   domov, — ale nedoletel, uhynul, a kto mu bude príčina? Ty, Samko,   ty.«
+    </tei:p>
+    <tei:p>
+     »Prestaň, Metod!« chytil sa šuhaj za hlavu. »Ja nebudem príčina,   ja nie, ani jemu, ani nikomu inému, radšej sa dám sám zabiť.«
+    </tei:p>
+    <tei:p>
+     3*
+    </tei:p>
+    <tei:p>
+     ﻿36
+    </tei:p>
+    <tei:p>
+     Samko odišiel. Metod skormútený kopal ďalej. V ten deň bolo u   Petrášov celé peklo. — Tak pekne mal to už sedliak premyslené, ako   bude tŕžiť, ako sa syn jeho bude vzmáhať. Veď z čoho židia bohatli,   ak nie z toho nápoja? A teraz syn nechcel ani počuť. Skôr by si tú   skalu prinútil, ako jeho. Taký bol bledý, ako stena, a celý sa   triasol pred otcovým zúrením, — ale popustiť nikam.
+    </tei:p>
+    <tei:p>
+     Veľa zlých slov mu otec nahovoril, čo mu slina na jazyk priniesla.   Vyhodil mu na oči, že je žobrák, že čo sa ho už nachoval za tie roky,   že ďalej žobráka chovať nebude, ale, ak neposlúchne, môže vraj ísť po   rade.
+    </tei:p>
+    <tei:p>
+     Poranily otcove slová synovu dušu až k smrti, ako len ľudské slová   raniť môžu.
+    </tei:p>
+    <tei:p>
+     Prišla k tej hádke matka, dala sa jedného i druhého prosiť;   ukrotila by azda muža, ale syna premôcť a prehovoriť nemohla, ten   sedel ako skala. — No tak sa i ona veľmi na neho nahnevala.
+    </tei:p>
+    <tei:p>
+     Vošly do izby obe sestry, aj snúbenec staršej, ktorý bol prišiel   na návštevu s kamarátom; boli z druhej dediny. —• Dali sa Petráša v   jeho predsavzatí povzbudzovať, Samka vysmievať. »Ak on nechce«,   hovorí budúci zať, »len vy to, tatíčko, vykonajte, ja vďačne nechám   tak moje remeslo. — Nemusí to byť priam sklep, otvorte krčmu a jatku   na baraninu, — takej tu i tak niet, — a prepustíte to nám, ešte vám   aj pár sto zlatých do toho vložím, a môžete nám to zariadiť z Evkinej   čiatsky, čo ste nám sľúbili dať. Zostaneme pekne pohromade. A Samko   nech zasa pod sadom vylihuje, ako dosiaľ.«
+    </tei:p>
+    <tei:p>
+     Najprv boly tie reči len žartom; budúci zať chcel švagra len   prinútiť, — ale, ako to niekedy býva, zaľúbilo sa mu to skutočne.   Zaľúbilo sa to Evke, že nebude musieť k svokre od mamičky, lebo bolo   už na tom, že sa zať sem neprižení. Ktorá matka nebola by rada, že aj   dcéru vydá, aj si ju bude smieť podržať? Zaslepila táto vec i matkine   oči.
+    </tei:p>
+    <tei:p>
+     ﻿37
+    </tei:p>
+    <tei:p>
+     Spomenul si Petráš, že by mohol majetok pekne pohromade ostať,   nemusel by ho trhať, keď dcéru vyplatí.
+    </tei:p>
+    <tei:p>
+     Do večera bola vec vybavená.
+    </tei:p>
+    <tei:p>
+     »No, čo«, pýta sa pred odchodom švagor Samka — čo len naoko, —   »urobíš tomu otcovi povôli, či musím ja prísť?«
+    </tei:p>
+    <tei:p>
+     »Povedali ste, že som žobrák«, hovorí šuhaj a hlas sa mu zatriasol   bolesťou srdca. »Je to pravda; som chromý na obe nohy, ale radšej by   som volil ochromieť ešte aj na obe ruky a ísť po rade, ako by som sa   s takou pekelnou robotou živil. No, ešte ani ty nie si tu, a Boh je   vševedúci, On vám to iste prekazí, aby ste nemohli previesť svoju   vôľu.«
+    </tei:p>
+    <tei:p>
+     »Uvidíme, môj milý prorok!« zasmiali sa oba mládenci a odišli.
+    </tei:p>
+    <tei:p>
+     Na druhý deň prišiel Petráš za Metodom; kopali zasa i Podhájskych,   a na zbývajúcom ešte trávničku, posiatom kde-tu kríčkami, pásol na   týchže kríčkoch starý Dávid svoje kozy.
+    </tei:p>
+    <tei:p>
+     Bol Petráša pominul hnev, ľutoval, že synovi ublížil bez príčiny,   chcel sa vypomstiť na tom, o kom trúfal, že je príčinou Samkovho   vzdoru. Poznal on smýšľanie Metodovo o pití. — Vedel, že odviedol už   nielen Podhájskeho, ale aj Ondrášika a jeho sluhu, a pokúsil sa bol i   jeho samého odviesť od pitia opojných nápojov; hovoril, že je to   nielen škoda, ale špata a hriech.
+    </tei:p>
+    <tei:p>
+     Celú noc nemohol Petráš spať. Odvolať nechcel svoje slovo, že   Samka z domu vyženie, ak nepristane na jeho vôľu; — vyhnať ho, proti   tomu vzpierala sa nielen sedliacka pýcha, — veď čo by ľudia povedali,   — ale i srdce.
+    </tei:p>
+    <tei:p>
+     Včera necítil v hneve, že ho má, dnes áno. »Mohol som bez všetkého   byť«, myslel si rozhorčene, »keby nie Ondrášikovho sluhu. No, veď ja   tomu dám!«
+    </tei:p>
+    <tei:p>
+     ﻿38
+    </tei:p>
+    <tei:p>
+     Idúc celou cestou rozhorčoval sa sedliak a keď prišiel na pole,   vidiac, ako radostne si kope na svojej tatre ten, ktorý zapríčinil   také peklo v ich dome, rozbúril sa v ňom hnev úplne.
+    </tei:p>
+    <tei:p>
+     »Čo si to tomu môjmu synovi natrúbil do hlavy?« začal, sotva sa   pozdravili. »Príde to sem, kadejaký tulák, ani nevieš odkiaľ, a bude   nám robiť hriechy a roztržky v dome. Čo je teba do toho, že ja chcem   mať krčmu; čo mi dráždiš syna k neposlušnosti?!«
+    </tei:p>
+    <tei:p>
+     Počul žid krik, obzrie sa, vstane, pristúpi bližšie a hľadí, hľadí   na mladého kresťana. Vždy bol zvedavý, ako by sa tento zachoval, keby   mu niekto ublížil; teraz mal vhodnú príležitosť.
+    </tei:p>
+    <tei:p>
+     Vedel žid najlepšie, koľko dobrodenia preukázal mládenec tomu   mužovi. Naučil mu syna čítať, písať i všetko, čo vedel; priviedol   jeho, starého Dávida k tomu, aby ho naučil aj rátať, aj obchod viesť.   — Čo mohol, ako sused, vždy im dobre spravil; a teraz tento platil za   to hotovým. — Jedno horšie, špatnejšie slovo za druhým sypalo sa z   úst mužových.
+    </tei:p>
+    <tei:p>
+     V ustrnutí pozrel žid na tvár tupeného. Stál voľne narovnaný,   opieral sa o rýľ a hľadel tak pokojne na zem, ako čo by sa tie slová   ani jeho netýkaly.
+    </tei:p>
+    <tei:p>
+     Starca začínala prechádzať zlosť. — Najradšej priskočil by k   mužovi a on by mu vynadal, — škaredo by mu vynadal! No, nedalo   sa.
+    </tei:p>
+    <tei:p>
+     Konečne pozrel Petráš strmo na Metoda, oči sa im stretly, —- a muž   zamíkol.
+    </tei:p>
+    <tei:p>
+     »Tak, už ste všetko povedali, čo vás diabol naviedol?* mierne,   skoro veselo hovoril šuhaj. »On mi to bol v tejto doline dlžen; divil   som sa, že ma tak dlho nechal na pokoji. Skoro by som sa už bol bál,   že neslúžim dobre Kristu Ježišovi. No, teraz je už dobre. — Teda to,   čo vám diabol diktoval, ste už povedali; a teraz hovorte sused   Petráš, sami za seba, čo máte, akú krivdu. — Čo som vám, alebo vášmu   synovi urobil?«
+    </tei:p>
+    <tei:p>
+     ﻿39
+    </tei:p>
+    <tei:p>
+     Žid radostne mnul si ruky, požehnával v duchu šuhaja. Podhájsky   tiež odhodil motyku a stál neďaleko temer ohromený, od údivu   nevediac, čo si má myslieť o Petrášovi.
+    </tei:p>
+    <tei:p>
+     »Tak, čo vlastne máte proti mne?«
+    </tei:p>
+    <tei:p>
+     Smelá a mierna otázka zarazila muža; no zbadal sa a znovu chcel   prísť do kriku. Slová viazly mu v hrdle, takže vysvetlenie, prečo sa   hnevá, vypadlo už omnoho miernejšie.
+    </tei:p>
+    <tei:p>
+     »Samko nechcel«, končil sedliak, obrátiac sa k židovi; »lebo že by   hen Podhájsky potom chodil k nám, a že by zas bol taký, ako býval;   ako čoby musel človek slopať a nemohol si mierne vypiť! No, však   Podhájsky k nám prísť nemusí, — ba nesmie!«
+    </tei:p>
+    <tei:p>
+     Posledné slová vyriekol sedliak ako s opovrhnutím. Zatriaslo to   zmeraveným Podhájskym.
+    </tei:p>
+    <tei:p>
+     »Neboj sa, Petráš«, pristúpil bližšie, »ja ti do tvojho domu, keď   si z neho spravíš čertovu pascu, — do ktorej budeš ľudí lapať, aby   ste ich do naha vyzliekli a zabili, — aj bez tvojho zákazu nepôjdem;   ani cez tvoj prah neprekročím, keby si ma aj prosil. Ale nikdy,   nikdy, — to si pamätaj, — nezabudnem tvojmu synovi, že mal toľko   milosrdenstva so mnou, že ma chcel chrániť, aby som do večnej záhuby   neprišiel. Aj tú stopu budem požehnávať, kade chodí.«
+    </tei:p>
+    <tei:p>
+     Nedovravel, hodil sa na zem v horkom plači. Plače, div mu srdce   nepukne, že je už tak opovrhnutý; — každý môže pred ním dvere   zavrieť, môže do neho kopnúť. Petráš vidí ho plakať, a stojí tu, ani   čo by ho oparil.
+    </tei:p>
+    <tei:p>
+     »Täk sused, či vám je to taká veľká krivda«, ohlásila sa vtom   Podhájska, že máte také dobré dieťa, — a či vám je to krivda, že ho   vari Metod tomu naučil, nedívať sa na zahynutie človeka? Mala som len   jedného syna; bol mi dobrým synom, kým nezačal po krčmách chodiť.   Potom, viete, aký som mala s ním kríž; neraz ste ma sami obránili a   ukryli, neraz jeho
+    </tei:p>
+    <tei:p>
+     ﻿40
+    </tei:p>
+    <tei:p>
+     ženu. Dnes, keď sa dobrý Boh zmiloval a poslal nám sem človeka   dobrého, aby ho zachránil, vy tomu človeku zlorečíte, vy ho tupíte?   Pozrite sa na môjho syna, počujte jeho nárek, a ak máte srdce z   kameňa, tak len otvorte krčmu! A keď Samko nechce ľudí zabíjať,   vyžeňte si vaše dobré dieťa! Ale pamätajte na slová biednej matere,   ktorej syna krčmári skazili; spomeňte si, že hovorí Sv. Písmo: Beda   tomu, kto napája svojho bližného, aby sa díval na jeho nahotu!   Kliatba Božia vás istotne zastihne.«
+    </tei:p>
+    <tei:p>
+     »Neplač synku«, pristúpila Podhájska k synovi, 5 Boh ti   pomôže. — Si ešte mladý, ešte nie je všetko stratené, najmä keď sa už   On na nás nehnevá. Neplač; poď, budeme ďalej kopat!«
+    </tei:p>
+    <tei:p>
+     Syn poslúchol, vstal; vzali svoje motyky a kopali. — I Metod vzal   rýľ a odkrojil ním pekný kus zeme.
+    </tei:p>
+    <tei:p>
+     Čo pozostávalo Petrášovi, ako odísť? Vedel on dobre, že čo teraz   urobil, zle urobil, že ho tí ľudia tam zahanbili — ale priznať sa k   tomu nechcel.
+    </tei:p>
+    <tei:p>
+     Išiel na obecný dom, pýtať povolenie, ale nedostal várku. »Nič   nerobí«, myslel si, »spravím sa s niektorým, vypálime spolu.«
+    </tei:p>
+    <tei:p>
+     Našiel dosť skoro kamaráta, a pálili. Na tisíce krásnych slivák,   stvorených Bohom na jedenie, išlo do kotlov i pripravili z nich ľudia   jed, aby ním trávili ľudí.
+    </tei:p>
+    <tei:p>
+     Ak chceš mať kúsok jedu pre myši, ktoré ti v dome všetko kynožia,   musíš mať povolenie od lekára i notára; ale keď chceš ľudí tráviť,   len zaplať várku a licenciu, a povolia ti, — mnohý lekár bude len   rád; dostane aspoň viac pacientov.
+    </tei:p>
+    <tei:p>
+     Nuž tak je to na svete.
+    </tei:p>
+    <tei:p>
+     ﻿41
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Prišla zima. Boly fašiangy. U Petrášov robili veľké prípravy k   svadbe. Matka mala plné ruky práce, otec plnú hlavu mrzutosti, Evka   plné srdce radosti a nádeje. So Samkom od jesene nik nehovorieval,   ako by ho ani tu nebolo; sotva mu za pozdrav ďakovali. — Len   najmladšia sestra sa potajomky rozprávala s ním.
+    </tei:p>
+    <tei:p>
+     Mala ona svoju žalosť. Pýtal ju ten, koho chcela; ale rodičom sa   neľúbil, a teraz sa už išiel ženiť — a — bral si druhú. Zostala   dievčina opustená, tiahlo ju to k opustenému, odstrčenému bratovi.   Neraz prišla za ním do komory, kde teraz najviac býval.
+    </tei:p>
+    <tei:p>
+     Naučil sa od Ondrášika robiť varechy; tak strúhal usilovne. Čo   zarobil, dával matke na soľ a na svetlo.
+    </tei:p>
+    <tei:p>
+     Chodil aj ďalej k starému Dávidovi. »Len sa uč«, povedal tento;   »budeš ty mať ešte raz sklep, zíde sa ti«. Každý večer býval zasa u   Ondrášikov a tam zabúdal, že je na svete sám; bolo mu v tomto dome   vždy ako v raji.
+    </tei:p>
+    <tei:p>
+     Tu lepšie poznávali pravdy Božie. — Rozumeli, aká to radosť horela   v srdci Panny Márie, keď ústa spievaly: »Moja duša zvelebuje Pána a   môj duch plesá nad Bohom mojím Spasiteľom.« Kristus sa zrodil v ich   srdciach. — Po prvý raz v živote slávili toho roku skutočné Vianoce,   Božie narodenie.
+    </tei:p>
+    <tei:p>
+     So zimou vrátila sa Podhájskemu žena. Bol ju v liste prosil;   prišla, — predsa len prišla. Ani nevedel, ako jej má to miesto   ofúkať, kde mala sadnúť; tak bol rád. Ona len plakala a nevedela to   dosť pochopiť, žeby ešte na zemi mohlo jestvovať také šťastie pre   ženu.
+    </tei:p>
+    <tei:p>
+     Muža našla poriadneho, akým nikdy nebýval, — lebo keď sa za neho   vydala, bol už opilcom; svokru dobrú, deti milé, zdravé, celý dom   čistý, komoru na zimu zásobenú.
+    </tei:p>
+    <tei:p>
+     ﻿42
+    </tei:p>
+    <tei:p>
+     Vyrobili Podhájskych na chlebík. Aj ona doniesla pár zlatých zo   služieb. Radostne vyplatila, čo kde ešte aké dlhy mali. Pokúpila šaty   svokre, mužovi, deťom; sama bola dobre zašatená. — Nakúpila do   kuchyne riadu. Ach, tak milo to tu teraz vyzeralo!
+    </tei:p>
+    <tei:p>
+     A čo bolo najhlavnejšie, prišla so srdcom hladným. Ak kto, tak ona   rada počúvala Božie Slovo; a ktorých dohonila, — ktorých prebehla. Ó,   veď jej tak ľahko bolo uveriť v Boha a milovať Jeho Syna, Ježiša   Krista, ktorý takú veľkú premenu urobil v jej živote. — A keď raz   zakúsila tú Božiu lásku v srdci, nemlčala o nej. Mala rodinu, bývalé   priateľky, bratancov; po nedeliach bola ich malá izbietka hneď plná a   Metod musel čítať. Volali šuhaja potom aj do druhých domov čítať.
+    </tei:p>
+    <tei:p>
+     »Metod, tie lastovičky začínajú sa tuším sletovať«, povedal raz   Samko. »Ty si hovoril tam v háji, že celá naša dedina mala by mať   modlitebné shromaždenie, a že my máme začať; ešte aj k tomu   príde.*
+    </tei:p>
+    <tei:p>
+     »Sotva, Samko. Lebo je to tesná brána a úzka cesta, ktorá vedie do   života, a málo je tých, ktorí ju nachádzajú.« No to nič nerobí,   ukážeme ľuďom cestu; a keby nikto nešiel za Pánom Ježišom, On hovorí:   »Ty poď za mnou!« My pôjdeme za Ním, pravda? «
+    </tei:p>
+    <tei:p>
+     »Áno, Metod, za Ním a raz s Ním!«
+    </tei:p>
+    <tei:p>
+     V týždni vozili teraz Ondrášikovci drevo na Metodovu chalupu; s   jarou mala začať stavba. Co bolo možné, všetko si chystal, aby bolo   potom hotové. Breh bol už skopaný. Tehál mal nadostač, i kamenia   na základy. Škridlicu na strechu tiež vozili, keď bol čas, a skladali   ju u Ondrášikov.
+    </tei:p>
+    <tei:p>
+     Z hôr boli navozili aj oblého dreva, a keď mal čas, robil si z   neho koly; chcel vraj celý malý pozemok ohradiť.
+    </tei:p>
+    <tei:p>
+     No raz dostali Ondrášikovci nečakane smutnú zprávu. Písala dcéra   Anna, že jej muža tak veľmi
+    </tei:p>
+    <tei:p>
+     ﻿43
+    </tei:p>
+    <tei:p>
+     oči bolia, že mu lekár rozkázal, ak nechce oslepnúť, aby ihneď   šiel domov; tak že sa hneď musia vydať na cestu, len čo on príde z   nemocnice. Bola to smutná zvesť; veľmi ťažko by ju inde niesli! Dnes,   keď sa už vedeli modliť, povedali len: »Poručené Bohu; keď to na nás   dopustil, musíme niesť.«
+    </tei:p>
+    <tei:p>
+     V tom týždni, keď chystali u Petrášov veselie, — a volali pre   slušnosť aj Ondrášikov, — v tom týždni došiel nemocný zať a dcéra, po   ceste tiež nemocná. —• Nemohla Dorka Evke ísť za družicu; mali v dome   práce dosť a dosť. Keby Metoda nie, ani by neporobili, ani by si   neporadili!
+    </tei:p>
+    <tei:p>
+     Divila sa dcéra Anna, kto to rodičom tak pomáha. — Rozprávala i   Dorka i matka, ba i sám otec, akého sluhu poslal im Boh do domu.   Čudoval sa nad tým i Jozef, jej muž, len hovorí: »Taký sa mi jeho   hlas zdá akýsi známy, ako by som ho už kdesi bol počul hovoriť.«
+    </tei:p>
+    <tei:p>
+     »Kto vie, či ste sa aj niekde nesišli; však my nikto nevieme   zkadiaľ prišiel. On o sebe nikdy nerozpráva; ale z toho, čo rozpráva,   vieme, že musel vidieť mnoho sveta.«
+    </tei:p>
+    <tei:p>
+     Zasa bola nedeľa. Starý Dávid sedel pri teplých kachliach a   rozmýšľal. — Hoci mal okno1 i dvere zavreté, počul predsa muziku a   výskanie od Petrášov; tam bola svadba. Robili ju preto v nedeľu, lebo   Cigán mal na všetky strany nasľubované, nedostali by v utorok muziku,   sotva ju dostali na dnes a na zajtra.
+    </tei:p>
+    <tei:p>
+     Zrazu ticho otvoria sa dvere a vedia žida sadol si Metod.
+    </tei:p>
+    <tei:p>
+     »Ale, vítaj!« potešil sa starec. »Ideš predsa? No je tam u   vás?«
+    </tei:p>
+    <tei:p>
+     »Chvála Bohu, lepšie. -— Doktor povedal, že do jari môže mladý   sedliak ozdravieť, no a sedliacka je už hore od rána, len je ešte   slabá.«
+    </tei:p>
+    <tei:p>
+     ﻿44
+    </tei:p>
+    <tei:p>
+     »Ale, Metod, keď som tak sedel bez roboty, tak som myslel, čo bude   s tebou. Keď Ondrášik má už deti doma a ozdravejú, nebude potrebovať   aj sluhu aj kraviara.«
+    </tei:p>
+    <tei:p>
+     »To nie, traja dosť porobia«, odvráva zamyslene šuhaj; »budem tam   už len do jari. No, však mňa vlaslne u nich ani netreba, mohol by som   hneď odísť preč, keby nebola tá začatá chalupa a ešte jedna vec.«
+    </tei:p>
+    <tei:p>
+     Starca ako by bodlo. Preč? A kam preč?« Spytuje sa trúchlivo.   »Čo
+    </tei:p>
+    <tei:p>
+     by sme robili bez teba? Však, ■—- oni ostatní, — ale starý Dávid!   Co by si ten počal bez teba?«
+    </tei:p>
+    <tei:p>
+     »Máte ma radi?« sovrel šuhaj starca v náruč tak, ako raz vtedy,   keď mu o svojom nešťastí rozprával.
+    </tei:p>
+    <tei:p>
+     »Nespytuj sa! Ani keby si mi vlastnou krvou bol, nemohlo by ťa   moje srdce viac milovať!«
+    </tei:p>
+    <tei:p>
+     V izbičke stíchlo.
+    </tei:p>
+    <tei:p>
+     »Pamätáte sa, čo som vám bol sľúbil raz v jeseni? «
+    </tei:p>
+    <tei:p>
+     » že mi budeš čosi rozprávať? — Ó, pamä-
+    </tei:p>
+    <tei:p>
+     tám!« prikývol starec. »Dávno na to čakám.«
+    </tei:p>
+    <tei:p>
+     »Nuž, chcel som vám rozprávať, prečo vás mám rád.«
+    </tei:p>
+    <tei:p>
+     »Mňa?« užasol žid. »Ja som myslel, že keď máš rád všetkých ľudí, —   a keď ti to Kristus káže.«
+    </tei:p>
+    <tei:p>
+     »Äno, preto, že mi to Pán Ježiš káže, On, ktorý povedal: »Spasenie   je zo Židov.« Mám vás rád nielen ako človeka, ale ako žida. Najmä ako   žida, lebo žid to1 bol, ktorému najviac dlhujem.«
+    </tei:p>
+    <tei:p>
+     »Co nepovieš!?« užasol starec. »No rozprávaj!«
+    </tei:p>
+    <tei:p>
+     »Žil som dlhé roky bez Boha, bez Krista na svete. Nevedel som, že   mám nesmrteľnú dušu, ani kam prídem po smrti. Žil som tak, ako i vy   všetci tu; a žid to bol, ktorý mi prvý ukázal pravdu, ukázal Krista.   On naučil ma milovať Božieho Syna; on žil na zemi ako Enoch, chodil   stále s Bohom, a dnes nevidia ho už ľudia, lebo vzal ho Boh.
+    </tei:p>
+    <tei:p>
+     ﻿45
+    </tei:p>
+    <tei:p>
+     Raz ste sa divili, kde som sa naučil hebrejsky. Teraz vám poviem,   že ma to on naučil. On tak miloval ten svoj úbohý národ, že aj ja —   pre neho a preto, že môj Pán bol na zemi židom, — zaľúbil som si   tento večne požehnaný, na čas zlorečený ľud, a milujem ho i   dnes.«
+    </tei:p>
+    <tei:p>
+     »Ty hovoríš«, starec pozdvihol sklonenú hlavu, »že on bol žid, a   naučil ťa poznať i milovať Krista?«
+    </tei:p>
+    <tei:p>
+     »Äno, on bol žid zo židov, — bol židovský misionár; žil preto, aby   zvestoval svojmu ľudu, že Mesiáš už prišiel a vykúpil svoj ľud od   hriechov, — že žil, umrel, a vstal z mŕtvych, a že opäť príde.«
+    </tei:p>
+    <tei:p>
+     »Tak on nebol žid«, stiahol starec čelo; bol kresťan.*
+    </tei:p>
+    <tei:p>
+     »Patril ku Kristu a Jeho cirkvi, ale národnosťou bol Žid, a až   »vykúpení Hospodinovi navrátia sa«, tu i on príde, aby kraľoval s   Kristom! Doprevadí Mesiáša do môjho i Vášho Jeruzalema.«
+    </tei:p>
+    <tei:p>
+     Ach, bol to veľmi šťastný človek; mal len jeden zármutok, len   jednu túžbu, ktorá sa mu nemohla splniť. Ťažko bolo mu zomierať pre   ten zármutok, a ja som bol taký šťastný, že som mu ho smel sňať. Vzal   som na seba určité povinnosti a sľúbil som mu, že to, čo on chcel   vykonať, ale nemohol, súc smrťou zastavený, —■ vykonám ja, i keby ma   to život stálo. On mi veril, a sláva Pánu, ja som ho nesklamal, ani   nesklamem.«
+    </tei:p>
+    <tei:p>
+     »A aká to bola povinnosť?« hlboko zaujatý spytuje sa starec , —   pritom hlady zadiveno na svojho mladého priateľa. Veď tento vraví   dnes, ako inokedy nevravieva, ani čoby to nebol Ondrášikov sluha,   vyrastený medzi sprostými sedliakmi a patriaci k nim.
+    </tei:p>
+    <tei:p>
+     »Aká to bola povinnosť, pýtate sa? Mal on dakoho, veľmi drahého,   ktorého veľmi miloval, hoci ho nikdy nevidel, ktorému chcel, ale   nemohol priniesť zvesť spasenia, — lebo ho nemohol nájsť.«
+    </tei:p>
+    <tei:p>
+     ﻿46
+    </tei:p>
+    <tei:p>
+     »A ty si ho našiel?« »Äno, ja som ho našiel a —«
+    </tei:p>
+    <tei:p>
+     V tej chvíli zablesklo sa divné svetlo izbičkou, a strašný zvuk   divokého výkriku priletel sem. Oba mužovia vyskočili.
+    </tei:p>
+    <tei:p>
+     »Tam sa stalo čosi!« ukázal žid naproti.
+    </tei:p>
+    <tei:p>
+     »Äno, horí vnútri; ■— s Bohom, musím sa ponáhľať. «
+    </tei:p>
+    <tei:p>
+     »Kam? do toho ohňa?«
+    </tei:p>
+    <tei:p>
+     »Áno, oni sú iste všetci spití, možno prevrhli lampu, — a potom,   je tam Samko.«
+    </tei:p>
+    <tei:p>
+     »Nechoď!« zaúpel žid; no márne; šuhaj bol už vytrhol ruky z jeho   ruky a stratil sa vo tme.
+    </tei:p>
+    <tei:p>
+     Ach, stalo sa u Petrášov dačo strašného. Jeden z opitých družbov,   ktorí vystrájali všelijaké pestvá a varili slivovicu s cukrom, niesol   na veľkej polievkovej mise zapálenú slivovicu; chcel ju predložiť   pred novomanželov na stôl, nohy sa mu pošmykly, potkol sa a vylial   horiaci obsah na ženícha i po stole. — Za okamih horelo už rúcho   úbohého1 ako fakľa, horel obrus nadol. Hostia poskákali; strhol sa   strašný krik. Jedni utekali ku dverám, druhí skákali von oknom.   Ženích kričiac na ratu, vyskočil od bolesti i zúfalstva na stôl s   neho dolu, váľal sa po zemi, mysliac, že tak zahasí oheň na sebe. —   Mladú nevestu, ktorá sa chcela hodiť na neho a uhasiť oheň vlastnými   rukami, sotva udržaly družice. — Daktorí dali sa liať vodu po   stoloch, aby oheň udusili, no jeden zo spitých hostí vylial pol fľaše   slivovice v domnení, že je to voda, a teraz iba vybuchol oheň, akoby   si vystrelil! Bolo to v tom okamihu, keď si Metod prerazil cestu   dovnútra, v ruke niesol starú mokrú halenu, a hodil sa i s ňou na   úbohého horiaceho. Zabalil ho celého, a tak udusil v okamihu desný   plameň. No, bol svrchovaný čas, bo celá izba stála už v ohni. —   Plamenné jazyky vyšľahovaly raz na jednom, raz na druhom konci izby,   ľudia s krikom utekali pred nimi.
+    </tei:p>
+    <tei:p>
+     ﻿47
+    </tei:p>
+    <tei:p>
+     Dusivý dym a smrad uberal dych. Len s ťažkosťou stačilo všetko   utiecť.
+    </tei:p>
+    <tei:p>
+     Nevestu vyniesli omdlenú a ženícha vyniesol Metod. Tam vonku dal   ho mužom. Sám sa vrátil ešte raz doprostred toho spustošenia.   Prikročil k oknám, zavrel ich, strhol horiace záclony, pošliapal po1   nich, — plamene skákaly okolo neho, — len-len sa chytiť. Jednako   stačil ešte schytiť dve veľké plné fľaše slivovice a tretiu do poly   naplnenú so stola, vyskočiť s tým von a zaplesknúť dvere.
+    </tei:p>
+    <tei:p>
+     »Kam s tou vodou?« zakríkol pritom Petráša i starých svatov,   nesúcich plné džbery a putne, — to voda nezahasí! Kým slivovica horí,   musíte ju nechať vyhorieť; potom haste! Povedali ste, že sa budete v   nej kúpať, a teraz sa pri nej i zahrejete! Nech mi to nedá Boh   vytrhnúť a plameň zasiahne fľaše a rozhodí, hrôza len aj pomyslieť,   čo by sa bolo stalo!«
+    </tei:p>
+    <tei:p>
+     Ach, bola to strašná chvíľa a strašná svadba. Azda ani jeden z   hostí nedostal sa bez úrazu domov, temer všetci si podriapali a   pokazili na sebe šaty. A ženích! Úbohý ženích! Hrozné bolo podívať sa   na neho, tak bol popálený! Ešte veľké šťastie, že plamene nemohly   vyšľahnúť.
+    </tei:p>
+    <tei:p>
+     Čo bolo v izbe, všetko pohorelo, alebo sa pokazilo, ale aspoň dom   zostal. — Nebol by zostal, — svedčili všetci, — i ženích by bol iste   zhorel, nebyť Ondrášikovie sluhu. Dlho sa strojili ľudia na tú   svadbu, no ešte dlhšie ju budú pamätať.
+    </tei:p>
+    <tei:p>
+     Minulý týždeň bola povedala Petráška susedom: »Takí sú u   Ondrášikov svätí, a majú plný dom nemoci. Čo to na nich Boh   dopúšťa?
+    </tei:p>
+    <tei:p>
+     Teraz i oni mali dom plný nemocí a nemohli povedať, že by ju bol   Boh na nich poslal. Zavolali si diabla — opilstvo za hosťa, varili   jeho polievku, — no bola veľmi horúca.
+    </tei:p>
+    <tei:p>
+     Ach, bolo vám to trápenia s tým mladým zaťom! — Vo dne v noci len   kričal od veľkých bolestí. Vše-
+    </tei:p>
+    <tei:p>
+     ﻿48
+    </tei:p>
+    <tei:p>
+     ličo mu robili, aj čo lekár kázal, aj čo nekázal. Nuž tak, čo by   bol lekár dobre spravil, to baby pokazily.
+    </tei:p>
+    <tei:p>
+     »Prosím vás, gazda«, povie na tretí deň Metod, »prepustite ma na   niekoľko dní. — Bol som u Petrášov; ten mladý iste umrie, ak s ním   nebudú ináč zaobchodiť, — alebo sa zblázni. Pôjdem ho opatrovať.   «
+    </tei:p>
+    <tei:p>
+     »Choď synku, ty ho lepšie opatríš; však ja za teba vďačne porobím,   keby si ho len mohol zachrániť. — Škoda mladému životu tak skazu   vziať.«
+    </tei:p>
+    <tei:p>
+     Metod šiel. Veľmi sa mu u Petrášov všetci potešili, keď povedal,   načo prichádza; najviac lekár, na ktorého práve natrafil. Videl   lekár, že má dočinenia s rozumným a šikovným šuhajom. Zakázal rodine,   že nesmú robiť, len čo im Ružanský dovolí. Od tej hodiny bolo   lepšie.
+    </tei:p>
+    <tei:p>
+     Nemocný pocítil, že sa ho akési iné ruky dotýkajú, a že nielen   hľadajú, ale aj spôsobujú úľavu pre neho.
+    </tei:p>
+    <tei:p>
+     No z tých pár dní, ktoré mal Metod u Petrášov stráviť, boly   týždne. Petráška sama pre Boha prišla prosiť k Ondrášikovcom, aby im   svojho sluhu len nechali, že im zaplatia nádenníka.
+    </tei:p>
+    <tei:p>
+     Nuž nechali, ale bez nádenníka. — Vedeli, že Metod opatruje   nemocného deň a noc z lásky k bližnému, aj oni chceli byť účastní tej   lásky. Okrem toho Ondrášikov zať už neležal; oči mu začaly blednúť,   hlava prestávala ho bolieť. Bol rád, že už môže čo-to robiť.
+    </tei:p>
+    <tei:p>
+     Samko túžieval po tom, aby mohol byť Metod aj v ich dome, aby aj u   nich začínali deň tak, ako tie lastovičky, spoločne s modlitbou. Nuž   splnila sa mu tá túžba; i Metod bol u nich, i začínali s   lastovičkami; — ale za akú cenu!
+    </tei:p>
+    <tei:p>
+     ﻿49
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VI.
+    </tei:head>
+    <tei:p>
+     No prešla zima, zavítala jar, ale bola i ona ako taký pekný vták;   letí, letí spieva, oblaží srdce, a než sa nazdáš, uletela. Ľúbezná   jar, spravila miesto takému horúcemu letu, ako bolo to, keď pred   dvoma rokmi prišiel po prvý raz Metod Ružanský do domu   Ondrášikovcov.
+    </tei:p>
+    <tei:p>
+     Raz popoludní stál mladý Ondrášik, — tak ho volali susedia podľa   ženy, hoci sa on menoval Rášo, — pred domom.
+    </tei:p>
+    <tei:p>
+     Bol už zdravý, hľadel smerom, kde prv, než on odišiel do Ameriky,   stával škaredý kopec. — Kopca nebolo; a miesto neho uprostred   mladého, pekného sadu, obohnaný živým plotom stojí neveľký dom, ale   tak úhľadný a pekný, že mu v celej dedine nenájdeš páru. Okná pekné,   veľké, sem obrátený bol dvorom a bránkou, k dedine viedly od neho   dvere ako do sklepú.
+    </tei:p>
+    <tei:p>
+     »Kto by si len také niečo bol pomyslel?« rozmýšľal mladý muž. »Tu   sme to mali pred nami a nekúpili sme, stálo ladom a skladom, — a on   ako ľahko prišiel ku krásnej chalupe! — Nikto v dedine nemá takú   dôkladnú a takú lacnú! Ba keby som ja len vedel, na koho ma on vždy   upomína, tvár tak nie, ale hlas; musel som už takého človeka raz   vidieť, len kde?«
+    </tei:p>
+    <tei:p>
+     Nedivil sa len mladý Rášo tomu domu; všetci v dedine sa   divili.
+    </tei:p>
+    <tei:p>
+     Ešte sa len jar otvárala, začal Metod so stavbou. Zavolal si k nej   obecných murárov. Stavbu riadil sám, ako akýkoľvek skúsený murár.   Každý kúsok miesta sa musel využiť. Strechu dal robiť ináč viazanú,   ako tu viazali, takže na povale robil komory, ako nejaké izby, a dolu   mal všetko na bývanie. A hoci stavali všetko len zo surového   materiálu, predsa tak pevne a pekne, že to bolo ako z vypáleného.
+    </tei:p>
+    <tei:p>
+     4
+    </tei:p>
+    <tei:p>
+     ﻿50
+    </tei:p>
+    <tei:p>
+     Deň čo deň chodili ľudia na diváky sa dívať, a nejeden hlavou   pokrútil a hovoril: »Veru, aj ja si to tak spravím.«
+    </tei:p>
+    <tei:p>
+     Býval Metod cez celý čas u Ondrášikov, neslúžil už viac u nich,   platil si na chovu. Majstrov a robotníkov mu nachovala Podhájska;   nechcel tú veľkú robotu dopriať Ondrášikovie ženám, keď malý veľké   hospodárstvo.
+    </tei:p>
+    <tei:p>
+     No mali sa ľudia i čomu inému diviť.
+    </tei:p>
+    <tei:p>
+     Neotvorili Petrášikovci krčmu, ani už neotvoria, ale ani sklep. Po   prvé, stála ich mnoho tá strašná svadba, po druhé, dlhotrvanlivá   nemoc zaťova, po tretie, museli prednú izbu celú hobľovať a   obnovovať. Boli radi, že to, čo na krčmu chystali, mohli použiť za   bydlo. Veď v izbe bolo treba tlo, okná i dvere nové. Zvedeli susedia;   spravil sa vraj Metod s Petrášom, že v svojom dome postaví nielen   sebe bývanie, ale aj Samkovi sklep. Nuž aj spravil, a o dva týždne   zariaďovali tam už sklep, na druhý týždeň mal byť otvorený.
+    </tei:p>
+    <tei:p>
+     Starý Dávid ako by omladol, tak pritom všetko vychodil, poradil,   ani o vlastného syna nemohol by sa lepšie postarať. Divili sa ľudia   aj tomu, že je ten žid ako vymenený. — Predtým okrem pozdravu, »áno«   a »nie« , slova si od neho nedostal, a taký býval vždy zamračený.   Dnes sa už aj rozprával, a takú mal tvár jasnú, ako by bol omladol,   hoci bol už biely ako holub.
+    </tei:p>
+    <tei:p>
+     »Mnoho robí to«, hovorily ženy, »predtým chodil vždy ošúchaný,   špinavý a teraz máva čistú košeľu aj šaty. Ba že sa to chce tej   Podhájskej, žida opierať! Tá tiež všetko spraví, aj izbu mu nedávno   bielila, aj perie presypala; kúpil si nové povlaky. V izbe tiež už má   poriadnejšie.« — Tak ohováraly ženy a dodaly: »Ba, čo je to len, že   kto s tým Ondrášikovie sluhom má dočinenia, každý sa premení, len on   zostáva vždy jednäký. Uvidíme, aký bude, až začne
+    </tei:p>
+    <tei:p>
+     ﻿51
+    </tei:p>
+    <tei:p>
+     v tom dome bývať. Azda mu Ondrášikovie i dcéru dajú, keď si ho tak   vážili.«
+    </tei:p>
+    <tei:p>
+     »Ó, aj Petráš by mu dal, keby chcel! no on sa okolo žiadnej   nemá.«
+    </tei:p>
+    <tei:p>
+     No, vyzradila mladá Rášová, že sa prihováral Metod za Saníka   Petráša u Ondrášikov, aby mu dali Dorku. Hoci je aj chromý, ale ináč   zdravý; keď si začne obchod, pri Božom požehnaní ľahko vyživí ženu.   Oba — vraj — majú Boha radi a pôjdu spolu po tej ceste, ktorá vedie k   večnej sláve. Toľko povedal on, ostatné si Samko dopovedal sám, a s   Dorkou však už iste boli shovorení. Nemyslela si Dorka, keď pomáhala   ten breh kopať, že tam ona raz bude bývať.
+    </tei:p>
+    <tei:p>
+     »Divné je to na tom svete!« čudovaly sa ženy.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VII.
+    </tei:head>
+    <tei:p>
+     A zasa bol prekrásny letný večer. Svit mesiačka tekutým striebrom   polieval dedinu, sady, bujne zakvitnuté lúky i háje. Niekoľko lúčov   padalo i na chalupu starého Dávida; osvietily lavičku i na nej   sediaceho starca. — Bol sviatočne oblečený, a akási vážna, sviatočná   nálada spočívala mu na tvári.
+    </tei:p>
+    <tei:p>
+     Myslel a čudoval sa sám sebe. Prečo mal dnes takú radosf? — Čo ho   tak tešilo, že konečne otvoril Samko Petráš svoj obchod, a že on mu   pritom mohol pomôcť? Starec nemohol pochopiť seba, kde sa v ňom vzala   tá láska k ľuďom; však predtým jakživ nemiloval cudzích ľudí, necítil   s nimi; ich žiaľ ho nebolel, ich radosť netešila. A dnes by sa bol   skoro rozplakal radosťou, keď Dorka Ondrášikovie prišla k nemu tam v   sklepe, a taká naradovaná, ako bola, hovorí:
+    </tei:p>
+    <tei:p>
+     »Nech vám Pán Ježiš odplatí všetko, čo ste Samko vi urobili   dobrého.«
+    </tei:p>
+    <tei:p>
+     4*
+    </tei:p>
+    <tei:p>
+     ﻿52
+    </tei:p>
+    <tei:p>
+     A jeho to tak tešilo, že sa títo dvaja mladí ľudia majú radi, a že   sú dobrí, že budú spolu šťastní a že aj on smel im k tomu   dopomôcť.
+    </tei:p>
+    <tei:p>
+     Ďakoval mu i Samko i Metod, — a to bolo starému srdcu tak   dobre.
+    </tei:p>
+    <tei:p>
+     »Dodnes som žil nadarmo na svete,« myslel starec, »žil som sebe;   až teraz, keď som začal dobre robiť ľuďom, vidím, čo je povinnosťou   človeka na svete, a prečo Boh káže milovať bližného, ako seba samého.   V tom je šťastie. Žili okolo mňa ľudia, aj sa trápili, bol by som im   vedel poradiť, pomôcť; -— neurobil som, — nemalo ma čo potešiť.
+    </tei:p>
+    <tei:p>
+     Videl som, že mnou pohŕdajú, že ma nemilujú; no prečo by boli   milovali starého Dávida? Nikomu som neublížil, mnoho si na tom   zakladalo dobré srdce, že je Dávid lepší človek, ako tí, medzi   ktorými žije; — ale nebol. — Za čo ma mal kto milovať?
+    </tei:p>
+    <tei:p>
+     »Syn človeka neprišiel, aby mu slúžili, ale aby on slúžil,«   povedal Kristus. Ó, Adonai, nezavrhuj ma za to, keď poviem: môj   Kristus! Nemôžem si pomôcť, som hriešny človek, Jeruzalema niet,   chrámu niet, truhly smluvy niet, obetí niet a bez krviprelievania   niet odpustenia vín. Ja musím mať baránka. Uveril som, že Ježiš   Kristus je ten Tvoj Baránok. Ak je to hriech a zrada na Tebe, Bože   Jákobov, tak ma hneď zabi; ak nie je, ó, tak nech tá krv Krista   Ježiša očistí ma od mojej viny. Kladiem ruky na tohoto Baránka za mňa   zabitého. »My všetci sme zblúdili ako ovce; každý z nás sme sa   obrátili na svoju vlastnú cestu, a Hospodin uvalil na neho neprávosť   všetkých nás. Mučili ho, a on ponižujúc sa znášal dobrovoľne a   neotvoril svojich úst; vedený bol ako baránok na zabitie a zanemel   ako ovca, ktorá zanemie pred tými, ktorí ju strihajú, a tedy   neotvoril svojich úst. . . « — Tak išiel na smrť môj Mesiáš, môj   Immanuel »aby bol dlhoveký, a to, čo sa ľúbi Hospodinovi, zdarilo sa   jeho nikou ... «
+    </tei:p>
+    <tei:p>
+     ﻿53
+    </tei:p>
+    <tei:p>
+     »Vzpieral som sa, no už nemôžem; verím, že žije, že vstal z hrobu,   že žije u Teba, ba žije tu, v srdci starého Dávida.«
+    </tei:p>
+    <tei:p>
+     Starec si pritisol obe ruky na srdce, a taký lesk polial mu starý   obličaj, že vyzeral ako jeden z tých starcov zpred Božieho trónu.
+    </tei:p>
+    <tei:p>
+     »Modlieval som sa ako Dávid: »Otvor moje oči, aby som videl divy z   tvojho zákona!« Bože otcov mojich, Abraháma, Izáka a Jákoba, Ty si ma   počul, osvietil si mi Tvoje slovo.
+    </tei:p>
+    <tei:p>
+     Odpieral som, nerozumel, nechcel som rozumieť; ale už nemôžem,   nechcem odpierať, ako Saul. Uveril som, že Ježiš Nazaretský je   Kristus, je Mesiáš, je Tvoj Syn, a že si Ho dal aj mne!«
+    </tei:p>
+    <tei:p>
+     Zamlkol starec, len jeho pery sa hýbaly; čo ešte vravel, zostalo   medzi ním a jeho Bohom skryté. Z očí uprených k nebu stekaly bohaté   slzy zármutku nad zemskými stratami. Boly to slzy dieťaťa, ktoré si   našlo otca a on sa nehneval, nehrozil, netrestal — ale odpúšťal; lebo   miloval — a to večne.
+    </tei:p>
+    <tei:p>
+     V tej tíšine piatkového večera vydal sa i starec Dávid s tými   lastovičkami na púť domov. — V dvanástej hodine smutného, opusteného   života vzkriesil Boh jeho dušu a vložil mu do srdca svetlo   nehasnúceho večného života: Ježiša, Spasiteľa hriešnikov.
+    </tei:p>
+    <tei:p>
+     Starec sedel už asi hodinu, a tak bol pohrúžený v blažené, Boha   oslavujúce myšlienky, že ani nepočul kroky, nevidel toho, koho   predtým túžobne čakal a za koho sa jeho šťastná duša i teraz bez   slova modlila. Zato videl prichádzajúci šuhaj jeho, a dlhú chvíľu   nemohol odtrhnúť pohľad od zanietenej tváre starcovej.
+    </tei:p>
+    <tei:p>
+     No kdesi uprostred dediny strhol sa krik; premeriaval tam nejaký   opilec cestu a hneval sa, že bola priúzka, — vytrhol starca z   myšlienok. Obrátil hlavu, videl, že nie je sám, a čo nevidieť sedeli   spolu na lavičke. I dozvedel sa Metod, že Dávid chce a môže
+    </tei:p>
+    <tei:p>
+     ﻿54
+    </tei:p>
+    <tei:p>
+     mu dnes povedať s Rút, svojou babičkou: »Boh tvoj — Boh môj.«
+    </tei:p>
+    <tei:p>
+     »Sláva Hospodinu!« zavolal šuhaj, keď sa dlho, dlho boli   rozprávali spolu, i vzdali česť živému Bohu za milosť, akú učinil   starcovi. — »Sláva Hospodinuľ Sľuby jeho sú večná pravda; dúfal som v   Neho, a On ma nesklamal.«
+    </tei:p>
+    <tei:p>
+     »Teba?« podivil sa starec.
+    </tei:p>
+    <tei:p>
+     »Áno, mňa! Dnes, drahý starče, keď Kristus je už tvojím, môžem a   smiem ti konečne povedať, že nikdy by ma táto dedina nebola videla,   keby nie teba. Nečuduj sa mi, neskamenej; za tebou som prišiel, kvôli   tebe. Hovoril si mi predtým, že som ťa doviedol ku Mesiášovi, ako   Filip Natanaela. Filip išiel hľadať Natanaela, i ja som teba hľadal;   a mnoho ma to stálo, než som vypátral, kde žiješ.«
+    </tei:p>
+    <tei:p>
+     »Ale mňa že si hľadal, mňa — prv, než sme sa sišli? Nie je možné;   a prečo?«
+    </tei:p>
+    <tei:p>
+     »Prečo hľadal Filip Natanaela? Len aby ho priviedol k   Ježišovi.«
+    </tei:p>
+    <tei:p>
+     »No on Natanaela poznal, ale ty?« Starec kŕčovite držal ruku   šuhajovu.
+    </tei:p>
+    <tei:p>
+     »Ja som poznal zasa niekoho, o ktorého živote si ty nič nevedel a   ktorý teba miloval až do poslednej hodiny.
+    </tei:p>
+    <tei:p>
+     Rozprával som ti raz, že mňa rodený žid priviedol k poznaniu   pravdy. Tento môj dobrodinca, ktorému časne i večne všetko dlhujem,   menoval sa Rúben Sokolov. Bol synom bohatého ruského žida Sokolova, a   jeho matka bola to ako Mojžiš krásne dieťa, ktoré ty podnes želieš, —   tvoja dcéra Ester.«
+    </tei:p>
+    <tei:p>
+     »Metod!« skríkol starec; vzchopil sa a klesol nazpät. Kto opíše   búrku citov na jeho tvári? »Metod, a ty si ju poznal, moju dcéru,   moje dieťa? Videl si ju„ — vieš iste, že to bola ona?«
+    </tei:p>
+    <tei:p>
+     ﻿55
+    </tei:p>
+    <tei:p>
+     »Viem, starče; videl som ju síce len na podobizniach, aj ako   nevestu, i krátko pred jej smrťou.«
+    </tei:p>
+    <tei:p>
+     »Smrťou? Teda umrela, — nežije?!«
+    </tei:p>
+    <tei:p>
+     Umrela, ale žije; žiť bude večne. Umrela s modlitbou na perách za   teba a vzala od svojho syna sľub, že keď ťa nemohla ona listovne   vypátrať, pôjde ťa hľadať on osobne, až dokončí svoju prípravu v   školách.*
+    </tei:p>
+    <tei:p>
+     »Teda vedela o mne? v bolestnom úžase krútil starec hlavou.
+    </tei:p>
+    <tei:p>
+     »Vedela od matky všetko a milovala ťa vraj veľmi; vštepila túto   lásku i svojmu synovi.«
+    </tei:p>
+    <tei:p>
+     »A moja žena?« zaúpel starec.
+    </tei:p>
+    <tei:p>
+     Tvoju ženu skutočne oklamali viac, ako bola vinná. Ľutovala hneď   svoje previnenie, chcela sa vrátiť; nedovolili jej. Povedali, ako sa   ty hneváš. Keď prišiel lístok prepustenia, uverila im a vydala sa za   toho, kto ju oklamal, ale nikdy viac nebola šťastná a zomrela pred   svadbou svojej dcéry, ktorá hneď nato odišla do Kanady.
+    </tei:p>
+    <tei:p>
+     Tam stala sa najskôr Sokolovi, potom i jej tá milosť, že našli   Mesiáša a smeli k nemu priviesť aj svojho syna. Mnoho vynaložili na   jeho výchovu a mali len jednu túžbu, aby on zaniesol spasenie svojmu   národu.
+    </tei:p>
+    <tei:p>
+     Nuž tá túžba sa im splnila. Otec ešte aspoň počul syna kázať,   zomrel krátko žatým, ako som ja prišiel k poznaniu môjho Spasiteľa, a   stal som sa priateľom tvojho vnuka. Bol som mu všetko povinný; no i   on ma mal rád, tak ako len on vedel milovať!
+    </tei:p>
+    <tei:p>
+     Pretože som bol Slovák, tak sa mi zdôveril, že mu azda v Uhrách   žije starý otec, ktorého sľúbil matke vyhľadať. Kedykoľvek sme sa   spolu modlili, vždy sme sa modlili za tohoto i za možnosť, dostať sa   k nemu.
+    </tei:p>
+    <tei:p>
+     Raz vystrojili ma do Pensylvánie; vedeli sme, že je tam mnoho   Slovákov a dúfali sme, že sa tam nie-
+    </tei:p>
+    <tei:p>
+     ﻿56
+    </tei:p>
+    <tei:p>
+     čo dozviem od mojich krajanov. A stalo sa to riadením Božím, po   mnohom pátraní dal mi Pán skutočne stretnúť sa s mladým Rášom. Bolo   to hneď, ako on prišiel z domu. Od neho dozvedel som sa o starom   Dávidovi, ktorého vraj žena odbehla. Potom sme pátrali listovne a   dozvedeli sme sa všetko. Ó, ako sa tešil Rúben, koľko prosil Boha,   aby mu dal zachrániť dušu dedovu, to sa nedá povedať!
+    </tei:p>
+    <tei:p>
+     Ale Pán života i smrti ináč súdil. — Rúben, veľmi preťažený prácou   v kráľovstve Božom, nemohol sa hneď vymaniť. — Pán mu dal vidieť   veľké výsledky, mnohí ľudia v neho skladali nádeje; — a potom prišla   nemoc, prechladnutie, — prišiel anjel smrti vziať jeho čistú dušu   domov, — on musel ísť.
+    </tei:p>
+    <tei:p>
+     Vedel som, aký zármutok má nad tým, že neprinesie dedovi svetlo. —   No, čo prekážalo mne, aby som to za neho urobil? Složil som do   chladnúcej jeho ruky sľub, — s vierou v Boha, ktorý toľké modlitby   dcéry i vnuka nemohol nechať bez vyslyšania, — že jeho deda privediem   k Pánu, aby sa raz mohli vo večnosti stretnúť a spojiť. — Jeho   pochovali, oplakali, a ja som prišiel do Hradovej ako jeho náhradník.   Vedel som, že starého, krivdou zatvrdnutého muža tak hneď nezískam,   že keby som prišiel za ním hneď ako vnukov poslanec, on mi nebude   alebo veriť, alebo sa i voči vnukovi už zosnulému zatvrdí. Veď starý   Dávid bol žid a jeho vnuk zomrel ako kresťan; nuž tak som vedel, že   to potrvá dlhšie. Aby som mu bol čo najbližšie, ponúkol som sa   Ondrášikovcom za sluhu a prosil som Boha, aby mi dal získať najprv   srdce mužovo. On mi to dal. — Jednoduchý sluha nemohol byť starcovi   podozrivý, ani nebol. Ale ja som si najmä pred ním musel dávať veľký   pozor, aby som sa ani slovom neprezradil, že som nežil vždy v   takýchto pomeroch.
+    </tei:p>
+    <tei:p>
+     Bál som sa príchodu mladého Rášu, no Pán to dal, že ma on   nepoznal. Pri našom prvom stretnutí mal som bradu, a šat ľudí značne   zmení.
+    </tei:p>
+    <tei:p>
+     ﻿57
+    </tei:p>
+    <tei:p>
+     V ten večer Petrášovie svadby chcel som ti už povedať celú pravdu,   — Pán nedal; tak som si sľúbil, že zostanem v Hradovej dotiaľ, kým z   úst deda môjho priateľa nepočujem, že našiel a prijal Krista Ježiša   ako svojho Mesiáša.
+    </tei:p>
+    <tei:p>
+     Tak, povedal som všetko, a slávim môjho Pána, že mi umožnil   dodržať sľub, i za to, že nebol som medzi vami darmo. Spokojne môžem   teraz odísť, moje posolstvo je tu dokončené.«
+    </tei:p>
+    <tei:p>
+     Šuhaj vstal, a starec, ohromený počutými zprávami, ako vo snách   vnišiel za ním do chalúpky. Metod zavrel dvere i zamkol, rozžal   svetlo. Dal sa z náprsného vrecka vyberať pre starca vzácne skvosty.   Boly to podobizne jeho horko oplakávanej dcéry, jej muža Sokolova a   pekný obrázok vnuka. — Keď si sa podíval na tvár tohoto, iste ti   napadly slová: »Ľúbila sa Pánu jeho duša a preto pospiešil ho   vychvátiť z prostriedku nešľachetnosti.«
+    </tei:p>
+    <tei:p>
+     »No tak, milý sused, tu máte vaše poklady; a tu máte ešte dačo;   Rúbenov testament. Prečítajte si všetko a zajtra, až nám dá Pán   dožiť, prídem vám zodpovedať všetky otázky, ktoré vám iste cez noc   prídu na myseľ.«
+    </tei:p>
+    <tei:p>
+     Odišiel šuhaj, i zostal starec sám so svojimi pokladmi a so svojím   Bohom, ktorého veľkú lásku poznal dokonale iba dnes.
+    </tei:p>
+    <tei:p>
+     Na druhý deň skoro ráno odišiel Ondrej s Metodom do hory na drevo,   — srážali veľkého duba; — vrátili sa až večer.
+    </tei:p>
+    <tei:p>
+     Unavení, akí boli, zjedli večeru s veľkou chuťou a šli spať. Nikto   nezbadal, že domáci akosi divno pozerajú na Metoda.
+    </tei:p>
+    <tei:p>
+     Ráno, prv než sadli k raňajkám, stretol sa gazda so sluhom v   sade.
+    </tei:p>
+    <tei:p>
+     »Metod, poď sem, prosím ťa!« volá Ondrášik. »Čo chcete gazda?«
+    </tei:p>
+    <tei:p>
+     ﻿58
+    </tei:p>
+    <tei:p>
+     »Včera bol starý Dávid u nás a také divné veci nám rozprával, že   ja tomu nemôžem ani veriť.« Šuhaj sa usmial a priamo, s láskou pozrel   na muža.
+    </tei:p>
+    <tei:p>
+     »Je to pravda, prišiel si ty naozaj kvôli tomu starému židovi do   Hradovej ?«
+    </tei:p>
+    <tei:p>
+     » Prišiel.«
+    </tei:p>
+    <tei:p>
+     »Naozaj?« ohlásil sa zpoza chrbta Rášo.
+    </tei:p>
+    <tei:p>
+     Šuhaj sa obzrel. »A ty si ma ani nepoznal?« hovorí veselo.
+    </tei:p>
+    <tei:p>
+     »Ja?«
+    </tei:p>
+    <tei:p>
+     »Äno ty. Pamätáš sa na toho mládenca, ktorému si v Braddocku   rozprával o tvojej dedine a o starom Dávidovi? «
+    </tei:p>
+    <tei:p>
+     »Pamätám; ach«, udrel sa mladý sedliak do čela, »nadarmo som ťa ja   nepoznával! No, vtedy si mal bradu, fúzy i panské šaty — a   dnes?!«
+    </tei:p>
+    <tei:p>
+     »Dnes sa vám, hádam, i takto ľúbim,« zasmial sa Metod.
+    </tei:p>
+    <tei:p>
+     »Mo, keď je to pravda, čo hovorí Dávid, tak si ty nikdy predtým   nebol sluhom, ani si sa pre sedliacku službu nezrodil,« namietol   Ondrášik.
+    </tei:p>
+    <tei:p>
+     »Je pravda, mám po rodičoch trochu väčší majetok ako je tento   váš.«
+    </tei:p>
+    <tei:p>
+     »Ach, ako si to len mohol tak medzi nami žiť,« užasli oba, a tak   sa ponížiť, kvôli tomu židovi?«
+    </tei:p>
+    <tei:p>
+     »Poznám kráľovského Syna, — vy Ho poznáte, — ktorý opustil trón i   korunu a slúžil 33 rokov kvôli nehodnému. Ci som nemohol ja biedny   slúžiť dva roky kvôli človeku, ktorého On miloval? Okrem toho, mne   bolo u vás dobre, mali ste ma radi a dúfam, že som ani medzi vami   darmo nebol. Kto vie, čo ma ešte v živote čaká. Sedliackym sluhom už   sotva budem; no to viem, že tie najšťastnejšie roky môjho žitia boly   tieto dva, kedy som sa smel pripodobniť ČO ako málo, nášmu   Pánovi, a kedy som smel byť Ondrášikovým sluhom.«
+    </tei:p>
+    <tei:p>
+     ﻿59
+    </tei:p>
+    <tei:p>
+     Jasná tvár šuhajova zvážnela. Ďalej v rozprávke nedošli, súc   odvolaní do nútra.
+    </tei:p>
+    <tei:p>
+     Že sa ale iba o tej veci hovorilo pri raňajkách i po nich, a najmä   popoludní, keď sa všetci sišli v novej Samkovej izbe, to je isté.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VIII.
+    </tei:head>
+    <tei:p>
+     A zasa bolo nedeľné popoludnie. Jesenné hmly sa stlaly po horách i   po dolinách, lístie opadávalo. V dubovom háji, — na tom mieste, kde   raz rozprával Metod, ako išly lastovičky domov, a kde okolo neho,   sediac napnuto počúval kŕdeľ detí a Samko Petráš — sedel ten istý   Samko, no sám. Nebolo tu Metoda, ach, nebolo ho v Hradovej; darmo by   si sa bol obzeral po tej sviežej, milej postave. Nevolaly už po   uliciach deti: »Ujček Metod, ujček Metod!« hoci si ukazovaly rozličné   malé veci a pamiatky, ktorými ich pred odchodom obdaril.
+    </tei:p>
+    <tei:p>
+     Doslúžil Metod u Ondrášikov, dostaval dom, o ktorom vyšlo teraz   najavo, že ho nikdy pre seba nestaval, ale len preto, aby Hradovským   ukázal, ako si majú zem vážiť. — A tak, ako znenazdania prišiel, tak   i odišiel; a nik ho nemohol zadržať, — nebol on ich.
+    </tei:p>
+    <tei:p>
+     Podopieral Samko hlavu do dlaní, a pretože ho tu nik nevidel,   plakal, a po koľký raz už — za dobrým kamarátom. Vedel, že jemu   podobného nikdy nebude mať.
+    </tei:p>
+    <tei:p>
+     Keď si pomyslel, čo všetko sa za tie dva roky zmenilo, — akí boli   oni u Petrášov teraz šťastní a sporiadaní, rodičia, sestry, švagor,   on s Dorkou v peknom dome Metodovom, — a keď pomyslel na šťastnú   rodinu Podhájskych a zvlášte na Ondrášikovcov, ako tí žili Bohu,   nevedel sa Mu dosť naďakovať, že poslal
+    </tei:p>
+    <tei:p>
+     ﻿60
+    </tei:p>
+    <tei:p>
+     Metoda hľadať starého Dávida, a že pritom dal mu nájsť aj ich. Ó,   Boh bol dobrý.
+    </tei:p>
+    <tei:p>
+     Rozhliadol sa mládenec vôkol; napadlo mu, ako tu s Metodom sedeli.   Ani čoby ho videl a počul rozprávať o tých lastovičkách. — Nuž, aj on   tak zaletel do teplejšieho kraja, ale nepríde do hniezdočka, ktoré   postavil. — Zvedeli susedia, že staval on ten dom — »na močiari«, ako   ho nazvali, — pre starého Dávida z peňazí, ktoré mu dal pre neho jeho   vnuk, a že Dávid bol by tam mohol žiť ako bohatý človek, lebo zdedil   mnoho po vnukovi.
+    </tei:p>
+    <tei:p>
+     Mal to Metod tak dobre premyslené, že by oni dvaja, Dorka a on,   starca opatrili, — veď ich mal rád, — aby nebol sám. Ale starec   nechcel. Jeho zmocnila sa túžba, ísť uvidieť hrob dcéry, zaťa a   vnuka, a dať sa tam pochovať vedľa nich, aby, keď nie za živa, teda   po smrti bol spojený s nimi.
+    </tei:p>
+    <tei:p>
+     Toľko vedeli v dedine. —• Samko však vedel, že starý Dávid by bol   umrel, iste umrel, keby bol musel Metoda stratiť. — On sa mu nedivil,   rozumel ho; neraz by sám, — hoci mal dobrých rodičov a milú ženu, —   neraz by sa za ním rozbehol.
+    </tei:p>
+    <tei:p>
+     No, tak si ten dom Ondrášik s Petrášom kúpili pre deti; dal im ho   starec odpoly zadarmo, a svoju chalupu daroval starej Podhájskej, aby   mladým vystúpila, keď ich bolo mnoho, takže, keď odišiel, ešte i   žehnanie letelo za starcom.
+    </tei:p>
+    <tei:p>
+     Roky žil tu v tej dedinke, zvykli si na neho ľudia; ku koncu bol z   neho dobrý človek, — budú si naň spomínať.
+    </tei:p>
+    <tei:p>
+     No, či zabudnú na toho, ktorý len tak málo, len dva roky strávil   medzi nimi, či zabudnú na Metoda?
+    </tei:p>
+    <tei:p>
+     Zabudnú; veď ľudia majú pre dobrodenia krátku pamäť. Ale dlho to   ešte potrvá, čo spomínať bude sused susedovi, ako to bolo, keď v   Hradovej slúžil Ondrášikov sluha.
+    </tei:p>
+    <tei:p>
+     On zmizol; svetlo a láska, ktoré za tie roky rozosial, vzišlo a   vzrastá.
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

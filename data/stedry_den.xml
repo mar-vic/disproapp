@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1897942" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Štedrý deň : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6280
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Štedrý deň
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1897
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Štedrý deň.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Dobehli sme pred dom. Vlastne bežal ,môj“ kôň (ozajstný koník   hercegovskej fajty) a ja som sa na ňom niesol. Kôň driečny, štíhlych   nôh, s mohutnou hrivou, osedlaný, pravda, sedliackym sedlom so   všetkými patričnosťami — strmeňmi i povrazmi na priviazanie ťarchy.   Bežal tým krokom drobným, zamieňavým, pod ktorým sa kolíšeš v sedle,   sťa v kolíske a nepocítiš najmenšej ustatosti. Ba zadržal svoj drobný   trap i hore vŕškom, na ktorý sa cesta serpentínou dvíha, keď   vstupuješ do nášho mesta so strany od mora. Medzi takou jazdou   najpríjemnejšie je rozmýšľať a snívať. Myšlienky sa rozvinujú jedna z   druhej, sťa by ich snoval na snovadlá, a zapadajú do mora zabudnutia   úplného, alebo polovičatého. Tak i touto cestou zahrúžil som sa do   myšlienok a ukolísal sa do príjemných snov.
+   </tei:p>
+   <tei:p>
+    A na čo sa vzťahovaly tie moje sny? Možno povedať, že sa tmolily v   teplej izbe, v ktorej horí pec, hádžuc červenú žiaru po stenách a —   nuž po stenách, lebo taká ,našská“ izba má máločo viac, okrem štyroch   stien. V izbe, kde sa dal shodiť hrubý kabát, podšitý dupľovane — a   mohol si pohovieť ,ako doma“. Na ,piaci“ je veselo a živo. Okolo   stola pod starou jahodou je ohromný stisk. Každý, kto má zdravé nohy   a lakte, tlačí sa, tisne, dobíja k stolu, na ktorom sú postavené   starosvetské vážky na záves. Pritom škrek a vresk. Vidíš ženské,   slúžky i hosoodarice, bez šatky, holohlavé, s miskou alebo tanierom,   ako sa naťahujú jedna ponad druhú, na-
+   </tei:p>
+   <tei:p>
+    6*
+   </tei:p>
+   <tei:p>
+    ﻿84
+   </tei:p>
+   <tei:p>
+    kladajú misky, taniere, núkajú peniaze. Ale i niekoľko chlapov, ba   i vážnych občanov sa zamiešalo do stisku. V tom zmätku jediný   chladnokrvný človek je sám rybár, ktorý, hádam, len pred chvíľkou   zavítal k nám s dnešnou svojou korisťou. Chladnokrvne váži, delí,   berie groše, dbajúc veľmi málo alebo práve nič o pekelnú trmu-vrmu   okolo seba.
+   </tei:p>
+   <tei:p>
+    Bezruký Šime — vyvolávač nášho rynku — oddelil sa od zástupu   kričiaceho a kráča dolu ulicou, vyvolávajúc hlasom ani byvol: „Eno   ugori po petdeset šoldih kilo-ó!“
+   </tei:p>
+   <tei:p>
+    „Čo — ugori? A kto ich doniesol?“ spýtam sa ja naradovaný. Úhor,   hoci je ako had, je veru ryba jemná, chutná, najmä keď je veľký.   Vtedy osti nezavadzajú. No nikto mi neodpovedá. Všetci sú zaujatí   rybárom a rybami. S výšky, na ktorej sa nachodím, vidím rybárovi iba   hlavu v súkennej čapici. Tvár neznáma, vidno, prišli prespolní rybári   na náš trh. Iba starý strýko Tomic zpoza uhla vyzrel, a keď videl mňa   svojimi mdlými očami, trochu podpuchnutými, pristúpil ku koňovi,   chytil ho za uzdu a podržal, kým skočím.
+   </tei:p>
+   <tei:p>
+    „No, či ste kúpili ryby, barba Tome?“ spýtam sa.
+   </tei:p>
+   <tei:p>
+    „Neviem, môj pane. Viete, že je v dome gazdiná — tá rozkazuje. Ja?   Nuž k ohnisku — bochník a ,bukara‘ (krbka): to je moje.“
+   </tei:p>
+   <tei:p>
+    Zasmial sa akosi veselo a zpoza tenkej pery vyskočily dva čierne   zuby, veľmi vystavené. „No — nebude vari tak zle“, teším ho ja. „To   kým privyknete na ňu ...“ „Veď zlá je nie — to sa nemôže povedať. Ale   predsa. Viete, čo je nevesta.“ „Niekedy lepšia ako vlastná ..
+   </tei:p>
+   <tei:p>
+    ﻿85
+   </tei:p>
+   <tei:p>
+    „Bože daj, i svätý môj Tome!“ povzdychol strýko Tomic. Môj ,momak“   (pohonič koňa) až teraz dobehol. Nechcelo sa mu pretekávať sa s koňom   hore vrchom. Lebo i tak videl, že ,paríp“ je krotký, bezpečný, hoci   hádže hrivou a fŕka od bujnosti, prikladajúc nohu k nohe akosi   cifrovane. Prevzal koňa z rúk strýka Tomiéa a priviazal ho k stromu.   Až potom odviazal so sedla kapsu s medicínami a nástrojmi, ktoré taký   vidiecky Eskulap všade so sebou vláči.
+   </tei:p>
+   <tei:p>
+    V izbe zima. Akási vlhká; lepí sa na prsty a preniká až do špikov.   Tým citlivejšia, že vonku je lahodne, slnečno a od mora nesie sa   vzduch, ako by už-už nosil prvé zárodky jari. Deti i starci vysedujú   na úslní, vyhrievajú skrahnuté údy, presvedčení, že slnko je slnko, i   krajšie hreje než najskvelejšie ohnisko. Zima tým smutnejšia, že nemá   kde praskať oheň a šíriť blahodarné teplo po dome, keď niet pece.   Momak odišiel s medicínami i s koňom do súsednej dediny, odkiaľ bol   prišiel po mňa. Ja som prešiel do druhej izby, ,na letovisko“.   Letovisko preto, že obrátené je k juho-západu — a keď sa roztvoria   obloky a okenice, slnce ju rozohreje i na Štedrý deň. V lete je večne   zatvorená, lebo je v nej africká horúčava.
+   </tei:p>
+   <tei:p>
+    Na letovisku som sa spravil ,komoď. Natiahol na čižmy plstené   papuče a la domáci pán pražský, obliekol pohodlný, teplý župan so   širokými rukávmi á la Muhamed beg Osmanpašic, i rozložil, vlastne   rozdúchal žeravé uhlie v hlinenej panve benátskeho pôvodu. Ušúľal   cigaretu zo solídneho kontrabandu — i bol som ,ako doma*. Dobrý je i   takýto odpočinok. Od rána som schodil celú súsednú dedinu, z dom’ do   domu, ani čo by s koledou. Rozvírily sa tam osýpky a uložily
+   </tei:p>
+   <tei:p>
+    ﻿86
+   </tei:p>
+   <tei:p>
+    skoro všetky deti do postele. No a detí je tam, ako i tu,   neobyčajná hojnosť. Potom, vezmúc vec prísne, ani som neobedoval, ba   ani neraňajkoval. Ráno mi dali čiernu kávu, lebo biela sa nesmie piť   v Štedrý deň. A ako som sa túlal po domoch, tak som v každom niečo   užil, ako to ináč ani byť nemôže. Figy, mandle, konfekty, zaváraniny,   krapne, pražené na oleji, sušené hrušky. Pritom sme zapíjali rakijou   alebo sladkým vínom tieto paškrty. Hoci žalúdok obrátený je v ,ohnivé   jazero, jednako pripomína, že neužil dnes ničoho solídneho.
+   </tei:p>
+   <tei:p>
+    Ale čo si počneš. Tu s pôstom nežartujú. ,.Kecľ pôst, nuž pôst, a   keď hojnosť, nuž hojnosť.“ Môžem prezradiť, že takto svedomité som   prepostil iba jeden Dohviezdny deň. Ale to už bol ozajstný, prísny   pôst. Jano a ja (oboch nás rovnako bieda bila), roznosili sme ho po   Novom Meste pražskom, najmä po Karlovom námestí (čakajúc listára) a   popoludní po Vinohradoch. Prvý rok sme boli na univerzite, a hneď   prvým rokom nás začalo šťastie naháňať. ,Brady sme nemali, aby   bol chcel kto na ňu zavesiť zlatku. Ba ani náš bankár, vážny   ,Alchymista, nemal ,momentánne .zbytočného’ groša. Súdili   sme to z toho, že začal práve v tie dni radikálnu kúru so slanými   .houskami (jedna za krajciar), v ktorej pokračoval periodicky, v   súvise s pauzami, pripadajúcimi medzi návštevy listára. Tak teda sme   sa .strcali po uliciach; prezerali ryby vo veľkých kadiach a   korytách, lízali med cez hrubé sklá výkladov vo všakových cukrárňach   a .lahúdkárskych závodoch. I dočkali my pekne hviezdu; ale   jednako sme nevideli večer ,zlaté prasiatko ...
+   </tei:p>
+   <tei:p>
+    Kto vie, či sa nezjaví teraz! Aspoň večera vynahradí. Taká nádei   môže zvíťaziť i nad hladom. Pod oblokom, ktorý hľadí na námestie,   zatíchlo. Okolo rybárovho stola ne-
+   </tei:p>
+   <tei:p>
+    ﻿87
+   </tei:p>
+   <tei:p>
+    tisne sa nikto, len leci-kedy príde niektorá ženská. A v sude ešte   celé klbká väčších-menších úhorov. Bezruký Šime núka ich už po   štyridsať. Čo sa tisli a prenáhlili, budú banovať. Len krčmár Keko sa   neprenáhlil. Stojí opodiaľ, opretý o stenu, a čaká, kým rybár spustí   na tridsať. Potom on zjedná celú zásobu za dvadsaťpäť, posolí, zaúdi   — a jeho hostia budú mať úhorčinu celú zimu.
+   </tei:p>
+   <tei:p>
+    Občania postávajú na priedomí, i po uliciach. Mládenci a mladí   ženáči hrajú sa na námestí loptou, aby sa čas míňal. V kostole stavia   kostolník jasle — toto nezapomenuteľné divadlo každého dieťaťa.   Ženské čistia rybu, kutia okolo nízučkých ohnísk, alebo natlkajú   ,bakalara‘. ,Štokfiš‘ totiž nesmie chybovať ani na jednom stole; musí   byť nielen natlčený, ale i vymočený pred varením, aby odmäkol a   pustil ,mlieko Inteligencia alebo sedí doma, alebo sa túla po   domoch, popíjajúc rakiju a zajedajúc krapňami. Zahrúžil som sa do   žalúdkových ideí, ako človek hladný, ktorého čaká hojná večera.   Pochutnám si teda na úhorovi, ktorého nepochybne spravia na trojako.   Pravda, ,brujeť je najlepší. Hľa, i v Prahe budú mať, ale len kapra.   I toho spravia na trojako: na modro, na čierno i na bielo, ak sa   nemýlim. Medzi tieto pôstne myšlienky vmiešala sa akosi kacírska   klobása v kapustnici, opekance s makom, ba i pirohy s tvarohom. Bože,   kedyže to bolo, ani už nepamätám ... Ktosi mi zaklopal na dvere.   Možno, vianočný dar. Fľaša rakije, alebo prošeka a košík fíg a   mandlí. Najdú sa i vďační pacienti niekedy .. . „Dalje!“ ozvalo sa zo   záhybov môjho kaftana, ako z pivnice. Vošiel človiečik skrčený,   ponížený, v ruke nedrží košík, ale červenú čiapočku, i strúha mi   hlbokú poklonu.
+   </tei:p>
+   <tei:p>
+    ﻿88
+   </tei:p>
+   <tei:p>
+    „No?“ spýtam sa hlasom tvrdým. Človek je prespolný, Lovre, tiež z   mojej jednej dediny. Popadla ma zlá predtucha. „Keby ste, šor doktor,   ako do nás. Potreba je ľúta. Môžete si predstaviť, že musí byť   potreba. Vera Bože v takýto deň nešiel by nikto z roztopaše . . .   Dohviezdny deň, na zdravie! Ale keď je potreba, nuž naostatok, deň   ako deň. ..“ „Do P-a teda!“ zvolal som zničený. Duch preletel vo   chvíli z mojej izby do P-a; bohužiaľ, mazga potrebuje na takú cestu   hodinu ta a hodinu zpiatky. No dal by sa i ten kúsok vyviesť do   večere. „A či máš ,živo‘ (mulicu)?“ pýtam sa s oživenou nádejou.   „Živo, na službu. Mazga ako jahňa. Dieťa môže na ňu vysadnúť.   Nehádže, nedurí sa Bezpečná: o polnoci ako vo dne ...“ „Čo mi je z   nej, keď je ako jahňa!“ dudrem ja, shadzujúc plstené papuče a turecký   kaftan. „Bolo by lepšie, keby bola ako strela ...“ „Ako pero, môj   pane — akurát strela. Jedným ťahom i päť hodín. Na moj’ dušu. A nie   durná. Vystreľte jej pri jednom uchu — ani sa nehne. Svätého mi   Lovra.“
+   </tei:p>
+   <tei:p>
+    „Ale choď — kto ti ide s mazgy strieľať. Iba ak blázon!“
+   </tei:p>
+   <tei:p>
+    „To ako na príklad. A môže byť všaková potreba. Eh, môj hospodár!“   Položil dlaň na čelo, ako by vyvolával zpoza neho nové idey.   „Nenájdete ho na celom ostrove, chvalabohu! Ja sa s ním, úfajúc v   Boha, nezľaknem čo hneď proti noci... Eh, darmo hovoriť! Živo — čo,   živo! Ako človek — ako kresťan, len prehovoriť. Ale čože, keď sa mu   nedo. / V CC stava reči...
+   </tei:p>
+   <tei:p>
+    „Možno, je takto lepšie. Trepotaly by do sveta a nešly“, odsekol   som ja. Lovre rozosmial sa na mojej poznámke.
+   </tei:p>
+   <tei:p>
+    ﻿89
+   </tei:p>
+   <tei:p>
+    „A čo, Lovre, povedz na dušu — musím ja ísť?“ pýtam sa dôverne.   „Je naozaj ľúta potreba. A medzitým vy ste hospodár ísť alebo neisť   .. . Pobili sa na piaci a môjmu bratancovi rozbili hlavu. Skutočne   rozbili. Toto všetko“ — a ukázal na čelo. „Vidí sa kosť a či čo. A   uvidíte vy najlepšie. Lebo čo ja môžem dostihnúť svojou hlúpou   hlavou? Vy i tak vidíte viac spávajúc, než ja pozerajúc. Ale myslím,   že je to mrzko. Tak sa mi zdá. A ostatne, čo ja môžem vedieť? Prišli   po mňa, či mám živo doma — že tak a tak ... Ja som veru vysadol a   hybaj...“ Kým on vykladal svoje názory, alebo skôr žmýkal a po kuse,   lenivo prednášal, ja som za ten čas pohodlne povkladal všetko do   kapsy, čo mi asi mohlo byť potrebné v tomto prípade. Natiahol som na   seba zas hrubý, krátky zimník a pre prípad prevesil na plece lodenový   plášť, i čiapku na hlavu. Konečne nevieš, či ,neskočí bora, kým   sa vrátiš a nebudeš musieť v ostrom vetre cestovať hodinu alebo   viac.
+   </tei:p>
+   <tei:p>
+    Lovre mi už predviedol mazgu, keď som sa zjavil v bráne. „Bude   krotká“ — usúdil som hneď, len čo som ju videl — „nebola by ináč taká   tučná ... A naozaj, keď som ruku vložil na sedlo, nešvihla   nohou. Neschúlila uši a nehodila ku mne hlavou, keď som jej okolo   hlavy šibrinkoval. „Pravdu máš, Lovre“, vravím mulatierovi. „Živo   tvoje je krotké, tiché, rozvažité, ani nejaký kon . ..“ Len že som   neriekol ,konžilier‘! Ale tu stojí šor Džiovani, výborník mestský, a   niekoľko chlapov-sedliakov. „Kontadín!“ doplnil šor Džiovani, možno v   nevinnosti srdca a možno z malície prirovnávajúc mazge rýdzeho občana   nášho mesta. „Ale — živo je dobré. Nemáte sa čo báť“, uisťuje ma šor   Džiovani. „Ja sa v tom vyznám.“ Ešte mi povedal,
+   </tei:p>
+   <tei:p>
+    ﻿90
+   </tei:p>
+   <tei:p>
+    keď som už vysadol a strmene mal pod opätkami: „A ponáhľajte sa.   Ešte sa možno navrátiť.“ „A akože. To je i môj úmysel.“ „Veru, išli   by tam ostať!“ pohoršovali sa mešťania. „Každý v tento deň ťahá sa k   svojmu do-
+   </tei:p>
+   <tei:p>
+    mu . . .“
+   </tei:p>
+   <tei:p>
+    „Ba ostať! Ešte čo! Ak dá Boh zdravia, odídeme i prídeme i   navečeriame sa. Kde ostať? Ach, veru to ešte!“
+   </tei:p>
+   <tei:p>
+    Na také reči bola moja povinnosť, aby som sa uspokojil. Mazga   dokázala, že je pevných zásad a obyčajov. Kráča poľahky, ako by   nemala tušenia, že donáša ,prvú pomoc, ale ako by na príklad   niesla drva alebo olej. Pohonič vykrikuje, ako by hnal čriedu statku,   štrká svojím okutým korbáčom, i šibne ním tu i tu — no mazgu to   nemýli ani mak. Najviac, že schúli uši a hodí hlavou na bok, ako by   odháňala dotieravú muchu. Potom nejde nikdy po prostred ceste. Vždy   po krajoch, popri samých múroch, ktorými obohnali vinice. Odožeň ju s   iedného kraja, prejde hneď na druhv, kde ťa večne ohrožuje tŕnie,   pokladené po múroch, že sa ti zachytí na kepeň, odvisne na ňom a   počne bádať mazgu a plašiť. Naveľa sme dosiahli polovicu cesty:   návršie, s ktorého vidieť more v tri strany. Iba vľavo tiahne sa   pohorie, porastené nízkou ,horou‘. Po úbočiach rozkladajú sa mohutné   tably viníc, i na pláni, po ktorej nás práve vodí cesta. Vo viniciach   olivy alebo figovníky; holé olivy v svojej každodennej šedi. Niekde   pod stromami, alebo v svobodnom, celé záhony .kupusa (kapusty),   ktorý nikdy nejde do hláv. O Vianociach mu je vrchovisko, keď ho mráz   opálil. Smerom k moru návršie sa spúšťa náhlo, značnými strminami,   ktoré sú od prírody už akosi roztrhané, čiastočne povodňami   vyjarčené. Zato ruka ľudská i v týchto miestach vysadila vi-
+   </tei:p>
+   <tei:p>
+    ﻿91
+   </tei:p>
+   <tei:p>
+    nič. Malé záhonky vyložené sú terasovité jeden nad druhým,   popodmurované. Až ti je clivo, keď vidíš z takého múra vyrastať   figovník a náhlym oblúkom chýliť sa nad spodný záhon, ako by bol   odvisol v povetrí. V kotlinách, kde je predsa i trošku prsti,   založené sú ,role‘. Na nich rastie pšenica. I my vieme teda, čo je   žatva. Orba sa odbavuje cele egyptsky — dreveným hákom. Cesta vedie   najviac touto pláňou, málokedy sa dvíha alebo spúšťa. Oko preletí   pohodlne ponad kostrbaté štice vŕškov a s úľubou spočinie na kráse   všetkých krás — na mori. Hladina mu je čistá, po nej ako by   popreťahované biele stuhy. Ani v lete. Na ňom ako by nepohnute stálo   čosi ako podlhovatá čiapka. Nad ňou sa vznáša pásik dymu. Teda   parník; uháňa plnou parou a ztadiaľto sa zdá, že nepohnute stojí.   Drobné bodky, intenzívne biele, roztratené po sinej hladine, sú loďky   a člny s plachtami. Každá sa ponáhľa, aby dnešný Svätvečer trávila ak   nie doma, aspoň v prístave. Tiež taký nomádsky život. .. Za siným   pásom mora skvele vystupuje kamenité Prímorie. Je to len pruh zeme na   pohľad, a jednako s nádejou i túžbou nesie sa k nej oko človeka,   rodeného na kontinente. Pruh preto, lebo hneď od brehu dvíha sa   Planina, velebná a spolu taká smutná. Na jej bokoch trčia obrovské   skaliská a bralá, sťa kĺby človeka chudého, zbaveného rúcha. Je   rozjarčená, akosi rozkmásaná, akoby zabudnutá. Jej biely hrebeň,   posnežený, ostro sa kreslí na skvelom úzadí čistého, belasého neba.   Jednotlivé končiare sú ztadiaľto sťa stupne, po ktorých Bieda s   kontinentu vtiahla i do tohto kraja. Toto mohutné pásmo vrchov len na   jednom mieste je pretrhnuté. Ozaj ako pretrhnuté — taká je tá dolina   strmá, tesná, krkolomná. Podobná skôr priepasti než doline. Nou sa   hadí cesta bielou serpentínou, prevalí
+   </tei:p>
+   <tei:p>
+    ﻿92
+   </tei:p>
+   <tei:p>
+    sa sedlom a tratí sa kdesi za vrchmi — ,Zagorju‘. Toto sedlo v   planine nasadené je ako oblok. Vidíš cezeň rozsiahlu pláň, nad ktorou   dvíhajú sa nové vrchy a kopce a v ich lone belejú sa zagorské   dedinky. Keby nie toho, myslel bys’, že Planina je kraj sveta, obitý   doskami, aby sa zem nesypala do priepasti večnosti.
+   </tei:p>
+   <tei:p>
+    Prichodilo mi rozopäť zimník. Slnce hreje, naozaj hreje; preto, že   niet najmenšieho vetríka. Ako uveriť, že je toto Dohviezdny deň? Kde   je sneh, kde čierňava hôr, posypaná čerstvým snehom, kde hlas   hrkálok, ktorý sa rozlieha s hradskej za sánkami, v ktorých vezie sa   panstvo v ťažkých bundách na vyvrátenej medvedej koži alebo s rukami   skrahnutými ako cepíky? Kde domce vybielené a podkľakujúce pod   snehovým požehnaním? Kde cupot mlatcov z polootvorených humien a   strnádka odutá od zimy? ...
+   </tei:p>
+   <tei:p>
+    To je môj Dohviezdny deň. A toto? Čosi ako Hromnice s prvým   zavanutím jari a vôňou rozmoknutej zeme...
+   </tei:p>
+   <tei:p>
+    Došli sme na ,glavicu‘ — miesto, odkiaľ cesta spúšťa sa do doliny   strmým spádom. More nám čľapoce takrečeno pod nohami.
+   </tei:p>
+   <tei:p>
+    „Skoro sme došli, pane — čo?“ spýta sa môj Lovre s hrdosťou.
+   </tei:p>
+   <tei:p>
+    „Tak — tak. Stredne.“
+   </tei:p>
+   <tei:p>
+    Odpoveď ho urazila, viac už neprehovoril. A zaslúžil uznania. On   popri mazge vykonal dva razy toľkú cestu, ako ona. V horlivosti ju   predbehúval, hádam, že ju svojím príkladom navedie k rýchlosti. Keď   to nepomohlo, vrátil sa a pred sebou ju duril. A keď už-už myslel, že   sa nakriatla, zas ju predbehol, ale zaraz musel sa vrátiť ... I   napolo zachrípol od ustavičného vykrikovania, nadávok i hrešenia.   Pravda, nikdy nezahrešil ,svetca‘ (svätého), aby ne-
+   </tei:p>
+   <tei:p>
+    ﻿93
+   </tei:p>
+   <tei:p>
+    doložil k vôli porozumeniu ,turskoga‘. Keď váži svojich, nie je   povinný vážiť i tureckých svätých. Pri prvej zákrute skočilo nám pred   oči naše P. Leží i ono na strmom brehu, domy jeden nad druhým,   postavené bez plánu. Ulíc ani niet, to sú medzierky, z ktorých   prívaly poodnášaly všetko, zanechajúc holú skalu, tu hladkú, tu s   vyčnievajúcimi kusmi. Zato na hornom obvode dediny, kade vedie cesta,   domy stoja v rade, štítmi na ňu. Na nábreží sú domy krásne, výstavné,   s balkónmi a terasami na more. Na nich skoro na všetkých vystrčené sú   zástavy, lengajúce akoby zahanbené v tomto bezvetrí. Na vyšnom konci   stojí kostol so štíhlou vežou, na nej hodiny ukazujú tretiu. Zapadol   som i ja v jednej z tých tesných uličiek. Pohonič ma doviedol k   jednému z lepších sedliackych domov. Ostatne chlapi stoja pred   bránou, vyčkávajúc ma. Vošiel som strmými schodmi do domu, vlastne do   priestranej izby, postavenej nad pivnicou. „Na dobro vam Badnji dan!“   zaželal som podľa obyčaje. Odpovedali mi razom, ako by v chóre. Bola   shromaždená celá blízka a možno i ďalšia rodina. I ženy, i súsedy,   hoci majú dosť roboty okolo večera, zanechaly všetko a prišly   pozrieť, čo sa to ide robiť.
+   </tei:p>
+   <tei:p>
+    „Horkýže nám nadobro tento svätý deň, môj šor dotór“, začala jedna   zo žien, dosť obstarná, ale statná, očistiac ústa zásterou. „Vidíte,   že mi ho skoro nadobro ubili. Pomyslite, aké nešťastie! Bol na piaci,   ako človek: nie že by bol zadieral do niekoho, ale celkom ako vy,   alebo ja ...“ „Hm, hm“, pohoršoval som sa i ja z povinnosti,   prezerajúc ranu. Išla viac do dĺžky, než do hĺbky; zato sa i vzbúrilo   pol dediny. Druhá polovica akiste drží
+   </tei:p>
+   <tei:p>
+    ﻿94
+   </tei:p>
+   <tei:p>
+    s druhou stranou. Aby bol dojem tým väčší, na doktora i na   nádejných svedkov, poraneného neumyli, nepreobliekli. Nech sa vidí,   koľko vytieklo krvi... Stará mi vyrozprávala medzitým dlhú históriu,   v ktorej úbohý Mladomir hrá rolu baránka. Všetko ten ukrutník,   zbojník Luka. No mne sa pozdávalo i z tejto rozprávky, že v úzadí je   dvoje očú, čiernych, usmievavých — možno, šeľmovských: tie že   pripravily úbohému Mladimirovi túto krvavú omáčku.
+   </tei:p>
+   <tei:p>
+    Keď starej trochu odlahlo, hneď sa strhol veľký zmätok v dome.   Treba bolo predložiť lavóre, vodu, uteráky i čistú košeľu   Mladomirovi. Každá mala akú-takú robotu, a v nej zabudlo sa na   všetko, ešte i na Luku. Táto metóda, dať totiž svetu náhlu robotu, v   každom nešťastí sa osvedčí. Zaženie hnev, bes i zármutok aspoň na   chvíľu, alebo mu aspoň zlomí ostrie ...
+   </tei:p>
+   <tei:p>
+    Založil som stehy na ranu a obviazal. Až teraz mi bolo jasné,   prečo ma zvali tak naponáhle. Všetci očakávajú s napnutosťou, či ja   nezavolám súdobnú komisiu. Rozumie sa, že k vôli takejto maličkosti   nemohol som vyrušiť sudcu z vianočného mieru. Ale zaobalil som toto   rozhodnutie do bavlnky vyčkávania, nech sa vidí, ako to pôjde, že   však i potom potraŕíme k súdu. Rodina bola sklamaná. Očakávala pevne,   že Luka bude tráviť Vianoce v okovách. Pravda, nemožno rozhodnúť,   koho by radšej okovali v túto chvíľu: Luku a či — doktora. Uznal som   za dobré vzdialiť sa. Nech rodina má svobodného času a priestoru   vyjadriť sa o lekárovi a deravej spravedlivosti na tomto svete.
+   </tei:p>
+   <tei:p>
+    Išiel som po obyčaji do fary, presvedčiť sa, či nie je ešte niekto   chorý. Z fary som odišiel do domu pána Rustiča na kávu, rozumie sa,   čiernu. Panie som našiel zamestnané v kuchyni. Páni
+   </tei:p>
+   <tei:p>
+    ﻿95
+   </tei:p>
+   <tei:p>
+    — otec a dvaja synovia —- zaraz navrhli, aby som zostal u   nich.
+   </tei:p>
+   <tei:p>
+    „Nemožno — dnešný večer nemožno.“ „Ah, čo nemožno!“ starý pán na   to. „Všetko * V /CC je možne. „Ale toto nie ...“ „Ako chcete“,   doložil trochu nevrlo. No mladí neprestali naliehať. „Pôjdeme   vytiahnuť siete“, riekol mladší, pasionátny rybár. „Uvidíte aspoň,   ako sa to robí.“ „To som už videl mnoho ráz.“
+   </tei:p>
+   <tei:p>
+    „Ale sú i udice, a to ste nevideli.“ „A čo na tom? Udica a na nej   ryba.“ „Odpusťte, to je čosi zvláštneho.“ „Druhý raz.“ Dali mi teda   pokoj. Zaželal som celej rodine šťastné sviatky a odobral sa. Mladší   brat vyprevadil ma na vrch dediny, kým vysadnem. Na piaci som mazgy   nenašiel ani Lovra. A ja som myslel, že ma už bude netrpelive   očakávať. Pošlem chlapov k svojmu pacientovci, aby on poslal po   Lovra. O chvíľu prišiel otec pacientov s rozpakmi na tvári.   „Odpusťte, pane, ja nemám ani živo ani pohoniča ...“
+   </tei:p>
+   <tei:p>
+    „Ako to?“ „Nuž tak. Lovre odišiel i s mazgou. Že on veru ani za   svet nejde. A iného — koho?“ „Krásne!“ zvolal som rozhorčený. „Vy   teda si netrúfate zadovážiť koňa.“
+   </tei:p>
+   <tei:p>
+    „Keby iným časom, ale dnes! Odpusťte, pane, viete: mňa to velmi   mrzí...“
+   </tei:p>
+   <tei:p>
+    Pozrel som v nedorozumení na mladého priateľa. I on sa usmieval   akosi v rqzpakoch. Azda i jeho zamrzelo nesolídne pokračovanie jeho   spoluobčanov.
+   </tei:p>
+   <tei:p>
+    „Teda predsa sa len vrátime. Teraz už z pri-
+   </tei:p>
+   <tei:p>
+    ﻿96
+   </tei:p>
+   <tei:p>
+    nútenosti“, zasmejem sa ja. Bol som naozaj rozhorčený, hoci som sa   hľadel premôcť pred svojím sprievodcom, aby nemyslel, že cítim nechuť   oproti ich domu.
+   </tei:p>
+   <tei:p>
+    I starý pán sa pohoršil na mojej nehode. „Hoci ma teší, že   ostanete — ale väčšmi by ma tešilo, keby sa to nebolo stalo na taký   spôsob. Keby mal doma kone, dal by vás ja odniesť. Ale sú hodinu   vzdiale.“ „Ale čo pôjde, nech ostane s nami“, zvolala stará pani z   kuchyne. „I ja mám dvoch synov ďaleko, že nemohli prísť. On bude   miesto nich ...“ Tieto slová vyvolaly mi na tvár veselosť. Mrzutosť   razom prešla. Ba teraz som sa úprimne tešil, že som ostal.
+   </tei:p>
+   <tei:p>
+    „Aspoň pôjdem na rybačku!“ zvolal som. „Beztoho by mi bolo lúto,   že som ju opustil.“ Vzali sme plášte a sišli na breh. Odviazali sme   čln a postavili sa všetci traja k veslám. Čln sa kĺže ľahúčko po   hladine, potrhávajúc sa za veslami. O päť minút veslovali sme už   okolo predhoria sv. Justa, na ktorom sliepňa už lucerna vo veži   majáka. Čln sa hojdá, najdúc sa v kanáli, ako by sa mu chcel   poklonkovať. Hoci je všade bezvetrie, na tomto predhorí je more stále   v pohybe a ženie vlnku pod priedu člna. Udierajú vlny i o kamenitý   breh, plný puklín a rozsadlín; od skál sa odrážajú, hádžuc slanú penu   ďalej na pobrežie. No tento pohyb badať len pri brehu. Tam ďalej v   kanáli je hladina čistá, ako vyleštené zrkadlo. Tam je úplná mŕtvota,   iba čo ,galeb‘ (čajka) švihne na mohnutných krýdlach a hodí sa na   hladinu, ztratiac sa na nej oku svojou plavou farbou. Vyšiel i on za   korisťou. Tíšina je ozaj sviatočná, duša temer trnie nad jej velebou   a tají sa dych. Zato bor šumí tu v blízkej zátoke svojím večitým   šumotom. My sme pri brehu nemali čo hľadať, zamierili sme rovno do   kanála. Pred nami rozložené Prímo-
+   </tei:p>
+   <tei:p>
+    ﻿97
+   </tei:p>
+   <tei:p>
+    rie, celé šedivé akosi; ale také veselé, vysmiate, až duša   zaplesá. Lúče slnca, dobre už nachýleného nad obzor, plnou silou   padajú na starú Planinu, lomiac a drviac sa po skaliskách a bralách.   More, ktoré jej brehy myje, je tiež čisté, belasé a usmievavé. Po   brehoch rozložené dedinky, okrúžené šeďou viníc, dávno opadaných, a   olivových hájov, ostro odbíjajú lúče slnca svojimi bielymi domcami.   Asi na šesť strelení od brehu našli sme sieť. Bolo treba podať sa   vľavo, aby náš druh, ktorý sa postavil na kormidlo, mohol schytiť   poleno, plávajúce na hladine. Naň je priviazaný povraz siete. „Treba   mu poliať hlavu. Ešte nerybáril“, smeje sa on, vyťahujúc povraz,   ktorý sa mi zdal nekonečne dlhým. Starší načrel mora do črpáka a   vylial mi ho na klobúk. Čosi sa dostalo i na tvár a do úst z tohto   krstu. Tak som sa mohol zas presvedčiť, že je more skutočne slané.   Náš druh na kormidle musel lepšie napínať svaly. Z mora začala sa   vynorovať sieť, jemná, tenká, o neveľkých — na pohľad — okách. Môj   krst nebol márny. V nejednom oku zatrepotala rybka zúfalo,   zaviaznuvšia obyčajne poza hlavu. „Váži, váži!“ vraví rybár, namáhavé   dvíhajúc sieť. Musíme priskočiť i my na pomoc. Asi dvojkilová   ,škarpina‘ šibe chvostom, otvárajúc obrovský pysk. „Pekná!“ chválim   ju ja. „Na brujet“, rozhodol starší Rustic. Ešte sme vytiahli dve   škarpiny a tri-štyri menšie rybky. Zadná čiastka loďky naplnila sa   celá sieťou, rozmočenou morom. Zvláštny jodový zápach vystupuje z   nej, omamujúc smysly. „Váži!“ oznamuje nám priateľ, prehýbajúc sa   namáhavé v drieku.
+   </tei:p>
+   <tei:p>
+    Zas sme sa všetci traja chytili do roboty. Ja som sa vyhol nad   okraj loďky i zazrel som lengať v povetrí veľkého morského raka.   Ohákované nohy
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané spisy XI7. 7
+   </tei:p>
+   <tei:p>
+    ﻿98
+   </tei:p>
+   <tei:p>
+    a klepetá zamotaly sa do siete. Keď dopadol na mäkkú sieť,   zalupkal chvostom tak tuho, že nás ofrckal všetkých. Potom vyšlo so   sieťou niekoľko hviezdíc, i iných živokov, zaujímavých viac pre   zoologa než pre rybára. Často sa nájde v sieti i exemplár pavúka, i   menších rakov; no teraz nič takého sme nevideli. Zato ma veľmi   zaujímalo morské rastlinstvo, ktorého sa vysnovaly celé kry za   sieťou. Najmä riasy až skvejú sa sviežou, veselou zeleňou, a   vyznačujú sa jemnosťou lístia, ktoré je priesvitné proti svetlu. Keď   sieť vysnovali v celosti a položili na hŕbu — ulovené ryby zmietaly   sa ešte v mukách na dne člna — pohli sme sa ďalej do kanála.   Prichodilo vyzdvihnúť ešte udice. Zďaleka som spozoroval vydlabanú,   ale zatvorenú tekvicu, ako tancuje na vode. Zaveslovali sme k nej.   Táto tekvica nosí dlhý povraz, na ktorom sú vo väčšej-menšej diaľke   zavesené udice s újedzou. Práca s udicami bola o veľa ľahšia, než   dvíhať širokú, rozmočenú sieť. Ostatne mnoho udíc chýba, len kúsky   špagáta ukazujú, kde boly priviazané. Nebodaj bol úhor na hostine a   odniesol i újedzu i udice. Celá korisť pozostávala z dvoch ,ražín‘,   širokých, ani lopár. A keď odvisly vo vzduchu, pohybovaly krýdlami   sťa nejaký čudnovatý vták. „Poďme nazad!“ rečie náš druh od   kormidla.
+   </tei:p>
+   <tei:p>
+    ,,Počkaj ešte!“ zvolal som netrpelive. Oko náhodou zatúlalo sa mi   k Prímoriu a
+   </tei:p>
+   <tei:p>
+    s úžasom sa vpíja do jeho krás. Slnce zapadlo za ostrov a posiela   Planine posledný pozdrav. Dedinky na brehu zahalily sa v riedku hmlu,   ktorá ich ako jemný závoj pokrýva. Dediny, položené vyššie, ako by sa   túliac k holým ňádram chladnej Planiny, skvejú sa ani na obrázku   bielymi stenami a krovami v lúčoch zapadajúceho slnca. Vzduch nad   nimi čistý a priehfadný ako kryštál. Sivá Planina
+   </tei:p>
+   <tei:p>
+    ﻿99
+   </tei:p>
+   <tei:p>
+    ako by bola obliekla kráľovské šaty: horí živým purpurom. Na jej   zasneženom temeni jagá sa zlato zôr ako kráľovská koruna.
+   </tei:p>
+   <tei:p>
+    I moji druhovia, hoci odchovaní v lone tejto veľkolepej prírody,   stoja dojatí hlboko. A kým oko sa im pasie na tejto velebe, mysľou   možno tiahnu sladkobôľne dumy. Ich vlasť taká veľkolepá, bohatá v   krásach, bohužiaľ, iba v krásach prírodných. Ináč taká zanedbaná,   osirotená, zaostalá, chudobná, že jej synovia, aby mohli vyžiť, musia   vziať do ruky ťažkú palicu vysťahovalca.. .
+   </tei:p>
+   <tei:p>
+    Obrátili sme priedu člna k ostrovu. Je akýsi tmavý, triezvy —   pravý opak rozjaganého Prímoria. Stojí pohrúžený v tôni, ktorá v   hlbších dolinách a rozsedliskách prechodí v súmrak, alebo hustne   práve v tmu. Lucerna z majáka svieti silným svetlom, podobná veľkej   hviezde. V zátokách a ,peéinách‘ (v skalinách) počuť tajomný šepot   mora a ľahké čľapotanie vín. Na okolitých návršiach, ba i nad samou   dedinou rozložil pobožný ľud sviatočné vatry, ktoré vysoko šľahajú   mohutným blkotom. Tu i tu výstrel otrasie vzduchom: dudre po dolinách   a úžľabinách a vracia sa zmorenou ozvenou od Planiny.
+   </tei:p>
+   <tei:p>
+    Keď sme obveslovali sv. Just, zabelela sa nám dedina vo večernom   súmraku. Na ľavom brehu, popri ktorom sme veslovali, vidno skrčené   postavy, nahnuté nad vodou.
+   </tei:p>
+   <tei:p>
+    „Čo robia tamtí? Vari močia nohy“, zažartoval som.
+   </tei:p>
+   <tei:p>
+    Zasmiali sa na mojom žarte. „Cytajú ,ligne‘ (sepie) na večeru.“ „A   ako?“
+   </tei:p>
+   <tei:p>
+    „Na udicu. Lenže tá je trochu inakšia. Hľa, tu ju vidíte.“ Ukázali   mi rybu, sformovanú z vosku, a
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    ﻿100
+   </tei:p>
+   <tei:p>
+    okolo nej nasadené ostré háčky. „Na ne sa zachytí ligňa ramenami a   rybár ju vytiahne.“
+   </tei:p>
+   <tei:p>
+    „Poďme i my!“ navrhol som ja. Zaveslovali sme k brehu, vystúpil   som ja a starší Rustié. Mladšieho sme s člnom odsotili od brehu a on,   vezmúc obe veslá do ruky, pohol sa s korisťou voľným tempom k   domu.
+   </tei:p>
+   <tei:p>
+    Breh je čistý kameň; hlbokými puklinami vniká more ďaleko,   rozrážajúc sa vlnami o ostré hrany a končiare. Len s najväčším   namáhaním mohli sme pokročiť po skalách, ostrých ako ihla. Sú celkom   holé, iba v puklinách prichytil sa biely mach so žltým kvetom na   tučných, chlpatých byliach. Je to tu všetko mŕtvo na niekoľko siah od   mora.
+   </tei:p>
+   <tei:p>
+    Vyšli sme na chodník, ktorý nás zaviedol k majáku sv. Justa.   Idúcky sme videli niekoľko ľudí, pohrúžených do svojej práce. Nikto   si nás ani nevšimol. „Musia mlčať“, vysvetľuje mi priateľ, „ináč by   sa ligne zdurily.“ No ja som prestúpil túto regulu. Neďaleko majáka   zazrel som takého lovca i videl mu ľavé líce.
+   </tei:p>
+   <tei:p>
+    „Ó, Lovre, či si to ty?“ pýtam sa zadivený. Lovre ani slova. „Nie   je to môj Lovre?“ pýtam sa druha, aby som bol istý. On jzažmurkal na   mňa významne. Urobili sme dva-tri kroky napred, a tu sa obrátil   Lovre, prehýbajúc sa v krížoch. „Zdurili ste mi ligňu. Už začala   chytať — ja potiahnem a — ona spraví machuľu — a nič...“
+   </tei:p>
+   <tei:p>
+    „I ty si mi spravil machuľu!“ ja jemu. „A čo, hospodár, neboli ste   spokojný s maz- ■. Čo robiť? Radšej poď, reku, niečo uloviť. tsom   tri. Ak sa vám ľúbi?“ A podáva na jfufeÍMÍOki plavého, s ramenami   nehybne visiacimi,
+   </tei:p>
+   <tei:p>
+    ﻿101
+   </tei:p>
+   <tei:p>
+    „Nechže ti bude raz po vôli!“ zasmejem sa ja. „A koľko by ich bolo   ešte treba?“
+   </tei:p>
+   <tei:p>
+    „Hm — čo len to. Rozumie sa, čím viac ... Keby ešte dva, akurát by   nám bolo po jednom.“
+   </tei:p>
+   <tei:p>
+    „Chudák“, ľutujem ho, idúc za druhom. „Možno by nevečerali, keby   neulovil. ..“
+   </tei:p>
+   <tei:p>
+    „More je darca všetkého dobrého“, poznamenal môj druh, rozvíjajúc   udicu s kolovrátka. „Zdroj života i zdravia: čo budete čo hovoriť vy,   ktorí ste neslýchali o ňom. Keď ho nevidím, zaľahne mi na srdce túha:   zdá sa mi, že som uväznený. Možno by ochorel bez neho. A tak i Lovre.   Myslel by, že sú nie Vianoce, keby nejedol svoju rybu, čo sám uloví.   Vy to, pravda, ťažko uveríte, vy, ktorí zas bez hory nemôžete   byť.“
+   </tei:p>
+   <tei:p>
+    Sadli sme na široký balvan, ktorý more omýva, ihrajúc sa vo   výmoliach pod samými našimi nohami. Balvan je čierny, i za nami   skaliská na niekoľko siah vzdiale počernely od srazených solí   morských. Keď príde bora, more sa naduje, pokryje nielen tento   balvan, ale i vysoko nadeň dobíja spenenými vlnami. Kto by to veril,   kto ho vidí dnes večer?
+   </tei:p>
+   <tei:p>
+    Je tiché, ako by odpočívalo. Už nie je belasé, ako za slnca. Je   zelené ako tráva, len na pravom kraji obzoru leskne sa po ňom   striebristý pruh. Zpoza Planiny začína sa dvíhať mesiac — jeho prvé   lúče postriebrily tichú hladinu. Planina sivá, ani oceľ, pohrúžila sa   v sviatočnú dumu, zpoza nej nebo ako by sa bolo zapálilo požiarom. Na   sv. Klimente, najvyššom končiari Planiny, jagá sa jasná hviezda, ako   by ju naň bol nastokol. Chveje sa, trasie nad rozsiahlymi poľami ľadu   a snehu — azda jej je zima. Ako by chvíľkou pohasla — znova vyskočí a   zajagá sa tým jasnejšie. „To nie je hviezda“, odpovedá priateľ •   na
+   </tei:p>
+   <tei:p>
+    ﻿102
+   </tei:p>
+   <tei:p>
+    moju otázku, aká je to podivná hviezda. „To je sviatočná vatra na   sv. Klimente.“
+   </tei:p>
+   <tei:p>
+    „V takej výške?“ podivil som sa. „Naši Prímorci sú odvážni. On   pôjde niekoľko hodín, aby mohol zapáliť vatru. Viete vy, že je tam   poriadna zima? Ale nepamätám Vianoc bez tejto vatry. I keď je bora —   to je jedno ...“ O chvíľu na rozličných bodoch Planiny, i okolo   dedín, zažiarily podobné svetlá. Odpovedajú im ohne s nášho ostrova,   nakladené na vrchoch a pahorkoch. I výstrely ozývajú sa pod chvíľou   tichým večerom. „Drží!“ štuchol ma priateľ, navíjajúc šnúru na   kolovrátok.
+   </tei:p>
+   <tei:p>
+    Zahľadel som sa do hlbiny, no okrem skál nerozoznávam ničoho.   Konečne som zazrel rybu z vosku, pri nej sa hýbe akási plavá masa,   pod chvíľou meniac podobu i rozmery. Niekedy je ako klbko, inokedy sa   rozloží ako plavý tulipán s listmi pohyblivými. „Je veľká“, šepocem   ja naradovaný. „Malá je chutnejšia“, odpovedá priateľ. Keď dotiahol   udicu ku kraju, vysvitlo, že ligňa sa nezachytila ani jedným ramenom.   Zbadala nebezpečenstvo, a na tom mieste, kde bola, zanechala iba   tmavú machuľu. Keď sa pomaly voda vyčistila, nevideli sme ničoho.   Vzal som udicu ja a hodil zas do hlbiny. O chvíľu som už cítil, že sa   zavesilo na ňu čosi ťažkého. Druh sa dotkol šnúry prstom a potvrdil,   že ,drží‘. Keď som ju pritiahol blízko, sám on ju podobral. Vyhodil   na breh udicu i sépiu. Bola dosť veľká, asi ako topánka: ramená jemné   ako hodváb, visia bezvládne a voda sa cedí dolu nimi, sfarbená   černidlom.
+   </tei:p>
+   <tei:p>
+    Lov ma začal zaujímať. Hodil som znova udicu.
+   </tei:p>
+   <tei:p>
+    ﻿103
+   </tei:p>
+   <tei:p>
+    Mesiac vyskočil zpoza Planiny a rozsypal celým vidiekom svoj   striebristý lesk. More ako roztopené striebro odráža ho na pahorky   nášho ostrova. I sviatočné vatry pobledly pred ním. „Vždy nový a nový   obraz“, poznamenal som. „Ako v rozprávke ...“ „Sú ľudia, ktorí   presedia celé dni a večery takto. Dívajú sa a dívajú, a nikdy sa im   nezunuje.“ „Ja sa im nedivím“, odpovedal som. Lov sa nám už nedaril.   Šnúru sme navili na kolovrátok. Tu sa mi zdalo, že zastonal ktosi;   ako by ,Vlah‘ podvihol ťarchu a zastonal. I obzeral som sa, či je   niekto za nami. Priateľ sa rozosmial.
+   </tei:p>
+   <tei:p>
+    „Dupín! Počkajte, afzda ho uvidíme.“ Delfín mi už nebol neznámy.   Dva razy som mal príležitosť zabávať sa na ihrách delfínov okolo   nášho parníka, keď som cestoval. Niektoré s ním držaly, ako by chcely   o prieteky, iné podliezaly popodeň a vynorily sa až na strelenie pred   ním. Jeden hrnie sa rovno, majúc chrbát na slnci a rozrážajúc vodu   ostrou hlavou; druhý zas vyskočí každú chvíľu a švihnúc v povetrí,   zanorí sa do hlbiny. Až zrazu, nevedieť prečo, zanechaly náš parník a   vrátily sa na svoje miesto. Zďaleka bolo rozoznať rozčerené more,   kade preplávaly celou čriedou.
+   </tei:p>
+   <tei:p>
+    „Teraz by bolo na ryby“, poznamenal druh. „Ale museli by sme mať   vatru, alebo lucernu. Ryby sa naľakajú ,dupína, učupia sa —   ľahko ich zabíjať osťami.“ „To nie je rytierske napadnúť ich, keď sú   v pomykove.“ „Ale užitočné ...“
+   </tei:p>
+   <tei:p>
+    Dupína sme nezazreli, ani viac nepočuli. Odplával azda do iných   končín. Ostatne zvonia v dedine Ave Maria na všetkých troch   zvonoch.
+   </tei:p>
+   <tei:p>
+    ﻿104
+   </tei:p>
+   <tei:p>
+    Večera sa počína — treba sa ponáhíať. Hodil som na rozlúčku pohľad   na skvelý obraz a s ťažkým srdcom opustil som tvrdé sedisko. Keď sme   urobili niekoľko krokov, zazreli sme Lovra zas. Lenže teraz kľačí,   hlboko sklonený, s čiapkou v rukách; kľačí na tom istom kameni, ktoré   čuješ i cez podošvu; nehýbe sa, iba pery čo sa pohybujú v tichej   modlitbe.
+   </tei:p>
+   <tei:p>
+    „A kde je naša modlitba?“ pýtam sa priateľa. Povzdychol i on i ja.   Hádam i jemu prišly na um roky, keď sa ešte vedel tak modliť... „No,   či ti slúžilo šťastie?“ pýtam sa Lovra, keď sa bol zdvihol.
+   </tei:p>
+   <tei:p>
+    „Predsa len došlo do šesť“, chváli sa. „Á, to bude ozajstná   hostina!“ zvolal priateľ. „Hej, chvalabohu!“
+   </tei:p>
+   <tei:p>
+    „Tu máš i tohoto, Lovre“ — i podal som mu našu korisť.
+   </tei:p>
+   <tei:p>
+    „Ah, nie som hoden jesť z vášho lovu“, odhŕňa sa Lovre, „ale keď   ste sa udôstojili...“
+   </tei:p>
+   <tei:p>
+    „Nespievaj, Lovre, zas také melódie!“ zahriakol ho priateľ. „Keď   ti dávajú, ber.“ „Keď vy rozkážete, hospodár, to je už iné. Ale ináč   ja by sa neopovážil... Kdeže, vy veľkí, ja, ja nič — biedny červík   ...“
+   </tei:p>
+   <tei:p>
+    „Blázon, všetci sme jednakí. Čo budeš tu vytrubovať“, okríkol ho   priateľ a dodal zlomyseľne: „Alebo ty takto myslíš: ja som tu   ponížený a títo tu povýšení, ale na druhom svete: tam uvidia, že to   bude ináč. No, povedz, nemyslíš ty tak?“
+   </tei:p>
+   <tei:p>
+    „Ah, hospodár, čo ja budem rozsudzovať ... To mne nepatrí. A veď i   ja som hriešnik veľký. Čože sa mám očíšťať, keď sme všetci pod jedným   zákonom, i trestom . . . Zavaruj, Bože.“ Pred nami sa zjavila dedina,   skoro ani v ohni. Pred domami a po uliciach plápolajú ohne.
+   </tei:p>
+   <tei:p>
+    ﻿105
+   </tei:p>
+   <tei:p>
+    Z izieb hľadia z oblokov svetlá, zovúc k pokrytému stolu.
+   </tei:p>
+   <tei:p>
+    Večera bola vyberaná. Ryby a ryby v inej a inej podobe. Pravý   kuchynský koncert na rybacine. Pečiva, okrem krapní, nebolo, iba   ,mandolaty (torta z medu a mandlí). Pivnica zas poskytla   najlepšieho vína: pri pečive a torte došlý na stôl botilie: staré,   voňavé, dezertné. Naostatok zjavily sa i dobre známe s dlhým hrdlom,   z ktorých kypí sladký mok, doma robený, a dodáva spoločnosti odrazu   ducha veselosti. Bez mandlí, orechov, fíg a rakije nemôže, pravda,   ani táto večera obstáť. Tak sme si posedeli pri rakiji a cigarete.   Domáci sa dali do karát o orechy. Stará pani tuho prehrávala, a o   malú polhodinu nemala ani jedného orecha pred sebou. Hoci ich karát   dosiaľ neznám a hre nerozumiem, nebolo mi ťažko zbadať, že sa   spriahli všetci proti nej. A možno, že mladší (miláčik!) i šachroval   popod stôl. Dosť na tom, že stará pani sa veľmi nahnevala.
+   </tei:p>
+   <tei:p>
+    „Nie je to pre mňa. Vy ste Cigáni!“ A nechala hru.
+   </tei:p>
+   <tei:p>
+    Starí odišli na odpočinok a my sa vybrali do dediny. Nábrežie je   skoro prázdne. Zato odhora ozýva sa spev a časté výstrely. I my sme   sa ta obrátili na veľký priestor, nádvorie kostola.
+   </tei:p>
+   <tei:p>
+    Tu sa sišli skoro všetci mládenci. Horí vatra, že plamene šibú   temer rovno s kamennou strechou fary. A koľko je nasnášaného raždia,   haluziny, polien. Celé klady a vývraty sú hotové. A čo je hlavné:   toto drevo je všetko nakradnuté. Kde, kedy a ako? To sú všetko   tajnosti mládencov, ktorí budú vatru udržovať do samých Troch kráľov   z takejto dežmy.
+   </tei:p>
+   <tei:p>
+    Temer sme poblúdili, vracajúc sa domov. Predĺžené tiene stromov,   domov a plotov tancujú
+   </tei:p>
+   <tei:p>
+    ﻿106
+   </tei:p>
+   <tei:p>
+    pred nami, podľa toho, ako šibe plameň, pred ktorým i sám mesiac   potemnel. I keď som si ľahol, počuť pieseň mládeže od vatry doliehať   až k posteli. Jedna z tých starosvetských pastierskych, kde je   opísaný celý posvätný dej narodenia Pána, naivne, prosto, ale i   bezprostredne. ,U tej vrime godišca mir se svitu navišča, porodjenje   Ditiča od Divice Marje.. / Znela mi ona ani uspávanka, i naozaj   uspala ma v tuhý, zdravý sen ...
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

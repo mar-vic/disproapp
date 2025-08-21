@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1883756" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Hajtman : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5960
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Hajtman
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1883
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Hajtman.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿Vy, čo ste kedysi nosili teľce a mundúr a z bľachových misiek   jedávali menáž, siahnete podlá starej regule k čiapke, keď prečítate   slovo „hajtman , mysliac si, že ono znamená majiteľa tej šarže, ktorá   bola za časov vašej vojenčiny nedostižitelným predmetom vašej   ambície. Lebo známa vec, že každý „gemeiner, už či jáger a či   infanterista, svojho hajtmana pokladá za najvyššieho hodnostára   vojenského. Nuž ak ste i vy pri tom slove salutovali, za tú úctu vám   ďakujem v mene nášho obecného hajtmana z Ľupkanovej, Ondráša Gagačku,   lebo ideme teraz rozprávať o ľupkanovskom hajtmanovi, Ondrášovi   Gagačlcovi, o stĺpe Fupkanovskej administrácie, a nie o vašom   ukrutnom hajtmanovi. Nuž nemyslite si, že niti administrácie tvoria   uzol tamhore... O, nie. Tie schodia sa v rukách hajtmana Gagačku.   Aspoň všetky rozkazy, ktoré týkajú sa Ľupkanovej, musia ísť hlavne   cez hajtmanove ruky, a on vlastne — čo smele tvrdíme — udrie na ne   pečať splnenia. A keď povážime, že ani jeden úrad nemá bezprostredne   toľko podria dených, ako hajtman Gagačka, lebo jemu sú občania   ľupkanovskí podriadení, a ešte keď taký závažný úrad zastáva taká   vypuklá osobnosť, ako náš Ondráš: niet sa čo diviť, že pred ním i pán   rychtár musí do úzadia ustúpiť. Ondráš Gagačka nestal sa hneď   hajtmanom. O, nemyslite si, že to v Ľupkanovej tak ľahko išlo. V   dedinských úradoch bolo možno vtedy len postupne, s kroka na krok   napredovať; teraz (prevrátený svet!) pri zaplňovaní úradov urobia   hoci-
+   </tei:p>
+   <tei:p>
+    ﻿78
+   </tei:p>
+   <tei:p>
+    kedy skok, keď ponad hlavu zkúseného Gagačku papľúhov volia vraj   za rychtárov! Hej, vtedy sa to nestalo! Vtedy všetci ľudia v   Ľupkanovej boli sprostí, nechodili do školy, ale život im bol dobrou   školou. Preto do úradov volili len starých, zkúsených ľudí, ktorí už   v nižšej službe ukázali svoju zbehlosť. Dnes — dnes ti je to celkom   inakl Ešte ti škrupinu nosí na chrbte, a už chce prevýšiť   zaslúžilých, zkúsených ľudí. Prevrátený svetl Ako povedám, Gagačka   nestal sa hupkom hajtmanom, ale musel vykročiť na prvý stupeň, a to   bolo: honelníctvo. Keď Gagačka už bol hodným chasníkom, tak že vedel   také po pás šibenice preskočiť, vzali ho na salaš za honelníka. Za   tri roky musel ovce do strungy naháňať, tenké štebliny kálať, vodu z   ďalekej studničky v gelete nosiť, pod medený kotol prikladať, bačovi   a valachom fajky zapekať, horúcu žinčicu ohromnou varechou chladiť,   od valachov i najtvrdší žart vďačne prijímať, a len potom stal sa   valachom. A hneď mu bolo lepšie, lebo nemal inej roboty, okrem ovce   pásť, a i to každý štvrtý deň zostal v kolibe pri bačovi, aby   oštiepky pomáhal robiť a — spať. Už nikto nesmel žarty z neho robiť,   ale on mal právo honelníka sužovať, tak ako jeho predtým. Nie div, že   na salaši začalo mu žíriť, ani čo by bol naňho priliepal. Líca mu   opuclily a nohavice len tak prašťaly na jeho plnom tele. A aký bol   chlap! Za jeden oštiepok obehol celú poľanu, lámajúc kolesá. Toto   bola najkrajšia doba jeho života. Keď v lete raz alebo dva sišiel do   dediny, dievčatá pred ním narovnávaly ústa a usmievaly sa proti nemu,   len aby sa mu zapáčily. Čo by bol ktorékoľvek popýtal, bol by ho   ľahko dostal. No on o dievčatá nedbal, ako-by ich ani nevidel.
+   </tei:p>
+   <tei:p>
+    ﻿79
+   </tei:p>
+   <tei:p>
+    Mohol mat so dvadsaťsedem rokov, keď ho obec vyvolila za baču.   Takého mladého baču ani starí ludia nepamätali, a preto prisahali sa,   že to nebude dobre, lebo o Vianociach i zahrmelo, i hviezda s dlhým   chvostom sa ukázala. A čo najhorší znak: Gagačkovi, keď sa na   bačovstvo podpisoval, urobila sa machuľa, i keď prvý raz ovce   zajímal, mačka ho prebehla. A tieto znaky neboly daromné: vyplnily   sa. Na svoje nešťastie pozval za prvého valacha bývalého baču, ktorý   bol shodený preto, že nebol vyrädoval. Starý bača bol prešibalý v   svojom remesle, znal všetky spády. A ako by i nie, keď už bol dvadsať   rokov bačom, a k tomu i v čertovom kolese, musel tedy len niečo   vedieť. Zo závisti porobil novému bačovi tak, že sa mlieko v putere   nekľagalo. Gagačka sa dosť naproboval, i viac kľagu do mlieka nalial,   než obyčajne, a mlieko predsa len sa nekľagalo. Nevediac si inej   rady, na ten papek, ktorým sa mlieko miešava, keď sa po pôdoji do   putery vleje, uviazal teľací žalúdok, potrebný na dorábanie kľagu. To   konečne spomohlo. Mlieko sa ako-tak skľagalo, ale syr bol z neho   planý, a starý bača, vidiac na papeku uviazanú ryncku, vysmieval sa   svojmu mladému gazdovi: „Náš bača musí mať na papeku potkana. Bez   potkana nechce sa mlieko kľagať. Ej, si mi ty bača!” „Veď mu   povedzte, čo viete“, prosili ho valasi. „Nech zkúsi, čo je to   bačovať. To je nie kolesá po poľane lámať.” „Ale veď mu len   povedzte.“ Starý sa významne usmial: „Čo viem, to viem, ale nikomu   nepoviem.“ Tak zostal teľací žalúdok na papeku, ale syr suchý,   oštiepky sypké ako prsť a práca nesporá. Už pred Jánom ľudia   povedali, že nový bača ne-
+   </tei:p>
+   <tei:p>
+    ﻿80
+   </tei:p>
+   <tei:p>
+    vyräduje. V dedine vzmáhala sa nespokojnosť, salašník i dva razy   do týždňa vyšiel na salaš, aby sa prezvedel, čo a ako tam ide.   „Ondráš, zle räduješ — nevyräduješ.“ Gagačka ho potešil: „Veď ešte   kukučka kuká, ešte je nie po Jáne.“ „Ale už nebude dlho kukať...   Pamätajte, Ondráš: nevyrädujete.“ „No, už kým kukučka kuká, sa   nebojím.“ A tak to šlo až do jeseni. Prišlo pomaly i Michala, a   Gagačka nedodal ešte na dvadsaťdve ovce. Prerädoval tedy viac, než   starý bača. Keď prišlo rátanie, ľudia smiali sa na jeho nešťastí.   Pred rychtárom stojaci chlapi vraveli: „Teraz mu veru kuká kukučka!“   „Hja, veru teraz mu je hodné kuku!“ Tam neďaleko slúchajúci chlapci   sa zasmiali: „Kuku, kuku!“ A večer, keď Gagačka vyšiel od rychtára,   bežali chlapci za ním a jeden nad druhého volali: „Kuku, kuku!“   Salašnémn gazdovi, ktqrý to počúval, potrhoval sa tu pravý, tu ľavý   kútik. Mladý bača tiež hneď zbadal, na čo to kukanie padá. Obrátil sa   za chlapci, ale tí boli už za plotmi a po záčinoch. Tak zostal   Gagačka v Ľupkanovej „kuku“. Keď toto slovo počul, ako by sa mu   pahraba po žilách rozsypala. Koho v taký čas pochytil, ten zariekol   sa potom kukať. Ale kto sa nastačí s mládežou celej dediny zahrýzať?   Dnes ubil pre kukanie jedného, zajtra už iní traja vykrikovali za   ním: „Kuku, kuku! Takýto na posmech obrátený človek nemohol už   rátať na bačovstvo. On ani sa na to nepechoril a ľudia vyvolili   starého baču. Ondráš Gagačka
+   </tei:p>
+   <tei:p>
+    ﻿81
+   </tei:p>
+   <tei:p>
+    zostal doma a chcel sa oženiť: ale ktorá, ktorá pôjde za shodeného   baču, čo minulého roku prebačoval 160 rimských šajn a na ktorého   každé dieťa prstom ukazuje a kuká. Ešte všetko dalo by sa napraviť,   ale to nešťastné „kuku“! Na kom raz taká prezývka prischne, ten ju do   smrti so seba nesmyje.- Takýmto spôsobom Gagačka bol by zostal starým   mládencom, ale predsa našla sa šľachetná duša, ktorá odvážila sa   sdieľať smutný osud Ondrejov i jeho nešťastné kuku. Bola to obstarná   vdova. Ale čo mu to osožilo? Ako sa oženil, ešte viac osprostel.   „Kuku, kuku!“ všade ho prenasledovalo, robota neišla mu nijak od   ruky. Keď vybral sa ovos kosiť, to sa mu klasie neukladalo ku klasiu,   ale pomiatlo sa, že jeho žena nemohla n rady. A čo horšie:   nevedel ovsa poriadne odťať, tak že po ňom osamelé alebo v poly uťaté   byle zostávaly. Gagačka sa vše po poli poobzeral, a keď videl, že nik   naň nehľadí, odhodil kosu,a lapil sa do trhania ovsa. To mň omnoho   lepšie i ľahšie šlo. Ale i to zbadali ľudia. Tam pod kopou ležal   súsed, ktorý ho videl, a od tých čias ešte väčšmi vysmievali Gagačku.   Kto chce byť gazdom, nechže od malička sedí doma a učí sa robote,   lebo pochodí tak, ako ľupkanovský hajtman. Príde pomaly o všetko a   stane sa výlučne pobehajom. Gagačka síce nestal sa darebákom, lebo   mal službu, keď ho vyvolili za poľného hájnika; ale ani na túto   službu nebol súci, lebo nedovidel. Pekne počul zďaleka, keď trávnica   ostrila kosák, ale akokoľvek sa namáhal, nedovidel jej, keď sa mu   skryla za kôpku nakosenej trávy. Ľudia konečne, keď videli, že pre   Gagačku môžu i celý chotár ukradnúť, vyhodili ho zo služby a vyvolili   za hajtmana.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy X.
+   </tei:p>
+   <tei:p>
+    ﻿82
+   </tei:p>
+   <tei:p>
+    Hla, tamto kráča si on len tak s nohy na nohu. Na hlave široký   klobúk, zpod neho visia dlhé neostrihané vlasy, ktoré v tyle delia sa   vo dve pradienka a vlnia sa dolu plecami až skoro na vpadlé,   stlapkavené prsia. Nos jeho je nie orlici, ale stľapkaný a široký,   ústa široké, ná hvízdanie nespôsobné, brada hlbokým priesekom v pravé   poly rozdelená. Tvár pokrytá riedkym, celotýždňovým strniskom,   čakajúcim na nedelu, aby ho tupá britva až do pňa skopala. Gagačka je   bez odedze, kožuštek zavesil na klin do komory, lebo je i tak teplo.   Hrubé nohavice a na nohách krpce s vymastenými remencami doplňujú   jeho úradné šaty. Kráča dolu dedinou pomaly, rozvažite, lebo on nie   je mladý šialenec, aby lietal sem a ta, on musí dať niečo i na úradnú   vážnosť. V chôdzi päta netýka sa mu zeme, ale palce musia niesť celú   váhu jeho šťúpleho tela. Hlava naklonená nadol, k.zemi, aby skúmala,   kam stupiť, aby sa krpce nezablatily, lebo ulica pokrytá je blatom, z   ktorého tu i tu trčí skalka. Tam zas v lúčoch jasného slnka zablyští   sa mláčka. Ondráš Gagačka, ľupkanovský hajtman, nedovidí, preto často   miesto skalky hupne do blyštiacej sa mláky, ktorá pod jeho krpcom   ustúpi, ofrknúc mu remence i nohavice. „Nech je čert hajtmanom, a nie   ja! Budem ja takto chodiť v blate a vode? Ešte by len bolo, keby   cestu vypiargovali; ale nechcú. Dobre: zaďakujem, keď nechcú.“ Už od   dvadsiatich rokov-zaver uje sa, že pechá svoj úrad, no pri každej   novej voľbe podrobí sa vôli občanov a prijme ho bez námietky. Nuž,   hľa: ťažko by mu padol predčasný odpočinok. V ústrety hajtmanovi   kráča akýsi mladý muž. Hlavu drží rovno, ako vojak; krok jeho je   odmeraný, v ruke list so širokou pečaťou. Hajtman
+   </tei:p>
+   <tei:p>
+    ﻿83
+   </tei:p>
+   <tei:p>
+    zbadal chlapa až vtedy, keď sa mali jeden do druhého búšiť.   Zastali oba, ani jeden sa neklaňal. „Hajtman, kde chodíte, čo   chodíte? Túlate sa, túlate, ako hrach v prázdnom hrnci. Aby človek   držal zas hajtmana, čo by za vami sliedil.“ Hajtman na výčitku   neodpovedal ani jediným slovom, len, melancholicky pozrúc na   hovoriaceho, pomyslel si: „Len sa rozťahuj, veď tvoja sláva bude len   do nového roku!“ „Tento list pôjde k pánu okolnému. Pošlite s ním   niekoho z listovlcy.“ Hajtman poškrabal sa za pravým uchom a opýtal   sa: „A koho?“ „Najlepšie! Aby rychtár ešte i to v hriešnej hlave   nosil. Neviete vy, na kom zostala poriadka?“ „Hm, viem. Na Mare   Zubatej, ale tá je už v – poli.“ „Nuž a kto je za ňou?“ „Jano   Držidvere, ale ten išiel zavčas rána po pne do Palcova.“ „Tak je to,   hla: keby ste boli za rána ko mne prišli, mohli ste list odoslať.   Pošlite si teraz už koho chcete!“ Mladý rychtár Matej Vrzgút nechal   hajtmana stáť na ceste, bez porady, bez pomoci. Hajtman sa poobzeral   a zahnul do bočnej ulice hľadať nejakého posla. Len si odvrával: „Si   ty mne rychtár! Dávno som ja už takých pánov videl! Keď ho vyvolili,   nevedel ani úst otvoriť; teraz už začína sa mu jazýček rozväzovať.   No, veru, jest mi toho: Maťko Vrzgút!“ Matej Vrzgút je ešte len tretí   rok rychtárom; keď prišiel s vojny ako kaprál, nepáčilo sa mu v obci   nič. Posudzoval úradovanie starého rychtár a. Tento za pokutu   vyviedol to, že Lupkanová pri najbližšej voľbe vyvolila si Vrzgúta.   On, keď
+   </tei:p>
+   <tei:p>
+    6*
+   </tei:p>
+   <tei:p>
+    ﻿84
+   </tei:p>
+   <tei:p>
+    to už tak šípil, ani nešiel na volbu, ale zostal doma mlátiť. Iba   keď prišli poň poslanci od rychtára. „Aby ste šli k rychtárovi“,   oslovili ho príchodzí. Vrzgút šípil, načo, keď počul, ako mu vykajú   dnes tí, čo mu včera ešte tykali. „A poďte chytro: tam čakajú.“ „A čo   to tak?“ „Veď tam zviete, len poďte!“ A netrpeliví už chlapi   vychytili mu z ruky cepy a takého, aký bol — uprášeného, viedli cez   dvor k rychtárovi. Vrzgútka, vidiac to, zbledla. Matej Vrzgút u   rychtára spieral sa prijať rychtársku palicu. Nechcel a nechcel. „Ja   vám nebudem rychtárom.“ Shromaždení vytreštili naň oči: „A prečo ?“   „Som mladý, ešte len chlapec. Nebudete ma chcieť slúchať. Vyvoľte si   staršieho, zltúsenejšieho.“ „Ty budeš dobrý“, povie mu starý rychtár,   ktorý zpoza stola presadol si už pod pec. „Keď si sa prvej miešal do   mňa: teraz zkús, ako je to! “ „Ja mám gazdovstvo, som len sám chlap v   dome. Povážte len: o všetko prídem.“ „Budete si paholka držať“, ozval   sa ktosi odo dverí. „Paholok je len paholok, a gazda je len gazda“,   namietal náš Matej. „Ale čo sa mu prosíte; keď je vyvolený, nesmie   nás pohŕdať, alebo nech zaplatí stovku!“ Kto to zakričal, ťažko   povedať, lebo skryl sa za chrbát iného, abý ho nevideli. Darmo sa   Maťko odhrýzal, darmo prosil. Námietky jeho vypočuli, vysmiali a,   schytiac ho na plecia, podhadzovali ho pod samú povalu. Tak bola   reštaurácia úradu skončená; nasledovala vážnejšia robota dnešnej   porady: inštalácia. Od starého
+   </tei:p>
+   <tei:p>
+    ﻿85
+   </tei:p>
+   <tei:p>
+    rychtára vzali truhlicu, korbáč, drieňovú palicu, kalamár i pero,   z nádvornej steny zdrapili i čiernu tabuľku s nápisom: „Ryc.htár obce   Eupkanová“, a všetky tieto rychtárske veci niesli do domu vyvoleného.   Medzi nimi kráčal i vyvolený Matej Vrzgút, ale nie veselo, lež so   svesenou hlavou a vráskami na jasnom ináč čele. Azda i slzy tiekly mu   dolu lícami. Popri ňom išli občania a hľadeli veselým hovorom   rozohnať jeho žiaľ; každý bol rád, že obišiel lós, ktorý na chudáka   Vrzgúta dopadol, lebo všade inde hrable k sebe hrabú, len pri   rychtárskej voľbe od seba. Tak prišli chlapi k Vrzgútovmu domu. Žena,   zazrúc toto i rychtárske odznaky, utvrdená bola v trápnej predtuche,   ktorá ju predtým znepokojila, ked jej muža viedli k rychtárovi.   Zalomila rukami, potom zas, zahoriac hnevom, vzmužila sa a vyšla na   podstenie. Shrom chlapi zľakli sa jej. Ten, čo niesol   tabuľku, neopovážil sa pribiť ju na stenu. Len starý rychtár bol   najsmelší, podišiel na podstenie a povedal: „Doviedli sme vám   rychtára.“ „Akého rychtára?“ „Aha, tuto váš muž je rychtárom.“ „Ved   tak — už ste nám závideli, že niečo máme! Čo ste nedali rychtárstvo   inému, alebo čo ste ho sebe nezadržali? Ha?“ „Nemôžeme byť vždy len   jeden rychtárom. Nech každý zkúsi, čo je to.“ „Vy pohani; môj muž   nebude! A čo si to prijal? Nevedel si otvoriť ústa a povedať: ja mám   ženu, drobné deti, gazdovstvo, ja nemôžem byť rychtárom. Čo si tak   nepovedal?“ „Ved i ja mám ženu i deti; každý má ženu i deti“, ozval   sa starý rychtár. 1 Boženík koristil z rozhovoru a pribil donesenú   tabuľku na stenu. Rychtárka skočí k nemu a odsotí ho:
+   </tei:p>
+   <tei:p>
+    ﻿86
+   </tei:p>
+   <tei:p>
+    „Ja nepotrebujem tvojej tabuľky. Čo mi rýpeš stenu? Dal si mi na   vápno, alebo bol si mi stenu mazať? Veď ti ja dám — obarím vás   vriacou vodou, ako psov!“ Vyhrážky boly daromné. Shromaždenie ani   nerátalo na lepšie prijatie; pri iných voľbách muselo ešte inakšie   slová počuť: preto bez okolkov uložili rychtárske veci u nového   rychtára. Matej Vrzgút zostal ľupkanovským rychtárom. Že bol ešte   mladý, to by mu nebolo veľmi škodilo: mal hajtmana Gagačku, ktorý už   dvadsať rokov slúžil v obci, vedel už to i to poradiť. Už nejednému   rychtárovi spomohol v ťažkom položení, nie to takémuto nováčikovi. A   Vrzgút zprvu radil sa jeho, ale pozdejšie, keď sa podučil, ani sa   neozrel oň, riaďac sa celkom podľa svojej hlavy. A to Gagačku bolelo,   veľmi bolelo, že nemá už podielu v obecných veciach... Hajtman   Gagačka hľadá teda niekoho z listovky. Nuž tu neďaleko býva Jano   Kubovie, obrátil sa teda do jeho dvora. Dvere sú síce otvorené, ale   Jana niet doma; jeho žena, keď zazrela Gagačku a v jeho ruke list,   šípiac, že je tu čosi zlého, rezko, ako drobná myška, šibla do   kuchyne a ztadiaľ do komory, kde sa skryla za kapustný sud. Dvere na   komore sú závorou zapreté. Hajtman vošiel do izby, no nevidí nikoho,   ani živej duše, okrem malého dieťaťa, ktoré spí v plachte, visiacej   na tráme. Hajtman už dávno videl takéto kúsky, keď sa mu ukryjú, aby   im nemohol nič rozkázať. Stavil by sa, že i Katrena čupí kdesi pod   posteľou. „Kdeže si ? Pod posteľou nič, ani na peci... nikde nič.   Poďme do kuchyne...“ I tam prehľadal všetko dopodrobna, pozrel i za   dvere, otvoril i veľkú armariju, ale Katreny
+   </tei:p>
+   <tei:p>
+    ﻿87
+   </tei:p>
+   <tei:p>
+    niet. Vyšiel hore schodmi na pôjd, i tam ju pohľadal, no vrátil sa   bez výsledku. „Vari sa prepadla, ani nič dobrého...“ pomyslel si. No   zíde mu komora na um. Otvára, otvára... dvere zapreté. „Katrena, tu   si?“ Ani šuch. „Katrena i“ Hajtman urobil z dlaní trúbu a, priložiac   ju k ústam, zareval: „Katrena!“ Dieťa v plachte — Miškom ho volali—   strhlo sa na krik a ako deti zo spania vyburcované počalo plakať   lútostným hlasom. Hajtman sa plaču zľakol; odišiel preč, lebo   nechcelo sa mu dieťa kolísať. „Tak je to hajtmanom byť... No, veď ja   to už tak nechám. Nech si je ten múdry Maťko. Veď človek ledva   vydriape od neho tú konvenciu. Mám dostať na fašiangy a na Matku   Božiu po páre dobrých krpcov, a čo mi vše kúpi? Tenké, ako papier,   ani čo by boly z kohúta Takto si Gagačka odvrával, to bola jeho   úľava, keď sa vše nahneval. Všetky útrapy svojej služby privlastnil   rychtárovi, ktorého nenávidel. Tak prišiel pred nasledujúci dom. Zo   dvora na cestu bolo počuť cvengot, ako pri kovaní kosy. „Martin je   doma“, pomyslel si hajtman, „Martin, ten pôjde.“ Gagačka vkradol sa   do dvora potichúčky, aby ho nepočuli a neskryli sa. Ale Martin   Rázvora dopočul písknutie dveriec, podvihol hlavu od roboty a hneď   ovesil nos, vidiac hajtmana a v jeho ruke list. „Ach, veď sa   navláčiš, ty uvláčenec 1 Zmok, mátoha kadejaká! Keď ťa nevie niekto   do vody sotiť. Už ma zas chce vypraviť. No, len si ppčkaj!“
+   </tei:p>
+   <tei:p>
+    ﻿88
+   </tei:p>
+   <tei:p>
+    Hajtman nesmelým, váhavým krokom prikradol sa k Martinovi, ktorý,   sediac na vovalenom kláte, energicky búcha mlatčekom o zatupené   ostrie kosy. Martin naoko nevšíma si hajtmana, len kuje a kuje, ako   by už zajtra ani nesvitlo. „Ale kuješ? Pán Boh pomáhaj!“ „Hej“,   krátko odvetil Martin, pozrúc bežne na Gagačku. No i týmto krátkym   pohľadom uspel zazrieť list v ruke hajtmanovej. Gagačka sadol si pod   stenu na skaly a trpelive čaká, kým Martin dokončí robotu. Veď už i   tak búcha na samý koniec kosy. Keď je kosa nakovaná, Martin Rázvora   chytí kosisko a nakúva naň naostrenú kosu. Jej ostrý cvengot ohláša   sa vypustnutou, tichou dedinou, a Gagačkovi uši brnejú. Martin po pár   úderoch podrmal kosu, či sa nemyká, ale ona pevne sedí na kosisku.   Zas chytí a napraví ju tak, ako do kosenia, a oprie na zem, skúmajúc,   či nebude krivo. Dobre je tak. Chudák Gagačka nezná, zkadiaľ začať.   Povedať mu rovno: takto a takto, toto a ono — to nejde. Pýta sa ho   tedy: „Nemáš nikoho doma?“ „Ani duše: žena so sestrou okopáva švábku   a otec išiel kroz juncov na jarmok. Ja zas idem kosiť ďatelinu, lebo   už polahla.“ „Už nebude rosy“, poznamenal Gagačka, radujúc sa, že už   má háčik, na ktorý Martina lapí. Pritom ukázal list, aby ho Martin   lepšie videl. „Veru nebude, a bez rosy ťažko trojku kosiť. Ja som tak   urobil zalanským: o pol poludní som šiel, našticoval som sa jej,   ustal som ako kôň, a nevykonal som , ani mak. Odišiel som domov a   večer pri mesiačku som ju poľahky pokosil. Nechaj i ty ďatelinu tak,   kým rosa nepadne.“
+   </tei:p>
+   <tei:p>
+    ﻿89
+   </tei:p>
+   <tei:p>
+    Martin Rázvora nebol vrecom udretý. On zbadal hneď, kam ženie   GagaČka.- „No, už ja jej nenechám. Hroma budem čakať: do večera chcem   ju ešte i na ostrvy poklásť. Nuž tak!“ „A už z toho, Martinko môj   drahý, nebude nič. Pôjdeš k okolnému s listom.“ Rázvorovi ód jedu   skoro kosa vypadla z ruky. Oči mu vysadly, ústa sa pootvorily.   Napokon zvolal: „Ale ja?“ „Z nás dvoch jeden, ale,ja nie.“ „Teda ani   ja nie.“ „Ach, veď ty nie, Martinko, božechráň! Rozkážeš pekne nohám   k pánu okolnému a tie...“ „A čo by mal kto posmech zo mňa robiť! Ja   som gazda, ako druhý. Kto nemá roboty, nech si roznáša listy: mne   kukučka nekuká len do Jána, a komu i po Jáne, nech si ide!“ „Ale ty   pôjdeš“, dotvrdzoval mu hajtman, ďobnúc palcom na širokú dlaň. „A ja   nepôjdem. Ak je na mne poriadka, dobre. Ale povedzte, kto odvážal   dnes dva týždne toho čaptavého žobráka, ale nie ja? A ešte vraj na   mne rad!“ „Ty sa do toho rozumieš, ako hus do piva. Čo si odvážal, to   nebolo z listovky, to boly foršponty... Pozri, Martin, poriadka je   trojaká: listovka, robotizeň a foršponty. Keď si žobráka odviezol,   odbavil si si len foršponty. No, rozumieš už?“ Martin ešte nerozumel,   chytil sa háčika, čo sa mu nadhodil: „A keď som starého vojaka   prenocoval, toho, čo ste mi doviedli, keď som mu dal jesť: čo to   bolo?“ Gagačka nevedel sa naponáhle vynájsť, do ktorého oddelenia má   túto úsluhu Martinovu vradiť. Konečne povedal:
+   </tei:p>
+   <tei:p>
+    ﻿90
+   </tei:p>
+   <tei:p>
+    „To je zas inšie, to patrí sem tak, ako rukavica na nohu.“ „Nuž   tak?“ rozkričal sa nahnevaný Martin. „Nuž tak? Ja dávať foršponty, ja   dávať obšitníkom nocľah, ja listy nosiť, ja všetko robiť a... A druhí   nič ? Bola Mara Zubatá už niekde z listovky: povedzte, vy starý   chren! Bola?“ „O Maru sa ty nestaraj, len o seba. Na list — za dve   hodiny si tu a listovka sa ti zaráta. Blázon! Keď si odbavíš dnes,   zajtra máš pokoj. Všetko ti je jedno, či dnes, či zajtra. Sťa za   ktoré rebro ti visieť.“ Gagačka už mal svoj spôsob ľudí nahovárať.   Ale teraz mu mnoho neosožil, ba mierny, náhovorčivý hlas Martina ešte   na koňa posadil. „Nuž ale som ja v dedine sám? Či už niet viac gazdov   ? To mi príde dom a všetko zapľuť a utiecť z tejto dediny. Veď je to   nie na vydržanie! Ani Jano Kubovie nebol ešte z listovky.“ „Pozriteže   ho, ako to on všetko zná! Počkaj, keď ty tú listovku tak dobre rátaš,   spravíme ťa na rok hajtmanom. Potom zvieš, čo je päť.“ Martin sa   zľakol, že bude hajtmanom. A či mu to nemôžu ľahko na krk zavesiť,   ako pred dvoma rokmi Vrzgútovi rychtárstvo ? Čert nespí... Strach   pred hajtmanstvom donútil ho k tomu, aby vzal list a šiel s ním.   Hajtman, uradovaný nad zdarné vybavenou robotou, vytratil sa zo   dvora. „Mudráci, nikto nebude slúchať? Počkaj si, veď ja nebudem už   viac hajtmanom. No, a teraz poďme k tomu Maťkovi. Myslí si, že ja   nevydurím nikoho s listom. Hej, koho ja raz pochytím, ten musí ísť, a   čo by mal hneď drevené nohy.“ Pán rychtár práve sedel pri stole a   čítal akési peniaze. Keď videl, že vchodí hajtman do izby, shrnul   všetko so stola a vsypal do obecnej truhlice. Gagačku to napálilo:   veď zrejmá vec, že
+   </tei:p>
+   <tei:p>
+    ﻿91
+   </tei:p>
+   <tei:p>
+    ho vytvárajú z obecných diel! „No počkaj“, myslí si, „ved sú to   obecné peniaze, nebudeš sa ty v nich dlho už prehrabávať.“ „Rychtár,   dajte mi niečo“, a nadložil dlaň oproti nemu. Rychtár s čudnou tvárou   pozrel na hajtmana: „A co? „Moju konvenciu od Jána.“ „No, už ste ma   počuli grošom štrngnúť? Keď len tak hned pýtate! Nechajte si niečo i   na staré dni; čo budete mať potom, ked si teraz všetko miniete?“ „Po   i žobraní len nepôjdem, ani ma nik nemusí chovať.“ Rychtár pristúpil   k nemu s mäkkou tvárou a povedal mu: „Ondrejko, teraz nemám,   dočkajte, kým drobnice vyberiem. Viete, že daňové peniaze vám len   nemôžem dať, lebo vy môžete dočkať, ale porcia nie.“ „Ak mi dáte   dnes, nebudem pýtať potom, a vám je to jedno: či dnes a či zajtra.“   „Viete vy, Ondráš, čo? Pôjdeme my prezerať batohy a drevo, spravíme   lajstre a potom budeme drobnice vyberať. Choďte pre hájnikov.“   Gagačka poškrabal sa za uchom. „Čerti vedia, kde sú hájnici, v ktorej   doline. Tých ja nenájdem, a čo si nohy po kolená zoderiem. Nechajme   my to tak: radšej počkám s tou konvenciou. „No, len choďte. Čože,   var’ vám je tých krpcov ľúto ? Daj mi Bože, krpcov bolo dosť i bude.“   „Ale dnes niet ludí doma, akože budeme po dvoroch chodiť?“ namietal   hajtman. Rychtár, pristúpiac k nemu, oprel si ukazovák o čelo:   „Gagačka, tuto, tuto. Rozum, Dóra!“ Hajtman zostal ako obarený rak,   že rychtár-
+   </tei:p>
+   <tei:p>
+    ﻿92
+   </tei:p>
+   <tei:p>
+    chlapec jemu, v úrade zkúsenému, dáva lekciu a Dorou ho volá.   Vytrhol zpomedzi zubov fajku a ako horúca bola, tak ju chcel do   vrecka vložiť. To bol u neho znak najvyššieho rozhorlenia. Ruka   hľadala kešeňu, no na košeli nenajdúc jej, opäť i s fajkou podniesla   sa k ústam. Rychtár, aby umiernil hajtmanov hnev, pokračoval: „Ba   hej, Ondráš, dvadsať rokov byť v úrade, a predsa sa takto potknúť!   Akurát preto, že niet ľudí doma, treba ísť batohy a drevo popisovať.   A či vám je Túto, že nebude vás mať kto vriacou vodou obariť, alebo   metlou vyhnať?“ Na Gagačku tieto dôvody pôsobily. Vzchopil sa náhle:   „No, už idem, idem. Netreba mne tiež mnoho trúbiť. Idem! Nech potom   večer vykrikujú na nás, že sme chodili po prázdnych dvoroch, ako   zlodeji, že sme chodili vtedy, kecľ sme nikoho nečuli doma. Idem!“   Tak kráča Gagačka dolu blatnatou cestou, vyhľadáva skalky a hupká do   najväčších mláček; krpce a remence, ráno ešte také čisté, sú zafŕkané   blatom. „Chlapec, a nie rychtár; treba tebe rychtárska palica: kúdeľ   a vreteno, nie palica. Štrngaj len šestáčikmi: veď ty vy štrngáš!   Škoda krpcov — no, takýmto blatom sa brodiť o hlade a smäde. Jaj. ale   je, Pane Bože, slniečko! Na roztopenie!“ Hajtman šibol do hájnikovho   dvora. „Jano, k rychtárovi!“ Kedy-netedy svliekol sa so šopy Jano,   poľný hájnik ľupkanovský. Oči denným spánkom napuchlé, medzi   čiernymi, vymastenými vlasmi tu i tu zabodnutá stopka sena. Konečne   sa Gagačku spýtal: coze je?
+   </tei:p>
+   <tei:p>
+    ﻿93
+   </tei:p>
+   <tei:p>
+    „ Čože je ? Len sa opytuj! Pre teba môžu ženy i tú zem odniesť.   Pekný hájnik!“ „Pekný hájnik! Var’ viete niečo do mňa? Vy ste v noci   drychmali a ja som musel po poli sliediť, taký som ja hájnik. To   nemám už ani spať?“ „Nemáš ty krivdy, Janíčko, nemáš. Radšej chod   hľadať lesného hájnika: kde je, čo je.“ „A načo ste vy, Ondráš?“   „Janíčko, chodím a kníšem sa na týchto nohách od božieho rána. Ani si   ich nečujem. Chodže ho pohľadať, chod! Tu ťa dočkám.“ Jano vliekol sa   pre lesného hájnika, za každým druhým krokom zívol, otvoriac ústa,   ako humenné vráta, a zakňučiac ako pes na pazderí. Gagačka za ten čas   sadol si na podstenu a nabíjal fajku. Zápalku vytiahol zpoza remenca   na klobúku. Ked už vo fajke horelo a z úst sa dymilo, složil ruky na   lono a začal žmurkať očami, až, zadriemuc, vyvalil sa na podstenu ako   zhnilý stĺp a začal pravidelne odfukovať. Len ked ho už v jeden bok   dobre vyomínalo, prišli oba hájnici a zobudili ho. No a teraz   nasledovalo to pravé. Rychtár s hajtmanom a oboma hájnikmi chodili z   dvora do dvora, prezerajúc, kto koľko má klátov, rohov, lát a po   šopách koľko majú tam nasušenej noseninytrávy. Docielené výsledky   značil rychtár do dlhého, úzkeho lajstra. A to sú tie drobnice. Podľa   nich každý gazda musí za klát, roh, latu a každý batoh trávy určenú   sumu do obce zaplatiť; z toho sa obecní sluhovia platia. Pán Boh zná,   ako: no Ľupkanovci akosi zavoňali, čo sa po ich dvoroch robí. Akiste   s poľa zazreli, ako hájnici pod cieňou chvojinu a raždie prehadzujú a   pod ním ukryté kláty objavujú. Dedina, predtým akoby vymretá, zrazu   ožila, až sa v nej len tak hmýri. Za úradom chodí tlupa ob-
+   </tei:p>
+   <tei:p>
+    ﻿94
+   </tei:p>
+   <tei:p>
+    čanov; niektorí z nich, čo lepší, i do dvorov sa odvažujú; iní, čo   podlejší, len pred domom na ceste postávajú. V každom dvore bez   výnimky strhne sa svada medzi domácimi a úradom. Katrena Kubovie je   už doma. Nebolo ju treba veľmi z komory vyvolávať: čakala úrad predo   dvermi. „Chvála Bohu, Katrenka, keď si len tu“, posmieval sa jej   hajtman. „Sbehla som s poľa domov, lebo tam ktosi zkričal, že akísi   chlapi prišli do dediny a po dvoroch chodia, aby reku niečo   neukradli...“ odsekla Katra. Rychtár sa začervenal ako ruža. „Máte   kláty?“ pýta sa hájnik. Katra sa robila, ako by nerozumela otázke.   „Ach, a načo by nám boly, keď nedržíme včiel; pravda, máme jeden   klát, ale...“ „A kde je?“ skočí jej rychtár do reči. „Poď ho ukázať.“   „Nuž netreba sa vám ani do ciene ustávať, hen pozrite, sekera je doň   zaťatá.“ „A rohov nemáte?“ vyšetruje ďalej rychtár. Katra sa chytila   za hlavu. „Ach, božechráň! Kým som sa nevydala, nemala som rohov,   lebo by ma nik nebol vzal, a po mi var’ len nenarástly Poľnému   hájnikovi veľmi sa to spáčilo, i nadhodil : „Katrena, ty aby si mala   rohy! To nie. Ale tuto... toto...“ „Kravu máme“, mlela ďalej Katra,   „tá má jeden... dva; dva voly: to sú tri, štyri, päť, šesť... Hej,   tak je: majú šesť rohov.“ Rychtárovi došla trpelivosť, počínalo ho   dopaľovať. „Ty, Katruša, ja viem, že si nie taká sprostá,
+   </tei:p>
+   <tei:p>
+    ﻿95
+   </tei:p>
+   <tei:p>
+    ako sa nazdávaš. Opytujeme sa, koľko máte rohov, nie na hlave, ale   drevených: vieš, čo v hore rastú. “ „Ahá, takých? Nuž a čo ste to   hneď tak nepovedali? To tiež ja z hlavy neviem. Mali ste prísť, keď   mi je starý doma, on by vám to vedel povedať. Mne sa všetko tak vidí,   že ich je sedem alebo osem. “ „Toľko ? A kde sú ?“ pýta sa natešený   rychtár. „Hja, najhoršie je to, že je tam dym. Veď viete, kladiem   oheň, varím poludnie; nuž hej, ako povedám, tie rohy sú tam na pôjde;   ale veru, rychtárik môj radostný, nehodno vám ísť ta.“ Všetci sa   zadivili nad Katrenou, že drevo drží na pôjde. „Ktože to kedy   slýchal: rohy na pôjde! Veď nám dedinu vypáliš. Toto je pekná vec! Čo   tam robia rohy?“ „Bože môj, vy múdri chlapi, čo ste ani len toľko   neviete, ako ja sprostá žena. Čo vraj robia rohy na pôjde! Nuž čo   robia, to robia: držia strechu. No, už viete?“ Rychtár, zahanbený, že   ho Katra za nosom vodí, riekol úradským: „Poďte za mnou!“ A úradskí   šli za ním. Poprehadzovali haluzinu a raždie a pod ním našli klát i   štyri rohy. Neobzerali sa ani na Katrin krik, ale zapísali i to do   lajstra. Vyšli i na šop. Tam na veľkej hŕbe nosenina. Rychfár obrátil   sa k úradským: „Soznajte, koľko je to batohov?“ Každý sa utiahol a   odvrátil od noseniny; ani jeden nechcel mať ostudu s Katrenou, ktorá   tiež vyšla na šop za nimi. Rychtár čaká, čaká úsudok úradských, ale   všade ticho. „No, čože tu stojíme darmo? Nikto nevie rozprávať?“   Hajtman zpoza chrbta rychtárovho prehodil:
+   </tei:p>
+   <tei:p>
+    ﻿96
+   </tei:p>
+   <tei:p>
+    „Dvanásť.“ Uradským odlahlo, ostudu prevzal už hajtman. Nech   Katrena už naň vyvoláva. A ona nechcela ich očakávanie klamať, Jebo   hneď vyvolala: „Dvanásťbatohov! Čo nepoviete hneď dvadsaťštyri : keď   už máte prikladať, priložte hodne. Dvanásť batohov! Veď to odnesiem v   piatich.“ Jano, poľný hájnik, tiež chcel ukázať Katrene, že i na ňom   niečo záleží, preto povedal: „Katrena, toto seno v piatich batohoch   unesieš: to hej, lebo je suché. Pováž si, keby toto bola taká suchá   tráva š lúky, v koľkých batohoch bys’ ju odnosila?“ Katrena,   pocítiac, že Jano trafil klinec na hlavu, pustila naň ohnivú strelu   zo svojich čiernych očú. No nedala sa mu premôcť, ale i proti jeho   múdrosti našla námietku: „Bolo ma vtedy pre noseninu pokutovať, kým   to bola ešte tráva, nie teraz, keď je z nej už seno. Ale tak je to:   hájnik doma spí, do poľa nejde, len kedy-netedy vyteperí sa na šop ku   nosenine a tam od buka do buka háda, koľko kto noseniny má. Takým   hájnikom môžem byť i ja. Ale keď si ty, Jano, hájnik, lap trávnicu na   tráve.“ , „Ale, napíšeme jej desať“, povie rychtár. „Nechže bude   desať“, potvrdili ostatní. Hajtman chcel sa zalíškať Katre, preto,   kým rychtár batohy vpisoval, prehodil: „Hej, najlepšie bude desať.   Veď je zas i jej škoda, i obce je škoda. Ale celá obec nepocíti tak   veľmi krivdu, ako jednotlivec... Nechže bude desať.“ Katra nepovedala   na to ani len slova, len spodnú gambu pohrdlive mu otrčila, ako by mu   chcela povedať: „No, čo ty povieš, to je najmenej. I tak si len piate   koleso a trinásty apoštol.“
+   </tei:p>
+   <tei:p>
+    ﻿97
+   </tei:p>
+   <tei:p>
+    Kým úradskí celú dedinu takto pochodili, slnce nachýlilo sa dobre   k západu, oblejúc zlatou žiarou oproti ležiace pohorie. Obyvatelia   ľupkanovskí už dávno boli doma. I úrad uchýlil sa k rychtárovi.   Výsledok kutania bol složený v dlhom úzkom lajstre. Z neho vysvitalo,   že Ľupkanovci veľmi radi berú z cudzieho majetku. Aby sa to akosi   zamedzilo, sišiel sa celý výbor do porady a usniesli sa na tom, že sa   zakáže na trávu i do hory chodiť. Toto uzavretie mal publikovať   hajtman. „Choďte zakázať do hory a na trávu“, povedal mu rychtár.   Hajtman vstal zpod pece a vytratil sa von. Vyšiel až na koniec dediny   a hneď od kraja vážnym, zachrípnutým hlasom volal: „Na trá-vu a do   ho-ry ne-pô-jdeš ni-kde von-kon-com a-ni je-dna; ktorá sa opovážiš,   rímsky striebra pokuty ťa neminie.“ Týchto pár ostatných slov   nevyslovoval sekano, tak ako prvé, ale chytro, až ich mal plné ústa.   Takýto bol úradný štýl v ILupkanovej. Azda v minulom storočí sa tiež   takto zakazovalo na trávu a do hory. Táto formula i ten spôsob, akým   sa odriekala, ústnym podaním prechodily s jedného hajtmana na druhého   asi tak, ako rychtárska tabuľka. Občania ľupkanovskí zasa tak   privykli na vyhrážku, ku koncu zákazu prilepenú, že ju viacr nedržali   za vyhrážku, ale za cifru na zaokrúhlenie periódy potrebnú. Oni   mysleli, že tá cifra tam musí byť tak. ako na každom dobrom tatarci   pletená šnúra so srsťou, aby sa mohlo dobre plieskať. Náš hajtman   Ondráš Gagačka nie darmo je dvadsať rokov hajtmanom. Vedel tak dobre   zakazovať — bez bubna, bez trúby, a predsa každý ho musel rozumieť.   Ešte bol len na kraji dediny, a jeho hlas už počuli i tam okolo   kostola. Ako zavznel jeho hlas, každý vybehol na ulicu, aby
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy X. 7
+   </tei:p>
+   <tei:p>
+    ﻿98
+   </tei:p>
+   <tei:p>
+    počul, čo sa* od úradu nariaďuje. A Gagačka volal múdre,   prezretelne. On si rozdelil Ľupkanovú na dvanásť okresov, v každom   okrese zavolal raz, a už bolo dosť a dosť, každý človek mohol už   potom počuť. Ale on nevolal hocikde: on už mal isté domy, pred   ktorými zastal, a obrátiac tvár dolu dedinou, akoby do vetra zavolal:   „Na trá-vu a do ho-ry ne-pô-jdeš ni-kde vonkon-com a-ni je-dna; ktorá   sa opovážiš, rímsky striebra pokuty ťa neminie.“ Mara Zubatá trochu   neskoršie vybehla na preddomie i nedopočula prvú čiastku periódy, len   stereotypnú vyhrážku; zavolala tedy na hajtmana: „Čo ste to   zakazovali?“ Hajtman Gagačka pokladal za ponižujúce dávať vývody   kadejakým Marám Zubatým, vývody zo svojej úradnej činnosti, preto   nakrátko ju odbavil: „Dva razy nebudeme kázať!“ „Ale, Ondrejko: nože,   no, povedzteže, povedzte.“ „Keď tak, nuž tak, teraz ti len poviem,   ale viac nikdy...“ „Nuž a čo?“ „Ale, Marienka moja, to, že zajtra   budú hluchých páliť“, a Gagačka kráčal o jednu stanicu ďalej. ,   Príduc pred Strapáňovský dom, začal: „Na trá-vu a do ho-ry ne-pôj   Nemohol dokončiť. Pred Strapáňovci obecný potok, tvorí hlbočinu, na   ktorej vše bývajú husi. Tak i dnes, idúc s paše, zastavily sa na   tejto hlbočine a kúpajú sa tam. Keď počuly však mocný hlas Gagačkov,   i ony chcely ukázať svoj a prekričaly hajtmana, ktorý poslucháčov   nechal poslucháčmi a podišiel o stanicu ďalej. Po odbavení práce   hajtman kráčal do rychtárskeho domu. Tešil sa, že konečne si už   oddýchne.
+   </tei:p>
+   <tei:p>
+    ﻿99
+   </tei:p>
+   <tei:p>
+    No mýlil sa. Sotva vstúpil do rychtárskej izby, už mu rychtár   rozkázal: „Svolajte chlapov, ideme striekačku probovaf.“ „Ach, veď sa   máš tolko s tvojimi striekačkami“, pomyslel si hajtman a pobral sa do   dediny a kde akého chlapa našiel, volal ho ku striekačke. No okrem   volaných bolo ešte viac nevolaných, menovite detí a väčších-menších   parobkov. Tu bola vhodná príležitosť na zrelé i nezrelé kúsky.   Striekačku vytiahli na cestu, naplnili vodou. Sídení chlapi ťahali   sochor hore-dolu a .napumpovaná1 voda mohutným prúdom striekala vyše   dedinských domčekov. Hajtman nič iného nerobil, len okolo striekačky   obchodil a na to dával pozor, aby chlapci nevyňali z nej lônik; keď   chlapci priveľmi sblížili sa ku striekačke a robili tam krik a lomoz,   ako v Sodome, Gagačka figliarsky žmurkol na poľného hájnika Jana,   teraz regulátora striekačky, a Jano, figliar od kosti, porozumel tomu   a rýchle skrútil cievu do chlapcov, tak že voda mocným prúdom padala   na nich. Razom na strelenie celý priestor zostal čistý. Chlapci ako   myši mokrí rozutekali sa. Tak striekačka sprobovaná, opravená a   olejom pomastená bola. Súsedi ju potom vstrčili do kôlne, ktorá stála   osamele niže dediny. No a po takých mnohých prácach a ustávaní úrad   pobral sa k Abrahámovi, aby si i hrdlo pomastil a zahasil večitý   smäd. Gagačka bol i tu — hajtmanom. Posluhoval verne, rozdával   pozorne, delil rozšafné a spravedlive, a na seba tiež nezabudol.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

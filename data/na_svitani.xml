@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1885950" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Na svitaní : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2792
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Na svitaní
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na svitaní.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿Dedina ponorená je v najlepšom spánku; ešte i vtáčky si   odpočívajú, len kohút tu i tu zaspieva. Dnes je nedeľa, nuž naši   občania pripustili si k srdcu, že nesvobodno robiť. Ach, veď sa   človek dosť cez ten celý týždeň nakýva; či sa mu nezíde, aby si aspoň   v nedeľu odpočinul ? No nie tak súsed Bradovica. Ten sa riadne   prebudil, keď ešte len brieždilo, a dľa obyčaje, ako počul kohúta   zakikiríkať, skočil na rovné nohy.
+   </tei:p>
+   <tei:p>
+    »Ťaj, ale som zaspal, no!« a vliezol si všetkými desiatimi prstami   do hustej štice a mykal ju sem-ta, až mu čupriny len tak prašfaly. No   v tom zočil ženu ešte v posteli, ako si odfukuje. Zhrozil sa nad tým   a počal ju budiť:
+   </tei:p>
+   <tei:p>
+    »Nuž ale to nenie pád? Žofa, čože myslíš? He, ale sa dvíhaš;   nevieš, že si už mala byť medzi jarky na tráve ?«
+   </tei:p>
+   <tei:p>
+    Žofia sa ani nepohla; ležala ako zarezaná a odfukovala si až milá   vec. Tu muž pristúpi k nej a položí jej ruku na plece:
+   </tei:p>
+   <tei:p>
+    »Nuž ale si hluchá, či čo? Čože sa nepoberáš do roboty? Či chceš,   aby ti všetko sožali? Na moj’ pravdu, nedostane sa ti už ani   chlpa!«
+   </tei:p>
+   <tei:p>
+    ﻿158
+   </tei:p>
+   <tei:p>
+    Žofia zostala ležať, len tvár obrátila k mužovi a triezvym, celkom   takým hlasom, ako nerozospatí ľudia, zahriakla ho:
+   </tei:p>
+   <tei:p>
+    »Čo ono len chce, čo to zas máta? Mátožisko! Ideš ho drichmať?   Večer sa ti vodácka s kadejakými kupci, na rohy naberie viac, než   unesie, a potom ráno, keď mu to nedá spať, alebo keď sa mu rozum   čistí, zobudí ťa nemilobohu, ustatú stvoru. Nuž ale už nemáš rozumu   ani za dieťa ?«
+   </tei:p>
+   <tei:p>
+    »No, robže dobre, rob, hriešny človeče, pri takejto strigel Keď ju   nezobudíš, celý deň ti bude do hlavy leteť; keď ju zas budíš, nuž ťa   takto okríkne. A toto je tá gazdiná, čo so sliepkami vstáva! F u   j!«
+   </tei:p>
+   <tei:p>
+    »Aleže ho čuš, ak chceš, a nepohoršuj človeka aspoň dnes. Ľahni si   a spi!«
+   </tei:p>
+   <tei:p>
+    »Nuž ale ja spať? Akože by ja spal, keď máme pne kálať!«
+   </tei:p>
+   <tei:p>
+    »Veru, iba ak svoju kostrbatú hlavu budeš kálať! Veď povedám, že   sa mu rozum čistí. No, ty mudrc, slýchal si kedy, aby bol kto v   nedeľu pne kálal? No, povedz len, povedz, ty pochábeľ!«
+   </tei:p>
+   <tei:p>
+    »No, veď je tak!« A súsed Bradovica udrel sa do čela. »Óvy-óvy,   keď som na to zabudol, ako na smrť; ale celkom zabudol. Ja, že je   pondelok!«
+   </tei:p>
+   <tei:p>
+    A naozaj tak sa mu pozdávalo, keď sa prebudil; lebo včera nerobil   nič, ako by bola
+   </tei:p>
+   <tei:p>
+    ﻿159
+   </tei:p>
+   <tei:p>
+    bývala nedeľa. Do dediny prišli kupci voly kupovať. On bol s nimi   ako rodina, musel s nimi celý deň chodiť po gazdoch a pomáhať im pri   jednaní. Dostalo sa mu pritom hodne i z oldomášov, a tak nie div, že   sa mu trochu hlava pomiatla. No Žofia nechcela mu to uznať, len ďalej   doň:
+   </tei:p>
+   <tei:p>
+    »Akýže si kresťan, čo nevieš ani, čo bolo včera, ani čo je dnes.   Najhoršie, keď človeka zbudí z najchutnejšieho sna. Teraz už   nezaspím, a čo by mi oči zalepil.«
+   </tei:p>
+   <tei:p>
+    A Žofia naozaj sbierala sa s postele, vzdor mužovým domluvám,   ktorý naopak, potešený, že je nedeľa, ukladal sa do postele a o   chvíľu dýchal už riadne, ako by spal. No nešlo to ani jemu hneď tak   od ruky. Musel sa najprv utíšiť, aby sa mu myseľ upokojila a mozog   prestal pracovať. Žofia zas nahnevaná obliekala sa a nechcela mu   prepáčiť, že ju tak zo sna vyburcoval, a on sa znovu uložil.
+   </tei:p>
+   <tei:p>
+    »Oplanisko, on bude drichmať, aja sa musím po dome tmoliť, ako   sova. Nič mi nepomôže, ani ako mak, len mi protiveň robí.«
+   </tei:p>
+   <tei:p>
+    Ona to len tak popod nos fufnala, tak že jej muž to len trochu   počul, a preto nemusel sa s ňou pustiť do hádky. Pomyslel si:   »Hundri, koľko chceš; len keď si ja odpočiniem. Len to by mi ešte   bolo treba, aby som sa na lačný žalúdok pustil s tebou do vady. Aj   tak mi je hlava ťažká, ako cent, ©d tých včerajších oldomášov.«
+   </tei:p>
+   <tei:p>
+    ﻿160
+   </tei:p>
+   <tei:p>
+    A, popraviac si hlavnice, vzdychnul, ako by mienil spať ešte aspoň   len dve hodiny.
+   </tei:p>
+   <tei:p>
+    Žena medzitým rozložila pod kozubom oheň a nahnevaná tu i tu šibla   okom ku posteli a na uveličenú tvár mužovu. Konečne ju to omrzelo:   »Keď si ty zduril mňa, zdurím i ja teba« — začala čosi po izbe   shľadúvať. Poprehadzovala všetko, po laviciach i na stole; vytiahla i   podstolie a hľadala i v najostatnejšom kúte; no, tak sa zdá, hľadanej   veci nenašla.
+   </tei:p>
+   <tei:p>
+    »Len kde je ten kľúč, ani čo by sa bol prepadol. To je už nie po   dobrom. Hm, hm«, a šla ku posteli, v ktorej gazda ležal, a tam v   kútikoch preberala slamu, ba i pod hlavnicu vstrčiac ruku, podvihla   hlavu mužovu, ktorému akurát počal sen vôkol očú obletúvať.
+   </tei:p>
+   <tei:p>
+    Prebudený Jano sa rozhneval a okríkol ju:
+   </tei:p>
+   <tei:p>
+    »Čo mi tu šuchorí pod hlavou? Ale ja nebudem mať pre teba ani   noci, ani dňa? Choď odo mňa, ak chceš, lebo ti hneď ukážem!«
+   </tei:p>
+   <tei:p>
+    »Pozriteže ho, ako sa nafúkalo! Azda ani kľúča nemám hľadať pre   teba. Môj milý pán! I tak si ho iba ty zatrátoril, nik iný. A keď si   ho hľadáš, nuž ťa okríkne, ako opitú!«
+   </tei:p>
+   <tei:p>
+    »AIe, dievčička, daj mi pokoj, nech si aspoň v tú Božiu nedeľu   odpočiniem. Kľúča tu nemáš; veď vieš, že tu nebýva.«
+   </tei:p>
+   <tei:p>
+    »Nuž a kdeže by bol, iba ak je pod povalou. Vstaňže, vstaň, a   načiahni sa ta na trám, iste ho tam nájdeš.«
+   </tei:p>
+   <tei:p>
+    ﻿161
+   </tei:p>
+   <tei:p>
+    Bradovica so zúfalou tvárou vstal, lebo nahliadol, že darmo sa   bude s ňou priečiť a že si spánok iba tým väčšmi rozoženie. Prehľadal   celý trám, od jedného kraja k druhému, ale nenašiel ničoho. Kľúč sa   ztratil, ako ihla, nikde o ňom ani chýru, ani slychu.
+   </tei:p>
+   <tei:p>
+    »No, kdeže ti je, kde? Už som všetko prehľadal, a nikde ho   nemáš.«
+   </tei:p>
+   <tei:p>
+    A zas sa uložil do postele. Ale Žofia, ako by jej niečo nového   bolo na um zišlo, prikročí k nemu a zobúdza ho:
+   </tei:p>
+   <tei:p>
+    »Jano, vstaň, kľúč je hen, nado dvermi. Včera si ho ta vyložil na   poličku. Choď mi ho sňať.«
+   </tei:p>
+   <tei:p>
+    »Ja že som ho vyložil? Ja n i e!«
+   </tei:p>
+   <tei:p>
+    »Nuž ale máš takú kuraciu pamäť? Nevieš, keď si od kupcov s   oldomášu prišiel, že si ho ta vyložil ?«
+   </tei:p>
+   <tei:p>
+    »Dobre; buď rada, že som ti ho vyložil, nie to ešte aby som ti ho   i sňal. Snímaj si ho sama!«
+   </tei:p>
+   <tei:p>
+    »Ja nedočiahnem nado dvere; vieš, že som malá.«
+   </tei:p>
+   <tei:p>
+    »Bolo ti byť väčšou! Keď si malá, staň si na stoličku.«
+   </tei:p>
+   <tei:p>
+    »Na stoličke je vrece s múkou, poď mi ho složiť.«
+   </tei:p>
+   <tei:p>
+    »Choď si teda pre rebrík, a mne daj pokoj!«
+   </tei:p>
+   <tei:p>
+    A Jano obrátil sa k stene, že zaspí. Ale horký jeho zaspal. Žena   prišla k nemu a, chytiac ho za plece, budila ho:
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy III. 11
+   </tei:p>
+   <tei:p>
+    ﻿162
+   </tei:p>
+   <tei:p>
+    »Jano. . .Jano! Počuješ? Jano!« A zadrmala ním, že sa celá posteľ   striasla.
+   </tei:p>
+   <tei:p>
+    Bradovica shodil perinu so seba a nasrdený okríknul ju:
+   </tei:p>
+   <tei:p>
+    »Čo chceš ? Ale ja už celkom nebudem spať?«
+   </tei:p>
+   <tei:p>
+    »Nože sa nehnevaj a maj trochu strpenia. Sním mi ten kľúč, a   potom, ak chceš, spi i do súdneho dňa.«
+   </tei:p>
+   <tei:p>
+    »Hej, to viem, že by si bola rada, keby som ti zaspal tak do   súdneho dňa! Ale si musíš ešte dočkať.«
+   </tei:p>
+   <tei:p>
+    A už sa načahoval nado dvere za kľúčom. Konečne vybuchlo z   neho:
+   </tei:p>
+   <tei:p>
+    »No, ani tu nič. Ja len neviem, čo robí vždy s tými kľúčmi. Ak ich   už raz nebudeš mať v poriadku, dám ti ich na nos prikovať. Ty   gazdiná!«
+   </tei:p>
+   <tei:p>
+    »Nuž ale mne? To som si zaslúžila? Ach, ja nešťastná stvora!«
+   </tei:p>
+   <tei:p>
+    »Ba je pravda; už čo moc, to moc. Len kde je? Ty, ak ho ja začnem   hľadať, nuž ho i nájdem. Ale potom ti beda!«
+   </tei:p>
+   <tei:p>
+    A Jano začal chodiť po izbe a poprehadzoval zas na líce všetky   veci, ktoré ona pred chvíľou prehodila na opak: no kľúča nikde nič,   ani čo by sa raz bol prepadol.
+   </tei:p>
+   <tei:p>
+    »Nuž ale toto nie posmech? Gazdiná — a takýto poriadok v dome;   hanbil by som sa!«
+   </tei:p>
+   <tei:p>
+    »Akože mám mať poriadok, keď v sobotu musím všetko i za teba   odbaviť. Ty sa motáš
+   </tei:p>
+   <tei:p>
+    ﻿163
+   </tei:p>
+   <tei:p>
+    s kupci po dedine, a ja musím všetek statok odraziť i nakŕmiť. Ani   jedna žena nevystojí to, čo ja.«
+   </tei:p>
+   <tei:p>
+    »To sa mi len včera raz pridalo, a už toľkýto krik preto! Nuž a   toto čože je, há? Ty, ty, ty... slepaňa! Prevráti celý dom čím hore,   tým dolu, muža o tretej zobudí, kľúč hľadá dve hodiny, a ten jej visí   za pásom. Ale si oslepla? Pozriže, koľký je; dobre, že ti oči   nevyklal!«
+   </tei:p>
+   <tei:p>
+    »Ba veru tebe! Už hodinu pozeráš na mňa a nemohol si ho hneď   zazreť. Ale tak je to, ked má človek slepené oči po pijatyke.«
+   </tei:p>
+   <tei:p>
+    »Ale mi ho mlč! Celkom si taká, ako tvoj chýrny brat; ale celkom,   ani čo by si mu bola z oka vypadla; len ti zatúkať!«
+   </tei:p>
+   <tei:p>
+    Žofia, keď počula spomínať brata, tresla dvermi a vyšla von.   Bradovica zas uvelebil sa do postele, v nádeji, že si už teraz dobre   pospí.
+   </tei:p>
+   <tei:p>
+    Žofia medzitým vyšla na dvor, odvrávajúc si: »Veru som ako brat!   Keby som nebola vedela, kde mi je kľúč. Len zaspi, veď ty zas   vstaneš. Hneď ti zatúkam.«
+   </tei:p>
+   <tei:p>
+    Žofin brat, Ondráš Durina, bol obecným hlásnikom. Raz v zime, keď   mal od polnoci hlásiť, zaspal. Prišiel k nemu nočný dozorca a   zaklopal na oblok:
+   </tei:p>
+   <tei:p>
+    »Vstávaš, ty leňoch ! Ktože bude za tebou noc po noc chodiť? Len   sa ho nepoberaj hupkom; uvidíš, čo sa ti stane.«
+   </tei:p>
+   <tei:p>
+    Ondráš Durina skočil, ako vojak, a napo-
+   </tei:p>
+   <tei:p>
+    11*
+   </tei:p>
+   <tei:p>
+    ﻿164
+   </tei:p>
+   <tei:p>
+    náhle pohádzal šaty na seba. Vyšiel von, aby dozorcu pustil do   izby, lebo vonku bol mráz, až uhly prašťaly. Pod chvíľou bol hotový,   len ísť, i lampáš mal v ruke, ale nerozžatý, i klobúk na hlave,   halapartňa bola opretá v pitvore za dvermi, a Ondráš predsa sa   nehýbal. Dozorcu to omrzelo i ohlási sa konečne:
+   </tei:p>
+   <tei:p>
+    »A čože sa tu tmolíš, čože už nejdeš ?«
+   </tei:p>
+   <tei:p>
+    »Keď nemôžem nájsť... toto... hľadám, no... toto, ach, keď mi   nemôže na um zísť, ako sa to volá.«
+   </tei:p>
+   <tei:p>
+    »Nuž a čože je? Čo to nemôžeš nájsť?«
+   </tei:p>
+   <tei:p>
+    »Veď keď mi nechce na um zísť. . . no, bodajže ho i s takým   rozumom... len to! som ho vedel, a teraz... nedaj Bože! Ach, ako sa   mi po jazyku pletie.«
+   </tei:p>
+   <tei:p>
+    »Ktože sa s tebou shovorí? Hľadá, a nevie, čo! Veď už len aspoň   povedz, čo je? Halapartňa ?«
+   </tei:p>
+   <tei:p>
+    »Ale horký, tá je v pitvore.«
+   </tei:p>
+   <tei:p>
+    »Lampáš ?«
+   </tei:p>
+   <tei:p>
+    »Ach, čo by — ten mám v ruke.«
+   </tei:p>
+   <tei:p>
+    »Nuž čo tedy hľadáš?
+   </tei:p>
+   <tei:p>
+    »Ale také, no. . . na ňom sa tak robí: túúú, túúú, túúú!«
+   </tei:p>
+   <tei:p>
+    »Iba ak trúba.«
+   </tei:p>
+   <tei:p>
+    »No, hej, trúba! Keď mi tak nezišla na um. Hej, trúba! Tá, neviem,   kde mi je.«
+   </tei:p>
+   <tei:p>
+    »A čo nezažneš svetlo. Veď potme jej nenamaciaš. Zažni, ale   chytro!«
+   </tei:p>
+   <tei:p>
+    ﻿165
+   </tei:p>
+   <tei:p>
+    Zažali lampáš, a hľa, dozorca hneď skríkol:
+   </tei:p>
+   <tei:p>
+    »No, ty mamľas, pozri, tu ti je!«
+   </tei:p>
+   <tei:p>
+    A naozaj, trúba okolo hrdla prevesená visela mu pod pazuchou. To   sa hneď v druhý deň roznieslo po dedine a Ondráš Durina nevolal sa   viac Durinom, ale Ondrášom Tú-tú.
+   </tei:p>
+   <tei:p>
+    Na vyšnom konci dediny počuť tatarcom pukať. To kraviar ide   zajímať, a preto ženy berú šechtáre a idú kravy dojiť. Žofia tiež už   podojila i precedila mlieko. Už len kravy vyhnať. No, ale čo má stáť   bez roboty pred vrátmi: ešte ju ľudia nejakou ledačinou urobia, že   len klebetí a bez roboty postáva. Radšej vojde k Janovi do izby a   pozre, čo robí. Ten spal chutne, ako v oleji, až to Žofu nevdojak   bodlo.
+   </tei:p>
+   <tei:p>
+    »Počkaj, dám ti brata hneď«, a pristúpiac k nemu, zobúdzala   ho.
+   </tei:p>
+   <tei:p>
+    »Jano, počuješ ? Už zas spí, ako klát! Jano!«
+   </tei:p>
+   <tei:p>
+    Bradovica pozrel na ňu ospalými očami a okríkol ju:
+   </tei:p>
+   <tei:p>
+    »No, čože je už? Ľúto ti je, že som si zas zdriemnul ako mak? No,   čo chceš ?«
+   </tei:p>
+   <tei:p>
+    »Už kravy zajíma, a ešte som ich nepodojila.«
+   </tei:p>
+   <tei:p>
+    »Nuž a čo robíš? Veď som ťa, chvalabohu, dosť včas zobudil. Či   chceš, aby som ich ja šiel dojiť ?«
+   </tei:p>
+   <tei:p>
+    »To nie, ale mi nechcú púšfaf.«
+   </tei:p>
+   <tei:p>
+    »To mne azda skôr pustia, že tebe? Čo im nedáš lepšej trávy ?«
+   </tei:p>
+   <tei:p>
+    ﻿166
+   </tei:p>
+   <tei:p>
+    »Veď som im dala, a nechcú ju žrať.«
+   </tei:p>
+   <tei:p>
+    »Ale daj im sena, a mňa nechaj na pokoji.«
+   </tei:p>
+   <tei:p>
+    »Veď som im pošla pre seno na šop, ale tam nemáš rebríka:   pristavený je na vôdor.« »Nuž a ktože ho zas ta pristavil? Čo ste   robili na vôdre?«
+   </tei:p>
+   <tei:p>
+    »Pre pána Jána, on ho ta pristaví a opytuje sa, kto mal s ním   robotu! Nevieš, že si zavčerom ta vykladal šošovicu? No, už ty máš   kuraciu pamäť!«
+   </tei:p>
+   <tei:p>
+    »Nie div. Ja som sprostý človek, ale pri tebe by každý mudrc   osprostel.«
+   </tei:p>
+   <tei:p>
+    A Jano obrátil sa zas k stene; no Žofia začala naň volať:
+   </tei:p>
+   <tei:p>
+    »Jano... Jano! Ale si sa ešte nenaspal? Človeče, nespi toľko, oči   ti vytečú.«
+   </tei:p>
+   <tei:p>
+    Nahnevaný Jano sadne si na posteľ a pýta sa:
+   </tei:p>
+   <tei:p>
+    »Čo ti chybí, vrav!«
+   </tei:p>
+   <tei:p>
+    »Poď mi ten rebrík pristaviť na šop. Vieš, že ho ja   neuvládzem.«
+   </tei:p>
+   <tei:p>
+    »Ach, veru nejdem. To už nie! Za nič nejdem!«
+   </tei:p>
+   <tei:p>
+    »Dobre, nechoď; ale keď ti kravy ztratia mlieko, nebude mojou   vinou. Dobre; chcela som ti na ráno uvariť rezancov s preváraným   mliekom; ale takto neviem, čo budeš jesť. Ja veru nedbám, pre mňa   môžeš i labu lízať.«
+   </tei:p>
+   <tei:p>
+    Rezance s preváraným mliekom! Hm — to je čosi. Jano porozmýšľal a   potom horko-ťažko
+   </tei:p>
+   <tei:p>
+    ﻿167
+   </tei:p>
+   <tei:p>
+    sošmotlal sa s teplej postele a šiel pristaviť nešťastný rebrík.   Žena sa z pitvora smiala za ním. Keď i to vykonal, s vážnou tvárou   ukladal sa do postele.
+   </tei:p>
+   <tei:p>
+    »Ale ti je ešte málo? Bojíš sa, že ti tá posteľ utečie? Vstaň, už   kravy ženú.«
+   </tei:p>
+   <tei:p>
+    »Keď ženú, nech ženú. Mňa azda len nezajmú s nimi.«
+   </tei:p>
+   <tei:p>
+    »I volom treba pohodiť niečo.«
+   </tei:p>
+   <tei:p>
+    »Pohoď im už niekedy aj ty. Tvoje sú tak, ako moje.«
+   </tei:p>
+   <tei:p>
+    »Mňa pokolú. Vieš, že Turoň hneď letí do ženy, ako ju zazre. Len   si to odbav ty sám, potom budeš mlieko mútiť.«
+   </tei:p>
+   <tei:p>
+    »Ale ja? A načo? Daj mi s tvojím mliekom pokoj.«
+   </tei:p>
+   <tei:p>
+    »Aha, teraz mu dať s mliekom pokoj! Keď treba mútiť, vtedy mu je   ,tvoje mlieko, ale keď treba na rohy, vtedy vieš ísť do vedra a   vziať i pol funta z neho. Veď si ho ty všetko vymiňal. Ale to ti   povedám, že vo vedre už nemáš masla ani ako hrach. A sadla tvojim   volom na rohy veru tiež nedám, ani slaniny, a čo sa hneď na kolomaž   rozleješ. Nie ver’ ja — aby som ja mútila, ruky si trhala a maslo aby   mi ledakto míňal.«
+   </tei:p>
+   <tei:p>
+    Hm, nemať masla na rohy volom, to by bola pokuta. Radšej nech ho   niet na haluškách alebo pirohoch, len nech jest volom na rohy. A to   Janovi nesmierne zaľahlo v hlave. Ako by
+   </tei:p>
+   <tei:p>
+    ﻿168
+   </tei:p>
+   <tei:p>
+    sa zajtra hanbil, keby jeho voly malý suché rohy! To nie, to   nedopustí, radšej nebude spať. Už chcel vstať, v tom mu čosi dobrého   zišlo na um, čoho sa zachytil, ako topiaci sa britvy.
+   </tei:p>
+   <tei:p>
+    »Aby si ty nemala masla, to neuverím, a čo mi hneď dušu na dlaň   položíš, iba keď mi prázdne vedrá ukážeš. Veď kdeže by sa i dievalo   toťké maslo! Mútiš skoro každý deň, nie nás je v dome mnoho; iba ak   by sme ho čisté jedli.«
+   </tei:p>
+   <tei:p>
+    »Dobre; keď neveríš, ukážem ti všetky vedrá. Keď sa už máme   dochodiť, dochoďmeže sa celkom. Poď, ukážem ti vedrá, že sú čisté,   ako sklo, a že niet v nich ani len za necheť masla.«
+   </tei:p>
+   <tei:p>
+    Janovi sa to zas znepáčilo, lebo by musel z postele vstávať; preto   mierne jej kázal:
+   </tei:p>
+   <tei:p>
+    »No, len choď pre ne a dones mi ich sem, aby som ich na svoje   vlastné oči videl: lebo čo oči vidia, to srdce uverí.«
+   </tei:p>
+   <tei:p>
+    »Keby som ja až na policu dočiahla! Ale ja nedočiahnem, keď som   malá. Poď mi ich sám popodávať.«
+   </tei:p>
+   <tei:p>
+    »No, keď si len taká malá, nadlož si jazyka a výndeš po ňom i na   vežu. Máš ho, chvalabohu, dosť hodný. 1 za desať iných.«
+   </tei:p>
+   <tei:p>
+    »No, len hybaj, aby si na vlastné oči videl, zkade budú vedrá; aby   si potom nepovedal, že ti prázdne ukazujem a plné poskrývam. Tam ich   vidíš všetky rad-radom.«
+   </tei:p>
+   <tei:p>
+    »Ale keď raz poviem, že nejdem, nuž nejdem.
+   </tei:p>
+   <tei:p>
+    ﻿169
+   </tei:p>
+   <tei:p>
+    Máš tam operací stolec, podstav si ho a složíš, ak chceš, celú   policu.«
+   </tei:p>
+   <tei:p>
+    »Ta sa nemôže stolec pristaviť, lebo pod policou sú sudy s   kapustou. Ja neodstúpim ztadiaľto, kým nepôjdeš sám si to obzreť. Len   sa obleč, potom budeš mlieko mútiť.
+   </tei:p>
+   <tei:p>
+    Jano voľky-nevoľky zase len vstal a hneď sa i obliekol, aby ho už   nič do postele nesviedlo. Žofa rástla od radosti, že keď on zobudil   ju, ona zas zobudila jeho. Voviedla ho do komory a za chrbtom sa mu   smiala, keď vedierka jedno za druhým otváral a všetky boly čisté,   vyparené, ako by v nich masla nikdy nebolo bývalo. Po tejto smutnej   prehliadke uznal, že ak chcé volom rohy mastiť, musí najprv mlieko   zmútiť; i posošil sa, popľul si dlane a chytil sa do nemilej práce.   Žofa sa vôkol neho vrtela a usmievala sa mu, ako po prvej ohláške — a   on? Chudák, čo mal robiť? Usmieval sa vám tiež na ňu a mútil, až sa   mlieko v dbanke búrilo a popri vrchnáku kypelo. Hja, to všetko k vôli   rohom. Blázon, nemohol si pozreť v sypárni do škrine? Tam jest dosť   masla na rohy volom i — tebe.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

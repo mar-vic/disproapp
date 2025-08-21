@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1892951" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Dve cesty : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     13069
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Dve cesty
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1892
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Dve cesty
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿I.
+   </tei:p>
+   <tei:p>
+    v f Duro Michna, rychtar obce Poloma, zavesil zbožovú kosu na klin   v pitvore. Potmoliac sa po izbe, či nezazre nejaké čerstvé písmo od   slúžnovského úradu, a nenajdúc nič takého, vyšiel do dvora. „Ah!“   zíva si od srdca, hladiac si pravé rameno, od kosy ustaté.   „Chvalabohu, že nič neprišlo. Aspoň skosím zajtra ten jačmeň konča   lúky.“ Sadá si na kamennú podstenu, sotva vychladnutú od slnca, ktoré   celé odpoludnie pražilo na ňu. Deň bol horúci, ak}!- si len môže   gazda žičiť na pokosené obile. Zapálené na západe červánky hádžu na   protejší vrch záplavu zlatého svetla, ale i radosť do rychtárovej   duše. Znamenajú, že pohoda táto potrvá, a ak dá Boh zdravia, zbožie   za sucha príde do záčina. Nieto teda starosti. Preto i Michna   vytiahol svoju drobnú pipku, napchal dohánom a zakresal do nej. Pri   fajočke oddych je sladký. Z pitvora vyšla žena, tiež už obstarná, ale   ešte mocná a, ako vidno, zdravá. Iba tvár čo je posiata vráskami, i   zpod bieleho čepca vyzerajú vlasy šedinami dobre premiechané.
+   </tei:p>
+   <tei:p>
+    „Akože, starý: upiecť niečo do tých Ľuptákov? pýta sa, utierajúc   si dlane o belasú zásteru. „ILuptáčlca včera roznosila radostník.“   „Keď nás volajú, akože nepôjdeš. Len upeč! „Veď hej! Ale tiež   nemuseli to robiť v najtvrdšiu robotu. Mohli Ondra pekne o fašiangoch   oženiť. Bol by teraz pokoj. Alebo už počkať do jesene.“ „Nuž o   fašiangoch sa to vraj neukazovalo
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    ﻿116
+   </tei:p>
+   <tei:p>
+    na svadbu. Do jesene odkladať zas im neprichodí. Poľa moc,   čeliadky málo, bez nevesty ťažko. Preto sa sponáhľali. Veselie   beztoho bude iba deň trvať. Na tri dni by im teraz nik nešiel. Nuž a   za ten deň toľko azda nezameškáme. A keď je to Lupták, akože by sme   nešli: veď je i notáriuš, i človek dobrý. I ona je takto stvora   veľmi poriadna. „Ja nemám nič proti nim. božechráň! A.le ako ta   pôjdem — to! Srdce mi pukne, keď zazrem toho Ondrejka ísť pred   oltár...“ Brada sa jej potrháva, ústa uťahujú a dolu opáleným lícom   tečie jarok slz. I zásterku drží na tvári. Muž sa zamračil, pustil   pár neobyčajne hustých oblakov a vložil tvár do dlaní. „Ako by ho   dosial videla: stáli jeden pri druhom pred oltárom, keď šli prvý raz   ku svätej spovedi. Náš Jurko za všetkých odpytoval. Ahšetko sa   pustilo do plaču, keď začal hovoriť. A mne srdce rástlo. Všetci   vrstovníci dorástli, idú sa ženiť: iba môj Jurko, nebožiatko ... Ach,   aké to bolo dieťa podarené: a nič, nič — muselo ísť!“
+   </tei:p>
+   <tei:p>
+    Muž sa mračí, ale nie bez pohnutia slucha ženine reči. Stojí mu   pred očima šuhaj, štíhly, ako mladá jedla, červený v tvári. Vidí ho,   ako kráča po prvý raz do ( I syn je hrdý, že konečne sa   dostal k , chlapskej robote — i otec, že má koho postaviť na postať.   S akou zbožnosťou sa prežehnal otec, keď si zastali na úvrate lánu,   na ktorom narástol jačmeň ani múr. I gazdovstvo sa rozmohlo — i   pribudla doň nová, pružná sila, ktorá bude tým mocnejšia, čím on   väčšmi bude oslabievať. Má sa na koho spustiť, má. Budúcnosť je   zaistená... Ako sa to všetko porúčalo! „Hja — poručenobohu, vetí   pomedzi zuby, stiesneným hlasom. Ledva môže ututlať ťažký vzdych. A   musí sa prevládať, ženu by len rozžialil nadarmo.
+   </tei:p>
+   <tei:p>
+    ﻿117
+   </tei:p>
+   <tei:p>
+    „Veď ty vždy tak: poručenobohu a proti smrti niet lekára... Ty si   ver’ neublížiš“, vyčíta mu ona. „Ty si ani za života moc nezakladal   na ňom. I okríkol si ho neraz, nebožiatko.“
+   </tei:p>
+   <tei:p>
+    „Vieš, to je takto: otec, koho miluje, toho tresce. Tak i ja. I v   slove Božom tak stojí. A čo mám iné povedať, ako poručenobohu ? Na   Boha s kyjom nepôjdem, keď to bola jeho vôľa. Najlepšie Bohu poručiť,   srdce by sa darmo zožieralo. Takto mám aspoň potechu, že vôľa Božia   bola taká a že sa stala.“ „To už viem!* ozvala sa trpko, „Veď Božia!   Ale prečo zpomedzi šestnástich vrstovníkov iba pri mojom bola taká?   Prečo len na mňa prišiel tento kríž? Vari som horšia od iných? Alebo   som v niečom veľmi, veľmi zhrešila? Suchánka má osmoro detí. Čo sa   narúha* proti Hospodinu, že jej ich toľko dal. Čo sa napreklína, aby   ich tí a tí uchytili: a žijú všetky, i zdravé sú ako dubce, hoci sa   nikdy nenajedia do chuti. Prečo to iba mňa prikváčilo? , Už tu   nevystupuje len proti mužovi. Oči, zaliate slzami, hľadia k nebu, ako   by čakaly jasnú, určitú odpoveď. A nebo je nemé, tiché a jasné.   Večerné zore rozlievajú po trom ružovú záplavu. Zpod nej ako by sa   usmievalo na tieto výkriky rozbolenej duše. Ryclitárka sa upokojila,   aspoň naoko. Iba zavreté ústa jej potrháva utajený bôľ. Premáha sa,   bo vošiel do dvora notáriuš Adam Lupták. Je to vysoký chlap; okolo   ohorenej, suchej tvári visia dlhé pradená dosť šedivých vlasov,   tvoriac prstene veľmi spôsobné, ako by ich naschvál bol niekto   napálil. „Idem si k vám oddýchnuť“, vráví veselo, sadajúc si k   ryclitárovi. „Nebol by sa nazdal, že je to taká ošťara. I kešeňu mi   trhlo dokonale. Ale
+   </tei:p>
+   <tei:p>
+    ﻿118
+   </tei:p>
+   <tei:p>
+    kto si bude šiacať, keď to tak bývalo od krčaha kráľa.“
+   </tei:p>
+   <tei:p>
+    „Môžte byť radi!“ odpovedá rychtárka nie bez závisti.
+   </tei:p>
+   <tei:p>
+    „Nuž ďakujem Pánu Bohu“, vetí notáriuš. „Dosť tvrdo som občakával,   kedy sa to stane. Lebo ustávam — oj, ustávam ja dobre! Vlani som   kosil po chlapsky. Toho roku ma už v krížoch rozbolelo. Ustávame   pomaly. Nerastieme dohora, ale pomaly do zeme. Ako tráva, keď ju prvý   mráz obarí. Ja ešte ako ja — ale stará! I mladšia je, a akosi veľmi   sa žaluje na tie nohy. Nuž zíde sa tá nevesta, zíde.“ Tu ako by mu   mráčok preletel po čele, keď doložil: „Iba neviem, ako sa vydarí. Pán   Boh vie Ale tvár sa hneď vyjasnila. Zpod kožúška vytiahol čosi,   zabalené v bielej: šatôčke. „Bol b} vám zabudol dať z našej   výsluhy!“ A batôžok podal rychtárke. „Ale už pečú? zvolala akoby   prekvapená. „Treba! Už je pečeniu vrchovisko, keď pozajtre už ide byť   sobáš. V izbe nemáš kde stupiť, ani sa kde obrátiť. Samé korytá,   vahany avvšakové tably. A horúčosť ti až vlasy dvíha. Ženy, pre Boha,   ale sa tu neupražíte? povedám im.“ A s úsmevom pokyvuje hlavou.   „Toľko sa ich kutí, že jedna o druhú sa prevŕhajú... Nuž musí byť i   to. Ešte dobre, že prídu v takú tvrdú robotu pomôcť. Neviem, ako by   si moja poradila sama!“ „No — len aby bolo šťastlivé!“ praje mu   rychtár. „Veď to — Pán Boh uslyš!“ Rychtárke ťažko počúvať reči   šťastného otca. Každé slovo bodá ju rovno do srdca. Každé upomína, čo   všetko ztratila... Kým si notáriuš a rychtár čas takto kráťa,   púšťajúc dym do večerného šera, čo sa dialo za
+   </tei:p>
+   <tei:p>
+    ﻿119
+   </tei:p>
+   <tei:p>
+    ten čas na svete! Nie všetci ludia vydychujú si takto pod stenou.   Na hradskej ceste medzi Motešicami a Polomou s pekelným hrmotom sa   pohybuje ťažký, železom okutý voz furmanský. Ale horká hýbe — letí,   čo mu para stačí, vlastne čo kone vládzu. Nadskakuje a hádže sa, ako   to ani nemôž’ ináč byť na ceste štrkom vysýpanej, dažďom vymletej.   Tento beh riadi šuhaj ešte mladý, svieži, červený, Adolf Motešický.   Len preto, že je mladý, nedoložili sme „urodzený“. Lebo je synok   zemiansky, ako svedčí jeho meno, hoci háby sú také, ako sa nosia v   Polome; iba že nohavice sú nie biele, ale čierne, košela nie o   širokých rukávoch; no a klobúk nie je široký, ale pekný, okrúhly, ako   dobre urastený rýdzik. Doložiť treba, že „Adol“ je najmladší syn   motešického rychtára, urodzeného pána Motešického. Šibe koníky   nemilosrdne. „Nuž ako zemän“, povie niekto, čo počul bájku, že   zemanovi musia vraj bežať i drevené. Možno, i on bude kedysi taký   majster, ale dnes by sotva tak letel, kebjr sa nebál. Ale nesmierny   strach mu ide vysušiť všetku smelosť a udatnosť, ktorú jeho predkovia   už za Rákóczyho a pod Rábom preukázali. Ako mal sadať na voz, obzrel   sa nazad seba, akú to povezie fúru. Zazrel mladého človeka v   čiernych, ale obšuchaných šatách, zaprášeného. Ležal na dne voza,   upierajúc oči na jedno miesto. A tá tvár vpadnutá! Nikdy to Adol   nevidel. No z obdivu ho vyrušil tato. „Adol“, povedal mu — „pohni,   abys’ bol za vidna v Polome. Ešte ti na ceste umre, navaríš nám   dokonalej kaše.“ Tato je rychtárom od rokov, vie posúdiť, kolko taký   šupasník vydrží. „A obec by mala daromné trovy. Žobrákov máme dosť   svojich, nebudeme ešte pochovávať cudzích.“ Takto vypravil pán   rychtár
+   </tei:p>
+   <tei:p>
+    ﻿120
+   </tei:p>
+   <tei:p>
+    syna do Polomy. On vedel len jedno: že pocestný nesmie v   Motešiciach umrieť. Nech si ináč umrc, kde si len chce. Preto i   vlastné kone zapriahol do vlastného voza a vlastného syna urobil   furmanom, len aby „žobrák“ čím skôr bol preč z obce. Adol bol viac   mŕtvy, ako živý, keď sa našiel na chotári s pocestným samotný. Lebo   chotár bol práve prázdny. A keď sa prevalil za kopec, do chotára   polomského, už dosť dobre sa zvečerilo. I do plaču by sa bol pustil,   keby v doline zpomedzi stromovia nebelela sa veža, hoci iné staviská   so šindlovými strechami tratia sa v tajnostnom šere. Plným cvalom   sbehol s kopca a zastal pred rychtárskym domom. „Doviezol som vám   žobráka!“ kričí už zpomedzi dveriec, lebo vidí pod stenou rychtára a   notáriuša. „Máš!“ šomre rychtár. „Nemal sa už kedy naďapiť. Ani   nočnou hodinou nemáš pokoja. A čo ste ho už neprenocovali?“ osopil sa   na Adolfa. „Keď by nám bol možno umrel“, odpovedá Adolf. Je vôbec už   trochu smelší. „A nám už môže, len aby vám nie, bachráni! hromží   rychtár. „Čože prevážate človeka na umretí — ha? Máte vy Boha pri   sebe? Na toto rozhorčenie Adolf nemá inej odpovedi, ako pustiť sa do   hrozného revu. „Keď tato povedali „No, nerev, žaba“, tíši ho rychtár,   trochu udobrený. „Vieš ty, čo: dám ti päť šestákov, zavez ho do   Zahrabovia. To je len toť za vŕškom. Päť šestákov, bude ti na   halstuch, či kýho hada to vy zemäni nosíte. Adol sa nepozastavil nad   tým, že rychtár je tiež hotový „nemať Boha pri sebe“, ani sa nedal   získať takým lacným sedliackym vtipom o hal-
+   </tei:p>
+   <tei:p>
+    ﻿121
+   </tei:p>
+   <tei:p>
+    stuchoch. On len to vedel, že za päť šestákov má ísť, a to nocou,   do Zahrabovia. „Keď mi tato povedali, že ešte pôjdu svážať“, vyhovára   sa skoro s plačom. „Necigáň — v noci bude svážať! Veď na zboží je   rosa. Povedz radšej, že nechceš, ty papluh naničhodný!“ Človek by   neveril, že taký tichý človek, ako Michna, môže’takto na chlapca   nakričať. Medzitým voz už obstali ľudia. „Bež niekto po hajtmana.   Nech nájde foršpont, ale hupkom aby tu bol!“ Akýsi parobok ihneď   odbehol podľa rozkazu. „A my ho, chlapi, složíme niekde pod stenu,   kým voz príde...“
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Na dlážke pod stenou leží Adolfov „žobrák“ v obšuchaných šatách,   pri ňom je príručný kufor. Ani sa nehýbe, oči pozerajú kamsi do   nekonečna. Iioci ho obstupujú so všetkých strán diváci, on nepozerá   ani na jedného. Notáriuš prevzal písma, napísal dátum, podpísal sa á   udrel pečať. „Daniel Boháč sa volá a je z Kamenian , oznamuje   rychtárovi. „Akého remesla?“ pýta sa ktosi. „Ktože ho tam vie. Písmo   je po maďarsky. Odosielajú ho z Pastúchova. „Mohli ho radšej   neodosielať“, vraví ktosi iný. „Kým si zdravý, robíš a tŕžiš po   krčmách, všade ti dajú poctivosť. Ale keď ochorieš — hybaj, šutrujú   ťa domov, ako zločinca. Eh, planý je ten svet!“ „Nuž, hľa, v cudzom   svete tak býva, hovorí druhý. Vyšla i rychtárka z kuchyne a   priklakla k pocestnému. „A poriadny, sa vidí Človek! 1 mladý   ešte.
+   </tei:p>
+   <tei:p>
+    ﻿122
+   </tei:p>
+   <tei:p>
+    Ale zjete niečo?“ Dvíha mu hlavu a súcitne pozerá do tvári. „Aký   hodný čeľadník! Či ste už niekde jedli?“ Všetci očakávajú odpoveď,   ale pocestný mlčí. „Moc sa ho nevypytuj“, vraví rychtár, „dones mu   radšej niečo teplého. Možno celý deň nemal ničoho v ústach. Rychtárka   vyniesla mlieka v krčiažku a lampáš, lebo sa už dost dobre stmilo.   Sám rychtár svieti naň lampášom, ona mu naddvihuje hlavu, kladúc   krčiažok ku bledým perám. Chorý prijal jediný glg. I to bol hlboký,   ako by padalo do studne. Ostatok mlieka steká na dlažbu. „Už   nebudete?“ volá naň rychtárka. „Veď ten ani nevie o svete“, ozval sa   rychtár. Ale pomaly, pomaly pohly sa ťažké oči a zastaly na   rychtárkinej tvári. S obdivom akýmsi, ale prívetivé sa jej tie oči   prihovárajú. Ako by ďakovaly a prosily. Ale ústa sa nehýbu, i tvár je   v stuhnutá. Rychtárku dojal ten jediný pohlad,, strelil jej hlboko do   srdca, i získal ho jedným razom. Zdá sa jej, že to nie človek cudzí,   keď tak dôverne hľadí na ňu. „Ach, či si biedny, či si biedny, môj   syn drahý!“ zaplakala nad ním. „Tá tvár, aká vpadnutá, tie ruky, ako   píštele. Moja hlavička biedna, či ti ju dotlkli po tých vozoch!“   „Veru mu nepoprávali pod hlavu“, zamiešal sa ktosi. „Tiež mohol mať   inakšie meno, ako Boháč. “ „No bohatstva na ňom nevidno.“ „A to nebol   človek nejaký zlý“, vraví rychtárka. „Na očiach mu vidno. „Ktože ho   tam vie, aký bol“, odpovedá jej muž, proti cudzím ľuďom vždy opatrný   a nedôverčivý. „Na oči mu nik nepísal, aký je. ‘ „Ako by nepísal! Na   očiach vidíš všetko, aký
+   </tei:p>
+   <tei:p>
+    ﻿123
+   </tei:p>
+   <tei:p>
+    je kto“, bráni ho rychtárka. „Povedz, vykonal kedy niečo ?“ „Ja   nepovedám ani tak, ani tak, lebo neviem.“ Tak sa hovorilo všeličo o   pocestnom, i o všakových iných pocestných. Zas sa rozprávalo, kto   kedy bol v nejakej ceste, i čo dobrodružného sa mu prihodilo. Nuž ako   sedliaci, keď sa po sobote sídu a pohrúža do rozpomienok. Rychtárka   moc nepočúva. Kľačí u mladíka, či sa neohlási. Ale ten leží   bezvládne, oči zavrel; zdá sa, že ho sen nadišiel. Vložila mu kabát   pod hlavu. Pred domom zahrmel furmanský voz, hajtman vstúpilv do   dvora a hneď ku chorému. „Čo máte s ním? Nevidíte, že zaspal?“   rychtárka doňho. „Voz je už tu; treba sa ponáhľať, bude noc.“ „A   ktože to kázal? postavila sa proti nemu rychtárka, merajúc ho   očima. „Kto vám rozkázal? Necháte ho tu. Alebo nie: vezmite ho do   izby.“ „Len ho vy ta, ozval sa rychtár, „keď je voz tuná. Zajtra   bude o furmana väčšia tvŕdza. A jemu veru sťa kde prenocovať: či v   Polome, či v Zahraboví.“ „Ba že sa Boha nebojíš, starý! Srdce máš zo   skaly. My sme zdraví, a žiada sa nám odpočinúť. A tuto tento na smrť   chorý ani v noci by nemal pokoja!“ „Veď ono kto vie, či dožije do   rána“, prehovára ju muž. „Tvár má vpadnutú i nos končitý. Ale najviac   oči sa mi nepáča — stoja mu stlpkom. Nuž sťa kde mu umrieť, ak mu je   raz súdené. A smrteľní sme všetci...“ „Ale ešte žije a možno by   vyzdravel, keby mal trošku pokoja. Akože ho takto pustíme, veď sme   nie pohaní...“ „A druhí ho pustili. Od Pastúchova až do Polomy nikde   ho nedržali u seba. My sme obec
+   </tei:p>
+   <tei:p>
+    ﻿124
+   </tei:p>
+   <tei:p>
+    chudobná, ani nám nedochodí na cudzích chudobných. “ Rychtárka   zlostne kýva hlavou. „Ej, máš ty výhovorky! Nikde ho neprichýlili. I   popri tom, čo šiel z Jeruzalema do Jeri cha, ich veľa všakových   prešlo. I kňaz i levita šli popri ňom, a neozreli sa. Iba Samaritán   ho pritúlil. Ale ten sa nevyhovárali, ako ty. Šiel zaraz k nemu a   spravil, čo treba. A ono kto vie, či i tohto v niektorej dedine   naložili takto proti noci do voza! Veď len pozrite naň, či sa vám   srdce nepohne? Do smrti by nemala pokojnej hodiny, keby sme to   urobili.“ „Tebe ľahko hovoriť“, hnevá sa muž. „Ja viem, čo treba. Tu   je písmo od vrchnosti a v ňom stojí, že ho treba poslať do Kamenian.   A vrchnosť poslúchať musíme.1 Väčšina prítomných by držala radšej s   rychtárkou. Lebo prostý človek má srdce, len vedieť, akým kľúčom ho   otvoriť. A rychtárka ten kľúč má: útrpnosť a menovite Písmo. Jej muž   vie tiež, čo je silná stránka ženy, proboval i on k nemu sa utiecť,,   citujúc z neho, že vrchnosť slúchať treba. Iba že žena hneď odokryla   jeho úmysel. „Ešte slovo Božie znevažuj!“ rozhorlila sa. „Písmo od   úradu! Ja znám inakšie Písmo... To je napísané tak, že i múdry i   sprostý rozumie, čo v ňom stojí. Ale toto tvoje! Veď nevieš ani, kto   ho napísal a čo v ňom stojí. A také písmo ty chceš slúchať? Vrchnosť   nekáže chorého človeka prevláčať nočnou hodinou z dediny na dedinu. A   ak káže, tak ti poyiem, čo v inom Písme stojí: sluší Boha viac   slúchať, ako ľudí. Nemysli si, že sa očistíš slovom Božím. I satan   pokúšal Krista zo slova Božieho, i farizei a zákonníci...“ „Ja som na   to, aby bol poriadok . bráni sa rychtár. „Ty choď do kuchyne.“
+   </tei:p>
+   <tei:p>
+    ﻿125
+   </tei:p>
+   <tei:p>
+    „Ja by len rada vedieť, kto sa ho ťa slúchne!“ zvolala v hneve.   „Lebo ho dotkne, že bude mať smrť jeho na\sCtówčíll To už môže vziať   hneď sekeru a búšite hlave... Viem, že živý nedôjde do Zahraboviaľ*   Skutočne nikto nemá odvahy dotknúť sa chorého. Sám rychtár je   zastrašený. Je i jemu ľúto chorého vybúriť zo sna. „Rob si, čo   chceš!“ povedal rozhorčený. „Pomocte mi, chlapi, ozvala sa ona.   „Zanesieme ho do izby.“ Ako mu podobrala hlavu rukou, hlava nevládne   ovisla nadol... „Umrel!“ zvolala podesená. Slová tie pôsobily mocne   na všetkých. Smrť sama prehovorila rečou mohutnou, bezprostrednou.   Prežehnali sa pobožne. Jedni zostali vo dvore, iní odbehli domov,   zaniesť túto novinu. Smrť, i celkom prirodzená, vzbudí v dedine úžas,   lebo ľudia sa znajú, sú si blízki, ako rodina. Tým väčší úžas musel   sprevádzať takúto neobyčajnú smrť. „Predsa nás to len neminulo“,   vraví rychtár smutne. On i pri takejto udalosti zachová chladnú myseľ   a vedomie rychtárskej zodpovednosti. „Budeme mať pohreb. Ej, máme my   súsedov, aby ich hrom zabil! No, ale hriech je hrešiť. Z Motešíc nám   vždy musia dopriať niečo takého: a Poloma — plať! Nuž ale darmo, už   sa stalo...*
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    V rychtárskom dome neubýva ľudí, skôr prichádzajú noví a noví   pozrieť mŕtveho. Ten leží dosial na dlažbe, lebo niet ho kam položiť   nanáhlo. Neležal dlho, keď sa ťu vrútila do dvora žena vysoká, suchá,   s prehodenou cez plecia šatkou. „Pre Pána Boha, rychtár: čo to   robíte? Že umrel ten pocestný?“
+   </tei:p>
+   <tei:p>
+    ﻿126
+   </tei:p>
+   <tei:p>
+    „Veru. Tam leží, ukazuje naň trpko. Hnevá sa naň, že to   práve v Polome vyviedol. Bolo od Pastúchova po Polomu dosť obcí:   bohatých i biednych, i času dostatok. Nie, on akoby naschvál umre   práve tu. Čo teraz? Miesto do kosby musí zajtra vypisovať do   slúžnovstva reláciu. Bude mať oštaru s tesármi, hrobármi, zvonárom i   farárom. Jačmeň konča lúky prezreje, skruší sa, alebo, čo ešte horšie   — zamokne. A to všetko — tvrdohlavosť ženy! „Nuž ale ste ho nemohli   odpratať?“ volá Žofia, notáriuška, lebo ona sa to tak vrútila. „Dajte   ho do voza, prosím vás“, lomí pritom rukama — „nech ho pochovajú v   Zahraboví. Moje dieťa má pozajtre sobáš: akože pôjde naň, ak bude   hrob otvorený! “ Hla, na čo sa celkom zabudlo! Ani sám notáriuš   netušil, ako sa skrižuje osud jeho syna s osudom tohto neznámeho.   Preto sa ani neplietol do hádky. Miluje pokoj i v obci i v   domácnosti. V duši schvaľoval rychtárkine reči. Netušil ešte, čo z   toho vykvitne. Rychtár je veľmi pomútený. Vec je nesmieme zamotaná,   jeho rozum slabý na rozmotanie. Sobáš nemôže byť pred pohrebom ■— to   by Polomčan neradil ani úhlavnému nepriateľovi. Sobáš nad otvoreným   hrobom, ako všetci vieme, ťahá za sebou neomylne smrť alebo mladého   zaťa, alebo mladuchy, hádam i oboch, a to ak nie do roka, iste o viac   rokov. Je to vec vyzkúsená. Nuž pri takých výhľadoch ženiť syna —   ktorá mať by nezúfala? „Viete vy, čo“, ozval sa rychtár po   rozmýšľaní: „keď už umrel, nebudeme mať hriechu. Pošlime ho do toho   Zahrabovia. Tam sa nazdajú, že umrel v ceste, a nás minú i trovy, i   sobáš bude bez prekážky. “ „Nuž a akože!“ zvolala notáriuška. „Veď i   ja
+   </tei:p>
+   <tei:p>
+    ﻿127
+   </tei:p>
+   <tei:p>
+    to chcem. Ale by ste nám to spravili, tu ho pochovávať? Veď by sme   vás do smrti preklínali. I takto, neviem, i takto, či niečo na nás   nepríde.“ „Nie, nebojte sa“, ozvala sa stará žena, skoro vo dva konce   skrčená. „To len, ked je hrob vykopaný a ako keby sa išli sobášiť. To   už hej! Ja pamätám, ako dnes, takto bol dopoludnia sobáš a odpoludnia   pohreb. Ja som bola iba takô ešte, ani na trávu som nechodila s   kosákom. Nuž tu veru ti oba umreli. I on i ona, ked to tá veľká   cholera bola, čo to ľudia na ňu tak padali, ako muchy. A dosť im   dotrýzňaly ženy, takto a takto, nerobte toho. Ale ked to mlado   neslúchne v roztopašnosti velikej! Veru tí tak, ako povedám. Nuž ale   ked sa za horúca odvezie, tak trúfam, že tuto nič nebude. To len ked   je jama vykopaná a na príklad just na tú jamu prišlo ísť na sobáš.“   Toto odhalenie záhad života i smrti pôsobí menovite na skľúčenú   notáriušku. Trochu sa upokojila, že nehrozí nič strašného ešte. Taká   osemdesiatročná stvora už len vari vie, čo sa patrí a nepatrí. Vie   krém toho slizovať beľmá, vredy začitovať, že sa hned rozídu: vie   vôbec všetko. Iným sa páči i to, čo rychtár radí. Obec má svedomie   čisté, lebo dovolila pocestnému umrieť y pokoji; i nebude platiť   pohrebných trov, lebo zaplatí ich Zahrabovie. Konečne i notáriušov   syn a nevesta nebudú ukrátení na živote. Kde ešte spôsob onakvejší,   pri ktorom by sa všetkému tomu predišlo? Iba rychtárke sa pozdáva, že   je toto hriech, mrzký hriech. „Ale ho budete po smrti prevláčať?“   zvolala skoro s plačom. „Vôľa Božia je taká, aby ležal v našom   cmiteri. Ved si len povážte, čo zas chcete robiť!“ „A vy si povážte,   čo chcete vy!“ zvolala Žofia. „Ale sme vám niečo urobili, že nás   takto kazíte ? Zem je v Zahraboví taká svätä, ako v Po-
+   </tei:p>
+   <tei:p>
+    ﻿128
+   </tei:p>
+   <tei:p>
+    lome. Rychtárka, ak ten tu ostane, my musíme s veselím čakať. A   viete, čo jé to! To len všetko znovu vypekať, lebo pečivo stvrdne za   deň, keď sa nezje, keď je na to čas. Boli sme vždy dobrí, čo by ste   nám robili toto? Rychtárke je naozaj ťažko. Svedomie káže ináč,   všetko ostatné ináč... Ale nadchodí na ňu akýsi strach. Čo ten   neznámy tak pozrel na ňu; zdá sa jej, že ju prosil o záštitu, o   smilovanie... A ona by ho popustila prevláčať, lebo iste ani v   Zahraboví by ho nepochovali! Nie, nemala by nikdy, nikdy pokoja. Ten   pohľad by ju večne prenasledoval, ako hrozná výčitka. „Verte mi, za   svet by vám nedala ublížiť“, vraví notáriuške úprimným hlasom. „Ale   sfdce mi nedopustí na toto sa dívať. Nikomu nežičím, ale keby sa   predsa nám niektorému toto prihodilo. Veď my sme tiež ľudia smrteľní:   že umrieť musíš, vieš, iiié kde a kedy, nevieš... Alebo vaše dieťa   keby v cudzom svete takto... Ach, Bože, akí sme my: Tobiaš pochovával   mŕtvych, čo padli na mor, nešanoval vlastného života. A my vyvrhli by   sme tohoto, ako by ani nebol hoden odpočívať v matkezemi!“ „Veď nech   by sa už robilo, čo chcelo, keby sme v tom neboli!“ narieka   notáriuška. „Ale ako ja mám dopustiť zkazu na svoje dieťa. A pre   cudzieho! A keby to bolo prečo: ale iba o chotár ďalej. 1 nás musíte   povážiť, a nie iba jeho. Nás ešte skôr, lebo sme z obce, a on nie, a   žijeme. Čože jemu —• on je už na pokoji, ale my!“ „Keď jevto iba   blud, samý blud!“ odpovedá rychtárka. „Že umrú, keď sa tak sobáša!   Keby Hospodin už chcel kárať, mal by dosť inej príčiny. Veru nemusel   by čakať, ako sa tu sobášime a kedy sa sobášime. Požehná nás, nie aby   nás trestal, keď najprv odprevadíme mŕtvych a dáme im ich
+   </tei:p>
+   <tei:p>
+    ﻿129
+   </tei:p>
+   <tei:p>
+    diel. Lebo ľudia sberajú sa, kedy si smyslia. Ale umierajú, keď   ich anjel smrti zastihne.“ Notáriuška počúva len na polo, čo   rychtárlca vraví. Ona vie len to, že na jéj deti letí zkaza. Ako by   ich nechránila, veď je mať! A že rychtárka tak brojí proti nim,,   oborila sa na ňu. „Ba čo ,vás to podsadlo takto nič po nič!“ vykríkla   náruživé. „Spomínate slovo Božie, ako by sme boli pohaní. Ujímate sa   tohto cudzieho, á nik mu nič nerobí. Vari ja neviem, prečo vy to   robíte 1 Závidíte, že syna žením, a vy že ho nemáte. Len aby i ja   padla do toho, v čom ste yy. Nič pre iné! Ale som ja na vine, že vám   chlapec umrel ? Bodaj by bol žil! Ale tu sú i druhí. Rychtárko môj!   obrátila sa k nemu s plačom: „nikdy, nikdy vám nezabudnem. Vy nám   uznáte i teraz: nerobte toto!“ Rychtár je sám ťažko dotknutý, že   spomenuli umretého syna. Jeho žena je rozžialená, oprela sa o stenu a   plače. „Co sa budeme dlho radiť“, ohlásil sa pri tichosti, po   predošlom výbuchu náhle nastúpivšej, sám notáriuš, ktorý dosial   mlčal. „Pošlime ho do Zahrabovia, a bude svätý pokoj. Aspoň vám nik   nebude vinu dávať, ak sa niečo prihodilo. Mne samému je akosi   všakovak. Hoci sa ono povie, že je to iba blud, ale i blud sa neraz.   vyplní, a ešte najchytrejšie, keď máš padnúť do nešťastia. Sám som sa   presvedčil, keď ťa zajac prebehne, už sa len vráť, lebo sa ti zle   povodí. A to je tiež iba blud. A viete, ako je, keď sa bojíš o   vlastné dieťa. Veď i vy ste ho mali, nespali nejednu noc, keď   ochorelo. Tak ani my nemali by sme jednej hodiny spokojnej.“ Táto   tichá reč, ale dojímavá, premohla rychtára. Rozkázal, aby mŕtveho   naložili na voz. „Ani sa ho netýkajte!“ vyskočila rychtárka
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spisy VII.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿130
+   </tei:p>
+   <tei:p>
+    rozhnevaná. „Kára Božia vás prikvačí. A neviete, že i vrchnosť   bude vás trestať ? A ja to nenechám, ja pôjdem žalovať — a prvého   teba“, obrátila sa k mužovi, „teba, že si to dopustil!“ „A ja sa   nebojím“, postavila sa notáriuška. „Pod, starý, my sami ho naložíme.   Nech ide žalovať! Nech nás dajú do najhoršej temnice: radšej v nej   strávim svoj vek, ako mať strach o dieťa. Ja sa ani temnice nebojím —   každý sa dozvie, prečo ma do nej vsadili. A vy, občania, vy nás   nezastanete? Čo sme vám kedy spravili? S kým stojí môj muž, alebo ja   v hneve? A sme sa hádam odhodili niekoho, keď prišla naň tvŕdza? Veď   nezbíjame, iba deti si ratujeme. A vy by ste nás opustili?“ „Veru ja   neviem“, ozval sa chlap zo zástupu: „ale tomu, čo umrel, či tu   odpočívať a či v Zahraboví. Lebo je umretý, nevie nič, a zem ako zem,   len keď je posvätená. Ešte hádam v Zahraboví skorej, lebo by ležal o   dve hodiny bližšie ku Kameňanom, ak mu tam niekto žije z rodiny. A   Ľuptákov Ondro je čeladník súci, škoda mu pokaziť veselie. Veď viete,   že človek má iba raz veselie takô naozajstnú; lebo keď sa žení   vdovcom, ako som sa ja, a má ešte od prvej nedorastené deti, už je to   nie takô, ako keď sa ženíš za mládenca. To si pamätáš do smrti, čo ti   kto o svadbe urobil, alebo i povedal. Nuž a keby sme mu my takto   zavatrili pred samým veselím, veru by mal ťažko srdce na nás. Ešte by   si míval, - ani nebýva v svojej obci, ale kto vie, kde, v akej   cudzej. Obraziť kohokoľvek je hriech, ale najväčší hriech je, keď si   ťažkajú na nás takí, čo deň po deň s nami zaobchodia. Takých musíme   šianať najlepšie. Lebo nie je to veľká zásluha, keď neublížiš tomu,   čo ho vidíš raz dva razy za života, ale to, keď žiješ vo svornosti s   tým, čo je vždy s tebou,
+   </tei:p>
+   <tei:p>
+    ﻿131
+   </tei:p>
+   <tei:p>
+    na príklad v jednej obci alebo dome. Tam musíš mať veta   trpelivosti, lebo i medzi najlepšími sa neraz niečo skúri. To sa nám   ukazuje v manželstve. Nemáš vraj doniu, čo by sa z neho nekadilo. To   je preto, lebo muž so ženou sta ustavične spolu, tak sa veru pritrafí   i medzi nimi, že sa poharkajú. Keby boli vždy svorní, poľahky by ani   nevedeli, čo je to, tá dobrota. Čiňme dobre všetkým, hovorí apoštol,   nadovšetko pak domácim viery. A takým domácim viery je toť náš   notáriuš so ženou a synom. Tento neborák tuto dosť sa natúlal pomedzi   svet, a hoci bol mladý, vzal svoj diel v dobrom i vo zlom. A vadíte,   ani nevieme sami, a tu sme boli, kedy umrel — taká ľahká bola hodina   smrti jeho. A veru nie, že by bol ležal na mäkkej posteli; na skalách   — to bola jeho posteľ, ako patriarchovi Jakobovi, keď ležal s kameňom   pod hlavou a videl rebrík a na ňom vystupovať a sostupovať anjelov   Božích. I tento spatril ten rebrík, a nie iba vo sne, ale naozaj. A   ako mu bolo umrieť tu, alebo tam — tak mu je tiež či u nás, či v   Zahraboví odpočívať. Len nech sa ujde telu kúsok tej matky-zeme a   duši pokoja. “ „Svätú pravdu povedá , ozvalo sa viac hlasov. „A   rychtárka“, pokračoval starý, posmelený súhlasom — „tá tiež   vyrozumie, čo je pravda a čo nie. Ona chce dobre: ale čo je z takej   dobroty, keď ju užije mŕtvy, ktorý jej už nepotrebuje, a treští živý   a sám nevie, prečo. Tej dobroty je potrebnejší Ľuptákov Ondro, lebo   býva s nami a žije, chvalabohu! Ja iba toľko poviem.“ „Naložte ho   navoz, bude noc!“ velie rychtár. Je úprimne rád, že vec sa tak   obrátila. On sa na ňu díva posial so stanoviska úradného. Nikoho   neoškodí, naopak, ušetrí obec od trov, sebá od roboty a Ľuptákovcov   od veľkého strachu. Krém
+   </tei:p>
+   <tei:p>
+    9*
+   </tei:p>
+   <tei:p>
+    ﻿132
+   </tei:p>
+   <tei:p>
+    toho, žena nemôže mu k hlave letieť, že by ju nebol poslúchol. Ale   sa pomýlil. Rychtárka sa ešte nepoddala. .„Počkajte ešte   trochu“, vraví tichým, spokojným hlasom. Všetci sú prekvapení   takou náhlou premenou. Mŕtveho sa netýkajú. Je vidno, že je odhodlaná   ísť do krajnosti a si je istá víťazstva. Ináč by nebola taká   spokojná. „Keď ho už chcete pre taký blud svetský — lebo to je len   blud — prevláčať z dediny do dediny, ako by to nebol ani človek,,   ale... Ani nevypoviem, lebo by to bol hriech... Ja vám poviem inakšiu   vec, nie takú, že tam kdesi a kedysi to sa bolo stalo, ale takú, čo   všetci pamätáme. Zabudli ste na tú noc, keď nebohého Motešiclcého   prevážali z Pešti do Motešíc? Cez náš chotár ho viezli. Pamätáte, čo   sa porobilo ? ‘ Stala sa tichosť, ako v kostole. Veď pamätajú, ako   zapaľovali hromničné sviečky, ako vyhádzali lopatjr a omelá predo   dvere, ako sa skrúšene modlili, ako sa vyzváňalo na veži, s akou   hrúzou zarývaly sa deti do perín, aby nečuly hrmenia, hukotu víchra,   prašťania stavísk a tresku rozmetávaných striech; ako zatvárali   aby ich blesk neoslepoval, ktorý ani nehasol, ale ustavične šibal,   sťa by sa bola nebeská obloha plameňom chytila. Pamätajú, aký rachot   ich omráčil na chvíľu, sťa by sa zem otvárala, alebo, vykĺznuc z   koľaje, bola sa praštila do nejakej hviezdy... Ej, pamätajú dobre,   keď slnko vyskočilo na vymladnutom nebi, aký obraz sa im predstavil.   Strechy rozmetané, stromy vyvrátené, a kde včera stálo zbožie, tam   ozajstné strnisko! Ale nadovšetko — kam sa dela hora, čo nad dedinou   sa zelenala? Stojí miesto nej holá, skaliskami posiata stráň a na   úpätí úšust, jedle vyvrátené a zem, čo víchor narútil. Ej, nikdy   nezabudnú na tú noc, ktorá — ako hneď starí
+   </tei:p>
+   <tei:p>
+    ﻿133
+   </tei:p>
+   <tei:p>
+    ľudia vraveli — preto nadišla, že chotárom sa previezlo vmrtvé   telo nebohého Motešického ... „Žiadate si ešte taký súdny deň? pýtala   sa rychtárka hrozivé. „A teraz by sme I10 naozaj zaslúžili.“
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Rychtárova žena po tuhom zápase, sama proti všetkým, vybojovala   mrtvé telo Daniela Boháča. Nie je div,~ že zvíťazila. Je ona žena   múdra a pobožná. Vie zachádzať s Písmom, že najlepší biblista ju   nechytí. Že takých múdrych žien nieto? To je námietka slabá. U ľudu   stoja ženy veľmi často vysoko nad mužmi: a to i v božskej i svetskej   náuke. Známa vec, že veľa sedliackych domov pokleslo pre hlúposť muža   a veľa sa ich pozdvihlo pre rozumnosť ženy. Skoro každé gazdovstvo   prekvitá, kde žena drží opraty. A tak veľa jest i obcí, kde vlastne   rychtárujú rychtárky, a nevidno zlých nejakých následkov, skôr   naopak. Že ľud má náboženstvo nečisté, poverou presiaknuté? Nuž je   ono všakové, teolog by sa mu vždycky nepriznal. Kto toho vina? Azda   kňazi a učitelia? Na to odpoveď: kde sa viac a horlivejšie káže, ako   u nás? Tu zlyhá i snaha, i učenosť: ľud má tradície, a tie sú o veľa   staršie, nežli samo kresťanstvo. Často sa zakladajú na lži — ale   názory vzdelancov nikdy nezakladaly sa na lži? Ako ráno vstala, tak   jej prichodilo akosi, ako by jej vlastné dieťa ležalo na doske.   Pohľad ten ako by ju upomínal, že ona je teraz jeho mater. Ale i   preto jej je drahý, že tak tuho zaň bojovala i že je znamením jej   víťazstva. Tým bojom ako by si ho bola kúpila, patrí dnes výlučne   jej. Nemôže sa ubrániť istej hrdosti. A tá hrdosť jej káže urobiť čo   najviac, dokončiť skvele, čo začala. Preto hneď ráno povedala mužovi:   „Ty odpíš do slúž-
+   </tei:p>
+   <tei:p>
+    ﻿134
+   </tei:p>
+   <tei:p>
+    novského, čo sa stalo. O ostatné sa netráp. To je už na mojej   hlave. A slávna obec nech sa tiež neľaká. Tie trovy neprischnú na   nej.“ „Rob si, čo len chceš“, odpovedá urazený muž. „Ale Pán Boh vie,   kto bol. A ty hneď...“ „Len mu daj pokoj!“ zahriakla ho prudko. „Ja   viem, že bol statočný mládenec. I pochováme ho, ako mládenca treba.   Toľko sa azda ešte nájde peňazí na mojom bydle.“ LTž viac nehovorili   o tom. Rychtár, rozpaprčený, odišiel do poľa. A zvony vyzváňajú, ako   by bol umrel ktorýkoľvek z predných občanov. Truhlu robí nie tesár,   ale sám stolár. Veľmi sa začudoval, že má byť čierna, na vrchni   veliký zlatý kríž i zlaté cifry a okolo krajov rad bielych,   porcelánových klinčekov. Mrtvé telo leží v rezačke, napochytre   vyriadenej. Nerobí už taký zlý dojem, ako včera, keď bolo zaprášené.   Má na sebe čistú bielizeň i vrchné šaty nové. Našly sa v kufríku, čo   spolu s ním sa doviezol. Tvár je umytá, na nej výraz večného mieni.   Obkľučuje ju veniec veľmi krásnych, bujných vlasov. „Že by ten bol   nejaký potáraný!“ hnevá sa rychtárka. „Statočný bol, poriadny...“   Táto viera v nej je pevná. Hneď, ako otvorila kufrík a videla v ňom   šaty i bielizeň, pekne, vo vzornom poriadku, už vedela, že to bol   človek dobrý i |tatočný. Ona, ako mnohé iné, je presvedčená, že zlý   človek nemôže mať bielizeň v poriadku. „Keby bol potáraný, ale by mal   toto? Nebol by šaty založil alebo predal?“ Je pravda, že mnoho   hodných ľudí má v bielizni strašný neporiadok. Ale ženu ctí i takýto   prenáhlený súd, zvlášte keď je priaznivý. Je dôkazom toho, že žena je   vtelený anjel čistoty a poriadku vo všetkom. Netrpí nič, čo uráža v   nej tento cit.
+   </tei:p>
+   <tei:p>
+    ﻿135
+   </tei:p>
+   <tei:p>
+    Preto i rychtárka, zazrúc pohodené v komore šaty umretého,   zaprášené, obšuchané, už ich nesie na dvor presušiť a vyčistiť.   Beztoho je obyčaj vyčistiť všetko, čo umretí nosili. Tu jej čosi pod   rukou zošuchotalo.
+   </tei:p>
+   <tei:p>
+    „Ani som nepozrela, či nemá niéčo u seba“, myslí si a prehliada   vrecká. Peňazí v nich nieto, zato akýsi papier. Je to list. Teší sa   mu veľmi; ufá sa, že list vysvetlí všeličo o umretom. Znel takto:
+   </tei:p>
+   <tei:p>
+    „Drahé moje dieťa!
+   </tei:p>
+   <tei:p>
+    Tvoj minulý list som obdržala a velmi sa potešila, že si mi   zdravý. Len akosi mi bolo lúto, že ani Veľkú noc, ani Turíce nesvätil   si so mnou. Lebo Pán Boh vie, či ich ešte budem kedy svätiť a či sa   budem dlho s tebou tešiť; všetko sa mi zdá, že ja už zimy nedožijem.   Reumatizmus ma zas trápil a veľmi ma zmohol, ale to vari preto, že   teba u mňa nebolo: teraz som už zas, chvalabohu, zdravá. Aby si sa   zas nenaľakal! Nechybí mi nič. Čo si mi poslal zo svojho malého   zárobku, to ma veľmi potešilo, najviac preto, že i to mi svedčí, že   na matku nezabúdaš. Ale i iným spôsobom by si mohol dosvedčovať, že   na mňa myslíš: keby si mi písal čím častejšie. Bola by veru radšej,   keby si mi posielal listy prázdné a nekládol do nich peňazí. Čože mám   s nimi robiť? Ja som chudobná, učiteľská vdova, od malička privyknutá   všakovej biede, nepotrebujem ja, dieťa moje. toľko peňazí. vieš, kým   si bol malý, starala som sa o seba i o teba, a chvála Bohu,   nezahynuli sme, lebo nás On vzal pod krýdla svoje, záštita opustených   vdov a sirôt; i robiť som vládala. A robiť stačím dodnes: kým som   zdravá, vyrobím si toľko, čo potrebujem. Tvoje peniaze najviac   odkladám, nájdeš si ich; no bola by radšej, keby si
+   </tei:p>
+   <tei:p>
+    ﻿136
+   </tei:p>
+   <tei:p>
+    si od úst neutrhoval, ale sám užil z nich; lebo sa bojím, že si   nežičíš a v robote sa preťahuješ. Tvrdo, tvrdo čakám tú Božiu jeseň,   že ťa uvidia zas oči moje! Veru sám nevieš, čo som sa za tie dva roky   natúžila za tebou. Znať som ti to nesmela dať, aby ťa to neodvrátilo   od úmyslu. A neviem, či by sa bola premohla o tom tak celkom mlčať,   keby tvoj majster, pán Rúčka, nebol ma všakovak rozhováral, že   krajčír musí stráviť aspoň dva roky vo veľkom meste. Ale teraz už i   on by pristal, aby si sa vrátil. Robota teraz nejde, ale pod jeseň sa   zas nahrnie, tak bez teba že by mu ťažko bolo. I Žofika ťa neraz   spomenula. Keď som minule bola v O., najprv majster mi povedal, že ťa   už môžem z Pešti vyvolať, a potom Žofika ma odprevádzala cez lúky až   pod samú horu i ledva sa odo mňa odtrhla. Mne sa vidí všetko, žé ona   ešte tvrdšie ťa očakáva, -ako jej otec... Ach, keby sme sa len v   dobrom zdraví zas videli! Potom nás už azda nič nerozlúči, iba smrť.   Keď sa budeš chystať domov, odpíš mi, ale iste, aby ťa občakávať   mohla. Nasledovaly pozdravenia a podobné veci. Podpis znie: „...tvoja   milujúca mať Barbora B. „ Či som nepovedala zaraz! Človek   statočný, poriadny ... Teraz keby tu bol, keby mi povedal, že kto ho   tam vie, Čo ježa jeden!“ Všetko iné zdá sa jej byť ničím pri skvelom   splnení svojho proroctva. Radosť nad úplným víťazstvom ju celkom   omámila. „Pekne to napísala, ach, pekne! Iba mať môže takto písať.   Otec by počarbal kde-aké haraburdy, ale mať píše tak zo srdca. Oj,   iba mať vie, čo je cit rodičovský. Ona musí prejsť všetky nížiny a   výšiny, kochať sa v dieťati ako bláznivá i plakať ako bláznivá. Otec   povie na všetko: poručenobohu. To je slovo veľmi na osoh, najviac   vtedy, keď
+   </tei:p>
+   <tei:p>
+    ﻿137
+   </tei:p>
+   <tei:p>
+    nevieš, čo povedať, a nemáš čo povedať. Oj, mať ho nepotrebuje.   Ona vie to všetko od gruntu. Neraz nevieš, čo robiť, tak ti srdce   oplýva citmi. A iba materské srdce je verné. Ono bije za dieťa až do   konca, kým neprestane biť. Otcovo má dosť k čomu prirastať. Požiali,   potrúchli, a za krátky čas naplnené je inými vecmi...“ Aká jej je   úľava takto chváliť samú seba! Jej sa zdá, že umretí majú moc byť   stále pri tých, čo ich milovali. I teraz ako by cítila prítomnosť   synovu z tamtých svetov a ako by jemu bola toto hovorila. Ako by sa   bála, že syn i po smrti mohol by sa jej odcudziť a k otcovi sa   pridať. Veď i za života, ako dorastal a začal sa chytať roboty   chlapskej, s bolesťou badala, že dôvernosť detská Sa tratí; nie je   ustavičná, ale iba akoby v záchvatoch sa vracia. Prvá mladosť zdá sa   jej ako večný sviatok, v ktorom materinský cit ukoj obal sa, kedy   chcel. V rokoch synovho dospievania tieto sviatky boly zamenené   obyčajnými dňami. Sviatky stávaly sa čím ďalej redšími. No boly tým   krásnejšie. Materská láska v nich dochádzavala najvyššieho stupňa.   Kdeže by chladné srdce otcovo i len pochopiť mohlo tieto záchvevy   srdca materského! Je priveľmi rozdelené medzi všakové záujmy. A rado   sa obracia k záujmom, ktoré ženskému srdcu sú ďaleké a cudzie. Tu   obecné dobro, tu sláva svetská, tu iné veci dostanú ho do svojich   sietí. Mať takým nástrahám ujde, lebo jej srdce úplne, v celosti   patrí dieťaťu. Preto ona má pevnejšiu postať i cestu istejšiu, než   muž. Niť materskej lásky nedá jej poblúdiť, uchýliť sa od cieľa. Kým   otec haplcá, probúva, váha i náhli sa a často sa ztratí, za ten   čas ona pevne, dôsledne kráča svojou cestou. Ona vidí, tuší, predvída   veci budúce, na ktoré otec nemá kedy pomyslieť. Ona sa teší i bojí i   trasie vopred
+   </tei:p>
+   <tei:p>
+    ﻿138
+   </tei:p>
+   <tei:p>
+    — otec je slepý a žasne nad tým, čo mat už dávno vedela. Áno, i v   jej duši zajasaly zore tej radosti, že syn dovedie do domu nevestu.   Predstavovala si ju, aká má byť, hľadala, preberala, ktorá by bola   taká. Nie, takej nieto v Polome! Ba ani v okolí a hádam na celom   svete jej nieto. Ktoráže by i mohla si trúfať postaviť sa k boku jej   synovi? Nieto ničoho dostatok: ani krásy, ani dobroty, ani rozumu, a   ani majetku. Všetci ľudia sú prihlúpi, aby mohli posúdiť, čo bol jej   syn. Nie, niet jedného, čo by do gruntu ho ocenil. Iba ona vie, akú   má drahú perlu ... A všetko to uletelo v jednu chvíľu! Najbohatšia zo   všetkých stala sa naraz žobráčkou ... „To musel byť omyl!“ rozmýšľa.   „Mne sato nemalo stať, prečo akurát mne? To sa malo stať ktorejsi   inej — ktorejkoľvek. Veď ktoráže mala také dieťa, ako ja? A či som   azda nejako zhrešila, že je to trest za to ? Prečo akurát mne, prečo,   v -v U prečo ? A ako sa dostala k tejto otázke, zas cíti velilcú   trpkosť v srdci. Nejednu noc sa zožierala tou trápnou otázkou: prečo   — prečo? Neraz dobíjala s ňou vášnivé k nebesám. Ako je to trpké a   zúfalé nedostať odpovedi! Keď ťa oškodí človek, povie ti aspoň, prečo   ťa oškodil; alebo aspoň sa dovtípiš, že si to sám zavinil. Skoda nie   jé taká citlivá, keď vieš, prečo. Iba pri takejto ohromnej ztrate,   keď všetko, všetko, všetko padlo v jednu chvíľu: darmo sa pýtaš,   prečo. Ani len tej slamenej útechy sa nedočkáš.
+   </tei:p>
+   <tei:p>
+    V.
+   </tei:p>
+   <tei:p>
+    Pred pohrebom vybrala sa do fary oznámiť podľa obyčaje, že všetko   je hotové. Muža neposlala do fary. I tu povolila tej hrdosti, že   dokončí,
+   </tei:p>
+   <tei:p>
+    ﻿139
+   </tei:p>
+   <tei:p>
+    čo začala. Pán farár ju neprepustil hneď; ako vidno, chcel by s   ňou prehovoriť.
+   </tei:p>
+   <tei:p>
+    „Vari viete niečo viac o ňom, o tom nebohom?“ pýta sa jej.
+   </tei:p>
+   <tei:p>
+    Rychtárka je v rozpakoch. Nikomu sa nesverila s listom, čo uňho   našla, ani mužovi. Jej sa zdá, že nikomu nič do toho, čo sa stalo   medzi ňou a nebožkým. Teraz nevie, čo je lepšie: mlčať, či   vyzradiť.
+   </tei:p>
+   <tei:p>
+    „Keby sme aspoň vedeli, či má rodinu v Kameňanoch, či nie.“
+   </tei:p>
+   <tei:p>
+    „Má mater ešte, vdovu učiteľskú. Otca už nemá.“
+   </tei:p>
+   <tei:p>
+    „Tak predsa viete čosi viac! A v písme o tom nič nestálo. Kto vám   to povedal ? “ „List som našla v jeho šatách“, priznáva sa už,   vidiac, že darmo tajiť, keď sa raz podriekla. „Veľmi pekne ho   napísala, jeho mať.“ I predložila list pánu farárovi, lebo ho nosila   od včerajška pri sebe.
+   </tei:p>
+   <tei:p>
+    Pán farár ho prečítal, ruka s ním klesla, a on zadíval sa do kúta.   V oku sa mu blyští slza. „Vidíte, to ste nám mali povedať. Keby ja   bol toto vedel, bol by jej telegrafoval. Bola by prišla na pohreb.   Toto jej bude veľmi ľúto.“
+   </tei:p>
+   <tei:p>
+    Rychtárka je zničená. Celá jej hrdosť polámala sa na trosky.   Nenazdala sa, že toto sa môže stať. „A ja som na to ani nepomyslela“,   robí si výčitky. „Ja som na ňu celkom zabudla, i na všetko. Celý deň   myslela som na syna a na seba. Ako to bolo mrzko -— hl’a., trest za   to...“ Velká bolesť prišla jej na srdce. Či jej odpustí kedy? Ona by   ver’ nikdy, nikdy neodpustila, keby jej bol niekto tak urobil, ako   ona jeho materi. Veľký žiaľ je materi pochovávať jediného syna: ale   chybieť na jeho pohrebe, toho by ani nepreniesla. Čo aký
+   </tei:p>
+   <tei:p>
+    ﻿140
+   </tei:p>
+   <tei:p>
+    smutný je pohreb, teší nás aspoň, že my sme ho vystrojili. „A bola   by naň dobehla?“ pýta sa. „Keby lén nie •— keby len nie!“ žiada si v   duchu. „Prečo nie?“ odpovedá pán farár. „Vedela by včera po obede.   Cez odpoludnie a cez noc bola by iste dobehla. Konečne i pohreb by   sme boli trochu odtiahli, keby sa bola sľúbila, že príde.“ Rychtárka   sa pustila do plaču. „A čo vám je?“ „Bude mať ťažké srdce na mňa, že   som jej nedala znať. Ale ja nie naschvál: to tak akosi, ani mi to do   hlavy neprišlo.“ „Teraz už rozumiem, prečo mu strojíte taký pohreb.   Myslel som, že vás to len tak nadišlo. No, neplačte preto“, teší ju   pán farár. „Ktože by vám vytýkal, že ste to naschvál robili! Máte za   svedka celú obec, že ste sa ho zaujali naozaj kresťansky. Vášmu   mužovi budem veľmi dohovárať. Počúvam, čo chcel s nímv robiť za živa   i pó smrti. To som nemyslel o ňom. Šetriť obec je dosť miesta i času   pri iných veciach: na príklad, keď sa síde výbor a položí na stôl   obecná krplca... Ale takéto gazdovanie je mrzkosť pred Hospodinom!“   „AVď i ía som skoro to isto vravela.“ „To vás i chváli“, doložil   vľúdne. „Len ša vás opýtam ešte čosi: boli by ste sa zaujali takto   hocikoho, napríklad starého žobráka?“ Pozerá jej skúmavo do tvári. Na   nej hrá prekvapenie z takej nečakanej otázky, pochybnosť, neurčitosť.   „Mne sa všetko zdá, že vám prišiel na um váš chlapec. No, no!   Nemusíte hneď plakať. Vy za ním želiete, to konečne nik nekarhá: len   či v tom žiali sa neskrýva zúfalosť a výčitka proti Bohu? To by ja   rád vedieť.“ „Keď som mala iba toho jedného! vykríkla s divým bôľom.   „Veď to nik nevie, čo je to: po-
+   </tei:p>
+   <tei:p>
+    ﻿141
+   </tei:p>
+   <tei:p>
+    chovať jediného syna! Čomu som sa mala úfať? Iba jemu. Čomu sa už   teraz úfať? Čomu? Bože, načo som ja ešte na svete! Kňaz bol jej   zúfalstvom ohlušený. Nebol by veril, že sa odváži tak verejne s ním   predstúpiť. Má tešiť, dodať sily viere, rozohnať zúfalosť. Kde vziať   síl na takú úlohu? Veď sa tu treba boriť! S ktorej strany začať útok,   kde je najprístupnejšie? Mnoho ráz mu jej prišlo ľúto, keď ju videl   akoby utopenú vo vlastnom žiali. Neraz oproboval rozháňať tie oblaky.   Ale pokusy zle vypadly. Našiel zakaždým srdce uzavrené, neprístupné   úteche, iba žiaľu. Dnes sa pokúsil zas, a tu je on prekvapený, nie   ona: on čaká tú samú uzavrenosť, a hľa — aká vášeň vybúšila naraz!   Uvážil vec a privlastňuje ju neobyčajnej udalosti s pocestným. „To sa   vám len tak vidí. Máte vy dosť prečo byť na svete“, začal veľmi   mierne. „Veď ani červík chatrný nie je tu bez cieľa: a vy by ste   nevideli cieľa svojho! Len sa obzrite dookola, a hneď vám padne do   očú. A či dnešný príklad vás nepoučil, že vás je tu naozaj treba?   Keby nie vy, tento mŕtvy bol by prevláčaný, kto vie kde. Vás vyvolil   Hospodin za nástroj, aby sa to nestalo. Ako je to krásne, keď človek   vie, že bol nástrojom Božím! Ako by ste sa nemali čomu úfať ? Máte   ver’ čomu. A to vaše nešťastie! Myslíte, že iba vy ste ho okúsili?   Pozrite len túto učiteľskú vdovu. Ozajstná vdova Naimská! Ztratila   nielen syna, ale i jediného živiteľa. Jej sa dostane nielen žiaľu za   synom, ale hodne a ťažkej biedy. Povedzte ešte, že ste nešťastnejšia!   Veď vás Boh vyznačil nad iné. Začali ste s mužom z ničoho, na holej   dlani — dnes máte prvé gazdovstvo v obci, česť a vážnosť od   spoluobčanov. Či nemusíte uznať dobrotu Božiu? Keď neviete, načo ste   tu, tak vám poviem: vynakladať a užívať tieto statky dobre
+   </tei:p>
+   <tei:p>
+    ﻿142
+   </tei:p>
+   <tei:p>
+    a svedomité. To je úloha krásna, veľká a ťažká. Málo, veľmi málo   ľudí jej rozumie. Vy myslíte stále iba na mŕtvych. Nuž pamätajte, že   ani my nie sme tu stáli. Sme iba hostia: prichádzame a odchádzame.   Jeden je tu dlho, dlho, až ho to omrzí, iný zas nakukne, a už ide   preč. Všetko je tu do času, iba do času: stálosti tu nehľadajte. Lebo   ak sa nazdáte, že je tu už všetko stálo —- tak sa vám zle povodí, ako   sa vám povodilo. Nieto stálosti — preto odišiel i váš syn.“ „Ale   prečo vtedy, keď mal i sebe i nám robiť najväčšiu radosť?“ „A čo je   naša radosť?“ pýta sa farár náhle s úsmevom. „Príde a uletí prvej,   ako sa nazdáš. Je azda stála? Je ako u detí: smejú sa, tešia sa, a už   plačú. Radosť je plaché vtáča; pri prvom šuchu uletí.* Ani by nebola   radosťou, keby bola stála: sama od seba by musela uvädnúť. Tak, ako   deti tešia sa hračke, iba kým je nová, a potom ju zahodia. Radosť je   nie vtáča, aby sa dalo do klietky zavrieť a stále nás tešilo: je   vtáča, ktoré chytené v klietke umiera. V tom práve záleží tá   nestálosť. Ledva ti k srdcu niečo prirástlo, už ho nemáš. Srdce musí   sa naučiť zabúdať a odvykať: ten človek je šťastný, ktorého srdce   zabúda najľahšie. A naučiť sa hľadať náhradu, ktorá tiež potrvá iba   do času. To je naša radosť — ako aprílové slnce...“ Rychtárka sedí s   očima k zemi uprenými a mlčí. Čo tu počúva, to je všetko svätá   pravda. Ona to sama zkúsila. Kňaz hovorí, ako by jej zo samého srdca   čítal. „Len prečo je to, prečo?“ pýta sa viac sama seba. „Prečo? Lebo   nieto stálosti. Nič stáleho! Samá premena. A každá premena raní   srdce. Premena ide za premenou, rana za ranou letí na srdce. Radosti   nemáš stálej, tak ako nemáš stálej bolesti.“ „A načo sú tie premeny —   načo sú?“
+   </tei:p>
+   <tei:p>
+    ﻿143
+   </tei:p>
+   <tei:p>
+    Pán farár prešiel po izbe a zastal si pred ňou. „Hneď vám poviem:   nato, aby sme k tejto zemi neprirástli. Aby sme vedeli, že sme tu nie   na veky, ale do času. Každý koreň, ktorým ku svetu prirastáme, býva   preťatý. vNato, aby sme sa naučili pozerať v inú stranu. Cím väčšmi   prirastáme k svetu, tým viac i trpíme pre nestálosť vecí svetských.“   „A kto by bol najšťastnejší?“ pýta sa rychtárka. „Ved takto nikto   nemôže byť šťastný!“ „Veď ani ho nieto takého. Šťastný by bol iba   ten, kto by zdrvil v sebe človeka zemského, kto by vykrojil zo srdca   všetky city, túžby, ktoré sa nesú k nestálym veciam. A kto je z nás   taký? pýta sa so zádumčivým úsmevom. „Kto je medzi nami nie krehký?   Všetci sme slabí, a preto i nešťastní. Len jeden v takom, druhý zas v   inom — ale nešťastní sme všetci.“ „O, to je hrozné, to je hrozné!“   dumá rychtárka, tisnúc šatku medzi rukami. Sama nevie, ako sa z fary   vytratila. Keď vyšla na ulicu, ako by ju nesmierny balvan privalil.   Srdcu je tak úzko, tak bôľne. Zdá sa jej, ako by sa všetko bolo   zmenilo. Ako by so všetkých strán dorážala na ňu pleseň a puch   hniloby. „Nestálosť — nestálosť!“ ozýva sa jej v duši, ani v pustine.   Znamenite pochopila hlboký význam toho strašného slova. Takého   strašného, že pod ním stená a plače veškeré tvorstvo...
+   </tei:p>
+   <tei:p>
+    „Nie je pravda!“ bráni sa zúfale pred útokmi toho slova. „To iba   vymysleli, aby nás, nás mohli strašiť. Je stálo čosi — i radosť je   stála. Radosť vo deťoch? Ako by mohlo to padať pod taký ukrutný   zákon? Ja som cítila radosť ustavične, a každá mať ju cíti.,.“
+   </tei:p>
+   <tei:p>
+    Ako by ju tešilo, keby našla na to živý dôkaz! Jej by neveril   farár, a čo to popočúvala, tiež sama
+   </tei:p>
+   <tei:p>
+    ﻿144
+   </tei:p>
+   <tei:p>
+    sebe neverí. Kto jej dokáže, že to je tak, alebo naopak? , Práve   bola pred ľuptákovským domom. Obloky sú otvorené do korán, vyzerá   nimi tma, nikto sa v nich neukazuje. Svadba sa začne až po pohrebe,   tak naveľa, navela zariadili, aby sa stalo všetkým po vôli. „liala —   Žofia mi dosvedčí!“ dumá si rychtárka. „Rada by vedieť, či tá nemá   radosti ústavícnej! Našla ju v komore, medzi stôsami koláčov a   všakovej dobroty, na veselie prichystanej. Žofia si to prehliada so   spokojnosťou, akú cíti gazdiná po týždni, strávenom pred vykiírenou   pecou, nad vydareným pečivom. „Čože robíte?“ prihovára sa jej   rychtárka bledá a zničená. Táto otázka, ako ju urobila, ju už uráža   svojou všednosťou; kde je srdce rozbúrené, svíja sa mukami. No treba   sa premáhať. „Kadečo! Ako mat! pred synovým veselím. Musíš opatriť   všétko. Žofia to vraví skoro jedovaté. Nezabudla, čo sa predvčerom   večer porobilo. Jej sa zdalo, že nikdy nebude môcť pozrieť na ňu. Ale   predsa sa len utíšila, keď sa to zariadilo tak opatrne, že pre pohreb   nebolo treba svadbu na tri dni odložiť. Na tri dni preto, že po   štvrtku je obyčaj sobášiť sa v nedeľu, alebo v utorok. „Povedzte mi,   Žofia, ale tak naozaj: tešili ste sa ustavične v synovi? Žofia nevie,   čo odpovedať tak napochytre. Otázka taká divná, i tak divne   vypovedaná. Obzerá si rychtárku, či je pri dobrqm rozume. „Či   napríklad dneska sa radujete, alebo nie?“ „Ja veru sama neviem“,   odpovedá váhavo. „Prichodí mi i tak, i tak...“ „Tak vám syn nerobil   radosť?“
+   </tei:p>
+   <tei:p>
+    ﻿145
+   </tei:p>
+   <tei:p>
+    „To nemôžem povedať. Ja mám syna podareného“, vraví notáriuška   hrdo. „Tak ste mali z neho ustavične radosť“, nalieha rychtárka. „Veď   radosť, ale to vždy bola iba. taká, ako ukradnutá. Kým bolo malo,   vždy som sa oň triasla, že mi tiež umre, ako deti, čo som mala pred   ním. Keď sa vo sne prebudil, alebo zakašľal, už som nemala pokoja. I   srdca som si dosť preň nazožierala. A čo som vystála, keď šiel do   lósov! Čo raz šiel, ako by mi srdce po kuse krájali. Za tie tri roky   som ostarela väčšmi, ako za iných desať. A potom že už budem mať   pokoj! tak som sa úfala. Ale veru nie. Bála som sa ustavične, že keď   už chodí medzi tú mladú čeľaď, že mi nejakú hanbu urobí... Veď viete,   všakovak sa stáva. Tu zas, že si bude chcieť vziať niektorú nesúcu do   nášho domu. Ach, mať je stvorenie biedno. Musí sa báť, strachovať za   deti, lebo ony samy sa neboja — ony sú slepé...“ „Ale nemáte sa už   čoho báť, keď sa vám žení. A žení sa dobre!“ „Dal by Pau Boh! vzdychá   Žofia, zrejme sa rozohrievajúc. Už zabudla, čo bolo medzi nimi. „Ale   vopred ťažko povedať. Stáva sa takô i takô. Chceš, aby bolo dobre, a   vypadne zle. Dedina naša je malá, a koľko v nej nájdete nespratných   neviest. Za dievoctva nik by sa nebol do nich nazdal, že im rožky   podrastú. Ale ako sa vydaly, už ich čerti preleteli a do testinej ako   osy. I korhelíc sa nájde, a dievkou ani jedna nepila. Nuž akože môžeš   vedieť, aké si stvorenie zaseješ do domu!“ „Takých je, chvalabohu,   predsa len málo“, teší ju rychtárka. Obavy Zofine i ju zaujaly;   zabudla pritom na to, po čo prišla. „Veď by bolo zle!“ vzdychá si a   už kladie ruku rychtárke na plece. Je dôverná. „Ale mne
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy VII.
+   </tei:p>
+   <tei:p>
+    IO
+   </tei:p>
+   <tei:p>
+    ﻿146
+   </tei:p>
+   <tei:p>
+    je akosi lúto — neraz mi Túto príde, keď si rozvážim...“ Tu jej   skočily slzy do očú. „Už to nebude u nás bývať, ako bývalo. Všetko sa   ide premeniť — a ešte je nič, ani veselia nebolo! Aký býval lco mne   dobrý a milý — bez matere nič. A čo stojí v ohláškach, celkom sa   premenil: ako by to ani on nebol! Ani raz si nesadol a neposhováral   sa so mnou. Uteká z domu — k nej. Ona ho už má celkom, a ešte si ani   neprisahali! A keď ona bude raz tu? Ako bude potom?“ Chvíľku   pomlčala, pomlčala, čakajúc pdpoveď, potom utrela si tvár a doložila   s výčitkou: „Nás nebudú mať za nič, ja to vidím. Starému najlepšie,   aby ho ani tu nebolo. Nezavadzal by aspoň mladým.” „Kdeže je tá   radosť? Vyhrabávaj ju zpod týchto rumov — hľadaj!“ posmieva sa   rychtärke kýsi neznám} hlas. „Nestálosť!“ opakuje si ona zronená   a slzy jej stoja v očiach. „No — akože ju potešíš teraz? •— hľadaj,   hľadaj!“ „Nie je to tak“, odpovedá rychtárka. Čosi ju núti, aby   potešila túto ženu v jej obavách. Aká to nezvyklá u nej úloha! Dosial   iba prijímala — teraz sama dáva. „To je preto, že ženba je premena,   veľmi veľká premena.“ „Veru premena“, prisviedča Žofia. „A každá   premena bolí. Bolí vás... A myslíte, že váš syn s ľahkým srdcom pôjde   pred oltár? Oj, stisne sa mu srdce. Ja pamätám, ako bolo so mnou. Keď   ma doviedli domov, srdce mi išlo puknúť. Prišla mi na um moja   svoboda, kde sa podela a že sa už nevráti, čo bys’ ju nechty   vyhrabávala zo zeme. Ale vy nemusíte zúfať. Vychovali ste syna   hodného. Ako by ste sa neradovali? Nebude taký, ako býval —váš muž   tiež držal so ženou skorej, ako s materou: to tak býva.. v“ „Ale aká   som ja bola ku nej!“ zvolala Žofia. „A možno i táto bude k vám, keď   ju pritú-
+   </tei:p>
+   <tei:p>
+    ﻿147
+   </tei:p>
+   <tei:p>
+    lite ku sebe. A potom privyknete ku nej, ju tiež budete mať radi.“   Rychtárke samej sa uľahčilo, že mohla nájsť týchto pár srdečných   slov. I teší ju jej nová úloha. Žofia, vidno, je potešená. Slová   ženy, ktorá takým krížom prešla, znejú jej, ako ozajstný sľub, ako   proroctvo. \ „Ach, Bože — také sú tie deti, také!“ vzdychá si, ale už   nie tak ťažko. „A ešte i na inej strane bude náhrada, pokračuje   rychtárka posmelená. Akosi dobre jej padá tešiť. „Budete mať vy ešte   dosť inej radosti. Prídu deti. Aká to musí byť radosť, varovať synove   deri!“ Hovorí to s takým oduševnením a istotou, že Žofia verí — verí.   „Ako ste ma potešili, ani neveríte! Tak sa mi uľahčilo. Ale vy   naozaj“, doložila obvyklým hlasom: „naozaj neprídete do nás? Ani za   svadbu by sme si to nerátali! Vidíte, ja som sa zaraz hnevala sama na   seba, čo som vám to vtedy povedala. I nespala som celú noc, že ma Boh   potresce na vlastnom dieťati, keď som vám vaše tak pripomenula. Ale   verte mi: ja som nechcela. V tom strachu nevedela som, čo vravím.   Nehnevajte sa preto: príďte...“ Rychtárke je tak ťažko! Čo sa s   ňou dnes stalo, najlepšie by jej bolo sadnúť do komory a pohrúžiť sa   do bolesti. Veď nemá vlastne čoho sa chytiť. Dodnes ju držala hrdosť,   že iba ona je ťažko zkúšaná, žiaľ celkom oprávnený. A tú hrdosť v nej   podrazil farár, a Žofia nevedomky porúčala a nohami podupkala po nej.   Veď takto nemožno žiť — nie, nemožno! Treba niečo iné hľadať, čoho sa   chytiť. Ale čoho, čoho? A s takým rozmrveným srdcom ísť jej na   svadbu, pozerať na veselosť a jej samej veselosť ukazovať! Kde na to   sila?
+   </tei:p>
+   <tei:p>
+    TO*
+   </tei:p>
+   <tei:p>
+    ﻿148
+   </tei:p>
+   <tei:p>
+    „Vy sa hneváte, už to vidím, keď nechcete!“ dohovára jej Žofia. Má   jej odoprieť? Veď vidno, ako by ju to zronilo, starú Žofiu. Tým by   podvrátila všetko, čo pred chvíľou na potechu jej spomínala. Alebo má   jej srdce otvoriť, dať nazrieť, aká búrka v ňom zúri? Keby doň   nazrela, iste, iste by nenástojila vidieť ju u seba na veselí. Ale čo   by to osožilo? Nič. Lebo celú tú búrku preniesla by do srdca tejto   ženy, do srdca, neotuženého súžením. Nie, to nesmie urobiť... „Tak   prídeme i so starým, po pohrebe. Majte sa dobre!“ „Nože, nechoďte   ešte!“ zdržiava ju Žofia. „Neviem, kedy budeme ešte takto na slove.   Len vám chcem ešte čosi povedať. Mne vás bolo vždy ľúto, čo vás to   zašlo. Veď váš Jurko bol s mojím v jednej vrstve. Božechráň, aby sa   ja bola radovala! Neraz som zaplakala, keď som prešla popri jeho   hrobe.“ „Ja viem, ja viem“, odpovedá rychtárka. „To vám preto   povedám, že ste ma tak potešili.“ „Teba som potešila“, myslí si   rychtárka idúcky — „aleja čo! Ani v deťoch stálej radosti! Len ako je   to, prečo je to? A ešte som si myslela, že to farár vymyslel. Ale som   nevedela dobre, ze je to tak, tak? Veď ani tá, čo svetu darovala   Spasiteľa — ani tá necítila ustavične radosti. Ba skôr iba strach,   keď ho dal chytať Herodes, strach, keď sa jej ztratil v jeruzalemskom   chráme. A keď dorástol, zasa večný strach o jeho život. A keď ho   lapili, mučili, na kríž pribili... O, nie darmo ju volajú   sedmibolestnou! “
+   </tei:p>
+   <tei:p>
+    VI.
+   </tei:p>
+   <tei:p>
+    Ako zadali zvoniť na velkom zvone — znak, že farár s učiteľom sa   blíži — chlapi vyniesli
+   </tei:p>
+   <tei:p>
+    ﻿149
+   </tei:p>
+   <tei:p>
+    rakev, veľmi peknú, z rezačky do dvora. Nepostavili okolo nej   lavíc, ani stoličiek — nemá kto nad ňou vykladať. Ženičky už to   dojalo; rozplakaly sa všetky, akoby v náhradu. Je to plač tichý, ale   zato bez pokrytstva, úprimný. Vyšla na dvor i rychtárka vo   sviatočných šatách. Zdá sa, že je omnoho stäršia. I jej prichodí, ako   by dnes dlhý, dlhý čas so všetkými útrapami jej bol prehrmel ponad   hlavu. Veď v krátkych pár hodinách prežila a precítila viac, ako indy   za roky. Zdá sa jej, že nielen ona ostarela, ale ostarel celý svet.   Neusmieva sa oproti biednemu človeku, neplače — je mlčanlivý, prísny   a vážny, ako starec. Prežila dnes mnoho. Za chvíľku ztratila všetko,   čo bolo ako perla v srdci ukryté. Farárova ruka siahla doň ukrutne,   všetko rozmrvila, zničila — nechala iba krvavú ranu a bolestnú.
+   </tei:p>
+   <tei:p>
+    Aká bola len včera ešte šťastná! Nosila so sebou krásnu   rozpomienku, na syna, verila sväté, že v ňom, v ňom utratila všetko.   Na tej rozpomienke visela s celou dušou. A tu farár podlomil tú vieru   a nevinná Žofia nevedomky ju rozšliapala. „Čomu teraz žiť? Načo som   ja, načo teraz ešte na svete?“ dumá, pozerajúc pred seba. „Mňa už tu   naozaj netreba... “ Zadívala sa na rakev ;a myslí si: „Prečo ja   neležím v nej? On, jediný stĺp materi, prostred života, plný nádejí,   musí ísť. A ja, so srdcom zabitým, viac mŕtva ako živá, sa tu ešte   tmolím. Ale načo sa i spytovať, prečo — nestálosť, nestálosť!“ —   opakuje si rozhorčená. „Ako mi ho je ľúto — čo nikdy, nebožiatko!“   prihovára sa jej Dóra Hraškovie, s očima, ako mäso vyplakanými. Plače   už hodnú ch vilku. Jej je to nesmierne ľahko, nevynechá jedného   pohrebu v obci, pomáha vykladať a nechybí nikda na kare. Čo na   pohrebe vyplače, to zas na kare nahradí dobrým hriatym. Rychtárka i   mimo pohrebov jej
+   </tei:p>
+   <tei:p>
+    ﻿150
+   </tei:p>
+   <tei:p>
+    je veľmi užitočná. Čo sa jej raz pomohla vyplakať nad synom, to   vždy odchádzala s veľkým uzlom múky, s rezňom slaniny a podobnými   vecmi. I teraz sa jej pritiera, lebo u rychtára sa včera pieklo;   možno, i kar bude. „Ani len neodpcčíva tam, kde sa narodilo. Ach,   Bože, aký je ten náš svet!“ „Veru“, prisviedča rychtárka sucho. Dóra   jej je protivná. Dnes vidívprvý raz jasne, že Dóra s ňou plakávala z   remesla. Čo sa naplakávaly — a to všetko po daromnici! Všetek ten   plač bol zbytočný. Pozerá po prítomných. Ako závidí ženám, že tak   srdečne môžu plakať. Tie ešte nepočuly, nevedia, že plakať je vec   daromná. O, čo všetko ešte nevedia! I jej muž je v humne medzi   chlapmi, sviatočne oblečený, oholený. Aký je šťastný! Nepozrel ešte   na dno, nevie, čo ona sa dozvedela. Nepýtal sa nikdy, prečo je to,   načo je to: uspokojil sa tým, že tak to má byť. Čo by dala za to,   keby si mohla prisvojiť jeho: poručenobohu! a vyhnať všetko, čo je   nazvyš toho, zo srdca. Jeho myseľ je nedotknutá pochybami, jasná. Zdá   sa jej, že on je ešte veľmi, veľmi mladý popri nej. Jemu je to všetko   jasné a prosté. On vie, že pohreb musí byť, bez plaču sa nemôže   obísť, a čím viac plaču, tým je krajší. Pri mládencovej rakvi má stáť   chór družíc, ovenčených, a jedna má držať venček zimozeleňa. A tu je   všetko tak — družice obstúpily rakev, a jej muž je úplne spokojný. K   tomu prispieva i to, že jačmeň konČa lúky je na radku a znamenite   schne na dnešnom slniečku. „Ach, Bože, kde sú tie, časy, keď som ja   bola taká! horekuje v nesmiernej bolesti. „Kedy to ?“ duš Ľupták tiež   sa dostavil. A ostatní lpLlt®vftosttavili — pohreb ide byť veľmi   krásny. neho ? Ona nevie, načo. je to všetko, -Aratíí   nevie, načo a kde je začiatok a kde
+   </tei:p>
+   <tei:p>
+    ﻿151
+   </tei:p>
+   <tei:p>
+    koniec. A keď pozre po dlhom rade prítomných, na každom badať, že   vie, načo je tu — vlastne, že na to nikdy nepomyslel. Tak je to a   tedy tak musí byť. Ona jediná, ona sama chcela vedieť viac, chcela   vidieť grunt a koreň všetkého, a zvedavosť zaplatila draho. Predtým   mala čosi, o čom myslela, že má veľkú cenu — dnes nemá nič, nič...   Keď odznela pieseň, zadívala sa k stolíku, bielym obrúskom pokrytému.   Vstal kňaz. S hnevom pozerá naňho. On je jej nešťastia pôvodcom.   Vylákal ju z raja, slzami pokropeného , síce, ale predsa z raja, a   vysotil dov púšti medzi sluje a divé šelmy. „Čo ešte povie? Čo má   ešte povedať?“ pýta sa so zlostnou zvedavosťou.
+   </tei:p>
+   <tei:p>
+    Kňaz si vybral predmet: Pohostinu sme na zemi. Nemáme tu miesta   stáleho...
+   </tei:p>
+   <tei:p>
+    Rychtárka je dychtivá zvedieť, čo o tom povie ďalej. Veď pred   hodinou o tom sa s ňou shováral Jeho hlboký, zvučný hlas je mäkký,   divne ju dojíma, ako by krotil rozbúrené srdce. No utíšiť sa nechce,   lebo kňaz práve rozpráva o márnosti a nestálosti všetkého, čo je tu.   Práve, čo už bola od neho počula, čo ju rozrušilo až do základov   duše. Pokračoval v tej práci neúprosne, ako by podkopáv.il pôdu, na   ktorej dosial stála, na ktorej stavala svoje snyv o šťastí. „Čo   teraz? Čo teraz?“ pýta sa s divou zvedavosťou. „Kde sa teraz už   vrhnúť?“ „Akí by sme boli biedni“, pokračoval tu farár hlasom, v   ktorom sa skutočne ozýval hlboký súcit: „akí biedni, keby sme na   tomto dočasnom, nestálom a vrtkavom svete chceli budovať svoje   šťastie! Prišly by časy, kde by sa nám otvorily oči, kde by spadly s   nich šupiny, ako spadly s očú Saula — a loďka života nášho, bez vesla   a kormidla, zmietaná búrou života, nenašla by prístavu pokoja.   Opravdové šťastie môže sa staväť
+   </tei:p>
+   <tei:p>
+    ﻿152
+   </tei:p>
+   <tei:p>
+    iba na základe, ktorý položený je — Ježiš Kristus. To je jediná   trváca, pevná opora. A preto, biedna duša ľudská, sklamaná a ubitá   premenami života a nestálosťou všetkého časného, neklesaj do   zúfalstva, ale obráť oči v plnej viere, v plnej dôvere k Tomu, ktorý   má svoj trón na nebesách a zem za podnož mu slúži! Tam je stálosť,   tam je trvácnosť, tam i radosť bez prestania, bez premeny!“ „To je už   slovo!“ splesala rychtárka, načúvajúc nielen ušima, ale celou dušou.   To slovo padlo ako vlažný dážď na vyschnutú zem. Cíti v sebe, ako   celá bytnosť jej sa osviežila, ako by povstávala z mŕtvych. Nové   svetlo sa jej zjavilo, osvietilo dušu, rozohnalo tmu, a nielen   svieti, ale i hreje. Otvára mu dušu do korán, bo vidí, že ináč niet   pre ňu spásy. „To mne káže — mne káže! vraví si blažená, lebo   zastihla, ako farárov pohľad práve jej sa dotkol pri tých slovách a   na nej i spočinul. „Tedy ma neopustil — nedal mi zahynúť, blúdiť —   priskočil mi na pomoc, keď bolo najhoršie.“ Vďačnosť v tejto chvíli   nemá u nej hraníc. Vrhla by sa mu k nohám a tak by mu ďakovala.   Všetko, čo má, všetky statky by mu darovala. Lebo on zachránil jej   život, ba viac: vyviedol jú z tmy zúfalstva. Teraz jej je už jasné,   prečo prví kresťania kládli statky svoje k nohám apoštolov... „A ako   radi zakladáme si na dočasných sväzkoch , vykladá kňaz ďalej,   „pokladajúc ich za nerozlučné, za večné. A jednako ani sväzky   najtuhšie nie sú dosť pevné, aby ich nezastihol osud všetkého, čo je   na zemi: nestálosť; aby neprikročila smrť a neroztrhala ich. Hoci o   tom denne, každej hodiny sa presvedčujeme, hoci vieme, že sme   smrteľní, piedsa, keď nastúpi to, čo nastúpiť muselo, zúfame a rúhame   sa proti Bohu i jeho vôli. V dočasných veciach hľadáme svoje šťastie,   svoju radosť, svoju spásu.“
+   </tei:p>
+   <tei:p>
+    ﻿153
+   </tei:p>
+   <tei:p>
+    Tu zas cítila jeho pohľad. Ale nebol to pohľad karhavý, ani   vyčítavý — bolo v ňom toľko povzbudenia a presvedčenia! Stalo sa, čo   sa kazateľovi málo kedy stáva: našiel, že jeho slovo nepadá na kameň,   ani mimo cesty, že padá na pôdu kyprú. Vidí, s akou dychtivosťou visí   na jeho perách’. A. to dodáva mu chuti a ústam jeho výmluvnosti.
+   </tei:p>
+   <tei:p>
+    „My sme hostia. Za hosťom nám je Túto, keď od nás odchodí, a ešte,   keď hosť bol milý a my sa úfali, že dlho, dlho bude bývať pod našou   strechou. Ale čo i ľúto, predsa sa potešíme, že nie navždy sa lúči s   nami, ale po čase s ním sa sídeme a zas potešíme spolu._ I to nám   dáva útechy, že hosť náš nebude sa potĺkať po cudzom svete, ale že   ide rovno domov. Za našimi umretými je nám tak Túto. Ba často ani   potešiť sa nedáme nad ich odchodom, ako sa nedal potešiť patriarcha   Jakob, keď mu synovia ukázali rúcho drahého syna Jozefa. Plačeme za   nimi zúfale, bo si myslíme, že lúčime sa na veky, že oni umreli na   veky. A ono, ako Jakob plakal darmo, lebo syn jeho neumrel, ale po   rokoch ho zavolal k sebe a ukázal sa mu vo veľkej sláve: tak i my   darmo zúfame nad smrťou našich drahých — lebo oni neumreli. Zabúdame,   že boli tu len pohostinu, do času medzi nami, že odvolaní sú, keď   hodina nadišla, od nás; ale odvolaní domov, do tých večných stánkov,   kde panuje stálosť, trvácnosť, kde nieto plaču, ani žiaľu.“
+   </tei:p>
+   <tei:p>
+    Človek prostý má pred nami jednu prednosť: srdce prístupné   viere. Prijíma ju ako dieťa, nepýtajúc sá, zkadial prišla, načo   prišla. Tú možno iba závidieť. Lebo kým človek učený hapká, behá,   blúdi sem i ta, človek prostý kráča pokojne svojou cestou, často veru   tŕnistou. Toto srdce si zachovala rychtárka cez všetky útrapy a   prevraty, aké
+   </tei:p>
+   <tei:p>
+    ﻿154
+   </tei:p>
+   <tei:p>
+    ju zastihly v živote. A teraz prijíma potechu, šťastná je a   spokojná. „Ako krásne hovorí, všetko je tak, všetko!“ dumá radostne   rozochvená. „Či nebol i tento tu iba hosť? Naozajstný hosť, i umrel   ako hosť. Ako je to krásne! Vyprevádzame ho, ako hosťa, roníme slzu   za ním, spievame mu pieseň. Akú má cestu veselú! Už nepôjde z dediny   na dedinu, ide rovno domov, domov... I družice ho vyprevadia s   vencami a kvietím, i rozlúčime sa s ním; každý hodí mu na rakev hrsť   zeme...“ Je šťastná, že takto môže podopierať kňazove výpovede. Už sa   jej ani nezdá všetko takým zbytočným a smiešnym. Naopak, slzy   ženičiek dojímajú i ju — tak dobre padne vidieť, ako želejú za   hosťom. I ona plače, i ona, ale aké sú to slzy! „Ako je to inakšie,   celkom inakšie — nie ako som si myslela“, rozpriada ďalej svoje   myšlienky. „Co som sa naplakávala!“ A tu si spomína na žial za synom.   Bol veľký, zúfalý, no teraz rozpomienka naň je sladká. Tak, ako z   detstva každá rozpomienka býva sladká. Veď ešte dnes ráno bola   vlastne iba dieťa: ako by jej ináč bola mohla ujsť vec táliá prostá!   Veď vlastne to ináč ani nemôže byť — to musí byť takto! A ona čo   všetko nerobila! Ako decko bola, čo sa načahuje za mesiacom a chcelo   by siv ho vziať, a keď ho nemôž’ dosiahnuť, srdí sa. Čo iné bol plač   za synom, ako plač trucovitého decka, čo sa na nemožnosť upriamili;?   „Akí sme my malicherní“, pokračuje kazateľ: „chceli by sme   predpisovať Pánu života i smrti, dokedy má nás nechávať v tomto   pohostinstve: ako by on nevedel najlepšie, aký cieľ každému uložil.   Podľa našich žiadostí nikto by neumieral, večne by trvalo toto naše   otroctvo, táto poddanosť nestálosti a premenlivosti; alebo zas, keď   náru-
+   </tei:p>
+   <tei:p>
+    ﻿155
+   </tei:p>
+   <tei:p>
+    živosť sa v nás zobudí, zničili by sme všetko, všetkých by sme   ztadiaľto vyhnali, aby nám nezavadzali. On, ako dobrý hospodár,   odvoláva jedného a na osirelú postať stavia delníka druhého,   čerstvého, sviežeho, aby pracoval na svojom i na iných ľudí blahu a   spasení.“ „Taká som bola“, priznáva sa rychtárka. „I mne sa nezdalo,   že ho odvolal. A. predsa, kto vie, čo vby bolo z neho ? Ako sa mohol   premeniť! Veď i Žofia sa žaluje A ja som chcela Jeho učiť — ja   nehodná!“
+   </tei:p>
+   <tei:p>
+    Kázeň sa skončila a sprievod kráča dolu dedinou, spievajúc pieseň.   S ňou sa mieša posvätný hlahol zvonov. Ona kráča s mužom hneď za   truhlou a pozerá po zástupe, ktorý za ňou ide. „Ako som im závidela,   že na nich neprišlo to, čo na mňa!“ dumá si. „Boly to ťažké, ťažké   hodiny. A aká som zas potešená, ako mi je dobre. Komu je to tak   dobre, komu?“
+   </tei:p>
+   <tei:p>
+    A neznať na nikom takej veľkej radosti. Veľká radosť môže byť   kúpená iba veľkým utrpením. A tu nieto takého, čo by bol prešiel   všetkými nížinami utrpenia a bol dosiahol tých výšin, na ktorých jej   duša sa vznáša. Tu hneď pri nej muž. Aký ide skľúčený. „Iste myslí na   syna/ vraví si. „A ja, čo som sa mu naubližovala, že ho nemal   rád. Nezabudol, nezabudol, i to ,poručenobohu‘ je uňho len po   obyčaji, zo srdca ono nejde. Keby tak zvedel, čo znamená, ale to   ozajstné: Poručeno Bohu! Iste, iste nekráčalby takto...“ A jej zrak   ide od jedného k druhému, na každom objavuje stopy utrpenia...   Všetci, všetci majú príčinu povedať: Poručeno Bohu. Ale kedy prídu i   na pravý smysel toho slova?
+   </tei:p>
+   <tei:p>
+    Tak jej ich srdečne ľúto! Každý nesie v srdci tŕň, ktorý pichá,   raní: a predsa všetci prišli na pohreb človeku neznámemu, ronia za   ním slzy. A
+   </tei:p>
+   <tei:p>
+    ﻿156
+   </tei:p>
+   <tei:p>
+    každý z tých trpiteľov mal i pre ňu srdečné slovo súcitu. I tá   Dóra Hraškovie! Ako jej pred chvíľou krivdila. I tá mala s ňou   sústrasť, hoci ona je žena chudobná, biedou až do čiernej zeme ubitá.   Všetkých miluje, všetkýcjr tých trpiteľov, tajných i zjavných:   každému by rada naliať balzamu hojivého do srdca. A. každému by mala   vôľu ďakovať: za to, že na ňu pozre, že s ňou slovo ztratí, že hľadí   ju potešiť... V tomto rozpoložení vyšla až na cmiter. Ani pohľad do   otvorenej jamy, tmavého lona matkyzeme, nepripravil ju o zlatý pokoj   duše. „Já jsem vzkŕíšení i život, praví Kristus Pán! ‘ intonoval kňaz   nad hrobom, a ona spievala s ostatnými: „Kdož verí ve mne, byť palc i   umrel, živ bude , spievala s posvätným zápalom. „Život — stály,   večný, bez premeny...“ Zvláštno, že čo dnes čuje, všetko jej vyznieva   v jediný tón: „Neboj sa, toto tu nie je všetko — toto je iba   priechod, iba zkúška: ale čo bude potom, to bude to pravé.“ A pod   týmto vedomím všetko ostatné sa tratí. Z týchto dúm vyrušil ju náhly   pohyb okolo jamy. Truhlu podvihli a spustili do jamy. Družica hodila   na ňu veniec zo zimozeleňa, ostatní hádžu jeden po druhom zeme po   hrsti. Ona tiež pristúpila k jame, tiež hodila hrsť zeme naňho. „Tu   sú zavreté tvoje nádeje, mať, ktorá netušíš, čo sa robí... Tak sa   končí tvoja krátka púť, tvoj zmietaný mladý život... “ A tu ako by   jej ukrutná ruka siahla na srdce a stisla. „Akí sme my predsa len   biedni — biedni...“ Stala si stranou, zakryla tvár a plače ticho.   Zem, padajúca na truhlu, ako by ju udierala do srdca. Konečne   odišiel kňaz s učiteľom, odišla i Dóra Hraškovie, sklamaná, že u   rychtárky karu nebude. A veď včera sa pieklo, mohla zavolať! Zostala   iba
+   </tei:p>
+   <tei:p>
+    ﻿157
+   </tei:p>
+   <tei:p>
+    ona a hrobári, ktorí kopia mohylu. Keď boli hotoví, pozreli jeden   na druhého významne, až jeden z nich preriekol: „Rychtárka, a kto   bude platiť ? Zmeškali sme deň, darmo tiež nemôžeme.“ „Už ste? A kde   sú druhí?“ obzerá sa udivene dookola. „Všetko už odišlo.“ „Príďte   zajtra. Ja vám zaplatím sama.“ „No, to už hej, keď vy. Ono nám tiež   tolme neprihára, že by sme sa už vonkoncom bez tých peňazí neobišli:   ale my len, že nás rychtár začne odťahovať. Lebo obci niečo robiť —   to už radšej Cigánovi. Cigán ti povie aspoň: prosím pekne, toto a   toto, a keď mu spravíš, ponížene ďakujem. Ale obec i nakričí na   teba, i rozkáže, i nepovie ani: čert ťa vzal, a ukáže ti straku na   kole. Zárobok od obce, to je ako na zajačom chvoste.“ „Obec toto   nebude platiť. To sa už inakšie zariadi.“ „Veď už nám či tak, či tak.   Ja len, že obci nehodno nič, lebo to je ako na deravý most položiť.   Iba z ruky do ruky. Ale ako z ruky do ruky, keď obec — čerti vedia —   je ako tá kostolná myš? Nie že by rychtár, rychtár je nie vina. Lebo   ako ti kuchárka navarí halušiek, keď nemáš v dome štipky múky a   kriačilc omasty. Rychtár ti nedá, keď je truhlica ako vymetená...“   Rychtárka vela nepočúva úsudkov hrobárových o bohatosti obce. Pustila   sa nadol. Chodník ju vedie popri hrobe, ohradenom červenou záhradkou.   Rastie na ňom ďatelinka a zimozeleň dookola; tiež kríky ruží, fialôk   a nechtíka. Na hrob hádže tôňu mladá, ale pekne rozkonárená zdravá   lipka. Ona ju vlastnoručne zasadila na hrob synov. Opiera sa o   zábradlie, hladí dnu — no nevidí rozkvitnutých ruží. Oči sú zaliate   slzami.
+   </tei:p>
+   <tei:p>
+    ﻿158
+   </tei:p>
+   <tei:p>
+    Idú jej dušou rozpomienky, koľko sladko-bolestných chvíľ tu   prežila. „Do času, do času rozlúčení“, šepce si, opúšťajúc synov   hrob.
+   </tei:p>
+   <tei:p>
+    Vyšla ostatná z cmitera, zavrela vrátka. „A ani je nie taký   smutný!“ dumá, dívajúc sa doň ponad nízky múrik. A naozaj, polomský   cmiter je šumný. Pokrytý zelenou trávou a kvietím, pravda už   zakvitajúcim, vysadený košatými lipami, v ktorých znie večná   slávopieseň včiel a vtáctva. Prestiera sa nad dedinou na kopci, ako   by chcel nazerať do nej: čo všetko môže. rozradovať, ale i rozžialiť   a ohromiť tých, čo tam dolu v tých bielych domkoch robotia, plačú,   vadia sa i tešia, smejú a tancujú. A nad ním jasné nebo, spokojné a   tiché, metá záplavu svetla a usmieva sa, ako by vravelo: „Vidím,   vidím všetko; mne nič neujde. Vidím i váš plač, vidím i vašu radosť.   A milujem vás, milujem, vy drobní červíčkovia, čo po matkezemi   hmýriete... “
+   </tei:p>
+   <tei:p>
+    Tu jej prišlo na um, ako v svojom žiali očakávala, že celá zem i   nebo musejú mať na ňom účasť, že musí sa na nich zjaviť niečo, čo   nikdy nebývalo. I ako sa hnevala, keď sa očakávanie nesplnilo. Nebo   sa i potom usmialo tak pokojne, tak ticho. Dnes už chápe, prečo sa   nezmenilo. „Stálosť, trvácnosť je, tam...“
+   </tei:p>
+   <tei:p>
+    Nuž krásny je ten polomský cmiter, krásny! Ako vstúpila do dediny,   ovial ju nový život. Ako by chodila zas v iných končinách. Zdá sa   jej, že bola na vysokej veži, s ktorej otvára sa výhlad na rýnok,   oživený šiatry a jarmočníkrni. Pestrý sa jej ukázal obraz, miestami i   smiešny. Vidíš pohyby, rozkladanie rukami, hru tvári, pohyb úst, a   slova nerozoznávaš, iba čuješ mrmot a hukot,
+   </tei:p>
+   <tei:p>
+    ﻿159
+   </tei:p>
+   <tei:p>
+    sťa vo včelnom kláte. Nuž podivná komédia na tom rynku. A naraz   zažiada sa ti, sídeš dolu, zamiešaš sa medzi ľud, a už si sám v tom,   v čom si obdivoval iných. Kričíš, božíš sa, hneváš, raduješ sa, a   nevieš, že to všetko pre kraj čiar; vieš iba toľko, že tak musí byť i   má byť, keď si raz na jarmoku. I zabudneš, že s veže zdalo sa ti   všetko smiešnym a malicherným.
+   </tei:p>
+   <tei:p>
+    Bola na veži, na výšinách, kam tak málo kto sa za života vyšvihne.   Sama sa ta nevzniesla, jej krýdla boly prislabé: stalo sa to   zvláštnou náhodou a či šťastím. A už ide nazad. Čosi ju ťahá, núti   začať znovu, čo bolo včera, zavčerom. Ale pohľad na to je iný: iným   zrakom díva sa už na svet. Čosi v nej dnes umrelo, to vidí — svet   predstavuje sa jej iný, akýsi obnovený...
+   </tei:p>
+   <tei:p>
+    Začína sa veselo. Ozýva sa hudba, veselá, že ti srdce poskakuje od   nej. Vychádza z Ľuptákovho domu otvorenými oblokmi. Už sú nie   prázdne. Mihajú sa v nich hlavy chlapské, podstrižené, i dievocké   ovenčené. Pod okny stojí hŕba divákov, zvedavých a natešených nad   rezkým tancom. Zastala i ona, jej tvár sa tiež usmieva. Oblokom ju   zazrel starý Eupták i vybehol prostovlasý na ulicu.
+   </tei:p>
+   <tei:p>
+    „Rychtárka, ale vy naozaj prídete! Aby ste i zistili!“
+   </tei:p>
+   <tei:p>
+    „Prídem“, odpovedá s úsmevom. Divno jej prichodí, že Ľuptáčke sa   sľúbiť stálo ju mnoho sebazaprenia. Teraz, naopak, jej je veľmi milo,   že na svadbu pôjde. „Prídem, len čo sa vyberieme so starým. Prídeme   spolu.1
+   </tei:p>
+   <tei:p>
+    Eupták nijako si nemôže vysvetliť túto náhlu zmenu. Mnoho rokov   jej takejto nevidel. Len pred pohrebom ako smutne stála pod stenou!   Dobre ju on pozoroval. A teraz takáto!
+   </tei:p>
+   <tei:p>
+    „Jednu cestu som vykonala, tú smutnejšiu“,
+   </tei:p>
+   <tei:p>
+    ﻿160
+   </tei:p>
+   <tei:p>
+    ukázala smerom k cmiteru, nad ktorým sa vypínajú lipy. „Vykonám   vďačne i túto veselšiu.“ „Veru to boly divné dve cesty“, vraví   Ilupták zamyslený. „Divné. Ako krížne cesty. Jedna tamto na vŕštek, a   druhá pred oltár.“ A dokladá s úsmevom ďalej: „I divne sa spriečily   jedna do druhej zavčerom.“ „Spriečily veru“, odpovedá ona — „ale nie   naozaj, iba očistom. Obe ony vedú do toho istého mesta... “
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

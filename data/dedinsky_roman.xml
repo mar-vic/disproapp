@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1890330" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Dedinský román : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6964
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Dedinský román
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1890
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Dedinský román.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿1. Keď Miklúš odtisol svoj, vlastne cirkevný spevník, na   pargamienach dobre obšuchaný a na reze ako obhryzený; keď vstal v   lavici, tej krátkej, vpravo od oltára, a pošepol halienku cifrovanú:   celý kostol zadíval sa v tú stranu. Ešte i Katrena prebudila sa zo   sna ťažkého a pozerala, čo sa to hýbe. No a o tej veru ťažko povedať,   po čo chodí do kostola. Či podriemať a či vzdelať sa na slove Božom.   Miklúš vie, že oči celej cirkvi visia na ňom. Vie, že každý pohyb   padá pod prísny jsúd. Pohybuje sa s vážnosťou, ktorá sa rovná len   hodnosti jeho. Je kostolníkom cirkvi vetornickej! V ktorom ležia   Vetornice senioráte a dištrikte? Kto chceš, chyť šematizmus do ruky,   v ňom Vetornice bezpochyby nájdeš; hoci je to cirkev malá — okolo   päťsto duší, draho vykúpených — nezabudli na ňu. Ba vie sa i to, že   pred šiestimi rokmi slávila storočné jubileum svojho trvania. I kázeň   pri tej príležitosti povedaná leží, možno, povaľuje sa v bibliotékach   mnohých súsedných i ďalších cirkví. V tejto cirkvi je náš Miklúš   kostolníkom.
+   </tei:p>
+   <tei:p>
+    1*
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    Že taký mladý a už kostolníkom? Práve to ukazuje, že musí byť v   ňom čosi, čosi zvláštneho, nového. Pán farár obľúbili si ho ešte za   mládenectva. Požičiavali mu knihy, ktoré Miklúš po nedeliach čítaval;   a to nielen sebe, ale i ženičkám, keď sa uňho zastavily idúcky s   večierne. Starý kostolník poručil dušu Bohu a prešiel do cirkvi   triumfujúcej, jeho nástupcom stal sa náš Miklúš. »Je ešte mladý«,   hútali pán farár, »dá sa z neho niečo vykresať. Nie je oddaný trungu   a pritom je mocný: keď sa pôjde koledou, unesie vrece, a čo by bolo   hneď bezo dna, ako sa radi kňazom posmievajú.« Tak Miklúš sostúpil s   povlače, kde sedel medzi mladými ženáčmi, a zaujal lavicu vpravo od   oltára. Zprvu bolo ťažko, kým sa nepocvičil. No pomaly vžil sa do   všetkých povinností. Dnes je už, ani čo by sa bol k tejto hodnosti   narodil. Tá vážnosť, s akou ide za oltár! Ba i za oltárom sa vážne   pohybuje, a predsa vie, že ho tam nikto nevidí. Berie zvonček na   dlhej týčke, on sám ju pomaľoval krásnymi figúrami. Cengá akoby len   očistom, ale to tiež má svoj účel. V lavici na ľavo, kde sedia   kurátor, presbyterstvo a rychtár, všeobecný pohyb. A Miklúš kráča   práve k nim a nadkladá zvonček všetkým radporad. A nikto nečaká, aby   Miklúš dva razy zacengal. Každý hádže svoj šart do zvončeka. Veru   nemalá slával Rychtár Priesada so závisťou hľadí na ňu. »Akú má   košeľu!« A pre-
+   </tei:p>
+   <tei:p>
+    ﻿5
+   </tei:p>
+   <tei:p>
+    zerá krásne vyšívané rukávy na Mikulášovej košeli. »I ja som mladý   ženáč, jeho vrstovník, a nemám takej. No Žofia je žena! Moja Mara by   ju nevyštepila, čo by jej dukáty platil. Ej, to je žena!« A Miklúš,   ani čo by rychtárovi na priek, povytiahol rukávy zpod haleny a pýši   sa nimi. »Musím ja byť kostolníkom — musím!« Ostatní cirkevníci   obdivujú Miklúša, ale mu nezávidia, ako rychtár. Ani jeden nemyslí na   kostolníctvo. Kdeže by im merať sa s Miklúšom! Veď takého kostolníka   nieto azda v celej krajine, ani čajsi nebude. Keď prešiel povlače,   vrátil sa dolu so zvončekom, a to k ženám. A toto je iste najmilšia   časť jeho nedeľnej roboty. Staré ženy, nevesty, ešte i dievky   obdivujú jeho rukávy. Rady by tak štepiť, ale ani jedna si netrúfa.   Kdeže, kostolníkova Žofa! Tá má čosi pri sebe — možno, porobenina; s   dobrým to nebude, taká utešená robota! A Miklúš vie, čomu sa čudujú;   vie, komu za to ďakovať. A preto i pozre časom ta ku stĺpu, na tú   driečnu nevestu, v čepci bielom, tuho vykrochmálenom. Ona stopuje   každý jeho pohyb, ale tiež len ukradomky; rastie nad jeho slávou.   Lebo to je jeho Žofia. Iba keď jej nadkladá zvonček, tak sa ukazuje,   ako by ju ani neznal. Tak to vyžaduje prísna etiketa. Mešec, naplnený   červencami a nebodaj i gombičkami, sňal a položil ho na cínovú misku   u oltára. A už zas sedí v svojej lavici.
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    »Má pekné čižmy, ani lakované!« závidí mu rychtár Priesada. »Keby   ja vedel, od čoho sa tak svieťa! 1 moje sta parádne, nebodaj drahšie,   ale či sa chcú tak ligotať? A nech by svietily, ako to slniečko — i   tak mi je nič z nich. Nikto by ich nevidel. Či si bosý, či v krpcoch,   alebo v kordovánkach, jeden čert: nohy máš pod lavicou. Musím byť   kostolníkom — musím!« A Miklúš zase vstal pod ostatným veršom tretej   piesne. Vošiel do sakrestie a vrátil sa s knihami, ktoré vyniesol na   kazateľňu. Všetko hľadí naňho. Sám pán učiteľ sa vyklonili zpoza   organa a hľadia ku kazateľni. Žofia nehľadí už bokom, ale rovno na   svojho muža. Jej sa vidí, že holubica, tam pod strieškou kazateľne,   trepoce krýdlami. A ono holubica je drevená a, čo viac, pribitá o   podnebie. »Kto ho tak pekne strihá?« trápi sa rychtár Priesada. »Mňa   ešte nikdy takto nepodstrihli: čo je toho za príčina? Musím byť   kostolníkom — musím!« Pán farár vystupujú na kazateľňu a Miklúš ide   ku dverám a zatvára ich. Halena je prehodená iba; široká mosadzná   sponka sa skveje a spočíva na modrej kosičke s červenými strapci,   ovinutej okolo hrdla. Jej konce visia voľne po prsiach, odrážajúc sa   nádherne od bielej košele a hustého radu gombičiek na sviatočnom   kabátku. Ženy i chlapi neraz obdivovali túto hru farieb, i dnes   nevedia sa načudovať.
+   </tei:p>
+   <tei:p>
+    ﻿7
+   </tei:p>
+   <tei:p>
+    »Žena ho richtuje«, húta pán rychtár Priesada. »To je žena —   zlatom by ju odvážil!« A jeho oči vyrážajú akúsi hlbokú melanchóliu.   »Ej, keby moja Mara.. . No, musím byť kostolníkom — musím!« A ešte   len vo výročné slávnosti, keď tak. . . Načo opisovať ďalej? Ktoré   pero byto opísalo? A keby i opísalo, rychtár Priesada zožieral by si   ešte väčšmi srdce, ktoré tak piští za hodnosťou Miklúšovou. Ba,   možno, sám pán učiteľ by banovali, že sú učiteľom a nie vetornickým   kostolníkom.
+   </tei:p>
+   <tei:p>
+    II. Rychtár Priesada závidí Miklúšovu slávu. Ale iba slávu a —   ženu. Iné nemá mu čo závidel Je dobrý gazda, otec mu poručil pekný   majetok. I bohaté sa ženil a pri rychtárstve, čo sa zriedka stáva,   dobre sa zagazdoval. Kto má bohatstvo, hľadá slávu a pôžitky. Preto   kostolníkovi závidel. Že i jemu závidia, s nepokojom hľadia na vzrast   bohatstva a moci, to vie veľmi dobre, ale si nepripúšťa k srdcu.   Závidia mu, ako každému, kto sa vzmáha. Vie, že vo Veterniciach sú   len takí ľudia, ako inde pod slncom: mocného nenávidia, slabého bijú.   Ale jeho sa i boja, je človek nebezpečný. Na vojne a pri úrade   priučil sa všakovým spádom. Koho chce, toho donesie ľahko do galiby.   Poniektorí hlavaji dostali takú príučku od neho, že skrotli,
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    ako jahniatka. Je tedy v dedine veľký potentát. Jediný človek sa   ho nebojí: náš Miklúš. Sú vrstovníci, i dobrí kamaráti. Ani divná hra   osudu nemohla ich rozdvojiť. Divná, veď rychtár kedysi mal sa okolo   Žofie. Neminulo listu, čo z vojny písaval, aby ju nebol pozdravil sto   a tisíc ráz. Všakovak prosil, sľuboval, aby čakala, kým soblečie   mundúr a vráti sa do dediny. Žofia čakala, hoci triafalo sa jej dosť   šťastia. Priesada prišiel z vojny, malý sa už konať ohlášky: tu umrel   bohatý Jano Fojtko. Po ňom zostala bohatá, bezdetná vdova. Priesada   sa utiahol razom od Žofie a zaliečal sa obstarnej vdove. Tá verila, i   vydala sa zaňho. A mohol jej byť poľahky synom. Žofia šla za Miklúša,   ktorého predtým len málo znala; veď nikdy nebola by sa nazdala, že   Miklúš stane sa jej mužom. A bolo všetko dobre. V dedine láska málo   prichádzava do spomienky. Múdri rodičia hľadia najviac, či sa zem so   zemou sníme, a skoro nikdy na to, či sa srdcia mladých tiež sňaly. A   jednako zriedka pritrafí sa čo zlého. Mladí privyknú, prikváča ich   všakové starosti a srdce vychladne, alebo naplní sa inými citmi. Tak   i teraz. Miklúš a Žofia boli celkom spokojní; Žofia zabudla, že   kedysi mala sa stať Priesadovou. Ale tu ešte v lete Miklúš začne   badať, že Priesada sa mu akosi veľmi podkladá, i do domu
+   </tei:p>
+   <tei:p>
+    ﻿9
+   </tei:p>
+   <tei:p>
+    chodieva. Miklúš ani nešípil, kam Priesada bije. Len Žofia ako by   sa trochu menila, ako by bola zjašená, nie sama svoja. Miklúš hútal   všakovak, čo sa Žofii robí, ale nemohol nijako prísť na pravý koreň.   No teraz pod jaseň vysvetlilo sa všetko. Šiel s kosenia a nedalo mu,   aby obišiel ženu, ktorá hrabala ovos pod horicou. Domov by bolo včas,   a darmo je, hanba – nehanba: za ženou mu bolo clivo; od rána jej   nevidel. Aspoň s horice pozre, čo tam robí; alebo srečie sa, že treba   snopy viazať: hoci ovsu neškodilo by tak v hrstiach poležať čez   zajtra, keď je i tak ešte živý a pohoda znamenitá. Ale šiel. Pretrel   sa húštinou a kríkmi, i zastal na pokraji, odkiaľ bol rozhľad na   všetky strany. Tam pod medzou na záhone hrabala jeho Žofia. Ale nie   sama! Pri nej stál Priesada. Bolo zreteľne vidno, ako má klobúk   hodený nad ucho a opiera sa o hrable. »Čo tam chce? Čo má s mojou   ženou? Čo tu postáva ?« A cítil, ani čo by ho niečo bodlo. Celý roj   podivných myšlienok snoval sa mu hlavou. Keby to bol iný chlap, ani   by sa neozrel. Ale tu Priesada, starý vohľač Žofin. Či to môže byť   niečo dobrého? Ej, nič dobrého nevykvitne z takýchto schôdzok. A ten   úsmev, to protivné kývanie nohou! Nepočuť ani slova, čo hovoria, ale   ľahko domysleť. Načo tam slová, kde hovorí tak jasne toto skryté   údolie, táto samota i ten temný, tajomný šumot borovíc...
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    »Je toto po prvý raz, či nie?« Bol by dal sivé voly, keby mu bol   niekto vedel zodpovedať tú otázku. A za ňou hrnuly sa iné. »Čo robiť?   Tu čakať, dívať sa na nich a strpeť všetko? A či ísť k nim, aby ma   vysmieval, že bojím sa o ňu?« Nevedel, čo si počať. »Keby bola dobrá,   či by sa s ním púšťala do reči? Veď by ho odprášila, tak, ako on ju   vtedy nechal. A ešte s ním hovorí a počúva ho. Čo mám robiť — čo ?. .   .« Hanbil sa sám pred sebou. Ako mrzko je to všetko, všetko. Žofia,   že má tajné schôdzky; lakomý rychtár, že najprv vzal bohatstvo, a   teraz hľadá kratochvíľu. I on sám, že tu stojí, nemôže predstúpiť   pred ňu, ale ju špehuje, ako zlodeja. Keby ho tu niekto videl, aké   reči by zkrsly v dedine! No, nečuť tu nikoho, iba čo borovice šumia,   kolísané teplým vetríkom. Zrazu sa strhol. Každá žilka sa vypäla v   ňom. Ani strelec, keď mu divina ide na mušku. Priesada sa prikráda k   Žofii. Ona ako by ho nevidela. Chytá ju za rameno, ťahá k sebe. Ona   sa bráni, ale čo to za obrana! Neodsotí ho, aby sa za ním sprášilo.   Bráni sa, ako by mala údy z olova. Dá sa mu držať okolo hrdla a   pozerať si rovno, rovno do očú... Miklúš prestal rozväzovať. Videl   ženu, počul jej mdlé výkriky. Pustil sa, ako víchor, od horice k   záhonu. V pravej ruke vykovaná kosa, slnce si na nej pohráva a ihrá,   ako na zrkadle.
+   </tei:p>
+   <tei:p>
+    ﻿11
+   </tei:p>
+   <tei:p>
+    Nevidí ničoho, len ženu na záhone a pri nej cudzieho muža. »Čo tu   chceš, nehanbíš sa?« To bolo všetko, čo povedala. Ostatne, nech   hovorí, čo chce, Priesada sa nepohne. Nečuje, nerozumie, čo mu   hovorí. Ako spitý pozerá na ňu. V tom sa ona obráti a skríkne. V jej   výkriku bol vyrazený úžas i strach. Ako by nie: muž s kosou! Zdal sa   jej ako anjel – mstiteľ s ohnivým mečom. Veď aký je — nemožno ho   poznať. Ten pohľad desný! V ňom stálo, že hotový je pokončiť razom   túto nečistú vec. Ruka s kosou hotová k strašnej práci. Sám Priesada,   chlap pevný, vojak, zbledol. Videl, že ide sa stať čosi hrozného, o   čom sa bude roky a roky rozprávať. Srdce sa mu stislo a prestalo biť.   Ruka s hrabľami mimovoľne sa zdvihla a on — ustúpil. A tu   prekvapenie! Kosa leží na strnisku, vedľa nej Miklúš vystretý, nad   ním stojí Žofia. Do cesty mu vstúpila Žofia; Miklúš sa potknul, padol   celou ťarchou tela na strnisko, ako keď sa srúti ťažká klada.   Priesada bol spasený. Bežal, ako bez rozumu; vlasy sa mu ježily. »Ja   ho zabijem, zabijem!« kričí Miklúš a berie sa so zeme. Rovno za   Priesadom, ale kosa zostala na strnisku. Zabudol ju v tom rozčúlení.   Žofia si vydýchla; s istou zvedavosťou hľadí, čo sa ide robiť. Miklúš   dolapil rychtára: chytil ho za kabátik a košeľu od chrbta. A už leží   Priesada
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    horeznačky a Miklúš mu kľačí na prsiach. Oči mu horia, pery sa   trasú. Má ho pod sebou, cíti jeho ťažký dych pod kolenom. Má ho celky   v rukách, tak úplne, že Priesada neodváži sa ani brániť. Čaká so   smrteľným chladom, čo bude nasledovať. A tu Miklúš je ako bezbranný.   Nezná, čo Priesadovi urobiť. »Čo ti spraviť — povedz, čo ti spraviť?«   kričí naňho. No Priesada mlčí, ani sa nehne. Keby sa aspoň bránil, tu   by vzkypel Miklúš novým hnevom; ale proti bezbrannému, pokorenému je   bezbranný. »No, povedz, čo ti spraviť?« kričí naň znovu. »A čo máš so   mnou? Chceš sa biť?« pýtal sa Priesada tupým hlasom. Miklúš sa   zahanbil. On aký je rozpajedený: a tento tu pod jeho kolenom pýta sa:   chceš sa biť? To je prvé slovo všetkých, ktorí už dostali, alebo majú   dostať. Prvá ťráza premožených. Čo má ozaj s ním urobiť; s ním, ktorý   sa nechce, nemôže biť? Vstal a pustil Priesadu. Hanbil sa, ako by on   bol premožený, keď ho videl teperiť sa so zeme. Za chrbtom ozval sa   mu jasný, veselý smiech Žofie. »Ľaľa, kabát má rozdrapený i košeľu !«   A vskutku, Priesadov chrbát bol holý. Priesada pozrel na Žofiu s   hnevom a opovržením. Jej smiech a slová urazily ho viac, než to, že   na prsiach mu kľačal Miklúš. Radšej by volil smrť, než hanbu, že ho   ona vysmiala. Pobral sa dolu stráňou a viac sa ani neobzrel.
+   </tei:p>
+   <tei:p>
+    ﻿13
+   </tei:p>
+   <tei:p>
+    III. Žofia s mužom vracala sa na záhon. Kráčala popri ňom a   nemohla sa smiechu zdržať. Pozrela na muža, či sa i on nesmeje. Jeho   tvár bola vážna, alebo skôr chladná. Zvážnela i ona, zatíchla. »A ty   sa hneváš ?« pýtala sa po čase. Bázeň, alebo aspoň neistota ozývala   sa z jej hlasu. Neodpovedal. »A čo sa na mňa hneváš? Či som ja vina?«   Prvý raz sa prihodilo, že jej nedal odpovedi. Naraz sa jej stalo   akosi smutno. »A či si myslíš, že som ho volala ?« »Čo viem, to viem:   videl som na vlastné oči!« odpovedal jej spurno. Nebola by pomyslela,   že i tak vie hovoriť. »Teraz mi daj pokoj. Nejde mi do shovorky.«   Zasekla zuby, slzy tisly sa jej do očú. Istý stud ozval sa v nej, že   ju tak surovo, spurno odbavil. »Ako ma okríkol; vidno, za nič ma   nemá...« Šla ku práci a hrabala náruživé, ako by práca bola jediná   útecha. Pozrela naň bokom; bol chladný, vážny, zamyslený. Vzdychlo sa   jej. Schválne mu snášala snopy, keď staval kríže. Prešla popri ňom   neraz; čakala, kedy ju osloví. Mlčal, ani nepozrel na ňu. A indy ako   bývalo! Ako ju vyhľadával, ako striehol na každé slovo od nej!
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    Bez slova sa vracali domov. Ona bála sa prihovoriť, hoci kráčala   popri ňom; on, ako by jej ani nebolo. »Už je koniec; nikdy nebudeme,   ako sme boli. Čo ja budem robiť, hriešna stvora ?« Mali vojsť práve   do dediny, keď on zrazu povedal: »Aby vás viac nenašiel, to ti   povedám. Zle sa porobí!« Jeho tvrdé slová, povedané tak bez prípravy,   ohlušily ju. »Ja som ho nevolala!« odpovedala po chvíli. »lba to   chybí, iba to!« A zaškrípal zubami. »Toto nie je zábava, ako keď sa   deti hrajú o muža a ženu. Toto je veľká vec.« »Ja som nič neurobila«,   bránila sa žena. »Azda banuješ, že som sa tam naďapil?« riekol ostro,   že ju tie slová šibaly až do duše. Jeho oko s výsmechom oprelo sa jej   o tvár. »A čo si ty myslíš ?« vykríkla. »Hanba ti, Miklúš, hanba!«   Jej líca sa polialy rumencom, možno od hnevu, možno od hanby. »Toto   si myslím: našiel som pri tebe cudzieho muža. Ak to urobíš ešte   raz...« Zamíkol. »A čo takého vieš do mňa? Povedz, ak vieš!« Hľadela   mu rovno do tvári; vidno, že sa ho nebojí. »Kto sa ťa bojí? Ja sa ťa   nebojím, chvala Bohu.« »Ostrihám ťa — uvidíš!« Žofia obzrela sa   dookola. Či niekto nenačúva; či niekto nepočul, čím jej hrozí muž.   Ostrihať! Čo ešte môže ztratiť žena, keď jej
+   </tei:p>
+   <tei:p>
+    ﻿15
+   </tei:p>
+   <tei:p>
+    odoberú ozdobu, znamenie počestnosti? Mlčala. Kde by našla slov na   túto urážku? Vošla do komory, zavrela sa v nej a plakala. »Mať moja,   mať moja —■ čo mám robiť? Koho sa mám poradiť, keď už nemám nikoho —   ja opustená stvora! Ku komu sa obrátiť, keď on takto. . .« A   rozpomienka na nebohú mater akosi poľahčila ťarchu, pod ktorou   stonalo srdce. Už dobre mrkalo, keď precítia z toho tupého bôľa a či   omámenia. Vošla do izby, tá bola pustá; vyšla na dvor, nikoho v ňom   nevidno. Prišlo jej razom clivo, ako každému, kto osamel. »Opustená,   opustená — ja nešťastná žena!« Kde sa podel Miklúš, nevedela. Iste   niekam vyšiel a vráti sa len na večeru. Do tých čias možno hnev ho   prejde a splní sa slovo: »Slnce nezapadaj. . .« Bola hotová zabudnúť   na všetko, len nech sa on vráti a ukáže trochu starej lásky.   Prichystala večeru, lepšiu, než kedykoľvek indy. Nedotkla sa jej;   čakala, kým príde. No večera vystydla, pahreb pod kozubom pripadla   páperovitým popolom — v izbe sa stala tma: Miklúša nič. Uložila sa do   postele — no kdeže tu sen ? Uletel ďaleko, miesto neho prikváčila ju   mučivá skutočnosť, i mátohy, vytvorené vzbúrenou fantáziou. »Mamička   moja — čo ja budem robiť opustená? Ja vám tu nebudem, nebudem. Prečo   si ma, prečo i ty opustila: kto ma teraz už pritúli, opustenú   stvoru!« Nebola to nejaká búr-
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    livá bolesť, ale tichá, krotká. Rozpomienka na mater ju   zošľachtila. A razom padol i lúč útechy do srdca. »Či by ťa   spomínala, mamička moja, keby bola taká, ako sa nazdávajú? Ty vidíš,   že som nie vina. Ach, keby si mu mohla dotvrdiť; keby videl, ako mi   utŕbal bez príčiny! Prišiel by, prišiel a odpytoval. . .« A tu   vykúzlil sa jej krásny obraz pred oči. On prichádza, odprošuje, oko   jeho žiari tou láskou i nehou, ako predtým. Ona odpúšťa, smierenie   dokonalé zavíta do ich hniezda. S tým obrazom sa i prebudila. Bolo   jej veselo na duši. Videla jasne, že táto roztržka nesmie trvať dlho,   nemôže rásť, ale musí prestať. Veď Miklúš musí uznať, že nemal   pravdy; musí urobiť aspoň prvý krok. Čakala, chodila popri ňom,   podávala mu príležitosť. »Ako by mu bolo ľahko napraviť všetko — len   slovíčko, jedno s!ovíčko!« Ale darmo čakala za slovíčkom.   Neprehovoril slova, ani nepozrel na ňu. Bol chladný, vážny a   nespokojný. Včera bol celý večer u Žida, vo spoločnosti, ktorá sa mu   protivila. A predsa tam zostal i po polnoci. Uchýlil sa na cestu   bezbožných. To ho mrzelo, preto okúňal sa pred ženou. Ťažko mu bolo   pozreť jej do očú. V Žofii nádej klesala. Prešiel deň a Miklúš ju   obchádzal. Ako mu poľahčovala, na polcesty mu šla oproti, a on — nič.   Zahanbila sa sama pred sebou. Hľadela sa tiež obrniť pancierom
+   </tei:p>
+   <tei:p>
+    ﻿17
+   </tei:p>
+   <tei:p>
+    ľahostajnosti. Zprvu to šlo ťažko, pozdejšie privykla k tomuto   novému poriadku. Tak u Miklúša rozložil sa v domácnosti pokoj; no nie   ten milý, ktorý ľudí spojuje, jedného k druhému púta, ale pokoj   mŕtvy, pod ktorým kvety duše usychajú a hynú. Rychtár Priesada tiež   sa uspokojil; ale iba naoko. Duša dychtí po pomste. Urážka na záhone   je mu vždy pred očami. Nezabudol na výsmešný výraz v tvári Žofinej.   Ten ho najväčšmi sužuje, nedá mu pokoja. »Ja vás naučím, budete   spomínať!« Ale ako pristúpiť Miklúšovi? Dáva si pozor, s úradmi nemá   do činenia. Je neraniteľný. A predsa vystriehol rychtár čas k pomste.   Ranil Miklúša tam, kde bolo najcitlivejšie. Jednému gazdovi kôň   vyničel. Vyviezol ho za dedinu, mal ho tam zakopať. Ale kože bolo mu   ľúto. Zavolal si pomoc a večer pri lampáši stiahol ju s koňa. Medzi   pomáhačov zamiešal sa i kostolník Miklúš; zvábili ho noví kamaráti.   Nad tým by sa nikto nebol pozastavil, nech nezkrsne o tom pesnička;   tá znela:
+   </tei:p>
+   <tei:p>
+    Máme my fajn kostolníka, odrie koňa bez nožíka, kožu tak do zubov   chytí, ani mu cigáň nechytí. Máme kostolníka truľa; keď vám odkape   kobuľa, nevolajte k nej cigáňa, Miklúš jej zuby vyráňa.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobraué Spisy II. 2
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    Za obriadok pláca malá: kopytá a funtík sala. Salo bude na   zápražku, kopytá uvarí v hrášku; bude mať veľkú hostinu, kým sa   kopytá neminú. Z drobov nadeje klbásy, sadlom si vymastí vlasy. A keď   stučnie z toho kostu, berte cigáňa zpod mostu: keď kostolník môž’ byť   šarha a nik ho preto nekarhá, nech je cigáň kostolníkom, nech tam   sedí za spevníkom. Aj tak kostol vetornický vyšiel už na posmech   lidský.
+   </tei:p>
+   <tei:p>
+    Kto bol piesne pôvodcom, nepovedal nikto. Miklúš dobre tušil, kde   sa zrodila. Našla sa v kostole, a to v lavici mládencov. Chlapci ju   doniesli a ešte v tú nedeľu sa spievala.
+   </tei:p>
+   <tei:p>
+    Miklúš čušal, ale sa i bál. Keby sa to donieslo pánu farárovi do   ušú! Konečne sa uspokojil, lebo celá vec pomaly ako by zaspala.
+   </tei:p>
+   <tei:p>
+    Ale Priesada nezaspal, len mlčal. Iba raz, keď výbor obecný sedel   pri skleničke, rychtár začal: »U nás je veliká sebevofa: i po hlavách   si dáme tancovať.«
+   </tei:p>
+   <tei:p>
+    Všetci boli zarazení týmto divným úvodom. Pýtali sa: »Nuž?«
+   </tei:p>
+   <tei:p>
+    »HFa, Miklúš čo vyparatil: a čo mu je? N i č!«
+   </tei:p>
+   <tei:p>
+    »Veď nič nevyparatii!« zastal sa ho ktorýsi výborník. »Čože by mu   malo byť?«
+   </tei:p>
+   <tei:p>
+    ﻿19
+   </tei:p>
+   <tei:p>
+    »Odreť koňa, to je nič ?« zvolal rychtár nahnevaný. »Hoden je ten   do svojich rúk posvätenú nádobu chytiť? Alebo bude farára obliekať!   Ja si mívam, že ten nemá charakteru za kostolníka.«
+   </tei:p>
+   <tei:p>
+    »No, nemal to robiť, akokoľvek je — ale nemal«, ohlásil sa   boženík. »Nerečiem barana, alebo ovcu — ale koňa, no—-akokoľvek,   ale...« Zamíkol, ale na znak neľúbosti krútil hlavou.
+   </tei:p>
+   <tei:p>
+    »A čože robil? Nerobil! Planí ľudia vymysleli«, bránil ho   výborník.
+   </tei:p>
+   <tei:p>
+    »A veršíky len tak sa spravily ?« horlil rychtár. »To nám je   veliká hanba, lebo v druhých dedinách ich už spievajú. V piatok som   bol v slúžnovstve, tam mi ich spievali rychtári. Hanbil som sa, verte   mi!«
+   </tei:p>
+   <tei:p>
+    »A už to na nás prischne, ja vidím, lebo akokoľvek, nuž. . .« A   boženík zas krútil hlavou.
+   </tei:p>
+   <tei:p>
+    »A čože mu spravíte ?« volal výborník.
+   </tei:p>
+   <tei:p>
+    »Shodiť ho!« riekol rychtár smelo.
+   </tei:p>
+   <tei:p>
+    Všetci zatíchli. Tento náhly obrat veľmi ich prekvapil.
+   </tei:p>
+   <tei:p>
+    »A kde vezmeme kostolníka?« pýtali sa po chvíli.
+   </tei:p>
+   <tei:p>
+    »Nepôjdeme do druhej dediny požičiavať. Už len niekoho   nájdeme...«
+   </tei:p>
+   <tei:p>
+    Z tejto porady vyšlo pred pána farára písmo. Miklúš má poškvrnené   ruky, nemôže byť kostolníkom. Škoda, že ten dokument vytratil sa z   archívu cirkvi vetornickej a nemôže byť tu pripojený.
+   </tei:p>
+   <tei:p>
+    2*
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    Po dedine sa roznieslo, čo sa ide s Miklúšom robiť. Každý   nahliadol, že Miklúš je nemožný. Sám pán farár sa rozhodli prepustiť   ho zo služby. Bolo im dosť ľúto, bol človek súci. Presteradlá, rúcho   cirkevné držal v peknom poriadku. Prachu nikde netrpel, stieral ho   všade dlhým portvišom. Zaviedol i reformy niektoré a dosť rozumné.   Sviece nesnímal zo svietnikov, keď ich zažihal a vyhášal. Spravil si   bľachovú pokrývku, ktorou priklopil plameň a zahasil Na nej mal   sviečočku, ktorou pohodlne zažihal. I s vínom dosť svedomité šafáril,   kdežto starý držal sa toho zákona: čo zvýši od oltára, služobníkovi   bude, a za »služobníka« držal seba. V pečení oblátok mal tiež   znamenitú zbehlosť. I výslužný je takto. Dovezie pánu farárovi s lúky   seno alebo zbožie so zemí. Nuž škoda ho, škoda! Ale zas na druhej   strane: koňa odrieť je vec neslušná, k tomu sa to i hudí. Po Novom   roku pôjde sa koledou. Ako vložia kúsok niečoho do úst, keď bude   Miklúš z tej istej sviečkovice jesť, ba možno i palce z nej   oblizovať? Nie, Miklúša nemožno ratovať. Musí padnúť. Tak sa rozhodli   pán farár.
+   </tei:p>
+   <tei:p>
+    Na nedeľu po večierni svolané bolo presbyterstvo, ktoré malo   rozhodnúť o veci.
+   </tei:p>
+   <tei:p>
+    Miklúš by šiel radšej svetom, ako takúto hanbu. Hanbil sa ukázať   ľuďom na oči. Akože odbaví tú ostatnú nedeľu? Nie — nemôže ísť do   kostola.
+   </tei:p>
+   <tei:p>
+    ﻿21
+   </tei:p>
+   <tei:p>
+    Ako odzvonilo sa druhý raz, vykradol sa z domu a dediny a šiel na   stráň ukryť sa do krovia. Videl dedinu i kostol, i čo sa tam robí.   Ako si zakladal v svojej službe: koľko mu podávala pôžitku a slávy!   Dnes všetko ztratené. Iný bude zvonček nosiť, na kazateľňu chodiť,   dvere zatvárať. On bude sedeť niekde v kúte a tešiť sa, ak ho nik   nevidí. Ako odvykne od služby, ktorá mu k srdcu prirástla?
+   </tei:p>
+   <tei:p>
+    Ľudia šli do kostola. Pred kostolom na pažiti zastávajú, delia sa   na krúžky — tam chlapi, tu mládenci, hen ženy, zas nevesty, inde   dievky. Iste sa radia, alebo smieša. Ba či jeho nespomínajú — potupu   a hanbu, čo naňho čaká! Zvonia tretí raz. Ľudia sa vhrnuli do chrámu   a zvony vyzváňajú tak smutno, akoby na pohrab.
+   </tei:p>
+   <tei:p>
+    Bol by skočil a letel do chrámu, pripojil sa k húfu veriacich. No   nesmie, nemôže. Poznačený je, ani prašivá ovca, vytvorená z košiara.   Idú už i pán farár; sami. Iste myslia, kde je kostolník Miklúš.   Kedysi on kráčaval pri ich boku, od dnes nebude. Pána farára nevidno,   sú v kostole. Teraz povstal celý kostol, kým prejdú do sakrestie.   Indy on kráčal za nimi. Z toho povstania z miesta i jemu patrila malá   čiastka. Od terajška inému.
+   </tei:p>
+   <tei:p>
+    Sklonil tvár do dlaní a oddal sa svojmu žiaľu. Keby sa mal aspoň   komu vytúžiť, keby žena bola iná. Ale takto on sám, sám musí znášať   tento ťažký kríž.
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    Žofia nevedela dlho, čo sa robí. Muž jej nepovedal, a medzi ľudí   čajsi nechodila. V piatok pred osudnou nedeľou zvedela od súsedy, čo   sa ide stať. Pochopila, prečo je Miklúš po tieto dni taký smutný,   zamyslený. Bolo jej ho ľúto. Kde by nie, keď vidí, že mu hrozí taká   potupa. A veď i jej sa to týka. Ako by sa mohla radovať? Šípila, od   koho to všetko pochodí. Sobrala sa k rychtárovi. Keby mohla tak   oratovať muža a on by sa dozvedel! Táto myšlienka jej dodala sily a   odhodlanosti. Bola by šla nie pred rychtára, ale i pred cisára!
+   </tei:p>
+   <tei:p>
+    »Ľaľa — nevídaní hostia!« zvolal rychtár a oko mu zažiarilo.   »Predsa si ma prišla navštíviť. Len čo si mi doniesla ?«
+   </tei:p>
+   <tei:p>
+    »Veď viete, rychtár, v čom sme. Viete, ako som pochodila pre vás.   Od tých čias je medzi nami hriech. . .«
+   </tei:p>
+   <tei:p>
+    »Čo nepovieš!« divil sa rychtár. »A to ešte pre mňa! Taký pár   chýrny ste sa sňali: ty a on, a tu vraj hriech. Veď ja nechodím za   tebou: kdeže by ja za takou, takou veľkomožnou. A tu vraj   hriech!«
+   </tei:p>
+   <tei:p>
+    »Ja nepovedám; to sa už nemôže napraviť, čo sa vtedy porobilo.«   Pery sa jej zatriasly a do oka vkradla sa slza. Musela pomlčať, aby   sa sosbierala. »Ja som len prišla«, pokračovala pevným hlasom, »aby   ste môjho muža celkom tak nekynožili pre toho koňa. Ľudia horšie   porobia, a nerobí sa toto s nimi.«
+   </tei:p>
+   <tei:p>
+    ﻿23
+   </tei:p>
+   <tei:p>
+    »Ale nie sú kostolníkmi a — chýrnymi. Keby to bol niekto iný, ale   vychýrený kostolník vetornický! Kto mu teraz už spomôže?«
+   </tei:p>
+   <tei:p>
+    »Vy môžte, keby ste chceli. Veď ja viem, od koho to vyšlo. Utíšte   dedinu!«
+   </tei:p>
+   <tei:p>
+    Povedala to tak pekne, jej slová ho tak šteklily, že sa musel   premáhať. Ani nepozrel na ňu. Bál sa, že bude tak, alebo horšie ešte,   ako tam pod medzou. A on nechce sa s ňou zapletať, radšej sa   prihotuje na pomstu.
+   </tei:p>
+   <tei:p>
+    »To že ako odo mňa vyšlo?« usmial sa Priesada a pomlčal. Oko mu   blúdilo po stene. »Nuž dobre, odo mňa. Prečo som to urobil, sama vieš   najlepšie. Vieš, vtedy, keď si sa tak smiala?« A tu pozrel na ňu   prísne, alebo skôr s hnevom. »Vtedy som sa zjedal, bol by si hneď   niečo urobil. Nie, Ďuro, nenáhli sa — tak som si myslel. Kedysi tí   budú sa zjedať a ty smiať. A tu sme — už sme doma!«
+   </tei:p>
+   <tei:p>
+    »A čo máte z toho?«
+   </tei:p>
+   <tei:p>
+    »To, že tvoj muž nebude kostolníkom, ale niekto iný.« To »niekto   iný« povedal tak, že hneď uhádla, kto to má byť.
+   </tei:p>
+   <tei:p>
+    »Tak vy nechcete, ani keď vás prosím! Viete, čo ste vtedy povedali   ?« A po tvári Žofinej rozliala sa červeň. Vidno, že jej je ľúto, že   to slovo z úst vypustila.
+   </tei:p>
+   <tei:p>
+    Rychtár sa rozohnil. Bol veľmi rozobratý. »To bolo vtedy — vtedy   som sľuboval, i bol by držal slovo. Ale ty si ma klamala, zaviedla   si
+   </tei:p>
+   <tei:p>
+    ﻿24
+   </tei:p>
+   <tei:p>
+    ma. a potom vysmiala, ako nejakého blázna. Óklaniaf sa už   nedáme, n i e 1« Bolo vidno, ako mú dobre padlo povedať toto Žofii.   »Tvoj muž môže kostolníctvo len prežehnať. . .« Žofia sa vrátila   domov, istá, že muž vypadne zo služby. Rychtár lipne za ňou a obdrží   ju. A rychtár skutočne dosiahol svojho cieľa prvej, než sám trúfal.   Kostolníka nebolo v kostole, pán farár vyzvali rychtára, aby ho   zastupoval. »Už bude on, istý on«, hovorily si ženy. »Pán farár jeho   budú chcieť.« Boly by niečo proti tomu riekly, ale predsa okúňaly sa.   A rychtár vykračoval si tak hrdo, ako by mal istotu na dlani. No ako   vynášal knihy na kazateľňu, potknul sa na samom vrchnom schodíku.   Skoro spadol i s knihami s kazateľne. »Buh se pyšným protiví!«   pomyslely si ženičky. Presbyterstvo po večierni sa sišlo, radilo i   rozišlo. Ženičkám rychtár sa nepopáčil pre tú velikú pýchu. Prišlo im   ľúto za Miklúšom: presbyterky naložily mužom, aby zastávali Miklúša.   Nuž a také inštrukcie tuho sa plnievajú. Predvolali svedkov;   svedkovia dokázali, že Miklúš nedotknul sa koňa, ale iba svietil   lampášom. To ho zachránilo. Keď presbyteri odchádzali z fary, pán   farár zadržali Miklúša.
+   </tei:p>
+   <tei:p>
+    ﻿25
+   </tei:p>
+   <tei:p>
+    H tm UMU »Nepáčiš sa mi: nie si taký, iné časy. Veď si ty za   mládenectva n po krčmách, a teraz, mladý ženáč, husto   navštevuješ krčmu. Čo je to?« Miklúš sklopil oči, lebo sa ľakal   prenikavého pohľadu pána farárovho. Pán farár mu pohrozil prstom.   »Maj sa na pozore: diabol-pokušiteľ obchádza, abys’ neupadol!« Miklúš   odišiel pohrúžený vo vážne myšlienky.
+   </tei:p>
+   <tei:p>
+    IV. Zavítala zima so všetkými pôžitky a neresťami. Bolo jej akosi   náhlo: v druhej polovici novembra pokryla na široko-ďaleko čerstvým   snehom prírodu. Žatým nasledovaly tuhé mrazy, gazdovia vyťahovali   sánky zpod všakového haraburdia v kôlňach. Panskí kočišia vešali na   kone zimušné šíry s veselými hrkálkami. Po ráne ozval sa neraz   dedinou známy kvikot, ktorým vykŕmená tuška oznamovala, že sa sťahuje   z chlieva do koryta. Chlapci po škole vychádzali so sánkami za dedinu   a spúšťali sa po snehu dolu kopcom. Ej, má zima svoje krásy, a jaké!   Chyba je, že malý Antuš mal celkom inú mienku o zime: nepriaznivú.   Keby Vianoce mohol preložiť na leto, iste by ju vytrel nadobro z   kalendára. Nie div; malý Antuš nie je básnik, ale iba
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    mendík vetornickej cirkvi. On na zimu hľadí, ako na veľkú   nepriateľku. A to zvlášte, keď tak navalí snehu po pás, že ťažko je   premetať chodník od fary do kostola. Neraz si fúkne za nechty, kým sa   prerobí tými závejmi až po kostolné dvere. I zaplače si, ak zima   väčšmi doráža naňho. Nuž chlapec je on inakší, ako iní. Je z   panskejšej krvi, má tenšiu kožu; zima skôr mu pristúpi, než dedinským   zurvalcom. Jeho otec je čižmár dedinský a synátora dal na mendíctvo,   aby vopred privykal reguli. Zavítal Advent. Hneď ráno v prvú nedeľu   adventnú mala byť spoveď. Napadlo zas mnoho snehu a chudák Antuš   skoro od svitu trápil sa pri ňom. Dlho, dlho znášal zimu, ale ako mu   za nechty zašla, hodil vejačku a nariekal pri kostole. »Čo ti je,   chlapče ?« pýtaly sa ho ženy, ktoré práve šly do kostola. »Ju-u-uj!   Za nechty mi za-a-ašlo!« vyspevoval Antuš. Ženičky ho ľutovaly, lebo   zima bola nie malá. Vietor fúkal od Poľskej, ani čo by rezal.   »Nebožiatko — malé ako päsť a takto ho vädia.« »Mohol by ho otec   odmeniť. Ale nemá Boha pri sebe, keď ho takto. .. Nebožiatko.   Zaslúžený je ten chlebíček. Môj syn, čo ti niekto nepríde pomôcť?«   pýtala sa kurátorka. »Keď majú robotu«, žaloval sa Antuš. »Mali by ho   odmeniť, mali!« povrávaly si ženy.
+   </tei:p>
+   <tei:p>
+    ﻿27
+   </tei:p>
+   <tei:p>
+    »Najlepšie Miklúšovi«, ozva] sa im za chrbtom rychtár. Práve sa   nadaril k rozhovoru a hneď mu dal iný obrat. »Tomu je dobre! Má   kožuch, halienu a kapce, že s pece by skočil do nich. Ešte i rukavice   má na rukách. Len toť šiel do fary a vypeká sa pri peci.« »Hja,   dokonalý má oblek«, prisviedčaly ženy. »Či by mu koruna odpadla, keby   on premetal ten chodník ?« pokračoval rychtár, ako by len tak   mimochodom. »Sťa kde mu meškať: či vo fare pri peci a či tu pri   chodníku...« »Mohol by, mohol, keby chcel.« »Hja, ten je z tých, čo   sa ponúknu, lebo domyslia! Tomu iba keď sa rozkáže«, riekol rychtár.   »A čo mu nerozkážete ?« zamiešala sa kurátorka. »Ale tomu? To je   väčší pán, ako my všetci i s vaším kurátorom.« Vošli do kostola. Pod   spoveďou posudzovaly ženy oblek Miklúšov. Zdalo sa im, že to hriech   nosiť taký oblek a neprehadzovať chodníky. Vrátily sa domov a   rozprávaly, čo by mal kostolník robiť. Sama kurátorka sa podobrala,   že uvedie túto reformu do života. Na priadkach nakriatla presbyterky,   presbyterky nakriatly mužov a v najbližšom presbyterskom zasadnutí   kurátor Jurák predniesol ženin návrh. Zapáčil sa, lebo nestál   nijakých nákladkov, iba kostolníkovi
+   </tei:p>
+   <tei:p>
+    ﻿28
+   </tei:p>
+   <tei:p>
+    naručif. I predvolali ho zaraz a oznámili, čo čaká ho za   povinnosť. Miklúš bol prekvapený; nemal ani potuchy, čo sa strojí   proti nemu. Ale ako videl rychtára, ten úsmev na jeho tvári,   pochopil, kto je všetkého fundátor. Nech ho tu nevidí, zaďakuje zo   služby, ku ktorej mu taký nespravedlivý dôvažok dali, bez jeho   vedomia. Ale videl, ako rychtár strežie za tým slovom, a vopred sa   raduje a hotuje vsadnúť do lavice kostolníckej. Zasmútil a — pristal.   »Ale by ma nedbal vyštuchaf — uvidíme, kto sa dá. Keby bol niekto   súci na toto, ale on by obdržal, on. Počkaj si, počkaj.« Čo ako, ale   toto bolo moc naňho. Nie tá robota, ale tá istota, že on to robí; on,   ktorý mu i domácnosť pomútil! Ako sa mu zmenila, spustla celá. Veď ho   už ani doma neteší. Žena, smutná, mlčanlivá, v jednom kúte a on tiež   zamosúrený v druhom kúte. Ani úrad ho už neteší. Vďačne by ho   prepustil, vďačne, keby mohol. Panovaly tuhé vetry, narobily čez noc   závejov, on ich musel premetať. A keby to raz do týždňa, ale tri   razy: v nedeľu, utorok a vo štvrtok. Vo Vetorniciach bývalý roráty v   utorok a štvrtok. Musel vstať veľmi do dňa, aby chodník pred šiestou   bol premetený. Obľahčoval si, ako vedel. Spravil si širokú lopatu,   práca mu šla dosť sporo s ňou. Ale nemal z nej potechy, lebo as   mu
+   </tei:p>
+   <tei:p>
+    ﻿29
+   </tei:p>
+   <tei:p>
+    zdalo, že rychtár stojí mu nad hlavou a rozkazuje, a tá myšlienka   mu nedala pokoja. A dnes je zvlášte smutný. Zajtra má mena, Miklúša.   Zasvätí ho tým, že vstane do dňa a pôjde zas prehadzovať chodník.   Sneží od rána a iste bude celú noc. Pritom je tak smutne. Pomaly   zabudne i hovoriť: nemá s kým ztratiť slova. Pozrel bokom na Žofiu.   »Ba keď nezunuje tak mlčať!« podivil sa. »Iná by sa nezdržala, a   táto... Tiež mi čerti posvietili tak naskočiť na ňu. Ale kto by sa   bol nazdal, že ju tam nájdeš s takým...« Pozrel znovu na ňu. »Ba či   sa to hnevá, či čo robí?« A nad tým lámal si dlho hlavu. Ona   pobadala, že ju muž pozoruje: nemohla sa zdržať, musela v tú stranu   pozreť. Zraky sa im stretly. Len malý okamih, ale predsa čítali v   nich oba, Že hnev je preč. Žofia sa zapýrila až po uši; ani za   dievoctva sa tak nezahanbila. »Čože sa mu robí, že predsa pozrel na   mňa!« podivila sa. »Azda sa ide nejaký zázrak urobiť!« Ale sedela   ticho a neodtrhla očú od kúdele, na ktorej mala nadetý ľan. »A švárna   je táto Žofia«, myslel si Miklúš. »Červená ani pivonia. Mal sa na čo   upriamiť ten diabol. Len či sa hnevá, keby ja vedel, a či nehnevá...«   Pred večerom mala Žofia prácu v sypárni. Bolo treba zaniesť jačmeň do   mlyna.
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    Miklúš zostal samotný v izbe. »Nech sa čerti nadúvajú, a nie ja!   Čo by
+   </tei:p>
+   <tei:p>
+    jej tak urobil — čo?« Rozmýšľal dlhú chvíľu. V košíčku pri kozube   zbadal asi šesť vretien ľanovej pradze. »Ozaj, čo povie, keď jej   pradzu pomotám?« Chytil motovidlo apremotával pradzu s vretien na   motovidlo. Netrvalo dlho po ukončení roboty, keď vrátila sa   Žofia.
+   </tei:p>
+   <tei:p>
+    Bola pekná v bielom kožuchu. Šatka i kožuch pripadly snehom. Na   mihalnici tiež triasol sa jemný páperík čerstvého snehu. No v okamihu   sa roztopil.
+   </tei:p>
+   <tei:p>
+    Miklúš plietol svoju opálku a, akoby nič, strúhal vážnu tvár. Ale   v duchu sa smial, čo Žofia urobí, keď nájde vretená prázdne. Odbavili   večeru dľa terajšieho zvyku: každý jedol osebe a jeden po druhom. Už   navykli na ten divný spôsob, ktorý len z počiatku bol veľmi divný.   Žofia zakrútila kúdeľ do šatky, odela si kožuch a šla po vretená do   košíčka.
+   </tei:p>
+   <tei:p>
+    Zastala, rozmýšľala. Prekvapilo ju, že sú vretená prázdne. Mívala   si, že plné niekto ukradol. »Ale je tu moc prázdnych — čo je to?   Musel ich niekto pomotať!« Zpod povaly sňala motovidlo; čítala, koľko   je pásem namotaných. O štyri viac, než minule. »On —• on!« ozvalo sa   jej v duši, srdce strepotalo. »Ale ozaj on ?« Pozrela v tú stranu — i   on sa díval na ňu. Okolo úst prelietol jej úsmev.
+   </tei:p>
+   <tei:p>
+    »Smeje sa — predsa sa smeje!« tešil sa
+   </tei:p>
+   <tei:p>
+    ﻿31
+   </tei:p>
+   <tei:p>
+    Miklúš. »Ale by sa neprihovorila — iste má jazyk   odhryznutý...«
+   </tei:p>
+   <tei:p>
+    Žofia sa náhlila. Ako by sa niečoho bála. Bolo jej tak nevoľno   samotnej s ním. Keby bol niekto tretí tu, nešla by na piaď od neho:   ale samotná — to jej je nemožno.
+   </tei:p>
+   <tei:p>
+    Miklúš zas chcel volať za ňou, aby nešla aby tu zostala. »Ach,   čo, veď sa ona vrátTT7\«
+   </tei:p>
+   <tei:p>
+    Dnešný večer mu bol nesmierne dlhý; nemal konca, ako Gajdeľ.   Myšlienky sa zapodievaly Žofiou. »Kým príde — to je celá večnosť!«   Umienil si, že ju počká. Čo si ona počne, keď bude s ním sama, keď   nebude môcť pred ním utiecť. Aby si čas ukrátil, vybral sa s opálkou   k súsedovi, ktorý mal lámavicu. Chorí ľudia nemávajú sna, môžu si   pohovoriť. A zostal tam skoro do jedenástej. Keď myslel, že s priadok   už idú, prišiel domov a ľahol si. Nezaspal, načúval.
+   </tei:p>
+   <tei:p>
+    Žofia prišla pred vráta a pozerá do oblokov. V nich tma. »Už s p   í«, pomyslela si. »Aspoň ma nepočuje.« Otvorila tíško dvierka, aby   nevrzly; vkradla sa do dvora. Kúdeľ oprela o stenu a šla rovno do   kôlne. Bolo skoro vidno od snehu, hoci mesiac už zapadol. Sneh už   nepadal; zdá sa, že do rána sa vyjasní a bude tuhý mráz.
+   </tei:p>
+   <tei:p>
+    V kôlni našla metlu a lopatu Miklúšovu. Ako vošla, tak tíško sa i   vykradla. Ľahkým krokom spechala za farské humná a chytila sa do   roboty.
+   </tei:p>
+   <tei:p>
+    ﻿32
+   </tei:p>
+   <tei:p>
+    »Čo povie, keď nájde chodník premetený?« A tu jej bolo tak veselo   na duši. Dnes ráno si umienila, že Miklúša odmení. Bolo jej ho i   Túto, i chcela sa mu zalíškať. Azda ho tak udobrí. A ono v ten istý   deň pred večerom on ju predbehol; ani čo by bol uhádol jej zámer.   Bola si istá, že hnev zajtra alebo pozajtre s hanbou opustí ich   chalupu. Vyhodia ho predo dvere na mráz — nech tam skrahne, aby nikdy   viac neožil. Ej, bola to veselá práca a ľahká. Bola zima, ale jej   bolo teplo; bola tma — v jej duši bolo jasno; tam za kostolom   cintorín, miesto žiaľu a smútku — jej je veselo, veselo. Hlásnik   trúbil práve jednu, keď sa vracala do domu. »Len nech sa nezobudí«,   myslela si. »Aby sa ani nenazdal, že som ho odmenila.« Prišla ku   dvierkam, odchýlila ich opatrne a chcela sa vkradnúť ku kôlni. Ktosi   ju chytil za rameno. »Jaj, Bože!« vykríkla. »Ktože si ?« »Kde si   bola?« ozval sa hlas mužov. Striasla sa; hlas bol prísny a chladný.   »A čo tu robíš ?« pýtala sa ho. »Kde sa túlaš po noci? Odkiaľ ideš?«   Hlas zavznieval hrozivé. »A či priadky bývajú i po polnoci ?« Z   otázky vyznieval zas výsmech. Práve tak, ako po tej udalosti pod   horicou. »No, nevieš hovoriť?« »Kto by sa bol nazdal, že ťa tu   napopáckam«, začala Žofia. »Preto —«
+   </tei:p>
+   <tei:p>
+    ﻿33
+   </tei:p>
+   <tei:p>
+    »Mívala si, že spím!« vysmieval sa jej. »Niekedy je dobre i   nespať, aspoň človek vidí kadečo.« »Nuž, vari si...« »Vidí, ako žena   pohodí o jedenástej kúdeľ a potom chodí — po záletoch.« »Ja nie!«   zvolala Žofia. »No, už hej. Kde inde by si bola? Ja už vidím, že   nechceš nosiť vlasy. A škoda prísť o ne, takto proti zime.« Chytil ju   za hlavu a strhol jej čepiec. »Miklúš — nikde som nebola — nerob!«   Držal jej v ruke vlasy, v druhej ako by videla nožnice. »Veď ja som   bola pri kostole, sama. Uver mi, sama!« Za vlasy ju dosiaľ držal, ale   druhá ruka bola pokojná. Trochu si oddýchla. »Čos’ tam hľadala sama?   Nevedel som, že chodievaš na polnočnú...« Pozdvihla lopatu a metlu.   Na bielom snehu Miklúš pobadal ich kontúry; ale nevedel, čo to.   »Chodník som premetávala. Chcela som ťa odmenif.« Hlas sa jej triasol   pohnutím. Iste plakala. »Chcela som, aby si aspoň na mena mal pokojný   odpočinok, a ty ma zas bez viny potváraš. . .« Miklúš teraz už cítil,   že Žofia plače. Vzal jej lopatu z ruky a držal vo svojej. »Tak si ty   premetávala chodník!« riekol po chvíli premeneným hlasom. »A ja taký,   taký blázon! Hneď by sa zabil!« Žofia sa oprela o stenu a teraz už   plakala
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy II. 3
+   </tei:p>
+   <tei:p>
+    ﻿34
+   </tei:p>
+   <tei:p>
+    nahlas. Miklúš nevedel, čo raz má robiť. Koho najväčšmi nenávidel,   to bol on sám. »Ja starý blázon, narobiť takých pleták! Či ja už   vonkoncom nemám do náprstka rozumu ?« A ešte inakšie hrešil Miklúša   svojho. »A veľmi sa hneváš, Žofka?« naklonil sa k nej a hladil ju po   hlave. »Vidíš, ja som taký, taký...« Žofia nepovedala nič, ale hlavu   sklonila na jeho plece. A zas len plakala. Nemala inej odpovedi na   jeho slová, iba slzy radosti. »Vidíš, ja som sa bál, že ten diabol. .   .« A tu sa razom zasekol. »Nie som ja starý blázon ?« Žofia sa   rozosmiala v slzách. »Ako chce, keď si. Len keď sa nehneváš!«   Natešení vošli do izby. Bola taká teplá, prívetivá. .. Ráno, ako   vstali, bolo čuť, ako vietor fučí. Radosť bolo sedeť v teplej izbe.   »Čiže mi je dobre, keď je chodník premetený«, tešil sa Miklúš, a   zrazu búšil sa do čela. »Ila! Veru premetený, keď vietor duje. Ja   musím ísť ešte raz«, riekol veselo. »Jednak som ti nespomohla«,   smiala sa Žofia. »Musíš naprávať po mne.« »To je pokuta, že som ťa   potváral«, odpovedal Miklúš a s chuťou chytal sa metly a lopaty.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

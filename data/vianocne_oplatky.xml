@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1889829" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Vianočné oplátky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     15352
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Vianočné oplátky
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1889
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Vianočné oplátky.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿I.
+   </tei:p>
+   <tei:p>
+    Keď pán učiteľ Ondrej Pevný asi pred sedemnástimi rokmi nastúpil   úrad učiteľský v odľahlej dedine Konopänoch, bol preniknutý už v   mnohom novými ideami. Nuž, hľa, mladý človek, nedávno vystúpivší z   učiteľského ústavu, čili takzvanej preparandie! Cirkevníkom sa on   hneď z počiatku nepozdával, totiž na próbe. Nebohý pán rechtor bol   tučný; bolo veru čo vidieť na ňom, keď vystúpil na kazatelňu, čo sa   aspoň tri razy do roka stávalo — na výročité sviatky v prvú slávnosť   na večierni, alebo keď zasadol za organ. Toto bol ako slamka a jeho   nohy v uhorských nohaviciach dobre sa pod ním nezlomily. Nebohý bol   šedivý, ako holub; toto sotva sa z vajca vykotúlilo. Nebohý sa   holieval, ako každý poriadny pán rechtor; tento už mal na brade a pod   nosom šteť: riedku síce, ale predsa šteť. Nebohý nosil sa vážne, do   kostola chodieval v zime, v lete v dlhom deáku — tento mal tiež   šnurovaný kabátik, ale celkom krátky. A mnoho, mnoho našlo sa, v čom   rôznil sa od nebožkého pána, Pán Boh ho osláv! Ale čo robiť ? Bez   bachtára Konopäny byť nemôžu, tobôž bez rechtora: vyvolili si pána   Pevného. Do obstarožnej školy prisťahoval sa celkom mladý šuhaj.   Doviezli ho na jedinom voze so všetkým jeho náradím, s celou   perepúťou. „Je ako kostolná myš!“ hundrali cirkevníci. „Máme sa naň   narobiť, kým sa trochu zapieri a
+   </tei:p>
+   <tei:p>
+    ﻿56
+   </tei:p>
+   <tei:p>
+    ako mak stučnie! Ten nebude veru za plácou rok, dva roky čakať:   bude si vystíhat Horšie bolo, keď o dva týždne dal nový učiteľ zo   školskej izby vypratať dlhé krčmárske stoly i lavice, na ktorých   vedochtivá konopianska mládež dosiaľ nohavice s dobrým úspechom   drávala. Dedinou roznieslo sa, že do školy prídu stolice také, ako sú   v kostole. „Vedeli sme sa za stolmi učiť — prečo by sa nemohly i naše   deti?“ kričali gazdovia. Ale kričali márne. Nové stolice predsa len   vsťahovaly sa do školy. Škola zaplnila sa, napadol prvý sneh. A iba   teraz chodil chýr za chýrom dedinou — jeden divnejší, ako druhý. V   škole nemáš ferule, ani signa! „Bude to škola — ani židovská! Hlavu   mu objedia tie detváky, ak nezavoňajú ferule. Veď by sme my boli   nebožkému po chrbte tancovali, nech nie feruľa — a to bol rechtor, to   už bol!“ Ale nemálo divili sa, keď zvedeli, že ten šťúply, chudorlavý   človiečik i bez ferule vie si poradiť. Deti nesmelý robiť toľkú   sodomu, ako za nebohého. „Čerti vedia, čo je to: porobenina najskôr!“   rozhodli ustaraní Konopänia. Ale to nebolo všetko! Deti pribehly   domov s hroznou novinou: učiteľ naložil chlapcom, aby sa ostrihali.   „Ale my tých!“ kričali otcovia. „Nie dosť nešťastia, že ti ho ostrižú   vo vojne: ešte tu aby si ho dobrovoľne strihal!“ A mnohí vážnejší   presbyteri šli k učiteľovi a prosili ho, aby ten hrozný rozkaz   odvolal. „Za čože ich budú, pán učiteľ, kvákať“, strašili ho, „keď im   hlavy oholíme? Nebude v škole ani kázne, ani bázne, keď chlapci budú   mať hlavy holé, .ako kolená. Za uši, to sa tu osvedčujeme, si ich   ťahať nedáme: pačesy, keď sa i vytrhnú, narastú ľahko i druhé. Ale   ucho nenarastie druhé, keď ho raz vytrhneš.“ Učiteľ mal vôbec mnoho   roboty, kým presvedčil
+   </tei:p>
+   <tei:p>
+    ﻿57
+   </tei:p>
+   <tei:p>
+    presbyterov, že čo musí byť, to musí byť. Pekné vlasy šuhajcov   padlý za obeť jeho reformám.
+   </tei:p>
+   <tei:p>
+    Ešte dedina dobre neutíšila sa od nesmierneho rozčúlenia, keď tu   nový poplach. Učiteľ nariadil, že chlapci a dievčatá bez výnimky   donesú si pero, písanku a,atrament. „Môj Maťo notáriušom nebude!“   kričal jeden. „A načo je mojej Katuši vedieť písať — var ju spravia   rychtárom!“ A presbyteri zas len šli do školy. „Skoda papieru kaziť   nič po nič. Veď my sme tiež chodili, chvalabohu, do školy *— písať   nevieme, a tu sme. Traja nám odpisovali škripta, my sme im dávali za   to obáraného hrachu a konopného semenca, alebo jabĺčko, ak bolo...   Nebohý Ondráš Zacharovie bol vyše dvadsať rokov rychtárom, a vedel   len krížik napísať. A dievčatá! Veď si tie iba ruky po daromnici   zafafria. Nech len učia sa z knižky, aby si našli v kostole   pesničku... Majú tie vreteno : to nech vedia poriadne zvŕtať, a nie   číryčáry po papieri robiť!“
+   </tei:p>
+   <tei:p>
+    Ale učiteľ nepovolil — stalo sa mu i tu po vôli. Prišlo Ondreja.   Boženíci sišli sa u rychtára.
+   </tei:p>
+   <tei:p>
+    Doniesli so sebou tu vrece, tu širanicu takto opatrení pustili sa   dedinou. Za nimi vliekol sa hajtman a dvaja hájnici — ťahali za sebou   sánky, pravda, prázdné. Divná táto procesia šla z dom’ na dom,   vyberajúc, od gazdov pšenicu. Vrecia plnily sa a uložily hajtmanovi   na sánky. Okrem toho každý gazda dal tri poriadne polená, čo daly sa   dobre kálať: tie vliekli hájnici na svojich sánkach. Keď celá dedina   bola schodená, o polvečier zastali pred školou. Pšenicu složili v   pitvore, polená uložili pod sieňou do stôsa. „Doviezli sme pšenicu na   oplátky“, oznamoval rychtár učiteľovi. Učiteľ iba teraz spamätal sa,   že vo vokátore jeden bod znie: pečenie oplátok na Vianoce.   Utiahol
+   </tei:p>
+   <tei:p>
+    ﻿58
+   </tei:p>
+   <tei:p>
+    sa do svojej izby, uvažoval vec so všetkých strán a umienil si —   zrušiť i tento pozostatok stredovekého tmárstva. Ale toto nejde tak   jednoducho. Tu treba už yolcátor zmeniť — a vokátor meniť nemá on sám   práva... Prišiel konvent, predniesol mu svoju žiadosť s patričným   odôvodnením. Ale zle pochodil: nenašlo sa jedného človeka na   konvente, ktorý by bol hotový zriecť sa vianočných oplátok. „Čo k nám   chodil, keď sa mu vokátor nepáčil!“ bolo počuť z úzadia rozhorčený   hlas. Učiteľ tedy podľahol. Konventuáli boli vo vytržení. „Budeme mať   oplátky!“ uspokojovali svojich domácich, znepokojených zlými chýrmi o   oplátkach. „Budeme mať oplátky!“ tešily sa deti a tancovaly po izbe.   Učiteľ teraz už nevedel, čo si počať. Chcel oplátky zrušiť z mnohých   príčin, ale najviac preto, že bol samotný, nemal ženskej pomoci v   dome; bude on sám prinútený viesť túto nemilú prácu. Pritom nemal   pochopu, ako sa oplátky pečú. Ako sa robí na ne cesto, aké husté   alebo riedke — vôbec, aké má to pekárenie spády. Koľko mu treba   oplátok, koľko pšenice zomlieť, ako oplátky zariadiť. Vôbec otázok   povstalo celé more; nevedel, kde nájsť na ne odpoveď. Vrecia so   pšenicou stály dosial v pitvore, drevo vo stôsoch. Keď si pomyslí, že   príde čas, kde bude treba začať, vlasy sa mu ježia. Keby sa mal aspoň   koho poradiť, nejakej súsedy, azda by mu povedala. Ale nemá nikoho,   je tu osirotený v tejto cudzej dedine. Dosiaľ nebol ani v jednom   dome, ani s nikým okrem svojho úradu nehovoril: nechcel sa zamiešať   medzi ľud — bál sa o svoju auktoritu učiteľskú. A tak po večeroch   musel sedávať doma a nudiť sa pri fajke a niekedy i pri knihe. Na   šťastie, v jedno odpoludnie prišla k nemu
+   </tei:p>
+   <tei:p>
+    ﻿59
+   </tei:p>
+   <tei:p>
+    suseda Kopytkuľa. On jej mena, pravda, nevedel, ani ju vôbec   neznal. Divil sa, čo tá osoba uňho pohľadáva. Uškierala sa mu, hodila   okom po prázdnej, skoro celkom prázdnej svetlici, obzrela si ho   zblízka — zblízka ho i tak dosial nevidela. „Neborák, aký je suchý!“   pomyslela si. Bol by sa jej azda i zapáčil, keby nie tá šteť pod tým   nosom; ale to je trochu ono... Zas sa uškerila a zakryla si rožkom   šatky, ktorú mala na hlave, ústa. „Čo ich zakrýva , rozmýšľal učiteľ,   „sú veľmi pekné, malé — pery červené a plné, a za nimi zuby, ani   perla najčistejšia. Skôr by ich mohla ukazovať celému svetu, také   pekné zúbky!“ „Máte vari v škole dieťa?“ skúmal ju učiteľ. „Ach, nie,   moja Zofka iba na rok pôjde do školy.“ A zas usmiala sa a jej oči   usmievavo mu do tvári. „Čo táto stvora chce? trápil sa pán Ondrej a   klopil pred ňou oči, červenajúc sa. Nebol akosi sám svoj. „Máte   muža?“ pýtal sa jej. Sám nevedel, prečo jej predložil práve túto   otázku. Cítil, že mu tvár horí i uši si ako v pahrebe. Nebol   b} jej za svet pozrel do očú. „A kdeže by ho podela?“ zasmiala   sa súseda. „Mám, ale —“ a tu sa jej vzdychlo a pozrela vážne na   učiteľa — „niet ho doma, skoro od Gála. Šiel do pálenice, ale teraz   kedysi príde. Ja ho už viac nepustím, lebo to je... „Veď si sadnite!“   núkal ju učiteľ, ktorému rozpaky pomaly prešly. „Ach, veď idem. Mám   sa ešte u matere ohlásiť. Ja som k nim prišla, keby mi tie hlávky...   Keď nebolo ešte rech... keď ich ešte tu nebolo, kurátor mi toto...   mal kľúče tu od pôjda, dal mi hlávky vysypať na povalu, čo by trochu   preschly. A teraz by ich nedbala omlátiť, nuž čo by...“ Učiteľ iba   teraz vyrozumel, že na jeho pôjde
+   </tei:p>
+   <tei:p>
+    ﻿60
+   </tei:p>
+   <tei:p>
+    sú čiesi ľanové hlávky. On si pôjda dosial ani nevšimol, veď i   talc mnoho nepochodil na pôjd — nemal tam čo hľadať. Ale darmo je: o   oplátky v Konopänoch malý Kopytkuline hlávky prvú zásluhu. Kým   Kopytkuľa odnášala hlávky, učiteľ sa s ňou šoznámil, tak že keď pre   ostatné prišla, už sa dobre znali. Tak zdôveril sa jej so svojím   krížom. „Hí! pšenica je ešte nie vo mlyne?“ divila sa súseda. „A kto   by ju odniesol — nemám tu nikoho takého „A čo by ju nezaniesla? Ja ju   odnesiem hneď, oj, vďačne!“ „Ale neviem, koľko jej treba dať   zomlieť!“ „Ja veru tiež neviem. ‘ Súseda nesmierne zamyslela sa. „Ale   im čosi poradím. Jano Predajovie pekával za nebožkého — ten bude   vedieť. Pôjdem sa ho opýtať...“ „Alebo mi ho pošlite.“ „Alebo tak —   to bude najlepšie.“ Jano Predajovie prišiel. Bol to mladý ešte gazda,   nemal vari ani tridsať rokov. Urobil rozpočet s takou určitosťou a   istotou, že bolo hneď vidno, že sa Jano darmo nepovaľoval od   osemnástich rokov pred každými Vianocmi dva týždne pred školským   ohniskom. Pán učiteľ bol jeho známo-, sťami ohlušený. Čo Jano   nariadil, to učiteľ vykonal. Na trhu nakúpila Kopytkuľa hrncov,   variech, habariek, cukru, škorice a hrebíčkov — mala veru čo niesť z   mesta. Jano Predajovie najal zas rubačov, ktorí triesky na tenko   kálali. Vôbec snášanie lanových hlávok spôsobilo v oplátkovej otázke   úplný prevrat a malo by sa bolo vniesť ako svetodejná vec do   protokola obecného v Konopänoch. Lebo ináč veru neviem, či by bol pán   Pevný pri najlepšej vôli napiekol oplátok — a ak by ich
+   </tei:p>
+   <tei:p>
+    ﻿61
+   </tei:p>
+   <tei:p>
+    i napiekol: neviem, či by sa boly na oplátky ponášaly. Prišlo   Lucie. Chlapci doniesli železá a vyčistili ich. Keď nimi tam strkali,   žiactvo bolo ako vymenené. Všeobecný šumot, šepot a pohyb nastal v   školských laviciach. Ba ani sám pán učiteľ nemohol ostať chladným.   Nechal školu školou, vbehol do kuchyne. Železá sa už hrialy nad   plameňom. Nesmierny slion po celom dome. Jano Predaj naháňal húf   chlapcov, ktorých mu učiteľ pridelil za pomáhačov zpomedzi žiactva. V   bitkách nenaháňal Napoleon tak svojich ordonancov, ako Jano Predaj   týchto pomocníkov. Ale oni sa ver’ preto nehnevali. Prípravy   postúpily konečne tak ďaleko, že prvá oplátka sišla so železa. Obzrel   ju najprv Predaj, potom učiteľ a konečne chlapci, ako by to bol   desiaty div sveta. Napokon nezostalo z nej nič. „Treba bude múky   prisypať. Oplátka je tenká, a tu radi hrubšiu. A chlapec, ktorého   Jano postavil 1c ohromnému hrncu s rozrobeným cestom a dal mu do ruky   habarku, musel znova roztrepávať prisypanú múku. Pán učiteľ, keď už i   tak mrkalo, rozpustil školu. Deti, idúc pitvorom a čujúc praskot ohňa   na školskom ohnisku a štrkot želiez, zaradovaly sa znovu. „Oplátky sa   pečú — hody sú už v kuchyni!“ hovorily si medzi sebou. Učiteľ vstúpil   do kuchyne, ktorá hemžila sa ľuďmi. Jano Predaj stál pri ohnisku s   varechou v ruke. Striehol oheň, železá, chlapcov — všetko! Železá   boly dve. Jedno hladké, vlastne kedysi bolo doň čosi vyryté, ale   časom zárezy stály sa na nepoznanie plytkými. Druhé ešte nové, rytina   na ňom zachovaná. Oplátka s neho niesla dva výjavy z Písma svätého:   Adama a Evu v raji a Božie
+   </tei:p>
+   <tei:p>
+    ﻿62
+   </tei:p>
+   <tei:p>
+    narodenie. Dookola nápis, s menom cirkvi a rokom jej   založenia.
+   </tei:p>
+   <tei:p>
+    Chlapcov, bolo v kuchyni šesť. Dvaja narábäli železami, jeden mal   v ruke (kutáč a naprával oheň. Že je pecúchom, bolo vidno nielen po   kutáči, ale i z toho, že má tvár, ako murín. Chlapci ho zafúľali, aby   si zachoval, čo je jeho úrad. Iný chlapec bol vymenovaný za kuchára:   miechal cesto, ako sme ho už prvej videli. Aby bol značnejší, chlapci   urobili mu z cesta výložky na kabátku a búzy na tvári. Ostatní dvaja   stáli ako rezerva v úzadí. Majú zameniť chlapcov pri železách a   starať sa do tých čias, aby bolo v kuchyni dostatok paliva.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Keď pán učiteľ vkročil do kuchyne, hovor zaraz utíchol. Vidno, že   žiaci okúňajú sa pred svojím kazárom. Jano Predaj žmurkol na nich a   usmieval sa figliarsky, ako by im chcel povedať: „Aha, prišiel kocúr   medzi myši — hody prestaly!“ Oplátky so želiez šly rovno pod nožnice   učiteľovi, ktorý sedel pri kuchynskom stole. Robota šla pri najväčšej   tichosti. Chlapci sa neopovážili šantovať. Iba Janov hlas bolo počuť,   ako volal: „Ondráš, už — ukáž! Ešte je nie: tento roh prihrej. Mišo,,   obracaj rezko: raz, dva — raz, dva, lebo ju pripáliš a železo   zhumpľuješ. No, Ondráš, už je“ — a tak sňal oplátku s Ondrášovho   železa. „A lepšie stískaj! Nepečieme poplanky, ale oplátky. Ja, ved   zas nie tol’me — všetko cesto ti vyfiučalo: mal bys’, hodne   ostrižkov! A ty, pecúch, ŕichtuj oheň; Ondráš má pod železom ľadoveň   — tak budeme do Troch kráľov piecť. Ľa!“ karhal pecúcha, keď ho   slúchol a tri triesky hodil na ohnisko. „Čože kazíš náš oheň! Ukáž   ten kutáč — musíš poodhrabať uhlie, poodhŕňať pekne — vidíš, ako
+   </tei:p>
+   <tei:p>
+    ﻿63
+   </tei:p>
+   <tei:p>
+    nám horí! Podúchaj — ešte lepšie! No!—veď ty máš vodu v ústach:   ako dúchrieš, tak oheň kape!“ Chlapci sa len usmievali a slúchali   Jana, čo im kázal. Hľadeli naňho s veľkým obdivom — ale kde by nie? Y   prítomnosti pána učiteľa hovorí, a nič sa nebojí. , „No, chlapci,   čože tak čušíte?“ pýtal sa ich učiteľ. „Teraz je nie škola — nebojte   sa!“ „Oj, veď im ono mušky ožijú — no, nie?“ A Jano chytil jedného ,   z rezervných pekárov za hlavu a pritisol mu k lebke všetkých päť   prstov. Ale ich i pošmýkal po vlasoch, najviac proti srsti.   Rezervnému pekárovi vyskočily slzy, ako hrachy. „Ej, to bolí!“   skríkol, šúchajúc si šticu. „Tak sa kozy lížu!“ poučoval ho Jano   Predaj s vážnou tvárou. „A zas nehorí!“ volal na pecúcha. Pecúch   nečakal, kým mu Jano zas nový kunšt ukáže na štici; naprával oheň,   vlastne dusil ho svojím kutáčom. Rezervným pekárom zunovalo sa takto   zaháľať : začali sa k železám dotískať. „Len počkajte, ujde sa vám   dosť — oj, dosť. Polnoc ďaleko!“ tešil ich Jano, Tak šla práca veľmi   od ruky. Oplátky sa darily. Učiteľ mnoho popočúval, ako ťažko je   piecť oplátky. Dnešný zdarný začiatok ho prekvapil veľmi príjemne.   „Oj, vodové, tie idú; čo bynešly!“ odpovedal Ja.no. „Vodová sa tak   ľahko nepripáli. Ale cukrové — keď človek neutrafí proporcie —   oplátka za oplátkou ide na nivoč.“ „A koľko ich potrebujeme?“ pýtal   sa učiteľ. „Vodových dó dvadsať sto a culcrových okolo tisíc! “   „Nebude to málo ?“ „Málo nie. Okolo sto dvadsať domov po pätnásť   vodových a okolo päť cukrových. Ale cukrové sa
+   </tei:p>
+   <tei:p>
+    ﻿64
+   </tei:p>
+   <tei:p>
+    veľmi krušia, preto ich toľko vyjde. Tá keď vychladne, aby sa jej   netýkal: hneď sa láme a puká! Ej, to sú ml’andrävé — a tých bude   treba moc — pošlú i do mesta i do Zemän-Lehoty. „A komu do mesta?“   „Nuž po známosti: tam je pán fyzikus, pán inšpektor, pán kontrolór a.   pán — nuž hodne pánov je tam. Všetko sú naučení na naše oplátky a   upriamení na ne. Naše bývajú najlepšie... to už nebožký pán tak   vedeli piecť — ej, tí vedeli! Keď si ju sňal s toho železa, ani čo by   ju ulial — a tak sa červenala.“ „Ale ja tých pánov ešte neznám“,   povedal učiteľ v rozpakoch. „Akože neznámym posielať? „Jaj, oni ich   dobre znajú — veď by sa to veľmi nahnevali!... Akože ich obídu! “ „A   Zemän-Lehota! Veď je to deň cesty sem a ta. Komuže sa ta posiela?“   „Ja, ta musia, Bože chráň! Pán Melchior by sa nahnevali. To je pán,   býval pri vojsku; i teraz nosieva šabľu, ale len gazduje. Má u seba   deti od nebohej dievky — oplátok moc sa uňho minie. A dáva piatku!“   Učiteľ sa zamračil. Piatka — vôbec myšlienka na peniaze, ktoré   podostáva, znepokojila ho v duši. Čo si-tí ľudia pomyslia, keď mu   budú posielať tie peniaze! „Keby peňazí radšej nedávali!“ povedal   Janovi. Jano pozrel na učiteľa s podivením. Takého slova ešte nikdy   nepočul. „A ako by to bolo — chceli by darmo posielať?“ „Bol by som   veru radšej!“ „Ná, akí sú oni! Darmo ani Pánu Bohu neslúžime! Ako by   ja za svoju prácu nemal dostať pláce?“ „Keď je toto iné!“ „To je   práca — a to im patrí podľa dôchodku. Keď idem k doktorovi, a on mi   niečo predpíše
+   </tei:p>
+   <tei:p>
+    ﻿65
+   </tei:p>
+   <tei:p>
+    — len čo kartičku napíše, a už mú dám zlatku. Ten veru nepovie, že   nechce. A advokát: berie, i keď mu nenúkaš. A oni by chceli Keď   chodil do učiteľského ústavu, učiteľ mnoho popočúval a v knihách   počítal o vznešenosti svojho budúceho stavu a jeho dnešnom hlbokom   pokorení pred svetom. Pokorenie to javí sa v tom: že učiteľ musí   organovať, spievať v kostole, na pohreboch vyspevovať, niekedy páchať   i verše na nebohého a vyvyšovať v ňom ctnosti, ktorých nikdy nemal.   Ba čo najhoršieho: musí zvoniť, koledovať, oplátky piecť atď. atď.   Keď Pevný vstupoval do ústavu, boly mu i tieto .pokorujúce výkony   jeho budúceho stavu známe; vedel, čo ho čaká, ale to ho   neodstrašovalo. Vysvetľoval si to vtedy na iný spôsob. Keď počul   učiteľa organovať, nevidel v tom poníženia jeho: veď cirkev nekúpila   organ preto, aby učiteľovu auktoritu hodila do prachu, ale aby spev   bol riadnejší a krajší. Cirkevníci nedali svojim mŕtvym robiť verše,   aby učiteľa ponížili, ale aby sa pri ich sladkých, milých slovách   vyplakali a utešili. O zvonení vôbec ničoho nevedel, lebo na veži   nikdy nevidel učiteľa, najviac jeho mendíka: vtedy mu ešte neprišlo   na um, že i v mendíkovi možno uraziť učiteľskú dôstojnosť — a   menovite tým, keď mendík zvoní. Keď mendík čistí obuv svojho pána,   alebo čistí stajňu — tá práca je menej ponižujúca, než zvonenie. V   ústave už naučil sa hľadieť ináč na tieto veci — hlavnú zásluhu o to   mali profesori. Učili žiakov nie hrdosti, ale opovrhovať inými stavy.   Podľa nich ostatné stavy stoja nízko, mnohé sú nepoctivé. S takými   názormi vstúpil do života. Hneď pri nastúpení stanice umienil si   zostať sám sebe pánom: vyhýbať istým kruhom, odkiaľ je jeho   auktorita
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spisy VII.
+   </tei:p>
+   <tei:p>
+    5
+   </tei:p>
+   <tei:p>
+    ﻿66
+   </tei:p>
+   <tei:p>
+    ohrozená. S farárom, dobrým starčekom, ani nevídal sa, len pri   funkciách. Teraz, pri pečení oplátok, sám Pavel Jonatan prišiel do   školy. „A čo neprídete niekedy k nám?“ hovoril, už sediac na tvrdom   drevenom kanape, prikrytom plédom. „Večery dlhé — tu vám bude   samotnému clivo a smutno: a nám na fare tiež lepšie míňal by sa čas.“   Učiteľ odpovedal, že nemá kedy a či že ne- A V moze. „Musíme jeden   druhému privykať“, pokračoval Pavel Jonatan, „keďže sme už na jednej   vinici. Z takéhoto života nič. Veru privykať“ — a tu stal sa-jeho   hlas smutným — „to je naše určenie na tejto zemi, určenie ľudí vôbec.   Preto nás i Písmo volá pohostinnými a pútnikmi na tomto svete.   Neznámym, cudzím privykať, obľúbiť si ich: a keď sme sa ako-tak   spoznali, keď sa začíname spolu dobre snášať, keď sa radi máme,   staneme sa jedni druhým drahými, nerozlučnými, keď si už rozumieme,   ako vlastní bratia, alebo azda ešte lepšie, tu nastáva druhá úloha,   ťažšia, smutnejšia. Úloha tá znie •— odvykaj. V tom máte súhrn našich   utrpení, bolestí... Čo je staré, ustupuje — za ním prichádza nové,   neznáme, a medzitým i my zachádzame ... Toto staré a zas nové téma   počul učiteľ neraz pretriasať. Nikdy nepocítil jeho podstaty tak   živo, ako teraz. Starý hovoril iste zo svojich zkúseností, ozvaly sa   v ňom city — preto jeho slová malý na učiteľa veľký účinok. Pozeral   na starca s istým súcitom, keď ho videl sedieť so svesenou hlavou. „S   bývalým sme boli spolu ako bratia“, pokračoval farár. „Boli sme i   kmotrovia. Spolu sme skončili teológiu; nie div, že jeho smrť ma   dojala. Nuž príďte k nám — dôverne, bez okúňania, ako k otcovi.“
+   </tei:p>
+   <tei:p>
+    Učitel dopustil, že z pravidla sú i výnimky.
+   </tei:p>
+   <tei:p>
+    ﻿67
+   </tei:p>
+   <tei:p>
+    Tento je taká, hľa, výnimka. Hľadel sa s ním hneď za horúca   pokasať, bol by chcel voči nemu brániť svoju auktoritu — ale tento   starý nezavdal mu nikdy príčiny k pohoršeniu. A dnes ho ešte chce   vtiahnuť nasilu do svojich krážov, obdariť ho svojím priateľstvom.   Pevný nebol zlý človek; keď vypustil z mysle auktoritu svojho stavu,   vedel byť i milý, príjemný a — úprimný. Tak i tu rozohrial sa v   rozhovore so svojím farárom, že počal byť otvorenejším. „Jedno nepáči   sa mi v našom stave, a to sú — oplátky. Nie pečenie samo, to konečne   i baví, ale to prijímanie šestákov.“ Pavel Jonatan hľadel dlho, veľmi   dlho na učiteľa. Učiteľ sa pred tým pohľadom akosi hanbil. Ľutoval,   že ukázal starému najcitlivejšie miesto, že uponížil sa pred ním.   „Tak vám sa nepáči, že dostávate za oplátky peniaze. „Áno. Nedvíha to   dôstojnosť nášho stavu, keď musíme prijímať diškrécie. Každý ten   šesták mi pripomína, že som vlastne — sluha, sluha všetkých, že každý   mi môže...“ Učiteľ sa zasekol. Všetka trpkosť, ktorú stačil nasbierať   za krátky čas úradovania, vzbúrila sa znova; nevedel jej dať výrazu   slovami. Starý kňaz hľadel skoro nežne na učiteľa, otcovská dobrota   žiarila z jeho oka. Vstal, pristúpil k peci, u ktorej stál učiteľ, a   vložil mu dlaň na plece. „Ľutujem vás: tento stav nemali ste si   vyvoliť, ale niektorý iný. City, ktoré vás teraz opanovaly, tie vám   otrávia každú minútu života. Urobia vás nešťastným navždy. „Sú azda   tie city bezbožné?“ pýtal sa učiteľ, hotový k tuhému odporu. „Sú   svetácke. Niet v nich pokory.“ „Tedy predsa — pokora, to sa   vyžaduje!“
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    ﻿68
+   </tei:p>
+   <tei:p>
+    A zahorely mu oči zvláštnym leskom. „Hľa, tu je šidlo*, pomyslel   si. „Predpovedali nám, čo sa bude od nás vyžadovať — znamenite   predpovedali. Tak tedy počujem už raz to slovo, pod ktorým upime: tu   stojí predo mnou — pokora!“ „Áno, pokora“, prisviedčal Pavel Jonatan.   „Slovo, ktorému je ťažko privyknúť a rozumieť. Ale kto sa ho raz   chytil, ten sa ho drží! V ňom je najväčšia sila! Pokora všetko   premôže. Naučí ťa, že si ty, ako ja — že ľudia sme rovní pred Bohom.   To je naša najdokonalejšia rovnoprávnosť, ktorú svet zavrhuje. Prečo   zavrhuje? Preto, že blúdi, , zahodil kresťanskú pravdu a ženie sa za   lžou. Áno, rovní sme si: a tá rovnosť leží v tom, aby sme slúžili   jedni druhým. Rozdiely, ktoré diabol nasial medzi ľudí, pred Bohom   nestoja. On zná takéto rozdiely, ako vyriekol Kristus: kto si   najväčší, budiž ako najmenší; kto si vodcom, budiž ako služobník. S   tohoto stanoviska hľaďte na šestáky, ktoré vám cirkevníci za oplátky   pošlú: nebudú vás tie šestáky tak na duši páliť. Cirkev spočíva na   týchto zásadách a my, jej služobníci, máme povinnosť jej slúžiť. A to   nám je obľahčené tým, že druhí nám tiež slúža. Vy dnes pečiete   oplátky, zajtra budú cirkevníci za vás orať, siať a žať. Tedy služba   je vzájomná. „Keď slúžiť, slúžme tedy darmo, bez viditeľnej   odmeny.“
+   </tei:p>
+   <tei:p>
+    „To je nemožno, kým sme v tomto tele, ktoré pýta jesť a šatiť sa.   Písmo tiež vraví: hoden je delník mzdy svojej.“
+   </tei:p>
+   <tei:p>
+    Učiteľ bol ohlušený, ale nie presvedčený. „Kde je tá rovnosť —   slúžme jedni druhým! Nikde jej nevidím v živote. Mne neslúžil nikto —   tým spôsobom, ako ja slúžim dnes. Iste rovnosť bude táto: učiteľ buď   pokorný! Ale keď ty to samé žiadaš, tam rovnosť prestáva ...
+   </tei:p>
+   <tei:p>
+    ﻿69
+   </tei:p>
+   <tei:p>
+    „Povedal som, v svete tieto náuky sú odkopnuté“, riekol Pavel   Jonatan pokojne. „Ale máme ich i my zato odhodiť? My, sluhovia   cirkvi! Ja myslím, naša úloha je vznešenejšia, než pripodobňovať sa   svetu tomuto... Radšej trpieť, než pravdu zaprieť. Lebo keď bude sol   zeme zmarená, čím bude potom zem osolená? A tak trpme, znášajme   svorne i ďalej, čo nám naša služba ukladá. Učitelovo srdce spieralo   sa týmto náukám. Ťažko mu padlo urážať tohoto oduševneného starca,   ale pravdu nechcel zamlčať. Pravdu, ktorá mu stála pred očinrn jasno,   ako slnce na oblohe. Totiž: že v tom utrpení je učiteľ akosi   osirotený, nemá kto svorne s ním o utrpenie deliť sa. Ten druhý stav,   ktorý by učiteľovi mal stáť v jeho utrpení verne pri boku, je často —   škodoradostným divákom. Tieto myšlienky vyjavil Pavlovi Jonatanovi:   chcel sa už raz niekomu požalovať, a doložil: „Len jediný výjav mi   povedzte zo svojho úradovania, ktorý ponášal by sa na tie, aké   onedlho zažijem, pri odberaní šestákov za oplátky.“ „To vám   vskutku môžem povedať“, riekol Pavel Jonatan bez trpkosti. „Po novom   roku pôjdem s koledou. V každom dome dostanem šesták alebo dva. Ten   šesták nemožno považovať za diškréciu — je to almužna. Môžem vám   riecť úprimne, že ten šesták ma pálil práve tak, ako vás, keď som bol   vo vašich rokoch. Raz sa mi stalo, že odrastení predo mnou utiekli, a   ja vstúpil do izby, kde boly deti. Tie my oddaly šesták... Vtedy som   bojoval celú noc sám so sebou, ako kedysi patriarcha Jalcob: nad   ránom som premohol v sebe svetáka. Vzal na seba bremeno, hoci zdalo   sa, neznesiteľným. A hľa, vyvládal som až dodnes, a síl, chvalabohu,   neubudlo. Hotoví sme i ďalej do služby, do ktorej nás postavil Pán Na   učiteľa neostala  reč bez účinku.
+   </tei:p>
+   <tei:p>
+    ﻿70
+   </tei:p>
+   <tei:p>
+    Ukázal sa mu jeho zas v inom svetle. Osvietil mu ho Pavel Jonatan   múdrosťou, ktorú čerpal z knihy kníh. Ba i skutkom: dal mu nazrieť do   svojej minulosti a bojov, ktoré v službe Pánovej musel vybojovať.   Obidvaja sa zamlčali. Mali na dnes i tolioto dosť. Pavel Jonatan   pobral sa domov, lebo už bol vonku mrak. Učiteľ ho vyprevádzal s   lampášom. Tu mu padol-do oka polozhnilý stĺp, ktorý držal operadlo u   podsteny. Zastavil farára. „Prosím vás, toto treba opraviť — môže ten   stĺp niekoho zabiť.“ Ale ledva to riekol, hneď sa spamätal, že   obrátil sa na nepravú adresu. Treba to povedať kurátorovi, nie   farárovi. „Dobre, poviem kurátorovi“, odpovedal Pavel Jonatan a   brodil sa snehom na ulicu. Učiteľ omnoho vrelejšie opakoval stisnutie   ruky, než pred chvílou, keď farár prišiel k nemu. „Čo som to urobil!“   vytýkal si, keď bol osamote. „Jemu naložím reparovať zhnilý stĺp!   Dobre, že sa nenahneval. Keby on mne tak bol len včera rozkázal:   prosím vás, toto a toto mi vykonajte u kurátora —čo by mu bol   odpovedal? Vojdúc do kuchyne, skončil rozjímanie vetou1: „— že   som nie nikomu — mendíkom...
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    V kuchyni rozliehal sa spev. Chlapci, kecT pán farár odišiel,   začali spievať: Čas radosti, veselosti... Jano Predaj zamiešal sa   tiež do spevu a jeho bas medzi sopránmi chlapcov znel tak, ako keď   pri piskote  začne bzučať tučný čmelák. „Akože — darí   sa?“ pýtal sa pán učiteľ. „Už rozrába do druhého hrnca. Prvý už ideme   vypiecť. “ Suhaj-kuchár s vyhrnutými rukávmi stál nad nesmiernym   htmcom a roztrepával cesto habarkou.
+   </tei:p>
+   <tei:p>
+    ﻿71
+   </tei:p>
+   <tei:p>
+    „KoTko ich dnes napečieme?“ „Keby sme mohli päťsto. Len prikladaj,   chlapče, na ten, oheň! Lala, už by spal!“ „O, ja nie“, bránil sa   pecúch. „Nuž to bys’ jedol!“ „Hm“ — a šuhaj pohodil plecom, čo   nezná- menalo ani to, ani to. Azda si pritom myslel: „Jedlo by   sa, keby bolo.“ Pán učiteľ sa zľakol. V tej tuhej dišpute s Pavlom   Jonatanom zabudol, že robotníkov treba nakŕmiť. Ako, keď niet ženskej   v dome? On varieval sebe obedy — ale či sa môže tak uponížiť, aby   varil i iným ? Zišla mu na um Kopytkuľa. „Treba by bolo Kopytkuľu   zavolať“, riekol Predajovi. „A načo nám je?“ „Večeru by vám uvarila.“   Predaj sa iba usmial, že pán učiteľ je taký nezkúsený. „Ale nám? My   si ju už varíme!“ Otvoril trúbu, z nej vyvalila sa para poloupečenej   švábky, „Toto je naša večera. Inej nám netreba.1 Tak sňal Jano Predaj   novú starosť s pliec učiteľových. Ba čo by sa robilo, keby nebolo   jeho! Z každého skutku, každého pohybu bolo vidno, že Predaj je v   svojom odbore nenahraditeľný. Učiteľ požehnával i tú hodinu, v ktorú   mu znamenitá Kopytkuľa na oči prvý raz vstúpila. Oplátok pribúdalo   pekne na hŕbu. Chlapci napukali sa pečenej švábky. Sám učiteľ si ich   koľkosi olúpil. Počal sa tu dobre cítiť. Chlapci sa rozveselili, azda   večera tak pôsobila na nich; pozabudli, že za chrbtom im sedí kazár.   Prišla deviata — chlapci počali ustávať. Po iné večery o tejto hodine   už bývali v posteli. Oči ich počaly rezať, ako by bolo v nich   nasypané piesku. Utíchli. Niektorí utiahli sa pod ohnisko, iní do   iných kútov a tam dumali. Jano Predaj ich nevyrušoval.
+   </tei:p>
+   <tei:p>
+    ﻿72
+   </tei:p>
+   <tei:p>
+    Bumst! Buchlo kdesi nablízku nesmiesne. Škola sa otriasla v   základoch. Chlapci, čo dumali, vyskočili na ten buchot na rovné nohy.   „Lucia, Lucia!“ volali chlapci od želiez. „To ženy s priadok sa   šalejú , riekol Predaj. Učiteľ vyskočil, letel pitvorom, otvoril   dvere. Z diaľky zavznieval ženský chichot. Ale ulica bola prázdna.   „Kto to ozaj vykonal?“ Učiteľ na palcoch kradol sa podstením. Pod   nohami sa mu čosi krušilo. Iste črepy z pohodeného hrnca. Sišiel do   ulice, načúval. Znel mu zas smiech a šepot. Pred ním v hodnej diaľke,   osvetlená svetlom padajúcim z obloka, mihla sa tlupa ženských.   Zastaly pred jedným domom, chvíľku šepotaly, dve odtrhly sa od tlupy   a vkrádaly sa do dvora. Učiteľ stiahol čiapku na uši, vyhrnul golier   a stál. Bumst! rozľahlo sa zas tichou ulicou. Ženské zvýskly, dočkaly   obe kamarátky, čo hádzaly hrniec, a tak v tlupe zaberaly hore   dedinou. „Fľandry!“ kričal mužský hlas z polootvoreného obloka. „Ak   ta pôjdem, ale, ale...“ Oblok sa hneď prichlopil, iste veľmi fučala   zima. Učiteľ zakrádal sa za nočnými Sám nevedel, čo ho 1c nim vábi.   Šiel za nimi hodnú chvíľu, až zrazu zastaly. Zastal i on. „Lala,   Žid!“ skríkla jedna, ukazujúc naňho. „Žide, chamrde — čert za tebou   ide...“ „Kde?“ volaly druhé. Učiteľ, vidiac, že je vyzradený, uchýlil   sa zo svetla, ktoré naň oblokom padalo. Bol neďaleko dvor, pred ním   hŕba raždiny. Stal si k raždiu. „Aha, ztratil sa! Už ho nevidno“,   divila sa prvá. „Počujete — alebo to bola striga!“ zvolala iná.   „Striga bude v chlapských háboch!“ vysmievaly ju iné.  „Alebo   černokňažník...“
+   </tei:p>
+   <tei:p>
+    ﻿73
+   </tei:p>
+   <tei:p>
+    „Juj!“ skríkla ktorási a odskočila. Všetky sa splašily. „Haha, ale   ste sa naľakaly!“ smiala sa im.
+   </tei:p>
+   <tei:p>
+    A za.s kráčaly hore dedinou. Toto nočné túlanie niesmierne vábilo   učiteľa.
+   </tei:p>
+   <tei:p>
+    Nevidel dosiaľ, aká je dedina v noci. Jej nočné kúzlo uchvátilo mu   dušu: cítil sa, ako by bol v kostole. Všade tajomná tichosť. Tlupa   ženských doviedla ho k osvetlenému domu. Chvíľku čakal, kým vhrnú sa   do izby; vstúpil do pootvorenej záhradky. Nazrel oblokom do izby. V   nej rozostavené sú lavice a stolce, na nich sedia a pradú mladé   stvorenia. Pomedzi ne tmolia sa alebo’sedia mládenci; každý hrkúta   okolo svojej, ako by tu boli sami... Zaujala ho divosť. Medzi týmito   stenami je tak veselo, tak milo — je to svet, ktorý sám sebe postačí.   A krásny, blažený svet! I tá hviezda nad týmto domom akosi veselšie   trblieta, ako iné. Koľko tu šťastia nahrnutého na jedinom mieste. Z   kozuba sa rozlieva krotké svetlo a maľuje ružové tiene na- stenách.   Ano, i tu sú tiene, ale nie ťažké, len ružové — za nimi sa usmieva   láska. A tu pod oblokom tak zima... Tak otupno von z toho raja...   Vietor sa ženie ulicou a vrzgoce blechovou hálkou na dome. Ako by   bolo dobre tam — dnu! Z blízkosti počuť tichý hovor. Utajil sa a   skrčil k zemi. Hovor počuť, ale kroky sa neozývajú. Nikoho nevidno   prichádzať. Vystúpil tíško zo záhradky, zastal si u vrát. Hovor bolo   počuť z bezprostrednej blízkosti, a vychádzal zo dvora. Zdalo sa mu,   že hovoriaci stoja s tamtej strany vrát. „Ty ma oklameš, ja ti   neverím — hovoril ženský hlas. Fantázia učiteľova vykúzlila si k nemu   postavu, akej dievča ešte nemalo na svete. „Zofe Komárovie si tiež   sľuboval — tri roky — a teraz...“
+   </tei:p>
+   <tei:p>
+    ﻿74
+   </tei:p>
+   <tei:p>
+    „Tej?“ znelo opovržlivé zpoza vrát z mužských úst. -„A som ja   vtedy vedel, aká bude, kým ja prídem z vojny? Načo v tak ostarela?   Ani zuba nemá! Nemusela čakať. Čidali by bola čakala, keby sa bol iný   nadaril. Teraz povedá, že len mňa chce!“ „Pravda teba! Veď sa jej   dosť triafalo.“
+   </tei:p>
+   <tei:p>
+    „Mohla sa vydať. Obom by nám bolo lepšie. Ver mi, Evka, taká mi je   protivná — pozrieť mi ťažko príde na ňu!“ „Vidíš, aký si neverný!   Vtedy by si bol horydoly posnášal — a teraz ... “ „Či je to od Boha,   či od sveta: ja neviem. Ale ja už nemôžem. Ešte by bol mohol, keby   nie ty... Teba čo som videl, všetko sa vo mne prevrátilo. Ja len   neviem, čo je to! Takto tri roky bola si taká malá — vieš, že som ťa   ani raz nepojal, keď bol tanec. A tu teraz, takáto... Ej, Evka,   kebys’ ty len vedela, aká si! Čó sa viac na teba dívam, to sa mi viac   žiada. V celom Krakove som takej nevidel. A vieš ty, čo? Čo by si ty   popod samé nebo lietala, ty budeš moja, keď raz poviem. Minú sa Hody,   prídu fašiangy, a my... Len, Pane Bože, ako to potom bude; ja sa var’   zošaliem od radosti!“
+   </tei:p>
+   <tei:p>
+    „Juj!“ striaslo sa dievča. „Čo ti je?“ „Zima je.“ „Daj tie ruky,   podúchnem ti na ne. Alebo počkaj — vlož si ich sem, pod môj kožušték.   „Ale!“ „Čože sa bojíš — blázonko! Vidíš,, však je tam teplo? A mňa   tie tvoje ruky tak chladia — mne je horúce...“ „Ako tam búcha!“ „To   moje srdce tak tuho bije — to pre teba. Keď si tak ľahnem a pomyslím   si: čože robí moja Evka — už začne búchať, ako zvon. Ešte sa   zblaznie,
+   </tei:p>
+   <tei:p>
+    ﻿75
+   </tei:p>
+   <tei:p>
+    čo sa tak upriamilo na teba. Ach, nám! Komora už vyriadená, len   teba „A ak ma oklameš? Jasom nie taká ako Žofa Komárovie.“ „Ach, iď —   blázon! Napľuj mi do očú, vyškriab mi oči, alebo... Aha — a ty máš   prsteň! Ja som ho u teba ešte nevidel. Kde si ho vzala?“ „To mi dal   Ondráš...“ „Ten Kováčovie? Daj ho sem — tak, ten už viac na tvojej   ruke nebude.“ „Kde si ho podel?“ „Pokrkval — bol len z olova. Počkaj,   ja ti kúpim strieborný, alebo zlatý...“ „A Ondráš?“ „Ondráš — to je   papľuh! Príde do losov, odoberú ho. Bude tam tri roky, ako ja. Chceš   ho var’ čakať? Vojakovi ty never; vieš, ako pochodila Žofa! Vojak   nasľubuje, a keď shodí tornister, spadne s neho i dievča, čo sa naň   vešalo. Príde z vojny, vidí mladú, peknú, ako ty teraz... Ty budeš v   kúte nariekať, a on bude sa s druhou vodiť — druhú bozkávať, takto   „Nerob, ty — joj!“ „Veď budeme svoji!* „Mne je zima.“ „Oj, nie. Veď   ti líce len tak horí — aké je to líčko!“ „Poďme!“ „Počkaj — dám ti   kožuštek. Obleč si ho — mne je i tak horúce...“ „Ja idem!“ „Počkaj   ešte ■— len ako mak! Ej, veď ty máš na líci bradovičku. Aká   drobulinká — hneď by ju odhryzol.“ „Ale ty si taký! Pusť ma už!“   „Ešte ťa raz bozkám — aspoň len raz...“ Učiteľ čul, ako padajú bozky.   Pršaly, ako
+   </tei:p>
+   <tei:p>
+    ﻿76
+   </tei:p>
+   <tei:p>
+    príval. Každé cmuknutie ozývalo sa tisíc ráz v jeho duši. „No, už   dosť!“ „Co ich je viac — to sa viac žiada. Od teba sú nie sýte!“ A   ozvalo sa najtuhšie cmuknutie. „No, choď! Ale nie so mnou do izb3? —   aby nevideli, že sme boli spolu“ — radila malá falošnica.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Učiteľ viac nepočul ani slova. Uskočil od vrát a, vyjdúc na ulicu,   poberal sa domov. Zdalo sa mu, že u vrát stál nie minúty, ale roky.   Vracal sa k svojmu mládeneckému .domovu cele iný, než bol, keď pred   chvíľou vyšiel; Nové city privíilily sa mu na dušu. Naučil sa iným   okom pozerať na svet. Sám určite nevedel, čo sa stalo, ale jedno mu   bolo jasné úplne — že staré veci pominuly a prichádza čosi nového. A   pod dojmom toho nového duša mu plesala.
+   </tei:p>
+   <tei:p>
+    Vkradol sa do izby, ako zlodej, rozhliadal sa v nej, ako cudzinec,   ako hosť v cudzom svete. „Ako je tu pusto, prázdno!“ Dnes vari prvý   raz to pozoroval. „Ba či tu vždy takto bude?“ Dosial nikdy nepokladal   svoj dnešný stav za dočasný. Myslel, že to, čo je tu, nepremení sa   nikdy. Ale v túto chvíľu videl, že premeny veliké nastanú, že tu   všetko zmení sa. „Ako b} to bolo, keby takto malo zostať: aký by   to bol život?“ Premena videla sa mu nevyhnutnou: premena, ktorou jeho   život dôjde jedine pravej ceny. Sadol na kanap, zavrel oči a sklonil   hlavu, preplnenú myšlienkami. Premena mu stála jasne pred očima.   Stojí pred ním: vysoká, s úsmevom na tvári. A, divná vec, na líci má   bradovičku, drobnú, na zjedenie. S tým zjavom súvisely všetky plány   na premenu. Kde videl kedy túto postavu? Hľadal ju medzi zná
+   </tei:p>
+   <tei:p>
+    ﻿77
+   </tei:p>
+   <tei:p>
+    mymi, nenašiel jej. Ale je predsa tu: veď ju drží za obe ruky,   rozohrieva ich svojím dychom, kladie ich na svoje srdce, ktoré búcha   na poplach! „Len ešte raz -— ešte raz!“ zastenal, premožený sladkými   dojmy. Vyskočil. Stál v prázdnej izbe, vidina ztratila sa.
+   </tei:p>
+   <tei:p>
+    „Takto nevydržím, čosi sa stane, musí sa čosi stať. Tento deň bude   mi pamätný...“ A umienil si, že na tento deň sa rozpamätá, keď sa to   „čosi“ stane.
+   </tei:p>
+   <tei:p>
+    V kuchyni medzitým nastaly veliké zmeny. Chlapci sedeli na zemi,   niektorí z nich i driemali, niektorí uchýlili sa zpod očú do lcutice.   U želiez nemali čo hľadať: prihrnuli sa totiž mládenci, ktorí   zručnejšie vedeli s oplátkami zachádzať. V ich rukách železá ako by   sa duplom namáhaly. Učiteľ .sadol si ku stolu a nerušil ich zábavy.   Mal dosť obchodu s oplátkami a svojimi myšlienkami.
+   </tei:p>
+   <tei:p>
+    Išla reč o strigách a mátohách. „Stríg na svete niet: iba   poverčiví ľudia veria na strigy“, hovorí Mišo, ktorý bol najstarší a   najlepší zo žiakov. Po tomto výroku pozrel úlcosom na svojho majstra,   aký dojem vyvolal uňho. Azda ho chcel zapliesť do hádky s mládenci,   ktorí boli opačného náhľadu.
+   </tei:p>
+   <tei:p>
+    „Ako by neboly!“ zvolal mládenec, čo držal ťažké železo. „Ľudia by   nič po nič nevraveli.“ „Keď sa niekto opije, ľahko strigu vidí“,   odpovedal Mišo.
+   </tei:p>
+   <tei:p>
+    Jano Predaj vytratil sa niekam na dvor. Možno, zažiadalo sa mu   trochu chladu. „Môj otec nebol opitý, a videl ju“, rozprával mládenec   vážne. „Vyletela z jedného komína tu v dedine, keď išiel s   jedenástou. Sedela na trlici, ako keď si chlap vysadne na koňa. A tri   razy zvrtla sa nad svojím dvorom a potom hybaj — len tak fuňalo za   ňou. Letela na Tokajský vrch.
+   </tei:p>
+   <tei:p>
+    ﻿78
+   </tei:p>
+   <tei:p>
+    Dnes večer sú tam všetky, koľko ich len v krajine jest.“ Na   chlapcov táto reč urobila hlboký dojem. Nemohli sa mu ubrániť. Mišo   síce usmieval sa nedôverčivé, ale jeho oči sliedily za mládencovým   každým pohybom. Každé slovo vrývalo sa ínu hlboko do pamäti.
+   </tei:p>
+   <tei:p>
+    „A čo tam budú robiť?“ „Tancovať a koláče piecť.“ „Majú tam i   múku? „A načo by im .bola? Striga nachriaka na lopatu, vsadí to   do pece ■— a už je koláč.“ „Fuj! To je mrzký koláč. A. ako môže   lietať, keď nemá krýdel?“ „Na čo sadne, to ju nesie: metla, trlica,   omelo .,. A chvostom sa oháňa.“ „Má veliký chvost?“ „Ako mačka. A   jazyk na pol rífa. I ucho si dočiahne. „Juj, to je pluhavô! ‘ zhrozil   sa Miško a zahľadel sa do ohňa. „Keby tak vletela teraz!“ usmial sa   veselo. „Raz vletela. Pálili desatoraké drevo — striga im komínom   vletela do izby.“ Chlapci počúvali pozorne zo svojich úkrytov. To sa   im pozdalo, že oheň neblčí tak veselo, ale že počína zhasínať. Dym   nenastupoval hore komínom na pôjd, ale krúžil nad plameňom a valil sa   do kuchyne. Chlapci vykríkli splašení. Z komína čosi nad ohňom   viselo. Bolo to ako strapatá sukňa Cigánkina. Učiteľ sám bol vyrušený   zo svojich myšlienok týmto divným zjavom. Zmocnil sa ho nepríjemný   pocit. „Vidíš, ukázala sa ti, keď si neveril. No, poď, neboj sa. Už   vyletela zas na pôjd. Pán Boh vie, hde je už.“ Chlapci vyliezli zo   svojich úkrytov. Nad
+   </tei:p>
+   <tei:p>
+    ﻿79
+   </tei:p>
+   <tei:p>
+    ohňom, ktorý zas blčal, nebolo nič zvláštneho vidieť.
+   </tei:p>
+   <tei:p>
+    „No, veru! Strýk Predajovie spustil babu dolu komínom — takú, čo   sa komín zatkáva. I my máme takú babu“, povedal Mišo, ktorý bol   smelší, keď nič neprirodzeného nevidel.
+   </tei:p>
+   <tei:p>
+    „A nevidel si, že toto bola sukňa, okolo spodku obrusaná,   zacundraná... Oj, toto nebola baba! Ja som videli chvostík, ako visel   zpod nej. Tak sa skrúcal, keď ho plamienok pripiekol...“ „Ach, hej!“   smiali sa chlapci. „Lebo to len tak!“ Bolo im teraz veľmi smiešné, že   sa prvej dali prestrašiť. Vedeli, že nik iný, iba Predaj bol všetkého   pôvodcom. Vlani ich tiež takto strašieval, i zalanským. Veď práve   pred chvíľou vytratil sa a ešte dosiaľ sa nevrátil. Hádka bola tuhá.   Chlapci sľubovali, že už ničoho sa nezľaknú, a čo by to čo bolo.   Mátoh i tak niet na svete... Dvere sa tíško odchýlily: medzi chlapcov   vovalilo sa čosi hrozne chlpatého, mrmlalAun u nôh, ako medveď.   Chlapci hodili sa do svojich skrýš. „Vidíš, že sa bojíš!“ smial sa   Jano Predaj obracajúc kožúšok vlnou dnu. Chlapci ho obstali usmiati.   Iba mladší, čo vlani u oplátok neboli, hľadeli dosiaľ zjašeno na   strýka Predaja. Báli sa iste, že zas premení sa na nejakú hroznú   potvoru. „Ale som vám, chlapci, prebral driemoty! No, nie? Budete   ešte kdekade po kútoch driemať?“ Horký ich driemal. Oči mali bystré.   Sotva príde sen na ne, keď uložia sa do postele. Predaj zaujal svoje   miesto pri ohnisku. Pieklo sa pokojne ďalej. Chlapci pozerali do   ohňa, ako iskry vyletujú dohora a klesajú zas nadol. „Eh, ale ma   prehnalo, keď som bol teraz na dvore!“ začal Predaj. „Pod cieňou   videl som mátohu. Bola celkom biela a vysoká — vyše stredy.
+   </tei:p>
+   <tei:p>
+    ﻿80
+   </tei:p>
+   <tei:p>
+    Čo sa pohla, to za ňou hrkotalo, ako by niesla orechy. Sadla si   tam na triesky. Videl som jej ústa: boly široké po samé uši. A   zubiská v nich! Také zdlžej“, a ukázal svoj prst. „Ba ste   nevideli...“ „Ej, vera videl. Tam ešte sedí — oblokom ju vidíš.   Pozri!“ „Ja, to bude kostlivec“, povedal mládenec od ťažšieho železa.   „Iste z krypty utiekol. Náš strýk ho raz tam videli. Sli z mesta;   polnoc ich zastihla niže dediny pri vrbine. Iba tu keď vyšlo z nej   tiež také vysoké čosi, tiež za nimi hrkotalo. Strýk mu pozreli na   nohy: mäsa nič, iba holé píštele!“ „Čo je to tam?“ ukázal Predaj do   oblôčka, ktorý bol na kuchynských dverách. „To je on!“ zvolal   mládenec. „Natiahol sem ruku — palce na nej, ako hrable! Ľaľa, ešte   ju vidno!“ Chlapci sa nešli presvedčiť, či v oblôčku niečo vidno.   Zažmúrili oči, aby sa im nič neukázalo. „Mišo, na si ty železo“,   volal mládenec. „Ja sa tu pri dverách bojím.“ Mišo sa ani nehýbal so   svojho miesta... Oplátky piekly sa ďalej. Prišiel vietor, oprel sa do   kuchynského obloka. Tabla nebola dobre zasadená v rámiku — zhrkotala.   „Čo je to?“ „To ten kostlivec trepe na oblok.“ „Ach, nie“, hovoril   Predaj. „Moja mať rozprávali, že sedeli v noci pri dieťati. Bolo   choré, už umieralo: to bola moja najstaršia sestra Zuzka, nebožiatko.   Zabúchalo čosi na oblok — mať videli, že je to holubica. Dobíjala sa   oblokom do izby ... A Zuzka hneď v tú noc umrela.“ V kuchyni všetko   čušalo. Akási smutná nálada zmocnila sa všetkých.
+   </tei:p>
+   <tei:p>
+    ﻿81
+   </tei:p>
+   <tei:p>
+    „Ba ako pôjdeme domov, teraz o polnoci?“ ozval sa mládenec. „A ja   mám popod cmiter.“ „Zažmúriš oči a budeš rukami hmatať“, radil mu   Predaj. Chlapci boli zostrašení. Bol tu síce učiteľ, ktorý ich učil,   že mátoh niet na svete. Oni mu prisviedčali, verili — a predsa báli   sa. Nemohli odolať tajomstvám, ktoré Luciina noc ukrýva v svojom   čiernom lone. „Chlapci, nemáte triesok!“ volal na nich Predaj.   „Choďte, doneste po raze.“ Uhľadel príhodný čas! Pred chvíľou tam   bol, videl pod cieňou kostlivca: a teraz oni ta majú ísť. Vedeli, že   kostlivca tam niet, ale predsa nehýbali sa. „No, idete?“ „My sa   bojíme“, povedal Miško. „No, poďte, blázni“, volal Predaj. „Ja pôjdem   s vami, a uvidíte, že tam nemáte kostlivca. Veď kdeže by boly teraz   mátohy!“ Šiel on a s ním všetkých šesť chlapcov. On si stal pod   rebrík, ktorý viedol na šop. Pri rebríku stál omlatok žitnej slamy.   Chlapci chytali triesky a ukládali na náruče. „Ľal’a, čože tu hľadá?“   prihovoril sa Predaj omlacku a kopol doňho. Chlapci čuli, že čosi   zašuchorilo, poknísalo sa a padlo na zem: čosi vysokého, strašne   vysokého. Predaj urobil skok ku školskému pitvoru: chlapci pohádzali   triesky, čo mali v náručí, a hybaj v nohy. „No, no, čože sa   blazniete?“ zastavil ich Predaj. „Veď to bol, iba omlacok, —   počkajte, hneď vám posvietim. O, nebojte sa, blázni!“ A vyniesol z   kuchyne lampku, ktorá osvietila skoro celý neveliký dvorik. Chlapci   nabrali triesok. A zas piekli a snovali ďalej povesti o kostlivcoch a   mátohách. Bláznivé povesti, nesmyselné, ale duša ľudská predsa im   neodolá.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spiay VII.
+   </tei:p>
+   <tei:p>
+    Ó
+   </tei:p>
+   <tei:p>
+    ﻿82
+   </tei:p>
+   <tei:p>
+    Po polnoci učiteľ podelil všetky ostrižky medzi chlapcov, dal im i   čosi oplátok; ani mládencov nepustil na prázdno. Oplátky uložil do   truhlice, poukladal ich jednu popri druhej, ako karty.
+   </tei:p>
+   <tei:p>
+    Keď ľahol do postele a zažmúril oči, predstúpila pred neho tvár   mladá, usmiata, s bradovičkou. Tuším, ani vo sne ho neopustila.
+   </tei:p>
+   <tei:p>
+    V.
+   </tei:p>
+   <tei:p>
+    Vianoce sú pod pecou, t. j. múka na vianočné koláče čaká pod   pecou, len zarobiť. Bude to dnes večer, zajtra je už Štedrý deň.   Učiteľ oddychuje. Oplátky dopiekol dávno, včera ich i rozposlal po   gazdoch. Zostalo mu okolo dvesto vodových, a cukrových veľmi mnoho:   lenže zväčša pokrušené. Pečenie zanechalo v ňom nejeden milý dojem.   Poznal, že cirkevníci žiadali si oplátky nie preto, aby učiteľa darmo   ustávali, alevzo zvyku, ktorý hlboko korenil v ich srdciach. Ženičky   nasnášaly mlieka, masla, cukru, ako sa rozchýrilo, že začínajú sa   piecť cukrové. Menovite mlieka bývalo vždy vo viac dbankách, ktorých   Predaj celú armádu nasnášal od súsediek. Špotrebovať nemohlo sa   všetko na cesto, muselo sa mútiť. A maslo zišlo sa veru do cesta.   Podľa tej hojnosti mlieka by bol niekto myslel, že je máj, čas   najtučnejšej paše. a nie december, kde kravy poprisychaly. Ani sám   nezbadal, len keď oplátky boly hptové. Pomoci mal vždy dostatok,   niekedy i zbytok. Jano Predaj vytrval až do konca. I včera tu bol   celý deň: pomáhal rozosielať oplátky. On vedel, koľko v ktorom dome   duší, i koľko kde oplátok treba. Šestáky a dvojšestáky -—   dvojšestákov bolo väčšina — uložené sú v stolíku. Včera večer ich   hneď spočítal, a bolo ich okolo 18 zlatých. Nemohol utajiť nepríjemný   pocit, keď ich prijímal; ale cez
+   </tei:p>
+   <tei:p>
+    ﻿83
+   </tei:p>
+   <tei:p>
+    noc ten pocit akosi ztratil sa. Na tieto peniaze dnes hľadí, ako   na každé iné peniaze. Keby ich bolo o pár zlatých viac, tuším, by sa   ani tak nehneval. Dnes alebo zajtra donesú mu čižmy, také do snehu —   zaplatí ich z oplátok. „Áno, som sluha“, vyznával sám pred sebou, a   nehanbil sa pritom, ako kedysi. „Som, ale čí! Ja som sluha všetkých,   ako všetkých — a nie sluha jednotlivca. Tu je ten rozdiel! Moja   služba náleží všetkým rovnako: proti prechmatom jednotlivca bráňa ma   všetci ostatní. Nik ma nemôže tedy zneužívať, ale každý ma musí   brániť. A služba je znesiteľná, svedomie proti nej nebrojí: ba   svedomie k nej ma ponúka. Tedy kto mi vlastne rozkazuje v mojej   službe? Svedomie. To je môj jediný, neobmedzený pán.“ Táto myšlienka   ho veľmi potešila. „Som, ako iní ľudia — v službe svedomia. Kým tohto   pána poslúcham, iný nikto nemôže mať nado mnou moci. Z   rozjímania vytrhol ho príchod Miška a Ondreja, ktorých sme pri   ohnisku boli videli. Prišli pre oplátk3r, ktoré malý ísť pánu   Melchiorovi a bohatému kupcovi do Zemän-Lehoty. Učiteľ im ich   odčítal, zabalil a uložil do košíka, ktorý hneď vzal na ruku Miško.   „Vinš viete poriadne?“ pýtal sa ich ešte raz. Miško začal bez úvodu:   „Mnohovážni páni patronové... „Dobre, dobre“, pretrhol ho   učiteľ. „Len sa nepornýľte! “ A tu ich podrobil prísnej zkúške, ako   treba na dvere zaklopať, ako pozdraviť domácich, ako zastať si pri   vinšovaní, i ako sa zachovať, keď dostanú diškréciu a budú odchádzať.   Prezrel im šaty, či sú teplé, či dostačia na takú ďalekú cestu: vonku   poťahoval studený „poliak“, ako by klince do kože pral. Prikázal im,   aby cestou nič nepili a menovite nesadali na zem, ak budú ustatí.   Na-
+   </tei:p>
+   <tei:p>
+    ó*
+   </tei:p>
+   <tei:p>
+    ﻿84
+   </tei:p>
+   <tei:p>
+    lozil im, aby sa ponáhľali, aby na mrkaní mohli byť už zpiatky.   Chlapci posluhovali všetko a v dobrej nálade odobrali sa do   Zemän-Lehoty. Učiteľ sadol na kanap. Bol rád, že oplátky úplne   zariadil, ako bolo treba: a tu mihla mu dávna známa — tvár vysmiata,   červená, s bradovičkou... „Ale že som jej v dedine dosial nevidel! I   v kostole díval som sa po dievčencoch... Hľa, ja už za dievčaty   pozerám! Len kde sa ukrýva? Musí nechodievať do kostola... I tak ju   vidím vo fašiangy, keď príde so svojím vojakom pre ohlášky. Bude to   zábava! Ona nebude tušiť, že ja dávno viem všetko, prvej, než som ju   videl.“ A myšlienky vrátil} sa k ktorý počul pri vrátach. „Čo na   tom divného? Čo ma to tak dojalo? Veď podobných schôdzok je tisíc a   tisíc každý večer. Náhodou začul som z nich tento jeden. Ako som sa   zmenil, čo som ho iba počul: čo by sa to robilo so mnou, keby ja bol   býval v koži vojakovej Prechádzal sa po izbe, lebo srdce začalo   nepokojne tĺcť. „I na mňa príde rad, i na mňa. Ale kedy, kedy?“ Na   túto otázku, takú pálčivú, naliehavú, nenachádzal nikde odpovedi.   „Kedysi iste — len nevedieť, kedy. V preparandii sa myslelp, že hneď,   ako bude vokátor v ruke. Oj, vtedy myslelo sa všeličo, čakalo mnoho   zvláštneho, robily sa skvelé plány. Čakalo sa, že zmôžeme všetko, len   vokátor do ruky! A ono tu je, vstúpili sme do života, žijeme v ňom, a   svet — ide svojím obvyklým chodom, ako šiel, kým nás tu nebolo.   Kvapka padne do nádob}, nepreinačí nádobu — my sme tiež   nepreinačili svet. A plány, nádeje, kde sú? Zlyhalv. Zostalo po nich   sklamanie, horkosť v duši. Lepšie by bolo bez
+   </tei:p>
+   <tei:p>
+    ﻿85
+   </tei:p>
+   <tei:p>
+    nich vstupovať do života: alebo hneď zabudnúť na ne... Veru,   najlepšie, začať od začiatku, tam, kde načim, nie staväť v povetrí.   Kdeže sa deješ v Konopänoch so svojimi nádejami, v týchto malých   Konopänoch! Do malých Konopian zmestia sa maličké nádeje a plániky.   Tu treba robiť, pracovať v zátiší — nečakať, či pozerá na teba niekto   a či nikto: pracovať, ako povinnosť káže. Do izby vstúpilo drobné   dievčatko. V ruke nieslo tanier, uviazaný do šatky. Učiteľ poznal, že   je to nie jeho žiačka. „Keby nám predali oplátok!“ prosilo dievča. „A   som vám ešte neposlal?“ divil sa učiteľ. „My sme nie z tejto dediny,   ale z P.“ „A ste nedostali oplátok? „Pán učiteľ nás obišli: nuž ma   mať poslali sem.“ „Obišli? A prečo?“ „Ja neviem. Mať povedajú, že keď   sme chudobní. “ „Ach. ba, povedz materi, že preto nie. A ste si ich   pýtali od vášho pána učiteľa?“ „Bol otec pýtať, ale... Dieťaťu   vyrútily sa slzy. Učiteľ nemal úmyslu poslať cudziemu cirkevníkovi   oplátok, kým nezvie, čo je vlastne vo veci. Podrobil dievča tuhému   výsluchu a vyzvedel všetko. Dievča sa zle učilo, učiteľ ho ubil. Mať   sa vybrala do školy a podľa dobrej starej obyčaje obliala učiteľa   horúcou jazykovou polievkou. Učiteľ nechcel ustúpiť; myslel si, že on   bude mať posledné slovo. Ale kdeže tvoj jazyk vystačí s jej jazykom!   Premohla ho v tejto šarvátke — musel s hanbou ustúpiť na celej čiare.   A za to sa jej teraz vyvŕšil. Pevný obdaril dieťa oplátkami. Dal mu   ich viac, než ktoŕémúkoľvek gazdovi tu v dedine; peňazí neprijal.
+   </tei:p>
+   <tei:p>
+    ﻿86
+   </tei:p>
+   <tei:p>
+    „Hla., čo musíš vyviesť!“ hútal sám v sebe. „Tak som ja zastal   svojho kolegu: odsúdil som verejne jeho pokračovanie. Či som urobil   dobre, či zle? Zle, lebo som odsúdil jedného; dobre, lebo som pre   tohto jedného nedal odsúdiť celý náš stav. Tedy urobil som dobre...“   A tu mu predstúpila pred oči postava odsúdeného kolegu. „Áno, nemal   si sa púšťať do svady — tam nezvíťazíš, lebo to je nie tvoje pole.   Pohybuj sa na poli, kde sa vyznáš, kde si ty pánom!“ A tu sa   rozpamätal na udalosť zo svojho krátkeho pôsobenia. \ Tiež ubil dieťa   pre čosi. Prišiel mu rozpajedený chlap do školy a pred deťmi ho chcel   znevážiť. Ale učiteľ zadržal rozvahu: chlapa poučil nie on sám, ale   vlastný jeho chlapec, ako sa treba poriadnemu človeku v poriadnom   dome držať. A rozpajedený chlap čo? Šiel skrotený a zahanbený domov.   Iste viac už do školy nepôjde vadiť sa s učiteľom. „Tak treba učiť   rodičov. Áno, i rodičov musíme učiť, ba vari najprv rodičov a potom   len deti. Ťažké povolanie!...“ Detí v škole nebolo, nemal na   dnes zvláštnej práce. Zišiel mu na um farár, vybral sa k nemu. Pavel   Jonatan bol neobyčajnou návštevou prekvapený. Oko mu zažiarilo — tedy   prekvapenie milé. „Nuž sviatky sú už tu“, začal veselo. „Práve robím   kázeň. Učiteľ sa strhol. „A ja kázne ešte nemám! Zabudol som na   ňu...“ – „Práve ju dopracúvam. Nechcel som i túto ťarchu uvaliť na   vaše mladé plecia. Dosť sa i tak nakážete ešte!“ „Ale kázať každý   prvý sviatok na večierni patrí podľa vokátora učiteľovi. To je jeho   povinnosť.“
+   </tei:p>
+   <tei:p>
+    ﻿87
+   </tei:p>
+   <tei:p>
+    „Odmením vás ja. Vám by to bola ťarcha, a mne to radosť.   Vianočné kázne veľmi rád robievam. Sú vôbec Vianoce utešené sviatky!   Vopred sa tešíš na ne, čakáš ich príchod. Mal mi prísť syn s   univerzity. Chcel som aspoň jedno dieťa mať pri sebe, keď sa druhé už   i tak rozpŕchly po svete Tešil som sa mu —• nepríde; nemôže, vraj,   prísť.“ A tu sa trochu zamyslel, ale tvár sa mu hneď rozveselila. „Co   by ste, reku, povedali, keby vás pozval, aby ste zaujali aspoň cez   sviatky jeho miesto pri našom stole? Prídete?“ Učiteľ neraz si   pomyslel, aký je opustený Vlani bol ešte doma, u svojich   rodičov. Toho roku mu prichodí prvý raz pocítiť, že má byť   zakladateľom novej rodiny a prestáva byť členom starej. Vianoce   stráviť v rodine, ktorej ešte niet, nesľubovalo mu velikú radosť. A   tu návrh farárov vysvobodzuje ho z nedokončených, polovičných pomerov   — ponúka mu rodinu. Stisol mu ruku. Stisnutie to poučilo Pavla   Jonatana, že našiel chodník k srdcu nového učiteľa. Farár bol veselý.   Prechodil izbou, ktorá pyšne sa zvala kanceláriou, odfukujúc dym a   mykajúc sem i ta čapicu na hlave. Oko mu nepokojne blúdi po izbe —   vidno, že si na čomsi ťažkom hlavu láme. „Budete mlčať? Čosi by vám   povedal“, riekol konečne, sadnúc si k učiteľovi. Tvár mu bola plná   akéhosi tajomstva, ako by chcel učiteľa zapliesť do nejakého   sprisahania. „Chcem kohosi prekvapiť; viete, tá obyčaj s vianočnými   darmi... Strežú ma ako raba; nohy nevytiahneš z domu, aby   nezbadali...“ A zasmial sa na streženého raba dosť veselo. Učiteľ sa   nemohol zdržať: čo aké pevpé mal zásady, tiež sa usmieval. „Viete,   zvedavosť ženská koľko má očú — milión! Tak mňa strežú, tak!“ Učiteľ   sám ešte nezkúsil, len mnoho popočúval o tom milióne očú, ktorými   disponuje ženská
+   </tei:p>
+   <tei:p>
+    ﻿88
+   </tei:p>
+   <tei:p>
+    zvedavosť, a teda prisvedčil. „Oj, vy ešte neviete, ale len   počkajte, veď zkúsite!“ A vstanúc, prešiel sa po izbe, kým zas   neprisadol. Bol veľmi rozčúlený. „V sklepe u Lustiga som videl   narodenie Kristovo z gypsu. Oválny rámec a v ňom všetko, čo patrí. To   by nedbal komusi darovať. Ale mlčte, prosím vás: nešli by ste ho   kúpiť? Učiteľ ochotne prisvedčil; boly časy, kde by sa bol zamračil,   alebo niečo nemilého povedal farárovi... Ale dnes ako by mohol? Ba   nesmierne sa radoval, že bude hrať taký dôležitý zástoj v rodine, s   ktorou má spoločne stráviť Vianoce. „Kedy by ste šli?“ „Zajtra ráno.   „Dobre, dám vám zapriahnuť. Aspoň sa presankujete... Čo sa to s ním   stalo? Keď vyšiel na ulicu, zdalo sa mu, že je celkom zmenená. Dedina   bola akási sviatočnejšia: vidno, že sa hotuje k sviatkom „Eh, čo,   prejdem sa dedinou; ešte som jej i tak ako patrí nevidel.“ A kráčal   hore dedinou. Cesta bola zamrznutá, sneh sánkami uhladený, nohy sa po   ňom klzaly. „Lala, strnádky poletujú po ceste; toho roku som ich ešte   nevidel.“ A tu mu zišlo na um, ako sa tešieval, kým bol malý, keď   strnádky prišly do mestečka. „Budú Vianoce!“ tak si hovorieval s   malými kamarátmi. Rozpomienka na tie časy zahrievala mu dušu. „Budem   písať rodičom, že som predsa nebol taký samotný na Hody.“ Cítil sa v   akejsi bezpečnosti, istote, ako keď sa pred studeným vetrom uchýliš   do zátišia. „Áno, mám ku komu ísť — veď sú to dobrí ľudia.“ Smial sa,   keď si pomyslel, ako sa starý pred domácimi tají. V dedine ticho,   hoci je robotný deň. Nečuť, ako obyčajne, cepy aby mlátil} „Už   nebudú mlátiť, len po Novom roku. Dnes vejú a cúďa, čo sa nám
+   </tei:p>
+   <tei:p>
+    ﻿89
+   </tei:p>
+   <tei:p>
+    namlátilo — zrno posnášajú do sypární.“ Že sa nemláti, akosi mu   veľmi lahodilo. -Zdalo sa mu, ako by ľudia nemlátili preto, že jemu   sa tak páči. Zato počuť z každého dvora, ako sa sečka reže. „To   stgtku hotujú na sviatky. Akú majú oň starosť! Ba či tu tiež dávajú v   Štedrý večer statku cesnak s chlebom, ako u nás?“ Toto sa mu zdalo   veľmi dôležitým. Umienil si, že sa starého opýta. „Už ho volám len   ,starým“, a farárom nie“ — divil sa svojej familiárnosti. „Ale ako ho   volať, keď je taký nesmierne starý a — ani otec!“ V sade, ktorý ležal   v strmej úboči, zazrel hromadu chlapcov bez odedze. Ale sa nekrčili;   hoci bol vietor, muselo im b)ď teplo. Mali troje sánok. Stranou stály   menšie deti, ktoré sa ešte neopovážily sadnúť na sánky: len sa   dívaly. Učiteľ zastal a díval sa na svojich žiakov, čo vyčíňajú. Celo   sa mu nehúžvalo, že ich nachádza v takom šante. „Ja som sa tiež   sankúval. Raz mi nedali sánok — vzal ja otcovi kožuch a na ňom...   Dostal som tým remeňom, ej, dostal!“ A usmieval sa, ako by ho   rozpomienka na otcov široký remeň blažila. Chlapci medzitým zočili   učiteľa, poštuchali sa, a hybaj ponad ploty do záhrad a poza humná do   medzierolc! Po priestupníkoch zostaly iba sánky a drobné deti, ktoré,   nemohúc preskočiť plot, pustily sa dó plaču. Bály sa toho „Žida , že   ich palicou vyobháňa. Učiteľ sa zasmial a pomyslel si: „Nepôjdem už   ďalej — splašil by som všetku mládež. Nech sa teší!“
+   </tei:p>
+   <tei:p>
+    Hvízdajúci vrátil sa domov.
+   </tei:p>
+   <tei:p>
+    VI.
+   </tei:p>
+   <tei:p>
+    Dnešný deň minul sa učiteľovi chytro a veselo. Súmrak padol na   dedinu, keď precítil sa z akéhosi sladkého opojenia.
+   </tei:p>
+   <tei:p>
+    ﻿90
+   </tei:p>
+   <tei:p>
+    „Čo jéto dnes so mnou? Prečo som taký vy tešený? Čo sa vlastne   dnes so mnou robí?“ Nenašiel na tie otázky odpovedi. „Čo si budem   darmo hlavu lámať! Nech mi dostačí, že je tak, ako je. A keby takto i   zostalo. Malo by, malo... Ale či je to i možné: či to závisí odo   mňa?“ Prechádzal sa izbou, ako by hľadal kúzlo, ktorým by dnešný   stav upútal. „Ach, keby toto nikdy neminulo! zatúžil   úprimne. „Aký som bol dosiaľ biedny, opustený, osirotený v tejto   dedine ! Aký nešťastný som bol! Dnes to všetko zmenilo sa, našiel som   rodinu.“ A dlho sa tešil, že nastala taká veliká, utešená zmena.   „Akto je toho príčinou, tohto náhleho obratu?“ zadal si otázku, na   ktorú nenašiel hneď odpovedi. A cítil, že odpoveď tá by mala veliký   dosah, mal by prostriedok v rukách, ktorým by si ľudí pričaroval.   „Prečo ma starý pozval? A — už viem. Ja som šiel k nemu, ja urobil   prvý krok...“ „Ľudí hľadať, nezatvárať sa pred nimi: to je kúzlo,   ktoré som hľadal.“ A s toho stanoviska hľadel na svoj dosavádny život   v Konopänoch. Zhrozil sa, lebo mu prichádzal pustý a prázdny. „Veď ja   som ľudí obchádzal, vyhýbal sa im zďaleka. som v nich len   nepriateľov, záškodníkov. Prečo som sa ich tak bál ? Že napadnú moju   auktoritu... Musel sa smiať nad svojím poblúdením. Plájiť auktoritu   tým, že sa osihotíme! Načo nám je auktorita, keď sme sami? Pritom   podobalo sa to slabosti, že si netrúfal uhájiť auktoritu pred ľuďmi   iba tak, keď sa od nich odlúči. Zišla mu na um rozprávka o Cigánovi,   ktorý sa vystatoval, že nekradol, kým — sedel v árešte. „Ľahko byť   čistým, kým do blata nejdeš“, pomyslel si. „Ale.ja medzi ľudí musím   ísť —
+   </tei:p>
+   <tei:p>
+    ﻿91
+   </tei:p>
+   <tei:p>
+    musím! A iba teraz nastáva starosť o auktoritu: i byť medzi ľuďmi,   i vydobyť si ju — to je úloha moja.“ Zišlo mu na um, že na Luciu   večer zdalo sa mu, že čosi musí sa stať. To „čosi“ stálo dnes pred   ním jasné, ohraničené. Treba sa vrátiť k ľuďom. Učiteľ dlho rozmýšľal   nad svojím postavením. Stál pred novou, neznámou Musí sa na ňu   pustiť, na tú osudnú cestu. Čo ho na nej očakáva? Medzitým rozložila   sa vonku tma, vietor búchal oblokmi. Bolo dobre v teplej izbe dívať   sa na hru svetla, ktoré hádzala zakúrená pec na protejšiu stenu. „A   moji chlapci zo Zemän-Lehoty? skočil na rovné nohy, pozrel na   hodinky. Ukazovaly na šiestu. „Čo nechodia? Či sa im niečo nestalo!“   Dlho nerozmýšľal. Obliekol kabát a vyšiel na ulicu. Vietor schytával   sneh s cesty a metal ho do očú. Cesta všade prázdna, ľudia utiahli sa   k zakúreným peciam — chlapcov nevidno. „Treba ísť proti nim,   nesvobodno ich takto opustiť!“ Bol by hneď bežal smerom k   Zemän-Lchote, len nevedel, či medzitým chlapci nebudú u svojich   rodičov. Musel najprv ísť do ich domov sa vypýtať. Ale nevedel, kde   bývajú. „Neviete, kde je to do Pleváňov?“ pýtal sa ženy, ktorá popri   ňom prešla. „A čože tam máte?“ pýtala sa ho nedôverčivé. I pristúpila   k nemu a obzerala si ho zblízka. „Chlapca poslal šom s oplátkami,   ešte mi neprišiel. Bojím sa, že... ‘ „Jaj, to sta... A ja, že to   nejaký...“. zajakala sa žena. „Nech sa len nehnevajú, že soni ich   tak...“ „Či by ste ma ta nezaviedli?“ „Oj, veru vďačne, prečo nie?“ A   žena obrátila sa zpiatočnou cestou. Ani nestačila za učiteľom.
+   </tei:p>
+   <tei:p>
+    ﻿92
+   </tei:p>
+   <tei:p>
+    „Veď je toto, laľa, chujavica — psa nehodno vypustiť. Do rána budú   záveje!“ Učiteľ nepočúval, čo žena vraví. Čo je štvrť hodiny vonku,   už mu zima došla na kosti. „Čo si počnú deti, zle zaodeté, ustaté?“ U   Pleváňov strhla sa pravá revolúcia. Jedno, že učiteľ prišiel v takýto   čas; druhé, čo je s Mišom! Mať počala božekať, rukami lomiť, ako by   jej už ležal na márach. Príchod učiteľov jej postavil osud Mišov do   hrozného svetla: myslela si, že chlapec je už zamrznutý. Otec bol   rozumnejší. Obliekol kožuštek a bral halenu na seba. „Ja idem! “   oznamoval žene nakrátko. „Počkajte, idem i ja“, ozval sa učiteľ.   „Oni? A načo?“ „Nemal by doma pokoja.“ Sedliak pozrel na učiteľa.   Nebol dosiaľ s ním takto na slove, len čo ho zďaleka videl. A nepočul   o ňom nič dobrého. A tu naraz vidí, že to takýto človek! „Alebo   zapriahnem“, rozhodol gazda. „Kone sú nakŕmené, sánky hotové.“ A už   bežal urobiť, čo povedal. Učiteľ vyšiel za ním. Zabudol úplne na   auktoritu: vlastnoručne kládol koňovi chomút. Kôň, preštudovaná   mršina, dvíhal hlavu vysoko, že nebolo možno chomút založiť na ňu.   „Ja, to je múdre!“ poznamenal gazda a ťahal koňa za šticu. Do sánok   zapriahli za chvíľu. Učiteľ s takou istotou zakladal pobočky, že   gazda i pri tej náhlivosti musel sa podiviť. „Veď som neraz   zapriahal“, pochválil sa učiteľ. Nebál sa, že príde o zbytok   auktority. Sadli do sánok. Učiteľ ohlásil sa ešte v škole, či chlapci   azda medzitým časom nedošli a nečakajú svojho majstra. Našiel v   svojej izbe len samotného mendíka, strachom premoženého; o chlap-
+   </tei:p>
+   <tei:p>
+    ﻿93
+   </tei:p>
+   <tei:p>
+    Coch ani pamiatky. Naložil mendíkovi, aby si zaopatril spoločníka   na dnes večer a čakal tu návrat svojho pána. Zahodil si bundu, ktorá   síce kurucov pamätala, ale zato dobre hriala; stisol čiapku na uši a   vyšiel von. Gazda pošibal vypočinuté kone, kone zadupotaly, sánky   letely, ako v oblakoch, smerom k mestu, vlastne Zemän-Lehote.
+   </tei:p>
+   <tei:p>
+    VII.
+   </tei:p>
+   <tei:p>
+    Miško a Ondrej šli skutočne do Zemän-Lehoty, ako ich učiteľ   vypravil. Niže dediny zastali, složili košík s oplátkami na zem.   Miško vyňal pekný kožušený meštek z pazuchy; mal ho zavesený na krku.   „Joj, aký ty máš mešec!“ podivil sa Ondrej. „Takého som ešte nikdy   nevidel. Miško potriasol ineštekom, ozvaly sa medené a strieborné   peniaze. „Máš ich moc?“ vyzvedal sa Ondrej. „Nože ukáž!“ a s   nesmiernou zvedavosťou rozpúšťal šnúrku, ktorou bol mešec stiahnutý.   Ukázal sa mu jeho obsah. „Dvagrošník si dostal u rychtára, nie?“   pýtal sa, keď medzi drobnými zazrel tohto generála medených   peňazí. „Ach, hej!“ usmial sa Miško s istým opovrhovaním. „Rychtár,   to je skuhroň: dal mi kraj čiar, ako v ktorom inom dome. Tento tu“ -—   ukázal na dvojgrošník — „dal mi krstný otec.“ „Ja som sa k nášmu tiež   chystal, ale pán učiteľ poslali ta žiačku... „Aha!“ rozpamätával sa   Miško. „Maru Komárovie. Keby boli vedeli, že tam máš krstného otca,   boli by teba poslali. „Horký nevedeli! Dobre tí vedeli!“   sťažoval sa Ondrej. „Pravda, že nevedeli. Čo sme boh pri pečení,
+   </tei:p>
+   <tei:p>
+    ﻿94
+   </tei:p>
+   <tei:p>
+    nás posielali do najlepších domov. Ale nemal im kto povedať, ktoré   sú najlepšie.“ f „Nebolo tým treba povedať! Vedeli oni dobre; ale mňa   neradi — chceli dopriať Mare... Vidíš, ja tu mám iba krajciare.“   Rozviazal uzlík na šatke a ukázal jeho obsah. Naozaj, iba samé   krajciare, „Dvagrošníka mi nikde nedali!“ Miško sa potajomky usmieval   a prehrebal sa v mešci. Zabelel sa mu medzi krajciarmi šesták, i   ukázal ho druhovi. „Kde ti ho dali?“ pýtal sa ho až závistive. „Vo   fare.“ teba i do fary poslali, a mňa nie!“ „No, len počkaj — v Lehote   nám dajú po dva šestáky. Potom budeš mať. A ich nevytratíš z tej   šatky? Vieš ty, čo: odčítaj svoje peniaze, a daj si ich sem — do   mešteka.“ „A kto ho ponesie?“ „Nuž ja. Vidíš, že ho mám na hrdle   obesený.“ „Joj, aký je pekný! Celý z červenej kožky a švík žltý: a   tieto pekné zúbky okolo kraja. Mišo, daj mi ho!“ „Ej, ale si múdry!“   smial sa Miško. „Vsyp ty doň krajciare: veď ti ich ja nevezmem.“   „Ach, hej! A potom nedať.“ A zaviazal ich rezko do uzlíka, aby mu   nejako neuletely. „Ale poďme, kázali sa nám ponáhľať.“ Chlapci   pustili sa v úteky. Ale zanedlho prestali bežať a šli krokom. Po   dlhej chvíli pýtal sa Miško priateľa: „A koľko máš peňazí?“ „Ja   pätnásť krajciarov. A ty?“ „Ja v mešteku osemaďvadsať: ale u matere   mám toliar!“ „Toliar! To je moc: kdes’ ich nabral toľko?“ „Otec   predal voly, kravu, dve jalovice — zakaždým dostal som rohového i   šesták. Niesol som radostník, keď u Pekárov bolo veselie —• dali   mi
+   </tei:p>
+   <tei:p>
+    ﻿95
+   </tei:p>
+   <tei:p>
+    šesták. Tak sa nasbieralo. A ešte si na Hody navinšujem — budem   mať tri alebo štyri rýriske.“ „A načo ti budú?“ „Mať povedali, že mi   kúpia kožuštek; vieš, taký s tulipány — budem ako otec!“ Miško niesol   pyšne hlavu, tak, že mu Ondrej musel závidieť. „Toho roku už vychodím   školu: mať povedali, že na rok budem mládenec. Strihať ma už viac   nedajú. Zapustia mi vlasy, čo sa budú začesávať, ako otcovi.“ „A ja   na rok musím ísť ešte do školy!“ vzdychol si Ondrej. „A akože: ty si   ešte malý. Mne na rok dajú spraviť kosisko — budem už kosiť!“ „Ale či   budeš vedieť, to nie len tak, kosiť! „Jedno ráno niesol som otcovi   jesť, keď kosil lúku. Otec jedli, ja som vzal kosu — a vedel som.   Povedali, že mi na rok kúpia kosu, keď tak viem. A mať povedajú, že   budem chodievať s otcom, keď pôjdu na jarmoky voly kupovať.“ Ondrej   bol zničený. Zdôveril sa priateľovi, že jemu ničoho takého nesľúbili.   „Ja, ty máš brata. Váš Jano je veliký, bude sa ženiť. Ten bude na   jarmoky chodievať — ty musíš zostať doma a robiť. Ja nemám veľkého   brata — mne nebude rozkazovať.“ „Teba doma radi!“ závidel mu Ondrej.   „Otec ma vyťal remeňom, keď som spiežovec rozštiepil. Ale na rok sa   mu už nedám. „Keby ten nebol mocnejší!“ usmial sa Ondrej. „Mať   povedali, že ho metlou zabijú, ak sa ma len raz dotkne.“ Chlapci   pobežkávali. Ondrej nad čímsi vážnym rozmýšľal. Obrátil sa konečne k   priateľovi. „Tjr, ja som mal osemnásť krajciarov, ale tri musel som   dať otcovi na dohán. Včera ma na ceste čakal a pýtal
+   </tei:p>
+   <tei:p>
+    ﻿96
+   </tei:p>
+   <tei:p>
+    „A ti ich vráti?“ vyzvedal sa Miško. „Ja neviem. Raz som mu už   požičal na dohán, a nevrátil mi. Povedal, že nemá.“ „Vidíš, nedaj si!   Daj si ich schovať materi — tá ich neprekúria.“ „Eh, ako chce“,   rozhodol Ondrej. „Ja im požičiam. Keď pôjdem na remeslo, musia mi   všetko povracať. Dajú mi ušiť panské šaty a čižmy. Potom už nebudem   nosiť krpce. A keď bude pršať, mňa neoprší, budem nosiť ambrélu.   Budem sebe pán!“ „Ej, ja by nešiel na remeslo — radšej na prístupky!“   „A čo sú to prístupky?“ „No, čo sú prístupky!“ smial sa Miško.   „Vezmeš si takú, čo nemá ani brata, ani sestry. Ty budeš na jej   grunte pán.“ „To by nemusel nič robiť?“ „Veru! Musíš gazdovať, ako   iní gazdovia. Ale nemusel bys’ z dediny ísť do sveta!“ „Ale ja radšej   budem pán.“ „A ja gazda“, odpovedal Miško. „Na štyroch voloch budem   orať.“ „Veď máte iba dva, a dva kone!“ „Ale budeme mať štyri, keď sa   ožením. Už i rád vidím — Katru Petrášovie.“ Ondrej pustil sa do   hlasitého smiechu. „A čo sa smeješ?“ „Keď tá ešte ani do školy   nechodí. Kým nárast je!“ A po krátkom rozmýšľaní doložil: „A ako to   treba rád vidieť?“ „To je ľahko!“ chválil sa Miško. „Kúpim jej na   Trojicu srdce — tu z týchto peňazí. A krstná mať Petrášovie povedali,   že mi dajú voly a kravu, ak si Katru vezmem. Ondrej sa zamyslel.   Miškove veci veľmi ho mrzely. O chvíľu riekol i on: „Ja si vezmem   paniu — takú v krinolíne.
+   </tei:p>
+   <tei:p>
+    ﻿97
+   </tei:p>
+   <tei:p>
+    „Ale tá nebude mať volov!“
+   </tei:p>
+   <tei:p>
+    „Keby kúpila, mala bj ich plný dvor. Ona bude mať moc peňazí   — silu!“ „A prídeš potom do dediny?“
+   </tei:p>
+   <tei:p>
+    „No! Budem mať nové čižmy ... Jój, ja budem pán!“ začal znova, keď   ho Miško počúval. „Tri týždne ma povezú 1c majstrovi. Uvidím mnoho   dedín a všelijakých cudzích vidiekov. Mať mi napečú do tanistry   lcabáčov, dajú plnú pušku bryndze, obaria veliký rezeň slaniny a päť   klobás! Budem mať čo jesť. Otec mi dajú päť rýnskych do vrecúška. I   ja budem mať potom vrecúško. A keď budem veľký pán ■— potom sa   nahľadíte! „A potom sa mi pritryzníš, keď budeš bohatý?“ „Cidali! Keď   pôjdeš voly kupovať, musíš nocovať u nás. Napražia ti takej praženice   — samá škvarlca. Uvidíš!“
+   </tei:p>
+   <tei:p>
+    Tak si chlapci skracovali cestu rozhovorom. Pred nimi na hradskej   poletovaly strnádky, ako by ich chcely prekárať: „Nedohoníte nás!“   Ako dochodili do mesta, ktoré bolo asi na pol ceste k Zemän-Lehote,   Ondrej začal sa sťažovať. „Ty, mňa v tvár veľmi štípe. Slzy mi tečú.“   Miško ho zastavil a skúmal mu tvár. „Aha, popukaly sa ti gamby a líca   od ohňa, keď sme boli pri oplátkach. Gamby ti navrely. A ťa veľmi   štípe?“ pýtal sa so súcitom. „Jój, veľmi“, horekoval Ondrej. „Keď   vietor poduje, ako by mi šidlom bodnul...“ „Mne mať pomastili gamby   lojom, i tvár. Tiež ma štípalo včera večer. Ale teraz ma už nebolia.   Mohli i. tebe tvoja. “ Prešli za mesto, mestské hodiny Ukazovaly   jedenástu. Chlapci v meste obzerali sa na všetky strany. Za mestom   púšťala sa cesta dolu vrchom. Vrch nie strmý,- ale veľmi rozložený. S   tamtej
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobranó Spisy VII.
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿98
+   </tei:p>
+   <tei:p>
+    strany jeho leží Zemän-Lehota: ciel cesty našich pútnikov. Dosiaľ   bolo znamenite. Šlo sa najviac rovinou, niekde v dolinu. Tu nastáva   zdĺhavá cesta do vrchu. Kam oko padne, zvlášť v tú stranu, kde leží   Zemän-Lehota, všade samé ihličnaté hory a lesy. Z nich poťahuje   studený vietor. Chlapci ukrývali pred ním uši pod čiapky a ruky pod   halienky; ale čo to osoží, vietor nájde si všade cestu: šibe rovno do   tvári. „Eh, ale je zima!“ hovoril Ondrej, utierajúc si oči, z ktorých   tisla sa slza za slzou. „V ruky ma veľmi oziaba.“ Vytiahol ich zpod   halienky: bol y očervenené, ako rak; palce trčaly každý o sebe, ako   by ich bol nasadil. „A nemáš na nich zápästky?“ pýtal sa ho Miško.   Pozrel mu i do rukáva: videl holé predlaktie s nabehnutými   zimomriavkami. „Pozri, mne dali mať zápästky, a ony ma poza päsť   dobre hrejú. Daj, košík vezmem ja, a ty si vlož ruky ešte do pazuchy;   veď sa ti ony rozohrejú.“ Ondrej slúchol priateľa, ale chôdza bola   ťažká, keď nemohol rukami veslovať. Prevracal sa s boka na bok, ako   vykŕmená hus. Ako tak ide, noha sa mu ušmykne — hybaj rovno tvárou db   sypkého snehu. Miško priskočil k nemu, zodvihol ho a prášil zo snehu.   Ondrej jednako nariekal. Natislo sa mu snehu kde-kade; sneh sa topil   a chladil premrznutého chlapca. Miškovi ho prišlo ľúto: stiahol svoje   teplé, kožušené zápästky a podal ich nešťastnému Ondrejovi. „No,,   teraz mi už bude teplo“, uspokojil sa Ondrej, hoci mu tvár bola   pohúžvaná od zimy. „A ty čo budeš mať?“ rozpamätal sa i na priateľa,   keď mu bolo tak dobre. „Počkaj, ja mám tuto šatku: mať mi ju   dali,
+   </tei:p>
+   <tei:p>
+    ﻿99
+   </tei:p>
+   <tei:p>
+    aby si ju na hlavu uviazal, ak by ma v ušivoziabalo. Na ušiach je   čiapka, v uši mi je teplo. Šatku si tu za päsťou obkrútim.“ Ondrej   sám mu ju obkrúcal a zaviazal skľavenými prsty. „Tak, jednu už mám;   bude mi jej veľmi teplo. Nič ma neoziaba. Druhú budem držať v   pazuche...“ „Nie, ja Ti dám moju šatku“, núkal sa Ondrej. „Krajčiare   z nej presyp do mešteka...“
+   </tei:p>
+   <tei:p>
+    Táto práca veľmi pribavila chlapcov. Ešte nedošli ani na sedlo,   keď začuli z mesta hlas zvona. Bolo poludnie. Vietor každým krokom   vzrastal. Často museli slepäčky driapať sa, vietor im do očú sypal   drobný sneh. Chytili sa za ruky a tak škriabali sa dohora. Škriabali,   lebo krpce boly zamrznuté, ako kremeň, podošvy ani zrkadlo. Nemohli   sa na nich zoprieť proti vetru.
+   </tei:p>
+   <tei:p>
+    Vystúpili na sedlo. Vietor oprel sa do nich celou silou. Nemohli   ho premôcť — zastali. Tu razom sa obráti, opre sa im do chrbta,   podchádza ich popod halienku — doráža do živého. Chlapci pustili sa   clo behu; boli radi, že ich vietor ženie.
+   </tei:p>
+   <tei:p>
+    A.le čo sa nestalo! Miškovi uviezla sa noha — sadol na zem. Lakeť,   na ktorom visel košík, zaboril sa do oplátok. Bolo počuť, ako   schrapšťaly pod ním. Chlapci vyjaveno hľadeli na košík —   neprehovorili slova. Sobrali sa, šli ďalej.
+   </tei:p>
+   <tei:p>
+    „Ty, tie oplátky sa polámaly“, začal Ondrej. „Veru celých mnoho   tam nebude. Cukrové sú krehké, z tých budú len omrviny , odpovedal   smutne Miško.
+   </tei:p>
+   <tei:p>
+    Chlapci sa poradili, zastali na jednej zákrute, kde tol’me nedulo,   a prezreli oplátky. Mnoho ich bolo popukaných, pomrvených bolo menej,   než mysleli. Povyberali omrviny, podelili sa s nimi a pojedli. Keď   prešli zákrutou, zjavila sa im veža a čisté biele domky, a niekde i   kaštieľ medzi nimi.
+   </tei:p>
+   <tei:p>
+    y 4-
+   </tei:p>
+   <tei:p>
+    ﻿100
+   </tei:p>
+   <tei:p>
+    i i ° ľ býva tiež v kaštieli; u toho som lani“, pochválil sa   Miško, aj. teraz ja ponesiem košík“, ponúkol sa Ondrej. „A   nespadneš?“ „A načo?“ Bežali veselo dolu do doliny. Vietor bol menší,   z údolia ich ovievala akási teplota. Nad dedinou bol strmý vŕšok; ako   šli dolu ním, Ondrej padol i s košíkom. „Teraz sú už doriadené!“   nariekal Miško. „Načo si len štuchol tým lakťom do nich!“ Ondrej   neudal príčiny svojho skutku. Nariekal nad košíkom, ako Izrael nad   sboreným Jeruzalemom. Oplátky podrobili novej revízii. Revízia nebola   príliš prísna, ale výsledok bol ohromný: z cukrových zostalo len   kolkosi, ako na ukážku. Hŕbočky scvrkly sa na posmech. Chlapcom zdalo   sa, že s týmto zbytkom nehodno ukázať sa v kaštieli. Ale čo robiť?   Šli. Pána Melchiora báli sa väčšmi — šli najprv k starému kupcovi.   Bol to vlastne bývalý kupec. Obchod oddal synovi, a on utiahol sa do   domu nebohej ženy, do Zemän-Lehoty. Mal pekný, malý domček; z každého   kútika ozývala sa čistota a blahobyt. Miško zakäroval rovno do   kuchyne. „Ja, že už ani neprídete! privítala ich červená kuchárka.   „Už boli tu zo všetkých okolitých dedín. A čo sa vám stalo? Popadali   ste!“ A oprašovala Ondrejovi zasneženú halienku. „Nebožiatočká moje!   Cieže ste mi? No, a teraz sadnite si sem do tepla“, zaviedla ich k   ohňu. Chlapci zahrievali si škrabnuté ruky nad ohňom. Ondrej pocítil,   že ho prsty pála, ako by mu ohňa hasypal za nechty. Pustil sa do   plaču a bolavé prsty vložil do úst.
+   </tei:p>
+   <tei:p>
+    ﻿101
+   </tei:p>
+   <tei:p>
+    „Nebožiatko, za nechty mu zašlo! No, počkaj, my tým spomôžeme!“   Zaviedla ho k vode, čo stála u dverí, a namočila mu do nej ruky.
+   </tei:p>
+   <tei:p>
+    Nuž dobre bolo našim chlapcom u kupca a jeho dobrej kuchárky.   Ohriali, sa pri panskom ohni, i najedli pri panskom stole. Útrapy   dlhej cesty sú im ako ťažký sen, ktorý, chvalabohu, už pominul.   Konečne vošli do svetlice.
+   </tei:p>
+   <tei:p>
+    Čo tu Ondrej videl, to nevidel ešte nikto na tomto svete! Toľko   tam bolo vecí, ktorým mena neznal, ani nikdy vari nebude znať; o   ktorých netušil, načo sú. Na stene viselo čosi, ako hodiny — ale kto   vie, či sú to hodiny! Visia z nich zlaté pondusy — zo samého, číreho   zlata. Pri pondusoch nevidno dôvažkov: ani zhrdzavenej konskej   podkovy, ako videl na hodinách u kováča; ani mlatčeka, ako majú u   Žida. Tu sú pondusy bez dôvažky a jagajú sa, jagajú — čo nedaj Pane   Bože! A to všetko bolo za sklom v drevenom ráme, že doň mohol Ondrej   bezpečne vojsť. Pri obloku zas bol taký stolíček, na ňom taká veliká,   veliká fľaša, ale hore dnom obrátená, a to dno iste bolo odbité ...   Takej fľaše ešte ani na krstení nevidel. A v tej fľaši bola alebo   voda, alebo nejaký trúnok, a tam behalo, či plávalo zlato! Ondrej s   toho zázraku oka nespustil. A veru sú to rybky! A l’aľa, živé rybky,   ale z čistého zlata... A ako tancujú, ako sa prevracajú a zívajú — a   vždy len dookola, dookola... Ondrej zabudol, kde je, čo tu hľadá, kde   je Miško, kto všetko je v izbe. Jaj, jaj — keby také v našom potoku   plávaly! Ale by mal otec na dohán... „Páča sa ti tie rybky?“ čul u   seba čísi hlas. Obzrel sa, pri ňom stál šedivý pán. Kabát mal až po   zem. Ondrej takého kabáta nikdy nevidel. Boly na ňom tulipány, samý   tulipán — a
+   </tei:p>
+   <tei:p>
+    ﻿102
+   </tei:p>
+   <tei:p>
+    obšitý červeným súkenkom dookola. Okolo pása zas šnúra, červená, a   na nej visia kystky, ako kapustná hlava. Joj, to už bol hej, kabát!   „A ty nevieš Vinš?“ pýtal sa ho pán. Ondrej zabudol, že sú Vianoce tu   a že vedel kedysi vinš. Zabudol, že zanedlho pôjde ďaleko, ďaleko na   remeslo a že bude mať ambrélu. On videl kabát. „No, poď, šuhaj, ja ťa   počastujem!“ pojal ho starý pán k obloku. Tam stála klietka, tiež   zlatá, a v nej vták prehadzoval sa a prekrúcal na drôtikoch a   škrečal... Kupec sňal s takej armarie fľašku a malý poháriček, a   odvrátil sa od Ondreja, aby ho nevidel, čo robí. Ondrej ani nehľadel   naňho, obdivoval toho vtáka. „Poď,,šuhaj, vypi!“ núkal ho kupec.   Ondrej videl na stolíku fľašku a pri nej ten pohárik, plný až do   vrchu. Iste to bude rozoliš, lebo je červený, a všetky iné trunlty   nie sú červené. Okúňal sa veľmi chytiť pohárik, ale čo mal robiť, keď   ho núkali! Miško sa pri peci uškieral. Podvihol pohárik pozorne, aby   sa rozoliš nerozlial, priložil k ústam, nachýlil — nič netieklo z   neho... Miško sa rozrehotal pri peci, a starý pán tiež kašlal od   smiechu. Ondrej nemohol pochopiť, čo sa tí smejú. A pohárik je plný —   a nechce pojaviť... „Tak pozdravte si pána učiteľa a že mu ďakujem“,   prepúšťal ich starý pán, keď sa na Ondrejových rozpakoch zabavil do   chuti. Chlapci vyšli; Ondrej ledva potraiil ku dverám — bol by šiel   rovno do zrkadla. Hlava mu bola prevrátená; ako ryba, keď sa gebuľou   otroví. „Pozri, čo nám dali!“ ukázal Miško na dlani šestáky. „A komu   to?“
+   </tei:p>
+   <tei:p>
+    ﻿103
+   </tei:p>
+   <tei:p>
+    „To nám —“a vložil ich do mešteka. „Šesť nám ich dali. Pán učiteľ   majú tuto v lístku.“ A kládol zapečatený lístok do pazuchy. „A za čo   nám toľko dali?“ „Keď si ty tak pil — za to! Ja som sa nechcel dať   vlani oklamať... Ja som v meste videl také poháriky, čo v nich je za   sklom rozoliš.“ „A ten kabát... A nehrešil ťa, že boly polámané?   „Vyrozprával som mu všetko — veď si počul — ako sme popadali...   „Joj, tá kystka by bola nášmu Janovi na halienu...“ „Tú ti len tak   dá!“ vysmieval sa Miško. „Tá je viac hodna, ako — všetko! Došli ku   topoľovej aleji, na konci ktorej bol most a rozsiahly dvor. Zastali   na moste a obdivovali dvor. Ondrej takého ešte nevidel. Boly tam   humná, v nich chlapi a ženy cúdili a odnášali zbožie. Videl stajne,   ovčiarne, chlievy, komornícke domy, ciene, kôlne — a kto by to všetko   spísal! Obrátili sa cestičkou rovno ku kaštieľu, pred ktorým boly   zasadené červené smreky, teraz opršané. Z pitvora vyrútil sa na   chlapcov velikánsky psisko. Ondrej skríkol, ako by ho na nože bral.   Sám pes uľakol sa toho vresku a chvíľku sa zastavil. „Kubo, Kubo!“   ohlásil sa ktosi z humna. Pes rozbehol sa k humnu — nestál už viac o   Ondreja. Z humna vyšiel vysoký pán a kráčal rovno k nim. Na nohách   brnčaly mu ostrohy. Práve takými krájava Ondrejova mať pirohy. Kubo   skákal za ním a trhal bičík, ktorý pán niesol v ruke. Ondrej užasnul,   keď pána zblízka videl. Búziská, akých nikdy nevidel! Centy by mohol   na ne vešať. A tá čiapka na hlave so zlatou šnúrkou! A tie hviezdičky   ha golieri... Pán im nepovedal nič, len im kývol rukou,
+   </tei:p>
+   <tei:p>
+    ﻿104
+   </tei:p>
+   <tei:p>
+    aby šli za ním. Vošli do pitvora, složili klobúky, a kráčali hore   schodmi, ako by sa šlo na vežu: lenže toto sú schody zo skál — a keď   vyšli na ten pôjd, nuž to nebol pôjd naozajstný, ale vošli pekne do   svetlice. Ale akej svetlice! Taká, ako kostol. Miško začal:   „Mnohovážni páni patronové Tam stál nízky stolík, na stolíku bol   kostolček s vežičkou. Z veže visela šnúra a chlapec, ktorý sedel za   stolíkom, poťahoval tú šnúru. Miško vinšoval a páňatko pri stolíku   zvonilo. Pán so složenou čiapkou stál pred chlapci a nespúšťal oka s   Miška. V tom pána pribehne 1c Ondrejovi, ktorý trímal košík s   oplátkami. Nezvedel, iba keď bol košík u chlapca, ktorý, složiac si   ho na stoličku, vybaľoval z neho oplátky. Vzal z nich niekoľko,   uhrýzal si, rozkročený hladiac na Ondreja. Miško medzitým skončil   svoj vinš, pán sobral košík a zmizol s ním v bočnej izbe. Malý   chlapec vytrhol Miškovi z ruky čiapku. Postavil si ju na hlavu,   stlačil na uši. Naši chlapci sa usmiali pošepky a . štuchali lakťami.   Chlapec bežal do druhej izby za pánom a kričal: „Apa — pozri! Aha,   aký som ja!“ „To mu je otec?“ šepkal Ondrej Miškovi. „Starý otec.“ „A   ani mu nedvojí — juj, to je veliký hriech!“ Chlapec medzitým vbehol   zpiatky. Chytil Ondreja za rukáv a ťahal ho ku stolíku. Ondrej sa   spieral. „A čo nejdeš?“ „Tak“ — šepkal Ondrej. „Čo nehovoríš hlasno?   Tu je nie kostol.“ Ondrej sa zavrtel v nesnádzi. „Aha, aký mám   kostol. I zvoní!“
+   </tei:p>
+   <tei:p>
+    ﻿105
+   </tei:p>
+   <tei:p>
+    Veď Ondreja dosť omínal ten kostolík, ale bál sa pohnúť — ten   fúzatý pán... „A čo je toto?“ pýtal sa chlapec, ukazujúc Miškovi na   nohy. „Krpce“ — odpovedal Miško. „A načo sú?“ „Nuž nosiť“ — smial sa   Miško. „A odkiaľ si ty?“ „Z Konopian.“ „Čo tu chceš?“ „Doniesol som   oplátky.“ „Budeš tu spať?“ „Ja idem domov.“ „A kde je to?“ „Ďaleko,   ďaleko — za tým vrchom.“ „Tam je sneh!“ „A vietor — malo nás   uchytiť.“ „Že ich malo uchytiť“ — oznamoval chlapec starému otcovi.   „Koľko ráz ste padli? Ale pravdu povedať!“ Pozrel pritom starý pán na   Ondreja, že div ho zrádnik neshodil. Miško všetko vyrozprával. On sa   nebál pána. Ondrej sa nemohol vynadiviť svojmu priateľovi pre jeho   nesmiernu smelosť. Pán položil dlaň Miškovi na hlavu.’ „A budeš   vojakom ? „Mňa, budú reklamovať. Mať povedali, že nebudem.“ „A prečo   reklamovať?“ „Lebo máme gazdovstvo, a brata nemám...“ „Hm“ — divil sa   pán — „veď si ty už celý advokát! Nebolo vám zima?“ „Ondrášovi tu za   nechty zašlo“ — oznamoval Miško. „Bolelo ta to?“
+   </tei:p>
+   <tei:p>
+    ﻿106
+   </tei:p>
+   <tei:p>
+    „Ó, nie!“ Ondrej sa silil do úsmevu, ale nešiel mu od srdca.   „Ponáhľajte sa domov — bude noc!“ prikazoval im pán... „Koľko nám   dal?“ pýtal sa Ondrej, keď vychádzali z aleje na hradská. Počítali   šestáky — bolo ich osem! „Trala-trala-la!“ spievali si, uberajúc hore   vrchom. Ale boli zaraz ustatí. Nohy ich tiež pobolievaly. Prestali   bežať, krok stal sa ťažším, zdĺhavejším. Vrch zdal sa nekonečným,   jeho sedlo azda niekde v oblakoch. A pokročiť ťažko. Cesta hladká,   podošvy hladké, zamrznuté. Zprvoti čítali, koľko ráz padli: ale   zunovalo sa im onedlho čítať — iba padať sa im nezunovalo. Úfali sa,   že sa im nejaký voz pritrafí. Stretli panské sánky, v nich kone s   ceng-álkami — prebrnklo to popri nich, ako lužný sen. Stretli tri   vozy s fúrou soli, zamrznutý sneh vržďal pod kolesami, ako keď žuješ   čerstvý syr. Všetko len stretávali — k mestu nevideli ísť ani sánok,   ani voza, ani živej duše. V doline tma, okolo nich šero, len čo sneh   svieti, a sedlo ďaleko! „U nás navarili“, riekol Ondrej. „U nás   tiež“, odpovedal Miško. „Mať už prirábäjú na koláče.“ „Zajtra o   takomto čase budeme sedať k stolu.“ Chlapci sa zamysleli. Vystúpila   im pred oči teplá izba, osvetlená vianočnou sviecou; prikrytý stôl,   okolo neho sídená rodina odrieka vianočnú modlitbu. „Mne sa nohy   šmýkajú , žaloval sa Ondrej. „1 koleno ma bolí, čo som naň   padol.“
+   </tei:p>
+   <tei:p>
+    ﻿107
+   </tei:p>
+   <tei:p>
+    „Pozri, Ondráš, klaď nohy takto bokom. Tak sa skôr neušmykneš.“   „Ty si, Mišo, šedivý. Celá čiapka ti obelela!“ „To je srieň.“ Mlčali   chvíľku. Bolo počuť len, ako vrždí im sneh pod nohami. „Vieš, čo sa   mne žiada?* pýtal sa Ondrej. „A čo?“ „Keb} ma otec chytili a   hodili do postele. Tak by bolo dobre pod perinou! Raz sme boli s   otcom sami doma. To bolo večer, mať šli na priadky. Otec by boli   chceli kdesi ísť a mňa doma nechať. Ale ja som sa pustil do plaču, že   sa ja sám bojím. Ubili ma a odišli. Ja som do samej polnoci plakal,   lebo som sa bál a zaspať mi nedalo. Ej, teraz by zaspal!“ „Veď sme už   hneď na vrchu. Dolu vrchom nás bude samo hnať, neboj sa nič. A koľko   sme dostali peňazí! Budúže radi moja mať, keď im ich toľko dám!“ „Ja   dám otcovi na dohán. Viem, že si zas budú zajtra pýtať.“ Zamyslel sa   trochu nad čímsi. „Alebo vieš, čo by bolo dobre?“ „Nuž ?“ „Keby ma   tak niekto od chrbta potískal! Tak by sa dobre šlo. Alebo keby napred   mňa šiel náš pejo a ja by mal pobočky okolo pása okrútené. Ťahal by   ma za sebou do vrchu — ja by nohami drugal. Naši kamaráti sú doma:   tým je dobre, idú spať.** „Ach, ešte, ešte je nie noc.“ „Ty,   ja už nevládzem. Oddýchnime si trochu.“ Ondrášov hlas sa už triasol.   „No, len vyjdime na vrch. Počkaj, ja ťa budem od chrbta potískať. *   Chlapcov to za čas bavilo. Tak horko-ťažko dostali sa na sedlo. Na   ňom bol zasadený stĺp,
+   </tei:p>
+   <tei:p>
+    ﻿108
+   </tei:p>
+   <tei:p>
+    ktorý niesol obraz sv. Trojice. Obraz bol v takom domčeku položený   za sklom. Prvej ušiel tento divný rám Ondrejovej pozornosti, ale   teraz prizrel sa domku. „Ale by nám bolo, keby sme mali taký domček!   Zavreli by sme sa doň, nakládli si ohňa...“ „Nože, kto bude prvý pri   henotom stĺpe!“ prerušil Miško jeho rozjímanie. Chlapci pustili sa v   dolinu, ale nohy sa im veľmi klzaly. Padaniu nebolo konca-kraja.   Košík musel byť celý dolámaný. „Mňa bolí popod kolená“, žaloval sa   Ondrej. „Keby ich nemusel zakaždým zohýňať!“ „Aha, keď z hory   vyjdeme, už zazreme mesto.“ „Ty, a kde nocuvajú strnádky?“ „Vtiahnu   sa niekde medzi snopky do strechy. ono ich i mnoho pomrzne na takejto   zime.“ „Ja by im poradil! Do toho domčeka môžu si nanosiť sena a   machu: tak by im tam bolo!“ „Do ktorého?“ „Čo je v ňom tá Trojica.“   „Já, tie budú radšej v dedine. Keď len nájde strechu, tam ju zima   nedôjde.“ • Tak minuli horu, tu z diaľky trblietaly im drobné   svetielka, ako by svätojanské mušky. To bolo mesto. Cesta zahýňala sa   tu popri vysokej skale, ktorá bola podomletá. To miesto nebolo   zasnežené, vietor pod skalu nevnikol. „A teraz si oddýchneme, tu pod   touto skalou.“ „Ja nejdem“, bránil sa Miško. „A, prečo ? „Pán učiteľ   nám zakázali. Zamrzli by sme.“ „Veď my nezaspíme.“ „Sen by nás   prevládal, keby sme si sadli.“ „Ja si idem — len na otčenášik!“ „A ja   ti utečiem — budeš si tu sám. A v tejto hore vlani zastrelili   medveďa.“
+   </tei:p>
+   <tei:p>
+    ﻿109
+   </tei:p>
+   <tei:p>
+    „Nuž ten už nepríde, keď ho zastrelili.“ „Ale druhý im utiekol.   Ten vraj v tejto skale býva.“ „A kde si oddýchneme?“ začal dorážať už   s plačom ustatý Ondrej. „V meste. Ja viem jeden dom. Tam býva   krajčír, čo šil materi servianku. Bol som uňho neraz. Raz mi dala   majstrová kávy. Joj, to bolo — ako med! Ty si ešte kávy nepil?“ „Nie,   ale mať povedali, keď sa Jano bude ženiť, že budeme piť kávu.“   „Vidíš, a majster ju píjava každý deň. Keď sme ráno šli popred   obloky, videl nás. Mihol na mňa okom, či nepôjdeme k nemu. Ja som mu   povedal, že hej...“ „Sadneme si pod pec, ja sa vyvalím na lavicu a   budem spať, spať.“ „Pravdaže, on nás vďačne prenocuje. A máme mnoho   peňazí! Tak udržoval Miško život v svojom priateľovi. Cítil sám, že   sila klesá, nohy ťažké, ako centy. Ondrej už nešiel, iba sa socal,   ako opitý. V nočnej tme začul spiežovčel konské. Kde znejú? Pred   či za nimi? Načúval pozorne. O chvíľu ukázalo sa, že príležitosť ide   zas proti nim. Miško tratil všetku úfnosť. Utrel si tajne slzu, ktorá   mu vypadla nad sklamanou nádejou. Kone zadupotaly, sánky letely proti   nim. Na sánkach bolo vidno dve temné postavy. Chlapci uhli sa do   garádu, aby sánky prebehly. Ale tie zastalv. Z nich ozval sa známy,   známy hlas: „Mišo, to si ty ?“ „Ja!“ zkričal šuhaj. „Kde idete, ňaňo?   Vezmite nás — nevládzeme.“ „Ale vás tu nechám, žaby!“...A Miško   cítil, ako ho mocné ramená podvihly a vysadily hore, „Potvory,   bolo vám to treba? Takto človeka
+   </tei:p>
+   <tei:p>
+    ﻿110
+   </tei:p>
+   <tei:p>
+    prehnať!1* Otec hrešil síce, ale Mišo cítil, ako ho k sebe   pritisol, keď ho vykladal na sánky. „Oziaba ťa v nohy?“ pýtal sa,   zahaľujúc ho do veľkého pokrovca. „Ej, Ondráš už nevládal“, žaloval   sa Miško. „Nevedel som, či bude vládať do mesta!“ Chlapci sa   podivili, ked na zadnom sedisku videli učiteľa. Učiteľ mlčal, iba   roztvoril bundu a zavrel do nej Ondráša. Ondráš myslel, že sa mu to   naplňuje tá žiadosť: že ho otec hodil do teplej postele. O chvíľu už   chrápal pod bundou. Kone letely, vale už k mestu. Zrazu zastaly. „ Čo   robíte, chlapci ? * „Ja nič“, odpovedal Miško. „A tento spí“,   oznamoval učiteľ. Gazda limatal u nôh učiteľa. „Zamrzne ten pačrev,   nohy mu odpadnú. Ej, dobre, že sme dobehli! Bol by to býval pád   zajtra ráno. Takáto zima! Počkaj, ja tvojim nohám zakúrim. Nohy   najlepšie pochovať do sečky. Čo by všetko zamrzlo, v sečke im je ako   v páperí. To som zkúsil, kým som po furmankách chodieval. Tým   spôsobom stalo sa, že Ondráš, hoci celou cestou spal ako peň,   doniesol nohy domov v úplnej celosti, čo by sa ináč sotva bolo stalo.   Ked dobehli do mesta, učiteľovi zišiel na um Pavel Jonatan a Kristovo   narodenie. Pleváň zastal pred Lustigovým sklepom; učiteľ zakrútil   Ondreja do bundy, a vošiel dnu, zavolajúc i Miška, aby mu von nebolo   tak zima. Mišo už dnes všeličo videl, ale tá sláva, ktorá sa mu tu v   sklepe ukázala, prevýšila všetky jeho dnešné zkúsenosti. Celý sklep   bol vlastne zatarasený stolmi a stolcami a všelijakými poprekladanými   doskami. A na tých predmetoch boly rozložené veci od výmyslu sveta:   nebolo kde špendlíkom bodnúť. Učiteľ hneď našiel, čo potreboval:   zjednal a kúpil. Bolo
+   </tei:p>
+   <tei:p>
+    ﻿111
+   </tei:p>
+   <tei:p>
+    mu ľúto, že už nemá čo kupovať. Kupec Lustig ho zahováral, všeličo   mu ukazoval: tiež nechcel tak na prázdno prepustiť človeka z dediny.   Ako sa učiteľ obzrel, kto to v sklepe hovorí, zazrel neďaleko dievča.   Stálo pri Miškovi i shováralo sa s ním, ale len pošepky. Bolo máločo   vyššie od Miška, v tvári pekné; menovite oči, ani trnky. Nemohol sa   zdržať, aby si ho ešte raz neobzrel. Očiam dobre padlo baviť sa   takýmto milým predmetom. „Krajanka!“ usmial sa kupec, ukážuc   dievčatko učiteľovi. „Tak si ty tiež z Konopian?“ prihovoril sa jej   učiteľ, milé prekvapený. „Prišla som pre odmlad“, odpovedalo dievča.   „A ako sa voláš?“ „Eva/ „Eva?“ podivil sa učiteľ. Bolo mu divno, že   toto meno, ktoré u vrát na priadkach počul, nosí i druhá na tomto   svete okrem tej jednej. Obzrel si dievča lepšie — pri kútiku úst   zazrel bradovičku. Taká maličká — nesmierne pristala k tým usmievavým   ústkam. Nuž na zjedenie! pravdu mal ten vojačisko. Učiteľovi bolo   razom tak veselo. Tak ho bavilo, že dievča netuší, kto všetko zná jej   históriu, a tak do podrobná... „Kde ti je prsteň?“ pýtal sa so   šelmovským úsmevom. „Ja nemám“, odpovedalo dievča spokojne. „Ale pred   Luciou si ho ešte mala, taký olovený — veď vieš Dievča zapálilo sa,   ako falda. Nevedelo, čo si o tomto človeku pomyslieť. Azda je   černokňažník; možno je so strigami v porozumení... Učiteľ rozhliadal   sa po sklepe — zazrel na stolíku rozložené prstene, z čínskeho   striebra.
+   </tei:p>
+   <tei:p>
+    ﻿112
+   </tei:p>
+   <tei:p>
+    Vybral z nich najkrajší, s velikým červeným sklíčkom, a odložil si   ho. Tak vyšli všetci zo sklepa. Dievča muselo tiež ísť na sánky;   učiteľ tak urobil, že nemalo inde miesta, len pri ňom. Krv sa mu   začala búriť, rútila sa k hlave a strojila v nej roje divných   myšlienok. Cítil, že osud tohoto dievčaťa súvisí s jeho osudom, Prvý   raz sišiel sa s ňou, kde jej ani nevidel, ani neznal, a dva týždne   zaoberal sa ňou. Veď vlastne ona bola predmetom jeho myšlienok a   snov. A aké milé boly tie sny — hodno sa jej za ne odslúžiť. „Evka,   ja ti toto dávam na pamiatku, že sme sa dnes spolu sánkovali.“ .   Vtisol jej na prst kúpený prsteň. Rúčka bola tvrdá, vyrobená — ale   strunistá a horúca, horúca! Prsty, tenučké ešte a slabé, zachvely sa,   keď sa ich dotkla ruka učiteľova. „Bude ti to na pamiatku — ale aby   ti ho niekto nesňal!“ „A kto?“ pýtala sa malá falošnica, ako by ani   netušila, o čom sa hovorí. „Ten, čo z vojny prišiel...“ „Ja neviem,   ktorý...“ Hlas sa jej pritom zatriasol, hoci sa chcela celou silou   opanovať. „Ten, čo zahodil prsteň — Ondrejov...“ Dievča trhlo sa   slabúčko — ovesilo hlavu a mlčalo, mlčalo... Tak došli domov. Treba   doložiť ešte: Kristovo narodenie, čo učiteľ kúpil Pavlovi Jonatanovi,   dostal v Štedrý večer — sám učiteľ. Ste prekvapení? Učiteľ bol   tiež.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

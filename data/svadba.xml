@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1896147" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Svadba : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     10648
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Svadba
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1896
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Svadba.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿I.
+   </tei:p>
+   <tei:p>
+    Nemyslím, že mu kedy prišlo na um, že by sa bolo treba oženiť. Ono   niet ani velmi času myslieť na také pletky a vôbec rozmýšľať. Hlušíš,   braté, celý rok v tej čiernej zemi —- vlastne horký zemi: v živej,   živučičkej skale. Tu v poli, tu doma, tu na svojom, tu zas na   ,nadnici‘, alebo lepšie ,žurnáte‘, t. j. nádenníčiš. Nuž nesladí sa   veru mrhať drahý čas daromným snením a prázdnymi dumami. A najmä keď   prídu isté roky a srdce usadí sa, ako vyvreté víno. A večerom? Eh,   braté, prídeš domov, o večeru ani veľmi nestojíš. Vložíš niečo do   úst, prežehnáš sa, preporučíš sa Bohu i svojmu mocnému ,zapovjedniku‘   (patrónu) sv. Petrovi, vyvalíš sa do kúta a odpočívaš do zory ... To   je život nášho Petra Koliéa! Starý Ilija, otec Petrov, nemôže sa   povedať, že by bol toľme chudobný. Má čosi poľa svojho, vlastného, i   vyrobeného v súce, úrodné vinice. Ostatok poľa má v úžitku od svojho   ,gospodara i parona (gazdu a majiteľa) ,šorac (pána) Mata   Ivinho. Mate Ivin je veľký ,pošidenať (statkár), má všetkých vecí   dostatok a poľa, že sám nevie, koľko. On mu dal teda poľa, Ilija   priložil naň ruky: vyrobil, vykolčoval, vybral kamenie čo hrubšie a   vysadil viničom. Na ,intráde‘ (úrode) sa delia, a to spravedlivo na   štvoro: troje ťahá Ilija a jedno gospodar šor Mate Ivin. (Lepšie   niečo, ako nič.) Ten istý pomer bol i medzi otcom Ilijovým, nebohým   Petrom a otcom šora Matovým, nebohým Ivanom. Ba keby sme začali   vyhľadávať staré
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    ,konty‘ (písma), iste by sme našli i do piateho kolena v   starobylosti, že totiž predkovia šora Mata boli gospodari a predkovia   Iliju ich ,kmeti‘, alebo, ako sa sami zovú, ,težaci‘ (roľníci). Zato   v dome Ilijovom o biede sa nemôže hovoriť. Vždy bolo dostatok vína i   ,ulja‘ (oleja) — a iné veci: pšenica, strova a iné — to sa kúpilo na   borg a zaplatilo o Všechsvätých z odpredanej intrády. Bieda sa uňho   neusalašila ani vtedy, keď sa začala rozmnožovať ,fameja‘ (rodina).   Ako dorastaly deti, tak ich priberal do roboty a priberal i poľa od   šora Mata: koľko prejedlo, toľko prisporilo k intráde každé. A tie,   čo boly cele malé — tie sa nemôžu ,kontať (tie nezavážia). Čo   potrebuje taký malý škreklún? Vrabec na krýdle unesie, čo potrebuje!   Ilijovi preto nejde hlava oplešivieť! Hľadí hrdo na svoju Jelu.   Hotuje na príklad večeru a okolo nej šantujú hladné detváky. Jedno má   v ruke kus ,turty‘ (bochníka), druhé poskakuje na jednej nohe,   čakajúc, kým sa vo veľkom hrnci zabarí šťavnaté ,zelje‘ (kapusta).   Iné sa jej drží sukne a ukazuje materi zabitého ,kosiéa‘ (čvíkotu),   ktorého otec vo viniciach chytil a deťom doniesol. Každé má čo   povedať materi, požalovať sa alebo pochváliť. A ona medzi nimi sťa   kvočka, ktorá hneď z jari vyvedie kŕdeľ kureniec a o každé matersky   pečuje. Jela je bez otázky ženská ,vriedna‘, t. j. súca, robotná,   gazdovlivá. Preto, že má kŕdeľ detí, ona sa neodtiahne od nijakej   roboty, čo pripadne na ňu. A vieme, koľko potrebuje toľká pätora na   seba i do seba! Nechová ich síce pečenými bažantami, ani neoblieka v   šarlát a kment — ale ani ich nemorí hladom (vidno im i na tvárach!),   a konečne nahé nechodia ani v lete. Len jbijankarie1 (bielizne) koľko   sa nasbiera, keď každý týždeň premení im košeľu! A to všetko vláčiť   zabarené na more! Iná gazdiná ju môže dovliecť na jednom
+   </tei:p>
+   <tei:p>
+    ﻿9
+   </tei:p>
+   <tei:p>
+    somáriku. Ona musí zajať somárov aspoň dvoch, alebo ,mazgy‘   (mulice). „Ah, jadna ti je svaka majka (úbohá je každá mať)!“   vzdychne i ona neraz, najmä keď ju niektoré mnoho trápi a   ,mortifika‘. Ale verte, i to vzdychá viac z obyčaje, — že čuje i   druhé ženy tak vzdychať, — než z hlbokého presvedčenia.
+   </tei:p>
+   <tei:p>
+    Ilija ešte najviac ,vidi muke“, kam to poukladať na noc...
+   </tei:p>
+   <tei:p>
+    Býva v ,kuci‘ otcovskej a starootcovskej. Vystavená je z holého   kamenia, rukou neumelou. Špáry zdnuká zapáckané sú maltou. I krov po   tunajšej težackej móde: na laty poprekladané tenké tľapky z kameňa.   Aby pomedzi ne neprebíjala .bura‘ (severák), alebo ,jugo‘ (južný   vietor) s dažďom, Ilija sám zapáckal krov maltou, vyhladil ho i   vybielil skutočne dôkladne vápnom. V kuci sa od tých čas naozaj býva   ako v škatuli: ani kvapky dnu neprebije!
+   </tei:p>
+   <tei:p>
+    Ináč kuca nie ie rozparcelovaná dnukajšími stenami na bohviekoľko   ,prostorijíc a izbičiek. Pozostáva z iedného jediného priestora. Ten   slúži: za salón, spálňu, pitvor, kuchyňu, komoru, ba i pivnicu, a   všetko v jednom kuse. Odo dverí vľavo vyjdeš na pódium, stlčené z   dosák. Na ňom sú dve postele, vlastne matere všetkých postelí: také   sú priestrané. Jedna pre rodičov a najdrobnejší drobizg, ktorého   mladší brat vysúdil z kolísky, druhá Dre stredných a väčších. Postele   tiež nespravili ,meštri od zanata1, t. j. majstri od remesla: sám   Ilija vlastnoručne. Na dva ,kavalety‘ (kobyliny) preložil dosky, na   tie slamník, a posteľ, že ,veramentec ani ,kraljevic Marko‘ nespával   na lepšej. Ostatok kuce nie je dláždený ani mozaikou, ani dubovými   forštami, ani doskami, ba ani len dilami; nie je zemou a hlinou   poubíjaný, pozarovnávaný, vyma-
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    zaný, ako v našich chalupách ... tu je dlážka z čistého, živého   kameňa, povrchne vyrovnaná. Noha sa potkne tu o hrboľ, tu zas zapadne   do jamy. Eh, obyčaj, braté, obyčaj! Všetkému sa naučíš.
+   </tei:p>
+   <tei:p>
+    Tento priestor je zaujatý všeličím. Nájdeš tu truhlice, kasničky.   Po stenách rozvešané šaty i ,mišiny (mechy), v ktorých sa   prenáša mušt, i víno, i olej; cez zimu dva-tri ,pršuty‘ (šunky   vyúdené). Jesto i čosi stolu podobného, iba že to nemá kde zastať   isto a bezpečne, keď je spodok hrbolatý. Najviac priestoru zaujímajú   sudiská. Prostredný, dosť objemný, je načapovaný. Pod pipňou je misa,   ale neodkvapkáva do nej nič. A na sudoch je povykladaný a povešaný   ostatok šatstva i .pokučstva (náradia).
+   </tei:p>
+   <tei:p>
+    Odo dverí vpravo, oproti posteliam, bolo vystavené ohnisko. Ale   horký vystavené, keď siahalo sotva do členka; zato priestrané. Okolo   ,vatry mohla sa tu poľahky zmestiť celá fameja, posadať tu na   vysoké kamene, tu na lavicu a stolce. Ba ostane miesta i ,kumu   (kmotrovi) Tomovi, ktorý býva v súsedstve a prichádza dlhé zimné   večery .sprovesť u kuma Iliju. Pri malých dulách   ŕfajočkách) tak krásne sa to spomínajú staré dobré časy!   .Dičurina (deti) medzitým môže odfukovať v posteli, pomiešaná   sťa makaróny na mise jedno cez druhé, pod teplými .sukancamľ   (kobercami).
+   </tei:p>
+   <tei:p>
+    „Nie je ani slušno, ani svedčno, aby takto boly na jednej hŕbe“,   pomyslel si raz Ilija. Totiž tie deti. Dvoje dievčat, Katicu i   Jelislavu, keď .ulizly do pätnásteho, j. roku, poslal do   služby. Doma zostali samí chlapci, siedmi podľa počtu, okrem   najstaršieho Petra a Ivana. Jeden chlapec a jedno dievča v útlom veku   ,otišli u raj
+   </tei:p>
+   <tei:p>
+    Aby naistarší mali .svoi komoť a nemuseli sa tisnúť s malými v   jednej posteli, Ilija skasíroval
+   </tei:p>
+   <tei:p>
+    ﻿11
+   </tei:p>
+   <tei:p>
+    spomenuté ohnisko. Spravil dva kavalety, preložil na ne dosky —- i   posteľ hotová. „Vy dvaja budete tu spávať“, nariadil otec, „aby vás   ostatní nekopali.“ „Ďakujeme pekne, ,éacec (otče)“, vraví Petar i za   Ivana s hlbokou vďakou.
+   </tei:p>
+   <tei:p>
+    „Ništa, synko, ništa“, odmieta otec vďaky. Jar sa bola práve   otvorila — nebolo ťažko umiestiť ohnisko. Spravili ho prosto predo   dvere. Ale starý Ilija pamätal i na zimu. Konča kuce je strmý breh.   Ilija s dvoma synmi dali sa doň ,maškinami‘ (čakanmi). Stará Jele sa   len čuduje, čo si to zas tí traja ,stavili u glavuh Či idú otvoriť   baňu na kamenie, alebo práve — Bože odpusť hriechy! — hľadajú   ,cekiny‘ (dukáty)... Iba keď stvorili priestor štyri kroky dlhý a tri   široký a začali vyťahovať na ňom múry. „Aboj meni!“ zvolala. „Vari   dom!“ „Nie dom, Jele moja“, odpovedá muž vážne, „ale kuchyňa.“ I   skutočne múry pokryli strechou a pred samou ,jematvou‘ (oberačkou),   keď začínajú nocou poťahovať studenejšie vetríky, vystavili   priestrané ohnisko.
+   </tei:p>
+   <tei:p>
+    Konečne cez leto ,neprofitali‘ veľmi Petar a Ivan, že majú   osobitnú posteľ. Spávajú najviac ,u gori‘, pasúc múle a somáre i   strážiac do samej iematvy vinice. A keď neboli v poli, utiahol sa   každý ,u chlad, lebo v izbe je letom veľká horúčava. Dvorec je i   tak obohnatý ,gomilou‘ — múranou ohradou, vysokou a masívnou, sťa   nejaká .tvrďava starobylého bána. Tu sa spí lepšie, iba že   ,komárci‘ nespia, ale doďobajú ,kršéanina‘, že vstane s tvárou   napuchnutou.
+   </tei:p>
+   <tei:p>
+    Takýto, hľa, život mal náš Petar. Odobrali ho k marine. a keď   vyslúžil, vrátil sa verne k otcovi. Šuhaj bol driečny, postavy   materinej, širokoplecí,
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    so šijou ani mladý junec, počernou tvárou a krásnymi fúzmi. Keď   išiel poľom alebo dedinou, obzrela ho každá dievka. Možno si i   pomyslela: „Ovaj Petar je ljusak, propia ljusak (tento Petar je   driečny, naozaj driečny)!“ Niektorá možno i nahlas vyslovila túto   chválu. Najmä ,Katica izpod crikve (zponiže kostola) — ona, ona už   dávno myslí naňho ... Ale Petar nedáva nič na také   komplimenty
+   </tei:p>
+   <tei:p>
+    Ilijovi neraz sa svráskalo čelo od ťažkého .pensíra   (starosti): čo si počne, ak sa Petar bude chcieť oženiť? „Kuca je   vonkoncom tesná, ledva sa do nej my vpraceme; a tu posteľ, truhla,   kasne ... I rozložil si vec v svojej hlave takto: spraví z dosák   priehradu, zatvorí do nej bývalé ohnisko; čo, treba lepšej chyže?   „Bude trochu tesno, ale čo si počneš? Kuca sa nedá roztisnúť:   nepustia múry ...“ Bolo mu hneď ľahšie, i pokojne čaká, kedy mu syn   príde s novinou.
+   </tei:p>
+   <tei:p>
+    Prišiel i Ivan ,pod levuc (asentírku), vyslúžil svoje štyri roky v   Pole i vrátil sa domov. I zas len boli v svojom kúte. Iba že Ivan   nedržal sa veľmi domu. Večery trávi s mládenci. Musí byť na každej   muzike, má sa tuho okolo dievčat, ale ani jednej ešte nezadal   sľub.
+   </tei:p>
+   <tei:p>
+    Prešly Vianoce, fašiangy i skoro celý pôst. V nedeľu ,od   palme (Kvetnú) stál Petar na malom dvorci pred crikvou, čakajúc   ,dozvon‘ na veľkú omšu. Stojí tu temer celá dedina, každý s olivovou   ratolesťou v ruke. Keď zavznel dozvon a na ulici zjavil sa šor ,kuráť   (plebán), začalo sa to všetko trúsiť dnuká. On opretý o crikvu pozerá   svet, ako defiluje pred ním. Staré ženičky s nábožnými stonami a   ružencom medzi prsty, nevesty a dievky s knižočkami a poburujúcimi   pohľadmi vpravo i vľavo. Na hlave nesú čierny
+   </tei:p>
+   <tei:p>
+    ﻿13
+   </tei:p>
+   <tei:p>
+    čipkový závoj; zpod neho sa to dobre zákernícky môže pozerať...   Petar práve rozmýšľa, že celý Veliký týždeň nebude z roboty nič. Musí   vstúpiť do legie, ktorá sa organizuje z vojenských vyslúžencov   strážiť sv. hrob. Teší ho to veľmi; nie preto, že bude sa parádiť v   mornárskej uniforme a s puškou — nemá pred kým! — ale že preukáže   česť Spasiteľovmu hrobu. A tu — ktože je toto? Prechodí popri ňom —   áno, to je Zubičova Jova! Musel, a čo ako nechcel popásť oči na jej   kráse. Nesie sa driečna sťa nádherná palma. Len chvíľa, a už zmizla v   chrámových dverách ... On, nevediac vlastne, čo robí, pustil sa za   ňou. Pretisol sa zástupom žien k bočnému oltáru sv. ,Roka‘, Rocha,   kde pokľakol. Modlí sa roztržito. Modlitbou sa snujú podivné   myšlienky,, v nich sa nábožnosť zaputnáva a nemôže ani o krok ďalej.   Vľavo belie sa mu biele líce Jovino. Keď pozdvihne hlavu a hľadí   svojím čiernym okom na hlavný oltár — tu Petar zabúda, kde prestal v   modlitbe a hľadí, hľadí, plný obdivu. Jemu sa zdá, že takého čuda   ešte nikdy, nikde nevidel... „A ja sa oberám svetskými myšlienkami“,   horší sa na seba, bijúc sa mocne v preplnenú hruď. „Či som ja človek   hriešny — márny červík! A predsa nikdy, nikdy takto krásne v tomto   kostole nebolo. Nikdy, čo ja pamätám.“ Všetko sa mu zdalo akosi   slávne. I obleky, i speváci, čo sa toľme namáhajú. Ba i hlas Jakova   Vickovho je dnes slávny, a nie taký mekavý, ako obyčajne. I koruna na   hlave Matky Božej, hoci je čiernym .(závojom zakrytá, skvie sa akosi   skvostnejšie... Keď sa funkcia skončila — bolo poludnie a po dvorci   hreje jasné slniečko — spopadla Petra naliehavá túžba vyjsť čím skôr   z kostola. Mnoho
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    sa naboril, kým ho oblial vonkajší čistý, teplý vzduch a jasné   svetlo slnca. A zpred kostola nejde domov, ale čaká, čaká. Vyhrnuly   sa i ženy a skupinami štebocúc idú pomedzi chlapov, vlastne   mládencov. Shovárajú sa, ako čo by si malý neviem čo vážneho povedať   — a ono je to všetko len aby ukázaly chlapom, že im na nich nezáleží.   Vyšla i Jova Zubičova s ,rodicou‘ (sesternicou) Milkou. Petar uprel   pohľad na podlhovastú tvár Jovinu. Našiel na nej tie veľké oči, ktoré   ešte nepozrely naň a už ho ranily, a malé ústa. Zbledol ako stena,   dych mu zasekol, až prse idú puknúť, preplnené vzbúrenými citmi. Ona   pozrela naň, vľúdne, milo, ako by sa mu prihovárala, — aspoň on badá,   že by sa mu chcela prihovoriť, — a ide rýchlym krokom a so sklopeným   zrakom cez ulicu očí, na ňu zvedavo obrátených. Sotva prešla, začaly   sa poznámky. „Ľaľa, ako sa popravila!“ „Eh, bola na panskom chlebe!“   „I opeknela!“ „Vyobliekala sa ako ,konteša‘.“ „Veru mnoho slávy do   paláca Zubičovho.“ I všetky narážky i poznámky sťahovaly sa na   chudobu Zubiča a na jej nádheru. Zubic nie je obľúbený v dedine. Býva   na nižnom konci. Neukáže sa nikdy na ,piaci‘ (námestí), ani v krčme,   ba prestal i do kostola chodiť. A to všetko, že sa mu žena zabila.   Jedni hovoria, že opitá padla na hŕbu kamenia a zostala mŕtva na   mieste. Iní zasa vynašli iné. To ho vôbec prinútilo bočiť od   sveta.
+   </tei:p>
+   <tei:p>
+    Jova, keď podrástla, tiež sa necítila dobre doma. Odišla do služby   na druhý ostrov a od tých čias tam slúži po kupeckých a panských   domoch. Otec vari ani veľmi o ňu nestojí. Najviac sa starie o ňu   ,amia‘ (teta) Ursa, mať Milkina, vydatá za
+   </tei:p>
+   <tei:p>
+    ﻿15
+   </tei:p>
+   <tei:p>
+    Duja Odriéa, vlastná sestra nebohej Zubiéky. Jova i teraz složila   sa u amie Ursy, prijdúc do rodnej dediny stráviť veľkonočné   slávnosti. Petrovi sa zachmúrila tvár, keď počul poznámky o Jove.
+   </tei:p>
+   <tei:p>
+    „Á či ste vy kresťani?“ chcel už zahrmieť na nich a najmä na brata   Nika, parobka už na mieste, ktorý sa rehotal s akýmsi hlúpym pôžitkom   na tých surovostiach. Ale si rozvážil, že by sa iba všetko zhoršilo.   Odišiel domov hlboko dojatý. Bolo mu tak, že by najradšej vykríkol,   až by sa skaly triasly. Všetkého mu bolo akosi ľúto; i celý doterajší   život, akýsi pustý, žalostný: len zaplakať nad ním...
+   </tei:p>
+   <tei:p>
+    Po večierni zas postál pred kostolom. Prešla popri ňom, i zas   pozrela naň. To ho veľmi zadivilo: veď nezbadal, že by na druhého   bola pozrela. Čo to znamená? Všakovak rozmýšľa, všakovak si   vysvetľuje. Nemôže sa premôcť — ide za ňou, obďaleč. Neutekajú pred   ním, mohol by sa k nim prosto pripojiť a odprevadiť k domu, ale   nemôže. Tých desať krokov, ktorými zaostal, zdá sa mu nedobytnou   hradbou. A konečne jemu dostačí hľadieť na jej krásnu chôdzu, na   strojnú postavu, počuť úlomky jej slov a dýchať vzduch, ktorý ona   dýcha. Keď sa zvrátili do dvorca Odričovho, Jovine oči zadivené sa   stretly s jeho rozpáleným pohľadom. Podvihol červenú čiapočku s   čiernymi strapcami a chcel pozdraviť: ale slovo mu prischlo v hrdle a   zamrelo na perách. Zronený vyšiel hore dedinou až na vŕštek, zkadiaľ   sa vidí biela dedina, zelené vinice, sivé háje olivové, ktoré stoja   akosi dumno, obliate jasným slncom. S piace zavznieva pokrik   mládencov, ktorí, nemajúc ohľadu na nedeľu, dali sa do hry ,na   balón (loptu). Sišiel i on na piacu, i hľadí na pestrý život
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    na nej. Mládenci, ba i ženáči, rozdelení na dva tábory, bijú   loptu, lenže nie drúkom, ale dlaňou. Lopta lieta mohutným oblúkom s   jedného konca piace na druhý. Petar je dobrý hráč, keď lopta naň   letí, podberie ju šikovne a pošle až hen niekedy do dvorcov. Ale dnes   hľadí bez záujmu na shon hráčov. Ako postavy okolo lopty motajú a   hádžu sa sem a ta, tak sa jemu motajú v hlave všakové neobyčajné   myšlienky. Na mrkaní pobral sa domov. Sediac pri ohnisku, rozmýšľa, a   vždy sa mu vracia myšlienka: „Pane Bože, čo je toto — čo je? Čo sa to   porobilo?“ Hľadá odpoveď okolo seba, nad sebou — všetko hluché,   tiché. Iba z ,buška“ (hôrky), ktorý sa rozkladá na blízkej stráni,   dolieha sladký tlkot slávika. Divne sa dotkýna srdca Petrovho — sťa   by ho chcel naladiť k piesni víťaznej... Celú noc nezažmúril oka.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    V utorok pod večer vybral sa Petar ,u goru‘ — tak volajú vinice,   pasienky i priestranstvá, porastené chrasťou. Kmeti, či težaci, majú   pasienky od svojich gospodarov. Y nich sa prechová divina   (statok) i cez zimu. Veľmi je málo tých, ktorí nasušia mazgám   ,trávy“, alebo môžu si kúpiť z Prímoria sena, alebo kukuričnej slamy.   Konečne mazgám vždy sa nájde paša. Ani kozy a ovce nemajú biedy.   Bušak sa zelenie celú zimu — lístie z myrty a čestmíny je paša   znamenitá. Po obyčaji ide na pašu. Vysadol na Sokola len tak na holo   a hybaj ako vo vetre hore dedinou. Vyše dediny odrazí sa s cesty na   chodník, široký i dobre vychodený, ktorý vedie popod bralo, porastené   šalviou, rozmajrínom, myrtou, do tichého údolia. Úboče sú pilne   obrobené ,težačkou“ rukou
+   </tei:p>
+   <tei:p>
+    ﻿17
+   </tei:p>
+   <tei:p>
+    — rozprestierajú sa tu znamenité vinice a háje olivové a figové.   Len spodok doliny je zanesený balvanmi a štrkom — to urobily povodne,   veľmi časté v týchto holých vrchoch. Chodník z doliny vinie sa   briežkom ,na glavicu (vŕštek), na ktorej ako by stála nejaká   zrúcanina starého zámku.
+   </tei:p>
+   <tei:p>
+    A ono nie je to zrúcanina. Nájdeš tu jamu do kameňa vyrúbanú,   obohnatú vysokým múrom. To je obecná ,lokva‘ (nádržka na vodu). Nad   lokvou je priestraný dvorec, ktorým steká dažďová voda a preciedza sa   štrkom do lokvy. Nuž voda táto nie je ideálne čistá, ani studená,   najmä v letnom úpeku. Ale na umývanie a varenie zbaví a i statok sa   jej vďačne napije.
+   </tei:p>
+   <tei:p>
+    Okolo nej je veselý ruch. Najmä ráno a večer dochodia sem ženské z   celej dediny. Dievky a nevesty kráčajú sťa procesiou chodníkom, každá   čbar na hlave. I tie, čo sa vracajú s plným, nepridŕžajú čbara na   hlave. Ten sa drží sám vo vážke na podloženom venci plátenom. Dievka   si podoprie boky i kráča ľahko a voľne, sťa by ju voda zo čbara; ani   nesmela očľapnúť.
+   </tei:p>
+   <tei:p>
+    I teraz našiel Petar asi osem dievok na lokve. Spievajú svoju   dumnú pieseň, zaťahujúc poslednú sloku, až sa žiaľno odráža od brál a   zalieha kdesi so stonom v borovej hore. Sotva sa zjavil, vpadol zaraz   do nóty svojím mohutným barytónom medzi dievčenský soprán a alt.   Mazgy doviedol ,za oglavu“ (uzdu) k žľabu, z kameňa vykresanému.
+   </tei:p>
+   <tei:p>
+    „Ah, ,galioti‘ (galgani)!“ zvolal žartovne, „vodu vypili, ale   ,nakalať (naťahať), ani jeden nenakalal. Ktorá mi požičia ,sic‘   (vedro)?“
+   </tei:p>
+   <tei:p>
+    Také sice (vedrá) boly dva, z plechu. Na železnom obluku   priviazaná vôdzka. Anica Šimicina podala mu zaraz svoj — i pod   chvíľou bolo vody v žľabe nadostač. Martin Kukučín : Sobrané spisy   XIV. 2
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    „A kde ideš, Petre?“ spýta sa Anica, preložiac ramená ako váľky   cez prse. „U goru, Anica moja.“ „Nebojíš sa, že ťa niečo   odnesie?“
+   </tei:p>
+   <tei:p>
+    „Veru — víla by sa mohla ulakomiť na také dieťatko“, zamiešala sa   Katica ,izpod crikve“, ktorá tiež došla po vodu. Celá oživla, keď sa   on zjavil. Strieľa za ním svojimi sivými očami zpod červenej šatky.   Ale Petar jej ani nebadá. Naťahujúc sa nad vodu, zazrel Ondriéovu   Milku a pri nej Jovu Zubiéovu ... Hneď sa odhodlal k činu.
+   </tei:p>
+   <tei:p>
+    „Ktorá ešte nenakalala?“ zvolal hlasom veselým, ale predsa sa mu   zatriasol. „Nech dá, nakalám ja ...“ „Ani ja!“ ponúkla sa Katica   izpod crikve, pozrúc víťazne na kamarátky. „Teda sem daj!“
+   </tei:p>
+   <tei:p>
+    Ťahá vodu, ale nehovorí. Čo sa raz nahne nad ňu, zazrie Jovu.   Stojí opretá o múr, na ktorý postavila čbar. A ak je prázdny, i ona   príde k nemu. Preto sa im tak ochotne ponúkol...
+   </tei:p>
+   <tei:p>
+    A skutočne prišla i Jova — ostatná. Druhé sa postavily zaňho, ona   samotná stojí pred ním. Čo jedno vedro naleje do čbara, to hlbšie sa   vnorí do jej čiernych očú, čiernych ako noc, tajomných ako   priepasť... Jova s tým istým podivením prijala prvý pohľad, ako v   nedeľu. Druhý nevydržala: sklopila oči, zarumenila sa. Petar horí   plameňom — a keď vlial ostatné vedro do čbara, vrúcne jej pozrel do   tvári ...
+   </tei:p>
+   <tei:p>
+    „Ďakujem ti pekne“, riekla akosi prestrašená, pozrúc na chvíľku   placho do jeho tvári. „A teraz vám, dievčatá, povykladám čbarv“,   ponúkol sa rozjarene. I jedna za druhou ide na chodník s plným čbarom   na hlave.
+   </tei:p>
+   <tei:p>
+    ﻿19
+   </tei:p>
+   <tei:p>
+    „Aký je dobrý tento Petar. Čo ho len zašlo!“ žartuje Anica.   „Zdvorilý je až velmi“, chváli ho druhá. „Došla naň taká chvíľa“,   ozvala sa Katica zponiže kostola. „On sa vie i zamračiť, až ťa v   kostiach mráz prejde.“ „Ale čo ma ohováraš, Katica?“ bráni sa on. „Ja   som ako jahňa ...“ Dievky jedna za druhou miznú za hŕbou štrku, popri   ktorej sa vinie chodník do dedinky. Jovu nechal naostatok ... „No,   Jova, kde si?“ volá Milka od hŕby štrku, obracajúc sa celým driekom,   pomaly, i so čbarom. „Idem, dušo, zaraz“, odpovedá Jova, kladúc   plátený koláč na vrch hlavy, aby bolo na čo postaviť čbar. Na Petra   pozerá v akomsi udivení, ako by sa pýtala, čo to všetko znamená.   „Jova“, ozval sa on hlasom tichým. I proti premáhaniu zatriasol sa mu   a vyznel tak cudzo, že sám sa zarazil nad ním. „Mám ti čosi povedať.   Dôležité...“
+   </tei:p>
+   <tei:p>
+    „Teda ,sa slúž‘, keď ti je taká vôľa!“ „Musíme byť sami“, riekol   hlasom sladkým. Jej oči sa pozdvihly k nemu, ale hneď sa odrazily a   zablúdily do okolia. Tu po sivých bralách, tu po tmavej zeleni viníc.   Do tvári, zjemnelej v meste a chládku, vliala sa krv mohutným   prívalom. „Veď sme sami“, hlesla — a tiež hlasom tichým, zvlneným.   Zaťala zuby — hnevá ju, že sa toľme bojí. „Nemáme čo zatajovať, ja   myslím“, dodáva pevnejšie, „aspoň môže to každý počuť.“ „To potrvá   dlhšie, aspoň štvrť hodiny, kým skončíme. Mám sa s tebou dohovoriť o   vážnej veci. Tu sa to nemôže. Kde by sme sa sišli?“ spýta sa hlasom   celkom pevným. „Ja sama neviem.“
+   </tei:p>
+   <tei:p>
+    a*
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    „Jova, príď zajtra o tomto čase k starej vápeniek Ale sama.   Prídeš?“ „A veď je to miesto ...“ zajakla sa a dodala o chvíľu: „ta   nikto nechodí!“
+   </tei:p>
+   <tei:p>
+    „Vari sa bojíš! Ja — ja ... mňa sa neboj, Jova. Príď smelo.“
+   </tei:p>
+   <tei:p>
+    „Neviem.“ „Prečo bys’ nevedela — ak ozaj chceš! Ak mi veríš, príď.   Teda?“
+   </tei:p>
+   <tei:p>
+    Pozrel na ňu až pokorne. Ona ho premerala zrakom najprv plachým,   ako by chcela odvážiť jeho reči, či zodpovedajú skutočnosti. I vidno,   že sa ustálila rozhodne na čomsi.
+   </tei:p>
+   <tei:p>
+    „Uvidím“, odpovedá tvrdo. „A teraz už daj — musím skoro ...“   „Jova, rana srdca môjho!“ šepol jej nad hlavou náruživo, keď vykladal   na ňu čbar. „Vidíš, že ťa ľúbim — príď, neobanuješ...“
+   </tei:p>
+   <tei:p>
+    Stisla ústa a, sklopiac oči, zahorela živým ohňom. Kráča ľahkým   krokom dolu chodníkom. Petar pozerá za ňou i odprevádza ku hŕbe   štrku. Obdivuje čarovnú ihru štíhleho drieka, ktorý sa i pod ťarchou   nesie rovno, ako svieca.
+   </tei:p>
+   <tei:p>
+    „Ja som sa vyzradil — ak ona nepríde! Dohoní družky — vyzradí im   ... Aký smiech po dedine!“
+   </tei:p>
+   <tei:p>
+    Bolo mu ťažko, že sa vydal bezbranný do jej rúk. Čo teraz ona? Ak   zneužije svoju moc?
+   </tei:p>
+   <tei:p>
+    „A čo si tam robila tak dlho?“ počuje Petar Milkin hlas za hŕbou   štrku. Nebodaj ju čakala, že spolu pôjdu domov. Petar so zatajeným   dychom čaká odpoveď. „Ale, roz... rozviazala sa mi šatka“, žaluje sa   Jova, snažiac sa vložiť do hlasu i výraz rozhorčenia nad šatkou. „A   kým som našla konce...“
+   </tei:p>
+   <tei:p>
+    ﻿21
+   </tei:p>
+   <tei:p>
+    „A vari ti je zima!“ usmiala sa Milka. „Ale vy, meštianky, ste   rozmaznané!“ „Nie preto, ale muka mi bolo s holou hlavou ...“ Petar   vydýchol. Sťa by bol vyvedený z temnice na svetlo božie! „Nezradila —   nezradila ani Milke!“ jasá, temer sa dusiac v radosti. „Ona príde, už   vidím príde ...“ Vysadol na Sokola a pustil sa hore stráňou. Jova   sišla do doliny. Čosi ju núti obzrieť sa k lokve, kde sa odohral taký   podivný výstup. Pri lokve nevidno nikoho. Na západe sa rozlialy zore,   do krvava zapálené. V ich žiari vidí po hrebeni vrcha štíhleho jazdca   na Sokole v plnom cvale. Na chrbte nadúva sa mu biela košeľa a   povievajú za ním strapce červeného pása. Od cesty, kam už ostatné   dievčatá došlý, ohláša sa dumná pieseň. So srdcom mocne rozbúreným   vracia sa do tichej dediny . .. Petar zaputnal mazgy a vošiel do   vinohradu. V ňom je vymurovaná koliba. Krovom pomedzi tľapky vidí sa   nebo, zapálené večernou žiarou. Zdá sa mu tak blízko, len rukou   siahnuť za ním. Ale jemu otvorilo sa nebo iné, pozrel doň — je tiež   slávne, jagavé, A tak blízko! Či ozaj prekročí jeho prahom?...   Vyvalený v suchej voňavej tráve oddal sa cele svojmu sneniu.
+   </tei:p>
+   <tei:p>
+    Zašiel ho konečne chlad a, otvoriac oči, vidí pred kolibou   rozliate svetlo mesiaca. Ide pred kučicu a obzerá sa v tichej noci.   Čuť iba ševel trávy, ktorú depčia a trhajú mazgy, a neúnavné vŕzganie   svrčkov. Nebo je čisté, sťa by ho bol umyl — po ňom pláva majestátny   mesiac temer v úplnom spinku. Pri skvelej králici neba iba sliepňajú   milióny hviezd, sťa jej komonstvo. Iba od východu sú nie zaclonené;   honosia sa v celej svojej kráse. Na
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    horizonte živo odrážajú sa tmaví velikáni prímorskej Planiny. Zdá   sa, že sa pošinuly bližšie k moru. Azda sa prikradly nazrieť sa do   hladiny mora — je čistá, hladká i jagá sa pod mesiacom sťa obrovské   zrkadlo.
+   </tei:p>
+   <tei:p>
+    Rozložil ohňa na dvorku pod starú čestmínu. To je stále ohnisko,   tu je hŕba popola. Nakládol triesok a prestrel sa na kamennú lavicu.   Hľadí do ohňa, poťahujúc vonný dym pašovaného ,duhana‘. Vinice   oddychujú ticho. Nahromadené kopy kamenia v nich a ,gomily‘ (múry ako   hroble) okolo nich dvíhajú sa ani dvory, a vo dvoroch staré mohyly   odpočívajúcich hrdinov. Južná noc prikrýva ho svojím nádherným   kúzlom. A jemu nikto neodolá. Neodolal ani on — hoc v jeho duši je   skvelý deň — a králičou toho dňa je jeho ,sunce‘, ktoré dnes tak   vysoko vystúpilo na horizont, osvietilo ho i zohrialo, azda na celý   život... Druhý deň na poludnie vybral sa zas do poľa. Je ,vela   nedeľa, nepracuje sa síce — ale čas jednako lepšie sa míňa tam   hore, než tu dolu. Samota nevyrušuje, dáva pokoja. Ona je najlepší   druh toho nepokoja, tých túžob, ktoré zkrsly razom i úpia v zajatí.   Tam sa môžu skryť oči, uprené kamsi ,za brda (za vrchy), alebo   blúdiace sem a ta bez cieľa. Tam nikoho nezarazia jeho trhané, silené   odpovede. Nikoho neprekvapí veľká premena, ktorá sa s ním stala. I   keď sa vracal popoludní k starej vápenici, vyhol schodným chodníčkom.   Vzal pole krížom po neschodných prtiach: aspoň nikoho nestretne, kto   by mohol uhádnuť, kam cieli. Stará vápenica — a vápenice tam nieto,   ani nikto nepamätá, že by tam kedy bola bývala. Je to kotlina, od   severu zahradená braliskom. V jeho závozoch a puklinách vidíš škvrny   čiernej zeme, sťa biela hlina s čiernymi záplatami. V nej sa   prichy-
+   </tei:p>
+   <tei:p>
+    ﻿23
+   </tei:p>
+   <tei:p>
+    táva šalvia, šparga, alebo krík myrty kýva sa vetrom, alebo i   prostá borievka. Miestami visia so skalnej steny ťažké balvany. Až   čudo, ako sa to tam drží prilepené a nezduní do priepasti.
+   </tei:p>
+   <tei:p>
+    Zato druhá strana kotliny, chránená od ,bory‘, ktorá by prsť   poodnášala — je krásna, zelená, úrodná. Rozprestierajú sa po nej   vinice s figami a olivami; miestami sú mohutné mandľovníky a nízke   jablone granátové.
+   </tei:p>
+   <tei:p>
+    Srdce sa mu rozbúchalo v tejto samote. Obchod! ho akási sladostná   úzkosť. Nevie sám, pred čím sa trasie — ale isté je, že ho uchvátila   triaška. Sadol na kameň pod starým borom a kladie rozpálenú hlavu do   dlaní. Nikdy sa nenazdal, že príde sem a po takej práci. V jeho   tichom živote takýto nesmierny prievrat! Dávno bezpečný, že ho toto   nikdy nemôže zájsť! I keď mu nadhodili v žarte, usmial sa s   útrpnosťou a pomyslel: ,bedaď (hlupáci)! S útrpnosťou, že veria v   také báje...
+   </tei:p>
+   <tei:p>
+    Nepocítil ani čarovnej moci prírody nikdy tak určite, ako teraz.   Jej mohutná reč preniká mu celou hĺbkou srdca. Ona mierni sladkú jeho   muku, matersky ho sprevádza labyrintom citov. Vnáša svätý mier do   duše ...
+   </tei:p>
+   <tei:p>
+    Nevie sám, koľko tu čakal s tvárou v dlani. Z dúm ho vyrušily   kroky. Každý ako by ho udieral mocne do pŕs. Vstal a rezkým krokom   odišiel ku vchodu kotliny. Zpoza skalnej steny, záhybom chodníka,   vynorila sa postava Jovy z hory čestmínovej. Zdá sa mu, že rovno zo   zeme vyrástla, vyčarená horúcou túžbou. A či skôr spadla s neba —   najskvostnejšia koruna! Akási jasnosť vyžiaruje z nej a vlieva sa mu   do duše. Tu sa mu už vidí, že mu nič nechýba. On je spokojný — len   zaďakovať Bohu...
+   </tei:p>
+   <tei:p>
+    Jova stojí pred ním bojazlivo. Prišla v dôvere
+   </tei:p>
+   <tei:p>
+    ﻿24
+   </tei:p>
+   <tei:p>
+    •— azda srdce rozkázalo. Stojí ostýchavo, zmätená; ale nebadať, že   by bola obanovala. „Či pôjdeme tamto? Pod bor?“ spýta sa i on   ostýchavo. Práve že sú sami, to mu kladie ešte ťažšie okovy. Pozrela   do kotliny, osamelej, tichej, kde ako by driemal ohromný bor s   rozloženými haluzami. Nikde človeka. Iba z čestmínovej hory čuť vábny   tlkot slávika, a kdesi z diaľky clivé zakukanie opustenej kukučky .   .. Jej sa zdá, že nesmie, nesmie vkročiť do tej kotliny. Samota,   opustenosť privalila ju olovenou ťarchou. Pozrela okom ustrašeným   naňho — na pozvanie ktorého sa sem opovážila. Zaujal ju veľký   nepokoj; najradšej by utiekla kamsi. „Poďme chodníkom tuto, ak sa ti   páči“, odpovedá pevne, rozhodne. Chodník sa vinie chvíľku čestmínovou   hôrkou, príde na kopec, s ktorého vidno dedinu.
+   </tei:p>
+   <tei:p>
+    „Dobre, ako rozkážeš“, pristáva Petar trochu zarazený. „Hoci som   ti povedal včera — ale dobre, ako sa ti páči...“ „Ta i tak nemôžem   dlho vystať. Keby toto zvedeli! Vieš, aký je svet.“ Kráčajú voľne   briežkom, už sú v hore, a Petrovi sa všetko splietlo. Nasnoval toho   dosť minulej noci — a tu zadrhla sa osnova, práve pod jej očami:   nemožno vynájsť prvý koniec. Láska ho ohromila; musel zpod nej   vydobývať, sťa zpod ťažkej lavíny. „Jova moja, ja sa ťa chcem čosi   spýtať. ..“ Začal, ale hneď i zamíkol. Vzdychlo sa mu. Cele ináč si   on to všetko pripravoval!
+   </tei:p>
+   <tei:p>
+    „Môžeš svobodno.“
+   </tei:p>
+   <tei:p>
+    „Či. si ty kedv .. . Nie — do toho ma nič, čo bolo. Ty mi povedz,   ale na tvrdú vieru, či ty mňa .ľúbil“ ••  ‘x.  ”
+   </tei:p>
+   <tei:p>
+    ﻿25
+   </tei:p>
+   <tei:p>
+    Rozbúchalo sa mu srdce. Ale mu i odľahlo. Vyriekol vlastne odrazu,   čo chcel nechať na samý ostatok.
+   </tei:p>
+   <tei:p>
+    Jova ide popri ňom so sklonenou hlavou. Neodpovedá, iba čo sa jej   hruď mohutne vlní. „Teda neodpovieš?“ riekol smutne, ale akosi   spokojne. „Ja neviem“, odpovedá ona. „Tak naponáhle!“
+   </tei:p>
+   <tei:p>
+    „Naponáhle! A mne sa činí, že minulý roky a roky, čo ťa ľúbim ...   Len od včerajška do dneška — koľká noc! Celá mladosť netrvala toľko,   koľko ona jediná. A naponáhle, tebe!“
+   </tei:p>
+   <tei:p>
+    „To sa nemôže vedieť odrazu!“ bráni sa ona.
+   </tei:p>
+   <tei:p>
+    „Ani nemôže to prísť tak razom. A ešte tvrdá viera. ..“
+   </tei:p>
+   <tei:p>
+    Petar pokrútil hlavou. „Tak ty to nevieš, duša! Ja som ťa videl   raz, keď si vchodila do kostola — a už som vedel všetko, čo dnes. ..   Ani vlas menej! Vedel som, že si ty prvá i ostatná. Okrem teba že   nemôžem ani jednu ľúbiť.“ Hovoril to pokojne, ale hlasom rozvlneným.   Slová sa mu ronily zo srdca a mocne ju dojaly. „Vari tomu treba učiť!   Nikto tomu neučil. Boh nám to dáva do srdca. Nech sa ohlási, keď mu   príde čas. Vo mne sa ohlásilo v nedeľu. A ty?“ Zastal a zahľadel sa   na ňu. Stojí pri ňom, pri samom... Popadla ho divá žiadosť schytiť   toto stvorenie, krásne a splašené, pritisnúť ho k srdcu a zadusiť   odpor vrelými bozkami. „Čo — necítiš ty premeny?“ dolieha, ovinujúc   rameno okolo nej. „Nezabúchalo ti srdce mocnejšie? Pozri, duša, aspoň   raz mi pozri do očú, vidím, čo je to v nich...“ Podchytil jej   zodvihol tvár, poliatu rumencom. Jej krása ho oslepila. Ale čo z tohq   je nemá, nehovorí... | ~  l\ Has Vuili .
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    Pohly sa vĺčka i obrátilo sa k nemu veľké oko, podliate slzami.   Dôverne i oddane. Ako sa privesilo k jeho tvári, tak i nepohnute   stojí. Ale zato nie je nemé. Hovorí, vysvetľuje, odkrýva nepoznaté   taje ... Čo to za poklad sa mu odkrýva odrazu!
+   </tei:p>
+   <tei:p>
+    A v sladkej oddanosti sama skláňa hlavu na jeho prsia a z očú sa   vyvalily dve mohutné slzy. Už sa nemôže zdržať urobiť, čo prvej   chcel. Obsypal tvár vrúcimi bozkami. Prijala ich bez spierania.   Čestmíny zašumely hustými korunami — slávik spieva svoju jasavú   pieseň . . . Do vŕšku už neprehovorili ani slova. Petar nemá čo   vyzvedať — nenalieha. Vie, čo chcel zvedieť. Šťastie obrátilo k nemu   svoju tvár. To je už nie túžba, sen — to je nečakaná skutočnosť. A   skutočnosť slávna.
+   </tei:p>
+   <tei:p>
+    Na vŕšku zastali. Slnce, klesajúce za Planinu, veľké sťa lopár,   posiela im pozdrav, veselý a usmievavý, oblejúc ich zlatou žiarou.   Ich tiene sťa obri zaľahly na doline, ktorá sa úži do mora. Dedina s   bielymi krovami a s vežou, s ktorej počuť zvonenie, ako by sa bola   tiež pustila k moru: ale ododpočíva na ťažkej púti, opretá o stráň a   ohrievaná mladým, jarným slncom. „Po sviatkoch musím odísť“, vraví   Jova hlasom celkom svojským. „Tu každá pozerá na mňa tak čudne, ako   na cudziu. Možno, ma i nemôžu vystáť. Hneď prvý deň mi prišlo clivo   za mojimi hospodármi. Teraz mi je už nie“, usmievavo doložila ešte.   „Už by tam ani neprivykla. Čo si ty vykonal! Aké je to čudné!“ „Ty už   nikde nepôjdeš!“ hovorí on určite. „Alebo i ja by šiel. . . Teraz si   ty moja, a nech sa kto opováži... Ó, neboj, nie si cudzia . ..“   Rozišli sa na vŕšku. Podali si ruky, pozreli jeden na druhého, kývli   hlavou ako na usrozume-
+   </tei:p>
+   <tei:p>
+    ﻿27
+   </tei:p>
+   <tei:p>
+    nie a pobral sa každý svojou stranou. Ona do dediny, Petar do   poľa, na svobodu.
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    Náš Petar ocítil sa teda jedným razom na novom rozhraní života. A   nazval ho hneď svojím menom — ,matrimonij‘ (manželstvo). Rozhodol sa   hneď, že sa ide ženiť. To je jediný spôsob, na ktorý chce k sebe   pripútať Jovu. Celý nastávajúci život stojí mu pred očami, jasne i   určite. Budú nažívať ticho a pokojne, v láske i bázni božej. Jova   bude znamenitá ,kuénica‘ (gazdiná), on zas pričiní sa v poli, ostatok   nech požehná Boh, ktorý pečuje o vtáctvo nebeské. Vychovajú deti i   nerozlúči ich iba smrť, ktorá prenesie jedného alebo druhého na ,kapo   santo‘, kde i tak spočinú kedysi a zas len v spoločnom hrobe. Ani   smrť teda nebude ich môcť navždy odlúčiť.
+   </tei:p>
+   <tei:p>
+    Takto si rozkladá idúcky od Jovy. Keď prišiel domov, matka   predložila večeru. Ale Petar sa jej nedotkol. A nie od radosti...   Obzerá chalupu — vidí ju zapratanú celú tým všakovým náradím. Kŕdeľ   nedorastených bratov okolo misy. „Kam to vovediem Jovu?“ spytuje sa   sám seba. Sem veru nie. Veď dosiaľ sa ledva pracú do domu.
+   </tei:p>
+   <tei:p>
+    Preváľal sa celú noc v posteli, nezažmúriac oka. Kým ostatní   oddychovali pokojne, on rozmýšľa: čo teraz? Dievča zadal — kam ho   vovedie? Všakové spôsoby prichádzajú mu na um. Ale kam sa podieť?   Nerozhoduje len za seba, ale i za druhú osobu, a drahú! Čo tá povie?   Nad samou zorou preletel mu sen cez oči. Vstal trochu pokojnejší. Len   čo sa obriadil, sobral sa k Lovrovi Mašičovi, ktorý býva v treťom   dvore v skalnatej strmine.
+   </tei:p>
+   <tei:p>
+    ﻿28
+   </tei:p>
+   <tei:p>
+    Dom Lovrov je vysoký, poschodový. Pod ním pivnica i cisterna. Nad   pivnicou tri izby, nad cisternou ,teraca‘. Kuchyňa a izby pre čeľaď   sú pod krovom. Dvorec je neveľký — ale div je, kde sa tu vzal v tejto   strmine. Obohnatý je masívnou kamennou ohradou, sťa šiancom — za ňou   zeje hlboká priepasť a na jej dne vinice a záhrady, vysadené najviac   ,zeljem‘ a cibuľou. Okrem Lovrovej ,palače‘ nachodí sa vo dvore ešte   jeden domec, vystavený ,na težačku, t. j. v težackom štýle.   Prednosť má veľkú v tom, že kuchyňa je osobitne, oddelená od   ,kamary‘, veľká, tak že sa môže v nej pohodlne variť i popratať   všetko kuchynské náradie. Izba je priestraná, na oblokoch sú nielen   ,škure‘ (okenice), ale i sklá, a nadovšetko: kamara je dláždená   pravými doskami, ktoré vlastný ,trabakul‘ (plachtová loď) Lovrov bol   dotiahol z Bánoviny, vlastne z Rjeky. Dvere sú síce proti ,jugu‘ —   zkadiaľ duje prudký vietor dažďonosný, ale sú priliehavé, dôkladné.   Na túto chalupu, vlastne už dom, padlo Petrovo oko, keď sa prevaľoval   bezo sna na posteli. Chalupa je prázdna, hotová, len ju zaujať.   Dvorec je čistý, bez súsedstva zlého i dobrého, oddelený, pokojný.   Lovre nemá detí, býva so sestrou, nevľúdnou starou dievkou asi   päťdesiatročnou. Môže sa v nej usedlačiť, kedy chce; iba dve prekážky   ho budú hatiť. Musí sa odlúčiť od rodičov, bratov a sestár a musí   premeniť hospodára: nebude težakom šora Mata Ivinho, ale u Lovra   Mašica.
+   </tei:p>
+   <tei:p>
+    Lovre sedí vo svojom trojnohom kresle, cele drevenom, ,ako   beg I na sedlisku má podložený vankúš, aby bolo mäkšie. Ovaľuje   sa chrbtom do oblúkovitého operadla, krášleného vyrezávaním, ako to   znajú majstri ,vlašskí (prímorskí zpoza vrchov). Pije ,kafu‘ —•   dnes už tretiu — z malej šáločky. Poťahuje z luly na dlhej, čibukovej   čú-
+   </tei:p>
+   <tei:p>
+    ﻿29
+   </tei:p>
+   <tei:p>
+    tore. „Ja si môžem zapáliť na dlhú lulu“, honosieva sa pred   sestrou, „ja som človek, ktorý sa nemusím ,gubiť“ (trápiť) težackou   robotou ...“ A má pravdu. Vyšvihol sa vytrvalou prácou na suchu a   najmä šťastnými plavbami na svojich lodiach na stupeň blahobytu, že   si zabezpečil bezstarostnú starobu. „A o iné sa nestarám, to mi je   ,deveta“ (fuk)... To ,deveta“ má byť brat Zekeo, ktorý sa ženil dva   razy a oba razy ,nevoljno“ (nevýhodne), a teraz bedári s kŕdľom detí,   ako ktorýkoľvek težak.
+   </tei:p>
+   <tei:p>
+    Petar vošiel s veľkým odhodlaním a s veľkým strachom. Lovrovi   zalupkaly vĺčka láskavo. „Vítaj, Petre môj, sadni. A kde sedáš,   blázon“, rozčúlil sa, keď Petar chcel sadnúť na nízky stolček k   dverám. „Sadni na stoličku, ako človek — jest ich, chvalabohu! — a   stolček si podlož, ak chceš, pod nohy, a tuto bližšie, k stolu ... A   či si pil kafu — ha? Nezapáliš — čo?“ Petar sa priplichtil k stolu a   sadol na kraj stoličky. Všetka starosť akosi mu odrazu zhustla a   prikryla mu rozum i odvahu. Zoči-voči Lovrovi, tej ,starej lisici“   (líške), pozdáva sa mu jeho úmysel náramne smelým, ba nemožným.   „Prišiel som sa, šor Lovre, čosi spýtať“, začal Petar pokorne,   priložiac mu o titul vyššie. Lovrovi vlastne ,nechodí“ ,šor“, čo   (znamená pána — už či statkára, či pána od ,kvietance“ (kvitancie),   ktorí môžu hrať pánov medzi ,nevoľnými“ težakmi. Jemu prislúcha titul   ,paron Lovre“, lebo je skutočne ,paron od broda“ (majiteľ lode). A   paronovi Lovrovi i zalichotilo Petrovo ,šor“. Zalupkal na také   „Ijustvo“ (zdvorilosť) očami i prehrebá prsty v ťažkej masívnej   reťazi zlatej, s prikutými na nej ,šovranami“ (veľkými dukátmi), aké   reťazi ,paroni od broda“ nosievajú. Odfúkol z úst veľký oblak dymu,   pričom zpod žltastých od dymu
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    fúzov ukázaly sa čierne zuby — ani z ebenového dreva — a   riekol:
+   </tei:p>
+   <tei:p>
+    „Ala, sinko, ala, da čujemo.“ „Mám sa vás spýtať, či vy, šor   Lovre, máte už svojho težaka.“ „A nemám!“ riekol náhle, primkol   kreslo o niečo bližšie k stolu. Zahľadel sa Petrovi do očú, sťa by mu   on bol ,mlada1 (frajerka). A ústa sa mu rozšírily, čierne zuby zpoza   zadymených fúzov vyskočily a paron Lovre spustil: „He-he-he!“ Petar   vážne pozerá naň. Chladne sa spýta, ako urazený: „A čo sa smejete,   šor Lovre?“ „Aha-aha!“ pokyvuje hlavou zťažka, až sa pod ňou celý   driek ohýba. „Ty by teda — ako ja vidím, nedbal sa ženiť. ..“ I smeje   sa vehementne svojím „he-he-he“ a žmurká ľavým okom. „A kto vám   povedal?“ pýta sa Petar zarazený. „I lastovica, braté, keď nájde   svojho ,druga‘, hneď začne sa obzerať, i sem i tam, kde by hniezdo,   ako by. I tebe treba hniezdo — he-hehe!“ i pokyvuje hlavou.   „Lastovičí nepríde na um ho hľadať. Lieta si svobodne: kde omrkne,   tam vloží hlavicu pod krýdlo a zaspí. Ale keď raz nájde druga — eh,   skrotne, braté, oduje sa a hybaj hľadať, hybaj...“ „A ja nehľadám   sebe“, cigáni odhodlane. „Teda inému. Á — to je iná vec...“ A Lovre   zvážnel odrazu. „Inému — á — i to môže byť“. A ako by sa bol zamyslel   nad týmto problémom. „A kto je to, ak totiž smiem vedieť?“ „Svobodno   — lenže ho nebudete znať. Nie je z nášho ,pazija‘ (okolia).“ „Hm, to   je, pravda, iné!“ zvolal šor Lovre, vidno, trochu znechutený. „A či   je súci? Poriadny, pracovitý?“
+   </tei:p>
+   <tei:p>
+    ﻿31
+   </tei:p>
+   <tei:p>
+    „Je, môžem povedať.“ „To je, synko, ťažko!“ vyriekol Lovre zpod   oblaka dymu. „Čo nevidíš, neznáš... Všeličo prichodí do ohľadu. Či je   dobrý, či oplan. Triezvy alebo korheľ. Zdravý alebo hnilý. I žena! Ba   tá je hlavná. Či je tichá, či je čistotná, či nezababre dvor, či je   nie lenivá. Koľko detí: malé či veľké, tiché — ale čerta tiché!   Vreští to ako všetci čerti, keď sa osvobodia s reťazi. . . To ti je   vec nie taká prostá! Môžem povedať, že dôležitá, veľmi dôležitá!“ I   pozdvihol výstražné prst dohora. „Nechcel by si ja obesiť deväťdesiat   i deväť tisíc čertov na hrdlo a k tomu sedem smrteľných hriechov. Ja,   že ty!“
+   </tei:p>
+   <tei:p>
+    A pozerá na Petra.
+   </tei:p>
+   <tei:p>
+    Ten sedí prikrčený ako na mukách. Strach ho obchodí na toľké   zlorečí, ktorým je Lovre zvyknutý, ako starý mornár; ale Petrovi sa   pozdáva (a v Zelený štvrtok!), že z holubieho neba rafne hrom do   ,palače‘ Lovrovej, a strávi ju oheň a síra spolu so všetkým, čo v nej   jest. I za každou takou výpoveďou prežehnáva sa potajme, aby ho Boh   nezahrúžil.
+   </tei:p>
+   <tei:p>
+    „Ja, že ty!“ opakuje Lovre a hladí naň pozorne. „To by bolo iné,   celkom iné. Teba znám. Tebe i o polnoci, svobodno! Vieš, Petre,   druže, poď ty: povedz slovo — ja som hotový. Čo budeš takto? Ožeň sa,   druže! Nemá druga do svoga druga (niet druha nad svojho druha). Ľad   musíš prelomiť kedysi. Darmo je! A s nimi — čo budeš s nimi? Čo na   starosť? Žalosť i nevôľa! Hľa, ja — neborák, lazár: a ani bieda, ani   psota! Čo keď mi umrie sestra? Áno — a rozváž teraz, čo ty? — No,   pomysli!“ Neraz počul tieto úvahy od Lovra. Najmä od tých čias, čo   stojí známa chalupa. Chce ho zverbovať: je vypočítavý, ľstviý.   Ošacoval osoh,
+   </tei:p>
+   <tei:p>
+    ﻿32
+   </tei:p>
+   <tei:p>
+    ktorý by ťahal zo súceho, robotného težaka. Veľmi ho potrebujú   jeho zanedbané vinice a zjalovené olivy, ktoré stoja, môže sa   povedať, bez úrody. Dnes sa mu Lovre zdá ako pravý priateľ. „Otec by   ti lepšie neradil“, myslí si. Jeho úvahy zdajú sa mu ako pokyn z   neba, ktorý treba slúchnuť.
+   </tei:p>
+   <tei:p>
+    „No, čo vravíš, Petre?“ A zalupkajúc, snížil hlas a pokračuje   dôverne: „Neboj sa, veď sme ,kršéani‘ (kresťania) a nie pohanil I ja   som začal z ničoho. Ak by nejaká ,potribica‘ — tu som! Či grošom, či   strovou, pripomôžem vďačne, ako pravý hospodár.. Takéto sladké   melódie hudie starý paron Lovre. Petar sedí zamyslený, v borbe tuhej,   či sa mu zdôveriť, či nie. Konečne predsa mu len zamlčal. Sľúbil mu,   že onedlho mu dovedie „svojho priateľa“, i potom sa dojednajú. Je   nevyhnutné, aby sa lepšie dohovoril s Jovou. Na Veľký piatok pred   večerom sobliekol uniformu a vyhlásil sa z čaty, do ktorej sa bol   ,upísaľ. Na mrkaní už v civili odišiel ,na funkcion do kostola.   Obrad je spojený s kázňou a trvá asi do deviatej, končiac sa   procesiou okolo dediny. Kostol je ,pun ká šipak (plný ako   granátové jablko), horúčava až vlasy dvíha. Zastal pri svätenej vode,   kde prechodí každý. Prednejším ju on podáva na prstoch, aby sa   prežehnali, keď vojdú. Tak ,kapetanu Nadovľ, pomorskému kapitánovi   totiž, i ,konžilieru šorovi Zorzovi, obecnému staršiemu. Svet sa   už len ,s mukou pretíska hustým zástupom. Prišla i Jova s   Milkou. Keď ho zazrela, vidno, zaradovala sa. Radosť jej zasvietila v   očiach a rozlieva sa po tvári živým rumencom. Chytil ju za ruku, keď   šla popri ňom, i podržal, kým sa Milka pretisla medzi ženy.
+   </tei:p>
+   <tei:p>
+    ﻿33
+   </tei:p>
+   <tei:p>
+    Kostol je síce osvetlený, ale svetlosť nemôže sa prebiť do   všetkých kútov. Hrob je osvetlený skvele, a táto svetlosť ešte väčšmi   zatemňuje kúty, lebo slepí oči. Stojac za Jovou, naklonil sa jej k   uchu a šepol: „Pred procesiou vyjď, čosi ti poviem.“ Stála ako   svieca, iba čo mu stisla ruku. Pretisla sa málo napred, ale hneď   zaviazla.
+   </tei:p>
+   <tei:p>
+    Petar je istý, že ho poslúchne: ináč by sa bola pretisla k Milke.   Vidno, že sa jej naschvál ztratila ...
+   </tei:p>
+   <tei:p>
+    Obrad skončil sa a členovia ,crkovinarstva‘ (správy fundácie   cirkevnej) delia horiace voskovice. Petar vyšiel na priestor pred   kostol. Tu stojí húf sveta, ktorý sa nespratal dnu a čaká procesiu.   Najprv sa vyronilo z dverí klbko detí a šarvancov i zaraz rozmiatlo s   tlmeným smiechom. Im je procesia nočná nesmierne zábavná! Za nimi   chlapi a ženy, ktorí stáli blízko dverí, musia poodstúpiť, aby sa   procesia mohla sriadiť a prejsť s baldachýnom. Medzi nimi je Jova.   Pátra naokolo, ale ho nemôže zazrieť. Oblaky sa rozťahovaly po nebi,   zakryjúc mesiac, je hustá tma. „Nič to“ — tešia sa — „tým bude   procesia krajšia ...“
+   </tei:p>
+   <tei:p>
+    Priblížil sa k nej a vzal ju za ruku. Ona sa obrátila a on pred   ňou sostúpil z dvorca kostolného do ulice. Domky sú tmavé, tiché —   nikto v nich, všetko odišlo do kostola. Zastal za ohradou, čakajúc,   kedy príde. O chvíľku stála pri ňom.
+   </tei:p>
+   <tei:p>
+    „Ty so mnou robíš, čo sa ti páči. A ja sluchám!“ vyčituje s   rozčúlením v hlase. Ale jemu i výčitka znie z jej úst sladko. „I   pobožnosť zameškávam pre teba . .. Keby tak zvedeli!“
+   </tei:p>
+   <tei:p>
+    „Nikto nevie, neboj sa! A keby zvedeli? Vari čo nečestného, alebo   ..
+   </tei:p>
+   <tei:p>
+    „A čo máš povedať?“ pretrhla mu reč. „Povedz skoro, ja ..
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané spisy XIV, 3
+   </tei:p>
+   <tei:p>
+    ﻿34
+   </tei:p>
+   <tei:p>
+    „Tebe je vždy tak náhlo, keď sme spolu!“ vyhadzuje jej na oči.   „Pováž, odkia! som odbehla! Oklamala takrečeno Boha. Povedz skoro,   ešte môžem procesiu zastihnúť a pripojiť sa. Takto je to — nijako.   Strestal by nás Boh!“ „Ja som sa zabudol s tebou dorozumieť“, vraví   Petar, držiac ju za ruku. „Či ma fúbiš?“ Pritiahol ju k sebe a bozkal   na ústa. Ona mu bozk vrátila. Petar posial jej tvár náruživými   bozkmi.
+   </tei:p>
+   <tei:p>
+    Odtisla ho nežne, vzdychnúc. „Nie, Petar, teraz. Taká svätá noc a   funkcia!
+   </tei:p>
+   <tei:p>
+    Hriech je ťažký, a ja včera bola na prijímaní. Ak si ma volal   preto, ja myslím . . .“ „Len mi povedz, kedy sa soberieme. To   chcem.“
+   </tei:p>
+   <tei:p>
+    „Kedy ustáliš. Ty si hospodár. Ja slúcham ...“ Vyrozprával jej, čo   vykonal u starého Lovra. Odokryl jej celú svoju biedu a chudobu.   Vypočula ho ticho a oddano riekla:
+   </tei:p>
+   <tei:p>
+    „Čo som vyslúžila, to je tvoje. Obráť, na čo vieš. Ja nepotrebujem   ničoho, ani šatstva už. A dlhov nerob. ,Dug je rďav drug‘ (dlh je zlý   priate!). Radšej utiahnuto, ale bez dlhov ...“ „Ako ty to vieš,   moja!“ rozveselil sa Petar. „Videla som takých, čo sa na dlhy   sberali. Ostareli a nestriasli sa ich. I hriech zkrsol z toho... Kým   sme mladí, budeme sa usilovať: ty v poli, ja v dome a Boh požehná   každého, kto ufá v neho.“
+   </tei:p>
+   <tei:p>
+    „Oj, ty si mne poklad! Plná truhlica zlata, a čistého“, roztúžil   sa Petar.
+   </tei:p>
+   <tei:p>
+    „A teraz sa pobozkajme na ,dobrú noc‘ a poďme“, rozhodla ona .. .   „Ty rob, ako vieš — ja som hotová. Keď bude všetko správne, sa   soberieme. Ja už do služby nejdem, iba sa odobrať
+   </tei:p>
+   <tei:p>
+    ﻿35
+   </tei:p>
+   <tei:p>
+    po sviatkoch od hospodárov a veci doniesť. Už nepotrebujeme sa   shovárať — tajných schôdzok ja nechcem. Svet by hovoril...“
+   </tei:p>
+   <tei:p>
+    Pobozkali sa úprimne na rozchodnú. Zpred kostola, kde sa rozvinuje   procesia, ohlášal sa trúchly spev. Svetlosť voskovíc vinie sa i s   vonným dymom kadidla k nebesám, mračnami zatiahnutým, a padá i na   okolité domy.
+   </tei:p>
+   <tei:p>
+    Akoby razom osvietila sa ulica, kade má sprievod prejsť. Jova   odbehla ku kostolu a pripojila sa k ženám — Petar musí obísť bočnými   ulicami, aby dostihol chlapov, ktorí išli popredku. I domky, pred   ktorými sa shovárali, osvietily sa. V oblokoch sú postavené sviece i   čaše s rozžatým olejom. Ulica, ktorou ide procesia, pláva v nádhernom   svetle. Nielen v oblokoch sú svetlá, ale i po rimsách a múroch   kamenné nádoby s petrolejom. Po okolitých briežkoch, ba i v uliciach   plápolajú slávnostné ohne, vysielajúc k nebu dym vonný, sťa obeť   príjemná . .. Niekoľko težackých chalúp na vyšnom konci, ktoré vidno   odvšadiaľ, stojí v plnom plameni. Na kamenné strechy nakládli   haluziny a zapálili. Trúchly žalm roznáša sa tichou nocou, spievaný   zástupom, kráčajúcim ,ku krížu“ za dedinou. Zástavy na domoch a   koberce vyložené z oblokov visia dumno a nehybne.
+   </tei:p>
+   <tei:p>
+    Hlboko dotknutý mocnou poéziou tohto večera pripojil sa Petar   spevákom a podchytil mocným hlasom žalm, ktorého kviľba rozlieha sa   po stráňach a zamiera tíško tamdolu kdesi, na hladine nekonečného   mora.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Petrove veci dozrely natoľko, že treba o nich uvedomiť otca. Nie   preto, že čaká vari na jeho podporu — ale zo synovskej úcty a vďaky.   Jova
+   </tei:p>
+   <tei:p>
+    3*
+   </tei:p>
+   <tei:p>
+    ﻿36
+   </tei:p>
+   <tei:p>
+    mu oddala svoje peniaze, dosť, aby zariadil dom. Trochu sa i hanbí   použiť jej peňazí, ťažko vyslúžených, ale nevidí nateraz inej   pomoci.
+   </tei:p>
+   <tei:p>
+    Celý deň zápasil so sebou, ako predniesť otcovi rozhodnutie.   Nemôže sa nijako osmeliť. Konečne si to ponechal na zpiatočnú cestu s   poľa. Mladší bratia odbehli, naháňajúc sa — a on mohol zaviesť reč na   tento predmet. „Tak si sa ty rozhodol oženiť!“ zvolal starý Ilija   živo. Vidno, potešila ho zvesť. „Čo ja na to poviem? Je, synko, i   slušné i spravedlivé dielo. Ja pristanem kedykoľvek: Boh nech   ,upraví“ i dá požehnania. Bol si mi syn dobrý, i poslušný: môžem ti   len dobré želať ...“
+   </tei:p>
+   <tei:p>
+    Posledné slová udusily sa v plači. Otec utrel slzy rukávom a   povzdychol. I Petrovi naskočily slzy do očú. Skrytá láska otcovská,   hľa, vydobyla sa na povrch, v slovách srdečných. Stala mu pred oči   chladná bezohľadnosť, s ktorou ho ide zbehnúť a oddeliť sa od   neho.
+   </tei:p>
+   <tei:p>
+    „Veď som to očakával dávno“, vraví otec pokojne a ticho. „Prišiel   čas i tomu, ako každá vec má svoj čas. Všetko je, ako má byť, a čoho   niet, môže sa opatriť. A kedy by si chcel? Do leta?“ „Okolo Turíc   ...“
+   </tei:p>
+   <tei:p>
+    „No, môže sa i okolo Turíc — prečo nie? Ja s deťmi: kde som. Ty —   kde bývaš teraz. A Ivan — no, do zimy postavíme za kuchyňou izbičku   ... Zmestíme sa.“
+   </tei:p>
+   <tei:p>
+    Hovoril to už veselo a s istotou, ako rozkladáme plány dávno   vytvorené.
+   </tei:p>
+   <tei:p>
+    „Len to je hlavná vec, ktorú si si našiel! Či je snášanlivá,   dobrá, nech nemáme v dome hriechu. Kde je v dome mnoho, hriech ľahko   zkrsne .. „Jova Zubicova“, šepol Petar, sotva dýchajúc. Otec nepozrel   naň, ani vari nie je prekva-
+   </tei:p>
+   <tei:p>
+    ﻿37
+   </tei:p>
+   <tei:p>
+    pený. Oko mu blúdi po zelenom kraji a dlho, dlho neodpovedá.   „Sirota je“, preriekol konečne otec. „Nepočuť o nej ničoho zlého .. .   Pravda, je v cudzom svete, — ale zlá povesť ďaleko chodí. Nuž v   tvojich je rukách a božích. Vyrástla v biede a nevôli — nebude pyšná.   Iba že je nie nášho stavu, težackého. Ale žena sa prilahodí, keď je z   Boha ...“ Petrovi sa vidí, že otec nie je spokojný. Hovorí o nej tak   chladno! Azda jej nedôveruje. Prečo vyslovil narážku o stave težackom   len zďaleka? „Verte mi, dobrá je a tichá ako jahňa“, riekol s ohňom a   začervenal sa. „Pýchy v nej niet ani inej veci. I šanovlivá je,   sporivá ...“ „Tým lepšie, synko, keď je taká. Tvoj zisk a sláva! Taká   žena je veľký poklad mužov! Pozri na mater! Nasýti desatoro, sám   nevieš čím ... A to láska rozhojňuje každý dar boží. Pod jej rukou   nič sa neztratí — skôr veladí sa, navidomoči rastie, ako tých päť   rybičiek na púšti...“
+   </tei:p>
+   <tei:p>
+    Petar sa pousiloval povedať otcovi, ako sa ide zariadiť.
+   </tei:p>
+   <tei:p>
+    „Verte mi, cace, ťažko mi bolo! Odlúčiť sa od otca, ako by nie!   Ale potreba je krutá. Snímem mnohú starosť s hlavy vašej a seba   postavím na istejší základ. Čo idem urobiť ja, musel by urobiť Ivan,   alebo Niko . .. Roztrhať sa musíme, či dnes, alebo do roka. Nuž   urobím to ja, kým ste mladší a máte pomoc.“
+   </tei:p>
+   <tei:p>
+    Starý odvrátil tvár od syna. „To nebolo treba — nebolo!“ ozval sa   hlasom rozochveným. „Načo odčesnúť haluz, keď je peň živý a zdravý? A   starosti? Také starosti sú chlúba každému otcovi i sláva. Nesužujú,   ale posilňujú. Pre ne najmenej!“ Zamlkol v mocnom rozochvení, Petar   kráča popri ňom s hlavou sklopenou a srdcom rozbúreným. Ľúto mu, že   otcovi pripravil
+   </tei:p>
+   <tei:p>
+    ﻿38
+   </tei:p>
+   <tei:p>
+    takú bolesť. „Tebe bude istejšie, to uznávam. Mnoho roboty ťa   čaká, ale len prvé roky, kým niečo vysadíš. Ale budeš aspoň na   svojom. A v tom ťa chválim.“
+   </tei:p>
+   <tei:p>
+    „Keby len to, nikdy by neodchodil od vás!“ zvolal vrelým hlasom.   „Bol som dosial, mohol by až do smrti. Ale, pomyslite: ako zahradiť   bratom cestu? Každý má ohľad na najstaršieho. Jeden po druhom by   museli ustupovať z domu. A takto? Ostane všetko pri starom, iba že ja   prejdem do tretieho dvora.“
+   </tei:p>
+   <tei:p>
+    „Veď v tom máš pravdu. Ja len, že je ťažko, keď... Nuž bolí trhať   zdravý úd od tela zdravého. Pravda, akože! Desať vyžije, ale pätnásť,   dvadsať . . . Nik ti nemá za zlé. Ani dom stavať na piesku. Ale bez   trhania nemožno — a to bolí...“ „A či sa my musíme roztrhnúť? Ja vám   budem synom až do smrti. Ako dosial, ba lepší. Bratom brat. A vy —   vari by ste ma odvrhli!“ „A kto ti to hovorí?“ zvolal starý bodro.   „Ty urob, čo znáš. Keď ti príde kopať, klčovať, vyrábať — tu sme.   Všetci sa oboríme do roboty. Ako by sme sa mohli opustiť?“ Tak sa   upokojoval starý a vžíval pomaly do nevyhnutnosti. S materou bolo   ešte viac roboty, kým ju presvedčil. Ale napokon i ona sa spokojila   so svojím osudom.
+   </tei:p>
+   <tei:p>
+    Tieto rozhovory bývalý tajné. Obyčajne keď deti pospaly. Ivan   teraz vodieva statok ,u goru‘ a Niko, osemnásťročný, trávieva večery   s kamarátmi. Večerom sa ozýva ich mocný spev od kostola, pekný,   dvojhlasový. Následkom toho netuší nikto, čo sa varí v Kolicovom dome   za prekvapenie. Jediný Lovre Mašic šípi čosi, čo má Petar za   lubom.
+   </tei:p>
+   <tei:p>
+    „Nech robí, čo chce“, myslí si vypočítavo, miešajúc masívnu reťaz   na hodinkách, „ja som rád,
+   </tei:p>
+   <tei:p>
+    ﻿39
+   </tei:p>
+   <tei:p>
+    že idem mať takého težaka. Pole nebude stáť bez osohu — keď môžem   mať z neho  intrádu .. .“
+   </tei:p>
+   <tei:p>
+    V takých prípravách zavítalo prvého mája. Deň, keď mládenec kladie   svojej ,dragej‘ na okienko alebo na dvere máj. Jova sa bola pred   niekoľkými dňami vrátila so súsedného ostrova. Doniesla všetky veci i   nasťahovala sa zas do domu strýca Duja Odrica, k rodici Milke. Tento   nečakaný návrat vzbudil i niečo rečí — ale tie utíchly. V poli je   náhla robota, svet je pri nej od svitu do mraku: rád je, keď sa môže   naspať, nie to klebetami sa ,gubiť‘. Petar po iné roky nestaral sa   veľmi o prvý máj. Nemal tušenia, čo má v sebe za krásu a divné kúzlo.   Trávieval i túto noc obyčajne na paši so statkom.
+   </tei:p>
+   <tei:p>
+    Dnes večer ostal vo dvorku pri vatre. Hľadí do kraja tichého,   preniknutého teplotou. Biele domy stoja ako na stráži, tmavé čestmíny   a sivé olivy dýšu tuhou vôňou. Ľahký vetrík od mora roznáša ju po   tesných dvorcoch a vháňa otvorenými oblokmi a dvermi do chyžiek.   Ozýva sa svrčok a s protivnej stráne dolieha roztúžená pieseň   slávika. V povetrí mihne netopier a po rozkvitnutej šalvii túla sa   tichým letom pávie oko. Na tmavej hladine mora zažaly sa tajomné   svetlá, sťa bludičky — rybári vábia ryby ku brehu. Chcú ich opásať   sieťami a vysypať sťa striebro do bruchatých bariek.
+   </tei:p>
+   <tei:p>
+    Starý Ilija zavzdychal, vytriasol popol z luly, podvihol sa,   prehol dva-tri razy v krížoch, zasa zastonal a vlečie sa k domu na   zatŕpnutých nohách. „Laka noc, Petre!“ zaželal synovi a zanikol v   temnote chyžky. Je samotný. Mysľou sa mu preťahujú obrazy z ďalekej i   blízkej mladosti. Všetky sú pripútané
+   </tei:p>
+   <tei:p>
+    ﻿40
+   </tei:p>
+   <tei:p>
+    k tomuto domu. V ňom tiekla mladosť — ticho, nepozorovane, i   utiekla ... A najmä jedna noc! Jej obraz mu neschodí s mysle. Noc nie   takto tichá a teplá. Divá ,južina‘ lomcuje dverami i okenicami.   Preniká špárami v krove, túla sa po izbe, prechodí všetky kúty.   Svetielko v olejovom kahanci nahýňa sa sem i ta. Niekedy zatancuje,   sťa by sa chcelo odtrhnúť od knôta a odletieť ďaleko, ďaleko. Pri   posteli sedí Ilija, statný, mocný, s rozčuchranou bradou. Pozerá   úzkostlivé na posteľ, kde leží Petar pätnásťročný, s rozpálenou   hlavou, s blyštiacimi očami. Kladie mu dlaň na horúce čelo a chladí   ho studenými obkladmi. Tak nariadil šor Mijo, doktor hen za tretím   vrchom v treťom meste. Ilija ho ,dohnal1 včera predpoludním a dnes   pred večerom vrátil sa s ustatou mazgou, ktorá doktora .honila   Predal štyri ,barilá‘ (okovy) vína i pol barila oleja, len aby synovi   sekli žilu. A teraz mu podáva každú hodinu ,žlicuc odvaru, na ktorý   odtrhol dvadsať listov s olivy a pätnásť s mandlovníka na pol   žajdlíka vody.
+   </tei:p>
+   <tei:p>
+    A malý ,bolesník‘ (chorý) hladí na jedno miesto. Otca vidí dobre,   i jeho utrápenú tvár. Nemôže pochopiť, prečo je tvár utrápená. Prečo   sa trasie ruka, keď sa mu dotkne čela. A jemu je tak slávne   odpočívať! Vidí kahanec i roztancované svetlo. Čaká, kedy sa odtrhne,   podletí pod strechu, pretiahne sa špárou a uletí ta hore, vysoko,   vysoko — kde si mesiac tak majestátne vedie a hviezdičky veselo   mihotajú. Čaká, kedy duchne tuhší vetrík, kedy odtrhne svetielko a   vynesie ho do nekonečných výšin. Potom bude tma, ticho, a večný,   večný odpočinok ... Ťažká hlava borí sa do podušky, ruky visia   ...
+   </tei:p>
+   <tei:p>
+    A tu čuje zpoza krásnych vidín, ako sa mu
+   </tei:p>
+   <tei:p>
+    ﻿41
+   </tei:p>
+   <tei:p>
+    kladie čiasi hlava na prse — a to je otcova, uslzená, smutná, a   šepoce mu naliehavé: „Petre, dieťa moje, ,jabuka moja“ Diví   sa, prečo práve tento obraz sa ustavične vracia. Jest druhých   nadostač, plných jasu i veselia i bujarej radosti. Zato sa vracia,   aby sa cítil ešte väčším dlžníkom otcovým. Má mu vrátiť to, čo sa   nikdy vrátiť nemôže. A vracia sa práve vtedy, keď on je na skoku zpod   otcovského krovu. K polnoci sa sobral do dediny. Noc ako by spala   ťažkým snom. Ide na prstoch, ale zdá sa mu, že ho počuje celý svet. V   ruke nesie kyticu kvieťa, ktorú bol ukryl v Lovrovej záhrade k   citrónom, od zimy ešte zakrytým rohožkou. Srdce mu mocne bije, akýsi   hlas mu vytýka: „Dlžník si veľký — kedy zaplatíš otcovi? Dlžník si —   načo sú ti nové sväzky, keď si zapriahnutý v starých...“ Ale on   zatlačuje tento hlas. Akási surová sila tisne ho s májom pred Jovine   dvere. Preškriabal sa ponad ,gomilu‘ do dvora a zakráda sa k dverám.   Len-len že nepadol na čosi mäkkého, vystretého na prostred dvora.   Prihol sa — prsty nahmataly človeka, zakrúteného v koberci. Svák   Jovin, starý Duje, strážil svoj dom. Obišiel prekážku, kyticu položil   na prah dverí.
+   </tei:p>
+   <tei:p>
+    Starý Duje sa pohol, keď sa vracal popri ňom. Utiahol sa za uhol   domca a načúva, či sa nepodvihne starý. Ale on sa nehýbe, iba   zavzdychal: „Oh, sveti moj Duje, moli za nas!“ a zazíval. Od dola   počuť kroky, všakovak miešané, medzi ne trúsia sa hlasy. Starému   prišlo na um, čo je dnes, i prišlo mu na um, ako on obchádzal dedinou   a čo stváral. Vzdychlo sa mu. Ej, mnoho rokov, mnoho!
+   </tei:p>
+   <tei:p>
+    „Ach, mladost — ludost (mladosť — pochabosť)!“ zavzdychal a   obrátil sa na druhý bok.
+   </tei:p>
+   <tei:p>
+    ﻿42
+   </tei:p>
+   <tei:p>
+    Petar popri gomile ťahá sa v dolinu, odkiaľ počuť hovor. Mládenci   nebodaj stoja a radia sa. Učupil sa, že medzi nimi je len gomila, a   načúva. „Teraz je na tebe, Niko ... Pozri!“ počuť akýsi hlas. „Starý   je predo dvermi. Ošinie ma.. .“ Petar rozoznal hlas bratov. Teda   bratova kompánia.
+   </tei:p>
+   <tei:p>
+    „Vari sa bojíš!“ vysmieva ho Jakov Martin. „A ja som sa nebál. A   Duje je krivý — kým sa t A V V ťť zrepeti, ty mozes ... „Ale že mi   neutečte, ak by niečo...“ Prešiel ponad múr i zakráda sa k domu.   Petar za ním. Hnevá sa, že jeho kyticu hodia niektorej inej. Niko sa   vrátil k ohrade s kyticou. Mal sa od radosti rozpučiť, že sa mu to   vydarilo. Petar ho chytil za ruku. Niko nevie, kam sa podieť, vidiac   tu Petra.
+   </tei:p>
+   <tei:p>
+    „Polož, odkiaľ si ju vzal“, vraví mu, stískajúc mu ruku. „A   neopováž sa nikomu povedať! Čo sa starieš, do čoho ťa nič?“
+   </tei:p>
+   <tei:p>
+    Niko sa vrátil k dverám a položil kyticu. Duje podvihol hlavu a   šomre: „Čo tu hľadáš, keď nieto nič. Vidíš, že tu
+   </tei:p>
+   <tei:p>
+    ležím — musel by počuť, keby čo bolo . . Niko presadil ohradu a   zvestuje priatelom: „Nebolo nič — a Duje len toľko, že ma nelapil.“   „Ach, sveti moj Duje, moli za nas!“ vzdychol zas Duje. Petar okľukami   vrátil sa domov. Vyparily sa predstavy z ďalekej mladosti. I ten   nekonečný dlh, ktorý sa nikdy nemôže vrátiť — i ten, ako by ho   nebolo.
+   </tei:p>
+   <tei:p>
+    ﻿43
+   </tei:p>
+   <tei:p>
+    Odbavily sa ,pronuncie‘ (ohlášky) a všetko ,puklo, t. j.   tajomstvo vyšlo ,na vidilo Podivenie bolo pri prvej ohláške   nesmierne. Ale najväčšmi sa divila Katica zponiže kostola, ba   zhrozila! Div nezamdlela pod ohláškou. A keď sa trochu prebrala,   prežehnala sa s ustrnutím: „U ime Oca i Siná i Dúha svetoga. Amen!“   Súsedky zbadaly, ako sa ,krsti (prežehnáva) nad Petrovým   ,matrimonijom‘. Žmurkly očami, niektoré sa i pošťuchaly lakťami. Nuž   škodoradosť! Ale zato, keď pred kostolom sa každý Petrovi   ,radoval, tisnúc mu ruku, vzmužila sa i ona a riekla:
+   </tei:p>
+   <tei:p>
+    „Ja ti se radujem.“ Slzy ju išly zadusiť. Petar zariadil v   Lovrovom dvore domec ,na svu prešu (o prekot). Z toho sa   rozliezly po dedine najpodivnejšie zvesti. Že starý Ilija nechce ich   vidieť v svojom dome.
+   </tei:p>
+   <tei:p>
+    Že bude čosi vo veci, keď sa toľme náhlia. . . Že nevie sa, čo ona   po svete stvárala ... Že Petar je ťuťmák, ktorý kupuje mačku vo   vreci.
+   </tei:p>
+   <tei:p>
+    Našli sa i horlivci, ktorí išli ,poviriť (pozrieť) do mesta, kde   Jova slúžila ... Stopovali jej minulosť. Nedoniesli domov nič — a   jednako narozsýpali zvestí plné vrecia. Vôbec každý sa protivil   tomuto ,matrimoniju‘.. .
+   </tei:p>
+   <tei:p>
+    Ilija nepočúval rečí, Petar vyhýbal každému. Usadil sa ,do   svojho Zariadil sa lepšie, než sám úfal. Ilija kúpil všetko do   kuchyne, ba i truhlu a kasňu — i širokú posteľ z pravého jedľového   dreva. Mať sa zadlžila u kumy Džuzepíny a kúpila koberce, pokrývadlá   i posteľné plachty. Sama ich sošívala, aby vyšla širina dupľovaná ...   Ivan kúpil nastávajúcej ,kuňade‘ (švagrinej) zrkadlo na stenu, i jej   zapovjednika sv. Ivana krstiteľa. Niko, nemajúc sa čím zavďačiť,   pobil sa dva razy so svo-
+   </tei:p>
+   <tei:p>
+    ﻿44
+   </tei:p>
+   <tei:p>
+    jimi kompanmi, ktorí ho naberali pre ,kuňadu z mesta
+   </tei:p>
+   <tei:p>
+    Nuž Petar bol dojatý i preniknutý vďačnosťou, že stoja domáci pri   ňom, i proti toľkým klebetám . . .
+   </tei:p>
+   <tei:p>
+    Prišiel deň sobáša.
+   </tei:p>
+   <tei:p>
+    Zazvonili druhý raz a hrnie sa sveta pred kostol. Ženy, deti,   mládenci, ba i vážni mužovia stoja pred kostolom. Tu je kapetan Nade   i konžilier šor Zorze. Všetko chce vidieť, čo tu ide byť... A videli   Petra, keď zavznel ,dozvon‘, v malej červenej čiapočke, postavenej   hrdo nad pravé ucho. Videli ,nevjesticu‘, ohovorenú, posmievanú. A je   veru švárna. Starý Tadija Godlovic, vidiac ju, zvolal:
+   </tei:p>
+   <tei:p>
+    „Aboj meni, ča je lipa, ká cvit od omendule (či je krásna — sťa   kvet mandľový)!“ Svati vošli do kostola a za nimi ,svitinac, vo   zvedavosti neohraničenej. Na otázku ,parokovu‘ (plebánovu): či ho   chce, ona odpovedá hlasom bojazlivým: „Hoču, šor, ši (chcem, pane,   áno!)!“ Na toto slovo vyhrnulo sa diváctvo. Nechce sa im čakať dnuká,   kým skončí sa omša. Radšej sa vyšantujú pred kostolom. Najmä dievky   sa chichocú, štebotajú s rukami pod zásterkou, holohlavé. Vážne   obecenstvo zostalo v kostole a pri dverách utvorili uličku miestni   žobráci a žobráčky pod vodcovstvom starého Daja, čakajúc ,karitád‘   (almužnu). Konečne vyšli ,mládenci (novomanželia), bledí,   premenení, s tvárou nadchnutou, zduševnelou. Neozývajú sa im v   ústrety výsmechy a klebety. Všetko stojí ticho a akosi skromne   opodiaľ. Iba čo detvákov hŕba sa hrnie pred svadobným sprievodom.   Majster Stipe, s harmonikou, s čiapkou na uchu, kráča popredku, nie   smerom k Odri-
+   </tei:p>
+   <tei:p>
+    ﻿45
+   </tei:p>
+   <tei:p>
+    covmu domu, ale na vyšný koniec a ztadiaľ na nižný ... Treba sa   ukázať celej dedine vo svadobnej sláve — tak žiada stará obyčaj. Až s   nižného konca sa vrátili k nevestinmu domu.
+   </tei:p>
+   <tei:p>
+    So všetkých strán počujú radostné pozdravy! Čo zmôže sobáš! Nikto   sa neopováži prezradiť najmenšie podozrenie, klebetu alebo výsmech.   Ak sa chyba stala, stala sa pred sobášom, a sobáš sotrel všetko   ...
+   </tei:p>
+   <tei:p>
+    I veľká úcta sa im preukazuje. Pred bránou kapetana Nada stojí   sama jeho pani, šora Čara, s tácňou v ruke. Na tácni ,sÍadkarije‘   (sušené figy, mandle), fľaša jemného ,prošeka‘ (sladkého vína) a   kališky. Takto traktuje celú svadobnú spoločnosť. I šora Adrina, žena   konžiliera šora Zorzola, na ten istý spôsob ,počastila‘ družinu.
+   </tei:p>
+   <tei:p>
+    Samo sebou sa rozumie, že celou dedinou, kade prešli, z každého   obloka a balkóna vyzerá množstvo ženských hláv — a tieto sypú na   družinu a ,mládencov naozajstný dážď ryže, pšenice a kde-tu —   ,pri velich domoch — i opravdové bonbony, na ktoré sa hneď   vrhajú deti a uličníci. Sliepky malý tri dni robotu, kým vysbieraly   všetku ryžu a pšenicu, rozosiatu po uliciach...
+   </tei:p>
+   <tei:p>
+    Ženy, čo o týždeň na to išly na obecnú lokvu, stretajú mladú ženu   kráčať pekným krokom pod batohom zelenej haluziny na hlave. Haluzina   prikrýva ju temer do pása —• nedalo by sa poznať, kto je tá ženská.   Ale každá sa domyslí zaraz: tri kroky za ňou ide Petar s ,maškinom‘   (čakanom) na pleci a na hlave šatka, uviazaná v tyle, ako ju   nosievajú težaci v ťažkej kopačke. „Ah — gospe moja!“ zvolala kuma   Džuzepína, a zastala. „Či to tak? Na mladú ženu naložiť nosu ,šumy‘   (hory). Ba či sa nehanbíš!?“
+   </tei:p>
+   <tei:p>
+    ﻿46
+   </tei:p>
+   <tei:p>
+    „A čo urobíte, kuma Džuzepína“, bráni sa Petar, „keď ona nástojí.   .. Náročky prišla pod Sukovac — lebo tam klčujem čosi medze — že   odniesť, čo sa vyklčovalo. Vravím i ja, že to mohly otcove mazgy. Ak   nie dnes, teda zajtra, alebo tam pozajtre...“ „A akože, čerce   (dcérka) moja!“ hreší kuma už ju. „Čo sa budeš s batohmi ,ruinávať‘.   Treba ,čuvač (chrániť) svoje pekné zdravie ...“ „Keď je   ,kapričioža‘!“ žaluje sa Petar. „Čože urobíte!“
+   </tei:p>
+   <tei:p>
+    Keď došli do dvora, shodila Jova batoh na veľkú hŕbu zelenej   haluziny. „Kto posnášal túto šumu?“ spýta sa ho ona s výčitkou: „Tiež   mazgy otcove?“ Zahrozila mu a usmiala sa: „Vidíš, ako cigániš! I   klčovať i domov snášať — a čo potom ja? Ako to dopustiť?“ „Ty si rana   srdca môjho“, odpovedá Petar s úsmevom. „I jabuka čudnovatej krásy   ...“
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1887612" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Na prielohu : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4497
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Na prielohu
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1887
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na prielohu.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿I.
+   </tei:p>
+   <tei:p>
+    „Chytro sa obhadzuj — už ste mali tam byť! Kedyže sa dovlečiete   ta? Ja neviem — nemohol si voz eštev včera večer složiť, ale takto   nahať to na amen! Čo povie svet o nás? Há? A ten lievč: akože ho   kladieš; nevidíš, že húžva popustila na ňom? A železný svoreň je kde?   Len daj ta drevený, nech sa zlomí! A húžvy však nemáš. Nepovedal som   ti už dávno: Mišo, húžvy maj vždy po ruke i tri, aby si mal čo na voz   dať, keď dajedna sa roztrhne. Čo si si hneď včera so dve neukrútil?   Veď si bol celý deň pri voloch. To si celý deň preležal nemilobohu!“   Jano Trúbclka chodil okolo voza a vykrikoval na svojho paholka.   Paholok neriekol ani slova ,a.ni pol, len priviazal lievč kusom   povraza o drabinu a babril na voze čo-to, ale nikdy neurobil to, čo   bolo treba. Tu odškraboval s kolesa blato, tu zas vyťaliúval lôniky a   zas ich zatískal. Bolo vidno, že do práce je taký, ako sekera do   plávania. Gazda bol zas nasršený, ani do troch vozov by ho nebol   sobral; lebo Trúbelkovi nebolo treba o hnev do súsedov chodiť. „Nuž   ty mi budeš takto... ty taký a taký — akože to robí, ani v   rukaviciach. Aha, ani voza nevie ako svedčí složiť.“ Celý dvor sa   ozýval hlasom Trúbelkovým. Paholok pozrel vše bokom na gazdu, a zas   chytil sa do práce, ale nešla mu nijako od ruky. Gazda prikročil k   vozu sám a začal pomáhať. „Takto treba — takto. Len sa prichytiť, a   bude.
+   </tei:p>
+   <tei:p>
+    ﻿176
+   </tei:p>
+   <tei:p>
+    Keby si sa vedel posošif, bolo by hneď; ale ty si nesporý, bolo by   ťa po smrť posielať.“ Tak to šlo u Trúbelkov so dňa na deň. Gazda   nakričal vše na paholka až do zachrípnutia, a o chvíľu bol zas dobrý.   Paholka zas nedotklo sa už mrzké slovo. Zprvu bývalo mu trochu   neveselo po každej kázni, každý deň sa sám sebe zaveral, že na   Všechsvätých sväto-sväte vystúpi zo služby, že gazdovi potom napovedá   od pľúc, čo mu slina na jazyk donesie, že mu ukáže, ako treba   zaobchodiť s čeliadkou: ale čo raz Všechsvätých prišlo, zakaždým sa   nakriatol. Raz už mal slovo na jazyku, že mu povie: „Gazda, hľadajte   si iného paholka“ — ale nemohol toho slova vypustiť. Gazda tak pekne   hľadel naňho a už so tri dni mu nedal mrzkého slova. Nuž načo by i   bol odchodil? Služieb by sa mu bolo dosť trafilo, ale — darmo je —   takých halušiek, ako u Trúbelkov, nevarili nikde, ani nevyplácali   inde tak poriadne. A ostal, kde bol. Veď sluhovi je službu opustiť   tak ťažko, ako i rodičovský dom. Privykne gazdovi i gazdinej, že o   dva, o tri roky sa mu vidí, ako by i on patril k rodine, ako by tie   voly, čo každý deň poháňa, boly jeho, ako by tú úrodu, čo na poli   narástla, bol jemu Pán Boh požehnal. Akože by opustil svoje mozole,   ako? ... Gazda tiež, hoci ho často hrešil, predsa rád videl svojho   paholka. Prirástol mu za tých osem rokov k srdcu. Pokladal ho za   člena svojej rodiny. Veď i ako by pristalo druhému paholkovi sa   tmoliť po dvore, alpbo za volmi do poľa kráčať? Ani za stôl   Trúbelkovie sadnúť a z veľkej misy s druhými jesť by inému   nepristalo, len Mišovi. Ani deti nevolaly by iného strýkom, len jeho,   dobrého, starého mládenca, Miša. Druhý by im sotva doniesol z oračky   zemských orechov, druhý by sa sotva chcel zabávať s nimi a robiť im   vozíky. Ktorý paholok by znal
+   </tei:p>
+   <tei:p>
+    ﻿177
+   </tei:p>
+   <tei:p>
+    tak každý šindol na dome, ktorý by znal každý záhončelt v   poli? Ktorý by mu vedel tak dobre pokovať kosu? Ktorý by vedel tak   trpelive vypočuť gazdovu kázeň? Pred každými Všechsvätými prichodily   gazdovi takéto otázky; i bál sa, že Miša nadíde nejaká myšlienka a   bude chcieť odísť. Pred každými Všeclisvätými sa zabožil, že už   nebude naň tak bez viny vykrikovať, že bude naň dobrý a že mu splní   všetko, čo mu len na očiach vidí. No týchto sľubov nikdy nesplnil.   Nešlo mu do hlavy, ako by mohol Mišo len tak na hlucho po dvore   chodiť. Kto vie, či by Mišo neutiekol potom zo služby zas preto, že   mu nik ničoho nepovie, ani zle, ani dobre, že sa nik oň netrápi. I   zostávalo to s roka na rok tak, pri starom obyčaji. Mišo robil svoje   i bez rozkazu, a gazda zas kričal naň, či Mišo robil a či nie . ..   Konečne bol voz. složený a gazdiná vyšla na dvor zavolať ich jesť. /   Ledva sa najedli, paholok si ani ústa dobre neutrel, už gazda sa ho   spýtal: „Ozaj, Mišo — kosa mi je už pokovaná?“ Mišo neriekol ničoho,   len schytil klobúk s postele a bral sa von. „Mišo — tá kosa!“ volal   za ním gazda. „Idem — idem, o otčenáš bude!“ „No, zasa!“ udrel gazda   päsťou o stôl. „Bodaj by ho čerti vzali i s takýma ušima — aký je   nepočúvny. Človek mu ešte včera povie: Mišo, pokuj mi kosu, ale hneď   — a on pustí jedným uchom dnu a druhým von.“ Gazda by bol ešte raz   všeličoho narozprával, ale nemal komu. Už chcel za Mišom ísť, keď do   izby vošla na šťastie gazdiná. „Čože tak zavčas rána počínaš — mohol   bys’ veru niektorý deň i pomlčať. Treba trochu hla- Martin Kukučin :   Sobrané Spisy VI. I 2
+   </tei:p>
+   <tei:p>
+    ﻿178
+   </tei:p>
+   <tei:p>
+    diét i na hentých“ — a pohodila hlavou ku vyšnému susedovi. „Var   ešte nevieš, ako sú tí radi, keď je u nás vada. Ona, viem, kým si ty   na Miša kričal, obehla so desať .susedov, že sa my vadíme, a oni že   sú tichí ako ryba, že s nami by ani jeden nevyšiel.“ Gazdu tieto   slová ženine veľmi zamrzely. „Vidíš ti ju, komu chytí stranu! Nie že   by sa postavila k mužovi, ale robí mu proti — všetko proti! Pred ňou   nedajbože vypustiť slova z úst. Ona strežie na každé slovíčko, ako   mačka na myš, a musí sa zadrapiť doň, čo bys’ ty rozprával tak   hladko, ako na hodvábe. Ach, Bože, to je potrest s takouto ženou.   Stihlo by ich byť v dome viac, i hlavu, by ti objedly!“ No gazdiná tu   už nemohla mlčať. „Povedal si mi už v našom manželstve — ach, Bože,   mohli ma rodičia radšej do vody hodiť, že za teba vydať — povedal si   mi to i to, pravdu i nepravdu: ale toto slovo si dnes prvý raz zo   svojich nešťastných úst vypustil. Ach, aká to od teba bohaprázdnosť a   aký hriech! Nie že by sa so dňa na deň poprával, ale je čo deň horší.   Čože bude s ním, keď ošedivie, keď mu vlasy vypršia, keď príde naň   dýchavica, lámka, alebo nech by Boh dopustil naň inú chorobu? Veď sa   potom pred ním nik v dome neobstojí.“ „No, stará, teraz mi už povedz   čistú pravdu: kto je väčší bohaprázdnik, ja a či ty? Ja som ti ani   dýchavice, ani lámavice ešte nespomenul. Vieš, keď ťa ten zub bolel,   ako som šiel s tebou dať ho vytrhnúť. A takto sa mi ty odsluhuješ!“   „Len sa pochváľ — oj, pochvál! Neposielal si ma s ním ku kováčovi? A   ja potom som šla k Ferovi Murárovie a zo svojho, čo som si horkoťažko   shonobila, som si zaplatila sama. Hanbiť sa
+   </tei:p>
+   <tei:p>
+    ﻿179
+   </tei:p>
+   <tei:p>
+    môžeš radšej — na môj zub si ty nedal ani len krajciaral“ „Ale čo   je toto, čo ma šibe tým jazykom I Ani v krčme som nebol, ani som   nepil, ani nič, •a ona ma takto štípe, ani osa. Povedz, čo ti chybí.   Radšej všetko opustím — len ty mi daj pokoj.“ „Mne? Ach, veru mne,   chvála Pánu Bohu, nechybí nič. Som zdravá, nuž čoho by mi bolo viac   treba? Ja len povedám, čo začínaš každé ráno s tým Mišom. To mi   chybí.“ „Veď ty začínaš. Kto spomínal lámavicu a kŕče? Ja nie.“   „Najlepšie na mňa zvaliť všetko! Ja som v kuchyni, varím, ako hodná a   poriadna žena a trápim sa. On sa vadí s paholkom — a ja začínam.“   „Pravdaže ty.“ „Ale ja?“ „Ty! Mlč!“ A Trúbelka dupol na ňu nohou a   ukázal jej kuchyňu. Gazdiná ustavične odvrávala si tam čosi, čo muž   nemohol nijako rozumieť. Keď sa jej srdcu trochu polahčilo, vyšla na   dvor. Zpod ciene ozval sa cvengot, ako keď kosu kujú. Gazdiná vošla   ta, a hľa, tam na podvalenom kláte sedí Mišo a pokúva gazdovu kosu.   „Ale veď je už dobre, netrápte sa mu s ňou toľko: nebol by hoden.“   „Ja, horký — tuto, tuto, kde teraz kujem, musí byť kosa, ako svedčí,   lebo tu najviac chytá. Ak je tu raz nie dokonale pokutá, bude sa po   tráve len šmýkať a nechytí.“ „Nech by sa mu šmýkala. A ak mu nebude   dobre pokutá, nech si ju pokuje sám. Taký dokonalý gazda, a druhý mu   musí kosy kovať. Už nech by sa chytila ja — a ja som žena — i ja by   ju vedela poklepať.“ „Ej, ba je to nie tak ľahko“ — ohlásil sa   paholok. „Ak udrete mlatčekom poza ostrie, to 12*
+   </tei:p>
+   <tei:p>
+    ﻿180
+   </tei:p>
+   <tei:p>
+    tiež nebude dobre. Človek musí mať ruku v miere a klepať just ta,   kde treba.“ „Ale keď je raz gazdom, prečo si nepokuje sám? Ja by mu   na vašom mieste just poza ostrie poklepala: aby ten vedel, s kým ako   treba zachodiť. Ale povedzte mi len, kde to chce kosiť? Veď sú už   všetky lúky skosené a voz hotový. Máme ísť k senu, a on ide ešte   kosiť. Kde? „Pod Borovinu, povedal Mišo a zobzeral sa na všetky   strany, či ho niekto nepočul. No vo dvore nebolo nikoho. Gazdiná sa   nemohla dovtípiť. „Ale veď tam lúk nemáme, čo tam má kosiť?“ „Prieloh   — prieloh. Viete, ten, čo sme ho v jar zas neobsiali.“ „Ale s tým by   sa chcel zabávať? Veď tam nebude trávy ani do výsypka. Všetko spásol   statok. Veru pre také nič škoda bolo kosu kovať.“ „Viete — ale nech   vás Pán Boh chráni zjaviť, že som vám to povedal — gazda, včera zas   sa popriečil hen s tým“ — a Mišo pohodil hlavou k vyšnému súsedovi.   „Viete — to je veľký lakomec a záškodník. Skaly všetko poshadzoval na   náš prieloh. Preto chce ísť gazda chytro pokosiť. I do brázdy mu . .   . takto A Mišo zodvihol triesku, postavil ju na ldát a zahnal sa na   ňu päsťou, ako by ju chcel do kláta vbiť. „Čo to urobil?   spytovala sa gazdiná. „Do brázdy mu takto . . .“ a zas postavil na   klát triesku — „ale majte jazyk za zubmi... lebo gazda . . . čert   nespí.“ U súseda jedna škára v sieni zvidnela. Prešlo cez ňu čosi   svetla. Ktosi musel tam prvej stáť a zrazu odísť, lebo po chvíli bolo   počuť i dvermi buchnúť. „No, hľa -J- kto začína? Kto začína? Ja —   či
+   </tei:p>
+   <tei:p>
+    ﻿181
+   </tei:p>
+   <tei:p>
+    on? Nemôže vyjsť ani so susedom, ani so mnou, ani s nikým. Kto je   ten nespratník? Z toho ešte niečo vykvitne.“ Mišo sbil kosu na   kosisko a oprel ju o stenu. Vošiel do stajne a mastil volom rohy,   zavrúc za sebou dvere, aby muchy ku statku neoletúvaly. Gazda si v   izbe dával dohán do mechúra; vo dvore bolo ticho. Iba zrazu   odchýlenými na humne vrátami vidno kohosi sa vkrádať. Je to súsed   Píšťalka. Na pleci má kosu. Skočí ku stene, vezme tam opretú kosu, a   vloží ta svoju, čo so sebou doniesol. Netrvalo ani toľko, čo   rozprávam, už bol za humny. Po chvíli bolo do voza zapriahnuté pár   volov, čeliadka pokládla naň hrable, plachty a gazdovu kosu, gazdiná   vyložila zas merindu, i pobrali sa na lúky. Voz vliekol sa pomaly   hore dedinou. Hrabáčky si zaspievaly a občania, vyberajúci sa tiež na   lúky. vidiac voz Trúbelkov, sponáhľali sa. „Chytro — chytro!   Trúbelkovci už idú.“ „Máme ešte dosť času. Nech rosa obschne.   Nebudeme seno dô rosy roztriasať.“ V} dediny zastal voz a s   neho sišiel gazda s kosou. Žena jeho, ako by nešípila ničoho, opýta   sa: „No, a na lúky nič?“ „Prídem, prídem. Idem pod Borovinu, skosím   ten prieloh. Večer sa môže tráva sobrať domov. O polpoludní prídem k   vám.“ „Var bj’ tak chytro chcel pokosiť! Veď je to kus.“ „Kus —   kus! Jest mi tu kusa! Keď sa raz chytím, za dve hodiny leží. Len aby   ste i vy urobili niečo.“ „Šťastlivé —šťastlivé!“ zvolala za ním   gazdiná. On jej nezaďakoval.
+   </tei:p>
+   <tei:p>
+    ﻿182
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Trúbelka došiel pod Borovinu. Nebol nahnevaný, ako ráno, ale   veselo kolembal kosu na pleci. Bol by si i zahvízdal. Včera si   myslel, že nedostane s prielohu ani chlpa trávy, že mu všetko   Píšťalka skosí, a hla — tráva veselo sa ukláňa pod vetrom. Pozre i na   súsedný prieloh, a ten tiež neskosený. Trúbelka bol by si podskočil   od radosti. „No, len príď zajtra a pokos si! No — a my si nakrešme   ohňa. Bez fajky ani na jarmak, ani do kosby. O dve hodiny budem na   lúkach, večer soberieme trávu, a ten — očima hodil na súsedný   prieloh — „ten zajtra vyvalí oči, keď príde na prieloh. Kosa sa mu   popraví — trošíčku.“ Trúbelka si nakresal ohňa do zapekačky, stal si   na závrate, postavil kosu k sebe, vyňal z úst fajku, podvihol klobúk   a vzdychol: „Pane Bože — pomáhajže!“ Popľul si dlane, že sa už   prichytí, a tu — kde sa vezme, tu sa vezme, súsed Píšťalka stál tiež   na úvratiach svojho prieloha. Súsed Píšťalka nezavolal Trúbelkovi ani   Pán Boh pomáhaj, ani Pán Boh vám daj šťastia! A súsed Trúbelka si   pomyslel: „Aký Pán Boh daj, taký bodaj zdrav; neprosil sa čert babe,   ani ja takej žabe; nik sa ti nebude podkladať, pšochár kadejaký.“ A s   neveselou, nahnevanou tvárou prešiel na druhé úvrate, lebo sa bál, že   ak s Píšťallcom od jedných úvrati radok zajme, ten ho urečie, alebo   že mu porobí. Súsed Píšťalka nenahneval sa preto na Trúbelkovi. Ba   keď ho videl tak na druhé úvrate zaberať, zasmial sa mu a pomyslel   si: „ILaľa — on si sníva, že som ja taký žiadostivý vidieť jeho   parsún. Choď, ak chceš, i hen do jazerného pekla a odtial si zažeň   radok. Môj prieloh preto bude pokosený.“
+   </tei:p>
+   <tei:p>
+    ﻿183
+   </tei:p>
+   <tei:p>
+    Ale sused Píšťalka neurobil tak, ako si pomyslel. Chcel Trúbelku   trochu potrápiť. Vzal kosu pod pazuchu a kráčal svojím prielohom zas   na druhé úvrate a očistovolc kde-tu zdvihol skalu a hodil na susednú   zem, ale nie na Trúbelkov prieloh. Trúbelka hľadel zpod širokej   partice svojho klobúka na Píšťalku a hundral: „Čože sa tmolí, čo sa   socia po tej zemi; čo len blúdi, ako Marek po pekle. Zas zadiera do   mňa — zas! No, len zadieraj — len. Ja sa s tebou do vady nedám — to   si z hlavy vyhoď! Ale kto sa bude smiať? Uvidíme!“ Ako súsed Píšťalka   prišiel ku Trúbelkovi na úvrate, Trúbelka sa zas pobral svojím   prielohom a prešiel ta, kde bol zprvu. Očistovok hodil skalu jednu,   dve na súsednú zem, ale nie na Píšťalkovu. Takto to bývalo od   nepamäti sveta medzi Trúbelkom a Píšťalkom. Boli si vrstovníci; v   jednom roku sa narodili, ale hneď, ako im začaly mušky ožívať — hneď   sa zapriadli do seba a až posiaľ sa rujú. Kým boli deťmi, hneď sa   strhla medzi zábavkou bitka, a Píšťalka i Trúbelka odchádzali s   načuchrenými vlasmi. Potom, keď narástli a pomaly začali i na vohľady   chodiť, vynašli si hodné dievčatá. Radi sa videli i Trúbelka so   svojou i Píšťalka so svojou. Ale Píšťalku veľmi omínalo, že Trúbelka   ide k takej hodnej žene tak ľahko prísť. I začal za Trúbelkovou   pozerať. Jemu sa ona nepáčila, on by svojej nebol za celý svet   opustil: ale on pozeral za ňou, aby potrápil Trúbelku. A dievča je   dievča — krehká nádoba! Uverilo Píšťalkovi, a Trúbelka ani nezvedel,   len keď bol zo sedla von. „Hej, počkaj, ty Píšťalka — ja ti ukážem!“   I začne sa on zas obšmietať okolo Píšťalkovej. Nebolo to naozaj, len   tak, aby svoju od Píšťalku vydobyl. Veď on by nebol dal svojej ani za   štyri volky. No Píšťalka bol čertom
+   </tei:p>
+   <tei:p>
+    ﻿184
+   </tei:p>
+   <tei:p>
+    podšitý čeladník; keď videl, čo mu Trúbeľka urobil, pomyslel si:   „A just ti neostane navrchu!“ A ako si pomyslel, tak urobil. Prišly   fašiangy, dal sa s Trúbelkovou osobášiť. Chudák Trúbelka plakal od   jedu, že mu ten nešťastný Píšťalka — bodaj by ho porantalo! — že mu   pustil takého švába do pazuchy. Ale čo mal robiť: plač, neplač — jeho   milá, premilená nemohla sa už k svojmu nešťastnému Trúbelkovi vrátiť.   I Trúbelka hneď po Veľkej noci najal si pekne-rúče hudcov a dal sa s   Píšťalkovou voľkynevoľky osobášiť. A tak oba cítili na hrdle mlynský   kameň, ale každý chválil svoju, ako by bol kto vie aký uveličený. Len   tu i tu, keď ich nikto nevidel, zaspievali si pošepky: „Hej, veď som   sa oženil, vzal som si...“ Keď takto pokupčili na ženy, nadišla ich   taká akási vôľa, že každý chcel mať to, čo u svojho protivníka videl.   Ak Píšťalka si dal pribiť na vráta novú dosku, i Trúbelka dal novú   dosku pribiť; ak si Trúbelka dal u kováča ukovať novú motyku so   svojím menom, hneď a hneď musel kováč i Píšťalkovi ukovať motyku, a   to s Trúbelkovým menom. Keď si Píšťalka dal u mlynára spraviť nové,   javorové kosisko, i Trúbelka si dal na vlas také kosisko spraviť;   ešte i P mu musel mlynár, tak ako Píšťalkovi, doňho vyrezať. Ku   Píšťalkovi prišiel pred rokom večer akýsi neznámy človek, i povie:   „Mám ja žrebca, akého chytro nenájdete? Trúbelkovi padol veľmi na   pľúca — dával mi zaň hotových šesťdesiat zlatých.“ Do Píšťalku ako by   bol hrom udrel, vyskočí a opýta sa: „A vy ste mu ho predali?“ „Viete   — ten žrebec je pcjo, ale na čele má hviezdu a všetky štyri nohy   biele: radostné-hoviadko! Ale ja som si pomyslel: čo by ja   Trúbel-
+   </tei:p>
+   <tei:p>
+    ﻿185
+   </tei:p>
+   <tei:p>
+    kovi predával — nie, pôjdem najprv do Píšťalkov a tam sa opýtam,   či si ho nekúpia po tej cene.“ Píšťalka šiel s milým človekom niže   dediny; tam bol žrebec, držal ho akýsi chlap. Píšťalkovi sa žrebec   zapáčil, i povie: „Že ste toľko človečenstva mali a žrebca nepredali   Trúbelkovi, zaplatím vám, čo ten sľúbil, i oldomáš.“ Neznámy človek   hneď priťapnul, oldomáš sa vypil a Píšťalka mal tučného, pravda,   dýchavičného žrebca na krku. Ale nezjavil to ani žene — nikomu.   Trúbelka sa trápil, sužoval, kde kúpi takého žrebca. Chodil po   jarmakoch, nikde ničí Iba raz nadarí sa mu na jarmaku akýsi človek a   volá ho, aby si šiel jeho žrebca pozrieť. Ide ta, pozre, a div sa mu   od radosti niečo nestane: žrebec ani čo by bol Píšťalkovmu z oka   vypadol. I tá hviezda je taká, i kopytá také biele. Trúbelka s   poďakovaním vyplatil zaň šesťdesiatpäť zlatých. Iba kedysi po nečase   sa dozvie, že veru Píšťalka svojho žrebca už predal, lebo že sa mu   čosi pri ňom nepozdávalo... Súsed Trúbelka dal sa na úvrate a popľul   si dlane. No nemohol sa zdržať, aby nepozrel na Píšťalku, čo robí.   Píšťalka tiež zpod klobúka pozeral na Trúbeľku a popod nos sa   šelmovsky usmieval. Trúbelka si pomyslel: „Len sa smej — veď sa ty   dosmeješ; najtiaž ti prísť k brázde — veď sa ty dosmeješ.“ Píšťalka   raz popľuje dlane, a začne sa kosou oháňať: rosná tráva len sa mu tak   pod kosou šústala. Pochlapil sa i Trúbelka, rozoženie sa, ale jeho   kosa nechytá — len zrafne lcde-tu nejaký kvietok, šmýka sa po tráve,   ako po mydle. „Bysťu dade — čože je toto? Túto kosu akosi čert   preletel: nechytá nič, len kde-tu nejaký kvietok. No, ale ten kosí —   musím i ja. I oháňa sa, chudák, až sa mu s čela pot cícerkom leje.   Zato nesťažuje
+   </tei:p>
+   <tei:p>
+    ﻿186
+   </tei:p>
+   <tei:p>
+    si, len tu i tu pozre na Píšťalku, či je ešte ďaleko od brázdy.   Trúbelka chytí oslu, a začne kosu ostriť a jnyslí si: „Hej — počkaj,   Mišo, zbojník jeden! Či to takto pokúvajú kosy? Aká je tupá — no! No,   veď ani tebe tak vždy nepôjde“ — pozrel na Píšťalku — „oj, nepôjde.   Len potichu pískaj, píšťalôčka moja, lebo... lebo... nech ma hus   pečená kopne... nebude... na moj’ hriešnu... Druzg! Píšťalkovi zostal   v ruke iba kus kosiska. Kosa. — ležala kdesi v tráve. Píšťalka sa   poškrabal za uchom a pozrel, čo ten na tých druhých úvratiach robí.   Trúbelka utieral si upotenú tvár rukávom a smial sa, až mu slzy   tiekly. „Aha — hejk hore! Kosisko ti je už tam!‘ Píšťalkovi ako by to   nešlo do hlavy, obzeral kus kosiska, čo mu zostal v ruke. Zphnul a   pohľadal skalu, čo mu kosisko zlomila. No, miesto skaly, nahmatal tam   čosi iného. Píšťalka vyťahuje to, ale nechce sa mu dať. Vezme nožík,   odlirabe zem, i vytiahne pekne ostrúhaný bukový kolok. „Aha — tu   kolky rastú — hm, hm‘, i poškrabal sa za uchom. Odlomkom kosiska, na   ktorom bola kosa, šúchal po tráve. Asi na dva kroky narazila kosa zas   na čosi pevného a zacvendžala. Píšťalka, hrabal prsty i nožíkom, a   vytiahol druhý kolok. Šúchal kosou ďalej a po celej brázde, medzi   svojou a Trúbelkovou zemou, našiel rad kolkov. No nepovyťahoval ich.   Vzal len tie dva prvé a zlomenú kosu, a šiel k Trúbelkovi na úvrate.   Neprihovoril sa mu rovno, ale ako by sám sebe povedal: „V mojej   brázde bukové kolky rastú, hm, hm. To sa ešte nikde na svete   nestalo.“ Trúbelka sa nemohol zdržať smiechu, rozchechtal sa.   Píšťalkovi sa tiež kútiky uťahovaly. Opýtal sa Trúbelku:
+   </tei:p>
+   <tei:p>
+    ﻿187
+   </tei:p>
+   <tei:p>
+    „A kedy sa to tie kolky nasádzaly do tej brázdy?“ Vidno, že mu   nechcel ani tykať, ani dvojiť. Trúbelka mu hneď odpovedal: „Keby sa   tu bolo od jari sedelo, bolo by sa vedelo; ale keď sa sem šlo len   dnes, nuž ani sa to nevie.“ „Ale sa sem šlo v noci“ — pokračoval   Píšťalka — „ostrúhaly sa kolky, a takto...“ Píšťalka ukázal päsťou,   ako ich vbíjali — „hej, veru, zasädiily sa sem do brázdy. Akiste sa   myslelo, že narastú z nich buky. A ono buky sa tak nesadia, len vŕby.   Kto chce buka mať, musí zasadiť stromček, a nie kolok.“ Trúbelka sa   mu zasmial: „V čej zemi boly, ten si ich i nasadil. V mojej neboly—ja   neviem.“ „Ale ja viem, žes’ ich ty sadil: chcel si mať z nich buky.   (No buky sa tak nesadia — to každý papľuh vie. O rozum ■— rozum! „A   čože rozum? Ja nemám rozumu? Či čo? Ja som ti ich sadil?“ „Ty — ty!   Ty si i bryndzu sial i sol, a zišla ti žihľava. Ty si to taký mudrc.   Poznať — i kosa ti tak kosí.“ „Mne? Mne dobre kosí. Čo by jej   chýbalo?“ „Pozri nazad seba, ako kosí. Veď len kde-tu strhne chlp.   Moja kosa — to už hej, je ostrá, ani žihadlo.“ „No, len si zajmi   radok, keď ti je ako žihadlo“, posmieval sa Trúbelka. No   Píšťalka hodil kosu do trávy, v ruke mu zostal len kus kosiska, ktorý   veľmi pilne obzeral. Trúbelka v nedorozumení hľadel naňho. Konečne   vyhŕklo z Píšťalku: „To je nie moja kosa, ani kosisko. To je tvoja.   “
+   </tei:p>
+   <tei:p>
+    ﻿188
+   </tei:p>
+   <tei:p>
+    Trúbelka vytreštil naň oči. „A odkedyže by to bola moja?“ „Odkedy?   Ja neviem. Ja som len teraz obzrel toto kosisko — a to je nie moje.   „Máš na ňom znak?“ „Na mojom je moje meno vyrezané, litera P. ‘ „Ved   i na mojom je P“ — ozval sa Trúbelka, obzerajúc svoju kosu, čo v ruke   držal. „Dobrým dobre, keď je i na tvojom; ale ja, keď mi povedali, že   si si dal na kosisko moje meno vyrezať, išiel som k mlynárovi, aby mi   na konci kosiska vyrezal ešte jednu hviezdičku, aby sa nám — reku —   niekedy nepomiešaly, keď sú rovné. No a na tomto zlomenom hviezdičky   nemáš. Nože pozri, či na tvojom jej niet?“ Trúbelka pozrel na koniec   svojho kosiska, a videl tam hviezdičku. Ako by mu ,bol nohy podťal —   nemohol sa pohnúť. „A — a — ako to — toto — ako prišlo ko mne? No?“   „Hm — ktože ho tam, synltu, vie! To bude porobenina. Just ako tie   kolky do tej brázdy — just tak prišlo k tebe.“ „Ale moju kosu ešte   ráno Mišo koval. Zaránky bola ešte u mňa — nuž ako prišla k tebe?“   Tých kolkov tiež včera popoludní ešte nebolo tu. Ako tie ta cez noc   prišly? Tie tiež nemajú nôh — samy neprišly; ani,rúk, samy sa   nepovbíjaly.“ Trúbelka sa zapálil, ako rak. Nechcelo sa mu povedať   pravdu a dať sa pred súsedom zahanbiť. „Nie — ja ani o kolkoch neviem   ničoho, ani o kosách — daj mi pokoj!“ „A včera kto to kresal kolky   pod cieňou a sem niesol a povbíjal do brázdy — no kto? Há?“ Trúbelku   ako by bol obuškom udrel po hlave. V očiach mu stemnelo, v ušiach   zahučalo. „A kto ti to povedal?“
+   </tei:p>
+   <tei:p>
+    ﻿189
+   </tei:p>
+   <tei:p>
+    „Videl som ťa, na vlastné oči som ťa videl, ked si kolky kresal.   Hneď som si myslel: tento človek na zlom si láme hlavu, A tak i bolo.   Šiel som zápät za tebou a z Boroviny som pozeral, ako sadíš mi do   brázdy kolky. Na šťastie som svojej kosy nemal — na tvojej sa   sprášilo.“ „A moja kosa ako prišla k tebe?“ „Sama len nie — ja   neviem.“ „Mišo — Mišo? Ten ju preniesol — há?“ „Ten je na to súci!   Uhádol si!“ „A ktože?“ „Neviem, neviem.“ A Píšťalka sa mu do očú   zasmial. Trúbelka bol zahanbený, ponížený. Jeho najväčší nepriate! sa   mu do očú vysmieva. Ach, ako sa to premenilo. Ráno si myslel, že sa   Píšťalka bude hnevať, a on smiať: a ono stalo sa práve naopak. Keby   to aspoň v dedine nik nezvedel; každý sa bude z neho smiať, a tak   bude mať i škodu i posmech. A ako pôjde k žene a paholkovi na lúky!   Oni ho majú za obhodilého a opatrného gazdu, a on príde ta so   zlomenou kosou, a prieloh bude predsa len nepokosený. Hej — keby sa   to dalo pred ženou a paholkom nejako zatajiť! Ako chce: radšej sa   uponížiť pred nepriateľom, ako pred ženou a paholkom. Pristúpil k   Píšťalkovi. „Ty — vieš ty, čo: nezjavme nikomu, čo sa tu s našimi   kosami stalo. Nech to ostane medzi nami. Ja budem mlčať, ako hrob.“   „Ty? Pravdaže mlčať. Mne sa tiež tak vidí. Len nebudeš sám zo seba   posmech robiť! Ale mne — vieš, bude tak milo ľuďom v nedeľu   porozprávať, ako sme oba kosili a ako si ty o kosu prišiel. Viem, že   sa na tom chutne zasmejú.“ „Ak to komu vyrozprávaš — potom ... no!“ A   Trúbelka pohrozil súsedovi päsťou.
+   </tei:p>
+   <tei:p>
+    ﻿190
+   </tei:p>
+   <tei:p>
+    „No, dobre: zadržím to u seba. Ale i ty musíš mi čosi slúbiť.“   „No?“ „Že nebudeš so mnou tak mrzko žiť. Nevaďme sa už ako Cigáni.   Nenaťahujme sa: vidíš, ty pri tom vždy zle obídeš. Majme aspoň teraz   trochu rozumu, keď sme ho prvej nemali.“ „Pravda je — svätá pravda.   Len to zadrž u seba. Pre mňa môžeš i na hlave tancovať, ja ti dám   svätý pokoj.“ „No, a na priateľstvo skosíš mi ešte tento môj prieloh.   Vieš, tie kolky — tie kolky. Ja sa ich bojím. Ešte by na nich, bojsa,   i svoju kosu zlámal. A tebe to pôjde ľahko: ty si ich posádzal, nuž   vieš, kde ktorý trčí.“ „Ale kosu — kosu! Táto tvoja je ako motyka.   Sotva bola tohto roku kovaná. Neutnem ňou nič — iba ak do dediny   sídem po druhú.“ „Rozum — rozum! Len rozum!“ poklepal si Píšťalka na   hlavu. „Tuto — rozumom pohnúť! Pribi svoju kosu na moje lcosisko — i   bude.“ „Bodajže ho i s rozumom!“ udrel sa Trúbelka v čelo. Píšťalka,   pohvizdujúc si, pobral sa domov, smutný Trúbelka zostal na   prielohoch. Kedj o polvečer vrátil sa domov, no o kolkoch   nepovedal nikomu ani slova.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

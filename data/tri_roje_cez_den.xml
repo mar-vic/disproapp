@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1886665" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Tri roje cez deň : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1586
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Tri roje cez deň
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1886
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Tri roje cez deň
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿Jano Haluška a Ondrej Rybárik kopú v svojej hore pne — pod   Drapáčom. Sú švagrovia, ženili sa na mená: Plaluška si vvzal   Rybárikovu sestru a Rybárik Haluškovú. Čím tuhšia rodina, tým viac   príležitosti k svade, ako to všade vidíme. Tu dedovizeň príde na   podiel, tu výplatok žien sa vymáha, a rodiny sa rozkmotria. No naši   Haluškovci sú ešte dobrí s Rybárikovci, a tak sa zdá, že i naďalej   tak zostanú. Vyplatili si sestry v láske a svornosti, len z hory nie.   Haluškovci majú pekný kus hory, z ktorej Zuzana Rybáriková, rodená   Halušková, vyplatiť sa nedala. Jej brat dosť nabíjal na to;   hovorieval, že spolky sú čertove volky, že najlepšie, keď každý z   vlastnej misy jie, ale Rybárička nechcela to pochopiť a neustúpila. I   tak zostala Haluškovie hora medzi oboma rodinami.
+   </tei:p>
+   <tei:p>
+    Ľudia sa dosť divili tomu a nešlo im do hlavy, že ešte ani raz   nepočuli ich vadiť sa na spoločnom majetku, pokrúcali hlavou a úfali   sa, že čo sa vlečie, neutečie. Ale to veru utekalo, utekalo.   Švagrovia nezavdali v dedine ani raz pohoršenia. Hľa, dnes tiež kopú   pne spolu. Oba okolo jedného sa . potia. Haluška obkope, odhrabúva   prsť zpod koreňov, Rybárik stojí pri ňom s kolíkom a kde-tu podváži   peň, že ho  Keď sa mu zunuje stáť, zas chytí sa čakana a   kope, a Haluška volky-nevolky musí si s kolíkom oddýchnuť. Príde   poludnie, a obe ženy donesú obed. I Halušková i Rybárička varily pre   štyroch, v tej nádeji, že švagriná azda zabudne sa prichystať. Ale   keď ta prišly, zadivily sa jedna druhej.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spisy VII.
+   </tei:p>
+   <tei:p>
+    2
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    „Aid si i ty doniesla?“ divila sa Rybárička. „Ja hej, ale na to   som sa držala, že ty sa nebudeš trápiť, a ono —“ „Netrápiť! Ako to   len môžeš povedať? Mne skôr savpatrí, ako tebe. Ja nemám detí, skorej   stačím. Skoda ti bolo chodiť, musíme teraz obe nazad vliecť.“ „Nech   zjedia len jeden obed, a ten podlejší nech ide nazad. Bude im na   večeru.“ „Nedbám, nedbám.“ Usniesli sa na tom, že lepší obed zjedia a   podlejší Že bude na večeru. Vykrúťa obe, a hľa. na oboch miskách   usmejú sa vyhladnutým chlapom pirohy. Zasmialy sa obe ženy. „Jeden,   ako druhý; jedny pirohy také, ako druhé. “ Vykrútily i dvojačky, a v   oboch dvojačkácli kapusta, kyslá, remenistá, že vrždí pod zubmi, a na   nej po kuse údenej bravčoviny, červenej, až radosť pozrieť. Chlapi sa   pustili do pirohov Rybáričkiných, a keď sa najedli, chytili sa i do   kapusty. Haluška nadhodil: „Nechajme kapustu kapustou a zjedzme   mäš “ I urobili tak. Zjedli mäso i z jedných i druhý   dvojačiek a kapustu nechali na večeru. Po obede sadli pod smrek do   tône a oddychovali, ženy ztratily sa v hore nasbierať raždia. Ako si   tak ležia, počujú zvláštny bzukot, akoby vo včelíne. Pozrú hore, a   hla, medzi haluzmi jedlíc poletuje chomáč včiel, usadzujúc sa na   jednu haluz. v „Svagre, mame včely! Rôj nam priletel do hory. “ „Len   čí je? Keby sme niektorý vbehli do dediny povedať.“ „Čí je — čí je!   Náš. Sadol nám do hory — bude náš. Pán Boh nás navidomoči   požehnáva.
+   </tei:p>
+   <tei:p>
+    ﻿19
+   </tei:p>
+   <tei:p>
+    A takéto včely sa ti daria! O rok, o dvá môžme mať z nich klátov —   ojoj..
+   </tei:p>
+   <tei:p>
+    Pohoveli trochu, radiac sa, kde ho usadiť. Jeden radil, že do   truhlice, nech je letáč kľúčovou dierkou; druhý do vane a letáč   vyvŕtať — nemohli sa dohodnúť.
+   </tei:p>
+   <tei:p>
+    Haluška, ktorý bol krepkejší, vyškriabal sa na jedľu, odlomil   haluz a sniesol ju dolu i s rojom. Pobrali sa do dediny. Na koho   začne škoda letieť — na toho už letí. Ale na švagrov tu začalo ísť   požehnanie a išlo, ako by bol vrece rozsypal. Keď dochodili do   dediny, stretli sa so včelárom Pribyšorn. Pribyš ponúkol im klát.
+   </tei:p>
+   <tei:p>
+    „Keď vám rôj prišiel darmo, ja vám dám klát. Minulej zimy vymrely   mi dva kláty, mám prázdnych dosť.“
+   </tei:p>
+   <tei:p>
+    Klát vymietli, vyčistili, a rozpajedený, rozožratý rôj vysypali   doň. „Poďme si vypiť, švagre, keď sme ku klátu tak naľahko   prišli.“
+   </tei:p>
+   <tei:p>
+    Išli, poliali klát; poliali ho štedro, nelutovali práce. Po dlhej   hodine vrátili sa pod sypáreň Plalu.škovu; kde bol uložený klát. Tam   tichosť úplná. , ,,i„Svagre, včely sa daria: bude čosi. Aha, .,vQ už   privykly, a sú len od poludnia tu.“
+   </tei:p>
+   <tei:p>
+    „Ja mám k nim tiež velkú úfnosť. Jeden klát sme našli, druhý nám   darujú a tretí ukradneme. Budeme mať taký včelín, že ludia budú ústa   otvárať. “
+   </tei:p>
+   <tei:p>
+    „A deliť sa nebudeme — len s medom. Lebo darmo je: nevieme, kto má   šťastnejšiu ruku, ja a či ty? Keď budeme s nimi obidvaja narábäť,   skôr bude z nich niečo, ako keby každý o sebe gazdoval.“
+   </tei:p>
+   <tei:p>
+    i,A moja žena bude rada! Bude medu vždy v dome, keď bude či   veselie, či krstenie; i na. hody pôjde sa do hotového.“
+   </tei:p>
+   <tei:p>
+    2
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    „No. a akože! Príde ti do domu kmotra, a nemáš v dome cukru ani   medu, aby na ňom žena uvarila niečo. Takto sa ti skôr niečo dostane —   a s medom je veru gramatika dobrá.“ Švagrovia pobrali sa do svojej   roboty do hory. Ešte ani nedošli pod horu, už počuli kohosi   zahvízdať. Obzrú sa, i vidia, že ktosi volá, aby sa vrátili. Vrátil   sa Haluška; ale chlapovi to nebolo dosť: hvízdal i na Rybárika. „Čože   je zas? Nemôžeš nič robiť, ked vždy musíš od práce odbehúvať. Dnes   nám je celý deň potrhaný.“ „Nuž poručeno Bohu: keď nás Boh takto   požehnáva, nemusíme naň hundrať.“ Chlap už zďaleka kričal na nich:   „Roj vám priletel, sedí na Haluškovej hruške!“ „A čo ma doň?“   odpovedá Rybárik. „Hruška je nie moja, do roja nemám práva.“ „Paroma   nie! Čo je moje, to je tvoje. Vieš, že budeme na jednu ruku   včeláriť.“ „Len kde sa ich toľko berie — tých rojov? Tohto som nikdy   neslýchal. Jeden deň takto dva roje priletieť •— a oba nám!“ „Povedal   som ti, že sa nám idú dariť.“ Prišli pod hrušku, podstavili rebrík, a   Haluška vyštveral sa hore. „Ale je dúži; celkom taký, ako ten v tej   hore.“ „To bude jeho brat. Uľútilo sa mu za tým prvým, a priletel za   ním.“ Bežali k Pribyšovi, aby im požičal ešte jeden klát. \7celár   Pribyš pokrútil hlavou, že sa mu toto celkom nepáči, ale klát im   vďačne dal. Rôj striasli do kláta a postavili ho pod sypáreň vk   bratovi. „Švagre, už máme dva. Jeden bude mne a druhý tebe, môžme sa   už i deliť, ak budeme chcieť. Máme sa na čom.1
+   </tei:p>
+   <tei:p>
+    ﻿21
+   </tei:p>
+   <tei:p>
+    „Ach, už len sa nedelme. Keď nás Pán Boh spoločne tak požehnáva,   škoda sa zas deliť. Radšej ho poďme zaliať.“. Švagrovia vošli do   izby, a poliali klát i ten prvý nanovo, i tento druhý: bez rozdielu   oba, veď sú bratia. Pri zalievaní našly ich ženy, ktoré sa nemohly   dosť prenadiviť nad touto vecou. „Švagre“, vpovie Haluška, „do hory   nám je už neskoro. Čo budeme darmo sedieť: poďme, prezrime tvoj sad,   či nenájdeme niekde miesta na včelín; keď máme už dva kláty, slušná   vec, aby Sme mali i včelín. Zostali na tom, že vystavia včelín pod   hruškou, ktorá bola už tak preslávená. „A drevo na včelín? Keď sú   včely spoločné, necliže bude i včelín. Ty si dal fundus, ja dám   drevo. Môžme ho hneď doniesť sem ku sypárni, a keď sprší, chytíme sa   do stavänia. Keď si ho donesieme teraz, nebude treba potom.“ Haluška   pristal. Šli do Rybárikov a nosili na pleci menšie i väčšie rohy   dreva i laty, ukladajúc ich pod sypáreň do súšu a úslnia. Neprešli   ani tri razy od Haluškov do Rybárikov a nazad, keď Haluška vykríkne   rozochveným hlasom: „Švagre, pozri: na hruške zas rôj!“ „No, toto je   už nie po dobrom. Ako je koívek: ale toto sa ani za sto rokov raz   nestane. Jedno odpoludnie tri roje dostať!“ „Veď hej, veď hej. A keby   sme aspoň boli mali včely: ale ani včiel nemáš, a roje sa ti sypú!   Len kde sa berú?“ „Kde sa berú, tam sa berú. Boh by sme blázni, aby   sme ich tam nechali. Poďme ku Pribyšovi, nech nás ešte zratuje jedným   klátom. Po chvíli mu všetky vynosíme. Ale vieš ty, čo ? Prvej   bol) kláty do páry, a teraz sú už nie: predajme
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    my tento nepárny Pribyšovi — bude nám na útrovu. I zmeškali sme   poldeň, i strovili sme čosi; nám vynahradí koIko-toľk,o.“ Šli k   Pribyšovi, ale im kláta už nedal. „Nedám, lebo nemám/ Haluška trhol   Rybárika za rukáv: „ Závidí nám. “ Pribyš dopočul čosi. „Nie, Bože   chráň, závidieť vám nezávidím, ale vám už tretieho nebude treba. Tam   na hruške niet roja!“ „Ako by nebolo! Na tieto oči som ho videl —   poďte a pozrite.“ Šli do sadu, a Pribyš skutočne videl rôj. No ten už   nesedel spokojne, ale krútil sa nad sadom. „Var’ nám ide uletieť!   Chytro za ním — museli sme ho uriecť, keď sa tak sobral.“ „Nechajte   ho! Veď on kdesi sadne; vidíte, že sa už slniečko kloní k západu. Ale   tuto si pozrite — tieto dva prvé sú akési smutné.“ Skutočne, na oboch   úloch nevidno ani jednej včelky. Haluška sa potešil: „Už išly späť.   Nalietaly sa cez deň dosť, chcú si odpočinúť.“ Rybárik doložil: „Ej,   ale len chytro privykly! Ja na novej hospode nikdy nemôžem zaspať: a   tieto tak chytro sa utíšily! “ Pribyš otvoril úly, a oba boly   prázdné. „Švagre — ťáj — uletely!“ skríkol Haluška. „A to oba! Keby   bol len jeden zostal; aspoň by bolo zostalo niečo na plemä — ale tu   oba! „Ba kde je ten druhý •— jeden teraz uletel, pred našima   •očima, ale ten druhý?“ „Hja, to bol len jeden rôj“, vysvetľoval   zkúsený Pribyš, „a ten uletel mne. Vidíte, ako letí ku môjmu   včelínu.“ „Veru, veru“, prisvedčil smutný Haluška, „mali sme ho   lepšie poliať, a — ozaj — zabudli sme mu zazdravkať.“
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

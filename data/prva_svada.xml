@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1896855" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Prvá svada : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     8495
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Prvá svada
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1896
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Prvá svada.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿I. Naša ,občina (mestský dom) je budova o jednom poschodí,   veľmi, veľmi prostučká. Tichá a mŕtva, ešte i ,škure‘ (okenice) sú   privreté, aby septembrové slnce, dosť horúce ešte, neprebíjalo dnu.   Ale dnu je dosť živo. ,Načelnikova je síce zatvorená, lebo   náčelník neúraduje na túto hodinu, o piatej totiž: zato v zasedacej   sieni je plno sveta. Stoly piatich radných, ,ašešúrske‘, všetko sú   obsadené, hoci z pánov ašešúrov je tu jediný šor Miée, ktorý tiež   nesedí za svojím stolom ,pre poľné veci, ale utiahol sa skromne   k obloku a oprel sa oň. Asesorské stoly uzurpovali mešťania, pravda,   poprední, v svojich čiernych čiapočkách hodvábnych i súkenných.   Nepíšu, ani sa nepreberajú vo stôsoch aktov, pokladených do   priehradôk, alebo prosto nakopených na kraji stola. Opierajú sa   chrbtom o stôl, preložiac nohy, a kúria svoje ,špaňolety‘ (cigarety).   Iným sa už nedostalo miesta pri stoloch — uspokojili sa stoličkami,   ktorých sa ťahá dlhočizný rad popri stene od samých dverí až k   protejšej stene. I títo i tamtí za štólami, všetci sú oblečení v   šatách robotných, strašne doriadených. Len sa tak ligocú a pestrejú   od škvŕn, čo narobil mušt. I osy sa oklamaly, že bude tu niekde kaďa   ,masta*: zatáraly sa s niekoľkými včelami a obletujú protivne od   mešťana k mešťanovi, hľadajúc, kde je to tá sladkosť. Nuž ako ,o   jematve — oberačke. Ináč to nemôže byť.
+   </tei:p>
+   <tei:p>
+    * ,Masť je rozmliaždené hrozno, z neho sa vytláča mušt.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané spisy XIV. 4
+   </tei:p>
+   <tei:p>
+    ﻿50
+   </tei:p>
+   <tei:p>
+    A mešťan veru nejde sa preto okúňať. Hrdý je, že je v takých   šatách, i bude sa ti vyhovárať nie bez koketerie: „Odpusťte, že som   takto ,deštruto Je čas ,jematvy‘, a úbohý ,pošidenať musí sa o   všeličo otrieť, i všade sa prilepí čo-to na ,veštiť ...“
+   </tei:p>
+   <tei:p>
+    Takýto úbohý pošidenat, statkár, nie je tak celkom na poľutovanie.   Má sto hektolitrov vína a možno dve, tri i päťsto — kto mu tam vidí   do jeho ,konoby‘, pivnice! ,Veštiť je síce ,deštruto‘ — nie po   najnovšej móde, ani nie vy kefovaný: ale tvár každého je okrúhla,   plná, rumenná — žiari zdravím i blahobytom. Ba zdá sa, čím je oblek   zafúľanejší, tým je vína v pivnici viacej. Preto mu never, keď ti   povie: „Šťastní vy ľudia od ,kvietance‘, vy neznáte o našich   biedach!“ On sa ti posmieva, že ty poťahuješ síce na kvitanciu, i   šaty máš po móde, ale ináč vo vrecku pustá Sahara.
+   </tei:p>
+   <tei:p>
+    Na toto shromaždenie v oberačkovej paráde akoby s podivením díva   sa Franjo Josip I. z obrazu na čele dvorany, nad stolíkom ,podeštáta‘   čili náčelníka. Na pravom boku svojho vladára umiestený je   miestodržiteľ v generálskej uniforme, i díva sa tvrdo, vojensky kamsi   do diaľky. Naľavo od monarcha je obraz čestného mešťana Josipa J.   Strossmajera v biskupskom plášti. Hľadí odhodlane, ako by bol práve   vyriekol slová, pod obrazom napísané: ,Sve za vjeru i za   domovinu! „No — nikto sa nehlási?“ ozval sa šor Miée, asesor.   „Bude päť, zatvoríme ,inkanať. Nedá nikto viac? Teda Andre trinásť   ...“
+   </tei:p>
+   <tei:p>
+    Šor Andre Odrié sklopil oči k zemi ponad jvkrúhle bruško. Akosi mu   je ,mužno‘. Všetky oči Kpfeíeajú sa na neho. Po troch rokoch sa dal   na hpitá obecného ,mastac, hoci má svojho dosť arjfljjt Tak,   aby niečo podujal.
+   </tei:p>
+   <tei:p>
+    ﻿51
+   </tei:p>
+   <tei:p>
+    Zane (Ivan) Rosolini, ktorý sedí v pruhovanom kabátku neďaleko   dverí, tiež sa zadíval na pána Andra. Pohladil si vlasy v tyle,   vydýchol odhodlane a riekol:
+   </tei:p>
+   <tei:p>
+    „Trinásť i dvadsať.“
+   </tei:p>
+   <tei:p>
+    Chcel to riecť ľahostajne a chladnokrvne. No čierne oko sa   zapálilo zvláštnym ohňom, na tvár naskočila živá červeň, sťa   dievčaťu, keď musí vyriecť osudné: ,šor ši (áno). I hlas sa mu   zatriasol o poznanie.
+   </tei:p>
+   <tei:p>
+    „Dobre, dobre“, pristáva šor Mice, „trinásť i dvadsať. Nech sa   činia mladí ,gospodari‘, ,evala‘ ti, meštre Zane!“ Tak dobromyseľne   posmeľuje Zana Rosoliniho, ktorý, vidno, cíti sa tu akosi nedomácky.   Možno banuje, že nadhodil na Andra Odrica, ktorý má z čoho utratiť,   ak utratí. „Za mladi sa treba mať k niečomu, ak sa chceš zmôcť. Kto   čaká, že mu zrelé smokvy (figy) budú padať do úst — darmo čaká veru   ..
+   </tei:p>
+   <tei:p>
+    „Eh, do každej veci treba podsúkať rukávy“, ozval sa starý Zore   Janušic, ktorý prišiel viac z ,kuriožitadu‘, ako k vôli kupovačke. „A   hlavná vec je ,kuraj‘!“ doložil, pohodiac šedivou hlavou vzdorovité a   máchnuc rukou pri slove ,kuraj‘ veľkou silou. „Bez kuraja nepôjdeš   ani do pivnice si vypiť, a s kurajom ti je ľahko i na Terra di   fuogo.“
+   </tei:p>
+   <tei:p>
+    Prikývli všetci, že je svätá pravda. Starý Zore bol skutočne kopať   zlato na Terra di fuogo, i vystál mnoho od sychravého podnebia i   divých domorodcov. Zlata síce nedoniesol, ale podal nezvratné dôkazy   kuraja — odhodlanosti.
+   </tei:p>
+   <tei:p>
+    Tu ,čauš‘ (mestský sluha) odchýlil okenicu a volá zpod nej na   ,piacu‘ (námestie): „Nech kričí trinásť i dvadsať! Kde jé Bore?“ „Tam   kdesi dolu“, odpovedajú starci, usadení na dlhom múriku pred   ,občinou, kde vyhrievajú
+   </tei:p>
+   <tei:p>
+    4*
+   </tei:p>
+   <tei:p>
+    ﻿52
+   </tei:p>
+   <tei:p>
+    staré kosti na jesennom slniečku, a zasa stopujú, čo sa na piaci   robí. „Zabehni, malý“, zvolal starý Luka vysokou fistulou na chlapca,   ktorý tu stojí rozkročený a díva sa kamsi, sám nevie kam. „Zabehni,   čuješ, malý, akože ťa volajú? .. . Nevidím nič na slnci, iba taký   oblak.. . Ach, nevôľa i žalosť! Vieš, povedz Bartulovi, nech kričí po   trinásť . . . Trinásť i — i. ..“ „... i dvadsať“, doložil čauš z   obloka. „Trinásť i dvadsať.“
+   </tei:p>
+   <tei:p>
+    „Veď!“ pristal šuhaj bez odkladu a rozbehol sa v dolinu.
+   </tei:p>
+   <tei:p>
+    Neminulo päť minút, a hore mestom hrnie sa človek v popolavých   šatách, ktoré visia na ňom ako na kolíku. Najmä nohavice sú široké,   azda aby zakryly, že nohy idú do venca, že sú akési rozhegané,   hojdavé. A veru nemajú toľme čo nosiť. Bore je nie obor. I prse sú   iba rozfúkané akosi dýchavicou, a nie od prírody také široké. Tvár je   široká, popolavá, vodou akosi podbehnutá. Príduc na piacu, zastal   pred obéinou, rozkročil sa, zaklátil v nohách, dal dlaň k ústam,   vdýchol hlboko a spustil: „Eno masta po trinajst i dvadeset kaca-á-a!   Do pet i po gura inkanat na obéine-e-e!“ Čo toľko znamená, že kaďa   rozmliaždeného hrozna je po trinásť zlatých i dvadsať krajciarov a že   |jcitácia potrvá do pol 6-tej na mestskom dome. Jeho hlas roznáša sa   mestom, teraz zatíchnutým. Čeľaď je všetka ,u polju1, na oberačke. Po   domoch sú len gazdiné, zaujaté varením pre mnohú čeľaď, a gazdovia,   dozerajúci pri preši. Na piaci zostali iba samí starci, nevládni a   lazári. Schodia sa tu ráno a rozchodia na poludnie a večer. Shovárajú   sa alebo v tôni, ak je horúčava, alebo na slniečku, ak je zima.   Snášajú sa ako bratia, hoci sú nie všetci ,jednake ruke‘. Sú totiž tu   majetní, čo
+   </tei:p>
+   <tei:p>
+    ﻿53
+   </tei:p>
+   <tei:p>
+    majú čo zjesť a čo vypiť, ba i zafajčiť, a zas takí, čo každú   sobotu idú z domu do domu pýtať ,karitad“, almužnu. Najdú sa i takí,   ktorí sa zodrali alebo okaličili v ťažkej robote, a zas takí, čo sa   nikdy v nej nepretrhávali. A jednako nažívajú svorne, v príkladnej   shode, ako rovný s rovným. A kto prejde popri nich, každý sníme pred   nimi čiapku. V tomto spolku ,penzistov hospituje náš Bore. Nie   je ešte toľme starý, ale dýchavica ho každej zimy raz, dva — niekedy   i v lete, ak sa náhle premení čas — pochytí a neraz ,na smrť donesie.   Preto sa musí vystríhať ťažkej práce. Od ľahšej sa neodhŕňa, obslúži   kohokoľvek darmo alebo za pletku.
+   </tei:p>
+   <tei:p>
+    A dnes je hrdý — stojí v službách občiny, ako vyvolávač licitácie!   Obec má svoje pozemky a vinice — tohoročná úroda predáva sa na   licitácii, ale nie na koreni, lež rozdegvená v kadiach. Za jednu kaďu   istej určitej veľkosti sľúbil Zane Rosolini trinásť zlatých i dvadsať   krajciarov. Na ten spôsob, idúc mestom, prišlo mu kričať i pred domom   šora Piera Prozoretiča. Dom neveľký, s dvoma oblokmi na ulicu, ale   vystavený zo solídnych kvádrov. Pod ním pivnica dosť priestraná, v   nej ohromné sudiská. Iba v jednom kúte ich niet — tam je veľká   kamenná nádržka na olej olivový. Teraz je prázdna, ale vlani o Lucii   bola plná. Jeden Vlach len-len že sa neutopil v čistom oleji, keď do   nádržky padol. Teraz vyčistená, vysušená čaká tohoročnú úrodu, ktorá   tiež veľmi nebude meškať.
+   </tei:p>
+   <tei:p>
+    Pred pivnicou na hladkej dlažbe z bieleho kameňa stojí ,turaň‘ —   na ňom sa tlačí a prešu je hrozno. Okrúhla furma, ako sud bez dna,   iba že miesto dúh sú paličky jedna pri druhej posväzované — stojí   hore koncom. Do nich sa nosí v ko-
+   </tei:p>
+   <tei:p>
+    ﻿54
+   </tei:p>
+   <tei:p>
+    žených ,mišinách‘ mast. Mechy či už mišiny nosia ,Vlasi,   obyvatelia Prímoria, ktorí dochádzajú na oberačky. Plný mech je sťa   nafúkané gajdy, iba že kde mala koza nohy, tu nevložili píšťale, ale   nechali kýpte, podviazané špagátom. Keď sa táto polievka vleje do   furmy — jeden Vlach stojí v nej ako v sude a tlačí — tu čistý mušt   cedí sa pomedzi týčky a vteká sťa krvavý jarok do kamennej nádržky,   vsadenej v zemi. Ztadiaľto už prenášajú víno do velikánskych ,bačiev‘   (sudov). Stlačené hrozno ešte príde pod preš. Šor Piero Prozoretic v   zamazanej košeli kanafasovej stojí pri turni a pozoruje robotu, či je   všetko v poriadku. Je až na podiv, ako zručne sa obhadzuje so svojím   požehnaným bruškom, na ktorom dobre že nepukne kanafasová košeľa. Keď   začul, že kričí Bore, pomyslel si: „No, tí inkantovali dokonale. Vari   myslia, že ide mať víno ,duple ceny!“ I ráta si, koľko vína môže   vyjsť z jednej ,kace‘ masta. „In ordine (poriadne) ho zakantal —   trinásť i dvadsať — dosť veru i ,predosť‘...“ Dvere z domu šora   Pierotovho vedú na ,teracu Priestor sťa dvorana, vydláždený   krásnou bielou dlážkou. Pod teracou je ,gustyrna‘, cisterna. Na túto   teracu vykročila šora Kleme, manželka šora Pierotova. Prestiera a   vešia na žinky, po teraci popreťahované, svoju skvelú ,biankariju‘,   bielizeň. Plachty, prestieradlá, obrusy i ručníky — všetkého po   troche. Na každom kuse cifrované P. P. z červeného satína a s belasým   šatírovaním: tak že vyzerá z toho na bielom grunte hotová   demonštrácia horvatská. Ach, ktože vypíše všetky krásy tejto   biankarije. Veru neviem, ktorá pani tu ju má belšiu i vôbec   poriadnejšiu. „Netreba vody šanovať“ — to je zásada šory Klementíny.   „Nebojte sa, dico!“ teší dievky, čo
+   </tei:p>
+   <tei:p>
+    ﻿55
+   </tei:p>
+   <tei:p>
+    u nej právajú, „keď sa minie z gustyrny, máme ešte dve gustyrny v   poli, i do Božiča môžeme ,predurať bez dažďa . ..“
+   </tei:p>
+   <tei:p>
+    A ako jej biankarija, tak i jej ctená osoba, i izby sú vtelený   poriadok a čistota. Až sa bojíš stúpiť u nej na dlážku, že ju   zavláčiš, alebo postaviť klobúk na skvúce prestieradlo na posteli.   Šora Kleme počula, že Bore vykrikuje inkanat. Nahla sa na múrik,   ktorým je obohnatá teraca, a s tejto výšky hľadí na ulicu. Bore ju   zazrel i pozdravil pokorne: „Falen Isus!“ „Vazda Isus i Maria!“   ďakuje šora Kleme a pýta sa: „Nože mi povedz, Bore, kto dáva tých   trinásť i dvadsať?“
+   </tei:p>
+   <tei:p>
+    „A veru vás pekne prosím, šora Kleme moja, i s družbou“ — lebo i   šor Piero sa bol od turňa obrátil k nemu: musel teda doložiť „s   družbou“, ak nechcel ostať grobianom — „to dáva meštar Zane   Rosolini.“
+   </tei:p>
+   <tei:p>
+    „Vari môj zať, Bore?!“ „Istý váš zať, ak smiem prosiť.“ „Ahoj   meni!“ zvolala prudko, chytiac sa za hlavu oboma rukami. „Či ste   čuli, šor Piero?“ obracia sa k mužovi, ktorý sa už zabáva okolo   turňa. „Či ste čuli, čo robí váš zať? Ajme meni! Trinásť i dvadsať!   Veď je to sila peňazí, mne sa vidí.“ „Dosť hodne, Kleme, dosť   hodne.“
+   </tei:p>
+   <tei:p>
+    „A vy to necháte!?“ kričí zúfale. „A čo sa ty ,intrigaješ‘ do   cudzích vecí!“ zahriakol ju šor Piero dôstojne. „Jemu je hodno toľko,   nech si má. Nie naša starosť. Keď dáva toľko, nebodaj ,kontá, že   mu je toľko hodno. Ak utratí — z tvojho neutratí. Utratí zo svojho.“   „Ale či už nič nesmiem povedať?“ vyčituje mužovi.
+   </tei:p>
+   <tei:p>
+    „Slovo dá slovo. Ty si ,gospodarica‘ svojho,
+   </tei:p>
+   <tei:p>
+    ﻿56
+   </tei:p>
+   <tei:p>
+    čo máš“, vysvetľuje šor Piero vážne, „on zas gospodar svojho. Čo   za osoh, keď budeš hovoriť? Slovo dá slovo — ani nezvieš, len keď sa   navarí čertova ,pulenta‘. A kto ju bude chlípať?“ „Veď už nech ide na   vaše, ja nedbám“, vzdáva sa šora Kleme, ale nesmierne rozjedovaná,   „ale ten inkant mu dá veľkú ,botu‘ (úder). Trinásť i dvadsať!“ A   začala zasa rozvešiavať biankariju. Ale čo ako, ani šor Piero nie je   celkom ,indiferenať oproti zaťovej kúpe. Ženino bedákanie veľmi ho   znepokojilo. Nie že by chcel ísť zaťa hamovať — ó, nie: to je vec   veľmi riskantná. On sa najedoval na ženu.
+   </tei:p>
+   <tei:p>
+    „Nešťastné baby!“ nadáva jej v duši. „Musí všetko čuť, čo sa   robí.. . Na každý prípad nadhodil veľa, bez spôsobu.“ A potriasal   vážne okrúhlou hlavou, krátko striženou i dobre šedivou, ktorá sedí   akosi tuho na krátkom, vykŕmenom krku. „Mladí gazdovia — myslí, že to   takto ... Mladí gazdovia! Myslí, že ,cekiny‘ nájde hocikde na   ulici...“
+   </tei:p>
+   <tei:p>
+    A rozväzoval, na aký spôsob on nasbieral tých cekinov (dukátov),   ktorých vraj má plný ,šic‘ (mericu) kdesi v komore. Celkom prosto!   Keď umrel otec, chytil sa roboty, a ako teraz, tak prísne dozeral,   aby ho svet neukrátil. „Cudzie neber, svoje si nedaj, Boha sa boj a   druhého nikoho, okrem krúpy“ — to bola jeho regula žitia. Čo mu raz   príde do ruky, to, braté, drží tuho, ani v klíešťach. Preto kadejaký   svet nejde sa k nemu dlžiť. A ani nešomre naň, ako by na iného, keby   chcel byť tak ,tvrď. Zato kedy-tedy i zratuje niekoho niečím: a to sa   mu ráta desaťnásobne. „No, hľa, nie je skupáň, ako ho vykričali...   Ach, či je mrcha ten svet! Ľaľa, neopustí biedneho, ak je spravedlivý   ...“ Má veľkú vážnosť v meste. Najviac pre ten šié s cekinami. Je   ,konžilier‘, t. j. člen mestského vý-
+   </tei:p>
+   <tei:p>
+    ﻿57
+   </tei:p>
+   <tei:p>
+    boru. Chceli ho spraviť ašešúrom, ale ho nespravili — neviem,   prečo. Je člen ,crkovinarstva“, výboru, ktorý manipuluje kostolné   grunty i fundácie. A kto by mohol vyrátať ,kariky“ (hodnosti), ktoré   sa mu mohly dostať, keby sa dotískal. Ale už objem v páse nedovoľuje   mu, aby šiel do stisku, ktorý najviac bývava okolo takých karík... On   radšej je pre seba: ,atendi“ (má sa) okolo svojho — o druhé nerád sa   trápi; vynímajúc kostolné majetky. Kostol je už iná vec: ak nedonesie   osoh časný, ale zaopatrí slávu nebeskú.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Šora Kleme nemôže sa spamätať. V hlave jej ustavične vrčí, že sa   ide Zane ,ruinať“. „Púšťa sa ľahkomyseľne do kupectva, a môže prísť i   o to, čo má. Nedbal by zbohatnúť, a chytro — a môže sa ešte   chytrejšie nájsť na holom ... Oj, ,prefriganí“ sú ľudia, prefriganí!   Keby čuli zárobok, všetci by sa hrnuli. Oj, neprepustia tí tak ľahko   ... A nech sa mu zle povodí — kde sa podeje? A deti? A tento starý,   tento, tento — ,fantaštik“! Ach, Bože, uchovaj! On len pokoj, pokoj,   a keby prišlo zle — nie, nepomohol by. Hľa, slovo preriecť mu je muka   — a kde otvoriť kešeňu!“
+   </tei:p>
+   <tei:p>
+    Bojí sa začať niečo na svoju päsť. „Starý by zbesnel, keby   zvedel!“ A tu jej prišla na um Keka. ..Ona by mohla — veď mu je žena.   Nech ide na občinu a vyvolá Zana . .. Ale i to je ťažká vec. Svet by   ho vysmieval, že mu rozkazuje žena. Ach, či je mrcha ten svet, či je   mrcha!“
+   </tei:p>
+   <tei:p>
+    Ruky jej opadly od nevlády. Či obracia vec takto alebo takto, vždy   len vyjde naopak. Ženská čo tu môže vykonať? Najviac vymodliť   niekoľko ,Zdrava“ a ,Otčenášov“, aby ho Boh osvietil a odvrátil od   záhuby.
+   </tei:p>
+   <tei:p>
+    ﻿58
+   </tei:p>
+   <tei:p>
+    Ale jednako len, prehodila šatku, ktorú nosieva do kostola, i   sukňu farby kávovej. Vtom priskočilo k nej dievčatko asi   polpiataročné, čierne ani Cigánča, s ohnivými očami, s (Jtučeravými   vlasmi a v červenej blúzičke. „Kde idete, nona (stará mať)?“ Obesilo   sa jej na sukňu. „Povedzte, kde idete?“ „Idem len tuto kdesi, druže.“   A stará mať hladí ju po kostrúbkoch.
+   </tei:p>
+   <tei:p>
+    „Nona, idem i ja!“ zvolala malá Lukrica. „Ach, kde pôjdeš? Tam sú   veľké skaly, moja.“ Ale nechcela ju pojať pre inú vec. Šor Piero by   si ich hneď všimol, keby šla vnučka. O starú toľme nestojí, ako o   Kekinu Lukricu. Nemôže bez nej takrečeno obstáť. Nemá pokoja, ak   okolo neho neskáče a nešteboce. Už ide na druhý rok, čo temer bez   prestania drží ju u seba. K materi ju púšťa len kedy-tedy, ako na   návštevu. Keby ich zazrel, iste by sa pýtal: „Kde ideš, malá?“ A   stará mať musela by povedať. On by ich vrátil, a bol by hriech   hotový. A keby sa i prešmykly, vnučka by mu večer vybľabotala, kde   bola — bolo by ešte horšie. „Veď ja budem skaly obchodiť!“ sľubovala   Lukrica.
+   </tei:p>
+   <tei:p>
+    „Nie, moja, ty sa len zabávaj doma. Veď ja hneď prídem. Donesiem   ti bonbon. Môžeš ísť k nonovi a pozerať, ako turnaju . . .“ I tak sa   jej horko-ťažko striasla. Dala jej dlhé naučenia, odobrala sa od nej,   ako by odchodila do druhej krajiny, a umkla z domu. Srdce jej mocne   zabúchalo, keď prechodila popri turni, že ju šor Piero pristaví. Ale   práve dohnali na dvoch ,mazgách‘ (muliciach) masta z viníc — šor   Piero strážil, či mechy nepuknú, alebo nepadnú na zem, alebo či Vlasi   ich nevyprázdnia do nepravej kade. Tak šťastlivé zahla do súsedovie   dvora, ohradeného múrom. Až tu ju zazrel šor Piero.
+   </tei:p>
+   <tei:p>
+    ﻿59
+   </tei:p>
+   <tei:p>
+    „Ide sa vytúžiť Keke“, myslí si škodoradostne. „Vyplačú sa, naplní   jej hlavu všakovými hlúposťami — ako by ja nevedel! Ale čo, ochorela   by mac .. .
+   </tei:p>
+   <tei:p>
+    Šora Kleme spustila sa širokou ulicou k novému domu Zana   Rosoliniho.
+   </tei:p>
+   <tei:p>
+    Vystavený je, ako i šora Pierotov, zo solídnych kvádrov, rúče   otesaných. Ľahko stavať, keď Zane je posvetný murársky ,meštar‘. Krov   je složený z ploských kameňov, obielený vápnom. Naďaleko sa skveje   oslepujúcou belotou. Pod odkvapom riňa z kameňa tesaná. Tou sa   odvádza dažďová voda ,u gustyrnu, ktorá je pod vkusnou teracou.   Dvor ináč nie je priestraný, ale je obohnatý novým múrom. Popri ňom,   kde poludňajšie slnce toľme nepripeká, vysadený je rad ,pomidorov‘ —   paradajok; sú už obraté dávno, vňať vysilená odkväcla na zem.
+   </tei:p>
+   <tei:p>
+    „Mohlo im byť ako v raji“, myslí si šora Kleme, idúc dvorikom.   „Sobrali sa bez silenia, zo svojej vôle. A čo im chybí? Všetko sa im   dalo, všetko, čo len treba ... Vo všetkom majú svoj ,komoď   (pohodlie), ako málokto... Len čo biankarije odniesla!“ A ako by   hľadela na tie stôsy bielizne, čo dala Keke, keď ju vydávala.
+   </tei:p>
+   <tei:p>
+    Schodíkmi vystúpila na ,sulár‘ (altánku), hore ktorou začína sa   ťahať vinič. Ešte je mladý, ale o rok, o dva sa rozkonári, že budeš   môcť na pravé poludnie sedieť pod ním na sulári. I do pitvora bude   krásne chladiť. Vôbec, milá vec! S jednej i druhej strany je   postavené po dva kry jasmína a jeden kvetník tuberóz. Silná vôňa   jasmína mieša sa s vôňou tuberóz a preniká všetkými priestormi domu.   Odchovala ona tieto jasmíny a tuberózy a dcére ich darovala, keď ju   vydávala. Čo má doma, ani jeden nie je taký rozkonárený, ako tieto.   Sú jej
+   </tei:p>
+   <tei:p>
+    ﻿60
+   </tei:p>
+   <tei:p>
+    to kvety najmilšie, už preto, že sú náramne vďačné. Kvitly by i   celú zimu, len ich vyložiť na slnečnú stranu domu.
+   </tei:p>
+   <tei:p>
+    Hodila ešte pohľad s altánky ta na východnú stranu. Tu sa   prestiera stráň so zeleňou zamatovomäkkou — pravý háj vysadených do   hustá olív, len kde-tu temnejšia škrvna figového stromu medzi nimi.   Stráň sa spúšťa miernym spádom do belasej hladiny mora, tichého,   krásneho, obliateho záplavou slnca. Od neho poťahuje tichý vánok, v   ktorom lístie ľahko ševelí. Za úzkym pásom mora dvíha sa hneď strmá   Planina, reťaz prímorských vrchov, spopretŕhaná končitými končiarmi.   Hoci neuvedomene, ale pocítila i duša šory Klementíny, zoschnutá   starobou i dennými klopotami, mohutnú reč tohto veľkého obrazu. Núti   ju čosi zastaviť sa na tejto altánke a hľadať vo veľkolepom ráme   tklivé pojedinosti. Tak ju pútajú dva body, biele, pevné, ktoré sa od   belasého mora živo odrážajú: blízko sú toho miesta, kde kanál sa ide   prevliecť pomedzi súsedný ostrov a polostrov. Sem bližšie belie sa   dvoje nadutých bielych krýdel na morskej hladine, sťa keď motýľ sa   zakníše nad belasým kalichom kvetá. To sú všetko bárky našich   kupčíkov a ,paronov od broda (majiteľov lodí), ktoré pri tichom   mori vybraly sa na ,viaj‘ — cestu. Vošla do parádnej izby — ,soby de   lušoc. To je spolu i spálňa mladých Rosolinich. Duplovaná posteľ   stojí na prostred izby, a na dôkaz, že je tu jednota a spojenie   úplné, vidíme i koberce i prikrývky pre dvoch v prostriedku sošité.   Nad posteľou visí ,Blažena Gospe od sv. Rozarija — Matka Božia s   ružencom — v ráme zastoknuté ratolesti olivové, ako boly posvätené v   Kvetnú nedeľu. Pri čudotvornom obraze visí hromničná svieca: večné   memento, že ,bižoňa morir (musíš umrieť). Zapaľuje sa nielen v   čas búrky, ale i pri posteli umierajúcich.
+   </tei:p>
+   <tei:p>
+    ﻿61
+   </tei:p>
+   <tei:p>
+    Šora Kleme v neprítomnosti gazdinej neokúňa sa ostať v tejto   svätyni. Triezvym okom kutá po izbe, tak, ako vyšetrujúci sudca, keď   chce objaviť zločin. A hľa, zkúsené oko zastavilo sa na olejovej   lampadke, ktorá stojí blízko ruženca na stolíku. „Tomuto sa nenaučila   v mojom dome“, pomyslela si s výčitkou. Berie lampu, skúma, či je nie   preplnená olejom, odokryjúc príklop, i vešia ju na klinec pri   posteli. Hneď jej bolo ľahšie. Ešte pohľad po izbe, či nájde čo   nemiestneho, a už sa blíži ku kolíske, ktorá je s druhej strany   postele. Nadvihla roh riedkej šatky a pozerá pod ňu. Buclatá tvárička   malého Ivana vyzerá zpomedzi vankúšov, anjelsky zafúľaná. Tvár starej   matere sa premenila; na lícach naskočily jamy, lebo ústa stiahly sa   do šošovičky, ako by sa hotovily cmuknúť. Oči svietia takou tichou   radosťou, že by nikto nepomyslel, ako sa na ňu zmohla ustarostená   stará pani. Na prstoch sa vrátila do pitvora. Pozerá na schody, ktoré   strmo vedú na pôjd. Keka azda bude tam. Možno, varí v túto neobyčajnú   hodinu. Keď môže trpieť v izbe taký ,dežordin‘ (neporiadok), že ani   lampka nevisí na svojom mieste, nebolo by divu, keby sa teraz dala do   varenia. Na pôjde je totiž, ako v každom dome, kuchyňa s priestraným   ohniskom.
+   </tei:p>
+   <tei:p>
+    „Keka, Keka — kde si?“ volá pritlmeným hlasom, aby nezobudila   Žaneta (Ivanka). Neohláša sa nikto. „No, vidíš, i dom necháva takto.   Prázdny! A dieťa! Či ju nemôže niekto obkradnúť, alebo dieťa — Bože   uchovaj! —- odniesť! Naozaj, kto by myslel o nej! Taká ľahkomyseľná!“   Na schodíkoch sa ozvaly kroky. Na altánku prikvitla ženská ešte   mladá. Oči čierne ako noc, podlhovasté ako mandľa, s dlhými riasami.   Keď hľadíš na ňu, vidíš iba tieto čudnovaté oči. Tvár podl-
+   </tei:p>
+   <tei:p>
+    ﻿62
+   </tei:p>
+   <tei:p>
+    hovastá, čosi vpadlá, nos jemný, ale niečo zahnutý. Pery trochu   uvädlé, ale keď sa pohnú, objavia sa za nimi krásne biele zuby.
+   </tei:p>
+   <tei:p>
+    Ó, Keka je ešte ženská driečna, chlúba svojej matky i dnes. „Udala   sa na mňa“, rozpráva každému. „Prozoretiéa ,raca“ berie sa vždy do   hrúbky . .
+   </tei:p>
+   <tei:p>
+    Jej podivný zjav ešte stupňuje červená šatka s rožkami navrch   hlavy prehodenými. Zpod nej vykúkajú vlasy ani zúžoľ, tvoriac na čele   nedbalé kostrúbky. Nesie sa strojne, rovno — chôdza je plná ženského   dôstoja a krásy. Oj, a aká bola pred vydajom!
+   </tei:p>
+   <tei:p>
+    Obletovali ju všetci ,momci“, čo boli na niečo súci. Raz mal s   nimi i ,podeštáť (náčelník) robotu. Boli sa rozdelili na dva tábory —   hornianstvo a dolnianstvo — i sviedli tuhú bitku pred domom šora   Pierota, kým si nepokrvavili hlavy. Keka sa nešalela veľmi ani za   jedným. Až tu keď pred šiestimi rokmi vrátil sa s vojny Zane   Rosolini, bola s ním čosi-kamsi ,akordo‘. Ešte sa ,gledali“ od   jematvy do fašiangov, a o fašiangoch doviedol Zane utešenú ženičku do   domu napoly vystaveného. Nemohol sa nijako obísť ,bez pomoci“ — ako   sa vyhováral šorovi Pierotovi. Iba parádna izba bola ako-tak hotová.   I na nej, pravda, boly len ,škure“ — obloky dorobili až cez leto   prímorskí ,meštrľ. Tak pomaly podorábäl povaly, ohnisko a zalanským   domuroval napokon gustymu asi na päťsto ,baríľ vody, čo je asi toľko   okoví. Na každý prípad vody dostatok človeku, ktorý ju veľmi   neobľubuje ani vo víne.
+   </tei:p>
+   <tei:p>
+    „Ach, ,cerce“ moja, ako len môžeš nechať dom otvorený! A dieťa v   ňom! Stojím dobrej pol hodiny, a gospodarice nič. Ja by zhynula od   strachu, že mi dieťa odnesie víla, alebo že ma obkradnú!“
+   </tei:p>
+   <tei:p>
+    ﻿63
+   </tei:p>
+   <tei:p>
+    „Ale, máme moja! Vy ešte vo víly veríte! Kdeže sú víly — a na   poludnie!“ odpovedá Keka spokojne, podoprúc bok pravou rukou. „A pol   hodiny! Bola som ...“ — ukázala kopec neďaleko domu, pokrytý   záhradami a vinicami — „bola som ,na nivice ubrať ,kupusa‘.“   Vytiahla rohy zásterky zpoza pása a ukazuje v zásterke za náručie   kapustného lístia. „Pekne som vás videla, máme moja, ako ste vošli.   Preto som len dooberala, že vy neodídete. Vari sa prebudil malý?“   „Ach nie — spí.“ „Lebo len nedávno zaspal. Nikdy takého dieťaťa, máme   moja! Bude vám spať do samej zory. Ach, dobrý mi je, dobrý: ani   neviem o ňom, že ho / cc mam.
+   </tei:p>
+   <tei:p>
+    Mať ide oči na nej nechať od veľkej hrdosti. „Darmo je — Keka je   Keka“, myslí si v materinskom rozcítení. „Deti sú jej ozaj, niečo — *   v CC niečo ...
+   </tei:p>
+   <tei:p>
+    Keka si sadla na prah a preberá kupus. Skúma list za listom, či je   súci, a odhadzuje súce do vahanca a chybné ponad sulár ,na dvor   Šora Kleme sedí pri nej a vložila hlavu do dlaní. „Či ty vieš, kde je   Zane?“ pýta sa napokon. „Ja nie“, odpovedá, hodiac okom na prímorské   bralá.
+   </tei:p>
+   <tei:p>
+    „Vari si ho dnes nevidela?“ diví sa šora Kleme.
+   </tei:p>
+   <tei:p>
+    „Vari celý deň by ho nebola videla?!“ zhrozila sa mladá žena,   nechápuc také predpokladanie. „Odpoludnia naozaj nie.“ A stisla pery   akosi zanovité, aby už nevyšlo nič cez ne. Ale vidiac skúmavý pohľad   materin, dodala ešte: „Na poludnie prišiel, najedol sa a — odišiel.“   Oči zas uprely sa na bralo, na ktoré hádže ohnivú žiaru zapadajúce   slnce. I ruky klesly, akoby nevládne, do lona — ale zaraz sa strhly   do roboty. „A čo — vari máte niečo?“ pýta sa matky.
+   </tei:p>
+   <tei:p>
+    ﻿64
+   </tei:p>
+   <tei:p>
+    „Nebolo nič medzi vami?“ A šora Kleme zadívala sa jej skúmavo do   tvári.
+   </tei:p>
+   <tei:p>
+    „Ach, čo by bolo!“ vyhýba Keka. Ale nemôže prekaziť, aby sa hlas   trochu-trochu nezatriasol.
+   </tei:p>
+   <tei:p>
+    „Vy ste sa popriečili!“ vybuchla šora Kleme tak určite,   presvedčivé, že Keka sa striasla pod vplyvom toho hlasu. „To mi darmo   vravíš! Ja vidím! A čo to bolo?“
+   </tei:p>
+   <tei:p>
+    „Ale nič, máme moja. Ako hneď dochodíte pre * V t mc.. .
+   </tei:p>
+   <tei:p>
+    So smiechom hľadí na ňu, ale ústa sa jej potrhávajú a do očú idú   sa naliať slzy.
+   </tei:p>
+   <tei:p>
+    „A čo vy to máte?“ zvolala v rozhorčení. „Ale vari nevidím! A či   mám zvedieť od iných, čo mám zvedieť od vás? Či som ja už   najostatnejšia?“ A odvrátila sa od dcéry od hnevu i možno ľútosti. „A   čím som to zaslúžila?“ vyčituje hlasom temer úplne rozplakaným. „A či   sa nazdávaš, že ti mať chce zle?“
+   </tei:p>
+   <tei:p>
+    „Ach, máme, čo vám už povedať? Neviem sama. Ako ma tu vidíte, tak   nebolo nijakej svady. Iba čo včera večer. . . Ach, i to je smiešno —   čo na tom? Nehodno spomínať ...“
+   </tei:p>
+   <tei:p>
+    A čo jej má ozaj rozprávať? Pod jej triezvym pohľadom, pri dennom   svetle to všetko vybledlo, tie veľké mátohy i ohromné oblaky, ktoré   zaťahovaly včera jasné nebo domáceho blaha. Materi rozprávať, ktorá   hľadí na všetko tak triezvo! Čo môže spomenúť? Jediný fakt, i to   veľmi malicherný, že Zane odišiel včera po večeri, nepovedal jej, kde   ide, a vrátil sa v noci, sama nevie, ako a kedy. Ráno mu to vytkla a   odišla hrdo, keď možno chcel jej vyrozprávať, kde bol, s kým bol.   Chcela potrestať jeho — potrestala seba. Na obed bol zas on hrdý
+   </tei:p>
+   <tei:p>
+    ﻿65
+   </tei:p>
+   <tei:p>
+    a nepreriekol slova, nie to že by bol spomenul raňajšie   nedorozumenie. Nad tým sa rozplakala, keď odišiel, hoci pozdejšie   hanbila sa za tieto slzy. Či by ju mať nevysmiala? Hneď by stala na   jeho obranu: že veď nerobí nijaké ,dežordinyc, ako iní. Veď je dobrý,   tichý, gazdovlivý. A ešte čo by naspomínala! Čo ona vie, že je to   všetko iba naoko? Že pod touto krásnou rúškou skrýva sa veľká   premena, ba rozhodný obrat a či prievrat. Nebo a zem! Od tých čias,   čo sa vrátil s manévrov, je ako iný. Len čo ho to tam zašlo! Neusmeje   sa s tým tichým porozumením, keď prejde popri nej. Nepozrie tým   pohľadom, ktorý je nemý, a jednako povie viac, ako všetky ,libre“   (knihy). Nevyhľadáva príležitosti, aby sa len mohol s ňou stretnúť, s   tou ľstivou nástojčivosťou ... Slovom, premenila sa mu nátura, ako by   pľasol dlaňou. Niekedy sa núti usmiať sa jej, ale to je úsmev   chladný; pohľad akýsi rozblúdený, nespokojný, ako by hľadel čosi   zatušiť. Ó, všetko prázdne, chladné, bez tepla, bez života, bez   svetla — bez ľúbosti...
+   </tei:p>
+   <tei:p>
+    Tak razom! A tolké sklamanie! Ach, ako sa to vešia na dušu   olovenou ťarchou — ničí, láme, ruší jej najkrajšie kvety. Rozlieva sa   ako otrava po žilách a zahíja každú radosť. Ani v spaní nedá pokoja —   prebúdza ju s ťažkým strachom a trúchlymi predtuchami. Pre toto   sklamanie chcela pokarhať Zana. Že vystal do noci, to jej bola iba   zámienka. Aby ho pokorila, vyhla sa jeho odpovedi. Čakala, že ju bude   siliť, aby vypočula ospravedlnenie. Ba že sa rozsŕdi, vyvadí na ňu,   že jej nakydá urážok na hlavu, že jej v náhlom hneve ukrivdí, a keď   hnev prejde, vráti sa s kajúcim srdcom, s novou žiarou lásky ... A   hľa, koľme sa prerátala! Ani len neproboval sa očistiť. Možno, nebolo   mu treba. Hodil celú vec nedbalo ,preko glave“. A keď sa vrátil,
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané spisy XIV. 5
+   </tei:p>
+   <tei:p>
+    ﻿66
+   </tei:p>
+   <tei:p>
+    vrátil sa chladný, bez nepokoja, ako by si nemali čo vysvetliť, čo   odpustiť: ako by toto bolo v najlepšom poriadku ... A ona mu vyšla na   pol cesty v ústrety. Spravila mu obed Jbigulet so sardelamľ — jeho   najmilšie jedlo. Tenké makaróny so sekanými sardelami na kvetovanej   mise, nie, tomu ešte nikdy neodolal. A jednako nezbadal, čo ona chce,   a či nechcel zbadať. Zjedol, čo zjedol, a bez slova odišiel. Posúďte   len: čo sa dá z toho rozprávať materi? Či tá zbadá jemné nitky, z   ktorých sa splietol veľký závoj, za ktorým zmizlo jej šťastie — možno   naveky. Šora Kleme zvedela iba toľko, koľko mohla pochopiť: že Zane   včera večer vystal.
+   </tei:p>
+   <tei:p>
+    „Iba to?“ pýta sa nesmierne sklamaná. „A preto si cneješ, éerce   moja? Oj, stáva sa i Čo horšieho, a žena zažmúri oko, niekedy obe.“   Nahla sa jej blízo ucha a temer doňho do samého riekla hlasom   pritlmeným: „Chlapi sú plní hriechu a všakovej ,šporkarije‘   (ohavnosti), a žena — jazyk za zuby. To ti hovorím ja.“ A vidiac, že   Keka obledla ako stena, doložila: „Čo len toto, že večer — to je   maličkosť, alebo nič.“ „Ale ťažko i tomu privykať, máme moja —   ťažko!“
+   </tei:p>
+   <tei:p>
+    „A, cerce moja — treba. Darmo je, nebude ti vždy doma sedávať.   Potrebuje i on ,svoj kornod*. A tvoj ,éako‘ (otec), laľa, celú zimu   presedí v kaviarni. Popoludní hrá karty, po večeri hrá karty.   Kamarátstvo — a čo urobíš? Pôjdeš sa utopiť? Najlepšie sa netrápiť,   ako bys’ ani nevidela ... Ale ja ti čosi iného poviem na tvojho muža.   A to sú už nie pletky!“ Tu jej vyrozprávala, čo Zane vyvádza na   občine.
+   </tei:p>
+   <tei:p>
+    Na Keku to neurobilo temer nijakého dojmu.
+   </tei:p>
+   <tei:p>
+    ﻿67
+   </tei:p>
+   <tei:p>
+    To stálo tak ďaleko od jej útrap — ani sa jej netýkalo. „A nech   kupuje, keď ho zašla taká vôľa“, riekla ľahostajne. „Gospe moja — čo   to čujem?!“ zvolala matka pohoršená. „Či je to reč ženy bohabojnej?   Nevieš, že je to jeho zkaza? On má svoju ,baštinu‘ (dedovizeň), nech   ju ,atendi Má remeslo — nech ho piluje. Netreba sa jemu, chvála   Bohu, kupectvom zapodievať. A keď raz okoštuje, pochutí mu. Roztúla   sa ti. Zbujnie. Zapustí dom i baštinu: o všetko príde. A len ako   počal: trinásť i dvadsať za kaču. Veď len posúď, čo je to! Na posmech   sveta!. ..“ Keka si vec lepšie rozmyslela. Najväčšmi ju prestrašilo,   že muž sa v kupectve roztúla. „Príde o všetko, o všetko!“ pokračuje   šora Kleme horlivé. „Toto bude vaša istá záhuba!“
+   </tei:p>
+   <tei:p>
+    Náhlym pohybom prehodila ruky cez prsia. Hlava sa postavila pyšne   do tyla a ústa po vyslovení takého strašného proroctva zaklaply   naširoko. Sťa kačka, keď prehltla jedným živom ,kanca (rybu) a   klapne za ním ešte raz naprázdno. „Teda myslíte, že sa ide dať na   kupectvo?“ pýta sa Keka. „Už ho len sám nevypije, ufám sa!“ zvolala   mať. „A pováž si, koľko prekupčí, kto sa nerozumie do kupectva! Ó,   kupectvo, kupectvo ... A povážlivé pokyvovala hlavou. „Ó, to je   nie pre každého. Niekto si pomôže, a desať sa ich utopí...“ „A čo ja,   máme moja? Čo ja? Či mu ja môžem skrátiť vôľu?“
+   </tei:p>
+   <tei:p>
+    „A akože! Nedaj! Postav sa! Choď na občinu, odsekni inkanat. I ty   máš slovo v dome! Veď si mu žena, pravá i zákonitá. Alebo, ak   nechceš, aby to ,dulo svetu u oči — vyvolaj ho, nech ide domov.   A čo by si i nevošla? Čo sa máš okúňať? Len ty choď, čerce moja.“
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    ﻿68
+   </tei:p>
+   <tei:p>
+    Keka vbehla do izby preobliecť sa. Kým shľadávala sukne a mantilu,   mať ešte duplikovala. „Veru tak — ľahko sa ruinať. Kto žije v nevôli,   len just že žije, čo sa bude prirovnávať ,tým veľkým! To sú   boháči — tí sa môžu rozhadzovať. Čo dnes utratí, zajtra zarobí. Ale   ty — utratíš dnes, a zajtra si žobrák. A i ty, i žena, i deti. ..“   „Ach, máme moja!“ zvolala Keka zúfale. „Nestrašte ma! Už som i tak   nešťastná!“ Stala jej pred oči materiálna ruina v celej nahote, náhlo   a jasne. A sotva na ňu pozrela, zľakla sa jej. Akosi určite sa jej   predstavilo, ako by bolo, keby im predali vinice a naostatok nivicu i   dom. Pôjde i s deťmi do hospody, kde miesto dlážky bude oslznutý   kameň s jamami a hrboľmi. Nenájde tam gustyrny, ale pôjde na vodu do   obecnej lokvy. Deti budú behať bosé, polonahé, neumyté, lebo vodu   bude prichodiť šanovať. Nikto ju nezavolá ,šora Kéke, ako ju už   podajedni počali, ale prosto Keka, alebo, ak priložia to ,šora‘,   priložia ho s posmechom.
+   </tei:p>
+   <tei:p>
+    Pri malom Zanetovi ostala stará.
+   </tei:p>
+   <tei:p>
+    „Aspoň ho dočkám“, hotovila sa, „a nadokladám mu ich. Oj, neobídeš   nasucho!“
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    Keka stíšila kroky, keď prišla na piacu a zočila mestský dom. „Čo   ako — ale ťažko je vojsť takto nič po nič“, začala rozväzovať. „Kto   ťa vidí, každý sa zadiví, čo tam chceš. Ešte sa nazdajú, že stojím v   nejakej žalobe... A keď zvedia, začnú posmeškovať. A Zane, či sa ten   neurazí?“ Bola by sa azda vrátila s opadnutou chuťou a zahanbená —   ale tu práve sa vyhrnuli mešťania z mestského domu. Vyšiel i Zane na   samom ostatku. Sú akísi vyhriati, rozčúlení. Rokujú neobyčajne
+   </tei:p>
+   <tei:p>
+    ﻿69
+   </tei:p>
+   <tei:p>
+    živo. Viacerí rozopäli vesty (ktorí ich majú) — iným sa pošmykla   čiapočka do tyla. „Ó, dáte sa mi napiť, šora Keka — dáte?“ prihovára   sa jej starý Zekeo, chromý na nohy. Sedí na tlapkavom kameni, pri ňom   položená barla i mocná palica. Žmurká na ňu akosi potutefne, ako by   sa posmieval. „Nuž?“ „Váš gospodar kúpil hŕbu masta: patrí sa, aby sa   dal napiť chudobe. A k tomu, ak mu vyjdú ,konty‘ na dobre..
+   </tei:p>
+   <tei:p>
+    „Teda kúpil!“ zvolala, i zazdalo sa jej, že padá na ňu občina.   „Kúpil!“ zabedákala viac pre seba. „Čože už pôjdem — i tak je   pozde.“
+   </tei:p>
+   <tei:p>
+    Utiahla sa za košatú jahodu, okolo ktorej sú kamenné sediská, na   ktorých nikto nesedí. Po západe slnca sa podvihnú komárci, i dobádali   by každého, kto by tam sedel. Čaká tam, kým prejdú mešťania. Ide i   Zane, ale nie ako víťaz. Oči sklopil na zem i tvár má opustenú. Keď   prechodil popri jahode, pozrel v stranu, i jeho tekavé oči, pomútené,   dotkly sa Keky. Zamračil sa, zaostal.
+   </tei:p>
+   <tei:p>
+    „Teda ty si ho vylicitoval?“ pýta sa ona. „Áno“, odpovedá pevne.   Ústa mu zaihraly v kŕčovitom úsmeve.
+   </tei:p>
+   <tei:p>
+    „Po čom?“
+   </tei:p>
+   <tei:p>
+    „Po pätnásť zlatých.“ „Gospe moja — pätnásť!“ „Nadhadzovali tuho,   musel som dohora ...“
+   </tei:p>
+   <tei:p>
+    „A na tebe ostalo! Smutné víťazstvo.. . Vieš, že od dneška začína   sa naša zkaza? My už nikdy, nikdy nebudeme. . Chcela doložiť   ,šťastní“, ale zastavila to ťažké slovo. „Nikdy už tú ztratu   nenahradíme ..
+   </tei:p>
+   <tei:p>
+    „Neviem, ako ty rátaš“, odpovedá akosi isto a sebavedome, „po   mojom rátaní nemali by sme
+   </tei:p>
+   <tei:p>
+    ﻿70
+   </tei:p>
+   <tei:p>
+    utratiť. A potom, neutratí každý, kto kupuje. Treba sa niekedy   spustiť i na šťastie.“ Keka len-len že sa neuspokojila. Chytilo sa i   jej z tej jeho istoty a bezpečnosti. Musí on znať, čo robí. Ale tu ju   zašiel nový nepokoj. „A musíš ho ísť predať, cestovať bohvie kde a v   akom počasí...“ „Nuž a čo, keby na to prišlo — dva-tri dni.. . Ale ja   myslím, že ho ja nepôjdem predávať, ale skôr že ho prídu kúpiť. O to   je malá starosť.“ Čo ako ich premáhala, obavy povstávaly a nedajú sa   tak lahko vykoreniť. Zvoní jej v ušiach výstraha materina s novou   silou. „Zane, prosím ťa, vezmi slovo nazad. Aspoň teraz. Nikdy ťa   nenahnevám — nikdy! Len ma teraz slúchni. Veď vieš, ako sme žili   spokojne — vráť im slovo, nech si robia, ako chcú.“ „Ajho!“ ohradil   sa rozhodne. „Stálo ma toľko práce, a zas bych to rozhádzal. A ako by   ma vysmiali všetci, ktorí myslia, že utratím ... A ani nemôžem.   Závdavok mi nedá.“
+   </tei:p>
+   <tei:p>
+    „Tak už teda niet pomoci!“ vzdychla zúfale. „Poručeno Bohu!“
+   </tei:p>
+   <tei:p>
+    Zabolelo ju ťažko, že Zane jej naliehavej prosby ani len nevypočul   pozorne. Zrýchlila kroky, aby sa oddelila od neho. „Nech mu bude, keď   už tak chce. Čo pôjdem s ním? Veru chlúba! Poručeno Bohu!“
+   </tei:p>
+   <tei:p>
+    A preto ho predbehla, lebo sa hanbila. Čuje od chrbta pokriky:   „Evala vam, meštre Zane! Vy ste dodržali ako človek!“
+   </tei:p>
+   <tei:p>
+    „Hľa, ako ho vysmieva svet! A on nerozumie, nerozumie!“ sožiera   sa. Šatka na očiach, aby ju tak hneď nepoznali, kráča rozčúlene k   domu. Smerom od domu pribehlo jej oproti malé dievčatko, asi   päťročné. Malá Katica, sesternica Káty.
+   </tei:p>
+   <tei:p>
+    ﻿71
+   </tei:p>
+   <tei:p>
+    „Amia (teta) Kéke, aby ste hneď prišli. Ubila sa Lukrica!“
+   </tei:p>
+   <tei:p>
+    „Čo, ubila sa? Vari naozaj!“ zvolala Keka prestrašená. „A čo sa mu   stalo? Ako, kde?“ „Barba (strýk) Piero ma poslali. Že spadla!“   doložilo dievčatko horlivé.
+   </tei:p>
+   <tei:p>
+    Ostatne Kekka sa už nepýtala. Pustila sa plným behom domov.
+   </tei:p>
+   <tei:p>
+    Zane dopočul, čo malá Katica vraví — vidí bežať ženu: pustil sa za   ňou, ako bez seba. Dohonil ju dosť skoro. „Vidíš, že je to naša   zkaza, vidíš!“ narieka zúfalá Keka. „Chytro vyšlo na moje, chytro!“   doložila ešte. „Ach, moja zlatá jabuka! Mohla som byť pri ňom v   svojom dome, keby nie tvojej fantázie. Nemusela by chodiť za tebou .   .. Možno, zabilo sa do smrti... Ach, skoro dohonil trest, skoro — a   nevinných!“
+   </tei:p>
+   <tei:p>
+    Zane stisol zuby a zamračil tvár. Každé jej slovo pára mu dušu na   poly, a jednako jej nevie čo odpovedať. So zúfalstvom v duši vpálil   do dvora. Testiná ho čaká na suláre. „Aha, chce ma zahovoriť, aby sa   nepreíakol znezrady“, dumá on. „No, čo je?“ pýta sa testiná dychtivé.   „Tam nič“, odpovedá skoro. „A čo je to tu, kde je malý?“ „Ó, tu nič   nového, chvála Bohu. Malý spí ani anjel. Ani sa neprebudil od tých   čias. O malého malá starosť“, doložila ostro. „Len keby starí boli   tak na mieste ...“
+   </tei:p>
+   <tei:p>
+    Tieto slová už dopočula i Keka a zaplakala od radosti.
+   </tei:p>
+   <tei:p>
+    „Ach, chvála ti, Bože, i sláva na nebi!“ zvolala, složiac zbožne   ruky. Vbehla za mužom do izby, či malý ozaj spí. Ani vlastnej materi   nemohla uveriť. Keď zazrela jeho tváričku, na ktorú pozerá i Zane s   otcovskou
+   </tei:p>
+   <tei:p>
+    ﻿72
+   </tei:p>
+   <tei:p>
+    nežnosťou, rumennú i anjelsky zafúľanú, opakovala v zbožnom   unesení:
+   </tei:p>
+   <tei:p>
+    „Ach, chvála ti, Bože, i sláva, že si ma ochránil... Či som sa   prestrašila — ach, ako mi srdce zvoní!“
+   </tei:p>
+   <tei:p>
+    „Môžem povedať, zľakol som sa i ja“, priznáva sa Zane. „Ale,   chvála Bohu, keď len prestalo na strachu.“
+   </tei:p>
+   <tei:p>
+    Mladí sa utíšili skoro, ako deti. Iba šora Kleme chce vedieť   každej veci fundament. „A čo sa to stalo — či to bol iba žart? Tá vec   mi je veľmi čudná. Iba ak šor Piero ma chceli prestrašiť, že som   odišla ...“
+   </tei:p>
+   <tei:p>
+    Po tejto nitôčke, ktorú im dala šora Kleme do ruky, prišli dosť   skoro na uzlík, v ktorom sa skrývalo nedorozumenie. Vyjavilo sa, že   nešťastie sa neprihodilo tu, ale u tesťa. A nie so Zanetom, ale malou   Lukricou.
+   </tei:p>
+   <tei:p>
+    „Lukrica teda!“ zalomila Keka rukami. „A ja že malý! Ach, Bože, čo   ma takto zkúšaš!“ „Lukrica ti padla s mazgy (mulice). Neviem, čo   hľadala na nej. Kto ju vysadil? Vytiahneš z domu nohu, a už ... Nuž a   či ste sa nemohli vypýtať, ako svedčí? A ja, že idete z domu!“ Táto   zvesť bola tým ukrutnejšia, že ich zašla po krátkej radosti. Sobrali   sa všetci. Ani šora Kleme nemá tu miesta. K malému Zanetovi zavolala   starú súsedu Doricu.
+   </tei:p>
+   <tei:p>
+    „Ja vždy hovorím, nepúšťaj dieťa z domu!“ hromží Zane na ženu. Už   ani neutekajú, tak že ich šora Kleme i dohonila. „Starí ľudia ti budú   dávať pozor na deti! Dobre, že na nich netreba ešte dozoru: nie to   aby oni deti... A či nemá doma čo vložiť do úst? Starým ľuďom deti na   hlavu!“ Treba uznať, že mu nesmierne lahodí, že môže natrieť panej   testinej pod nos. Len čo ju zočil na sulare, hneď zavoňal, čia ,to   bola pulenta“, že
+   </tei:p>
+   <tei:p>
+    ﻿73
+   </tei:p>
+   <tei:p>
+    Keka sa rozbehla po neho. Čerta sa tá ide miešať do jeho kupectva!   Ani by sa neopovážila .. . „Odpusťte, pán zať!“ ozvala sa šora Kleme   ostro. „Viem ja, na koho vy cielite... Odpusťte, keď je pod mojou   rukou, je ako pod vašou. Ba lepšie. Ja som aspoň doma — a o druhom sa   to nemôže povedať.“ „Zato sa i prihodilo toto, že ste boli doma: ako   gazdiná svedomitá .. .“ Hlas sa mu zachvel rozčúlením. Vycítil   narážku v jej posledných slovách. Zastal pred ňou a okom iskriacim ju   premeral od hlavy do päty. Až odstúpila od neho od strachu, zvolajúc:   „Aboj meni, ako hajduk!“ „Ja keď som nie doma, chodím po svojej   práci. Nie po klebetách, šora Kleme — po klebetách, prevracať Keke   hlavu. Pamätajte si — toho sa držte: až naveky!“ A stisnutú päsť   podvihol vysoko nad hlavu. „Punica (testiná) v mojom dome nemá   práva!“ Šora Kleme s úžasom hladí na zaťa. Slovo jej prischlo na   ďasnách. Iba čo si stihla pomyslieť: „Hajduk je, pravý hajduk! Ach,   či som ťa zadávila, cerce moja!“ ľutuje pritom Keku, ktorá sa ešte   nespamätala po tejto ,tremendnej‘ scéne. Zane medzitým vybehol po   schodíkoch do domu a šore Kleme predstavil sa výjav, ako ju prosila   malá vnučka, že i ona by išla s ňou... „Ach, či som ťa nemohla pojať,   holubica moja!“ vzdychlo sa jej a akási ťažoba razom privalila jej   srdce. Ťažké výčitky vyprevadily ju hore schodmi.
+   </tei:p>
+   <tei:p>
+    Lukrica leží na posteli s opuchnutým čelom. Pravé oko nabehlo a   počína už belasieť. Krvi nevidno. V dome ináč ticho, hoci je plná   izba ženských. Jedna ponad druhú naťahujú hrdlá, sťa husi, keď ich   zájde v poli ľadovec. Každá by nedbala
+   </tei:p>
+   <tei:p>
+    ﻿74
+   </tei:p>
+   <tei:p>
+    vidieť chorú: či je celá a či rozlomená na poly. I tak ich čaká   úloha: von zreferovať a uvážiť všetko, čo sa dalo vidieť a počuť...   So závisťou hladia na doktora, ktorý je pri chorej a ešte rozčúlený.   Pribehol bez kabáta, prostovlasý — traja naraz sa prihrnuli k nemu,   že Lukrica, ako padla, tak leží. Niet vraj v nej náprstok života.   Možno, vraj — doložili — dosiaľ sa jej vycedily všetky mozgy. Nuž   letel zachrániť aspoň porisko, ak sa už sekera i utopila. So závisťou   hľadia naň ženy: keby ony vedely, čo on vie! Či by rozprávaly! A on,   ukrutník, mlčí — nemá milosrdia. Ach, mrcha je, mrcha ...
+   </tei:p>
+   <tei:p>
+    Keď došiel a pacientka ho zazrela, začala kričať, ako by ju na   nože bral. „No, čo plačeš, druže“, tešia ju ženy. „To je ,čova‘, náš   čova, vieš — dobrý čova — dá ti bonbónov ...“
+   </tei:p>
+   <tei:p>
+    Ináče, keď bývala samopašná, jej vyhrážali: „Počkaj, príde ,likár‘   — počkaj: ten ťa zakole nožom ...“ Nuž tak sa nazdala, že sa to   konečne ide splniť ...
+   </tei:p>
+   <tei:p>
+    Doktor našiel prostučkú udreninu na čele a na pravom pleci. „Dajte   studenej vody a kus plátna. Šatku na príklad, alebo servít.“
+   </tei:p>
+   <tei:p>
+    Na ten povel pustil sa celý ženský aparát do pohybu. Spravilo sa v   izbe klbko, ktoré čím dial, tým väčšmi sa zamotáva. Spoprehadzovali   truhlice, škafety, šifonére, kredence i kasne. Ktorási rozrýva v   posteli a vyťahuje čosi zpod matraca.
+   </tei:p>
+   <tei:p>
+    Druhé zas majú sa okolo vody. Vybehly na gustyrnu a každá pomôže,   čo môže. Vodu doniesly hneď s vedrom, ktorým sa ťahá z cisterny. Na   uchu, hľa, je ešte dlhá žinka. Keď vbehly do izby, každý sa na žinku   prevrhne, až sa do nej zamotaly nohy starej Mómy, sťa kurčaťu, keď   vojde do pazderia.
+   </tei:p>
+   <tei:p>
+    ﻿75
+   </tei:p>
+   <tei:p>
+    Potočila sa, ale nepadla, nemajúc na šťastie jablko kde prepadnúť,   nie to stará, tučná Móme. K vôli tej čistej handre podriapaly sa tri   košele, jedna posteľná plachta. Okrem toho je vysnovaná celá bielizeň   na prostred izby z kredencov a šifonérov — tam stúpajú po nej. Nesúc   vedro z gustyrny, prevrhly stolík a rozbily štyri šálky na čiernu   kávu i s dvoma tanierikmi, i stupily starému Gorovi na nohu, že   dosiaľ na gustyrne zavýja. „Okrem udreniny nieto tu nič iného“,   zvestuje lekár šorovi Pierotovi, ktorý stojí pri posteli s lesklou   plešinou a čiapočkou v ruke. „A mne došli povedať, že sa zabila   nadobre“, doložil s ľahkým úsmevom. „Lepšie je takto, šor ,dotór‘, ja   myslím“, usmiala sa jedna z tých, čo boly k nemu pribehly. „Lepšie,   ako by bolo, uchovaj Bože, keby ...“ Pred týmto argumentom, pravda, i   doktor sa musel pokloniť. Dobehli konečne rodičia i nona. Ženy si   dobre zachovalý, ako sa Keka drží. Že veľmi ľústostive pozrela na   malú, že sa prevesila ponad ňu i vykladá nad ňou citne. Pobadaly, že   Zane je ,zaťatý1, neciteľný, ani jednej slzy nepustil za svojím   dieťaťom — ťuj! I šor Piero je ukrutný, ale možno nemôže plakať, lebo   je trochu ,škonfundiven‘. Keď toto všetko videly a vštiepily si do   hlavy, začaly sa vytrácať jedna po druhej. Ostala iba stará Móme   potešiť rozžialenú ,fameju‘. „No, čo plačeš, ,šempio‘ (hlupaňa)?“   potešuje, počínajúc od Keky. „Vari sa zabila! Čo sa uškrabla trochu   na čele! No, mladé je, zarastie . • /* Keď Keka nič, teda o stupeň   vyššie. „Ah, ,šm (hlúpa)! Nože neblaznej! Ľaľa, aké divy, chu udrela.   A keby ako moja Ružica: dvjŕjnmpe* jedla, ani toľko, čo by zjedol   drozdík — I Z r
+   </tei:p>
+   <tei:p>
+    ﻿76
+   </tei:p>
+   <tei:p>
+    A Boh i môj svätý ,Roko‘ pomohli, chvála Bohu ... No i lekár môže,   akože: na to sa učili“, doložila opatrne, bojac sa, že svätým Rochom   ublížila doktorovi, ktorý ešte stojí pri posteli. „I lekár môže čudo!   Ale lekár lieči a Boh uzdraví: no, však ver’?“
+   </tei:p>
+   <tei:p>
+    Doktor konečne odišiel, zanechajúc rodinu na Mómu.
+   </tei:p>
+   <tei:p>
+    Keku ani toto dovrávanie neprebralo. Ale šore Kleme sa to   pošťastilo hupkom. „Ajme meni!“ skríkla, spínajúc ruky. „Čo porobili,   čo porobili! Majko moja draga! Oh, biankariju mi ruinali, všetku,   všetku! Ľudia moji — pozrite, ľudia moji, túto ,dešgraciu‘! Ostala   som holá a nahá, ako žobrácka na ceste!“ A tieto výklady sprevádza   názorným rozkladaním. Tu rozostrie roztrhnutú plachtu, alebo   rozdrapenú košeľu, alebo postúpaný uterák, alebo stolový parádny   obrus s vytkaným palácom dóžovým v prostriedku a kostolom sv. Marka v   rohoch. „Veď len pozrite, ľudia, čo mi porobili! Ešte košele ako   košele — ale môj ,lancún‘ (posteľná plachta)! Vidíte, ,nov-novcať vám   bol, a čo urobili z neho, aký posmech!“ A natriasa obrovský klin,   vydrapený z lancúna. „Ešte mi ty stváraj ,konfúžiju‘ pre lancúny a   haraburdy!“ jeduje sa šor Piero. „Neviem, na kýho čerta ti ich je   toľko. A či sa vari ufáš, že ja umriem a ty sa budeš vydávať?“ Šora   Kleme naozaj nevie, čo odpovedať napochytre na takú výčitku. „Ba ako   to môžete, šor Piero“, vraví hlasom miernym, „ako len môžete tak   vravieť o mne. I je proti zákonu božiemu a ani je nie svedčná vec. A   či ste ma azda v niečom našli, že takéto, takéto...“ „Ale, ale šora   Kleme moja“, zamiešala sa stará Móme, „či nevidíte, že sa šor Piero   iba ,škercajú‘ (žartujú). Ľaľa, ako sa smejú . ..“
+   </tei:p>
+   <tei:p>
+    ﻿77
+   </tei:p>
+   <tei:p>
+    „Ah — čerti nech veria žene!“ na to šor Piero. „Takto sa ti   zaklína, a za chrbtom ... Veď vieme, ako to chodí.“
+   </tei:p>
+   <tei:p>
+    „Prosím vás, aspoň už vy!“ odpovedá šora Kleme s pohľadom   vyzývavým i plným rozkoše, že pán sa tak uponížil. „Aspoň vy — keď je   už toto .. . Tu niet inej pomoci, ja vidím — iba zajtra ,lu- V* • c   CC ŠIJU . . . Šor Piero sa zhrozil, keď počul o praní a lušiji.   Hotový prievrat v celom dome, nemáš sa raz kde hodiť od práčok. „A už   ty lušiju robiť nejdeš“, žartuje, hoci mu je vec vážna. „Hneď by   obrátilo ,široko a pozajtre by sa lialo. A jematva je —   potrebujeme chvíľu.“ „Ah, iďte mi!“ durdí sa šora Kleme. A právom.   Nikdy neobrátil južný vietor, dažďonosný, keď sa pribrala prať. Skôr   obrátila ,bura‘ a rozohnala oblaky. „A teraz už nahotuj niečo“, ozval   sa šor Piero. „Ja by jedol. Zostanú Keka i Zane — sprav niečo   poriadneho. Keka i Zane ďakovali, že ich treba doma, ak sa malý   prebudí. Že to a ono, ale šor Piero sa ,zakapricijaľ — tak že stará   Móme odišla doniesť malého a mladí zostali.
+   </tei:p>
+   <tei:p>
+    „Budete spokojnejšie spať“, potešoval ich, „keď uvidíte, ako ide   malej.“ Večera bola skvelá. Kupus na oleji, sardely s cibuľou a   ,zubatac na brujeť. Zubatac je ryba veľmi chutná, a v tomto bolo vyše   dvoch kíl. Práve mu oberajú „U udolcu“ vinohrad, je to pri mori. Jeho   ľudia zo samopaše dali sa na lov a vylovili s malými giricami i   dravého zubatca. „Ani by vás nebol zdržoval“, zdôveril sa šor Piero   pri večeri, „nech je menší. Ale ako ho my dvaja skonzumujeme? Ešte   vašu mater, eh, tá by sa ho toľme nedurila ...“
+   </tei:p>
+   <tei:p>
+    ﻿78
+   </tei:p>
+   <tei:p>
+    Požmurkal na neborkú šoru Klemu, ktorá ho zobkala po kúskoch, že   by lastovička viac uniesla v zobáčku.
+   </tei:p>
+   <tei:p>
+    „Vy už len zadierajte, šor Piero. Evala vám!“ Šor Piero poutieral   omáčku s brujeta — je dobrá, s paradajkami — potiahol z krčaha dobrý   dúšok ešte lanského, zdravého a poutieral umastené ústa. Tu razom   obrátil sa na zaťa.
+   </tei:p>
+   <tei:p>
+    „Tak teda, Zane, ty ideš ,deventať‘ (stať sa) kupcom na víno.   Dobre, braté, evala ti! Ak ti pôjde od ruky, dám ti celú moju   ,konobu‘ (pivnicu). Len podaj ,prec‘ (cenu) poriadny. Nie lepší ako   iní — ale just toľký ...“ „Ďakujem za takú lásku“, uklonil sa Zane,   složiac čiapočku. „Ale ak spustíte, no, možno, pojednáme sa.“ „I to   mu presadne, čo na občine preglgol“, chcela už riecť šora Kleme. Ale   videla, že šor Piero je v dobrej vôli: ľúto jej bolo vyvolať so zaťom   hádku. „Dobre, braté, probuj raz i ty šťastie“, pokračuje šor Piero,   ale už vážne. „Šťastie treba na každý spôsob zkúsiť. Vidí sa mi, že   si dobre zaplatil... Ale to sa ešte nemôže vedieť, ako ceny zahrajú.   Ešte sa mi vidí, nevyšly. Ozaj, nevieš niečo o nich?“
+   </tei:p>
+   <tei:p>
+    „Nič sa ešte nevie“, odpovedá Zane, oberajúc náhlym pohybom smeti   na kabáte. Šor Piero pozeral naň dlhú chvíľu. „Eh, neverím ja tebe,   synko, neverím!“ zvolal odrazu s akousi radosťou. „Ty si čosi   zavoňal. Neverím! Prečo mi nechceš pošepnúť?“ „A keď neviem!“ Díval   sa na tesťa a hneď zvrátil oči do kúta.
+   </tei:p>
+   <tei:p>
+    Šor Piero pokrútil hlavou, ale už nenaliehal. Keka nehovorí, ale   bystro ich pozoruje. Zdá sa jej, že Zane je v akejsi výhode nad   otcom. Srdce
+   </tei:p>
+   <tei:p>
+    ﻿79
+   </tei:p>
+   <tei:p>
+    jej radostne zaplesalo. Hrdosť nad ním podvihla sa vysoko. „On   čosi vie, čo nevie nikto — hľa, ani otcovi nevyjavil...“ Zažiadalo sa   jej ísť domov. Netrpelive čaká, kedy bude s ním medzi štyrmi očami.   Zaneto ovisol, tiež ho treba uložiť, aby sa nerozplakal. Tak sa   pobrali domov. „Ozaj, Zane, ty vieš ceny vína?“ prihovorila sa mu   dôverne a sladko, keď boli blízko domu.
+   </tei:p>
+   <tei:p>
+    „Ináč by vari nebol kupoval, ako mať myslí ...“
+   </tei:p>
+   <tei:p>
+    „Ach, čo ty budeš mater... A kde si ich zvedel?“
+   </tei:p>
+   <tei:p>
+    „Keď som sa vracal s manévrov. Na palube boli dvaja Nemci,   kupovali po kraji víno. Nuž viem, po čom kde platili. Mysleli, že   nikto nerozumie, a ja som rozumel. A tak som nemal pokoja — iba včera   večer som sa rozhodol, že kúpim občinský mast.“ Uložila Žaneta a   sadla dôverne k mužovi na maľovanú truhlu. Je šťastná. Vie, prečo   býval zamyslený, nevšímavý. I prečo vystal do noci včera večer . ..   Teda starosť o ženu, o deti ho trápila. Nie kadejaké iné hriechy.   Všetko robil z lásky — z lásky k deťom a k nej. Sklonila hlavu na   jeho prse a pocítila na hlave jeho drahé líce. „Ak mi toto dobre   vypáli“, hovorí on nežne a sladko, „kúpim ti nový ,veštiť (šaty), že   ho nemá ani ,podeštatrušac. Sama si ho vyberieš podľa ,kampionov‘   (vzoriek).“ Pozrela na neho a povedala: „Načo mi je taký drahý   veštit? Toto mi je viac hodno, ako desať hodvábnych veštitov ...“
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

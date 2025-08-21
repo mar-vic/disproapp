@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1887523" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Tiene a svetlo : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3032
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Tiene a svetlo
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1887
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Tiene i svetlo.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿I. Prvá od Boha, druhá od Fudí, tretia od čerta. . . Tento rebrík   bol podložený osudom nášmu Ondrejovi Kutráňovie pod nohy. Začal od   vrchu, sostúpil po ňom až na ostatnú stupaj, po hranicu zúfania. Kto   by ho dnes poznal, sediaceho na prahu so šedivou, do dlaní pochovanou   hlavou. Vlasy vyšmykly sa zpoza ucha a voľným chumáčom visia a   zahaľujú chudú ruku s nabehnutými žilami. Oblek zanedbaný, záplata na   záplate. Krpce priviazené domácim výrobkom: konopnými motúzmi, lebo   »na remence sa nedostane, keď sa nezarobí«, hovorieva jeho žena   Mariena, keď jej to súsedia vytýkajú. Ostatne niet tvora, na ktorého   by sa slniečko aspoň niekedy neusmialo. Usmieva sa i na Ondreja a   ohrieva jeho staré údy. Minulej zimy hovorieval, že sa už neohreje na   znovuzrodenom slniečku — hľa, ohrieva sa. Vrzly dvere na izbe, do   pitvora vstúpila žena. Mariena Kutráňova je práve v najlepších   rokoch. Líca červené, dobre sa plameňom nechytia. Čepiec na hlave   biely, široký, tvrdý ako šindol.
+   </tei:p>
+   <tei:p>
+    ﻿216
+   </tei:p>
+   <tei:p>
+    Na hrdle kvetovaná, olejkovaná šatka; rukávy u oplecka načuchrené   jagajú sa belotou v rannom slnku. »Čože sedíš na tom prahu? Hore sa!«   Ondrej neodpovedal slovom, pohliadol na ženu tak výmluvne!   Neporozumela mu. Vzdychol si. »Len vzdychaj, a vysedúvaj! Čo by si sa   nepovafoval, keď má kto za teba ťahať! Ale. . .« Nedokončila. Čakala,   že Ondrej niečo povie, že pôjdu potom z reči do reči i že sa rozvinie   zas rozjímanie, ktoré ani jedného rána nesmelo chýbať. Ondrej mlčal.   »Ja hriešna žena, čo mám robiť? Sedí tu zanemený, ako by bol jazyk   prehltol. Ale klebety roznášať: vtedy sa mu jazyk rozviaže!« »Ja   neroznášam, bol by to zbytok. Vidí Boh i svet, v čom som.« »Tak, ta   k!« pokývala Mariena hlavou. Oči jej zahorely, ako mačke, keď vidí,   že sa myš ešte hýbe. »Mňa nevidí, že hrdlujem od rána do večera, že   sa trápim, sužujem, že som si mladý svoj vek pri tebe zkazila a svet   zaviazala. Toho nevidí! Kto ťa chová — čo by si robil ?« »Bodaj by si   ma viac nechovala!« vyšmyklo sa chudákovi Ondrejovi nevdojak z úst. V   súžení neprišlo mu na um, že sa rúhal proti riadeniu Božiemu.
+   </tei:p>
+   <tei:p>
+    ﻿217
+   </tei:p>
+   <tei:p>
+    »Dobre! Aký si ty, taká budem ja. Vstaneš hneď a hneď a pôjdeš   narúbať triesok.« »Nevládzem.« Podvihol ruku, ktorá mu bez vlády   klesla na kolená. »Nevládzeš, keď nechceš. Musíš si chuti ako mak   pridať. Najtiaž sa len posošiť, a uvidíš. To sú nie polená, aby si   musel na ne kiahnicu dvíhať. To je haluzina, čo som ja včera   doniesla. Sekeru zodvihneš, haluz je preseknutá. Ťažkej roboty ti   nedávam; keď som ju ja mohla doniesť, ty veru ju môžeš posekať.«   Ondrej, utíšený trochu miernejšou rečou svojej ženy, pobral sa pod   cieňu ku velikej hŕbe haluziny. Ťažko veriť, že by to žena uvládala   na chrbte dovliecť. No kto pozre na mocnú Marienu, musí uveriť.   Chytil sekeru do ruky, ledvy ju podvihol. Podložil na klát haluz,   sekera padla, haluz sa nepreťala. Čo mocnému chlapovi hračkou, to   stalo sa Ondrejovi ťažkou prácou. Pot vystúpil na čelo a oblial   vráskovitú tvár, tratiac sa v šedivých kostrnkoch dávno neholenej   brady. Ruky klesly do lona, ako z olova; sadol si na klát. Dvere na   izbe vrzly, pod stenou zastala si gazdiná. »Len to porúbaj, aby bolo   večer čo na oheň položiť. Obed máš pod ohniskom hotový. Na poludnie   podojíš kravu, ja len večer prídem od sena.« Uviazala si na chrbát   batôžtek, vzala do ruky hrable a pružným krokom vyšla podstenou na   ulicu.
+   </tei:p>
+   <tei:p>
+    ﻿218
+   </tei:p>
+   <tei:p>
+    Ondrej ťažko vzdychol. Vložil hlavu do dlaní a ztratil sa v   starých rozpomienkach. Jediný syn bohatého Pavla Kutráňa strávil   mladé časy v hojnosti, bez starosti. Všetko, čím môže osud obdariť   človeka, všetko mal. Mladosť, zdravie, kamarátov, pole, hory, a   nadovšetko rodičov. Pod ich krýdlami vyrástol v krásneho junáka.   Neokúsil, čo je žiaľ a čo je starosť. Ešte i to srdce, keď vzplanulo   prvou láskou, bolo pred horkosťami chránené. Veď tá, ktorá mu bola   drahou, skoro od kolísky bola mu rodičmi obecaná. Dvadsiaty rok stal   sa mu osudným. Rychtár pojal ho do mesta a prívetivé s ním   zaobchodil. Cesta nebola smutná; šli s ním všetci vrstovníci   podperení, so spevom. On si tiež spieval, ale akýsi nepokoj svieral   jeho srdce. Keď došli do mesta, rychtár ani sa neobzrel o ostatných.   Pojal ho do hostinca a núkal mu všetko, čo si len duša zažiada.   Hostinský založil celý stôl jedením a pitím, ale Ondrejovi chuť na   nič neprišla. Rychtár ho voviedol do jedného veľkého domu, ktorý sa   volá vidieckym (akiste preto, že v ňom vidno mnoho pánov), tam ho v   akejsi veľkej izbe povyzvŕtali, pán so šabľou potľapkal ho po pleci a   zapísali ho do velikej knihy. Kamaráti vrátili sa hneď popoludní zas   so spevom; Ondrej len večer so svesenou hlavou, s ostrihanými vlasmi   a akousi ťarchou na duši.
+   </tei:p>
+   <tei:p>
+    ﻿219
+   </tei:p>
+   <tei:p>
+    Čo mu osožilo, že ho rychtár celý večer traktoval, rozhováral, že   celá obec hľadela naň. ako na nejakú vyššiu bytnosť, že mu bolo   dovolené v prostred dediny obecný most rozhádzať, kamaráta bez   príčiny ubiť, s každým sa vyvadiť a nebáť sa ani rychtára? Zo   všetkého mu nebolo nič. Prišla jaseň, mať napiekla bielych ako sneh   koláčov, poliala ich horkými slzami a poukladala do novej tanistry.   Tam . boly i biele košele, vyhladené ako list, i rychtár doniesol dar   od obce: štyri nové košele mušlienové a peňazí toľko, že ich Ondrej   ešte nikdy nemal. Pred domom zastal voz, sám rychtár ho najal, v ňom   zapriahnuté štyri kone, ako lasice, stužkami a šatkami vykrášlené,   ani na svadbu. Skočil do voza, sadol k rychtárovi a viezol sa   dedinou, ktorá ho celá vyprevádzala. Ruky sa k nemu tisly; on nevidel   nič, len stískal ruky občanov na slepo. Oči sa mu zalialy slzami. Iba   na okamih videl jasný obraz cez svoje slzy. Na môstku pred domom   stojí dievča, ako by ho bol prikoval k zemi. Netisne sa k vozu, ani   neplače, hľadí za ním v nemom bôli, len jej oči vravia: »ILúbim ťa, i   budem ťa ľúbiť.« Tri roky ťažkej vojenčiny minulý, Ondrej vrátil sa   šťastný do svojej dediny. Otca už na svete nebolo. Ešte do hôd   slávila sa u Kutráňov svadba a Ondrej po troch rokoch odriekania tým   živšie sa tešil svojej domácnosti, posvätenej láskou.
+   </tei:p>
+   <tei:p>
+    ﻿220
+   </tei:p>
+   <tei:p>
+    Bol by sa tešil dodnes, keby dedinu nebol navštívil čierny hosť.   Ako každý hosť, tak i tento usalašil sa do najmilšieho domu v celej   dedine, do Kutráňov. Azda sa mu švarná, hodná nevesta popáčila,   odvliekol ju so sebou. Dosť sa mu ona bránila, dosť sa Ondrej   naplakal: prvou obeťou horúčky, prinesenej z Pešti, stala sa   Ondrejova mladá žena. Tri roky pokoroval za ňou, a bol by pokoroval   dodnes, keby nebol musel svojmu domu dať súcu gazdinú. Vyhliadol si   tichú, starú vdovu. Čo v nej hľadal, to i našiel. Keby bol hľadal   viac, bol by našiel viac. No jeho srdce zostalo zamknuté, zámku od   neho s prvou hrudou hodil za svojou prvou do hrobu. Tichá vdova,   skľúčená vekom, umrela. Ondrej zostal druhý raz vdovcom. Urobila ho   dedičom i svojho veľmi krásneho majetku. Bol by azda dodnes zostal   vdovcom, ale ľudia nedali pokoja. Ondrej, hoci už skoro bol v   šesťdesiatich, stal sa veľmi vzácnym ženíchom. Mnohé srdce vzdychalo   potajomne za ním, vlastne za jeho dvojrimštiakmi, ktoré vraj meral na   miery. Z otupelosti prebudily ho zrazu jazyky, i začal sa   povedomejšie obzerať vôkol seba. Oko jeho nevdojak stretlo sa s   čiernym okom dedinskej krásavice a mimovoľne spočinulo na ňom.   Plameň, ktorý z neho šibal, roztopil ľadovú kôru; pod jasom čiernych   očú vybledol v srdci jeho obraz prvej lásky. Ondrej cítil, že
+   </tei:p>
+   <tei:p>
+    ﻿221
+   </tei:p>
+   <tei:p>
+    povinnosťou živých je zabúdať na mrtvých a tešiť sa so živými.   ..
+   </tei:p>
+   <tei:p>
+    Tak, hľa, prišiel k svojej Mariene. Nešlo to pravda tak chytro,   ako sa to povie, alebo ako by bol Ondrej žiadal. Mladá žena kládla   mnohé podmienky. Kto odolá láske, menovite ak sa hlási takými   ružovými ústami ku starému, skoro šedivému vdovcovi? Ondrej podpísal   všetko žene, jemu zostala z veľkého majetku len výživa.
+   </tei:p>
+   <tei:p>
+    Výživa u milujúcej ženy stojí viac, než poklady Sardanapalove. Ale   výživa u mladej, krásnej čertice mení sa v číro-čistý jed. Týmto   jedom kŕmila skoro od tej hodiny Mariena svojho starého muža.   Žobrácka palica videla sa mu byť kráľovskou berlou. Bol by sa jej už   dávno chytil, ale nemohol sa vymaniť z jarma, ktoré si sám na šiju   složil. Jediným východom zdala sa mu byť smrť; túžby jeho niesly sa   jedine k nej, ako túžby každého ztrateného žitia, oslabebeného k tomu   ešte starobou.
+   </tei:p>
+   <tei:p>
+    Koľko ráz zahrúžil sa takto do starých rozpomienok! To bolo   jediné, čo mu ešte zostalo, i kde jeho duša našla trochu   uspokojenia.
+   </tei:p>
+   <tei:p>
+    Pod stenou ozvaly sa kroky. Ondrej sa strhnul. Ak by to bola ona a   pristihla ho trochu šťastným? Neopovážil sa podvihnúť hlavu.
+   </tei:p>
+   <tei:p>
+    »Čo tak sedíš, azda si chorý ?« To bol hlas jeho sestry Žofie.   »Nie mi je nič, len oddychujem.«
+   </tei:p>
+   <tei:p>
+    »A načo máš oddychovať, či si niečo robil ?«
+   </tei:p>
+   <tei:p>
+    ﻿222
+   </tei:p>
+   <tei:p>
+    Ondrej ukázal haluz, položenú na kláte a ešte nerozsekanú.
+   </tei:p>
+   <tei:p>
+    »A dala ti rúbať! Nebojí sa, že ju Pán Boh škára? Dala mu rúbať —   a vládzeš?«
+   </tei:p>
+   <tei:p>
+    »Ruky sú už ťažké; nevládny som, ako mucha, ale. . .«
+   </tei:p>
+   <tei:p>
+    »Ale — ale. . . A ty sa jej ešte trápiš! Ale tá má Boha pri sebe?   Nedotkni sa tej sekery, lebo, lebo... A kde je ona?«
+   </tei:p>
+   <tei:p>
+    »Šla k senu.«
+   </tei:p>
+   <tei:p>
+    »K senu — za rosy! Tam je ešte rosa, a už šla. Čo tam hľadá?   Nemohla si ona sama narúbať, taká mladica! Vieš, čo: nedotkni sa tej   haluziny. Nech si kladie na oheň, čo chce. Keď ona nechce, nech si   najme rubača; má za čo.«
+   </tei:p>
+   <tei:p>
+    Žofia hovorila chytro, rozochvenie opanovalo celú jej bytnosf.   Marienu nenávidela v základoch svojej duše. Proti ženbe bratovej   pracovala všetkou prudkosťou hneď od počiatku. Keď nemohla brata   sklátiť v jeho láske, zanevrela proti jeho domu a na svadbe sa   neukázala. No keď osud bratov chýlil sa vždy k horšiemu, nemohla   odolať, prirodzená dobrota priviedla ju opäť k nemu. Ale jednako   nemohla mu odpustiť poklesok, a koľko ráz sa s ním sišla, zakaždým mu   ho vytýkala.
+   </tei:p>
+   <tei:p>
+    »Ej, povedala som ti, povedala — ale nechcel si ma, na nešťastie,   slúchnuť. Ako ti mohlo byť. . . Alebo keby si sa nebol aspoň podpísal   — načo si sa len podpisoval ?«
+   </tei:p>
+   <tei:p>
+    ﻿223
+   </tei:p>
+   <tei:p>
+    »Veď to, veď to! Keby si bol ruku radšej odťal — keby si ju bol   odťal. Ej, veď druhý raz by bol i ja múdrejší.«
+   </tei:p>
+   <tei:p>
+    »Tak, tak, ale vtedy si sa hneval. Povedala som ti, aby si sa   nedal podviesť. A keby si bol býval mladý, ešte by ma nemrzelo: ale   človek v rokoch, pri rozume! Kde sa ti len rozum podel dať sa tak   prekabátiť!«
+   </tei:p>
+   <tei:p>
+    »Dajme tomu pokoj, už je darmo. Pán Boh ma potrestal za moje   hriechy. Načo som ho podkúšal; ale tá nešťastná ženba, tá ženba! Ako   som sa zariekol po smrti tej prvej, že na druhú ani nepomyslím, a ja   — takto...«
+   </tei:p>
+   <tei:p>
+    Ondrejovi slzy vystúpily v očiach. Kedykoľvek mu prišlo na um   blaho prvého manželstva, nemohol ich zatajiť. Jeho sestra nebola   takého mäkkého srdca. Plakať ju ešte nik nevidel, slzy bratove ju   tiež nahnevaly.
+   </tei:p>
+   <tei:p>
+    »Čo máš nariekať? Som len krehká žena, ale hanbila by sa. Chyť sa   rozumu: nebuď paholkom v svojom dome, ale nauč ju, kto si. Najtiaž   jej len raz ukázať.«
+   </tei:p>
+   <tei:p>
+    »Horky môj, horký! To sa už nedá napraviť^
+   </tei:p>
+   <tei:p>
+    »Rob si, ako chceš, ale taký blázon... Eh, čo ti tu budem   dotrízňať? Idem k senu. Dobre sa tu maj. Ale si zachovaj: ak takto   budeš povoľovať, ešte nebolo zle, ale bude.«
+   </tei:p>
+   <tei:p>
+    Vyšla na cestu, a Ondrej zostal pod cieňou, pohrúžený v temných   myšlienkach.
+   </tei:p>
+   <tei:p>
+    ﻿224
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    . ■./ Slnce zapadlo, Mariena Kutráňovie vošla do svojho dvora.   Prvé bolo, že hodila okom pod cieňu. Tvár jej zblčala hnevom: kopa   haluziny bola nedotknutá. Shodila batôžtek do pitvora, oprela hrable   o stenu a istým krokom vošla do izby. Bola pripravená, že jej muž   neposeká raždie, preto bola pripravená i pokarhať ho za to. Cestou si   vymyslela nový rad urážok, ktoré mienila mu hodiť do tvári. Muž ležal   na posteli. Nebol ani soblečený, len periny boly odtisnuté do kúta.   To ju znovu popchlo. »Zas vylihuješ! Veru by rada vedieť, kedy v   pekle sa už naspíš. Niet človeka na svete, čo by toľko drichmal.   Nebol by div, keby si od lenivosti zhnil za živa, aby... Čože — ani   sa ti nepohne!« Ondrej ležal na posteli, ani jedným údom sa nehýbal.   Mariena prikročila k nemu a trhala ho za plece. »Vstaň už raz! Keď sa   vo dne naspíš, potom sa nežaluj, že v noci ti nedá oka zažmúriť. Čože   nevstávaš ?« »Nevládzem«, odvetil Ondrej slabým hlasom. Mariena sa   zlostne zasmiala. »Nevládze, ustal v robote! Bol od rána pri sene, na   úpeku; vyniesol na prieloh štrnásť batohov, alebo hrabal celý   deň.«
+   </tei:p>
+   <tei:p>
+    ﻿225
+   </tei:p>
+   <tei:p>
+    »Keby vládal, robil by som.« »Mlč mi, ty leňoch! Čože si halí   sekal? Ale nevládal — sekať nevládze, do misy ho je dosť.« »Nebudem   ti dlho zavadzať. Môj obed je tam, pod ohniskom. Nemusí ti byť ľúto   za ním. Vezmi si ho a zjedz — mne ho už netreba.« Obrátil sa ku stene   a zastenal. Mariena pozrela naň zlostným okom a vošla do kuchyne. Na   kozube stál Ondrejov netknutý obed. Gríska, uvarená ešte ráno,   zapáchala kyslinou; na teplom mieste prekysla. Mariena sa vrátila do   izby, neistým okom hľadela na posteľ a dlho, dlho stála. Hotovila sa   k nejakému novému, neslýchanému činu; jej pekná tvár vyrážala boj,   ktorý ňou zmietal. Pristúpila konečne k posteli i preriekla: »Ondráš,   spíš? Čo ti chybí?« Jej hlas bol mäkší, než obyčajne, v ušiach   Ondrejových znel ako spev anjelský. Prešly roky a roky, čo ju takto   nepočul hovoriť. Bol by vyskočil na rovné nohy z postele, bol by ju   vyobjímal, bol by ju na kolenách odprošoval, ale nevládal sa hnúť.   Akási náhla mdloba šla mu na srdce, ochabovala jeho ťažké i tak údy.   Ani neodpovedal, len aby tú sladkú otázku ešte raz opakovala. »Ondráš   — — Ondráš! Čo sa ti stalo?« Jej hlas bol zas mäkší, tvárou prebehla   jej akási úzkosť. Sklonila sa nad ním, ako by
+   </tei:p>
+   <tei:p>
+    Martin Kukučí d : Sobrané Spisy U. 15
+   </tei:p>
+   <tei:p>
+    ﻿226
+   </tei:p>
+   <tei:p>
+    mu chcela pozreť do tvári. Ondrej cítil jej blízky dych, neha   omámila dušu. Oči zakryly sa vĺčkami. »Čo sa mi utajuješ? Ondráš — ja   sa bojím, prosím ťa...« Ondrej nemohol ďalej vydržať. Obrátil sa   tvárou k nej a pozeral dlho, dlho na ňu. Zdalo sa mu, že jej peknou,   mladou tvárou ihrá akási nevídaná črta mäkkosti. Azda to láska!   »Nechybí mi nič, Marka.« »Horky nič: obedu si sa nedotknul a v tvári   si taký zmenený!« »1 ty si trochu zmenená, Mariena. Možno, to ostatný   raz. Ach, Bože!« »Uvarím ti chabzdového kvetu, alebo ak ti je zle od   žalúdka, tromťalie. Si neprestydol?« »Nechaj ty to tak. Či tak, či   tak pôjdem. Hej, ja to cítim: pôjdem.« »Alebo poslať po doktora...«   »Načo: proti smrti niet lekára — sťa kedy umrieť.« »Čo mám s tebou   robiť, povedz! Takto ťa len nemôžem nechať. Veď by ma Pán Boh   potrestal.« V jej hlase vyrážal sa hlboký bôf, ba i čosi ako zúťalosť   dotklo sa Ondrejovho ucha. Hlava mu klesla do podúšok, na srdci   pocítil ľadovú ruku smrti. Čosi mu vravelo, že tu vytúžený cieľ,   koniec útrapám. Striasol sa pred veľkosťou okamihu, rty sa mu pohly k   vzdychu: »Ešte nie, ešte nie!«
+   </tei:p>
+   <tei:p>
+    ﻿227
+   </tei:p>
+   <tei:p>
+    »Choď mi po sestru a po rychtára.« »Načo — načo rychtár?« Mariena   zbledla prekvapením a strachom. »Odobrať sa od nich a poriadok   urobiť. 1 prorok vravel kráľovi: snáď dom svoj, lebo umreš!« Mariena   si prehodila šatku, ani neprihladila svoje čierne vlasy pod širokým   čepcom. V náhlosti vybehla, ako by chcela ukázať, že smrť je náhlivá.   O malú polhodinku vbehla poľakaná Žofia, za ňou rychtár s Marienou.   »To som vedela — hneď som to šípila. Mohol ešte žiť, keby bol mal   opateru«, hovorila rozhorčená Žofia. »Povážte si len, duša mu už bola   na jazyku, a ona mu dala triesky rúbať. A čo sa ho nahrýzla: horní i   dolní súsedia najlepšie vedia!« Mariena jej neodpovedala. Nie z   hnevu; ale cítila, že ju uspokojuje počuť svoje hriechy. »Pozrite tie   jeho šaty! Rychtár, pozrite: z Kutráňovho gazdovstva na lepšie šaty   sa nedostane! Môžete to tak nechať ?« »Čo šaty... aké boly, také sa   nosily. Rychtár, chcel som vám. . . Tuto mi z gazdovstva zostalo   dvanásť rimských striebra. Dáte ma pochovať, bude kázeň i verše.«   »Dobre, že si jej i tie nedal. Museli by ťa darmo pochovať, ako   žobráka. Ani do cmitera by ťa nepripustila. Dala by ťa pochovať za   múr.«
+   </tei:p>
+   <tei:p>
+    15*
+   </tei:p>
+   <tei:p>
+    ﻿228
+   </tei:p>
+   <tei:p>
+    »To je nie pravda!« vykríkla s bôľom Mariena; »ja si ho dám sama   pochovať, ako kresťana. Jeho peňazí nechcem.« »Nechaj ty to, Mariena,   tak. To je moja vôľa. Zgazduješ si výdavky — to moc stojí, roky sú   plané — Boh vás opatruj!« »A už umiera, môj brat radostný!« vykríkla   Žoťia a hodila sa na bezvládne telo bratovo. »Umiera ako žobrák —   otrhaný, zapustený!« Mariena pristúpila k smrteľnej posteli, ale   zolvica ju odsotila. »Choď ta, pred zrkadlo! Bude sa ti treba krajšie   nosiť. Zajtra už budeš vdovou, bude treba sa vydať. Nesbližuj sa ku   posteli.. .« »Nevravte také bohaprázdne reči pri tejto smrteľnej   posteli«, napomínal ju rychtár. »Čo bolo ako — ale toto je už moc.«   »Nie je moc; to je málo! Já vám dokážem.« Žoťia vybehla do kuchyne a   doniesla bratov obed. »Pozrite, takto ho chovala. Prekysnutou grískou   ho chovala! Umiera, lebo musí — od hladu. Ale ja nepopustím:   vyrozprávam všetko. To všetko musí byť v kázni i vo veršoch. Každý   človek musí zvedieť, čo vytrpel tento chorý človek. To všetko bude v   kázni.« Rychtár pozrel na jedlo a stiahol prísne obrvi. »Komu si to   varila, Mariena? Ja nemôžem uveriť, že mužovi, lebo ten má   zaintabulovanú výživu poriadnu. Komu si to navarila ?«
+   </tei:p>
+   <tei:p>
+    ﻿229
+   </tei:p>
+   <tei:p>
+    Mariena stála, ako socha. Priala si, aby sa mohla prepadnúť pred   svetom; hanbila sa nesmierne.
+   </tei:p>
+   <tei:p>
+    »To musí prísť do kázne, musí!« vyvolal nahnevaný rychtár. »Ja sám   prejdem na faru. Vy« — obrátil sa ku Žofii — »vy zostaňte tu, aby sa   mu niečo nestalo; dobre sa majte!«
+   </tei:p>
+   <tei:p>
+    * * *
+   </tei:p>
+   <tei:p>
+    Ondrej ležal na posteli, pri ňom sedela jeho sestra. Mariena   odišla do komory. Na druhý deň vrátila sa do izby s opuchlýma očima.   Celú noc strávila v slzách a na modlitbách. Jej túžba bola: aby Boh   dal jej napraviť dávne chyby. Ondrej Kutráň, hoci bol už zaplatil i   za pohrab, žije dodnes. Sotva by si ho poznal — akosi omladol. Nežije   už len rozpomienkam, ale i milej prítomnosti. Dvanásť zlatých, ktoré   taký obrat spôsobilý v jeho živote, daroval chrámu Božiemu. Na pohrab   ešte nemyslí, a jestli by ho vraj Boh povolal, má ho už kto   pochovať.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

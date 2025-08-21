@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1900256" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Mišo II : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6911
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Mišo II
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1900
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Mišo II
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Nášmu doktorovi prikvitla depeša, krátka, ako všetky telegramy,   ale srozumiteľná. „Manželka ochorela. Príďte. Lanie.“ Prišla zo   stanice najbližšej, z Dolčín. Skrkval ju nervózne a vopchal do vrecka   kabátika, ktorý visel na dverách farmácie, alebo, ak tak chcete,   ,ordinačnej dvorany Ani mu na um nepríde totiž, aby čakal   pacientov v kabáte —■ ba práve rozopäl i košeľu mušelienovú na   prsiach, i rukávy vyhrnul, aby ho neobťažovala. Keď depešu zariadil,   nahol sa otvoreným oblokom na ,piacu‘ — jeho byt je totiž na piaci —   či nezazrie nejakého človiečka niekde, čo by bol náchylný i pohnúť   sa. Pod veľkou jahodou na piaci leží rozvalený krivý Marko: hlava v   chládku, všetko ostatné na tuhom popoludňajšom slnci. Chrápe, ani čo   by pílil, a nepočúva, čo si rozprávajú naši ctihodní starci Ante a   Zorzi a ďalej od nich starý Tomic a melancholický Dominko.   ,Penzisti všetko — ľudia, ktorým vypadla z ruky motyka a čakan.   Zato sú stálou ozdobou našej piace. Neprejdeš po nej, aby ťa   nepozdravili, alebo niečo neprivolali, alebo aby neurobili poznámku o   tebe medzi sebou. Oni zvedia prví, čo nového v meste. Komu sa okotila   koza, koho vyspovedal don Roko, koho i na koľko odsúdili do chládku   na ,občine, komu zas vynadal doktor, alebo aké ryby doniesli na   piacu. Keď som čítal v oktáve Antigonu a pozdejšie ju videl   predstavenú v Národnom divadle, všetko sa mi zdalo jasné a   prirodzené, len jedna vec mi nešla do hlavy: chór starcov. Títo starí   musia byť všade, všetko vidieť, do všetkého sa miešať, o každom slove   Antigony 9*
+   </tei:p>
+   <tei:p>
+    ﻿132
+   </tei:p>
+   <tei:p>
+    alebo Kreonta vyspevovať po pol hodiny, a to vo veršoch — a akých   cifrovaných ešte! Pokladal som ich za výmysel Sofokla, za   zlomyseľnosť, aby neborák oktaván mal sa nad čím potiť a hlavu   ubolenú lámať.
+   </tei:p>
+   <tei:p>
+    No keď som vstúpil po prvý raz na našu piacu a videl na nej našich   penzistov, pochopil som, že je to vec reálna a odprosil v duchu sto   ráz starého Sofokla.
+   </tei:p>
+   <tei:p>
+    Krivý Marko akýmsi inštinktom prebudil sa i skočil na nohy, len čo   sa doktor vyklonil z obloka. Vie, že jeho potrebujú teraz, a jediným   dlhým skokom našiel sa pod oblokom farmácie. „Zavolaj mi Lešu!“   rozkazuje mu doktor. Marko drží čiapku, ktorú pochytil kdesi od   financa, pod pazuchou. Pozerá rozospatým okom dohora; každé slovo   doktorovo sprevádza pohybom vlastných úst, pokrytých temer úplne   rozčuchranými fúzmi. Robí to, možno, od veľkej úslužnosti, a možno mu   i treba každé slovo poprežúvať, ak ho chce zasadiť do tvrdej hlavy a   nevyviesť v nedorozumení nejakú hlúposť. „A nakedy?“ pýta sa   doktora.
+   </tei:p>
+   <tei:p>
+    „Zaraz.“
+   </tei:p>
+   <tei:p>
+    „A kde?“
+   </tei:p>
+   <tei:p>
+    „Sem.“
+   </tei:p>
+   <tei:p>
+    „So živým a či naprázdno?“ o v • r cc „So živým. „Dobre — budete   slúžení!“
+   </tei:p>
+   <tei:p>
+    S tým i odfujazdil od obloka. ,2ivo‘ podľa Daničičovho slovníka   znamenalo by zviera vôbec. Na našom ostrove ,živo‘ znamená koňa,   mula, mulicu — teda každé zviera premávkové, ktorým disponujeme,   okrem osla, ktorý sa volá podivným spôsobom ,tovar Koza, ovca —   vôbec všetky zvieratá, i mrcha žena k tomu — poctené sú všeobecným   názvom ,beštija‘.
+   </tei:p>
+   <tei:p>
+    ﻿133
+   </tei:p>
+   <tei:p>
+    Doktor, vybaviac túto najsúrnejšiu robotu, začal prezerať svoju   torbu, ktorú na takéto vychádzky nosieva, t. j. kapsu s liekmi a   nástrojmi. Keď sa presvedčil, že je v poriadku, hodil sa na kanap a   rozmýšľa o márnosti svetskej. Teraz si zdravý, ako manželka Lanicova   bola bez otázky zdravá, a o hodinu môžeš chorieť! Márnosť sa počala   miešať s nemárnosťou do jedného klbka — to sa všakovak snuje a   navíja: slovom, nezvedel, iba keď zaspal. Čo sa divíte! Po obede, v   Dalmácii k tomu! I najbystrejšia hlava oťažie, keď nevieš, kde by si   sa zavliekol od horúčavy. Myšlienky majú putá olovené a celé hodiny   nevieš, či spíš,’či nespíš; či si triezvy, či opilý. Zobudil ho   nehorázny štabarc, aspoň jemu sa zdalo, že nehorázny. To sa otvorily   dvere na farmácii. V nich stojí chlapina, dobrú hlavu vyšší od   priemernej výšky chlapa, s červenou čiapočkou šibenskou na hlave.   Šibenská — lebo sa dorábajú v Šibeníku, teda nie že by chlap bol súci   na šibenicu. Má čierne fúzy, ako vždy i teraz rozčuchrané. Sám v sebe   vysoký, zdá sa ešte vyšším, lebo je chudý. Pritom je postava dosť   nesúmerná. Výška, čo presahuje normál, môže sa privlastniť pedálom,   ktoré sú ako Žaškov, dlhé totiž. Môže sa i o ňom povedať, čo nemá v   hlave, má v nohách. Len laby nie sú dlhé, ako by ste mysleli. A možno   je to optický klam, lebo krpce sú pekne šité a nie neokrôchané; okolo   nôh niet toľko onuciek naokrúcaných ako u našich Oravcov, iba   jedny punčochy, pletené z domácej vlny. Zodvihol ruku k hlave a,   postaviac sa do frontu, pozdravuje po vojensky doktora. Kde sa naučil   salutovať, neviem, lebo i pri tej výške neslúžil nikdy kráľa. Tento   dlháň nosí krátke meno Leše. Zo sedlia-
+   </tei:p>
+   <tei:p>
+    ﻿134
+   </tei:p>
+   <tei:p>
+    ckej ctižiadosti nadelili mu meno pri krste, o akom u nás nikdy   nikto neslýchal — Alexander, alebo, ako to tu vyslovujú: Alešandro.   No keďže je to dlhé pre naše jazyky, skrátili mu ho na Leše.
+   </tei:p>
+   <tei:p>
+    „Odpusťte, pane, že ste toľko čakali.“ Začal, ako by rectoval   rechtorovi naučenú lekciu. „Ale som bol so živým v poli. A hlúpa   žena, čo chcete — nevie si rady. Nepošle dieťa na ľahkých nohách,   ale, nerozumná, teperí sa sama. A to je pekný kúsok cesty. Uf, či je   horúce!“
+   </tei:p>
+   <tei:p>
+    „A kde ste sa tak spotili?“ „Prosím vás, pane, horúčava je! A   trielil som ako divý v dolinu. Ach, či som sa spotil! Nemal som ani   kedy vypiť pohár bevandy. A núkala ma — treba uznať. Ale čo chcete —   keď je náhlo.“
+   </tei:p>
+   <tei:p>
+    Doktor mu hľadí do očú — ten pohľad možno vyzradil, že doktor   veľmi pochybuje o tej ,bevande nevypitej (je to víno rozriedené   asi napoly), lebo Leše začal ubezpečovať:
+   </tei:p>
+   <tei:p>
+    „Zdravia mi, pane, ak som jej mal slzu na jazyku! Ani čo by vtáča   v zobáku odnieslo! Ja vôbec nepijem, veď sami viete; najlepší ste   svedok.“
+   </tei:p>
+   <tei:p>
+    „Veď je nič, Lese. Boh vám daj zdravia!“ Podal mu tanistru, do   ktorej má prísť torba. Tanistra je červená, žltými kvetmi a belasými   pásmi zdobená s vlnenými mocnými frumbijami. Prímorský produkt   domáci. Milá mu je nielen preto, že je pekná, ale skôr, že mu ju   poslala do daru akási pacientka s Prímoria, ktorú bol liečil. Ktorá   to pacientka: nedozvedel sa nikdy, ani zo svojho denníka, kam vpisuje   každý vážnejší ,prípad Musela teda mať chorobu ľahšiu. A   jednako, hľa, keď sa vrátila do svojho kraja ta za prímorské vrchy,   nechcela sa zachovať, ako sa naučili chovať všetci ozdravení od tých   desiatich malomocných ... Vždy je príjemne naladený, keď vidí
+   </tei:p>
+   <tei:p>
+    ﻿135
+   </tei:p>
+   <tei:p>
+    tanistru; pripomína mu, že i taký dedinský Škoda alebo Billroth   môže tu i tu rátať na povďak. Obliekol kabátik, čo bol na dverách; je   biely, temer priehľadný. Postavil široký, slamený klobúk, aké azda   len plantážnici v Brazílii nosia, a ide za Lešom dolu schodmi.
+   </tei:p>
+   <tei:p>
+    No Leše sa ešte obzrel, či niečo nezabudol. A na niektoré veci   myslieť, mať ich v hlave, jeho je povinnosť, ako človeka   predvídavého, opatrného. A skutočne, pozrúc si pána, prerečie:   „Vezmite si ,lumbrelu!“
+   </tei:p>
+   <tei:p>
+    „A načo?“ spiera sa doktor. „Vezmite lumbrelu — obanujete!   Horúčava je — uf! A nebohý lekár z Počivala nepohol sa na krok bez   lumbreíy. Dožil deväťdesiat rokov, a nikdy nezmokol. Lumbrela sa zíde   kedykoľvek, pane, a nadovšetko na slnci, lebo slnce nešanuje, pane,   keď raz zapečie . . .“ „No, hajdmo!“ pretrhol doktor netrpelivo jeho   rozjímania. „No, dobre — dobre, pane!“ pristáva i on ochotne. Zkúsil,   že pán je človek trochu netrpelivý, často i prudký, že nehodno sa mu   protiviť . . . „Dobre, ako vy rozkážete, pane! Ja sluchám, ja som na   to — ja sa nemiešam... Poďme, či do ohňa, či do vody — ja som hotový.   Uf — bolo by v takýto čas lepšie do vody. Na moj’ veru!“ Sišli pred   dom na piacu — tam čaká doktora jeho foršpont — Lešovo živo,   priviazané o kyptavú jahodu. Najparádnejšia mulica nášho mesta, azda   i celej občiny. Pravá perla medzi mulicami. Výškou je ako väčšie   žriebä, srsti čiernej; zato sa i zovie Mórica. Nohy sú jej solídne,   viac mocné než rýchle. Štíhlosť vôbec nepatrí medzi jej ctnosti.   Rozrastená je príkladne, čo je zriedkavé v kanikuli, kde tráva   nerastie, skôr schne na súši a úpeku, tak že náš statok musí vyberať   zpomedzi
+   </tei:p>
+   <tei:p>
+    ﻿136
+   </tei:p>
+   <tei:p>
+    krovia tuhé harašiace steblá zelín, obyčajne aromatičných, alebo   ohrýzať chvojinu. No pre Moricu, tak sa zdá, Leše rezervoval kdesi   mastnejší pašienok, možno i záhonček lucerny, alebo i ďateliny. Zato   je ona tučná, a v máji, keď ju počne štekliť čerstvá trávička, i   šantovná, rada si i zaharcuje, zalomiac hlavu . . . Mórica je vôbec   živo rozumné. Teraz si, na príklad, obzerá doktora, sťa by mu chcela   povedať: „Človeče, neblaznej — šanuj sa. Ľahni si do chládku a vyspi   sa, ako všetci pravoverní kresťania. Nech psom tráva rastie, keď kone   podochnú ...“ No on nedá nič na jej radu. Vkladá bezodkladne ľavú   nohu do strmeňa. Vlastne strmeň — je to nie strmeň, ale povraz s   jednej i druhej strany spustený, že ho môžeš podížiť i skrátiť.   Mórica sa naprela na nohy, že by ju neprevážilo, i uhla sa ako mak v   chrbte pod jeho ťarchou, nie práve veľkou.
+   </tei:p>
+   <tei:p>
+    Medzitým chór starcov obstal doktora a či Moricu. Hľadia naň s   takou vážnosťou, ako by sa vyberal nie do Dolčín, ale najmenej do   najtemnejšej Afriky. „Prečo nenesiete lumbrelu?“ vystíha jeden.   „Slnce vás ohluší.“
+   </tei:p>
+   <tei:p>
+    „Ej, v Dolčinách horúčava. A kto vie, či bude meštrála!“   potvrdzuje druhý. Meštrál je vietor, ktorý v lete, keď je pekne,   poťahuje každý deň od mora a chladí atmosféru, nakoľko to od neho   vystane. „Naprav, Lese, vankúšik!“ rozkazuje tretí. „Znám ja, znám —   netreba mňa učiť“, odmieta ho Lese a napráva vankúšik, na ktorom sa   sedí.
+   </tei:p>
+   <tei:p>
+    „Oh — netreba sa hneď uraziť! Neprebil som ti hlavu“, karhá ho   starec pre spurnosť. „Starobu slúchaj, môj synko. Zíde sa ti!“
+   </tei:p>
+   <tei:p>
+    ﻿137
+   </tei:p>
+   <tei:p>
+    Doktor sa kníše sem a ta, či sa nemyká ,Samár — ako voláme   sedliacke sedlo, urobené z dreva, futrované slamou — či je dobre   pripásaný. No samár sedí ako uliaty. Obzerá, či je všetko v poriadku.   A darmo je, nemá čo vytýkať. Na samári je prehodený pokrovec — hoc i   nie perský, ale predsa upomína tuho na Čingalov, keď predstavovali   pochod svojho kniežaťa do kostola; tiež je totiž taký pestrý. Nad   kobercom je vankúšik, aby ťa kostra samára neomínala. „Skráť   ,praté!“ ozýva sa chór starcov. „Môžeš s oboch strán.“
+   </tei:p>
+   <tei:p>
+    A Leše priťahuje praté, spomenuté už strmene. Tie hrajú veľkú   úlohu v umení bezpečne sedieť v sedle a jazdiť. Ak sú pridlhé,   ustaneš skoro a nohy ťa zabolia v rozkroku. Pritom môžeš ľahko   vyletieť zo sedla, ak sa Mórica zľakne a skočí na bok. Ale keď ti   kolená prídu dohora, že ti je samár medzi nimi, sedíš bezpečne ani   helvetská viera a nevytiahol by ťa ztade ani ramárom. „Povraz držte,   to je najbezpečnejšie“, poučujú zas doktora tí z chóra. Povraz, ktorý   je okrútený okolo predných rohov samára, o ktorý je priviazaná   ohlava. Naše živo nenosí nikdy uzdy. No tejto rady doktor neuvážil.   „Treba sedieť ,fermo‘ a držať sa ,atento‘ — tak nikdy nespadnete.“   Všetko rady, ktoré i doktor dávno zná. Kto sa opustí a sedí bez   ducha, nedávajúc si pozor, ľahko môže spadnúť. „Leše, dai ty povraz   hospodárovi pekne do ruky. Nech ho držia v ruke!“ rozkazujú zas   starci. „Živo sa pokízne. Ak ho nedržíš za ohlavu, ľahko obanuješ...“   „A dobre, pane“, pristáva Leše, rozčúlený ich
+   </tei:p>
+   <tei:p>
+    radami „ja vám ho dám — ľaľa. Vy ho držte, taký ie zákon a obyčaj.   Škodiť nijako neškodí. Volím ja prísť o všetko, čo mám, ako aby sa   vám skrivil vlas na mojom živom . .
+   </tei:p>
+   <tei:p>
+    ﻿138
+   </tei:p>
+   <tei:p>
+    „Uchovaj Bože!“ zvolal chór starcov. „Držte ho vy, pane, držte   ...“ „Dajte už pokoj!“ odmieta doktor tiež netrpelive. „2 povrazu   niet najmenšieho osohu, ani bezpečnosti.“ Lebo povraz naozaj mnoho   neosoží. Keď sa ti živo potkne, prvá ti je starosť, ak ho máš v   hrsti, že ho chytro vypustíš a chopíš sa niečoho solídnejšieho — na   príklad predných rohov samára. Jeho bezohľadná odpoveď urazila chór   starcov a zarmútila. On mladý nepokorí sa zkúseným starcom. Poučili   by i jeho o slušnosti, no majú ohľad na to, že má ,patentu   (diplom), a zato má byť i rozumnejší. „A poručeno Bohu, ak nechcete.   Ale na každý spôsob je poriadnejšie, keď sa drží povraz v hrsti.“ „A   keď nechcú — kto ich prišili!“ zvolal Leše. „Poručeno Bohu!“   odpovedajú smutne. Doktor sa ešte presvedčil, či je tanistra dobre   priviazaná o samár, a vidiac, že je všetko v poriadku, rozkázal:
+   </tei:p>
+   <tei:p>
+    „Hajdmo!“ „Adijo!“ privoláva mu chór starcov. „S Bohom cestujte,   šťastne sa vráťte! A ty, Lese, drž živo za hlavu — živo je čert, a   pomaly, nenáhli...“ Keď zachodili za uhol domu, videli ešte chór   starcov, ako stojí pod kyptavou jahodou, pozerajúc za doktorom a,   nebodaj, rokujúc o ňom i jeho ,momkovi‘ Lešovi.
+   </tei:p>
+   <tei:p>
+    Ulice napospol prázdne a pusté, pusté. Také bývajú vždy v lete cez   poludnie. Veď je i horúčava neznesiteľná, najmä kde sa slnce opiera:   akási ťažká, hustá, zádušlivá. Brány na domoch sú pozavierané, aby sa   zlodej nevkradol. Na paláci sú spustené žalúzie, na domoch a   domčekoch drevené okenice tuho pri tvorené, pravda, čo sú od slnečnej   strany. Kde je tôňa. tam sú obloky zotvárané, nech
+   </tei:p>
+   <tei:p>
+    ﻿139
+   </tei:p>
+   <tei:p>
+    previeva izbami vetrík. No ani v týchto oblokoch nevidíš živej   duše. Všetko spí, premožené popoludňajšou omarinou. I sliepky sa   vyvalily do prachu a rozzäveným zobákom upia za vlahou. Pes sa   vtiahol pod hŕbu chvojiny. I Mórica, hoci v chôdzi, drieme akosi.   Kráča mechanicky, ako na štuliach, s ovesenými ušami. Nech ju Leše   nepoťahuje za ohlavu, zastala by a zdriemla v chládku. Vyvliekli sa z   mesta a ocitli sa ,v polľ. Aké to pole! I v Orave by ho volali   medzou, stráňou alebo čím takým. Každá parcela obohnatá múrom sťa   Jeruzalem. Skália na tieto ohrady netreba, chvalabohu, nosiť z   druhého chotára, ako museli chudáci Drženičania, keď stavali kostol.   Máš ho všade dosť, rozhodne viac, než v dačolômskom chotári, ba hoc i   na ceste z Brezna do Polhory. A kde parcelu obrobili, vysadili   vinicou, zvýšilo ho ešte toľko, že sú ho celé hromady naukladané, sťa   bašta nejaká. „Pusťte ju!“ rozkazuje doktor Lešovi — Moricu   totiž.
+   </tei:p>
+   <tei:p>
+    Cesta ide nadol dosť strmo, nie je veru ani rovná. Hroble, grapy,   tu zasa celé tably, vyhladené konskými kopytami. Poťahuj mulicu, ona   sa ti ľahko poklzne dolu takou tablou a ty sa nájdeš ľahko pod   ohradou. „Ale je nebezpečne, pane!“ protestuje Leše. „Živo môže sa   pokíznuť a padnúť.“ „Práve preto ho nemýľte. Nech si samo nájde   chodník.“
+   </tei:p>
+   <tei:p>
+    „Áno, áno. Ale keď sa prevalí!“ „A vy to prekazíte takto? Máte   toľko sily?“ „A ako by nemal? Chvalabohu, zmôžeme ešte v * ICC   čosi!
+   </tei:p>
+   <tei:p>
+    „Len nespadnite i vy!“ „To už nie, pane!“ zvolal urazený. „Ja som   sa neopil. Či by ste verili: dnes som nevidel vína!
+   </tei:p>
+   <tei:p>
+    ﻿140
+   </tei:p>
+   <tei:p>
+    Nerečiem, áno, regulicu, čo sa vypije ráno a na poludnie. Ale to   pod spôsobom, pane! Nie, nie, pane: nie sme my takí. Ako by sme boli,   Bože uchovaj, Vlasi! Oh, nie! Vlach vám je taký: recte mu: pusť živo!   A on ho pustí, nech sa robí, čo chce, a vy hybaj do priekopy. A on sa   ešte smeje, že sa vám povodilo... Nie sú to ľudia, pane, ó, nie. Keby   ste vedeli, akí sú — bez vzdelanosti, bez mó-
+   </tei:p>
+   <tei:p>
+    resu...“
+   </tei:p>
+   <tei:p>
+    Lese je teda zas v svojom elemente: o Vlachoch, obyvateľoch to   Prímoria a najmä nášho Zagoria. On, ostrovan, pokladá seba za vyššiu   bytnosť, Vlachovi len že neupiera i hodnosť ľudskú. A skutočne,   pozorujúc ostrovana a Vlacha, skoro bys’ pochyboval, že to ten istý   národ a ľud. Ostrovan podujímavý, živý, pomerne pracovitý — Vlach   ťarbavý, pohodlný a divne konzervatívny. Ináč, ako osoba, Vlach je   sympatickejší. Nie je namyslený, ale až veľmi ponížený: je poddajný,   mäkký, veľmi zdvorilý a úslužný (ak ho to nestojí primnoho námahy).   Vie byť i potuteľný. vie sa i pretvarovať a nasľubuje ti hory-doly.   Tieto dva typy opovrhujú sebou, plní sú predsudkov jeden o druhom. I   tu sú dediny, o ktorých kolujú legendy: ako našli ,kobuľacô   vajce a odťali kobyle nohy, aby ho vysedela; ako pomkýnali   kostol na hrachu i ako siali soľ; alebo ako išli do Benátok kúpiť   rozumu . . .
+   </tei:p>
+   <tei:p>
+    Lese sa rozkrákoril o Vlachoch: ako pijú, ako sa bijú medzi sebou,   koľko vrážd sa medzi nimi prihodí — všetko veci dosť pravdivé. No   pritom nezbadal, ako sa mulica potkla na hrobli a podkľakla. Doktor   ostal v samári, i Mórica sa zrepetila, trasúc sa na celom tele od   strachu, ale Lese vsadil klin do zeme . . . Len šťastie, že nestrhol   Moricu, ktorú ustavične drží, zas na zem. Sobral sa i on, no   pokrivuje akosi.
+   </tei:p>
+   <tei:p>
+    ﻿141
+   </tei:p>
+   <tei:p>
+    „Vidíte, hovoril som: pusťte ju, a vy neslúchnete. Ako vy môžete   predísť, aby sa nepokĺzla? Mne nerobíte osohu, ani mulici — ba môžete   ju skorej strhnúť: a sebe robíte daromnú robotu ...“
+   </tei:p>
+   <tei:p>
+    „Ó, nebojte sa, pane, ja ju držím. Ej, keď ju ja držím, nemôže   ona, ani na krok.“ „A pred chvíľou ste padli!“ „Ó, to sa noha   pošmykla. Vyhladený kameň a opanky vyhladené tiež ... Nešťastná   hrobľa, ja vždy hovorím, prečo občina niečo nerobí... Ako sa držať,   keď sa noha svezie? Ale hodiť, aby hodila, mňa nehodí. Oj,   chvalabohu, vládzeme ešte!“
+   </tei:p>
+   <tei:p>
+    Doktor uznal, že sú to márne reči. Leše je pevne presvedčený, že   by sa mulica zabila a pán s ňou, nech ju on nepoťahuje za ohlavu. „A   pustiť ju nesmiem, pane. V dedine by ma zabili, nech by sa vám niečo   — božechráň! — stalo. Lebo vy ste na mojom živom, ja som zodpovedný,   nikto iný ...“
+   </tei:p>
+   <tei:p>
+    Doktor sa už nedohaduje; ani neodpovedajúc, zvolal prosto na   Moricu „Pr-r-ŕ!“ Tá slúchla a zastala odrazu.
+   </tei:p>
+   <tei:p>
+    „A čo rozkážete?“ zvolal Lese. „Sostúpiť? Dobre, dobre, pane! Len   pozor!“ A složiac čiapku, chytá samár s druhej strany, aby sa   neprevážil. Doktor sa poberal svojou cestou, pešky. Ani sa už neozrel   o foršpont. Lese stojí v nedorozumení, čo to zas vymýšla tento divný   patrón. „A čo vy, pane? Prečo nevysadnete?“ volá za ním zhrozený.   „Vysadnite si vy, ja radšej pešky. Volím pešky, než aby mi kto   poťahoval živo za ohlavu.“ „No, dobre, dobre, pane! Odpusťte!   Vysadnite a rozkážte! Vy rozkážte, ja sluchám — na to
+   </tei:p>
+   <tei:p>
+    ﻿142
+   </tei:p>
+   <tei:p>
+    som ja a vy ste hospodár. Prečo nerečiete ,pusť‘, a ja by ju   pustil!“ Doktor zas vysadol a rozložil sa pohodlne v sedle. Mórica   kráča sama, bystro a bezpečne, vyberajúc si sama chodník. Chôdza jej   je omnoho rýchlejšia, možno i jej milá svoboda. Kde je cesta   schodnejšia, tam i pobehne, ako statočná mulica, bez poháňania. Možno   ide chytrejšie, lebo sa rozhodila a zabudla na gazdov dvor a jeho   pôžitky. Taká mulica ťažko sa dá nakriatnuť do cesty. Z dediny len   horko-ťažko ju vytiahneš. Ale keď je raz v poli a oddialila sa od   dediny, ide chytro. Azda zato, aby sa čím skôr odbavila a mohla zas   vrátiť domov. Tak i Mórica — už vie, že musí ísť najprv do Dolčín, a   kým sa tam neodbaví, že nieto návratu: možno, zato i zaberá tak   čerstvo. Leše ciepka za ňou pohrúžený v nemilých myšlienkach. Doktor   je spokojný v povedomí víťazstva. Iba je chyba, že Mórica, ako každé   živo vôbec, nechce ísť prostriedkom, ale ide ustavične po kraji. A   pri kraji sú alebo múry, alebo kríky — ak si nedáš dobrý pozor, môžeš   si ľahko dokaličiť nohu. Preto buď hotový každej chvíle prehodiť nohu   ponad samár, alebo ju vystrieť k samej hlave mulice. Je v tom trochu   gymnastiky a ceste to dodáva rozmanitosti a tebe zábavy, ak nehľadíš   na to práve tragicky. Leše vedie za nimi svoj monolog ďalej.   Nevedieť, či sa modlí a či hreší. Len kde-tu sa prihovorí; ale nie   pánovi, lež Morici. „De-de-de!“ ak príde priblízko k múru, a v taký   čas dodá: „Odpusťte, pane, hlúpe hoviadko nevyberá, kde kročí: ide,   ako chce, keď sa nevodí. Na, malá — na na!“ tíši ju zas, lebo treba   pritiahnuť šíry. Slnce im vytrvale praží do chrbta. Akási ťažoba   rozlieva sa údmi. Najradšej by si sa vyvalil tam pod olivu a spustil   ťažké vĺčka na oči, ktoré
+   </tei:p>
+   <tei:p>
+    ﻿143
+   </tei:p>
+   <tei:p>
+    slnce uráža a báda. Bolo by ešte lepšie vtiahnuť sa do jednej z   kolíb, ktoré sú po viniciach, a vyspať sa spolu s težakmi. No   jašterice treba obdivovať. Hmýria sa všade po ceste. Vypeká sa to na   slnci lenivo, a keď sa živo blíži, ztratí sa kdesi v múre. Často   mihne cestou i had, ale sa tiež vtiahne do kamenia. Bude to len   užovka. Vretenica nevystúpi. Ona sa napajedí, vyzdvihne hlavu a začne   sipieť. Vyšli na kopec, s neho sa otvára nový vidiek. Prímorie s   reťazou holých, sivých vrchov, na nich kde-tu chlp hory, sťa čierna   záplata na šedivom kabáte. Medzi Prímorím a tebou odpočíva more,   belasé, tiché, prívetivé. Ako by ti zaprúdil nový život žilami.   Vetrík poťahuje od tichej hladiny, chladí a lahodí. More, zatvorené   Prímorím s jednej a ostrovami s druhej strany, je sťa jazero. Na ňom   sú rozosiate biele body, sťa by bol naň vyšiel kŕdeľ husí alebo   labudí. To sú bárky pod nadutými plachtami. Vyšly z prístavov s týmto   vetríkom a letia ta na všetky strany za svojím cieľom. Pri tomto   pohľade zabudneš na všetko; i celý vidiek, smutný, vypálený od slnca,   zdá sa ti rajom. I vzduch je presýtený morskou parou, tou vôňou,   ktorá Pomorcovi dáva života a bez ktorej sa cíti opusteným tvorom,   nešťastným na tomto svete. „Zapnite sa dobre!“ napomína Leše doktora.   „Prestydnete!“ A i on sám sa pozapínal, hoci sa mu znoj cícerkom leje   dolu tvárou. „Ach, hlúposť!“ odpovedá doktor. „Komu by tu prišlo na   um nastydnúť!“ „Ej, môj otec tak. Stál takto na meštráli, uznojený,   dostal zapálenie. Ľahko dolapiť — ťažko vyliečiť ... A vás netreba   učiť. Vy viete viac spávajúc, ako ja takto. Eh, nauka je nauka; a akú   my máme náuku? A nebohý doktor z Počivala vždy
+   </tei:p>
+   <tei:p>
+    ﻿144
+   </tei:p>
+   <tei:p>
+    nosil kepeň a na vetre sa pozakrúcal a ešte držal lumbrelu proti   vetru. A dožil deväťdesiat rokov, Boh mu daj raj! Každému sekal   žilu... koľko ten krvi vytočil: ja myslím viac, ako vo všetkých   pivniciach vína ... Ale sa hľadel. Od dažďa, od slnca a od vetra .   ..“
+   </tei:p>
+   <tei:p>
+    „Môj drahý, my nie sme toľme hákliví a rozmaznaní — my, čo sme tam   odtiaľ“, ukázal mu doktor na sever.
+   </tei:p>
+   <tei:p>
+    A mihol mu hlavou obraz z detstva. Ako trávil celé dni na kĺzačke,   alebo na sánkach, prplajúc sa v snehu. Ako nechcel posedieť pod pecou   horúcou, ale vždy von, kde je zima, čo reže až do kostí... A akú mal   odev a obuv! Koľko ráz sa vykradol sánkovať bez odedze vôbec! Koľko   ráz sa vrátil so skľavenými rukami, alebo keď mu za nechty zašlo a   mať mu ruky vstrčila naostatok do studenej vody ... „Eh, čo!“ pohodil   Lese hlavou. „Viem ja, že ste naučení na inakšie ,arie‘. Ale nikdy   nezaškodí, keď si dáš pozor“, doložil vážne. ,Aria‘ nášmu Lešovi   neznamená nápev, ale povetrie, počasie a trochu i podnebie. Doktor sa   zadumal. Ako keď poľom preletí znezrady kŕdeľ holubov, tak i jemu   mysľou preletely staré rozpomienky. Kde sa vzaly? Ako — prečo práve   teraz?... Dedina roztiahnutá pri potoku s úpustom, drevené mosty,   akých už dávno nevidel, domce vybielené, s peknými štítmi a hálkami.   Okolo potoka vŕby, v sadoch a dvoroch jasene a staré hrušky. A v nej   domec, úzky dvor, dosť dlhý, do ktorého vedú vrzgotavé vráta... Ba čo   tam dnes robia? Zbožie sa ešte bude vlniť pod vetrom sťa tu toto   more. Čierne hory. šumia, spievajúc svoju večnú hymnu. I ,tam‘   rozsýpa slnce dnes svoje žhavé lúče — i tam sa smeje týmto širokým,   dobroprajným smiechom. A kto vie, či
+   </tei:p>
+   <tei:p>
+    ﻿145
+   </tei:p>
+   <tei:p>
+    nehrmí i búrka nad krajom; tá, ktorá osvieži, omladí ustatú zem a   očistí povetrie... A národ príčinlivý bude sa od svitu do mraku   oháňať kosou a stavať kríže, až ich bude plný chotár, a okolo krížov   spievať svoje piesne. Kde je dobre každému, kto nosí čierny kabát,   lebo ho zovú veľkomožný Koľko to tam tých veľkomožných, a   nikomu nemôžu pomôcť.
+   </tei:p>
+   <tei:p>
+    „O-o-o!“ čuje kričať Leša, ani čo by to bolo s druhého uhla.   „O-o-o! Pane!“
+   </tei:p>
+   <tei:p>
+    „A čo je?“ V tie časy ho šibla haluz po tvári, chladná, aromatická   chvoja bora. Vytrela mu oči, zahnala z nich dumu. Klobúk mu kamsi   hodilo, Lešovi pod nohy. Haluz, prevesená nad cestou, ešte sa kolíše   po tomto výkone a doktor sa drží rohov na samári, lebo bol ztratil   rovnováhu a len že nevyletel zo sedliska. Mórica, tušiac, že sa   prehrešila, zaberá v dolinu, aby ju gazda nedohonil.
+   </tei:p>
+   <tei:p>
+    „Pr-pr-ŕ!“ kričí za ňou Leše. „Moja, moja, na-na-na!“
+   </tei:p>
+   <tei:p>
+    Čím viac on kričí a beží, tým lepšie uteká ona. Cesta nie je rovná   a jazdec môže ľahko vyletieť, ak jej tu vhupne do hlavy vystrájať   olympické hry.
+   </tei:p>
+   <tei:p>
+    Doktor tuší, že Mórica uteká pred Lesom. „Stojte, neutekajte!“   okríkol ho, obrátiac sa k nemu, nakoľko možno, v tej súre. „Ale vás   hodí, pane!“ kričí Lese skoro v plači. „Pr-pr-pŕ! Moja, moja! Ajme   meni — čo som ťa nevodil, nešťastný!“
+   </tei:p>
+   <tei:p>
+    A Mórica trieli v dolinu. Počala i hlavu zavíjať k zemi — vidno,   má čosi za lubom. Terén je príhodný, môže prehodiť jazdca ponad hlavu   a potom sa vyskákať, ako svedčí. „Stojte!“ kričí doktor ešte raz.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané spisy XIV. io
+   </tei:p>
+   <tei:p>
+    ﻿146
+   </tei:p>
+   <tei:p>
+    Vtom sa prihol, chytil ju za ohlavu a dvíha jej hlavu dohora. „No,   a teraz skáč!“ myslí si doktor. A Mórica neskáče, ale stojí ticho a   krotko. Veľká hlava s nemóresnými ušami vyzdvihnutá jej je dohora.   Odfukujúc zťažka nozdrami, čaká pokojne gazdu, ktorý sa priplichtil   opatrne so strany a hrnatol ju za ohlavu. Druhou rukou podáva   doktorovi klobúk.
+   </tei:p>
+   <tei:p>
+    „Trochu ho zmäkušilo“, zvestuje mu. , čudná vec, že ho   nezlomilo. Vidí sa, tovar je inakší, než čo nosia težaci. Ale i tak   je zle. Nebodaj vás treslo po hlave. Darmo je, naše cesty nie sú   také, ako tam po vašich mestách. Toto sú vonkoncom nanič a u vás budú   ako dlaň. Akože nebudú, keď môžeš na koni i vozom. A tuto? Probuj, ak   si boží! Môže sa povedať, pane — toto sú ani nie cesty, veľa by sme   ani neschybili... Aká je to, braté, cesta, keď sa môžeš každú chvíľu   zmárniť. Nemôžeš sa tu obísť béiz momka, nie — daromná hodina! A pýta   sa momak súci, čo má tvrdú päsť; nech živo drží tuho za ohlavu. Lebo   kde je cesta — ach, to je iná vec, tam je nežiaľ: ale toto nech ráči   uznať vaša dobrota — toto vonkoncom nie je cesta ..
+   </tei:p>
+   <tei:p>
+    Takým rozjímaním kráti mu chvíľu. Moricu drží za ohlavu a pozerá   pilne pod nohy, sťa by hľadal na ceste dukáty. „Ej, viem ja, ako   treba živo — i spôsob i fortieľ .. Dosť som sa s ním natĺkol sveta!   Nebohý doktor, keď mal do našej dediny ísť, nechcel z Počivala iba so   mnou. Lebo naše mesto ešte nemalo doktora, ale bolo načim chodiť poň   do Počivala, ak bola komu na príklad potreba. Ej, nebol vtedy doktor   za uhlom — musel si si povystierať nohy, kým si k nemu prišiel. A len   ak si ho ujal v dome a nebolo čakať po dve i tri hodiny! Ale nebolo   ani
+   </tei:p>
+   <tei:p>
+    ﻿147
+   </tei:p>
+   <tei:p>
+    chorôb takýchto všakových vtedy. A ľudia umierali od staroby alebo   zapálenia. Krv púšťali každému, ale i boli vtedy chlapi. Eh, vína sa   pilo, mäsa sa jedlo, krv sa ľahko upálila. I veru starý z Počivala   vždy len so mnou, nikdy sa nič neprihodilo. Bol starý človek, nuž   dožil deväťdesiat. Boh mu daj raj: ja ich nedožijem . . . Ej, pekné   cesty som ja vykonal, pane — vo dne i v noci, v daždi i po slnci...   Eh, Bože môj, čo je človek? Trápenie a starosť, a keď sa vyvalíš — s   Bohom! Eh, poručeno Bohu!“
+   </tei:p>
+   <tei:p>
+    „A kde ste vy všetko boli, Leše?“ pýta sa ho doktor.
+   </tei:p>
+   <tei:p>
+    Vyrátal mu celý lajster mien. Vysvitlo, že náš Leše nebol s   ostrova ani krok.
+   </tei:p>
+   <tei:p>
+    „Nuž vcelku som videl dosť nevôle“, zakončil svoje rozjímanie. No   hľadaj, ako chceš, ale nenájdeš na ňom veľkých znakov tej nevôle a   starostí. Tvár tvrdá, sťa z bukového dreva vykresaná, i to len z   väčšieho, lebo chýbajú na nej niektoré zbytočné jemnosti. Ani teraz   niet na nej vzrušenia. Iba čo sa v chôdzi rozhorúčila a pokryla   jarkami znoja. Uši trčia neohrožene popri čiapke a ich spodný lalok,   neobyčajne dlhý, hoci niet v ňom náušníc, ba nie je ani prebodnutý —   opála sa v chôdzi. Doktor sa musí usmiať, pozorujúc túto nehybnú tvár   s vysadenými kosťami a mohutnou spodnou čeľusťou — tvár, ktorá by na   javisku urobila nesmierne fiasko. „E, smejte sa vy, smejte, pane!“   odpovedá, ale nie urazený. „Raz som išiel o polnoci do Počivala po   nebohého doktora. Bola ochorela šora Mene a nechcela poshovieť do   svitania. A dážď a rosa...“ Po chvíli zas doložil: „I otec ma bol tak   vyhnal, ale to bolo v zime. Po vrchu bolo snehu skoro do členkov.   Naľakal sa, že má zapálenie, a Leše rušaj do Počivala.“
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿148
+   </tei:p>
+   <tei:p>
+    Doktor sa už rozosmial. Najväčšmi na tom ,snehu skoro do   členkov Leše sa rozosmial s ním: nazdal sa, že sa doktor smeje   na jeho otcovi. Y tom smiechu buková jeho tvár bola ešte nehybnejšia.   „A čo si počnete? Divný starý! Všeličo mu príde na um. Dnes sa   vyvadil so mnou, že som vám vraj predal Moricu. Diabli na piaci ho   nabadúrili. Eh, planý je náš svet neslýchané. Vymyslí, čo sa ti   neprisnilo. A Moricu vraj držím očistom, aby sa nezvedelo, že je   predaná. Pomyslite, akí ľudia!“ „Svet je všade taký“, doložil doktor.   „Ale nikde, ako u nás. Verte mi, ja viem najlepšie. Pravda“, — a tu   sa zamlčal nad novou ideou, ktorá ho nadišla, — „musím povedať, že   neviem lepšie od vás. Neučil som náuky, ani sveta neschodil, ako vy.   Ale viem dobre, náš svet je mrcha.“ „A čo si počnete? Už vám je raz   tak!“ „A terah nech vám poviem, čo — keď som sa ženil.“ Napráva   čiapočku na hlave a utiera pot. „Všakové mi robili prekážky. Ju   odhovárali — ale ona tvrdo ...“
+   </tei:p>
+   <tei:p>
+    „A čo, bola pekná?“ vyzvedá doktor. „Nuž, čo hovoriť! Mne áno. A   vy ste ju videli — môžete súdiť sami. Pravda, roky žerú krásu • •• VV   • CC najvacsmi. Doktor neodpovedá, čo súdi. Zdá sa, že z jej   terajšieho vzhľadu nemôže nijako vybrať bývalú krásu.
+   </tei:p>
+   <tei:p>
+    „Čo ako — ale kalavná bola. Kus dievky! Nemusela sa hanbiť. Ale   roky, trápenie, hryzovisko so starým — i robota, pane, robota derie a   bije nás težakov a ukladá do hrobu i pred časom .. . Eh, ľahko by   bolo, keby ti nebolo hrdlovať. Ale načim premýšľať, trápiť sa a   trudiť.“ Proti nim pohybuje sa päť veľkých hŕb chvojiny a na ostatnej   hŕbe, sťa koruna všetkého, sedí asi dvadsaťročný chlapík a zíva.   Možno si bol i
+   </tei:p>
+   <tei:p>
+    ﻿149
+   </tei:p>
+   <tei:p>
+    zdriemol. Nie, nejde to chvojina, to sú mulice, naložené chvojinou   a zakryté. Leše sa hrozne najedoval, vidiac túto nevšímavosť.
+   </tei:p>
+   <tei:p>
+    „Pr-pr-pŕ!“ kričí proti muliciam pod chvojinou, rozhadzujúc   rukami. „Prekliate beštie! A nevie, že by bolo vystúpiť. Pane, pozor,   nech vám nezachytí nohu .. . Aj, prečo si gazda nevodí hoviadko rúče   za ohlavu, ak je z Boha? Takto pustiť na vospust sveta. Oh, bez   všetkého móresu!“ Leše pritisol Moricu k samému múru a drží ju za   ohlavu. Druhou rukou naráža mulice pod chvojinou v druhý kraj cesty.   Doktor, k vôli bezpečnosti, prehodil nohu na druhú stranu samára.   „Pomaly, kumpare Leše!“ prihovára sa šuhaj na chvojine. Doktora si   všimol až teraz, a pozdravuje ho: „Falen Isus!“
+   </tei:p>
+   <tei:p>
+    „Ach, nejdem ja veselo, kumpare Tone!“ odpovedá Leše obvyklou   formulou na príhovor kuma Anta.
+   </tei:p>
+   <tei:p>
+    „Ech, cesty sú mrcha!“ prihovára sa kumpar Tone doktorovi. „Ale čo   chcete — pacienca.“ „Veď tak“, odpovedá doktor. „Trpelivosť i   nasilu.
+   </tei:p>
+   <tei:p>
+    „Ej, nech si kto druhý“, dudre Leše, keď poodišli trochu, „či by   ti bol rozohnal driemoty! Vyobšíval by živo — eh, ale ako: kum ti je,   musíš mať ohľad . . .“
+   </tei:p>
+   <tei:p>
+    „Tak je, môj Leše“, odobruje mu i doktor. „I zaslúžil by, pane,   svobodno! Či je to spôsob: živo ledva ide a on ešte kväcne navrch. A   keby ho nevládaly nohy nosiť! Ale mladosť — mohol by lietať. Ej, keby   mne nameral jeho rokov! A keby nevidel, koho ženiem: ale vidí a nemá   ohľadu. Nie na mňa, my sme naši a kumovia — ale na vás mohol mať   ohľad, lebo ste osoba po-
+   </tei:p>
+   <tei:p>
+    ﻿150
+   </tei:p>
+   <tei:p>
+    riadna a vynikajúca. Nech sa vám — uchovaj Bože! — čo prihodí — na   koho by bolo? Na Lesa — mne by leteli k hlave, psohlavci! A dedina   bez lekára — i pomyslieť nehodno ...“ „Ani čo by nebolo starej   Dandule! “ zvolal doktor.
+   </tei:p>
+   <tei:p>
+    Danduľa je povestná doktorka. Lieči zelinami a pijavicami. Ľud   dôveruje zelinám a jej väčšmi, než všetkým fakultám sveta. Bylinu   stvoril Boh, dal jej liečivú silu; prášky vymysleli ľudia a bohvie,   čoho namiešali do nich. Doktor i teraz zbadá tu i tu jej ruku. Stane   sa to vtedy, keď sa prihodí Danduli, ako tomu debnárovi. Zavolali ho   pobiť sud. Keď ho už začal pobíjať, sa rozsypal. A debnár sa soberie   domov a rečie: „Tento sud sa rozsypal — tu treba debnára.“ I ona   často natrafí na prípad, kde sa musí utiahnuť. ,Ach, čo zná   Danduľa!“ zvolal s opovržením Leše. Zdá sa mu neslušným i hovoriť   pred doktorom o nej. „Vari sa učila! Bože môj, Bože!“ zvolal v   záchvate akejsi melanchólie. „Človek nevidí na prst od nosa a že bude   druhého vodiť. A ja volím pod rukou doktora umrieť, ako pod jej rukou   ozdravieť. Darmo je — ja som raz taký, lebo som zkúsil.“
+   </tei:p>
+   <tei:p>
+    Doktor sa práve chystal, že i tento kompliment zredukuje na pravú   mieru, keď tu zponad nich ozval sa čísi hlas:
+   </tei:p>
+   <tei:p>
+    „Pomaly, kumpare Lese!“ „Nebojte sa, kumpare Zore — nejdem ja   veselo!“ odpovedá zas Lese. „A neškodilo by, keby sme sa pohli   veselšie“, ozval sa doktor. odkedy ju vedú za ohlavu, ide s nohy   budete utekať?“ zamiešal sa Zore zpod leží v chládku, kým prejde   najtuhší
+   </tei:p>
+   <tei:p>
+    ﻿151
+   </tei:p>
+   <tei:p>
+    úpal, aby zas posýpal vinič sírou. „Ako sa budete ponáhľať, keď je   cesta mrcha?“ „I ja vravím“, ozval sa Leše. „Ale čože, môj kumpare   Zore — všetko závisí gd povolania. Naše povolanie je raz také, že   musíme po úpeku i daždi ... Musíš byť hotový na každú chvíľu, keď ťa   zavolajú. A bolo by všakovak, nech by sme sa oneskorili. ..“
+   </tei:p>
+   <tei:p>
+    „Veru, pravda! Povolanie ťažké“, potvrdzuje Zore. „Kumpare Leše,   ľúbi sa vám napiť? Svobodno!“
+   </tei:p>
+   <tei:p>
+    Táto otázka urobila Lešovi nesmiernu nezdobu v hlave. I napil by   sa — na očiach mu vidíš — zažiarily a buková tvár podbehla akýmsi   nádychom nehy, až sa doktor diví, kde sa to v nej berie. Ale ako sa   priznať, keď sa to protiví dedinskej morálke! Neslušno je prijať také   pozvanie, práve ako je neslušno neurobiť ho. A potom, ten ironický   úsmev doktorov! No Zore vidí dobre, čo Lesa pečie — robí, čo môže,   aby mu urovnal chodníček k ,bukare‘ (črpáku). Poberá sa k ohrade, pod   pazuchou miešok z kože kozľaťa, ktorý sa ešte dosť dobre nadúva.   Lenže nie povetrím, ako naše úbohé gajdy, ktoré v celom živote   nezluisia nič poriadnejšieho, a predsa musia dudať: ale pravým   krvavým mokom, aký Boh požehnal a dal vinič tu z týchto suchoparných   skál. Zore rozviazal, kde bola kozľaťu noha, a natočil plnú bukaru.   Čiapka pod pazuchou — podáva bukaru doktorovi:
+   </tei:p>
+   <tei:p>
+    „Ľúbi sa vám?“
+   </tei:p>
+   <tei:p>
+    Doktor potiahol glg ohnivého vína, neriedeného. Zore dolial zas do   kraja a bukaru podal Lesoví. Ten ju vyprázdnil so    porozumením až do dna.
+   </tei:p>
+   <tei:p>
+    „Huj — to je celé!“ zvolal ako predesený. „A kto ho bude vodnií?   Boh ho stvoril celé,
+   </tei:p>
+   <tei:p>
+    ﻿152
+   </tei:p>
+   <tei:p>
+    nech i zostane v celosti“, odpovedá Zore s úsmevom. „To znamená,   že i Boh chce, aby sme ho nekazili planou vodou.“ „Ja ho, braté,   vodním. Celé dá sa do hlavy.“ „Ja zas vodním v zime, lebo v zime   nesmädí“, poučuje ho Zore. „Cez zimu sa ani nežiada piť. Ale v lete,   keď je horúce: nemáš lepšej veci, ako takto kvapka celého. Smäd sa   podkosí razom. Ešte kvapôčku, kumpare Leše!“ „Božechráň! My máme   robotu pred sebou. Hlava musí byť bystrá. Ďakujeme, kumpare Zore!“   „Eh, statočný človek!“ pochvaľuje ho Leše, keď poodišli. „Poriadna   osobnosť v našom meste. Verte mi, málo nájdete takých. I koreň mu bol   poriadny, od počiatku sveta. I vypije celého, i predá, i nikdy mu   nevyschne. Eh, vie i Boh, komu má dať.“
+   </tei:p>
+   <tei:p>
+    „Len to ma teší“, odpovedá doktor, „že máme medzi sebou takú   osobnosť.“
+   </tei:p>
+   <tei:p>
+    „Áno, pane! Keď na sto podliakov, lakomcov a zlodejov vyjde jeden   taký, verte mi, netreba (zúfať. Na dobrej ceste sme. On jediný   preváži tých sto a ty si pomyslíš: eh, ešte hodno žiť na tomto svete.   On jeden vyhladí a donesie na miesto, čo tých sto pokazí.“ No i toto   rozjímanie museli pretrhnúť: priblížili sa k dedine. A blízkosť   dediny postavila medzi oboma filozofmi, ktorí tak bratsky vymieňali   svoje náhľady tu v poli, spoločenské hrádze a rozdiely. Úbohý Leše z   vynikajúceho filozofa spadol na doktorovho momka, t. j. prostého   pohoniča Morice, jej mentora, vodiča. Dolu na nábreží i v úbočí stojí   obec Dolčiny, s domami akoby poukladanými jeden nad druhým. Tak stoja   všetky dediny a mestá blízko mora — ako na polici misky a taniere.   Niet roviny, všetko stráň a kopec, prirodzene stojí dom nad
+   </tei:p>
+   <tei:p>
+    ﻿153
+   </tei:p>
+   <tei:p>
+    domom. A Dolčiny sa rozvalily, ako by sa im žiadalo, nech slnce   čím lepšie pripeká na ne. A veru nelení to slniečko! Domy sú i veľké   i malé, výstavné na poschodie i prízemné chalupy; no všetky v domácom   štýle, dalmatínskom. Iba už chalúpky s nevybieleným krovom, čo sú   učupené skromne medzi ohradami. Nemožno rozctenať, či to hŕba skália,   či chalupa. Pod dedinou je mohutná zátoka, v ktorej sa výstavné   budovy nábrežia nazerajú sťa v zrkadle. V zátoke sa kolíše celá   flotila člnov, lodíc a trabakulov. Každá lepšia loď má svoje meno —   už či ženské, alebo nejakého svätého: podľa toho, či majiteľ chcel   poctiť svoju mater, alebo milú, alebo sa uchádzať o záštitu svojho   orodovníka. Zblízka taká loďka je dosť impozantná. Na šírom mori je   to sťa motýľ s otvorenými krýdlami. Foršpont doredikal doktora na   samý breh morský. Nábrežie je dosť priestrané, opevnené mohutnými   kvádrami vápenca. Majú kde kupci skladať svoj tovar, kde umývať sudy   a kde sa schádzať na posiedky, najmä večerom. Teraz tu pripeká   neznesiteľne. Musíš sa uchýliť do chládku, alebo sa ustavične   pohybovať — — ináč prsia sa ti stiahnu sťa železnou obručou, tvár sa   ti rozhorí a hlava sa začne krútiť. ..
+   </tei:p>
+   <tei:p>
+    Vysoký dom pána Nika Rogaca hádže tieň na obalu — nábrežie. Dom   ako by sa bol zadychčal, čo ho bila horúčava do poludnia — má teraz   otvorené dvere od magazínov, preplnených sudiskami a kamennými   nádržkami na olej olivový. Ako by chrlil horúčavu, ktorú od rána   pohltal. Na stupňoch magazína, na kladách a trámoch, ktorými tiež   kupčí podnikavý pán Niko, i na kameňoch sedí temer celá inteligencia   dolčínska. Tak v negližé, ako boli vyskočili z postele po   odpoludňajšej sieste. Len málokto obliekol kabát, i to ľa-
+   </tei:p>
+   <tei:p>
+    ﻿154
+   </tei:p>
+   <tei:p>
+    hučký. Ani mladí z nich nenosia kravaty a máloktorý má i golierik.   Starší si urobili pohodlie prosto tak, že rozopäli košeľu na prsiach,   nech ich prefukuje meštrál.
+   </tei:p>
+   <tei:p>
+    „Ó—ó!“ zvolal pán Niko Rogac, vidiac doktora. „Čo sa prihodilo, že   sa unúva po úpeku vaše blahorodie? Vari je kto na úmore?“
+   </tei:p>
+   <tei:p>
+    I iní poskákali a podávajú mu ruky. Ako je to všetko zvláštne! Sťa   nejaký divý sen v horúčke. Či je to skutočnosť? Stojí v takom kruhu,   o ktorom sa mu nikdy nesnívalo. Okolo neho veniec tvárí nikdy   nevidených, čuje zvuky nikdy predtým nepočuté . .. Všetko také nové a   zas nie cudzie. Ani oni nepokladajú ho za cudzinca. Čosi z ich   bytností vychádza mu v ústrety, čo ho teší, upokojuje; hreje i milo   sa ho dojíma. Čosi, čo i jeho núti, aby sa nepokladal za cudzieho.   Ich život skutočne budí i v ňom ozvenu, ba on žije aspoň čiastku ich   života. Ich záujmy sú jeho záujmami, ich biedy a neresti jeho   utrpením. O každom temer vie toľko, ako oni vedia medzi sebou jeden o   druhom. A možno vie, čo ani oni ešte nevedia...
+   </tei:p>
+   <tei:p>
+    Také neuveriteľné všetko! I táto čistá, ihravá voda že je more!   Prečo nemôže byť pleso tamhore niekde v Tatrách? A tieto zvláštne   domy s obielenými strechami môžu byť prelud, fantázia ... A lode a   títo ľudia možno starí známi z nejakej rozprávky ...
+   </tei:p>
+   <tei:p>
+    „Ráčite sa udostojiť vypiť kávu — alebo niečo iného rozkážete?   Azda limonádu, alebo kalištek?“ pýta sa pán Niko, v ktorého chládku   sa teraz nachodí.
+   </tei:p>
+   <tei:p>
+    Na našom ostrove sa ináč hovorí iba ,po mornarsky — od pľúc,   bez všetkých okrás a okolkov. No kto sa zažerie raz do zdvorilosti,   ten sa už nedá tak ľahko prevýšiť. Pán Niko sa drží tohto
+   </tei:p>
+   <tei:p>
+    ﻿155
+   </tei:p>
+   <tei:p>
+    druhého smeru. Hovorí kvetnato a nadovšetko zdvorilé.
+   </tei:p>
+   <tei:p>
+    Vypili čiernu kávu, doktor dnes od rána tuším piatu alebo šiestu.   Smotali cigaretu z dohánu, ktorý neprešiel rukami slávnej režie, ale   zpoza tamtých sivých vrchov v jednu búrnu, tmavú noc bol donesený sem   i proti stráži financov. Sotva vypustili po dva dymy, vstúpil do   magazína človek s utrápenou tvárou. „Á — pán Lanié!“ zvolal doktor,   podávajúc mu ruku. „Čo nového?“
+   </tei:p>
+   <tei:p>
+    „Žena čosi — sám neviem . ..“
+   </tei:p>
+   <tei:p>
+    „Nebezpečne?“ „Ja sa obávam. Veľký nepokoj, horúčava ...“ „Teda   poďme!“ rozhodol doktor. „Mohli ste si odpočinúť!“ namieta Lanié. No   vidno, že to len zo zdvorilosti. Horí ne-
+   </tei:p>
+   <tei:p>
+    pokojom, ledva čaká, aby zvedel čo určitého: čoho sa obávať, čomu   sa úfať. . . Doktor sa mu odmenil za zdvorilosť tým. že jej   neprijal.
+   </tei:p>
+   <tei:p>
+    „Odpusťte, že som vás unúval po úpeku“, ospravedlňuje sa Lanie,   chcejúc si ho ešte väčšmi zaviaizať. „Ani nebol môj úmysel, aby to   bolo zaraz. Ale som sa bál, že ma predbehne niekto a odvedie do   druhej dediny. Len toľko, aby ste boli uvedomení.“
+   </tei:p>
+   <tei:p>
+    Doktor ani nepočúva jeho odpytovania. Naučil sa v svojej krátkej   praxi vybrať si z takýchto rečí pravé jadro. Nech ho neposlúchne a   nepríde zaraz, nebol by ho prijal s odpytovaním, ale s oveseným   nosom, azda i s výčitkou. Kráčajú čerstvo dohora, slnce im praží   rovno do chrbta. Koľkú má silu, hoci sa už dosť dobre naklonilo!   Prešli popri dome, na ktorom je hrdý nápis: ,Národná kavanah Dnu   vyspevujú rybári, ktorí na mraku vyjdú do kanála a zapália vatry na   vábenie rýb. Čas je dobrý, noci bez mesiaca — vrchovisko na   rybačku.
+   </tei:p>
+   <tei:p>
+    ﻿156
+   </tei:p>
+   <tei:p>
+    Na altánke pred kavanou stojí Lese. Päty jedna pri druhej, prsia   von, ruka pri čiapke, salutuje svojmu pánovi. Ustaraný Lanie dal sa   do smiechu, doktor stíska zuby, aby sa tiež nerozosmial. Keď sa o   chvíľu obzrel, vidí Lesa, ako stojí ešte vždy na altánke — no teraz   už drží v ruke pohár ...
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

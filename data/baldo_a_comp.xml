@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1900683" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Baldo  Comp : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5336
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Baldo  Comp
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1900
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Baldo  Comp.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿I.
+   </tei:p>
+   <tei:p>
+    Keď sme presypali magistrát nášho mesta, nuž ...
+   </tei:p>
+   <tei:p>
+    Nie. Najsamprv treba rozpovedať, kto prišiel do úradu. Rozumie sa:   podeštát a päť ašešúrov. O podeštátovi alebo už mešťanostovi nebudeme   hovoriť. Je to človek ako ja, alebo ty — niet na ňom nič   neobyčajného. Ani prvý ašešúr, t. j. prísediaci magistrátu, pán Andre   Bobrovic, nevyniká ničím, iba ak mu spomenieme nos, dosť veľký, a   predsa akosi zbytočný. Vzduch mu neprechodí cezeň, tak že keď chce   povedať ,mama‘, vyjde mu ,baba\ Druhý ašešúr nebýva v meste, sídle   občiny totiž, ale v súsednej skromnej dedinke a či — hovoriac rečou   úradnou — ,odlomku občiny Preto ani nemá, lebo nemôže mať,   veľkého vlivu na občianske veci. Zato dávajú v magistráte tón a vedú   hlavné slovo tretí a štvrtý ašešúri: šor Páve Kostíc a šor Zakarija   Duplančic. Šor Zakarija je nízky a tučný, s mocnou šijou, že môže na   nej stáť naša veža, a pekným podbradkom. Šor Páve zas je vysoký a   chudorľavý. Šor Zakarija sa v lete nesmierne potí, preto vyhľadáva   ustavične chládok, chodí holoruký, s kabátkom prehodeným na plecia, a   to vtedy, keď my ostatní zapíname sa pred vetrom. Šor Páve nepotí sa   nikdy — vlastne spotil sa len jeden raz, ako sa hneď presvedčíme ...   Šor Zakarija málo hovorí, zato — aspoň tak sa nazdávam — mnoho myslí.   Čo povie, môžeš to svobodne tlačiť, iba že by skoro zakaždým   zakročila cenzúra: hovorí od gruntu, ale má
+   </tei:p>
+   <tei:p>
+    ﻿110
+   </tei:p>
+   <tei:p>
+    často výrazy trochu šťavnaté, v zasadnutí magistrátu sa dajú   ešte-ešte stroviť, no do salóna sotva by sa zmestily a vytlačené v   novinách urazily by nebodaj útlocit cenzora, pána fiškusa. Zato šor   Páve nedáva — ako sa hovorí — svojim ústam darmo jesť. Jeho hlas   môžete čuť na strelenie, ako sa ozýva s námestia. Neraz ma prebudil v   jar na svitaní, ešte prvej než počnú lastovice štebotať, keď, stojac   na altánke svojho domu, vypráva do roboty svojich synov s kŕdľom   ,Vlachov, dávajúc im úpravy. Šor Zakarija je živší iba v zime,   najmä keď zaduje tuhá bora,až ťa dvíha dohora a polieva akoby   studenou vodou. Vtedy vyjde na ulicu s rozopätým kabátom a vestou,   pochvaľujúc ,pekný ,chlad, iba čiapku čo stiahne na uši, aby mu v   nich nezaľahlo. Šor Páve sa v zime ,inkapotá‘ do ťažkého, krátkeho   zimníka, na ktorom ligocú sa škvrny z oleja olivového, ktoré   nadobudol navštevujúc ,mašiny, kde sa olej vytláča z rozomletých   olív; pod košeľou nosí nie síce pancier, ale kabátik upletený z   domácej vlny, dielo rúk šory Fily, svojej manželky. Pri tom všetkom,   keď vám vstúpi do izby, pošuchá si ruky, temer vždy prekrahnuté, a   zvolá:
+   </tei:p>
+   <tei:p>
+    „Čiže je zima dnes, pani kmotra! No však ver’?“
+   </tei:p>
+   <tei:p>
+    Má, ako sme spomenuli, troch synov, a to ako hora. Pod ich rukami   ide kopačka a každá robota ako po masle: otec sa nemusí o pole ani   starať. V dome a kuchyni šafári zas šora Filé s dvoma odrastenými   dcérami, tak že šťastný šor Páve sedí si v svojom starosvetskom dome   ani ,bubrig u loju (obličky v loji), čo je, myslím, najvyšší   stupeň dobrobytu a šťastia. Šor Zakarija zato je sám, ako búdka vo   vinici, a pri ňom šora Dore sťa figový strom, rozkladajúci svoje   jalové konáre pod spomenutou búdkou. Zato šor Zakarija strávil   celý
+   </tei:p>
+   <tei:p>
+    ﻿111
+   </tei:p>
+   <tei:p>
+    život v poli, po viniciach a pašienkach, v lesoch, zmáčajúc potom   tvári svoj chlieb vozdajší. No zato sa vyzná v každej robote a pozná   chotár, zeme a polia a hory nielen jednotlivcov, ale i obecné, ako   nikto v našom magistráte. Oj, jeho neoklameš tak ľahko! On ti   odšacuje, koľko treba chlapov vyklčovať tamtú medzu, koľko treba dní,   koľko sa minie pritom bochníkov chleba, koľko sa vypije mechov vína.   Šor Páve si vyjde do poľa pri zvláštnych príležitostiach. Na príklad,   keď je procesia na sv. Marka k sv. Tomovi, alebo keď kamenec stlčie   vinice, alebo keď kone, vlastne múle, urobily vo viniciach škodu,   alebo keď príde súd na repozíciu, kde on potom pomáha vyrovnávať a   meriť stránky. Najviac je na námestí. Rozkladá starým penzistom,   ktorí sedávajú pod jahodou, kúriac z krátkej luly a spomínajúc staré   časy: rozkladá im o behu sveta, o hviezdach, o chorobách, o   proroctvách Falba, kedy má byť kritický deň prvého alebo tretieho   stupňa a najradšej rozkladá o politickej situácii. Jeho politické   náhľady sú nesmierne radikálne: keby sa tak uskutočnily, môžem   povedať, inakšia by bola nielen mapa Európy, ale i celá zemeguľa.   Zato on zbožňuje i Napoleona, lebo toľme premenil mapu Európy; iba mu   vytýka, načo šiel na Rusa. Hja, nešťastie, že nemal za ministra nášho   šora Páva! Mohol byť dodnes imperátorom Francie a, kto vie, či nie i   celého sveta. A majú i svoje ideály, náš šor Páve i šor Zakarija. Šor   Zakarija túži, aby oči jeho uvidely v našom meste vodu, a to živú   vodu. Keby sa na pr. na stred piace začalo vŕtať, pravda, slušným   nebožiecom, a keby sa vŕtalo do tých čias, kým sa nepríde na živú   vodu.
+   </tei:p>
+   <tei:p>
+    „Ale čo si počneš“, šomre neraz, „keď ľudia
+   </tei:p>
+   <tei:p>
+    ﻿112
+   </tei:p>
+   <tei:p>
+    nemajú vytrvalosti. Prestali by vŕtať prv, než prídu k vode. A   predsa je len hanba nášmu mestu! Na celom svete môžeš sa napiť   čerstvej vody. V Kotore je na príklad taká, že ti štiepa zuby: a my   pijeme z cisterny!“ „A čo si počneš, braté!“ ozve sa šor Páve,   rozkričiac sa a rozhodiac ruky. „Vody nemáš a nemáš. A čo si počneš,   spytujem sa ja! Keby bola iná vláda — nerečiem. Bolo by i vody i vína   i oleja! Ale keď tí inženieri márnia čas stavaním cisterien: a ani to   nevedia, ako svedčí. A, naostatok, čo by bolo z vody? Ja jej celý rok   nevypijem pohár. Ale pec je potrebná, môj synko, pec, ale pravá —   nech by bola v každom dome. Potom by si videl!“
+   </tei:p>
+   <tei:p>
+    „A na čerta mi je pec, keď mi jej netreba!“ odporuje šor Zakarija.   „Keby bolo treba, vari by bol Boh všemohúci zabudol na ňu, pri   stvorení sveta! A keď jej nestvoril, znamená, že jej vonkoncom   netreba.“
+   </tei:p>
+   <tei:p>
+    Šor Páve na to odpovedá, že ani dom nebol stvorený pri stvorení   sveta, a jednako ho máme. No šor Zakarija hudie zas len svoju: „Na   čerta ti je pec, kde neduje, ako na príklad v dome. Ešte tuto na   piaci — ah, ben, nerečiem: ale tu bola by nebezpečná. Svet by sa   rozhorúčil pri nej a ľahko prechladol. Ale ja. ..“ — a tu rozhalil   prsia — „keď horíš večným ohňom a nemôžeš zhorieť! Potíš sa   nemilobohu a hynieš... No v Tudeškej, tam je potrebná pec. Švábom sa   treba pri peci hriať, lebo v žilách im tečie voda ...“ Takéto dve   sily zasadly v našom magistráte. Zasadli jeden k druhému a nie — ako   sa nazdávate jeden nad druhého. Lebo kto by rozsúdil, ktorý z nich má   prednosť? Keď rozvažuješ o šorovi Pávovi, pozdávalo by sa ti, že by   on mohol byť prvý. No zas sa zamyslíš nad šorom Zakarijom a
+   </tei:p>
+   <tei:p>
+    ﻿113
+   </tei:p>
+   <tei:p>
+    presvedčíš sa, že nemožno ho prevýšiť. Nuž ale načo lámať hlavu   bezplodnými úvahami. V našom magistráte nemôže sa vynášať jeden nad   druhým. Každý ašešúr má svoju torbu, ako ktorýkoľvek minister: stôl   so šramkami a priečinkami, s kalamárom a stôsami píšem a lajstrov
+   </tei:p>
+   <tei:p>
+    Keď nový úrad bol potvrdený, vlastne inštalovaný, hneď sa   prikročilo k deleniu stolov a lajstrov. Šor Páve dostal políciu a   zdravotníctvo, šor Zakarija pole, pašienky a hory.
+   </tei:p>
+   <tei:p>
+    Spokojnosť zavládla veľká. Konžilieri a ašešúri korporatívne   odišli po zasadnutí zastupiteľstva k podeštátovi ohradiť mu   poctivosť. Podeštát zadržal na obed druhov magistrátu, i niektorých   prespolných konžilierov. Bol piatok — jedlo sa najviac rybaciny. Pani   podeštatruša napražila fánok a krapní na oleji. Nuž obed bol, ako má   byť. Podeštát vyrukoval pri múčnom jedle so starými buteliami.   Zaspievalo sa, s kališkom v rukách, podeštátu, jeho pane j, dietkam,   každému zvlášť: ,Mnogo ljeta zdraví bili, mnogo ljeta živili..Ani v   zdraviciach nebolo nedostatku. Šor Páve pripil na pokrok obce, vlasti   a na zdarnú opozíciu proti financom (práve sa pálila terkelica a   financi dozerajú na kotly a vyberajú poplatok), i vôbec proti celej   vláde.
+   </tei:p>
+   <tei:p>
+    Pekné boly medové týždne nového úradu. Nový stroj, dobre   naolejovaný, zo silných kusov složený. V nedeľu zasadnutie: podávanie   referátov so strany ašešúrov, porady, dob rozdania, mienky, pokyny,   uzavretia. Hotová ministerská rada. V nedeľu po obede výsluchy   stránok, tresty, pokuty, protokoly, súdy a sentencie. ,Čauš‘ má novú   uniformu, i šabľu s belaso-bielo-červenou kyckou. Sprevádza   odsúdených, a to cez námestie, rovno do temnice. Temnicu dal   zreparovať šor Páve, lebo
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané spisy XIV.
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    ﻿114
+   </tei:p>
+   <tei:p>
+    pod starým magistrátom bol v nej sklad vína firmy Bobčié    Dobčic.
+   </tei:p>
+   <tei:p>
+    Uzavretia, ohlasy, oznamy a vyzvania, ak ťa zaujímajú, môžeš si   prečítať na čiernej tabuli s drôtenou sieťou. Starý magistrát i túto   bol zanedbal. Za sieťou usalašili sa pavúci a po papieri rozostreli   siete a lovili muchy. Starý magistrát pokladal tabuľu za vec úplne   zbytočnú, že vraj nevyzná sa každý mešťan v umení čítania, a najmä   takého rukopisu, ako má náš notár šor Mene Papulic. Ostatne nový   magistrát darmo sa ustával vyvesovaním ohlasov a vyzvaní. Kto bude   šlabikovať také haky-baky, keď môže mať všetko živou rečou i s   komentárom, a to z prvej ruky, vlastne z úst samého šora Páva. Sotva   sa skončí zasadnutie, šor Páve vyjde na piacu, hodí čiapočku nad   ucho, rozkročí sa a začne oznamovať, vysvetľovať, karhať i nahovárať,   kýmkoľvek nevyčerpá celý program dnešného zasadnutia. Ustavične ti   bude udierať o ucho: „Ja som chcel... Ja som navrhol. . . Ja   nedopustím ... Ja som videl... Ja vám vravím ... Ja uvidím ...“   Občania, z väčšej čiastky težaci — sedliaci — napospol mu   prisviedčajú, utvoriac okolo neho kruh, iní mlčaním odobrujú. Za   chrbtom šora Pávovým sa šťuchajú, žmurkajú jeden na druhého,   uškierajú sa, a čo mladší, šklbajú druhých od zadku za vlasy, alebo   bodajú sa špendlíkom, schovajúc sa chytro za chrbát načúvajúcich.
+   </tei:p>
+   <tei:p>
+    Následok bol, že sa excesy v poli a hore rozmnožily a s nimi i   pokuty, ktoré šor Zakarija nestranne prišíva. Kliatby a šomranie so   strany dopálených. Nuž naučení boli do cudzieho, ako do svojho. Šor   Páve dozerá zas na dvory a hnojiská. Za každou takou vychádzkou do   týchto zákutí môžeš vidieť dlhé rady koní, mulov a oslov, ako   vynášajú
+   </tei:p>
+   <tei:p>
+    ﻿115
+   </tei:p>
+   <tei:p>
+    hnoj vo vreciskách, priviazaných do páru o každé sedlo. Kto   neslúchne na prvé slovo, pokuta ho neminie. Tak sa stalo, že šor Páve   po takej vychádzke pokutoval šoru Filu, svoju ženu, a to na päť   zlatých, s odôvodnením: „Vezmúc do ohľadu, že je ženou ašešúra a má   občianstvu predchodiť dobrým príkladom, lebo od hlavy ryba smrdí.“   Zle pochodili i krčmári. Naučení boli mať otvorené i po polnoci. Šor   Páve vydal úkaz raz navždy. No o desiatej nezatvoril ani jeden svoju   krčmu. Keď prišli ,rondárľ prezerať, hostia ich privítali plnými   fľašami a krčahmi. Nie div, že podľa nich bolo v krčmách všetko v   „najlepšom poriadku“. Šorovi Pávovi sa to zdalo podivným — šore   Danici tamtej noci zhynuly dve šunky. Vybral sa on sám istý večer za   rondármi: našiel i krčmy otvorené, v nich rondárov, lebo im bolo   veľmi veselo a útulno .. .
+   </tei:p>
+   <tei:p>
+    Vtedy sa prihodilo, — ale nepovedzte nikomu, — že keď vyšiel na   ulicu, mládenci začali doň hádzať skalami zpoza sudiska, čo krčmár   bol vyvalil na ulicu. Šor Páve skáče po skalách a hrobliach, môže sa   povedať, nevyberajúc, kade skáče — sťa jza oných časov, keď chodil na   zálety za šorou Filomenou. Skonfiškoval rybárom ryby, kofám hrušky,   Talianom dyne a melóny . . . Nie div, že prišlo všetko do poriadku.   Občianstvo pokojne líhalo a spávalo pod strážnym okom svojho   magistrátu.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Človek vraj nebude spokojný, ani čo bys’ ho šípom po holom chrbte   lízal. Tak sa stalo i u nás. Občania privykli na nový magistrát a už   sa im nezdal ničím neobyčajným.
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    ﻿116
+   </tei:p>
+   <tei:p>
+    Nepreukazujú mu vďačnosti, ako by sa dalo očakávať. Naopak —   šomrú, pravda, dosiaľ len po kútoch. No či dlho potrvá, kým vyjdú na   verejnosť?
+   </tei:p>
+   <tei:p>
+    „Braté, zle je“, sveruje sa šor Páve Zakarijovi. „Národ šomre, že   ho vraj nepúšťaš do hory. Ani týčky, ani vidlice, ani ohrevu ... Nuž,   mnohým odpadlo a teraz dlhý pôst.. . Nenasýtni, nevďační. To ti je   náš národ.“ A rozhodil naďaleko rukami.
+   </tei:p>
+   <tei:p>
+    „A čo si počneš — nech šomre“, odpovedá šor Zakarija. „Preto sa ja   nejdem zmárniť.“ A pohol ľahostajne plecom. „Ústa im nezašiješ, biť   sa s nimi nepôjdeš — a keď si v úrade, kamarát — trp. „To i ja viem.   Ale škoda, keď im dáme šomrať vyše práva. Kde naša vážnosť pred   svetom. A čo ako, treba uznať, stisol si ich, nemôžu ani sem, ani ta   ... E, malo by sa niečo, malo ...“
+   </tei:p>
+   <tei:p>
+    „Nuž?“ A šor Zakarija otvoril ústa v udivení a očakávaní.
+   </tei:p>
+   <tei:p>
+    „Niečo podujať — čo ako, malo by sa ... Národ by mal robotu, nemal   by kedy dudrať; a mal by zárobok k tomu — dupľovaný osoh, vidíš... Ja   by bol rozhodne mienky ...“
+   </tei:p>
+   <tei:p>
+    „Pre mňa“, pohol šor Zakarija plecom. „Beztoho im nevyhovieš.   Zárobok prelumpujú a dudrať budú ešte horšie. Prelumpovali by i obec,   i tekvicu sv. Roka, i... i...“ šor Zakarija sa rozhorlil, očervenel v   tvári ako moriak, oči mu zableskly hnevom a ohromným belasým ručníkom   utiera znoj jzpoza uší a okolo šije. „A čo by to bolo — čujme ďalej   ...“ A nachýlil sa k nemu dychtivé. „Vari si našiel baňu na zlato,   alebo už aspoň petrolej...“
+   </tei:p>
+   <tei:p>
+    „Ja by takto. Celú noc som nezažmúril oka. Hádam som úsad   pohol.“
+   </tei:p>
+   <tei:p>
+    ﻿117
+   </tei:p>
+   <tei:p>
+    „Na čertovi si ho pohol“, myslí si šor Zakari ja. „Vari na kopačke   alebo pri dvíhaní.. „Nuž som premyslel a vec je prostá. I svet zarobí   i občine prikvapne. A rizika ani mak .. „No — to musí byť, synko,   čosi súceho“, pochvaľuje šor Zakarija. „Vystavme vápenicu“, riekol   šor Páve. „Vápenicu?“ užasol šor Zakarija. „A na aký spôsob?“ „Páliť   vápno! Vec zreteľná, Bože môj!“ Šor Zakarija utiera znoj a krčí   ramenami. Taký zvláštny projekt! Či by on kedy prišiel na niečo   takého? Ktorá občina sa dala na vápenníctvo? Dosiaľ ani jedna v celej   králjevine Dalmácii. „Čertova hlavička, tento Páve“, myslí si,   hľadiac kosom na druha trochu v obdive, trochu v rozpakoch. „Čerti mu   diktujú; a len odkiaľ to pozobal, toľkú múdrosť. Čo nevymyslí! Ale   kdeže! Prekliate noviny: v nich všaková politika. A on vždy trčí v   nich...“ A jednako sa len začal zaoberať tou myšlienkou; prevracať,   ako by, čo by, prizerať sa jej na líce i na opak. A všetka sa mu   pozdáva akási ani neslaná, ani nemastná ... „Povedz, že si proti mne,   a koniec. Nebolo by prvý raz. Aspoň nebudem hlavu lámať nadarmo!“   zvolal konečne urazený. On, že mu vyjdú v ústrety 11a pol cesty, že   mu budú povďační za dobrú myšlienku, že sa oduševnia — a ono   prekážky, váhavosť, nedôverčivoť. „A plán hotový, bez najmenšieho   rizika“, doložil viac pre seba, než pre druha ašešúra. „Čo sa   vyžaduje? Nič iného, iba ľudia, kameň a drva. Kameňa máme,   chvalabohu, vyše práva. Ľudia sa ti toť povaľujú po piaci ako Cigáni,   bez roboty, až ťa srdce zabolí, keď ich vidíš. A hory máme tiež,   obecnej, koľko len chceš. A haluziny koľké stôsy ležia nič po nič.   Človeče, hnije vám, práve ako vaša múdrosť premudro-
+   </tei:p>
+   <tei:p>
+    ﻿118
+   </tei:p>
+   <tei:p>
+    vaná. Ešte si v nej nohy polámete, ty i tvoji múdri horári... Teda   soberme, dajme ju dohnať z tretiny, z polovice, ako sa dá. Beztoho   nám letia k hlave, že ich nepúšťame do hory. Nechže sa raz zasýtia!“   „A groše a robota? Z poriadky? Poriadku treba šanovať. Ľaľa — cesty   plané. Voda povymývala.“ „Páleníkov z poriadky!“ rozosmial sa šor   Páve. „Čo sa ti sníva, môj synko. Tých vezmeme z tretieho, alebo z   polovice.“ Toľko nových ideí! Či div, že šor Zakarija nemôže ich   odrazu stroviť? On je naučený rátať na iný spôsob — tieto výpočty   zdajú sa mu podivne krkolomné. No, ani to mu netrvalo, len kým sa   lepšie rozhľadel. Pomaly sa mu začaly páčiť. Najmä sa mu pozdalo, že   netreba na podnik ani groša. Groš on drží tuho a kým ho vydá, desať   ráz ho v ruke obráti.
+   </tei:p>
+   <tei:p>
+    Tak sa stalo, že o štrnásť dní vystúpili šor Páve i Zakarija so   svojim návrhom v riadnom zasadnutí magistrátu. Magistrát nemohol   nájsť chyby v ich výpočtoch. Šor Páve ohlušil svojimi dôvodmi všetky   námietky už popredku. Temer jednohlasne sa uzavrelo teda, že občina   ide páliť vápno a podnik majú viesť šor Páve Kostič a šor Zakarija   Duplancic...
+   </tei:p>
+   <tei:p>
+    Kopačka a podpieranie vo viniciach skončilo sa — težakom nastaly   akési prázdniny. A zídu sa, lebo v kanikuli nie je veru pôžitok   težakovi motať sa po vinohradoch. Tieto prázdniny, ktoré težak   obyčajne prezaháľa, vykoristili naši podujímaví páni ašešúri. Ak si   prešiel po tieto dni popod Klánce, vysadené viničom a len na jednom   mieste pokryté ešte ,horou — krovím totiž, zpomedzi ktorého   tu
+   </tei:p>
+   <tei:p>
+    ﻿119
+   </tei:p>
+   <tei:p>
+    i tu vyčnieva osamelá čestmína, padla ti do očú sila nanosenej   haluziny, práve na najvidnejšom mieste neďaleko chodníka. Boly jej   tam celé stohy, zelenej i suchej. Malý Zvonimir, syn Ivana Lapiša,   zlomil v zápästí ruku, svaľkajúc sa dolu jednou takou kopou na tvrdú,   kamenitú pôdu. Nasháňalo sa sem z celého mesta detí, ktoré sa   nazdávajú, že tie hŕby sú na to, aby sa dolu nimi spúšťala mládež a   poprávala pulidery. V blízkosti haluziny otvorili Baldo Lolié a Petar   Balavac so svojimi spoločníkmi baňu na kameň. Baldo a Petar sú šéfi   ,Spoločnosti na pálenie vápna pod Kláncamľ, vyvolení od ostatných   šiestich účastníkov, ktorí sa podobrali na tento neobyčajný podnik.   Dušou podniku je Baldo; slúžil cisárovi, vie sa i podpísať, a on sa   podpísal šorovi Pávovi a Zakarijovi na písmo. Pritom je človek   spôsobný, obľúbený, vie púšťať dym na ucho. Baňu konečne ľahko   otvoriť kdekoľvek. Kde sa pohneš, všade je vápenec, biely ako krieda,   od slnca na poly vypálený. Keď mali kamenia hodnú hŕbu, Baldo    Comp. natiahli motúz, kde bola pôda najrovnejšia, a podľa motúza   vykrojili ani kružidlom poriadny kruh a podľa neho zakladajú   fundamenty na stavbu vápenice. Keď ju vytiahli dohora, bola ani   nejaká turecká ,kula‘ (bašta). A keď sa im pozdalo, že je dosť   vysoká, dali jej i kupolu, vyvedenú podľa nátury, bez traverz a   stĺpov, i bez trámov. Každý musel obdivovať toto impozantné,   mnohosľubné stavisko.
+   </tei:p>
+   <tei:p>
+    Šor Páve zanedbal vonkoncom penzistov na piaci, i noviny. Celé dni   a večery trávi pri vápenici a jej bodrých staviteľoch. Dáva rady,   pokyny. Na jeho návod vyčnievajú z kolmej steny kamene, tak že po   nich môžeš, sťa po schodoch, vystúpiť na vonkajšej strane steny ku   samej kupole, ba mô-
+   </tei:p>
+   <tei:p>
+    ﻿120
+   </tei:p>
+   <tei:p>
+    žeš hore na múre sa prechodiť, ak sa ti páči výhľad s tejto výšky.   „No, deti, zajtra ju podpálime, ak Boh dá“, riekol, keď už dielo bolo   hotové.
+   </tei:p>
+   <tei:p>
+    Baldo sňal čiapku a obzerá sa po šírej oblohe nebeskej. „Ach, čo   vyzeráš?“ okríkol ho šor Páve. „Čas — eh, nemôže byť krajší. Štyri   týždne potrvá, ak nie osem. To sa môže najlepšie vybrať i z novín:   Falb nepredpovedá kritického dňa v tomto mesiaci.“
+   </tei:p>
+   <tei:p>
+    Nebo je skutočne čisté, nevidíš na ňom najmenšieho vlákenka,   čierne ani šata. Slnce pripeká, ako len v Dalmácii vie pripekať v   kanikuli. More je tiež tiché, nehybné, hladké. Prímorské planiny sa v   ňom odzrkadľujú, čisté, belasé, poliate nádherným svetlom. „Veru   dážď!“ povráva šor Páve. „Nemáš dažďa do augusta — vieme to my   najlepšie, čo čítame Falba.“
+   </tei:p>
+   <tei:p>
+    „Ľahko prorokovať pekný čas“, poznamenal Baldo s neveľkou úctou,   „keď tak sám čas nosí. To vieme i bez novín. Ale búrka — prihrmí   nenazdajky . . . Nerád by sa oklamať . . .“ „A keď ti ja raz vravím —   nemáš dažďa, darmo ti je! A čo ľudia dnes nevedia! Len treba čítať —   ale čo, keď nečíta každý .. . Koľko nás číta? Ja a ešte dvaja-traja   ... Ale dažďa nemáš — to si vyhoď z hlavy.“ Baldo  Comp.   pristali, tak že ani nešli domov nocovať. Utiahli sa do búdky,   vystavenej z chvojiny. Večera bola parádna — pečené mäso na ražni a   víno dobré; to všetko v nádeji dobrého zárobku. Po večeri sedeli do   tvrdej noci okolo vatry, rozjímali o svojom šťastí; vyratovali, koľko   centov vápna vyjde z tejto vápenice. Ráno na svitaní podpálili   vápenicu. Temný
+   </tei:p>
+   <tei:p>
+    ﻿121
+   </tei:p>
+   <tei:p>
+    dym vyvalil sa pomedzi špáry a súka sa hrdo k belasej oblohe.   Vápenica ho vysiela hrdo a vyzývavo, dvíhajúc svoje kupolové temä   dohora a akoby opovržlivé hľadela ta do skromného údolia, kde   vyspevujú svrčky a čvirikajú vrabce medzi krovinami.
+   </tei:p>
+   <tei:p>
+    Od tých čias mali sme aspoň na čom pásť oči. Deti sa tmolia   ustavične okolo vápenice, z ktorej šľahá plameň a horúčava,   pripomínajúc im večný oheň pekelný. Tu sa zabávajú zas o schovávačku   alebo na spúšťačku. Prichádzajú i starí, najmä koho povinnosť volá do   poľa; popozerajú, pohmkajú, pokrútia hlavou a každý zanechá akú-takú   dobrú radu. Ba i inteligencia, zmierajúca v kanikuli od nudy, vyjde   sem, pravda, len pod večer, keď je chládok, pokochať sa na zvláštnom   divadle. Neraz sa tu ohlási i veselý smiech našich mladíc a mladých   pani, ktoré, idúc s kúpačky od mora, nesťažujú si takú okľuku urobiť,   k vôli zábave. Často sa ozve i niektorý nápev, najviac vlastenecký,   ktorého tiahle zvuky doliehajú do mesta a zamierajú tam kdesi v   hluchej tišine mora.
+   </tei:p>
+   <tei:p>
+    A v tichú noc, keď sa neopovážiš ľahnúť, lebo horúčava vtiahla i   do spální a privalí ťa olovenou ťarchou, len čo ľahneš, a polieva ťa   znojom: v takú noc dobre ti sedieť niekde na terase pri cigarete a   lenivom rozhovore so spoločnosťou, tým ti je milšie sedieť, že vidíš   pod Kláncami, ako horí oheň a v pruhu.svetla tmolia sa akési tajomné   postavy. V noci vápenica je pošmúrna, tmavá, chrliac kupolou husté   oblaky dymu. Len tu i tu prebije dymom jazyk plameňa, osvietiac   znezrady vápeničiarov i celú stráň. Neraz sa ozvú ztamtadiaľ tiahle   zvuky národnej piesne, dojemnej a smutnej, sťa by tam oddychoval   tajomný sprievod pohrebný, alebo procesia. Na dušu ti zaľahne
+   </tei:p>
+   <tei:p>
+    ﻿122
+   </tei:p>
+   <tei:p>
+    akýsi žiaľ — predstavia sa ti príbehy blízkej i dávnejšej   minulosti a naplnia dušu čímsi bôľnym i sladkým. Sám nevieš, prečo —   a predsa čuješ, ako ti zvlhlo oko pohnutím . . . O niekoľko dní   vápenica poskytovala ešte inakšie divadlo, najmä po noci. Kupola sa   rozžiarila a hádže magické svetlo naokolo, sťa by bol sostúpil mesiac   dolu pod Klánce. Nad ňou ustavične sa vznáša tmavý oblak dymu, ktorý,   dvíhaný horúčavou, nemá kedy zhasnúť, až keď vystúpi do výšky.   Popoludní pozrel šor Páve barometer i pobádal, poldepkajúc naň   prstom, že sa vracia na ,variabile‘. Dosiaľ stál ako prikovaný medzi   ,bello‘ a ,stabile‘. Trochu ho to znepokojilo — ale do večera   neukázalo sa nič podozrivého na oblohe. No ráno, čo spávame tuho a   hrmavica nás neprebudí, zadivili sme sa, keď sme mohli počúvať   čľapotanie po okeniciach. Dážď prišiel ozaj dalmatínsky. Náhlo,   prudko, s nesmiernou hrmavicou a taký sporý, že vo chvíľke si na ňom   ako myš. Dážď ako prišiel, tak i prešiel. O ôsmej už pripekalo slnce   z belasého neba na občerstvenú prírodu. Iba po uliciach a cestách   vidíš, že tu preletely tej noci celé potoky- Keď si prišiel pred   sklep firmy Bobčié  Dobčié, zazrel si šora Páva, lenže v šatách   sviatočných, ako rozkročený v prostred sklepú rozpráva čosi hŕbe   težakov. Y sklepe ie i starý pán Bobčié, ako obyčajne, vysmiaty.   Sedliaci sú niektorí zmočení, niektorí majú vrece na chrbte a hlavu   pokrytú kukľou, urobenou z vreca. Pred sklepom sa hmýri kŕdeľ   detvákov s knihami pod pazuchou. Keď ťa vidia sedliaci, uškrnú sa a   mihnú ti, aby si vošiel. „Čo nového, šor Páve?“ spýtaš sa, vidiac ho   vo sviatočných šatách i s akýmsi čudným výrazom v tvári.
+   </tei:p>
+   <tei:p>
+    ﻿123
+   </tei:p>
+   <tei:p>
+    „Ah — prosím vás! Nešťastie!“ A pohodí rukou.
+   </tei:p>
+   <tei:p>
+    „Vápenica sa zrútila!“ odpovedajú ti sedliaci. „Ešte čo! To je   veru nešťastie!“ „Ah, darmo i hovoriť!“ začne on, rozhodiac
+   </tei:p>
+   <tei:p>
+    ruky. „Prišlo tohto pre ... pre ... blahoslaveného dažďa — a kto   by sa bol nazdal? Kto, povedzte mi! Veď ani Falb nespomína, že by   tieto dni... Vápenica rozpálená — eh, čo chcete — pila, pila, kým   mohla. Kde by nie toľká voda! To sa lialo ako z vedra — ja vám   vravím, lebo som bol tam ... Napila sa, braté, napila — nie div,   opuchla. Začalo sa to roztĺskať, pukať — môžeš si myslieť! Nuž na   jednu stranu je špára — hlava by ti prešla, svobodne — i ja...“   „Nešťastná náhoda!“ tešíš ho ty. „A čo, ak nie náhoda! Komu sa kedy   stalo čo takého? Ja myslím, nikdy — nikdy! Ja aspoň nepamätám . . .“   „Bolo by vari lepšie, keby bola bývala vápenica pod krovom“,   podotknete vy nesmelo. „Ah, ben“. odpovedá on s opovržením. „Tam v   Tudeškej a Bemskej je druhá povetrnosť. Snehv a ľady o Jakube. Ale u   nás, u nás, prosím vás! Kto videl kedy dážď v tomto mesiaci? Ja   nepamätám . .
+   </tei:p>
+   <tei:p>
+    „Teda všetko pokazené!“ doložíte vy s poľutovaním.
+   </tei:p>
+   <tei:p>
+    „Oj, nie!“ zvolá on a na tvári mu svieti víťazosláva. „Všetko v   poriadku!“ Težaci žmurkajú na teba, ako by chceli povedať:
+   </tei:p>
+   <tei:p>
+    „Aha — aha — pozor — uvidíš.. .“ „Prebudím sa ja — blýska, hrmí —   nuž hrmí, tma a zas blýska ... Sodoma, braté — súdny deň. Zvony   vyzváňam na veži — eh, hrôza, dopustenie božie! Bežím ja do kuchyne,   prebudím dievku:
+   </tei:p>
+   <tei:p>
+    ﻿124
+   </tei:p>
+   <tei:p>
+    Vstávaj, Mande, zameť chytro terasu, ide voda — ale prvú nepusť do   cisterny, kým sa terasa nevymyje .. . Darmo je, zrepetila sa ona,   vymietla terasu. Nebolo veru treba svietiť!“ smeje sa šor Páve.   „Blesky šprihajú, jednostaj, mohol si svobodno cekiny čítať ... A   odrazu voda — ale aká, Bože, zavaruj! Terasa plná vody — ja ju   vypustím na dvor, čakám, kým sa očistí a potom otvorím dieru. .. Keby   ste videli! Nestačila hltať toľkú vodu. A víchor, bratia moji! Čo   víchor — uragán, pravý uragan! Ja, že odnesie strechu i dom. Nedrž sa   tvrdo, hodí ťa ako loptu. Ach, došlo jej — došlo vody. Moja cisterna   je skoro do vrchu — a pomysli, koľko môže prijať! Odkedy je   vystavená, plná ešte nikdy, nikdy nebola! Pravá cisterna!“
+   </tei:p>
+   <tei:p>
+    „A možno vám pri vrchu niekde tečie!“ nadhodil ktorýsi težak. ,,Čo   — tečie? Vari moja cisterna! Vínom ju môžeš naliať, najjemnejším   prošekom — kvapka nepremokne! Veru, pekná by to bola cisterna ... Ja   som sa uzimil, zmočil. Uvar ty, Mande, kávy, nech sa rozohrejem ...   Ale som jej nepil. I naliala do šálky, i všetka, neborka, tiež ako   myš ... A tu mi síde na um: A vápenica? Páve, čo je s vápenicou?   Verte mi, zmrklo sa mi pred očami! Toľká hora, toľká robota . . .   Prehodím ja kepeň, na kávu ani nepozriem. Brodiť do kolena po vode —   ale lampáša netreba. A pri vápenici konfúzia veľká. Baldo plače,   Petar sa bije do hlavy. Nuž staré baby! A čo to vy, ľudia, robíte? Čo   neratuješ svoje mozole? Ale nevidíš, že pukla? Svätého mi Pavla,   rozčesne sa na poly! Čo ste ovesili krýdla ani zmoknutá kvočka? A keď   sa ti rozsype, adió vápenica! Svet sa bude radovať, bude sa vysmievať   ... A čo budeme robiť, šor paron, keď Boh dal dažďa? Ale sa protiviť   vôli božej? Či tak, mamľasi? Boh
+   </tei:p>
+   <tei:p>
+    ﻿125
+   </tei:p>
+   <tei:p>
+    požehnal dažďa, a ty si pomáhaj sám a Boh ti po- A V CC moze ..   .
+   </tei:p>
+   <tei:p>
+    „Veru tak“, prisviedčajú težaci. „Hovoria, ako pravý človek . ..“   „Tu som ja, bratia moji“, a poobzeral sa po poslucháčoch, hodiac   čiapku do tyla, „tu ja shodím kepeň, beriem chvojiny do náručia,   teperím na vápenku. Mokro, braté, voda tečie po mne — uf, ako myš! Za   mnou Baldo, za ním Petar — všetci sa zrepetili. . . Pokryli sme vrch   chvojím — voda sa leje dolu stenou a nepreteká. Ale puklina! To je   najhoršie. Bež po povrazy, po švorce, sťahuj, drotuj, a teraz vám   stojí, na moju dušu, môžeš mi veriť.“
+   </tei:p>
+   <tei:p>
+    „Komu by to len sišlo na um!“ „Eh, vnuknutie — čo druhé!“ divia sa   težaci. Šor Páve sotva čuje ich lichotivé poznámky. Zaujatý je   rozprávaním. Hlas mu počuť, myslím, ďaleko vyše mesta, na sluchy mu   naskočila žila od veľkého rozčúlenia.
+   </tei:p>
+   <tei:p>
+    „Ale, hospodár, dnu nehorí“, príde mi Baldo. „Pomysli to   postavenie!“ Hodil náhle rukou a pomykol čiapku do tyla. „Rozpálená   vápenica — potom voda — a teraz nehorí. Nie sú to, prosím, žarty. To   máš stovku škody — málo, málo čo menej .. . Pre Boha, deti, nedajte   jej vyhasnúť. Dobehni ku mne, v cieni nájdeš lanské drva. Ale aby   bolo zaraz .. A ja sbieram za ten čas čo suchšieho. Ale ako — keď   všetko môžeš žmýkať... Boh i šťastie, s trieskami prišli chytro. Do   pece s nimi, odrazu — i chytilo sa, naveľa, naveľa ... A potom   polená, hrče — jedno za druhým, a nie nadarmo. Rozhorelo sa dobre,   plameňa koľko teraz už chvojinu, hoci je mokrá. No/®oL|Ä vápenici,   chytro sa usušila. Tú do nicu mokrú . . . Hádžu do nej, trieli/r –   -krutej nemožno vysloviť, ako horí. Pukla, íílp j|Wrterozsyýj
+   </tei:p>
+   <tei:p>
+    ﻿126
+   </tei:p>
+   <tei:p>
+    pala, lebo je opásaná. Oheň zas vyhnal vodu — nuž stojí, stojí   ešte“, dodal s chutným smiechom, „a Boh vie dokedy. Aspoň nevyšla na   nivoč ...“ „Chvála vám, šor Páve!“ privolajú mu težaci. „Naši   vyhrali! Teraz ste už na koni!“ „To sa rozumie! Treba sa vynájsť.   Nezaložiť ruky a dívať sa, dívať, kým ťa voda potopí...“ Pán Bobčic   sa utiahol do pisárne a žaluje sa pisárovi:
+   </tei:p>
+   <tei:p>
+    „Toto je druhý raz, čo som vypočul históriu o vápenici. Ach, Bože   môj, chvála ti i sláva!“ Onedlho vyšiel z kostola don Ante, kaplán.   Odbavil omšu a chcel by ísť domov popiť kávy. No zastavil ho šor   Zakarija, ktorý práve bol prišiel a vypočúval históriu o vápenici.   „Či ste čuli, don Ante, čo sa robilo tej noci?“ „Bola búrka“,   odpovedá don Ante. „A o vápenici?“
+   </tei:p>
+   <tei:p>
+    „Nie ja ver5.“ „Ah, to je hodno čuť — poďte vy sem!“ A zas tí istí   težaci, pán Bobčic vo dverách pisárne stojí a hľadí hrozivo na šora   Zakariju. No ten rovno na šora Páva.
+   </tei:p>
+   <tei:p>
+    „No, rozprávaj, čo to bolo?“ pýta sa ho. „Ah, prosím ťa —   nešťastie!“ A šor Páve hodí rukou.
+   </tei:p>
+   <tei:p>
+    „Vápenica sa zrútila!“ zvolali težaci. „Ba ešte čo!“ diví sa don   Ante.
+   </tei:p>
+   <tei:p>
+    „Ah, darmo i hovoriť!“ začne šor Páve, rozhodiac ruky. „Prišlo   tohto pre ... pre .. . blahoslaveného dažďa ..
+   </tei:p>
+   <tei:p>
+    Šor Páve rozkladá ako prvý raz a pán Bobčic utiahol sa do pisárne,   chytajúc sa za hlavu. Kaplán načúva pozorne, težaci žmurkajú jeden na   druhého a mihajú na šora Zakariju, ktorý sa usmieva potmehúdsky. Keď   sa skončila história, prišiel pred sklep učiteľ; práve bol pustil   deti zo školy.
+   </tei:p>
+   <tei:p>
+    ﻿127
+   </tei:p>
+   <tei:p>
+    „Či viete, čo nového?“ spýta sa ho šor Zakarija. „Dážď je nový“,   odpovedá učiteľ. „A o vápenici Ste počuli?“
+   </tei:p>
+   <tei:p>
+    „Nie ja ver’...“ „Ah, to treba čuť.“ A už ho vedie šor Zaka-
+   </tei:p>
+   <tei:p>
+    rija do sklepú. A šor Páve rozpráva históriu tými istými slovami,   od počiatku do konca, pred šorom Zakarijom i težakmi. Pán Bobčic tu   vojde do pisárne, tu sa zas postaví do dverí a hľadí na šora Zakariju   hrozivé. Ten sa potuteľne smeje. Prešiel don Roko, plebán, prešiel   doktor, náčelník — i toľkí iní: šor Zakarija vovliekol každého do   sklepú a šor Páve vyrozprával každému zvlášť svoju históriu. Po   večeri v lete inteligencia schodí sa na ceste pred cintorínom. Tu sú   gaštany vysadené a platány, pod nimi kamenné lavice, alebo prosté   kvádry. Tu mládež spieva, alebo i vyvádza hry spoločenské, najmä keď   zavítajú mladice. No dnes večer sa nespieva, ani nešantuje. Šor Páve   má slovo a už so štyri razy vyrozprával nočnú udalosť. A šor Zakarija   sa ustavične smeje a utiera znoj veľkým svojím ručníkom. Rozpráva s   tým istým ohňom, tými istými slovami, i posunky sú tie isté. Ba je   omnoho živší ešte, názornejší, lebo mladice počúvajú ho s obdivom, a   neraz zhíknu nad jeho odvážnosťou. A pán Bobčic sa žaluje: „Ja už tu   neobstojím. Uvidíš, že sa vysťahu-
+   </tei:p>
+   <tei:p>
+    jem.“ Ale šor Zakarija sa ešte vždy smeje ... Pán Bobčié mal ešte   mnoho ráz príčiny posťažovať sa a pohroziť, že sa vysťahuje. Prišli   žandári, prišiel exekútor, prišiel poprávač telegrafov, prišlo toľko   rajzenderov — šor Páve každému zvlášť vyrozprával udalosť o vápenici;   i to najčastejšie
+   </tei:p>
+   <tei:p>
+    ﻿128
+   </tei:p>
+   <tei:p>
+    v sklepe Bobčica  Dobčiéa. Prišiel umelec zo Záhreba, Tomislav   Zvonimir: i jemu vyrozprával šor Páve svoju udalosť. Dramatický   umelec bol natoľko dojatý udalosťou, že pripravil sólový výstup o   vápenici, kde nechýbalo ani hrmenie a uragan, odbavené v nedostatku   basy a bubnov prosto na obloku našej ,čitaonice‘ (čitárne). Ak   chcete, príďte do nášho mesta. Môžete ešte i dnes počuť históriu o   vápenici, lebo šor Páve i šor Zakarija, chvála Bohu i sv. Rochu, ešte   žijú a oba sú bodrí a zdraví. O vápenici, pravda, už ani slychu. Keď   ju vypálili, rozrúcali ju, vylúčili zpomedzi vápna nevypálené kusy;   rozdelili na rovnako čisté vápno medzi občinou a Baldovou   spoločnosťou, uhasili ho vo veľkej jame, kde krivý Bepo len toľko že   sa neutopil, keď raz idúc z krčmy zatáral sa akosi na obcinský   pozemok, kde je jama s vápnom. Baldo sa prisahá, že nemal osohu ani   babky: čo zarobil, to kompánia prejedla a prepila ešte prvej, než sa   vápno predalo. No hoci materiálny osoh nebol veľký, morálny bol tým   väčší. Svet rozprával niekoľko dní o vápenici — nemal kedy špintať na   náš magistrát. „Treba rozmýšľať“, vraví šor Páve, „a všetko sa poddá   . ..“ „Pravdu máš, môj Páve“, prisviedča mu šor Zakarija.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

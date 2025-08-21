@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1883885" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Na obecnom salaši : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     10066
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Na obecnom salaši
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1883
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na obecnom salaši.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿I. Vošiel som do malej dedinky, ktorá dodnes volá sa Topolany.   Aspoň občania ju tak dodnes volajú, hoci ju pred nedávnom prekrstili   páni na Topolán. „Konečne to a, či je dlhé, či je krátke“, mysleli si   páni od slávnej stolice, „nepremení dediny; je to i tak jeden čert.“   A je to naozaj jedno: Topolany zostanú Topoľanmi až na veky. Vošiel   som, ako hovorím, do dedinky: bolo naozaj treba do nej v chodiť. Ako   dvor ohradený je so všetkých strán , plotom a staväniami, tak za   našou dedinkou dvíhaly sa vrchy, zaodeté tmavou zeleňou hôr; len ich   vrcholce boly holé, ako plešina na starcovej hlave. Keby vrchy neboly   nechaly medzi sebou tesnú dolinku, ktorou v hadovitých okľukách   pretieral sa bystrý potok a popri ňom biela cesta, prachom pokrytá:   nebol by si mohol do dedinky ani vkročiť. Dolinka len na mieste, kde   ležaly Topolany, rozšírila sa v útulnú kotlinu; svahy vrchov tiež   neboly také príkre pri dedine, akiste preto, aby občania mohli si na   nich trochu pôdy ujať a založiť role. Dedina — ako dedina. Dlhá   ulica, pó oboch bokoch biele domky so záhradkami; dolu ňou tečie   potok — akiste aby mlynár mohol mlieť — a všetko! No ešte spomeniem   topole, ktoré po brehoch potoka hrdo sa vypímaly — azda od nich   dostala dedina Svoje meno. Sotva som sišiel k domu pána rychtára,   videl som, ako sa sem sháňa národ. „Aká to vzbura vo vašej dedine?   Vari chcete
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    rychtára shodit?“ oslovil som ženičku, čo neďaleko stálav Ženička   ma obzrela s výrazom, s akým domáci pán obzerá nejakého pobehaja. „Vy   ste nie z našej dediny — preto si myslíte, že to len tak rychtára   shodit. Shodíme ho: bude rád; nebude mať ustávania.“ „A prečo ste sa   tak sbehli pred jqho dom?“ „Ideme ovce merať.“ 11 V Uf Co to znamena   „ovce merať , bal som sa jej spýtať. Bola by ma ešte vysmiala alebo   sa nahnevala. Načo sa jej budem spytovať: i tak mi to vysvetlí sám   pán rychtár. Rychtár v Topolanoch bol mi krstným otcom. Hoci som sa   narodil v meste a môj otec bol „írečitým“ mešťanom, jednako vstúpil s   topolianskym rychtárom (sedliakom!) do kmotrovstva. Aby ste ho preto   neodsúdili, pripomínam, že znali sa od dávnych rokov. Známosť sa   ohrievala, vyvinula sa v priatelstvo. Ani pri tom nezostalo.   Priatelstvo pri mojom krste spečatili kmotrovstvom. Nuž pokladali sme   sa za rodinu. Keď bol u nás jarmok, prišiel krstný otec, pozdejšie   rychtár, i so svojou ženou a složili sa u nás. Moja mať navarila kto   vie akých jedál: kmotrovstvo sa utužovalo. Keď zasa bola v Topolanoch   hostina, celý náš dom sa premáhal u nich koláčmi a všetkým, čo   poskytnú dedinská kuchyňa a krčma. A keďže krstní rodičia nemali   detí, vypýtali si vše mňa na leto. Nejedno leto som tam strávil —   najkrajšie dni svojho života... No každý pobyt v Topolanoch mal pre   mňa i chuderku moju mater nemilé dozvuky. Krstná mať chovala ma tak,   že, vrátiac sa domov, muse. som týždeň i dva žiť na apatekárovej   kuchynil A tá býva drahá! Tak sa roky míňaly, detské roky sa   ztratily
+   </tei:p>
+   <tei:p>
+    ﻿7
+   </tei:p>
+   <tei:p>
+    ako hmla. Otec chcel mať zo mňa „pána“, mať kňaza: dali  do   škôl. Keď som domov na prázdniny zavítal, ťahal som sa do Topolian ku   krstnému otcovi. My sme nemali ani takých koní, ani volov — a ja som   tak rád pásaval! No božechráň rodičom niečo o tom nadštrknúť. Mať ma   raz preto obkríkla: . „Ty si už študent!“ Chodil som do druhej   latinskej. „Ty nemôžeš sa tu s dedinskými chlapci vodiť a kone pásť.   Tuto — máš knihy, uč sa!” Zostal som takým spôsobom doma a po   skončení vakácií hybaj nazad do školy. Krstného otca som skoro štyri   roky nevidel — no nezabudol som naň. Po skončení piatej triedy ukázal   som otcovi svoje vysvedčenie — musel som mu každý polrok poslať   vysvedčenie — i potešil sa. Bolo v ňom päť eminentes; u mňa nevídaní   hostia. Pochválil ma, potľapkal po pleci. Bol taký uveličený, že mi   rozkázal, aby som si niečo od neho pýtal. Videl som mu na tvári, že   čo chcem, hneď dostanem od neho. Mať, neborká, nechcela byť horšou,   tiež mi sľúbila akúkoľvek žiadosť splniť. „Dobre“, začal som   pristupovať k veci. „Najprv si od vás budem čosi žiadať a potom od   vás, mamo. Len či sa nenahneváte Ý „Syn môj“, hovoril otec, „ja ti   splním žiadosť, ak len budem môcť. Mať, ja myslím, tiež bude držať   slovo. Ak nebudeš žiadať niečo zlého — ale študent, a aby žiadal   niečo zlého!“ Zapálil som sa až po uši. Po jazyku mi blúdila   nesmyselná žiadosť — ale bál som sa ju vysloviť. Otec ma posmeľoval:   „No, neboj sa, len sa do toho!“ Pozrel som mu ešte raz do tvári.   Usmievala sa na mňa radosťou a rodičovským blahom. Siahol som rukou   do bočného vrecka kabáta a vytiahol čosi.
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    V f u „Co to tam maš? Otvorím ruku, ležala na nej cigarka.   Obyčajná dlhá — s odrezaným koncom. „Ty už fajčíš — ty už fajčíš?“   divil sa otec. Mať, neborká, zalomila rukami. „Dovolíte, aby som si   pred vami?...“ „A keď ti zakážem: nebudeš?“ Ja som mu neodpovedal;   nechcel som mu ani odporovať, ani tak zrejme hneď v prvý deň luhať.   „Viem ja, syn môj, že si vlani poza humná fajčieval. a to ma mrzí.   Nešťastie sa môže prihodiť, a potom — nie je ani zdravé. Ale už som   ti sľúbil — nechže ti bude po vôli.“ Voľky-nevoľky musel som si pred   jeho očima zapáliť. Líca malý sa mi chytiť plameňom od hanby. Pustil   som z cigarky pár dymov — zahodil som ju. Nechutila mi, ako vlani tá   za humny... Nikdy takejto planej cigarky, dym z nej je horký ako   blen! Otec vyčítal mi z tvári, čo sa vo mne deje. „Vidíš, keby si si   bol niečo iného žiadal — mohol si mať! Fajčiť — čože fajčiť: to budeš   môcť len potom, keď si budeš vedieť sám na dohán zarobiť. Z toho, čo   ti ja posielam, na dohán veru nedôjde. Ak sa naučíš, musíš sa potom   odúčať. a to ide potom už ťažko: alebo zo zábavy a z jedenia si   utrhnúť. Nuž nie je to ešte tebe!“ Vypočúval som dlhú reč otcovu   — nepresvedčil ma o škodlivosti fajčenia. Keby ma bol nútil fajčiť,   skôr by bol azda došiel cieľa. No uprel som svoj zrak na mater. Mal   som k nej veľkú prosbu. „No, len povedz, syn môj; ale slovo, aby to   bolo i Bohu, i svetu.“ „Mamo, prosím vás, pusťte ma do Topolian!“   Moja žiadosť ich zarmútila. Matka mi hladila
+   </tei:p>
+   <tei:p>
+    ﻿9
+   </tei:p>
+   <tei:p>
+    dlaňou hlavu — nemilá situácia! Vlasy som mal v prostriedku   rozdelené a spustené do čela: najnovšia móda na našom gymnáziu! A mať   to nevedela pochopiť, tú krásu, čo väzela v účese. Vyhrnula mi vlasy   dohora. Potom pozrela mi do očú a povedala: „Doma sa ti už nepáči ?   Ani si sa neohrial, a už sa ťaháš do cudzieho domu. Akokoľvek je: je   to jednako len cudzí dom, čo sú ti hned krstnými rodičmi.“ Tak na   druhý deň ráno kráčal som do Topolian. Rodičia mi položili na srdce,   že o tri dni sa vrátim, že v Topoľanoch nebudem pásť ani volov, ani   koní. Tak ma vypravili po udelení mnohej rady a požehnania, ako by   som sa poberal za sklený vrch a drevenú skalu do sedem   desiatejsiedmej krajiny. Tak, hľa, našiel som sa v Topoľanoch pred   domom rychtárovým, ktorý ma mal za tri dni chovať ako princa. Vo   chvíľočke vletel som do dvora a popod stenu dupal rovno do izby. Bol   som istý, že krstného otca hodne prekvapím: možno, ani ma nepozná.   Len aby mu nebol niekto pošepol, kto ide k nemu ... Ako bandita   vpálil som do izby — ako by som bol s duba spadol. Chcel som zvolať:   „Krstný ňaňo!“ No nemožno. S obnaženou hlavou som stál; slova som   nemohol povedať. Oči mi po izbe blúdily — v hlave začalo sa mi ako   mak rozvídňať. Na laviciach som videl sedieť chlapov. Všetci mali   klobúky na hlavách. Krstný otec sedel za vrchstolom pri okne a ani sa   nehol. Pochopil som všetko. Je rychtárom, uňho radia sa boženíci o   obecných veciach, krstný otec má tedv aj inú robotu, nielen so mnou   sa maznať... Hanbil som sa. Nebolo lepšie doma ostať? Tu ešte   netušia, kto som; obrátim a ztratím sa. Pravá noha sa
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    mi trhla, obrátil som sa nevdojak ku dverám, chytil som sa klučky:   zaskočila mi cestu krstná mať. „Ach, kto by ho bol čakal!“ vykríkla.   „Vitaj u nás, môj milý syn radostný!“ Nestačil som sa s ňou ani   svitať, keď prišiel k nám starý. Obrátil sa k boženíkom a doložil:   „To je môj krstný — aký pán z neho! .Vitajte, vitajte!“ Podal mi   svoju širokú dlaň, stisol moje kostnaté prsty, až sa mi hviezdy cez   povalu zablysly. „Čože vás sem donieslo? Či len tak ste —■ no,   sadnite si!“ Takejto privítanky som sa nenazdal. Víta ma ako celkom   cudzieho, neznámeho, s tou vážnosťou, ktorej každý sedliak privykne,   keď príde k úradu. A k tomu vyká... Hanbil som sa pred sebou a   boženíkmi, ako by som bol nejaký zločin spáchal. Pocítil som trpkosť   polovičatého položenia, keď človeka vytrhnú zo zdravej, rodnej pôdy,   a nevedia presadiť do druhej. Áno, vytrhli ma z tejto zeme, ničia   korene, ustrihujú — vysotia ma zo svojho kruhu, od teplého krbu a   hodia do víru života, ktorý sa volá „postupovaním do vyššieho stavu“.   Krstná, mať sa zahanbila. Zelela nad tým, že sa prv pozabudla. „Ach,   človek na starosť — ako dieťa, ako dieťa! Ani mu nedvojím — pánovi!   Bože, Bože, keď som ho pri krste svätom odriekala, kto by mu to bol   prorokoval! Nehnevajte sa, že som vám nedala úcty. Človek na   starosť...“ „Veru, stará, komu česť, tomu česť. Nám je krstným — ale   úcta pred každým.“ „Krstný ňaňo, nechajte ju! Ak mi nebudete hneď a   hneď tykať, ja utečiem. Ja sa tu hanbím.“ „No, keď si sám žiadaš —   ale my ti musíme
+   </tei:p>
+   <tei:p>
+    ﻿11
+   </tei:p>
+   <tei:p>
+    dať úctu. Kto ťa bude vážiť, ak nie krstní rodičia! Nuž, stará,   nože niečo... Postaraj sa!“ Krstná mať ztratila sa drobnými krokmi v   kuchyni, a ja zostal som v izbe s ním a boženíkmi. „Vidíte, slávny   úrad, toho som odriekal pri krste svätom. Nedávno sa tu ešte s   chlapci bavil, a uz aký pan! Boženíci, ktorých krstný otec tituloval   slávnym úradom, poskladali s nevoľou klobúky. Ináč nejavili ko mne   veľkej úcty. Niektorému z nich poletoval i hrdý úsmev vôkol úst:   znali môjho otďa i mňa od malička. Necítil som sa voľno pri nich. Rád   vidím krstného otca, ale vtedy som . sa naň naozaj hneval. Keby ma   nebol tak vyvyšoval, „slávny úrad nebol by sa obzrel o mňa.   Takto ma dôkladne prehliadali. Sklopil som oči a zapálil sa až po   uši. Asi dvadsatoro očí zabodlo sa do mojich obnosených čižiem, najmä   do vykrivených opätkov. Neušly ani nohavice, ošúchané, lesklé, na   spodku obrúsané. Neušiel ani klobúk, neborák kloptavý, bez stužky.   Zdvihnem oči, stredy sa s očami všetkých. A všetky ako sa posmievaly!   V každom som vyčítal: „Páni takto nechodia... Kam sa hodiť, kam   utiecť pred týmito pohľadmi ? Skočil som za krstnou materou do   kuchyne.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Popoludní poberal som sa po boku hostiteľa svojho z dediny. Cesta,   vlastne chodník viedol nás úložitým bokom, pokrytým rozkvitnutou   ďatelinou. Bok prechádzal volne v mohutný vrch, tvoriac akoby prvý   stupeň na jeho podstavci. Nad polom ďateliny zelenela sa hora.   Klobúky sme držali v ruke, tvár sme si nestačili utierať. Slnko   oprelo sa nám do chrbta; hrialo celou silou. Nohy ocha-
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    bovaly, často bolo treba postáť a vydýchnuť si. Nielen vydýchnuť,   dobre padlo obzrieť sa i na prekonanú cestu. Chodníkom kráča dlhý rad   žien1, pekne vyobliekaných, ako by šly do chrámu. Medzi ženy vplietly   sa i deti, väčšie-menšie, koľko ich len máš v Topoľanoch.   Bezprostredne za nami vliekol sa „slávny úrad“, medzi ním a ženami   medzera, ako to úcta k úradu vyžaduje. Veru divný obraz: chodník ako   by bol živý. Divná miešanina tvárí. Tam červená, plná, usmievavá —   tam svraštelá s tenkými perami a ostrou bradou. No každá bez rozdielu   je shovorčivá. Nesú v rukách šechtár, do ktorého sa dojeva; deti zasa   krčahy, vykrášlené tulipánmi od výmyslu sveta. Zdá sa ti, že celé   Topolany kráčajú za svojím rychtárorn do nejakej inej krajiny, ako   Izraelskí za svojím Mojžišom. Notáriuš, idúci hneď ža nami, nesie pod   pazuchou sošity: obecné lajstre. Za remencom klobúka má zastrčenú   ceruzku; zastrúhal ju iste tešlicou, je do hrubá zastrúhaná — k tomu   hrubá, silná, celkom taká, akou tesári po brvnách trahujú. Nuž, hla,   v jeho rukách obyčajná by sa hneď a hneď zlomila. Len keby to slnce   nepražilo! I príroda je ako zahluchlá. Nič sa nehýbe, všetko mlčí.   Ďatelina schúlila svoje listy a zakryla pred lúčmi svoju sýtu zeleň,   vystaviac im šedivé ruby. Zdalo sa mi, že šaty vážia na mne centy, v   čižmách že mám olovo. Nohy sa mi podlamovaly. „Si už ustal — povedal   som ti.“ „Nie, nie“, zahriakol som krstného otca. „Neustal som, ani   neustanem. „Poznať to na tebe: ledva sa vlečieš. Shoď ten kaput — daj   ho sem! “ Musel som kepeň složiť; krstný otec mi ho odňal a podhodil   mladému boženíkovi, ktorý ho
+   </tei:p>
+   <tei:p>
+    ﻿13
+   </tei:p>
+   <tei:p>
+    složil do chumáča a pritisol pod pazuchu. Bolo mi hneď voľnejšie.   „N aj tiaž nám dôjsť do chládku: tam bude ľahšie. Už len musíš   pretrpieť; keď si chcel ísť, musíš ustať.“ „Pôjdem, čo kolenačky.   Salaš vidieť — toho tak ľahko nevidím. „Čo je na ňom vidieť? Búda ako   búda, v nej valasi, kotly, nádoby, ovce, psi — to je všetko. Skoda   preto sa ustávať — a to dve hodiny! “ „Vy chodievate často na salaš?“   „Ja musím. Každý týždeň aspoň raz. Musím na salaš dozerať. Ach, moc   ustávania, a to nič po nič. Iba čo Pán Boh odplatí. Moc mám na hlave:   či sú ovce všetky, koľko soli zvýšilo, či sú košiare preložené, či   bača má dobrý mincier, či dobre váži, či sú oštiepky dobré, či sa   hora šanuje, či sa smrečky nezotínajú — človek má plnú hlavu   starostí. A ak by len jeden týždeň nebol, už by bolo zle.“ „Preto   nemáte už čo vidieť na ňom, že tak často ta chodíte. Ale ja — ja som   ešte nikdy nebol na salaši.“ „No, veď uvidíš, ako je tam — uvidíš.“   Krstný otec kráčal pokojne ďalej. Mne nedal salaš pokoja. Chcel som   sa všetko dozvedieť za horúca. Mnoho otázok sa mi núkalo; nevedel   som, ktorou^počať. Najlepšie od kraja! „Čie sú to ovce na salaši?“   „Čie?“ podivil sa krstný otec. „Obecné. Každý gazda ich má päť, šesť,   desať, dvadsať — ako ktorý sa vládze.“ „To sú nie obecné — patria   gazdom.“ „Trochu gazdom, trochu nie. Kým sú doma, v ovčiarni — sú   gazdove Robí si s nimi, čo chce. Ak mu niektorá vyhynie, to je jeho   škoda. Keď ich dá na salaš, v deň Žofie — už sú nie
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    jeho, ale obecné. Ak by niektorá zhynula, že by ju vlk potrhal,   alebo ak by sa zabehla, obec nahradí škodu gazdovi. Keby sa   vyzvedelo, že som ja nedozeral ako svedčí, ťahali by mňa.“ „Hm, to je   pre gazdu dobre. Osoh z oviec má čistý, a škodu má obec.“ „A akú?   Obec sme my, gazdovia. Toho roku ja dám náhrady šesť krajciarov, a na   rok, možno, mne dajú stonásobne, ak mi ovca vyhynie. Mňa tie tri   groše nezabijú, a tomu, čo škoduje, veru dobre padne náhrada. A obec   má i osoh zo salaša. Trus zostane jej.“ „A vy ho so salaša svážate?“   zasmial som sa. „Nie, máme tam lúky; tie sa vykošarujú, na rok bude   tam tráva po pás.“ „A kto tam vedie všetko, keď ste vy nie tam ?“ „Na   to sme si vyvolili baču. To je velmi hodný človek a dobrý gazda.“ „A   upasie tam toľko oviec? Koľko ich je?“ „Vyše sedemsto. Ale bača sedí   len doma, v kolibe. Za ovcami chodia valasi. Je ich osem.“ „Čo im   platí?“ „Majú dobrú plácu. Každý dostane na týždeň po štyri oštiepky.   Oštiepok stojí obyčajne štyridsať krajciarov.“ „No, to je nie moc:   jeden zlatý šesťdesiat krajciarov na týždeň.“ „Dosť mu je to. Od   Žofie do Michala je devätnásť týždňov, to je...“ „Vyše tridsať   zlatých“, doložil som ja. „No, to je pekný groš. K tomu si prirátaj   chovu, obuv tiež na celé leto, krém toho podelia  s peniazmi,   čo pri rozsadzi na Michala vyberú. A ešte každý, kto len príde,   zavďačí sa im čímtým. Hanbil by som sa s prázdnou rukou ísť na
+   </tei:p>
+   <tei:p>
+    ﻿15
+   </tei:p>
+   <tei:p>
+    salaš. Tu dohánu, tu zemiakov, múky — nasbiera sa to.“ „To by ja   tiež bol vďačne valachom!“ Naozaj, začal som závidieť bezstarostný   život tým luďom. Krstný otec sa mi tiež usmial, ako by chcel povedať,   že veru ani on by neuskočil, keby ho ta prijali. No chcel som jednako   vynájsť nejaký háčik, aby krstného otca trochu pohneval. „Kto tým   valachom platí, obec?“ „Bača.“ „Tak?“ podivil som sa a usmial, že ho   už mám. „Prečo on, keď sú to nie jeho ovce? To by mala obec, to je   nespravedlivosť.“ „Keby mal bača krivdu, nenašli by sme nikdy nikoho:   a každý rok i traja sa nám núkajú, nemá ten krivdy. My sa s ním   sjednáme, kolko dá syra od ovce — on slúbil šestnásť funtov, toľko sa   dáva v od nepamäti sveta. Co mu vyše toho zostane, to je jeho: hoden   je, aby z toho i valachov platil. Niekedy obíde dobre; ak má dobrý   rok, mnoho zarobí.“ „A keď je zlý rok, že mu ani tých šestnásť funtov   nedôjde?“ „Keď nevyräduje, svolám obec, nech rozsúdi, aké bolo na   baču leto. Ak boly zlé časy a bača nebol v niečom vina: tí, čo syra   na svoje ovce dostali, nahradia tým, na ktorých nedošlo. Bačovi   nedáme škodovať. Ono sa i málo trafí, aby bača nevyraďoval. “ Nemohol   som krstného otca tu dolapiť. Ale mal som ešte jednu dobrú otázku.   „To je veľmi pekná obyčaj“, pochválil som ho, aby som mu tým ľahšie   pristúpil. „Bača nemá nijakej krivdy. Koľko má oviec, toľko ráz po   šestnásť funtov syra oddá gazdom. Jemu je jedno, či ten gazda má   dostať viac, či menej, a či dostane toľko, koľko mu príde. Ale krivdu   majú gazdovia
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    medzi sebou. Šestnásť funtov syra brat, či je ovca zlá, či dobrá:   to je nespravedlivé. Byvši vami, vyhnal by som na salaš miesto   dvadsať dobrých štyridsať planých oviec, a dostal by som dva razy   toľko syra.“ Krstný otec sa mi srdečne zasmial. „To by si zle   pochodil, lebo by si nedostal na štyridsať oviec syra, ale na menej.   Valachom, od paše a všetky dávky musel by si od tých zlých tak   platiť, ako od dobrých, od každej hlavy. Preto ani jeden gazda nechce   mať mnoho zlých oviec, ale málo a dobrých, aby čím viac osohu ťahal a   čím menej platil. Dneska ideme na salaš, aby sme premerali, koľko   gazdom príde syra. Lebo syr nedávame od hlavy, ale podľa mlieka.   Niektorý gazda má tridsať oviec, a syra mu príde len na dvadsaťpäť.   Iný na dvadsaťpäť dostane syra od tridsiatich. My sa tu nedáme   klamať.“ Ťažko sa tu škriepiť. Títo ľudia si vedeli zo salaša   vytvoriť plané ovce. Prostriedok na pohľad jednoduchý, ale veľmi   vtipný. Osoh ťahať podľa množstva mlieka, dávky platiť podľa hláv. No   ešte sa daly nájsť i medzery. „Medzi sebou ste nie ukrivdení, to je   pravda. Len by som rád vedieť, ako vynajdete ten merťuk, ktorý   zodpovedá tým šestnástim funtom syra. A či to už máte takú ovcu, čo   práve toľko mlieka dáva ? Ak merťuk sami robíte, to je ťažká vec. Ak   je merťuk menší, bačovi sa ukrivdí, lebo musí syra dávať nie na   sedemsto, ale i na sedemstopäťdesiat oviec. Kdeže vezme tie ovce, čo   mu nadskočilo ?“ „Merťuk sa každý rok robí iný. Pôdoj rozmeriavame a   zvieme, koľko príde na jednu ovcu.“ „Tak musíte mať sedemsto malých   nádob. Kým ho rozmeriavate, polovica sa vám ho porozlieva, a merťuk   bude zasa len nepravý.“ „Máme na salaši nádoby. Odmeria sa, koľko
+   </tei:p>
+   <tei:p>
+    ﻿17
+   </tei:p>
+   <tei:p>
+    je mlieka holieb, a na papieri sa rozhodí, koľko príde na ovcu.“   Ešte som mal steblo, na ktorom som sa chcel zachytiť. „Povedzte mi,   prečo dnes idete merať? Mohli ste ich merať, kým ešte boly doma. Načo   sa má celá dedina ustávať?“ „V máji býva paša najlepšia. Po Ján e   začína planieť a ovce začnú mlieko tratiť. Teraz po Petre-Pavle je   paša tak stredná: neukrivdí sa ani jednému. Niektorá ovca bola by v   máji dobre dojila, a teraz by sekla razom: bača by mal škodu i   gazdovia — takto je najspravedlivejšie pre všetkých. A to je už taká   obyčaj u nás.“ Ako všetko, ani salaš nie je bez chyby. Toto je jeho   najslabšia stránka. Bačovi je jedno, čo kedy sa ovce merajú, on platí   od hláv; ale gazdom je predsa nie jedno, lebo ovce nedoja vždy   rovnako. A nedostávajú syra od hláv. „A kedy ste ustálili ten merťuk   na tých šestnásť funtov syra?“ „Včera sme tam boli. Mám ho pri sebe.“   Ukázal mi malú drevenú nádobku, ktorú niesol so sebou. „Keby mal bača   rozum, mohol včera so desať oviec ukradomky podojiť: merťuk by mu bol   vyšiel menší a vy by ste boli oklamaní.“ „To by bola len jemu škoda;   sám by si z kapsy vyháňal. Od každej tejto nádobky musí zaplatiť   šestnásť funtov syra; čím menšia nádobka, tým viac ráz by platil. To   je práve tak, ako by si pri kupovaní súkna siahu skrátil.“ Dal som sa   tedy dolapiť v matematike; ja, skončiac piatu triedu s piatimi   eminentes! A to komu — krstnému otcovi, čo s krížikmi ráta! „A keby   bača dnes podojil ovce?“ „Nuž tak by nás oklamal — ale od rána sú
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spisy X. 2
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    tam dvaja hájnici: tí sú sprisahaní, budú naň dozerať i na   valachov.“ „No, to máte múdre zariadené. Váš salaš — na tom chyby   skoro niet!“ „Keď niet, nuž niet: veď uvidíš.“
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    Po dvojhodinovej púti hustým ihličnatým lesom dostali sme sa na   polanu. Hora svojou tmavou zeleňou tvorí pekný rámec jasnej poľane,   porastenej drobnou, šťavnatou trávou. Naozaj pekný obrázok! Vôkol   hora, sta zamatový rám, v ňom poľana, tvoriaca zelené úzadie košiaru   a kolibe. Koliba ako by sa necítila voľno uprostred poľany, utiahla   sa k okraju hory, do tône starých jedlíc. Divný domok! Také asi   staväjú bobrí ponad vodu. Pozoroval som, či sa mi neukáže nejaký   bobor. No bobra nevidno, miesto neho stojí pred kolibou obor. Veru   obor, vysoký chlapisko, akých ani v našich krajoch tak chytro   nevidíš. Vstúpili sme do koliby. Veru ťažko si predstaviť, ako sa sem   osem chlapov zmestí. Je tu len jediná lavica, na jej konci, obrátenom   do kúta, položený vankúš: jediný luxus, čo si azda len bača môže   dovoliť. Valasi nemajú vankúšov, azda si podkladajú poleno pod hlavu.   Postelí tiež niet; iste sa odpočíva len na zemi, čo má tú výhodu, že   ak človek spadne, nepoletí ďaleko. Jediný bača leží na lavici — no   kto by mu závidel? Lavica by bola i mne krátka. Bača, čo ako sa   pokrčí, musí nohy niže kolien spustiť na zem. Ku kolibe patrí komora,   od koliby len doskovou stenou oddelená. „Dobrý deň!“ pozdravil som   baču slušne. Složil som i klobúk, ako sa v cudzom dome na poriadneho   šuhaja svedčí. „Pán Boh uslyš!“ odpovedal mi bača.
+   </tei:p>
+   <tei:p>
+    ﻿19
+   </tei:p>
+   <tei:p>
+    Odpoveď, ako vidno, cele neprístojná, lebo na môj pozdrav svedčilo   by sa odpovedať: „Ďakujem.“ A či som ja zle pozdravil? Tak sa zdá:   krstný otec pozrel tiež akosi divne na mňa a doložil : „To je môj   krstný — driapal sa za mnou, že vraj ešte nikdy nebol na salaši.“   Bača si zazíval a pokročil ko mne. „No, len si polož ten ryndzik na   hlavu. Nie si tu na fare.“ A chytil môj klobúk, ktorý nazval   ryndzikom — znamenitý názov popri jeho širokom klobúku — a vtisol mi   ho na hlavu. „Odkiaľ si? Akého si remesla?“ „Chodím do škôl — som v   šiestej latinskej“, odpovedal som trochu podráždene, lebo ma mrzelo,   že mi tyká. „Do škôl — hm, hm“, krútil hlavou. „To je tiež remeslo:   budeš pánom.“ „Ja neviem“, odpovedal som v rozpakoch. Predsa mi len   tyká, a vie, kto som, čo som! Sadli sme si na čestné miesto — na   lavicu. Bača vošiel do komory. Čosi tam šukal, konečne nadchýlil sa   do koliby. „Budete kyslej, či sladkej?“ opýtal sa krstného otca. „Daj   mi kyslej; človeka občerství.“ „A ty, chlapče? Ty radšej sladkú.“   „Mne tiež kyslej.“ Nevedel som síce, čo to — no nechcel som nasilu   byť chlapcom. Deti rady sladkosti — pohrdol som i ja „sladkou“. O   chvíľu vyniesol bača v oboch rukách po drevenej nádobke, pekne   zdobenej. Y oboch, ako vidno, cmar. „Vieš, čo je to?“ spýtal sa ma   bača. „Mlieko“, odpovedal som mu.
+   </tei:p>
+   <tei:p>
+    2*
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    Bača sa chutne zasmial, až sa mu ruka striasla a „mlieko“ sa mu z   nádobky črpkalo. „Mlieko! Načo chodíš do škôl, keď ani to nevieš! Na   salaši sa takto nerozlieva mlieko; s mliekom sa musí gazdovať. Ale   žinčica — a tej máme dosť: i okúpanie ťa v nej, ak chceš.“ „Toto je   žinčica! Kolko som už o nej počul, a dosial Len aby čím skôr zvedel,   aká je, nedopovedal som. Unavený, uhriaty pil som s chuťou. Bola   kyslá, ale zvláštnej kysloty; kyslému mlieku sa ani zďaleka   nepodobala. Smäd hneď zmizol; cítil som v nej vôňu kvetov, šťavu   letnej prírody. Čo všetko som v nej cítil! Pil som ju s akousi   pietou; zdalo sa mi, že je to pozostatok nektáru, ktorý grécki   bohovia zabudli dopiť a nechali na okúsenie smrteľníkom. Pustil som   si dva-tri glgy, ruka s nádobkou klesla na kolená. Y tele rozšíril sa   pocit ukojeného smädu. Zdalo sa mi, že aká to hlúposť byť kedy   smädným. Neveril som, že by smäd bol na svete. „Budeš ešte do   jedného?“ spýtal sa bača. „Ani tú som nedopil. Tá merička je   priveľká. ‘ „Merička!“ zasmial sa zasa bača. „To je črpák.“ Bača bol   naozaj dobrej vôle. Na mne sa veľmi dobre bavil. Chcel som mu už   nejakú hádku zaliádať, napríklad prečo sa črpák volá črpákom, a istý   som, že by bol umlkol, keby neboli už došli i boženíci. Ale tí   vchádzali jeden za druhým s pozdravom: „Pán Boh pomáhaj!“ Bača im   odpovedal: „Pán Boh uslyš!“ Vedel som tedy, že som nezadržal pravidlá   slušnosti, preto azda bača tak zpoza pleca hovoril o mne. Bača   ponúkal z príchodu „slávny úrad“ kyslou. Boženíci rozložili sa v   kolibe, kde / kto
+   </tei:p>
+   <tei:p>
+    ﻿21
+   </tei:p>
+   <tei:p>
+    mohol. Najviac ich sedelo na zemi okolo ohniska. Nebolo to ani   ohnisko; obyčajná pahraba, obložená plochými kameňmi. Nad pahrabou   visel kotlík s vodou. Pán Boh vie, načo je tá voda; ale pozdejšie,   keď som dochádzal na salaš, nikdy nechyboval kotlík a voda. Pahraba   je vždy živá, oheň v nej nesmie vyhasnúť. Nie azda preto, že by   topoliansky bača bol Vestállcou, ale akiste aby bolo si pri čom   zapiecť. I boženíci, sotva sa občerstvili žinčicou, už vyťahovali   riadiky a vnorovali svoje zapekačky do horúceho popola. Tomu, čo mi   kaput niesol, som dohováral, prečo z takej krátkej fajky fajčí, že si   iba pľúca kazí. „Dlhá by mi zavadzala v robote.“ „Ale čo by sa už   začalo. Kdeže sú tie ovce?“ ohlásil sa krstný otec a pozrel pred   kolibou na poľanu. Tam sedely už ženičky v peknom rade a častovaly sa   žinčicou, ktorú im vynášal bača a dvaja valasi. „Ešte je dosť času, o   nejakej pol hodiny“, upokojoval rychtára bača. Bolo mi veľmi smiešné   počuť tu o hodinách hovoriť. Tu mohli čas merať holbou alebo rífom,   len nie hodinami, lebo hodín som v kolibe nevidel. Aby som trochu   baču nahneval, pýtal som sa ho s utajeným úsmevom: „O ktorej   dojevate?“ „Na svitaní, popoludní o tretej a večer okolo ôsmej.“ „Ako   viete, koľko je, ked nemáte hodín? A či azda máte vreckové, čo sa v   kešeni nosia.“ Bola to znamenitá poznámka. Aký kontrast: salaš, a   vreckové hodinky! Bača sa zasmial, i boženíci. Zdalo sa, že sa na mne   smejú.
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    „A načo by mi boly hodiny? Keby zastaly, čo by som robil s nimi ?   Letel by s nimi do dediny a tam by ich napravil, alebo musel by som   mat ešte jedny a podľa, tých by ich naprával.“ „Keď vy nechcete mať   hodiny len preto, že by vám mohly zastať — to by nebolo treba ani   tejto koliby. Tá tiež môže zhorieť.“ „Veď sme tu, aby nezhorela. Už   je tu od nepamäti sveta salaš a nikdy nevyhorel, ale hodiny neraz   zastaly.“ „A podľa čoho poznáte, koľko je hodín?“ „Vyjdem pred   kolibu, pozriem na poľanu, kde je tôňa -— to už tak viem. „A keď   slnce nesvieti?“ „Nuž to už vieme. Ale čo ma tak — aha, ako ťa bude   zvŕtať! zasmial sa bača. „Koľko je teraz hodín?“ zkúšal som ho ďalej.   Mal som vo vrecku hodinky, chcel som ho dolapiť. „Pol tretej minulo.“   Pozrel som ukradomky na hodinky, ukazovaly tri štvrte na tri. Schoval   som ich do vrecka; bol by som sa hanbil nimi pochváliť sa bačovi,   lebo by ma bol vysmial, že zbytočné veci so sebou nosím. V kolibe   bola veľká horúčosť. Slnko sa do nej opieralo, a k tomu tá pahraba.   Bol by som vyšiel do tône, do hory niekde, ale koliba ma vábila. Veď   bolo tu medzi tými chlapmi tak dobre! Sadol som si na zem, oprúc sa   chrbtom o stenu; tá bola vypchatá machom, a aby bola hladšia,   obtiahli ju kôrou s jedlí odretou. Zdnuká to bolo pekné. Len stena   naproti, pri ktorej bola pahraba, nebola upchatá. Ba naschvál neboly   brvná urovnané, aby čím väčšie špáry zostaly. „Prečo tie špáry   nepoupchávali?“
+   </tei:p>
+   <tei:p>
+    ﻿23
+   </tei:p>
+   <tei:p>
+    „A ako by odchodil dym? A bolo by tu i horúco.“ „Prečo nekladú   oheň pred kolibou?“ „I tam kladú, keď žinčicu odvárajú; ale musia i   tu. Noci bývajú chladné. A v kolibe musia mať i dym. Poďže sem.“   Krstný otec voviedol ma do komory. Tam boly povešané v pekných radoch   oštiepky. Videl som práve také v meste na jarmoku. Toľkoto naraz som   ich ešte nevidel. „Takýchto osem dostávame na ovcu. Povešali ich sem,   aby sa zaúdily. Inde ich ani neúdia, ale omočia do jelšovej vody. I   tak sa pekne na červeno zafarbia, ale chuť je už nie tá.“ Radosť bolo   pozrieť na ne. Keby moje oči boly mohly jesť, nebolo by jedného   zostalo. Niektoré boly ešte biele, iné prechádzaly z citrónovej až do   pomarančovej farby. Ako ľahko by vnikol nôž do niektorého, daly by sa   na pekné kolieska krájať. „A ak masť z nich stečie!“ „Nestečie. Bača   ich prevešiava. Ten koniec, čo je teraz nadol, príde nahor.“ V komore   boly všelijaké kotlíky, nádoby rozličnej veľkosti. Krstný otec mi   všetko pekne povysvetľoval. Videl som tam i ohromnú varechu. „Vari   tou varechou bača jedáva. Toľký chlapisko musí mať i lyžicu hodnú.“   „Lyžky sú tuto“, ukázal mi lyžičník, v ktorom boly obyčajné drevené   lyžky. „Varechou sa žinčica mieša a do črpákov naberá.“ Čím dial som   bol, tým väčšmi sa mi tu páčilo. Bolo mi ľúto, že dosial som tohoto   života tak neznal.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Vyšli sme pred kolibu. Čas už bol tu. Bača stal si ku krstnému   otcovi a ako svrchovaný pán
+   </tei:p>
+   <tei:p>
+    ﻿24
+   </tei:p>
+   <tei:p>
+    oprel ruku o bedrá a díval sa pyšno na polanu. Rychtár i so   „slávnym úradom“ zdali sa pri ňom ako paholci. Keď vidíš tú vztýčenú   hlavu, s ktorej visia dlhé vlasy, smelé oči, vysokú postavu — všetko   ti pripomína staré časy, keď ešte nebolo pánov ani sedliakov,   vysokých ani nízkych, keď bol každý v svojom dome pánom. Azda je to   prelud, možno nás smysly klamú — no bača nás na to upomína, ani toho   netušiac. Ako by i víly boly ožily — taký hovor je na polane. Ženy   popustily si jazyky. Zrazu všetko utíchne, slávny úrad i ženy hľadia   jedným smerom; počuť vzdialenú miešaninu zvukov: zvonce i klepáre v   najkrajšej disharmónii. Bača pohladil si dlhé vlasy, oko sa mu   usmialo. O chvíľu vynoril sa z húštiny mladý valach, na pleciach   zahodená huňa, v pravej ruke kyjak. Popri ňom vykračuje si valaský   pes; tu i tu chňapne za dotieravou muchou. Za nimi kráčajú ovce. Ako   by chcely už zovňajškom dokázať, že sa spoliehajú na svojich vodcov:   sklonily hlavy k zemi a nasledujú ich slepo. Za prvým valachom   ukázali sa po bokoch kŕdľa dvaja. Sprievod zavierajú ešte dvaja s   jedným psom. S nimi kráča šuhaj ešte mladý, asi v mojom veku. Obďaleč   za kŕdľom, ako by sa okúňali, vlečú sa obecní hájnici, ktorých vyslal   slávny úrad, aby sa ovce poriadne napásly i aby sa nejaká chyba   nestala. Pozrel som na hodinky; práve minulý tri. Nielen bača, i   valasi majú spoľahlivé hodinky ... Sotva sa kŕdeľ octol na polane,   valach, čo šiel popredku, zahvízdal na palci. Ovce vbehly do jednej   ohrady. Psi za nimi bežali, radostne štekajúc. Ohrada zaplnila sa   ovcami. Ohrada bola so troch strán obohnatá plotom, zadná strana   nebola zahradená. Tam stál spomenutý chlapec, aby ovce tohoto východu   nepoužily. Strana, obrátená
+   </tei:p>
+   <tei:p>
+    ﻿25
+   </tei:p>
+   <tei:p>
+    k ženám, bola prikrytá chvojím, príliš nepripekalo, ani dážď   nepršal. osem otvorov, pri každom sedisko z na ktorých pažiť smutne   usychala. Tu sixtohSifaG lasi ku každému otvoru.   Notáriuš prešiel po^fwF5* ženy, do radu usadené, a prísne skúmal, či   v nádobách, do ktorých sa malo dojiť, niet vody. I to sa vraj často   stávalo; ba boly bezbožnice, čo v skleničke doniesly so sebou mlieka.   Čo ženy nenavymýšľajú! No toto sú všetko spravedlivé. Každá, pred   ktorú notáriuš stane, vycedí šechtár do poslednej kvapky ■— pred jeho   očima. Tak bolo všetko hotové. Ženy posadaly na pažiť. Krstný otec   dal znamenie. Valasi chytili po ovci, vytiahli ju z ohrady a zavolali   meno patričného gazdu. Deti boly na to, aby ovce od va- i lachov   prejímaly a materiam oddaly. Pred ohradou bol stisk, trma-vrma a   krik, ako v Sodome. Klbko, ktoré sa rozviť nemôže. Uradskí rozišli sa   na všetky strany a dozerali na ženy, aby sa pri práci nerobily pletky   a klamy. Ja som sa díval na všetko toto ako omámený. Najviac som sa   trápil, ako valasi pri -otvoroch poznajú každú ovcu. Pýtať som sa ho   nemohol, ani jedného; boli zaujatí prácou. Aha, v ohrade je malý   valach ten mi bude môcť povedať. Šiel som k nemu. „A ty si tiež   valachom?“ Chlapec ma obzrel divne. Nevedel pochopiť, čo ja tu chcem.   „Tiež pasieš ovce?“ opýtal som sa ho. „Pravdaže!“ „Taký malý, a už   valachom! „Ja som nie valach — ja som honelník.“ „Veď je to jedno.“   „Oj, nie — ja ešte nedojím, len ovce zaháňam do strungy. „A čo je to   strunga?“
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    (( v „No , zasmial sa chlapec. „Co? Ved v nej stojíme. „Táto   ohrada?“ „No, kde sa ovce doja.“ „Ale pasieš.“ „Ja len zavraciam.   Pást vedia len valasi.“ Tomu som sa musel zasmiať. O pasení hovoril,   ako by to boly nejaké čary. „A kde sa naučíš pásť, či máte na to   školu?“ Chlapec poznal, že sa mu vysmievam. Odvrátil sa. Zahvizdol na   palci, a ovce sa tým väčšmi tisly k východom pod ruky valachov. „A je   to ťažko ovce pásť?“ „No! To hocikto nevie. Musí vedieť, kadia! sa   poženú ovce; kolko máme zostať na jednom mieste a — všetko! “   „Neschodíte každý deň celú pašu ? „O, nie. Včera sme pásli vo   Viechach, dnes na Brežkovie doline — každý deň inde.“ „Prečo nie   každý deň všade?“ „Keby sme celú pašu schodili, ovce by sa nenapásly.   Najprv by len kvietky strhúvaly, trávu by stlačily a iba by darmo   tratily mlieko.“ „A kto vám rozkáže, kadiaľ pôjdete?“ „Salašník; ten,   čo to popredku chodieva. ‘ Ten, čo popredku šiel, je tedy salašník.   „A vy ho musíte slúchať?“ „Ved by nám ten dal!“ Chlapec hovoril s   veľkou úctou o ňom. Poznať, že ho slúcha. „A ten salašník musí   vedieť, kedy sa treba s ovcami vrátiť?“ „To už on vie. Ked vypasieme,   nuž sa vrátime.“ , Hľa, tu je celé tajomstvo! Ľahko im uhádnuť, koľko   je hodín, na to netreba ani slnca, ani iných znakov. Salašník má   podelenú pašu na rovné
+   </tei:p>
+   <tei:p>
+    ﻿27
+   </tei:p>
+   <tei:p>
+    čiastky: zav ten istý čas vypasie stádo ten istý kus paše. Žalúdok   oviec mu je najlepším merťukom času. Pravda, na poludnie musia   vypásať menší kus paše, než predpoludním. „Včera predpoludním ste   práve toľký kus vypásli, ako dnes?“ „Oj, nie. Vo Viechach je paša   horšia, ale väčší kus jej je. Brežkovie dolina je máločo väčšia od   tejto poľany.“ Moja domnienka bola tedy mýlna. Podľa paše sa tiež   neurčuje čas. „A ako vie salašník, že sú už tri hodiny.“ „Pozrie na   slnce a — všelijako.“ „A ty by si tiež uhádol?“ „To hocikto nevie.   Ale sa naučím.“ Záhada zostala záhadou. „Čia je toto ovca?“ „Bačova.“   „Aha, bačova! pomyslel som si. „Bačovu musí poznať.“ „Rychtárovu by   si poznal?“ „Každú viem, čia je.“ „A táto ?“ „To je Mrázikovie.“   „Podľa čoho si ju poznal?“ Chlapec chytil ovcu za hrdlo a ukázal mi   jej pravé ucho. Bolo doň dva razy strihnuté. „To je znak Mrázikovie.“   „Každý gazda má iný znak?“ „Každý.“ „Aký znak dáva rychtár svojim   ovciam?“ „Na ľavom uchu vystrihnutý zúbok a dve kolieska. “ Aby mi to   hneď dokázal, chytil rychtárovu ovcu, i bolo tak. Bolo mi do smiechu.   Títo ľudia nevedia z knihy čítať, ani litery nepoznajú: tým ľahšie   im
+   </tei:p>
+   <tei:p>
+    ﻿28
+   </tei:p>
+   <tei:p>
+    padne zachovať si znaky na ušiach oviec. Uši oviec, na nich celá   história vystrihnutá. Nebolo by hodno ovčie kože kradnúť! Ostatne,   nie je to tak ťažko niekoľko tých znakov si zachovať. Keby ja nemusel   znať slovenskú, maďarskú, nemeckú, latinskú, grécku a ešte iné   abecedy a mluvnice, tiež by sa ľahko naučil túto primitívnu. Ale i to   by bol pekný žart, keby si rychtár kúpil od Mrázika ovcu, a Mrázik od   Cabana, a Caban od rychtára: valasi by sa zblazneli. A honelníkovi   som to i povedal, doložiac so smiechom: „To by ste museli ovciam uši   poodstríhať a chvosty poodtínať, aby vám boly značné.“ „A načo?   Niekde ani neznačia oviec; nemajú vo Veľký piatok alebo kedy, alebo   sa pozabudne. I pokupčia medzi sebou s ovcami, alebo z druhej dediny   dovedú. My poznáme.“ „Ukáž mi jednu ovcu bez znaku. Honelník vylovil   jednu čiernu z kŕdľa. „Toto je Palúchovie Beta.“ „Voláte ju Betou ?“   „To skoro každú nejako voláme.“ „A túto ako voláte?“ „Vakeša.“ „A   túto?“( „Kornuta.“ Vzal som mu z ruky kyjak a ukazoval som mu ovce   jednu za druhou. vPopočúval som mien od výmyslu sveta. Roza, Štíta,   Cugaňa, Rysuľa, Blška, Záplata... V ušiach mi hučalo. „A podľa čoho   poznáš ovcu, keď nemá znaku?“ „Na znak ani nehľadíme; to len raz, dva   razy. Potom už ľahko pozná sa i bez znaku. Má alebo hviezdu na čele,   alebo okuliar, alebo pysk ohnutý, alebo rohy — každá má nejaký znak.   „A prečo si Palúchovie svoju nepoznačili?“ „Kúpili ju.“
+   </tei:p>
+   <tei:p>
+    ﻿29
+   </tei:p>
+   <tei:p>
+    „Ako vieš, že ju kúpili?“ „Povedali nám.“ „O každej ovci viete,   keď ju kúpia, i kto ju kúpil a kedy?“ „Všetko. Táto sa v dedine   uliahla, i táto; túto z Lučenca dohnali, túto za bielu prekupčili,   toto je dobrá dojka, táto má na siedmy rok, v jeseni sa vraj   predá Chlapec niekoľkými slovami podal mi krátky životopis všetkých   oviec, čo boly na blízku. Divil som sa, kde tie dáta posbieral, i ako   si ich zachoval. „Si už dávno honelníkom ?“ „Toto druhý rok.“ „A už   poznáš všetky ovce?“ „No, to by bolo! Každý rok budú iné. Valach   každý rok sa ich učí odznova znať.“ Všetky znaky vedieť, o každej   ovci mať v pamäti : akú má vlnu, kde sa uliahla, kde ju kúpili, za   čo, kedy, koľko má rokov, aká je dojka a ešte jej i meno dať! Títo   ľudia znajú svoje povinnosti i svoje stádo. Nie darmo mal Spasiteľ   pred očima príklad dobrého pastiera, keď povedal: „Ja som ten dobrý   pastier, a znám svoje, a znajú ma moje.“ Nechal som honelníka v tom   povedomí, že mi mnoho chýba, aby bol nie valachom, ale aspoň len   honelníkom.
+   </tei:p>
+   <tei:p>
+    v. Dojenie pokračovalo veľmi chytro. Ovce sa v strunge necítily   voľno, tisly sa ku otvorom. Malý sa prečo ponáhľať. Ako ju gazdiná   pustila, už letela ovca ku kolibe, do tône. Tam boly skupiny joviec   okolo balvanov soli. Ženy s nadojeným mliekom spiechaly k veľkej   nádobe, putyre, kde stál slávny úrad. Mlieko sa
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    odmeralo a notáriuš každej gazdinej oznámil, koľko oštiepkov   dostane od svojich oviec. Mňa zdĺhavá práca už nebavila. Bol som   príliš vzrušený, než aby na ňu hľadel. Vyhľadal som honelníka, ktorý   stál zasa vyše koliby pri ovciach. Jeho reč, jeho milá, ohorená tvár:   vôbec všetko sa mi na ňom páčilo. „Dnes už nepôjdete s ovcami?“   „Ideme — hneď. Ešte meridzajú.“ Nevedel som, čo je to meridzať.   Honelník mi ukázal ovcu, čo prežúvala. „A čo si jedol?“ „Črpák kyslej   a halušky. Bačuľa nám doniesla.“ „Čo nepiješ radšej sladkú? Je   hustejšia.“ „Urda sa mi prijedla.“ Sli sme k strunge, od strungy k   druhej ohrade. „To je košiar“, vysvetľoval mi honelník. „A načo je?“   „Aby v ňom ovce nocúvaly.“ To sa mi zdalo zbytočným, aby ovce na noc   zavierali. Utiecť by neutiekly. No honelník doložil, že košiar je i   na to, aby sa trus po poľane neroznášal. A tu som si všimol pôdy. I   pri suchote v košiari bolo blato a kal do členkov. „Veru škoda ovce   takto k vôli trusu sužovať. Aká je tá zem, a ovce sú tu ešte len päť   týždňov! Do Michala sa utopia v blate.“ „Ešte sú tu len päť dní.   Košiare prekladáme každý týždeň.“ Zišla mi na um rozprávka, kde   kostol na hrachu potískali. Každý týždeň toľkýto plot sváľať a zasa   nový upliesť: to si možno len na salaši predstaviť, kde ľudia, ako   známo, nemajú nijakej roboty. „O, nie“, odpovedal mi honelník. „Keď   sa raz chytíme, košiar je za pol hodiny preložený.“ A ukázal mi, ako   plot pozostáva z čiastok.
+   </tei:p>
+   <tei:p>
+    ﻿31
+   </tei:p>
+   <tei:p>
+    „Ako takýto kus plota voláte?“ „Lesina.“ Plot pozostával z mnoho   takých lesín. Boly v nej tri žŕďky, rovnobežne ležiace jedna nad   druhou; tvorily rebrá, medzi ktorými sa vrbinové prúty popreťahúvaly,   aby ovca nemohla sa na vonok dostať. Žŕďky boly koncami vbité na   dvoch mocných, kolmých kolíkoch, na spodku zaostrených. Keď sa   zakresané kolíky vrazily do zeme, lesina stála. Prekladanie košiarov   musí ísť podlá toho veľmi od ruky. Hja, už i na salaši vedia gazdovať   s časom. Pri košiari stála neveľká búdka, chvojím nedbalé pokrytá.   „Načo je tá búdka?“ „V nej nocúvam ja a ešte niektorý valach, aby nám   niečo medzi ovce nevošlo. Nakladieme si ohňa a spíme.“ „A ktorý   valach tu nocúva?“ „Každú noc iný: narážajú si. „A čoho sa toľme   bojíte?“ „My sa nebojíme; ale ovce by sa zdurily a rozpŕchly by sa po   poľane, keby niečo prišlo.“ „A už niekedy niečo prišlo?“ „Vlani bol   dva razy vlk. Ale sme ho zahnali. Toho roku ešte nebol.“ „Strelili   ste naň?“ » „My nemáme flinty. Vlka zaženieme ohňom. Chytí sa hlaveň   a uteká sa za ním. Vlk sa ohňa veľmi bojí — utečie.“ „A keby prišiel   medveď — ten by vás potrhal, keď nemáte flinty.“ „Medvedí sem   nechodia. Iba na holi, keď bol bača ešte valachom, raz prišiel;   zahnali ho tiež. „A čím?“ „Máme dvoch psov, a chlapi by chytili   sekery.“
+   </tei:p>
+   <tei:p>
+    ﻿32
+   </tei:p>
+   <tei:p>
+    „Tento pes že by sa nedal medveďovi?“ „Už sa tri razy s vlkom   ruval, a vlk vždy utiekol.“ „Hm, to je mocný psisko, ale aby vlka   zahnal, to neverím.“ „Vlk chytí psa vždy za krk, poza väzy, a strasie   ho ako vrece; tak ho zahrdúsi. Ale nášho Dunaja nemôže poza väzy   chytiť, lebo by si vylámal na ňom zuby.“ Až teraz som si obzrel   lepšie Dunaja. Na hrdle mal široký plechový mocný obojok, z ktorého   trčaly dlhé klince na všetky strany. Zprvu držal som to len za   parádu. „Váš salaš je krásny. Páči sa ti tu?“ „No, nikdy mi tak   nebolo.“ „Včas vstávaš?“ „Niekedy o tretej, ale bača ma nechá i do   štvrtej spať.“ „Rád vidíš baču?“ „No!“ V tom slove spočívalo viac   lásky a nežnosti, než v niektorom celom románe. Čím viac som sa hĺbil   do života týchto ľudí, tým mi bolo bolestnejšie. Čerstvý, voňavý   vzduch, bezprostredné susedstvo veľkej prírody, tento voľný výhľad,   ranné i večerné zore: všetko som im závidel. Oni sa toho už nasýtili;   ani nebadajú, čo v sebe chová ich život. Ako by to ja vedel oceniť!   Zišla mi na um nemecká báseň, ktorá ospevovala život alpských   pastierov. Kedysi som ju nechápal, dnes áno. Konečne, aký je rozdiel   medzi alpskými a týmito pastiermi? Ako tamtí, tak i títo nepovedome   sa koria veľkej prírode a Inú k tomu životu, ktorý obsahuje toľko   pôžitku, toľko krásy. Salaš — salaš! Tu zostať, zabudnúť všetko, čo   som sa naučil, zabudnúť grécku i latinskú gramatiku a učiť. sa   poznávať starodávné znaky ovčích
+   </tei:p>
+   <tei:p>
+    ﻿33
+   </tei:p>
+   <tei:p>
+    uší. To je najstaršie písmo, ktoré vtedy sa počalo, keď sa počal   pastiersky život. Zabudnúť i históriu Ríma a Karla Veľkého a učiť sa   životopis oviec od tohoto chlapca. Zabudnúť i algebru a bláznivé   sdružovanie latinských litier v matematike a geometrii a učiť sa   radšej od baču a salašníka beh veľkých telies na oblohe nebeskej. Čo   mi je zo sínusov a kosinusov, keď neviem ani len uhádnuť, kedy je   poludnie? Uradskí skončili svoju prácu, ženy ( medzi sebou hovorily a   pily žinčicu na rozlučnô. Uradskí jedli v kolibe syr, ktorého im bača   celú hrudu predložil a rozkrájal. Traja valasi zahodili si hune na   plece i honelník a vyrušili z poludňajšieho spánku lenivé stádo.   Udreli niekoľko ráz vatráľom o zem. Zvonce, ktoré prv tiež driemaly,   sa prebudily; na poľane nastal nový život. Pes, ktorý sa lenivo   rozvalil v chládku, natiahol laby, otvoril tlamu, vyplazil svoj dlhý,   tenký jazyk, skrúťac ho oblúkovité nahor. Honelník prešiel popri mne,   bez slova, bez pohľadu. Bolo mi akosi smutno. Ten chlapec iste cení   ovce svoje vyššie, než mňa, azda ma do večera zabudne. Stádo sa s   poľany ztratilo, posledný zvonec zatíchol. Bolo mi skoro do plaču.   Ženy vo väčších-menších skupinách sa rozchádzaly; deti pobehúvaly za   nimi. Poľana zatíchla, len z koliby zavznieval veselý hovor,   prehlušovaný smiechom. Slávny úrad sa zabával. Na lavici boly už len   pozostatky hrudy, čo bača bol prvej rozkrájal. Bolo tam ešte niekoľko   kúskov. Ale čo je to mne! Ponúkli ma kúskom. Zúfal som si, že môj   alumniou odchovaný žalúdok má sa takou omrvinou dať utíšiť. Ale márné   strachy! Syra mi bolo celkom dosť. Núkali ma ešte druhým kúskom — oči   by boly jedlý. Notáriuš podľa starej obyčaje vytiahol obecnú
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy X. 3
+   </tei:p>
+   <tei:p>
+    ﻿34
+   </tei:p>
+   <tei:p>
+    krpku a nalieval rad-radom. Krstný otec vzal stdeničku do ruky.   sňal široký klobúk a vinšoval v dlhej reči zdaru i požehnania bačovi   i salašu. Celý úrad s obnaženou hlavou a stojačky vypočul reč svojej   uznanej hlavy. Bača zasa poďakoval, a to isté požehnanie vrátil   rychtárovi, no rozumie sa, že ho zostonásobil. Shoda bola prekrásna.   Srdcia sa potúžily, oči zajagaly . .. Mňa ponúkli žinčicou, lebo   „páni nedržiavajú so sedliakmi. Urda bola dobrá. Mohli by ňou ľudí   kriesiť. Valasi zostali síce pri-salaši, ale nezamiešali sa medzi   úrad. Štiepali pred kolibou polená. No bača ich zavolal, podal im po   skleničke, i tí zazdravkali, utreli ústa a nemo sa vytratili k svojej   práci. Na vatru v kolibe položilo sa niekoľko triesok. Ohník vzblčal,   voda v kotle sa začala pariť. Dym sa rozvaľoval lenivo po kolibe.   Chlapi sa uhli, len aby zostali pod ním. Ja som sa tiež krčil, ako   som mohol. Kašeľ, smrkanie, slzenie v celej kolibe. Jediný bača, hoci   sedel na lavici, neslzil ani nekašľal. Vedel hlavu tak uhýňať a   nachyľovať, že dym ho málo trápil. Moja šatka bola celkom premoknutá.   Nikdy som sa toľko nenaplakal. I „slávny úrad“, čo sa ako hanbil,   plakal bez rozdielu. Mohli sme ísť pred kolibu, tam bol čerstvý   vzduch; ani jeden sa nehol. Neviem, čo sa nám v začadenej kolibe tak   páčilo. Bača s valachmi obsadol putyru, v ktorej bol čerstvý syr.   Robil oštiepky. Ja i slávny úrad sme sa dívali na jeho prácu.   Nechcelo sa nikomu odísť.
+   </tei:p>
+   <tei:p>
+    VI. Cas sa míňal, slnce sa klonilo k zapadu. Na dedinku vysoké   vrchy hodily svoje tône. Poľana je ešte pod slncom, ale tône stromov   rastú. Čas utekal.
+   </tei:p>
+   <tei:p>
+    ﻿35
+   </tei:p>
+   <tei:p>
+    Boženíci začali sa sberať. „Ale dočkajte, kým sa odvarí“,   zdržiaval ich bača. Nedali sa. „Bude večer, potme ťažko horou   chodiť, odpovedal krstný otec.  Bača prikývol hlavou. Mne   bolo do plaču. Bačovi som závidel. Tá volnosť, široká, neobmedzená   nikým! O nej som sníval . od malička až dodnes — hľadal som ju darmo.   Dnes som ju našiel, a už ju mám nechať! Nehýbal som sa zo svojho   kútka. „Čo nejdeš, si ustatý? Neboj sa, pôjdeme pomaly, len sa   sober.“ „Ja nejdem“, odpovedal som mu spurné. Pokladal som ho za   svojho úhlavného nepriateľa, ktorý mi chce vyrvať, čo mi je   najdrahšie — volnosť, a zaviesť ma zasa do toho starého kalu. „A tu   zostaneš? Tu nemôžeš zostať. Poď, ponesieme ťa.“ „Nejdem.“ „Otec by   sa ti nahneval.“ Pokrčil som plecami. Krstný otec si nevedel rady.   Obzrel sa po boženíkoch, podľa starej obyčaje, ako by od nich čakal   porady. „Slávny úrad“ mlčal. „Nespáčilo sa ti u mňa niečo? Povedz;   ako ti uhovieme, keď mlčíš?“ „Všetko sa mi páčilo •— všetko. Ale   nechajte ma tu! “ „Chceš tu nocovať?“ „Chcem.“ „Prechladneš; zima ti   kosti poláme. Celý život budeš banovať: slúchni!“ Zaťal som sa a   neodpovedal. Zpod čela som sa díval, čo urobí krstný otec. Žmurkol   okom na silného notáriuša, a už som bol v objatí železných
+   </tei:p>
+   <tei:p>
+    3*
+   </tei:p>
+   <tei:p>
+    ﻿36
+   </tei:p>
+   <tei:p>
+    ramien. Vzal ma na ruky, ako malé diéta, a vyniesol pred kolibu.   „Ja nejdem, pusťte ma!“ a zavirgal som nohami, pravda, len vo   vzduchu. Notáriušovi som ležal na rukách, nohy som mu mal pod   pazuchou. Ťažko sa bolo pohnúť. No vymotal som si ruky a zachytil sa   nimi, čoho som sa mohol. Najpríhodnejšie boly jeho dlhé, husté vlasy.   „Bohclaj ťa, aby ťa!“ zašomral notáriuš a postavil ma na pažiť.   „Zapustilo sa mi, ako netopier, do vlasov. Ja sa mu nedám kvákať.“   Neobzerajúc sa oňho, skočil som ku kolibe. Chytil som baču za rukáv.   „Nedajte ma, prosím vás, nedajte ma!“ „Ale nechajte ho, keď tak   chce“, ozval sa bača. Jeho tvár, zdá sa mi, zjemnela. Akýsi divný   výraz postriehol som na nej, ako keď otec hladí svoje dieťa. „Nuž   nechže sa mu stane po vôli“, odpovedal krstný otec. Znelo mi to ako   trpká výčitka. „Zpod mojej strechy utečie na salaš, taká hanba!“   Cítil sa urazeným. „Ja ti tiež mám dať čo jesť.“ „To len taká vôľa ho   nadišla“, očísťal ma bača. „Nechže zkúsi, ako je i tu.“ Krstný otec   sa utíšil. Bačovi naložil, ako ma má na noc uložiť a poprikrývať.   Vlastnú halenu mi nechal. Nepovediac ani dobrú noc, roztrpčený   odišiel. Vrátil som sa uradovaný do koliby a sadol si na zem. Bača   ľahol na svoju lavičku a odfukoval. Mäkký výraz sa mu z tvári   ztratil. Hľadel na povalu na jeden bod. O mňa sa neobzrel. O čom   mohol ten obor rozmýšľať — iste o veľkých veciach! Vytiahol zpod   krovu lajster, do ktorého popoludní zapisovali, ktorý gazda koľko   dostane
+   </tei:p>
+   <tei:p>
+    ﻿37
+   </tei:p>
+   <tei:p>
+    syra. Čítal, rátal, prehrebal a zasa vložil lajster na predošlé   miesto. „Kedy prídu ovce?“ spýtal som sa ho po dlhej chvíli. Bača   hľadel do povaly, neodpovedal. „Budete skoro dojiť?“ Ticho. Ani čo by   ma nebol videl a počul. Bolo mi smutno, otupno. Kde je krstný otec,   azda už doma? A krstná mat čo povie? Načo som tu zostal, čo tu mám ?   Tichosť, púšť. Vyšiel som z koliby. „Kde ideš? Seď, do hory nechoď,   zablúdiš.“ Takým hlasom ani otec nehovoril ko mne. Bol taký tvrdý,   ako z ocele. Obzrel som sa: tvár taká prísna. Bál som sa ho. „Idem   len na poľanu pozrieť*, odpovedal som mu pokorne. Slnce už bolo za   horami. Dolina zahalila sa tmou. Vrcholce okolitých vrchov zastrely   sa purpurovým závojom. Horou sa niesol tajomný, posvätný šumot, ako   by si jedle čosi šepkaly. Pod nohami cítil som chlad. Padla rosa. Nik   jej nevidel, zkadiaľ prišla, len keď bola tu. Tu i tu zatiahol   studený vetrík poľanou a pohrával si krýdlami môjho kepeňa. Cítil som   zimu. Pred kolibou vzplanul oheň; červeným sve.tlom ožiaril poľanu i   postavy pri kolibe. Bol to bača a traja valasi. Nad plameňom visel   kotol. Podišiel som k ohňu a striasol som sa, keď ma obišla teplota.   Valasi podkladali suché raždie, bača sedel na prahu koliby a díval sa   do ohňa. „Čo tak pozde odvárate?“ spýtal som sa valacha. „Oneskorili   sme sa. My sme boli v hore drevo hotoviť a svet bol tu dlho.“   „Inokedy sa odvára včaššie?“ „Za vidna.
+   </tei:p>
+   <tei:p>
+    ﻿38
+   </tei:p>
+   <tei:p>
+    Valach sa nepúšťal veľmi do reči. Druhého som sa čosi opýtal; ten   neodpovedal ani toľko. Čosi nám ťažilo, nebolo nám voľno. Žinčica sa   začala variť. Hustý vrch sobrali do putyry, na urdu. V kotle   ponechali samý spodok, psiarku. Bača miešal v putyre veľkou varechou.   Obišla nás vôňa. „Budeš žinčice?“ opýtal sa bača. „Ak mi dáte.“   Podali mi črpák, fúkol som na ňu. Bača nevľúdne pozrel na mňa.   „Nedúchaj na žinčicu“, pošepol mi valach. „Ovce nám prischnú.“ Srkal   som ju opatrne — nechutila mi. Nie preto, že nebola dobrá, ale že sa   nedala na dúštek vypiť. Trochu som sa i okúňal. Ani jeden nedrží so   mnou; všetci čakajú, kým urda vychladne, len ja ... Ani čo by sa boli   shovorili! Žinčica bola v komore, ovce boly už v strúnge. Valasi šli   dojiť, i bača. Šiel som k honelníkovi. „Prečo ste tak neskoro   prišli?“ „Bol výmer -— museli sme čakať, kým ľudia poodchodia. “   Dojenie bolo zdĺhavé, nič zaujímavého v ňom. I honelník bol   zamyslenejší, málo hovoril. Ovce zapreli do košiara a vošli do   koliby. Mňa ani veľmi nevolali. Valasi už pri strunge nehľadeli na   mňa prívetivé. Ani jeden sa ma nespýtal, čo tu hľadám — no z tvári   každého mi kynula tá otázka. Ba keď som do koliby vstúpil, veselý   hovor prestal. Pre mňa prestali hovoriť; preto, že som cudzí. A   možno, že i preto utíchli, lebo hovorili o mne. Nevidel som jednej   prívetivej tvári. I honelník sa ma stránil. Ostatne, mal inej práce   dosť. Umýval nádoby, riadil kolibu. Valach zasa poprával pa-
+   </tei:p>
+   <tei:p>
+    ﻿39
+   </tei:p>
+   <tei:p>
+    hrabu, v ktorej sa piekly zemiaky. Iný ukladal drevo pred kolibou   a opieral o stenu, aby zajtra na slnci obschlo. Bača mal prácuv so   zapekačkou. Jediný ja sedel som bez roboty. Čo robia u krstného otca   ? Ako by sa tam pekne večer minul! A tu ticho, smutno! Pôdoj sa   sklagal, valasi obsadili putyru, robili oštiepky. Bože, zasa len to   isté, koľko ráz to už musím vidieť! „Nie ti je tu clivo?“ spýtal som   sa ukradomky honelníka, keď popri mne prešiel. On pozrel na mňa   udivene. Nechápal, čo sa ho spytujem. Hladím za ním, ide pre vodu.   „Chlapče, neuvládzeš dve gelety , volal za ním bača. „Dosť ti je   jednej!“ „Oj, unesiem!“ a veselo vykročil z koliby do tmavej noci.   Pozrel som von. Strach ma obišiel, ako keď sa človek večer ocíti v   chráme. Divil som sa, že chlapec opovážil sa sám nohu z koliby   vytiahnuť. Skočil som i ja za ním. „Kde ideš?“ zavolal bača. r/ t M   „Za mm. „No, dobre, len sa neboj.“ Vonku tma, mesiac ukrytý za   mračnami. Nevedel som, kde je honelník. Stúpiť som sa neopovážil;   nevidel som na krok pred seba. „Chlapče, chlapče!“ volal som za ním.   Čosi šuchlo, za rukáv ma chytil honelník. Podal mi geletu a išli sme   k prameňu. Viedol ma neznámym chodníkom ako slepca. Šli sme   , zasa rúbaniskom a zasa húštinou. Každý ker ukrýval   duchov, ktorých som mienil pred sebou vidieť. Honelník ani jedného   nevidel; jemu to boly pne, borievky, smrečky. Prišli sme k studničke;   gelety sme podložili pod žliebok. Naslúchali sme žblnkotu vody,   pada-
+   </tei:p>
+   <tei:p>
+    ﻿40
+   </tei:p>
+   <tei:p>
+    júcej do nádoby. Divné to bolo v tej tichosti. Chcel som hovoriť —   ústa sa hýbaly, slovo nechcelo s jazyka. Gelety sobral honelník a mňa   pustil prázdneho popredku. Niekoľko krokov kráčal za mnou. Ja by som   bol poblúdil, ale honelník mi vravel, kadiaľ ísť. Kráčali sme   húštinou. Kroky naše tupo odznievaly, ako v krypte. Všetky mátohy, o   ktorých som kedy počul, zišly mi na um. Tichosť velebná — iba . ..   Zastali sme. „Počuješ, počuješ?“ šepol som mu trasúcim sa hlasom. „   Čo ? opýtal sa tiež ticho. Vv jeho hlase bolo badať záchvev strachu.   „Čo to húka, hlas ako by zpod zeme vychádzal. Teraz — počul si?“ „To   sova húka“, odpovedal triezvym hlasom honelník. „Nie, nie. Pekne   počujem: uhú, uhú.“ „To je sova, len poďme.“ Pilne som sa obzeral na   všetky strany. Pritom robil som dlhé kroky. Len skôr do koliby — len   skôr! Čosi ma chytilo za kabát — nechce ma pustiť. Trhám sa mu — drží   ma. Trhnem kabátom — kabát pukol; pustilo ma. Len skôr — len skôr!   Hľa, čosi šuchlo! Uteč — uteč! „Čo utekáš, nebež“, počul som z diaľky   honelníkov hlas. Počul som, ale neslúchol. I ten hlas mi znel otupne,   bol som preľaknutý. Zavrel som oči, aby som niečo nevidel, a hmatajúc   pred sebou rukami, dral som sa húštinou na poľanu. Vydýchol som si.   bola za mnou, zablyslo sa mi svetlo z koliby. Čo je to ? Pod nohou   cítim čosi mäkkého . .. „A... á... á!“ Môj výkrik desne sa niesol   poľanou. Ozvena
+   </tei:p>
+   <tei:p>
+    ﻿41
+   </tei:p>
+   <tei:p>
+    ho po celej hore rozniesla. Zvonce v košiari sa ozvaly, pes   zabrechal. Padol som na zem, nohy sa mi do toho predmetu zamotaly. O   chvíľu ozvalo sa nado mnou niekoľko hlasov; brechot psov miešal sa dc   hlasu valachov. Dvaja valasi chytili ma medzi seba a viac mŕtveho než   živého doviedli, vlastne doniesli do koliby. „No, veru, mal si sa   čoho zľaknúť! Kožuštek; nič, len kožuštek.“ Valasi sa zasmiali, mne   tiež pohrával úsmev osinelými perami. Vedel som, že to bol len žart.   Ktorýsi valach pohodil kožuch, a nie darmo. Nad zdareným fígľom sa   chutne smiali a prívetivejšie hľadeli na mňa. Preto som sa nehneval,   ba bol som rád. Valasi sa tešili, že ma môžu aspoň postrašiť. Začali   rozprávať príhody zo svojho života. „To bolo just tak“, začal bača,   „ako vtedy a vtedy stalo sa mne tam a tam...“ Radosť ho bolo počúvať.   Čo bolo smiešneho, to označil tónom -— ťažko sa mu bolo nesmiať. Ako   skončil, začali za ním valasi. „Keď som bol tam a tam, stalo sa mi to   “ a to... Okrial som medzi nimi; každé slovo som hltal. Moji   profesori nemali nikdy takého vďačného poslucháča. Rozprávka trvala i   pri večeri. Ako mi chutila večera! Z pahraby zemiak) a kapusta.   Kapustu sám bača varil — v kyslej žinčici. Bola kyslá a presolená.   Samotná by sa nedala jesť — s neslanými zemiakmi bola dobrá. Musím   spomenúť, že sa jedlo len z jednej misky, ako v rodine. Kapusta   mizla, až strach na to pomyslieť. Lyžice boly drevené — bolo ich   deväť, toľko, koľko obyčajne jedákov. Na mňa lyžica už neprišla.   Musel som s honelníkom jednou lyžicou jesť. Po večeri jeden z   valachov zapískal nám na pišťali. Piesne, ktoré som pred rokmi počul   v to-
+   </tei:p>
+   <tei:p>
+    ﻿42
+   </tei:p>
+   <tei:p>
+    polianskom poli, zjavily sa znovu ako staré žnámé. Bolo jnám   veselo. Co zažiadali, všetko som vykonal. Skočil som i „na palec ,   naučili ma „ako morka chodí , i „ako sa klepe kosa“ — zaplatil som   poriadne vstupné. Tešili sa všetci, že mohli sa už raz poriadne   zabaviť. Keď sme si ľahli, musel som si ľahnúť medzi nich na   najlepšie miesto. Na ohnisko priložilo sa niekoľko polien, ohník nás   prijemne ohrieval. Dverce boly zapreté a o chvíľu bolo v kolibe   teplo. Zavládol sen, všade chrápanie. Ja, ustatý lopotením, zaspal   som, ako by ma bol do vody hodil. Bol jasný deň, keď som sa prebudil.   Len bača bol v kolibe, valasi boli pri ovciach a v hore pri hotovení   dreva. Našiel som sa na lavici bačovej. Musel som im zavadzať, preto   ma preložili. Bača, vidiac, že som sa prebudil, usmial sa mi vľúdne,   otcovsky. Ja som sa mu chcel tiež usmiať; tvár sa mi skrivila. Bolo   mi zima. Zub na zub mi nedopadúval. Bol som pritom mokrý, ako by ma   bol vodou oblial. „Ako si spal?“ „Dobre.“ „Počul si hrmavicu ?“ „Nie   veru.“ „No, dobre, že si tak spal. Bol by si sa bál. Bola veľká   búrka. Valachov na zemi podliala voda. Teba nie?“ „Som trochu mokrý.“   „Vyložili sme ťa na lavicu. Ale šťastie, že nás búrka prebudila. Bol   by si zhorel. Pozri, aký ti je kaput.“ Úbohý plášť! Jedno krýdlo   nadtrhnuté, držalo sa len úzučkým pásom na kapute. Bol taký, ako   polostrov, ktorý môže more každú chvíľu od pevniny odlúčiť. Kde sa mu   to stalo? Aha, večer,
+   </tei:p>
+   <tei:p>
+    ﻿43
+   </tei:p>
+   <tei:p>
+    keď som pred mátohou utekal. A naprostred chrbta zasa vypálený   ostrov, asi toľký, ako obe Ameriky spolu. Stal som si k vatre a   zohrievčil skrehlé údy. Zima tým väčšmi ma sekala. V ušiach mi   hučalo, hlava mi bola ako cent. Ledva som sa držal na nohách, triasly   sa podo mnou. „Chlapče, ty si prestydol. Vidíš, ako je na i v*   salasi. Popoludní poslali ma do Topolian. Valach šiel so mnou,   miestami ma musel niesť. Bolo mi čosi lepšie. Krstní rodičia ma   prijali s otvoreným náručím, krstná mať zaplakala nado mnou. Uložila   ma do postele, ukryla perinami a častovala lipovým kvetom. Na druhé   ráno bol som ako ryba. Nič ma nebolelo, ale ma domov nepustili. Až   prišiel sám môj otec pre mňa. Prosil som krstných rodičov, aby ma   nezjavili, kde som nocoval: a tí dodržali slovo. Keď som sa vrátil   domov, mať držala prehliadku nad mojím zdravím a šatstvom — to robila   po každej návšteve v Topoľanoch — i objavila na tmavom plášti veľkú   žltú záplatu. To bol ten ostrov, ktorý krstná mať vlastnoručne bola   zaplátala. O týždeň kedysi vyšiel na javo i polostrov. No mať už   nepovedala nič. Plášť mám dosial; i vezmem ho vše so sebou, keď idem   do Topolian. Rád chodievam na salaš, kde ma vítajú ako starého   známeho. Chudák bača — prestala mu kukučka kukať; dnes je bačom   bývalý honelník. Keď mu pripomeniem, ako ma vtedy nemilo prijali a   trápili, mladý bača mi odpovie : „Akí sú páni, takí budeme i my.“
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1896162" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Parník : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2253
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Parník
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1896
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Parník.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Bore vyliezol zo svojej kamennej chalupy, z vlhkého chladu na   svobodný vzduch, rozohriatý slncom, vlastne rozžiarený. Slnce   prudkosťou dozretého junoša — ako to začiatkom júna býva — rozlieva   oslepujúcu žiaru na starú, vycivenú, chudú zem. Áno, vycivená!   Skaliská, sluje i zápole, hŕby kamenia, odkiaľsi nashŕňaného, — to   všetko ako kosti bez mäsa a krvi.
+   </tei:p>
+   <tei:p>
+    My by sme sa zas vtiahli do tmistej chyže, keby nás razom taká   ostrá svetlosť i horúčava zašla. Ale Bore pošmykne čiapočku — sťa   pokrývku na rajnici — do samého tyla, až sa hrnú na čelo mohutné vlny   osvobodených čiernych vlasov, pretiahne sa ako mačka, prehne sa v   kríži, rozšíri ruky a úprimne zazíva. Ba obráti tvár rovno k slncu,   ako by sa mu vysmieval, pri čom mu oči takrečeno srastú okrem pásika,   vytvoreného z mihalníc.
+   </tei:p>
+   <tei:p>
+    Prebudil sa zo sladkého popoludňajšieho sna. Možno vidiny sna ešte   mihajú mu v hlave, i ťažko zrazu vynájsť sa v triezvej, tvrdej a   horúcej skutočnosti.
+   </tei:p>
+   <tei:p>
+    „Eh, niet pomoci“, premýšľa Bore, „chudobný človek musí na slnce i   na vietor, na mráz i na ľad, i na dážď ...“
+   </tei:p>
+   <tei:p>
+    Slnce a vietor, to mu uznám. Toho sa tu rodí v hojnosti. Ach,   najmä to slnce! Zavesí sa ti neúprosne na chrbát i nemáš sa ho kde a   ako striasť. No mráz a ľad, čo hneď o Troch kráľoch, a najmä   Oravcovi, nezasluhujú svojho poctivého mena. Ciagľa na strechách   nevidíš, putňa s vodou neprimrzne ženskej, keď sa zatrkoce s pani   kmotrou
+   </tei:p>
+   <tei:p>
+    ﻿160
+   </tei:p>
+   <tei:p>
+    pri studni, — pardon, pri obecnej cisterne, — že by za nechty   zašlo, a najmä za nechty oravské, na to sa desať tunajších zím   nezmôže.
+   </tei:p>
+   <tei:p>
+    Lenivo sa šiple náš Bore dolu cestou. Ale horká cesta! Chodník   vysypaný zvariakmi a na každom kroku balvan ako dieža. „Nevyplatí sa   také pletky vykopávať a dynamitu škoda“, vyhovára sa poctivý úrad   obce. Tak pomaličky sa dovliekol, vlastne spustil jedným závozom   pomedzi domy — tu to volajú ulicou a schodmi — na nábrežie.
+   </tei:p>
+   <tei:p>
+    Zato nábrežie je rovné ako dlaň. Šťastie, že more nerobí vrchov.   Prestiera sa ostrým oblúkom okolo celého prístavu, v šírke tu   tri-štyri siahy a niekde zas dva-tri kroky. Vysypané je drobným   štrkom a bielym pieskom. Alebo možno pred rokmi ho tiež vysypali   zvariakmi a od tých čias rozdrobili na štrk krpcovitými opánkami,   čižmami a konským kopytom. Kto zná?
+   </tei:p>
+   <tei:p>
+    Bez otázky najonakvejší dom z celého nábrežia je dom pána Miéa   Kvočica. Je vtisnutý do strmého brehu, tak že s nábrežia je o   poschodie vyšší, než s tamtej strany, kde je rovný dvorec a cisterna.   Má priestraný balkón, obloky s drevenými okenicami a pred pivnicou   pod balkónom kamenná lavica. I nábrežie je tu najširšie a, ako   ukazujú kamenné stĺpy, zasadené na ňom, tu bude i prístavište   parníkov, plachtoviek väčších i menších, i skromných bariek.
+   </tei:p>
+   <tei:p>
+    Na lavici sedí starý Luka, nedbajúc, že pálčivé slnce plnou silou   pripeká mu staré kosti. Pozrie tu i tu na stráň s tamtej strany   zálivu, tiež akosi ospalú, zatíchnutú, kde sivé olivy smutno ovesujú   svoje dlhočizné konáre.
+   </tei:p>
+   <tei:p>
+    „A čo vy, strýko Luka, nespávate?“ pýta sa Bore, prisadnúc k nemu   na rozpálený kameň. „Ah-
+   </tei:p>
+   <tei:p>
+    ﻿161
+   </tei:p>
+   <tei:p>
+    ah!“ zazíval, roztiahnuc nohy naďaleko. „Ja som spal ako beg,   chutne a ako chutne!“
+   </tei:p>
+   <tei:p>
+    „Blažený, kto spí. Na starosť bude sa ťa i sen strániť. Veru tak —   ó, Bože — kde sú naše rôčky! Odišly...“ A zažmurkal sivými očami, ako   by ich boly tie rôčky vyplákaly. „No, nemáš tabaku, Bore?“ pýta sa   hlasom celkom obyčajným.
+   </tei:p>
+   <tei:p>
+    Bore vyňal štipku tabaku z mechúra. „Bieda o tabak, strýko! Pekná   chvíľa — nemôže ho previezť cez more. A možno ho nemajú ani na   ,teraferme‘ (pevnine).“ Starý pokýval hlavou. „Aké sme tabaky   fajčievali! Eh, čo šafran! Čo majorán! Ale sa kupoval pekne na   pazáre, ako na príklad kapusta. Aké tabaky, môj Spasiteľu!“
+   </tei:p>
+   <tei:p>
+    „Veru tak“, prisviedča Bore. „Len v Tureckej aký ho fajčia! V   Carihrade na príklad. A vôňa!“
+   </tei:p>
+   <tei:p>
+    „To verím!“ zasmial sa Luka tupým hlasom, ukážuc dva spodné zuby,   vysadnuté, počerneté. „Carihrad! Rajská zem! Len koľko vidíš dýň a   všakového ovocia. Oh, hojnosť, braté, koľko chceš. Blažené kraje.“   Pokyvuje hlavou, ktorá klesá čo raz nižšie. Po tvári mihol mu úsmev a   zavial na ňu nové vrásky. „A svet pekný, a ženské! Ale sa   neprihovorí. Ale Grékyňa, tá hej, takto, celkom úprimne, i mornárovi.   A tie sú tiež kaľavné. Oh, bravo, nájdeš ich veľa pekných, až veľa.   Eh, čo darmo hovoriť ...“ „A vy ste tam, strýko, utopili nejeden   groš!“ A Borové oči zasvietily zvláštnym leskom.
+   </tei:p>
+   <tei:p>
+    „Nuž márnosť. Bolo a minulo sa. Stálo sa v prístave, kým prišiel   vietor. Nevyberalo sa, či v tomto, či v druhom: stoj, kde ťa   privrzlo. A čo budeš robiť? Známe, čo je mladosť. Sháňaš čertov,   rozsýpaš. A čo dnešní mornári? Nevie spraviť mor-
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané spisy XIV. n
+   </tei:p>
+   <tei:p>
+    ﻿162
+   </tei:p>
+   <tei:p>
+    nársky uzol. Vlasi — nie mornári! Ovce zajať a pásť — nie na   lode!“ Luka prežil krásne časy! More nebolo pusté a prázdne, ale ako   obrovská lúka a na nej rozídené biele husi. To boly lode kupecké.   Kupec bol pravý kupec — smelý, odvážlivý. Nesedel za púdlou, vážiac   kilo bakalára a štvrtku biguletov. Postavil na kocku majetok i život,   a vyhral alebo padol. Niektorý mal celú flotu veľkých plachtových   lodí a na nich celé vojsko smelých, odvážlivých mornárov, ktorí sa   nebáli ani búrky toľme, ani pirátov z Archipelagu. To boly časy   veľkých kupeckých podujatí i mnohých tragických ztrát na majetku a   životoch. Čo ostalo dnes, to je všetko už len slabý odblesk slávnej   minulosti kupeckej. Luka sa zahľadel na more, nad ktorým visí   zhustnutý vzduch, presýtený jodovou vôňou. Visí nepohnute, mŕtvo, ako   zakliaty. More je tiché, hladké, iba čo kde-tu vyhodí sa lokarda,   zaihrá v slnci striebornými šupinami a pleskne chvostom o tichú   hladinu. Planina zpoza kanála trčí nahá a holá do čistého, vysmiateho   neba: sťa by sa mu žalovala na svoju nahotu, porozrývanú hlbokými   jarkami, zanesenými štrkom, zbrázdenú povodňami, ovešanú sivými   skaliskami. Zeleň, ktorá ju zdobila, dosial je vkopaná okolo palácov   benátskych a pod nimi: tam ju — napolo skamenelé stĺpy — oblievajú   ťažké vlny nečistej Benátskej Adrie. Stojí tak bez ozdoby sťa potulná   žobráčka. Dedinky, po stráňach rozsypané, belejú sa na slnci,   nezatienené stromovím, sťa hniezda skalných orlov. Iba čo na úpätí je   čosi viníc a olivových sadov; ale i to obtočené múrmi, aby povodeň i   tej trochu zemičky neodniesla. Na šťastie zavial popoludňajší vetrík.   Poťahuje od mora a rozháňa usadený vzduch. More sa čerí sťa pero, a   na nábreží čuť jodovú vôňu.
+   </tei:p>
+   <tei:p>
+    ﻿163
+   </tei:p>
+   <tei:p>
+    Luka spočinul zrakom na punte sv. Jurja, predhorie, ktoré od   severu pomáha tvoriť prístav. Na holom úskalí nasadol kŕdeľ galebov,   známych búrozvestov. Podletí tu jeden, tu druhý, zatrepocúc širokými   krýdlami, chcejúc jeden druhému odobrať príhodnejšie miesto. Niektorý   sa vznesie do čistého vzduchu, strepocúc náhle krýdlami, a zaraz   ostane ako zavesený, číhajúc z výšky, či sa nevyhodí ryba. „Oh,   biedny život! Spasiteľ milý, pomôž nám!“ vzdychá Luka už z obyčaje a   vytriasa popol zo svojej krátkej pípky. „Trpelivosť, strýko Luka“,   obodruje ho Bore, podávajúc mu ešte jednu štipku dohánu. Luka ho   vtisol do fajočky, uspokojil sa náhle, keď sa mu počal dym krútiť   okolo šedivej hlavy a vinúť sa v jasno-belasých obláčkoch popri   bielej stene. Udrela štvrtá s kostolnej veže. Zápät za ňou ozval sa   jasný hlas zvona, svolávajúc deti do školy. Pomedzi domy vidno   skupiny detí s kapsičkami na pleci. S krikom a šantom ponáhľajú sa do   stánku múz. I popri Boroví a Lukovi poberá sa malý Jakov. Vyplazil im   jazyk, ako prešiel. „Ach, ty...“ A Bore doložil masívnu prezývku.   Jakov sa udrel do kolena päsťou a pelia hore briežkom za deťmi.
+   </tei:p>
+   <tei:p>
+    „Ach, nechaj, daj pokoj, čo urobíš: deti!“ chlácholí ho Luka. „I   my sme boli deti, a nechodili sme do školy. Vtedy iba čo učili frátri   — i to magnášov. Teraz učia každého. A, jednako, ťažko chudobe žiť.   Ešte ťažšie ...“
+   </tei:p>
+   <tei:p>
+    Na balkóne čuť ťažké kroky. Pán Mice Kvočič prebudil sa konečne z   junáckeho sna. Že dobre spal, vidno na zapuchnutých očiach. Vetrík   pohráva si v dlhých vlasoch, začesaných s tyla ‘za uši. u*
+   </tei:p>
+   <tei:p>
+    ﻿164
+   </tei:p>
+   <tei:p>
+    Hodvábna čiapočka sedí v tyle, tak že hodný kus plešiny blyští sa   na slnci. Vyšiel akiste pozrieť, čo nového na mori. Či nevidno   veslovať rybárov s plnou bárkou tučných sardel, alebo zubatcov.   Možno, vyzerá Vlachov, či neveslujú na plachtovke do roboty. Zišlo by   sa mu ich päť-šesť do viníc. „Bore, složíš mi múku, keď príde   parník“, vraví, nahnúc sa na balkóne. „Desať vriec má
+   </tei:p>
+   <tei:p>
+    prísť.“
+   </tei:p>
+   <tei:p>
+    „Poslúžim vám, hospodár“, odpovedá Bore, siahnuc k čiapke. A opäť   čuť kroky pána Miča, a drevené dvere sa zatvorily. Aspoň slnce nebude   piecť do domu. Z dediny sa spustili dvaja mladí ľudia s rozhalenými   prsami. Tváre opálené, skoro čierne. To sú bratia Vapicovci: Páve, už   ženatý, Jure svobodný. Súci rybári, celé noci trávievajú na mori. I   dohán je ich špecialita — odvážni kontrabandieri.
+   </tei:p>
+   <tei:p>
+    „Kedy idete na more?“ pýta sa Bore. „Večer. Ukázaly sa sardely.“   „A toho roku pôjdu!“ „Kto vie! Nevydržia, to je chyba“, žaluje sa   Jure. „Vlani sme ich nasolili predsa osemdesiat okovov. Toho roku,   Boh vie!“
+   </tei:p>
+   <tei:p>
+    „A kolko sa ich pojedlo čerstvých!“ ozval sa Luka.
+   </tei:p>
+   <tei:p>
+    „Tiež asi toľko ..
+   </tei:p>
+   <tei:p>
+    Ozval sa ostrý hlas trúby, mocne a tiahle. Za predhorím sv. Jurja   vidno čierny komín, z ktorého sa valí nečistý dym v hustých   chomáčoch. A, hla, už vidno i celý parník, pokrytý a ovešaný   plachtami, aby slnce nepieklo na palubu. Opísal elegantný oblúk,   obrátiac sa nosom priamo k domu Kvočicovmu. V rozčerenom mori ostáva   za ním brázda, sťa za akýmsi obrovským pluhom.
+   </tei:p>
+   <tei:p>
+    ﻿165
+   </tei:p>
+   <tei:p>
+    Ostrý predok sťa lemeš rozráža vodu. Voda sa búri a rozrazená   plieska boky lode, tmavo-zelené, ofľusnúc ich bielou penou. Nábrežie   ožilo. Shrnulo sa sveta, ktorý je nie náhodou v poli, aby mu neušla   ani táto novina. Došiel i kŕdeľ detí, ktoré ešte nechodia do školy, a   odrastených šarvancov. Všetko sa to zastavuje pred domom Mica   Kvočica. Zo dvora Kvočičovho sostupujú pasažieri s vymenenými   lístkami. Pán Mice je totiž agent spoločnosti. V jeho dvorku je   čakáreň na mnohých kamenných lavičkách v odpoludňajšom chládku. Medzi   nimi je i Niko Berčic s čiapkou na stranu, a za uchom zastoknutá po   tunajšom obyčaji, ohnivá ruža. Dala mu ju černooká Jela Doricina. I   teraz kráča popri ňom, ľahko ani víla v strojných opánkach na malej   nôžke. Na vrchhlave má červený ručník s podvitými rožkami. Zpod neho   vysvobodené kučery ihrajú s vetrom okolo čela. Ústa sa usilujú   usmievať — no vrchná pera uťahuje sa kŕčovite zadúšaným plačom. Ústa   sa jej smejú, ale od srdiečka slzy sa jej lejú. Nesie v ruke batôžok   — to je Nikova merinda. Odchodí síce len na šesť týždňov na nešťastné   cvičby k regimentu — no to je veľký úder pre vernú lásku. Parník   temer plnou parou priplával k samému nábrežiu, podmúranému z ťažkých   kvádrov. Mornár shodil s paluby povraz, Bore ho chytil a slučku   stoknul na jeden z kamenných stĺpov. Parník sa primkol bezprostredne   k brehu. Kapitán schodí úzkymi schodíkmi zo svojho mosta na palubu,   kde sa miešajú pasažieri. Mornári prekladajú most — a už sa hrnie   svet na palubu, s lístkami i bez lístkov.
+   </tei:p>
+   <tei:p>
+    Vyšiel i pán Mice vo svojej čiapočke, s balíkom píšem v ruke.   Kapitán salutuje, podá mu ruku a prezerá písma. Mašina počne hrčať a   klepo-
+   </tei:p>
+   <tei:p>
+    ﻿166
+   </tei:p>
+   <tei:p>
+    tať, sťa mlyn, keď mele naprázdno. A dvihák vyťahuje z útrob lode   na mohutných reťaziach štíhle vrecia peštianskej múky. Bore i dvaja   vlašskí paholci pána Miéa vyvláčajú a hádžu ich na nábrežie.   Pasažieri sa pomedzi nich trúsia von a dnu, niektorí sa vyšli   poprechodiť po nábreží. Kvočicova Čara, šumná dcéra pána Micova,   doniesla na striebornom podnose malú šálku čiernej kávy kapitánovi.   Ten salutuje zbežne; hoci mladý, málo si všíma jej bujnej krásy. V   meste ho čaká ženička s dvoma detvákmi, vída ju dva razy do týždňa   ...
+   </tei:p>
+   <tei:p>
+    A mašina zatíchla. Dvihák zastal, pasažieri sa sbierajú na palube.   Jela sa postavila obďaleč, Niko sa nahol zábradlím paluby — prerečú   kedy-tedy slovo, ktorému len oni vedia pravý význam. Kapitán vypil   kávu, zahodil koniec cigarety — stisol ruku pánu Micovi i jeho deve,   salutuje ,fúhrerovi‘ financov (tí nesmú chybovať) a vybehol na svoj   most. Prezerá palubu, či je všetko v poriadku. Zatrúbi vo tri vrhy   tým istým tiahlym ostrým tónom, až sa okolité vrchy ohlášajú. Dá   znak, mornári vtiahnu most na palubu, zatvoria vrátka. Bore stiahne   slučku so stĺpa a parník stojí pokojne, ako by v neistote, či sa má   hýbať. Nič podozrivého nevidno na nábreží, nikto nezaberá prihnutý s   batôžkom v ruke, máchajúc klobúkom. Nikto sa neopozdil. Mašina začne   fučať, klepať, loď sa uťahuje ako by hanblivo od brehu. Sotva je na   dve siahy od neho, začne sa cofkať plnou zpiatočnou parou, kým sa len   nenájde na prostred prístavu. Tu zastane zas, ako by nevedela, kam.   Pod priploštenou zadnou čiastkou lode spenila sa voda. Kormidlo,   donesené do pohybu, donieslo ju do divého víru. Voda hučí a plieska   na všetky strany, nos lodi obracia sa pomaly von z prístavu. Sotva   opísal pravý uhol, dali mašine prednú paru. Loď mohut-
+   </tei:p>
+   <tei:p>
+    ﻿167
+   </tei:p>
+   <tei:p>
+    ným oblúkom berie sa do kanála. Zástavka na kormidle sa napína a   trepoce veselo v zosilenom vetre. Pri nej mácha šatkou statná postava   Nikova. S brehu mu odpovedá Jele Doricina. Každý sa vracia po práci,   nábrežie sa vyprázdni. Iba čo odnášajú vrecia s múkou do magazína   dvaja-traja Vlasi. A Jele ešte stojí na predošlom mieste a mácha   šatkou. Parník sa zvrtne vpravo dolu kanálom, obchodiac príkre   predhorie sv. Spiridiona, ktoré od juhu zatvára prístav. Už vidno len   komín — o chvíľu i on zapadne kdesi v mori. Zostal iba chlp dymu,   ktorý sa vznáša ako kadidlo nad kapiou a majákom sv. Spiridiona.   Stojí chvíľu nehybno, ale len chvíľu — začne sa dlžiť, vyťahovať, od   neho sa oddrapujú riedke strapy: ostatok ženie vietor predhorím, kde   ho vonkoncom roztrhá v širokých korunách pokrkvaných olív.
+   </tei:p>
+   <tei:p>
+    Jele sa vzdychlo a kráča k domu so sklopenou hlavou.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

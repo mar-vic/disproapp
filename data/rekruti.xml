@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1891655" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Rekrúti : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4952
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Rekrúti
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1891
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Rekrúti
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿1. »Tedy už! Už je ráno. Bodaj by nebolo svitlo na mňa!« myslel si   Mišo Dzúrik, ako sa prebudil. Hlavu mal uchlpenú, a v nej zmätok, ani   v brlohu vetešníka-Žida. »A čo sa prevracia tá posteľ so mnou? Fuj,   ako mi je v ústach — fuj!« Proboval vstať na nohy, ale jedna stála   čihi a druhá hota. Obe sa triasly. »Eh«, striasol sa, nakríviac tvár.   »Či mi je zle!« Večer, ďaleko do noci presedel u Mojžiša. Čosi sa   jedlo, mala to byť hus, veľa sa pilo a ešte viac kúrilo. Z toho mu   zostala tá chuť v ústach a ten zmätok v hlave. »Vstať treba, keď je   už raz tak: nuž azda len vstanem.« Zažíval a prezeral šaty, ktoré si   mal obliecť. Boly ani čo by ich bol so strašidla ukradol. Nohavice   záplata na záplate a na kabátiku presvitalo futro. »A si už vstal,   Miško ?« ozval sa smutný hlas strápenej ženy, ktorá práve vstúpila do   izby. Bola malá, Mišovi sotva po pazuchu. Nik by neveril, že táto   ženička dala život takému
+   </tei:p>
+   <tei:p>
+    ﻿156
+   </tei:p>
+   <tei:p>
+    obrovi a na svojej hrudi ho odchovala. »Čo si si nepospal   ešte?«
+   </tei:p>
+   <tei:p>
+    Tvár Mišova sa ešte väčšmi svraštila, keď videl pred sebou mater.   »Ja už nemusím spať, mamo! Ja som sa dokonale naspal a prebudil.   Bodaj by sa bol neprebudil!« riekol surovým hlasom, spurno pozrúc na   ňu.
+   </tei:p>
+   <tei:p>
+    »A čo sa hneváš?« vytýka mu trasľavým hlasom. »Ale ja som na vine   ?«
+   </tei:p>
+   <tei:p>
+    »A kto ? Azda ja !« odpovedal jej s výčitkou. Videl, že ju ranil   rovno do srdca, ale kýsi zlý duch mu šepkal: »Dobre, len tak! Keď   trpíš ty, nech trpia i druhí.« A doložil: »Prečo som nie krivý, ako   Jano Rybárovie, alebo hlúpy, ako...«
+   </tei:p>
+   <tei:p>
+    »Nerúhaj sa Bohu — to bola Jeho vôľa!« chcela ho napomenúť, ale   slová jej zaseklo v hrdle. Srdce jej bolo stisnuté, ani čo by ho do   klieští chytil. »Aký mi bol dobrý, aký poslušný — a taký mi zostal!   Len čo sa to s ním, Bože, porobilo? Či naveky bude takýto?«
+   </tei:p>
+   <tei:p>
+    Vrátila sa do kuchyne, že si obľahčí srdce plačom. Ale nenašla sĺz   na smytie tohto bôľa.
+   </tei:p>
+   <tei:p>
+    Keď sa vrátila, Mišo bol už oblečený. Ozaj vymenený. Včera v   pekných, sviatočných šatách, dnes v otrhaných, zafúľaných handrách,   sťa nejaký lotor.
+   </tei:p>
+   <tei:p>
+    Postavila mu na stôl misu s rezanci v preváranom mlieku. Najmilšie   jeho jedlo. Z misy šla dobrá vôňa po mlieku a pepre. Mišo ani
+   </tei:p>
+   <tei:p>
+    ﻿157
+   </tei:p>
+   <tei:p>
+    nepozrel na ňu. Sedel na lavici, zabudnúc sa v myšlienkach akýchsi   ťažkých, trudných. »A čo neješ ?« pýta sa ho. »Ja som najedený«,   odpovedá vzdorovité, surovo. »Veď si skoro nič nejedol, celý týždeň   sa moríš hladom. Prídeš o zdravie.« »Ja nemusím jesť«, odsekol   spurno. Tešilo ho, že môže si takto zahrávať, čo je to hneď utrápená   mať. Pozrel na ňu, sedela na lavici ticho, nahrbená, ako by sa sama   do seba prepadala. Azda mu jej prišlo ľúto, azda ho k tomu nútila   ozajstná potreba, riekol jej: »Keď mi chcete dobre urobiť: choďte do   komory, naberte do hodného hrnca polievky. Kapustnica surová mi bude   najlepšia.« Mať uradovaná, že aspoň niečím môže mu poslúžiť, odbehla   drobným krokom do komory. No keď kapustnicu črpkala, prišlo jej na   um: »Ach, Bože, dnes už ide; Boh vie, kedy ho vidím. Bude vojna,   zabijú mi ho; príde choroba — prevládze ho. A keď bude umierať, bude   si ťažkať na mater: kŕmila ma kapustnicou!« Bola by ju vyliala nazad,   ale sa bála, že by si zas ťažkal, že nežičila mu ani surovej   kapustnice. »Ale to je surová — nanič. Uvarím ti ju. Slaninku v nej   obarím. Takáto surová je nanič.« Svojmu hlasu snažila sa pridať   veselší názvuk. Čakala tuho, či syn uváži aspoň túto jej radu. »Dajte   vy ju takú. Mne i taká je dobrá.
+   </tei:p>
+   <tei:p>
+    ﻿158
+   </tei:p>
+   <tei:p>
+    Slanina sa zíde vám.« Tešilo ho veľmi, že mohol odmrštiť materinu   žiadosť. Mať stala si ku kozubu a dívala, dívala sa na syna. Nedívala   sa len tým zlomeným, slzami zakaleným zrakom: celé srdce materské   dívalo sa naň, každá žilka srdca triasla sa bôľom a nádejou, že ju on   poteší. Ako by jej srdce trhali na kusy a zabíjali po kusoch. A syn   sedí pri stole, upíja si z kapustnice a možno nepozoruje, čo sa robí   s materou. A ak pozoruje, teší ho, že také muky podstupuje zaňho.   Neuľútilo sa mu nad jej bôľom, strachom, úzkosťou a nádejou.   Neuľútilo, ako sa nám neuľúti nad červíkom, že sme ho rozmiaždili.   Keď sa svíja, nech sa svíja: ja predsa pre červíka nebudem sa   obzerať, kam stupiť! My ľutujeme mladú čeľaď, vychvátenú z rodiny,   sotenú do studenej, nevľúdnej kasárne. Kde by nie! Všetko ztratila, a   to razom, sťa keď konár odstrihneš od stromu, z ktorého mu šla   miazga. No porovnajme utrpenie týchto našich martýrov s utrpením ich   matiek — a naša sústrasť pošinie sa v inú stranu. Aspoň sa rozdelí   spravedlive medzi synov a ich matere. Kto by neľutoval Miša? Šuhaj   dobrý, hodný, prítulný. Naraz má privyknúť na myšlienku, že tri roky   nebude doma! Za rodičov dostane kaprála a feldvébla, miesto jeho   Zuzky bude mu puška pri boku. Rodičovské napomenutia zmenia sa v   krátke želiezka, ktoré mu založia v tmavej
+   </tei:p>
+   <tei:p>
+    ﻿159
+   </tei:p>
+   <tei:p>
+    kutici. Miesto modlitby materinej bude ho sprevádzať posmech,   nadávanie a kliatba predstavených. Ach, aké city mu víria v duši!   Koľko premáhania, aby ich zastrčil za surové odpovede, ktoré metá   materi do tvári!
+   </tei:p>
+   <tei:p>
+    No čo je to proti bôľu materi! Ona tratí čiastku svojej bytnosti.   Ako by jej dušu rozdrapili na poly. Čo jej syna odobrali, neminie   minúty, aby zabudla na svoj bôľ. Každá minúta nesie pre ňu nový bôľ,   nové muky.
+   </tei:p>
+   <tei:p>
+    »Aký sa mi vráti a či sa mi vráti ?« To je myšlienka najdesnejšia.   »Veď už teraz je premenený, a nebol ešte nikde. Aký bude potom ?«
+   </tei:p>
+   <tei:p>
+    A nie sú to iba škrupule ! Veď stará Mariena videla neraz, že ta   šli dobrí synovia, usilovní, úctiví, triezvi občania, a vrátili sa   zlostní, suroví, nadutí obšitoši, preplnení prevrátenými názormi,   vysmievajúci sa zo všetkého, čo i im bolo kedysi milé a sväté. Kto ju   uspokojí, že jej syn práve nebude patriť medzi nich; že zachová si,   čo dobrého mu vštepovala od detstva do srdca?
+   </tei:p>
+   <tei:p>
+    Neraz hútala v noci, keď nemohla spať: čo je to tá vojna?   Všelijako hútala, vysvetľovala, okrašľovala a vždy len vychodilo:   vojna je bič Boží na nás, je zlo... Ej, keby mala tú moc, iste by jej   nebolo. Hútala: kto má z nej osoh? Nenašla nikoho takého. Hútala: kto   by sa ozval proti tomu, keby vojnu prišlo zrušiť? Vždy jej vyšlo, že   celé ľudstvo by si vydýchlo, keby sa
+   </tei:p>
+   <tei:p>
+    ﻿160
+   </tei:p>
+   <tei:p>
+    ztratila s povrchu zeme. Vojaci s radosťou odhádzali by svoje   zbrane; matere a otcovia s radosťou by ich vítali v svojom dome;   občania by plesali, že nemusia porcie na ňu platiť. Či je tedy   zbytočná? Načo je tedy? A tu videla, že vojna je miesto   spravedlivosti. Kde spravedlivosť chýba, tam musí byť vojna. Ako   začne kraľovať spravedlivosť, v tej minúte bude po vojne.
+   </tei:p>
+   <tei:p>
+    »Ó, kde si, spravedlivosť, kde?« volala, zúťale sa premetávajúc na   posteli. »Kedy už začne kráľovstvo tvoje ?«
+   </tei:p>
+   <tei:p>
+    Hlucho všade, ticho všade. Ani matný lúč spravedlivosti neukázal   sa na širokom, ďalekom obzore...
+   </tei:p>
+   <tei:p>
+    »A ste už vstali ?« čuť pod oblokom akýsi cudzí hlas. Mišo mlčal,   ani nepozrel k obloku. Pravda, by to bolo i márno — vonku sa ešte   nerozvidnilo, nebol by nič videl.
+   </tei:p>
+   <tei:p>
+    »Už!« ohlásila sa mať.
+   </tei:p>
+   <tei:p>
+    »Dobrý deň Pán Boh daj!«
+   </tei:p>
+   <tei:p>
+    »Vitajte, Ondrejko! Sadnite si«, vyzývala gazdiná prívetivým   hlasom, siliac sa k úsmevu, ktorý veľmi smutno vypadol. Bol to muž   vysoký, jasnej, veselej tvári, nad ktorou dominoval ohnutý nos a   dvoje velikých, usmievavých očú. Pod pazuchou držal balík, ktorý   zaraz položil na stôl. »Čože ste nám doniesli ?«
+   </tei:p>
+   <tei:p>
+    Gazdinej iste dobre padla táto návšteva, čo už z toho vidno, že i   lavicu utrela zásterou, kam si mal Ondrej sadnúť. A naozaj, tvár   jeho
+   </tei:p>
+   <tei:p>
+    ﻿161
+   </tei:p>
+   <tei:p>
+    bola nielen výrazná, čo u sedliaka nie je nič zriedkavého, ale i   dôveru vzbudzujúca. Vyzeralo z nej čosi, čo človeka nútilo, aby sa mu   zdôveril.
+   </tei:p>
+   <tei:p>
+    »Nuž veď viete, po čo som prišiel. Či ste, reku, vstali, a toto   som vám doniesol. Rychtár to Mišovi posiela.«
+   </tei:p>
+   <tei:p>
+    Gazdiná rozviazala uzlík, a z neho sa ukázaly dva páry spodných   šiat. Boly nanovo ušité z jemného, manglovaného plátna. Bolo tam   ďalej šesť šatiek do vrecka a mešec tiež nový, kožený, pekne   vycifrovaný. Vidno, že nie je prázdny.
+   </tei:p>
+   <tei:p>
+    »No?« ozvala sa gazdiná, a v tom slove bol skrytý i obdiv, ale i   vďaka. Ju celá vec veľmi uchvátila a nútila ju zabudnúť na všetky   žiale a oddať sa príjemnejším citom. »Povedzte, Ondrejko, rychtárovi,   že mu ďakujeme za všetku lásku.«
+   </tei:p>
+   <tei:p>
+    »Nemáte za čo, lebo čo patrí, to patrí.«
+   </tei:p>
+   <tei:p>
+    Bola to obyčaj, že rekrútom, keď odchádzali k regimentu, obec   takto sa zavďačila na cestu. Pozostatok z tých čias, kde obce boly   nútené verbovať vojakov za seba. Robily to traktami a všakovými   darmi. Rychtár mal až dosiaľ neobmedzenú moc traktovať rekrútov a   robiť im dary. Proti tomu nebolo občana, ktorý by sa bol ohlásil.
+   </tei:p>
+   <tei:p>
+    A toto samo v sebe pôsobilo na gazdinú príjemne. Videla v tom   akoby dôkaz, že nie je opustená v svojom žiali, ale celá obec s ňou   cíti.
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spisy II. 11
+   </tei:p>
+   <tei:p>
+    ﻿162
+   </tei:p>
+   <tei:p>
+    Mišo sedel a sotva pozrel v tú stranu, kde bola rychtárova   zásielka. Príchod hajtmana mu skôr pripomínal, že čas je krátky a   onedlho sa musí poberať. Prišlo mu na um, ako mu bolo od malička   dobre, pod opaterou materi a otca: čo všetko musí dnes opustiť —   dvíhalo sa v ňom celé more citov a búrilo. Zaťal zuby a spurno hľadel   do kúta, ako by sa hneval. Strhol sa akosi preľaknutý, keď ocítil na   pleci čiusi dlaň. Bola to hajtmanova.
+   </tei:p>
+   <tei:p>
+    »Neželej ty, Mišo, nič!« ozval sa hajtmanov jasný hlas. »Vojna je   nie kratochvíľa, ale ani zase nie tak celkom peklo. Ja viem, lebo som   ju zkúsil. Dobrému človeku všade dobre. Spokojný obspí i na skale,   ako kedysi Jakob, a nebude mu tvrdo — ešte si pochváli. Z počiatku ti   bude mrkotno, ale ty si pomysli: nebudem tu na veky a o tri roky   pôjdem domov. A keď budeš slúchať, i tam ti nebude zle. Ešte ti i z   troch rokov spustia, keď uvidia, že si im nie treba. Pravda, nebudeš   sa potom už ani toľme domov driapať; za vojnou ti tiež bude ľúto   prichodiť.«
+   </tei:p>
+   <tei:p>
+    S trpkým výrazom v tvári počúval Mišo hajtmanove reči. Neveril   tomu, čo počul. Veď ho zkúsenosť učila, že ani jeden chlap nešiel   plačúc z vojny, naopak, spievajúc. Ani jeden sa nehodil do vody, že   musel mundúr sobliecť. Ale koľko bolo takých, čo život oželeli   radšej, ako by sa boli do uniformy dali obliecť. Vedel on,
+   </tei:p>
+   <tei:p>
+    ﻿163
+   </tei:p>
+   <tei:p>
+    že keby to bolo dobré, nebolo by treba ľudí do toho tisnúť. Tých,   čo odoberú, nikto by netraktoval, nikto by nehľadel na nich útrpne,   nikto by ich netešil a neposmeľoval. Ani hajtman nebol by na svitaní   sem prišiel, keby ozaj veril, čo teraz rozprával. »Ani privyknúť   nebude ti tak ťažko«, pokračoval Ondrej. »Keby si narukoval sám, to   nerečiem, že by ti bolo clivo. Ale ty, blázon, nebudeš tam sám. Veď   len z našej dediny pôjde s tebou Maťo Horniakovie. A z druhých dedín   koľko! Neboj sa, že ti príde clivo. Zabudneš na nás. Bude ti tak   predchádzať, že si sa v kasárni narodil a že je to tvoj dom i tvoja   dedina!« Mišo hľadel do kúta a neodvrátil očú. Počúval iba na jedno   ucho, čo mu hajtman rozpráva. »Čo mne z toho, že nás tam bude viac,   keď tam nebudeme všetci!« myslí si. »Ja budem tam a nebudem vedieť,   čo sa v dedine robí. A tí tu budú si robiť v poli, poháňať voly,   plieskať bičom, vystrájať muziky, dievkam sa zaliečať, chodiť na   vohľady, s fujarou a harmonikou vysedávať pred domom, alebo po dedine   chodiť. Zuza Iluptákovie tiež zunuje čakať tri roky — kto vie, čo   urobí na fašiangy...«
+   </tei:p>
+   <tei:p>
+    Mať hľadí na syna, čo ten na hajtmanove reči. Strežie, či   nezachytí od neho pohľad, ktorý by jej prezradil, že toto dieťa patrí   ešte jej, keď i nie celkovite, ako za malička — tedy aspoň trochu. Či   nepohne sa v ňom cit, a aspoň slo-
+   </tei:p>
+   <tei:p>
+    11*
+   </tei:p>
+   <tei:p>
+    ﻿164
+   </tei:p>
+   <tei:p>
+    vĺčkom, aspoň pohľadom neobráti sa k nej? No nebadá nič takého.   Duša synova blúdi v iných svetoch, kde nestretne sa nikdy s ňou.   Ovesila hlavu a stiera slzy. Tak jej je, ako by ho do truhly mala   položiť a zabiť nad ním vrchnák.
+   </tei:p>
+   <tei:p>
+    »Neboj sa, že ti bude bieda«, tešil ho Ondrej. »Čo budeš   potrebovať do seba i na seba, cisár všetko dá. Ten sa stará o vojaka;   každý vojak mu je ako vlastný syn. 1 volať vás bude deťmi a chlapci.   Oj, ten má vojakov rád! Každý rok vyfasuješ nový mundúr, že celý svet   ti bude závideť, keď pôjdeš v ňom na špacír do mesta. 1 cigarku budeš   si fajčiť — ako pán. A keď vyrukuje muzika a zahrá — ej, všetky žilky   ti zaihrajú, a čo by si sa ledva kýval, narovnáš sa a pomašíruješ do   kroku. I spievať si budete na marši.«
+   </tei:p>
+   <tei:p>
+    Hajtman sa rozohrial spomienkou na vojenský život, chrbát sa mu   narovnal a oči mu svietily.
+   </tei:p>
+   <tei:p>
+    Mišo pozrel naň zbežne a zas uprel ten samý spurný pohľad do kúta.   »Čo mne z toho? Ja som ani doma nemal nikdy biedy. A ak ma   prikváčila, neznášal som ju sám, ale i otec a mať. A čo mne má   závideť Jano Rybárovie? A čo mi budú závideť tí druhí? Poženia sa a   budú v pokoji robiť v poli, a nebudú mať biedy. Môže mne vyhrávať sto   muzík, ale to nebude svoboda. Za tri roky nemať svobody, byť horšie,   ako v temnici!« Pri tejto myšlienke srdce sa mu
+   </tei:p>
+   <tei:p>
+    ﻿165
+   </tei:p>
+   <tei:p>
+    stislo, že nemohol vydýchnuť od nekonečného srdu. Vyšiel von.
+   </tei:p>
+   <tei:p>
+    »Ach, Ondrejko!« zvolala gazdiná, keď zostala sama s hajtmanom.   »Mne sa vari srdce rozskočí na dvoje! Ja zahyniem, keď ho raz tu   nebude. Ach, môj syn dobrý, kde si sa mi podel ?« Zakryla si tvár a   zaplakala.
+   </tei:p>
+   <tei:p>
+    Hajtman bol neraz svedkom týchto výjavov. Každú jaseň sa   opakovaly. Srdce mal otužené proti takým návalom citovým a tiež bol   presvedčený, že ľudia plačú iba z predsudku za rekrútmi. On by už   neplakal, keby syna i vyprevadiť musel k regimentu. Vie, že to nie je   taká strašná vec. Aké nešťastie prijímame s menej žiaľom ! Či dosť   inakších kár nemusíme preniesť? A uspokojíme sa, keď vidíme, že to   ináč byť nemôže.
+   </tei:p>
+   <tei:p>
+    »Mariena, neplačte«, napomínal ju. »Vám z toho celkom nič nepríde,   iba čo seba i jeho trápite. Nebojte sa — vráti sa vám. A podučí sa,   možno zmúdrie a bude vám lepší, ako dosiaľ.«
+   </tei:p>
+   <tei:p>
+    »Veď ja nad tým ani tak neplačem, keď to už musí byť. Ale to mi je   Túto, že mu srdce odo mňa odpadlo. Nebude ten už nikdy taký, ako mi   bol do nedávna!«
+   </tei:p>
+   <tei:p>
+    »Bude«, tvrdil Ondrej s istotou. »On má srdce k vám, ale vám to   ukázať nemôže.«
+   </tei:p>
+   <tei:p>
+    »A prečo?«
+   </tei:p>
+   <tei:p>
+    »Lebo je vojak.«
+   </tei:p>
+   <tei:p>
+    »Ach, nešťastná vojna!« zaupela mať a klesla na lavicu.
+   </tei:p>
+   <tei:p>
+    ﻿166
+   </tei:p>
+   <tei:p>
+    Ďuro Gabaný vstal dnes tiež do dňa. Naobročil svoje kone, ovsa   primiešal viac do sečky, než obyčajne. Vyčesal ich, že sa ligotaly,   ako zrkadlo. Triasla sa im každá žilka netrpelive. Len vyskočiť a   leteť — také mal Ďuro Gabaný tátoše! Veru v celej Ondrašovej by   druhých takých nenašiel. V dedine ich volali posmešne »dámy«. Azda   preto, že boly také pyšné, možno preto, že Ďuro ich šanuje. Do pluha   ich nerád priaha, do furmanky nechodí. Musí to byť hrdá svadba, keď   sa on podzvolí za furmana!
+   </tei:p>
+   <tei:p>
+    Každý rok v jaseni ich takto naobročí, vyčeše, hrivy im pozapletá   všakovými galúnami i chvosty spustí nadol. Tak on odváža rekrútov na   železnicu a srdce mu rastie, že ani z jednej dediny tak hrdo sa   nevezú, ako z Ondrašovej. »Ďuro, zapriahajte!« volá mu pod oblokom   hajtman. »Treba sa poberať.«
+   </tei:p>
+   <tei:p>
+    Hajtman nejde preč, pomáha Ďurovi širovať dámy. Ďuro si zahodil   halenu a stal si vo voze. Doňho si vysadol i hajtman. 1 tak sa málo   povozí a takto hrdo nikdy, okrem keď sa rekrúti odvážajú.
+   </tei:p>
+   <tei:p>
+    Mišo oblečený sedí za stolom. Oblečený v najhorších šatách. Podobá   sa väzňovi. Izba je preplnená ľuďmi. Celá rodina i súsedia prišli   odobrať sa od neho a každý doniesol, čo mohol. Aká slávnostná je   izba! Mišovi sa zdá, že
+   </tei:p>
+   <tei:p>
+    ﻿167
+   </tei:p>
+   <tei:p>
+    dnes je nejaký sviatok; všetci sú v sviatočnom, iba on otrhaný,   zafúľaný. Ba či ich ešte vidí niekedy, takto všetkých spolu! Hľadia   naň útrpne, ako by ho každý chcel potešiť. I tí, čo sú mu vzdialení,   dnes primkli sa mu k srdcu. A o chvíľu nebude medzi nimi — pôjde   medzi cudzích...
+   </tei:p>
+   <tei:p>
+    Starý Mišo sedí pri synovi a nevraví nič. Ostatne v izbe sa mlčí;   najviac ak tu i tu padne slovo. Ani čo by si prišiel do domu, v   ktorom je mrtvý na doske.
+   </tei:p>
+   <tei:p>
+    »No, hýbajme sa!« riekol hajtman, vstúpiac do izby. »Ďuro už čaká   pred rychtárom.«
+   </tei:p>
+   <tei:p>
+    V izbe nastalo pohnutie. Starý Mišo prehodil si halenu; vzal si   čiapku a chytil tanistru, ktorá trešťala, naplnená koláčmi.
+   </tei:p>
+   <tei:p>
+    »Keď je tak, nuž poručeno Bohu. Poďme!« riekol starý, odhrnúc si   dlhé vlasy, ktoré sa mu pošmykly k brade.
+   </tei:p>
+   <tei:p>
+    Mišo si postavil klobúk a šiel od jedného k druhému. Podávali mu   ruky a každý doložil pár slov potechy a žehnania. Prišiel až k peci,   kde stála mať, zavalená nemým bôľom.
+   </tei:p>
+   <tei:p>
+    »Dobre sa majte!« riekol Mišo a podal jej ruku. Nepozrel na ňu,   ale klopil oči k zemi. Do hlasu chcel položiť akýsi vzdor a   tvrdosť.
+   </tei:p>
+   <tei:p>
+    »Môj syn ľúbezný — nikdy ťa nevidím !« Hodila sa mu na prsia,   usedavo plakala.
+   </tei:p>
+   <tei:p>
+    Všakové city rozbúrily mu nanovo dušu. Akási hrdosť zmrvila sa v   ňom na odrobiny. Chytil materinu tvár do dlaní. Bola bledá a plná
+   </tei:p>
+   <tei:p>
+    ﻿168
+   </tei:p>
+   <tei:p>
+    vrások. Iste naskočily na ňu v posledné časy. 1 niekoľko vlasov na   sluchách sa jej postriebrilo.
+   </tei:p>
+   <tei:p>
+    »Veď je to tvoja mať!« hovorilo mu čosi, keď jej pozeral do tvári.   »Pozri, aká umučená!« »Či ťa ešte kedy vidím ?« pomyslel si a ve-Iiká   ľútosť rozvinila mu prsia.
+   </tei:p>
+   <tei:p>
+    »Dobre sa majte, mamička — ja vám budem písať!« Slzy mu naskočily   do očú.
+   </tei:p>
+   <tei:p>
+    Ona ich videla. Zbadala i hnutie synovského srdca. Presvedčila sa,   že patrí jej, iba jej. Blaho rozložilo sa jej v srdci; tento okamih   bol najšťastnejší zo všetkého, čo zažila. Len keby trval, trval na   veky.
+   </tei:p>
+   <tei:p>
+    Poodstúpil od nej. Vrhla sa za ním a schvátila ho za rameno.
+   </tei:p>
+   <tei:p>
+    »Nechoď ešte, moje dieťa; len ešte minútku!«
+   </tei:p>
+   <tei:p>
+    Pritisol ju k srdcu, čosi povedal, no hlas sa mu zadrhol v   hrdle.
+   </tei:p>
+   <tei:p>
+    »Nechoď, nechoď mi ešte!«
+   </tei:p>
+   <tei:p>
+    Len minútu ležať na jeho srdci, a bola by dala všetko, celý život   za to.
+   </tei:p>
+   <tei:p>
+    »Poď, nechaj ju — takto je horšie!« pošepol mu ktosi. Videl pri   sebe hajtmana.
+   </tei:p>
+   <tei:p>
+    Utrel si oči, položil mater na lavicu a kročil k dverám. Ešte raz   obzrel sa v izbe. Padlo mu divno, že zajtra už v nej nebude. »Ba či   bude taká, ako je dnes, keď sa vrátim ?« A umienil si, že si na to   pomyslí, ako prvý raz vkročí do domu. . .
+   </tei:p>
+   <tei:p>
+    Vyšiel na cestu. Hŕba ľudí stojí a čaká.
+   </tei:p>
+   <tei:p>
+    ﻿169
+   </tei:p>
+   <tei:p>
+    Niektorí pristupujú ešte k nemu, iní so súcitom z diaľky ho   pozorujú. Niektorí sú na skoku k nemu, len čakajú, či on ich   spozoruje. On kráča popredku s otcom a hajtmanom; za nimi pol dediny.   V sprievode niektorí ticho plačú, iní zamieňajú poznámky šepotom.
+   </tei:p>
+   <tei:p>
+    Došli pred rychtára. Tam našli Ďura Gabaného; sedel na voze a   fajčil cigaru. Rychtár sviatočne oblečený stál na môstku a prvý   pozdravil Miša i jeho otca. Mišo tu znova sa poodberal od všetkých,   čo ho z domu vyprevadili. A pristúpil k druhej hŕbe ľudí. Tam medzi   nimi v prostriedku stál Maťo Horniak a podával ruku všetkým. Oči sa   im stretly obom; podali si ruky, nerečúc ani slova. Zo žien niektoré   zaplakaly.
+   </tei:p>
+   <tei:p>
+    Odobrali sa ešte raz od všetkých, oblapili sa okolo hrdla a   pobrali sa hore dedinou.
+   </tei:p>
+   <tei:p>
+    »Vychodí slniečko zpoza lesy, už ma v Ondrašovej nič neteší
+   </tei:p>
+   <tei:p>
+    Tak si išli spievajúci, ani keď nevestu vedú na sobáš. Za nimi   otcovia i najbližšia rodina.
+   </tei:p>
+   <tei:p>
+    Prišli pred dom, skoro nový ešte, cesta do dvora viedla strmo   dohora. Dom stál nemo, nik nevyzeral z oblokov, i vráta sú   prichlopené.
+   </tei:p>
+   <tei:p>
+    »Vy len choďte popredku, ja vás dohoním«, riekol Mišo Maťovi a   vymkol sa mu zpod ramena. Vybehol ku vrátam, otvoril dvere a   prekročil vysoký prah. Zavrel dverce a zastal. Za nimi stála Zuzka.   Keď ho videla, zakryla si tvár zásterkou.
+   </tei:p>
+   <tei:p>
+    ﻿170
+   </tei:p>
+   <tei:p>
+    »Zuzka, ja už idem«, riekol jej a hlas sa imu zachvel.   »Nezabudniže na mňa, ako tie druhé...«
+   </tei:p>
+   <tei:p>
+    Čakal, no nedostal odpovedi. Odtiahol jej ruky od tvári a videl ju   užialenú, uplakanú. Povedomie všetkého, čo dnes tratí, zaľahlo mu   centovou váhou na dušu. Taký dlhý čas nepozre do tejto tvári, z   ktorej sa mu usmievalo •celé nebo!
+   </tei:p>
+   <tei:p>
+    »Neplač, Zuzka — ja ti budem verný. V každom liste ťa   pozdravím...«
+   </tei:p>
+   <tei:p>
+    »Čo mi je z toho, keď teba tu nebude!« zaplakala ona.
+   </tei:p>
+   <tei:p>
+    »Mne je to tiež ťažko. Ty aspoň ostaneš doma, tebe bude dobre. Ale   ja v cudzom svete!«
+   </tei:p>
+   <tei:p>
+    »Veď doma! Ale nikdy nebudem vedieť, kde si a čo robíš, a či ma   ešte. . . Ach, a to je tak ťažko! A ak sa ti tam niečo stane, alebo   ak ma necháš!« Znova zaplakala. »Čo ja musím podstúpiť za našu   ľúbosť!«
+   </tei:p>
+   <tei:p>
+    »Neboj sa —ja teba nikdy, nikdy nenechám. Čo by mi prišlo umrieť,   ale ja teba nenechám. Na, toto ti bude na pamiatku, ak by sme už   spolu...« Podal jej peknú olejkovanú šatku.
+   </tei:p>
+   <tei:p>
+    Zuzka ju prijala, ale ani nepozrela na ňu. Tak jej bolo, ako keby   sa šla zadusiť.
+   </tei:p>
+   <tei:p>
+    Mišo vybehol hore dvorom a vošiel do izby. »Ostatný raz, iba o tri   roky tu budem«, pomyslel si.
+   </tei:p>
+   <tei:p>
+    »Ja som sa prišiel odobrať!«
+   </tei:p>
+   <tei:p>
+    ﻿171
+   </tei:p>
+   <tei:p>
+    »Ale už?« pýtali sa všetci, akoby prekvapení. No vidno, že čítali   minúty, kedy príde. Veď všetci sú doma, hoci majú tuhú robotu v   poli.
+   </tei:p>
+   <tei:p>
+    Gazda mu podal ruku a tisol vrele Mišovu. »Postretaj ťa Hospodin.   Riad’ sa dobre a neodpadni od Boha!«
+   </tei:p>
+   <tei:p>
+    »Len či nezabudnete na mňa?«
+   </tei:p>
+   <tei:p>
+    »My nie, kým ty nezabudneš. Máme ťa ako syna«, tešil ho gazda. »A   toto si vezmi, zíde sa ti.« Do ruky mu vtisol čosi v papieri   zabalené.
+   </tei:p>
+   <tei:p>
+    Mišo sa zdráhal, ale celá rodina šla doň. Musel to odložiť ku   druhým peniazom do mešteka. Mal ich hodne, sám nevedel, koľko: okrem   rychtára, každý mu doniesol, čo mohol. No to všetko zdalo sa mu   zbytočným. Neznal, že i peniaze majú nejakú cenu.
+   </tei:p>
+   <tei:p>
+    Celá rodina vyprevadila ho do dvora. Tam čakala Zuzka. Pritisol ju   k sebe, bezvládnu; s raneným srdcom vybehol na ulicu. Kráčal tuho,   lebo voz už vychodil z dediny. Nevidel okolo seba nič. Iba vtedy sa   obzrel, keď niekto za ním zavolal: »Šfastlive, Mišo!« Zdalo sa mu, že   toto všetko je klam, že sa mu to sníva. Pretre oči a zaraduje sa, že   to bol iba zlý sen. No za dedinou dohonil voz Ďura Gabaného.   Skutočnosť bola prijasná.
+   </tei:p>
+   <tei:p>
+    »Vysadnime, aby ste sa neomeškali!« velel rychtár.
+   </tei:p>
+   <tei:p>
+    Maťo a Mišo vysadli, oproti nim ich otcovia
+   </tei:p>
+   <tei:p>
+    ﻿172
+   </tei:p>
+   <tei:p>
+    a rychtár. Podali ruky tamtým dolu, Ďuro pošibal kone, voz sa   schytil do behu.
+   </tei:p>
+   <tei:p>
+    »Keby sme sa vyvalili a keby nás pobilo!« pomyslel si Mišo a   neprejal ho strach pri tejto myšlienke. Pole mizlo, tie zeme, z   ktorých každá hruda mu je známa. Stromy a telegrafické stĺpy sa   mihaly, ani čo by ich niekto socal nazad.
+   </tei:p>
+   <tei:p>
+    Obzrel sa na dedinu ešte raz. Stojí medzi stromovím, s ktorého   lístie už oprchuje; stojí, ako inokedy. Nič sa jej nestalo, i zajtra   bude taká, ako dnes. Čudno mu padlo, že v nej nebude jeho. Ľudia tak   pôjdu po svojej práci, ako včera, alebo kedy indy. Tu bude stáť a   jemu sa bude zdať, že Ondrašová sa niekde podela, že jej už niet na   svete medzi dedinami. Ten život bude sa v nej hýbať, prúdiť tak, ako   keby on tam bol, možno nebude tam chybovať nikomu.
+   </tei:p>
+   <tei:p>
+    Taký žravý bôľ prejal mu srdce, že by vykríkol, keby tu bol sám.   Vykríkol by, možno pohla by sa mu tá ťarcha, čo mu srdce zavalila. No   takto sedí a kŕmi sa tým bôľom. Spieval by, takú by zaspieval, že by   sa tie kamene pohly, ale či je nie smiešno spievať, keď ho nik   nečuje, nik nehľadí za ním, okrem tých, čo sa s ním vezú a tiež   mlčia. . .
+   </tei:p>
+   <tei:p>
+    Prebehli dedinami. Skoro v každej našli tie isté výjavy, aký sa   dnes odohral v Ondrašovej. A divno. On zo svojho voza pozerá na ne už   tak, ako bol pozeral vlani. Zdá sa mu, čo dnes zažil, že to už dávno,   dávno minulo — jeho
+   </tei:p>
+   <tei:p>
+    ﻿173
+   </tei:p>
+   <tei:p>
+    ovieva iný vzduch, iný život. Jeho do tých výjavov nič.
+   </tei:p>
+   <tei:p>
+    Došli do mesta, sosadli v hostinci. Rychtár im rozkázal jesť a   piť, koľko hrdlo ráči; predložil im drahé cigary. Mišovi to   prichodilo, ani čo by bol s otcom na jarmoku; zabudol na dedinu i na   bôľ, ktorý ho krušil, keď ho z nej odvážali.
+   </tei:p>
+   <tei:p>
+    Keď prišli na stanicu, našli na nej veľký zástup ľudu. Zväčša   mladí, ako oni — pri nich starí s tanistrami, ako tu ich otcovia.   Rychtár poodstúpil od nich a podáva si ruky s chlapmi, čo majú v ruke   dlhé palice, práve takí sú vysmiati, červení, ako on; i tak v   sviatočnom oblečení. To sú rychtári, tiež doviezli svojich   rekrútov.
+   </tei:p>
+   <tei:p>
+    Zacengalo sa. Všeobecný pohyb.
+   </tei:p>
+   <tei:p>
+    Mišovi srdce tuho zabúchalo. Stál pred ním otec, vysoký; len hlava   mu bola naklonená. Všetko, čo myslel, že už dávno minulo, stálo znovu   pred ním. Pocítil bôľ práve taký prudký, ako keď sa v dedine lúčil.   Zdalo sa mu, že dedinu až teraz tratí zpred očú. Jeho otec ako by   zakľučoval v sebe celú dedinu...
+   </tei:p>
+   <tei:p>
+    »Majte sa dobre, ňaňo. Pozdravte mi mater a. . .« Zajakol sa a   položil hlavu na plece otcovo.
+   </tei:p>
+   <tei:p>
+    Ten ho privinul k sebe.
+   </tei:p>
+   <tei:p>
+    »No, nič — neplač! Azda sa vrátiš zdravý.« Mišo pozrel na otca a   videl tie jeho sivé oči podliate slzami. »Neboj sa: my na teba   nezabudneme, i modliť sa budeme...« Tu ho slzy
+   </tei:p>
+   <tei:p>
+    ﻿174
+   </tei:p>
+   <tei:p>
+    zalialy, že nestačil si ich stierať päsťou. »A toto si vezmi —   peniaze. A šanuj si ich. Tuto tiež tanistru si opatri, aby ťa   neokradli!« To doložil tónom triezvym, bežným. Mišovi dobre padlo ho   počuť ešte raz od otca. »No, Boh ťa sprevádzaj!« A tu podal synovi   ruku. Pristúpil k nemu rychtár. V ostatný čas mnoho s ním obchodil a   obľúbil si ho. »Ďakujem vám, rychtár, za všetko !« Starý Horniak   podal mu tiež ruku. A on ju stisol. Zdalo sa mu, že je to človek   celkom blízky, ba rodina jemu. Nie ten starý Horniak, o ktorého   dosiaľ ani sa neobzrel. »Sadaťl Čo sa tu mrvíš — cúg ťa nechá!« kričí   ktosi od perronu, kde mašina odfukovala. »Beszállani 1 Einsteigen!«   Mišo chytil tanistru do ruky a teperil sa na perron spolu s druhými.   Keď už prešiel dvierka ohrady šrankovej, starého Miša čosi ako by   drglo. Pretisol sa k dvierkam a chcel synovi ešte raz stisnúť ruku.   »Kartu 1 ukáž kartu k Starý sa obzrel, pri ňom stál sluha   železničný. »Karty nemám — chcem Mišovi čosi povedať !« »Marš,   nezavadzaj tu !« štopol ho lakťom. Mišo obzrel otrhaného proletára, i   jeho čiapku so štítkom »Ks. Od.« a dnes prvý raz
+   </tei:p>
+   <tei:p>
+    ﻿175
+   </tei:p>
+   <tei:p>
+    vzkypela v ňom krv. Človek, ktorý včera tnoiržj?- žobral,   dnes sa opováži jeho, vážneho znevažovať. Bol by sa pustil s ním do   prúd odsotil ho na bok.
+   </tei:p>
+   <tei:p>
+    On chcel syna ešte raz videf. Prišlo mu na um, že vlak pôjde   krížom cez hradská. Zavolal rychtára a Gabaného, sadol si i starý   Horniak a pohli. Mišo s tanistrou tmolil sa po perrone. Nešiel ešte   železnicou; nevyznal sa, kam vysadnúť. »Rekrúti sem!« kričal ktosi z   jedného vozňa tam pri samom konci vlaku. Mal vojenskú čiapku, za ňou   zelenú chvojku. »Sem, chlapci — pôjde nás viac!« Vošli do vagóna, do   ktorého sa ledva pratali. Celé stôsy batohov boly po kútoch. Dym bol   taký, že ho bolo možno krájať, a zápach ako v korheľni. »Vitajte,   kamaráti! Či i vy k regimentu ?« pýtal sa ich ten v čiapke. »I my.   Ďakujeme pekne!« »No, sadnite si!« Poniektorí sa rozosmiali na vtipe,   lebo vo vozni nebolo lavíc. Inŕ zádumčivo pozerali pred seba. »Nate   chvojky; nech každý vie, že sme vojaci!« Mišo i Maťo založili si za   klobúky chvojky. Obdivovali tohoto človeka, ktorý i v takom krušnom   okamžení vie byť veselý.
+   </tei:p>
+   <tei:p>
+    ﻿176
+   </tei:p>
+   <tei:p>
+    »Ej, hora, dolina — moja milá mámilá, sama si si príčina. . .«   začal spievať mocným, trochu už zachrípnutým hlasom, a poniektorí mu   pomáhali. Mišo pritlačil sa k obloku a vyzeral na perron. Oči   sliedily po tlupe chlapov, ktorí stáli tam za šrankami. Otca medzi   nimi nevidel. »Odišiel — nedočkal ma!« Zmocnil sa ho nesmierny žiaľ.   Nikdy nepocítil tak tuho, čo je to osamelosť. Zdalo sa mu   neprirodzeným, že nevidí otca pri sebe. »Či to už vždy tak bude?«   Nemohol uveriť, že by on bez živej duše z domu mohol prežiť tri roky.   »Že ma tak nedočkali!« To sa mu zdalo, ako veliký hriech. »Aspoň keby   ho raz videl, keby mi aspoň zakýval...« Zacengali. Trúbka zatrúbila.   »Mehet!« Mašina zapískala, zafučala, zavzdychala a perron so   staničným domom šinul sa nazad. Tváre stojacich sa smiešaly. Mišo   neodstúpil od okna, hľadel na mesto. Tu je hradská, po ktorej sa   doviezol do mesta. A hľa, na nej voz. Dobre pozná dámy Gabaného po   stužkách, vpletených do hrív koňom. A vo voze stojí on — starý Mišo,   i starý Horniak, kývajú čiapkami. Sňal klobúk a zamáchal ním vo   vzduchu. Otec ho poznal, kýva naň rukou, hľadí, usmieva sa. Ach, aký   je to dobrý ten otec ! Pán Boh ťa požehnaj, že si sem prišiel syna   vyčkávať.
+   </tei:p>
+   <tei:p>
+    ﻿177
+   </tei:p>
+   <tei:p>
+    »Dobre sa majte, otec môj dobrý!« zavzdychal Mišo a slzy mu   vypadly. Vlak uhnul na stranu, hradská i voz jeddným razom zmizly.   Mišovi bolo, ako by mu srdce na poly roztrhol. Bol by sa nedbal   vyšinúť oblokom a padnúť pod kolá... »Čože plačeš ?!« zvolal ktosi   jemu za chrbtom. Pritom čiasi ruka zvrtla mu na hlave klobúk. Mišo sa   obrátil srdito, kto je ten posmešník. Teraz by ho hneď zadrhol. Bol   to ten istý, čo mu podal chvojku. Jeho živé oči sa usmievaly na Miša   a bolo v nich čítať i trochu súcitu. »To ti bol otec?« pýtal sa Miša.   »Hej«, odpovedal mu spurné. »Jo — a nie hej! Od tohto času ti bude   všetko jo...« »Nuž jo«, riekol Mišo po prvý raz v živote, a bolo mu   veselšie. . .
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

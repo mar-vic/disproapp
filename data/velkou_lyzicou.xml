@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1886542" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Veľkou lyžicou : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     7932
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Veľkou lyžicou
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1886
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Veľkou lyžicou
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿t P V v „Jaj, aka úroda! Ešte som takej nevidel. Co sme žito   sviezli a toto druhý voz jačmeňa, už sme nad srubom. Záčin už dnes   bude plný a nebude ani vôdor stačiť. Ovos nám príde uložiť do   rezačky, i do cieničky ku ovčiarni. Nech nás len Pán Boh od nešťastia   chráni a zavaruje, lebo teraz pod jeseň je človek najbiednejší. Máš   plné záčiny, a pod chvíľou môže ti všetko zblčať. Ani sa nezobzeráš,   a si na holej dlani. ‘ „No, ani ja nepamätám takéhoto požehnania   Božieho“, prišviedčala Mišovi Ferancovie jeho žena Zuzka, ukladajúc v   záčine jeden snop po druhom, ako jej muž vidlicami s voza   podhadzoval. „Hľa — včera zas horelo v Búranoch. Bože môj, budeže zas   žobrače, ani sa neobhrnieš pred v lí nou. „Starý, bud rád, že máš z   čoho. Vieš: lepšie dávať, že pýtať. Blahoslavený človek, čo sa nemusí   tej palice chytiť.“ „Ved je pravda; ja tiež nerád zatváram ruku pred   chudobou. Ale či sú hodni dobrého slova, čo sa sami podpáľa? Takého   už nehodno len palicou, alebo týmito vidlicami... Hôže, hô! Nuž ale   kdeže si, Cyril? Čo ich nedržíš za retiazku?“ Zdola ozval sa ešte   skoro detský hlas: „Hô, sivoň; hejk hore, turoň! “ a bolo počuť, ako   bičisko dopaduje na pysky volom a ako voly ometajú hlavami.   „Nebiže ich bičiskom, ktože to kedy slýcbal? Raz sa ti zduria a i s   vozom ujdú do sadu: potom rob s nimi, čo chceš. Bitkou statok   nenakriatneš,
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    ba bude ti ešte horší. A čo by si ty povedal, keby ti po prstoch   poklepali paličkou, že mrzko píšeš? Potom bys’ krajšie písal?“ „Ale   keď ma nechcú slúchať! A tento podsebný ma vždy oňucháva a ofukuje.“   „Nie divota, Cyril; vieš, že ťa nezná. Hej, voly nerady vidia   belasníkov. Tejto zimy, keď kupci prišli do nás, tiež ten podsebný   mal ich večne pobiť, lebo boli v beláskach. Hja, i hovädo vie, že   najviac mäsiarov býva v beláskach.“ „Ale ja som nie mäsiar, ja im   neublížim. Aha, zas ňuchá. ‘ „Veď ťa on nezje; len mu daj pokoj.“ A   Mišo ponáhľal sa s prácou, aby Cyrila vysvobodil z nemilej a jemu   neprístojnej práce. Voz pod chvíľou bol prázdny, drabiny a švorce   pooberali zo stebiel a klasov, ktoré sa na ne pozachytávaly, a voz sa   v sade obrátil. Cyril stál stranou a díval sa zvedavo na rodičov, čo   robia. Všetko mu bolo také nové, ako by len teraz boí videl narábať s   volmi a vozom. A ono len pred troma rokmi poháňal ešte otcovi, keď ho   boli vypýtali zo školy. Pravda, od tých čias zmenilo sa veľmi mnoho.   Vtedy bol len dedinským žiakom, a dnes je — nuž je študentom. Hja,   veru — a to už študentom tretej latinskej! Ono tretej ešte neskončil,   len po prázdninách — ak mu dá Boh zdravia a života — príde do nej,   Ale už má i teraz právo menovať sa treťotriednikom, a on toho práva   užil hneď po zkúškag.h, keď, píšuc domov, podpísal sa: Cyril Feranc,   žiak III. gymnaziálnej triedy. Nuž odpusťme mu to. Všetko sa driape   dohora a pritom málokto hľadí na urobenú už cestu, ale radšej na tú,   čo je bezprostredne pred ním. Mišo Ferancovie zarubnul veru do   hrubého stromu, keď si dal syna do škôl. Nuž nebola to jeho vôľa; ani   sám nevie, ako na to prišiel. Po-
+   </tei:p>
+   <tei:p>
+    ﻿27
+   </tei:p>
+   <tei:p>
+    máry ho ta vohnaly, a on bežal, ako zajac — na ranu. Už samo   narodenie chlapcovo bolo tak trochu čudné: chlapček sa v čepčeku   narodil. Hej, málo tých, čo by hneď prírodou boli tak vyznačení. Nie   div, že i celé Záhorie rozvinilo sa rečami o tejto veci. Staré ženy   prorokovaly ako na isto, že ten chlapec, nech sa dá na čokoľvek, vždy   bude šťastný. Ktorého rodiča srdce by nezaplesalo, keď počuje nad   osudom svojho dieťaťa taký výrok? Kto opíše radosť Zuzkinu ? Ona   videla svojho syna v sláve, v zlate, v bohatstve, vysoko — vysoko.   Ach, že nemôže za ním, že jej tak uniká z materinského náručia! Je   šťastná, ale jej láska zostáva neukojenou, že len z diaľky môže sa   dívať na vlastné dieťa. Toto radostné rozochvenie pripravilo rodičov   temer o všetku rozvahu, aká zvlášte v tomto stave sa vyžaduje. Tu je   čas porobiť už prvé kroky za blaho dieťaťa. Každá zameškaná   maličkosť, najmenší ómyl mávajú veľké následky, lebo nahradiť sa   nedajú. Otec bol ako bez rozumu. Svoje dieťa by bol ľahko večne   nešťastným urobil: bol by vám ho.zabudol vyložiť na prípecok! Ale na   šťastie tu bola obecná baba, ktorá v takýchto veciach nedala sa ani   čepčekom miasť; tá hneď naskočila naň : „No, a chlapca si nevyložíš   na prípecok?“ „A načo?“
+   </tei:p>
+   <tei:p>
+    „To je už len reč! Poznať, že nevieš ešte nič. Ak chceš z chlapca   mať skrčenca, dobre; ale ak chceš, ab} ti narástol, ukáž mu,   koľký má byť. Za to, že sa ti v čepčeku narodil, nemusí ešte byť   obrom.
+   </tei:p>
+   <tei:p>
+    Mišo poslúchol babu,. a tak nedávajme mu viny, ak by jeho syn   nenarástol. On úž urobil všetko, čo mohol. Ba vyniesol ho ešte i do   stajne, aby ho i statok videl. Ten tiež patrí k domu; nech tedy vie,   že už jest mladý gazda. I bolo by sa všetko v bázni Božej dobre   skončilo,
+   </tei:p>
+   <tei:p>
+    ﻿28
+   </tei:p>
+   <tei:p>
+    keby si bola baba neublížila. Ale ako šla pod cieňu po triesky, že   šiestonedieľke niečoho uvarí, stúpila na sekeru, čo bola o klát   opretá. Nohu jej krv zaliala, a neborká baba nemohla ani pokročiť.   Krv jej pavučinou a práchnom horko-ťažko zastavili a odniesli milú   stvoru domov. Nuž ako stádo bez pastiera blúdi, tak i u Ferancov   všetko išlo naopak. V dome, okrem chorej, inej ženy nebolo. Miško   voľky-nevoľky chytil sa varešky a vymýšľal cele nové jedlá. Ale keď   je gazda v kuchyni, kto bude vo dvore? Radil sa so ženou, čo by tu   bolo robiť: bez pomocnice nezajdú sa ani deň. Usniesli sa na tom, že   poradia sa baby, čo by bolo robiť.
+   </tei:p>
+   <tei:p>
+    Baba si netrúfala, že by jej do krštenia noha k sebe prišla. Po   veľkom duševnom boji poradila Mišovi, aby zavolal starú Katrenu, že   tá vyzná sa trochu v babských veciach. Hovorila to s takým pocitom,   ako keď chorý berie jed: veď musela postúpiť pole svojej sokyni,   ktorá jej chlieb odobrať chcela. No čo robiť, keď inej pomoci   niet?
+   </tei:p>
+   <tei:p>
+    Tak, hľa, Katrena vtiahla do Ferancov a istou rukou chopila sa   vlády v izbe i kuchyni. Krátkym časom všetko sa vrátilo v riadne   koľaje. Ba šiestonedieľka a jej muž veľmi si pochvaľovali, aká je s   ňou veľká polahoda. Ona rozumela sa nielen do babstva, ale i   do;pečenia kúskov a iného pečiva, čo pri krštení nesmie chýbať. Tak   čím väčšmi blížilo sa krštenie, tým väčšmi stúpala starosť o kuchyňu   a ustupovala o šiestonedieľku a dieťa: Katrena točila sa viac vôkol   koryta, než vôkol šiestonedieľky. A to bola veľká chyba, stará baba   jej to tiež mala za zlé. No to už bolo potom neskoro !
+   </tei:p>
+   <tei:p>
+    Krstenie už tu, nuž všetko je hotové! Vatra na ohnisku obložená je   veľkými hrnci, ako by sa malo zvárať. Duchovní kmotrovci už v izbe,   oba
+   </tei:p>
+   <tei:p>
+    ﻿29
+   </tei:p>
+   <tei:p>
+    mladí manželia, ktorí ešte nikdy ku krstu neniesli. A Katrena ešte   i teraz kutí sa kdesi v kuchyni. Hja, nie blázon na toľké hrnce   dozerať! Konečne zamenili ju kuchárkou inou a /vypravili i s   kmotrovci k svätému krstu. To stalo sa tak naponáhle, že Katrena ani   poriadne obliecť sa nestačila, ešte cestou si musela naprávať šatku   na hlave. Prišli pekne do chrámu Božieho; čas uhádli navlas, lebo   ľudia práve odchodili preč. Obrad začal sa i postupoval pekne. Iba   príde rad na otázku: „Aké meno žiadate dať dieťatku?“ Tu zostali   všetci ako by im nohy podrazil. Kmotrovci pozerali na babu, Katrena   zas mihala na nich. Ale takto to nemohlo zostať, otázka sa opakovala;   no odpovedi nič. Konečne sa osmelí Katrena a povie, že ona veru   nevie. Nazdala sa, že ju pošlú chytro do Ferancov, opýtať sa, a že ju   dočkajú s odpoveďou. Ale pán farár nedal sa mýliť. Dal chlapčekovi   meno sám, a to Cyril. Práve vtedy bol jubilejný rok pokresťanenia   Slovanov. Keď pán farár riekol: „Krstím ťa, Cyril, vo meno Boha Otca,   Syna i Ducha svätého“, Katrene podlamovaly sa nohy a mdloba jej išla   na srdce. Akoby i nie, nad takýmto novým, nikdy neslýchaným menom. A   odporovať je už márno, chlapec je pod tým menom už i do matriky   vnesený. „No, veď sme my vykázali“, bedákala baba. „Co niim len   povedia u tých Ferancov.“ Kmotor si to tak hlboko nepripúšťal k   srdcu: „Ja som tomu nie vina. To je povinnosť babina, aby sa opýtala,   aké chcú dieťaťu dať meno. Čo ste to len smysleli,   stvorička!“
+   </tei:p>
+   <tei:p>
+    Katrena bola cele zničená. Chrbát zhrbil sa jej pod ťarchou   previnenia, ktorého celú hĺbku ponímala citom opravdovým. „Čo som len   smyslela, čo som! smyslela! Boh ma ranil slepotou a hluchotou, keď   som odcho-
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    dila. Bola som v kuchyni, dozerala som tam verne a svedomité; ani   obliecť som sa nestačila. Ach, keby kmotrovia boli bývali zkúsenejší,   boli by sa oni opýtali. Ale takto — jedno k druhému.“  „Kto by sa   bol nazdal, že vy na to zabudnete. To mi ani do päty nevošlo. No už   sa stalo, darmo si budete želieť.“
+   </tei:p>
+   <tei:p>
+    Ale s takouto chudou potechou nemohla sa uspokojiť. Jej tu išlo   nielen o hnev Ferancovcov, ale i dobré meno. Ked ju ta volali, len   preto išla, aby ukázala, že ona vie ešte viac, než stará baba. A   dosial darilo sa jej všetko, ako dobrému kalendáru; pochvaľovali ju   ako zkúsenú osobu: a teraz, keď už má vec dokončiť, terajšiu babu   shodiť — pridá sa jej takáto mýlka. Slzy jej vyhrkly z očú,   pomysliac, ako stará baba bude sa radovať a ľudia smiať.
+   </tei:p>
+   <tei:p>
+    U Ferancov čakali návrat svojich hostí netrpelive, lebo    chvíľkou im zišlo na um, aká chyba sa stala. Trnuli starosťou, čo sa   to tam robí. Či ich pán farár nevráti vyzvedieť meno dieťaťa. Alebo   či ich nevyhreší, že na takú hlavnú vec nemilobohu zabudli. Najmä   Miša to mrzelo.
+   </tei:p>
+   <tei:p>
+    „Ani som nepil, ani nič — a takto zabudnúť.“
+   </tei:p>
+   <tei:p>
+    „Ba mne že nezišlo na um, keď som im oddávala dieťa. Ale tu ležím,   ako kus dreva! * / „To bola moja starosť; ja len neviem, ako, sa to   mohlo pridať. Len vo fare čo si budú myslieť o nás! A keby sme sa   neboli ešte včera o tom radili. Ale radíme sa pekne-rúče, a oba   zabudneme.“
+   </tei:p>
+   <tei:p>
+    „Možno, Katrena počula, že ho dáme krstiť po starom otcovi Janom.   Var’ sa len dovtípi.“ „Horký jej dovtípil! Ani jej vtedy v izbe   nebolo. Vidí sa mi, že sádzala do pece.“
+   </tei:p>
+   <tei:p>
+    „No, nech sa stane vôľa Božia! Darmo je, ešte tohto v našom dome   nebolo; každý môže nám uznať, že po prvý raz sa to ľahko   prihodí.“
+   </tei:p>
+   <tei:p>
+    ﻿31
+   </tei:p>
+   <tei:p>
+    Ako vstúpili s dieťaťom do izby, rodičia jednými ústy pýtali sa   ich: „Je pokrstené?“ „A akože? Prečo by nemalo byť pokrstené? Či pre   to meno?“ „O, veď som ja len sprostá, keď som sa vás tak neopýtala“,   začala zas svoju nôtu baba. . „Ba my — my, že sme vám nepovedali.   Ozaj, akým menom ho krstili?“ Všetci traja zas len pozerali jeden na   druhého, sťa vtedy pred tou krstiteľnicou. Kmotor si trel čelo z   celej sily •— no darmo. Kmotra si ani netrúfala hlavy lámať nad tým;   vedela, že by toho nikdy neuhádla. Konečne zahanbený kmotor vyznal za   všetkých: „No, my veru nevieme. Čo nám hneď poodtínate hlavy —   nerozpamätáme sa naň. Miško sa zadivil nad tým. Trochu s nevoľou nad   týmto novým pádom, i vyznal to: „A akože by to bolo? Veď ste tam   boli.“ „Veď boli, veď boli! Ale to meno vám je také, že hneď vyjde z   pamäti. Nikdy som ho ešte nepočul.“ „Ani vy, Katrena, nepamätáte sa   naň?“ „Ja? Ja som ho od laku ani dobre nepočula: nie to že by som si   ho bola i zachovala. „A zišlo by vám na um, keby vám ho niekto   napomenul?“ „Možno, že by po biede len zišlo — ale kto vám ho tu   napomenie!“ „A nie je Jano?“ „Nie. Póvedám, že je to nie sedliacke   meno. Ani u pánov som ho ešte nepočul.“ „Adol?“ „Adol — tak každého   Žida volajú. „Viete, čo“, povie Miško, „v kalendári sú vraj všetky   mená, hľadajmeže ho tam.“ /
+   </tei:p>
+   <tei:p>
+    ﻿32
+   </tei:p>
+   <tei:p>
+    „A veru je pravda“, zaradoval sa kmotor. „Máte kalendár?“ Chytili   kalendár a slabikovali v ňom radradom tie neznáme mená. Nad každým   skoro strhla sa hádka, či je nie to hľadané. Konečne zunovalo sa im i   to. Kmotre nadišla veľmi dobrá myšlienka. „Viete, čo ■— choďte do   fary a opýtajte sa. To bude ešte najlepšie, a tam vám vďačne povedia.   Konečne naviedli na to Miška, lebo nik nechcel sa podobrať na to. Pán   farár mu meno povedal, ale on netrúfal si, že by ho nezabudol. Dal si   ho napísať na papierik. „Hm, Cyril — Cyril. Ja som o takom mene ani   nechyroval.“ „No, a to je, vidíte, veľmi pekné meno. Tak sa volal   jeden z apoštolov, čo obrátili našich predkov na vieru kresťanskú.“   „No? Tak je to už iné, to je iné.“ A Miško celkom spokojný vrátil sa   domov. „No — akéže je?“ spytovali sa ho jedným dúškom. „Cy-ril!“ „Aha   — Cy—ril! Teraz mi, vidíte, už huplo do hlavy. Divné meno! Komu by i   zišlo na um! Len ako ho mohli ten pán farár tak chytro vyírtyslieť.   Pane Bože, Cyril! Počul to kedy ktorý človek?“ A všetci sdieľali   podivenie kmotrino. Siestenedieľka nebola by mala proti nemu nič; len   to nevidelo sa jej, že je také nové, neslýchané. Ona sa nechce od   iných ľudí deliť, a preto bola by radšej, keby jej chlapca boli   obyčajným menom krstili. Vzala nemluvňa na ruky a vykladala nad ním:   „Nebožiatko — veď sme ti dali dar do vena! Ach, to sa ešte nepridalo   živej duši na svete. Ne-
+   </tei:p>
+   <tei:p>
+    ﻿33
+   </tei:p>
+   <tei:p>
+    budeš mať v dedine nikdjr poctivosti. Ach, že som   zabudla!
+   </tei:p>
+   <tei:p>
+    „Zuza, majže trochu rozumu!“ káral ju muž. „Nešťastie nechodí po   horách, ale po ľuďoch. My sme tomu veru nie vina. Zabudli sme, ako   zabití — nuž zabudli sme. Leťže čelom do steny! A už veru ja myslím,   ze meno ako meno: to ešte nezabilo nikoho. Nech len bude hodným   človekom, vždy mu bude dobre na svete. Čo len pre meno — pre to môže   mať vždy poctivosť. „Horký bude! I tie deti na ceste ho budú   prezývať. I v tej škole sa ich musí strániť, ako zbojník. Každý sa mu   doň zadrapí. A keď narastie — no potom ešte len bude! Ako sa mu budú   smiať pri prvej ohláške. Nebožiatko — zhynie mi tam od hanby a   potupy.“ „Hej, do tých čias koľko ešte vody ujde! Ešte sme len v   plienkach. Ono je to meno divné, pravdu poviem, nikdy som ho nepočul.   No ale zas smiať — to sa nik nemusí na ňom. A ani sa nebude, nie   veru! Do tých čias ešte — Bože môj — ľudia privyknú naň, ako nič.   Keby to bola nejaká prezývka, veru by mu ho pán farár neboli dali;   ale že mu ho dali, už musí byť pekné. No — a Cyril, veď to nebol tiež   potáraný človek: to bol apoštol, našich predkov obrátil na vieru   kresťanskú.“ Šiestonedieľka odhrnula plachtu, ktorá bola pred   posteľou spustená, a hľadela na muža. Len kde to nabral toľko tej   múdrosti, veď o tom jej dosiaľ nikdy nerozprával. A ako krásne to vie   všetko povedať — hneď jej je ľahšie na srdci, tak ju potešil. Tak   konečne uspokojili sa všetci a krstenie skončilo sa vo mene Božom   dobre. No príhoda táto i v dedine vzbudila obdiv a hnev. Ľudia to   pokladali práve za taký zázrak,
+   </tei:p>
+   <tei:p>
+    Martin Kukučín : Sobrané Spisy VII.
+   </tei:p>
+   <tei:p>
+    3
+   </tei:p>
+   <tei:p>
+    ﻿34
+   </tei:p>
+   <tei:p>
+    ako .zatmenie slnka. Veď i. ako by nie! Už jest dosť všelijakých   mien, ale takéhoto ešte nepočuli. Na druhý deň, keď šly na lúky, ženy   o inšom ani nehovorily.
+   </tei:p>
+   <tei:p>
+    „Háj — Bože môj — zdupnela som, keď mi povedali, aké meno dostalo   tô dieťa.1
+   </tei:p>
+   <tei:p>
+    „Nuž človek paromaže nezdupnie! Koľko ľudí sa už v našom kostole   krstilo, ale ešte ani jednému nedali takéhoto mena. Všetkým boly   starootcovské mená pekné, len týmto v tom kaštieli nie. Chcú sa už   povyšovať nad nami, ale ono môže sa to i zvrtnúť — ó, môže! “
+   </tei:p>
+   <tei:p>
+    „Ba, ženy — ja povedáni, že sa čosi stane! Lala, keď tá hviezda   bola sa tiež ukázala s tou dlhou metlou: nebola vám hneď vojna? Už   čosi bude. “
+   </tei:p>
+   <tei:p>
+    „Oj, už veru vojny pre Ferancovie chlapca nebude; mala by to byť i   prečo. To veru len tak vojna!“
+   </tei:p>
+   <tei:p>
+    „No-, ale sa čosi v našej dedine stane, lebo u rychtára tiež   sliepka zakikiríkala. Hej — a keď vám raz sliepka zakikiríka —   pamätajte, dedina neobíde na sucho. Lala, i za lanským zakikiríkala   nám sliepka — pravda, iba raz, lebo ju môj muž hneď zabil — a zápät   za tým neskydol sa celý most do potoka ?. Len títo nehanblivci — ba   veru mi je taká protiveň na nich, čo nikdy — keď si tak dieťa zohavia   na posmech svetu.“
+   </tei:p>
+   <tei:p>
+    „Ale veď si ho nezohavili — len mu zabudli dať meno. A keď ho tak   pán farár pokrstili, či ho oni majú odkrstiť?“
+   </tei:p>
+   <tei:p>
+    „Ej. nech si to verí, kto chce, ale ja nie. Ten chýrny gazda   prehrebá sa vždy v tých knihách. Ja večne neviem, čo má toľko v   nich...“ „Veru svätá pravda. Ten je nie súci za gazdu, len za akéhosi   hvezdára.,. Večne v tých knihách sa prehrebá.“
+   </tei:p>
+   <tei:p>
+    ﻿35
+   </tei:p>
+   <tei:p>
+    „Veď nech sa tam prehrebá, ale dedinu nech neuvaľuje do takého   posmechu.“
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Miško popočúval všetko, čo o ňom hovorili ľudia, a bolo mu veľmi   ľúto, že prišiel bež všetkej príčiny do rečí. On nikdy neohlásil sa v   obci, len aby ľudí neupozorňoval na seba. Radšej zniesol krivdu, ako   by sa bol šiel žalovať. S jedným, dvoma ľuďmi vedel veľmi múdre   hovoriť, ale už s.- troma — to sa okúňal. A jednako nemohol mať od   ľudí pokoja, ba mal viac nepriateľov v dedine, než hocijaký krikľúň.   Každý, kto nemohol k inému pristúpiť, to sa na Miškovi previezol. On   nikdy neublížil ani muške, a doňho sa každý zadrapil, ako do hrachu   pri ceste. Chlapi ho vysmievali, že je vždy doma, že drží pec, aby mu   neutiekla; ženy zas len pre toto chválily a závidely ho Zuzke. Hja,   chudinky, tešily sa tým, že dobrá žena nikdy nedostane dobrého muža,   len korheľa; iba taký tík, ako Zuzka,  má dobrého muža, čo vždy   doma sedí.
+   </tei:p>
+   <tei:p>
+    A ono Miško nestrážil domu, ale hrdloval a robil verne a   svedomité. Ale ho i Pán Boh požehnával. Mal len osemnástku, čo mu po   otcovi zostala, ale pri choval vše viac na nej statku, než hociktorý   osminár. Ale ani jeden osminár nenasvážal toľko zbožia, ako on. To mu   vidno i v sypárni, ktorá ani v prednoví sa nevyprázdnieva. Je v nej i   starého zbožia dosť; pšenica vraj pamätá i to, keď zvon na vežu   ťahali. No i v priečme len jest čosi v tej tulipánovej truhle, čo   Zuzka ešte so sebou doviezla. Tam je krčiažok, do ktorého so dňa na   deň pribýva. Zuzka sa kochá, keď pozre po nedeliach doň. No ale pod   ním jest ešte viac. Tam je katechizmus, z ktorého ešte Miškov otec sa   učicval, s primitívnymi obrázky a obšu-
+   </tei:p>
+   <tei:p>
+    3*
+   </tei:p>
+   <tei:p>
+    ﻿36
+   </tei:p>
+   <tei:p>
+    chanými pargamienami. Hej, sú v ňom i krajšie obrázky! Na nich by   sa i bezbožník pokochal. Bol by hoden ten katechizmus otcu-materi   dvesto zlatých. Veď skoro zpoza každej karty vyvalí sa zlatka a zpoza   mnohých i piatka. Čidali, že by sa hocikto z takého katechizmu vďačne   učil.
+   </tei:p>
+   <tei:p>
+    A načo sú im tie peniaze? Hej, nájde sa im ono miesto. Ešte treba,   aby sa im tie zlatky popremieňaly v piatky, a potom — bude, čo má   byť. Kúpi sa široký intravilán pri hradskej a na ňom vystaví sa hodný   dom so závristým dvorom. Nuž na to budú tie peniažky. Čo prichová sa   jalovica, tá sa nechá, a stará krava predá; peniaze za ňu pôjdu do   katechizmu. Pred jarou vyprázdnia škrine, čo sa utŕži za zbožie, i to   pôjde ta. O dva, o tri roky, ak Pán Boh požehná — katechizmus bude   dosť tučný, a svet otvorí ústa, čo to ten ťuťmák Ferancovie   stvára.
+   </tei:p>
+   <tei:p>
+    Dva-tri roky prešly, a Miško zanechal starootcovský dom a   presťahoval sa do nového, ktorý si on sám vystavil. Keď teraz pozre   na ten starý domec, ako tam na strmom vŕšku smutno stojí, zasmeje sa   mu duša. Hej, a keď vidí tú strmú cestu, ktorou do starého dvora   chodieval, a keď si predstaví, ako sa mu volky pod jarmom krčievaly,   idúc hore vŕškom do dvora, pýchou vypnú sa mu prsia. Teraz sa veru   nemusia krčiť pod jarmom, keď je dvor ako dlaň rovný. Koľko posmechu   už jeho starý otec musel zniesť, keď so zbožným vozom až k mostu   ťahal, aby sa tam na širšom mieste obrátil, a vrátil sa hore úzkou   cestičkou do dvora. Cesta, ktorá do starého dvora viedla, tvorila s   uličnou taký ostrý uhol, že len s-jednej strany sa mohlo na ňu vyjsť.   Preto, keď voz išiel s nižného konca dediny, musel vždy zachodiť k   mostu, tam sa skrútiť a vrátiť sa nazad.
+   </tei:p>
+   <tei:p>
+    Skoro zakaždým, keď k mostu tiahol, ľudia
+   </tei:p>
+   <tei:p>
+    ﻿37
+   </tei:p>
+   <tei:p>
+    zo žartu opytovali sa ho: „Var’ Židovi vezieš to zbožie? Hľaďteže   ho, hľaďte! Prejde popred vlastný dom, a ani sa len neobzre, len   kdesi ťahá.“ Miško sa im vše len zasmial a, akoby zo závisti,   pohodil: „Dobre sa vám smiať, keď máte dvor ako dlaň.“ Ale sám sebe   vždy doložil: „No. nebudete sa dlho smiať. Kto sa bude smiať   naostatok, ten sa bude najlepšie smiať.“ ■
+   </tei:p>
+   <tei:p>
+    A ľudia si povrávali: „Chudák, dobrý chlap je ten Mišo, len keby   ten dvor mal inakší. Veru by sa mu zišlo druhý nadobudnúť. Ale tu   zkade: to je tá vec!“
+   </tei:p>
+   <tei:p>
+    Miško — on sa naostatok smial. Jeho súsedi pokrúcajú hlavami,   nijako neprace sa im do nich, ako ten bedár prišiel k novému domu.   Ktorí ho predtým tak ľutovali, dnes už závistive hľadia naň. Nepáči   sa im, že tak krátkym časom vyrástol im ponad hlavu. Hja, tak to býva   na svete: nemaj ničoho, vysmejú ťa; maj sa k niečomu, závidia ti.   Cyril sa narodil už v novom dome.
+   </tei:p>
+   <tei:p>
+    III.
+   </tei:p>
+   <tei:p>
+    Na chlapcovi hneď od malička bolo znať, že nie darmo má také   divotvorné meno. Otec nemohol sa prcnadívať, kde sa v ňom toľká   múdrosť berie. Có povedalo, mohlo sa hneď za ním spisovať. Miško bol   by sa veru dal na to, ale chudák nevedel písať tak chytro, ako   chlapec hovoril. I ostatní ľudia krútili hlavami, keď počúvali od   neho len samé múdre reči.
+   </tei:p>
+   <tei:p>
+    „Pamätajte, ten chlapec nedožije svojho desiateho roku.
+   </tei:p>
+   <tei:p>
+    „Ach, a prečo by nedožil? Veď nepoznať na ňom biedy. “ „Hej — čo   moc, to moc. Každý vám povie, že ten chlapec na svoj vek má mnoho   rozumu.
+   </tei:p>
+   <tei:p>
+    ﻿38
+   </tei:p>
+   <tei:p>
+    Také deti nechovajú sa rady. Zprvu vyhúknu, ako priesada, a zrazu   ani človek nevie, len keď opadúvajú — navidomoči. Môj brat bol práve   takýto mudrák: a neumrel vám?“ „Ja — čože by ste to povedali — • toho   kôň pokopal —- nuž tak!
+   </tei:p>
+   <tei:p>
+    „No, uvidíte, či vy svojho chlapca budete kedy ženiť. Pravda,   budete, ale bez muziky. Ja za jeho život ani dreveného groša   nedám.1
+   </tei:p>
+   <tei:p>
+    Keď Ferancovcom takto nahnali strachu, čo mali s chlapcom ŕôbiť?   Zachodili s ním, ako s rozpuknutým krčiažkom. Prísneho slova mu   nedali. Božechráň ho okríknuť, alebo rnrzkú tvár mu ukázať! Mysleli   si, že v kolíske majú kus zlata, a preto pilne ho kolísali a   kolísali, hoci nohy niže kolien mu už z kolísky visely, čo tak   podrástol. Pri kolísaní mu ešte i spievali, ako v prvom roku, len aby   lepšie spal.
+   </tei:p>
+   <tei:p>
+    Rozmaznaný Cyril vyrástol do kabane. Už v kabani začal napredovať   vo všetkých známostiach — na podiv. On najlepšie vedel, pod ktorou   strechou hniezda vrabce, na ktorej vŕbe sú straky, v ktorom sade sú   najlepšie hrušky a jablká, kedy dozrievajú a ako ostrvu nadložiť, aby   sa k nim dostal. Ale vedel i iné veci. Poznal všetlcj7 litery; otec   ho tomu naučil, ba i predpísal mu čo ľahšie uhlíkom na kozub, a on do   tých čias majstroval, kým len neuhádol. Otec sá udrel do čela.
+   </tei:p>
+   <tei:p>
+    „Hm, čo je pravda, to je pravda, ale z tohto chlapca, ak narastie,   bude čosi. Má dobrú hlavu a tenkú kožu na čele — ten sa bude dobre   učiť.“
+   </tei:p>
+   <tei:p>
+    A už teraz zrodila sa velká myšlienka v jeho hlave. Vo dne, v noci   mu nedala pokoja; všetko len vôkol nej sa krútilo. Všetko, čo robil,   lén k tej myšlienke, k jej vyplneniu smerovalo. Starej dost dlho   tajil sa — ale nadišla ho slabšia chvíľa, i vyložil jej všetko ako na   dlaň. Otvoril jej svoje
+   </tei:p>
+   <tei:p>
+    ﻿39
+   </tei:p>
+   <tei:p>
+    srdce do korán, dal jej pozrieť i do najtajnejšieho záhybu jeho,   kde myšlienka tá ukrývala sa. Žena zľakla sa jej. Ona videla ju v   nedohliadnej diaľke, jej duševná sila nemohla ju obsiahnuť: začala   pochybovať o tom, že by mužov sen mohol sa splniť. No zas ju to   lákalo a čosi dodávalo sily jej kleslému duchu, aby verila. „Ach,   starý, len mi povedz, ako ti to mohlo zísť na um. Ako to urobíš?   Dovolia nám to páni?... Počuješ, s tým nehodno popečkovať — to je nie   žart. “ „Haha! či nám vraj páni dovolia! A čo pánov do toho? To dieťa   je moje: ja z neho môžem vychovať, čo len chcem. „Ono sa to   ľahko povie, ale ako urobiť: to je prvá vec. Nečítal, si o   Jánošíkovi, ako mu páni dali zošibať otca, že ho dal do škôl ? Hej,   svet je zlý; oni sa tiež strežú, aby nik nemiešal sa im do remesla.“   „Oj, kedyže to bolo! Jánošík — kedyže ten žil — Bože môj! Skala je.   skala — a tá sa už od tých čias rozmrvila, čo Jánošík zakopal do nej   svoj poklad. Nuž tak: nebolo to včera, ani zavčerom, bolo to kedysi!   „Ach, moje dieťa... ísť do škôl... byť pánom ... oh , v. „A čo by   nešlo? Vať nemá z čoho? Cidali mu bude lepšie, že jeho otcovi.   Pravda, ani ja by som za deravý šesták nevystúpil zo svojho domu. Keď   príde do človečenstva, bude mu dobre a pri ňom — možno, i nám. „Hoj,   kedyže to bude; ja som stará, už sa toho nedožijem.“ „Veru Pán Boh   vie — ale môžme sa ešte dožiť radosti po ňom. „Ty, Mišo, povedz mi, s   čím ho budeš ta vyprávať? Vieš — s prázdnou rukou ho len ne-
+   </tei:p>
+   <tei:p>
+    ﻿40
+   </tei:p>
+   <tei:p>
+    môžeš posielať. Tu šatstvo, tu škola, tu bývanie a Pán Boh vie, čo   ešte. To i zaperenéhó gazdu hodí o zem, keď je to s roka na rok. My   sme vytrovení do krajciara; vieš, že málo chýbä.lo, že sme sa pri tom   dome nezadlžili.“ „No, len sa neboj. Každý rok sa prichová niečo: tu   kravička, tu teliatko; predá sa i zo zbožia, veď nám je už teraz   ľahšie, že vtedy, kým sme mali len osemnástku. Za humnom ešte vykopem   tretiu jamu na švábku. čo bude na predaj. Tak budeme zas do krčiažka   a katechizmu ukladať, a uvidíš, že sa ti to zpáči. Od tých čias   nehovorili viac o tom, no každý sám v sebe varil plán, ako uskutočnia   ten ružový sen. Miško zas hrdloval, sháňal; Zuzka, kde len mohla,   utrhla si od úst: skývražila ako najhoršia skupaňa. A krčiažok je už   v priečinku, po chvíli pôjde ta i starý katechizmus. Chlapec prišiel   do školy a začal vývodiť nad ostatnými. Otec ho naučil Slabikovať a   niečo písať; mať zas všetky modlitby a načítať až do sto. S takýmito   počiatky ľahko mu bolo všetkých vrstovníkov poshadzovať a zasadnúť na   prvé miesto. Rodičom sa šírily prsia, veď ich sen ide sa vyplniť.   Miška najväčšmi mrzelo to, že ho syn už prevýšil, že ho už nemôže   učiť. No vžil sa pomaly i do toho, ba nehanbil sa od neho učiť   rátaniu. Hm — veď sa mu to zíde. Ako ľahko si poráta, koľko mu príde   za švábku; koľko by sa natrápil s prsty, hoci ich má desať. V Záhorí   ani netušili, na čom si Miško láme hlavu. Ako by im to i bolo prišlo   na um: aby niekto, co má len jedno dieťa, i to poslal preč, a to ani   nie na remeslo, ale kdesi do škôl. Iba po konfirmácii začali si   pretierať oči, keď Miško viedol chlapca do fary a tam robil čosi —   ale dlho. Od tých čias Cyril chodil deň po deň do fary.
+   </tei:p>
+   <tei:p>
+    ﻿41
+   </tei:p>
+   <tei:p>
+    Tam vo dvore, pod strieškou na lavičke, ho pán farár učili. To už   pár ľudí videlo cez parkan. Len čo sa učí ešte taký mudrc. Slávny   úrad pokrúca hlavou, že z toho nevykyitne nič v dobrého. Ten papluh   na sedliaka už vie primoc. Čo bude potom, keď sa ešte viac naučí!   Taká potvora prevráti celú dedinu čím hore, tým dolu. Rodičia každý   deň očakávali syna túžobne, a keď prišiel domov, prezerali knihu,   ktorú priniesol: ale málo vyrozumeli z nej. Veď i akoby! Ani litery   sú nie ako litery: že by boly hrubé a pekne končité, ako v starom   šlabikári a katechizme, ale sú akési okrúhle. Chlapec, pravda, z nej   číta, ale veľmi málo mu rozumejú. Pochytili len to, že si opakuje   vždy, že pluval: ale ani to nevyrečie, ako svedčí, iba akosi   brbotľavo. Potom vraví často,, že „dá ti , ale nepovie, ani kto, ani   komu. a potom povedá, že „menšia a „menšie — a len toto vždy   mele. Otca to už domrzelo; on nerád mal, keď niečo dôkladne nevedel,   i povie synovi: „Ale, chlapče, veď sa poriadnejšie uč, aby človek   rozumel aspoň, v /v « co vravíš. „A vy viete latinsky? Lebo to je po   latinsky, a to každý nevie.“ „A už vieš po latinsky? „No — pravdaže.“   „Nože povedz niečo.“ „Mensa... To je stôl.“ „Stôl? Ach, Pane Bože...   Nuž to je po latinsky... A ako sa volá chlieb po latinsky?“ „To ja   neviem. „A haliena?“ „Ani to.“ „A klobúk?“ „Ani to.“ „Hm, hm — ja, že   už všetko vieš.“
+   </tei:p>
+   <tei:p>
+    ﻿42
+   </tei:p>
+   <tei:p>
+    Cyril nestačil dlho chodiť na učenie. Prišla jeseň; hrušky začaly   za ich humnom dozrievať, keď mu naložili všetky veci na voz a   vypravili ho ta ďaleko do škôl. Otec sám, ako sa patrilo, šiel s ním,   aby syn ľahšie privykal. No nespoinohol mu tým mnoho: musel ho samého   zanechať v šírom svete.
+   </tei:p>
+   <tei:p>
+    Týmto činom stala sa roztržka medzi ním a celou dedinou. Všetci   ľudia ukazovali naň, že sa panští.
+   </tei:p>
+   <tei:p>
+    „Hej, žobráčisko, ešte mu kapsa popri boku visí, a už sa takto   driape. Joj, to je pýcha, ale tá chodí pred úpadkom.“
+   </tei:p>
+   <tei:p>
+    v „Ach, už mu nebude nič. Žobrák dostal sa do sedla a drží sa   hrivy ukrutne.“
+   </tei:p>
+   <tei:p>
+    „A z koho to nagazdoval? Z nás. Veď to nie blázon: syna vyprávať   do škôl. Čo lep šaty stoja, a k tomu chova a bývanie. Povážte si len   — to nejde po dobrom.
+   </tei:p>
+   <tei:p>
+    „Ale ako by i šlo, keď odoráva! Taký predrenec: na jar vyjde   naostatku do poľa a naodoráva súsedom po brázde, po dve — koľko mu to   hneď učiní! Do kosby ide zas samý prvý, a naodkáša, kde koľko môže,   Ach, ba že takého človeka len trpia!“
+   </tei:p>
+   <tei:p>
+    „Trpia ho — i podkladať sa mu budú — takí blázni! Len nech sa   ukáže niekde kúpa, už letia poň. Pri ňom nedajbože preplatiť niečo,   tak naddáva. A nech zvie, že niekto nechal len jednu brázdu   prielohom, to ponúkne sa hneď, že ju zaseje zpolovice. No, a podaj   čertovi len palec — kým sa zobzeráš, už ťa drží za ruku.“
+   </tei:p>
+   <tei:p>
+    Ale hnev dedinčanov nezostal bez náhrady. Miško zrazu v celom   okolí stal sa váženým človekom : tam závisť už neovládala srdcia,   ľudia jasnejšie videli. Keď stál o trhu na.rynku so zbožím,
+   </tei:p>
+   <tei:p>
+    ﻿43
+   </tei:p>
+   <tei:p>
+    i z iných dedín zastavovali sa Ijudia a šepkali medzi sebou:
+   </tei:p>
+   <tei:p>
+    „Pozrite, ten si dal syna do škôl. Bude mať z neho pána. A že je   akýsi dobrý gazda. „Ono musí byť, lebo každý trh ho tu vídavam.   Ale do škôl — to je predsa moc. Ono ľahko sa to začne, ale ťažko   skončiť. No — do hrubého stromu zaťal sekeru. Školy majú veľké ústa —   mnoho stoja. „Už len musí cítiť, že má dobrú podložku. A bol   chudobný, keď začal gazdovať: všetko si sám nadobýval, od motyky. A   teraz pred jarou vraj predá i po dve japiy švábky. Takému je potom   ľahko.“ Jarmočníci pokrúcali hlavou a odvrávali si: „Čertovský chlap,   čertovský chlap!“ A s veľkým uvážením pohliadali naň. Ale nielen   prespolní gazdovia, i remeselníci z mesta mali sa vôkol neho.
+   </tei:p>
+   <tei:p>
+    „iYkože sa má.te, Miško?“ „Kdeže ste boli?“ „Ale ste zdraví? Ozaj,   ten syn, akože — privyká? Bude z neho ňiečo?“ A tieto prejavy účasti   skoro vždy vrcholily tv ponúknutí niečoho: „Nebudete mu niečo robiť?   Kabát na zimu.“ „Ozaj — písal vám, či mu tie čižmy ešte trvajú? Ale   ako by netrvaly — boly ani z ocele. Hja, ja mám remeň — to je už   remeň!“ Ba i sklepník uponížil sa k nemu: „Miško, toto súkno bolo by   vášmu synovi: je ako koža. Nezoderie ho, kým kus bude trvať z neho.“   A Miško neodolal lákadlám. Nikdy neprišiel na prázdno z mesta. Žena   mu nedohovárala, veď to bolo jej miláčkovi. Ba radovala sa, že jej   bude v školách chodiť pekne, ako zo škatuľky.
+   </tei:p>
+   <tei:p>
+    ﻿44
+   </tei:p>
+   <tei:p>
+    Pred synovým návratom celý týždeň radila sa so ženami, čo sa tomu   rozumely, ako synka cez yakácie chovať. „Veď kaše mu len nenavarím —   no a švábky ani tak. Nebožiatko, už odvyklo od hrubých jedál; zje   lyžičku-dve — a ma dosť.“ „Ja, veru je tak , prisviedčala jej   horárka. „Pirohy s tvarohom — to by bolo dobre“, nadhodila Zuzka. „I   to len raz-dva: to je tiež priťažké. „Halušky s bryndzou, to rád   jedával.“ „No — to tiež len niekedy.“ „Nuž a čo mu variť?* Zuzka si   už nevedela rady — čo lepšie vedela variť, to už spomenula. Jej   kuchárske vedomosti boly už na dne. „Nuž vyprážané kurčatá sú dobré.   „Bože môj — to je veľmi drahé. Ja som ich už popredala, po desať   groši. Iba ak ešte raz podsypem, akurát jedna kvoká.* „Kúpite mu   niekedy i mäsa.“ „Nuž a akože! V nedeľu tri, štyri funtý.“ „Ach, ba,   pol funta mu je cez uši. Budete si pýtať i pečienky na prívažok, a   hodíte mu z nej halušiek pod polievku.“ „A ako to treba? Ta hriešna   stvora ani len to neviem. Keď Cyril prišiel domov, začala ho kŕmiť   jedlami od výmyslu sveta. Veru na Ferancovie stole ich ešte nikdy   nebolo — ani nikde inde. A Cyril? On vkradol sa vše do kuchyne a   najedol sa toho, čo bolo otcovi a čeľadi nachystané. Mať ho raz   dochytila pri tom a zalomila rukami: „Bože môj — chlapče, čo to ješ?   Nešťastné dieťa, ochorieš mi tu. To je sedliacke jedlo.“ Chlapec   rozosmial sa jej pred očima. Otcovi sa to zapáčilo, zastal syna:   „Ale, stará, daj mu
+   </tei:p>
+   <tei:p>
+    ﻿45
+   </tei:p>
+   <tei:p>
+    ty pokoj. Ak to radšej jie — nech sa mu stane po chuti. Veď je zo   sedliackej krvi.“
+   </tei:p>
+   <tei:p>
+    Od tých čias starosti matkine sa zmenšily. Keď on vie i sedliacke   veci jesť, načo by mu varila osebe? Iba aby mu dala predsa nejakú   prednosť, oddelila ho na mištičku a lepšie mu vše zapražila.
+   </tei:p>
+   <tei:p>
+    Teraz už druhé vakácie trávi doma. Stará už prišla do koľaje: vie,   čo mu variť a čo nie. Nepovažuje ho už za akúsi vyššiu bytnosť, ale   za človeka, ktorý, pravda, viac vie, než celá dedina spolu, ale zato   zje i kapustu so švábkou.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    Cyril sa chytil biča, že bude voly poháňať. Ale otec už nerád   vidí, keď pletie sa mu do roboty. On jeho pomoc prijme len vtedy, keď   si ináč nijako nemôže spomôcť. On by bol najradšej, keb) jeho   syn vždy za stolom sedel a čítal. To je jeho robota, a nie bič a   pluh. Cyril by zas cez leto najradšej bol v poli vôkol otca, veď dosť   sa nasedí cez zimu pri knihách. No neopováži sa predniesť túto túžbu   otcovi, lebo by ho bojsa zarmútil. Celý týždeň by bedákal, čo vraj   povie dedina, keď Ferancovie študenta vidí v poli hrabať, alebo snopy   snášať. Preto Cyril najviac doma sedáva •— kým je i otec doma; ale   ako čuje, že otec nohu niekam vytiahol, vybehne i on na cestu a   zamieša sa medzi starých kamarátov, s ktorými sa kedysi hrával, a   nadpriada priateľstvo, na krátky čas školami pretrhnuté. Deti najprv   bočia od neho, no pomaly obznámia sa znovu a Cyril ožije medzi nimi.   Je v svojom živle, medzi seberovnými. Starý zas nemôže toto nijako   zniesť. Okríkne ho prísne, čo by ináč ani neviem za čo neurobil.
+   </tei:p>
+   <tei:p>
+    „A čo ty máš medzi nimi? Var’ sa chceš ešte medzi ne rátať. Nuž   ale si ty v svete bol
+   </tei:p>
+   <tei:p>
+    ﻿46
+   </tei:p>
+   <tei:p>
+    na to, aby si sa so sprostými deťmi kamarátil? Keď už chceš ísť —   choď do školy alebo do fary medzi hodných ľudí. Tomu sa už budem   tešiť. No zas toto netešilo. Do fary nechodil, lebo ako by   on ta šiel? Čo b} tam robil? Pán farár spytoval by sa ho   perfectum od ho, alebo imperativus od fero. Nuž a keď by mu ho i   uhádol, nedostal by toľko pochvaly, ako keď deťom conjuguje laudo.   Preto, že sa fary stráni, i mať mu dohovárala. „Synku, čo nejdeš do   fary? Tam ťa vovedú do svedice a ukážu ti všelijaké knihy. Uč sa   od mladi od hodných ľudí, potom ako by si to našiel. Tam ťa veru   zlému nenaučia, len dobrému. “ Ale Cyril nešiel a nešiel. Myslel si,   že už nemá čo hovoriť s pánom farárom, keď i tak už bol s ním minulej   nedele pred kostolom. Pán farár vypýtal sa ho jedno-druhé: už teraz   nemá sa o čom S ním shovárať. Ale rodičia ho len nútia, aby šiel, veď   ako milo mu podal pán farár ruku. Hej — Miško a Zuzka tým stisnutím   ruky majú všetky útrapy štedro zaplatené. Ako ich to pozdvihlo už v   očiach súsedov, keď duchovná osoba podá ich dieťaťu ruku a shovára sa   s ním. Ale čo sa dnes stalo, to prevyšuje už všetko ich očakávanie. Z   farského dvora vyšla slúžka a hrnie rovno do Ferancov. Vyjasnená jej   tvár predzvestuje manželom, ešte u voza zamestnaným, akési milé   (prekvapenie. „Dobre, že ste doma — ja, že vás nenájdem. Ach, aká   pohoda! Zbožie ani páper!“ „Veru, chvalabohu — takejto žatvy   nepamätám. Ani len nekvaplo na úrodu. „I nasvážali ste hodne — za   troch.“ „Nono, Pán Boh požehnal.“ Slúžka chcela zaviesť rozhovor,   lebo myslela, že to ani nepatrí len tak naponáhlo povedať, čo
+   </tei:p>
+   <tei:p>
+    ﻿47
+   </tei:p>
+   <tei:p>
+    treba, a ísť. Ona chce na to prísť okľukami: pomaly, ale isto.
+   </tei:p>
+   <tei:p>
+    „Ach — i študent pomáha: pekne, no! Akože sa mu páči doma? Ale —   aby ho neurekla — žíri mu; neznať na ňom biedy. No — nech mu len Pán   Boh pomáha, aby bol z neho hodný človek, ako sú náš pán. Bude mu vždy   dobre — ako na hody.“ „Ako Pán Boh dá“, poznamenala gazdiná.
+   </tei:p>
+   <tei:p>
+    „Ono ak bude sa usilovať, bude mať vždy svoj istý kus chleba. To i   náš pán povedajú — a tí veru vedia.“ „Čidali vedia — prisviedčal   gazda. „Ale keď len tak nepríde do fary! I pán vše spomínajú: len kde   je, vraj, ten študent Ferancovie, keď ho tak nevídať. Choď, Katra, a   povedz jeho materi, nech ho vypraví na obed. Nuž tak, aby váš študent   prišiel na obed.“
+   </tei:p>
+   <tei:p>
+    Zuzka zostala, ako by jej nohy zarazil do zeme. Nevládala ani údom   pohnúť. Konečne vypukla skoro v detinskú radosť.
+   </tei:p>
+   <tei:p>
+    „Ale môj syn... na obed! Pane Bože... toľké ustávame! Veru mohli   sa neustávať, o tom sme sa ani nenazdali. Ó vy, óvy! kedy sa im   odslúžime ? “ Študenta pozvanie neprekvapilo tak milé, ako jeho mať.   Práve mal na jazyku, že sa predsa ide pýtať do poľa, sadne na voz a   pôjde. A tu takáto prekážka! Otec nepýtal sa mnoho syna, hneď   poďakoval sa pánu farárovi i pani farárke za pozvanie. „Nuž nech len   príde. Pán a pani budú v svetlici.“ A Katrena odbehla preč.
+   </tei:p>
+   <tei:p>
+    Stará objala syna. Mal sa zájsť v jej náruživom objatí. Hrdúsilo   ho. Celá bola. ako vymenená.
+   </tei:p>
+   <tei:p>
+    „Ach, môj . kvet zlatý! Takejto radosti sa dožiť! Do svetlice...   chlapče, pôjdeš do svetlice! Vieš, čo je to — ísť do farskej   svetlice? Ta ani
+   </tei:p>
+   <tei:p>
+    ﻿48
+   </tei:p>
+   <tei:p>
+    rychtára nevpustia... ba ani hajtmana. A ty budeš si tam sedieť...   pri jednom stoie, z jednej misy jesť... s takými ľuďmi. Ach! „Hja,   veru, Cyrko — budeš dnes ?po pansky jesť. Chlapče, aby si nezabudol   ďakovať... aby som necítil hanby pre teba, lebo v takom dome   neobedúva hockto. To už veru nie. Koho si tam videl z dediny pri   obede? Veru nikoho. Ty budeš prvý — samý prvý.“ „A ešte takto pekne   zavolajú... a kto vie, čo pristroja! Ach, keď som im neodkázala, aby   sa netrápili veľmi pre teba. Ale zabudla som, ako na smrť. Keby var’   zabehla, že ty hocčo zješ...“ „A načo? Keď už raz hotujú hostinu,   viem, že neodstavia od ohňa. Len ho vystroj, ako svedčí, aby sme sa   nezahanbili zaň. Obleč ho poriadne, a ponaúčaj, ako sa treba tam   držať. Ja už idem, vo meno Božie. Zuzka pojala syna do izby a   obracala ho do samého obeda. Posnášala všetky šaty a zkúšala na ňom,   ktoré mu najlepšie pristanú. Obliekla ho do nových; bol ani maľovaný   panák. „Polož si klobúk na hlavičku. Tak! A keď ho budeš snímať, nože   neuchlp si vlasy. Teraz smm! Cyril sňal klobúk, mať nebola spokojná s   pokusom. „Na hviezde ti jeden chlp odstáva. Ja neviem, čo sa nechce   prihladiť. Nože si ho prihlaď rukou. Nechce uľahnúť. A chodník ti je   nedobre predelený. Povedala som ti, predel si chodník na boku, a nie   na prostriedku. To každý mládenec z dediny tak nosí. Keby ti len bola   kúpila pomády, vlasy hneď inakšie stoja. Ná!... a mašličku som   zabudla. Dobre, že mi zišlo na um! Bola by ťa veru bez nej poslala.   Kto vie, či by ťa neboli i vrátili. Pripniže si ju, či ti pristane.   ’
+   </tei:p>
+   <tei:p>
+    ﻿49
+   </tei:p>
+   <tei:p>
+    Cyril poslúchol matku, no nebola spokojná. „Ja neviem, ale háčik   akosi velmi napína šnúrku a masla sa preto nakrivuje. Počkaj,   donesiem ti šálik — ten si uviažeš. A Zuzka chytro bežala do komory.   Počuť šuchot, ako keď šaty sa prehadzujú: víko zapadne, a šálik je   tu. „No, to tí bude azda lepší. Uviažeme ho... takto. Len daj pozor,   aby si ho dobre mal. Tak. Ja — strapce nepotískaj pod kabát; veď sú   zlaté! Co by si ich mal zatískať, var’ si ich ukradol? Cyril stál,   ako voskový panák, na prostred izby; neopovážil sa ani prstom hnúť,   aby si šaty nepokrčil. V tom napnutí čuvov začaly sa mu ruky potiť;   cítil sa cudzo, neprirodzene. „No, teraz si vlož šatôčku do vrecka.   Nevtĺskaj jej dnu, do gundže: celý kabát bude ti odstávať, ako bys’   niesol plnú kéšeňu hrušiek. Rožtek z nej môže ti von trčať. Čo by   nemohol, veď je biela. Kúpila som ti ich dvanásť — po dvanásť groši.   A keď ta prídeš, vieš, čo máš urobiť ? „Ruku bozkať.“ „Ach, ba...   najprv povieš: šťastlivý, dobrý deň vinšujem, a potom len bozkáš ruku   pánu farárovi i pani farárke. A sadni si ku stolu pekne,  ab}r   si sa .oň neopieral lakťom.* „Veď nie.“ „Ty — a moc nejedz... ak sa i   nenaješ, preto nič. Nahradíš si doma. Čo by povedali, nech by si moc   zjedol! Ešte by si bojsa mysleli, že ťa tu hladom morím.“ „Veď!“ „No,   tak, môj syn drahý! A pri jedení len zvoľna, nič sa nenáhli. A Bože   ťa nebeský chráň, aby si sa polial. O šaty by nebolo ešte nič... ale   tá hanba! A aby si lyžku nesložil samý ostatný. A daj ju pekne hore   dnom; aby sa nenazdali, že
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy VII.
+   </tei:p>
+   <tei:p>
+    4
+   </tei:p>
+   <tei:p>
+    ﻿50
+   </tei:p>
+   <tei:p>
+    Ruky si tiež neomasť. Ak sa ti si ich — nato je šatôčka. No, a   teraz sa pekne — mne Katrena všetko Jjryroagretva. ako sa tam   zachováš.“ Cyril sa hodil matke do náručia a objímal ju náruživé.   Jeho pohľad je taký horúci, taký prosebný ... „No, dobre -— čože   chceš?“ „Mamo, nehnevajte sa... ja nejdem.“ Stará zostala ako   skamenelá. Nevedela, čo napochytre urobiť. Vytrhla sa z jeho objatia   a neláskavé, skoro kruto ho odstrčila. „Abys’ mi to viac nepovedal...   lebo... prinesieš ma o rozum,“ „Mamo — ja sa bojím.“ „A koho?“ „Len   tak. „A čo by si sa bál, keď ťa zavolali... Blázon, on sa bojí. Oni   sa trápia, zavolajú ho, a on sa bojí! Povedia o tebe: veru tí   Ferancovci vychovali syna, čo je ani k Bohu, ani k svetu. Nuž načo my   nakladáme na teba: aby si sa bál? Nie nato, aby.si sa vedel zmestiť   ta i ta?“ Cyril nechutne chytal sa klobúka. Odvrávať neopovážil sa   už. Vj tu nespomôžu: všetko iné povolili by mu, len toho   nie. Sobral sa. Ale starej to zavrtelo v hlave. Pomyslela si:   „Nepôjde. Deti ako deti — nemá rozumu a k dobrému chuti. Aby mu pred   farskými vráty nezišlo zas niečo na um. Radšej pôjdem za ním“, a   vybrala sa za chlapcom. Cyril sa zakrádal, ako hriešnik pred súd.   Akási neurčitá bázeň zmocnila sa ho. Na srdci cítil ťarchu, ako ťažký   kameň. Cítil ochablosť, nielen duševnú, ale i fyzickú. Bol by   najradšej ponad plot do záhrady; tam pod stromom v chládku dobre sa   leží. No takto, on nezkúséný musí do
+   </tei:p>
+   <tei:p>
+    ﻿51
+   </tei:p>
+   <tei:p>
+    fary — dosiaľ len lyžicou jedával, a dnes musí i s- vidličkou   zachodiť, i s nožom. Bože, aký to bude prísny súd nad ním, ak sa mu   niečo pridá. Prvý raz v živote opanoval ho pocit opusténosti. Má   rodičov, a je predsa len ako sirota. Rodičia — veď tí sami nevedia,   ako sa má pri štóle držať, akože mu poradia ? Zpoza humán počuť deti.   Tam ha jednom dreve sa kolíšu. Srdce mu piští za nimi — ako dobre by   bolo, keby mohol k nim. Nuž a čo mu vadí? Tu jeden plot... ten sa   ľahko preskočí. Keď ho budú hľadať, utečie ta do hory — o hlade, ako   chce. Už ho bádalo do boku, aby preskočil, žily pod kolenami šteklily   ho... No, raz, dva! V tom sa ozve za ním známy hlas: „No, len sa   neboj. Veď sú to dobrí ľudia. Ja idem za tebou.“
+   </tei:p>
+   <tei:p>
+    „Ah — predsa — tu je mať.“ Aspoň za ním ide, to ho teší. S   rozochvelým srdcom položil dlaň na kľučku a vstúpil do dvora.   Napravil si naponáhle šaty, prihladil vlasy, postávil klobúk, pozrel   na šatôčku, narovnal šálik a s hlbokým vzdychom kráčal popri záhradke   k dverám. Zo záhrady nenazdajky v} pán farár v dlhom,   bielom kabáte. Pomätený Cyril zabudol, čo povedať. Konečne vybúšilo z   neho: „Dobré ráno vinšujem.“ „A —■ servus, fráter! To ty akosi dlho   spávaš, keď ti je ešte len ráno. My sme ťa na obed volali.“
+   </tei:p>
+   <tei:p>
+    Cyril stál ako obarený. Nevedel si* vysvetliť, Či je ráno a či už   obed. Y nedorozumení stál nepohnute, ako kolík v plote. No, mysliac   si, že prišiel včas, rozľútostený bral sa k odchodu. Pán farár mu   zastúpil cestu:
+   </tei:p>
+   <tei:p>
+    „Nono — var’ by si už šiel. Hoj, počkaj — a neboj sa t} nič.   ‘ A širokou, mäkkou dlaňou pritlačil mu klobúk k hlave a zvŕtal mu   ho. Cyril sa chytal klobúka, že si prihladí pochlpené vlasy,
+   </tei:p>
+   <tei:p>
+    4*
+   </tei:p>
+   <tei:p>
+    ﻿52
+   </tei:p>
+   <tei:p>
+    no pán farár nedopustil mu toho. Potriasol mu hlavou a pýtal sa:   „Scis ne latine, fráter?“ Cyril sa posmelil a rezko odpovedal:   „Scio.“ „Bene! Ergo: quot sunt partes orationis? „Ja... my sa to tak   neučíme“, odvetil zahanbený Cyril. „No, bene, bude z teba   perillustris, len sa uč. A teraz povedz: vieš sa na stromy škriabať?“   Cyril sa potutelne usmial, mysliac si, že ho to potvárajú zo   záhradného zlodejstva. Zišlo mu na um, ako ho chytili v školách na   jabloni a ako im unikol. „No, keď sa vieš — pôjdeš sem na višne.“   Cyril si to nedal druhý raz povedať. V nových šatách s pozláteným   šá.likom driapal sa na strom. Plátené futro šiat a košela pri   rýchlych pohyboch šušťaly. Horko-ťažko vyčistené čižmy ztratily   všetok lesk — boly pooškúľané. Sálilc so zlatými strapci už nevisel   voľno dolu, ale založil sa za košeľu a zapadol za jej límec. Klobúk   mu konárik strhol s hlavy a shodil na pažiť pod strom. S mäkkými   kaderami jeho pohrával si vetrík. No Cyril si toho nič nevšímal,   cítil sa dobre, opravdove — ako doma. Všetky regule, čo mu   predriekala mať, vyšumely z hlavy: on je zas voľný, svojský. A tohto   všetkého všimla si žena, čo hľadela škulinou cez vráta a sledovala   pilne každý pohyb chlapcov. I raduje sa, že bol tak milo prijatý; len   to ju mrzí. že takýto rozstrojený sadne si k stolu. O šaty jej nejde,   že sa derú; veď jej syn musí sa len niečím i odslúžiť za obed.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

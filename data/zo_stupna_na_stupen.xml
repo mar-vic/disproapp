@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1893514" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     So stupňa na stupeň : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5983
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      So stupňa na stupeň
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1893
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     So stupňa na stupeň.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿1
+   </tei:p>
+   <tei:p>
+    Boli sme na hradách. Ženy trhaly ranné konope a kládly v brázdach   do snopov. Moja mať vzala si okuliare. Robotu okolo konopí a ľanu   považuje za najprvšiu v celom gazdovstve. Ja som sa hanbil pomáhať   materi. Postával som po úvratiach. Nuž chcel som už byť chlapom.
+   </tei:p>
+   <tei:p>
+    Na hradskej od mesta zahučalo, ako keď letí kočiar. Pozrem v tú   stranu, i mať prestala konope trhať. Zjavil sa ľahký kočiarik, ťahaný   dvoma pejkami. Pred nimi beží veliký psisko, obzerá sa na pána a   prská od radosti. Pán sedí na vysokom kozlíku a tríma liace. Bič sa   kníše sem-tam, zatknutý do pošvy. Pán ešte nie starý, oholený,   červenej tvári. Klobúk hodený na stranu a kosy tetrovca za ním   trepotajú vo vetre. Slnko sa tuho odráža od bielej vesty a tiež   bielych nohavíc. Na zadnom sedisku rozložil sa kočiš v šnurovanom   dolománi, malom klobúčku — nuž ako panskí kočišia. Nemajúc roboty,   složil ruky na prsia a hľadí ospalým okom na tento svet, vyhriaty   letným slniečkom.
+   </tei:p>
+   <tei:p>
+    Koč prefrkol konča nášho konopiska, kone pohádzaly hlavami. Pán a   kočiš ani nepozreli na nás.
+   </tei:p>
+   <tei:p>
+    1*
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    »Kto je to?« pýtam sa materi. Znal som okolitých pánov takto z   videnia. Tohoto som ešte nikdy nevidel. »Ja — to je veľký pán«,   odpovedá výsmešne. Aspoň práve tým tónom vravieva otcovi, keď chudák   niečo vyvedie, čo nemal: »Ty si veľký majster!« »A kto?« »Nuž   exekútor, Martin Hudis.« »Martin Hudis?« zahíkal som udivený. Znal   som ho od dávna, hoci nie z videnia. Brat Mišo mi veľa rozprával o   ňom. Hudis sa bol zatúlal do našej dediny a pritrel sa akosi v škole.   Bol sirota, mať mu kdesi v svete umrela, potulujúc sa s dieťaťom.   Otca neznal a nemal. Aspoň jeho mať nemohla udať celkom hodnoverne,   ktorý bol jeho otec: či pán osvícený, či pán veľkomožný, či konečne   pán urodzený. Medzi nižšími nemala ho čo hľadať, ako sa sama pýšila.   Ale medzi tými bol iste ktorýsi on. Prischol tedy našej dedine,   vlastne škole. Pán rechtor Andreas Gregáň bol jeho materi strýk, či   ujec, neviem už, v ktorom kolene. Nemal detí, tak ujal sa malého   Martina. Stáť ho veľa nákladkov nestálo: čo chlapec zjedol a podral,   to odmendíčil. Z toho času pochádzajú styky nášho Miša s Martinom.   Otec totiž vzal si do hlavy, že bázeň Božia je počiatok múdrosti.   Múdrosti bolo u Miša málo, i bázeň pred otcom pomaly pa-
+   </tei:p>
+   <tei:p>
+    ﻿5
+   </tei:p>
+   <tei:p>
+    dala — otec ho dal k pánu rechtoru Gregáňovi do rezu, azda mu jej   ten niečo naženie. Tak mendíčili spolu s Martinom. Chodievali po   gregoráciach a blažeáciach, koledách, svadbách i kráteniach s piesňou   i vinšami, ktoré pán rechtor »z príkladu« vlastnoručne skladával.   Všade ich uctili, tak že chlapci s takýchto výprav vraciavali sa   obyčajne posilnení na duchu i na tele. Ale najväčšmi spomínal brat   jednu udalosť. Niesol s Martinom košík hrušiek a hrniec medu, čo pán   rechtor poslal pastorkyni svojej, vydatej v Plačanoch. Kým do Plačian   prišli, vyzobkali z hrušiek čo lepšie a med vylízali nadobro. Vrátili   sa s lístkom od pastorkyne, v ktorom nevedieť, čo stálo. Iba feruľa v   ten deň s Mišom i Martinom známosť veľmi citeľne obnovila. 1 mať sa   naspomínala, ako Martin neraz prišiel do nás, prisadol k druhým, keď   sa jedlo, a zmietol za pol opálky pečených zemiakov. Veľmi sa   žalúval, že ho strynká hladom moria. Dosť možno, strynká ani   netušila, koľko jej chovanec zvládze. Ja som už Martina neznal. 1   sestra ho spomínala a zle sa žalovala naň, koľko hrachu, šošovice,   hrušiek a jabĺk sa mu navláčila do školy. Martin bol za jej časov už   kustosom, pozdejšie präceptorom. Čo sestre chýbalo v hlave, musela   nahrádzať takými potravnými článkami, ktoré nikto nevie, kam sa u   präceptora dievaly. Boli i takí, čo sa chceli vytiahnuť zpod   tejto
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    kontribúcie. Ale nikomu sa to nevydarilo. Pán rechtor bol už   starý, spravedlnosť prisluhoval výlučne präceptor. A tu vždy buričom   dokázal, že švih nemusí byť jeden ako druhý. Na niekoho sa tuho   zahnal, ale švihol slabo, na druhého sa tuho zahnal a švihol tiež,   aby »dôjšlo«. Niekedy spozoroval, že veľmi ľupká — i našiel tam   podstrčenú otcovu čapicu alebo materin kožuštek, na ktorom toľme   ľupkalo. Inokedy zas nepobadal, i keď ľupkalo, a nevykonal patričnú   »visitatio personae ad ťaciem loci«.
+   </tei:p>
+   <tei:p>
+    Vyšvihol sa v dedine na stupeň, aký len možno dosiahnuť. Pred ním   boli už iba: pán rechtor sám, rychtár obce a bača. Naša obec, súc   Farou do Podkobylian, nemá Farára. A postavenie svoje vykorisťoval   ukrutne, ako svedčí moja sestra.
+   </tei:p>
+   <tei:p>
+    Po smrti pána rechtora stal sa v obci ohromný prevrat. Úrady sa   presypaly, z organa vypadly dve najhlavnejšie pišťali a mechom sám   kurátor pani kurátorke kožuch poplátal. Martin Hudis vykvapol tiež z   pomocníctva, lebo nový pán rechtor bol mladý a feruľou narábal   vlastnoručne. Tak sa ztratil kamsi, nikto nevedel, kam. Len pamäť   jeho žila medzi vrstovníkmi, recte »vekodruhmi«, a vďačným   potomstvom.
+   </tei:p>
+   <tei:p>
+    »Pán Boh pomáhaj!«
+   </tei:p>
+   <tei:p>
+    Pri mne stojí krstný otec Jano Koreň. Ten, čo ma to vysadil na   koňa a potom ho pošibal
+   </tei:p>
+   <tei:p>
+    ﻿7
+   </tei:p>
+   <tei:p>
+    popod kolená. Od tých čias mám ho rád, lebo nosím šev na čele.
+   </tei:p>
+   <tei:p>
+    »Akože sa vám, kmotra? A ty si tu, belko?« Vložil mi dlaň na hlavu   a ja som vykríkol. Moje vlasy zamotaly sa mu medzi prsty a on ich   naťahoval, sťa nejaké klky. »A ste videli, kmotra, toho ľapitkára na   tej truhlici? Keby to bol aspoň koč, ako Pán Boh prikázal! Ale   truhlica o štyroch kolesách a hrmoce, ako všetci čerti. Ale sa vám   prihovoril, kmotra ?«
+   </tei:p>
+   <tei:p>
+    »AIe taký pán!« usmiala sa mať zas tým svojím spôsobom.
+   </tei:p>
+   <tei:p>
+    »Veď pán, veď pán!« pohadzuje krstný otec hlavou. »Taký, čo sa v   kaštieli narodí, nuž aspoň sa to narodí. Ale toto nevieš, odkiaľ   vyšlo, zpoza ktorého plota. Tiež ste sa nenazdali, čo z neho   vykvitne, keď tú švábočku tak sádzal z tej opálky. Ja, tak sa robia   páni — nuž tak!«
+   </tei:p>
+   <tei:p>
+    »A ako?« pýtam sa ho chtivé. Od dávna som si lámal hlavu nad tým   tematom. Od tých čias, čo som videl Ištvána Krúpu v belasej mentieke   so žltými šnúrami šabľu držať pred vidieckym domom. Nemal som inej   myšlienky okrem tej: ako sa stať takým velikým pánom.
+   </tei:p>
+   <tei:p>
+    »Iiaľa, čo by chcel vedieť!« smeje sa krstný otec a šibol mi do   nosa frčku. V očiach sa mi zaiskrilo a potočil som sa na bok. »Ale už   vieš hvízdať, krstný?«
+   </tei:p>
+   <tei:p>
+    »Ešte nie!« zreval som, utierajúc slzy.
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    »No, len sbieraj za tými ovcami; prvej sa nenaučíš, syn môj.« A   obrátil sa zas k materi. »Vedie si ani hlavnýšpán, a ľaľa, nevieme,   ako k tomu prišiel.« »Z chudoby nabral«, zvolala mať. »Pamätám, keď   mal iba tú košieľku, i to samá diera.« »Rozprával mi vegmajster z   Podkobylian, ako tento, tento veľkomožný hľadal službu. Len si   povážte, ako sa chytil rozumu!« »Nuž ?« »Pochodil pánov rad-radom,   pýtal od nich nejakú službu. Ale ani jeden veru sa nešiel pretrhnúť,   že by mu službu vykonal. Tu on každému povedal čosi, čosi...« A   krstný otec sa usmieval a jedným okom žmúril náramne figliarsky na   mater. »A čo ?« »Nuž to, že mu je syn.« »Kto ?« »Martin tomu pánovi.«   Rozosmial sa chutne, že kŕdeľ poľných vrabcov sa splašil, a letel za   hradskú, kde sadol do tŕnia v medzi. I mladá Máčanka hen so súsednej   ralej obzrela sa zpomedzi konopí a riekla svojej testinej: „Čože tára   zas ten bláznivý Ďukýr, že sa tak rehoce?« Ďukýrom ho volali preto,   že na jednom krštení, keď si vypil, honosil sa vokabulami, ktoré sa   kedysi učil: pap knez, kufa pes, hamu popel, takoň sopeľ; derťa   svíce, teb je více, fúka tuleň, ďukýr koreň.
+   </tei:p>
+   <tei:p>
+    ﻿9
+   </tei:p>
+   <tei:p>
+    1 mať sa musela zasmiať. Riekla konečne: »Veď vy len viete   vymýšľať, kmotre! Bodaj vás čert vzal!«
+   </tei:p>
+   <tei:p>
+    »No, pravda je, tak urobil. A páni sa naľakali, že im stúpi do   gazdovstva. Ani jeden by nebol chcel odprisahať, že je nie tak. Veď   vieme, ľaľa, ako sa k nej rad-radom pritierali, k Mariene Hudisovie.«   Vytriasol popol zo zapekačky, ustavične sa smejúc, a doložil: »Nuž   každý mu len sľúbil: no, syn môj, netráp sa, už ti len nájdem nejakú   službu. A vidíte, pekne mu našli. Pomyslel si každý: krv je nie   voda.« Pokýval hlavou, pozerajúc na mater. Tá mlčala a hľadela kamsi   do diaľky. Naraz obrátil sa ko mne a, chytiac ma pod bradu, riekol:   »Povedz materi, čo i ona nie tak, ako tá Hudisovie. Mohol si byť   pánom — a takto budeš iba švábočku lúpiť!« »Ba keby ste mali rozum,   kmotre!« »A je nie tak? Nikdy ten pánom nebude!« Ovesil som nos.   Sborila sa vo mne stavba, ktorú som tak dlho staval horko-ťažko. Jeho   výrok rozmetal všetky túžby za cifrovanou mentiekou a šabľou. S   výčitkou som pozrel na mater. »Nemusí ten byť pánom«, riekla ona.   »Môže ísť na remeslo, alebo za kotlára.« 11. V tie časy som sa vodil   s rychtárovou Katrou a Koreňovie Zuzkou. Šiel som raz po
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    Katru, ukázať jej, ako sa v ráštubni hláče chytajú. V noci sbehla   veliká voda a mlynár musel ju vyraziť na jaze, tak že Jej v ráštubni   bolo veľmi málo. U rychtára som našiel plnú izbu ľudí. Za stolom   sedel Martin Hudis, po stole porozkladané písma. Ľudia sedeli ticho,   niektorí celkom smutne. Stará Dávidovie utiera si oči. Už som vedel,   čo sa robí. Sedel tam i krčmár Samko, ktorého v dedine hrozne   preklínali. Skoro každý gazda dostal »cúštelunk« čili »verbálku«, čo   bol dlžen Samkovi. Samkova Fany sa mala vydávať, preto tak hýbal   svoje kapitále. »Ja len neviem, rychtár, ako mi dáte robiť toto?«   ozvala sa stará Dávidovie. »Majte aspoň už vy Boha pri sebe. Vy ste   vedomí, že krava je moja, lebo ja som ju doviedla do domu. Každá   dovedie aspoň tú kravu mužovi, a ja som už len nebola najpodlejšia.   Akože mi ju dáte zapísať, keď je moja? Voly — tie mu zapíšte pre mňa;   ale krava je moja, rychtár. Akože mi ju zapíšete, keď je dlh nie   môj?« Rychtár pohol plecom a hľadí do zeme. Konečne riekol: »Keď i   voly sťa už zapísané!« »Nuž nech mu už zapíšu, čo chcú: hoci i dušu.   Beztoho ju zapredal hen tomu!« Ďubla prstom v tú stranu, kde sedel   natešený Samko v novom kabáte, s hrubou čugaňou v ruke. »Posmech!   hanba!« a na dôkaz toho vstala a napľula pred Samka; len toľko, že mu   na čižmy
+   </tei:p>
+   <tei:p>
+    ﻿11
+   </tei:p>
+   <tei:p>
+    nepadlo. »Vy ste nato, aby ste zastali chudobných a utisnutých.   Bohatý sa zastúpi sám«, útočila Dávidka do rychtára hlasom   rozochveným. A pozrela po tom zanemenom shromaždení, hľadajúc azda   posilu nejakú. Všade vidí nemú chladnosť alebo zbabelosť; nikde   súcitu. Obracia sa znovu k rychtárovi: »Veď vy viete, že z toho dlhu   ani krajciara neurobila som ja.« Samko sa uškŕňa a dlube čugaňou do   zeme. Tu Martin odložil pero a vyberá cigaru z koženého púzdra.   Pozerá na Dávidovie starú chladne. »A ktože ho urobil ?« pýta sa,   rozovierajúc penálik. »Nuž heno ten nabral — ten, a ktože iný?«   Ukazuje na muža, ktorý sedí pri samom kozube. »I tá hodina bola   nešťastná, keď som sa zaň zahrdúsila. Ako nám mohlo byť! A on do   takého pádu i seba, i nás.« »Ale ste nevyliali ani vy, keď sa z krčmy   donieslo«, na to Hudis, lížuc vrchný list na cigarke, ktorý sa   potrieskal. »Ja veru ani kvapky, pán veľkomožný. Nikdy! Čo by v   potoku tiekla, čo by sa v nej po pás brodila — nie veru. Lebo neviem,   čo mal na nej? Keby to nejaká dobrota! Ale iba hlavu pomúti, rozum   zatemní a spraví gazdu takého, takého — otroka. Ale že by ja? Čo mi   chotár dajú, ani zavoňať ju nechcem, besnicu!« »No, no — len sa   nezariekajte!« »A veru je tak, pán veľkomožný!« pokra-
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    čuje Dávidka rozjedovaná. »Verte, lebo neverte. Ja si dušu   nepoškrvním, a čo by hneď bolo desať kráv. Duša čistá a nepoškvrnená   nadovšetko. I svedomie mám, chvalabohu! A na čistô svedomie môžem   povedať, že krajciara som neborgovala. Veď ma i oni znajú, že som nie   taká upriamená za tým trungom, keď boli v našej dedine u pána   rechtora. 1 najesť som sa im dala neraz. . .« »Ja veru nepamätám,   kedy by to bolo bývalo*, odpovedá Hudis veľmi vľúdne. »A ak je   pravda, tak si zachovajte, že sa to nemá vykričať. Nech nevie ľavica,   čo činí pravica, nakladá nám biblia.« »Veď ja len tak — Bože chráň,   pán veľkomožný*, zahanbila sa Dávidovie stará. »Keď už raz neviem, čo   robiť v tomto kríži. I vy, rychtár, musíte uznať, lebo ste nato, aby   ste súdili. Sedeť, do zeme pozerať — vie i hen ten«, ukázala muža pri   kozube. »Ale vy máte ako ten dobrý šafár v obci robiť.« »Ja vám ju   neberiem«, vraví rychtár. »Na mňa darmo naskakujete. Na moje dlhy   nejde vaša krava.« »Na moje ani tak«, doložila ona. »Ale na mužove«,   ozval sa zas Hudis. »Akože sa budete odhadzovať od neho dnes, keď   prišiel do tohoto úpadku? Veď viete, že i biblia vraví: čo Boh   spojil, človek nerozlučuj.« Vraví veľmi vľúdne a hlasom mäkkým. »A   či
+   </tei:p>
+   <tei:p>
+    ﻿13
+   </tei:p>
+   <tei:p>
+    myslíte, že biblia nevraví pravdy? Žena opusti otca i matku a   nasleduje muža v radosti i súžení. Nuž a čo sa vy dnes cofkáte, keď   to prišlo naňho? Či chcete trávu tlejúcu dopáliť a nalomenú trstinu   dolomit?«
+   </tei:p>
+   <tei:p>
+    Stará Dávidka mlčí a len pozerá na Hudisa. Rozvažuje, čo jej ten   povravel. Prišiel na ňu taký žiaľ, že nemožno jej tu obsedef. Sobrala   sa tíško a vytackala sa z izby, ako opitá.
+   </tei:p>
+   <tei:p>
+    Hudisovi pohrával úsmev okolo úst, keď ju videl odchádzať. Dopísal   hárok, srátal diurna, složil písma a vyšiel tiež na ulicu.
+   </tei:p>
+   <tei:p>
+    »Poďte, rychtár, ohlásime sa u Samka.« Rychtár slúchol a pojal i   vicerychtára. »Zaslúžite si vypiť«, vraví im, usmievajúc sa. »Ja tiež   mám záloh uňho.« A u Samka v bočnej sedela mladá pani. Vstala, šaty   jej zašušťaly. Chcela skočiť k mužovi, ale sa zahanbila, vidiac   sedliakov za mužom. »To je pán rychtár a vicerychtár, Žanka«,   predstavuje jej úradských. »Nech im niečo nalejú, Samko. Zaslúžili po   toľkej robote.«
+   </tei:p>
+   <tei:p>
+    Rychtár a jeho druh ostali len v korheľskej, zasadnúc za dlhý   stôl. Hudis ostal v bočnej so ženou a krčmárovej.
+   </tei:p>
+   <tei:p>
+    »Ale som skrotil tú Dávidku!« smeje sa Hudis, vrtiac pohárik medzi   prstami. »Ako zatíchla!«
+   </tei:p>
+   <tei:p>
+    »Ako len vedia tak hovoriť?« diví sa Samko. »Také farárske reči.   Ani farár by ich tak neposkladal. Sám som zostal tak — gertihrt.«
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    »O n i!« Hudis sa rozosmial, hodiac sa na operadlo.
+   </tei:p>
+   <tei:p>
+    »Na moj’ dušu, es hat mich geruhrt.«
+   </tei:p>
+   <tei:p>
+    »Ja — nie darmo som bol präceptorom u starého Gregáňa. Človek   nevie, čo sa mu zíde. Malý i veľký katechizmus mám tuto.« Naddvihol   malý prst. »Dobrý to bol rechtor a učený, hoci ma bíjal, ako hada. A   verše aké vedel skladať! Ale ja ju zastať nemôžem. Sedliak len aby ho   každý zastával — a on zle-nedobre na teba. Viem, že ma preklínajú: a   ja konám iba povinnosť. A svoje mám opustiť? Boh ma nepožehná, keď   odhodím zárobok, čo mi príde. Ani sedliak neponecháva snopy na poli,   aby ich chudobní posbierali. Tie sú jeho, narástly na jeho roli. A   moja roľa je toto«, poklepal si na čelo.
+   </tei:p>
+   <tei:p>
+    Samko veľmi prisviedča, strežúc za každým jeho slovom.
+   </tei:p>
+   <tei:p>
+    »A treba i gazdovať, na mladú ženu«, doložil Hudis, ovinúc ramenom   štíhly driek panej. Ona sa k nemu pritúlila, naklonila hlavu k   nemu.
+   </tei:p>
+   <tei:p>
+    »Poriadny familienleben je nadovšetko«, vraví Samko. »Bez famílie   je človek taký bludár. Lebo čo je za radosť bez famílie?   Familienleben musí mať grunt. Hruška neťahá saft z luftu, ani família   nevyžije len z takej — onô, liebe. 1 to je treba, lebo bez liebe sme   nie ľudia, iba také opice: ale liebe musí mať grunt. Čo-to medzi   rukami. Príde psota, núdza, nemáš raz
+   </tei:p>
+   <tei:p>
+    ﻿15
+   </tei:p>
+   <tei:p>
+    do úst — veria mi, pán exekútor, tá — tá liebe sa im vykädí, ako   špiritus, keď fľašu nezapcháš. Strom sa i skaly chytí, ale uschne,   lebo nemá, vedia, ten — nährung, a preto uschne ako nič. Vidia, oni   budú vždy glúcklich, lebo si robia ten grunt poriadny. Majú dom,   gazdovstvo, kone a všetko.«
+   </tei:p>
+   <tei:p>
+    »Nuž nechcem, aby môj syn musel sa priživovať po dedinských   školách. Ten musí mať čoho sa chytiť.«
+   </tei:p>
+   <tei:p>
+    Zatíchol a tvár sa mu zamračila. Ozvaly sa rozpomienky na smutnú   mladosť, plnú nedostatku, poníženia i ťažkých bojov. Ale to len na   chvíľku. Predstupuje prítomnosť: sám sa diví, kde nabral sily tak   chrabro pasovať sa s biedou a skrušiť ju na kusy. Azda to sám od   seba? Nie, akási šťastná hviezda mu vyšla, doviedla ho k zdaru,   víťazstvu. A kto vie, čo všetko hodí mu ešte do náruče? Kto vie, čo   mu chystá budúcnosť, možno ešte šťastnejšia? Z tisícich bedárov on   jediný vyštveral sa na tento stupeň, vyrástol z ich radu: či len   nato, aby už vyššie nestúpal? Nie, nebude ani takto hlivieť. On verí   v pokrok, vzrast, mohutnenie. . .
+   </tei:p>
+   <tei:p>
+    Sadol do koča, pejky hádžu veselo hlavami a Fido šteká radostne,   bežiac popri koči. Hudis rozpráva čosi panej, ktorá sa zase túli k   nemu, ako u Samka. Možno, jej je zima, z hôr pofukuje čerstvý,   večerný vetrík.
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    Čas! Ty večný, v dobrote neskonalý. Čo všetko Ty nedokážeš!
+   </tei:p>
+   <tei:p>
+    Čo poviedkár šikovne zakosídli a rozuzliť vonkoncom nemôže, prídeš   Ty a rozpletieš motaninu svojím nekonečným zubom času. Čím ranil osud   (vlastne poviedkár) niektorého pravého hrdinu, Tys’ prišiel a   vyliečil mu rany (najviac srdca) svojím divotvorným balzamom. 1 známo   o Tebe, žes’ najlepší lekár.
+   </tei:p>
+   <tei:p>
+    A to nie dosť. Nebohý Chronos pohltal vraj vlastné svoje deti. Ty,   jeho nástupca, náš kresťanský Čas, musíš ich vydávať. Tys’   nevyčerpateľný. Koľko kapitol (v nedostatku inej látky) začal   poviedkár s Tebou! A Tys’ mu prispel svojimi quasi dietkami —   reflexiami — tu novými, tu ponovenými iba. Ó, koľko ti je podlžna   poézia!
+   </tei:p>
+   <tei:p>
+    Hore ospievaný čas ubiehal i nad mojou bielou hlavou. Vlasy   predtým úplne biele zafarbil asi tak, ako zájde nová doska, keď bola   dlho na slnci. Nadovšetko vybil z hlavy sny o budúcom akomsi panstve.   Zabudol som na šnurovaného Ištvána, a keď ho i vidím, nežiada sa mi   už stáť tam na jeho mieste.
+   </tei:p>
+   <tei:p>
+    Prišiel som na Veľkú noc domov. V druhý sviatok večierkom zašiel   som do Koreňov. Zuzka moja vyrástla v šumnú dievčicu. Ja som zostal   verný prvej svojej láske, ale Zuzka zabudla, že
+   </tei:p>
+   <tei:p>
+    ﻿17
+   </tei:p>
+   <tei:p>
+    sme si prisahali kedysi vernú lásku i že budeme svoji. Hoci naši   otcovia vypili nejeden žajdlík rozolišu na budúce svatovstvo, Zuzka   len čo vyšla zo školy, začala kukať za veľkými mládenci. Na mňa ani   pozreť, lebo hanbila sa za mňa. Ja som ju šiel kúpať a večierkom   musel som prísť i na oldomáš.
+   </tei:p>
+   <tei:p>
+    Našiel som u nich plnú izbu mládencov. Znechutený pobral som sa   domov čo najskôr. Krstný otec vyprevadil ma na cestu, aby ma táto   morálna frčka nebolela, ktorú mi jeho Zuzka vpálila na nos. Ako sa   tak shovárame, zadupocú za nami koňské kopytá. Obzrem sa a, hľa, na   koni akýsi pán sa mi usmieva.
+   </tei:p>
+   <tei:p>
+    »Servus, Jani!« pozdravuje ma a, zastanúc, nahýba sa s koňa a   podáva mi ruku.
+   </tei:p>
+   <tei:p>
+    »Služebník ponížený!« ďakujem ja spletený, ako prídem k tejto   známosti.
+   </tei:p>
+   <tei:p>
+    »Azda ma neznáš ?« prihovára sa mi. »A ja ťa znám, hoci som ťa   nevidel, len ako malého chlapca. Bol si ešte len vo vankúšiku, ale už   ti múdrosť kukala z očú. Hodne si podrástol. (Ja som sa narovnával.)   I fúzy ti šibú. (Zapálil som sa.) Budeš šuhaj, akých vidno málo. A   onedlho budeš robiť matúru!«
+   </tei:p>
+   <tei:p>
+    »Ešte som iba v piatej!«
+   </tei:p>
+   <tei:p>
+    »Á — to ti už prichodí onikať. No, nič to — ja starý známy môžem i   dôverne. Neraz sa zastavím u vás. (Len kto si? trápim sa ja.) Lata,   nesiem si z vášho syrníka.« A vytiahol
+   </tei:p>
+   <tei:p>
+    Martin Kukučín: Sobrané Spisy III. 2
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    z vrecka trojuholník pravoramenný, vykrojený z pagáča, ktorého   základná nebola čiara, ale oblúk okolo 40—50°. Natretý bol tou   znamenitou miešaninou, ktorú naša mať na syrníky natiera. »Zastavil   som sa u vás a pýtal si syrníka. Takého nemáš nikde pod slnkom. Čo   som ich ja u vás pojedol! Rýnok by si nimi vypľastroval. A švábky   pečenej! Silberova pálenica ju za rok nevypáli.«
+   </tei:p>
+   <tei:p>
+    Ľaľa — nože, no!
+   </tei:p>
+   <tei:p>
+    Poznal som ho konečne. Nikto iný, ako pán Hudis, exekútor. A v   tvári sa tak veľmi nezmenil. Nuž chudší je čosi. Ale ináč s ním   veliká zmena. Hľa, nesedí na koči, ale iba na koni. A kôň, že mu   rebrá počítaš. A táto neobyčajná vľúdnosť a shovorčivosť. Dávanie sa   do známosti ľuďom neznámym a — povedzme otvorene — bezvýznamným. Ani   šaty nepoukazujú na bývalú slávu. Ošuchaly sa, vyplavely na slnci a   daždi. Ani matéria na nich nie je nejaká fajnová. Je hrubá, akási   chlpatá, hoci Veľká noc tu, slniečko prihrieva a žiadajú sa šaty   letné. No i Fido je tu, tiež chudší čosi a tiež sa mi pritiera a   pletie popod nohy. Vybehol z Koreňovie dvora, nebodaj prekutal všetky   šafle a válovy. Z parádneho panského psa stal sa za ten čas celkom   obyčajný dunčo.
+   </tei:p>
+   <tei:p>
+    Pán Hudis nedal mi dlho rozväzovať. Hneď pokračoval:
+   </tei:p>
+   <tei:p>
+    »Dobre, že si tu; budeš mi na dobrej po-
+   </tei:p>
+   <tei:p>
+    ﻿19
+   </tei:p>
+   <tei:p>
+    moci. Už vyše polroka nadchodím do dediny, aby sa dali   assekurovaf, a nedajbože. (Koreň si odpľul.) Okrem fary, školy a   kostola nedostal som nikoho. Ty si učený, znáš mnoho z kníh i sveta   si zkúsil. Vidíš, čo druhí nevidia, lebo si videl pekný kus sveta.   (Začervenal som sa a sklopil oči.) Musíš im vysvetliť, že je to im k   dobrému. Bezpeční môžu líhať, vstávať. Keď mu dom zhorí, náš ,Venus‘   vyplatí škodu na krajciar. Veď je to nie môj osoh, ale ich osoh. Čo   by nedal človek, keď má úhlavného nepriateľa prikovaného na reťazi? A   oheň je gazdovi úhlavný nepriateľ. Mocný a ľstivý. Mocný, lebo nič mu   neujde, všetko olíže plamennými jazykmi; všetko zničí, zmárni, na   popol obracia. A ľstivý! Číha sťa zlodej v svojom úkryte. Spí pod   popolom celý deň, celú noc v iskierke ukrytý. Myslíš, že už zaspal na   veky. Vysypeš popol na pôjd, padne doň chlp žrebí, a už ti horí   vlastný dom nad hlavou. Spí vo fajke, vytrúsi sa do sena, utají sa,   tleje potajomne: len sa zdesíš, keď bijú na zvon, a stavanie v   plameni! Koľko žobrákov sa premele v jaseni! Nezostalo im nič — ani   čo na seba, ani do seba. Potĺkajú sa, nemajúc kde hlavy skloniť. Roky   trvá, kým shonobia, čo plameň zhltol v okamihu. Nie ti ich ľúto,   neborákov? Mohli všetkého minúť za päť-šesť zlatých. Miesto starých   humán, do ktorých premokalo, mohli si vystaviť nové. Miesto deravých   chalúp, ktoré boly na spadnutie, nové
+   </tei:p>
+   <tei:p>
+    2*
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    kaštiele. Za hotový groš, lebo náš ,Venus‘ platí statočne. (Koreň   sa uškeril a zas si odpľul.) Veru statočne; darmo sa smejete, Koreň!   Pozrite Muchovcov v Kuranoch. Celé Kurany žobrú, nemajú sa ako hnúť,   a Muchovci vystavili si dom, radosť naň pozreť. A za pár   zlatých!«
+   </tei:p>
+   <tei:p>
+    Ja som len schvaľoval, čo Hudis vravel. Kto rozumný by   neschvaľoval? Má pravdu, že som moc zkúsil sveta, i že sú všade   assekurovaní. Prečo iba naši nie? »Ale prečo je nie exekútorom ?«   trápil som sa. »Prečo nechal tú dobrú službu, prečo sa dal na toto   remeslo? Sedliaka naviesť na takú novotu! A ešte tuto u nás!«
+   </tei:p>
+   <tei:p>
+    »Ty si rozumný, ba učený: roztvor otcovi rozum, čo je to za   blahoslavená vec«, pokračoval Hudis. »Za tvojím otcom dajú sa   ostatní. 1 Mišovi povedz. Nech sa nespolieha, že oheň zašanuje iba   jeho. On je vzdelaný sedliak, akých málo: a v tomto drží sa   ostatných. Veď je to len jeho vlastný osoh. Svojmu uverí skôr, ako   mne. Hoci sme spolu boli mendíkmi, i vylízali med, čo sme niesli do   Plačian.« Rozosmial sa nad touto rozpomienkou z mladosti.
+   </tei:p>
+   <tei:p>
+    „A veru z toho nebude nič«, ozval sa zrazu krstný otec. »A čo by   prišiel neviem kto, na to sa my nedáme.« Srdito pozrel na Hudisa a   potom sa zahľadel kamsi stranou. »Nech sa ani neustávajú.«
+   </tei:p>
+   <tei:p>
+    »A prečo ?« pýta sa Hudis.
+   </tei:p>
+   <tei:p>
+    ﻿21
+   </tei:p>
+   <tei:p>
+    »Lebo nám toho netreba. Porcie ledva zdolieme, nie to ešte takúto   vec nič po nič. U nás už vyše sto rokov ohňa nebolo. A to všade, kým   neslýchali o assekurácii. Nám je to vonkoncom výdavok daromný.«
+   </tei:p>
+   <tei:p>
+    »A keď sa prihodí nešťastie ?«
+   </tei:p>
+   <tei:p>
+    »To sa prihadzuje, ale málokedy. Keď hrom udre, alebo čo. Raz za   sto rokov. Nuž a to sme hodni znášať, beztoho nemáš na nás dobroty,   čo by mucha na krýdle uniesla. Ale keď sa raz assekurácia rozmôže, už   ľudia nemyslia iba na oheň. Kedyže bude oheň, už ho dávno nebolo. Iba   čo darmo platíme tú assekuráciu — tak si budú povrávať. Ja vyše   dvadsať rokov rezávam sečku pri lampáši, nikdy sa nič neprihodilo. A   to v každej rezačke tak. Lebo dáme si pozor na oheň, keď sa ho   bojíme. Keby bol len jeden assekurovaný, už by sa zatrúsilo do slamy.   1 v Kuranoch tak bolo. Ako sa Muchovci assekurovali, už sa strhol   oheň a všetko zhorelo. Preto my nepripustíme assekurácie do obce.   Obec sa musí sama oháňať pred ľuďmi, čo svádzajú, sťa kôň pred   ovadmi.«
+   </tei:p>
+   <tei:p>
+    Pozrel tak nepriateľsky, s nenávisťou na Hudisa, že samého ma   urazilo.
+   </tei:p>
+   <tei:p>
+    »Ja to robím hádam pre seba!« bráni sa Hudis. »Komu to bude na   osoh: mne, či vám?«
+   </tei:p>
+   <tei:p>
+    »Ja si len myslím, že darmo ani Bohu neslúžime«, riekol   opovržlivé. »Darmo to tiež nerobia.«
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    »Veď ani nemôžem!« zvolal Hudis. »Nemôžeťe žiadať odo mňa. (Koreň   mu prikyvoval.) Ale robím statočne, čo robím. Statočne vyhľadávam   svoj chlieb, ako ktokoľvek, ako i vy. Nezostalo mi po rodičoch   bohatstvo, pole. Ale moje pole je tu!« ukázal prstom na čelo. »A kto   z toho žije, žije just tak statočne, ako vy zo svojho.«
+   </tei:p>
+   <tei:p>
+    »lba že ľahšie«, smeje sa krstný otec. »Pravda, mňa nič do toho.   Nech si tam zasejú, čo len chcú. U mňa sa tam len otruby rodia. Nech   si robia, čo chcú, len nás nech neprevracaj ú.«
+   </tei:p>
+   <tei:p>
+    »No, veď sa budeme o tom ešte shovárať«, riekol Hudis. »1 teba   navštívim«, obrátil sa ko mne, podávajúc mi ruku. Popchol koňa, a už   letí hore dedinou a Fido za ním.
+   </tei:p>
+   <tei:p>
+    »Hladoši!« dudre krstný otec. »Ľahko žiť, nič nerobiť, a ty mu   pchaj do pažeráka svoje mozole.«
+   </tei:p>
+   <tei:p>
+    »A už je nie exekútorom?«
+   </tei:p>
+   <tei:p>
+    »Veď vidíš, že sa nevozí na koči. Zostal mu iba ten kôň a pes. Oj,   bude ten chodiť i pešky!«
+   </tei:p>
+   <tei:p>
+    »A čo sa to stalo ?«
+   </tei:p>
+   <tei:p>
+    »Pobabril tam čosi. Ale to by boli zatreli jeho tatkovia« — a   Koreň sa usmial — »lebo všetci sa mu mali za tatku — ale stalo sa mu   nešťastie. Akýsi trhan zjavil sa z Pešti a ten sa mu dával tiež za   tatku. Nie že by ho bol podplatil a poslal niekde do pekla: on ho,   blázon,
+   </tei:p>
+   <tei:p>
+    ﻿23
+   </tei:p>
+   <tei:p>
+    vyhodil z domu. Ten pochodil po všetkých úradoch žalovať sa, akého   má nepodareného syna. Tak páni prestali sa mu mať za tatku, keď už   naozajstný tatko sa im ukázal. Nebáli sa už, že ich bude poťahovať.   Tak sa ho odhodili a prišiel o službu.«
+   </tei:p>
+   <tei:p>
+    Takto divotvorne zahral si osud s naším Hudisom. Iní sa otca   nahľadajú, že ich napomôže, a nenajdú ho. On ho nehľadal, a našiel. A   bolo by mu iste zdravšie, keby ho nebol našiel.
+   </tei:p>
+   <tei:p>
+    IV.
+   </tei:p>
+   <tei:p>
+    V jedny vakácie cestoval som z Lojnice do Kyptova vo veselej   spoločnosti. Vyviezli nás z Lojnice až pod vrch Urec, ktorý, ako   známo, delí dve stolice od seba. Bolo utešené ráno a práve nedeľa.   Sosadli sme v hostinci stroviť kura, ktoré jeden zo súdruhov už dva   dni nosil v kapse a ktoré nestačili sme minúť. Všade sa nám tak dobre   vodilo.
+   </tei:p>
+   <tei:p>
+    Vyšiel som z hostinca rozhliadnuť sa v dedine. Vidím ľudí tiahnuť   do kostola.
+   </tei:p>
+   <tei:p>
+    »Hľa, tu majú ten chýrny kostol«, myslím si, »nezaškodí ho   obzreť.« 1 vošiel som dnu.
+   </tei:p>
+   <tei:p>
+    V kostole veľa ľudu, kňaz slúži tichú omšu. Zástupy bielych žien   kľačia po studenej dlážke, modliac sa z drobných knižočiek.
+   </tei:p>
+   <tei:p>
+    Zabudol som prezerať kostol i jeho pamätnosti. Pozoroval som   radšej ľud, ako vzýva
+   </tei:p>
+   <tei:p>
+    ﻿24
+   </tei:p>
+   <tei:p>
+    Boha. Musí to byť veľkého čosi, čo nás voviedlo na toto miesto.   Aspoň sa ti zdá, že sme všetci rovnakí, že odhodili sme všetky   rozdiely, že sme jedna duša, jedno srdce. Veď myšlienky i city   všetkých akoby tíchly; ináč tak rozdielne a hriešne ako by sa   očistené spojily a tiekly jediným žľabom na slávu Všemohúceho. Tu   padá s teba osobnosť i jej prívesky —• stojíš tu s druhými, rovnako   malý. Ako by si sa slial s ostatnými v jednu hmotu, ktorá rovnako   myslí, rovnako cíti, túži a pokorí sa pred Hospodinom.
+   </tei:p>
+   <tei:p>
+    Možno, ten dojem korení v tom, že ľud je oblečený rovnako, v   svojom sviatočnom kroji. Aspoň ja cítil som, že nepatrím sem, nemajúc   rúcha sviatočného, a ani nálady sviatočnej. Ani ma nezaviedol sem   úmysel poslúžiť Bohu, ale iba obzreť si pamätnosti chrámu.
+   </tei:p>
+   <tei:p>
+    A ešte jedna osoba tak cudzo sa tu odráža. Muž, nie už mladý, ale   pevný, územčistý, dľa hábov nejaký remeselník z dediny. Nevidno na   ňom nič sviatočného, iba to, že kľačí v kúte a modlí sa, pravda, nie   z knihy, ale z pamäti.
+   </tei:p>
+   <tei:p>
+    Zdá sa mi, že toho človeka som už kdesi videl. Akýsi známy mi   prichodí. 1 tu ma pamät opustila, ako tak často i inokedy. Mrzí ma to   veľmi, ani odísť mi nemožno, kým nevyzviem, kto je.
+   </tei:p>
+   <tei:p>
+    Dlho sa tak modlil, konečne vstal a pomedzi ženy pretiera sa ku   dverám. Za ním sa beriem ja. Pred kostolom pod lipami zakašľal
+   </tei:p>
+   <tei:p>
+    ﻿25
+   </tei:p>
+   <tei:p>
+    som tuho, naschvál, aby sa neznámy obzrel. A on sa obzrel, ale len   zbežne, obzrel sa ešte raz a hneď i zastal.
+   </tei:p>
+   <tei:p>
+    »Ako sa ľudia sídu!« zvolal, ako vidno, veľmi prekvapený. »Ledva   som vás poznal.«
+   </tei:p>
+   <tei:p>
+    »A ja ťa vôbec neznám«, myslím si ja a usmievam sa tým hlúpym   úsmevom, ako človek, ktorý nevie, čo má povedať.
+   </tei:p>
+   <tei:p>
+    »A či ma neznáte ?« zbadal sa zaraz. »Ani by sa nedivil. Kde by   ste ma tu hľadali. Nevideli sme sa pekných pár rôčkov! Ostatný raz,   myslím, keď som vašich nahováral na assekuráciu u nášho ,Venuša“.   Dosiaľ sa radujem, že ma vaši starosvetskí občania nezavreli, že ich   toľko trápim.«
+   </tei:p>
+   <tei:p>
+    »Pán Hudis!« zvolal som prekvapený. »Kto by sa nazdal!«
+   </tei:p>
+   <tei:p>
+    »Mne sa nedivte. Ja som všade, kde chcete. V dedine, meste, na   hradskej, na železnici, na vode, na suchu. Domu nikde nemám, ale   všade doma. Nuž tulák dokonalý. Idem do Kyptova, s pltnice. Vošiel   som do kostola, pomodliť sa za svoje hriechy.«
+   </tei:p>
+   <tei:p>
+    »Ja tiež idem do Kyptova. Pôjdeme spolu«, ponúkal som sa mu.
+   </tei:p>
+   <tei:p>
+    »To je dobre. Pôjde nás pekná kopa. Moji chlapi sú tuto v   hostinci.«
+   </tei:p>
+   <tei:p>
+    »Vaši chlapi ?«
+   </tei:p>
+   <tei:p>
+    »Nuž moji trochu. Ja som faktorom u Kôniga v Kyptove. Už druhý   rok, čo chodím
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    s plťami až dolu po Dunaji. Ničoho sa nezariekam, ale si myslím,   že nepremením služby tak chytro. Bol som všeličím, ale táto služba sa   mi najlepšie páči.«
+   </tei:p>
+   <tei:p>
+    Šiel som popri ňom mlčky. Bál som sa ho vypytovať, ako sa stala s   ním táto zmena. Vidno, že koleso osudu vrtelo sa s ním nie zdola   nahor, ale dolu kopcom. Už-už bol medzi tými desať tisícmi, čo sa   vozia na koči, a hľa, dnes chodí pešky, ako väčšina ľudstva. Osud ho   srovnal s nami.
+   </tei:p>
+   <tei:p>
+    Vošli sme do hostinca, ale nie do bočnej, kde boli moji druhovia.   Sadli sme do krčmy, kde sedeli pltníci za stolmi pri svojom   »fruštiku«. Niektorí ležia na zemi, tak ako nocovali.
+   </tei:p>
+   <tei:p>
+    »Veru, veru — človek je nič«, začal Hudis, keď sme vypili prvý   pohár vína. »Človek je toľko, ako páper — ale ani to: ako tento   prášok. Vietor ho schytí, nesie, metá sem-tam, zdvihne medzi oblaky,   alebo hodí do blata. Tam ho zabudne, nestará sa oň, a zas ho polapí,   ihrá sa s ním, ihrá. A vraj človek má osud v svojich rukách! Kto to   dokáže? V rukách má iba jedno: či chce byť dobrý, alebo oplan. Len to   je jeho! Ostatok riadi ktosi iný, celkom iný. Jeden to volá osudom,   druhý riadením Božím, tretí náhodou, iný zas nešťastím. Ja to volám   riadením Božím. Ono nás tak všakovak vrtí, obracia, hladí, šibe, a my   nevieme, prečo; čudujeme, obzeráme, spytujeme sa: načo toto a načo   toto? A ne-
+   </tei:p>
+   <tei:p>
+    ﻿27
+   </tei:p>
+   <tei:p>
+    vieme nič. Lebo my sme, či vidíte, slepí. Z minulosti vidíme čosi.   To, čo chceme. Z prítomnosti vidíme málo a nevieme, načo, aké je to.   Z budúcnosti nevieme už vonkoncom nič. A ešte sa pechoríme, že toto   je dobre, toto je zle! A ono ,dobre“ môže sa prevrátiť v zle a zle   zase v dobre, a my zas len nevieme, kedy, prečo, načo sa tak   obrátilo.«
+   </tei:p>
+   <tei:p>
+    Zadíval som sa naňho. Nevedel som sa prenadiviť, aký filozof sa   vykotúlil z neho.
+   </tei:p>
+   <tei:p>
+    »Len kde sa to vo vás nabralo ?« zvolal som.
+   </tei:p>
+   <tei:p>
+    »Ja neviem sám. 1 to bude riadenie. 1 čo sa človek naučí, nenaučí   sa od seba, ale z akéhosi vnuknutia, už zlého alebo dobrého. Dvaja   chodia tie isté školy, a jeden je tulák a druhý mudrák. Z malého a   veľkého katechizmu naučil som sa byť exekútorom. A keď som prišiel o   službu, z vlastnej biedy naučil som sa znať zase katechizmus. A znať,   viete, tak naozaj, nie len slová. Vidíte, človek nikdy nevie, čo sa z   čoho naučí. . . Šudiar sa i z biblie naučí šudiariť. Vyberieš si, čo   ti je nie proti srsti. Moc ľudí znám na príklad, čo neveria nič.   Biblii sa posmievajú. A veria predsa, že Kristus odpustil žene   cudzoložnej! 1 odvolávajú sa na jej príklad. 1 odobrujú, že Kristus   odpustil. To sa im najväčšmi páči z celého Nového zákona...«
+   </tei:p>
+   <tei:p>
+    »Na každý prípad divné reči od vás«, poznamenal som. »No ale —   akože, čo sa to robilo s vami?« pýtal som sa, lebo ma zvedavosť   trápila.
+   </tei:p>
+   <tei:p>
+    ﻿28
+   </tei:p>
+   <tei:p>
+    »Nuž z ,Venuša“ ma vyhodili. Zabudol som poplatiť závdavky, čo   sorn naikassoval po dedinách. Predali mi všetko, čo som mal. Mohol   som byť ešte rád, že ma neposadili do chládku. I žena razom   nahliadla, že som ja človek ničomný. Tašla k rodičom. Razom som   zostal na tom, čo som bol, keď som prišiel do vašej dediny. Len o pár   rokov starší a čosi zkúsenejší. Tu som raz prišiel do vás. Vaša mať   bola sama doma. Dva dni som nejedol — pýtal som si niečo. Nuž   nakŕmila ma zas, a keď som sa najedol, poliala ma takou hubovou   polievkou, že do smrti budem pamätať. Celý môj život mi vyčítala, ako   s dlane. »Z vás nebude nič, Martin« — tak dokončila— »kým vy budete   chceť len takto žiť. Vy prídete rovno do llavy, alebo na šibenicu. Vy   musíte začať celkom odznova. Žiť z toho, čo statočne vyrobíte.« A to   mi už nedalo pokoja. Rozvažoval som a pred seba vzal, že idem robiť   inakšie. Vzal som do arendy gazdovstvo od poliarskeho Žida. Ale   chlieb zo skaly vyrábať vládze iba náš sedliak. Dva roky som hlušil,   a nebolo lepšie. K tomu som v jaseni vyhorel, zostala mi len duša v   tele a nádej v Boha. Ako bývalý agent ,Venuša“ zabudol som sa sám   assekurovať. Tu mi ponúkol Kônig z Kyptova faktorstvo, a ja ho hneď   prijal. Práve včera som poslal poliarskemu Židovi ostatnú rátu, čo   som bol dlžen za zrušenie kontraktu. Za to som šiel dnes Bohu   ďakovať, lebo Žid ma chcel vsadiť do chládku.
+   </tei:p>
+   <tei:p>
+    ﻿29
+   </tei:p>
+   <tei:p>
+    Nuž taký je môj život!« Sklonil hlavu do dlaní a náhle   zamíkol.
+   </tei:p>
+   <tei:p>
+    »Dosť ste vytrpeli!« poznamenal som. Ľútosť sa vzbudila vo mne   oproti tomuto pomýlenému človeku. »Prešli ste mnohými premenami«,   pokračoval som, »ztratili ste mnoho, ale nekonečne viac našli. Stali   ste sa človekom...«
+   </tei:p>
+   <tei:p>
+    Hodil rukou a nič neodpovedal. Sedí so sklonenou hlavou a naraz sa   ma pýta: »A viete, čo ma zamrzelo najväčšmi ?«
+   </tei:p>
+   <tei:p>
+    Pozrel som mu v rozpakoch do tvári a pokrútil hlavou.
+   </tei:p>
+   <tei:p>
+    »Že ma ona zohabila!« riekol tichým hlasom, ktorý sa jemne   zatriasol. »Ona nemala prečo na mňa sa žalovať. Ja som ju i potom   miloval verne, ako keď sa mi dobre vodilo. A ona sa tak ukázala, tak   nepekne!«
+   </tei:p>
+   <tei:p>
+    Pozrel na mňa‘premenenou trávou. Oči kúpaly sa mu v slzách. Mne   akosi sa rozjasnilo všetko dookola a zdalo sa mi, že vidím hĺbku jeho   bôľa.
+   </tei:p>
+   <tei:p>
+    »Ba že ste sa nezmárnili!« zvolal som dojatý. »Nebol by div!«
+   </tei:p>
+   <tei:p>
+    »Ach, to n i e!« pokrútil zas hlavou a pozrel na mňa prekvapený   novosťou mojej myšlienky. »Ani vtedy za horúca som nepomyslel na to.   A dnes? Dnes sa všetko zmenilo. Viem, čo je náš život! Trvá sám v   sebe krátko. Prečo ho skracovať, keď je beztoho taký krátky? A potom,   dobre mi je. Nič mi nechybí. Nestarám sa, čo
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    bude zajtra, pozajtre: to je už nie moja starosť. Konám povinnosť   — o ďalšie stará sa Ten, ktorý tak divne ma vodil. . .«
+   </tei:p>
+   <tei:p>
+    Stisol som mu ruku vrele. A vtedy mi prišlo na um, ako málo u nás   samovrážd. Tu sa mi zdalo, že to nie tuposť, nie zbabelosť, nie   strach pred smrťou, ale že to zapríčiňuje odovzdanosť do vôle   vyššej.
+   </tei:p>
+   <tei:p>
+    Obdivoval som i jeho bezstarostnosť i veselosť. Zazávidel som mu   tú nesmiernu svobodu, úplnú neodvislosť. Položil som si mimovoľne   otázku: »Kedy bude takto tebe?«
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1893403" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Rohy : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3204
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Rohy
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1893
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Rohy.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    Pán Jonáš Kelniclcý sedí na lavičke pod pecou, hoci nie je zima,   ale práve o Jakube. Slnce vonku praží, tu pod pecou je znamenitý   chládok. A pán Jonáš musí byť v chládku. Gazdiná nevynesie slaniny   alebo masla na slnce, lebo by sa roztopilo, ale ho schová niekde do   pivnice; tak pán Jonáš Kelnický by sa tiež na slnci roztopil, lebo je   tučný. Susedia, keď spomenú, že pán Jonáš umre, vždy povedia: „Ej,   ale sa tá zem pomastí!“ . Sedí a kúri z fajky tajtíkovej, lebo práve   sa bol najedol halušiek bryndzových, že ledva odfukuje. I oči sa mu   tu i tu privierajú, a možno by sa i privrely a pospaly si, ale sa   boja. Doktor mu bol raz povedal, že ak bude po obede spávať, srdce mu   sadlom poprerastá, a nebude sa môcť viac ani hnúť. Pán Jonáš to   uznal, lebo vie, že i kŕmnik, keď sa vykŕmi a poprerastá sadlom,   nechce sa hnúť s miesta.
+   </tei:p>
+   <tei:p>
+    Pane Bože, a aký bol kedysi chlap rezký! Vtedy ešte bol mladý a   nebol takto na posmech tučný. Na muzike vytínal, a nejedno zemianske   dievča vzdychalo za driečnym pánom Jonášom. Vtedy chodieval na   polovačky, nikdy neprišiel, aby nebol doniesol zajaca, srnu, alebo   srnca. Ale kedy to bolo, kedy! Už na poľovačke nebol, bude toho roku   na Pavla triadvadsať rokov. Duplovky a simple sú zavesené na stene,   tam pri nich’ visia i rožky srncov, čo pán Jonáš nastrieľal. Na dvoch   tých pároch sú parožky olámané, lebo
+   </tei:p>
+   <tei:p>
+    1*
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    stará Dóra, čo po smrti pani Juliany, manželky Jonášovej, stala sa   gazdinou, myslela si: „Ľal’a, aké šikovné kliny sú v tej stene   zabité, a nič nevešajú na ne!“ Teda aby nestály tak nadarmo, zavesila   milá Dóra na jeden pánovu bundu a na druhý starú kamenicu, krčah, v   ktorom sa cez leto voda dobre držiavala. Parožky popustily, odlomily   sa, bunda spadla na zem i kamenica. Bunde sa nestalo nič, iba   kamenica sa zabila. „Už si ty len sprostá! nadával jej pán   Jonáš. „Nie darmo ťa volajú Dorou. Naozajstná Dóra — sprostá...   „Ale som ja vedela, mladý pán, čo je to! Ja, že sú to kliny!“ Volala   ho mladým pánom, hoci veru mladý bol pred tridsiatimi rokmi. „Veď tak   — nevie, čo sú rohy! Tebe keby ich nastavil, alebo radšej uši, také   somárske. No, no — kde ja vezmem také parohy, kde ich vezmem. A   prilepiť sa nedajú! No — ale bys’ jej neodťal hlavu — taká, taká...   To sa stalo po Troch králoch toho roku, ale pán Jonáš i teraz, ako   pozrel na parožky, hneď zahrešil Dore, že je taká sprostá. „Nevie to   nič“ — tak vraví sám sebe — „tento ženský národ. Ibajazyčiť. Čo chybí   na rozume, to doloží jazykom. Ale táto i ten jazyk má taký nešikovný.   Pane Bože, načo je také stvorenie na svete? To by sa i do steny   búšilo, a nepotrafilo by z izby, keby ju človek nenaúčal. Ale čerta   naučíš takú starú trlicu! To má rozum prekrútený, ako ovca, keď   dostane vrtohlavosť do hlavy.“ Dóra si zas myslí: „Keď len tak nemôž’   zabudnúť na tie rohy! A keby to čo -— ale rohy! Keby to boly aspoň   rohy z vola, alebo z kravy, tie sta aspoň väčšie: i oseľníky sa z   nich robia, i povedajú, že i hrebene a gombičky z nich bý-
+   </tei:p>
+   <tei:p>
+    ﻿5
+   </tei:p>
+   <tei:p>
+    vajú. Ale totc\ takô nič, ani len krčaha navne nezavesíš. A toTko   mi letí k hlave pre ne. Čerti posvietili na ne pozrieť!“ Pán   Jonáš Kelnický vytriasal popol z tajtíčky, kecľ si zastal pred ním   Duro Hustý s vymastenými vlasmi, že až kvapkalo s nich, v košeli   celkom začadenej, čiernej, i v huni čiernej. Iba tvár široká, tučná   je vybelená a ruky tiež ani čo by boly nejakej pani veľkomožnej. Na   Duroví Hustom vidno, že je so salaša, po tej košeli a vlasoch, i že   je bačom, preto, že je taký vypasený. „Pán Boh s namij“ i „I Duch   svätý! Čože si mi doniesol?“ Tak ho privítal pán Jonáš. A ono vedel   dobre, čo mu Duro doniesol. Je dnes sobota, Duro sišiel so salaša   robiť s pánom komput a oddať syr cez týždeň naodváraný. Veru tak! Pán   Jonáš je gazda hrubý, sám si drží salaš jia svojich pasienkoch o pol   druha sto dojkách, a Duro je bačom/ „Akože — doja ti nejako tie   ovce?“ Duro sa poškrabal za uchom a  „Akože budú dojiť,   mladý pán! Už je po Jánc, kukučka odkukala, pašu slnce vypieklo, ovce   len toľko, že mi nepoprisychajú! Dve gelety na jeden pôdoj — čože je   to! Keby sa chlap chytil, bysťu Bohu, na dúšok ho všetko to mlieko   vytiahne. Valasi idú o ruky prísť ,pri dojení, tak naťahujú tie   škuráty: ale naťahuj, nenaťahuj — cvrkne raz-r dva, a potom už nič.   Dal by Pán Boh trochu dažďa l Takto veru ťažko bude rädovať.“ „Čo ťa   čert vezme, Duro, ale ty si loptoš! Ja neviem, ale tebe ovpe nikdy   nedoja. Po Jáne ti pašu vypeká — mlieka málo, pred Jánom zas paša   veľmi vraj  — mlieko riedko. Po Jáne málo syra, lebo je   vraj mlieka málo —pred Jánom zäs syra málo, lebo vraj mlieko je nie   sporo..
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    Nuž tak ty mňa: či pred Jánom, či po Jáne, vždy len na tvoje musí   vyjsť, a ja všetko odsmrdím. Len mi povedz, v ktorej ťa škole učili!“   Duro neodpovedal. Bol naučený počúvať takéto reči od pána. Iba si   myslí: „Tebe tiež nikto neuhovie, starý bachránisko. Ide ťa to sadlo   rozpučiť, a ešte nikomu nedožičíš ani kúska toho syra. Ešte i tú   psiarku by si užil, keby si vládal. Ale už ju nevládzeš, tak si   nakúpil svíň, aby sa vraj psiarka daromné nevylievala.“ Duro oddal   syr, komput bol spravený. Pán Jonáš mu vraví: „Len, Duro, hľaď, aby   sme vygazdovali, usiluj sa; veď ti ja nahradím. Akože prasce —   správajú sa?“ „Veď sa správajú“, odpovedá Duro. „Ale veru na Matku   Božiu ich prichodí predať. Pomaly nebude žinčice ani nám chlapom, nie   to, aby sme ošípané chovali na nej.“ „Tak sa správajú, správajú!   vraví pán Jonáš vľúdnejšie. — „Dóra, Dóra!“ kričí na gazdinú. „Čože   nejde? Dóra!“ Vo dverách ukázala sa hlava starej Dory. Človek by sa   jej zľakol, keby tak znenazdania pozrel na ňu — taká je strapatá.   „Dones tuto Duroví pálenky. Ale nie tej rozriedenej, tá je iba ženám.   Dones tej dobrej — veď vieš! V tej krpke, čo je na polici!“ „A už   hej!“ šomre si Dóra v komore. „Túto mu vovalím do hrtana! Keď ja sa   neotrovím, neotroví sa ani on, starý popit.“ I milá Dóra doniesla   síce krpku s police, ale pálenku, čo v nej bola, preliala do fľaše, a   do krpky naliala iba tej ženskej. „Nuž sa poprávajú!“ vraví si pán   Jonáš a usmieva sa, nalievajúc z krpky do hodnej skleničky.v„Vypi,   Duro, vypi!“ Duro vzal do ruky sklenku a prehol na ústa.
+   </tei:p>
+   <tei:p>
+    ﻿7
+   </tei:p>
+   <tei:p>
+    A už bola prázdna, ako by bol za plot vylial pálenku. Ani sa   nesmraštil, len si myslí: „Pálenka ako voda! Počkaj, stará striga,   keď si mi ty z tej lepšej nedožičila! Keď prídeš na sakiš, zamiešam   ti do žinčice kľagu: budeš ty vedieť, čo je nroja žinčica! „To   jedno je dnes hodno päťdesiat šajn, a to s tou záplatkou na slabine i   vyše päťdesiat“, odpovedá Duro, utierajúc si dlaňou ústa. „No — no!“   diví sa pán Jonáš. „No, nalej si ešte do skleničky. Len si nalej!   Duro nalieva a vraví ďalej: „Ja im nedávam len psiarku. Na psiarke by   tie ľahko kýchaly! Z našej urdy im dolievam. Ale sú i ošípané! — A tu   vydurkol druhú sklenku: „Jaj! Na Matku Božiu, takých-druhých   nebude! „Naozaj?“ zvolal pán Jonáš už rozveselený. „Máš fajku?   Nemáš u seba?“ „Nemám veru“, odpovedá Duro, hoci ju má v huni. Len sa   nechce priznať, lebo pán by mu dal do nej raz iba napchať, a takto,   kto vie, koľko mu nasype dohánu od oka. „No, počkaj — dám ti dohánu.“   I nasypal mu z mechúra plné priehrštie. „A len im prilej i tej   lepšej. Veď ja — neboj sa! „Kdeže by tie len tak na psiarke!“   chváli sa Duro. „Zavčerom bol honelník opátrať, aká bude šváblca.   Doniesol jej hodnú tanistru z farárovej zeme. Upiekli sme si jej,   ostatnú som uvaril ošípaným v kotlíku. Hltaly, budú sa dobre chovať.   Syábky sa ukazuje dosť, honelník pôjcle i tri razy do týždňa   podlirebať Pán Jonáš sa smeje z chuti. „Nalej si, Durko — nalej. Len   im pohoď švábky. Ale do farárovho nechoď. Farárovi (kradnúť je   hriech. Už rychtárovi, alebo kurátorovi netečiem ; ale farár má tých   detí veľa.“
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    Ďuro vypil zo skleničky a riekol: „Veď to bolo len tak na   okoštovanie. Kdeže by sme šli do farárovho! Svábky bude všade   nadostač. To len teraz, z počiatku, kým plavá nenarastie. Ale farár,   ten má akúsi novosvetskú, čo je na Jána už ta: nuž, reku, chlapče,   choď opátrať, aká to švábka. Tak jej doniesol do tanistry, i bola   veru dobrá. Ale už do farárovej nepôjde. Rychtár mi je kmotor, nuž   hojDošlem do rychtárovej...“ „Tak — tak, Duríčko!“ naúča ho pán   Jonáš. „Pre dve švábky neber si hriech na svedomie. Lebo ako by si   šiel k nemu ku spovedi, keby si mu vy ťahal všetku švábku. Už rychtár   ■— to nerečiem. Ale si nalej ešte jednu!“ Keď Duro i túto vypil,   akosi sa zarmútil. „Ja som hneď povedal, začal hovoriť smutným   hlasom: „že na salaši sa všetko prevráti, keď sa kúpia ošípané a psa   tam nebude. Ja som hneď povedal. I tak vyšlo na moje!“ „A načože je   pes?“ nahneval sa pán Jonáš. „Darmo chovať nič po nič. Psa nepredáš,   ale ošípanú predáš!“ „Veď hej. Ale človek neusne, čo sa bojíš o ovce.   Spíš ani myš na vreci, a predsa neuhľadíš kŕdeľ.JTej noci nám uchytil   vlk barana...“ „Čo — čo?‘ pýta sa pán Jonáš, zabudnúc i ústa zavrieť.   „Vlk, povedáš — vlk?“
+   </tei:p>
+   <tei:p>
+    „A už musel byť on. Idem ku košiaru, i vidím tam na zemi chlp   vlny; lala, tuto je. I zakrvavená je tuto. Púšťam ovce po jednej, a   barana nič. Vlk ho odniesol, i valasi tak povedajú.“ „A čože to hneď   nepovieš, ty babrák!“ nadáva mu pán Jonáš a myslí si: „Ja ho tu   napájam, a prídem preňho o barana. A ktorýže to baran?“ „S tým   lampášom na čele.“ „Najlepší — bohuprisám, najlepší! Var’ s lampášom   prišiel poň ten vlk, keď si najlepšieho vy-
+   </tei:p>
+   <tei:p>
+    ﻿9
+   </tei:p>
+   <tei:p>
+    bral. Čerta vlk! Bude ti v lete chodiť vlk. Vlk, ale o dvoch   nohách! Len daj pozor, ja viem, že ho chytíš Duro odišiel, a pán   Jonáš zostal už do večera rozpaprčený. Neprešlo ani dva týždne, tiež   takto po obede prišiel Duro. Pán ho privítal slovami: „No — nešípite   nič, kto popäl toho barana, nič nečujete? „Veru hore nič   nepočuť.“
+   </tei:p>
+   <tei:p>
+    „Prezvedali ste sa takto po druhých salašoch? „Idú sa tí   prezradiť, ak ho vzali!“ 1
+   </tei:p>
+   <tei:p>
+    „Tak čo si prišiel? Ja, že si ho už chytil, toho vlka. Čože si   prišiel? Ešte kým ty tu dole chodíš, za ten čas ťa hore obkradnú!“   „Akože neprídeš , začal Duro smutne: „keď tej noci zas bolo u   nás... „A čo?“ „Keby ja vedel! Neviem, iba že bolo. A vzalo zas   barana!“ „Ba kýho čerta!“ zhrozil sa pán Jonáš. „To už mi ich   všetkých poberie. A ktorého zas, ktorého?“ „Toho čierneho, čo má na   chvoste tú bielu kystku!“ „Najlepší — povedám, zas najlepší! No,   povedz ešte, že to vlk. Vlk si vie, l’ala, takto vyberať. A nebolo   šľaku?“ „Bolo po cestu, ale od cesty, tam už šľaku nikde. Ja neviem,   ja neviem. Mne sa toto nikda nestalo. “ „A na nikoho takto nemáš...?“   pýta sa pán. „Na nikoho. Ja neviem, kto by to. V‘ „A také barany! Aké   malý rohy! Že ho Pán Boh neskára. Ale aký si ty“, oboril sa naň: „aký   si ty babrák! Inému sa to nestane. Nevieš ho nájsť? Veď bača ako   svedčí vie všakové kumšty. Zabodne kyjak do zeme, a rastie okolo neho   tráva.
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    Zlodejovi porobí, že mu všetk3r stavce povykrúca. Nevieš ty takýto   kumšt?“ „Ja nie“, odpovedá Duro veľmi smutne. „A aký si ty bača?“   hromží pán Jonáš. „Ja pri tebe o všetko prídem. Nuž ale kto slýchal,   aby bača niečo nevedel. Ak mi ešte jeden baran zhynie, vieš: dám ťa   na mušky a do temnice. A z konvencie nedostaneš ani babky. Veru by to   bola robota
+   </tei:p>
+   <tei:p>
+    „A prečo ja — veď ja som ho nevzal!“ Pán Jonáš díva sa mu do   vybelenej tvári, či
+   </tei:p>
+   <tei:p>
+    ozaj niečo nepobadá na ňom. Nie — to je tvár celkom nevinná. Duro   to nebol. „Ja nehovorím, že ty“, vraví pán Jonáš.
+   </tei:p>
+   <tei:p>
+    by to bol i hriech, mne ubližovať“, ozval sa Duro. „Lebo ja som   dozeral, ako oko v hlave chránil každú ovcu. Komuže je toto najväčšia   hanba? Mne. nikomu inému. A aký by to bol hriech: baranov kradnúť z   vlastného košiara! Keď už sa ti mäsa zažiada: tam dosť druhých   salašov. Ale do svojho košiara ísť — ach, veď by mi každý napľul do   očú.
+   </tei:p>
+   <tei:p>
+    „Ja na teba nepovedám“, vraví pán Jonáš trochu udobrený. „Ale tiež   by ste mali pokoj dať mäsu. Ani z cudzieho nebrať! Vidíš, ty pôjmeš   jednému, a ten zas pojme tebe z tvojho košiara. A škodu má ten, čo   drží salaš. Keď už krasť, to kradni, kde nemáš hriechu: takto v poli   šúpu hrachu, alebo za pol mece jabĺk — to už môžeš. Lebo čo je v   poli, to Pán Boh požehnal, i čo sa urodí na strome. To si ber. Ale už   do košiara, ani do cudzieho, to je hriech. Za to nás Pán Boh všetkých   tresce. Tak ty nechoď nikomu do košiara, a keď niekto príde tebe, tak   ho chyť... „Ej, keby ho dolapil — ale by pamätal!“ zastrája sa   Duro.
+   </tei:p>
+   <tei:p>
+    ﻿11
+   </tei:p>
+   <tei:p>
+    „No, a teraz choď vo meno Božie a dávaj pozor! Lebo ak ešte raz —   už som povedal!“
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    „Máte co predat! Kožky, škutiné-é! Kosti, handry, staré pampy —   hé-é! ‘ A žatým zatrulikal starý Mojžiš na píšťalke. Bolo to práve v   piatok ráno. „Kúpite kosti?“ volala za Mojžišom Dóra.
+   </tei:p>
+   <tei:p>
+    „Kúpim — na mu dušu: i túto sukňu vašu kúpim. Ve fabrice naťahujú   z nej papieru, takého bieleho, čo cisári na ňom si budú listy písať.   A Mojžiš sa jej usmieva.
+   </tei:p>
+   <tei:p>
+    „Ach, iďte a necig — veď je, lala, farbená, akože vám   bude z nej biely papier!“ dohovára mu Dóra.
+   </tei:p>
+   <tei:p>
+    „Bohuprisám — tam je taká mašina: tá všecko premele, a vyjde z nej   čisto. I dievky sa v nej premielajú — do nej staré a z nej také, eh“   — a Mojžiš zatloskal jazykom. „Alebo takúto sukňu by dali extra a   robili by z nej samé stovky. Tak, tak...“
+   </tei:p>
+   <tei:p>
+    „Keby ste radšej neplietli! Akáže by to bola cundra, keby sukňu   predala. Sukňu predať a vlasy predať, to iba naničhodnica spraví...“   „1 vlasy kúpim, i škutinu. „Ja vám predám kosti. Čo dáte za funt?“   „Pol nového. “ „Nehanbíte sa — pol nového! Tam ich je na pôjde hŕba,   veľmi veľa. Dáte po dva nové...“ Mojžiš sa rozosmial. „Po dva nové —   po dva nové! Čože sa vám robí! Ja všade kupujem po pol novom. Všade!“   „Ale týchto je vyše desať funtov. Desať dedín schodíte, a toľko ich   neskúpite! Ak chcete po dva nové.“
+   </tei:p>
+   <tei:p>
+    „Ja som kúpil u pána slúžneho po pol novom
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    — dva centy ich bolo. Ešte som priložil panej slúžnuli dva rífy   galúnov. Pozrite“, roztvoril truhličku, kde boly všakové veci,   tkanice, prstene, galúny, drumble — „pozrite, odmeriam vám týchto   galúnov tri rífy, tej som iba dva rífy — a vám tri rífy! A ešte po   pol novom...“
+   </tei:p>
+   <tei:p>
+    „To ja nemôžem. Toto sú kosti staré, dobre vysušené. Vy ich   nakropíte, nadskočí vám dvoje toľko na váhe.“
+   </tei:p>
+   <tei:p>
+    „Nakropíte — nakropíte!“ napaprčil sa Mojžiš. „Ktože vám povedal,   kosti kropiť!“ „Vari neviem, že sa ovos kropí, alebo jačmeň, keď ho   vezú do trhu.
+   </tei:p>
+   <tei:p>
+    „To vám je ovos, to je ovos?“ vykrikoval Mojžiš, kopol nohou do   vreca, že sa vyvrátilo a kosti vysypaly z neho. „Povedzte — kosti sú   ovos, alebo jačmeň? Ovos zasejete, 11a príklad, a zíde vám; ale kosť   nemôžete zasiať, lebo vám nezíde. To iba v Pucove siali soľ a zišla   žihľava. Ale ja som nevedel, že ste vy stvora taká sprostá...“
+   </tei:p>
+   <tei:p>
+    Dóra už nepočúvala, ako jej Mojžiš nadáva. Pozrela na kosti, čo sa   vysypaly z vreca: medzi nimi videla dve hlavy s rohami pekne   zakrútenými. Dóra si myslí: „ Keď toľko hundre, že som mu tie dva   rožky odlomila — vezmem tieto a zavesím mu ich tam. Tieto sú aspoň   poriadne zakrútené.“ I dala sa hneď do jednačky s Mojžišom. I   sjednali sa na veľa, na veľa. Ona mu pustila kosti po jednom novom a   dva rífy galúnu i ešte tieto hlavy s rohami.
+   </tei:p>
+   <tei:p>
+    Pán Jonáš sa nesmierne začudoval, keď Dóra vstúpila s nimi do   izby. „Čože chceš?“
+   </tei:p>
+   <tei:p>
+    „Nuž keď sa tam tie odlomily, tak, reku, čo by sme tieto   zavesili.“ „Čo — čo?!“ skríkol na ňu pán Jonáš. „Ty — ty — budeš sa   mi posmievať!“ A hrozí jej pipasárom, lenže stať sa mu nechce.   „Nevieš, že
+   </tei:p>
+   <tei:p>
+    ﻿13
+   </tei:p>
+   <tei:p>
+    sú to parožky zo srnca, čo som ja sám zastrelil, a toto sú sprosté   rohy z barana, čo Židák zarezal. Nevieš, aký je to rozdiel?“
+   </tei:p>
+   <tei:p>
+    „Nuž ja že rohy — ako rohv“, očíšťalasa Dóra.
+   </tei:p>
+   <tei:p>
+    A tu pánu Jonášovi zišly na um barany, o ktoré na salaši prišiel.   Pozerá, pozerá — ako by bol tie rohy videl. Nie, takých rohov nemal   nikdy ničí baran, iba jeho.
+   </tei:p>
+   <tei:p>
+    „A kdes’ ich vy priadla, tie rohy?“ pýta sa Dory.
+   </tei:p>
+   <tei:p>
+    „Mojžiš je tu. on ich doniesol vo vreci...“ „ Zavolaj mi ho! ‘ K   velikému divu Dory Mojžiš vošiel k pá-
+   </tei:p>
+   <tei:p>
+    novi. Bol veľmi natešený, že pán Jonáš mu ide čosi zvláštneho   predať. Ale nedal znať na sebe tú radosť. Veľmi pokorne zastal pri   dverách.
+   </tei:p>
+   <tei:p>
+    „Zlcade ideš, Mojžiš?“ pýta sa ho pán. „Z dediny, po kšefte. Ale   planý kšeft. Eudia nemajú ani kostí, ani škutiny. Mäso zjedia i s   kosťami, a najviac mäsa ani nejedia. A v zime nezakálajú, iba čo ženy   sa dajú podstrihať, ale to tiež aby nik nevedel. Ani handier   nepredávajú, teraz i handry si nechajú; Pán Boh vie, čo robia s nimi.   Bieda jé v dedine veliká. Dievka si nekúpi galúnu. a drumble už tiež   nechcú. Prichodí mi skapať na svete, alebo chytiť sa iného   remesla.“
+   </tei:p>
+   <tei:p>
+    „Od koho si kúpil tie rohy?“ „Od — od...“ Tu sa Mojžiš zasekol.   „Od koho?“ skríkol naňho pán Jonáš.
+   </tei:p>
+   <tei:p>
+    „Ja som nevedel, že sú to pána veľkomožného. Ja som šiel popri   salaši, tak som kúpil kosti od Maca, toho, čo na jednu nohu kríva. Ja   chodím i po salašoch, tam predávajú všakové kosti. Najviac z oviec,   Čo vyničejú. Tak som sa i na salaši ohlásil. Dali mi žinčice do   črpáka, ale mi od nej krútilo, ako keď mlynček mele. /Ale. Macovi
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    som dal tri paklíky dohánu i dve ihly, také na dratvy.“
+   </tei:p>
+   <tei:p>
+    „Choď von — budeš tu do večera čakať“, rozkázal mu pán. Pred   večerom sišiel bača Duro Hustý i s valachom Macom. Oba sa zľakli, keď   zazreli na stole rohy z baranov pána Jonášových. I bez všetkého sa   priznali. „To sú tí vlci!“ kričí na nich pán. „Tak vy baraninku,   baraninku — záškodníci! Dám vás na mušky a do temnice —   zbojníci!“
+   </tei:p>
+   <tei:p>
+    „Prosím ponížene, my sme nie vina“, bráni sa bača.
+   </tei:p>
+   <tei:p>
+    „A kto, vari ja?“ „Tie barany, prosím ponížene. Barany sú na   vine.
+   </tei:p>
+   <tei:p>
+    „A ako?“ diví sa pán Jonáš trochu utíšený.
+   </tei:p>
+   <tei:p>
+    „Nebol by nik zvedel, kde sa podely, keby nie rohy. Tie sú vina.“   „Veru pravda“, rozosmial sa pán. „Keby neboly malý rohov. Druhý raz   budem mať barany bez rohov.“ Á s tým ich pustil na salaš.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

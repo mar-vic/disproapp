@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1924523" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Splnená túžba : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:29540125">
+     Royová, Kristína (1860 - 1936)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     11902
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Royová, Kristína
+     </tei:author>
+     <tei:title>
+      Splnená túžba
+     </tei:title>
+     <tei:pubPlace>
+      Stará Turá
+     </tei:pubPlace>
+     <tei:publisher>
+      n. v.l.
+     </tei:publisher>
+     <tei:date>
+      1924
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-20">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ﻿SPLNENÁ TÚŽBA﻿
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA I.
+    </tei:head>
+    <tei:p>
+     ﻿Otče Jakube, otče Jakube! Keď si sa už len konečne vrátil! S jakou   ideš? Videl si Ho? — Videl, synu, aj počul. Požehnaný Boh Abrahámov a   Svätý Izraelský, že zase po dlhých rokoch poslal Iudu svojmu proroka.   — Ach, čo, tebe povedal, otče môj ? — Mne ? Ó synu, s nim prehovoriť   nebolo možno. Ty si ani predstaviť nevieš tie zástupy ľudu, ktoré tam   boly a ho počúvaly. Už ale ma nebav, dieťa; mám moc, premoc ti   rozprávať a musím čo skôr domov za svojimi ovcami, veď zajtra, až   prídem, poviem ti všetko. Požehnaj ťa Boh! Tento rozhovor viedli   spolu neďaleko jazera Genezaretského starý prešedivelý muž vážneho   patriarchalného pohľadu a krásny chlapec tmavých
+    </tei:p>
+    <tei:p>
+     Splnená Túžba.
+    </tei:p>
+    <tei:p>
+     yesť/ŕ mládenček jeden zde, kterýž má pil chlebu ječnýcb a dve   rybičky.
+    </tei:p>
+    <tei:p>
+     0W-H40
+    </tei:p>
+    <tei:p>
+     Jana 6, 7.
+    </tei:p>
+    <tei:p>
+     5
+    </tei:p>
+    <tei:p>
+     ﻿vlasov a čiernych očí. Neboli si žiadna rodina; starec nemal   nikoho a chlapec už len matku, ktorú živil lovením rýb; a predsa   spojovala ich láska vrelá, oddaná, jakou znajú sa milovať dvaja   osamelí ľudia.
+    </tei:p>
+    <tei:p>
+     Otec Jakub býval hodne vysoko v horách; tam pásal svoje stádo. Red   nastaly pŕšky, uchýlil sa s ovečkami do údolia, na krátku dobu   palestínskej zimy. No sotva prvé teplé slniečko zasvietilo, už tiahol   zase na vrchy, s ktorých sa mohol rozhliadnuť po celom krásnom jazere   Genezaretskom a po rajsky utešenej okolnej krajine. Chlapec býval v   malej rybárskej chatrči blízko jazera. Menoval sa Jonatan a nosieval   svojmu starému priateľovi sušené i čerstvé ryby. Soznámili sa spolu   pred dvoma roky, idúc na veľkonočné sviatky do Jeruzaléma. Otec   Jakub, konajúc každoročnú púť, vzal pod svoju ochranu chlapca, ktorý   tehda po prvý raz putoval do mesta svätých túžeb, no len samotný,   poneváč mu matka prechorela a na tak dlhú cestu sa pustiť nemohla. Na   tejto púti veľmi sa spriatelili. A čo teprv v Jeruzaléme, kde neustal   Jonatan mužovi zákona Božieho znalému predkladať otázky, týkajúce sa   služieb Božích a nádhernej slávnosti! Ach, veď sa chlapec až   rozplakal, keď do tohoto chrámu vošiel a keď tam v hodinu zápalu   začalo na stá hudobníkov hrať na harfy, takže to znelo akoby jeden   hlas, a na stá spevákov spievalo k tomu. Obete horely, krv tiekla,   kúrňavy kadidla vystupovaly výš a výš. V pološeru chrámu bohato
+    </tei:p>
+    <tei:p>
+     6
+    </tei:p>
+    <tei:p>
+     ﻿zlatom zdobeného javila sa tajuplná opona, za ktorú žiadon nesmel   vstúpiť kromä najvyššieho kňaza a i tento len s krvou baránka. Ach,   všetko tam bolo také tajomné a krásne!
+    </tei:p>
+    <tei:p>
+     K tomu to množstvo kňazov a levítov v dlhých rúchach a tie veľké   zástupy putujúceho ľudu, ktorý prišiel nie len z Palestíny, ale i z   ďalekých krajín pohanských, aby uvidel to nádherné niekdy mesto   Dávidovo a Šalamúnovo a aby dal obetovať za svoje hriechy. Keď potom   odchádzali z Jeruzalema, vzal otec Jakub Jonatana so sebou do   Betlehema; ukázal mu tam hrob Ráchelin, na čo shovárali sa spolu o   patriarchovi Jakubovi a jeho synoch. Ako tak sedeli v tôni paliem pri   hrobe svojej pramatky (boli obaja z pokolenia Benjaminovho), začal   zamyslený starec rozprávať udalosť, ktorá ho ešte mladickým ohňom   naplňovala a celé srdce chlapcovo zaujala. Rozprával, že pred   tridsiatimi roky tu na pastviskách betlehemských pásol s mnohými   inými pastiery dobytok. On ako jeden z mladších mal držať nočnú   stráž. Aby nezadriemal, spieval si žalm: „Hospodin je môj pastier“ a   myslel pri tom na slávneho kráľa Davida, ako on kedysi tiež ovce   pásaval, kým ho Hospodin neučinil najprv hrdinným víťazom a potom   kráľom. Ako tak premýšľal o tom, že je Betlehem rodiskom Dávidovým,   napadly mu slová, ktoré nedávno počul v škole: „Ale ty, Betleheme   Efrata, ačkoľvek si najmenší medzi tisíci Judskými, z teba mi vyjde   vojvoda, ktorý pásť bude ľud môj izraelský“,
+    </tei:p>
+    <tei:p>
+     7
+    </tei:p>
+    <tei:p>
+     ﻿a on spomínal, jako tento odsek proroctva vykladal jeden z   prítomných vo škole zákonníkov: že je tým mienené to, že z Betlehema   prijde ten zasľúbený veľký kráľ izraelský, Mesiáš, o ktorom všetci   proroci zvestovali a o ktorom zvlášte Daniel svedčí, že „dané je jemu   panstvo a sláva i kráľovstvo, aby všetci ľudia, národy a jazyky   slúžily jemu; jeho panstvo je panstvo večné, ktoré nepomína, a   kráľovstvo jeho, ktoré sa neruší“. A ďalej na to, jako vstal iný   zákonník a čítal: „Z Egypta povolal sem Syna svojho“ a tvrdil, že nie   z Betlehema, ale z Egypta prísť má ľudu izraelskému Mesiáš sľúbený. O   týchto veciach v tom tichu nočnom premýšľal Jakub a prial si z tej   duše, aby Hospodin sľuby svoje naplnil a sľubovaného Mesiáša poslal.   Pri tom jal sa odriekavaf obvyklú modlitbu za príchod toho Silo a   Imanuela.
+    </tei:p>
+    <tei:p>
+     V tom, ako tak hľadí na mestečko v diali rozložené, vidí zrazu nad   sebou vysoko na nebi žiaru svetla, a ten slnečne jasný oblak letf níž   a níž, zastane trochu nad Betlehemom a snesie se zrovná k pastierom a   ich stádu.
+    </tei:p>
+    <tei:p>
+     — Strnul som, — rozprával otec Jakub, — a vzkríknul som hrôzou, bo   oblakom tým nesený, vznášal sa nad zemou krásny muž. Rúcho   sňahobiele, tvár ako blesk mesiaca, oči ako žiara slnečná, postava   nádherná. Poskákali pastieri, všetky ovce dvihly hlavy, ešte i tá   nemá tvár akoby napínala sluch, aby rozumela, čo ten slávný Boží   posol hovorí.
+    </tei:p>
+    <tei:p>
+     8
+    </tei:p>
+    <tei:p>
+     ﻿„Nebojte sa“, — teší najprv nás strachom polomŕtvych a kriesi k   novému životu. — „Nebojte sa, lebo ajhľa, zvestujem vám radosť veľkú,   ktorá bude pre všetkých ľudí. Lebo narodil sa vám dnes v meste   Davidovom Spasiteľ, ktorý je Kristus Pán! A toto vám bude znamením:   Nájdete nemluvniatko plienkami obvinuté, ležiace v jasliach.“
+    </tei:p>
+    <tei:p>
+     Srdce moje oživlo. Mesiáš sa narodil! Túžby moje boly naplnené.   Narodil sa v Betleheme! Tak blízko ! Narodil sa dnes !
+    </tei:p>
+    <tei:p>
+     Vo chvíli, keď anjel dohovoril a chystal sa odísť, ako by sa nebe   otvorilo. Denná žiara poliala lúky i pahorky; na oblakoch, ktoré boly   samé svetlo, objavilo sa nadzemský krásné Božie rytierstvo. S   radostným jasotom chválilo Boha, volajúc: „Sláva na výsosťach Bohu a   na zemi pokoj, ľuďom dobrá vôľa.“
+    </tei:p>
+    <tei:p>
+     Potom všetko zmizlo. Pastieri videli, jako oblak niesol Božie   vojsko vyšie a vyšie, až docela zmizlo a do okola bola tichá noc.   Svet objala tma, všetko bolo ako predtým; ale nebolo to pravda,   nebola to noc ako ktorá druhá. V nej udalo sa dač veľkého, niečo, čo   už nikdy nebude odňaté, narodil sa Mesiáš ! „Poďme“, vraveli   pastieri, „poďme až do Betlehema a vidzme tú vec, ktorá sa stala, o   ktorej oznámil nám Pán.“
+    </tei:p>
+    <tei:p>
+     — A išli ste? — nedal Jonatan starcovi na dlho mlčať. — Išli. Áno   bežali sme, milý synu, aj sme našli vec tak, jako anjeli povedali. V   betlehemskej hospode, v maštali pri dobytku, v jasliach ležalo
+    </tei:p>
+    <tei:p>
+     9
+    </tei:p>
+    <tei:p>
+     ﻿utešené dieťatko. O, peknejšieho dieťaťa som nikdy nevidel! Ach,   jako sme sa radovali, jako sme to všade rozhlasovali! Srdce naše bolo   plné vďačnosti oproti Hospodinu, nemohli sme nič iného len velebiť a   chválorečif. Cítili sme, že nás Boh veľmi miluje, že nám odpustil,   keď dal nám Mesiáša. Nepýtali sme sa, čo bude s tým Božským   dieťatkom, o ktorom nám povedal muž jeho matky Márie, že sa z Ducha   svätého počalo a že nemá otca zemského. No, veď to bolo aj pri ňom   poznať, že Boh mu je otcom. Ach, ani v nebi nemôže byť lepšie, ako   bolo nám tam u jaslí toho dieťaťa; áno, aj potom, keď sme odišli, to   nebe išlo s nami. Pri svojej práci vždy sme len na drahý ten dar   mysleli a o ňom rozhovory držali. Ach, tak sme sa tešili a to všetko   bolo márne!
+    </tei:p>
+    <tei:p>
+     Starec boľastne vzdychnul, hlava klesla mu k hrudi.
+    </tei:p>
+    <tei:p>
+     — Prečo márne, otče Jakube ? — A chlapec zavrel mu pevno ruku do   svojich. — O, povedzte mi, kde je to dieťa, abych ta mohol aj ja za   nim ísť. Aj ja ho chcem videť, milovať a jemu sa pokloniť, r — Ó,   synku, to dieťa by si už nenašiel, veď to bolo už dávno, skoro   tridsať rokov.
+    </tei:p>
+    <tei:p>
+     — Už teda vyrástol v muža;... kde je? — Ach, nepýtaj sa ma.   Nevyrástol,. . . zabili nám ho. — Otče Jakube! — O, des sa len,   synu,... čo hovorím, je pravda. Starec zaplakal, a až po dlhšej   chvíli chlapcom
+    </tei:p>
+    <tei:p>
+     10
+    </tei:p>
+    <tei:p>
+     ﻿na niekoľko utíšený, jal sa rozprávať ďalej. — Zjavil Boh v   ďalekej zemi pohanskej, tam na východe, niekofko mudrcom, že narodil   sa nám Spasiteľ, a títo mužovia, vedení hviezdou, čo jim na cestu   svietila, — ako kedysi predkom našim na púšti stĺp ohnivý — prišli do   Betlehema. Kde kto bol, každý sa divil, keď tak bohatá karavána se   zastavila pred chudobným domom, ktorý na ten čas obýval tesár Jozef   se svojou mladučkou ženou. I dovedeli sa, že cudzinci prišli pokloniť   sa tomu božskému dieťatku. Ale ach, tí mužovia, prv než prišli do   Betlehema k nám, stavili sa v Jeruzaleme u kráľa a oznámili mu, čo   prichádzajú. Pýtali sa ho tiež, kde je ten narodený kráľ židovský.   Kňazia jim vyhľadali v Písme, že sa mal narodiť v Betleheme. Však   vieš, že Betlehem nenie ďaleko od Jeruzalema. My sme síce boli to   nočné videnie rozhlásili, a tiež v jeruzalémskom chráme bývali dvaja   starí ľudia: Anna prorokyňa a starec Simeon; títo dvaja, keď Mária a   Jozef to drahé dieťa jako prvorodzené priniesli, aby ho postavili   Pánovi, poznali, že ono je ten sľúbený Mesiáš a hovorili to každému,   kto ich chcel počúvať, a zvestovali každému, kto im chcel uveriť, že   videli Božie spasenie a že Boh sa smiloval, že Mesiáš už tu je a že   ich vyslobodí. Ale tam hore, medzi veľkými pány si nik ich reči   nevšímal, až keď ti mudrci prišli. I naľakal sa Herodes kráľ o svoj   trón. Ach,... jako ti to mám povedať, čo sa potom stalo? Musel som v   tie dni odísť preč a nevrátil som sa až po troch týždňoch. Bežím do   Betlehema pozref sa, čo
+    </tei:p>
+    <tei:p>
+     11
+    </tei:p>
+    <tei:p>
+     ﻿je s naším Mesiášom a tam ma víta nárek, ktorý nemôžem vysloviť.   Dozvedel som sa, že prišlo vojsko a z rozkazu kráľovského ukrutne   povraždilo všetky deti od dvojročných a nižie, a to jak v Betleheme   tak aj v okoli. Pravdaže zabili aj nejednoho otca a nejednu matku,   ktorí si deti bránili. Celý zúfalý behal som od jednoho konca mesta k   druhému i po okolí, hľadajúc našeho Spasiteľa, ale nadarmo, všetko   darmo. Presvedčili sme sa dosť skoro, že medzi zavraždenými muselo   byť nie len to božské dietko, ale aj jeho úbohí rodičia. Ach, Boh   daroval nám Spasiteľa, a oni nám ho zabili, . .. ničoho inšieho už   očakávať nemôžeme, len veliké tresty Božie. Tak a podobne rozprával   starec chlapcovi, ktorý stal sa od tej chvíle dôverníkom muža,   ktorému dosiaľ nikto v Galilei veriť nechcel, že by pravdu hovoril.   Chlapec mu veril; on žalostil s ním nad Mesiášom zabitým a zároveň ho   tešil nádejou, že si snáď Boh svojho Syna predsa nejakým divom   zachránil, a. že tento ešte raz príde. Od toho času tvorila udalosť   betlehemská predmet ich rozmlúv, kedykoľvek Jonatan priniesol   starcovi ryby. Neraz, keď chlapec za noci lovil, myslel si pri tom:   „O by sa nebe i tu otvorilo! Ó by prišli ešte raz anjelia a povedali,   kam zaniesli to dieťa, lebo nemožno, aby si ho Hospodin bol dal   zabiť; nemožno!“ Tak žili si starec s diefatom v priateľstve, ktoré   deň odo dňa užším sa stávalo.
+    </tei:p>
+    <tei:p>
+     Tu asi pred polrokom prišla od Jordána úžasná novina. Povstal vraj   prorok v Izraelovi, ktorý ako
+    </tei:p>
+    <tei:p>
+     12
+    </tei:p>
+    <tei:p>
+     ﻿kedysi Eliáš chodil odený kožami a pásom koženým prepásaný,   jedával len mäd lesný a kobylky, býval v horách a na poli a kázal:   „Pokánie čiňte, lebo sa priblížilo nebeské kráľovstvo.“ Mnohé zástupy   za ním chodily. Celá Galilea bola toho čo nevidel plná. Prorok ten   povedal každému, čo by mal robif, aby sa Bohu ľúbil. Hovorilo sa tu i   tam, že je on iste sám ten Mesiáš, ktorého príchod tak dôrazne   ohlasoval.
+    </tei:p>
+    <tei:p>
+     Keď otec Jakub po prvý raz túto zprávu počul, svraštil čelo a   zakrútil nedôverive hlavou. Ale keď zprávy riastly a Jonatan vždy   nové a nové donášal, začalo to konečne starca zaujímať, až sa vybral   sám presvedčiť sa. Vedel, že ten prorok bol syn Zachariáša kňaza a   matka jeho že sa menovala Alžbeta, oba boli z pokolenia Lévi, kdežto   matka toho drahého dieťaťa betlehemského menovala sa Maria a bola i s   mužom s rodu Dávidovho, a tak nebolo možné, aby ten prorok a ten   Spasiteľ boli jedna osoba. No, starec sa predsa musel presvedčiť. Ó   jak radostne ho Jonatan vystrájal na cestu. Priniesol mu plnú torbu   sušených rýb. A jak túžebne ho očakával, až i dočkal. Dnes už otec   Jakub prišiel s troma pastiermi, čo tiež s ním išli do Betábary. „A   zajtra — myslel si chlapec, keď sa už so starcom rozišiel — počujem   celú pravdu. Ó by čo skôr svitalo!“
+    </tei:p>
+    <tei:p>
+     13
+    </tei:p>
+    <tei:p>
+     ﻿No tak, milý synu, už som s prácou hotový; sadni si sem k mojim   nohám a počúvaj. Ale dávaj dobrý pozor, lebo veci veliké, divuplné ti   oznámim. S týmito slovy započal nasledujúceho večera otec Jakub svoje   zaujímavé rozprávanie. Sedeli sjonatanom vysoko na horách pred   stánom. Hlboko pred nimi rozkladalo sa more Tiberiadské, a poneváč tu   bola úžina, videli na druhom brehu rozličné mestá a rybárske osady až   po Magdalu s jednej a Tiberias a Dalmatu s druhej strany. Starec   podoprel hlavu do dlaní. Jonatanove oči tkvely s nevýslovnou túžbou   na jeho rtoch.
+    </tei:p>
+    <tei:p>
+     — Synu milý, čo sme o Jánovi Krstitefovi počuli, je všetko pravda.   On je tým synom Zachariášovým, ktorého predpovedal anjel, prv než sa   narodil. Chodí odený kožou z ťavy, opásaný koženým pásom a jie   kobylky a lesný raäd. Je to veíký prorok Boží. On je hlasem anjela   volajúceho; „Pripravujte cestu Pána.“ Ale tým naším synom Božím, tým   naším Spasiteľom neni. Počul som to z jeho vlastných úst; lebo práve   ako sme ta dorazili, prišlo nádherné posolstvo kňazov a levítov,   vyslané najvyšším kňazom z Jeruzalema s otázkou: „Ty kto si?“ Nikto   ani nedýchal, každý túžobne čakal, čo odpovie. „Ja nie som Kristus“,   riekol vážne, a krásna, vážna jeho tvár skvela sa pravdou. „Snáď si   teda ten predpovedaný Eliáš?“ spytujú sa levítovia.
+    </tei:p>
+    <tei:p>
+     14
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA II.
+    </tei:head>
+    <tei:p>
+     ﻿„Niesom.“
+    </tei:p>
+    <tei:p>
+     „Prečo teda krstíš, keď nie si Kristus, ani Eliáš, ani ten prorok   ?“ „Pán poslal ma krstiť vodou ku pokániu, ale po mne ide silnejší,   než ja som, u ktorého obuvi ja nie som hoden rozviazať remienka. On   stoji u prostred vás, ten krstiť vás bude Duchom Svätým a ohňom, a   vejačka v jeho ruke; on vyčistí humno svoje, ale plevy páliť bude   ohňom neuhasiteľným.“ — Tak hovoril. Ó, týchto slovách bolo potom moc   rečí medzi nami. Ja mal len jednu túžbu: kebych smel ísť až k nemu.   Ale kromä čo nás do Jordánu jednoho po druhom pohružoval, nebolo to   možné; veľmi rád bol bych sa ho opýtal, či ten, ktorý uprostred nás   stojí a my Ho neznáme, je ten náš betlehemský Spasiteľ. — Ach, otče,   že si sa ho na to nespýtal! — a chlapec sprásknul rukami. — Ja bych   si bol loktami prerazil cestu k nemu, bol bych mu padol k nohám a   prosil ho tak dlho, až by mi to bol povedal. — Možno, — usmial sa   starec, — že ty by si sa bol pretisknul; mňa, starého človeka, to   mrzelo, keď tam okolo neho sedelo toľko kňazov a levítov a toľko   mužov, ktorí sú všetci jeho učeníkmi. Lež počúvaj, čo bolo ďalej. Na   druhý deň, keď sme sa zase k nemu sišli a on nám kázal, jako máme byť   živí día vôle Božej, tu naraz prestal. Užasli sme, . .. hľadíme na   neho. Tvár sa mu razom zmenila, akoby žiarou nebeskej radosti bola   poliata — tak bola jasná. Vztiahol ruku a ukazoval na druhý breh. Tí,   čo boli bliž neho, hovorili potom, že tadiaľ šiel
+    </tei:p>
+    <tei:p>
+     15
+    </tei:p>
+    <tei:p>
+     ﻿mladý muž v chudobnom rúchu, ale postavy a tvári jako anjel, tak   peknej a dobrej. Na toho on ukazoval prstom a volal radostne: „Hfa,   Baránok Boží, ktorý sníma hriechy sveta! Tento je ten, o ktorom som   vám hovoril, že za mnou ide muž, ktorý ma predišiel, lebo prednejší   je než ja. A ja som Ho neznal, tak ako vy Ho neznáte, bárs len preto   som prišiel krstiť vodou, aby On mohol zjavený byť rudu izraelskému.   On tu už raz u mňa bol, dal sa mi pokrstiť, a keď sa to stalo, videl   som Ducha Svätého sostupovaf s neba v podobe holubice a zostal na   ňom. Vtedy som Ho ešte neznal, ale ten, ktorý ma poslal krstiť vodou,   mi povedal: Nad kým uzrieš Ducha v podobe holubice a zostávajúceho na   ňom, ten je, který krstiť bude Duchom Svätým a ohňom. Ja som videl a   preto teraz i svedectvo som vydal, že On je ten Baránok Boží. — Čo na   to povieš, milý synu ? Chlapec vyskočil. — On teda žije, žije? Oni Ho   nezabili? jasal náruživo. — Vidíš, otče Jakube! Však som ti ja vždy   hovoril, že si Hospodin Syna svojho ochránil. A ty si pravda potom   šiel za Ním a padol si Mu k nohám?
+    </tei:p>
+    <tei:p>
+     — Ach, milý synu, lež som ja sa zo svojej radosti zparaätal, bol   on už preč. — Preč? — chlapec zalomil rukami. — Preč? A čo ste   urobili; nešli ste ho hľadať?
+    </tei:p>
+    <tei:p>
+     — Nešli. Nemohli sme tomu veriť. No ja som jeden deň ešte zostal,   lebo mi srdce hovorilo, že On ešte raz príde, a nebolo to nadarmo.   Ako tak sedím pri Jordáne, vidim neďaleko proroka Jána.
+    </tei:p>
+    <tei:p>
+     16
+    </tei:p>
+    <tei:p>
+     ﻿Boli pri ňom len dvaja z jeho učeníkov, lebo zástupy ešte neboly   prišly. Tu vztiahne Ján ruku a ukazuje zase k Jordánu neďaleko mňa a   volá: „Hľa, Baránok Boží!“ Obzrem sa — ach, dieťa — jako ti to   opísať, čo som pocítil! Ani nie tridsať krokov odo mňa šiel pozdĺž   brehu mladý muž asi tridsaťročný. Srdce mi začalo hlasito biť. Chcel   som po Ňom ruky vystreť, ale bol som ako ohromený. Medzi tým prišli   za Ním učeníci Jánovi. Počul ich kroky, bárs bol vefmi zamyslený,   obrátil sa a ja videl som jeho tvár plnú dobroty. Tie oči, ó tie oči!   Samá, samá láska dívala sa na oboch tých učeníkov a hlas, jakoby zvuk   mnohých hárf v chráme jeruzalemskom prehovoril k nim. — Koho   hľadáte?
+    </tei:p>
+    <tei:p>
+     — Rabbi, kde bydlíš ? pýtali sa ho. Ach, tu som sa už tešil, že to   zviem, ale On im odvetil: „Poďte a vidzte“, a odviedol ich preč.   Plakal som dlho, keď zmizli. Ó Jonatan, ja nebudem mať pokoja, kým   nezviem istoty, či bol On to dieťa betlehemské alebo nebol. Srdce mi   hovorí, že bol; ale je to veľká vec také voľačo uveriť.
+    </tei:p>
+    <tei:p>
+     — Ba, jako môžeš pochybovať, otče Jakube? Pán sa nad nami   sľutoval, dal nám proroka a ty tomu prorokovi neveríš! káral chlapec   rozhorleno; a dlho, skoro až do rána rozmluvali spolu o tých veľkých   veciach, ktoré v tom čase na stá duší ľudských zamestnávaly. Ráno,   keď chlapec sa poberal domov, uzrálo v jeho duši presvedčenie, že   musí stoj čo stoj dostať sa k tomu Božiemu Baránkovi, snímajúcemu
+    </tei:p>
+    <tei:p>
+     17
+    </tei:p>
+    <tei:p>
+     ﻿hriechy sveta, k tomu predivnému Spasiteľovi. „Pôjdem do   Betlehema“ — myslel si, — On tam zase príde a ja ho uvidím.“ No, prv   ešte musel chorľavú mamičku zásobiť i pre seba dač na cestu usporiť,   Sľuboval si, že bude usilovne pracovať a pilne prosiť Hospodina, aby   mu požehnal hojne rýb i kupcov. „Ja prinesiem otcovi Jakubovi istotu;   áno, ja mu ju prinesiem!“
+    </tei:p>
+    <tei:p>
+     Prešlo asi tridsať dní a zase sedel otec Jakub s Jonatanom na   horách, ale tentoraz nie sami. Muž stredného veku, osmahlej tvári,   ohnivých, teraz slzami zakalených oči, stál pred nimi a rozprával:   „Tak sme si my majstra Jána počúvali, otče Jakube, a snažili sme sa   vštepiť si do srdca tie Božie pravdy, ktoré nám zvestoval; v tom   vidíme blížiť sa k nám nádherný sprievod. Na osliciach kráľovských, v   nosítkách skvostných, purpurových prinášajú čierni otroci kráľa   Herodesa a jeho dvornú družinu. V jedných nosítkách sedela, perlami a   drahými kamenami bohaté ozdobená Herodias, manželka Filipa Heroda,   ktorú kráľ vlastnému bratovi bol odňal a manželkou svojou učinil. My   užasli nad tým. Keď otroci nosítka postavili a čalúny odostreli,   mysleli sme: „Čo aj títo prišli, aby pokánie činili?“ Ale nevyzerali   ako ľudia kajúci, lež ako zvedavci, ktorí sa prišli zabávať. Boli   všetci veselí. Nás urá-
+    </tei:p>
+    <tei:p>
+     18
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA III.
+    </tei:head>
+    <tei:p>
+     ﻿žala tá ich pýcha. Zvlášte hriešna Herodias hľadela na majstra   Jána tak posmešne, tak s vysoká. Kráľ sišiel s oslice, stál pri   Herodiade a hovoril s ňou.
+    </tei:p>
+    <tei:p>
+     Ale ach, tu stalo sa niečo neslýchaného. Majster náš prestal   kázať. Všetci, koľko nás tu bolo, hľadíme na neho, áno aj kráľ a   Herodias. A tu on vztiahol ruku a ukazujúc na kráľa, zavolal   hrozivé:
+    </tei:p>
+    <tei:p>
+     Nesluši tebe mať ju!“
+    </tei:p>
+    <tei:p>
+     Som muž, ale pri týchto slovách som sa celý ztriasol. Ženy   vykrikly. Veď majster Ján v tú chvíľu vyzeral ako sám posol Boží,   archanjel. Kráľ sa v tvári zapálil ako oheň a hneď zase zbľadol ako   stena. Cítil, že hľadíme všetci na neho a odsudzujeme jeho čierne   hriechy. Chvíľku sa nám zdalo, že padne na kolená a učiní pokánie.   Ale v tom hnula sa jeho družina a pristúpila, akoby chcela ho pred   prorokom ochrániť; to ho snáď nahnevalo. Veď len povážte: nikdy nebol   panovník obvinený z hriechu tak verejne pred ľudom, ako on. I dal   rozkaz a —“
+    </tei:p>
+    <tei:p>
+     — A čo potom, Manasses? — vyskočil Jonatan nedočkavo. — Čo potom?   Ó bych mohol prestať! Ó bych to nikdy nebol videl! — zahorekoval muž.   — Oni majstra nášho sviazali a odviedli a teraz úpi vo väzení.   Pustili síce niektorých z nás k nemu, ale to nás nepotešilo. — Ale   prečo on to kráľovi urobil? — rozhodil sa chlapec, — tak zahanbiť   kráľa pred celým svetom!
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     ﻿— Ticho, synu, — pokyvnul vážne starec. — Keď sa kráľovia   neostýchajú verejne hrešiť a zákon Boží pred fudmi tupiť, musí ich   prorok Boží verejne potrestať. Vieš, jako si počínali Eliáš,   Jeremiáš, Ezechiel a iní. Ani majster Ján nemohol ináč robiť. Však si   Boh verného služobníka svojho ochráni, jako Daniela v jame levovej.   No, rozprávaj ďalej, Manasses, čo ste učinili vy, jeho učeníci, a čo   učiníte? — Ja idem teraz domov a potom do Jeruzalema ; o ostatných   neviem. Všetko sa rozutekalo; áno, niektorí opustili majstra prv   ešte, kým sa to stalo. Tak Ondrej, syn Jonášov a Ján, syn Zebedeov,   stali sa mu nevernými a išli za Ježišom, tým Nazaretským, o ktorom   vtedy môj majster svedčil, že On je ten Baránok Boží. — Ach, čo vieš   o tom Baránkovi Božom? Teda sa menuje Ježišom, ako ono dieťa v   Betleheme ? — pretrhol starec mužovu reč, trpkým hlasom prednášanú. —   Kde je on? — Počul som, že odišiel do Kány Galilejskej a tam vraj na   jednej svadbe učinil veliký div: zmenil vodu na víno — ale ja tomu   neverím. A veľmi ma mrzí, že on už má viac učeníkov než náš majster.   Všetko beží za ním, lebo že aj nemocných uzdravuje a tak vraj káže,   jako ešte žiaden človek nekázal. Ako čoby mohol kto lepšie kázať než   náš majster! — A počul si Ho, synu milý? — Nepočul, a nechcem ani   počuť. Ja sa k nikomu inému nepridám; ja majstrovi Jánovi verným   zostanem.
+    </tei:p>
+    <tei:p>
+     20
+    </tei:p>
+    <tei:p>
+     ﻿— A je on ten sľúbený Mesiáš? — Mesiáš! Taký syn tesárov, ktorého   bratov a sestry každý v Nazaréte zná, aj matku jeho! — Aj matka mu   ešte žije? — Žije. — A kde býva, synu milý? — Tá jeho matka, či On   sám? — Tá matka.
+    </tei:p>
+    <tei:p>
+     — Bývala v Nazaréte, snáď tam ešte je. On však chodí tak, jako náš   majster chodieval. Po svadbe v Káne prišiel do Nazaréta a tam vo   škole vraj akosi odporno kázal, takže ho chceli usmrtiť. Vyviedli ho   na vrch hory za mesto a odtiaľ ho chceli shodif dolu. Ale on ušiel a   odišiel do Kafarnaum. Či išla s ním aj matka a ostatná rodina,   neviem; tohfa som sa len od otca Jozefa dozvedel. Lež nevravme už o   ňom. Chcel som sa vás opýtať, či pôjdete ktorý do Jeruzalema na   Letnice ? Toho roku vraj sa stroja veľké púti. Pôjdete? — Neviem,   synu, — svesil starec smutno hlavu. — Je mi to ďaleko. Hospodin vidí,   že ja už nemôžem. Za päťdesiat rokov skoro rok po roku bol som v   Jeruzaleme; ani jedinej slávnosti som nezameškal. Len bych si prial,   keby aspoň Jonatan mohol ísť. Dieťa, ty nič nehovoríš; pôjdeš?   Chlapec sa ztrhol. Až posiaľ sedel s hlavou sklonenou, rukama   objímajúc kolená, akoby spal. — A myslíš, Manasses, že tam bude aj   ten Ježiš ? — Pravdaže, — zamračil sa muž. — Ak je vskutku prorokom,   nesmie chýbať na slávnosti.
+    </tei:p>
+    <tei:p>
+     21
+    </tei:p>
+    <tei:p>
+     ﻿— No tak pôjdem a vyzviem všetko o Ňom a poviem ti to, otče. Teraz   je už neskoro, musím domov. Pokoj vám! — Požehnaj ta Hospodin! —   Obaja mužovia rozlúčili sa srdečne s chlapcom a dlho potom ešte   sedeli spolu vo vážnej rozmluve. Uznal starec za nutné sdelif   Manassesovi, ktorý mu bol z rodiny, prečo ho ten Ježiš Nazaretský tak   veľmi zaujímá.
+    </tei:p>
+    <tei:p>
+     Na tržišti v Magdale panovala živá vrava. Kupci i predávači   povyšovali hlasu svojho a do toho miešal sa ryk fáv a krik oslov,   znel klopot drevených sandálov a tomu podobné zvuky.
+    </tei:p>
+    <tei:p>
+     V prostred toho ruchu prechádzal sa s tvárou jasnou ako dennica   Jonatan, nesúc prázdny koš na hlave. Po prvý raz predával ryby na   trhu sám, keď matka pre chorľavosf nemohla. Darilo sa mu veľmi dobre.   Predal nie len svoje ryby, ale aj niekoľko kožených lahvíc otcovi   jakubovi a niekoľko syrcov. Teraz si už len tak trh obzeral,   premýšľajúc, čo všetko má pokúpif matke a starému priateľovi.
+    </tei:p>
+    <tei:p>
+     No, zrazu zabudol na všetko, bo k sluchu dorazilo mu meno, na   ktoré myslel dňom i nocou: Ježiš Nazaretský. Na rohu tržišfa stál   jakýsi muž, ukazoval na svoje ruky a nohy a s veľkou radosťou   rozprával dač podivného žasnúcej hromade ľudu, pri čom kedy-tedy bil   sa v svoje prsá.
+    </tei:p>
+    <tei:p>
+     22
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA IV.
+    </tei:head>
+    <tei:p>
+     ﻿— Čo je to tam? — zastavil jonatan jednoho muža, ktorý spešno s   tej strany prichádzal. — Málomocný Tomáš vrátil sa zdravý,T Ježiš   Nazaretský ho uzdravil. Kebych ho nebol znal, že už napolo hnil, ani   bych tomu neveril. Ale nebav ma, chlapče, choď počúvať sám. Ja utekám   pre svojho úbohého otca, ktorý je tiež málomocný. Vyhľádám ho na   pustine a privediem ho k tomu veľkému prorokovi. — A pokyvnul hlavou,   ponáhľal ďalej, na čo Jonatan bežal k zástupu, ktorý medzitým bol   vzriastol.
+    </tei:p>
+    <tei:p>
+     V prostriedku na vyvýšenom rohu stojací muž neustal rozprávať novo   prichádzajúcim:
+    </tei:p>
+    <tei:p>
+     — Hnil som, nebolo mi pomoci. Ľudia vyvrhli ma zo svojho stredu.   Manželka a deti ma musely opustiť. Žiaden mi ruky nepodal... On sa ma   neštítil. Padol som k jeho nohám a zvolal som: „Pane, keby si len   chcel, môžeš ma očistiť.“
+    </tei:p>
+    <tei:p>
+     — On vztiahol ruku, tu, ach, tu spočinula tá svätá požehnaná ruka!   „Chcem, buď čistý,“ riekol a nemoc odstúpila odo mňa; som zdravý a   živý. Dobroreč duša moja Hospodinu a všetky vnútornosti moje menu   svätému Jeho, ktorý uzdravuje všetky nemoci tvoje. Kde kto máte   nemocných, neste, veďte ich skoro k Nemu! Mňa uzdravil, aj vás   uzdraví. Prorok veľký povstal medzi nami a Boh navštívil ľud svoj. —   Tak znovu a znovu volal muž a slzy mu kanuly po lícach.
+    </tei:p>
+    <tei:p>
+     Ale tu prišiel k velikému úžasu a hnevu Jonatanovému jakýsi levíta   a nechcel veriť. Nikdy vraj
+    </tei:p>
+    <tei:p>
+     23
+    </tei:p>
+    <tei:p>
+     ﻿z Gaíileje žiaden prorok nepovstal a čo by vraj z Nazareta mohlo   byť dobrého? Tu zase sa pretiskol zástupom mladík bohaté odený a   krásnej postavy a hovorí: — Zle hovoríš, majstre. Moc toho proroka je   veľká. On nie len uzdravuje telá, vymieta diablov a tí diabli kričia:   „Ty si ten Syn Boží!“ ale On aj človeka celkom zdravého môže tak   premeniť, že by ho nikto nepoznal. Ak chcete počuť, poviem vám, čo   som videl.
+    </tei:p>
+    <tei:p>
+     — Povedz, povedz, — znelo ako v sbore; najviac kričal Jonatan.   Mladik pokynul rukou, aby utíchli. — Stáli sme s naším zbožím pri   cle. Tam pri stolíku zamyslený, ustaraný sedí colník Lévi, syn   Alfeov, môj známy. Ten by bol svoje výnosné remeslo za nič na svete   neopustil. Práve ako nás odbavil, strhne sa šum a ruch, a že vraj   Ježiš Nazaretský tade ide. Že sme sa všetci obzreli, keď nám   povedali, jaký to je podivný muž, to si môžete mysleť. Išiel s dvoma   učeníkmi popredku a zástup za Ním. Prišli k clu. Tu ten prorok   zdvihne hlavu v zamyslení sklonenú, postoji trochu, pozre na Léviho.   Tomuto se začaly ruky triasť, starosť a mračno zmizly mu z tváre. „Ty   poď za ranou!“ riekol Ježíš; a čo myslíte, že sa stalo? — On šiel za   ním! — zvolal Jonatan presvedčene. — Pravdu máš, chlapče. Lévi vstal,   odhodil mešec, nechal všetko tak a šiel za Ním. Potom vraj majstrovi   spravil hody v svojom dome a odtedy chodí s Ním. Preto tvrdím, že má   ten prorok veľkú moc.
+    </tei:p>
+    <tei:p>
+     24
+    </tei:p>
+    <tei:p>
+     ﻿*— Veru vefkú, — ohlásil sa starý rybár, práve len pred chvíľkou   sem prišlý. — Či vieš aj ty niečo, otče? — doliehali na neho s   otázkami.
+    </tei:p>
+    <tei:p>
+     — Ja som videl taký rybolov, jaký ešte žiaden z vás nevidel. Bol   som u dcéry v Kafarnaum a všetci vyšli sme, na lov so zaťom. Bolo nás   na dvoch lodiach. Celú noc sme nadarmo pracovali. Ked svitlo ráno,   dostavilo sa na breh tak veľké množstvo ľudí, ktorí prišli za Ježišom   Nazaretským, že On poprosil Šimona Jonášovho, aby Ho pustil do lodi,   a aby trochu od brehu odviezol. Tak sa stalo. On potom učil zástupy z   lodi a my sme pri Jeho na všetko na svete zabudli. Keď dokončil,   kázal Šimonovi viezť na hľbinu a rozostrief sieti k loveniu. Šimon sa   zadivil, my usmiali, — kto to videl, loviť ryby vo dne? ;— A vraj: „K   slovu tvojmu rozostrem sieť“, vraví Šimon, bárs „celu noc pracovavši,   nič sme nepopadli.“ Nuž, rozostrel a sotva sa to stalo, zahrnuli tak   veľké množstvo rýb, že sa až sieť trhala. Zavolali potom na nás a my   sotva sme obe tie plné lode k brehu dopravili. Boly to samé veľké,   krásne ryby. Šimon nechal všetko tak a šiel s Ježišom. Aj my sme v   tom za Nim prišli do Kafarnaum, a tu sišlo sa nás v dome a na dvore   toľko, že ked priniesli jednoho šľakom porazeného, spustili ho prez   strechu k nohám Ježišovým. — A uzdravil ho? — vyzviedali mnohí. —   Uzdravil, ale bolo to divné, veľmi divné, nijako sme to pochopiť   nemohli, — vzdychol si
+    </tei:p>
+    <tei:p>
+     25
+    </tei:p>
+    <tei:p>
+     ﻿rybár. — Jako tak pozrel na toho nemocného, povie zrazu: „Synu,   odpustené sú ti tvoje hriechy.“ — Kto môže odpustiť hriechy, len   Hospodin, Boh Jakubov? — divili sa všetci. — On sa rúhal, — riekol   levíta, zamračiac čelo.
+    </tei:p>
+    <tei:p>
+     — Tak o tom smýšfali aj tam niektorí, a aj Mu to povedali, ale On   im dal takú otázku, na ktorú žiaden nevedel odpovedať: „Čo je   snadnejšie povedať? Odpúšťajú sa ti hriechy tvoje; alebo riecť: Vstaň   a choď?“ Všetci mlčali, lebo oboje môže učiniť len Boh. „Ale abyste   vedeli, že Syn človeka má moc na zemi odpúšťať hriechy“, prehovoril   po chvíľke a obrátil sa k nemocnému, „tebe vravím: vstaň, vezmi svoje   lóže a choď do svojho domu!“ A ten nemocný vstal a šiel domov. Po   vypočutí tohoto vypravovania boli by sa shromaždeni bezmála pustili   do sporu, lebo levíta tvrdil — a niektorí sa k nemu pridali — že ten   Ježiš neni z Boha. No, išla tade práve karavána, museli sa vyhnúť a   Jonatan viac nepočúval. Spomenul si, že je už čas ponáhľať sa domov,   aby čím skôr priniesol otcovi Jakubovi tieto úžasne krásne zprávy.   Predsa sa ale ešte zastavil. Začul totiž neďaleko povzdych a videl   človeka odeného v krásne rúcho so širokým podolkom a nápisom. Bol to   muž vznešeného zovňajšku i chovania a bol jakosi veľmi smutný. – Čo   ti je, majster? — odvážil sa ho osloviť Jonatan, pozdraviac ho s   hlbokou poklonou. Muž sa zahľadel vážne do sústrastnej tváre   chlapcovej.
+    </tei:p>
+    <tei:p>
+     26
+    </tei:p>
+    <tei:p>
+     ﻿— Mám doma jediné dieťa, dievčatko asi dvanásťročné, nemocné.   Kebych mohol tomu uveriť, čo som počul, zaniesol bych ho za tým   prorokom. — Ó len ver; prečo bys’ neveril ? — ubezpečoval vrelo   šuhaj. — On ti ju uzdraví, však je to náš Spasiteľ. V tom dvaja Arabi   s ťavou tade idúci oddelili Jonatana od muža, a keď prešli, bol tento   už zmizol v zástupe. K chlapcovi ale pristúpil krajan s otázkou: — Či   vieš, kto to s tebou hovoril?
+    </tei:p>
+    <tei:p>
+     — Neviem. — Knieža školy, majster Jairus. Človek veľce bohatý a   vznešený. — Ale nešťastný, — pomyslel si Jonatan, — lebo má nemocnú   dcerušku a neverí, že by ju Ježiš mohol uzdraviť. — Ba, horšil sa   chlapec, kráčajúc cestou domov, — jakí sú tí ľudia, že nemôžu uveriť:   jako aj otec Jakub, potom ten levíta a tu zase knieža Jairus. To už   ten colník bol múdrejší, ten nechal všetko tak a šiel za Ním. To bych   aj ja iste urobil. Ó kebych sa len mohol dostať do toho Jeruzalema j   Obohatený mnohou zkúsenosťou, navrátil sa Jonatan domov. Odovzdal   matke, čo utŕžil a čo priniesol, a nedbajúc na to, že ho nohy bolia,   vybral sa za otcom Jakubom, veď tam prenocuje. Ó jak sa dá za tej   krásnej noci dobre rozprávať o tých veciach, ktoré boly tými, čo ich   počuli, dnes už ďaleko-široko rozhlásené a všetky svedčily, že mal   ten málomocný pravdu: „Prorok veľký povstal medzi nami a Boh   navštívil svoj ľud!“
+    </tei:p>
+    <tei:p>
+     27
+    </tei:p>
+    <tei:p>
+     ﻿Sotva by si bol Jonatan i len pomyslel, že nie len nebude na   slávnosti v Jeruzaleme, ale že prejdú týždne ba mesiace, až sa bude   môcť dozvedeť niečo viac o Ježišovi Nazaretskom. Veď mal toľko rýb   nalovených; a tak dobre svoje zásoby popredal, aj hodnú zásobu jak   pre matku tak i pre seba uchystal na cestu: a predsa potom   nešiel?!
+    </tei:p>
+    <tei:p>
+     Ach, nešiel, lebo keď sa prišiel od otca Jakuba odobrať, našiel ho   ležať na lôžku v ťažkej nemoci. Chlapec horko, sa rozplakal. Srdce v   ňom bojoval tuhý boj. ísť či neisť? Na jednej strane veľká túžba   videť a počuť Ježiša, na druhej láska k starcovi. Konečne zvíťazila   láska. „Keď Ježiš — ten Baránok Boží — tak miloval nemocných ľudí,   iste by nebol so mnou spokojný, kebych otca Jakuba opustil. Keď   odídem, kto ho opatrí?“ Tak pochoval Jonatan svoje túžby, premohol   seba a zostal. Že si v skrytosti pár razy zaplakal, o tom sa otec   jakub nedozvedel. Ten vôbec nevedel nič o sebe, ani o svete. Jonatan   opatril mu jeho ovce a psov a jeho samého tiež opatroval, jak   najlepšie vedel. Len že s uzdravením to išlo veľmi pomaly. Bol už   starý a v starobe choroba rýchlo príde, ale neskoro odchádza. Popri   starosti o otca Jakuba musel chlapec pamätať aj na mamičku; tá síce   už nestonala, ale predsa bez neho vyžiť nemohla. Otec Jakub posielal   jej síce mlieko, ba aj jahniatka, ale predsa musel Jonatan ryby   loviť, aby to matke a im obom postačilo. Tak míňaly sa dni, týždne   a
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA V.
+    </tei:head>
+    <tei:p>
+     ﻿mesiace. Ľudia v Jeruzaleme už zabudli na skvelú slávnosť, ale   Jonatanova túžba posiať nedošla splnenia. Snadno si každý predstaví,   jak radostne uvítali otec Jakub s Jonatanom priateľa Manassesa, keď   sa raz z nenazdania u nich objavil. Keď vymenili pozdravy a povedali   si, jako sa majú, prišla konečne na rad otázka obom tak dôležitá. —   Bol si v Jeruzaleme? — Čelo Manassesovo se zastrelo mrakom hlbokej   vážnosti. — Bol, otče Jakube, a nikdy ešte nevidel  pri   slávnosti tak ohromných zástupov ľudu. Kňaz Lévi Aronov riekol, že už   dávno neobetovali toľko obetí, ako v tie dni.
+    </tei:p>
+    <tei:p>
+     Ruka Jonatanova spočinula na ruke mužovej. — A videl si Ježiša:   bol tam? — Bol po všetky tie dni. — Ach, — vzdychol si chlapec.   Starec javil zármutok: — Hľa, synu milý, nebyť mojej choroby, bol by   si aj ty Ho už poznal; ja som príčinou toho, že sa tak nestalo. Ale   Boh otcov našich ti odplatí, čo si pre mňa učinil, syn môj!
+    </tei:p>
+    <tei:p>
+     — Nehovor tak, otče, — bránil chlapec, objímajúc náruživé kolená   starcove. — Veď Manasses nám všetko povie, pravda? Mladý muž pokývol   hlavou. Keď dopil predložené mu mlieko, vyšli všetci pred stán.   Jonatan opatril stádo; včera boli prišli so svojím stánom na miesto,   kde rástlo hojne trávy. Tu sa ovečky môžu pásť na blízko otca Jakuba   a on ich môže povolávať menom. Keď bolo všetko hotové, začal   Manasses:
+    </tei:p>
+    <tei:p>
+     29
+    </tei:p>
+    <tei:p>
+     ﻿— Otče Jakube, a ty Jonatane! Viete, čo som vám povedal, že totiž   ja len majstrovi Jánovi zostanem verným. Chcem svoje slovo dodržať;   vzdor tomu však sú to veci veľké, ktoré vám rozprávať budem o   Ježišovi Nazaretskom; a nič z toho dobrého, čo som počul lebo videl,   vám nezamlčím. Nikdy tak žiaden človek nehovoril ako On. Reč jeho je   jako šňóra drahých perál, z ktorých každá osadená v zlate. Hneď tak   sladká, že sa rozlieva srdcom ako mäd, hneď zase tak mocná, že   všetkými vnútornosťami zatrasie. Oči jeho sú hlboké jako to jazero   pod nami, ale keď pozrú, akoby sa na teba more lásky vylialo. V tej   chvíli, keď on na mňa hľadel, triaslo sa všetko vo mne samou   blaženosťou. A tá tvár, tá postava, ten tichý kráľovský chod! Však ty   si Ho videl, otče, a ty, Jonatan, Ho uvidíš snáď dosť skoro. Ide už   zase do Kafarnaum, potom zvieš. Nemožno Ho opísať, ... len uvidíš a   nezabudneš. Ale On vie vraj byť aj hrozným.
+    </tei:p>
+    <tei:p>
+     — Hrozným?
+    </tei:p>
+    <tei:p>
+     — Áno, Jonatan. Môj bývalý kamarát, levíta Jozef, mi rozprával o   Jeho prvej návšteve Jeruzalema na Veľkú noc takto: „Bolo nás už hodne   v chráme, tu zrazu vošiel On. Pozrel na tých, čo predávali a kupovali   hoviadka k obetiam; pozrel na stoly peňazomencov peniazmi pokryté,   áno pozrel na ten ľud, ktorý k môjmu zármutku prišiel do chrámu pre   všetko iné, len nie preto, aby slúžil Hospodinu, a tu sa tvár jeho   zatienila mračnom zármutku. Ach, Manasses, videť Ho zarmúteného,
+    </tei:p>
+    <tei:p>
+     30
+    </tei:p>
+    <tei:p>
+     ﻿to je žalosť, ktorú by človek dlho nevydržal. Potom vyšľahnul z   tých láskavých očí blesk. Kým sme sa toho nazdali, mal v ruke bič z   povrázkov a volajúc hlasom nie síce hromovým, ale tak mocným, že ho   každý musel počuť: Odneste tieto veci odtiaľto a nečiňte z domu Otca   môjho dom kupecký, — vyhnal všetkých von, predavačov i kupcov. Týma   rukama, ktorých samé dotknutie uzdravuje, poprevracal stoly   peňazomencov a ich peniaze rozsypal, a bolo videť, jako veľmi sa mu   to kupčenie v dome Božom a to lakotenie oškliví!“ To mi rozprával   Jozef.
+    </tei:p>
+    <tei:p>
+     — Synu, a či žiaden na Neho ruky ne vztiahol? — zdesil sa   starec.
+    </tei:p>
+    <tei:p>
+     — Žiaden, otče Jakube. Boli všetci ako ohromení, kňazia, leviti,   speváci, zástup — všetko. Je pravda, že potom sa k Nemu prihrnuli s   dotazom, jakou mocou to činí a jaké znamenie im dá, že má právo to   robiť. Ale On im dal divnú odpoveď. Položil si ruky na prsia a s   nebeským pokojom odpovedal: „Zrušte tento chrám a vo troch dňoch zase   postavím ho.“ Na to mu s hnevom pripomínali, koľko rokov bol ich   chrám stavaný. Ale On im svojich slov nevysvetli], lež odišiel a ešte   mnoho divov učinil v chráme pri nemocných. Aj teraz, v čas Letníc,   činil mnoho divných vecí. Ja som za Ním chodil všade po Jeruzaleme.   Kdekoľvek sa objavil, všade boly zástupy hneď okolo Neho a On   neustále kázal a uzdravoval. Bol som veľce žiadostivý zvedeť, či   príde na všetky dni ku slávnosti aj s učeníkmi; no prišiel. A   pomyslite si: tam
+    </tei:p>
+    <tei:p>
+     31
+    </tei:p>
+    <tei:p>
+     ﻿k rybníku Betesda, kde toľko nemocných čakáva, kým anjel pomúti   vodu, aby mohli do nej vojsť a byť uzdravení, tam prišiel tiež. A   prišiel zrovná k človeku, ktorý, jako mi potom sám povedal, bol chorý   tridsať osem rokov.
+    </tei:p>
+    <tei:p>
+     „Či chceš byť zdravým?“ — pýtal sa ho láskavé. A keď sa Mu   požaloval, že nemá, kto by ho do vody uhodil, tu ho jedným slovom   dokonale uzdravil. Tuším, On vie, kto Ho najviac potrebuje, lebo za   takým ide a pomôže mu.
+    </tei:p>
+    <tei:p>
+     Ale kňazia mu mali za zlé, že uzdravil toho nemocného v sobotu. Na   to im zase tak podivne odpovedal: „Otec môj posiaľ robí i ja robím“,   a vraj: „Amen, vravím vám, nemôže Syn sám od seba nič činiť, iba čo   vidí u svojho Otca“, a že „Otec miluje Syna a ukazuje Mu všetko, čo   sám činí.“ Ach, moc bolo tých divných slov, no mne utkvelý v mysli   zvlášte tieto dve: „Aniž zaiste Otec súdi koho, ale všetok súd dal   Synovi, aby všetci ctili Syna, tak jako Otca ctia. Kto necti Syna,   nectí ani Otca, ktorý Ho poslal.“ Keď som to počul, otče jakube, hneď   som musel mysleť na vaše vyprávanie. Veď on sám seba nazýval Synom   Božím a riekol: „Pýtajte sa na Písma, lebo vy domnievate sa v nich   život večný mať a tie svedoctvá vydávajú o mne“, a „keby ste verili   Mojžišovi, verili by ste i mne, lebo on o mne písal.“ Otče, ak je on   tým Synom Božím betlehemským, tým Spasiteľom, — a my si Ho tak málo   vážime?! Kňazia naši ho tak prenasledujú slovami
+    </tei:p>
+    <tei:p>
+     32
+    </tei:p>
+    <tei:p>
+     ﻿a žiaden mu neverí. Čo to bude? A ak ním neni, prečo sa Synom   Božím činí? —
+    </tei:p>
+    <tei:p>
+     Starec neodpovedal; hlava jeho klesla do oboch rúk. Ach, veď to   bolo len náramne ťažko uveriť a nebáť sa sklamania. Ale pred   Manassesa postavil sa Jonatan. Líca mu horely, z očí šťahaly blesky   nevôle.
+    </tei:p>
+    <tei:p>
+     — Čím ti ublížil ten Baránok Boží, že mu neveríš ? Videl si Ho i   počul. Majster Ján ti povedal, že On je ten, ktorý krstí Duchom   Svätým. Človeka tridsaťosem rokov nemocného uzdravil. Ach, čo má ešte   urobiť, abys Mu uveril ? — Zamračil sa trochu mladý muž, ale na   pokáranie chlapcove nemal odpovedi. Oči starcove zvlhly slzami.
+    </tei:p>
+    <tei:p>
+     — Pravdu máš, synu! My budeme veriť. Pôjdeme k Nemu a On oznámi   nám všetko. • Ale teraz už o tých veciach nehovorme. Nevieš nič o   majstrovi Jánovi, Manasses? — Neviera, otče, len že je ešte vždy vo   väzení a že dvoch našich poslal z väzenia k Ježišovi s otázkou: „Či   si ty ten, ktorý prísť mal, alebo iného čakať máme?“
+    </tei:p>
+    <tei:p>
+     — A čo mu odkázal? vpadli starec i Jonatan Manassesovi do   reči.
+    </tei:p>
+    <tei:p>
+     Mladý muž svesil hlavu a pokračoval: Bolo tam práve vtedy mnoho   nemocných uzdravených, tedy On odpovedal: „Povedzte Jánovi, čo vidíte   a čujete. Slepí vidia, hluchí slyšia, kulhavi chodia, málomocní sa   čistia, chudobným evanjelium sa zvestuje a blahoslavený je, kto sa   nehorší na mňa.“
+    </tei:p>
+    <tei:p>
+     33
+    </tei:p>
+    <tei:p>
+     ﻿— Vidíš, Manasses! — zajasal Jonatan. — To je aj pre teba odpoveď   od nášho Spasiteľa.
+    </tei:p>
+    <tei:p>
+     — Hneď som si pomyslel, že mi to povieš. Ale abych už povedal   všetko, čo viem, musím vám ešte rozprávať jednu úžasnú udalosť. Išiel   som s Ježišom z Jeruzalema až po Naim. Na ceste prihodilo sa, že k   Nemu poslal jeden stotník starších židovských, aby mu uzdravil   nemocného služebníka. Starší sa za toho stotníka prihovárali. Pán   odpovedal, že príde a uzdraví ho. Ale stotník poslal priateľov, ba   potom prišiel aj sám a riekol: „Pane, však sa ty nemusíš unuvať až ku   mne, nie som hoden, abys vošiel pod moju strechu, ale povedz len   slovo a uzdravený bude môj služebník.“ Tak sa aj stalo. Ježiš podivil   sa nad vierou toho stotníka a riekol, že takej viery ani v Izraeli   nenašiel. Jako sme sa potom dozvedeli, ten sluha skutočne ozdravel.   Veľmi sme nad tým užasli. Veď On pri tom nemocnom ani nebol, ani ho   nevidel, ba ani toho slova sme nepočuli, a on predsa ozdravel. Až v   Naim — tam prestali sme sa diviť.
+    </tei:p>
+    <tei:p>
+     — Ach, otče Jakube, — zaplesal, rukama tlieskajúc Jonatan, — to ja   Mu poviem o tebe, On aj teba uzdraví, aj moju mamičku, keď má tak   veľkú moc. No rozprávaj, prosím, ďalej, čo bolo v tom Naim, ja už   horím nedočkavosťou a radosťou, lebo viem, že to bude niečo   dobrého.
+    </tei:p>
+    <tei:p>
+     — Veru dobré, Jonatan. Nuž, ako sa blížime k Naim, k otvorenej   bráne mesta, začujeme zďaleka plač a vidíme: vysoko na pleciach nesú   máre, na
+    </tei:p>
+    <tei:p>
+     34
+    </tei:p>
+    <tei:p>
+     ﻿nich leží mrtvý mládenec, jediný to syn úbohej ženy, čo vedľa már   kráčala, horko plačúc. Za ňou šiel veľký zástup. Pozrel som na Ježiša   a pomyslel som si: Keby sme boli prv prišli; On by bol tej úbohej   vdove toho syna uzdravil. Videl som, že Mu jej bolo velmi ľúto, aj   toho mrtvého; tak ľútostivé sa na nich podíval. Potom postál. My sme   sa vyhli, aby pohrab mohol prejsť. Ale On nie. Keď došli tí, čo   niesli raáre, až po Neho, položil ruku na máre a zastavil ich. Všetci   hľadeli sme na Neho; žiaden skoro ani nedýchal. „Neplač“, prehovoril   láskavé k matke mládenca mrtvého, ktorá v žiali ani nezbadala, čo sa   robí. Pozrela k Nemu a ustala v plači; jedným pohľadom ju upokojil.   Potom sa obrátil k tomu mrtvému a —
+    </tei:p>
+    <tei:p>
+     — A čo?
+    </tei:p>
+    <tei:p>
+     — Nevytrhuj ho, synu.
+    </tei:p>
+    <tei:p>
+     — A riekol: „Mládenče, tebe vravím, vstaň!“ Jak to vyriekol,   otvoril ten mládenec oči, živá barva sa mu vrátila do tváre, vydýchol   si, hnul rukama a posadil sa. Čo nastalo potom, to sa nedá opísať.   Matka a syn radosťou plakali. On radoval sa s nimi. Nás ale podjala   bázeň, — áno, bol nám hrozným v tej svojej moci. Ja spomenul som si   na Jeho slová, počuté v Jeruzaleme: „Jako Otec kriesi mrtvé a   obživuje, tak aj Syn, ktoré chce, obživuje. Amen vravím vám, že príde   hodina a teraz je, že mŕtvi uslyšia hlas Syna Božieho a ktorí   uslyšia, živí budu.“ Ostatní vypukli v jasot, volajúc: „Prorok veľký   povstal medzi nami a Boh navštívil ľud svoj.“
+    </tei:p>
+    <tei:p>
+     35
+    </tei:p>
+    <tei:p>
+     ﻿Až potiaľto načúva] otec Jakub. Teraz pokloní] sa v stranu k   Jeruzalemu a z úst jeho vyrinulo sa dobrorečenie, umlčované po toľko   dlhých rokoch. Uveril v tejto chvíli, že si Boh svojho Syna pred   Herodesom ochránil, v skrytosti vychoval a dal Ho znova, — ó znova,   aby bol Spasiteľom sveta. Žilo téda predsa to diefa betlehemské,   žilo. Keď o dakoľko hodín potom opúšťal Manasses príbytok Jakubov,   odchádzal so sľubom, že sa vyzvie, kam Ježiš odišiel, aby mohol prísť   pre nich a zaviesť ich k Nemu.
+    </tei:p>
+    <tei:p>
+     Prešlo zase dakoľkô týždňov. Jonatan sedával teraz za večera pred   stánom samotný. Otec Jakub odišiel predávať ovce a vlnu do Betsaidy.   Buďto nepredal, alebo na ceste znova onemocnel; jakokoľvek už bolo :   Jonatan uvolivši sa zatiaľ opatrovať mu stádo, nemohol sa ho dočkať.   Raz v piatok sišiel s vrchu na dole — bol so stánom neďaleko —   pozref, čo robí matka, a nechal pri ovciach chromého Rubena, ktorý   nemajúc rodičov, kedy-tedy pastierom vypomáhal.
+    </tei:p>
+    <tei:p>
+     Otec Jakub si ho najal, kým sa vráti, aby nemusel Jonatan vždy byť   pri stáde. Keď sa s mamičkou porozprávali a ona mu jedno druhé   sdelila, čo od rybárov počula, vzal Jonatan malú sieť a išiel ju   nastaviť. Spustiac sieť do vody, sadol si na brehu a zahľadel sa do   vody.
+    </tei:p>
+    <tei:p>
+     36
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA VI.
+    </tei:head>
+    <tei:p>
+     ﻿Jazero bolo tiché ako také vefké oko, ohradené vonnými kry, a   mesiac a hviezdy sa v ňom zhliadaly. Ach, tu bolo krásne. Zrazu padol   stín na osvietenú vodnú hladinu. Chlapec sa obzrel. Pri jazere stojí   oprená o strom krásna pani. Bohaté kadere vinú sa vôkol utešenej   tvári, zpod odhrnutého závoja veľké modré oči sa zadívaly do   blyštiacej sa hladiny. Zrazu ohliadla sa pani; uvidela zadivenú tvár   chlapcovu. Ružovými jejími rty zahral dobrotivý úsmev. Pozdravili sa   navzájom. — Čo tu robíš, pani? — spýtal sa dôverive Jonatan. — Ide   noc a tento kraj je pustý; kde prenocuješ ?
+    </tei:p>
+    <tei:p>
+     — Dám sa nocou niesť ďalej; nosiči moji odpočívajú a tak som vyšla   podívať sa na vodu požehnaného jazera Tiberiadského.
+    </tei:p>
+    <tei:p>
+     — Prečo ho menuješ požehnaným?
+    </tei:p>
+    <tei:p>
+     — Prečo? — Jemná belostná ruka panina spočinula lichotivo na   kaderavej hlave chlapcovej. Jej tvár javila hlboký dojem. — Tieto   vlny nosievajú loďku, v ktorej sedáva a z nej učiva zástupy majster   Ježiš Nazaretský.
+    </tei:p>
+    <tei:p>
+     — Ty Ho znáš? — zajasal chlapec a urobil hneď pre paniu miesto   vedľa seba na skale.
+    </tei:p>
+    <tei:p>
+     — Či Ho znám ja! — Sadla si. — Však On je mojim drahým Pánom a   majstrom. Bola som sa doma podívať, jak je s mužom a deťmi. Zabavili   ma dlho, ani pustiť nechceli; ale kvetina bez slnka žiť nemôže, ani   duša moja bez svetla slova Jeho.
+    </tei:p>
+    <tei:p>
+     37
+    </tei:p>
+    <tei:p>
+     ﻿Oddelila som sa od zástupu a preto teraz ponáhľam i nocou, abych   ČO skôr našla Toho, ktorého miluje moja duša.
+    </tei:p>
+    <tei:p>
+     — A kto si ty, pani? — Som Johanna Chúzová, manželka úradníka   Herodesovho. _ Ns**- — A prečo chodíš za Ním? Či si nemocná? —   vypytoval sa chlapec napnuto.
+    </tei:p>
+    <tei:p>
+     — Už nie som, On ma uzdravil. Chodím preta za Ním, keď je treba,   aby Mu voľakto poslúžiL Nie som sama; je nás niekoľko ešte. Zvlášte   posluhuje mu Mária z Magdaly.
+    </tei:p>
+    <tei:p>
+     — To je kto?
+    </tei:p>
+    <tei:p>
+     — Bohatá pani, ktorá bývala veľmi nešťastná. Bola posadlá diablom.   Ježiš ju vyslobodil. Ó my ani nevieme, jako Mu máme svoju vďaku dosť   dokázať. Naši známi sa na nás hnevajú; naše rodiny robia nám veľké   prekážky — ale my nič nedbáme, len keď Jemu smieme a môžeme   poslúžiť.
+    </tei:p>
+    <tei:p>
+     — A čo bolo tebe? Jaká nemoc teba trápila?
+    </tei:p>
+    <tei:p>
+     — Telesne bola som zdravá, ale duša a srdce boly choré; ale to je   dlhá história.
+    </tei:p>
+    <tei:p>
+     — Ach, prosím pani, povedz mi to, — žobronil Jonatan.
+    </tei:p>
+    <tei:p>
+     — A ty Ho tiež miluješ? — Ó, veľmi!
+    </tei:p>
+    <tei:p>
+     — Videl si Ho už?
+    </tei:p>
+    <tei:p>
+     — Je to moja najväčšia túžba, abych Ho mohol videť; verím, že mi   to Pán Boh dá.
+    </tei:p>
+    <tei:p>
+     38
+    </tei:p>
+    <tei:p>
+     ﻿V krátkosti rozprával chlapec všetko, čo vedel od otca Jakuba o   betlehemskom Spasiteľovi, i to, že Ho videl otec jakub v Batabáre, i   to, jako sa on, Jonatan, chcel dostať do Jeruzalema k Nemu a   nemohol.
+    </tei:p>
+    <tei:p>
+     Paniu tá betlehemská udalosť veľmi zaujímala. „Až sa sídem s   Máriou, matkou jeho, opýtam sa jej, či je On to dieťa anjelmi   zvestované a kde sa s Ním ukryla, keď Herodes dietky mordoval. A až   sa potom dakedy dostaneš za nami, hľaď sa pretlačiť až ku mne a ja ti   to poviem. On je náš Spasiteľ, On je ten Baránok Boží. Chcel si   vedeť, jako som ja prišla k Nemu. Od detinsíva túžila moja duša po   pokoji, zvlášte odkedy ma vydali za Chúza a prišla som ku dvoru   Herodesovmu, kde bolo toľko rozkoší pre telo a toľko nepravostí.   Vedela som, že nežijeme tak, jako by sme žiť mali, aby Boh otcov   našich bol s nami spokojný. Tu raz vybral sa kráľ i Herodias s veľkým   sprievodom do Betabary podívať sa na divného proroka Jána. Ako som   toho proroka počula, otvorily sa mi oči. Poznala som, že sme veľmi   hriešni. Potom prorok povedal kráľovi pravdu a bol preto vrhnutý do   väzenia. Nepokoj v mojej duši riastol kamdiaľ viac. Vydala som sa do   Jeruzalema a dala som tam za seba obetovať. Ale všetko nadarmo. Moc   tam rozprávali o Ježišovi, jaké tu činil divy na Veľkú noc. Hľadala   som Ho, až aj našla. Prišla som práve k tomu, ako sedel na hore a   kázal. Keď volal: „Poďte ku mne všetci, ktorí pracujete a obťažení   ste a ja vám odpočinutia dám,“ zchopila
+    </tei:p>
+    <tei:p>
+     39
+    </tei:p>
+    <tei:p>
+     ﻿som sa a išla som k Nemu. On pohliadol na mňa a riekol: „Vezmi   kríž svoj a následní ma.“ Nuž, poslúchla som Ho. Nasledujem Ho, žijem   a pracujem pre Neho, slúžim Mu i Jeho učeníkom. On mňa naučil   milovať, trpef a pracovať. Ďakujem Bohu, že môj muž už tak tuho proti   tomu nebrojí: len sa strachuje, abych sa smyslov nepominula. Zato   otec, matka a celá ostatná rodina odvrátili sa odo mňa ako od   nečistej. Na to ja však nič nedbám. V duši mojej je pokoj. — On mi   všetko odpustil, On srdce moje uzdravil. A ked som sa teraz aj od   teba dozvedela, že On je naším Spasitelom, budem Mu tým vernejšie   slúžiť. Viem, že On musí kraľovať. Potom, až bude kráľom, nebude ma   snáď potrebovať, a ja budem vychovávať Mojich dvoch synov pre Neho.   Ale teraz, keď je v takom ponížení, že — jako sám povedal, — nemá,   kde by hlavu sklonil, teraz našu pomoc potrebuje. Ale už aj musím   ísť.“ Pani vstala.
+    </tei:p>
+    <tei:p>
+     — Len to mi, prosím, ešte povedz, pani: kebych ja sa k Nemu   dostal, či smel by ch Mu priniesť pár rybičiek ? Vzal by si ich ?
+    </tei:p>
+    <tei:p>
+     — Ó vzal, On je veke dobrotivý a veke chudobný, lebo bár že veľké   divy robí, pre seba dosiaľ neurobil žiadneho.
+    </tei:p>
+    <tei:p>
+     — Ach, to ja už k Nemu pôjdem, poprosím mamičku, aby mi upiekla   pár chlebov a vezmem rybičiek a tak Mu to položím k nohám.
+    </tei:p>
+    <tei:p>
+     — On fa za to požehná. A teraz požehnaj ťa Boh otcov našich! Pokoj   s tebou!
+    </tei:p>
+    <tei:p>
+     40
+    </tei:p>
+    <tei:p>
+     ﻿— Aj tebe pokoj, pani! — poklonil sa chlapec hlboko a dlho ešte za   ňou hlade!, keď už v diali zmizla biela šata odchádzajúcej učenice   Ježiša Nazaretského, ktorá opustila palác Herodesov, kráľovský   rozkošný život, muža i deti a celú rodinu, aby „vzala na seba kríž   svoj a nasledovala Jeho“, ktorý nemal, kde by hlavy sklonil, aby   slúžila Jemu.
+    </tei:p>
+    <tei:p>
+     Jako sa tak díval Jonatan, objal ho ktosi:
+    </tei:p>
+    <tei:p>
+     — Pokoj tebe! — Otče -Jakube! — Áno otec Jakub živý, živúci stojí   pred ním. A je to on? Tvár samý blesk radosti a nebeského pokoja. —   Otče, ty si Ho videl! — zvolal chlapec v blahej predtuche.
+    </tei:p>
+    <tei:p>
+     — Videl, synu milý, videl aj počul. — Starec sadol si na   skalu.
+    </tei:p>
+    <tei:p>
+     — Preto som sa tak dlho zabavil. Moja túžba, zvedef konečne   pravdu, tak vefce zrástla, že keď som bol už v Bethsaide, musel som   zaisť až do Kafarnaum. Tam ukázali mi dom, kde On býva, keď je v   meste; ale jeho doma nebolo. Za to našiel som Máriu Jeho matku a —   milý synu, hoc už prešlo tridsať rokov od tej doby a ona sostarla,   predsa som ju hneď poznal, matku nášho betlehemského Spasiteľa. Dal   som sa jej vznámosť, a jako sme sa tak rozprávali, povedala mi, že   prv, než tí vojaci prišli do Betlehema, snívalo sa jej mužovi   Jozefovi, aby vzal dieťa i matku a utiekol s nimi do Egypta. On   poslúchol. Ešte ani nesvitalo, zobudil ženu; vzali dieťatko i to   zlato, čo im tí mudrci priniesli, ktoré sa im na ceste i v Egypte
+    </tei:p>
+    <tei:p>
+     41
+    </tei:p>
+    <tei:p>
+     ﻿dobre sišlo, a utiekli. Tak musel náš Spasiteľ ešte maľučký utekať   pred Herodesom, jako kedysi Dávid pred Saulom. A tak Ho musela matka   skrývať, ako Mojžiša matka jeho skrývala. Ale predsa Ho ukryla. Desať   rokov boli v Egypte; potom sa navrátili a bývali v Nazaréte. Tak sa   naplnilo proroctvo: v Betleheme sa narodil, z Egypta povolal Boh Syna   svojho a Nazaretský sa volať bude. Ešte toto sa musí naplniť;   „Kraľovať bude kráľ a šťastne sa mu povodí.“ Ani o tejto veci neni   pochybnosti. A kebych aj to všetko nevedel, keď som Ho videl a počul,   keď na vlastné oči som videl tie divy, ktoré činí: už preto bych   musel uveriť, že Boh navštívil svoj ľud. Teraz, keď som Ho už aj ja   videl a počul, počkáš len, kým príde Manasses, a hneď s ním pôjdeš,   aby si aj ty, milý synu, konečne svoju svätú túžbu mal splnenú. Až sa   to stane, prial bych si, aby ma potom Boh už prepustil v pokoji, lebo   videly moje oči Jeho spasenie.
+    </tei:p>
+    <tei:p>
+     Jíonatan čakal odo dňa ku dňu, ale Manasses neprichádzal. Otec   Jakub nevedel si vysvetliť, čo je toho príčina. Neprichádzal a   medzitým rýchlo minula sa jaseň, prišly zimné pŕšky a mhly. Jonatan   nahliadol, že už musí počkať do jari. Neraz si poplakal, lebo túžil   kamdiaľ viac, až od toho ochoriel. Stával sa netrpezlivým a chvíľami   i zlým. Keď ho to prešlo, želel svojho hriechu; cítil však
+    </tei:p>
+    <tei:p>
+     42
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA VII.
+    </tei:head>
+    <tei:p>
+     ﻿kamdiaľ tým silnejšie, že jeho srdce je nemocné. Predtým túžíval   len videf toho predivného Syna Božieho; teraz vedel, že potrebuje   Baránka Božieho, ktorý sníma hriechy sveta. Zvlášíe keď sa otvorilo   jaro a on počul o udalosti, ktorá sa nedávno stala. Rozprávala to   jeho mamičke jej sestra, vydatá v Tiberiade. Pozval vraj jakýsi   farizeus Pána k sebe do domu, aby Ho pohostil. Ako tak sedeli spolu   pri stole, stalo sa, že prišla do nútra žena, ktorá bola pre svoj   hriešny život známa v tom meste i na okolí. Tá pristúpila zrovná k   Ježišovi, kľakla na zem a veľmi plakala, pri tom pomazala nohy   Ježišove voňavou masťou a smáčajúc ich svojimi slzami, ľúbala ich a   vytierala svojimi krásnymi vlasatni. On akoby ju ani nevidel. Ale keď   sa farizeus nad tým divil, že jej dovoľuje, aby sa Ho dotýkala — keby   vraj bol prorokom, vedel by, jaká to žena je — riekol mu majster:   „Dvoch dlžníkov mal nejaký veriteľ; jeden bol dlžen päťsto peňazí a   druhý päťdesiat; a keď nemali odkiaľ zaplatiť, odpustil obom. Povedz   teda, ktorý z nich bude ho viac milovať?“ Na to odpovedal farizeus:   „Mám za to, že ten, ktorému viac odpustil.“ „Práve si rozsúdil,“   riekol Ježiš a ukážuc na ženu plačúcu, vravel: „Vidíš túto ženu ?   Vošiel som do tvojho domu, vody mojim nohám nedal si, ale táto slzami   smáčala moje nohy a vlasami hlavy svojej vytrela. Nebozkal si ma, ale   táto, ako som prišiel, neprestala hĺbať mojich nôh. Olejom moju hlavu   nepomazal si, ale táto masťou mazala moje nohy. Preto vravím ti:   odpustené sú jej hriechy mnohé, lebo milovala
+    </tei:p>
+    <tei:p>
+     43
+    </tei:p>
+    <tei:p>
+     ﻿mnoho. Komu sa ale málo odpúšťa, málo miluje.“ A potom sa sklonil   k tej žene so slovami: „Odpustené sú ti tvoje hriechy.“ Ale keď ona   zostala ležať pri jeho nohách a okolo sediaci sa horšili, povedal   jej: „Viera tvoja ťa k spaseniu priviedla, iď v pokoji! A vstala,   išla a bolo na nej videť, že jej bolo naozaj všetko odpustené a že   jej srdce ozdravelo, tak jako to Johanny Chúzovej alebo to Márie z   Magdaly.
+    </tei:p>
+    <tei:p>
+     — Až ja sa dostanem k Nemu, — myslel Jonatan sám v sebe, — či aj   mne odpustí, aj mňa uzdraví ?
+    </tei:p>
+    <tei:p>
+     Konečne priniesol levíta Alfeus, putujúci do Jeruzalema, zprávu od   Manassesa. Veľmi smutná vec zadržala ich priateľa, tak že prísť   nemohol. Drahého majstra Jána nebolo viac medzi živými. Dal ho   Herodes v žalári stať, ukrutne zavraždiť na žiadosť nešľachetnej   Herodiady. Levíta plakal, keď toto rozprával.
+    </tei:p>
+    <tei:p>
+     Herodes svätil svoje narodzeniny a hodoval so svojimi hosty vo   skvelých komnatách. V tom vošla tam dcéra Herodiady a Filipa,   kráľovho brata, a začala prekrásne tancovať. Jej tanec zaľúbil sa   Herodesovi tak, že jej sľúbil darovať, čokoľvek by žiadala, až do   polovice kráľovstva. Nuž, bežala dievočka tá k matke a táto jej   radila, aby si vyžiadala hlavu Jána Krstiteľa na mise. Ešte jej vraj   tiež povedala, že kráľ toho Jána rád počúva a rád aj všeličo dľa jeho   rady robí; takže ho ten Ján ešte aj k tomu navedie, aby ich obe dal   od seba
+    </tei:p>
+    <tei:p>
+     44
+    </tei:p>
+    <tei:p>
+     ﻿preč. A že ony nebudú maf pokoja, kým Ján žije a kráľa   napomína.
+    </tei:p>
+    <tei:p>
+     Dievočka teda požiadala o hlavu Jánovu. Kráľ sva síce zarmútil,   ale predsa jej žiadosti povolil. Čo Herodias s tou hlavou urobila,   nikto nevie; ostatné telo pochoval Manasses a druhí učeníci. Ale   Manasses od žiaľu za majstrom až onemocnel,, takže len teraz sa   sobiera. Príde vraj, akonáhle mu bude možno.
+    </tei:p>
+    <tei:p>
+     Zatrúchlil otec jakub, že Boží prorok tak musel zahynúf, a Jonatan   horkými slzami oplakal smrf jeho. Už sa nedivil, že Manasses   neprišiel, ale tomu sa divil, že Ježiš majstra Jána nevyslobodil.   Pravda sa otcovi Jakubovi o tom nezmienil. „Ach — pomyslel si, — ja   mať takú moc ako Ježiš, nebol by ch to dopustil.“
+    </tei:p>
+    <tei:p>
+     No tak s Bohom, otče Jakube! — Požehnaj ťa Hospodin, syn môj!   Putuj šťastne. Daj ti Boh otcov našich žiadosť srdca tvojho! Ruka   starcova spočinula žehnajúc na hlave Jonatanovej, ktorý vydal sa   konečne na púť za Ježišom. Bol krásny, jasný deň, príroda obliekala   nové rúcho. Starec položil ruku na oči a hľadel za miznúcou postavou   svojho mladého priateľa, kým mu ho diaľka neodňala. Práve tak dívala   sa tamto pred chalúpkou starostlivá mamička, ktorá torbu synovu bola   zásobila ôsmimi chleby a hojnými rybami.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA VIII.
+    </tei:head>
+    <tei:p>
+     45
+    </tei:p>
+    <tei:p>
+     ﻿— Nebudem ja na nikoho čakať, — rieko! bol Jonatan, keď zvedel, že   Ježiš sa bol preplavil do krajiny Gadarenských. — Pôjdem ta k   prístavu a počkám; veď On príde zpäf, a tak sa k Nemu dostanem. —;   Otec Jakub nebránil. Potešil a uspokojil aj mamičku chlapcovu, ktorý   ostatne už na hodného šuhaja bol vyriastol. A tak prepustili Jonatana   s požehnaním a s nádejou, že ho bude sprevádzať anjel Hospodinov,   očakávajúc túžebne jeho návratu. On medzitým doputoval šťastne do   Tiberiady. Príduc ku brehu, uzrel tam loď, ktorá sa práve chystala na   druhú stranu. Poprosil, aby ho vzali a zaplatil za prievoz. Nevidelo   sa mu čakať na brehu, lebo sa dozvedel od jednoho starého muža, ktorý   prišiel z krajiny Gadarenských, že Ježiš sa ešte zdržuje na tej   druhej strane a sotva tak skoro odtiaľ odíde.
+    </tei:p>
+    <tei:p>
+     Na lodi bolo moc reči o Pánovi; tak Ho všetci nazývali. Loď   náležala otcovi Zebedeovi a tento rozprával,1 čo počul od svojho syna   Jakuba. Keď sa plavili do krajiny Gadarenských, že bol vraj Pán tak   veľmi ustatý, že zaspal vzadu na lodi na poduške, lebo nemal vo dne   chvíle pokoja, ani k jedlu, a v noci obyčajne utiahne sa do samoty k   modlitbe. Spal, a tu strhla sa veľká búrka. Víchor hádzal loď sem a   tam, voda valila sa do nútra a len-len utonúť! On spal a spal, tak   vraj ticho, jako keď matka dieťa na kolenách kolíše. Konečne pojal   učeníkov veľký strach; pristúpili teda k nemu a zobudili Ho: „Pane,   zachovaj nás, hyneme!“
+    </tei:p>
+    <tei:p>
+     46
+    </tei:p>
+    <tei:p>
+     ﻿— A On? — spýtal sa Jonatan.
+    </tei:p>
+    <tei:p>
+     — On vstal, pozrel na more, pohrozil mu a riekol: „Umíkni a upokoj   sa!“ a razom vetor utíchol, vlny opadly a bolo ticho a jasno. Pán ale   pokáral učeníkov, že nemajú viery.
+    </tei:p>
+    <tei:p>
+     Jonatan dlho premýšľal o tom, jaká že to je veľká moc, rozkazovať   tak vetru a mori: to môže len Stvoriteľ.
+    </tei:p>
+    <tei:p>
+     Kým prišli ku brehu, znal Jonatan celé odseky z kázní a   podobenství Ježišových nazpamäf. Rybári ochotne rozprávali pozornému   poslucháčovi, čo vedeli.
+    </tei:p>
+    <tei:p>
+     Na brehu stál zástup ľudu a jedna žena velmi horlivé   rozprávala.
+    </tei:p>
+    <tei:p>
+     — Čo to vravíš, ženo? — spýtal sa otec Zebedeus, keď vystúpili na   breh.
+    </tei:p>
+    <tei:p>
+     — Pomysli si, otče, vytasil sa mladý známy rybár, — ona rozpráva,   že váš majster uzdravil gadarenského diabolníka. Vieš, toho, čo   nebýval v žiadnom dome, ale len v hroboch a čo sa ho všetci toľko   báli, keď sa ani odevom neodieval a len vždy hádzal kamením. Ale nech   nám to sama rozpovie ešte raz, jako to bolo.
+    </tei:p>
+    <tei:p>
+     Žena skutočne k veľkej radosti Jonatanovej rozprávala znovu, že   ten divoký človek bežal naproti Ježišovi, majúc v každej ruke kameň.   Všetci, čo to videli, vykríkli a ustúpili, a tak stáli si Pán a ten   diabolník zoči-voči. Každý čakal, čo bude ďalej.
+    </tei:p>
+    <tei:p>
+     47
+    </tei:p>
+    <tei:p>
+     ﻿Pohfad na toho človeka bol hrozný. Nahé telo jeho bolo plné   sinavíc a rán. Divoká tvár jeho bola zarastená a dodriapaná, vlasy   rozcuchané, celý človek samá špina a prischlá krv. A tie divé oči   uprely sa v tichú, ľúbeznú obličaj Pána. V tom, ako sa im ich zraky   stretly, Pán pohnul rtoma, a hoc nebolo slova počuť, diabol počul a   hrozne tým úbožiakom trhol. „Ježišu, Synu Boha najvyššieho, prosím   ťa, netráp ma!“ zvolal ten nešťastný človek a padol k nohám Pána. Na   otázku: „Koľko vás je?“ odpovedal, že množstvo; a tí diabli prosili   ústami toho človeka, svíjajúceho sa v bofasti pri nohách Ježišových,   aby im nekázal ísť do priepasti, ale aby smeli vojsť do stáda svíň,   ktoré sa tu neďaleko pásly. Nuže, On jim to skutočne dovolil a vo   chvíli to stádo sa hnalo ako divé s vrchu dolu a utonulo v mori.
+    </tei:p>
+    <tei:p>
+     — A ten muž? Čo sa s ním stalo? — vyzviedal fonatan.
+    </tei:p>
+    <tei:p>
+     — Ten, synu, zostal chvíľu ako mrtvý. Potom pozrel hore, lebo sa   mu vrátil zdravý rozum, videl Pána a videl i seba, jaký je ohyzdný. I   zastydel sa a skryl tvár v prachu zeme. Ježiš pozrel na nás a tu hneď   každý mal sa k niečomu. Mužovia pokryli úbožiaka plášťom a odviedli   ho k vode. Johanna Chúzová podala vonné mydlo, hrebene a iné, čo bolo   treba. Mária z Magdaly podala šatstvo zo zásoby, ktorú máva pre Pána   a Jeho učeníkov pohotové. Každý z mužov poslúžil, čím mohol. Po malej   chvíli, keď priviedli toho človeka ostrihaného.
+    </tei:p>
+    <tei:p>
+     48
+    </tei:p>
+    <tei:p>
+     ﻿oholeného, umytého a oblečeného, nikto by ho bol skoro nepoznal.   Čo teprv potom, keď Pán s ním prehovoril a smel si sadnúť k Jeho   nohám a počúvať. Ach, to bola pre nás radosť nevýslovná! Ale tí   nešťastní Gadarenskí prišli z mesta, a keď videli a počali, čo sa   stalo, prosili Ježiša, aby odišiel z ich krajiny; a On odišiel   hneď.
+    </tei:p>
+    <tei:p>
+     — Odišiel? — zkrikol Jonatan, — neni Ho tu? — Neni, synu,   preplavil sa zpät do Kafarnaum.
+    </tei:p>
+    <tei:p>
+     Jonatana táto zvest priamo zdrtila. Pustil sa do plaču a nedal sa   nijako potešiť. Márne prihovárali sa mu tu prítomné ženy.
+    </tei:p>
+    <tei:p>
+     — Kebych bol tam dočkal a nechodil sem, bol bych Ho uvidel, počul,   ale takto Ho už snáď nikdy neuvidím! — Usnul pozde v noci, zmorený   plačom.
+    </tei:p>
+    <tei:p>
+     Ráno sa zobudil s bofastnou spomienkou na to, čo sa mu prihodilo a   jak ďaleko je ešte od cieľa svojich túžob. Smutne poďakoval sa žene   rybárovej za nocľah, ktorý mu poskytla, a pobral sa ku brehu, aby   vyhľadal lod otca Zebedea. No, tej tu nikde, nikde nebolo. Ako tak   zarmútený chodí, vidí v diali sa černeť lod, až prirazila k brehu.   Vzchopil sa a celý zadychčaný dobehol k nej. Po dlhom dopytovaní sa   zvedel, že o dva dni popluje do okolia Betsaidy. Dva dni, — to bola   dlhá lehota, jako ich ztráviť? No, keď len ho loď prevezie na druhú   stranu; odtiaľ potom pôjde ďalej podľa brehu do Kafarnaum. Ponúkol   rybárom svoju pomoc a tak, bárs sa mu zdálo, že tej doby neprečká,   predsa prežil i tieto dni a noci. Konečne ich niesly vlny
+    </tei:p>
+    <tei:p>
+     49
+    </tei:p>
+    <tei:p>
+     ﻿toho požehnaného jazera, jako ho nazvala Johanna Chúzová.
+    </tei:p>
+    <tei:p>
+     Prvé, čo počuli, keď k brehu prirazili, bolo, že Ježiš Nazaretský   zašiel od Betsaidy na jakési miesto pusté a že zástupy so všetkých   strán putujú tam za Ním. Tentoraz sa jonatan rozplakal radosťou.   Vedel, že už je blízko cieľa a že túžba jeho bude konečne   vyplnená.
+    </tei:p>
+    <tei:p>
+     Mladý pútnik dohonil zástupy. Počúval, čo si medzi sebou   rozprávali a jasal, že konečne ide s ľuďmi, ktorí tak ako on túžia   pov Ježišovi. Mnohí z nich už Ho videli; niektorí o Ňom len počuli.   Mnohí viedli so sebou nemocných, ktorých všetká nádej bola k Nemu   uprená. Tu niesli synovia chromého otca na nosítkach, tam zase mala   matka na oslovi uviazaného chiapca námesíčnika. Viedla si osla sama a   striežila si úbohé dieťa. Tu viedli slepého, tam hluchého. Opodiaľ   kráčali málomocní so zaviazanými ústami a ťažko stúpali pokašľávajúci   suchotinári. Všetci tí ľudia, čo tu išli, potrebovali Ježiša veľmi,   buď pre seba samých alebo pre iných.
+    </tei:p>
+    <tei:p>
+     Niektorí pochybovali a trápili sa myšlienkou, či ich uzdraví? Iní   spomínali Jeho divy a tak si dodávali dôvery. Tí ale, ktorých len   nedávno uzdravil, svédčili horlivé o Jeho láske a moci.
+    </tei:p>
+    <tei:p>
+     50
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA IX.
+    </tei:head>
+    <tei:p>
+     ﻿Zrazu vidí Jonatan známu tvár: mladíka v gréckom kroji. Počkal na   neho, a keď sa tento priblížil, opýtal sa ho, či ide tiež za   Ježišom.
+    </tei:p>
+    <tei:p>
+     — Idem, a nechcem viac už nikdy od Neho odísť.
+    </tei:p>
+    <tei:p>
+     Videl si zase nejaký veľký div od Neho, jako pri tom Lévim ?
+    </tei:p>
+    <tei:p>
+     — Viac než to. Keď sa Pán vrátil z krajiny Gadarenských, čakali   sme na Neho vo veľkých zástupoch. Tu prišiel k Nemu knieža školy,   menom lairus, ktorý mal už dávno nemocnú dcéru, ale mu ju dosiaľ   žiaden lekár nevedel vyliečiť a ona počínala umierať. Nuž, prišiel k   Ježišovi, padol mu k nohám a prosil, aby vošiel do jeho domu a   uzdravil ju.
+    </tei:p>
+    <tei:p>
+     — A uzdravil ju ?
+    </tei:p>
+    <tei:p>
+     — Viac jako to. Lež sa Pán dostal k domu Jairovmu, umrela tá   dcéruška, lebo už v cestu mu vyšli naproti sluhovia a vraveli svojmu   pánovi: „Umrela tvoja dcéra, nebav majstra.“ Ale Pán povedal   kniežaťu: „Neboj sa, len ver!“ a šiel predsa s ním. Na ceste zabavila   Ho jedna žena, čo už dvanásť rokov bola nemocná a na lekárov všetok   statok minula a porád sa horšie mala. Tá, ako sa dotkla rúcha jeho,   hneď ozdravela. Ale Pán zbadal, že moc z Neho vyšla, a tak musela to   vyznať pred všetkými. On jej potom povedal, že jej viera ju uzdravila   a aby vraj navždy bola zprostená svojho neduhu.
+    </tei:p>
+    <tei:p>
+     To Ho teda ešte pribavilo, takže keď prišiel k domu Jairovmu, už   tam trubači smutné piesne
+    </tei:p>
+    <tei:p>
+     51
+    </tei:p>
+    <tei:p>
+     ﻿hrali a nariekačky plakaly. Dievčatko bolo už vystreté. „Prečo   plačete ? Neumrela dievočka, ale spí“, povedal Pán. Vysmiali sa Mu.   Na to vyhnal všetkých von a vzal so sebou len rodičov tej dievočky a   troch učeníkov a vošiel do domu. Tam vzal dieťa za ruku a povedal:   „Dievočka, vravím ti, vstaň!“ Keď vstala, dal ju rodičom a kázal, aby   jej dali jesť. Radosť Jairovu si ani predstaviť nemôžeš. Nevedel ani,   jako sa s Pánom rozlúčiť, aj trirazy padol Mu k nohám a odprosoval   Ho, že Mu prv neveril. No Pán ho nekáral, lež požehnal ho a   odišiel.
+    </tei:p>
+    <tei:p>
+     Ach, či bol Jonatan rád, že sa toto všetko dozvedel. Ale tu mu   srdce počalo prudko biť. Hťa veď tam sú zástupy a medzi nimi iste je   aj On — Ježiš! „Ja sa musim dostať až k Nemu“, sľuboval doma a teraz   ho opustila všetka odvaha. Cítil, veril, jak veľký, všemohúci Pán je   Ježiš a on je úbohým, chudobným, hriešnym synkom. „Ale veď On je náš   Spasiteľ, Baránok Boží a ja Ho veľmi, veľmi potrebujem, ja musím až k   Nemu!“ Ale ach, už bol tak blízko, už vedel, že ho tu len zástup delí   od Pána a predsa prešiel skoro celý deň, kým sa k Nemu dostal. Veď tu   bolo toľko nemocných a všetci potrebovali Jeho pomoci.
+    </tei:p>
+    <tei:p>
+     Zrazu ustal ten nával. Nemocní boli uzdravení a Pán začal hovoriť   o kráľovstve Božom. Jonatan Ho nevidel pre vysokých mužov, čo stáli   pred Ním, a ani dobre nepočul ten hlas, o ktorom hovoril Manasses,   jaký vraj je sladký a mocný. Bolo mu tak
+    </tei:p>
+    <tei:p>
+     52
+    </tei:p>
+    <tei:p>
+     ﻿úzko vôkol srdca. „Načo som prišiel, ak nebudem Ho ani videí ani   počuť?“ Obišiel po tichúčku — bol sa vyzul zo svojich drevákov — a   pátral po lepšom mieste. Hla, tam trochu opodiaľ na vyvýšenom mieste   zabelel sa mu závoj. Tam sedela, hlavu do dlaní podoprenú majúc pani   johanna Chúzová. Okolo nej sedely ešte iné ženy a dievky. Jonatana to   tiahlo jc týmto učeniciam Ježišovým. Keď nemôže videí Pána, odovzdá   aspoň pani Johanne tie chleby, čo priniesol. Ony mu už trochu ztvrdly   a z ôsmy jich zostalo len päť, z rýb len dve, lebo musel dať za   prievoz a potreboval aj sám. Ale snáď to Pán predsa prijme.
+    </tei:p>
+    <tei:p>
+     Podarilo sa mu, bez toho, aby koho vyrušil, dostať sa až k   učeníkom Pána, práve keď Ježiš svoju reč dokončil. Načo učeníci   obstúpili Pána, ako by sa o niečom radili. Slnce začínalo už   zapadať.
+    </tei:p>
+    <tei:p>
+     Pani Johanna poznala Jonatana hneď a veľmi sa mu potešila. Spýtala   sa ho v krátkosti, jako sa má, jako sem prišiel, a potom mu povedala,   jako sa menuje jej susedka, to že je Mária z Magdaly; tá vedľa nej   zase Salome. Ako sa tak rozprávajú, pristúpi k nim muž vysokej   postavy a odpovedá na jakúsi otázku Márie Magdalény: „Majster nám   kázal vyzvedeť, koľko máme chlebov, ale neni žiadnych.“ — Ba,   Ondreju, je tu mládenček jeden, ktorý priniesol Pánovi päť chlebov a   dve rybičky, — ohlásila sa pani Johanna.
+    </tei:p>
+    <tei:p>
+     53
+    </tei:p>
+    <tei:p>
+     ﻿— Tak? No, poď so mnou, synu. — Lež sa Jonatan nazdál, vza! ho   silný muž za ruku a raziac cestu sebe i mladíkovi, doviedol ho až k   Ježišovi. V tej chvíli, keď bol Jonatan tak blízko Spasiteľa, vediac,   že tie oči, hlboké ako to jazero Genezaretské, a v nich celé more   lásky, spočívajú na ňom, nevidel nič. Nohy sa pod ním triasly. Počul,   ako hovorí Ondrej; „Je tu jeden mládenček, ktorý má päť chlebov   jačmenných a dve rybičky, ale čo je to medzi tak mnohých.“ Potom   počul, jako rozkazoval ten krásny, láskyplný hlas: „Rozkážte ľudu,   aby sa usadil po sto a po päťdesiatich.“ Tu podlomily sa pod ním   kolená a on padol k nohám Ježišovým: „Odpusť mi, Pane, moje hriechy“,   to bolo všetko, čo mohol pomysleť — a On mu odpustil. Octnul sa na   srdci, v ktorom nič iné nebilo a nebije po všetky veky, len láska.   Žehnajúca ruka spočinula na jeho hlave. Potom mohol už pozreť v tú   tvár, nebeským pokojom obostrenú, v tvár Spasiteľa, Baránka Božieho.   Kým usadily sa zástupy, mohol aj povedať Pánovi, jak veľmi po Ňom   túžil. Ale On to všetko vedel, i to, že Mu tie ryby a chleby do daru   priniesol, bárs Mu to učedlník Ondrej ani nepovedal. A potom bol   Jonatan tak šťastný, že smel pred Ním držať tie chleby a tie rybičky,   z ktorých však neubývalo, lebo v tých svätých, požehnaných rukách ten   Boží dar riastol.
+    </tei:p>
+    <tei:p>
+     Nepýtal sa pri tom majstra, či je On Synom Božím, či je týra   Spasiteľom betlehemským, či je tým Mesiášom očakávaným. Nič sa   nepýtal.
+    </tei:p>
+    <tei:p>
+     54
+    </tei:p>
+    <tei:p>
+     ﻿Jediný okamih na srdci Ježišovom postačil, aby jeho srdce   ozdravelo a duša všetko poznala. Lebo ak chce kto uveriť, nech ide až   k samému Ježišovi, tam iste uveri.
+    </tei:p>
+    <tei:p>
+     Veľká túžba mladíka, spatrif Mesiáša, bola vyplnená. Nevýslovne   súc blažený a nasýtený, nemal otázky. Ach, veď pri nohách Ježišových   všetky pochybnosti a otázky utíchnu navždy!
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+    <tei:p>
+     ﻿
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
