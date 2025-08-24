@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943705" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Kuruci : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     16874
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Kuruci
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KURUCI
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Pred niekoľkými rokmi bol som viac ráz navštíviť v jeho kaštieli   chorého pána Aurela Strážnického. Keď sa jeho stav polepšil, starý   pán — ozajstná živá kronika — poukazoval mi rozličné starožitnosti a   medzi týmito i galériu svojich dedovských podobizní. Boly to veru, s   umeleckého stanoviska, slabé obrazy, hádžúce nie veľmi skvelé svetlo   na našich maliarov minulých století. Robily vôbec dojem diel dnešných   primitivizujúcich umelcov, ktorí, urobiac tabulu rasu a odhodiac   stranou všetky výdobytky doterajších maliarov, hľadajú nové smery,   poháňaní nie tak túžbou raziť cestu pravde, ako vyniknúť novotou.   Medzi tými mnohými nemými tvárami bola podobizeň mladej ženy, s   ktorej ani nezručnosť maliarova nemohla sotrieť všetku originalitu a   akúsi prešibanú ľúbeznosť. Popri tomto obraze visela i podobizeň jej   muža, ktorej tiež nebolo možno odtajiť istú inteligenciu. Starý pán   ma pochválil, že som vynašiel najzaujímavejších ľudí z celej famílie,   a vyrozprával mi hodne obšírne i ich históriu. Umienil som si podať   ju i širšiemu obecenstvu, nie pre jej obzvláštnu zaujímavosť, ale ako   dôkaz toho, že charakternejší a rozvažitejší ľudia netvoria svoje   politické a sociologické presvedčenie na základe azda nejakých   hlbších štúdií a rozjímaní, ale skoro vždy tlačení alebo nesení   pomermi, ktoré
+   </tei:p>
+   <tei:p>
+    165
+   </tei:p>
+   <tei:p>
+    ﻿vplývajú na ich beh života. Je to vážne memento pre ľudí, majúcich   v moci osudy národa. Po druhé sa mi zdala i postava tej ženy, Sabíny   Strážnickej, jednako natoľko zaujímavou, že v sbluku dnešných a i   vtedajších, len širokou cestou malicherného osobničkárskeho egoizmu   sa uberajúcich ľudí zasluhuje spomienky čo i len môjho skromného   pera.
+   </tei:p>
+   <tei:p>
+    V priestrannej, ale nízkej izbe, zaplnenej všelijakým náradím,   poukladaným ako v sklade, husto jedno pri a na druhom, sedeli pri   ťažkom dubovom stole, blízko malých zamrežovaných oblokov, Imro   Strážnický a Matej Byvar, dvaja už starší statkári z jednej dediny.   Strážnický bol štíhly, vysoký, plešivý muž milej, vždy sa   usmievajúcej tváre; Byvar prešediveno červenovlasý, zavalitý, tiež   vysoký, medenočervenej tváre a odutýcb úst; ruky mal veľké, žilnaté,   pehavé, porastené i na prstoch vlasmi, robiace dojem, že by nebolo   dobre sa do nich dostať. Na stole bol pred nimi hlinený krčah s vínom   a dva rozdielne poháre a na lopári veľká šunka s dlhým, do nej   zapichnutým nožom. Mužovia sa shovárali, ujedajúc a popíjajúc si. —   Nuž už zasa nemáš peňazí! Ty si len ľahkomyseľný človek! Bolo by ťa   bývalo zavrieť. Možno, že by i teraz múdrejšie bolo pre tvoju rodinu,   keby si sedel na vidieckom dome, — hovoril hrubým hlasom, s urážlivým   prízvukom Byvar. Strážnický sa smial, ako keby ho šteklil. — To je   pravda, ty si už dobrý priateľ. Pre teba by mohol človeka i Parom   uchytiť. Nuž ale, Maťko, pozriže, veď mi ešte i ty požičiaš tých   dvetisíc
+   </tei:p>
+   <tei:p>
+    166
+   </tei:p>
+   <tei:p>
+    ﻿zlatých, čo mi treba, — hovoril Strážnický posmešne, zatláčajúc si   prstom tabak do penovky. — Ja? Čo si myslíš o mne, veď som sa   nezošalel! —- skríkol Byvar najedovane, buchniíc päsťou na stôl. —   Aký si ty len prchký, Maťko. Pozri, celý kaštieľ mám hotový, chýba   len strecha, obloky a dvere, a budem bývať ako gróf. Na moj’ dušu,   Pálfy sa mi nevyrovná. Ale ja viem, čo teba mrzí: závisť ťa pasie,   milý braček, závisť. Ty, taký boháč, a bývaš ani v stajni. Veď sa   človek ide zadusiť v tvojej kúrii: keď len fajku vyfajčíš v izbe, keď   otvoríš oblok, tak sa ti valí dym navonok, ani čo by horelo. Byvar mu   skočil vrieskajúc do reči: — No, taký blázon som nie ako ty. Zdedí   desaťtisíc zlatých a myslí si, že za to postaví grófsky kaštieľ! A   teraz dlh na dlh. Dobre by sa ti boly zišly tie peniaze, dobre, veď   vždy grošom smrdíš, ty hladoš, ty! — Keby som bol mal tie peniaze   ešte predlanským, keď tu chodili kuruci-labanci, boli by mi ich   krásne vzali, hahahá, hohohó, takto im kleply zuby naprázdno. Veru   tak. Ale teba mrzí, že si musel i na našich drahých labancov rýpať   tisíce. Hahaha! — smial sa Strážnický, prehnúc sa na stolici. — Ale   čo ty táraš ani na mukách. Labanci dostali odo mňa figu borovú a   kurucov som vyplatil zo stoličných peňazí. A dobytok zajali i tebe,   len tak ako druhým. Môžeš si i ty dlaň ofúknuť. Imro sa usmial. —   Veru mi zajali, lotri. Šťastie, že len samé ško-
+   </tei:p>
+   <tei:p>
+    167
+   </tei:p>
+   <tei:p>
+    ﻿penice, dobré boly za hoľou. No ale, Maťko, okrem špásu, požičaj   ešte tých dvetisíc zlatých, dám ti Zábrežie do zálohu. Veď je to   hodno i päť ráz toľko, a už len musím, čo pre hanbu, ten kaštieľ   dostaviť. — Nedám, nedám, nedám! Všetko premárniš, škoda peniaze   vyhadzovať. — Keď nedáš, nedáš. Nájdem viac lásky u Žida. Preto sa   nehnevaj. Vypi si radšej! — núkal ho Strážnický pohárom. Byvar, hoci   sa i hneval, ale preto si vypil. — Nedbám, vypijem, ale groši jednako   nedám! Vtom vošla dnu lenivým krokom vysoká, tučná pani, veľmi   nedbale oblečená. Jej črty tváre boly pekné, ale bez duše. — Čože sa   zasa vadíte, počuť vás až v pitvore kričať. Imro, akýže si ty domáci,   keď sa s kmotrom vadíš? Pani bola Strážnického žena. Pristúpila ku   stolu a odrezala si kus šunky. — Čože nejete z tej šunky, veď je   dobrá. Nože, pán kmotor, no, — núkala Byvara, odrežúc hodný rezeň a   podávajúc mu ho koncom noža. Byvar ho uchytil špinavými prstami a   vopchal do úst taký kus, že mu obidve líca vydulo. — Hľa, veru by si   sa mohla obriadiť, keď ideš medzi svet. Hanba pozrieť, aká si, —   hrešil zasa ženu Strážnický. Drgla plecom. —- Ale čo tam, veď je   kmotor nie cudzí; vie, že sa nemôžeme parádiť, keď žijeme teraz v   tejto kutici. Načo si začal ten kaštieľ stavať, to keby si radšej   nahliadol, to! A teraz sa ani neobzriete o
+   </tei:p>
+   <tei:p>
+    168
+   </tei:p>
+   <tei:p>
+    ﻿tých chlapov vo dvore. Tak sa mi zdá, že nič nerobia, len sekerami   po dreve vyklepkávajú. Ozaj bolo počuť rúbanie a klopanie do taktu   pracujúcich tesárov. Vyšli von, pričom Byvar nezabudol naplniť a   vyprázdniť svoj pohár, lebo by mu šunka bola mohla zaškodiť. Ohromný   dvor bol založený hŕbami okrúhleho a už okresaného dreva, medzi   ktorými bola pôda zahádzaná kresanicami. Na konci dvora stála na   malej výšinke ešte neovakovaná, roštovaním obložená novostavba, na   ktorú začali klásť stolicu strechy. Budova, ktorú staval Imro   Strážnický, zasluhovala meno kaštieľa. Bola poschodová, s oboch strán   s vežami, naprostriedku s rizalitom, silne do popredia vystupujúcim.   Jedna veža už mala hotovú cibuľovitú, barokovú strechu. Mužovia   podišli k domu a Byvar krútil hlavou a šomral pri chôdzi: — Čo si to   ty len smyslel! Taký veľkopanský dom stavať bez peňazí! Taký žobrák   žobrácky! Strážnický sa smial. — Maťko, ty si blázon. Teraz, keď mi   nechceš požičať, môžem ti i ja nadať. Pozri, v panskom dome bývajú   vždy páni. A keď ja nie, ale pamätaj moje slová: moje deti budú   pánmi. Keď budú bývať v takom kaštieli, tak sa pousilujú, aby si   zaopatrily, čo treba k panskému žitiu. Ty si boháč, a nie si pán, ale   skuhroš, lebo bývaš v takej starej chalupe. Ani by ti nesvedčilo byť   pánom. — To sú daromné reči, čo táraš. Žobrák je žobrákom, čo i v   paláci býva.
+   </tei:p>
+   <tei:p>
+    169
+   </tei:p>
+   <tei:p>
+    ﻿Prišli k tesárom, ktorí pánov ponížene pozdravili, prestanúc na   chvíľu pracovať. Byvar skričal na nich: — Robte, naničhodníci! — a   jednému z nich skočil schválne podkutou čižmou na bosú nohu. Mladý   tesár zaskučal a sťa ubitý pes priskočil do práce a s ním i ostatní;   neopovážili sa ani len mrzko pozrieť na Byvara, ktorý bol slúžnym   okresu a veľmi radodajný v palicovaní. Strážnický pokrútil hlavou a   hodil rukou, lebo vedel, že každá poznámka by náramného človeka len   väčšmi rozľútila. — Tu ty ešte máš mnoho práce, — riekol Byvar, — dom   je prázdny, ničoho tu ešte nemáš: obloky, dvere, podlaha a   zariadenie! Všetko chýba. Jojojój, čo je na to dvetisíc zlatých? To   je ani psovi mucha. — Eh, čo tam! Pomaly bude všetko, len by som bol   pod strechou, aby mi na múry nepršalo. Pozri, už mám i címer hotový,   — ukazoval Strážnický na pekne vykresanú mramorovú tabuľu, stojacu v   priestrannom pitvore kaštieľa. Na mramore bol reliéfne vykresaný   címer Strážnických, a to muž s mongolskou hlavou v ruke a tento   nápis: Has aedes aedificavit Emmericus Strážnický de Podhora et   Porúbka annis Domini MDCCIV-—MDCCVI. — Neverím, že by si bol toho   roku hotový, neverím, — uškľabil sa Byvar. — Budem s božou pomocou,   budem, — riekol Strážnický, prekračujúc kamenný prah pitvora navonok;   pritom sa potkol, a padnúc na jedno koleno, udrel sa píšťalou o ostro   okresaný prah. — Eh, potvora, tuto mi bude podkladať nohu, — zvolal,   vyskočiac rezko, a zasmial sa. — Bohdaj
+   </tei:p>
+   <tei:p>
+    170
+   </tei:p>
+   <tei:p>
+    ﻿ho, ale som sa dobre šuchol, — i zohol sa a pošúchal si sáru na   udretej nohe. * Keďže nedostal od Byvara peňazí, Strážnický vysadol   na druhý deň ráno na koňa a išiel do stoličného sídla, asi na míľu   vzdialeného, vyhľadať Žida Amšla, ktorému už bol niekoľko tisíc   dlžen, aby si vypožičal od neho potrebnú sumu. Cestou ho udretá noha,   na ktorú mu žena bola priviazala kúsok starého loja, pobolievala, ale   nedbal veľmi na to. Bol už i väčšmi pokaličený, a zahojilo sa to. V   meste išiel k sudcovi Borákovi, u ktorého bol patvaristom jeho syn   Marcel. Mal chlapca rád a tešil sa vždy, keď sa s ním šišiek Marcel   sa ponášal na otca, lenže bol vážnejší, hoci mu do smiechu tiež   nebolo ďaleko. Marcel bol asi 24-ročný, usilovný šuhaj, ktorý však   nevyhýbal ani zábavke v dobrej spoločnosti. Bol miláčikom župana,   lebo znamenite aranžoval všetky jeho zábavy a kdejaké politické   oslavy a manifestácie. Mával podarené oslavné reči pri víťazstvách   kráľovských vôjsk a viedol krásne bandériá. Bol vôbec jedným z   hlavných činiteľov kráľovi vernej strany, ktorá dominovala v stolici.   I obecenstvo ho rado malo pre jeho vľúdne a priateľské spôsoby.   Strážnický zachytil chlapca v kancelárii a odviedol ho do hostinca do   vidieckeho domu. — Aký dobrý vietor vás dovial sem, pán otec? — pýtal   sa Marcel, keď sedeli za stolom pri pohári vína. — Horkýže tam dobrý!   Už zasa niet groši. Ale myslím, že mi Žid ešte požičia, keď Byvar už   nechce dať.
+   </tei:p>
+   <tei:p>
+    171
+   </tei:p>
+   <tei:p>
+    ﻿— Nechce? ■— zvolal Marcel a zapálil sa. — Čo robí Sabína?   Strážnický sa zasmial. — Tebe je, pravda, Sabína prvšia ako otcove   groše. Neshováral som sa s ňou, ale keď som išiel popred icb dom,   kývala mi i hlavou i rukou na pozdravenie. Iste nie pre mňa. — Škoda,   že ona nerozhoduje nad otcovými peniazmi; myslím, že by sme ich   ľahšie dostali. — Veru hádam. A ako si s ňou? — pýtal sa Strážnický,   hľadiac skúmavé prižmúrenými očami na syna. — Nuž radi sa máme. Ale   starý vrčí na mňa, ako dvorný pes na cudzieho, keď ma zazrie s ňou či   v záhrade, či v poli. — Je to ozaj zázrak, kde sa to dievča v tom   dome vzalo. Taký otec, a taká dcéra! Na koho sa to len udalo? —   Viete, otec, tak okolo prsta tej osoby neokrútite. S tou len to   môžete urobiť, čo ona chce. — Hm, taká je to osôbka? Nuž, pravda, ty   ju lepšie znáš, ja sa s ňou veľmi nezapodievam. Ku mne je vždy milá a   vľúdna. — O tom je nie reč, že by nebola milá, ale tej moci nemáte   nahovoriť ju na niečo, čo ona raz nechce urobiť. Strážnický sa   zasmial, kývajúc hlavou, ale zrazu zjojkal a chytil sa rukou za nohu.   — Potvora akási, ako ma domŕza. — Čože vám je, pán otec? — pýtal sa   Marcel ustarostené. — Ale nič. Tĺkol som sa včera o píšťal a to   ma
+   </tei:p>
+   <tei:p>
+    172
+   </tei:p>
+   <tei:p>
+    ﻿trochu pobolieva. Teraz som sa urazil o ňu, nuž som zjajkol. —   Počujete, pán otec, poďte k felčiarovi, nech vám nohu pozrie. Pôjdem   s vami, — skočil Marcel so stolice. — Ale že ti je náhlo! Ani mi na   um neprichodí peniaze vyhadzovať. Sadni si. — Ja zaplatím za vás.   Vyhral som včera v kartách. Mám peňazí ani pliev. Poďte, —- a chytil   otca a ťahal ho. Strážnický sa smial, že mu skoro slzy tiekly. —   Chlapče, čože sa ti robí? Veď by to bol posmech ísť ku felčiarovi pre   oškúlenú nohu. — Posmech-neposmech. Starý Brezovický šesť týždňov   vyležal pre oškúlenú nohu. — No, duša moja, ja veru nemám času šesť   týždňov ležať, a ani nebudem. Kedy prídeš do Podhory? — Ako len budem   môcť. Viete, aký je starý Borák čudák. Posedeli ešte chvíľu,   rozprávajúc sa o rodinných a verejných veciach; potom vstali, a   odoberúc sa, každý šiel po svojej práci. Strážnický mal ťažkosti s   vypožičaním peňazí; Židia žiadali veľké zálohy a veľké interesy. Ale   jednako vymohol od nich, čo chcel, viac svojím priateľským spôsobom a   žartom, ako že by ich bol vábil obchod, lebo jeho majetok bol už od   dávnejšieho času hodne obťažený. Malú čiastku peňazí dostal v   hotovosti a odišiel s ňou domov.
+   </tei:p>
+   <tei:p>
+    Asi o dva týždne neskoršie dala vicišpánka zavolať k sebe Marcela,   ktorý hneď prišiel, lebo
+   </tei:p>
+   <tei:p>
+    173
+   </tei:p>
+   <tei:p>
+    ﻿mu odkázala, že ide o vážnu vec. Marcel sa poklonil pred peknou a   koketnou paňou, ktorá mu bola tetkou po materi. — Marcel, dostala som   list z Podhory, — povedala, máchajúc papierom pred ním. — Pekné   dievčatko mi píše, aby som ti povedala, že je tvoj otec chorý a že je   potrebné urobiť s ním poriadok, lebo mama ho nerobí. Marcel zbledol.   — Čo, chudák otec je chorý? To iste tá nešťastná noha! A kto píše?   Sabína? — Ako si uhádol! Bola navštíviť mamu a našla krstného otca v   posteli. Áno, noha ho bolí. Nuž čo urobíš? — Strašní sú to ľudia, nie   že by odkázali, čo sa deje! A náhodou som sa za celý čas nesišiel ani   s jedným Podhoranom. Idem do Podhory naskutku a vezmem felčiara   Frischa so sebou. Bože, Bože, čo to len bude s tým otcom? Vicišpánka   ho potešila, ako vedela. Za dobrú hodinu bol Marcel s felčiarom pri   otcovi, ktorého noha bola veľmi zle: celá bola opuchnutá a zapálená a   bolela ho. Matka, ako vždy, hovorila mnoho a robila málo; probovala   kadejaké domáce lieky, kto čo poradil, a Strážnický sa na všetkom len   smial. — Toľké parády robíte pre také hlúposti! Daj sa mi, Bože,   vecí! Keď ho noha bolela, držal jej žartovné reči, zakľajúc so   smiechom tu i tu, keď ho väčšmi zamrzela. — Potvora akási, čo to   vyčíňa také fígle, nie že by bolo rado, že si môže oddýchnuť!
+   </tei:p>
+   <tei:p>
+    174
+   </tei:p>
+   <tei:p>
+    ﻿Keď Marcel vošiel do izby, v ktorej ležal otec, sedela jeho mať   pri ňom na stolci, držiac akýsi teplý obkladok na lone. Hovorila o   čomsi, čo sa u susedov prihodilo, tak dlho, dokiaľ obkladok celkom   nevychladol. — Nono, veď mi vychladla tá kára, no! — i sosbierala sa   lenive zasa ho zohriať. Felčiar obzrel nohu a krútil nad ňou hlavou:   nebolo to dobre. Urobil na nej dva rezy, ktorými vyšiel hnis a krv;   Strážnickému sa poľahčilo. Marcel ľutoval veľmi otca, ale sa trochu   rozveselil, keď uvidel, že je teraz ešte veselší, ako býva, i odišiel   s poľahčeným srdcom. Umienil si, že ho čím najskorej zasa navštívi, a   naložil mladšiemu, šestnásťročnému bratovi, aby mu každý deň skrze   posla odkázal, ako sa má otec. Mladý Imro statočne odkazoval každý   deň, čo mu otec povedal, že mu je so dňa na deň lepšie. Strážnický,   vidiac starostlivosť synovu, nechcel ho zarmútiť ani za svet, a preto   ho klamal, hoci mu bolo stále horšie a horšie. Až asi o týždeň   neskoršie povedal Imrovi, aby odkázal Marcelovi, že by prišiel, keď   bude mať čas. Marcel, tušiac najhoršie, trhal si vlasy, že zanedbal   otca, že sa dal klamať, znajúc ho; pribehol zasa s felčiarom a našiel   otca už na mukách, hovoriť už nevládal, len pohľadom a úsmevom   privítal milé dieťa. Syn sa hodil na kolená pred otcovou posteľou a   plakal prežalostne za dobrým človekom, ktorý nikdy nikomu neublížil a   ktorého najväčšie previnenie bolo, že bol k svojej rodine pridobrý.   Strážnický dokonal, hladiac rukou synovu hlavu.
+   </tei:p>
+   <tei:p>
+    175
+   </tei:p>
+   <tei:p>
+    ﻿Zvesť o skone dobrého pána sa rozniesla bleskom po celej dedine.   Všade postávaly hlúčky žien a chlapov a s poľutovaním hovorili o ňom.   Mnoho citu nebolo v rečiach tých ľudí, viac obavy, čo teraz donesie   budúcnosť pre nich. Veď od povahy zemského pána záviselo celé ich   blaho. Strážnická prijala úder chladnokrvne, bola ona vôbec osoba   flegmatická. Ktorúsi tú slzu utrela koncom zásterky a poznamenala: —   No-no, že sa tak skoro pominul! Ako to už len teraz bude bez neho?   Veď sa tak o všetko staral, a teraz kto už zaopatrí, čo všetko treba?   Už, hľa, by bolo treba soli, a nemá jej kto zaopatriť. Ale bude mu   treba vyhľadať nejaké poriadne háby na tú smrť, keď sa už tak   pominul. I sobrala sa s dievkami prezerať truhly a šatníky. Marcel   odpravil zbytočného felčiara a obzrel sa potom po izbe. Bola to tá   istá, v ktorej si bol jeho otec pred troma týždňami popíjal s   Byvarom. Nikdy mu to tak nevystúpilo na oči ako teraz, v akom   strašnom neporiadku a nečistote bolo v nej všetko. Nábytok bol   polámaný, nečistý, na ňom porozhadzované šaty, nečistá bielizeň, ba i   staré zbytky jedenia, a všade prachu, až ťažko. Marcelovi tlačil žiaľ   za otcom srdce a teraz priľahlá naň i starosť pre beznádejný stav ich   majetku. Mať je nedbalá a dlžôb — ako sa obával •— vyše hlavy. Na   šťastie matkin majetoček v Porúbke zostal neobťažený, lebo ona, v   starosti o seba, nikdy ani na hrozby, ani na prosby nechcela   privoliť, aby sa vzal naň dlh. O seba sa Marcel vôbec nestaral, ale   osud brata a otcovho ináč veľ-
+   </tei:p>
+   <tei:p>
+    176
+   </tei:p>
+   <tei:p>
+    ﻿kého majetku ho trápil. Veď chudák otec, optimista, čo sa preň   nastaral, a to by malo byť všetko márne? Stál, opretý o posteľ, na   ktorej ležala usmievajúca sa mŕtvola otcova, a smutné myšlienky sa   točily v jeho hlave, keď po ľahučkom zaklopaní vošly do izby dve   ženské. Bola to Byvarová s dcérou Sabínou. Počuly, že umrel pán z   dolného konca, krstný otec Sabínin, i pribehly po susedsky pomôcť a   poplakať. Na hlavách malý, na znak smútku, zahodené čierne šatky, a   prvá ich práca bola, ako vošly, kľaknúť pred posteľou mŕtveho a   pomodliť sa. Marcel sa zapálil, keď vošly, a kľakol tiež, pozorujúc   ich. Myslel na celkom iné, nie na modlitbu. Byvarová bola naoko a   vystiipením možno najvšednejšia žena. Mohol ju niekto i viac ráz   vidieť i shovárať sa s ňou, no iste sa nepamätal na ňu. Nebolo na nej   črty, ktorá by utkvela v pamäti. Zato Sabínu nikdy nezabudol, kto ju   raz videl. Bola trochu nadprostredne vysoká a robila dojem silnej   osoby, hoci nebola ani hrubých kostí, ani tučná. Jej gaštanové vlasy   zahrávaly určite dočervena a mala i krásnu bielu a ružovú pleť   červenovlasých žien. Jej jemný orlí nos bol možno o myšlienku   priveľký, ako i jej mäkké ústa, na ktorých spodná pera vyčnievala a   ktoré bohvie prečo robily dojem zvláštnej dobroty. Bradu mala silnú,   okrúhlu. Jej tvár nebola pravidelná, ale jej celý zjav bol akýsi   povznesený a milý, a jednako sa každý prestal usmievať, keď pozeral   na ňu. Možno, že to zaviňovaly dve kolmé vrásky nad nosom, ktoré   často robily jej pozor vážnym, skoro smutným.
+   </tei:p>
+   <tei:p>
+    12 Z dávnych časov
+   </tei:p>
+   <tei:p>
+    177
+   </tei:p>
+   <tei:p>
+    ﻿Keď sa pomodlili, vstali. Marcel pristúpil k tetke a bozkal jej   ruku, stisnúc Sabíninu, ktorú mu bola podala. Sabína prebehla   pohľadom po izbe, i zabolelo ju, že bola v takom neporiadku, lebo   vedela, že Marcela bude mrzieť povedomie, že to musela spozorovať.   Svojím láskajúcim hlasom mu vypovedala, ako ľutujú neočakávaný koniec   krstného otca, a dala mu cítiť, ako bolestne účinkuje na ňu, že on   trpí. Napokon sa spýtala: — Kedy pochováte krstného otca? Iste v   nedeľu? Jej mať podotkla, že sa to rozumie samo sebou. Marcel cítil   podivné poľahčenie v pohľade na Sabínu. Jej oči mu hovorily, že ho má   rada, že ho ľutuje, a mäkký stisk jej ruky ho uisťoval, že ho   neopustí. Bolo mu ako v tmavej noci blúdiacemu, keď zazrie zrazu   blízko svetlo. Nikdy si so Sabínou nepovedali, že sa majú radi; to sa   im zdalo celkom prirodzeným, ako by to inak ani nemohlo byť. Ich   láska vyrástla nepovedome s nimi a zračila sa najmä v nekonečnej   dôvere a v pocite spolupatričnosti jedného ku druhému. Zaiste za tým   túžili, aby si padli do náručia a splynuli v bozku lásky. Ale so   Sabínou bolo vylúčené na to sa odvážiť, a ona sa vedela opanovať. —   Marcel, keď bude pohreb v nedeľu, rozpošli čiernych poslov, aby   oznámili rodine a známym, čo sa stalo, — povedala Sabína. Marcel   vedel, prečo ho chce poslať preč. Chcela uviesť dom ako-tak do   poriadku; veď na rozposlanie poslov bolo ešte dosť času. Ale išiel.   Pozrel jej do očú a išiel. Ona mu hovorila pohľadom: „Ty si dobrý,   ďakujem ti.“
+   </tei:p>
+   <tei:p>
+    178
+   </tei:p>
+   <tei:p>
+    ﻿Marcel nešiel poslov sháňať. Veď nebolo celkom isté, či pochovajú   otca v nedeľu, keď do tých čias chýbaly ešte štyri dni. Vošiel do   záhrady za domom a sadol si v hustom lieskovom kroví na zem a   rozmýšľal, ako to len teraz bude. Dlžôb je mnoho, kaštieľ   nedostavaný, on nemá ešte nijakého postavenia, a mať, neborká, je   viac na ťarchu ako na osoh. So Sabínou a s nimi sa to iste zle   skončí, lebo starý Byvar mu ju nikdy nedá za ženu. Veď aká bola medzi   tým haraburdím v izbe; bola pri všetkej skromnosti ako bohvie aká   princezná medzi chudobou. A aký neporiadok, aká nečistota u nich!   Nemožno, že by ho i sama chcela. Potom pomyslel si i na rýchly odchod   otcov, ktorý bol vždy taký dobrý, i prišla naň taká duševná ťažkosť,   že ju cítil ako prudkú telesnú bolesť. Keď sa za hodnú chvíľu   sosbieral a vošiel nazad do domu, našiel všetko v prekvapujúcom   poriadku. O nečistote nebolo viac ani reči, otec bol už oblečený v   peknom tmavohnedom zamatovom úbore a usmieval sa . . . Úbohý otec!   Sabína s matkou už boly odišly. Marcel sa rozhliadol po izbe, potom   sa hodil na stolicu, a oprúc hlavu do dlaní, sklonil sa hlboko a   plakal žalostne. Pohreb jednako bol v nedeľu. Byvarová s dcérou   všetko tak zariadily, že i smútočný kar, na ktorom zúčastnilo sa celé   prednejšie zemianstvo širokého okolia, bol slušný. Malú ťažkosť   robilo zaopatriť dvadsať zlatých, ktoré sa musely složiť kostolu, aby   Strážnický mohol byť v ňom pochovaný. Keď sa Sabína dozvedela o veci,   i tú zariadila. Pri pohrebe hovorili páni bratia a sestry o sláve
+   </tei:p>
+   <tei:p>
+    12*
+   </tei:p>
+   <tei:p>
+    179
+   </tei:p>
+   <tei:p>
+    ﻿Strážnickovcov, oslavovali ich pri dobrom víne, spomínali, aký bol   nebohý znamenitý človek, a prejdúc na stoličné a krajinské veci,   zabudli naň ešte na kare. S tým i zapadla sláva Strážnickovcov na   dlhší čas. Nebohého Imra spomínali len ako príklad ľahkomyseľného   človeka, hoci nejednému bol urobil i veľmi cenné služby, ktoré   vyžadovaly od neho značnú obeť.
+   </tei:p>
+   <tei:p>
+    Strážnická žila s mladším synom v úradníckom dome, v ktorom bol   jej muž umrel, a nestarala sa o nič, len aby mali čo jesť. Na to im   stačilo hojne i z Porúbky. Celá starosť, spojená so zriadením   majetkových pomerov, padla na plecia Marcelove, ktorý chodil od   dlžníka k dlžníkovi, z úradu do úradu, a prosil, vadil, škriepil sa,   aby mu poskytli nejakú výhodu alebo poľahobu, aké, ako on dobre   vedel, bolo temer zvykom povoľovať zemianskym dlžníkom oproti   židovským veriteľom. Zabudol, že v takýchto prípadoch išlo vždy o   vplyvných pánov, no a on teraz nijakého vplyvu nemal. Naopak, začali   od neho bočiť, zatajovať sa mu, ba starý grobian Vidovič ho vyhodil i   z kancelárie. Toto pokračovanie zväčša porodinených úradníkov ho vo   veľkej miere rozhorčovalo, čomu častejšie dal i výraz v kruhu svojich   priateľov, nadávajúc pritom i na vládne kruhy vôbec. Ako to už býva   stálym zvykom v takýchto prípadoch. Raz popoludní, ako to robievali   denne, sedeli páni zemani a úradníci v dlhej izbe v hospode   vidieckeho domu, a ako obyčajne, hrali sa v karty alebo sa zabávali   pri pohári vína. I vošiel
+   </tei:p>
+   <tei:p>
+    180
+   </tei:p>
+   <tei:p>
+    ﻿do siene, y bedrách sa gavaliersky natriasajúc, mladý Rudolf   Kandó, švihácky mladý zeman, a zvolal, zastanúc vprostriedku medzi   stolmi: — Páni bratia, pán župan chce mať poradu o tom, ako oslávime,   ako sa patrí, deň sv. Anny; na túto poradu mi nariadil pozvať   nasledujúcich pánov . . . I prečítal dosť dlhý menoslov, vynechajúc   pritom meno Marcelovo. Pri Marcelovi sediaci a s ním besedujúci Elek   Brezovický zvolal: — Ohó, a Marcela Strážnického si vynechal! Žatým   ozvali sa i viacerí, že Marcela nemožno vynechať, keďže on vždy riadi   každú zábavu. Kandó sa obrátil k týmto pánom a riekol s urážlivou   schválnosťou: — Ferko báči výslovne povedal, aby som Marcela   Strážnického nevolal, — i drgol k tomu plecom. Nastalo trápne   utíšenie, až ktorýsi zavolal: — Možno, preto ho nevolal, lebo je ešte   v smútku za otcom. Kandó pokrútil hlavou: — Nemyslím, že preto. Nuž   ktorí ste pozvaní, poďte! Mládež sa vyrojila, hanbiac sa Marcelovi,   ktorý bol každému dobrým priateľom, pozrieť do očú. Von rozčúlene   besedovali o ňom; pred ním sa pretvárali, že je to taká malicherná   vec, ktorá je nehodná spomienky. Marcel, vidiac sa takto opovrhnutým,   zbledol. Týmto skutkom bol vysúdený zo spoločnosti, lebo keď ho župan   takto verejne urazil, neopovážil sa ho viac nikto zavolať do domu.   Nevedel napo-
+   </tei:p>
+   <tei:p>
+    181
+   </tei:p>
+   <tei:p>
+    ﻿chytré, čo má urobiť, i pretvaroval sa, že si z celého nič nerobí.   Zostal v sieni sám, okrem starého Lotiaka, sediaceho v tichosti pri   poháriku vína v druhom kúte miestnosti. Marcel oprel lakeť o stôl a   hlavu o dlaň a díval sa rozFútene von oblokom na odchádzajúcich.   Zrazu pocítil dotyk na pleci i obzrel sa. Za ním stál starý, malinký   mužík s veľkou hlavou a okrúhlou, vytučenou tvárou, samá vráska, s   drobnými prežltlými fúzmi. Starý šušlal, lebo mu chýbaly zuby. Bol to   starý Venduš Lotiak. — Ale ťa sotili do boku, čo? — spýtal sa,   urobiac špatnoposmešnú tvár. Marcel sa zamračene díval na starého   pokušiteľa. — Sotili! Háveď naničhodná! Medzi všetkými tými zvermi   niet jedného človeka. A prečo? A čo som im urobil? Že mi umrel otec a   nechal zadĺžený majetok! Marcel nedôveroval Lotiakovi a jednako,   nevediac sa opanovať, vybúšila takto z neho rozhorčenosť. — Veru i   preto, synku. Počkaj, pomkni sa mi. A dajme sem ten krčah s vínom.   Lotiak si nalial z Marcelovho vína a trasľavou rukou naddvihol pohár   k ústam. — Nielen preto ťa kopol župan, že si žobrák, ale i preto,   lebo si tu predvčerom vychvaľoval kurucov. To ti, milý braček,   neodpustia, a najmä nie tí, ktorí ich najšpatnejšie zradili. Župan je   na teba nahnevaný pre tvoju nevďačnosť. Vždy a všade len vraj teba   vyznačoval, a teraz sa takto držíš proti nemu. Že vraj hada choval na   prsiach.
+   </tei:p>
+   <tei:p>
+    182
+   </tei:p>
+   <tei:p>
+    ﻿Marcel zhíkol, keď toto počul. — On mňa vyznačoval! Pracoval som   zaň vždy a všade, či sa mi chcelo, či nie, a keď som ho prosil, aby   mi bol na pomoci, poslal ma ku Vidovičovi, s ktorým sa vraj už   dohovoril, čo treba robiť v mojej veci, a Vidovič ma vyhodil von. Ale   kto mu to len mohol všetko pohovoriť o tých kurucoch? Veď tu boli   vtedy len moji najspoľahlivejší priatelia, za ktorých ručím! —   skríkol Marcel s úprimným podivením. — Ty si chlapec a neznáš život.   Aby sa županovi zalichotili, zradia i vlastného otca. Chovanec ťa na   smrť odsúdi a priateľ ťa obesí. A potom, vieš, akí sú bohatí ľudia:   tí ti s chudobným nemajú citu. Ten ti neverí, že hlad bolí a zima že   mrazí. — Prekliati boháči, že vám to srdce skamenie, keď ste nakradli   tých peňazí. — Nebude na svete dobre — to ti ja povedám, ja som sveta   skúsil -— kým nebudú všetci ľudia rovní. Dolu s boháčmi, keď nie   podobrotky, tak pozlotky! Lotiak, trochu podnapitý, buchol päsťou o   stôl. — Ono je pravda, že s chudobným človekom nemajú milosrdenstva,   len chudobný, lebo vie, čo je bieda. — To si, vidíš, povedal pravdu.   Ja žobrák, ja hej, ja cítim s tebou, ale taký magnáš by i ostatnú   kožu sodral s teba. Nech žijú kuruci! Vivat! To je chudoba, to vie,   že chudoba bolí, a má s ňou milosrdenstvo. Tí robia spravodlivé, tí   berú boháčom a delia chudobe! — kričal šušlajúc Lotiak a nalial si   vína.
+   </tei:p>
+   <tei:p>
+    183
+   </tei:p>
+   <tei:p>
+    ﻿— Keď si pomyslím, že ani jeden z tých magnátov neprišiel ku   svojmu bohatstvu statočným spôsobom. Veď župan svojho brata zničil,   aby mohol dostať jeho majetok! — Povedz mi, synku, a čo ty teraz   smýšľaš? Čo bude s tebou? Tu sotva prídeš k niečomu, tu ťa k ničomu   nepripustia. Lebo veď vieš, že väčšmi ťa nenávidí ten, kto ti nevinne   krivdí, ako ten, komu si zabil otca. Mňa, ako vieš, tiež nevaquistica   pripravila o majetok, aby ho mohol zobrať gróf Magócsy. A či bol s   tým spokojný, že ma zničil? Nie! I ženu i dcéru mi ten zloduch   odobral. A ako som visel na nich! Ony boly mojím celým životom!   Lotiak sa smraštil, urobiac plačlivú tvár. Marcel pozrel naň   nedôverčivo, zdal sa mu akýmsi podozrivým. Bol počul o ňom, že i ženu   i dcéru bol na Dolniakoch Turkom predal. Vedel o ňom, že je to človek   nespoľahlivý, pokušiteľ, že za peniaze všetko urobí, ale že má rozumu   až zbytkom, a preto bol zvedavý na jeho mienku. Myslel si, že bude   oproti nemu múdre opatrný, ale jeho mladistvý temperament ušiel s   jeho rozvahou a starý cynik robil s ním, čo chcel. Marcela chválili   jeho priatelia, obdivovaly dievčatá a lichotily mu panie; nie div, že   si namýšľal, že všetko vie lepšie ako každý iný a že, poznajúc   Lotiakovu povahu, ani keby ju videl na dlani, bude vedieť, čo môže z   jeho rečí držať za úprimnú radu a čo za prípadný podvod. Ale už   Lotiakov zdanlivý súcit s jeho ťažkosťami mu zakalil objektívne   pozeranie na jeho nástrahy. — Veru ťa tu, ako ti hovorím, nepripustia   k ničomu, aspoň nie podobrotky. Tu všetko opanovali
+   </tei:p>
+   <tei:p>
+    184
+   </tei:p>
+   <tei:p>
+    ﻿páni, držiaci s cisárom, a tí majú na všetky miesta ľudí, koľko   chceš. Pozri, nechcem sa chváliť, ale mám toľko rozumu ako Podhorský   alebo Vranecký, no a čo som? Preto, lebo netancujem, ako župan   hvízda, nuž som len mizerný adlátus. Adlátus, ja! A ty čo tu budeš   bez peňazí so samými nepriateľmi okolo seba? A k tomu si ešte kurucov   chválil! — Prečo s nepriateľmi, veď som neublížil ani ja, ani moja   rodina nikomu. — Neublížil, neublížil. Ako to hovoríš? Pred chvíľou   si sa žaloval, že sú všetci proti tebe, a teraz si myslíš, že ťa od   samej lásky zjedia? Tvoj majetok je tvojím nepriateľom. Pravda, ty to   nevidíš. Chceli by si ho rozdeliť, a tak je každý, kto by si chcel   kus z neho vyraziť, tvojím nepriateľom. Myslíš, že je váš majetok nie   omnoho viac hoden, ako je na ňom dlhu? Pozriže, hneď tvoj krstný   otec, Byvar, vystiera svoju ruku za ním. Počul som, že on je   vymenovaný za vášho tútora. — Byvar za nášho tútora? Bože na   nebesiach, to sme dobre! — No, vidíš, teraz čušíš so svojimi drahými   priateľmi! Marcel sa o chvíľku sosbieral. — Počujte, Venduš báči, čo   by ste mi vy radili, čo by som mal urobiť? — Hm, dobrá rada hodna   groš. Počkaj, — vzal pohár a vypil, — trochu porozmýšľam. Lotiak   hmkal a ukazoval, že rozmýšľa, a Marcel sa díval smutne von oblokom   na ulicu, kde sedeli dvaja okyptení a otrhaní žobráci. Pohľad mu
+   </tei:p>
+   <tei:p>
+    185
+   </tei:p>
+   <tei:p>
+    ﻿zaťažil na dušu; pomyslel si, že je i on blízko toho, aby si medzi   nich mohol sadnúť. Lotiak ho chytil zrazu za rameno. — Pozri, vidíš   sám, že jediní kuruci bojujú za chudobu, za spravodlivosť proti   pánom. Lebo veď vieš, že skoro všetci veľkí páni držia s kráľom. Ešte   i tí niekoľkí, ktorí boli pri Rákócim, po jednom odskakujú od neho.   Synku, svoju pravdu len pri nich nájdeš. Tu nemáš čo robiť. Bezerédi   nestojí len na deň cesty odtiaľto, choď k nemu. — Ale ja by som mal   ísť ku kurucom? Venduš báči, na to som nikdy nepomyslel. A tu nechať   všetko svojim nepriateľom napospas? Ja, ktorý som i s otcom vždy   verne držal s kráľom?! — No, a čo vykonáš ty sám proti toľkým,   chtiacim ťa rozďubať? Ty, chlapčisko, ani nie dvadsaťštyriročné, a   sám, a tí mnohí a mocní! — Jednako pokladám za nerozumné ujsť; potom   už vôbec môžu robiť, čo chcú. Lotiak sa obzrel po izbe a potom mu   zašeptal do ucha: — Odpracú ťa. Urobili i horšie veci. Marcel   zatíchol a potom pokrútil hlavou. — To už azda neurobia. — Hovorím   ti, videl som i horšie veci. Pomysli si, čo urobil župan so svojím   bratom, aby som iných nespomínal. Chvíľu mlčali. — Nuž a čo vyhrám,   keď pôjdem ku kurucom? — pýtal sa Marcel. — Čo vyhráš? Ľahko   nahovoríš niektorého z ich menších vodcov, aby poslal sem nejaký   oddiel, s ktorým ty budeš tu pánom!
+   </tei:p>
+   <tei:p>
+    186
+   </tei:p>
+   <tei:p>
+    ﻿— A čo mám z toho panstva? Veď jednako nemôžem dať všetkých   svojich nepriateľov pomárniť! — Môže sa všeličo stať. Ale hlavná vec   je, že budeš v istote. Si súci chlapec: pri kurucoch máš možnosť sa   vyznačiť. Ktovie, čo môže z teba byť, a tu budúcnosti nemáš. A veď si   i tak presvedčený, že oni majú pravdu. —-Veď majú, majú, lenže sa   kuruci sotva udržia dlho. Francúzov Eugen a Marlborough stále bijú, a   keď zostane Rákóci sám proti cisárovi, tak si ten dá s ním veľmi   chytro rady. — Po prvé Francúzi ešte dlho vydržia a po druhé neboj   sa: pánom sa nič nestane, a pri kurucoch budeš pánom. Rákóci a jeho   vodcovia budú dobre vedieť, kedy majú svoju vec draho predať. A   potom, však je pri kurucoch spravodlivosť, voľnosť, bohatstvo a   všetko, čo si človek žiada. Keby som bol mladší, šiel by som i ja,   nemeškajúc ani chvíľky. Keď sa rozišli, Marcel bol na váhach, čo má   urobiť. Jedna malicherná okolnosť silne účinkovala na jeho   rozhodnutie: stretol na ulici druhú vicišpánku, pozdravil ju úctivé,   a ona neprijala jeho pozdrav. Ako sa neskoršie dokázalo, nie   schválne, ale ho nezbadala. Marcelovi sa teraz zazdalo, že je celý   svet jeho neprajníkom a že urobí najlepšie, keď odíde hneď do   Podhory, kde môže v tichosti a nerušene porozmýšľať, čo urobiť.
+   </tei:p>
+   <tei:p>
+    Ryvarovský kaštieľ bol so troch strán obkľúčený veľkou záhradou,   ktorá v zadných čiastkach tvorila vlastne lesík, lebo tam pozostávala   zo smrekov
+   </tei:p>
+   <tei:p>
+    187
+   </tei:p>
+   <tei:p>
+    ﻿a bukov. Obhradená bola len žŕdkovým plotom, ukazujúcim skorej,   pokiaľ siaha záhrada, ako zabraňujúcim príchod do nej. Marcel bol   veľmi zriedka v dome Byvarovom, so Sabínou stretával sa vždy len   náhodou v záhrade, a to v tej jej čiastke, ktorá ležala pri bočnej   kratšej ceste, vedúcej do kaštieľa Strážnických. I teraz zazrel   Marcel, idúci s kroka na krok na svojom belúšovi, neďaleko plota sa   belejúci čepček Sabínin, zpod ktorého vyzerala jej ružová tvár.   Dúfal, že sa s ňou síde; veď vždy túžil po nej, a keď ju teraz   zbadal, zaradoval sa, a jednako z odporu proti jej otcovi prešiel   neďaleko nej, robiac sa, že ju nevidí. Pravda, úfal sa, že ho ona   zavolá. Sabína ho vyčkávala deň po deň, v ten čas, keď obyčajne   prichádzal; chcela s ním hovoriť; veď mala toho toľko, čo jej ležalo   na srdci! Ona už vedela, že jej otec bude tútorom Strážnických, a   nepochybovala o tom, že Marcel tomu nebude rád. Teraz, vidiac ho   prichádzať bez slova, usmiala sa trochu. ,Hnevá sa môj milý   Marcelko,4 pomyslela si a nechala ho prejsť niekoľko krokov.   Marcelovi stislo srdce, že si ho nevšimla, chcel sa už obrátiť, keď   začul jej výkrik: — Marcel, Marcel, postoj trochu! Marcel skočil s   koňa a utekal k nej, keď bol koňa priviazal ku plotu. — Nuž ty si ma   chcel obísť, drahý môj panáčik? Pekne od teba! — zvolala s usmievavou   poklonou. Marcel odvetil zamračene: — Nevidel som ťa. — Videl si ma,   ale sa hneváš na otca, a preto
+   </tei:p>
+   <tei:p>
+    188
+   </tei:p>
+   <tei:p>
+    ﻿i ja, nevinná, musím trpieť. Povedz, zaslúžila som to od teba?   Marcel sa, mlčiac, díval do zeme. Sabína nespustila s neho očú. Po   chvíľke vzdychol a riekol: — Pozri, aký som nešťastný! Ešte i to, čo   by mi malo byť na potešenie, ma robí len nešťastnejším. Keby si ty   nebola, bolo by mi ľahko odísť, či tu, či inde biedne zahynúť, ale   pre teba mi ťažko preč odísť. — Marcel, čo smýšľaš s odchodom, kde   chceš ísť? Zasa mlčal chvíľku. Cítil, že ho ľutuje úprimne, i   uľútostil sa i sám nad sebou. Napokon vyriekol temno: — Ku kurucom;   veď som tu nie už ani životom istý! — Bože milostivý, a čože sa   stalo? — zvolala Sabína preľaknutá. — To, že si páni chcú podeliť náš   majetok medzi sebou, a tvoj otec je naším tútorom. Stojím im v ceste.   Šándor Ilavský bol väčším pánom, ako som ja, a — zmizol. — Viem, že   má byť môj otec vaším tútorom, a rada som tomu. — Rada? — zvolal   Marcel prekvapene. — Isteže. Otec je statočný človek. Je trochu hrubý   i ziskuchtivý, ale poctivým spôsobom, — povedala Sabína nie bez   výčitky. — No, a ako prišiel k majetku Pernekovcov? Sabína sa   zasmiala. — I ty veríš tým bájkam?! Marcel, to som od teba   neočakávala, — i robila sa, že sa hnevá, ale sa pritom neprestala   usmievať.
+   </tei:p>
+   <tei:p>
+    189
+   </tei:p>
+   <tei:p>
+    ﻿— Nuž to je nie pravda, že ho tvoj otec doniesol na žobrácku   palicu? Sabína len mykla plecom a hodila rukou. — No, a šperky   Rožňavských? -— pýtal sa Marcel ďalej. — Milý Marcel, ak ty máš za   pravdu všetky povedačky, čo o mojom otcovi roztrusujú, tak rozumiem,   že sa ho bojíš. Ja ti len to hovorím: zostaň, nechoď nikde, všetko sa   dobre skončí. Vy nemôžete mať lepšieho správcu majetku, ako je môj   otec. Uvidíš, všetko sa vyrovná, čo sa ti v tejto chvíli zdá takým   strašným. Marcelovi dobre padlo, že ho prosí, a preto nie že by sa   bol tak dal jej slovami nahovoriť, naopak, tým viac sa v ňom   utvrdzovala myšlienka, že pôjde ku kurucom. Teraz sa mu to začalo   pozdávať náramne výhodným. Je čistá vec, že sú to zástancovia   utlačených, bolo by hriešne nepoužiť ich. — No, ja už len pôjdem, ako   som si to namyslel. Pozri, veď ma už nemajú za nič. I vyrozprával jej   udalosť o pozvaní k županovi, pri ktorom ho vynechali. Sabínu to   veľmi zamrzelo, ale sa pretvarovala, že to pokladá za maličkosť, a   zasmiala sa hlasne. -— Ty, veď to môže byť len nejaké nedorozumenie.   To ja ľahko napravím: napíšem tetke list, a všetko bude v poriadku.   Poslúchni, Marcel, nechoď. Ak odídeš, vydám sa ti za druhého, — a   zasmiala sa mu nie bez koketnosti, čo bolo u nej veľmi nezvyčajné.   Marcel smraštil obočia a povedal tlmeným hlasom: — I tak ty nikdy   mojou nebudeš.
+   </tei:p>
+   <tei:p>
+    190
+   </tei:p>
+   <tei:p>
+    ﻿Sabína, ktorá dosiaľ predstierala veselšiu náladu, než v akej   naozaj bola, veľmi zvážnela a pristúpila k Marcelovi celkom blízko. —   Marcel, vieš, že mám obyčaj svoje slovo zadržať. Počúvaj, čo ti   poviem. Prisahám ti, že ja nikdy nijakého muža nebozkám okrem teba. I   oblapila ho okolo krku a bozkala na ústa. Zamlkli a sklopili oči.   Obidvaja sa cítili tak, ako keby boli vzali na seba s veľkou   zodpovednosťou spojenú povinnosť. Bolo im, ako keby boli v kostole. I   pozreli naraz jeden druhému do očí a Marcel sa zohol, a bozkajúc   Sabíninu ruku, zašeptal horúce: — Ty moja drahá, jediná! Nech ma Boh   potresce, ak niekedy pomyslím na inú ženu ako na teba. Či niekedy   budeš mojou, neviem, ale pre mňa niet inej ženy ako teba. — Tak   zostaneš tu? — spýtala sa Sabína hlasom, ako keby bolo už celkom   isté, že zostane. — Teraz už celkom nemôžem tu zostať, lebo nemám   nijakej možnosti tu tak žiť, aby som ťa mohol dostať za ženu. Podívaj   sa, drahá moja: dneszajtra vyhodí ma z kancelárie i Borák, majetok   náš je v rukách tvojho otca, čo tu mám robiť? U kurucov je rovnosť,   boj za našu slobodu. Tam sa môžem vyznačiť a potom prídem po teba.   Počula si, že i Krman požehnal v Žiline zástavy kurucké, no a Krman,   hoci je i luterán, je veľmi ctihodný človek. — Marcel, dosiaľ si   nehovoril o kurucoch. Spomínal si naopak, že sú len nešťastím pre   krajinu, že sú nástrojom niekoľkých veľkých pánov a že by krajina   menej trpela pod jednou, čo i horšou
+   </tei:p>
+   <tei:p>
+    191
+   </tei:p>
+   <tei:p>
+    ﻿vládou, ako keď ju trhajú na všetky strany. A mal si pravdu.
+   </tei:p>
+   <tei:p>
+    — Mýlil som sa. Teraz vidím jasne, že naším nešťastím je cisár.   Odhodlaný som: pôjdem. Sabína videla, že čím ho teraz bude viac   nahovárať, tým väčšmi sa utvrdí vo svojom úmysle. — Nuž a kedy by si   to chcel ísť? — Pôjdem o niekoľko dní, ako tu všetko akotak do   poriadku uvediem. S Bohom, moja drahá Sabína! Zohol sa, bozkal jej   vrúcne ruku a odbehol. Sabína ho chcela ešte raz bozkať, ale v   náhlivosti nezbadal jej posunok. Sabína si myslela, že ona vlastne   omnoho viac ľutuje Marcela, než by ho milovala. Mýlila sa, ako sa v   takýchto prípadoch vždy mýlime. Jej láska robila jej ľutovanie takým   ostrým, až bolestným. Keď odišiel, dívala sa chvíľu za ním:   nahliadla, že keby teraz tu zostal, mal by ozaj ťažké postavenie, v   ktorom by mu nebola mohla pomôcť. Ale keď chce odísť, nech nejde ku   kurucom. Mal dosť a dosť iných miest, kde mohol ísť. Bola   presvedčená, že za nedlhý čas by sa jeho pomery musely napraviť, ale   zasa i to bolo isté, že mladý, netrpezlivý muž, ktorého život dosiaľ   len maznal, musí mnoho pokaziť, keď mu nejde všetko tak hladko, ako   to on očakával. Umienila si, že ho nahovorí, aby šiel do Nitry ku   strýcovi, len nie ku kurucom. Jedného si však bola istá, že ho do   smrti neopustí, čo by sa s ním čo robilo. Marcel, ktorý sa vlastne   len rozhovorom so Sabínou utvrdil vo svojom predsavzatí, že odíde, už   nasledujúceho dňa odcestoval, ani sa nevidiac so
+   </tei:p>
+   <tei:p>
+    192
+   </tei:p>
+   <tei:p>
+    ﻿Sabínou, lebo dostal od Lotiaka kartičku, v ktorej mu dal na   známosť, že ho majú chytiť ako nebezpečného kuruckého buriča. Marcela   neskoršie v živote mnohé, čo urobil, mrzelo, ale nič nie tak ako to,   že sa dal tomu zlému človeku vyplašiť medzi kurucov. Napokon to, že   bol dva roky medzi nimi, neľutoval; skúsil tam mnohé a nadobudol si   mnoho znalostí ľudí a pomerov. Ale že ubehol na nástrahy toho   podplateného bedára, že sa dal tak nastrašiť, že opustil na celé dva   roky najlepšiu ženu a že jej zavinil toľko duševného bôľu a   strádania, to si nemohol nikdy odpustiť. Po jeho odchode sa celá   verejná mienka obrátila proti nemu. Nebránil ho nikto; nadávať mu   však nadával Lotiak, ktorý tvrdil o ňom, že bol nebezpečným človekom,   ktorý nešiel ani medzi kurucov, ale ešte medzi horších ľudí. Sabína   ho nebránila pred nikým, nehovorila o ňom vôbec, lebo vedela, že by   mu teraz nič nepomohla. Bolo treba vyčkať premenu verejnej mienky,   ktorá, ako Sabína bola presvedčená, nastúpiť musí. Asi rok po jeho   odchode sa rozniesol chýr, že padol v jednej zo srážok s Rabutinovým   vojskom. Bil sa vraj udatné a padol, trafený mnohými guľami. Teraz,   keď ľudia mysleli, že ho už niet, začali jednako len spomínať, že to   bol milý, statočný mladý človek, ktorého vyštvali z domu, aby si páni   mohli strážnickovský majetok medzi sebou podeliť. Hľa, v Podhore   gazduje na jeho majetku Byvar, v Dúbrave robia ľudia Brezovického, a   tak v každej čiastke iný. No, nerobilo sa s tým mladým člo-
+   </tei:p>
+   <tei:p>
+    13 Z dávnych časov.
+   </tei:p>
+   <tei:p>
+    193
+   </tei:p>
+   <tei:p>
+    ﻿vekom, ako to Pán Boh prikázal. On neublížil nikdy nikomu, naopak,   mal srdce i k biede. Veď keď starú žobrácku, hluchú Katru, mali psi   roztrhať, nebránil ju nikto, len on psov rozohnal, nehľadiac na   posmech, ktorý robili preto páni z neho. Ako i preto robili z neho   len posmech, keď Vranického paholkovo dieťa vytiahol z hnojovky.   Ostatní páni a panie sa len dívali, ako sa to úbohé chlapča zalieva,   nikomu nechcelo sa zašpiniť pre fagana, len Marcel Strážnický   neľutoval krásnych háb, ale skočil do nečistoty za hynúcim dieťaťom.   Tak sa minul zasa rok, a o Marcelovi Strážnickom nebolo ani chýru ani   slychu. Už i ľudia prestali o ňom hovoriť, len Sabíne vŕtala jeho   spomienka bolestne v duši. Ona neprestala dúfať, že jednako len príde   jej najmilší. Ale pri všetkom jej cnení a želaní za ním na jej   správaní nebolo badať premeny: bola taká vážne milá a jednej nálady   ako predtým. Až konečne jednako len prišiel, ale nie, ako bol myslel,   na čele hrdej čaty vyberaných bojovníkov. Prišiel len sám.
+   </tei:p>
+   <tei:p>
+    Roku 1708 bol november v O—skej stolici veľmi chladný a mokrý. I v   to popoludnie, keď Sabína sedela v hlbokom obloku svojej malej   sklopenej, ale bielučkej izbičky a vyšívala krásnu vestu pre brata   Pavla, ktorý bol ritmajstrom v jednom z plukov vo vojsku generála   Heistera, padal sneh, pomiešaný s dažďom, a studený vietor otriasal   oknami a nie dobre priliehajúcimi dverami, trepúc všetko do blata, čo   nebolo dostatočne pripevnené. Sabína hľadela nie bez záujmu na   biedneho
+   </tei:p>
+   <tei:p>
+    194
+   </tei:p>
+   <tei:p>
+    ﻿psa, zavýjajúceho pred zavretými vrátami oproti ležiaceho domčeka,   do ktorého sa chcel dostať. Pomyslela si, že pošle sluhu, aby mu šiel   otvoriť, i vstala. Od tých čias, čo odišiel Marcel, každé utrpenie,   čo videla, donášala s ním do spojenia, bojac sa, či i on podobne   netrpí. Čosi ju nútilo pomáhať v tej nádeji, že sa tým i jemu   poľahčí. Išla ku dverám. Dvere sa pred ňou roztvorily a vstúpil do   izby jej otec. Bol nedbale a nečisto oblečený, prichádzajúc zo dvora;   čižmy mal samé blato a v ruke držal veľkú vyfajčenú penovku. Vošiel   strmo a díval sa srdito na Sabínu. — Tak, už celkom neposlúchneš?   Uvidíš, čo s tebou urobím! — kričal, ako keby pokračoval v ďalšom,   prv začatom rozhovore, pritom pozoroval, aby zablatenými nohami čím   viacej zašliapal biele plátno, pokrývajúce doma tkané koberce na   podlahe. — Sadnite si, pán otec, hneď prídem, len Martina zavolám.   Sabína vybehla a prišla o chvíľu nazad. Hneď žatým bolo oblokom   vidieť, že hajdúch vyšiel z domu a vpustil psa do dvora. Dokiaľ bola   von, Byvar stál pred bielou vyšívanou záclonou obloka a dúchal na ňu   chválne dym z fajky, takže zostala na nej špatná škvrna. — Tak, čo   rozkážete, pán otec? — pýtala sa Sabína takým tichým hlasom, ako keby   očakávala láskanie, a nie nádavky od neho, hoci videla i schválnosť   jeho správania sa pri znečistení jej izbičky. — Prečo si u župana   netancovala ani raz s Aristidom? Čo si mu urobila, keď sa ani raz   neobzrel
+   </tei:p>
+   <tei:p>
+    13*
+   </tei:p>
+   <tei:p>
+    195
+   </tei:p>
+   <tei:p>
+    ﻿o teba, ty, ty, ty potvora? — i pristúpil k nej, a škrípajúc   zubmi, hrozil jej päsťou nad hlavou. Bolo na ňom vidno, že by ju   najradšej udrel po nej. Sabína sa trochu usmiala. — Pozrite, pán   otec: veď sa jednako nepatrí, aby dievča behalo za mladým pánom. Čo   ja môžem za to, keď ma Aristid nechce? Tomu sa lepšie vidí Alžbeta   Yitálišovie ako ja. No a ja sa mu veru nedivím. — Ty si falošná   zmija. Mne povedal, že sa mu vidíš a že by si ťa veľmi vďačne vzal. —   Mňa, s mojimi mrzkými červenými vlasmi? Kedy vám to povedal? To   muselo byť veľmi dávno. Sabína tak chladnokrvne hľadela na   rozzúreného otca, že jej tichosť začala i naň účinkovať, keďže cítil,   že všetok jeho krik je pri Sabíne úplne daromný. — Pred troma   týždňami som sa s ním v úrade shováral. Celý bol uveličený, že budeš   jeho ženou. A teraz by ťa už nechcel? Veď by to bol posmech i pre   teba i pre celú famíliu. Sabína ľahučko pohla plecami. — Mladí páni   sú dnes vrtkaví. Ja veru nemôžem za to, keď ma už nechce. — Ty si   musela akýsi fígeľ s ním urobiť. Hovorím ti, že ak tú vec nedovedieš   s ním do poriadku, dám ťa zavrieť do komory. Tam potom . . . Vtom   bolo počuť na ceste ťažký, ustatý dupot koňa. Obidvaja sa obrátili a   pozreli oblokom. Videli na biednom červenom koni shrbeného, veľmi   ošumele oblečeného jazdca so zaviazanou hlavou a pravou rukou,   visiacou v šatke na krku. Mal na
+   </tei:p>
+   <tei:p>
+    196
+   </tei:p>
+   <tei:p>
+    ﻿sebe zodratú tmavohnedú mentieku s barančeným prámom a tmavozelené   priliehajúce nohavice. Vietor mu hádzal dažďový sneh do očú, a preto,   ako i pre slabosť, klonil hlavu hlboko na prsia. Keď prechádzal   popred kaštieľ Byvarovcov, zdvihol trochu hlavu a pozeral do jeho   oblokov. — Marcel! Preboha! A aký strašný! — skričala Sabína zdesená,   zalomiac rukami. Byvar ju odsotil od obloka a díval sa za jazdcom. —   Veru je on. Všetci diabli ho dovliekli. Dám ho naskutku chytiť, — i   kráčal dlhými krokmi z izby. Sabina zostala za moment ticho stáť, kým   jej otec nechytil kľučku na dverách. Všetka krv jej udrela do srdca.   Čo teraz? Naraz zvolala: — Dobre urobíte, pán otec, keď ho dáte   zavrieť. Keď sa o tom dozvedia vicišpánka a tetka Lojzka, budú ho   môcť aspoň opatrovať, keď bude v meste. Krstná matka by sa iste   neobzrela oň. Aspoň nie ako treba. Byvar zastal, držiac kľučku v   ruke. — Vicišpánka a Vitáliška? Parom to uchytil, veru máš pravdu.   Tie baby by sa do toho iste zamiešaly a trepaly jazykom na mňa. Hm!   Byvar pustil kľučku a podišiel do izby. — Keď som bola v nedeľu pri   Gabriele, tiež sa veľmi vypytovala, či neviem, čo je s ním. Len či je   to pravda, že ho zastrelili? I druhé panie ho veľmi ľutovaly. Byvar   sa díval s hnevným podozrením na Sabínu. — Ty, počuješ, ty niečo   kuješ. Ty máš niečo s tým lotrom. Ale hovorím ti, nech sa dozviem, že   si s ním hovorila, či hocijaký iný cech s ním mala,
+   </tei:p>
+   <tei:p>
+    197
+   </tei:p>
+   <tei:p>
+    ﻿tak nech ma Pán Boh škára, ak ťa nedám do komory zavrieť a jeho do   temnice, a čo všetky baby z celého vidieka budú zaň orodovať. Tak, to   si zapamätaj! Sabíne odpadla skala so srdca; prikročila k otcovi, a   chytiac jeho nepoddajnú ruku, bozkala ju proti jeho vôli. — Aký ste   vy len dobrý, pán otec! Byvar sa díval s nedorozumením na ňu. — Čert   sa vo vás babách rozumie. Ale či ma budeš lízať, či nie, urobím, čo   som povedal. — Ale pravdaže urobíte, pán otec, pravdaže, — doložila   Sabína, zasmejúc sa. Byvar vyšiel z izby, cbtiac trepnúť dverami, čo   Sabína vedela, a preto chytro zachytila kľučku, a zadržiac ich,   zavrela ich ticho. Počula ešte otcovo zakliatie vonku. Potom tichučko   a zastávajúc podišla na svoju skromnú a tvrdú pohovku a hodila sa na   ňu. Celá jej myseľ bola naplnená len biednym obrazom Marcelovým.   Strašný bol, bledý, zarastený, chudý, oči mu len horely. Ako sa   dozvedieť, čo je s ním? ísť k nemu i proti hrozbe otcovej? Vedela, že   keby sa dozvedel, že bola pri ňom, bez milosrdenstva by ju dal   zavrieť do tej strašnej komory, ktorej sa i ona bála. Skoro v každom   starom kaštieli je v hrubých múroch nejaká komora bez oblokov, ktovie   načo postavená. I v starodávnom byvarovskom dome bola temná diera,   dostávajúca svetlo len odspodku nedobre priliehajúcimi hrubými   dverami. Komora bola obďaleč od obývaných miestností, do ktorých by z   nej ani veľký krik neprenikol. Nebolo v nej ničoho okrem jednej dlhej   starej truhly, o ktorej si povrávali, že sú v nej
+   </tei:p>
+   <tei:p>
+    198
+   </tei:p>
+   <tei:p>
+    ﻿umrlčie kosti. Že v nej mátalo, to bolo celkom isté. Podvečer i   smelí chlapi len so zatajenou hrôzou prebehávali popri nej. I Sabína   mala za celkom isté, že v tej komore zahynul jej praded Jób Byvar od   hladu, kde ho dal zavrieť jeho surový otec preto, lebo sa nechcel   oženiť, ako si on žiadal. No jednako ju nezdržiaval strach pred   komorou od návštevy Marcela, ale len pomyslenie, čo by bolo s ním,   keby mu ona, zavretá, nemohla pomôcť. Na jeho matku sa nemohla   spoľahnúť, a tak by zostal bez primeranej opatery a zahynul by ako   jeho otec. Že teraz hneď nemôže ísť sama k nemu, s tým bola načistom;   možno, v pozdný večer alebo azda v noci. Ale čo má robiť do tých   čias? Bolo jej do nevydržania, toľké hodiny čakať. Nejako sa musela   presvedčiť, čo je s ním. Niekoho poslať sa spýtať? I vybehla von, aby   sa obzrela, koho by mohla na to upotrebiť, a chcela vedieť i to, čo   robí otec. Otec sa preobliekol, teda ide z domu von. Kde? Pýtala sa   šeptom matky, ktorá už tiež vedela, že Marcel prišiel v takom   zúboženom stave, čo ju vcelku málo zaujímalo. — Pani matka, kde ide   otec? — Ide do Strážnických pozrieť, čo je s tým mladým, — odvetila   jej krátko a upratúvala šaty do skrine. Sabína videla, že teraz   nemôže nikoho posielať vyzvedať sa o Marcelovom stave. Možno, že i   otec sám povie, čo je s ním, keď príde nazad. Ale ten čas, čo otec   nebude doma, chcela využiť. I zavolala hajdúcha, starého Martina, a   jedného z paholkov, ku ktorému mala najväčšiu dôveru, a išla
+   </tei:p>
+   <tei:p>
+    199
+   </tei:p>
+   <tei:p>
+    ﻿s nimi komoru pozrieť a doniesť ju do poriadku. Pomyslela si:   „Uvidím, čo je to s tou komorou, a nebudem sa jej azda tak báť.“ I   Martin i paholok už boli starí chlapi, jednako sa, krútiac hlavou, i   dva razy opýtali, či ozaj majú ísť do tej komory. — Áno, áno, nebojte   sa, veď idem i ja s vami, — hovorila trochu neistým hlasom Sabína,   berúc lojové sviečky. Tak teda šli, oddaní do vôle božej. Otvorili   ťažké, okuté dubové dvere, a zarazil ich nepríjemný vlhký zápach   zavretej miestnosti. Komora bola celkom tmavá, vysoká, sklepená   miestnosť, asi na dva štvorcové láktre, ktorej pri slabom kmite   lojovej sviečky nebolo vidno ani povaly. Y jednom jej kúte boly   úzunké, strmé kamenné schodíky, vedúce do hĺbky. Ináč nebolo v komore   okrem podlhovastej, na ríf širokej truhly ničoho. Sabína s chlapmi sa   obzerali a mlčali stiesnene. Nebolo to príjemné miesto na bývanie. —   Tu tú truhlu musíme otvoriť, čo je v nej, — riekla Sabína, svietiac   na ňu sviečkou. — Nože, Martin, a ty, Ondrej, zdvihnite vrchnák, —   hovorila ďalej, nútiac sa do úsmevu a prikladajúc i sama ruku k   dielu. Chlapi pozreli jeden na druhého a zdvihli opatrne vrchnák, ako   keby nejaký nebezpečný zver mal vyskočiť zpod neho. Keď bola   otvorená, zasvietila Sabína do nej, i nebolo v nej nič, len dve staré   obtrhané zástavky a jeden nad plecom preťatý dolomán. Všetci si   vydýchli a teraz sa opovážili i hlasne hovoriť.
+   </tei:p>
+   <tei:p>
+    200
+   </tei:p>
+   <tei:p>
+    ﻿— Nuž, vidíte, aké daromné strachy ste si robili, — povedala   Sabína, vysmievajúc ich. — Takí chlapi, ako ste vy, čo tolko   poskusovali! — Veď je to tak, že popálené dieťa sa i ľadu bojí, —•   vyhováral sa starý Martin. — Teraz doneste metlu a vyriaďte mi   komoru, ale chytro, dokiaľ môj otec nepríde. 0 chvíľu bola komora   vyriadená, staré zástavy z truhly odpratané; na ich miesto dala   Sabína naklásť do truhly perín a kobercov, ktoré jej vraj inde vždy   zavadzaly. Chlapom rozkázala, aby nikomu nespomínali, že komoru   vyriadili. Sotva boli s komorou hotoví, prišiel domov Byvar. Vošiel   do svojej ložnice, kde obyčajne i bývali. Bola tam i jeho žena i   Sabína, na ktorú Byvar hľadel posmešne. — No, pán otec, čo ste   skúsili u Strážnických? — spýtala sa tak chladno, ako len mohla. — Co   som skúsil, to ti ľahko poviem, — i podišiel ku sitku s tabakom,   napchával si fajku a zapaľoval ju dlho, aby Sabínu urobil   netrpezlivou. — To som skúsil, že veru veľmi biedny prišiel tvoj   Marcel z toho boja a že ho nebudem zavierať do nijakej temnice. — Nuž   tak, pán otec, rozmysleli ste si tú vec, — odvetila Sabína,   pretvarujúc sa, že nerozumie jeho náražke, ktorá zrejme mala   znamenať, že Marcel čoskoro umrie. — Nie preto, ale preto, lebo toho   ešte možno sám Pán Boh zavrie do takej temnice, z ktorej nikdy   nevyjde. — Čože, myslíte, že umrie? — zvolaly Byvarová i Sabína.
+   </tei:p>
+   <tei:p>
+    201
+   </tei:p>
+   <tei:p>
+    ﻿— Veru je taký. Sabína zbledla a jej tvár mala taký tragický   výraz, že keď sa nútila trasúcimi sa ústami usmiať, ešte i Byvar sa   uľútostil nad ňou. Pýtala sa ako by žartom: — Tak nám teraz dovolíte,   aby sme ho s matkou šly navštíviť? — Netreba vás tam! — zvolal Byvar,   ale nie tak surovo, ako mal obyčaj. — Pozriteže, veď bol vaším   krstňaťom, už sa len patrí ho pozrieť, — odvrávala skromne Byvarová.   — Bol burič, kuruc; čo hľadal, to našiel. Ešte môžeme i my do zlého   podozrenia prísť. Nesmiete ta ísť! Potom pozrel na Sabínu a sklopil   pred jej pohľadom oči; obrátil sa a vyšiel. — Čo urobíš? — spýtala sa   matka dcéry. — Pôjdem bo pozrieť, a čo sa nikdy viac sem nevrátim, —   povedala Sabína ticho, skoro šeptom. Materi sa zatriasly ruky od   rozčúlenia. — Ak sa to otec dozvie, tak ti to neodpustí. — Poručeno   Pánu Bohu! Keď si pomyslím, že môže umrieť, že si ma iste žiada   vidieť a že by som ho mala opustiť v jeho najväčšom kríži, tak radšej   hneď skonám. Byvarová dívala sa slziac na ustarané dieťa. — Keby sa   už len všetko dobre skončilo! A ako by si chcela k nemu ísť? Mám ísť   i ja s tebou? Sabína sa dívala dojaté na matku a hodila sa jej potom   na prsia. — Nie, mamička, neprijmem tej obete od vás. Dosť, keď ja   trpím. Vy mi budete skorej na po-
+   </tei:p>
+   <tei:p>
+    202
+   </tei:p>
+   <tei:p>
+    ﻿moci, keď budete na slobode. Ako pôjdem k Marcelovi, ešte neviem.   Musím si to rozmyslieť. Vtom sa otvorily dvere a vošiel Martin s   kartičkou v ruke. — Urodzená panna od Meškov posielajú tento lístok.   Sú tu dvaja husári, či majú čakať? Sabína vzala bez vôle kartičku, a   odtrhnúc pečiatku na nej, otvorila ju. Frozína Mešková, jej   priateľka, ju volala, aby ešte tento večer prišla k nim na niekoľko   dní, lebo prišly k nej dve ich spoločné priateľky z kláštora. Sabína   najprv chcela odrieknuť, potom jej naraz svitlo v hlave, že by bolo   pre ňu omnoho výhodnejšie, keby bola v neďalekom Bukové, odkiaľ by   mohla omnoho pohodlnejšie a istejšie navštevovať Marcela ako z ich   vlastného domu, kde je pod stálym dozorom a kde by jej neprítomnosť   mohla otcovi vždy byť podozrivá. — Mamička, Frozína ma volá, aby som   prišla k nim na niekoľko dní, nuž idem. Aspoň sa mi skorej čas minie.   Mať zadivené hľadela na ňu, myslela si: „Teraz si zúfala, a už,   zabudnúc na všetko, chce sa ísť zabávať. Nuž darmo je: mladosť —   pochabosť.“ I riekla jej, myknúc plecom: — Choď, dievka moja, pravdu   máš. Poviem otcovi, kde si šla; myslím, že nebude proti tomu nič   namietať. Sabína trochu rozmýšľala, či povedať -matke, prečo ide ku   Frozíne, či nie. Potom sa rozhodla, že jej radšej nič nepovie, lebo   by jej len starostí narobila. Preobliekla sa, a vezmúc so sebou i   starého Martina, išla koňmo do Buková. Bola už tma,
+   </tei:p>
+   <tei:p>
+    203
+   </tei:p>
+   <tei:p>
+    ﻿keď prechádzali riedkym smrekovým lesíkom, a z väčšej-menšej   vzdialenosti bolo počuť zavýjanie vlkov, ktoré Sabínu práve tak   nerozčuľovalo, ako prítomnosť starých vyslúžených hajdúchov. Keď boli   pri jednej zákrute celkom blízko strážnickovského dvora, mnoho   nerozmýšľajúc, pustila sa smerom k nemu. Za krátku chvíľu zadupkaly   kone pred biednym, nízkym domcom, v ktorom bývali Strážnickovci. Z   oblokov kmitalo slabé svetielko na mláky pred jeho dverami. Sabína   naložila chlapom, aby sa na chvíľku utiahli do nejakej siene s koňmi;   ona vošla do izby, ktorá bola osvetlená len jednou lojovou sviečkou   pred posteľou, na ktorej umrel bol Imro Strážnický a na ktorej sa   teraz nepokojne metal jeho syn. V izbe sa pohybovali na tmavých   miestach nepoznateľné Strážnická a jej mladší syn Imro. Sabína vošla   ticho, takže ju vtedy pri posteli stojaci ani nezbadali, len keď   pristúpila k nim. — Krstná mamička, ruky vám bozkávam. Čo je s   Marcelom? Zle je? — No, veď zle, veď zle. Pomysli si, takto mi   prišiel domov len na starosť. Vždy je len starosť s ním. A ako sme sa   ho zľakli! Zastal predo dvermi a spadol s koňa. Mala som zhynúť od   strachu. Ja že to nejaký lotor ide na nás. A to ti tu môj milý syn.   Potom sme ho s Imrom vovliekli do chyže a uložili. Ani sme ho   nesobliekli; musí byť veľmi prechladnutý, preto ho hrejeme.   Osemnásťročný Imro podal Sabíne ruku a túžobným zrakom, hľadajúcim   pomoc, hľadel na ňu. — Pozri, Sabína, ja hovorím mame, že by sme
+   </tei:p>
+   <tei:p>
+    204
+   </tei:p>
+   <tei:p>
+    ﻿ho nemali tak hriať, keď je taký rozpálený. Pozri, ako sa hádže.   Sabína shodila kožuštek, lebo bolo v izbe ukrutne zakúrené, a   nešťastný Marcel bol ešte celou hŕbou vankúšov a perín obložený.   Vzala sviečku do ruky a posvietila si na nepokojne stonajúceho a   prehadzujúceho sa mladého muža. Stislo jej hrdlo a vstúpily jej slzy   do očú, taký bol. Roztvorené oči sa dívaly, ničoho nevidiac, medzi   popukanými perami ťažko sa mu obracal suchý jazyk, lícne kosti mu   vystávaly na zarastenej chudej tvári a hlboké stony vyrážaly zavše z   jeho pŕs. Mäkkou, milosrdnou rukou prešla Sabína po jeho tvári, aby   pocítila, aká je rozpálená a aby mu poodňala páchnúci, nečistý   obväzok, ktorý mal na čele. — Krstná mamička, tu je prihorúce, tá   ukrutná pálčivosť zabije Marcela. Musíme ho ochladiť. Imro, otvor   obloky a káž doniesť studenej vody. Imro vďačne poslúchol, ale   Strážnická sa postavila rozhodne proti nariadeniam Sabíniným. — Kto   to kedy slýchal, obloky otvoriť! Veď hneď dostane zapálenie. Ja   nedovolím s ním nič robiť. A ešte i studená voda, Boh zachovaj!   Sabínu neočakávaný odpor prekvapil. Vedela, že s nahováraním so   Strážnickou nič neurobí, i rozmýšľala, ako si pomôcť. — Krstná   mamička, veru máte pravdu, to by bolo zle, čo som chcela urobiť;   necháme všetko, ako je. Ale to musíte uznať, že by Marcelovi bola na   osoh dobrá tuhá polievka, veď bohvie, odkedy nejedol. Pozrite, ako   jazykom hľadá niečo. Strážnickej jedenie bolo vždy milé, a preto   poznámka Sabínina zdala sa jej veľmi múdra.
+   </tei:p>
+   <tei:p>
+    205
+   </tei:p>
+   <tei:p>
+    ﻿— Veru máš pravdu, dievka moja. Spravím mu dobrej kuracej polievky   s mrkvou a so zeleným hráškom. Mám zelený hrášok zavarený, oj, mám ho   dosť a dosť. I odišla. Sabína s Imrom úbohého, celkom bezvedomého   Marcela sobliekla a studenou vodou poumývala, dajúc sa mu jej i   napiť, čo jeho matka za nijakú cenu urobiť nechcela, lebo by vraj   naskutku dostal zapálenie pľúc. Rany na čele a na ramene, ktoré boly   zanedbané, opuchnuté a zapálené, predbežne aspoň vínom vymyla a čisto   zaviazala. Marcel žatým dýchal hlbšie a tichšie a prestal sa   prehadzovať, ale neprišiel k sebe. Sabína dala Imrovi peniaze a   kázala mu, aby ešte teraz naskutku vzal so sebou aspoň dvoch chlapov   a aby šiel po lekára do mesta, čo Imro s veľkou chtivosťou prisľúbil   urobiť. Sabína sa potom odobrala a odišla so svojím sprievodom do   Buková. Všetko bola za nepomerne krátky čas vykonala, takže jej   sprievodníkom ani na um neprišlo, že by sa azda boli dlho bavili. Ani   cesta do Buková netrvala dlho, ale celý život pamätala na tú bolestnú   stiesnenosť, s akou ju prekonala. Bola presvedčená, že Marcel do rána   nedožije a že ho posledný raz videla . . . Frozína Mešková bola asi   23—24-ročné krásne dievča. Mala tváričku ozaj ako anjel: bielu a   ružovú, krásne belasé oči a lesklé pobelavé vlasy. Ale bola malá, ako   desaťročné dievča. V celej stolici bola najvzdelanejším dievčaťom,   vedela dobre po nemecky, ba i latinsky čítala. Zbožňovala Sabínu,   nevedela ani prečo. Vedela o jej pomere
+   </tei:p>
+   <tei:p>
+    206
+   </tei:p>
+   <tei:p>
+    ﻿k Marcelovi a bola by vďačne i veľkú obeť priniesla, aby im   pomohla. Teraz netrpezlivé vyčkávala, kedy príde; stála pri obloku,   vedúcom na cestu, ktorou musela prísť Sabína. Konečne počula dupot   koní, i vybehla von. Otvorenými pitvornými dverami sa vyžiarilo na   dvor trochu svetla, v ktorom zazrela Sabínu schádzať s koňa. Utekala   oproti nej a hodila sa jej do náručia, v ktorom ju Sabína ako dieťa   vniesla do izby, kde sa složila, medzi čím jej Frozína chytro   rozprávala: — Zlatá, drahá Sabínka, aká si smutná! Darmo sa chceš   usmievať, vidím, že ti to nejde od srdca. Nehneváš sa na mňa?   Oklamala som ťa, chcela som ťa tu mať, nikoho niet u mňa, nijakých   priateliek. To bola len výhovorka, aby som ťa sem dostala. Počula   som, že prišiel Marcel chorý; myslela som, že ho budeš chcieť   navštíviť a že ti to odtiaľto bude ľahšie ako z domu. Hneváš sa,   drahá? I skočila jej na prsia a oblápala i bozkávala ju. Sabína sa   musela za celý čas opanúvať. Keď teraz videla úprimný súcit so svojím   bôľom, poddala sa mučiacemu ju žiaľu, a padnúc na pohovku, plakala   žalostne. Frozína jej vzala hlavu do svojich malých rúčok a bozkávala   a hladila ju, aby sa upokojila. — Zinuška, umrie mi, umrie mi! —   zalamovala Sabína rukami. — Neumrie ti, blázonko: mladý človek mnoho   vydrží. — Keby si ho videla, aký je strašný, nič nevie o sebe.   Chudák, čo musel vystáť, dokiaľ natoľko upadol! — Zajtra včas ráno   pošleme Martina opýtať sa,
+   </tei:p>
+   <tei:p>
+    207
+   </tei:p>
+   <tei:p>
+    ﻿ako sa má, a ty ho tiež môžeš navštíviť, keď budeš chcieť. -—■ Yeď   aj Imro sľúbil, že odkáže, čo je s ním. — Neboj sa. I svätému   Antonkovi sľúbime veľkú obeť, on mu pomôže. Svätý Anton ma ešte nikdy   nesklamal. — Pravdu máš, drahá. Že som na to nepomyslela, — vyčítala   si Sabína trpko, že takej vážnej pomoci nepoužila. I Sabína i Frozína   boly šľachetné duše, i rady sa malý, a jednako prišiel v ich živote   čas, keď sa vinou Sabíny chladne rozišly. — Ráno sa na buchot kúrenia   zobudil Byvar, a počujúc zvoniť umieráčikom, bol istý, že Marcel   umrel. Pomyslel si: nech mu Boh odpustí hriechy, keďže už umrel, a   zavolal na ženu, pri druhej stene odpočívajúcu: — Zuna, počuješ   zvoniť? To iste Marcel umrel. Byvarová zodvihla hlavu a počúvala: —   Nič nečujem, to vám len v ušiach zvoní. Byvar načúval znovu a nečul   viac nič. Pomyslel si: „No, keď ešte neumrel, ale umrie iste, lebo to   zvonenie, čo i len v ušiach, je toho istým znakom.“
+   </tei:p>
+   <tei:p>
+    Imro odkazoval každý deň, že Marcel prichádza k sebe, a tak Sabína   na Frozínino odrádzanie nešla k nemu, hoci ju i veľmi ťahalo. Až na   štvrtý deň jej pobytu v Bukové, keď počuly, že už úplne precitol,   zašlý obe, Sabína i Frozína, popoludní do Podhory. Našly Strážnickú v   kuchyni a Frozína zostala pri nej, zaujímajúc sa o jej varenie.   Sabína za ten čas vošla k Marcelovi. V tmavom
+   </tei:p>
+   <tei:p>
+    208
+   </tei:p>
+   <tei:p>
+    ﻿kúte, kde cez malé zamrežované obloky len málo novembrového svetla   padalo naň, ležal pod tmavočervenou prikrývkou na bielych   hlavniciach, od ktorých sa jeho bledá tvár málo odlišovala. Ležal so   zavretými očami a myslel na Sabínu, o ktorej mu bol brat vyrozprával,   že hneď pribehla k nemu a starala sa oň . . . Sabína vošla do izby   potichučky, a mysliac, že Marcel spí, kráčala ľahučkými krokmi k   nemu, aby ho nezobudila. Zastala nad ním a hľadela na jeho ubiedenú   tvár, ktorá, teraz už oholená, sa jej zdala byť takou malou ani   detská. Bolely ju jeho zapadnuté oči a ešte vždy utrpením vybrázdené   vrásky okolo úst. Dívala sa naň chvíľku dojaté a vystierala práve   ruku, aby ho nežným pohladením prebrala, keď otvoril oči. Marcel,   vidiac milú usmievaví! tvár Sabíninu nad sebou, myslel v prvej   chvíli, že je to prelud, stelesnený výtvor jeho fantázie, a   roztvoriac oči naširoko, díval sa s nesmiernym zadivením na ňu. Až   keď ho pohladila mäkkou, hladkou rukou po tvári, vzdychol a zašeptal,   chytiac do svojich vychudnutých rúk jej hladiacu rúčku: — Sabína! —   Prišla som. Mnoho som vytrpela pre teba, ty môj drahý, ale ťa už viac   neopustím, —■ i zohla sa a bozkala ho na ústa. Marcel držal len jej   ruku a zašeptal ešte raz: — Sabína, moja Sabína, -— pričom mu tiekly   slzy dolu lícami. — Ty milý, mnoho si vytrpel za tie dva roky! —   Mnoho. Ale všetko moje utrpenie je odmenené touto chvíľkou.
+   </tei:p>
+   <tei:p>
+    14 Z dávnych časov.
+   </tei:p>
+   <tei:p>
+    209
+   </tei:p>
+   <tei:p>
+    ﻿Je isté, že v živote ľudskom je málo takých chvíľ, akú prežívali   Sabína a Marcel; v najviac životoch ich vôbec niet. Marcel sa chcel   vypytovať Sabíny, ako sa jej vodilo, ale ona mu nedovolila hovoriť   pre jeho slabosť. Keď sa chvíľku mlčky boli dívali jeden na druhého,   Marcel zavolal Imra a pýtal od neho do zeleného remeňa zakrútený   balík. Imro mu ho podal a Marcel ho oddal Sabíne. — Vezmi to svojim   rodičom. To som kúpil od jedného z mojich rajtárov. Sú to veci, ktoré   prináležaly tvojmu bratovi Paľkovi. Ak bude chcieť tvoj otec vedieť,   čo je s ním, tak mu povedz, aby ma niekedy prišiel navštíviť, keď   budem trochu silnejší. Sabína sa zľakla a trasúcou sa rukou vzala   balík. — Preboha, čo je s Paľkom? Veď azda ne... — Nie, neboj sa,   drahá. Ja aspoň neviem, že by bol zahynul. — Iste nie? — Ako ťa rád   mám, tak iste! Sabína vzala balík a odobrala sa od Marcela. Cestou do   Buková hovorila s Frozínou o tom, čo má s balíkom urobiť. Frozína ju   nahovárala, aby ho po poslovi poslala Byvarovi, ako mu i odkázala,   žeby šiel k Marcelovi. Keď balík oddá sama, prezradí sa, že bola pri   Marcelovi, a Byvar ju bude prenasledovať. Ale Sabína, vediac, že   prv-neskôr bude musieť trpieť za Marcela, nechcela chvíľu skúšky   odďaľovať a nechcela ani luhať otcovi, keď sa jej spýta, či bola s   Marcelom. No i úfala sa, že keď otec dostane tie predmety do rúk,   jeho duša zmäkne, lebo
+   </tei:p>
+   <tei:p>
+    210
+   </tei:p>
+   <tei:p>
+    ﻿visel na synovi veľmi, a nebude ani proti nej krutý. Bála sa, že   keď Marcel i nevie o smrti Pavlovej, jednako musia byť v balíku veci   dôkazom preň nevýhodnej udalosti. Keď sa odhodlala, nemala v Bukové   viac Stania, i odoberúc sa od dobrej Frozíny a jej vľúdnych rodičov,   odišla s Martinom domov. Byvar bol v ostatné časy nepokojný, lebo 8a   povrávalo, že kuruci po bitke pri Trenčíne, kde Heister ubil samého   Rákóciho, sa rozišli vo väčších-menších čatách a že prepadúvajú a   drancujú bezbranné obce. Jednotlivé menšie oddiely sa zatáraly i do   O—skej stolice, no boly stoličnou pohotovosťou dosiaľ odrážané. Ale   môže prísť väčší oddiel a kuruci by mohli prevládať stoličné   bandériá, a potom by bolo obciam beda. Pamätal sa na ich nábeh pred   štyrmi rokmi, keď urobili takú škodu, vydrancovali toľko obcí,   odohnali dobytok a zobrali peňazí, že to bolo ťažko nahrádzať. Byvar,   rozmýšľajúc, chodil hore-dolu po dvore, keď prišla Sabína s Martinom.   Pozdravila otca a zavolala ho do izby. Nesoblečúc sa, postavila sa   pred neho a povedala: — Pán otec, viem, že sa budete na mňa hnevať   pre to, čo som urobila. Ale bola to vôľa božia, lebo, hľa, čo som   doniesla. — Čože si zasa popáchala? — Bola som u Marcela a doniesla   som od neho tento balík, ktorý patril nášmu Paľkovi. — A myslíš, že   mi tým balíkom zaslepíš oči a že ťa nezavriem do komory? -— kričal   Byvar, škrípuc zubmi. — Nemyslím, viem, že ma zavriete. Čo viac,   za-
+   </tei:p>
+   <tei:p>
+    14*
+   </tei:p>
+   <tei:p>
+    211
+   </tei:p>
+   <tei:p>
+    ﻿vrieť musíte, veď ste sa zaprisahali, že to urobíte. Len to vás   prosím, dovoľte, aby som tu zostala, dokiaľ nerozkrútite ten balík,   aby som vedela, čo je v ňom. — Ukáž ho! — zakričal Byvar zúrivé a   vytrhol balík Sabíne z ruky. Roztrhal na ňom obal a vysypal jeho   obsah na stôl. Boly v ňom dva listy — jeden od neho a jeden od matky   — obidva so stopami krvi, jedna hodvábna vyšívaná šatôčka, vyšívaný   meštek na peniaze od Sabíny a štyri strieborné gomby s dolomána. Keď   Byvar zazrel tieto smutné, tak mnoho znamenajúce predmety, udrel sa   päsťami po hlave a zaryčal ani tur: — Pavol, syn môj, čo urobili s   tebou? Zabili, zmárnili moje drahé dieťa! I hodil sa na predmety na   stôl a plakal, trhajúc si vlasy. Sabína zbledla a slzy ju zalialy,   ale jednako sa opanovala natoľko, že chytila otcovu ruku, a hladiac a   bozkávajúc ju, prosila ho, aby nezúfal, že sa jej Marcel zaprisahal,   že Pavol žije. Byvar sa vzchopil. — A prečo ti nepovedal, čo je s   ním? Iste ťa klamal, a Paľko, môj drahý, jediný, viac nežije!   —-Povedal, že žije a že vám povie, čo je s ním. Ale len o pár dní,   lebo je taký slabý, že ani hovoriť nevládze. —- Ja budem čakať pár   dní! A čo hneď zahynie, musí mi povedať, čo je s tým chlapcom! —   kričal zúfale Byvar a utekal von. Sabína potom porozprávala matke, čo   sa stalo. Byvarová bola životom taká ubitá, prestála toľko, bola   nútená svoje city stále tak potláčať, že zlú
+   </tei:p>
+   <tei:p>
+    212
+   </tei:p>
+   <tei:p>
+    ﻿zvesť s pomocou Sabíny ľahšie preniesla ako jej náruživý muž. I   ona i Sabína pevne dúfaly, že Boh ich ochráni od najhoršieho, a našly   v tejto nádeji aspoň čiastočné uspokojenie. Byvar utekal, čo mu dych   stačil, k Marcelovi, a odsotiac do cesty sa mu stavajúceho Imra,   vbehol do izby k chorému. — Marcel, — kričal, — čo je s mojím Paľkom?   Co sa s ním stalo? Marcel, prebravší sa už na krik predo dvermi,   podíval sa s prekvapením na Byvara a povedal tichým hlasom: — Sadnite   si, krstný otec. Pekne vás vítam! Čo je s Paľkom? — Žije? — No, ja   som ho zanechal živého; poraneného, ale nie veľmi ťažko. — Kde to   bolo, hovor! Pre Boha ťa prosím, hovor už! — kričal Byvar zasa. — Dva   dni pred bitkou pri Trenčíne sa moja čata srazila s niekoľkými   dragúnmi z Heisterovho vojska. Moji ľudia — dragúnov bolo málo, azda   šesť-sedem — ich razom sosekali s koní, a ako to už býva, dobili   ranených a ozbíjali všetkých. — Pre umučeného Pána Boha, to i Paľka   dobili! — reval Byvar a trhal si vlasy. — Nie, Paľka nie! Šťastlivou   náhodou nie. Hneď po srážke mi jeden z mojich chlapov ponúkol veci,   ktoré som vám poslal, na predaj. Prehliadnuc ich, videl som, že sú   Paľkove, a šiel som naskutku nazad na miesto srážky a našiel ho tam   ozaj ležať bez vedomia, ani mŕtveho. Mal rozbitú prilbu obuškom a pod   ňou ranu na hlave, následkom
+   </tei:p>
+   <tei:p>
+    213
+   </tei:p>
+   <tei:p>
+    ﻿ktorej zamrel, čo bolo jeho šťastie, a prestrelené ľavé stehno.   Polievali sme ho vodou a dali mu trochu akvavitu prežrieť, i prišiel   k sebe. Sohnal som od chlapov trochu bielizne, lebo bol tiež ozbíjaný   donaha, a zaviazali sme mu rany. Potom sme ho zaniesli do hájovne   neďaleko Istebníka, kde som ho sveril na hájnika, ktorý sa zdal byť   poriadnym človekom. Povedal som mu, že keď ho opatrí ako treba,   dostane hojnú odmenu. — No, a čo bolo s ním ďalej, nevieš, vyliečil   sa? — No, čo bolo s ním ďalej, neviem, krstný otec, lebo nás odtiaľ   cisárski razom odohnali, ledva sme so životom ušli. Viac sme sa ta   nedostali. 0 dva dni bola bitka, v ktorej nás rozprášili na všetky   strany. Byvar v poľahčení — vzbudila sa v ňom nádej, že jeho syn žije   — hodil svoje ťažké ruky na tvár a plakal. Marcel sa chvíľočku díval   na neho, potom pýtal od Imra trochu vína. Vypil ho a tešil By var a:   — Neplačte, krstný otec, ja myslím, že Paľko sa iste vyliečil.   Pravda, potrvalo, dokiaľ sa mu rana na nohe zahojila, lebo mu guľa   vytrhla dosť hodný kúsok mäsa. Ale ani kosť, ani žily nemal poranené.   A potom, veď sa dostal svojim kamarátom do rúk, nuž ho už len   opatrili. — Ale prečo už neodpísal alebo neodkázal, čo je s ním, keď   žije? Marcel sa usmial. — Keby to bolo len tak ľahko! Pozrite, sedem   týždňov som sa motal, kým som sa od Trenčína sem dostal! Poslovi   teraz prejsť medzi tými všelijakými potĺkajúcimi sa vojskami skoro   nemožno.
+   </tei:p>
+   <tei:p>
+    214
+   </tei:p>
+   <tei:p>
+    ﻿A teraz ešte ťažšie, lebo sa naše rozprášené vojská potĺkajú po   celom kraji. — Môžeš mať i pravdu, — pokýval Byvar hlavou, už trochu   uspokojený. Byvarovi len teraz sišlo na um, že Marcel vlastne   zachránil Paľkovi život. Díval sa najprv na neho, nie bez zahanbenia,   potom mu chytil naraz vychudnutú ruku a triasol mu ju. — Ty si dobrý   chlapec, že si Paľka neopustil, ja sa ti za to odslúžim; odpustím vám   z interesov, odpustím. Marcelovi blyslo v očiach i usmial sa. —   Krstný otec, nemáte mi čo ďakovať, ani neprijmem od vás za to peňazí.   Ja som už za to, čo som urobil, odmenený, a to stonásobne. Byvar   prišiel domov s ľahším srdcom, ako bol odišiel. Vyrozprával žene a   dcére, čo bol počul od Marcela, a všetkým sa zasa naplnilo srdce   nádejou, že Pavol šťastne vyviazol z nebezpečenstva. Keď Byvar,   fajčiac, uspokojené chodil po izbe, spýtala sa ho Sabína s úsmevom: —   Pán otec, a kedy ma zavriete do komory? — No, vieš, veľmi nedopekaj   do mňa. Tentoraz sa ti to ešte prepieklo, už tomu Marcelovi kvôli,   ale ak ešte budeš za ním chodiť, nuž ťa ani svätá Panna Mária, ani   všetci svätí nevyratujú z tej diery, to si pamätaj. Ty falošná   potvora, za Aristidom nemôžeš behať, a za Marcelom si ideš nohy   zodrať! — Pán otec, nemôžem za to, že ma Aristid nechce, — odvetila s   ľahkým pohnutím pliec Sabína. Byvarovi prichodily na um ešte mnohé   okolnosti, zaujímajúce ho pri Paľkovom poranení, a
+   </tei:p>
+   <tei:p>
+    215
+   </tei:p>
+   <tei:p>
+    ﻿preto išiel i na druhý deň k Marcelovi. Naučil sa ta chodiť, veď   Marcel vedel toho toľko rozprávať, čo poskusoval za tie dva roky.   Marcel sa so svojím očakávaním, že je pri kurucoch sloboda,   spravodlivosť, voľnosť a blahobyt, bolestne sklamal. Už keď sa mal s   ich prvou strážou sísť, bolo jeho šťastie, že mal so sebou staršieho,   vyskúseného chlapa Jura Kozáka, slúživšieho roky v stoličnom   bandériu, ktorý ho nahovoril, aby ušli pred strážou, lebo že ich   soblečú donaha a možno i o život pripravia. Oni na to nič nedajú, že   chcú ísť ku kurucom. Neskoršie sa presvedčil, že Juro mal pravdu. Na   Marcela sklamanie v kurucoch iste tak účinkovalo, že, na nich   rozzlobený, nenechal na nich ani vlasa dobrého. Rozprával, že prvotné   oduševnenie, ktoré ich bolo pohlo k povstaniu proti cisárovi,   vymizlo, a bola to už len svojich-nesvojich plieniaca, medzi sebou sa   hašteriaca, od každej riadnej práce a od poriadku odvyknutá sberba,   ktorú riadne vojsko cisárovo, hoci ho bolo omnoho menej, všade   rozprášilo. Marcel rozprával Byvarovi, že celé víťazenie kurucov   pozostávalo z toho, že keď boli vo veľkej presile, napadli či   nepozorovane, či nocou labanské oddiely, ktoré niekedy pobili a   vyrabovali, niekedy však boli zas oni odrazení a vyplienení. — Nuž a   prečo si neprišiel prvej domov, keď si videl, že tam niet ani   voľnosti, ani blahobytu? — pýtal sa ho Byvar. — Hanbil som sa, bál   som sa posmechu, ako i toho, že ma doma dáte chytiť, lebo som vedel,   že sú u nás labanci páni. A bol by som vďačne prišiel, lebo som   nielen ja, ale i mnohí moji priatelia
+   </tei:p>
+   <tei:p>
+    216
+   </tei:p>
+   <tei:p>
+    ﻿vedeli, že z toho celého povstania nemôže byť nič, keď dosiaľ   nebolo. Cisárski generáli Heister, Herbeville a Rabutin s malými   vojskami chodili krížom-krážom po krajine, od jedného konca až do   Sedmohradska, a my sme im to nemohli zabrániť; kde nás dopadli, alebo   kde sme sa im postavili, tam nás ubili, a keď nás bolo i omnoho viac,   ako ostatný raz pri Trenčíne. — Divná vec, že vás tí Nemci tak všade   bili; to je veru hanba pre celú náciu, — krútil Byvar hlavou. — To je   tak, krstný otec, že našich je mnoho i v cisárskom vojsku, a potom,   veď sa u kurucov naozaj vážne ani nikto o vojnu nestaral. Riadnej   pechoty a jazdy sme skoro ani nemali; tá troška, čo bola, nestála za   reč. Peňazí nebolo, lebo páni sa len zabávali, tancovali, častovali a   robili schôdzky, na ktorých navešali na seba šperkov, ktoré boly   hodný milióny, ale vojsko platili medenými libertášmi namiesto   strieborných toliarov a zlatých dukátov. Museli sme zbíjať   priateľa-nepriateľa, ak sme chceli žiť. A tak nás Slovač v hornom   Uhorsku začala viac nenávidieť a prenasledovať ako Turkov. — A videl   si Rákóciho? — Videl i viac ráz. Bol to i pekný pán, ale jednako   veľmi nafúkaný: netýkaj sa ma, a práca mu tiež nevoňala. Myslel o   sebe bohvie čo, a naozaj nevidel ďalej od nosa. Raz — bolo to vari v   Novohradskej a či v Tekovskej stolici -— mali vojenskú poradu, či   majú a či nemajú Herbevillemu cestu zastúpiť. Boli tam skoro všetci   hlavní vodcovia i s Rákócim a Bercsényim. Sedeli okolo
+   </tei:p>
+   <tei:p>
+    217
+   </tei:p>
+   <tei:p>
+    ﻿dlhého stola, kukali na mapy a trúsili múdre rozumy. Zrazu vbehne   medzi nich s veľkým krikom pani — myslím, že to bola grófka Forgáčka,   — že jej muž musí prestúpiť k cisárovi, ak sa jej pravda nestane. A   viete, čo bolo vo veci? Milenka Ocskayho jej zastrelila chrta, lebo   predbehol jej psa. Rákóci vstal a nechal poradu byť poradou a šiel   robiť poriadok medzi peknými paniami. Rozumie sa, že Ocskay tiež   nezostal tam, ako ani iní, ktorých väčšmi zaujímaly baby ako celá   vojna. Pravdaže, o Herbevilleho sa nikto viac nestaral. — Na vaše   šťastie, lebo by vás bol i tak vypráskal, — smial sa Byvar. —   Najskorej. A aký poriadok bol medzi vojskom, o tom vám poviem jednu   rozprávku. — Akýže mohol byť, keď vodcovia brali celú vec za žart. A   takí ľudia nemilobohu márnili majetky a životy! — krútil Byvar   hlavou. — Len keby nám ich diabol i sem nenasial! — Veru, veru, nech   nás ruka božia chráni od nich! Y Satmárskej stolici sa nás bolo   shŕklo s tisíc chlapov. Bola to veru strašná spoločnosť. Boli tam   Kúni, Jási, hajduci, všetko ľudia bez milosrdenstva, a bolo tam ešte   i dosť hodne nás Slovákov a čosi Rusínov. Nás bolo menej, lebo sa   naši už veľmi začali roztrácať. Odišla nám už vôľa od všetkého, lebo   sme videli, že všetko len na našu kožu ide. Naším oberštom bol akýsi   Barátb, ktorý mal dávny hnev na Marsayho, majiteľa obce, pred ktorú   sme prišli. Nebolo groši, len mizerné libertáše, za ktoré ti nikto   nič nechcel dať, len keď si mu pištoľu oprel o prsia. Ani jesť a piť   nebolo čo. Obec bola vraj kurucká, ale Baráth a jeho dôstojníci
+   </tei:p>
+   <tei:p>
+    218
+   </tei:p>
+   <tei:p>
+    ﻿chytro rozhodli, že je tam viac labancov ako kurucov, a tak nás   pustili na tú nešťastnú dedinu, aby sme ju vydrancovali. Baráthovi   záležalo najviac na tom, aby sme kaštieľ znivočili, lebo tam sú vraj   najväčší labanci a tam sú i poklady v múroch a pivniciach zamurované;   kto si čo nájde, bude jeho. Môžete si myslieť, ako ten kaštieľ   prašťal; za niekoľko hodín skoro skaly na skale nezostalo v ňom. Ale   čo tam kaštieľ, ale to nešťastné obyvateľstvo, to čo vystálo! Prišiel   som pred jednu kováčsku vyhňu a videl som, že Kúni priviazali   nešťastnú mladú ženu kováčovu ku lipe pred domom; nakládli pred ňu   ohňa a asi dvojročného jej chlapčeka rozpálenými nožmi pichali.   Nešťastné dieťa kričalo: „Ujinko, bolí, nechcem ťa, choď preč!“ Môžem   povedať, skala by sa bola zmilovala i nad ním i nad materou, ktorá   skoro zošalela od žiaľu. Naraz prišiel, ako keby s neba spadol, medzi   tých divochov kováč, otec dieťaťa. Bol to hodný, silný chlap. Mal v   ruke mlat, a kým sa zbadali, roztrepal ním trom z tých katov kotrby.   Chceli ho chytiť živého tí diabli, aby ho mohli mučiť, preto ho nik   neodstrelil. Kováč sa bránil ako divý, nehľadiac na menšie rany,   ktoré dostal. Medzi obranou stihol zabiť i svoje dieťa i svoju ženu   jedným úderom kladiva. Konečne ho prevládali, keď ešte niekoľkých   špatné doráňal. Priviazali ho o ten strom a radili sa, čo majú s ním   robiť. Narádzali také trýznenie, že človeku i od spomínania tých   ukrutností vlasy dubkom vstávaly. Držal som nabitú pištoľu v ruke a   sám neviem, ako sa to stalo, či ma niekto drgol, či nie, pištoľa   vypálila a zo vzdialenosti troch krokov dostal ko-
+   </tei:p>
+   <tei:p>
+    219
+   </tei:p>
+   <tei:p>
+    ﻿váč náboj do hlavy. Bol hneď mŕtvy. Keby ste boli počuli, čo tí   kumánski diabli vyčíňali! V tú minútu stál ich vodca predo mnou a   nasadil mi nôž na krk. Ešte dnes vidím, ako sa blýskajú jeho čierne   okále v tej opálenej tvári a ako mu visia hrubé fúziská až na prsia.   Zuby ceril na mňa ani vlk. Keby mu môj Juro Kozák nebol vrazil   napochytre halapartňu do rozzeveného hrtana, nerozprával by som vám   tu, to je isté. — Nuž a čo, Kúni sa len tak dali od vás zabíjať? -—   pýtal sa Byvar, nedôverčivé krútiac hlavou. — To už nie. Z celej veci   sa strhla medzi Slovákmi, Rusmi a Kúnmi i hajdukmi taká bitka, že nás   s ťažkou biedou roztrhali. Môžem povedať, že sme sa zabíjali navzájom   s omnoho väčšou chuťou, ako keď sme sa s labancmi bili. Nemali sme sa   my vôbec radi, vrčali sme jeden na druhého ako cudzí psi. Vôbec sa   naše nátury nerovnaly; najmä už k ostatku nemal Maďar na Slováka, a   naopak, dobrého slova, ba ani pohľadu. A čím ďalej, je tým horšie.   Dobre to vedeli cisárski vodcovia, a preto nás pri Trenčíne, hoci ich   bolo omnoho menej, bez mnohého rozmýšľania napadli a rozprášili ani   plevy. Pálfy udrel na Pekriho, ktorý viedol naše pravé krídlo, a   čochvíľa ho rozbil. Heisterovci rozohnali i našu slávnu pechotu a   nastal taký neporiadok, že pri úteku i sám Rákóci spadol s koňa a   zamdlel. — No, vidíš, Marcel, a ty si myslel, že v kurucoch je spása   všetkých opustených a ubiedených. — Krstný otec, mnohí to mysleli.   Mnoho som sa naučil za tie dva roky. Naučil som sa, že je i pod-
+   </tei:p>
+   <tei:p>
+    220
+   </tei:p>
+   <tei:p>
+    ﻿daný človek celkom taký človek ako my. Naučil som sa na svojej   škode, že keď páni chytajú bláznov, že je to nie preto, aby bláznom   pomohli, ale sebe. A to tiež mnohí nevedia, kým sa nepresvedčia na   vlastnej kožke. Ale za labancov, za cisárskych, si tiež nedám oči   vyklať, krstný otec. Ako smýšľate, neviem, ale tí veru tiež len za   seba pracujú, a nie za našu krajinu. -— Pravdu máš, chlapče, —   vybúšilo z Byvara mimovoľne. — Jedinými priateľmi sme si len my sami!   — Krstný otec, keby sme to mohli nahliadnuť, ale takú prostú pravdu,   aby sme sa len na seba spoliehali, nemôžeme porozumieť, a preto nás   klamú všetci. Byvar chodil takto skoro každý deň vyše dvoch týždňov k   Marcelovi a spriatelil sa s ním. Marcel mal už teraz viac rozumu, ako   pred svojím kurucovaním, a neškriepil sa s ním nikdy, ako to robieval   predtým. Sabína ho za ten čas ani raz nebola navštíviť. Vedela, že sa   mu dobre darí, že už i vstal a že chodí už i povonku. Teraz bez   vážnej príčiny nechcela riskovať, aby ju otec zavrel do komory, a   vedela, že by to urobil už i preto, aby jej dokázal, že drží svoje   slovo. Marcel pri svojej prvej vychádzke videl, že je nový kaštieľ   pokrytý, ako sa patrí, a zvonku ovakovaný. Matka mu porozprávala, že   to všetko dal urobiť Byvar, ako i že sa o gazdovstvo stará, pravda,   všetko na svoj osoh, ako bola presvedčená. Marcelovi tieto zvesti   ťažko zaľahly na srdce: čo bude s nimi?
+   </tei:p>
+   <tei:p>
+    221
+   </tei:p>
+   <tei:p>
+    ﻿Medzitým sa povesti o vpádoch kurucov do stolice stále opakovaly.   Obyvateľstvo bolo nadmieru znepokojované, každý odpratúval cennosti   na bezpečné miesta a v každej kúrii boly vždy pohotové záprahy a kone   na rýchly útek. Rozbití kuruci boli rozhorčení i tým, že sa slovenský   ľud teraz už skoro všade otvorene staval proti nim. Kde mohli,   drancovali dediny a odháňali dobytok, a Slováci, kde mohli, robili na   roztratených pohon ani na divú zver. Šetrenia nebolo; koho chytili,   bol nebohý. V jedno predpoludnie pribehol na spenenom koni husár k   Byvarovi s rozkazom županovým, aby bezodkladne prišiel k nemu. I on i   domáci cítili, že ide o vážne udalosti, a keď odišiel, čakali so   stiesneným srdcom, s akou zvesťou príde. Bola už noc, keď došiel, a   vojdúc do izby, jeho žena i Sabína videly na jeho ustarostenej tvári,   že sa stalo vážne nešťastie. Sabína, trochu zblednutá, sa ho pýtala,   čo sa stalo. Byvarová sedela bez slova a čakala oddane úder, ktorý má   na nich padnúť. — Čo sa stalo? — hovoril Byvar temným hlasom. — Čo sa   stalo? Kuruci so značnou silou idú na nás. Všetka stoličná pohotovosť   je shromaždená pri Červenej Skale, i presidiari zo zámku sú tam.   Môžete si myslieť, čo je to, keď nechali i zámok bez obrany. Nech nám   je Boh milostivý, ak nás premôžu! — Otec, na vašom mieste by som   ozbrojila i sedľač proti nim! — zvolala Sabína. — Pravdu máš, dievka   moja, — zvolal, udrúc sa po čele. — Sú obce, na ktoré sa môžeme   spo-
+   </tei:p>
+   <tei:p>
+    222
+   </tei:p>
+   <tei:p>
+    ﻿ľahnúť. Myslím, že naši Podhoranci tiež vďačne pôjdu proti nim,   keď si pomyslia, ako ich sporiadali pred štyrmi rokmi. Dám ešte teraz   na poplach zvoniť. I išiel von, ale vo dverách sa obrátil. — Pravda   je, ešte jedna nepríjemná vec! Župan mi rozkázal, aby som Marcela dal   chytiť a aby som ho zajtra ráno doviedol do mesta, kde bude ako   kurucký burič bez akéhokoľvek ďalšieho súdu popravený. Čert to vzal,   jednako mi je len krstňa a pomohol tomu Paľkovi! — zaklial a vyšiel   sháňať hajdúchov, lebo skoro všetka čeľaď už spala. Byvarovi bola   povinnosť dať Marcela chytiť veľmi nemilá. O tom, či ho má azda   nechať utiecť, ani nerozmýšľal, lebo že musí vyplniť rozkaz županov,   bolo v jeho duši zakorenené ako železná nevyhnutnosť. Jeho duševný   rozpor sa nevybavil mnohým mudrovaním o rozličných povinnostiach, ale   špatným nadávaním a kliatím na celý svet. Sabína na ten strašný chýr   zbledla ako smrť a pozrela na mať tiež tak zblednutú. Na chvíľku ju   opustila sila, i padla na stolicu. Ale už sa vzchopila a zastala   pevne so zaťatými päsťami. — Čokoľvek sa stane, musím ho zachrániť, a   to naskutku. Sama nemôžem ísť k nemu, lebo by ma moja neprítomnosť   prezradila, pošlem Martina. Mamička, zavolajte ho! Mať vyšla a hneď   doviedla Martina, obliekajúceho si v chôdzi mentieku. Martin zostal   pri dverách stáť; rozčúlením a vekom triasla sa mu šedivá brada. —   Martin, pôjdeš potajomky po mladého Strážnického a dovedieš ho   naskutku k nám, do mojej
+   </tei:p>
+   <tei:p>
+    223
+   </tei:p>
+   <tei:p>
+    ﻿izby. Chcú ho chytiť a obesiť už zajtra. Musíš to urobiť chytro,   aby ťa nepredbehli, lebo hajdúsi už idú poň, a aby o tom nikto   nevedel. Martin len zamrmlal čosi a už bol vonku. — Sabína, vo svojej   izbe ho nemôžeš držať, — zašeptala matka. — Nie, mamička, viem, že   nie. Zavrieme ho do komory, tam ho nikto nebude hľadať, a Martin ho   bude opatrovať. Predbežne môže byť tam deň-dva: potom uvidíme, čo   urobíme ďalej. Vtom už bolo počuť bitie na zvon, a čochvíľa ožila   dedina svetlami a krikom. Ľud sa sbehol pred kostolom, všetko utekalo   ta, čo malo nohy a vládalo chodiť. Y bráne chrámu, na schodíkoch,   stál Byvar, pri ňom s dvoch strán chlapi s fakľami. — Chlapi, zasa   idú na nás kuruci, ako pred štyrmi rokmi, — volal Byvar pevným   hlasom. — Stoličné i zámocké vojsko už stojí proti nim, ale ho je   málo. Ktorí sa cítite, poberte, ak niet inej zbrane, sekery-kosy a   pôjdeme na nich i my. Nebudeme čakať, dokiaľ prídu sem hanobiť naše   ženy a nás zbíjať a rezať ani barany. Soberte sa a o hodinu sa tu   sídeme, ja pôjdem s vami! Stal sa huk medzi svetom, ženy kričaly a   plakaly, a chlapi, pozerajúc jeden na druhého, sa pobádali: „No,   poďme. Ozaj, sťa s baranmi zachádzali s nami. Radšej skapať so   sekerou v ruke, ako dať sa od tých lotrov katovať.“ Spomínajúc, čo   ktorý utrpel alebo utratil, rozbehli sa domov. Byvar ešte predtým,   ako by bol vyzval ľud na obranu, bol poslal štyroch hajdúchov, aby   chytili Marcela, sputnali ho a zavreli do rána do obecnej temnice,   dávajúc naň pozor, aby im neušiel. Potom
+   </tei:p>
+   <tei:p>
+    224
+   </tei:p>
+   <tei:p>
+    ﻿išiel ustarostený do svojej kúrie, cítiac nezvyklú ľútosť nad   človekom, ktorého v túto chvíľu strachu a rozčúlenia jednako pokladal   za vinného. Doma ho privítala Sabína s otázkou, čo sa bude robiť a či   ľudia pôjdu proti kurucom. —• Kázal som Marcela chytiť, — riekol   Byvar, neodpovedajúc na otázku Sabíninu. Bolo vidno, že mu v tej   chvíli táto vec väčšmi tlačí dušu ako nábeh kurucov. —- Hajdúsi už   šli poň, čochvíľa ho dovedú. Potom sa môžeš, pre mňa, s ním ešte raz   shovárať. Ja idem s chlapmi, pripravte mi, čo mi treba, a Martin nech   osedlá Rapoša, pôjde so mnou. — Pán otec, Martina neberte so sebou,   je starý a kašle, nebudete mať z neho osohu. A vy by ste tiež nemali   ísť. Pošlite mladšieho. Zasa vás bude lámka trápiť. Byvar rozčúlený   pozrel na ňu. — Mlč! Pôjdem. Ty mi nebudeš rozkazovať. Pre mňa si   nechajte tu toho starého trúpa; pôjde so mnou Ondrej. Rozkáž mu, nech   sa soberie! V shone, ktorý nastal chystaním sa na odchod, prišli   hajdúsi, vysiatí zajať Marcela — bez neho. Najstarší z nich oznámil,   že vraj keď začali zvoniť, vyšiel i mladý Strážnický z domu a že sa   od tých čias nevrátil. Hľadali ho, vypytovali sa, kde je; nikto   nevedel nič povedať, vôbec nevidel ho nikto, ani keby sa bol   prepadol. Keď Byvara mrzelo pred chvíľou, že má Marcela dať chytiť,   mrzelo ho teraz ešte väčšmi, že mu ušiel. Pomyslel si na výčitky   županove, že ho mal dať už dávno zlapať, a klial nešeredne. Neve-
+   </tei:p>
+   <tei:p>
+    15 Z dávnych časov.
+   </tei:p>
+   <tei:p>
+    225
+   </tei:p>
+   <tei:p>
+    ﻿del sa teraz napochytre rozhodnúť, čo má urobiť, či ísť s ľuďmi na   kurucov a či hľadať Marcela. Napokon sa mu zdalo byť vážnejším ísť s   chlapmi a ponechať hľadanie Marcela svojmu adlátovi, po ktorého   poslal do blízkej dediny posla. Trvalo hodnú chvíľu, dokiaľ prišiel   Jób Nižniansky. Bol to ešte mladý, hodný šuhaj, veľmi chtivý do   všetkého, predstavujúci si všetko veľmi ľahkým a tratiaci naraz vôľu,   keď niečo nešlo tak, ako si on žiadal. Dokiaľ Jób prišiel, pozeral   Byvar s istou nedôverou na Sahínu, či ona nemá prsty v zmiznutí   Marcelovom, ale bolo jasné, že z domu nebola nikde, že sa s nikým   nestýkala a ž očú jej žiarila taká anjelská nevinnosť a taký smútok,   že sa skoro ani neodvážil jej náražky robiť. Len chodil po izbe,   kľajúc na celý svet a rozháňajúc i sluhov i už sídených sedliakov   hľadať Marcela. Y hľadaní sa vyznačil najmä starý Martin, ktorý   spomínal stále tureckú krv, ktorá ho iste uspôsobí na to, aby ho   vyňuchal. Ale ani turecká krv nemohla tentoraz nič vykázať. Po   odchode Byvarovom sa Jób s plnou chuťou pustil do hľadania. Rozdelil   si svojich ľudí a prekutali celú dedinu z domu do domu, nevynechajúc   ani šopu, chlievec alebo stajňu. Byvarovský kaštieľ nechali stranou,   lebo veď bolo úplne vylúčené, aby sa ubehlík mohol tam skrývať. A že   by mohol byť v komore, v tej hroznej komore schovaný, na to sa vôbec   neopovážili ani pomyslieť, tým viac nie, lebo Martin rozhlasoval   tajomným hlasom, že už od vyše týždňa videl z komory vychádzať,   zavše
+   </tei:p>
+   <tei:p>
+    226
+   </tei:p>
+   <tei:p>
+    ﻿i vo dne, chlapa s odťatou rukou, ktorému sa z úst svieti. Keď sa   Jób takto bol potrápil celý deň, hodil rukou a sobral sa do mesta   hlásiť županovi, že sa veru Marcel kamsi podel. Najskorej vraj   prebehol ku svojim starým kamarátom, keď sa dozvedel, že sú nablízku.   Celé štyri dni trvalo rozčúlenie pre vpád kurucov do stolice.   Kolovaly najrozmanitejšie zvesti, že sa bitka strhla, že naši   vyhrali, a zasa že kuruci našich už ženú pred sebou. Boly chvíle, že   ustrachovanejší už sadali na kone-vozy, aby utiekli pred hrozným   nebezpečenstvom. Y piaty deň zrazu, neočakávane nastúpilo rozuzlenie.   Na podhorskej ulici sa naraz strhol huk, pokrikovanie a všetko   obyvateľstvo sa vyhrnulo navonok: blatistou, širokou ulicou išli   jazdci stoličnej pohotovosti a viedli ku koňom priputnaných so   tridsať kurucov, nemilosrdne poviazaných, dokrvavených a   dokaličených. Surových, opálených kurucov nikto neľutoval. Mnohým z   nich visely dlhé vrkoče na sluchách až na prsia a ich pohľady, ktoré   vrhali na občanov, prezradzovaly divú zášť a nenávisť, a nie prosbu o   poľutovanie. Skoro každému zo sedliakov a žien prebehol mráz po   chrbte pri pomyslení, že by sa boli dostali tým ľuďom do rúk. Napokon   sa dozvedeli i to, čo sa stalo. Pri Červenej Skale sa naozaj strhla   bitka. Bohvie, ako by sa bola skončila, keby neboly prišly práve v   najhoršiu chvíľu tri štandardy cisárskych rajtárov, ktorí vpadli   kurucom do chrbta. Vodcom jazdcov
+   </tei:p>
+   <tei:p>
+    15*
+   </tei:p>
+   <tei:p>
+    227
+   </tei:p>
+   <tei:p>
+    ﻿bol vraj akýsi podplukovník Byvar, ale nie z podhorských   Byvarovcov. Po jeho príchode sa všetko chytro skončilo. Čo z kurucov   nemohlo ujsť, to pobili a polapali. Niekoľkých chlapov vliekli do   mesta na ukážku; tam ich na postrach nespokojných buričov povešajú. 0   niekoľko hodín neskoršie prišli i Podhoranci s Byvarom. Niekoľkí z   nich boli poranení a traja zostali mŕtvi na poli bitky. Príchod   Podhorancov hol vcelku radostný, ale jednako priniesol i dosť smútku   do domov, v ktorých holi ranení a mŕtvi. Ako v takýchto prípadoch   ľudia robievajú, tak sa i teraz spytovali Pána Boha, prečo dopustil,   že musel byť práve ich Jano alebo Mišo poranený alebo zabitý, a nie   susedovie Ondro alebo Juro. Aká bola v tom spravodlivosť, že padol   Mačuha, otec šiestich drobných detí, a Debnár, nemajúci ani jedno,   prišiel zdravý nazad? Ako vieme, Pán Boh na takéto otázky nedáva   odpoveď, aspoň nie hneď. Časom ju dá často, keď ju chceme pochopiť.   Podvečer, keď sa mysle už koľko-toľko utíšily, bolo počuť zasa dupot   konský a veselé trúbenie. Tentoraz prichádzali cisárski rajtári z   oddielu generála Pálfyho pod vedením podplukovníka Byvara, ktorí sa   oneskorili prenasledovaním kurucov. Jazdci šli v sovretých radoch a   zastali na komando stáť na priestore pred kostolom. Tu ich rozdelili   po domoch a dôstojníci odišli do byvarovského kaštieľa, kde ich   prijali s otvoreným náručím. Keď vošiel ako ostatný do izby   podplukovník Byvar, domáci potrebovali istý čas, aby sa spamätali zo   svojho radostného prekvapenia, že ich osloboditeľom je skutočne ich   syn, poťažne brat Paľ-
+   </tei:p>
+   <tei:p>
+    228
+   </tei:p>
+   <tei:p>
+    ﻿ko. Koľko otázok, výkrikov, bozkov a láskania vymenili za niekoľko   mihnutí! Napokon sa utíšili natoľko, že si posadali okolo stola,   ktorý bol založený jedlami-nápojmi, na ktoré sa oficieri veľmi   priateľsky usmievali. Rozprávali si potom navzájom všetky   význačnejšie udalosti, ktoré sa boly prihodily od času, čo sa   nevideli. Byvarovci si pásli oči na Paľkovi, urastenom mužovi so   šibalskými očami: bol, ako keby vždy na nejaké fígle myslel. A ozaj   mal obyčaj, že rád podchytával a domŕzal, koho mohol. Rozprával, že   bol pred trenčianskou bitkou dosť povážlivé poranený, ale že ho jeho   drahý priateľ Marcel zachránil, pričom málo chýbalo, že neprišiel o   život, lebo len-len že ho prekvapivší ho dragúni nezastrelili,   usilovať sa statočne usilovali, aby to urobili. Na Byvarovu poznámku,   že má rozkaz ho chytiť, aby ho obesili, sa Pavol zamračil. — Akože je   to, pán otec? Veď, ako ste spomínali, Marcel ešte pred dvoma-troma   týždňami prišiel sem sám podobrotky domov. Nechytil ho nikto so   zbraňou v rukách, naopak, svojím príchodom sa vám vydal do moci   dobrovoľne, a tak sa i naň vzťahuje amnestia, ktorú v mene Jeho   cisárskeho a kráľovského Majestátu, Jozefa Prvého, vydal náš terajší   najhlavnejší generál Pálfy po trenčianskej bitke. Podľa toho patentu   každý z kurucov, ktorý sa samovoľne poddá, nesmie trpieť od nijakej   vrchnosti nijakej škody na zdraví, živote alebo na majetku. A vy by   ste práve môjho najmilšieho priateľa a ochrancu chceli takto   vyplatiť! — Nuž akože je to, že my o tej amnestii nič ne-
+   </tei:p>
+   <tei:p>
+    229
+   </tei:p>
+   <tei:p>
+    ﻿vieme? — zvolal Byvar, ktorého i mrzelo, že to nevedel, i tešilo,   že Marcela do rúk nedostal. — Spíte tu v tichosti, ďaleko od sveta, —   smial sa Pavol so svojimi kamarátmi. — Nuž ale je istá vec, že teraz   bolo veru ťažko každého o všetkom upovedomiť. Podivným spôsobom sa i   Sabína smiala, a to zo všetkých najzvučnejšie, takže najmä Pavol s   potešením hľadel na neobyčajne veselú sestričku. — Počuješ, Paľko,   nuž keby ste teraz Marcela chytili, by sa mu nič nestalo preto, že   bol medzi kurucmi? — pýtala sa Sabína. — Nič, celkom nič, keď nebol   chytený so zbraňou v ruke, ale sa sám poddal. — Nuž tomu sa veru o   bitke nesnívalo, prišiel taký chorý domov, že ledva so životom   obstál, — riekol Byvar. — S ním sme mohli robiť, čo sme chceli. Ja   som bol u neho ešte v ten večer, keď prišiel. — No, a nestrieľal na   vás, pán otec, však nie? — pýtala sa Sabína. — Horký tam strieľal, —   hodil Byvar rukou. — Tomu sa nemôže iste nič stať, patrí celkom iste   pod amnestiu. Však, páni? — zvolal Pavol. Všetci oficieri boli v tom   ohľade úplne za jedno, že sa mu nemôže nič stať. Sabína vyskočila od   stola, oči jej iskrily. — Keby tak prišiel teraz medzi nás, nechytili   by ste ho? — Ba veru by sme ho pochytali všetci za ruky, ba čo viac,   i okolo krku, a krásne vyoblápali a vybozkávali! — zvolal Pavol.   Byvar odul ústa a díval sa vytreštenými očami
+   </tei:p>
+   <tei:p>
+    230
+   </tei:p>
+   <tei:p>
+    ﻿na Sabínu, s ktorej ani oficieri nespúšťali žiadostivých očí. — Ty   maškara akási, ty vieš o tom človeku, kde je. Povedz, kde sa   schováva! — Povedzte, pán otec, keby ste ho boli tak napochytre   lapili a obesili, radi by ste boli teraz? — pýtala sa Sabína. — Čert   ho tam vie, ale myslím, že som radšej, že sme ho nedostali, aspoň sme   sa neprenáhlili. Bolo by bývalo i kadejakých opletačiek dosť, —   riekol Byvar s trochu pokonfundovanou tvárou, škrabúc sa za ušami. —   No, a čo zaslúžim od vás, keď som vás zachránila od takej   nepríjemnosti? — Čo zaslúžiš? To, aby som ťa pre neposlušnosť zavrel   do tej temnej komory, ako som ti sľúbil, keď budeš s Marcelom do   jedného mecha dúchať. — Nuž, viete čo, pán otec, poďte a zavrite ma   ta. Budem spokojná, keď i naveky zostaneme v tej tmavej komore   pospolu, — hovorila rozjarená Sabína. — Poďme do komory. Byvar i   dôstojníci šli mimovoľne za ňou. Sabína ich viedla chodbami ku malým,   pevným dverám, zpod prahu ktorých vybrala kľúč a otvorila ich. Keď   zasvietila dnu, videli tam na dobre postlatej truhle ležať mladého   muža, ktorý prekvapene zdvihol ešte vždy obviazanú hlavu a díval sa   žmurkajúc na spoločnosť. Pavol priskočil k nemu a kričal: — Marcel,   ty môj milý, drahý Marcel! — i oblapil a pobozkal ho. Musel sa   napochytre obliecť, i vtiahli ho do izby, kde sa veľmi chytro i s   ostatnými dôstojníkmi
+   </tei:p>
+   <tei:p>
+    231
+   </tei:p>
+   <tei:p>
+    ﻿spriatelil. Čo sa od rokov nestalo, to sa stalo v tento večer:   Byvarová sa neprestala usmievať a slzila od radosti. Byvar polo   vážne, polo žartom vyhrážal Sabine päsťou, ale jednako o niekoľko   dní, najmä rozhodným zaujatím sa Paľka za Marcela, odhodlal sa, že mu   dá Sabínu za ženu. Byvar nebol zle gazdoval za tie dva roky, čo   spravoval Strážnickovské majetky. Strážnická so synom Imrom vyžili   skromne z Porúbky a ostatný dôchodok obrátil Byvar na splácanie dlhu,   nezabudnúc i sebe poriadne úroky zarátať. Ale pri jeho dobrom   gazdovaní z dlhu mnoho nezostalo. Kaštieľ dostavali a zariadili   krásne. Za dva roky vyrezávali okolití najlepší majstri nábytok a   najšikovnejší zámočníci vykúvali krásne zámky, kľučky a mreže. Veru   sú to krásne veci, hodno ich obzrieť i dnes, ktoré slúžia vtedajším   majstrom na veľkú chválu. Z piety oproti otcovi zamurovali nad hlavný   vchod ten mramorový címer, ktorý si Imro Strážnický dal vykresať.   Kaštieľ bol dokončený len o tri roky neskoršie, a nielen pričinením   Imra Strážnického, ale i Marcela. Byvar sa poškrabal za ušami, keď   videl krásny címer skvieť sa nad parádnym vchodom z kresaného kameňa.   — Jednako ten Imro len mal pravdu, keď hovoril, že hlavná vec je   kaštieľ, panstvo k nemu sa nájde. Marcel so svojou Sabínou ho   počúvali, i musel im rozprávať, ako to bolo s tou výpoveďou nebohého   Strážnického.
+   </tei:p>
+   <tei:p>
+    232
+   </tei:p>
+   <tei:p>
+    ﻿Obidvaja si s clivou vďačnosťou spomenuli na dobrého otca, a   pozrúc jeden druhému do očí, čítali v nich jeden cit, že jeho   pamiatka nevymizne nikdy z ich duše.
+   </tei:p>
+   <tei:p>
+    Marcel Strážnický sa stal časom najlepším prvým vicišpánom svojej   stolice. Mnohé cesty, školy, chudobince sú naveky sviazané s jeho   menom a s menom znamenitej Sabíny Byvarovej, jeho manželky. Umreli   týždeň za sebou, oplakávaní nielen peknou rodinou, ale i celým   krajom, ktorého dobrodincami sa stali. Pochovaní sú v spoločnom hrobe   v podhorskom kostole, na ktorý im vďačná stolica dala položiť krásny   kameň, chváliaci ich ctnosti a odporúčajúci ich duše večnému Pánovi   sveta. Nápis na kameni končí sa týmito slovami: Lux perpetua luceat   eis, sicut ii lucebant nobis.*
+   </tei:p>
+   <tei:p>
+    * Svetlo večné nech im svieti, ako oni svietili nám.
+   </tei:p>
+   <tei:p>
+    233
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

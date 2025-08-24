@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1945856" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Annalena : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3306
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Annalena
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ANNALENA
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Odoardo Bonfratelli mal v Sesto, neďaleko Florencie, neveľké, ale   s najväčším vkusom zariadené letné bývanie, s peknou záhradou, ktorou   pretekajúci potok tvoril v nej jazierko, obtočené stále kvetúcimi   kríkmi, kvetmi a košatými stromami.
+   </tei:p>
+   <tei:p>
+    Annalena, dcéra messera Odoarda, bola vždy v spoločnosti malých   detí. Raz ich láskala, udusiac ich skoro oblápaním a bozkmi, a zasa   ich trápila a dráždila nemiestnou prísnosťou. A deti jednako visely   na nej. Podvečer vždy brala so sebou kúpať do jazierka sestrine deti:   päťročnú Fiamettinu a štvorročného Giampaola.
+   </tei:p>
+   <tei:p>
+    Slnce sa už skláňalo za Apeníny, farbiac okolie neuveriteľne   lilavozelenými lúčmi. Annalena kráčala do jazierka s Giampaolom,   oblápajúcim rúčkou jej hladké okrúhle stehno, a držala Fiamettinu za   mäkkú ťapôčku, keď sa zočila vo vodnom zrkadle, zatienenom krovím, a   zastala, obdivujúc mimovoľne prekrásny obraz, ktorý sa jej   ukázal.
+   </tei:p>
+   <tei:p>
+    Len hriešny Sodoma, prešlý školou božského Leonarda, namaľoval   neskoršie v Léde, oblápanej labuťou, jej podobnú čarovnú ženu.   Usmievala sa s hanblivou smyselnosťou a točila svoj štíhly driek, aby   zazrela svoje prelestné boky a prsia so všetkých strán. Deti ju   netrpezlivé ťahaly do vody.
+   </tei:p>
+   <tei:p>
+    — Poď už, teta Annalena; pozri, díva sa pán na teba! — zvolala   Fiametta a ukazovala prstíkom na breh jazierka oproti, kde z krovia   vyzerala počerná
+   </tei:p>
+   <tei:p>
+    fi Itália.
+   </tei:p>
+   <tei:p>
+    81
+   </tei:p>
+   <tei:p>
+    ﻿tvár pána susednej vily: messera Bartolommea Orlandiniho.
+   </tei:p>
+   <tei:p>
+    — Ó, že taká krása jest na svete! Ty by si mala takto stáť medzi   skvostmi nášho mesta, v loggii dei Lanzi!
+   </tei:p>
+   <tei:p>
+    Annalena sa zapálila až po prsia a skočila chytro za ker do vody,   opustiac zbabele i deti na brehu. Hnevala sa a plakala v   rozčúlení.
+   </tei:p>
+   <tei:p>
+    Messer Bartolommeo vystúpil celkom k brehu.
+   </tei:p>
+   <tei:p>
+    — Si bohyňa! Nikdy nezabudnem na obraz, ktorý som videl! Urobím   všetko, aby bol mojím! Odpusť mi, krásna Annalena!
+   </tei:p>
+   <tei:p>
+    I odišiel.
+   </tei:p>
+   <tei:p>
+    Annalena, ako aj iné dievčatá v tom čase, naskrze nebola prepiate   hanblivá; veď i ona znala nazpamäť breviár svojich družiek:   Boccacciov Decamerone. Ale aký veľký je rozdiel medzi znalosťou a jej   vykonaním! Veď čo mohol messer Bartolommeo hroznejšieho spáchať, ako   že ukradol pohľad na jej ničím nezatajenú krásu! A ako sa točila a   ohýbala pred ním! Ó, bola by hoto vyklať mu tie nehanebné,   blýskavé okále!
+   </tei:p>
+   <tei:p>
+    Pokladala sa za zneuctenú, za pripravenú o svoju panenskú česť. Čo   by bolo oproti tomu, keby ju bol bozkal a oblapil? Ale videl všetky,   všetky skvosty jej čarovného tela!
+   </tei:p>
+   <tei:p>
+    Keď odišiel messer Orlandini, vybehla z vody, a chytro sa oblečúc,   zabudla skoro i na bambíňatá, vo vode žartujúce a sa obstrekujúce, a   utekala domov, do svojej izby s cifroyanou ložetou, hľadiacou na   cestu pred vilou. Inokedy po kúpeli vždy sedávala v nej a trápila a   bozkávala deti. Teraz sa ho-
+   </tei:p>
+   <tei:p>
+    82
+   </tei:p>
+   <tei:p>
+    ﻿dila na pohovku a plakala trpko pre strašné nešťastie, ktoré ju   zastihlo. Bola by bývala hotová biť údy, na ktoré sama bola hľadela s   takým hriešnym pôžitkom.
+   </tei:p>
+   <tei:p>
+    Jej nona, počujúc nárek, prešla k nej, a ona sa jej vyžalovala,   vzlykajúc. Stará, skúsená mama sa len usmiala na jej žiali. Keď   videla, že si Annalena skoro zúfa, povedala jej, aby si vzala messera   Bartolommea za muža. Keď ju videl, tak videl len svoje.
+   </tei:p>
+   <tei:p>
+    Annalena sa uspokojila s touto myšlienkou. Sišlo jej na um, že   messer Bartolommeo i tak povedal, že urobí všetko, aby bola jeho. Ale   ona nebude čakať. Hneď ráno musí prísť k nej a musí sa s ňou   zasnúbiť. A o týždeň-dva musí byť sobáš!
+   </tei:p>
+   <tei:p>
+    Veru messer Bartolommeo neodkladal s príchodom, keď dostal jej   kartičku. A ako sa vyparádil! Vzal si nohavice z najjemnejšieho   hodvábu, najkrajšej ružovej a belasej farby, a svojho cameriera   doniesol do zúfalstva, kým mu upravil vlasy a fúzy tak, ako to   pokladal na najneodolateľnejšie.
+   </tei:p>
+   <tei:p>
+    Messer Bartolommeo bol veľmi prekvapený, keď sa mu Annalena   nehodila do náručia, ako to on túžobne očakával.
+   </tei:p>
+   <tei:p>
+    Oj, nie! Ona je naskrze nie doň zamilovaná! Ona len to chce, aby   napravil urážku sobášom. Dovolila mu bozkať svoje čelo, nič viac.
+   </tei:p>
+   <tei:p>
+    Messer Bartolommeo sa usmial: trochu trpko a sklamane, ale jednako   sa usmial. Chvalabohu, že sama tak durí so svadbou. Veď už o niekoľko   dní bude jeho táto najčarovnejšia žena celej Toskány!
+   </tei:p>
+   <tei:p>
+    83
+   </tei:p>
+   <tei:p>
+    6*
+   </tei:p>
+   <tei:p>
+    ﻿Dovolila mu každý deň prísť na polhodinu — merala ju zakaždým   pieskovou klepsydrou — a poshovárať sa s ňou a pásť oči na jej kráse.   Pravda, zababušila sa vždy ako mníška.
+   </tei:p>
+   <tei:p>
+    V rozpomienke na nezapomenuteľnú chvíľku chodil Bartoldmmeo vždy   podvečer a Annalena ho verne čakala prvý, druhý, tretí a štvrtý   deň.
+   </tei:p>
+   <tei:p>
+    Piaty deň ho už nečakala.
+   </tei:p>
+   <tei:p>
+    Piaty deň včas ráno počula píšťaly a bubny vojska, kráčajúceho pod   jej oblokmi. Vyskočila z postele, a odhrnúc záclonu, pozerala na   ulicu. Veď dievčatá „vtedy“ tak rady hľadely na vojsko!
+   </tei:p>
+   <tei:p>
+    Ulicou kráčali „fanti“, pechota, Baldaccia d’Anghiari a za nimi   jachali na hrdých koňoch dôstojníci a s nimi i sám messer   Baldaccio.
+   </tei:p>
+   <tei:p>
+    Zaiste poznáte všetci messera Niccola Machiavelliho? Skoro pred   päťsto rokmi bol sekretárom republiky Florentskej. Nebol vznetlivý   človek, ale keď jednako napísal vo svojej florentskej histórii, že   Baldaccio d’Anghiari bol človekom vo vojne najznamenitejším -(in   guerra eccelentissimo), lebo v tie časy nebolo v Itálii nikoho, kto   by ho bol prevýšil v duševno-telesných ctnostiach (perché in quei   tempi non era alcuno in Italia, ehe di virtú di corpo e d’animo lo   superasse), tak musel byť Baldaccio ozaj chlapík, s ktorým sa chudák   messer Bartolommeo nemohol merať, hoci mal i najkrajšie vypálené   vlasy a vysúkané fúzy.
+   </tei:p>
+   <tei:p>
+    Dôstojníci hľadievajú — aspoň v tie časy hľadievali — do oblokov,   v ktorých vidieť vábne ženské postavy. Messer Baldaccio videl rúčku,   ktorá odtiahla záclonu, a pravdaže, chcel vidieť i tvár
+   </tei:p>
+   <tei:p>
+    84
+   </tei:p>
+   <tei:p>
+    ﻿k nej patriacu. I zazrel ju, a nikdy, až do smrti, nevymizol ten   obraz viac z jeho duše.
+   </tei:p>
+   <tei:p>
+    Annalena, vidiac na seba obrátené oči dôstojníka, v ktorých sa   zračil až užasnutý obdiv, zabudla na všetku hanblivosť, zabudla, že   stojí v obloku v košeli s odhalenými prsami a ramenami. Veď si musela   s Baldacciom povedať — a to len očami — najvážnejšie, najblaženejšie,   čo si na svete môže povedať muž so ženou: že ich duše sa v tii chvíľu   slúčily v jednotu, ktorú nijaké veky nikdy viac nerozlúčia! A ako   bolo na to málo času! Kým jazdec prejde pred neveľkou vilou! Veď je   pravda, že messer Baldaccio šiel veľmi pomaly a že sa obzeral, kým   bolo možno, a ani Annalena sa nehanbila vyhnúť sa za ním z   obloka.
+   </tei:p>
+   <tei:p>
+    Večer messer Bartolommeo darmo vysedával v ložete Annaleny; ona   nemohla prísť, keďže bola s messerom Baldacciom v záhrade, v boskete,   pri jazierku.
+   </tei:p>
+   <tei:p>
+    Keď messer Baldaccio prišiel — nemusela mu ani písať, vedela, že   príde — pozreli na seba a padli si do náručia a bozkali sa. Za ten   bozk by bolo bývalo hodno trpieť i muky Danteho pekla, lebo pri jeho   spomienke preniklo im dušu vždy nevysloviteľné blaho, ktoré im   vykúzlilo úsmev na perách ešte i vo chvíli skonania.
+   </tei:p>
+   <tei:p>
+    Keď odpočívala Annalena v objatí Baldaccia, keď jej vbozkával do   uška všetku svoju lásku, zdalo sa jej takým smiešnym, že by sa mala   vydať
+   </tei:p>
+   <tei:p>
+    za messera Bartolommea len preto, lebo ju videl sa kúpať! Veď čo   je na tom? A keby ju videl i sto ráz, tak jednako je ona len   Baldacciova. Bola a
+   </tei:p>
+   <tei:p>
+    85
+   </tei:p>
+   <tei:p>
+    ﻿vždy bude! I keď ho ešte ani neznala, bola jeho. Veď či je vôbec   možné na to i len pomyslieť, že by ona mohla milovať iného ako   Baldaccia? Milovať a bozkávať a byť vôbec jeho, jeho, jeho, každou   túžbou svojej duše, každou žilkou* svojho tela?
+   </tei:p>
+   <tei:p>
+    Keď o krátky čas požehnal ich sňatok sám monsignor Orsatto v   krásnom chráme Santa Maria Novella, veru nemysleli na nič iného ako   na svoje blaho. Veď sú už teraz svoji naveky. A ako by nie, keď ich   sám svätý biskup požehnal a celá Florencia sa tešila ich láske?
+   </tei:p>
+   <tei:p>
+    Na svadbe bol i Cosimo de Medici a nechybel ani znamenitý messer   Neri di Gino Capponi, ktorého vplyvu sa Cosimo viac obával ako   hocikoho iného v meste s címerom červenej — krvavej — ľalie.
+   </tei:p>
+   <tei:p>
+    Messer Bartolommeo Orlandini nebol na svadbe, a keď Annalena a   Baldaccio i nemysleli naň, on ich nezabudol.
+   </tei:p>
+   <tei:p>
+    Messer Cosimo de Medici nebol roku 1448 ešte taký starý, a   Florenťania ho jednako volali „starým“. Ale nie div. Veď čo on mal   všetko na hlave! Bol najbohatším človekom vtedajšieho sveta a pritom   musel všemožne skrývať svoje nesmierne bohatstvo, aby mu jeho milí   spoluobčania nepodrezali hrdlo len preto, lebo sa obávali, že keď   môže za svoje peniaze všetko kúpiť, že si kúpi aj ich slobodu. Len   pre nich staval najkrajšie chrámy a paláce; o kom počul, že je v   biede alebo v peňažných
+   </tei:p>
+   <tei:p>
+    86
+   </tei:p>
+   <tei:p>
+    ﻿ťažkostiach, či mu bol priateľom alebo nepriateľom, tomu, či sa mu   to videlo, či nie, vypomohol pôžičkami, darmi. Neprijal nijaký úrad,   žil ako skromný občan, a jednako on bez všetkého postavenia panoval v   slobodnej Florencii, lebo každý hľadal len jeho vôľu.
+   </tei:p>
+   <tei:p>
+    Vlastne nie každý. Lebo messer Neri di Gino Capponi mu hľadel do   karát a bál sa, že ani nevedieť ako, vo chvíli oduševnenia alebo   slabosti občanov, možno i proti jeho vôli, urobia Cosima alebo jeho   dediča tyranom.
+   </tei:p>
+   <tei:p>
+    Baldaccio d’Anghiari velil vojsku republiky a bol najsrdečnejším   priateľom znamenitého messera Neri di Gino Capponiho.
+   </tei:p>
+   <tei:p>
+    Cosimo v prostých, tmavých súkenných hábach,
+   </tei:p>
+   <tei:p>
+    s čiapkou so strieškou na hlave, klepkal svojou palicou pomaly po   Lungarne pozdĺž Arna. Jeho tvár neprezradzovala radosti, keď sa   sišiel s messerom Nerim. Nie že by mu bol takým nepriateľom, ale   preto, lebo mu sišlo na um, že mu má povedať veľmi nemilú vec.
+   </tei:p>
+   <tei:p>
+    — Ako si so zdravím, messer Cosimo? Počul som, že si mal záchvat   zimnice, — oslovil ho Gino Capponi.
+   </tei:p>
+   <tei:p>
+    Cosimo sa oprel obidvoma rukami o svoju palicu.
+   </tei:p>
+   <tei:p>
+    — Mal som, messer, a možno i mám. Ale nie pre maláriu. Je to iná   vec. Vieš, čo je divné? Divné je, ako sa chlapi tvojho priateľa   držia. Zasa včera, v albergo Gianniho, vybili všetkých hostí, lebo   ktorýsi čosi poznamenal na messera d’Anghiariho.
+   </tei:p>
+   <tei:p>
+    — No, čo je na tom? — divil sa messer Neri,
+   </tei:p>
+   <tei:p>
+    87
+   </tei:p>
+   <tei:p>
+    ﻿dvíhajúc plecia. — Patrí sa, aby vojaci nedovolili nadávať na   svojho veliteľa.
+   </tei:p>
+   <tei:p>
+    Cosimo kýval smutno hlavou.
+   </tei:p>
+   <tei:p>
+    — Len je chyba, čo povedal ten hosť! Povedal, že messer Baldaccio   prerastie signorii nad hlavu, keď jeho „fanti“ neslúžia republike,   ale jemu za peniaze mesta.
+   </tei:p>
+   <tei:p>
+    — Messer Cosimo, Baldaccia sa nemáte čo báť; on je najvernejší   sluha mesta. Okrem toho však je tu gonfaloniere so svojimi štyrmi   tisícmi chlapmi, a tu sme i my: občania slávnej republiky. Vieš, že   sa vieme biť, keď na to príde. Nasilu nás nedostane nikto do   jarma.
+   </tei:p>
+   <tei:p>
+    Messer Cosimo sa mdlo usmial:
+   </tei:p>
+   <tei:p>
+    — Rozumiem, rozumiem. Myslíš, že skorej občania samovoľne sklonia   šiju pod iné jarmo. Ale, čaro mio, desaťtisíc hrdlorezov, oddaných na   život a na smrť junákovi, ako je messer Baldaccio, môže veľmi mnoho   urobiť. A kto vidí do duše našich milých florentských občanov, za   koho by vytiahli svoje meče? Pamätáš sa? Na pokyn Albizzich vytiahli   ráno proti signorii a napoludnie zbíjali domy Albizzich a zabíjali   ich ženy, deti...
+   </tei:p>
+   <tei:p>
+    Messer Neri sa opovržlivo usmial:
+   </tei:p>
+   <tei:p>
+    — Aké sú to daromné strachy, messer Cosimo, aké daromné strachy!   Ručím ti svojím životom, že je Baldaccio takým verným sluhom mesta,   že by si v tom prípade, keby ho proti jeho vôli chceli urobiť pánom   mesta, sám vrazil meč do svojho srdca.
+   </tei:p>
+   <tei:p>
+    — Keby si len mal pravdu! Ale žijem už tak dlho, že som videl   mnohé, na čo nikto nepočítal,
+   </tei:p>
+   <tei:p>
+    88
+   </tei:p>
+   <tei:p>
+    ﻿— odvetil Cosimo a zohol sa ešte väčšmi; stisol pery a jeho hladko   oholená tvár dostala veľmi ustaraný výraz.
+   </tei:p>
+   <tei:p>
+    Messer Neri sa vystrel a pozrel s ostrým odporom na Mediciho:
+   </tei:p>
+   <tei:p>
+    — Viem, odkiaľ duje vietor.
+   </tei:p>
+   <tei:p>
+    — Odkiaľ myslíš? — pýtal sa messer Cosimo, prižmúriac oči.
+   </tei:p>
+   <tei:p>
+    — Čvirikajú to i vrabce na stromoch. Náš milý gonfaloniere delia   giustizia, náš udatný Bartolommeo Orlandini, kuje svoje železo, kým   sedí na gonfalonierskom kresle. Chce sa vyvŕšiť na hrdinovi, lebo   odsúdil jeho hanobný útek pri Marradi a odobral- mu krásnu a bohatú   paníu. A ty, messer Cosimo, dúchaš do jeho vreca, aby si odviedol   našu pozornosť od svojej práce proti slobode republiky.
+   </tei:p>
+   <tei:p>
+    Medzi rečami sa boli priblížili celkom k zábradliu nad Arnom, i   obzrúc sa, pobádali, že obďaleč nich sa tvoria hlúčky počúvajúcich   ich ľudí, i stíšili prihlasnú reč.
+   </tei:p>
+   <tei:p>
+    Messer Cosimo zasa kýval hlavou na znak svojho presvedčenia a   temer šepkajúc, riekol:
+   </tei:p>
+   <tei:p>
+    — Môžbyť, že máš pravdu. Ale ohľadne mňa sa mýliš. Ak chcete,   dokážem vám to: nechám vás tu a odídem do Benátok!
+   </tei:p>
+   <tei:p>
+    Messer Neri potriasol rázne prstom:
+   </tei:p>
+   <tei:p>
+    — Nemožno, messer Cosimo, nemožno! Ty vieš najlepšie, aká by bola   Florencia dnes bez tvojich peňazí. Nemôžeme ťa prepustiť Benátkam,   našej milej priateľke, čakajúcej len na to, kedy by nás mohla samou   láskou zadusiť.
+   </tei:p>
+   <tei:p>
+    89
+   </tei:p>
+   <tei:p>
+    ﻿— A Dio, milý messer Neri, — riekol Cosimo a odišiel.
+   </tei:p>
+   <tei:p>
+    Odišiel nie preto, že by nebol mal čo povedať. Mal, i veľmi mal,   ale radšej odišiel a zasa poklepkával pri každom kroku svojou   palicou, kráčajúc Lungarnom. Hoci mu bolo ledva päťdesiat rokov,   išiel zohnutý a pomaly, ani keby mu bolo sedemdesiat. Myslel si, že   on nechce byť pánom Florencie i podľa mena, keďže je ním skutočne.   Ale má ním byť iný? Má on teraz ísť každý večer spať s obavou, že ho   nasledovná noc alebo deň pán i podľa mena pozbaví zasa vlasti, keď   nie i života? Veď on už kadečo skúsil. Bol to veľmi tenký vlások, na   ktorom visel meč nad jeho hlavou, a jedol on už i chlieb   vyhnanstva.
+   </tei:p>
+   <tei:p>
+    Dosť je takých slastí i len raz v živote ...
+   </tei:p>
+   <tei:p>
+    Annalene a Baldacciovi už štyri roky trval ich deň šťastia. Tie   štyri roky im boly jediným snom lásky, ktorú im Boh okrášlil i   utešeným dieťaťom, malým Averardom, preto, aby, milujúc dieťa,   milovali v ňom ešte väčšmi i sami seba.
+   </tei:p>
+   <tei:p>
+    Ráno sa Baldaccio obliekal a Annalena a malý Averardo mu pomáhali.   Kdeže by sa bol mohol bez pomoci toho pacholíka obliecť! Veď len on   mu vedel natiahnuť obuv a meč mu tiež on musel doniesť na pleci, hoci   i s veľkou biedou.
+   </tei:p>
+   <tei:p>
+    — Otec, však by si sa bezo mňa nemohol obliecť? Mama ti nevie túto   gombíčku zapäť; to len ja viem, však? — i krútil mu na rukáve   sponku.
+   </tei:p>
+   <tei:p>
+    90
+   </tei:p>
+   <tei:p>
+    ﻿Baldaccio hľadel do očú Annaleny, ktorá so zlatým úsmevom   pozerala na svoje blaho.
+   </tei:p>
+   <tei:p>
+    — Ty si chlap, bez teba by som si veru nedal rady, —- riekol a   pohladil pobelavé kučery na hlávke dieťaťa.
+   </tei:p>
+   <tei:p>
+    — Mama to nevie urobiť. A aká je mama smiešna: ona sa ti meča   bojí. Však sa bojíš, mama, meča?
+   </tei:p>
+   <tei:p>
+    Annalena schytila Averarda, a oblápajúc ho, bozkávala ho, kde len   mohla. Chlapec sa jej bránil.
+   </tei:p>
+   <tei:p>
+    — Otec, pozri, mama ma vždy bozkáva, a ja som už mocný chlap, keď   unesiem tvoj meč.
+   </tei:p>
+   <tei:p>
+    Messer Baldaccio sa obliekol a oblapil Annalenu, držiacu dieťa na   ramene, a bozkával oboch dlho a vrúcne. Veď ich bozkával vždy dlho a   vrúcne, keď odchádzal do svojej služby, ale dnes si Annalena myslela,   že je ešte milší a srdečnejší ako inokedy.
+   </tei:p>
+   <tei:p>
+    Messer Baldaccio išiel každý deň do palazza vecchia pred signoriu,   vlastne pred gonfaloniera delia giustizia, aby dostal nariadenie pre   vojsko na ten deň.
+   </tei:p>
+   <tei:p>
+    Annalena sa po jeho odchode vždy zaoberala len vecami, ktoré sa   týkaly jej muža a dieťaťa. Prvá jej povinnosť bolo ísť do kostola SS.   Apoštoli poprosiť najsvätejšiu Madonu o ochranu pre muža
+   </tei:p>
+   <tei:p>
+    a dieťa. Nezabudla ani na otca, messera Odoarda, ktorý bol taký   dobrý a mal z jej šťastia takú radosť! Koľko ráz sa bez slova i   hodiny udíval, usmievajúc sa, na ňu a na malého výtečníka Averarda. A   nikdy neprišiel s prázdnou rukou. Ó, otec zaslúžil, aby sa pomodlila   zaň. Len za seba sa nikdy nemodlila, nemala kedy ...
+   </tei:p>
+   <tei:p>
+    Keď prišla domov, obyčajne vyšívala niečo pre
+   </tei:p>
+   <tei:p>
+    91
+   </tei:p>
+   <tei:p>
+    ﻿Baldaccia. Bolo to vermi potrebné, lebo páni vtedy tak radi nosili   výšivky. A ktože by ich bol urobil krajšie pre Baldaccia a toho   malého vydriducha Averarda ako ona?
+   </tei:p>
+   <tei:p>
+    Okolo jedenástej chodieval Baldaccio domov; keď neprišiel pre   mimoriadnu službu, odkázal to po sluhovi.
+   </tei:p>
+   <tei:p>
+    Keď v kostole Santa Croce zvonievali na ostatnú omšu, vtedy   prichádzal. Dnes už odzvonili na omšu ...
+   </tei:p>
+   <tei:p>
+    Divné, koľko ľudí chodí po ulici a ako živo rozprávajú. Iste sa   niečo prihodilo. Ale v tomto meste sú stále kadejaké nepokoje.
+   </tei:p>
+   <tei:p>
+    Annalena vyhľadala pekný červený hodváb a porovnávala ho s   vyšitými už zelenými listmi, či by sa hodil na kvet, pekný, veselý,   lebo Baldaccio rád mal živé farby.
+   </tei:p>
+   <tei:p>
+    Zrazu začula na chodbe krik dieťaťa a nárek jeho pastorkyne   Catelly. Ľaknutie jej otriaslo údmi, i skočila ku dverám: iste sa   dieťaťu prihodilo niečo! Yo dverách sa srazila so slúžkou; slúžka   bola bledá a oči jej stĺpom stály.
+   </tei:p>
+   <tei:p>
+    — Monna, zabili messera Baldaccia! Leží na piazze pred palazzom s   odťatou hlavou!
+   </tei:p>
+   <tei:p>
+    Annalena sa chytila za hlavu a zúfalý strach ju hnal na piazzu   delia signoria. Nemala ďaleko, veď borgo SS. Apoštoli ústi do   nej.
+   </tei:p>
+   <tei:p>
+    Áno, bola to pravda; pred palazzo vecchiom ležala mŕtvola messera   Baldaccia d’Anghiari. Na prsiach, posiatych ranami, bola položená   hlava, hľadiaca jedným okom na okolostojacich Florenťanov. Druhé bolo   zavreté. Či ozaj hľadelo i to na nie-
+   </tei:p>
+   <tei:p>
+    92
+   </tei:p>
+   <tei:p>
+    ﻿koho? Aké nekonečné milosrdenstvo by bolo bývalo, keby Annalenu   boli tiež razom preklali! Ale veď jej nebolo slobodno ublížiť, veď   ona bola nevinná! Jej neurobili nič. Zabili len všetko blaho jej   života. Annalena spadla zamdlená. Týždeň neprišla k vedomiu. Mysleli,   že už vôbec stratila rozum.
+   </tei:p>
+   <tei:p>
+    Ale Pán Boh sa ešte nezmiloval nad ňou. Prišla k sebe, aby sa   dozvedela, že i jej zlatý, jediný Averardo umrel. Nakazil sa od   svojho kamarátika, malého Astora, i odišli obidvaja. Staré srdce   messera Odoarda tiež nevydržalo toľko žiaľov: našli ho mŕtveho na   hrobe Baldaccia a Averarda. Len Annalena sa navrátila s druhého   sveta, aby videla, že je úplne sama. Nemala nikoho okrem Boha a   Madony Santissimy.
+   </tei:p>
+   <tei:p>
+    I obrátila sa k Nim! Zo svojho paláca urobila kláštor a posbierala   doň ťažko ranené srdcia, ktorých bolo dosť v zlatej Florencii. Veď   „sloboda“ žiadala toľké obete! Myslela si, že keď budú spoločne   prosiť Najsvätejšiu o skorý odchod, že ich akiste vyslyší.
+   </tei:p>
+   <tei:p>
+    Nevyslyšala. Ešte mnohé roky vše prepadol monnu Annalenu zúfalý   bôľ za jej drahými. Mnoho ráz, pretrhnúc vrúcnu modlitbu, hodila sa   na zem volajúc;
+   </tei:p>
+   <tei:p>
+    — Baldaccio mio, Averardo dulcissimo, prečo ste ma opustili?
+   </tei:p>
+   <tei:p>
+    Len otca nespomínala, lebo vedela, že mu je „tam“, na večnom   pokoji, lepšie.
+   </tei:p>
+   <tei:p>
+    Musela pretrpieť i zvesť o spôsobe zabitia svojho Baldaccia.   Gonfaloniere ho dal zákerne zabiť, bez
+   </tei:p>
+   <tei:p>
+    93
+   </tei:p>
+   <tei:p>
+    ﻿slova obžaloby, bez súdu. Chodil s ním priateľsky po chodbe   palazza, keď pri jedných dverách zvolal: „San Sepolcro!“ — i vyrazili   zo siene vrahovia a preklali ho razom. Jeho ostatný výkrik bol:
+   </tei:p>
+   <tei:p>
+    — Povera Léna mia!
+   </tei:p>
+   <tei:p>
+    Nie seba ľutoval, a mal pravdu.
+   </tei:p>
+   <tei:p>
+    Mŕtvole odrezali hlavu a vyhodili ju na piazzu, rozšíriac o   bohatierovi klebetu, že siahal na slobodu republiky. Ľud i vojsko   prijaly obvinenie zamíklo, nevediac, kto mal pravdu. Jediný Neri di   Gino Capponi nadal gonfalonierovi a signorii do vrahov. Zatínali   päste, ale neodvážili sa ich naň zdvihnúť, lebo pravda žiarila z neho   presvedčivo a žalobne.
+   </tei:p>
+   <tei:p>
+    Po rokoch sa Annalena stretla na ulici aj s messerom Bartolommeom,   ktorého Boh požehnal bohatstvom a krásnou rodinou. Pozreli si do očú:   Annalena by za nič na svete nebola zamenila s ním spomienky na   svojich drahých za všetko jeho šťastie.
+   </tei:p>
+   <tei:p>
+    Keď nadišiel čas konečného odchodu, Annalena vystierala blažene   svoje ramená za zjavivšími sa jej milými, ku ktorým sa ponáhľala.
+   </tei:p>
+   <tei:p>
+    Či sa ozaj i messer Bartolommeo Orlandini ponáhľal tak pred súd,   ktorý ho čakal?
+   </tei:p>
+   <tei:p>
+    Cosimo de Medici sa zavše utiahol do kláštora San Marco. Ako dobrý   obchodník usporiadal všetky svoje účty s najväčším Obchodníkom sveta,   ktorý, ako nijaký, platí za predložené účty, ale
+   </tei:p>
+   <tei:p>
+    — predkladá na vyrovnanie i svoje.
+   </tei:p>
+   <tei:p>
+    94
+   </tei:p>
+   <tei:p>
+    ﻿Po usmrtení Baldaccia d’Anghiari šiel messer Cosimo zasa do svojej   stálej cely v tých tichých múroch, okrášlených prekrásnymi freskami   Blaženého frátra.
+   </tei:p>
+   <tei:p>
+    Dlhé dni hľadel na obrazy fra Angelica so zamračenou tvárou,   žiariace láskou a odpustením; nenapĺňaly jeho dušu potechou, ale   výčitkou, a to najbolestivejšou.
+   </tei:p>
+   <tei:p>
+    Po mnohých, v kajaní a súžení prebdených nociach, po sľuboch   výstavby nových chrámov a špitálov, sa mu zdalo, že fra Angelicov   najdobrotivejší Boh sa i jemu milostivo usmieva; zdalo sa mu, že z   Jeho najsvätejších rúk žiaria svetelné lúče najrozličnejších farieb;   sú medzi nimi utešené, zlatom sa jagajúce a zúfale čierne,   vzbudzujúce v srdci drviaci smútok.
+   </tei:p>
+   <tei:p>
+    Ale v diali všetky splynú do prekrásnej zlatoružovej harmónie,   tratiacej sa v jasnobelasom všehomíre.
+   </tei:p>
+   <tei:p>
+    Krásne farby mal na svojej palete fra Angelico da Fiesole!
+   </tei:p>
+   <tei:p>
+    A ak najspravodlivejší a najdobrotivejší Boh na konci všetko   vyrovná?
+   </tei:p>
+   <tei:p>
+    95
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

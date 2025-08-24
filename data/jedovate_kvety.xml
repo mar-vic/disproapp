@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943671" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Jedovaté kvety : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5248
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Jedovaté kvety
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     JEDOVATÉ KVETY
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Kata Hvizdákovie otvorila tichučko dvere na velikánskej nízkej   svetlici, v ktorej sedel Jóbko Zmeškal v posteli, bojazlivé vstrčila   hlavu do otvoru a zúfale skríkla: — Rata, ľudia, rata! V izbe sa   ozval škrekľavý, kašľom pretrhávaný smiech a v pitvore, v ktorom sa   našla zostrašená Kata, hlasité sa rozosmiali dvaja mohutní páni   Revickovci: Pavol a Štefan. Keď sa upokojili, pýtal sa starší Pavol   strachom zblednutej dievky, ktorá sa na celom tele triasla: — A čo si   tam zazrela takého strašného? Kata zalomila rukami. —- Mátoha,   strašiak akýsi hrozný sedí tam v kúte! — i zašmotlala sa pre   bezpečnosť za chrbát dvoch pánov. Bratia vošli do svetlice, ešte   stále sa smejúc. — Jóbko, ale si jej prelial olovo, — povedal mladší   Štefan. — Počuješ, Jóbko, ty by si mal s hercami chodiť po jarmokoch;   myslím, že by ti dobre platili. Na víno, čo vypiješ, by si iste   zarobil. Mátoha sa radostne smiala: — Hihihihi! Okolo   sedemdesiatročný Jóbko Zmeškal nemal ani jedného zuba, hrubé šedivé   fúzy a dlhá, tiež celkom biela brada zakrývaly mu prsia a pol   bru-
+   </tei:p>
+   <tei:p>
+    295
+   </tei:p>
+   <tei:p>
+    ﻿cha. Veľký, zahnutý červený ,nos mu sedel ako v hniezde medzi   fúzmi, na jeho bokoch blýskaly sťa iskry vo tme čierne, drobné okále.   Keď stisol bezzubé ústa, dlhá brada sa mu vodorovne postavila, takže   mu tvár skoro celkom zmizla za ňou. I tuhého chlapa myklo, keď ho   zazrel prvý raz, ženské škriekaly a deti sa ukrutne rozplakávaly.   Jóbko sa nemohol v krížoch vystrieť, bol taký zohnutý, že sa mu driek   vodorovne vznášal nad zemou. Ale tento lazár bol mimoriadne veselý a   veľmi dobrotivý človek, ktorý sa smial na všetkom, a predovšetkým nad   sebou samým. Starší Revický povedal: — No, Jóbko, teba by mali použiť   na mučenie; myslím, že by každá baba všetky hriechy vyznala, keby ju   s tebou zavreli. — Netáraj do sveta, človeče, kým si nevypijem. Nože   ty, Štefan, húkni do kuchyne, aby prišiel naničhodný Matúš. Pre toho   lotra by človek mohol i pípeť dostať. Revickovci sa smiali. Pavol si   sadol na kraj postele a Štefan vybehol hľadať hajdúcha. Štefan o   chvíľu otvoril dvere a vpustil krásne urastené dievča, dcéru Jóbkovu,   do izby. Obidvom Revickovcom sa zdalo, ani keby boli jasné svetlo   zapálili v temnej svetlici s drobnými oblôčikmi, keď Judka zastala   pred stolom. Doniesla veľký krčah vína a tri hodné poháre. Za ňou   vošiel hajdúch s misou teľaciny a s taniermi. Všetok riad bol z cínu.   Judkina pravidelná tvár zdala sa byť nehybnou, lebo nepreukazovala   nijaké pohnutie. Keď pozdravila Revického, sotva pohla perami.
+   </tei:p>
+   <tei:p>
+    296
+   </tei:p>
+   <tei:p>
+    ﻿— Pozdrav Pán Boh, ujček! — I teba, dcéra moja, — povedal Pavol. —   Táj, ale si len krásna, ani tá ruža sáronská! Judka pozrela na   Revického a len opovržlivé kývla perami. Poukladala prinesené   občerstvenia na stôl a odišla bez slova, ani sa na hostí neobzrela. —   Počuješ, Jóbko, divné dievča je tvoja Judka. Oproti mládencom, ktorí   sa jej zaliečajú, je trpká, len tak fŕkajú od nej ako hrach od steny.   Oproti dievčatám a oproti sedľači je milá a vľúdna. Čo len smýšľa?   Nechce sa vydať? Štefan sa smial. — Pavolko, ty si taký: máš už svoje   roky, šedivejú ti vlasy, a jednako fľočíš za každou sukničkou. Neboj   sa ty o ňu. Nezostane na semä. Uvidíš, že si Tóno Porubský dá s ňou   rady i bez teba. -—Ale toho by si vzala! Toho! Veď keď sú spolu,   nerobia iné, len sa škriepia a nadávajú si. — A jednako nemôžu byť   bez seba. Jóbko sa svraštil, celá tvár sa mu sbehla do hrče nie   väčšej ako päsť, z ktorej mu na všetky strany trčaly biele vlasy. Do   izby vošla Jóbkova žena, vysoká, chudá osoba, s čelom obviazaným   bielou šatkou, v tmavých priliehavých šatách, v ktorých sa zdala   veľmi vysoká. Jej chudá, dlhá tvár s tenučkým noštekom a krátka   vrchná pera robily nemilý dojem, najmä keď hovorila, lebo mlela   chytro a šušlavo. Bola to osoba nevľúdna, prostoreká a vždy ako by   namrzená. — Popíjate, popíjate! Vám, pánom, je len dobre, a my ženy   sa musíme trápiť.
+   </tei:p>
+   <tei:p>
+    297
+   </tei:p>
+   <tei:p>
+    ﻿Pozrela do krčaha, naliala si do prázdneho pohára a vypila nápoj   na dúšok. — Dobré je, dobré, lenže sa míňa, míňa! A čo robí tvoja   Marka a čo tvoja Žofka? Teraz prišiel Matúš z Yeličnej. Hovoria v   meste, že sú Poliaci už v Tvrdošíne. Že kadiaľ idú, všetko drancujú.   To budú tu o týždeň, možno i skôr. Aj my by sme sa mali pratať z   tejto Gecele, alebo do Magury, alebo do Choča. Čože, vám je v   Revišnom dobre, ta sa nebudú trepať, ale my tu! Nech ich Boh škára!   Nikdy nemáme pokoja: raz cisár, raz Poliaci, vždy musí byť akási   skaza na nás! To všetko pre hriechy, veru len pre ne! Pavol hromžil:   — Yeru sa nám bude niekam hýbať. Ešte šťastie, že tu dlho nepobudnú.   Musia sa pratať, keď chcú Viedeň ratovať. A s Turkami je i náš   Thokôlyi. To nám veru nebude na osoh. Parom to uchytil, že musíme   zakaždým držať s tou stranou, ktorá je navrchu! — Bude sa nám či tak,   či onak pratať, — opakovala Jóbkova žena stále svoje, nedajúc sa   zastaviť. Keď však pobadala, že jej reči nikto nepočúva, opustila nos   a vyšla. Jóbko pokýval rukou za ňou. — Nuž, pravda, navštevuje nás   Boh, ale pre svoju pravdu musíme i niečo vytrpieť. Lebo keď trpíme,   tak to robíme za svoje práva zemianske a za svoju vieru. Cisár chce,   aby sme platili i my dávky, a — pomyslite si na tú urážku! — za víno!   Za naše premilé vínečko! Pravda, len my ho pijeme. Sedliak ho   nelízne, len pri spovedi. My ho
+   </tei:p>
+   <tei:p>
+    298
+   </tei:p>
+   <tei:p>
+    ﻿vycickáme. V tom by bolo trochu pravdy, že my platíme i dávku.   Štefan skričal rozhorčene: — A či nám je nie dosť, keď ho musíme   draho kupovať! — Dobre, dobre, dobre, — prikyvoval Jóbko, — i v tom   je niečo, čo ty hovoríš, lenže nejde o dávku za víno, ale o naše   práva. Ten denárik za holbu by nás nezabil. Ale najprv začnú s   denárikom za víno, a potom prídu iné dávky, keď sa priučíme na dane.   A čo máme robiť, milí bratia? Ohrýzaš sa, ako vieš, a keď príde veľká   sila, podľahneš. Mne sa je ľahko smiať, ja som starý. Čože je mne   skapať? A vy, milí bratia, vy sa trápte, trpte. Ale veď vy i bezo mňa   máte svoj rozum! Štefan trepol päsťou na stôl. — Jarmo nám kladú na   väzy! Hrom udrel do toho! Pavol sa hneval. — To nás pre toho   Thôkôlyiho navštevujú Poliaci. Čert nech to vezme! Veď mohli ísť aj   inokade, a práve tadiaľto ich diabli tisnú! — Hihihihi, — smial sa   Jóbko, — keď sa vám chce tak pajediť! A čože nám vezmú teraz v   auguste? Stodoly, humná prázdne, a dobytok na holiach. Veru im kvôli   nebudeme preň posielať. A času nemajú, aby nás mohli poriadne   vyčistiť. Ale my máme dosť času odpratať, čo je cennejšie. Nájdu   prázdne dediny. Gazdovi nemajú čo vziať, toho sme už my vyrabovali, a   my vzácnejšie veci poodnášame. Revickovcov, tak sa zdalo, tieto reči   Jóbkove
+   </tei:p>
+   <tei:p>
+    299
+   </tei:p>
+   <tei:p>
+    ﻿nie veľmi zaujímaly, lebo pozreli na seba a vstali, že pôjdu. —   Ono je to všelijako na svete, — povedal Pavol. — Ale musíme sa čo ako   poberať domov, s tými Poliakmi je to jednako nie do smiechu. — Veru   môžu i skorej prísť, a nebolo by nám milé, keby nás tak vyčistili. A   najskorej i ženské už počuly, že sa blížia, a budú sa báť, že sú im   už na krku, — dotvrdil Štefan. Odobrali sa a šli. Jóbko si ľahol čím   najpohodlnejšie na bok a hútal v sebe, že on veru nebude ani pred   smrťou nikam utekať. Ak mu je súdená, tak nech si ho pojme. Hoci bol   Jóbko Zmeškal z najbohatších oravských zemanov, v Geceli býval   jednako len v rozsiahlej, ale prostej nízkej drevenici s nepomerne   veľkou strechou, zpod ktorej máločo bolo vidieť zo samého domu, okolo   ktorého sa rozťahoval veľký dvor s rozličnými hospodárskymi   staviskami. Kuchyňa stála na konci panského domu, ktorý i pri svojom   skromnom výzore nosil hrdé meno paloty. V hlavnej spoločenskej izbe   býval a spával Jóbko so svojím synom. V susedných izbách bývalý jeho   žena a Judka. Izieb bolo v dome hodne a v každej boly i postele pre   prípadných hostí. Teraz bola už niekoľko dní u Jóbkov Anica Ambrózych   z Istebného, o ktorú sa zaujímal Peter, syn Jóbkov, a preto často   podkušiaval svoju sestru, aby ju vyvábila do Gecele k nim, čo Judka   urobila vďačne, lebo mala Aničku tiež rada a nebola by sa mrzela,   keby si ju Peter bol vzal za ženu. Peter bol hodný mladý človek,   veselej povahy.
+   </tei:p>
+   <tei:p>
+    300
+   </tei:p>
+   <tei:p>
+    ﻿Často sa navštevoval so svojím najlepším priateľom Tomom   Porubským, slúžnym vo Veličnej a statkárom v Revišnom, ktorého ako   nápadníka Judky bol spomínal Štefan Revický. Tomo bol vysoký, asi   tridsaťročný chlap, o ktorom hovorili, že sa v ňom nikto nevyzná,   lebo pre jeho podivný úsmev nikdy nebolo možno vedieť, či myslí   vážne, čo hovorí, a či len žartuje. Peter vybehol do záhrady, kde bol   zazrel Judku s Anicou. Na polceste zbadal, že je i Tomo s nimi a že   im čosi veľmi zaujímavého musí rozprávať. Prišiel k nim, ale Tomo sa   nedal vo svojej reči vyrušiť. — Vedie ich knieža Ľubomirski, a je to   len malá čiastka poľského vojska, ktoré ide pod Viedeň. Títo idú cez   Oravu, aby sa zavďačili Thôkolyimu za jeho pomoc Turkom. Drancujú   všetky dediny, ktorými idú, a zdá sa, ani sa veľmi neponáhľajú, lebo   vraj tri dni budú táboriť na mokraďskej rovni. Obce našli už zväčša   prázdne. Ale ktorá sa nevykúpi, zapália ju bez milosti. — A odkiaľ to   všetko vieš, Tomo? -— pýtal sa Peter. — Išiel som cez Veličnú, tam   som to všetko počul. Ľudia sú všetci na námestí a hučia ani jarmok.   Mokraď je neďaleko, o hodinu môžu byť vo Veličnej, keď im na um príde   sem sa pobrať. Nemáte ani tušenia, aký je vo Veličnej súdny deň!   Každý iné radí, vresk detí, vada, behajú sem-ta. Škriepia sa, čo   ratovať. Hotová Sodoma! A kupcom je tiež zle, ale ani jednému nie tak   ako chudákovi Bohúňovi. Práve dnes ráno mu doviezli plný voz drahých   súken a hodvábov, a teraz si nevie s nimi
+   </tei:p>
+   <tei:p>
+    301
+   </tei:p>
+   <tei:p>
+    ﻿poradiť. Napochytre ich predáva, za čo môže, len aby sa ich   striasol. Mali by ste to ísť pozrieť. Môžem povedať, že ozaj krásne   veci rozhadzuje skoro zadarmo. Anica sa ozvala: — Ja by som veru šla,   keby ešte niekto šiel so mnou. — Ja by som išiel s tebou, — hlásil sa   bez dlhého rozmýšľania Peter. — A ty by si nešla, Judka? — pýtala sa   Anica. — Ale kdeby, — odvetila Judka. — Mám teraz celkom iné   starosti, ako sháňať zbytočné šaty. Ja vás pôjdem radšej na kúsok s   Tomom odprevadiť. — Ak máme ísť, poďme čím skorej. Nevieme, kedy tým   pánom príde na um nás prekvapiť, — podotkol Peter, na čo sa Tomo len   usmial pod jedným fúzom, vediac, o čo Petrovi vlastne ide na   vychádzke v spoločnosti Anice. — Tak poďme, — durila Anica. I sobrali   sa všetci štyria. Keď prešli niekoľko sto krokov, rozišli sa: Peter s   Anicou sa dali napravo a Tomo s Judkou sa vrátili.
+   </tei:p>
+   <tei:p>
+    Anica s Petrom sa previezli do Veličnej, ktorá pozostávala z   niekoľkých krátkych uličiek a z veľkého námestia, rúbeného   poschodovými domami a arkádami. Väčšina domov bola len z dreva. Pod   mnohými arkádami boly obchody. Peter s Anicou sa ponáhľali na rínok,   na ktorom bolo plno sveta a ruch podobný tomu, aký býva, keď   jarmočníci balia svoj tovar a sa rozchádzajú. Kupci zo sklepov   vynášali svoj najcennejší tovar na vozy, aby aspoň ten zachránili.   Naprostriedku
+   </tei:p>
+   <tei:p>
+    302
+   </tei:p>
+   <tei:p>
+    ﻿námestia, pred Bohúňovým obchodom, bol nepomerne veľký shon ľudí,   ktorí vrieskali a sa naťahovali, aby zpoza chrbtov iných videli, aké   krásne látky roztriasa pred nimi ináč vždy žartovať náchylný   obchodník, ktorý teraz robil veľmi utrápenú tvár. Bohúňovi pomáhala   pri odpredaji tovaru jeho malá, tučná ženička, ktorá bola i pri   svojej tučnote veľmi vrtká. Vlastne ona urobila najväčšiu čiastku   roboty. Anica s Petrom tiež pristúpili k obchodu a pretisli sa k   samému kupcovi. — Nech sa páči, panička Anica, všetko vám dám, čo len   chcete, len si berte. — Ale nemám pri sebe peňazí, a ani ako odviezť   tovar. — Pošlem Jura do Istebného, nech pošlú po vás a po tovar voz.   K Petrovi pristúpil Štefan Revický a pošepol mu do ucha: — Povedz   Anici, nech sa ponáhľa. Teraz prišiel Roľko z Kubína so zvesťou, že   Poliaci už rozoberajú tábor v Mokradi. O hodinu môžu byť v Geceli, a   že Veličnú neobídu, ale prejdú sem cez Oravu, o tom môžeš byť istý. —   No, veľmi sa im nebude chcieť sem chodiť cez rozvodnenú Oravu. Štefan   mykol plecom a šiel zasa ďalej iným známym pošepkať svoju nepravdivú   zvesť, takže o niekoľko minút sa rozniesla po celom námestí. Ozývaly   sa výkriky: „Poliaci idú! Utekajme! Už sú v Kubíne! Už sú v Geceli!“   Každý vedel niečo nového.
+   </tei:p>
+   <tei:p>
+    303
+   </tei:p>
+   <tei:p>
+    ﻿Zvesť zavinila, že o pol hodiny sa celá obec vyprázdnila, zostala   v nej len luza, ktorá nemala čo stratiť a počítala s tým, že bude   môcť niečo odniesť. -%\g§ Naprostriedku námestia stál murovaný   prízemný panský hostinec, ktorý jediný zo všetkých domov pretrval   zánik obce. Michal Pagáč, hostinský, naskrze sa nebral na útek. Bol   vysoký, chudorľavý chlap, s riedkymi našedivastými fúzmi. Šúchajúc si   holú hlavu vyplznutou baraňou čiapkou, ako keby tým napomáhal trochu   ťažký pochod myslenia, rozhodol sa, že ženu s rodinou a s cennejšími   vecami pošle tiež do hôr, on však so svojimi sudmi kadejakých nápojov   zostane doma. Myslel si, že nápoje by mu v hore či tak, či onak   vypili, platiť by tam neplatil nikto, a mal by za svoju námahu len   posmech. Možno, skôr od Poliakov niečo utŕži, veď je to nie najhorší   národ, keď vie človek s ním narábať. Zostala s ním v dome len jeho   dievka, Kata Hvizdákovie, ani sám nevedel prečo. Myslel, že najskorej   pre Jura Grešku, s ktorým sa vláčila a ktorého bol zazrel ešte pred   chvíľou pod ktorousi bránou. Ktovie, čo majú za lubom. Zavieral svoj   obchod, keď sa k nemu viac vkradli, ako by boli otvorene vošli,   Bohúň, ktorý bol vtedy obecným richtárom, a prísažný Ondrej Šuda.   Ohaja boli mestom poverení vyčkať Poliakov a v prípade potreby   vyjednávať s nimi o výkupné, aby sa neurobila obci zbytočná škoda. S   týmito si zasadol v hostinskej izbe, keď im bol doniesol po krčahu   piva. Od starosti ani nevedeli, čo pijú, keď ešte vošiel k nim i   Peter s Anicou,
+   </tei:p>
+   <tei:p>
+    304
+   </tei:p>
+   <tei:p>
+    ﻿ktorí čakali na voz z Istebného. Keď dlhšie nechodil, nechali   kúpený tovar v krčme v rukách hostinského a utekali pešo do   Istebného, keďže na Anicu razom prišiel strach, že ich Poliaci   prekvapia. Otec Anicin zdal sa vekom zošlý a starý, bol dýchavičný a   opuchnutý, matka bola slabá, chudučká, a obidvaja boli ustráchaní pre   seba a pre dcéru. Nevládni, báli sa hory, že pod nejakým stromom   umrú. Rozmysleli si preto, že sa len do hájovne na kraji lesa dajú   zaviezť a tam počkajú, čo Pán Boh nad nimi usúdi. Strach, ktorý ako   nejaký hrozný, živý tvor ovládal celý ambrózovský dom, odobral i   Petrovi všetku odvahu. Prišlo mu na um, čo bude sestra s otcom doma   robiť, keď prídu ta Poliaci. A ta musia prísť, lebo veď cesta z Oravy   do Liptova vedie tadiaľ po ľavom brehu Oravy, ktorým musia ísť, keďže   niet nikde mostov na nej. — Ujec Miško, požičajte mi Loptoša, aby som   čím skorej prišiel domov. Bohvie, či sú už nie tam Poliaci. — Loptoša   chceš, aby ti ho Poliaci zobrali, ak ho sám neskántriš! — odhrýzal sa   starý mrzuté. — Ak ho skazím, dám vám zaň Vranu i so žrebcom! —   zvolal a už i utekal do stajne. Kým starý Ambrózy fučal, hundral a sa   vyterigal do dvora, osedlal Peter Loptoša a harcoval na dvore na ňom.   Darmo kričal starý naň a na čeľaď, aby koňa zaviedli nazpät do   stajne, Peter ho vypäl a prefrkol pomedzi chlapov na zlú cestu a o   chvíľku stratil sa im s očí.
+   </tei:p>
+   <tei:p>
+    20 Z dávnych časov.
+   </tei:p>
+   <tei:p>
+    305
+   </tei:p>
+   <tei:p>
+    ﻿Peter o krátku štvrťhodinku pricválal do Gecele, kde našiel Judku   i Toma pri otcovi. Keď videl, že doma je ešte všetko ticho, vybehol   na Loptošovi na kopec, aby sa presvedčil, čo je s Poliakmi. Videl   celú cestu od Žabinca po Kubín zaplnenú vojskom, väčšinou jazdným a   vozatajstvom. — Ťáj, však sú čochvíľa tu! Zmlel sa ozlomkrky dolu   kopcom a vpadol ani víchor do izby: — Poďte, poďte, niet času ani   minúty, už sú nám na krku! Otec, čo teraz? Jóbko pozrel naň a   naťahoval si bradu. — A kde sú už? — Hlava vojska je už v Kubíne, —   odsekol chytro Peter a skočil k stene, na ktorej bola veľká tabuľa s   rozličnými zbraňami, z ktorých vychytil karabínu a nabíjal ju, ako   keby ho hnali. — Tomo, nabi si i ty jednu! Kým otec rozprával, nabili   si zbrane obidvaja. — Nuž, tak. Mnoho tu niet čo rozprávať, —   vykladal Jóbko. — Vy dvaja s Judkou ujdite do hory. Ja zostanem tu. 0   mňa sa nebojte. Čože môžu so mnou urobiť? Mladú čeľaď všetku vyžeňte   do hory: chlapov, dievky, lebo tých nám môžu zobrať so sebou. Len   stará Zuza a Jurčin nech zostanú pri mne. Judka odpovedala tichým   hlasom, ako keby šlo o najobyčajnejšiu vec: — Vy choďte z domu, lebo   môžete so svojou prchkosťou narobiť len nezdoby. Ja zostanem s otcom.   Tomo zbledol a Peter skričal na Judku:
+   </tei:p>
+   <tei:p>
+    306
+   </tei:p>
+   <tei:p>
+    ﻿— Naskutku si obuj čižmy a obleč si teplý kabát, a poď! Judka   odpovedala zasa tak ticho ako predtým: — Nejdem! Peter poznal spôsob   sestrin a vedel, že keď tak hovorí, skorej sa dá na kusy rozsekať,   ako by ustúpila. Klial, nadával, ale jej viac ani slova nepovedal.   Tomo sa tiež staval, že ani on nepôjde. Judka mu povedala: — Tomko,   choď len. Nemusíte ďaleko odchádzať. Buďte nablízku, niekde pri   Skalisku. To je dosť blízko a skryté miesto, odtiaľ môžete pozorovať,   čo sa tu robí. — Čo ako, to nemá smyslu, keď práve ty tu zostaneš.   Judka, všetkým nám len ťažké srdce robíš. Poď s nami. Judka tak   ticho, ako predtým, povedala: — Nejdem. Nenechám otca samého. Celý   život by som si to vyčítala. — Tak ani ja nepôjdem, schovám sa niekde   na kraji hája. — Judka nech sa schová do skrýše, -—• ozval sa Jóbko.   O chvíľu bol celý dom ani vymretý. Nebolo v ňom vidieť ani človeka   okrem Jóbka, ktorý sa, ako keby všetko bolo v najväčšom poriadku,   utúlil vo svojej posteli. Stará Zuza a Jurčin z opatrnosti schovali   sa do zadných kútov pivnice a Judka do skrýše. Bola to malinká   komôrka, do ktorej viedly dvere zo zavretého výklenku, z ktorého sa   kúrilo zvonku do viacerých pecí. Tomo a Peter nemuseli dlho vyčkávať   na voj-
+   </tei:p>
+   <tei:p>
+    20*
+   </tei:p>
+   <tei:p>
+    307
+   </tei:p>
+   <tei:p>
+    ﻿sko. Sotva si trochu vydýchli a vyzreli zpomedzi kričia na kraji   hory, už videli prednú stráž, pozostávajúcu z niekoľkých jazdcov,   jachajúcich na pekných koňoch. — Nejdú dlhšie ako hodinu. Nebude ich   viac ako päť-šesť tisíc. Už ide i vozotajstvo a teraz niekoľko   opozdených jazdcov, a čo je najhoršie, pešiakov, — hovoril Peter.   Tomo potiahol Petra za rukáv. — Pozriže, tam sa prikráda niekoľko   pešiakov do dvora; to budú nejakí lotri. Prikradnime sa po troche i   my. — Už sa štyria vkradli do dvora, — poznamenal Peter a sňal   karabínu s pleca, Tomo držal už svoju v rukách. Tomo nespustil očú s   dvora, Peter sa obzeral po celom okolí. — Pozriže, Tomo, niekoľko sto   chlapov bŕdne vo Veličnej. — Majú svoj rozum! Takú Veličnú neobídu,   aby ju nepodojili. Chudák Bohúň, bude trešťať! — Keby sa len z   Veličnej vypratali čím skôr! — zaželal si Peter. — Čert vie, čo tí   lotri tam sháňajú! Vtom sa Tomo rozbehol a utekal, ako vládal, smerom   do dvora, len toľko zvolal: — Judku naháňajú! Peter bez rozmýšľania   utekal za ním. Štyria diví hrdlorezi vrazili do paloty a na prvý   pohľad vytrhli dvere výklenku pecového a našli skrýšu, v ktorej bola   Judka. Bola to taká skrýša, ktorú skoro každý poznal, najmä takí   skúsení marodéri.
+   </tei:p>
+   <tei:p>
+    308
+   </tei:p>
+   <tei:p>
+    ﻿U Jóbka nenašli nijakých pokladov, ale zato im padlo do rúk krásne   dievča. Keď nešťastné dievča videlo, akí ľudia sa ho zmocnili,   zhrozilo sa a pri všetkej svojej pevnosti skríklo mimovoľne zúfale: —   Ratujte ma! Chlapi, rehotajúc sa, hovorili medzi sebou   nesrozumiteľnou rečou. Dvaja ju chytili za ruky, a hoci sa všemožne   bránila a kričala, voviedli ju do jej izby v susedstve otcovej.   Vedela, čo ju očakáva. Ostatní dvaja chlapi vrazili do druhých izieb,   hľadajúc nejaký lup. Dvaja zbojníci zvalili Judku na posteľ.   Nešťastné dievča myslelo, že je stratené, a kričalo z celej sily.   Jóbko na prvý výkrik dcéry vyskočil z postele a utekal k tabuli so   zbraňami. Chcel sňať dve benátske pištole, o ktorých vedel, že sú   nabité. Ale ich zohnutý nemohol dočiahnuť. Zúfalý krik Judkin ho tak   rozzúril, že sa s napätím všetkej sily vystrel, držal rovno ani   svieca, hoci ho kríže ukrutne bolely, a utekal do izby, z ktorej sa   ozýval krik. Videl katanov s boriacou sa dcérou a strašne zakričal: —   Lotri, pusťte to dievča! Zbojníci sa strhli a zdesili strašného   bieleho človeka. Pustili Judku a stáli chvíľu nerozhodne. Jóbko bez   rozmýšľania vystrelil obidve pištole z bezprostrednej blízkosti do   nich. Zavolal: — Judka, utekaj, utekaj! ■— a padol mŕtvy na metajúce   sa ešte telá zbojníkov. Judka pozrela na otcovo telo, a hoci sa jej   srdce bolestne stiahlo, predsa utiekla od neho, lebo bola
+   </tei:p>
+   <tei:p>
+    309
+   </tei:p>
+   <tei:p>
+    ﻿taká prebratá hrôzou, že ani nevedela, čo robí. Utekala, ako jej   rozkázal, do dvora a odtiaľ von do poľa. Druhí dvaja lotri počuli   výstrely a už utekali do izby, z ktorej bola ušla Judka na chodbu.   Cez oblok jeden z nich zazrel utekajúce dievča, i rozbehli sa   obidvaja za ňou. Kričali na ňu, i vystrelili za ňou. Netrafili ju,   bola už priďaleko, ale v prenasledovaní neprestali. Na svoje   nešťastie, lebo zpoza kríkov pribehnuvší Tomo a Peter ich odstrelili.   Pribehli k Judke, ktorá ledva stála na nohách, a lapajúc povetrie,   vyrazila zúfale zo seba: — Otca zabili! Utekajme k nemu! Otca našli   vystretého na dlážke: bol mŕtvy. Dvaja zbojníci sa ešte hýbali a   Peter ich vo svojom bese dobil hlavňou svojho karabína, kým Tomo s   Judkou obzerali otcovu mŕtvolu. Rozmýšľali chvíľku, čo majú robiť.   Peter mienil: — Padlo niekoľko výstrelov, nie je vylúčené, že   niektorý z opozdilcov počul streľbu. Možno, že sa vrátia, a bolo by   nám beda, keby nás našli. Musíme sa odtiaľto čím skôr odpratať! — Ale   otcovo telo necháme tak? A keď prídu a nájdu pobitých, iste podpália   dom! — plakala Judka. Tomo bol žatým vybehol na dvor a kričal na Zuzu   a Jurčina, ktorí vyšli, keď počuli známy hlas. — Peter, pomôž mi.   Zakrútime otca do plachty a vezmeme ho so sebou. — Keby si nebola   bývala taká hlavatá a bola odišla s nami, mohol otec žiť! — vyčítal   jej. Vošli Tomo so Zuzou a Jurčinom a položili Jób-
+   </tei:p>
+   <tei:p>
+    Peter mienil:
+   </tei:p>
+   <tei:p>
+    310
+   </tei:p>
+   <tei:p>
+    ﻿kovo telo na plachtu, zakrútili do nej a vyniesli na dvor. Jóbko   bol taký ľahký, že bo dvaja chlapi bez námahy niesli. — Poďme, poďme,   — duril Tomo. — Len preč odtiaľto. V háji sa poradíme, čo urobíme.   Keď vošli do hory, starý Jurčin poradil, že bude najlepšie zaniesť   pána pod Skalisko, tam budú ktorísi i z čeľade, tí ho môžu preniesť   do kubínskej fary, kde ho môžu i pochovať v kostole. Judka odišla s   chlapmi, ktorých našla pod Skaliskom, do Kubína, a Peter s Tomom   odišli nazpät do hôr okolo Gecele, aby videli, čo sa bude robiť s   okolitými obcami a najmä s Revišným, kde mal Tomo svoj majetok.   Videli, že o krátku hodinku zapálili Jóbkov dvor, keď boli napochytre   vyhnali z neho, čo tam bolo dobytka, a odniesli na koňoch, čo sa   dalo. Peter, hľadiac na skazu svojho rodičovského domu, škrípal zubmi   a zatínal päste. Pre zabitie štyroch lotrov v sebaobrane zničili hoc   i skromné, ale jemu veľmi milé rodičovské bývanie a zavinili   predčasnú smrť jeho dobrého otca. Tomo a Peter potom odišli zponad   geceľského dvora ďalej nad Veličnú, aby videli, čo sa tam bude robiť.   Zrazu začuli cvakot konských kopýt a hlasy shovárajúcich sa.   Vyskočili na nohy, a schytiac nabité karabíny, sbehli tichučko nad   cestu. Videli dvoch pešiakov, ktorých ako by hnali dvaja jazdci. —   Kieho Paroma to vedú? — zašeptal Tomo. — Sú to naši ľudia a zdajú sa   mi akísi známi! Peter sa spustil o niekoľko krokov nižšie a roz-
+   </tei:p>
+   <tei:p>
+    311
+   </tei:p>
+   <tei:p>
+    ﻿hrnul tichučko konáre smreka pred seba. Zľakol sa, tak blízko sa   mu zdali byť tí na ceste. — Tomo, to ti richtára Bohúňa, a myslím,   prísažného Šudu vedú Poliaci. Dobrých úmyslov s nimi nebudú mať.   Prečo a kde ich teperia? Ja strelím na prvého a ty streľ na zadného!   Ako to hovoril, nečakajúc ani odpovede, vystrelil na predného jazdca,   ktorý sa zakolísal v sedle, rozhodil rukami a spadol s koňa. Tomovi   sa celá situácia nezdala jasná. Chvíľočku váhal, či má streliť, a to   stačilo druhému jazdcovi, aby skočil za skupinu smrekov a odcválal   nazpät smerom k Žaškovu. Tomo strelil za ním ledabolo, keď vyšiel   zpod smrekov, ale vtedy hol už na niekoľko sto krokov vzdialený, i   netrafil ho. — Čo si nestrieľal vtedy, keď ja? — osopil sa naň Peter.   — Teraz nám všetkých Poliakov dovedie na krk! — Nemali sme vôbec na   nich strieľať! Pozri, ako Bohúň s prísažným zalamujú rukami a   vyhrážajú sa nám. Poďmeže k nim! Keď sa sošmykli k Yeličanom,   zakričal na nich Bohúň: —-To je nešťastie, to je nešťastie! Prečo ste   strieľali do týchto ľudí, preboha na nebi? Peter sa surovo osopil na   nich: — Chceli sme vás vyslobodiť z ich pazúrov. Suda jedovaté   odsekol: — Všetci diabli vás sem dohnali! Veď nám ten človek život   zaratoval a teraz nás odprevádzal domov, aby nás ich roztrúsené   vojská neozbíjaly! To ste peknej kaše navarili! — Nevinného človeka   ste zabili! Ale čo len
+   </tei:p>
+   <tei:p>
+    312
+   </tei:p>
+   <tei:p>
+    ﻿bude teraz? Jeho sluha iste oznámi Ľubomirskému, čo sa stalo, a on   nám to neodpustí. Nech nám teraz Pán Boh bude milosrdný! — nariekal   Bohúň. — Poľská háveď! — nadával Peter. — Mne otca zabili a mnoho   nechýbalo, že i sestru nie! A vidíte, že i náš dvor zapálili!   Neľutujem, že som ho zabil. Suda sa obzeral, či nevidí niečo   podozrivého. — Ale poďme, lebo ak nás tu nájdu, urobia s nami krátky   poriadok! Sobrali sa všetci štyria, a vojdúc do hory, kráčali smerom   na Kubín. ■—Parom to vzal i s robotou! — klial Peter a škrabal sa za   uchom. —• My sme vás chceli ratovať! Bohúň rozprával cestou, že keď   hodnú chvíľu boli presedeli u Pagáča, prišlo im na um, že by bolo   najlepšie pozrieť, či ešte Poliaci nejdú. Vyšli hore na vežu a neboli   tam ani štvrť hodiny, keď videli, že sa valia na Geceľ a že čiastka   ich bŕdne cez Oravu, aby prešli do Veličnej. Išli námestím celkom   rúče, a len keď už skoro všetci prešli smerom na Istebné, so piati sa   odlúčili a preliezli cez múr cintorína a škriabali sa na vežu.   Videli, že to veru pre nich idú. Bolo im mrkotno, čo urobia s nimi.   Keď boli v pol veži, počuli hurt, a žatým krik a výstrel. Ale   čochvíľa boli pri nich a zobrali ich a socali pred sebou. Že sú vraj   špehúni, lebo čo sa majú s veže dívať? Pod vežou našli skrvavenú Katu   Hvizdákovie, ktorá sa najskorej zo strachu, že sama ostane v meste,   tiež s nimi bola vyškriabala na vežu. Keď videla vychádzajúcich   vojakov, schovala sa pod schodmi, a keď prešli, chcela poza nich   sbehnúť dolu, pričom sa šmykla
+   </tei:p>
+   <tei:p>
+    313
+   </tei:p>
+   <tei:p>
+    ﻿a shrmela s veľkým hrmotom dolu schodmi. Ostatný vojak sa obrátil   a vystrelil na kričiace dievča a prestrelil jej líca. — Nás zobrali   so sebou a odvliekli do táboru pri Žaškove. Tam nás obstali všelijakí   páni oficieri a kázali po krátkej porade — Bohúň ukázal rukou —   obesiť. Parom ich uchytil, aký lacný je tým pánom Fudský život! Darmo   sme im hovorili, že sme od mesta poverení, aby sme im dali za mesto   výkupné. Akýsi bradatý pán kázal nám odobrať peniaze a nás žatým   jednako len vyštrungnúť. Akési vojačisko vytiahlo odkiaľsi povrazy, i   skúšali ich pred nami. Šuda si i teraz utieral pot s čela, keď si   pomyslel, ako mu bolo úzko. — A ako ste sa predsa vymotali? — pýtal   sa Peter. — Práve ten pán, ktorého ste zastrelili, nás vymohol! —   zvolal vyčítavé Šuda. — A kto to bol? — pýtal sa Tomo. — Vojenský   kňaz, ktorého zavolali, aby nás vyspovedal, — pokračoval Bohúň. —   Bol, pravda, katolícky, a my, hoci evanjelici, sme ho predsa vďačne   prijali, lebo topiaci sa i slamky chytá. Vyložili sme mu, ako sa veci   majú. Dobrý človek išiel s nami k hlavnému veliteľovi, kniežaťu   Ľubomirskému. Nech mu Pán Boh odpustí všetky hriechy a dá večné   spasenie, je to statočný a múdry pán! Rozkázal nás pustiť a kňaz,   vidiac, že ostatní páni sú sklamaní, že sme ušli potupnej smrti, nás   odprevádzal domov, aby nám cestou chlapi nejaký fígeľ neurobili. — A   toho ste zastrelili! — lamentoval Šuda.
+   </tei:p>
+   <tei:p>
+    314
+   </tei:p>
+   <tei:p>
+    ﻿O pol hodiny dobehli do Kubína na faru. Bohúň a Šuda sa báli   vrátiť do prázdnej Veličnej, lebo si mysleli, že Poliaci môžu ta po   nich prísť. Ako i prišli, o čom sa presvedčili o veľmi krátky čas,   keď videli zprvu dym vystupovať nad Veličnou, ktorý sa o krátky čas   premenil na obrovskú žiaru, ktorá zahalila skoro polovicu celej   oblohy. Celá Veličná horela razom, lebo ju zapálili možno i na sto   miestach. Keď Bohúň a Šuda videli, že ich rodná obec vyšla nanivoč,   osopili sa — hoci to boli páni a oni len mešťania — zúrivé na Petra a   Tomu, ktorých obranu i kňaz len s mykaním pliec uznával. Sišlo sa na   fare i viac ľudí a všetci sa stavali veľmi hrozivé proti Tomovi a   Petrovi. Preto obidvaja pokladali za najmúdrejšie zmiznúť zo   spoločnosti, čo sa im i podarilo, ale len po biede a s pomocou Judky,   ktorá ich vyviedla cez sypáreň do záhrady, z ktorej ušli do hory.   Večer prišli do Leštín, kde mali hodne rodiny, od kt  sa úfali   dostať záštitu vo svojej biede. Páni bratia ich zprvu zastávali, ale   keď si o veci medzi sebou pohovorili, začali inak smýšľať. Bolo už   okolo polnoci, keď ich starý, života skúsený Lehotský zavolal do   svojej izbičky. Nikto tak neznal srdcia a ľadvie svojich spolubratov   ako on. Vyložil im, že sa všetci proti nim obrátia, jedni preto, lebo   ako rodina budú chcieť po nich dediť, a to sú tí silnejší, slabší   pôjdu so silnejšími, lebo sa ich boja. Najmúdrejšie urobia, keď   zmiznú z Oravy, kým nepoložia ruku na nich. Nech zoberú so sebou, čo   majú peňazí a drahocenností, a nech ujdú svetom.
+   </tei:p>
+   <tei:p>
+    315
+   </tei:p>
+   <tei:p>
+    ﻿Obidvaja poslúchli. Najprv chceli ísť k Thôkolyimu, ale keď si   všetko lepšie rozmysleli, ustálili sa, že pôjdu radšej k cisárovi,   ktorý bude potrebovať hodne vojska do bojov proti Turkom. Ešte v noci   sadli na kone a zabehli odobrať sa od svojich milých. Tomo vyložil   svojej Judke, ako sa veci majú, a chcel sa od nej odobrať. Judka mu   povedala, že sa už vo svojej duši pokladá za jeho ženu a že ho   neopustí, lebo by ona iného muža milovať nemohla. Tomo bol šťastný.   Kňaz ich sosobášil, a keď vyšlo slnko nad obrovské vrchy, už im   svietilo milé v Zázrivskej doline, kadial jachali na dobrých koňoch v   sprievode Petra a štyroch sluhov do Trenčína. * Yeličiansky farár   Šulek napísal r. 1740, podľa podania 80-ročnej Greškovej, dosiaľ   jedine známu, podrobnejšiu zvesť o zničení Veličnej poľským vojskom,   idúcim r. 1683 na pomoc Turkami obliehanej Viedni. Príčinu a spôsob   vypálenia udávam podľa údajov Šuleka. Grešková nehrá v rozprávke   nijaký zástoj, okrem toho, že vzišla, kde ju nezasiali, totižto v   kostolnej veži, kde jej nebolo treba. Keďže predsa len ona podala   podrobnejšiu zvesť o pohrome, pokladal som za svoju povinnosť   predviesť ju čitateľovi a složiť i v jeho mene skromný nevädzový   venček na mohylku, ktorú som sostrojil na pamiatku vtedajšej skazy   veličianskej.
+   </tei:p>
+   <tei:p>
+    316
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

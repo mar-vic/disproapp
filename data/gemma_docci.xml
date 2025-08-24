@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194546" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Biela labuť : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6442
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Biela labuť
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     GEMMA DOCCI
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    129
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Tino Docci i jeho žena Gemma boli profesormi na gymnáziu vo   Verone. Dôchodok z ich súkromného majetku bol taký značný, že by im   bol stačil i na luxusné živobytie, ale jednako pokladali za vhodné   venovať veľkú čiastku svojho času vyučovaniu. Obidvaja boli ľudia   vysokovzdelaní a rozmýšľajúci o všetkých otázkach života veľmi vážne.   Vedeli, že by im ich majetok umožnil život bez akejkoľvek práce, ale   vedeli i to, že by ich taký život chytro zviedol na také cesty, na   ktorých by nemali z neho toho hlbokého pôžitku, ktorý mali teraz. Ani   muž, ani žena necítili v sebe povolania do vytrvalej, často   duchamornej, veľkú trpezlivosť vyžadujúcej vedeckej práce, hoci sa   obidvaja s najväčším záujmom zaoberali istými filozofickými,   historickými a umeleckými otázkami, ktoré sa im náhodile naskytly a   ktoré pútaly ich pozornosť a rozplaraeňovaly cit. Vedeli, že život   potrebuje i tvrdú kostru práce, a tú im poskytovalo ich učiteľské   povolanie.
+   </tei:p>
+   <tei:p>
+    K manželstvu ich sviedla vrelá láska.
+   </tei:p>
+   <tei:p>
+    Sišli sa v záhradnej reštaurácii na janovskom Righi, odkiaľ sa   divákovi naskytá jeden z najkrajších pohľadov na svete. S dosť   vysokého vrchu vidno na miernom, k moru sa ťahajúcom svahu krásne   mesto s palácmi, kostolmi, husto strakatené parkmi, alejami a   záhradami. Kraj mesta tvorí prístav s množstvom morských veľkých lodí   a s čln-
+   </tei:p>
+   <tei:p>
+    9*
+   </tei:p>
+   <tei:p>
+    131
+   </tei:p>
+   <tei:p>
+    ﻿mi okolo nich sa hmýriacimi. Obraz zakľučuje s oblohou splývajúce   belasé more, oživené prichádzajúcimi plavidlami. Pekný výhľad bol   najväčší údiv vzbudzujúcim spôsobom zafarbený lúčmi zachádzajúceho   slnka, v ktorých sa menily od ohnivočervenej až po hlavú všetky farby   dúhy.
+   </tei:p>
+   <tei:p>
+    Gemma i Docci, prichádzajúci s rozličných strán, nemohli potlačiť   výkriky obdivu nad touto velebnou krásou, a zabudnúc na všetky   spoločenské formality, dali výraz svojim citom oduševnenia a   zadivenia nad netušenou a dušu pozdvihujúcou nádherou tohto diela   Stvoriteľa.
+   </tei:p>
+   <tei:p>
+    — Je to krása, stavajúca dych! — zvolal Docci.
+   </tei:p>
+   <tei:p>
+    — Je to obraz panorámy, ktorou Boh zabáva blažené duše v nebi, —   hovorila Gemma.
+   </tei:p>
+   <tei:p>
+    Upozorňovali sa na jednotlivosti, na lesk lúčov na kopulách a   vežiach, na úchvatnú hru farieb a ich hru na trasúcich sa vlnách mora   a prístavu.
+   </tei:p>
+   <tei:p>
+    Trvalo hodnú chvíľu, kým sa nabažili obrazu a obrátili svoju   pozornosť na seba. Ako vždy, žena bola prvá, ktorá si uvedomila, že   dosť vysoký, trochu pridobre živený, asi tridsať-tridsaťpäťročný pán   má milú, príjemnú tvár a lahodne zvučiaci hlas. Do jej citov   oduševnenia sa začala miešať zvedavosť, kto to môže byť. Zdá sa   ozajstným inteligentom i podľa držania, podľa šatstva i spôsobu a   obsahu reči.
+   </tei:p>
+   <tei:p>
+    Docci, hľadiac chvíľu na dámu, sa spýtal:
+   </tei:p>
+   <tei:p>
+    — Dovolíte, aby som sa vám predstavil a aby som zvedel i to, kto   bola moja spoločnica pri jednom z najskvostnejších zážitkov môjho   života,
+   </tei:p>
+   <tei:p>
+    132
+   </tei:p>
+   <tei:p>
+    ﻿ak nie vôbec najskvostnejšom, keď povážim i to, 8 kým som ho   zažil?
+   </tei:p>
+   <tei:p>
+    Gemma bola veľmi elegantná v sivom kostýme, ktorý skvele uplatnil   jej štíhlu postavu. Jej trochu priostrá tvár nepôsobila zvláštnou   pravidelnosťou črt, ale zduchovnelou jemnosťou. Kto na ňu pozrel,   pokladal za vylúčenú možnosť, že by tá ženská bola schopná zlého   alebo nízkeho skutku.
+   </tei:p>
+   <tei:p>
+    Usmiala sa ľahučko, čo urobilo jej zdanlivé prísnu tvár   prekvapujúco milou.
+   </tei:p>
+   <tei:p>
+    — Pane môj, aká dokonalá reč pre taký skromný predmet! Som Gemma   Cordigiani, gymnaziálna profesorka z Verony.
+   </tei:p>
+   <tei:p>
+    — Aká radosť pre mňa nájsť vo vás kolegyňu! I ja som gymnaziálny   profesor z Milána, Martino Docci.
+   </tei:p>
+   <tei:p>
+    Podali si ruky a tešili sa, že ich šťastlivá náhoda tak   sviedla.
+   </tei:p>
+   <tei:p>
+    — Sme tu sami, signorina? — spýtal sa Docci s tázavým prízvukom na   slove „signorina“, chtiac zvedieť, či je už nie vydatá.
+   </tei:p>
+   <tei:p>
+    —- Áno, a ešte raz áno, signor mio. I sama, i signorina.
+   </tei:p>
+   <tei:p>
+    — Aké šťastie, aká radosť je to pre mňa! To by sme mohli večer   spolu stráviť. Lebo i ja by som mohol odpovedať na svoju otázku dvoma   „áno“, keby som mal to šťastie byť dámou. Som tiež slobodný a   sám.
+   </tei:p>
+   <tei:p>
+    Odišli s Righi s tým, že pôjdu do divadla. Ale cestou videl, že,   hoci neznámi, majú si pod vplyvom kolegiality a spoločných záujmov   toľko čo rozprávať, že sa im zdalo milším stráviť večer
+   </tei:p>
+   <tei:p>
+    133
+   </tei:p>
+   <tei:p>
+    ﻿v rozhovore, ako prípadne nezaujímavým divadelným kusom, ktorý by   iste nepočúvali s potrebnou pozornosťou, keďže sa ich myšlienky   začaly prechádzať po kvetnatej lúke, na ktorej pod vodcovstvom   prelestnej Afrodity šantovaly amorety.
+   </tei:p>
+   <tei:p>
+    Mali veľkonočné prázdniny, i zostali tri dni v Janove. Na štvrtý   deň Gemma odcestovala do Verony. Docci ju odprevadil až na jej byt.   Odobral sa už od nej tri-štyri razy a — nemohol odísť.
+   </tei:p>
+   <tei:p>
+    — Gemma, nemôžem sa od vás odlúčiť. Zdá sa mi, že vyjdem na púšť,   keď vás opustím. Mám dojem, že nemám čo hľadať v živote bez vás.   Dovoľte, aby som zostal ešte tu s vami.
+   </tei:p>
+   <tei:p>
+    Gemma sa usmiala a kývla hlavou — Dovolím.
+   </tei:p>
+   <tei:p>
+    Stáli už pri dverách útulného salónika. — Dovoľte mi tu zostať —   naveky!
+   </tei:p>
+   <tei:p>
+    Gemma bledla a zasa jej zašla tvár ľahkou červeňou. Usmiala sa   zasa a na trochu chudých lícach sa jej spravily jamôčky.
+   </tei:p>
+   <tei:p>
+    — Zostaňte, kým sa vám tu ľúbi.
+   </tei:p>
+   <tei:p>
+    — Tak, to je navždy! — zvolal Docci hlažene.
+   </tei:p>
+   <tei:p>
+    — Keď navždy, tak navždy, — odvetila ticho, skloniac hlavu.
+   </tei:p>
+   <tei:p>
+    Docci ju oblapil okolo štíhleho drieku a privinul na prsia.
+   </tei:p>
+   <tei:p>
+    ■— Si svätá, a budem s tebou vždy, ako s takou, zachádzať.
+   </tei:p>
+   <tei:p>
+    Bozkali sa a ich duše sa spojily v tom bozku. A obidvom vstúpily   slzy do očú . . .
+   </tei:p>
+   <tei:p>
+    Prečo?
+   </tei:p>
+   <tei:p>
+    Koľko ráz si Gemma spomenula neopísateľnú
+   </tei:p>
+   <tei:p>
+    134
+   </tei:p>
+   <tei:p>
+    ﻿slasť toho bozku a objatia a koľko ráz jej zasa vstúpily slzy do   očú, keď si pomyslela, že vtedy zaplakali! Dojatím? Tušením   nevypovedateľného blaha — alebo dantovského žiaľu?
+   </tei:p>
+   <tei:p>
+    Najvyššia múdrosť božia učila, že nijaká naša dobrota, ani   šľachetnosť nám nezabezpečí blaženosť nášho života na tomto   svete.
+   </tei:p>
+   <tei:p>
+    Gemma Cordigiani a Tino Docci sa sosobášili za najkratší čas. Ale   celý rok nežili spolu, navštevujúc sa len na sviatky a prázdniny.   Gemme bola Verona omnoho milšia ako Miláno, a Docci, vidiac, že jej   presídlenie by ju stálo citeľnú obeť, nechcel ju od milovanej ženy   prijať, hoci ona bola i náchylná ju doniesť.
+   </tei:p>
+   <tei:p>
+    Ich rozlúčenie malo tú výhodu, že udržalo ich lásku v stálej   vrelosti. Túžili za sebou celý rok, ani v deň svojho sobášu.
+   </tei:p>
+   <tei:p>
+    Veľký pôžitok mali z toho, že obidvaja rojčili za krásne umelecké   diela, tak výtvarné, ako literárne. Najmä Gemma mala dušu preplnenú   historickým romantizmom a stredovekou mystikou a bola až chorobne   citlivá oproti umeleckým vplyvom. Mala veľmi mohutnú fantáziu, vedela   si prešlé udalosti tak sprítomniť, že ony účinkovaly na ňu, ako by sa   odohrávaly pred jej očami.
+   </tei:p>
+   <tei:p>
+    Docci študoval viac archeológiu, kultúrne prostredie a myšlienkový   podklad umeleckých diel. Takýmto spôsobom sa dopĺňali, ale aj   rozchodili, lebo keď Gemma vďačne vypočula jeho výklady
+   </tei:p>
+   <tei:p>
+    135
+   </tei:p>
+   <tei:p>
+    ﻿o vzniku a príčinách umeleckého diela, Docci sa stával zavše i   trochu netrpezlivým, keď sa Gemma nemohla odtrhnúť od niektorého   obrazu alebo oltára.
+   </tei:p>
+   <tei:p>
+    Ich najmilší básnik bol Dante.
+   </tei:p>
+   <tei:p>
+    Gemma mohla pred niektorými obrazmi stáť každý raz, keď ich   videla, i dve-tri hodiny, zabudnúc na ustatosť. Prezrela každú   postavu a hľadela si skonštruovať podrobne celý beh myšlienok
+   </tei:p>
+   <tei:p>
+    a priemety citov umelca, ktorý dielo stvoril. Vybásnila si a   prežila takto celé romány. Jej vzrušenie pritom bolo niekedy také   veľké a živé, že ho zbadali aj iní diváci.
+   </tei:p>
+   <tei:p>
+    Ako ju mnohé umelecké predmety priťahovaly, tak ju niektoré   odpudzovaly.
+   </tei:p>
+   <tei:p>
+    Vo Verone ju pohľad na arénu zdrvil a jej návšteva ju doniesla na   niekoľko dní do bolestnej extázy. Pokladala tú ohromnú masu   okresaných kvádrov za pomník ľudskej najnemilosrdnejšej surovosti,   ktorú láka krv a ktorá hýri v najukrutnejšom zabíjaní slabých a   nevinných pre ukojenie svojich najzverskejších pudov.
+   </tei:p>
+   <tei:p>
+    Hoc jej tá návšteva zakaždým zavinila bolestné duševné otrasy,   išla každý raz, ako by pudená cudzou silou, na Veľký piatok do arény.   Kráčala s trasúcimi sa nohami jej ukrutnými chodbami, do ktorých   ústily hrozné karcery — premocnými mrežami od chodieb uzavreté   sklepenia — v ktorých holý pred a počas hier väznené obete, už či   gladiátori alebo iní nútení zápasníci, bijúci sa na ži-
+   </tei:p>
+   <tei:p>
+    136
+   </tei:p>
+   <tei:p>
+    ﻿vot a na smrť, či nevinní kresťania, odsúdení „ad bestias“ — na   roztrhanie divými šelmami.
+   </tei:p>
+   <tei:p>
+    Sklepenia s obeťami a s divými šelmami sa zamieňaly, a nárek,   často i spev pološialených obetí sa smiešal v hrozný súzvuk s revom a   ručaním hladných tigrov a levov.
+   </tei:p>
+   <tei:p>
+    A hore, na mramorových sedadlách, vystlatých kobercami a vankúšmi,   chránené od úpalu slnca nad nimi povystieranými plachtami, vyvaľovaly   sa ľudské beštie, usmievajúc sa a žartujúc a šepkajúc si slová lásky   v očakávaní zábavy, ktorú budú mať, keď krv ich ľudských spolutvorov   bude striekať možno až na ich tváre a roztrhané telá budú rozmetané   po celej aréne. Tie a také telá a údy, aké aj oni upotrebúvajú na   oblápanie a láskanie a ktorými i tie nešťastné obete oblápali a   chceli chrániť svojich milých a zúfale priviňovali svoje deti k   prsiam na ochranu pred krvavými tlamami šeliem. Matky hľadely na muky   detí, podobných ich vlastným, a mužovia nachádzali pôžitok v pohľade   na mučenie dievčat, podobných ich ženám a sestrám.
+   </tei:p>
+   <tei:p>
+    Gemma stála pred niektorým z karcerov, držiac sa hrozných mreží   rukami, na ktoré sklonila hlavu, predstaviac si ho naplnený ľuďmi,   ktorých bez hriechu jedine ukrutné blúdenie ich bližných hnalo do   najbolestnejšej smrti. Videla nevinné deti, túliace sa k materiam,   počúvala ich blúznivé tešenie, plakala nad bezmocným žiaľom otcov,   ktorí, hoci veriaci v spasenie, boli by jednako radi oddialili chvíľu   zániku ich najdrahších bytností. Videla medzi obeťami kňazov,   dvíhajúcich nad svojimi hlavami kríž so Spasiteľom, na ktorý   odsúdenci obra-
+   </tei:p>
+   <tei:p>
+    137
+   </tei:p>
+   <tei:p>
+    ﻿cali nádejné pohľady, že ich naplní tou pevnou vierou, ktorá ich   prenesie cez všetky utrpenia najbližšej smrti. Ale už-už sa blížia   suroví kati, ktorí, roztvoriac mreže, vyženú ich zhraniami, korbáčmi   na slnečným leskom zaliatu arénu. Sradia sa a idú. Kňazi spievajú   hymnu slávy a radosti, že za krátko budú všetci v nekonečnom pokoji a   bezmernej sláve, a obete spievajú s nimi.
+   </tei:p>
+   <tei:p>
+    Pri východe do arény je oltár Jupiterov, na ňom horí obetný oheň.   Pri ňom na stojane sú kvety a obilie. Kto z kresťanov, idúc popri   ňom, hodí na oheň kvietok alebo štipku obilia, môže sa od ostatných   odlúčiť a ísť slobodne domov. Ba môže ísť i medzi divákov a   pozorovať, akej smrti vyhol, aby viedol aký život?
+   </tei:p>
+   <tei:p>
+    Aká hrozná je sila myšlienky! Všetci prešli popri oltári, len   jediný starý, chromý žobrák, ktorý už dávno prosí Boha, aby ho   povolal z pozemského trápenia, sa odtrhol od nich a hodil hrsť   pšenice na oltár.
+   </tei:p>
+   <tei:p>
+    V jeho biednom tele nebolo sily dať sa umučiť.
+   </tei:p>
+   <tei:p>
+    Gemma utekala k najbližšiemu východu, prenasledovaná spevom obetí,   krikom divákov a revom šeliem. Kolená sa pod ňou podlamovaly, cítila,   že by spadla na dlažbu, keby ostala dlhšie.
+   </tei:p>
+   <tei:p>
+    Jas slnca a ruch námestia prerušily jej vidinu, ale bolestný tlak   srdca ženie ju do blízkeho chrámu sv. Mikuláša, v ktorom sa pred   oltárom hodila na kolená, hľadiac modlitbou k Madone odpudiť strašné   preludy.
+   </tei:p>
+   <tei:p>
+    Do modlitby sa jej vsunula postava Danteho. Zdá sa jej, že jeho   tôňa, stojaca v pozemskom
+   </tei:p>
+   <tei:p>
+    138
+   </tei:p>
+   <tei:p>
+    ﻿blate, siaha hore do nekonečna medzi hviezdy na nebi, v ktorých sa   slúči s nekonečnosťou. Dante poznal všetky hriechy, tvoriace kliatbu   človečenstva, ako by ich bol sám všetky pretrpel, a jednako sa jeho   duch pozdvihol k najvznešenejšej predstave Boha, aká kedy požehnala   ľudskú dušu.
+   </tei:p>
+   <tei:p>
+    Uspokojila sa. Musí byť Boh a musí byť i zlo na svete, lebo Boh to   tak chce. A keď je taká Jeho vôľa, musí to tak byť najlepšie a   najspravodlivejšie.
+   </tei:p>
+   <tei:p>
+    O pol druha roka po sobáši sa im narodila dcéra Giuliana. Bol to   plod lásky, plný ctnosti a zdržanlivosti.
+   </tei:p>
+   <tei:p>
+    Oddaniu sa neskroteným túžbam bránily postavy, vypĺňajúce ich   duševný život. Danteho Beatrice a Petrarcova Laura strážily nad ich   čistotou.
+   </tei:p>
+   <tei:p>
+    Giuliana bola krásna, ako by sa všetka povznesenosť myšlienok a   popudov jej rodičov bola v nej stelesnila. Á dobrá bola ako anjel.   Každého napĺňalo obdivom, kde sa už v drobnom, len niekoľkoročnom   dieťati vzala tá nekonečná dôvera k ľuďom a jeho milá dobrota.
+   </tei:p>
+   <tei:p>
+    V nasledujúcich rokoch sa sbližili a spoznali, a videli, že je v   nich omnoho viac ľudskosti s jej všetkými slabosťami, ako boli o sebe   predpokladali. Ich láska sa stala tiež ľudskejšou. Milovali sa láske   kvôli a nemali viac pritom hoci i len za duševných svedkov ani Laury,   ani Beatrice ...
+   </tei:p>
+   <tei:p>
+    Dva i pol roka za Giulianou dal im Boh ešte jednu dcéru,   Salvestru, ktorá sa úplne líšila od
+   </tei:p>
+   <tei:p>
+    139
+   </tei:p>
+   <tei:p>
+    ﻿Giuliany. Bola počerná, tmavých, hlbokých očú, veľmi popudlivá,   zlá-dobrá, podľa chvíľkovej nálady.
+   </tei:p>
+   <tei:p>
+    Otec zbožňoval Giulianu a mať visela všetkou svojou láskou na   Salvestre. Možno preto, lebo ju toľko trápila a robila jej toľko   starostí.
+   </tei:p>
+   <tei:p>
+    Kým Giuliana nikdy ani nezacborela, prešla Salvestra všetkými   možnými chorobami.
+   </tei:p>
+   <tei:p>
+    Na šarlach bola tak chorá, že Gemma bola presvedčená, že jej   pomôže len zázrak. Pri jej zúfalom modlení zakorenila sa v nej   istota, že jej pomôže jedine Kristus na chóre San Zeno Maggiore, i   utekala nočnou hodinou celou Verenou z ulice Venti Settembre do   katedrály, najstaršej a najveľkolepejšej zo všetkých románskych   chrámov severného Talianska.
+   </tei:p>
+   <tei:p>
+    Vedela, že možno zhynie od hrôzy, keď vojde o polnoci sama do   chrámu, preplneného od skoro tisíc rokov toľkým žiaľom, toľkými   bolesťami! Veď sa ľudia obracajú k Bohu len vo svojich súženiach a   hnaní zúfalstvom a strachom. Aké inferno by to bolo, keby sa tam   sišly stelesnené všetky nešťastia
+   </tei:p>
+   <tei:p>
+    a starosti a bôle, o odstránenie ktorých prosili utrápení a   užialení ľudia!
+   </tei:p>
+   <tei:p>
+    Kostolníka, ktorý mal pochopenie pre jej skutok, ľahko naklonila   otvoriť jej dvere katedrály. Dal jej i sviečku, ale s ňou nešiel...   Čakal ju pred dverami... Zdalo sa mu to pokúšaním Pána Boha... Pod   chrámom je stará rímska krypta . . . Ktovie, čo sa na takých miestach   o polnoci deje?
+   </tei:p>
+   <tei:p>
+    — Signora, kráčajte rovno pred chór, neobzerajte sa na nič.   Nehlaďte ani napravo, ani naľavo.
+   </tei:p>
+   <tei:p>
+    140
+   </tei:p>
+   <tei:p>
+    ﻿choďte rovno, až padne vaše svetielko na Spasiteľa. Kľaknite,   pomodlite sa a príďte nazpät. Budem stáť s druhou sviečkou vo   dverách, aby ste vedeli, kde sa obrátiť.
+   </tei:p>
+   <tei:p>
+    Gemma, hoci trasúc sa na celom tele, išla. Hľadela len na svoje   svetielko: srdce jej trepotalo a v ušiach jej hučalo. Opakovala   stále: — Pane Bože, zmiluj sa nado mnou! Každý šuchot, každý hlások   sa ozýval v prázdnom, ohromnom priestore. Zdalo sa jej, hoci išla len   možno pol minúty, že nikdy nedôjde cieľa, že poblúdila. Až zrazu   stála pred chórom, na ktorom holý rozostavené sochy Spasiteľa a   apoštolov.
+   </tei:p>
+   <tei:p>
+    Hľadela na sväté tváre. Zdalo sa jej, že Kristus, oproti ktorému   zodvihla vysoko svoju sviečku, jej milo kýva svojou božskou hlavou.   Vedela, že je nie potrebné vyriecť svoju modlitbu, však On všetko   vie. Hodila sa na kolená a zohla hlavu k zemi. I ozvalo sa jej   nadzemským hlasom, ktorý nečula ušami, a jednako tým najistejším,   nepochopiteľným spôsobom precítila celou svojou dušou: — Boh je s   tebou. Božia vôľa sa stane. Upokoj sa!
+   </tei:p>
+   <tei:p>
+    Vstala. Kráčala najpokojnejšie za ďalekým svetlom vo dverách.   Nikdy nebola taká istá a spokojná vo svojom živote. Nemohla pochopiť,   ako sa mohla báť tam, kde sa zdržiava Spasiteľ. Veď bezpečnejšieho   miesta niet na šírom svete. A že Spasiteľ tam bol, za to by dala sto   životov!
+   </tei:p>
+   <tei:p>
+    Kostolník prevzal od nej sviecu a bohatú odmenu. Hľadel na ňu   zadiveno. Zdalo sa mu, keďže svetlo sviece vo tme stojacej ožarovalo   jej hlavu, že je to okolo nej svätožiara ... Keď odišla, ticho
+   </tei:p>
+   <tei:p>
+    141
+   </tei:p>
+   <tei:p>
+    ﻿a pokojne prežehnal sa a opakoval si: — To je iste svätá, to je   iste svätá!
+   </tei:p>
+   <tei:p>
+    Gemma kráčala domov. Nič nemyslela. Načo aj? Cítila s   najdôraznejion istotou, že Boh drží svoju ruku nad ňou a nad jej   dieťaťom. Nech sa stane Jeho vôľa, či Salvestra ožije, či nie!
+   </tei:p>
+   <tei:p>
+    Tak je dobre, ako Boh chce!
+   </tei:p>
+   <tei:p>
+    Salvestra vyzdravela.
+   </tei:p>
+   <tei:p>
+    Pre opateru a výchovu detí Gemma už od niekoľkých rokov   nevyučovala. Boly jej bližšie vlastné deti ako cudzie. Nenavštevovala   ani múzeá, ani arény. Nemala času na snenie. Upotrebila všetok na   plynúci život, netrpiaci odkladov.
+   </tei:p>
+   <tei:p>
+    Zriedka jej prišiel do rúk i niektorý klasik. Nevynímajúc ani   Danteho. Život zastrie ideále.
+   </tei:p>
+   <tei:p>
+    Doccimu sa tiež už zunovaly — ako hovorieval
+   </tei:p>
+   <tei:p>
+    — archeologické hračky. Nie je to jeho chlieb. Omnoho viac smyslu   malý karty v klube.
+   </tei:p>
+   <tei:p>
+    Láska smutne živorila medzi nimi.
+   </tei:p>
+   <tei:p>
+    Ale veď už boli spolu osem rokov! Za osem rokov sa mnohé prihodí,   čo dovedie i najbohatšiu lásku na žobrácku palicu.
+   </tei:p>
+   <tei:p>
+    Ľudí nemožno nútiť k láske, keď ju necítia.
+   </tei:p>
+   <tei:p>
+    Keď sa Gemma a Tino nemilovali tak ako prvé roky, ktože mohol za   to?
+   </tei:p>
+   <tei:p>
+    Gemma nachádzala na mužovi mnohé nemilé premeny. Šedivel. Svoje   výroky — nielen o umeleckých predmetoch — stále opakuje: vedela už   všetky nazpamäť. Keď len ústa otváral, už vedela.
+   </tei:p>
+   <tei:p>
+    142
+   </tei:p>
+   <tei:p>
+    ﻿či mu prisvedčí, či nie, kým ešte slova nevytiekol.
+   </tei:p>
+   <tei:p>
+    Docci vyhadzoval Gemme na oči, že veľmi neidealisticky stučnela   ... Nuž, pravda, bola trochu stučnela. Ale schválne, lebo sa jej   videlo, že jej to omnoho lepšie pristane, keďže bola dosť vysoká a   vážila len 58 kíl. Toto sú všetko trochu realistické podrobnosti, ale   život bez nich nebude. Gemma sa presvedčila, že teraz na ňu každý s   väčším záujmom hľadí, ako keď bola taká dantovsky chudá. Veď predtým   i tvár mala takú dantovsky chudú. Niekto môže za Danteho rojčiť, ale   sa preto nemusí naň ponášať. Ako nemusí ani muža klamať žena, ktorá   má inú predstavu o svojej kráse ako on.
+   </tei:p>
+   <tei:p>
+    V ten rok išli na turíčne sviatky do Ríma. Zažiadalo sa im zasa   raz stáť pod Michelangelovou kopulou, pozrieť na jeho Mojžiša a na   Rafaelove fresky vo Farnesine. Tak si to nahovorili. Pravda bola, že   sa im Verona už zunovala a že ušli z nej, keď mohli. Vieme, ako je to   v živote: keď si môžem premeniť, niečo sa mi zunuje, čo pokladám za   pekné, keď musím pri ňom zostať.
+   </tei:p>
+   <tei:p>
+    V Ríme, kde už dávno neboli, zasa ožilo ich oduševnenie za   umelecké krásy a — ožila aj ich láska. Tino Docci naraz uznal, že   Gemma mala pravdu, keď trochu pribrala. Zdala sa mu celkom inou i v   inom okolí, i pri iných myšlienkach. Zišlo im na um, ako sa veľmi   milovali a ako by bolo krásne, keby mohli svoju lásku vzkriesiť. Veď,   hľa, aké prekrásne diela tvorilo rinascimento.
+   </tei:p>
+   <tei:p>
+    Išli domov zamilovaní ako po svadbe.
+   </tei:p>
+   <tei:p>
+    Hneď po návrate do Verony dostal Tino záchvat
+   </tei:p>
+   <tei:p>
+    143
+   </tei:p>
+   <tei:p>
+    ﻿malárie. Pri treťom umrel. Nepomohly mu ani srdcové jedy, ani   chinín.
+   </tei:p>
+   <tei:p>
+    V Gemme bol niekoľkoročný všedný, jednotvárny život potlačil vzlet   duše. Pri vedení domácnosti, hoc i s hojnou čeľaďou, pri starosti o   drobné dorastajúce dievčatá a pri všedných vyrazeniach, ktoré skytala   Verona a okolie, stratil sa z jej duševnej spoločnosti s inými   velikášmi i Dante.
+   </tei:p>
+   <tei:p>
+    Strata muža, teraz, keď bola ich láska zpod pahreby vybíkla novým   ohňom, ju zasa vrátila k onému veľkému trpiteľovi, ktorý s takou   horkou skúsenosťou sa bol žaloval, že niet väčšej bolesti nad   rozpomienky na blažené časy v opustenosti a biede.
+   </tei:p>
+   <tei:p>
+    Pred mesiacom by Gemma bola stratu muža dosť ľahko preniesla. Bola   by našla potechu v deťoch. Teraz zúfala a myslela si, že je život bez   Tinovej lásky neznesiteľný.
+   </tei:p>
+   <tei:p>
+    Čítala Danteho verše lásky k Beatrici. Zastával jej dych, keď   tlmočil jej vlastné city, keď vložil do čudesných slôh, čo jej srdce   a dušu, hoci bolestne, ale hlucho tlačilo! Tisla knihu k srdcu, oči   sa jej zalievaly slzami, keď vzdychala; — Ó, božský básnik! Ó, môj   nezabudnuteľný drahý, drahý muž, môj jediný Tino!
+   </tei:p>
+   <tei:p>
+    Za krátky čas sa jej zdal pobyt vo Verone neznesiteľným. Veď ju   tam všetko bolestne upomínalo na jej stratené blaho. Každou ulicou   bola kráčala s ním; pred každou monumentálnou stavbou, pri každom   pomníku jej prichodily na um jeho poznámky.
+   </tei:p>
+   <tei:p>
+    Hoci často i s trpkou rozkošou rozrývala svoju
+   </tei:p>
+   <tei:p>
+    144
+   </tei:p>
+   <tei:p>
+    ﻿bolesť, sa jej zdalo, že tento stav duševného rozrušenia by dlho   nevydržala. Tratila vedomie prítomnosti a svojich povinností, trávila   nespavé noci, v ktorých si odriekavala Danteho slohy, cítiac bolestnú   túžbu za strateným druhom.
+   </tei:p>
+   <tei:p>
+    Prešla bývať do Benátok. Pred odchodom sa odobrala s deťmi od   Tina. Šly do cimiteria monumentale, a plačúc a oblápajúc jeho pomník   s poprsím, zavinuly ho vencami a pokryly hrob kvetmi.
+   </tei:p>
+   <tei:p>
+    Gemma sa šla odobrať i na piazza dei Signori od Danteho. Koľko ráz   kráčal po tomto skvostnom, malom námestí, keď bol milým hosťom   veľkodušného Scaligera, Bartolommea delia Scala. Ale hoci bol vítaným   hosťom, bol jednako vyhnancom bez domova. Odíduc od Scaligera, chodil   od pána k pánovi, nemajúc nikde stáleho pomeškania, až ho vložili v   Ravenne do hrobu na večný odpočinok, Srdce mu ujedala túžba za jeho   domovom, za jeho Florenciou, hoci ho jeho spoluobčania odtiaľ   vyštvali a odsúdili na smrť ohňom na hranici, ak by sa vrátil. Jeho   nadľudská bohatosť citov, jeho vznešenosť myslenia, jeho dokonalé,   všetko, čo vtedajší vek vedel, obsahujúce vedomosti, nemohly jeho   spoluobčanov presvedčiť o jeho najvyspelejšej oddanosti svojej   otčine.
+   </tei:p>
+   <tei:p>
+    Po jeho smrti Florenťania podnikli všetko, aby pozostatky   najväčšieho talianskeho ducha všetkých časov dostali zasa do svojich   múrov. V oprávnenom tušení svojej veľkosti sa pomstil na svojich   rodákoch naložením, že nikdy nesmie byť jeho mŕtvola prenesená do   jeho rodiska, ktoré, vyvrh-
+   </tei:p>
+   <tei:p>
+    lo I tália.
+   </tei:p>
+   <tei:p>
+    145
+   </tei:p>
+   <tei:p>
+    ﻿núc živého, nemá práva honosiť sa ani jeho telesnými   pozostatkami.
+   </tei:p>
+   <tei:p>
+    Ale srdce jeho bolestne túžilo po nevďačnom rodnom meste. Veď si   ho všade vážili a ctili, a jednako aký bolestný je jeho výkrik:   „Veľmi dobre viem, ako preslane chutí chlieb, požitý pri cudzom   stole, a ako unavuje vystupovanie a sostupovanie po cudzích   schodoch.“
+   </tei:p>
+   <tei:p>
+    Divina Comoedia je vlastne skomponovanie životných skúseností,   citov a myšlienok do grandiózneho trojdielneho obrazu. Bez pretrpkého   osudu Danteho by toto jedno z najveľkolepejších diel svetovej spisby   nebolo povstalo. Ctnosť a povznesenosf myslenia sa ukáže len v úpale   utrpenia.
+   </tei:p>
+   <tei:p>
+    Gemma Docci sa dokázala byť, hoc i skromnou, ale jednako vernou   žiačkou veľkého majstra.
+   </tei:p>
+   <tei:p>
+    Na piazza dei Signori stojí oproti palácu Scaligerov Danteho   pomník. Aký bezvýznamný je ten kamenný mních v porovnaní s jeho   dielom!
+   </tei:p>
+   <tei:p>
+    Gemma jednako vložila do neho svoje city a štatua sa jej zdala   skvostnou, práve tak ako palác, v ktorom videla sa pohybovať jeho   vážnu postavu, ktorú nikto nikdy nevidel sa zasmiať.
+   </tei:p>
+   <tei:p>
+    V Benátkach našla na Canalgrande opustený palác Brendaccich, dala   ho zriadiť a previezla sa doň s dcérami.
+   </tei:p>
+   <tei:p>
+    Práca so zariaďovaním a bližšie obznámenie sa s mestom jej aspoň   čiastočne vyhnalo z hlavy stálu túžbu za Tinom a voviedlo ju do   riadneho, znesiteľného života, najmä keď mala zas príležitosť ukojiť   svoju túžbu za umeleckými predmetmi veľkým
+   </tei:p>
+   <tei:p>
+    146
+   </tei:p>
+   <tei:p>
+    ﻿bohatstvom Benátok na ne. Veď sú Benátky mestom Belliniho,   Tiziana, Tintoretta, Giorgioneho, Veroneseho, Tiepola a mnohých   znamenitých sochárov a staviteľov. Pamiatok pohytu Danteho tam niet,   lebo keď mal ta ísť ako vyslanec ravenského Tolentu, poveril ho Boh   inou úlohou a povolal ho k sebe.
+   </tei:p>
+   <tei:p>
+    Túžbu za spolužitím s iným mužom potlačila v ešte mladej a vtedy v   plnosti vývinu a krásy sa nachádzajúcej Gemme pamiatka opustivšieho   ju muža a odpor dať deťom, na ktorých visela s horúcim materinským   citom, cudzieho človeka za otca. Cítila, že by jej každý pohľad detí   vyčítal pri každom milom slove, pri náhodilom láskaní nového manžela   najblaženejšie chvíle, aké Stvoriteľ udelil ľuďom, aby im urobil   život žiadúcim, hoci s nekonečným radom starostí a utrpení.
+   </tei:p>
+   <tei:p>
+    Hoci sa roky míňaly, pamiatka blažených chvíľ ich lásky skvostným   otrasom prenikla jej celú dušu.
+   </tei:p>
+   <tei:p>
+    Pomyslela si, keď jej Tino pokryl drobnými bozkami ústa, oči a   končeky prstov, aká nevysloviteľná slasť vibrovala nielen jej   nervami, ale i aké prenikajúce rozradostenie duše jej spôsobilo   pritom povedomie, že ten, koho nad všetko miluje, ten, ktorému by   vďačne obetovala život, ju s tými istými pocitmi privíňa na svoje   srdce. Veď vrcholom lásky je pocit jej vzájomnosti.
+   </tei:p>
+   <tei:p>
+    Giuliana sa udala na matku: bola vysoká, štíhla a jej pobelavé   vlasy fluoreskovaly na slnci domedena. Keď bola ako dieťa nepovedome   milá a dobrá
+   </tei:p>
+   <tei:p>
+    10*
+   </tei:p>
+   <tei:p>
+    147
+   </tei:p>
+   <tei:p>
+    ﻿ku každému, tak sa pri dorastenom dievčati párily tieto vlastnosti   ešte s povedomou a natrénovanou trpezlivosťou. Bolo ťažko ju tak   rozdráždiť, aby posunkom alebo slovom preukázala nahnevanosť.
+   </tei:p>
+   <tei:p>
+    Salvestra bola počerná, čiernych vlasov a očú a drobnejšej, trochu   plnej postavy. Bola náruživá, nebolo možno povedať, či je dobrá, či   zlá. Robilo jej radosť trápiť svojich milých protivnými rečami a   skutkami. Ale keď vedela, že najmä matku tým urazila alebo   zapríčinila jej bôľ, tak ukazovala také poľutovanie, jej žiaľ sa zdal   takým úprimným, že jej matka vždy odpustila, skoro ju prosiac, aby   opakovala svoj priestupok.
+   </tei:p>
+   <tei:p>
+    Giuliana hľadela na ne s ľútostivým úsmevom, čoho následkom bolo,   že ju obidve vyklialy.
+   </tei:p>
+   <tei:p>
+    Giuliana mala dvadsať rokov a Salvestra sedemnásť, a Gemma, hoci   mala vyše štyridsať, udržala ešte vždy svoju krásu. Mala peknú štíhlu   postavu a tvár bola jemná, bez badateľných známok zániku pružnosti   pokožky. Od dvoch rokov musela vyhľadávať spoločnosť dcéram kvôli,   ktoré nechcela vychovávať ako mníšky.
+   </tei:p>
+   <tei:p>
+    Hoc boly i Giuliana i Salvestra pekné, jednako sa v spoločnosti   veľmi často prihodilo, že matka, hoci nechtiac, privábila   význačnejšiu mužskú spoločnosť okolo seba ako jej dcéry.
+   </tei:p>
+   <tei:p>
+    Giulia sa tomu tešila. Keď prišly z takej spoločnosti domov, kde   mama okúzlila nejakého pána, ktorý sa jej nápadnejšie venoval,   bozkávala ju a oblápala, tešiac sa, že na niekoľko hodín zbavila sa   svojej stálej, trochu smutnej vážnosti. Salvestra sa hnevala a robila   často urážlivé poznámky na jej,
+   </tei:p>
+   <tei:p>
+    148
+   </tei:p>
+   <tei:p>
+    ﻿podľa jej mienky, primladistvé úbory a živé správanie. Ako osoba   citlivých nervov, podliehala Gemma nálade. Bola duchaplná a chápala   každé sousentendu, bol s ňou pôžitok besedovať, a keď našla   primeraného spoločníka, zabudla vše na svoju trudnomyseľnosť.
+   </tei:p>
+   <tei:p>
+    Benátky sií jedným ohniskom sveta; na Lide sa v sezóne schádza   najmä talianska dobrá spoločnosť. Angelo Cagnola, bohatý neapolský   bankár, našiel také zaľúbenie v Giuliane, že ju pýtal za ženu od   Gemmy. Keďže i on bol dievčaťu milý, šlo zaň na najväčšie roztrpčenie   Salvestry, ktorá sestre závidela bohatého a elegantného muža,   majúceho vystupovanie vzdelaného svetoobčana. Bolo ju ťažko zadržať   od toho, aby sa mu nenatískala. Robila matke výčitky, že nedala   Angelovi možnosť, aby si ju zamiloval, a sestre, že svojím nepekným   koketovaním ho odviedla od nej, pričom sa odvolávala na okolnosti za   vlasy pritiahnuté, ktorých okrem nej nikto nezbadal.
+   </tei:p>
+   <tei:p>
+    Giuliana trpela výčitky s anjelskou trpezlivosťou
+   </tei:p>
+   <tei:p>
+    a pod zámienkou, že musí nevyhnutne navštíviť ochorevšiu   priateľku, odišla na týždeň do Pádový, nechajúc Salvestre voľné pole,   aby si získala náklonnosť Cagnolu. Bankár i v neprítomnosti Giuliany   venoval najväčšiu čiastku svojho času Docciovcom. Ale Salvestru vôbec   nehral vážne a odbavoval ju, napriek jej Gemme veľmi nemilému   natískaniu sa, len žartovnými poznámkami a strojene vážnymi   naučeniami. Ale nemohol zakaždým vyhnúť, aby nešiel s ňou na   vychádzku. Na ostatnej, ktorú spolu urobili, — o dva dni sa mala   Giu-
+   </tei:p>
+   <tei:p>
+    149
+   </tei:p>
+   <tei:p>
+    ﻿lia vrátiť, — sa mu náruživé dievča v temnom kúte chrámu San   Geronimo hodilo na prsia a vyznalo mu plačúc svoju lásku. Cagnola   musel sobrať celú svoju rozvahu, aby ju upokojil, čo sa mu len   čiastočne podarilo sľubom, že jej pošle svojho priateľa, kolegu,   ktorý je omnoho krajší, bohatší a lepši ako on.
+   </tei:p>
+   <tei:p>
+    Pokladal za svoju povinnosť uvedomiť Gemmu o prípade, ktorej teraz   prvý raz zaľahlo bolestne na dušu, že egoistická povaha Salvestry   môže zapríčiniť ťažké zauzlenie v ich živote.
+   </tei:p>
+   <tei:p>
+    Keď prišla Giuliana domov a Salvestra precítila vysvetlením a   láskavým napomenutím matkiným celú šľachetnosť sestry a svoje nehodné   správanie sa, s náruživým oľutovaním hodila sa pred ňou na kolená a   prosila ju o odpustenie, sľubujúc jej všetku lásku svojho života.   Giuliana jej s najláskavejším gestom odpustila.
+   </tei:p>
+   <tei:p>
+    — Mám ťa rada, sestrička, a veľmi ľutujem, že si nešťastná. Ale   ty, blázonko, veď si ty ešte mladušká. Ty si dieťa, ktoré túži za   hračkou. Neboj sa, jest ich dosť na svete, nájde sa i pre teba.
+   </tei:p>
+   <tei:p>
+    Giuliana a Cagnola sa onedlho sosobášili. Zprvu žili veľmi dobre.   Za rok začal svetácky hankár, ktorému sa núkalo toľko lásky   najkrajších dám, Giulíanu klamať. Ale dobrá žena rozplamenila svojou   múdrou trpezlivosťou malú iskričku v jeho duši tlejúcej šľachetnosti   natoľko, že ju pevne a čisté zavrel do svojho srdca.
+   </tei:p>
+   <tei:p>
+    0 niekoľko mesiacov neskoršie sa prihodilo, že si Salvestra,   utekajúc šialene hore schodmi, natrhla nohu, ktorá jej v členku   napuchla. Gemma
+   </tei:p>
+   <tei:p>
+    150
+   </tei:p>
+   <tei:p>
+    ﻿sa zľakla, že ju zlomila a poslala po najbližšieho lekára, keďže   telefonicky volaný domáci lekár nebol doma.
+   </tei:p>
+   <tei:p>
+    O niekoľko minút prišiel elegantný, vysoký pán príjemných, istých   spôsobov a veľmi priateľskej tváre, a predstavil sa ako doktor   Filippo Martelli.
+   </tei:p>
+   <tei:p>
+    Nastráchaná Gemma ho zaviedla do izby Salvestry, ktorá tam ležala   na diváne, stonajúc a hryzúc šatôčku od bôľu. Martelli mäkkými   prstami prehmatal jemnú nôžku a urobil s ňou niekoľko pohybov, pričom   Salvestra raz skríkla a hneď žatým sa zasmiala.
+   </tei:p>
+   <tei:p>
+    — No, však už nebolí? — spýtal sa smejúc, pričom sa mu zasvietily   biele, opatrované zuby.
+   </tei:p>
+   <tei:p>
+    Salvestra porušala nohou, nebolelo.
+   </tei:p>
+   <tei:p>
+    — Ó, doktor, aký ste vy eskamotér! Nebolí! Čo ste urobili s   nohou?
+   </tei:p>
+   <tei:p>
+    — Jedna kôstka bola trochu vyskočená, tú som napravil.
+   </tei:p>
+   <tei:p>
+    Doktor sa odporúčal. Na druhý deň prišiel popoludní práve na čaj.   Zadržali ho naň.
+   </tei:p>
+   <tei:p>
+    Prišiel i na tretí a štvrtý deň. Veľmi sa zvidel Salvestre — i   Gemme.
+   </tei:p>
+   <tei:p>
+    Martelli mohol byť mladší o niekoľko rokov od Gemmy.
+   </tei:p>
+   <tei:p>
+    Minulo asi dvanásť rokov od mužovej smrti. Gemma už len výnimočne   myslela naň. Život donáša so sebou toľko rozličných zaujatí, že   nemožno žiť len svojím rozpomienkam.
+   </tei:p>
+   <tei:p>
+    Gemma sa naučila v posledné roky i vybrať si niečo z radostí   života. Často rozmýšľala, že Salvestra sa tiež môže vydať a ona   ostane samotná. Bola ešte vždy veľmi mladistvá, zdalo sa jej   otup-
+   </tei:p>
+   <tei:p>
+    151
+   </tei:p>
+   <tei:p>
+    ﻿ným tráviť ostatok života, ktorý mohol byť i dosť dlhý, len v   rozpomienkach a v očakávaní listov od detí.
+   </tei:p>
+   <tei:p>
+    Martelli sa jej videl. Zdal sa človekom jemným a vzdelaným. Keď   spomínal svoju „drahú matku“, triasol sa mu hlas od dojatia a   vstúpily mu slzy do očú. Na Gemmu pozeral tak zamilovano, tak   mnohorečne, že klopila pred jeho pohľadmi oči. Nie bez vzdychov, hoci   premáhaných.
+   </tei:p>
+   <tei:p>
+    Myslela si, poučená prípadom so zaťom, že Salvestra nebude žiarliť   na ňu, keďže bol lekár o viac ako o dvadsať rokov starší od nej. A   naozaj, Salvestra nielen že nevyhľadávala spoločnosť Martelliho, ale   sa ho do očú bijúce stránila. Keď prišiel, vždy ušla pod nejakou   zámienkou alebo hoci bez slova z izby. Ale jednako bola premenená.   Bola nevravná a zabudla sa i vadiť s materou, čo dosiaľ svedomito   robievala. Nejedla, nespala, schudla.
+   </tei:p>
+   <tei:p>
+    — Dievča, čo je s tebou? Nie si ty chorá? — spýtala sa jej zavše   ustarostená Gemma.
+   </tei:p>
+   <tei:p>
+    Salvestra drgla plecom:
+   </tei:p>
+   <tei:p>
+    — Nič mi je nie. Zdravá som. Len ty buď taká zdravá, ako som   ja.
+   </tei:p>
+   <tei:p>
+    Toto sa opakovalo viac ráz.
+   </tei:p>
+   <tei:p>
+    Až raz počula Gemma plač v dcérinej izbe. Vošla k nej a našla ju,   sediacu na diváne, usedavo nariekať.
+   </tei:p>
+   <tei:p>
+    — Preboha, čo plačeš, čo sa stalo s tebou?
+   </tei:p>
+   <tei:p>
+    — Preboha, čo plačem, čo sa stalo so mnou? Ako by som neplakala,   keď mám takú matku, ako si ty! Kedy stála matka tak v ceste šťastiu   dcéry, ako ty stojíš mne? Ty si už žila krásny život s mužom, ktorého   si milovala a ktorý teba zbožňoval,
+   </tei:p>
+   <tei:p>
+    152
+   </tei:p>
+   <tei:p>
+    ﻿a teraz mne nedopraješ, aby som si vzala muža, ktorý by bol   zárukou môjho šťastia. Toho si vezmeš ty! Ó, ja nešťastná!
+   </tei:p>
+   <tei:p>
+    V Gemme zamrelo srdce a podlomily sa pod ňou kolená. Skleslá na   kreslo.
+   </tei:p>
+   <tei:p>
+    — A či som ja mohla myslieť, že ty Martelliho chceš? Veď je pre   teba pristarý a veď si utekala pred ním!
+   </tei:p>
+   <tei:p>
+    — A pre teba je primladý! Je o osem rokov mladší od teba. O osem   rokov! — kričala opovržlivo Salvestra, trasúc vystretými rukami.
+   </tei:p>
+   <tei:p>
+    — Len o šesť! — povedala ticho Gemma. Zašiel ju taký hnev a   nenávisť oproti dcére, že si želala, aby hneď umrela.
+   </tei:p>
+   <tei:p>
+    Salvestra zasa začala fikať a nariekať, bijúc si hlavu a zalamujúc   náruživo rukami.
+   </tei:p>
+   <tei:p>
+    Gemma odišla bez slova. Ako vyšla z izby, Salvestra prestala   plakať.
+   </tei:p>
+   <tei:p>
+    Gemma išla do svojej izby. Ako ju nadchádzaly myšlienky, zastávala   a rozmýšľala.
+   </tei:p>
+   <tei:p>
+    — Nech si to zlé stvorenie toho človeka vezme!
+   </tei:p>
+   <tei:p>
+    Schytila ju vlna ľútosti nad sebou a trpkosladký pocit obetovania   sa.
+   </tei:p>
+   <tei:p>
+    — Prinútim ju oľutovať to, čo urobila! Dám jej toho človeka, hoci   mi je milý.
+   </tei:p>
+   <tei:p>
+    Popoludní prišiel Martelli. Pred príchodom poslal krásnu   kyticu.
+   </tei:p>
+   <tei:p>
+    Gemma i Salvestra ho prijaly vľúdne ako vždy. Nálada dám sa   zdanlivé v ničom nelíšila od obyčajnej.
+   </tei:p>
+   <tei:p>
+    —- Martelli, ďakujeme vám za krásnu kyticu. Neviem, prečo mi tie   kvety dnes tak veľmi slúžia mementom, že som už stará žena.
+   </tei:p>
+   <tei:p>
+    153
+   </tei:p>
+   <tei:p>
+    ﻿Marteli možno s úprimným pocitom odporu vyhováral Gemme túto   predstavu.
+   </tei:p>
+   <tei:p>
+    — Stará, milý doktor. Lebo žena, ktorá sa už zriekla lásky, je nie   mladá. Ja už milovať nemôžem a ani si nemôžem predstaviť, že by som   mohla žiť s mužom.
+   </tei:p>
+   <tei:p>
+    Martelli, ktorý prišiel s odhodlaním, že dnes vyzná lásku Gemme,   počúval tieto slová s najnepríjemnejším prekvapením. Svraštil čelo a   hrýzol si peru. Nevedel napochytro, čo riecť. Na šťastie Salvestra,   ktorá sa dívala von oblokom na Canalgrande, ako by ju do rozhovoru   nič nebolo, zvolala: — Ecco lá! Gondola s veľkým plakátom! —   Slabikovala, ako sa gondola blížila: — ,Koncert D’Albertov!4 Pôjdeme,   mamma mia?
+   </tei:p>
+   <tei:p>
+    — Môžeme ísť. Rada D’Alberta. Jeho chápanie, najmä Gounoda, je mi   sympatické. Dám objednať vstupenky. Pôjdete, doktor?
+   </tei:p>
+   <tei:p>
+    Z rozmýšľania vyrušený Martelli nevedel napochytro, či ísť, či   nie.
+   </tei:p>
+   <tei:p>
+    — Hja, Gounod, nie, D’Albert! Hja, ja. Neviem ešte. Čakám zvesť od   pacienta, ako mu bude. Nechcel by som, aby ma v koncerte   vyrušovali.
+   </tei:p>
+   <tei:p>
+    Gemma sa trochu usmiala: — Teda nie. Tak dám objednať len dve   karty. — I vyšla.
+   </tei:p>
+   <tei:p>
+    Salvestra sa obrátila k lekárovi: — Poďte, doktor.
+   </tei:p>
+   <tei:p>
+    Martelli nespustil s nej očú. Ako divne hľadí na mňa tá osoba. A   tón jej reči! Hotová siréna!
+   </tei:p>
+   <tei:p>
+    — Tak pôjdem, — riekol o niekoľko sekúnd.
+   </tei:p>
+   <tei:p>
+    Salvestra prišla celkom k nemu. Myslel, že sa mu hodí na prsia.   Ale nie, ukázala len rukou na kyticu.
+   </tei:p>
+   <tei:p>
+    154
+   </tei:p>
+   <tei:p>
+    ﻿— Tie kvety ste doniesli mne?
+   </tei:p>
+   <tei:p>
+    — Ak by vás to telilo, tak vám, milá Salvestra.
+   </tei:p>
+   <tei:p>
+    — Veľmi, veľmi by mi to bolo milé.
+   </tei:p>
+   <tei:p>
+    Martelli potreboval veľmi peniaze; prax mu nešla. Bol už na   štvrtom mieste a nikde sa nemohol preboriť. Išlo mu o to, aby sa už   napokon dostal pod strechu. Bol veľmi dobre informovaný, koľko peňazí   má Gemma. Bolo to slušné. 0 to mu nešlo, či dostane majetok s rukou   Gemmy a či Salvestry.
+   </tei:p>
+   <tei:p>
+    Keď sa Gemma o chvíľočku vrátila do izby, poprosil ju, aby i preň   kázala objednať vstupenku na koncert. Gemma sa zasa usmiala. Myslela   si:
+   </tei:p>
+   <tei:p>
+    — Chytro presedlal. Quel farceur! Keď ho Salvestra chce mať, tak   nech si ho vezme.
+   </tei:p>
+   <tei:p>
+    Na koncerte Martelli sedel len pri Salvestre, lebo nedostali   všetky vstupenky pri sebe. Gemma sedela o dva rady za nimi, takže ich   mohla pozorovať. Salvestrina hlava bola stále temer na prsiach   Marteliiho. Gemma cítila horúci stud za svoju dcéru.
+   </tei:p>
+   <tei:p>
+    Nespala skoro celú noc. Poschádzalo jej na um, čo všetko vytrpela   pre Salvestru. Neprešlo skoro dňa, aby jej dievča nebolo dalo aspoň   zlé slovo. A jednako jej srdce visí na nej. Hoci sa často i nahnevá   na ňu, takže by ju v hneve i prekliala, ale hneď sa spamätajúc,   napraví svoj hnev vrúcnou žiadosťou, aby bola požehnaná a   šťastlivá.
+   </tei:p>
+   <tei:p>
+    Gemma si pomyslela, že sa jej Salvestra narodila ako plod jej   najvrúcejšej lásky k Tinovi. Dali jej život bez jej vôle, jedine   preto, že sa nevypovedateľne milovali. Zodpovedná je za jej blaho   pred Bobom, ľuďmi a pred svojím svedomím.
+   </tei:p>
+   <tei:p>
+    155
+   </tei:p>
+   <tei:p>
+    ﻿Rozhodla sa, že vykoná svoju povinnosť do krajnosti.
+   </tei:p>
+   <tei:p>
+    Salvestra sa vydala o dva mesiace za Martelliho, ktorý dostal   stanicu mestského lekára v Alessandrii, kde sa hneď presťahovali.
+   </tei:p>
+   <tei:p>
+    Gemraa si bola umienila, že im dá celý svoj majetok a bude žiť len   zo skromnej penzie, ktorú dostávala po mužovi. I dala im všetky   peniaze a umelecké predmety, ako i sumu, ktorú vyťažila za svoje   cenné náradie. Palazzo dala teraz sama do prenájmu, lebo získala   takto istú, hoci skromnú sumu a sama sa utiahla do malej izbičky vo   dvore. Zo svojej peknej knižnice si nevzala so sebou len Danteho vo   vydaní Dioniseho. To bol jej jediný luxus.
+   </tei:p>
+   <tei:p>
+    Niekoľko mesiacov žila tichý, nikým nevyrušovaný život. Prestala   chodiť do spoločnosti a navštevovala namiesto toho kostoly a   obrazárne. Veď celé Benátky sú múzeom! Koľko tam mala pokrmu pre   svoju dušu, dychtiacu po umeleckých pôžitkoch, túžba za ktorými sa v   nej zasa zobudila, ako kedysi pred rokmi.
+   </tei:p>
+   <tei:p>
+    Bola so svojím osudom spokojná. Veď je Dante taký znamenitý vodca   v živote, ktorý viac nepočíta s pozemskými radosťami!
+   </tei:p>
+   <tei:p>
+    Giulíana písala matke často. Každý jej list jej bol sviatok a   radosť. Salvestra písala zriedka. Na šťastie. Každým listom   otravovala jej srdce.
+   </tei:p>
+   <tei:p>
+    Jediná radosť Martelliho bolo sbieranie peňazí. Jeho modla, jeho   jediné potešenie na svete bolo shrabovať majetok. Boh ho potrestal.   So skoro miliónom lír, ktoré dostal od Gemmy, špekuloval na
+   </tei:p>
+   <tei:p>
+    156
+   </tei:p>
+   <tei:p>
+    ﻿burze a prišiel o všetko. Teraz trpia i nedostatok, lebo narobil   ešte i dlžôb, ktoré musia splácať.
+   </tei:p>
+   <tei:p>
+    — Mamma mia, ak môžeš, pomáhaj. Mne ostáva iba neslaný chlieb a   nárek a zvady muža.
+   </tei:p>
+   <tei:p>
+    Gemma mala niekoľko sto lír odložených zo svojej penzie, mala ešte   niekoľko slušnejších šiat, tie predala, ako vôbec všetko, za čo   dostala nejaký groš, a tak sosbierané peniaze poslala Salvestre.
+   </tei:p>
+   <tei:p>
+    Odhodlala sa, že bude zasa učiť, hoci len malé deti, a čo len za   stravu, a že pošle celú penziu dcére, ktorej sa bol narodil syn.
+   </tei:p>
+   <tei:p>
+    Zprvu dostala i žiakov. Ale jej za mesiac-dva všade vypovedali.   Nikto nemohol hľadieť na smutnú vdovu, ktorej, zdalo sa, že   neopísateľná bolesť
+   </tei:p>
+   <tei:p>
+    možno následok hriechu — užiera srdce.
+   </tei:p>
+   <tei:p>
+    Bieda dcérina jej bola stále pred očami. Bola by vďačne umrela,   aby sa tých vidín zbavila. Veď bolo to tak ľahko: lagúna bola všade   pri ruke. Ale nemohla to urobiť. Možno by ju nebol odstrašil ani   večný trest, ale nechcela ukrátiť dcéru o penziu, ktorú by po jej   smrti nebola dostávala.
+   </tei:p>
+   <tei:p>
+    Musela žiť.
+   </tei:p>
+   <tei:p>
+    Vydala i izbu, v ktorej bývala, a utiahla sa do malej komôrky bez   obloka, kde držiavali kadejaké odpadky a smeti pred odprataním, a kde   bolo práve len toľko miesta, že mohla vložiť otiepku slamy.
+   </tei:p>
+   <tei:p>
+    Pomyslela si, že Dante postával pred cudzími dverami a prosil o   skyvu chleba, Dante, najvznešenejší duch Talianska, prosil úbohých,   biednych sedliakov, aby rozdelili s ním svoju biedu. Dante   žobral!
+   </tei:p>
+   <tei:p>
+    Odhodlala sa k najťažšiemu skutku svojho života. Aby nemusela   odobrať z penzie Salvestre po-
+   </tei:p>
+   <tei:p>
+    157
+   </tei:p>
+   <tei:p>
+    ﻿sielanej ani jediné soldo, vystrela pred chrámom sv. Marka ruku o   almužnu. Dostala jej hodne, leho každého dojala bolestná, ešte vždy   zduchovnelosťou pekná tvár nešťastnej, ale stráže prekazily jej   zámer.
+   </tei:p>
+   <tei:p>
+    Chodila len po stratených uličkách podvečer a prosila od   najchudobnejších, hoci s ponúkaním svojej práce, o kúsok chleba,   alebo chudobou odstaveného jedla. Dali jej obyčajne, hoci sa i to   stalo, že jej surové vynadali a jej i telesne ublížili.
+   </tei:p>
+   <tei:p>
+    Prosenie o almužnu jej bolo také trápne, že sa odhodlala k nemu   vždy len vtedy, keď cítila, že ju sily už úplne opúšťajii a že ak už   nepôjde, nebude vládať sa pohybovať a zahynie predčasne hladom. Dni   trávila utiahnuto v tmavých kútoch kostolov, modliac sa k Bohu za   šťastie svojich detí.
+   </tei:p>
+   <tei:p>
+    Druhej zimy po vydaji Salvestry ju našli v jej skrýši zamrznutú v   jedno februárové ráno. Nebolo vlastne ani mrazu, ale na kosť a kožu   vychudnuté, úplne zoslabené telo nemohlo vzdorovať viac ani menšej   zime. Dožila sa len štyriaštyridsať rokov.
+   </tei:p>
+   <tei:p>
+    Obecný úrad uvedomil zaťov a dcéry o jej umretí. Prišli parádne   dámy a páni na pohreb do palazza Brendacci a hľadali ju v bohatom   byte na poschodí.
+   </tei:p>
+   <tei:p>
+    Keď počuli osud známej, tichej žobráčky a videli mŕtvolu od zimy a   hladu zahynuvšej matky, hodily sa Giuliana a Salvestra na jej telo a   bozkávaly a hladily ho plačúc. Salvestra si trhala vlasy a skvelé   háby a driapala nechtmi líca. Kričala: — Ja, ja som ju zabila! Ja som   jej luhala, že nemáme z čoho žiť, a ona, úbohá, svätá, hladom umrela,   aby náš prebytok, naše bohatstvo zveľaďovala!
+   </tei:p>
+   <tei:p>
+    V mučení svojej duše kričala; — Niet pre mňa
+   </tei:p>
+   <tei:p>
+    158
+   </tei:p>
+   <tei:p>
+    ﻿miesta na tomto svete, ako pre Judáša! Nikdy mi to Boh   neodpustí!
+   </tei:p>
+   <tei:p>
+    Giuliana plakala nad ňou.
+   </tei:p>
+   <tei:p>
+    — Nešťastná, ako ťa ľutujem, úbohá Salvestra! Ó, mama drahá, že si   nepomyslela, ako sa svojou nekonečnou láskou pomstíš na svojom   dieťati a do akého nešťastia ju donesieš!
+   </tei:p>
+   <tei:p>
+    Biedne telesné pozostatky Gemmy previezli do Verony a pochovali   ich pri boku jej muža. Salvestra dala nad matkiným hrobom postaviť   krásny umelecký pomník, predstavujúci biednu žobrácku, dávajúcu   almužnu bohatej dáme.
+   </tei:p>
+   <tei:p>
+    159
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

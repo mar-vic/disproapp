@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944750" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Dáma v hoteli Bellevue : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1973
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿Dáma v hoteli Bellevue
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     DÁMA V HOTELI BELLEVUE
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Keď som mal v kapse inžiniersky diplom, poslal ma môj otec na prax   do Lucernu k jednému zo svojich obchodných priateľov. Peňazí mi dal   dosť, i šiel som vďačne. Viete, že ako dobrý inžinier počítal som   vždy so všetkými okolnosťami. Tak i teraz. Vo fabrike u pána Schulza   som pracoval len predpoludním a tak som mal popoludnie voľné. Moja   zásada bola vždy, že time is money, čas sú peniaze, a preto som   rozmýšľal, ako by som svoj voľný čas speňažil. Vám je známe, že viem   perfektne anglicky a francúzsky, a tak som dal do novín inzerát, že   každé popoludnie by som konverzoval s pokročilejšími žiakmi, po   hodine anglicky a francúzsky. Hlásilo sa mi niekoľko pánov a z týchto   som si vybral jedného Angličana, ktorý chcel francúzsky, a jedného   Francúza, ktorý chcel anglicky dokonale hovoriť. Týchto som si vybral   preto, lebo obidvaja boli cudzinci a zdržiavali sa cez leto v Lucerne   a obidvaja bývali v prvotriednom hoteli Bellevue. Iste to boli teda   páni bohatí, ktorí mohli zaplatiť za moju prácu. Lebo je to práca   protivná konverzovať s ľuďmi, ktorých duševná úroveň je trochu par   terre, fú. Pravda, že by bolo bývalo najjednoduchšie snôtiť ich   spolu, aby Angličan diškuroval s Francúzom po anglicky a Francúz s   Angličanom po francúzsky, nuž ale preto som ja neplatil za drahé   inzeráty, aby mali z toho druhí osoh.
+   </tei:p>
+   <tei:p>
+    119
+   </tei:p>
+   <tei:p>
+    ﻿Viete, že som vždy dbal na elegantné šatstvo. Moja jedna zásada   je, že najmä mladý človek má byť vždy ä quatre épingle, comme il   faut, možno až trochu prehnane módne oblečený a zariadený. Má mať i   šperky. Brilianty na prstoch a v nákrčníku imponujú. To je darmo. Tí,   ktorí ich nemajú, nadávajú na to, že je to parvenu spôsob. N-na,   chudák pokladá za zbytočné, čo nemá. Vyžije neborák aj bez toho,   vyžije. Ja som sa teda obliekal tak, že každý videl zďaleka, že som   „pán“. No, a pri ženách vôbec je elegantná šata pol víťazstva. S   milým Angličanom a Francúzom som sa zjednal. Môžem povedať, že som sa   s nimi jednal ako na koňa, lebo tí skupáni po franku zjednávali z   môjho, pravdaže, slušného honoráru. Obidvoch som navštevoval v   hoteli, Angličana o druhej a Francúza o tretej hodine. Raz Angličan   nebol o druhej vo svojej izbe. Odkázal, že dnes nemôže mať to   potešenie so mnou, a tak sa stalo, že som mal prázdnu hodinu, ktorú   som si umienil prečkať na prvoposchodovom schodišti hotela, ktoré   bolo veľmi primerane zariadené klubovkami, rockingchairmi, písacími   stolíkmi a malou bibliotékou v skrinke. Okrasu skytaly palmy a medzi   nimi mramorové sochy. Cítil som sa ako doma, hovorím, ak-ko doma. Ja   v hale vôbec rád vysedávam, pozorujúc prechádzajúce sa obecenstvo, a   najmä rád sedím tam skrytý za nejakou grupou rastlín, aby človek   mohol pozorovať ľudí, ktorí si myslia, že sa nikto nedíva na nich. Je   vám to zábavné. Čo mnohí, i najelegantnejší robia, keď si myslia, že   ich nikto nepozoruje. Videl som ministerského predsedu, star-
+   </tei:p>
+   <tei:p>
+    120
+   </tei:p>
+   <tei:p>
+    ﻿šieho, svetoznámeho pána, ktorý, pred zrkadlom študujúc svoju   tvár, robil grimasy ako opica, hotová o-pi-ca, hovorím vám. Sotva som   sedel — náhodou celkom sám — za plnou palmou chvíľočku, vbehla do   schodišťa elegantná mladá dáma v domácom úbore. Sapristi, môžem vám   povedať, že ma tá osoba zelektrizovala. Viete, že mi už nejedna z   tých chutných veveričiek prešla cez ruky. N-na, a či. Ale táto, to   bolo niečo! — do zjedenia. Do zje-de-nia! Ešte i jamku mala na   hriadke. Bola prostrednej postavy, štíhla, s primeranými   okrúhlosťami, noštek pikantný, oči čierne a pyštek, — Bože drahý!   Magnifique! Osôbka sa zvrtla a obzerala sa. Nevidela nikoho. I   pokročila ku skrinke s knihami, a vložiac medzi ne jednu, stratila sa   ako vôňa jemného parfumu. Rozumie sa, že som bol zvedavý, akú knižku   čítala. Iste niečo pikantného, nejakého Prévosta alebo Maupassanta.   Vyjmem knižku — mala mi z rúk vypadnúť — a vidím Montesquieuovo   Esprit des lois! Pomyslel som si, to je iste nejaký švindel, obzeral   som knihu so všetkých strán. I našiel som naspodku — nie navrchu, ako   knižné značky obyčajne bývajú, ale naspodku — malý papierik. Vyňal   som ho a rozvinul. Stálo na ňom drohunkým písmom toto (pravda, po   francúzsky): Príďte hneď 37. Voilä, myslel som si, aká rafinovanosť.   Esprit des lois tuná iste nikto nečíta, a tak je to knižka dobrá na   tajné písanie si. Teraz čo? To je list, určený pre priateľa. Či mám   čakať toho, komu je ur-
+   </tei:p>
+   <tei:p>
+    121
+   </tei:p>
+   <tei:p>
+    ﻿čená táto kartička, alebo ako sveta skúsený a podnikavý sám   odtrhnúť tento núkajúci sa mi krásny kvet? Čo mám z toho, keď   vystopujem toho galána? Nič. A zasa, poznal som veľmi dobre   sinýšľanie dám, zdržujúcich sa bez manželov na letovisku. Každá   pokladá doprosta za povinnosť spestriť si život nejakým príjemným   dobrodružstvom. Hanbila by sa i pred sebou i pred svojimi   priateľkami, keby za dva-tri mesiace žila ako mníška v kartuziánskom   kláštore. Quelle betisse! O tom som nepochyboval ani chvíľočku, že   keď namiesto jej priateľa prikvitnem ja, iste bude so zámenou len   spokojná. N-na, čo sme, to sme! Číslo 37 mohlo znamenať i číslo izby   v hoteli, a tak som ho vyhľadal. Kľúčik bol vo dverách. Počúval som   chvíľočku pred dverami: nič, ticho. Otvoril som potichučky dvere a   nakukol: zazrel som len predizbičku. Vošiel som a počúval som zasa.   Počul som hlasy, ale tie zrejme prenikaly zo susednej izby, i vošiel   som. Našiel som sa v izbe, kde bola za španielskou stenou mosadzná   posteľ a iný nábytok spálne, po ktorom boly pohladené niektoré   toaletné kúsky krásnej panej. Do susednej izby boly otvorené dvere a   odtiaľ zaznievaly dva hlasy, jeden ženský a druhý mužský. Čo robiť?   Počul som, že sa dáma blíži ku svojej izbe, už hovorila skoro vo   dverách, i skočil som za španielsku stenu a zohol sa na posteľ toho   anjela, nezabudnúc položiť hlavu na miesto, ktoré posvätila iste   najčarovnejšia čiastka jej skvostného tela. Tak som čušal a počúval.   — Ty, Yvette, uvidíš, že so svojím flirtovaním s tým naničhodným   kapitánom zle pochodíš.
+   </tei:p>
+   <tei:p>
+    122
+   </tei:p>
+   <tei:p>
+    ﻿— Ale, mon oncle, ja ti hovorím, že s ním nič nemám, je mi   protivný, no. — A včera večer si sa celkom iste s ním shovárala pri   jazere. Aspoň postava a reč bola tvoja. — O tom ani reči. Bola som   doma a modlila som sa. Pozri, tu je moja modlitebná knižka. — I   prestala si naprávať brošku na dekoltovaných prsiach a vytiahla   maličkú knižtičku zpod čipkového kombiné, ležiaceho na taburete.   Myslím, že svätým v tej knižtičke iste bolo pod tou prikrývkou dosť   teplo. — Je divné, že Teodor tak neočakávane prichádza. Iste niečo   počul. — Ale čo, nemohol nič počuť. A potom, mon oncle, veď vy ste   taký svedomitý strážnik! Veď vy viete o každom mojom kroku. Vy iste   uspokojíte Teodora. Pozrel som škárou španielskej steny, lebo som   počul podivné krochkanie. I videl som tučného staršieho pána s   cvikrom na orlom nose a krásna Yvette tľapkala jeho tučné líce, k   čomu on blažene mrnčal. Bože, tá satyrská tvár, čo ten starý zbojník   robil! Ak kedy, tak teraz sverené bolo jahňa vlkovi. Sošpúlil ústa a   fistuloval sladko: — Keby si bola ku mne lepšia a uznanlivejšia,   vieš, vieš, — i oblapil ju okolo drieku. Yvette sa mu vyšmykla: — Keď   odíde Teodor a keď sa všetko dobre skončí, budem uznanlivá, uvidíš,   že budem. Dostaneš každý deň jednu pusu, ale dobrú, — i kyvkala mu k   tomu prstíkom, hľadiac mu do očú. Starý hriešnik skrivil ústa: —   Jednu? To je málo. — No, možno i dve. A kedy príde Teodor?
+   </tei:p>
+   <tei:p>
+    123
+   </tei:p>
+   <tei:p>
+    ﻿— Okolo pol piatej. Musíme ho čakať. — Choď mu objednať izbu. On   bude chcieť túto susednú. Povedz mu, že sa to nesvedčí. Ujec odišiel.   Keď zostala sama, stala si pred veľké zrkadlo a kochala sa chvíľku   pohľadom na seba. Môžem povedať, že bola zvodne krásna. — Aká som   nešťastná! — zvolala polohlasom a robila k tomu primeranú tvár do   zrkadla. — Ach, aká by som bola blažená, keby, — tu zamĺkla a usmiala   sa a blysla očami. — Ako ťa rada, ty, ty babráčik zlatý, sladký ty, —   zašeptala túžobne a oblapila si plecia. To bola moja chvíľa: teraz,   alebo nikdy! — Madame, -—- zašeptal som láskou pretkaným hlasom a   vstal za španielskou stenou. — Kto ste, čo chcete? — zvolala a zvrtla   sa ako jašterička, hľadiac na mňa vyjašenými očami. -— Zbožňujem vás.   Vďačne vám obetujem život. Stojím vám ku všetkým službám pohotové.   Rozkážte, čo mám urobiť. — Urobíte všetko, čo vám rozkážem? — Iste, s   radosťou. — Tak odíďte z mojej izby, hahaha. — Madame, všetko urobím,   len to nie. Pomyslite si, som ani duch v rozprávke, všetko vám urobím   po vôli, čo je v mojej moci. Škoda ma tak odhodiť. Skúste to. —   Neviem, čo by som mohla od vás žiadať. — Vy ste napísali kartičku v   Esprit des lois, aby pán kapitán prišiel hneď do 37. čísla. — A vy   ste tú kartičku ukradli. Vy ste gentleman? Hanbte sa!
+   </tei:p>
+   <tei:p>
+    124
+   </tei:p>
+   <tei:p>
+    ﻿— Nebol by som mužom, keď, vidiac vás, nebol by som býval zvedavý,   čo čítajú anjeli. — Nuž, spokojný ste? Hahaha, odporúčam vám to   dielo. — Madame, mňa vaša spisovateľská činnosť omnoho viac zaujíma   ako celá francúzska literatúra. Vy iste máte čo povedať vášmu   kapitánovi, sverte sa mi a ja vám vďačne poslúžim. — Kto ste vy   vlastne? Yvette sa dívala chvíľku na mňa. — Oddáte lístok na adresu,   ktorú vám udám? — Oddám, naskutku, parole d’honneur! — A čo budete za   to žiadať? — Nič, celkom nič, len trošku vášho uznania. — Viem, čo   rozumiete pod uznaním. — Naozaj? Viete? Tak sľubujete mi to? — No,   zaiste sa vám odslúžim. Počkajte trochu. — Odišla do susednej izby a   o niekoľko minút sa vrátila, držiac v rukách dva listy. — Voilä,   monsieur. Ale mi musíte sľúbiť, že ten list, ktorý je pre vás,   otvoríte iba po šiestej hodine večer. Sľubujete mi to? Podívala sa na   mňa tak zvodne, že by som jej bol i svoje spasenie sľúbil. Podala mi   ruku. Chytil som ju a bozkával ako šialený, pričom som cítil   stisnutie jej jemných prstíkov. — Ak otvoríte ten list pred šiestou,   tak je všetkému koniec medzi nami! Pamätajte si to: všetkému! Podíval   som sa na ňu a ona sklopila svoj zrak a zapálila sa. Vyzerala v tú   minútu ako nevinné osemnásťročné dievčatko. Bol by som vďačne   kľa-
+   </tei:p>
+   <tei:p>
+    125
+   </tei:p>
+   <tei:p>
+    ﻿kol pred ňou a prisahal jej večnú lásku. Ešte sa mi usmiala, a   kývnuc rukou, ušla do susednej izby. Môžete si predstaviť, ako som sa   cítil. Bol som istý, že budem najblaženejším človekom na svete. Išiel   som — letel som, aby som oddal jej list. Čo ja viem, kto to bol, kam   to písala? To viem, že to bol akýsi pán, bývajúci tiež v tomto   hoteli. Rozumie sa, že som v ten deň ani na anglickú hodinu nešiel.   Nemohol som na nič myslieť, iba na rozkošnú Yvette. Utratil som takým   spôsobom pätnásť frankov. Ale nech! Obzeral, voňal a bozkával som   lístok, na ktorom bolo napísané: ,,A’ son saveur Y“. Iste bolo v ňom   označené miesto a čas nášho rendezvous! Ach! Môžem povedať, že mi dve   hodiny nikdy tak dlho netrvaly ako teraz. Kedy už len udrie tá šiesta   hodina! Okolo šiestej som, ako by mimovoľne, prišiel pred hotel   Bellevue. Pred bránou stálo kryté auto a prišiel som práve á tempo,   aby som ešte zazrel do auta vchádzajúcej Yvette zohnutú polovicu,   ktorá nebola bez istej čarovnosti, za ňou som mal šťastie vidieť v   tej istej pozitúre dobre živené okrúhlosti strýcove, nad ktorými sa   rozhrnuly krídla žaketa, a nakoniec ešte i tú istú partiu tela dnu   vchádzajúceho vysokého neznámeho pána. — Kto bol ten vysoký pán? —   pýtal som sa v bráne stojaceho vrátnika. — Pán Teodor Galbrun, manžel   tej peknej dámy. — Robia azda výlet? — Nie, odchádzajú do Nórska. Tu   je vraj teraz prihorúco.
+   </tei:p>
+   <tei:p>
+    126
+   </tei:p>
+   <tei:p>
+    ﻿Vrátnik sa falošne usmial. Hlupák! Čo sa má taký človek na niekoho   falošne usmievať? Aká impertinencia! Odišiel som pomaly. Cestou som   bez ďalšieho meškania otvoril lístok krásnej Yvette. Bola v ňom karta   so slovom: „merci“ a dcsaťfranková bankovka.
+   </tei:p>
+   <tei:p>
+    127
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

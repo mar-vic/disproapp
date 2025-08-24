@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194466" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿﻿Kto mal pravdu? : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1894
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿﻿Kto mal pravdu?
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KTO MAL PRAVDU?
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Inžinier Špavor sedel v hale hotela Pannhans na Semmeringu.   Necítil sa dobre. Ako sa vôbec ťažko dobre cítil v hale veľkého   hotela, kde cudzí ľudia na seba hľadia opovržlivo, vyzývavo,   posmešne, v najlepšom prípade ľahostajne alebo zvedavo. Špavor   poskladal noviny, ktoré bol prezeral, a pozrel pred seba. Práve pred   ním stála a dívala sa na neho s usmievavou zvedavosťou, zdanlivo asi   tridsaťročná, vysoká dáma junónskej postavy. Jej správanie   prezrádzalo absolútnu istotu; oblečená bola s ladnou, jednoduchou   eleganciou. Špavor sa chvíľku s trochu nahlúplou tvárou díval na ňu,   potom rýchlo vyskočil a poklonil sa jej. — Ruky bozkávam, — zvolal a   potom, nie súc istý, akou rečou má s ňou hovoriť, riekol: — Bon jour,   madame. — Vous nien vaulez tan jonos encore, — odvetila dáma tiež po   francúzsky. — Ešte sa vždy hneváte na mňa? — i podala mu ruku s milým   úsmevom. — Som veľmi rada, že som sa s vami sišla. Špavor sa   spamätal. —Nuž pravdaže sa hnevám, a neprestanem sa hnevať na vás do   smrti, milostivá pani, — riekol tiež s úsmevom. — Moje krstné meno je   Mona, zabudli ste ho už? Vychádzali z hotela. V parku sa podívali na   seba. — Stali ste sa krásnou ženou. Čo ste sľubovali
+   </tei:p>
+   <tei:p>
+    155
+   </tei:p>
+   <tei:p>
+    ﻿ako mladé dievča, vyplnilo sa plnou mierou, — podotkol Špavor so   vzdychom. Dáma 6a trochu zapálila a odvetila s úsmevom: — No vy ste   sa tiež nad očakávanie vyvinuli. Z trochu nešikovného mladíka aký   svetoobčan! A kam cestujete? Alebo sa azda nudíte na Semmeringu? |í —   Idem do Talianska za obchodom. A vy, Mona? — I ja idem do Talianska,   ale len k jazerám, lebo je dolu už prihorúco. — To je skvelá vec.   Môžeme ísť spolu? — Ale áno. Kedy idete? — Kedy sa vám páči. Dnes?   Zajtra? — Poďme zajtra. Poviem svojej slečne, aby sa podlá toho   zariadila. — Máte tu známych? — Neviem ešte. Isteže sa nájdu nejakí,   čo by mi nebolo veľmi milé. Chcela by som ten krátky čas, čo mám, s   vami stráviť. — Urobíte ma veru blaženým! Venujete mi za celý život   aspoň niekoľko dní! Slnce, prejdúc už poludním, osvetľovalo jednu   čiastku v tôni. Špavor kráčal s Monou tônistým chodníkom parku.   Prišli k lavičke pod smrekmi. — Tu je príjemne. Sadnite si na   chvíľku, — podotkla Mona. — Vďačne. Tieto smreky mi pripomínajú iné,   kde bolo krajšie, kde som strávil kvet života svojho. Bože môj! Ako   krátko kvitol ten kvet môjho života! — vzdychol si Špavor. — Stávate   sa sentimentálnym? — Myslím, že v mužských je viac úprimného citu ako   v ženách.
+   </tei:p>
+   <tei:p>
+    156
+   </tei:p>
+   <tei:p>
+    ﻿— Možno. Hoci sú chvíle, na ktoré sa ani ja nemôžem rozpomínať bez   dojatia. — Mona, pamätáte sa na ten jediný mesiac, ktorý som s vami   strávil vo vašom parku? To bola iste len taká jarná idyla pre vás. Z   dlhej chvíle ste sa zabávali s inžinierikom, ako by ste sa azda boli   zabavili na hračkách pašierov. — Mýlite sa. Ja som vás vtedy z celého   srdca milovala. Keby ste neboli tak náhle ušli, bola by som vás   nasledovala ako vaša verná žena. — Bože drahý, nôž mi vrážate do   srdca! Nikdy nezabudnem na blažené chvíle, ktoré som strávil vtedy s   vami. Celá poézia môjho života je v nich. Vidím vás ešte trochu   vetrom rozstrapatenú sedieť v zelenej tráve medzi kvetinami a vidím   vašu belavú, rozohriatú tvár a bielu rúčku s ohybnými prstíkmi a   žiadalo sa mi chytiť ich, hladiť a bozkať. — Pamätám sa, aká som bola   prekvapená a strnulá, keď ste mi chytili ruku. Vôbec som ani   nemyslela, že by niečo takého bolo možné. Nevedela som, čo robiť — a   bolo mi to milé. — Pamätám sa, čítali sme a rozberali ako deti Hugovu   Marion Detovme, a vy ste naraz zbledli a začali ste sa zajakať. Bez   rozmyslu, pudený bohom prírody, som chytil tú drahú ruku a bozkával   som ju, vy ste mi ju nevytrhli, ale, divne, prísne ste sa dívali na   mňa . .. Ani neviem ako, o chvíľku som už bozkával vaše, ach, aké   ľúbezné ústa, oči. Ó, Mona! Ako som vás ľúbil a aká krátka bola naša   láska a aký je dlhý ostatný, pustý život! — I moja najkrajšia čiastka   života bola len mesiac. Bol to jediný čas, v ktorom som bola skutočne   šťastlivá a v ktorom som poznala lásku čistú, ne-
+   </tei:p>
+   <tei:p>
+    157
+   </tei:p>
+   <tei:p>
+    ﻿skalenú; lásku, dvíhajúcu ľudí nad oblaky. Často som na ňu   myslela, a so žiaľom. Poznáte ten Danteho verš: „Nessien maggior   dolore, Che ricovdarsidel tempio felice Nella miseria!“ — Nepoznám,   ale bolestne živo cítim jeho pravdivosť. A povedzte, ako sa vám   vodilo, veď nič neviem o vás. — Pamätáte sa, na onom čaji, z ktorého   ste od nás odišli, bol u nás aj dragúnsky rytmajster barón   Rautenauer. — Vidím ho aj dnes. Bol to človek veľmi distingvovane a   inteligentne vyzerajúci, málo hovoril, ale čo povedal, to bolo k   veci. — Nuž ako neobyčajne distingvovane vyzeral, taký neobyčajný   podliak to bol. Vydala som sa za neho a žila som s ním celých dlhých   päť rokov. Umrel na paralýzu, utopiac sa v kúpeli. Taký satanský   cynik, taký úškľabník nad všetkým, čo môže byť človeku drahé a cenné,   môže byť len stelesnený diabol. Mal isté potrebné vzdelanie a vedel   tú trochu, čo znal, znamenite použiť. Ťažko si predstaviť krutejšieho   tvora, ako bol ten človek. Azda jeho jediný pôžitok bol, koho mohol,   duševne, telesne mučiť. Čo som pri ňom vytrpela! — vzdychla si   zhlboka. — Od tých čias som sama. — Nuž a ako trávite život? —   Probovala som rôzne spoločnosti. Zprvu som bola v kruhoch, z ktorých   som pochádzala, teda v strednej šľachte. — Ale i vysoká, i stredná   šľachta sa mi chytro zunovala. Možno, že som bola ja vinou toho, lebo   som v každom videla viac-menej podarených Rautenauerov. Hľadala som   spoločnosť umelcov. Iste
+   </tei:p>
+   <tei:p>
+    158
+   </tei:p>
+   <tei:p>
+    ﻿pre zvláštne rozpoloženie svojej duše som nemala ani s nimi   šťastie. Nemala som medzi nimi takého človeka, ktorý by bol ukojil   môj duševný hlad. Všetci mi boli v osobných stykoch protivní. Ani   jeden z nich neštudoval život s vyšších stanovísk, všetci chceli   svojimi dielami len efekt dosiahnuť. Boli namyslení na svoju vyššiu   inteligenciu a na svoje voľnejšie chápanie života a opovrhovali ľuďmi   z mojej triedy zo závisti, lebo cítili, že týchto v mnohom nikdy   nedohonia a ani nemôžu dohoniť, už aj pre nízky let duše, ktorá bola   od stá rokov ich rodu údelom. Vedeli podávať každodenné malicherné   zápletôčky, ale vyšší vzlet, široký rozhľad im chý-; bal. Mysleli si,   že sú bohatieri ducha, ale ich život a ich ponímanie sveta ... brrr.   — Jediného priateľa som našla, ktorý mi je aj dnes milý, ktorý nikomu   kvôli nehrá komédiu, ani svojmu Bohu kvôli nie. — Kto je to? —   Chudobný starý katolícky farár, ktorého duša sa zračí v ľahučkom   posmešnom úsmeve a v čistých, živých očiach, ktoré pozerajú na svet   tak jasne a dobrotivo! Starou, jemnou rukou vie prejsť ponad citlivé   a slabé miestečká našej dušičky, a aký je nevinný jeho nikdy   neraniaci výsmech: Ani keby riekol: „Vidím ťa, vidím, hriešnička   najmocnejšieho Boha!“ Je to človek, plný poznania, porozumenia a   odpustenia. Drahý môj padro Arnolf! — Na mňa ste si nikdy   nespomenuli? Kdeže by v tom roji, v ktorom ste stále boli, pomyslieť   na biedneho inžinierika, syna dedinského lekárika! — Mýlite sa!   Neprešiel deň, aby som nebola na vás myslela. Večer, keď som vše bola   sama, túžila
+   </tei:p>
+   <tei:p>
+    159
+   </tei:p>
+   <tei:p>
+    ﻿som po vás. Po takom, akého som vás bola poznala, po človeku, keď   aj naivnom, ale zaujatom za každú krásu a šľachetnosť na svete. —   Pravda, pomysleli ste si, že sa človek mení. — Iste. Myslela som.   Vedela som, že keby sme boli spolu žili, že by ani náš život nebol   býval jemnofarebný, čarovný gobelín, do ktorého je vtkané tak mnoho   šľachetného bôľu a skutočnej lásky ako do oného starého francúzskeho,   ktorý zobrazuje lásku Lancelota a Isoldy. — Ktože ho vie? Viete, že   oheň lásky, ktorý ma pred dvadsiatimi rokmi zohrieval, aj dnes tlie   vo mne? Bez toho, že by som vás bol len raz videl za ten čas,   opanoval som v sebe ten svätý plameň. A keby som bol býval spolu s   vami? — Ktože vie? Keby sme boli bývali spolu, či by som vám bola   taká milá, ako sa nazdávate, že som vám dnes, — i pozrela so smutne   milým úsmevom zrazu na neho. Špavor sa jej díval do očú. Koľko bolo v   nich života a čo mu všetko tie oči rozprávaly. Chytil Moninu ruku a   bozkal ju vrúcne trasúcimi sa perami. Potom ju ťahal za tú ruku k   sebe. Ona mu ruku vytiahla a riekla ticho: — Nie, drahý priateľ!   Špavor sa obrátil, a skloniac hlavu, díval sa do zeme. Mona sa   ľahučko usmiala a trhala ružu, ktorú bola mala za pásom. O chvíľu   zdvihol Špavor hlavu. — Nuž, podľa bežných pochopov filisterského   sveta máte pravdu. A váš padro Arnolfo vás tiež iste pochváli. Ja som   totižto ženatý. Ušiel som od vás rovno do Ameriky. Odtiaľ príduc,   vzal som si dcéru bohatého kupca preto, lebo som potreboval
+   </tei:p>
+   <tei:p>
+    160
+   </tei:p>
+   <tei:p>
+    ﻿na svoje podniky peniaze. Je to žena, ktorá nosí každú zimu inú   pásmovú bundu a ktorá má v ušiach stále butóny, ešte aj keď spí. Vozí   sa len v aute. Žijem nie s ňou, ale popri nej. Môj život je prázdny.   — Ten prázdny život ste si práve tak zaslúžili ako ja svoj. — Nemohli   by sme mu dať trochu obsahu? — Milý priateľ, v knižke nájdená ruža je   milá rozpomienka, jej slabučká vôňa napĺňa dušu drahými citmi, ale   takú ružu viac nevzkriesiš, tú si za pás nevložím, — hovoriac to,   smietla rukou potrhanú ružu s podolka. Chvíľku mlčali. — Mona, a   prečo ste vy mnou vlastne v ten večer u vás tak opovrhli? Veď ste sa   vôbec na mňa neobzreli, skoro slova som od vás nedostal, len s   nenávisťou a s viditeľným opovrhnutím ste hľadeli na mňa. Čo som vám   urobil? Veď keď sme sa dve hodiny predtým rozišli, prisahali sme si   vernú lásku so sjednotenými dušami. — Poviem vám to. Hoci ste si to   mohli neskoršie aj sám domyslieť. Bude sa vám to zdať detským, a   predsa som vtedy nebola schopná inakšie konať. Dnes by som to   neurobila, ale vtedy! Vtedy mi bolo osemnásť rokov! — Čo to bolo?   Rozlúšťte mi najtrápnejšiu záhadu môjho života. — Pamätáte sa, že   bola vtedy u nás malá spoločnosť. Bol môj bratanec Guido, husársky   nadporučík so svojou sestrou, bol gróf Janky a nešťastný Rautenauer.   No a boli ste i vy. Milý priateľ, mali ste oblečený dlhý, šosatý,   čierny salónový kabát! Vyzerali ste ako dedinský rechtor na pohrebe.   Po-
+   </tei:p>
+   <tei:p>
+    11 Kozinský mlyn
+   </tei:p>
+   <tei:p>
+    161
+   </tei:p>
+   <tei:p>
+    ﻿pri tých gavalieroch ste boli úplne nemožný. Strašne som sa   hanbila za vás. Do Ameriky by som bola s vami utiekla, ale zaujať sa   v tej spoločnosti za vás nebolo mi možné. — Nešťastný čierny kabát. A   bol som naň pyšný! — Keď ste zrazu, bez odobierky, odišli, videla   som, že sa hneváte. Celú noc som preplakala. Ráno ste už odcestovali.   Písala som vám, ale vás už nebolo doma. — A tak musel sa roztrhnúť   náš život navždy? Pre čierny kabát! Mona, zmilujte sa i nad sebou, i   nado mnou! Mona sa vážne zadívala na neho. Bolo vidno, že rozmýšľa a   že chce čosi povedať. Premohla sa, neriekla nič a vstala. — Poďme!   Druhé ráno doniesol sluha Špavorovi list. Otvoril ho a prečítal   jedným bleskom očú. Znel: „Idem do Nórska. Aj dnes nosíte čierny   kabát. S Bohom. Mona.“ Špavor sa zahľadel na ďaleké vrchy. Odhodil   list na stôl a šepol: — Duševná koketa. Kto mal pravdu?
+   </tei:p>
+   <tei:p>
+    162
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

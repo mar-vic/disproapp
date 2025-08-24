@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194450" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Stávka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6527
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿Stávka
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     TRIONFO DELLA MORTE
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Keď som celkom sám, nuž priznám sa sám sebe, že neviem, pre ktoré   moje vlastnosti ma urobili direktorom banky „Kutáč“, s platom   dvestotisíc korún ročne. Skutočne necítim, že by som vedel viac ako   moji kolegovia účtovníci. Možno, že preto, lebo robím zavše dojem,   ako by som rozmýšľal na niečom. Dokiaľ som bol len obyčajným   účtovníkom asi s 30.000-korunovým ročným platom, na ženbu som   nepomýšľal. Vtedy som bol pevne presvedčený, že vôbec niet života nad   mládenecký. Možnosť môcť si zariadiť byt a zadovážiť si pekné žieňa   len pre seba urobila mi toto moje presvedčenie smiešnym a   opovržlivým. Rozhodol som sa, že sa ožením, a to „už“, nemariac čas.   Som človek systematický, a preto, aby som sa ustálil aj na tom, ktoré   dievča si vezmem, vytiahol som hárok papiera a napísal mená všetkých   známych „možných“ dievčat naň, ku každému poznačiac jeho rôzne dobré   a horšie vlastnosti, pripojac aj číslo, označujúce, aký asi má   majetok. Z 15 dievčat som ľahko vytrel 12, takže zostaly len 3, z   ktorých sa mojej pozornosti najviac ponukovala Beatriče — predtým,   dokiaľ jej otec rôznymi záhadnými obchodmi nebol zbohatol, Blaženka   Hladkých. Beatriče bola čítala raz sentimentálnu taliansku novelu, v   ktorej milenec stále vzdychal za svoju Tričou, a takým spôsobom sa aj   ona stala Tričou. Nuž na to som
+   </tei:p>
+   <tei:p>
+    85
+   </tei:p>
+   <tei:p>
+    ﻿ja váhu nekládol, mysliac, že jej časom aj tak na nejaké meno len   prídem. Hľadel som svoju pozornosť obracať aj na iné dievčatá, ale   darmo. Mohol som rozmýšľať o hocičom, mohly sa v mojej hlave kundoliť   číslice, devízy, valuty, medzi všetkým týmto haraburdím usmievala sa   mi Triče vždy s hlbokými čiernymi očami, zatônenými viečkami a dlhými   mihalnicami. A hĺbku tých očú ešte hlbšou robily svižné nôžky v   priezračných hodvábnych pančuchách, mäkké biele rúčky a vždy veľmi   fešný úbor. Hĺbka! Čo som ja všetko v tej „hĺbke“ videl! Duša, plná   ľudomilnosti a najvznešenejších pocitov bolo najmenej, čo som jej na   základe hlbokých očú pripisoval. Ináč som o duševnej hĺbke mnoho   nerozmýšľal. V tomto ohľade som svoj duševný smäd úplne ukojil   Pierrovým hútaním vo „Vojne a mieri“. — Veď je to všetko také   jednoduché! Konečne je predsa na svete Boh, a ten vie, čo robí! Čože   sa mu ja budem do jeho remesla miešať? — A „hĺbka“ je vôbec to, čo   nerozumieme. Mne napríklad je každý nemecký filozof hlboký.   Profesorovi, ktorý sa zahráva s rôznymi pochopmi a filozofickými   systémami, nie je hlboký, ale po prípade — nuž nie hlboký. Mal som   jedny hodinky „Omega“. Ešte v pokoji som ich bol kúpil za 20 korún.   Chodily tak báječne, že som všetky stávky ohľadne času s nimi   vyhrával. Raz mi, zdanlivo bez všetkej príčiny, zastaly. Naťahoval   som ich, klepal nimi, šparchal nožíkom v nich; slovom, použil som v   takýchto prípadoch obyčajné domáce prostriedky. Keď to všetko   nepomohlo, zaniesol som ich na priateľovu radu hodinárovi. O dva   týž-
+   </tei:p>
+   <tei:p>
+    86
+   </tei:p>
+   <tei:p>
+    ﻿dne mi ich hodinár poreparoval a vrátil. Za prácu žiadal len 150   korún. V tejto cene som nachádzal tiež hĺbku. Taktiež ma aj krajčír   prekvapuje svojou hĺbkou, keď mi za ušitie šiat zacengá 1000 alebo   1200 korún. Sú veci, ktorým nerozumiem. Triču som poznal už   dávnejšie. Vždy sa shovárala so mnou priateľsky, ale nevyznačovala   ma. Mala zvyk pri rozlúčke podať len končeky prstíkov, ktoré tiež   hneď vychytila. Je to osôbka náramne vzdelaná. Vie všetko na svete, a   to omnoho lepšie ako každý iný. Hĺbka jej duše, vyzerajúca jej z očú,   je taká, že sa človeku hlava zatočí, keď do nich hľadí. Tejto   duševnej hĺbke som pripisoval, že od tých čias, čo som sa stal   direktorom banky, zabudla vše svoju mäkkú ťapôčku v mojej ruke, v   ktorej som ju ja držal, pravdaže, s primeranou nežnosťou a so   zodpovedajúcim prekrúcaním očú. Keď som si napokon dovolil tú   radostnú ručičku trochu stisnúť, nuž mi ju s hanblivým „nó“   vychytila. Ó, ty zlatá, drahá Triče! Raz večer, keď bola mimoriadne   vábne oblečená, keď som napásol oči na jej bielom krku a — ach — tak   rozkošne okrúhlych ramenách, bol som pevne presvedčený, že bez jej   hlbokej duše by môj život bol úplne prázdny. Keďže ja prázdnotu   nenávidím, oznámil som toto pozorovanie Triči. Výsledok bol, že Triče   oprela svoju hlávku o moju dobre naškrobenú košeľu a podala mi svoje   sladké ústa. Po prvom — nie podľa mojej vôle dopadnutom — bozku   zmizla ako plachá laň v susednej izbe. O niekoľko týždňov sme boli   svoji.
+   </tei:p>
+   <tei:p>
+    87
+   </tei:p>
+   <tei:p>
+    ﻿Tri-štyri dni po sobáši som odišiel do banky s pocitom blaha, že   mám také žieňa. Keď som sa vrátil, našiel som Triču v spálni. Mala   lakte opreté o stôl a držala si rukami hlavu. Dívala sa zúfalo pred   seba ako do nedohľadnej diaľky. — Pá, zlaté dieťa, — riekol som   nežne, trasľavým hlasom a ponáhľal som sa k nej. Triče ani okom   nemihla. — Čo ti je, radosť moja, ty moje jediné blaho, čo ti je?   Mrdla plecom. Objal som jej plecia a nahol svoju tvár k jej ružovému   ušku a šeptal doň hlasom, láskou sa trasúcim. — Anjel môj, čo ti   chýba? Nedaj sa mi trápiť, povedz, čo ti urobili? Triče vstala,   odsotila ma dosť nenežne a odišla do susednej izby. — Nič, — povedala   pri chôdzi a potom s nevýslovným opovrhnutím: — A čo teba do toho!   Zavrela za sebou dvere s neodtajiteľnou rozhodnosťou. Myslím, že   každý iný muž by bol v tomto prípade to urobil, čo som urobil aj ja.   Díval som sa totižto na zavreté dvere s otvorenými ústami a očami. Po   chvíli som sa presvedčil, že mi to nič neosoží. Chodil som teda po   izbe, hmkajúc a škrabúc sa za ušami. (Tiež v takýchto okolnostiach   všeobecne užívaný prostriedok.) Ale ani toto nič neosožilo. Konečne   som sa rozhodol a šiel za Tričou. Dívala sa oblokom, veselo sa   usmievajúc, ako by nič.
+   </tei:p>
+   <tei:p>
+    88
+   </tei:p>
+   <tei:p>
+    ﻿— Triče, povedz mi, čo máš oproti mne? Na všetko na svete   prisahám, že nemám ani potuchy, prečo sa hneváš? — Verím ti, lebo si   taký, ale taký sprostý! Bol som šťastlivý, že mi nadala do   sprostákov! — Prečo, anjel môj drahý? A tak vyšlo šidlo z vreca.   Videla na ulici nejakú viedenskú dámu, ktorá mala taký klobúk — ale   vieš, to bol klobúk! a nie vecheť, strašidlo, ako si ty mne kúpil.   Klobúk si ona sama bola vybrala pred troma dňami za akýchsi 500 Ks.   Vyzerá v ňom neopísateľne báječne. Do zjedenia! Povedal som: — Vieš   čo, Triče, pôjdeme pozajtre do Viedne, tam si kúpiš, čo budeš chcieť.   Dobre? Sadla si na diván, rozšírila svoje krásne ramená oproti mne a   riekla len slovíčko: — Poď! Vo Viedni kúpila akýsi komplikovaný   širák, ktorý jej skutočne naskrze nestál dobre. Doma ho hodila do   kúta a nosila ten, ktorý mala, hoci ten viedenský ukazovala každej   priateľke, len preto, aby im vôľu urobila dobrú, budiac ich závisť.   Vo Viedni kúpila v istom bláznivom lahôdkárskom obchode i Holothurien   Trepang. Priemerný občan Republiky iste nevie, čo je to. Ani ja som   nevedel. Teraz viem. Ani moja žena nevedela, a teraz už tiež vie.   Holothuria je hnusný morský červ. Číňania, ktorí všetko na svete   zožerú, ho jedia. Vysušia tie obludy, Parom vie, ako ich pripravia, a   potom to jedia. Skutočne jedia. Že je to vraj delikatesa, povedal   obchodník. Moja žena, ktorá je o tom presvedčená,
+   </tei:p>
+   <tei:p>
+    89
+   </tei:p>
+   <tei:p>
+    ﻿že všetko vie, urobila tvár, že sa to rozumie, že delikatesa, a   kúpila tej paškrty za buxu. Vyzeralo to ako akési sušené korene, a   keď sme to nedôverčivo ovoniavali, nuž to — onô — posmrdkávalo. Triče   tvrdila, že to má báječnú vôňu a chuť, keď sa primerane pripraví.   Povedal som: — Triče, ja ti verím. Rob, ako najlepšie vieš. Len na to   nerátaj, že by som i ja z toho jedol. Keď som šiel nasledujúci deň na   obed domov, videl som, že sa v uličke, v ktorej bývame, každý obzerá   a akosi čudne nosom krúti. Nosom a hlavou. Vojdúc na schodištc svojho   bytu, bol som s celou záhadou načistom. V celom dome zapáchalo   zhnitými morskými rybami. Tento zápach bol kombinovaný so zápachom   uschnutých koží, ktoré by boli močili v akejsi cesnakovej omáčke. Na   schodoch obyvateľstvo domu v troch rečiach našej vlasti vymieňalo si   temperamentným spôsobom svoje poznámky. Pred našimi dverami viedly   divý pozičný boj naše dve slúžky a sluha z banky, Martin, oproti   domovníkovcom a proti dvom policajtom s obuškami. Urobil som boju   koniec a pristal na všetky tvrdé podmienky, ktoré mi malá dohoda pred   dverami nadiktovala. V byte som našiel porozhadzovaný Náučný slovník   a asi tucet kuchárskych kníh v rôznych rečiach. V spálni na diváne od   plaču až podhadzovalo Triču. Vyzerala ako celý chór plačúcich žien v   Euripidovej tragédii. — Triče zlatá, drahá, neplač, dieťa moje. Utíš   sa. Triče vyskočila, a odhrnúc si bujné vlasy s tvá-
+   </tei:p>
+   <tei:p>
+    90
+   </tei:p>
+   <tei:p>
+    ﻿re, zastala predo mnou a vystrela oproti mne ramená ako   chórovodkyňa. — Utíš sa, hej, utíš sa, — rapčala s ohromnou   zručnosťou, šermujúc jazýčkom, — ľahko tebe hovoriť utíš sa. Mne   povedala domovníčka „osobo“, vieš, „osobo“ mi povedala, sprostá   domovnica. Pravdaže Češka! Uvidíš, že nás tí Česi vyženú z krajiny. A   policajti! Aká bezočivosť! Nikdy by si za Maďarov nebol dovolil   policajt niečo takého! Jeden z nich — to bol Slovák — opýtal sa   Milky, či to nejaké zhnité mŕtve dieťa nepálime! Ach, a tá hus sa mu   do očú rehlila, nie žeby mu bola tie jeho nehanblivé bleskáne   vyškriabala. Ten druhý policajt, Čech, pomysli si tú impertinenciu,   povedal, keď mu vyrozprávali, že to akási morská lahôdka tak   zaváňala, žeby sme si „honem“ zjedli, čo sme si navarili, lebo ten   zápach celé mesto vyženie do cudziny! Nasledoval plač, usedavý plač.   Na nešťastie som sa trochu usmial a podotkol, že ten český policajt   mal trochu pravdy a že domovníčka tiež iste len vtedy použila ten   výraz „osobo“, bez otázky náramne urážlivý, keď jej Triče iné, možno   ešte dôkladnejšie charakteristiky bola nastolila. Triče povedala, že   jej vôbec nenadala, že zachádzala s ňou ako s grófkou a že len vo   všeobecnosti podotkla, že sú domovníčky bezočivé a sprosté a že sú   nevzdelané kravy, ale že je to celkom iné, aTco kéď jedna   domovníčka nadá do „osôb“. Ináč ma ubezpečila, že ona už dávno   vedela, že som ja jej najväčší nepriateľ a pritom človek úplne   nevzdelaný, ktorý ani toľko nevie, že trepang je
+   </tei:p>
+   <tei:p>
+    91
+   </tei:p>
+   <tei:p>
+    ﻿jednoduchý, fabrický vyrábaný a potom komprimovaný smradľavý plyn,   ktorý Číňania upotrebúvajú v boji. — A za takého človeka som sa ja,   nešťastná, vydala! Ani minútu tu nezostanem. Idem domov, mám sa,   chvalabohu, kam obrátiť. Aký je to muž, ktorý nechá svoju ženu tak sa   blamovať? Po dvojhodinovom boji som dostal Triču konečne tak ďaleko,   že nepôjde domov. Uznal som všetky svoje chyby, medziiným, že som sa   oproti nej zákernícky a škodoradostne správal, čo je nezmazateľná   hanba pre mladého ženáča. Za náhradu musím s ňou ísť na mesiac do   Talianska, a to preto, aby za mesiac sa mohol náš byt poriadne   vyvetrať a aby jej priateľky neposielaly k nej o recept, ako sa má   pripravovať trepang, čo by tie zmije iste nezameškaly urobiť. — Lebo   sú to jedovaté zmije, — tvrdila Triče, zatnúc biele zúbky a hroziac   krvilačné päsťou. Podvečer bola veľmi milá, lebo sme preberali otázku   cestovných toaliet. Keď sme boli s touto vážnou otázkou hotoví, sadla   si mi na kolená a bavila sa so mnou ako s dieťaťom. Štípala ma v   ucho, pýtajúc sa, či to bolí? Ja som, pravda, veľmi jojkal. — Nonono,   neplač, maličký, — riekla a pohladila ma po líci a zúbkami mi hrýzla   ucho. Potom sme sa bavili na gumového Číňana. Musel som naduť líca a   ona mi ich obidvoma pačkami stisla. Od tlaku musel som ako pajác   naraz vystrčiť jazyk, keď ma potiahla za kožku pod bradou. Niekoľko   ráz sme tento kumšt urobili, ale akosi sa ani raz nepodaril k jej   úplnému uspokojeniu.
+   </tei:p>
+   <tei:p>
+    92
+   </tei:p>
+   <tei:p>
+    ﻿Povedala: — No ešte raz, — a fapla ma dosť silne po lícach.   Vystrčil som jazyk. Skočila mi z lona a rozkázala: — Podrž tak jazyk,   kým neprídem. Ja som hneď a hneď tu, — i odbehla. Ja som sedel s   vytrčeným jazykom, lebo niekedy ma špehovala, a keď videla, že   neposlúcham, nuž sa hnevala ako pre hocijakú vážnu vec. Sedel som   štvrť hodiny, nechodila. Konečne som zavrel ústa a šiel pozrieť, čo   je s ňou. Milka mi povedala, že sa milosťpani rýchle obliekla a šla   na prechádzku. Myslel som si svoje o nej a sám o sebe som si tiež dal   na vedomie okolnostiam primeranú mienku. O niekoľko dní sme šli do   Talianska. Cesta by bola bývala dosť príjemná, keby nebolo bývalo   veľkej vzdelanosti Tričinej. Ale Triče pokladala za svoju povinnosť,   ako vysoko vzdelaná dáma, aby bola náramne milá voči každému   cestujúcemu. Lebo ozajstná „lady“ je bez rozdielu stavu voči každému   zdvorilá a milá. To bola jej nezvratná zásada. Nuž pravda je, ona na   stav skutočne nehľadela a bola milá voči civilovi práve tak ako voči   vojakovi. Triče hľadela viac na vek a na pohlavie a nemohla byť milá   k starším pánom a k ženským vôbec*- Človek konečne ustane, bola jej   mienka. Prisvedčil som jej múdro. V Udine vošiel do nášho kupé   impertinentne fešný taliansky kapitán od alpínov. Bol vysoký, štíhly,   mal čierne fúziky a oči ani žeravé uhlíky. Obzrel si Triču veľmi   neženírovane, salutoval a riekol: — Bon giorno, bon jour!
+   </tei:p>
+   <tei:p>
+    93
+   </tei:p>
+   <tei:p>
+    ﻿Triče s najľúbeznejším úsmevom a s prvotriednou hrou očú odvetila:   — Bon jour, monsieur! Triče kope francúzštinu, no ale nejako sa   predsa dohovorili. Ja, ako pravý slovenský bankový direktor, neviem   ani slova po francúzsky. Preto som pre tých dvoch vôbec prestal   jestvovať. Sedel som ticho ako nejaký cestovný kufrík, usilujúc sa   podľa možnosti vyzerať inteligentne a impozantné. Mnoho som tým   nevyhral, lebo ani Triče, ani kapitán si ma vôbec nevšímali, ani   ňepozŕeli’lnoju stranu.TKapitán bol do nevystátia galantný a   víťazstva istý a Triče milá a koketná. Bože drahý! Aká bola milá. Bol   by som ju s radosťou zaškrtil! V duchu som sa zabával tým, že keď raz   Juhoslovania udrú na Talianov, že kapitán príde do rúk divému   Bosniakovi. No ten ho vyplatí! S pôžitkom som si predstavoval, ako   bude ten bedár úpenlivé prosiť o zmilovanie. — Nie! Len po ňom, —   zvolal som mimovoľne hlasne, na čo sa ti dvaja predsa len obzreli na   mňa. V Trevize, kde vlak stál hodinu, vystúpili celkom neženírovane,   nepovediac mi ani slovíčko, že pôjdu von. Kapitán na mňa posmešne   fľochol a Triče mi vrhla: — Daj pozor na batožinu! Ó, Triče, Triče!   Moja potecha a nádej spočívala v tom, že sú Taliani v ofenzíve nie   práve prvotriedni Vo Ferare konečne vzal kapitána dia . . . — pardon,   vystúpil. My sme šli ďalej do Pizy. Trochu skúsenejší republikán by   nad našou cestou hlavou krútil:
+   </tei:p>
+   <tei:p>
+    94
+   </tei:p>
+   <tei:p>
+    ﻿„Veď tí ľudia jednoducho obchádzajú každé význačnejšie mesto.“   Trochu skúsenejší republikán by mal pravdu: skutočne sme obchádzali   každé význačnejšie mesto. Triče totiž, ustaľujúc čiaru našej cesty,   povedala, že tými dráhami, ktorými každý zbohatnutý keťas cestuje, my   nepôjdeme. Nebudeme prvotiny našej lásky roztriasať po hoteloch, v   ktorých už tisíce iných novomanželov ponechávalo stopy svojho   nečistého (ó, Triče!) milovania. Nebudeme obdivovať obrazy a umelecké   diela, znešvárené pohľadmi a poznámkami tisícov nerozumných plebejov   a zbohatlíkov! Nuž tak. Preto sme nechali stranou krásnu Veneciu,   staroslávne Firenze a večný Rím. Namiesto toho šli sme cez Feraru,   Boloňu do Pizy. V týchto mestách naša obdivuhodná neznalosť umenia   nebola taká veľká, lebo nebolo v nich toľko umeleckých pamiatok ako v   obídených, a tie pamiatky, ktoré tam predsa boly, nemalý taký veľký   kultúrny význam, takže ich neznalosť nebola s takou hanbou spojená.   Triče síce poznala so päť-šesť talianskych maliarov, s ktorými ma   ľahko k stene pritisla, avšak na Benátky alebo Firenze to bolo predsa   len veľmi málo. Lenže sa naša špekulácia s Pizou v tomto ohľade vôbec   nevydarila. V Pize je mnoho krásnych umeleckých pamiatok a je tam   jedna, ktorej niet vôbec rovnej na zemi. Campi šanti — hrobitovy — sú   v mnohých talianskych mestách. Rozumiem hrobitovy umeleckej ceny.   Pizanský campo santo je oproti dómu umiestená gotická stavba, iste   jedna z najutešenejších na sve-
+   </tei:p>
+   <tei:p>
+    95
+   </tei:p>
+   <tei:p>
+    ﻿te. A vôbec, ktorý sloh by lepšie zodpovedal hrobitovu ako   gotický! Tento sloh je výplodom stredovekej, duševnými a telesnými   strasťami umorenej, inde ako u Boha potešenie nájsť nemohúcej duše.   Výrazom tejto zasmušilej, len k nebesiam o pokoj sa vypínajúcej duše   sú tajomné chrámy so svojimi tmavými kryptami a v nekonečnej výške sa   tratiacimi vežami. K Tebe, ó, Bože, len k Tebe sa ťaháme z tohto   ukrutného, vojnami, hladom, morom, všetkými apokalyptickými jazdcami   stále preburcovaného údolia plaču a sĺz! Campo santo je bohaté múzeum   najzaujímavejších umeleckých a historických predmetov. Lebo dlhé   arkády sú, medziiným, pokryté krásnymi a vysoko interesantnými   freskami Benozza Gozzoliho, ktorý na biblickom základe vyobrazuje   vlastne stredoveký život svojho okolia. A je tu aj ten obraz, ktorý   iste zo všetkých obrazov sveta najvýraznejšie a najúčinlivejšie   sprostredkuje pocit ukrutnosti smrti a strach ľudský pred ňou:   Trionfo delia morte! Prostriedkom XIV. storočia pustošil v Európe   strašný mor. Po jeho zaniknutí duša neznámeho umelca hodila svoje   dojmy na stenu krásnych arkád, dojmy, ktoré boly výplodom ukrutných   skúseností z prehrmevšieho nivočenia ľudstva. Na obraze vznáša sa   strašná ženská príšera — la morte — s ohromnou kosou, nad pármi,   milkujúcimi sa v pomarančovom sade, a nad pánmi, idúcimi na bujných   paripách na poľovku. Zem je už pokrytá príšerou skosenými boháčmi,   tyranmi. Nad ľúbiacimi sa vznášajú sa géniovia smrti a kone panstva   fŕkajúc zastaly pred otvorenými hrobmi s rozkladajúcimi sa mŕtvolami.   Sbor mrzáckych žobrá-
+   </tei:p>
+   <tei:p>
+    96
+   </tei:p>
+   <tei:p>
+    ﻿kov darmo prosí smrť úpenlivým volaním o vyslobodenie. Len v bore   niekoľko pustovníkov končí oddane do vôle božej svoje každodenné   modlenie. Obloha je pokrytá ukrutnými diablami, odvláčajúcimi svoju   korisť do večného ohňa a utrpenia. Vydýchnime si. Do Pizy sme prišli   neskoro večer a usalašili sme sa príjemne v peknom hoteli Minerva pri   stanici. Ráno Triče vstala veselá a švitorila ako vtáča na jar.   Hovorila dve na tri o umení, o Talianoch a robila si blázna z   kapitána. Ja som sa s úľubou díval na ňu a vše som jej podhodil   nejakú poznámku, aby tok jej reči neprestával, ako keď kvietie, v   lúčnom potôčiku nasbierané, vyberieme, aby voda voľnejšie žblnkotala.   Po raňajkách sme sa šli prechádzať mestom. Triče mala na svižných   nôžkach rozkošné vysoké topánky a na hlave klobúk, ktorý ju robil   takou chutnou, že by pre ňu Andrea del Sarto iste do pekla bol poslal   svoju Lukréciu. Z mäkkého boa jej vykukával pikantný noštek a   červené, stále tvar meniace pery. Na Piazza del duomo sme si obzreli   dóm, battisterio a krútili hlavou nad šikmou vežou, a obzrúc zvonku   campo santo, vošli sme dnu. Triče behala v campo santo ako s kvetu na   kvet poletujúci motýľ, od predmetu k predmetu, robila svoje   prostopašné poznámky, rada by bola oberala hrozno s Gozzoliho   vinobrancami, obzerala zvedavo cisárovu hrobku a konečne prišla ku   mne. Ja som stál zahrúžený pred Trionfo delia morte. Triče sa   postavila tiež ku mne a dívala sa. Oči sa jej roztvorily, ústa   skrivily ako dieťaťu, keď ide
+   </tei:p>
+   <tei:p>
+    7 Kozinský mlyn
+   </tei:p>
+   <tei:p>
+    97
+   </tei:p>
+   <tei:p>
+    ﻿plakať. Obidvoma rukami ma chytila kŕčovite za rameno a zašeptala:   — Andrej, poďme. Vyšli sme po palcoch, ako by sme sa báli, že nás tá   hrozná obluda zbadá. Odišli sme od campa santo hodne ďaleko. Triče   zastala, obzrela sa a riekla neobyčajne vážne: — Andrej, to je   strašné, tie zhnité mŕtvoly! A lá smrť, ja už nikdy nebudem dobre   spať a neopovážim sa vo tme byť. — Veru, je to ozaj obraz,   otriasajúci dušu. — Vieš, že sme my zlí? Aspoň ja som veľmi zlá a   ľahkomyseľná. Andrej, odpusť mi. Ja som proti tebe vždy bola   nespravodlivá. — Ale, ale, ty dieťa. Čo ti prišlo na um? Buď len   taká, aká si bola. — Andrej, poďme do dómu, možno, že bude ešte omša.   Vošli sme do dómu. Jeho ohromná loď zavalí sa svojím priestorovým   dojmom na dušu, že človeku dych zastane. Tichučko sme kráčali k   jednému z oltárov, pred ktorým kňaz slúžil omšu, a kľakli sme si v   lavici pred ním. Triče pohybovala perami, šepkajúc akúsi modlitbu.   Iste ešte nejakú detskú, lebo inú sotva vedela. Celý deň bola ako   vymenená. Chodila, hovorila vážne. Oproti mne bola náramne pozorná,   všetko urobila, čo som navrhol. Bozkať sa nechcela dať. — Pomysli,   Andrej, na tú krásnu paniu na tom hroznom obraze, nad ktorou sa   vznáša anjel smrti. Pomysli, Andrej, a buď dobrý. Ja ťa i bez bozkov   mám rada a budem ti vernou ženou. Pomyslel som si, že je dobrého   priveľa. Vcelku som bol s Tričou veľmi spokojný a pomyslel som
+   </tei:p>
+   <tei:p>
+    98
+   </tei:p>
+   <tei:p>
+    ﻿si, že by ten Trionfo bola veľmi dobrá kúra pre podobné ženičky,   ako je Triče. Šiel som do kníhkupectva a kúpil som všetky možné   pohľadnice, zobrazujúce celý Trionfo a jeho jednotlivé čiastky. Medzi   detailmi bola i pohľadnica so smrťou. Ozaj desná figúra.   Nepochopiteľné, ako ten umelec vedel toľko zloby a nemilosrdenstva   vložiť do niekoľkých črt tváre. Pohľadnice so smrťou — kúpil som ich   celý tucet — som odložil osobitne, aby som z nich príležitostne jednu   Triči mohol podhodiť. Na druhý deň ráno, pri obliekaní, po istom   okolkovaní mi oznámila, že mi chce čosi povedať. Behala okolo mňa v   krátkej spodnej sukničke, rezko prepletajúc štíhlymi nôžkami.   Priblížila sa ku mne a zastala so sklopenými očami. — Andrej, chcem   ti čosi povedať. Ale, ale sa trochu hanbím. Srdce sa mi od radosti   zatriaslo: „Bože, aké drahé tajomstvo mi chce prezradiť moja zlatá   Triče.“ — Hovor, anjel môj, — povedal som dojato, stiesneným hlasom.   — Andrej, ja by som chcela ísť na spoveď. — N-na, keď len to! Môžeš   ísť, kedy sa ti páči, — odvetil som sklamaný a viazal ďalej kravatu.   — Lenže viem spoveď len po slovensky, a tu ma ani jeden kňaz   slovensky neospovedá. — Francúzsky ju vieš? — Nie veru, ani tak nie.   — No, to je chyba. Ale možno soženieme v ne-
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    99
+   </tei:p>
+   <tei:p>
+    ﻿jakom kníhkupectve francúzsku modlitebnú knižku, v ktorej bude aj   spoveď. — Dobre, oprobujme, a kňaza tiež nájdeme. — Ktorý sa po   francúzsky zmiluje nad úbohou hriešnicou. Triče skrúšene vzdychla: —   Veru, veru. Do poludnia sme chodili za knižkou a kňazom. Knižku sme   chytro našli a kaplán pri chráme San Nicola vedel po francúzsky.   Popoludní sme šli do chrámu, kde nás kaplán čakal. Triču som oddal   kostolníkovi, ktorý ju viedol do sakristie ku kňazovi, a oprúc sa o   ostatnú lavicu, obrnil som sa trpezlivosťou na dobrú hodinu. O päť   minút prišla Triče nazad. Kývla mi, aby som išiel za ňou. Šiel som.   Na ulici sa dívam s otázkou na ňu. — Nuž čo je, Triče? — Vieš,   nemohla som sa mu ospovedať, — i pokrútila nosom. — Strašne páchol —   potom. Nuž odbehla som, haha. Myslel som si, že Trionfo začína tratiť   účinok. Pri večeri chcela nasilu polentu s parmezánom. Vyhováral som   jej to, že je to predsa hlúpa kukuričná kaša so zlým syrom. — Ale   pomysli si, v Taliansku byť, a ani neokúsiť talianske národné jedlo!   Aká to povrchnosť a aký znak nevzdelanosti. Pomysli si, cestovatelia   po neznámych krajoch čo všetko ochutnajú, aby mohli o tom písať, a ja   ani len polentu nemám okúsiť! Videl som, že sa neobránim, i zavolajúc   garzoneho, rozkázal som polentu s parmezánom. Čašník sa s úsmevom   podíval na Triču a odbehol.
+   </tei:p>
+   <tei:p>
+    100
+   </tei:p>
+   <tei:p>
+    ﻿Ja som si osve rozkázal pečienku ä la Chateaubriand, obloženú   citom, a očakával ju, prežierajúc tu i tu lačné sliny. Triče, čakajúc   s najsvätejšou tvárou, robila dosť veselé poznámky na ostatných   hostí. 0 dobrú polhodinu doniesli na strieborných misách polentu a   pečienku ä la Chateaubriand. Polenta vyzerala i na striebornej miske   smutne. Darmo je: smutne. Chateaubriand vyzeral skvele. Chutne   zaváňalo do temnočervena upražené mäso medzi rôznou zeleninou a inými   vkusne porozkladanými príložkami. No, mľasknúc, vzal som nôž a   vidličku do rúk. Triče pozrela prekvapeno na polentu, sošpúlila   pyštek a povedala: — Brr. — Bez všetkého, najjednoduchším pohybom   vzala môjho Chateaubrianda a posunula mi polentu. Prepustil som jej   tú pečienku vďačne, ale rozhodne vďačne. No, keď hovorím, že vďačne!   Polentu som — rozumie sa — odstrčil a zavolal čašníka, aby doniesol   niečo iného. Čašník prišiel, na moje rôzne dotazy mrdal s ľútosťou   plecami. Je vraj už neskoro. Bol som hladný. Zjedol som polentu.   Zvláštne to nebolo. Ráno som musel na chvíľku odísť. Použil som   príležitosť a podhodil som strašnú smrť z Trionfo Triči. Myslel som,   že jej už porcia tej medicíny nezaškodí. Keď som sa vrátil, našiel   som ju pri stolíku čosi kresliť. Skočila, hodila sa mi na krk, a   šialene ma vybozkávajúc, zvolala: — Ó, ty, ty, ty sprostáčik, ty!
+   </tei:p>
+   <tei:p>
+    101
+   </tei:p>
+   <tei:p>
+    ﻿Úbohej smrti na pohľadnici namaľovala bradu, fúziská a strčila   dymiacu zapckačku do úst! No ale nech! — Myslel som, že radšej zlú   Triču s bozkami ako dobrú bez nich!
+   </tei:p>
+   <tei:p>
+    102
+   </tei:p>
+   <tei:p>
+    ﻿Človek a smrť
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Dr. Boris Makarov prišiel domov po pohrebe svojho druhého a   posledného dieťaťa. Za desať dní mu zomrela žena a dvoje detí na   záškrt. Kráčal z izby do izby, všade boly rozhádzané pozostatky   smutného obradu. Videl postieľky — prázdne, navždy prázdne — v   ktorých trpeli jeho najmilší. Jeho Feďka, jeho radostný chlapček, s   akou dôverou otváral ústa, keď mu to rozkázal, aby ho beznádejným   liečením darmo mučil, jeho sipľavý hlas mu znel v ušiach, cítil jeho   mäkkú, horúcu rúčku a videl rozšírené, zostrašené oči.. . Spadol na   pohovku a cítil svoj žiaľ ako ostrý telesný bôľ v prsiach, že sa   mimovoľne udieral päsťou do nich, aby ho utlmil. Jeho žena, jeho   sladká Mášenka, koľkokrát sedel s ňou na tej pohovke, koľkokrát boli   pri nich ich rozkošné deti, ktoré im takú neopísateľnú radosť   spôsobilý svojím rozvíjajúcim sa umom. Po všetkom tom blahu zostal v   byte len zápach karbolu, rôznych liekov a predmety, ktoré ho tak   bolestne, clivo upomínaly na šťastie, ktoré stratil naveky. Vstal a   motal sa do svojej ordinačnej izby. Šiel, socajúc sa v polovičatom   bezvedomí. Len jedna myšlienka ho ovládala a hnala: odísť, odísť z   tohto domu, lebo cítil, že nech zostane medzi tými pamiatkami svojho   strateného blaha, že stratí rozum. Vyňal z písacieho stola všetky   peniaze, čo mal
+   </tei:p>
+   <tei:p>
+    105
+   </tei:p>
+   <tei:p>
+    ﻿v dome, a zo skrinky na lieky belasú fľaštičku s kyselinou   cyanovodíkovou a odišiel. Bol pevne presvedčený, že muky, ktoré rujú   jeho dušu, dlho nevydrží, a preto vzal so sebou ten okamžite smrtiaci   jed, aby ním urobil koniec, keď pocíti, že nemá na živote nijakého   záujmu, ani toho nie, žeby pozoroval trápne zmietanie sa svojej duše.   Bola zima, už mrkalo, a on šiel bez cieľa ulicami Moskvy. Bolo mu   všetko jedno, kam ide: jeho najdrahší dotrpeli a odišli bez neho,   možno, že sa síde s nimi, keď sa pominie. Bolo veľmi zima a on len v   akomsi tušení cítil, že mrzne, a nemysliac ani na to, reflexívne   vošiel do veľkej otvorenej dvorany stanice, ktorá bola naplnená   cestujúcim obecenstvom. Šiel medzi ním ako slepý, socali ho zprava,   zľava. Mnohí sa i obzreli za mužom s bolestne smraštenou tvárou a   mnohým ťažko zapadly na dušu vlastné žiale, keď videli ten stelesnený   bôľ. Makarov vyšiel na perón, bez rozmýšľania vošiel do otvoreného   vozňa tretej triedy a učupil sa v kútiku sťa smrteľne ranené zviera.   Bolo mu celkom všetko jedno, kam pôjde vlak. On len z toho mesta   chcel ujsť a trýznením tela umŕtviť duševnií bolesť. Voz sa naplnil   mužíkmi, kupčíkmi, ktorí sa živo rozprávali o udalostiach, zažitých   cez deň v Moskve. Makarova si zprvu ani nevšimli, ale po chvíli   ukazovali na neho myknutím hlavy alebo zatajenými posunkami. Dajedni   mysleli, že je hádam opitý a že drieme ten shrbený, do seba zahrúžený   človek. Jednak podnapitý mužík ho udrel po pleci: „Čo, braté,   vyspávaš? Rozveseľ sa!“ Makarov zdvihol k nemu tvár. Žiarila z nej   taká beznádejná, zúfalá bolesť, oči mal také sklené, ne-
+   </tei:p>
+   <tei:p>
+    106
+   </tei:p>
+   <tei:p>
+    ﻿výrazné, že i ten podnapitý človek zamíkol. Hovorili okolo neho za   čas šeptom, ako v izbe veľmi chorého človeka. Noc sa míňala a na oči   Makarovove neprichádzal spánok. Jeho duša blúdila v minulosti a jeden   drahý, žiaľny obraz stihol druhý a jeden ťažký vzdych za druhým   dvíhal jeho prsia. Konečne sa začalo brieždiť. Oblokmi bolo vidno   sivejúce sa snežné polia, s tu i tu roztratenými lesíkmi a krovím.   Slnce pomaly vychádzalo a vrhalo na kraj vždy ostrejšie svoje   ohnivočervené žiare. Makarovove duševné bôle, ustatosť, nepovedomý   hlad a smäd — už skoro od troch dní nepožil nič, okrem trošky čaju —   tak zoslabily, tak zničily každú jeho životnú energiu, že sa odhodlal   urobiť svojmu životu koniec. I to ráno, to smutné vychádzanie slnka,   tie hlboké tône na šírej, ako by beznádejnej rovine, všetko ho ťahalo   ta preč s tohto sveta, do večného odpočinku, kde viac nič nebolí.   Ohmatal vo vrecku fľaštičku jedu: mal ju. Prišli na stanicu veľkej   dediny a Makarov sišiel s vlaku. Vstúpil bezmyšlienkovite do dediny a   medzi najprostejšími domami videl nápis: Hospoda. I vošiel do nej.   Bola to široká, rozľahlá miestnosť s lavicami a stolmi okolo stien; v   jednom kúte stála veľká pec, do ktorej práve začala kúriť ošumelá,   stará babka. Izba urobila na Makarova so svojou temnotou a špinou   príšerný dojem, ktorý ho utvrdzoval v jeho úmysle: urobiť koniec.   Sadol si do kúta a zavolal chripľavým hlasom: — Čaj! — Hneď bude, —   odvetila baba pri peci a prikladala na práskajúce triesočky hrubšie   kusy dreva.
+   </tei:p>
+   <tei:p>
+    107
+   </tei:p>
+   <tei:p>
+    ﻿Do izby vošiel strakatý pes strednej veľkosti a nesmelo, s   chvostom, vtiahnutým medzi nohy, chodil po izbe. Prišiel pred   Makarova a díval sa na neho smutnými očami. Makarov sa zadíval do   tých utrápených očú a človek i pes si porozumeli. Pes pristúpil k   nemu, lízal mu ruku a Makarovovi sa zdvihly prsia, i vložil hlavu na   stôl a vzlykal. Všetky bôle, ktorými príroda zavalila svoje deti,   zaľahly mu na dušu. Pes ticho, bolestne vyl pri ňom. Baba doniesla   čaj. Makarov vypil z neho, dívajúc sa na biedneho, žobravého psa.   Kázal mu doniesť hocijaký pokrm a hodil ho zvieraťu, ktoré sa chtivé   dalo doň. Makarov ho pozoroval a potom si smyslel, že najprv sa   postará oň a potom pôjde na tú cestu, s ktorej niet návratu. Zaplatil   a šiel, pes kráčal za ním, nechajúc ležať nezožratý pokrm. Vošiel do   viacerých domov; psa nechceli nikde prijať. Vedel, že keby núkal   peniaze za jeho držanie, tak by ho vzali naoko, ale ako by odišiel,   odohnali by ho. A keď prešiel niekoľko domcov, videl všade toľko   nevedomosti, toľko starostí, choroby a hriechu, že nahliadol, že nie   je údelom človeka byť šťastlivým na svete. Pomyslel si, že venuje   svoj stratený život tým úbohým, utrápeným a vo svojej nevedomosti   zlým ľuďom. Liečil ich a pomáhal radou — skutkom. Často nezískal   vďaku, ale hnev a nenávisť. Mnohým škodcom ľudu škodil a mnohí, zle   prevedúc nedobre pochopenú radu, ho preklínali. Nijaká, ani   najhnusnejšia práca mu nebola ťažká alebo ošklivá. Mal pocit, že   svojím čo najväčším utrpením a po-
+   </tei:p>
+   <tei:p>
+    108
+   </tei:p>
+   <tei:p>
+    ﻿nížením približuje sa čo najviac svojim opustivším ho drahým,   ktorí toľko pretrpeli. Za peniaze, ktoré doniesol so sebou, kúpil   veľkú chalupu a urobil z nej špitál, do ktorého nasnášal   najopustenejších a neliečených chorých. Nahovoril dve obetavé ženy,   aby mu v jeho diele pomáhaly: staršiu Marfu, ktorá viedla   hospodárstvo a kuchyňu, a mladšiu Soňu, bývalú študentku filozofie,   ktorá opatrovala nemocných. Marfa sa podujala i vyprosiť od ľudu   toľko potravín, koľko bolo pre nemocných a pre nich pri   najskromnejšom živote potrebné. Nevďačne dávali mužíci, ale živý   temperament a obratný jazyk Marfin urobil svoju povinnosť. Tí traja   ľudia nemali iný životný cieľ, ako čo najobetavejšie, čo   najtrpezlivejšie pomáhať svojim bratom a sestrám, za čo považovali   svojich spoluľudí. Raz doniesol Makarov do nemocnice, v ktorej aj on   mal izbičku, šesťročného chlapca. Našiel ho v chalupe zomierajúcej   žobráčky, v neopísateľnej biede a nečistote. Skoro nahé dieťa trčalo   v smetiach, cmúľajúc od hladu vyziabnuté prsty. Dívalo sa na neho   veľkými čiernymi očami a len nasilu šlo s ním, trhajúc sa mu z ruky.   Makarovovi sa zdalo, že sa Míťa ponáša na jeho Feďku, i prilipol k   nemu všetkou láskou, ktorá bola v ňom nasbieraná dlhými spomienkami   na stratenú rodinu. Bol jeho pestúnom a učiteľom. Obliekal a umýval   ho a všetok voľný čas strávil s ním. Všetku útrpnosť, ktorú cítil   voči zavedenému a blúdiacemu ľudstvu, prelieval do jeho srdca. Kázal   mu, že nikdy, v nijakých okolnostiach ne-
+   </tei:p>
+   <tei:p>
+    109
+   </tei:p>
+   <tei:p>
+    ﻿smie svojmu blížnemu ublížiť. Najvyšší zákon mu bol, že treba   trpieť každé príkorie a smrť svoju i od svojich najmilších ľudí bez   pomsty a bez obrany. Hrozné činy pochádzajú zo zásady, že zlému treba   odporovať a predchádzať mu; preto sa ľudia vraždia, aby predišli   svojim nepriateľom, ktorí by to iste urobili s nimi. Keby sme boli   istí, že nás nebudú vraždiť, ani my by sme nevraždili druhých.   Makarov sám trpel každú neuznanlivosť a každú surovosť bez jediného   trpkého slova a naučil i Míťu trpieť bez odporu a bez hnevu každý   úder a posmech. Keď bol chlapec starší a chápal jeho reči, povyberal   zo všetkých vieronáuk a filozofických systémov len tie zásady, ktoré   potvrdzovaly jeho zásadu, a vštepil ich chlapcovi do umu. Platón,   Sokrates, Kristus, Budha, všetci trpitelia starí a moderní boli jeho   vzormi. Na hranici upálení a svojich vrahov žehnajúci martýri ho   oduševňovali. U Míťu padaly jeho slová na úrodnú pôdu, lebo bolo v   ňom hodne fanatizmu a hodne duševných vlôh za askézu a samožertvu.   Keď Míťa pod jeho vedením skončil gymnázium, poslal ho na vysoké   učenie do Moskvy, kde ho svetová vojna našla v lekárskej škole. Míťa   bol prívržencom všetkých náuk, chtiacich spasiť svet, ale zároveň i   krajným odporcom každého násilia. Aký to bol v ňom rozkol! Vypukla   revolúcia a Rusko sa zalialo krvou. Zlatú slobodu oslavovali všade   hromadným vraždením a Molochovi sprostosti a najbiednejšej zbabelosti   obetovali blúdiaci streštenci státisíce — ba milióny! — ľudských   životov. Akú masu žiaľu, bie-
+   </tei:p>
+   <tei:p>
+    110
+   </tei:p>
+   <tei:p>
+    ﻿dy, zúfalstva zapríčinili ľudia svojim nevinným spolutvorom pre   uskutočnenie ideí, ktoré sú, ako každá taká idea, dnes zdanlivé istá   pravda, a zajtra i u svojich hlásateľov — bláznivosť, lož! Biedny   červ, človek, si namýšľa, že je pánom prírody a nikdy sa nemôže z jej   oceľového objatia vymaniť, už aj preto nie, lebo je jej súčiastkou.   Vždy bude príroda nútiť človeka kráčať cestou, ktorou mu ona káže —   alebo zahynúť. Víťazstvá ľudstva nad prírodou sú len zdanlivé a   zakladajú sa práve len na poznaní zákonov prírody. Keď Makarov videl,   čo sa deje, utekal do Moskvy, aby upevnil Míťu v zásadách, ktorým bo   učil a v ktorých ho utvrdzoval celý svoj život. Míťu našiel   uveličeného, že nastupujú dni kráľovstva nebeského na zemi. Bol   jedným s najoddanejších zástupcov nových náuk a bol presvedčený, že   príde skoro čas, keď celé človečenstvo bude žiť v dokonalej rovnosti,   láske a v porozumení. Násilnosti a ukrutnosti odsudzoval a nedal sa   nijako nahovoriť, aby sa ich čo i najmenej zúčastnil. Predsa ho pre   jeho oduševnenosť a pre jeho obhajovanie komunistických náuk urobili   komisárom. Makarovovi sľúbil a prisahal na všetko, čo mu bolo drahé a   milé, že sa nedopustí nikdy nijakého násilenstva, radšej urobí prv   koniec so sebou. Makarov šiel uspokojený domov. Keď prišiel raz   popoludní do svojej nemocnice, našiel pred dverami na tráme zavesenú   nahú mŕtvolu Marfinu. Bola obesená tak, že jej povraz previedli cez   ústa, jej telo bolo samá rana a z prepáraného brucha jej visely črevá   na stehná. Vo dvo-
+   </tei:p>
+   <tei:p>
+    111
+   </tei:p>
+   <tei:p>
+    ﻿re našiel mŕtvolu Soninu ležať v roztrhaných handrách ako vozom   rozmliaždenú žabu. Vlasy jej boly s kožou strhnuté, podrúzgané údy   nemožne povykrúcané. Úbohé obete slobody národa! Makarova prestrelil   ten istý zúfalo bolestný pocit, ktorý mal, keď mu vymrela rodina.   Jeho nemocnica bola vydrancovaná a v nej všetko, čo neukradli,   rozmetané. Ale na šťastie mal svoj jed od rokov tak uschovaný, že ho   nikto nenašiel. Vybral fľaštičku a bez váhania, ba s pocitom istej   radosti, ju vyprázdnil. Umrel okamžite. Keď sa oslobodený národ   dozvedel, že Makarov sa vrátil, prišiel celý, aby mu preukázal svoje   uznanie. Na svoje veľké sklamanie našiel len jeho mŕtvolu, tak aspoň   tej rozmlátil hlavu na kašu a podrúzgal jej údy. O niekoľko dní   prišiel Míťa, ktorý sa bol pýtal za komisára do svojej rodnej   oblasti, s rotou červeného vojska do dediny. Hnijúce mŕtvoly jeho   dobrodincov ešte neboly pochované. Míťa chytro vyšetril, kto pobil   tak ukrutne najlepších, najobetavejších ľudí, ktorí svoj život   venovali len službe chudobe a biede. Pyšne sa mu predstavil Červený   Varka, že ich on s kamarátmi pobil. Oslavovali slobodu a hľadali   „pánov“. Keďže iných v dedine nebolo, nuž zabili Marfu a Soňu a boli   by zabili i Makarova, keby ho boli dostali živého. Míťa sa díval na   Červeného Várku, na chlapisko červené, hrubopyské, s vyčnievajúcimi   lícnymi kosťami a mongolskými očami, ako na nejakého ukrutného,   nepochopiteľného tvora.
+   </tei:p>
+   <tei:p>
+    112
+   </tei:p>
+   <tei:p>
+    ﻿— Prečo si zabil Máriu a Soňu? — Lebo to boli páni. — Chodily po   sedliacky oblečené a robily horšiu a ťažšiu prácu ako najostatnejší   mužík. Urobily ti niekedy niečo zlého? — Neurobily, ale boly panie a   je sloboda pánov biť. — Kto boli tvoji kamaráti? Z hromady ľudí zlé   svedomie rozohnalo niekoľkých mládencov, utekali ani rozplašená zver   na všetky strany. — Tam utekajú, — ukázal Varka širokým rozmachom a   odstúpil zpred Míťu, ktorý sa bol obrátil k starším mužíkom. — Vy,   Efrain, prečo ste nezabránili tým zlým ľuďom urobiť takú strašnú vec.   Veď vás bolo v dedine mnoho, prečo ste to trpeli. Vy ste takí vinníci   ako Červený Varka a jeho druhovia. Soňa vašu dcéru, ba aj vás týždne   opatrovala, keď ste boli chorí na týfus. Nevedeli ste sa jej dosť   naďakovať. — Kto sa bude s chlapčiskami biť. — Nie preto ste ich   nevystríhali, vy sa bitky nebojíte. Vo vás všetkých je závisť proti   lepším ľuďom, ako ste vy. Vy nezávidíte len majetok, veď Makarov a   tie ženy nemali nič, boli najchudobnejší žobráci v dedine, ale vy ste   závideli, že boli lepší a múdrejší, ako ste vy, preto ste ich zabili.   Míťa nespal celú noc. Chodil po izbe a rozmýšľal. Myslel si: Človek   je zver, je divá šelma, teší ho prelievať krv. Už Sumeri a Akádi mali   zákaz zabíjať, a ľudia zabíjajú dodnes, proti všetkým zákazom, stačí   mať beztrestnosť. Vyššie pozdvihnuté
+   </tei:p>
+   <tei:p>
+    8 Kozinský mlyn
+   </tei:p>
+   <tei:p>
+    113
+   </tei:p>
+   <tei:p>
+    ﻿duše, niekoľko málo ľudí, chcely hatiť vraždy. Len tých vyšších   päť, pre ktorých chcel Boh odpustiť Sodome a Gomore, zasluhuje meno   človeka, a ani tých päť sa nenašlo. Ostatok sú zvery, konajúce podľa   pudov sebectva, nenávisti a zbabelosti. Svoj rozum upotrebia len na   to, aby zakrývali svoju zverskosť kepeňom rôznych ideí, ktoré sú   všetky falošné a zlé, ak ich uskutočnenie žiada vraždiť. Je to   najukrutnejšie uskutočnenie strašnej sady: finiš sanctificat rnedia!   Makarov by bol mal pravdu len vtedy, keby väčšina ľudí nebola   šelmami. Míťa si ešte raz premyslel všetky náuky ľudomilných   filozofov a pomyslel i na prísahu, ktorú složil do rúk Makarovových,   že nikdy neurobí nijaké násilenstvo. Ale všetky jeho rozmysly sa   rozpadly na trosky, keď si predstavil zohavené mŕtvoly svojich milých   a čo musely vytrpieť, kým ich oslobodila smrť. Duševné a telesné   utrpenia a bôle sú najvýdatnejšie opatrenia prírody proti zániku   človečenstva a jej najväčšia milosť je smrť. Bože, aké je to všetko   hrozné! Spravodlivosť! Všetko ostatné sú biedne špekulácie, ktoré   majú fantastické podklady. Tristo rokov zabíjali Rimani nevinne a   bezbranne trpiacich martýrov a za tých tristo rokov nie ich nevinné   utrpenie pováľalo pohanstvo. Nie, tá nevinne preliata krv neobrátila   beštie na ľudí, lebo ani všetka doteraz preliata to nevedela urobiť.   Nijaká dobrota, nijaká šľachetnosť neodzbrojí ľudskú beštiu!   Spravodlivosť! Keď dobrý, nevinný trpí od zlého, tak nech trpí i zlý   od dobrého. Či majú zostať
+   </tei:p>
+   <tei:p>
+    114
+   </tei:p>
+   <tei:p>
+    ﻿na svete len zlostné beštie, ničiac tých niekoľkých šľachetných?   Marfa, Soňa, Makarov! Akí trpitelia v živote a v smrti! Vraždenie je   hanebné, keď je pohnútka hanebná! Ale spravodlivosť je pohnútka   najsprávnejšia, akú človek na svete vedel vymyslieť. Míťa dal v noci   zlapať Červeného Várku a jeho druhov a dal zlapať i všetkých   najvážnejších občanov. Potom dal zapáliť dedinu so všetkých strán a   vmetať zlapaných do ohňa. Keď videl zúfanie žien a detí a počúval ich   nárek a preklínanie, nahliadol, že nie spravodlivosť viedla v tomto   počínaní jeho srdce. Človek nevie byť spravodlivý! Ľutoval, že   nedodržal Makarovovi složenú prísahu a že sa nezastrelil pred svojím   zverským činom. Napravil vec, nakoľko bolo možné, a strelil si do   hlavy.
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    115
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

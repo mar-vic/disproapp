@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943502" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Jaríkovský kostol : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5476
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Jaríkovský kostol
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     JARÍKOVSKÝ KOSTOL
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Kráľ Matej bol i múdry i spravodlivý, a jednako sa dosť nezdoby   narobilo i pod jeho vládou. Po prvé, mal i on dosť starosti so sebou.   Veru sa pre svoju druhú, pyšnú ženu, ktorú si až hen z Talianska   doviedol, neraz škrabal za ušami, mysliac na porekadlo, ktoré už i v   jeho časy svätú pravdu hovorilo: Zďaleka kradni a zblízka sa žeň! Po   druhé, viac chytal, ako mohol udržať. Mal na krku Turkov, a jednako   naťahoval sa i so susedmi. Tu naháňal rakúskeho Fridricha, tu zasa   zapáral, celkom podaromnici, i do svojho bývalého tesťa, Jura   Podebrada, ktorý sa mu verabože nedal. Kdeže by bol mal kedy starať   sa o to, čo sa deje v oravskej dedine, blízko poľskej hranice, keď   ani oravský župan nemal o tom poňatia? A tak sa stalo, že si   Jaríkovčania postavili kostol bez jeho vedomia, i že si ho, ako sa   patrí, zariadili oltármi, obrazmi a sochami. Každý povie, že je to   chvályhodný skutok. Pravdaže je, len v tom bola chyba: ako to   urobili? Obávam sa, že keď to videl najoboznámenejší apoštol na zemi,   svätý Peter, dosť sa nahmkal a natriasol hlavou. Nuž ale čo má vo   svojej biede urobiť človek chudobný. Keď ťa bieda dotíska, pomáhaš   si, ako vieš. A Jaríkovčanov okrem biedy dotískala aj ich vlastná   nátura. Ktorýsi gróf kedysi osadil svojich zbytočných a pokaličených   zbrojnošov tamhore,
+   </tei:p>
+   <tei:p>
+    269
+   </tei:p>
+   <tei:p>
+    ﻿Pánu Bohu za chrbtom, medzi horami, pri bystrom potoku, aby sa ich   striasol, lebo mu prerastali nad hlavu. Tak vznikly Jaríkovce. Nuž   nemohla to byť nejaká tichá a pokojamilovná čeliadka a ich potomci   tiež nechodievali mnoho po súdoch a po prosení, keď sa im činilo, že   si môžu i sami pomôcť. Jaríkovčania sú i dnes urastení chlapi a ich   ženy a dievky, ej, nežiaľ pozrieť! Keď idú vo sviatok vycifrované do   kostola, v drobných čižmičkách, kolíšuc sa v bedrách a šibajúc   ohnivými okáľmi, veru by si nespustil s nich očú, a čo by šiel tadiaľ   i sám pán prezident. Pravda, teraz im je hej, ale veru za časov kráľa   Mateja nebolo. Čože ti pomôže i najkrajšia žena, keď nemáš čo do úst   hodiť? Prišly neúrody, búrky, kamenec, choroby na dobytok, prasce,   kapalo to všetko, ani čo by smetal. A k tomu iné nezdoby: čary, kúzla   všelijaké. Nebolo hodno človeku ani žiť na svete. I tak sa stalo, ako   je to všetko opísané v kronike, ktorú opatrovali sťa sviatosť v   sakristii kostola jaríkovského a ktorú teraz chráni ani oči v hlave   tamojší pán farár, že vtedajší richtár, Kuzma Matuščák, svolal   jedného dňa radu, keď sa bol už najprv poradil — múdre! — so svojou   ženou. Bolo sa usniesť občanom o tom, ako by si mohli v tejto biede   pomôcť. Sám Kuzma váhal medzi dvoma spôsobmi pomoci. Prvý, ktorý sa   mu pozdával lepším a istejším, bol ten, aby sa chlapi sobrali so   záprahmi a udreli na ktorúsi naporúdzi ležiacu poľskú obec a aby si   odtiaľ doviezli, čoho treba. Ak sa budú Poliaci brániť, nech potom   sebe pripíšu, čo sa im stane. Druhý spôsob
+   </tei:p>
+   <tei:p>
+    270
+   </tei:p>
+   <tei:p>
+    ﻿bol ten, aby si postavili kostol a vyprosili od Pána Boha všetko,   čo im chybí. Veď ani tento spôsob nebol zlý, ale — Kuzma sa škrabal   za ušami — vyžaduje viac času, a nech psom tráva rastie, keď kone   podochnú! Rada sa sišla v richtárovom dome, lavice okolo stien   obsadly múdre hlavy obce. (Kto bol vo výbore, každý bol múdry, či   chcel, či nechcel, lebo tak to žiada zákon a starodávny zvyk.) Radu   otvorila richtárka, lebo ani richtár nemá vo svojom dome prvé slovo.   Kuzmová vyčítala slávnemu sboru všetky hriechy, ktoré nielen on   popáchal, ale i jeho predkovia, a popášu potomci. Ona, pravda, tiež   nebola lepšia ako druhí ľudia, ale ono je to také milé hľadať smeť v   cudzích očiach, keď má človek k tomu boží dar reči! —- Chorú Maru ste   nechali pred samou kaplicou na ceste skapať, preto vás Pán Boh   tresce; našu kravu ste nešli hľadať, takže ju v Lieskach vlci   zožrali, našly sa z nej iba rohy a kus chvosta. Za to vás tiež musí   Pán Boh trestať, ináč by musel o službu prísť, — pokračovala   nezastrašene a pri hnevnom hundraní prítomných. — Do kostola   nechodíte, pred kaplicou sa nemodlievate, nie div, že i náš svätý   patrón krivým okom hľadí na vás . . . Keď ste prišli minule z trhu z   mesta, drábi vás až do dediny hnali, čo ste tam toľko tovaru pobrali.   — No, do dediny nie, — zvolal Ondro Duda, — to už nie! Len do Jarkov   išli za nami. — Hej, lebo by ste im boli kosti polámali. — A to sa im   veru mohlo stať, a stane sa i tebe, ak tu budeš ďalej pyskovať, —   skríkol na ňu starý,
+   </tei:p>
+   <tei:p>
+    271
+   </tei:p>
+   <tei:p>
+    ﻿bradatý Záklčiar. — Čo ty, baba, melieš toľké reči medzi nami?   Richtár, vyhoď ju von! Celé shromaždenie začalo kričať: „Baba, von!   Baba, von! Nepatríš medzi nás. Vezmi kúdeľ pod zadok! Sadni na omelo   a choď do pekla!“ Richtárka, vidiac všeobecnú nevôľu, bila si päsťou   do dlane, a vyčitujúc im s obdivuhodnou zručnosťou všetky nádavky, čo   vedela — a bolo toho hodne — obrátila sa, a zobnúc sa vo dverách s   viditeľnou schválnosťou, uvrzla von tak šikovne, že Záklčiarova noha   už len do dverí buchla. — No, tak, — povedal richtár Kuzma a pošúchal   si spokojne čelo. — No, tak, — povedali za ním i niektorí prísediaci,   — čo teraz? — Teraz sa poradíme, čo urobíme proti biede. Či postavíme   kostol, či pôjdeme na Poliakov? -— zvolal Kuzma. Bohabojné   shromaždenie zvolalo ako jeden muž: „Na Poliakov, na Poliakov!“ Len   jediný hlas z kúta pri peci zvrieskol tenko a prenikavé: „Postavme   kostol!“ Nastala vrava, v ktorej sa ozývalo: — Niet živnosti ani pre   ľudí, ani pre dobytok. Poliaci nám kravy odháňajú. Barboru Uliakovú   odvliekli. Vo mlyne nám zbožie pobrali a mlynára nám skoro zabili. Na   Poliakov! Keď nastalo malé utíšenie, volal hlas zpoza pece: — Kostol   musíme mať, lebo nám kamenec všetko vybil, a len nám. Choroby idú na   nás, dobytok kape. Mudrasa v hore drevo zabilo. Musíme mať kostol,   všetko nešťastie ide na nás, lebo nás Boh
+   </tei:p>
+   <tei:p>
+    272
+   </tei:p>
+   <tei:p>
+    ﻿opustil, keď nemá u nás stánku, v ktorom by prebýval. Zasa nastala   vrava, lenže sa už miešaly v nej i hlasy za kostol a za ťaženie na   Poliakov. Kostol sa zdal niektorým potrebný i preto, lebo primnoho   mátalo. Nebol nikto istý ani v hore, ani v poli pred kadejakým   pokúšaním. Ľudia videli čierne capy, mačky, čuli neobyčajné hlasy a   ukazovali sa im dávno pomretí. Júda Mrňasová nemohla v noci spávať,   lebo ju vždy cicalo dieťa, pred rokom umreté. Darmo ju zariekala   stará Mahútka. Toto boly vážne veci, ale jednako Jaríkovčanov povaha   väčšmi ťahala ísť na Poliakov, už i preto, lebo ich pobádala i   pomstychtivosť a nielen túžba za korisťou, a tak bol koniec porady   skoro všeobecný výkrik: „Ideme na Poliakov!“ Za ním nastalo na   chvíľku ticho, a tu sa prihodilo niečo neslýchaného! Obloky na izbe   boly otvorené, na stene oproti nim visel ukrutne zlý obraz svätého   Silvestra, pápeža, patróna obce Jaríkoviec. Pápež mal na hlave tiaru,   dlhá brada mu splývala na prsia, nad fúzmi značila tmavočervená   škvrna nos a načernastá čiara popri tvári znamenala prst, na   napomenutie pozdvihnutý. Obraz bol namaľovaný na pergamene a obrúbený   ľahučkým dreveným rámom. Tu naraz zadul oblokom tichý vetrík a   div-divúci: prísna tvár pápežova sa pohla, jeho pozdvihnutý prst sa   hrozivé zakýval a jeho ústa vyriekly tieto slová: — Jaríkovčania, vy   ste naničhodná sberba; dajte
+   </tei:p>
+   <tei:p>
+    18 Z dávnych časov.
+   </tei:p>
+   <tei:p>
+    273
+   </tei:p>
+   <tei:p>
+    ﻿Poliakom pokoj, vy ste im pobrali omnoho viac ako oni vám;   postavte kostol! Oproti obrazu sediaci chlapi rozjavili divom   oči-ústa a pod ním sediaci vyskočili naraz na rovné nohy, ani keby   ich vzpruha bola vyhodila, a obrátili sa k obrazu. Y izbe zaznel   všeobecný výkrik údesu! Pápež zasa pohol prstom a zvolal: — Na   kolená, vydriduchovia, a pomodlite sa skrúšene! Ako jeden chlap   rútili sa všetci na kolená a najväčší lotor zo všetkých, starý   Záklčiar, začal svojím hrubým basom skrúšene: „Otče náš, ktorý si na   nebesiach . .Ostatné hlasy jeho druhov dunely za ním. Pomodlili sa i   „Zdravas’“ a „Verím v Boha“ a zaspievali si i pesničku, ktorú znali   ešte z detstva, úfajúc sa, že svätému zaslepia ňou oči. Potom   povstávali, a neškriepiac sa ďalej, začali rokovať o stavbe kostola.   Na Poliakov predbežne nemyslel nik; len keď sa rozchádzali, dumal   jeden-druhý, že keď už stavajú kostol, mohli by ísť i na Poliakov.   Najlepšie by taká výprava práve teraz dopadla, lebo by im svätý   Silvester musel pomáhať, hoci by sa i trochu mrzel. Muž, ktorý bol   zpoza pece vykrikoval, aby postavili kostol, bol Roman Burda, a jeho   spoluobčania ho pokladali za čudáka. Bol ešte len asi   tridsaťpäťročný, a už nemal ženy ani detí, lebo mu všetko bolo   vymrelo pred niekoľkými rokmi na mor, keď z dediny zostalo, iba čo do   hôr utieklo. Chcel sa druhý raz oženiť, ale mu nedalo. Vždy, keď mu   nahovárali nejakú osobu, alebo keď si
+   </tei:p>
+   <tei:p>
+    274
+   </tei:p>
+   <tei:p>
+    ﻿sám pomyslel, že ho nemá kto opierať a mu variť, sišla mu na um   nebohá Cila a prešla mu vôľa od druhej ženy. Zdalo sa mu, že keby si   i druhú vzal, že by Cila len jednako bola s ním, a ako by mohol druhú   rád mať, keby sa Cila dívala naň? Hodil rukou a nechal všetko tak.   Ale aby nebol celkom sám v dome, kde všetky kúty vrčaly naň, nachytal   si kadejakého zverstva a s tým sa bavil. Mal stehlíky, drozdy,   veverice a dvoch psov. So svojimi zvieratami sa priatelil a shováral   ako s ľuďmi. Držal im reči a predspevoval im. Nie div, že susedia   hľadeli naň s úžasom, keď počuli z jeho izby vyznievať rozličné   hlasy, reči, a nebolo tam okrem neho nikoho. Roman zverom kvôli   všelijako menil hlas a naučil sa nevdojak i „z brucha“ hovoriť. Toto   sa mu zvidelo i zdokonalil sa v tom umení tak, že vedel napodobniť   akúkoľvek reč, pochádzajúcu z akejkoľvek strany alebo diaľky, a keďže   mu jeho zvery boly milšie ako ľudia, nechodil ani medzi svojich   susedov, a tak o jeho umení nevedel nikto. Na shromaždení on bol   povedal tie slová, ktoré chlapi privlastňovali pápežovi. Jaríkovčania   sa usniesli, že keď už musia postaviť kostol, že postavia taký, ako   sa patrí na obec, ako je ich obec, mysliac si pritom, že im ho musí   postaviť vrchnosť, ku ktorej pošlú posolstvo, a oni len tak trochu   budú pri tom pomáhať. I vybrali štyroch chlapov s richtárom a poslali   ich do zámku s poníženou prosbou o kostol. Ale nepochodili. Boly zlé   časy. Grófa ani nebolo doma; bohvie, kde sa so svojimi ľuďmi po   Morave tĺkol, a či už jeho tĺkli. Bola vojna; groše, ktoré i tak
+   </tei:p>
+   <tei:p>
+    18*
+   </tei:p>
+   <tei:p>
+    275
+   </tei:p>
+   <tei:p>
+    ﻿vždy chýbaly, boly treba na iné veci, nie na kadejaké kostoly. V   zámku im poradili, že keď chcú mať kostol, nech si postavia taký   krásny, aký im len duša zažiada, ale nech si ho postavia sami,   panstvu nech dajú pokoj. Potom ich poslali v čerty a zatrepli za nimi   bránu, že sa len tak ozývalo v zámku. Cesta zo zámku do Jaríkoviec je   dlhá, nuž poslovia mali kedy spomínať grófa, sv. Silvestra i   Poliakov. O grófovi mysleli, že keď je grófom, nech trčí doma a nech   sa nespolieha so svojím remeslom na kadejakých potrimiskárov; o   svätom pápežovi, že by lepšie urobil, keby sa nemiešal do cudzích   vecí; má v Ríme kostolov dosť, čo ho do jaríkovského. A o Poliakoch   sa ustálili, že keď i nie hneď a nie všetci naraz, ale zakrátko a po   dvadsiatitridsiati už ich len „pozrú“. Keď potom v rade rozprávali,   ako sa im povodilo, Jaríkovčania sa rozzlobili a ustálili: Keď tak,   nuž tak. Oni si dajú rady i bez pánov a postavia si kostol sami, a to   krásny, nevídaný — z dreva. Dreva bolo v panských horách dosť,   počítané nebolo; chlapov, sekier, majstrov v Jaríkovciach nechýbalo,   nuž postavia. I postavili, a veru pekný, i so zvonicou, že bolo   nežiaľ na ňu pozrieť. Taká strecha bola na nej, že s jej vrchu bolo   vidno až ďaleko do Poľska, ani so Salatína nie lepšie. Ale jednako   bola vo veci chyba, a to veľká: peňazí bolo u Jaríkovčanov veľmi   poriedku, a do kostola bolo treba obloky, kadejaké železné kotvy,   zvony, o obrazoch a sochách ani nehovoriac. Táto vec robila hodne   starostí nateraz pobožným Jarí-
+   </tei:p>
+   <tei:p>
+    276
+   </tei:p>
+   <tei:p>
+    ﻿kovčanom. Keby im pápež nebol zakázal chodiť do Poľska, boli by si   vedeli rady. Ale takto? A ísť ta pre kostol? Ešte sa ktorési to vrece   obilia alebo jedna-druhá krava len vychytila odtiaľ. Ale zvony,   obrazy? To by bol sv. Silvester hneď zbadal, a čo by na to povedal?   Medzitým, čo dostavovali kostol, Romanovi pridalo sa vojsť včas ráno   do Kudejov, i zazrel tam len v košeli a v sukni oblečenú Faustu   Kudejovú. Umývala sa v škopku. Keď počula jeho kroky, zdvihla hlavu a   pozrela naň. Blysly mu jej čierne oči a biele zuby z červenej,   zdravej tváre. Zazrel jej nahé, okrúhle plecia a ramená a videl   vysokú, súmernú postavu, ktorej boky kryla, ale nezatajovala ľahká   suknica. — Koho hľadáš, Roman? — pýtala sa Fausta. — Tvojho otca. —   Išiel do obce, — povedala Fausta, a pozrúc naň ešte raz, umývala sa   ďalej. Romanovi muselo nebyť náhlo sísť sa s Kudejom, lebo ho zabudol   hľadať. Namiesto Kudeja motaly sa mu v hlave tie čierne oči a okrúhle   boky Faustine. Veď je to divné, ako príde od niektorého pohľadu   človeku „z očú“. Roman chodil ako očarovaný. Nevdojak zabudol i na   Cilu. O tri dni neskoršie, zohnutý nad klátom, kálal vo dvore drevo.   Udrelo ho čosi po chrbte, i obzrel sa, a zablysly mu zasa tie čierne   oči a biele zuby v červenej tvári. Vystrel sa ani struna. — No, čo   je, Fausta? Bohvie, prečo sa Fausta usmievala, keď pýtala od neho   vozovú reťaz požičať? Čo je na reťazi
+   </tei:p>
+   <tei:p>
+    277
+   </tei:p>
+   <tei:p>
+    ﻿smiešneho? Chlapi chcú ísť do hory a ich reťaz je u kováča. Roman   nepožičiaval ľahko svojich vecí, ale jednako teraz Fauste dal vďačne,   čo pýtala. Pritom bolo od takého pustovníka, akým bol on, podivné, že   ju, keď odchádzala, ťapol i tri razy po okrúhlom pleci. O ktorýsi deň   neskoršie sa zdalo Romanovi, že by i on mal ísť po drevo do hory,   hoci ho mal dosť. Ale keď druhí chlapi idú? I zašiel si do Kudejov po   reťaz. Už sa večerilo a divným spôsobom nenašiel v izbe nikoho, iba   Faustu, chystajúcu skromnú večeru pri ohnisku kozuba. Romana ani keby   niečo do pŕs buchlo, keď zazrel samo dievča, a Fausta tiež vydýchla   si zhlboka a zastala s triesočkami v rukách, keď poznala Romana.   Možno, zľakla sa, že ju ide kliať, keď mu reťaz ešte nevrátila. Roman   zastal obďaleč pred ňou a povedal čudne stiesneným hlasom: — Sama si,   Fausta? — Varím kašu pre chlapov, — odpovedala a priložila triesky na   oheň. Boli ticho; Roman nespustil oka s peknej postavy Faustinej,   ktorá sa pred ním obracala, vše hodiac naň pohľad, ktorý mu tak   prechádzal dušou, že sa začal triasť na celom tele. Fausta stála   teraz nehybne pred kozubom a dívala sa do ohňa, ktorý osvetľoval   polovicu jej tváre a pŕs. Roman sám nevedel, ako sa to stalo, ale   zrazu objal Faustu okolo drieku a pritisol ju k sebe. Fausta ho v   prvom prekvapení odsotila, no potom
+   </tei:p>
+   <tei:p>
+    278
+   </tei:p>
+   <tei:p>
+    ﻿mu hodila okrúhle ramená okolo krku a pritisla ho tak na svoje   pevné prsia, že mu skoro dych zastal. Roman sa jej pomaly vymohol, a   držiac ju oblapenú, hľadel jej do svietiacich očú a na biele zuby,   blýskajúce sa medzi pootvorenými perami. Zašeptal: — Fausta, budeš   mojou gazdinou? — Budem, budem, budem, — odvetilo dievča so zaťatými   zubmi a pritislo jeho hlavu na svoju hruď. Dohovorili sa, že sa   sosobášia, len čo bude kostol v poriadku, a to musí byť skoro, keď už   len obloky a obrazy chýbajú. Toto bola príčina, prečo Jaríkovčania   kostol skorej dohotovili, ako by si boli mysleli. Y najbližšej   obecnej rade hovorili o tom, kde a ako vziať obloky a zvony, a tu im   zasa sv. pápež Silvester pokývol prstom a povedal, čo všetci do   jedného videli a počuli: — Dostavte kostol! Obloky a zvony dovezte z   Poľska! Jaríkovčanom to nebolo treba dva razy povedať. Mysleli, že sa   pri oblokoch a zvonoch zmestí na vozoch i trochu toho obilia a inej   domácej potreby. Na tom si oni, bodrí chlapíci, nelámali veľmi hlavy,   ako rozumie dovezenie z Poľska svätý pápež, či za peniaze, či ako. No   pápež musel dobre vedieť, že peňazí nemajú, nuž iste rozumel, že   „inakšie“. Jaríkovčania to aspoň tak rozumeli, a tentoraz ani Roman   nič proti tomu nenamietal. Vypravili vozy, obložili ich po husitskom   spôsobe hrubými doskami i povyše drabín, namiesto
+   </tei:p>
+   <tei:p>
+    279
+   </tei:p>
+   <tei:p>
+    ﻿peňazí vzali kuše, luky, meče a okuté cepy a šli v mene božom do   Poľska. Boly to vtedy divné časy, keď prekvital takýto pohraničný   „obchod“. No ani Poliaci našim nezostávali dĺžni. Lenže navštevovali   radšej iné obce, nie Jaríkovce. Po prvé, viedol ta úzky priesmyk,   ktorý bolo ľahko brániť, a po druhé, Jaríkovce boly tvrdý orech, kde   si nabral ľahko viac rán, ako ti bolo milé, ale živnosti nie veľmi.   Poliaci si mysleli: „Nech ich tam Boh opatrí, žobrákov akýchsi!“ a   šli radšej inde. Na druhý deň po odchode prihrčaly nočným časom vozy   nazad. Dlho sa tam Jaríkovčania nechceli baviť, lebo poznali   nepríjemnú povahu Poliakov. Poliakov totižto bolo pre ich   ľahkomyseľnosť ľahko prekvapiť, ale keď im dali času, aby sa   sosbierali, robili ľuďom veľké nepríjemnosti. Pre takúto neopatrnosť   bola často všetka práca daromná, lebo nielen že odobrali človeku   všetko, ale veru s nejedným i tak zachádzali, že nechal v poľskej   zemi i svoje kosti. Doviezli všetko, čo im bolo treba. Obloky   pripravili na kostol, a pekný zvon, jasného hlasu, vytiahli na   zvonicu. Boli udreli i na kaštieľ akéhosi statkára a odtiaľ doviezli   všetko, čo len hrdlo ráčilo, i dve podobizne; na jednej bola pekná   žena a na druhej fúzatý pán prísneho pohľadu, so šabľou pri boku.   Týchto dvoch, takejto pocty veru nikdy nečakavších hriešnikov,   vyhlásili za svätých a vyvesili v kostole. Na zpiatočnej ceste im   nadbehol mladý, hodný kapucín. Že nemali predbežne kňaza, vzali ho,   na múdru radu Kuzmovu, ktorý na všetko myslel, so sebou, aby im   zastupoval fa-
+   </tei:p>
+   <tei:p>
+    280
+   </tei:p>
+   <tei:p>
+    ﻿rára, kým nedostanú naozajstného. Darmo sa kapucín vyhováral, že   je on len frátrom, že ani nevie, ani nesmie omšu slúžiť. Aby ho,   preboha, pustili, lebo že ho budú ukrutne trestať, keď príde neskoro   do kláštora. Ale akí sú, hľa, ľudia podivní! Nebol kapucín v   Jaríkovciach ani tri dni, a už ho tamojšie nevesty nahovorily, aby   len zostal u nich a aby len slúžil i omšu, i odbavoval iné služby   božie. A kapucín Nikázius, hľadiac do očí jaríkovských neviest — je   to zázračná liturgia — vedel zrazu všetko, i krstiť, i sobášiť, i   omšu slúžiť. A to pekne, lebo mal hlas, že ho bolo až na Volovec   počuť, keď ho popustil. Istá vec je, že by i pán dekan v Kútoch, čo   viac, i pán biskup bol hlavou krútil a rukami zalomil, keby bol   videl, ako mníško s omšou obskakoval. Ale čo robiť? Keď to bol i   hriech, Jaríkovčania sa jednako skrúšene pomodlili pri jeho   „oremusoch“ a nevesty nestačily ani chodiť k nemu na spoveď. Či sa   spovedaly skrúšene a či sa bily v prsia, že zhrešily? Ktože ho tam   vie, aké boly nevesty za kráľa Mateja? Romana s Faustou farár Nekaz,   ako ho volali jeho veriaci, samých prvých sobášil. Naraz im bolo obom   veľmi pilno, aby sa sobrali. Roman nemohol byť bez gazdinej v dome,   hoci sedem rokov vydržal bez nej, a Fausta sa zrazu nemohla s bratom   snášať. Zvery Roman vypustil, veď Fausta doniesla do jeho domu viac   života a spevu, ako bolo v celom háji, hoci v najkrajšiu jar. Minul   rok, keď prišiel veľký príval a zobral Jaríkovčanom všetku úrodu so   svahov Salatína. V noci bola prietrž oblakov a včas ráno utekala
+   </tei:p>
+   <tei:p>
+    281
+   </tei:p>
+   <tei:p>
+    ﻿celá dedina na polia, aby na svoje oči videla, že ju čaká hlad a   bieda, proti ktorej nemala inej pomoci, ako zasa len — hlad. Ľahká   hmla sa rozvaľovala po medziach i nad hájmi a lúče slnca sa začaly   teplo opierať o necitlivé polia a na hlboko rozrušený ľud, vybehnuvší   len zpolovice oblečený podívať sa na svoj osud. Obilie ležalo na   dohľad v radoch na zemi, vtisnuté prívalom do hlinatého blata;   miestami bola celá prsť zobratá, že vytŕčala holá kamenná kostra   zeme. Deti plačúc vyberaly steblá ovsa z blata a hľadely ich   vyrovnať, sťa keď probujú beznádejne chorého postaviť ešte na nohy.   Čo mohol taký násilný, kázni nezvyklý tvor, ako bol Záklčiar, iného   urobiť, ako hroziť päsťou nebu a kričať: — Postavili sme ti kostol s   trápením a hriechom, obetujúc i spasenie duše, a ty nám, Bože   ukrutný, ničíš i to zrno, čo sme si odtrhli od úst svojich i od úst   detí, aby sme ho tebe sverili! Veď i najhorší pán, keď i odtiahne   mzdu, ale žiť dá svojim sluhom, ale ty ani to! Zašliapeš nás hladom   do blata, ako si to urobil s našou úrodou! Ty si nie otec, ale kat!   Poďme, rozváľajme, spáľme kostol, čo sme postavili, aby sme dosiahli   milosť od takého, ktorý ju nezná! Záklčiar kráčal veľkými krokmi   napred a celý, ako vždy, bezmyšlienkovitý národ išiel, rozzúrene   hromžiac, za ním. Ale Roman ich predbehol niekoľkými krokmi, a   zastaviac sa, zvolal: — Stojte! Sami sme vina, že nás Boh tresce! My   sme zhanobili meno jeho a jeho svätých obrazmi, ktoré sme vniesli do   jeho domu. Na oltár sme po-
+   </tei:p>
+   <tei:p>
+    282
+   </tei:p>
+   <tei:p>
+    ﻿stavili vycifrovanú frajerku a ako ku svätému sa modlíme ku   zbojníkovi, ktorého ruky sú poškvrnené i krvou našich otcov. Boh nás   napomína, že čo robíme, zle robíme, ale nás neženie do biedy, lebo   nám na iných poliach požehnal viacnásobne, čo nám tu zobral. Starosta   Kuzma dal Romanovi za pravdu a rozľútený ľud sa utíšil natoľko, že sa   uspokojil vyhodením obrazov, ktoré pred kostolom roztrhal na kusy.   Dlhší čas sa okolo kostola medzi skálím a trávou ukazovalo či oko, či   ústa alebo biela ruka peknej ženy, ako i fúzy alebo brada zbojníka,   ani keby vyrastaly zo zeme. Hriešnikov vyhodili Jaríkovčania z   kostola; tým ho však pozbavili okrasy. Nemali svätých, ku ktorým by   boli mohli pripútať dušu pri modlení. Bez obrazov, bez sochy nemohol   kostol obstáť. Roman mal okrem obecnej i svoju vlastnú vec s Pánom   Bohom. Žil už rok s Faustou, a nemali výhľadu na potomstvo. Mali sa   radi, ani nevediac, že je to láska, ktorá ich ženie padať si do   náručia. Keď jeden z nich nebol doma, hľadali sa nepokojne, ako zver,   vyzerajúca svoj pár. Za ten rok sa povadili viac ráz a sa i pobili   dva razy. Ako nikým nevychované deti prírody, popustili uzdu každému   citu. Ale hneď po bitke sa i vždy pomerili. Obviňujúc samých seba a   plačúc, sa oblápali. Ale ani láska, ani prosby ku svätým nedoniesly   im dieťa, bez ktorého sa im život zdal pustým. Roman bol raz v Kútoch   v kostole a videl tam okolo oltára rozostavené sochy dvanástich   apoštolov. Jedenásť tých sôch naskrze neúčinkovalo na jeho dušu. Malý   len ako-tak ľudskú podobu; kusy
+   </tei:p>
+   <tei:p>
+    283
+   </tei:p>
+   <tei:p>
+    ﻿dreva, so složenými nohami, s ramenami pritisnutými k telu, alebo   skríženými na prsiach, bez života v tele a v tvári. Iba dvanásty —   bol to svätý Ján — sa pozdal Romanovi. Díval sa hore do neba s rukami   prosebne vyzdvihnutými. Roman cítil, že sa musí stať, čo tento svätý   Ján prosí. Keby bo mohol dostať do jaríkovského kostola, Pán Boh by   jeho prosbu vypočul. Netušil, že by sa darmo modlil k nemu, dokiaľ je   v kútskom chráme, lebo tam je povinný pomáhať len Kúťanom. Na   uspokojenie svojej duše pokladal Roman za potrebné vyškriabať sa   nočným časom hore rebríkom do obloka nad sochou svätého Jána, hodiť   mu odtiaľ slučku na krk a vytiahnuť ho za ňu dohora. Každý nahliadne,   že toto počínanie Romanovo bolo vo svrchovanej miere závadné, a za   také ho pokladali i vtedajší ľudia, ktorí by ho boli za to mučili a   kolesom lámali, keby bo boli lapili, aby si uspokojili svoju dušu a   doniesli do poriadku svoj svetový poriadok. S Romanom však nerobili   takú komplikovanú procedúru, a to nie preto, že by ho neboli mohli   chytiť. Bolo možné ho zajať. Kútski drábi dobehli Romana so svätým v   predborskom háji, a jednako ho nechytili. Čo viac, pomohli mu odniesť   svätého Jána až do jaríkovského chotára, čo je skoro poldňová chôdza   od predborského hája. Myslíte, že ich Roman uprosil alebo podplatil?   Veru ani jedno, ani druhé. Roman, potiac sa, vliekol svätého na   chrbte, keď počul za sebou konský dupot. Chytro postavil
+   </tei:p>
+   <tei:p>
+    284
+   </tei:p>
+   <tei:p>
+    ﻿sochu naprostred chodníka a hodil sa do hustého krovia. — Aha, tu   je náš svätý Janko! — zvolal jeden jazdec zo troch, ktorí o chvíľu   dobehli k soche, i zastanúc, sliezol s koňa, a za ním i jeho   kamaráti. Obstali sochu, a poťapkávajúc i hladiac ju, obzerali si ju.   — On je to, on! Ale kde je ten lotor, čo ho odvliekol? — sišlo na um   druhému jazdcovi. Svätý Ján v tú chvíľu nepokladal za potrebné   odpovedať na tú otázku, hoci len on vedel, kde je Roman. On tu stál a   díval sa oduševnene k nebu, dvíhajúc pritom i ramená dohora. Zasa   preriekol prvý z drábov. — Nože poprezerajte tie kríky, či sa zbojník   tam neskrýva! Teraz už sv. Ján uznal za primerané preriecť; zrejme   len preto, lebo chcel drábom usporiť zbytočné hľadanie. I povedal   jasne a zreteľne: — Mňa nikto neodvliekol. Ja sám idem na svätú misiu   k veľkým hriešnikom do Jaríkoviec. Tu oddychujem. Zaneste ma do   jaríkovského chotára! Po Vianociach sa vrátim! Drábom vstaly vlasy   dubkom od neslýchaného zázraku, že by drevená socha hovorila, a to   tak jasne a ešte jaríkovským prízvukom, — toho sa nikdy nenazdali!   Drábi sa obzerali: široko-ďaleko nebolo okrem nich živej duše, len   vetrík podúval v jedliach a ďatel ďobal obďaleč do smreka. Drábi   nevedeli, čo urobiť, či sa hodiť pred svätým na kolená, či ho uchytiť   a niesť. Sv. Jánovi to
+   </tei:p>
+   <tei:p>
+    285
+   </tei:p>
+   <tei:p>
+    ﻿bolo akiste nemilé, že váhajú, preto hovoril ešte takto: —   Naskutku ma odneste, ak sa nechcete v pekle naveky nosiť na žeravých   koňoch! Drábom nebolo viac treba; chytili sochu, preložili ju cez   jedného koňa a šli s ňou vážne ani na procesii. Jednému sišla na um   svätá pesnička i zanôtil chrapľavým hlasom: „Pane Bože z vysokosti.   .a ostatní za ním s nikdy necítenou zbožnosťou, s čiapkami v rukách.   Keď poodišli, Roman sa pustil už s ľahkým srdcom krížom cez horu na   Jaríkovce. Celou cestou sa smial a plieskal si rukami po stehnách.   Len to ho mrzelo, že sa nemôže s týmto fígľom nikomu pochváliť.   Najprv myslel, že to vyrozpráva Fauste, ale potom si pomyslel, že   radšej nie. Čo taká žena, to ti melie jazykom . . . Pomyslel i na to,   či sa ozaj sv. Ján vráti do Kútov po Vianociach? Náhlo mu nebude. 0   tom potom. Svätý Ján sa nevrátil. Lebo o dvesto rokov neskoršie darmo   hľadal superintendent Kalinka v kútskom, vtedy evanjelickom kostole   dvanásteho apoštola, a hoci vtedy prísne naložil, aby ho nazpät   doniesli, nebol na svojom mieste ani o sto rokov neskoršie. A   neprišiel vôbec nikdy nazad. Lebo o sto rokov žatým zhorel jaríkovský   kostol i so sochou svätého Jána i s peknými obrazmi, ktoré tam boly.   Len kroniku zachránili. Keď drábi, uznojení, utierajúc si pot rukávmi   s červených, fúzatých tvárí, prišli so sochou do jaríkovského   chotára, už ich Roman čakal za krí-
+   </tei:p>
+   <tei:p>
+    286
+   </tei:p>
+   <tei:p>
+    ﻿kom, i vyspal sa za ten čas, lebo v noci nebol ani oka zažmúril.   Drábi sochu rúče postavili na trávnik, a kľaknúc okolo nej, pomodlili   sa, ako vedeli. Svätý Ján bol vždy dobrého srdca a tak ich na   rozchodné i požehnal: —• Božia milosť bude s vami. Doma nájdete   odmenu za svoj dobrý skutok. Drábi uradostení bozkávali svätého, kde   ho zachytili, a vysadnúc na kone, cválali veselo domov. Akú odmenu   našli doma, to kronika nespomína. Akí sú ľudia už raz, možno, že   neborákov i do temnice zavreli. Roman počkal, dokiaľ sa sotmie, potom   vzal svätého na chrbát a poľahučky ho zaniesol predo dvere   jaríkovského kostola, kde ho postavil, a šiel spokojne domov. Nepotil   sa pri nesení, ako vtedy, keď cítil na chrbte nielen sochu, ale i   drábov. Privítať ho v dedine neprivítali, len psi, štekajúc naň so   všetkých strán. Možno, že sa tešili, že nesie také paládium do rodnej   obce. Iste bol ich brechot Romanovi milší, ako tichý pohľad i   najlepšieho priateľa, ktorý ho mohol doniesť prípadne na popravište.   Keď ráno Jaríkovčania zazreli svätého Jána, mali ukrutnú radosť. Ako   ta prišiel, kto ho ta doniesol? Fráter Nikázius, ako najučenejší   medzi nimi, spomenul, že najskorej prišiel sám, keď videl, akí sú   opustení. Lebo Nikázius vraj bol čítal v jednej svätej knihe, že   niektorí svätí išli kázať ku kadejakým hriešnym ľuďom a uprávať ich   na dobrú cestu. No, a Jaríkovčania sú veru hriešni, a Jaríkovčianky   nie menej, ak nie viac. Tento výrok mu
+   </tei:p>
+   <tei:p>
+    287
+   </tei:p>
+   <tei:p>
+    ﻿niektoré nevesty veľmi za zle malý; neviem, ako sa vysporiadal s   nimi. Ktorási i zavolala, že ako ich bude sv. Ján naprávať, keď nevie   kázať. Fráter nezostal odpoveďou dlžen: — Robte, ako robí ten svätý.   Vidíte, že sa modlí k Pánu Bohu. Modlite sa i vy a mlčte ako on, tak   nezhrešíte. Na to zasa mužovia prisvedčili, že fráter Nekaz hovorí   pravdu. Dievčatá potom nasbieraly kvietia a ovenčily svätého Jána   tak, že ho zpomedzi kvetov ani nebolo vidno. Kostol tiež hojne   zasypaly kvetmi a okrášlily svrčinou. Keď bolo všetko pripravené,   vzali najprednejší gazdovia sochu na ruky a pri speve a vyzváňaní ju   vniesli do chrámu a postavili na oltár. I tešili sa v ten deň veľmi a   ustrojili i hostiny na počesť svätého, ako keby on mal z toho niečo,   keď sa druhí najedia a napijú a on na to hľadí o hlade a smäde.   Dokiaľ v kostole nezvädly kvety a svrčina, boli Jaríkovčania   spokojní, ale keď povymetali mŕtve kvety, kostol im spustol. Ani sv.   Ján akosi nepristal na oltár, bol naň priveľký. Jednako sa len pýtaly   do kostola i nejaké obrazy. Či nebolo škoda vyhodiť tú peknú Poľku a   toho pána? Veď sa tak milo usmievala, veru bola radosť na ňu hľadieť.   A teraz kde vziať iné? — Takých obrazov, ako by potrebovali, je len v   kostoloch, a už je len akosi otupno orabovať kostoly, — hútali   Jaríkovčania. V tejto nesnádzi im pomohol fráter Nikázius. Rozpovedal   im, že pred rokmi vojaci arcibiskupa Rozgoňa vyplienili v Spiši   Jiskrovi patriaci Čer-
+   </tei:p>
+   <tei:p>
+    288
+   </tei:p>
+   <tei:p>
+    ﻿vený kláštor, ale obrazy nechali v kostole. Načože sú takým ľuďom   sväté obrazy? Len azda na to, aby im vstupovaly do svedomia? A on tak   vie, dosiaľ tie obrazy nepohral nikto. Mnísi z kláštora ušli a tie   krásne veci tam len na skazu vyjdú. Bol by bohumilý skutok, keby ich   odtiaľ odviezli do druhého kostola. V spomínanej kronike som čítal,   že Jaríkovčania poslúchli jeho radu, lebo tam je pri roku 1486 toto   zapísané: „Tohto roku zahynuli na výprave do Červeného kláštora, kde   šli po sväté obrazy do kostola, títo spoluobčania: Bažil Koláčnik,   Kuzma Matuščák, Medard Hrubec, Roman Burda atď., dohromady šestnásti   z päťdesiatich a jedného.“ Keď išli nazad cez Poľsko s obrazmi,   predstavujúcimi štácie Spasiteľa na Kalvárii a s krásnym obrazom   Ukrižovaného, napadli ich zbrojnoši starostu jordanowského a   obkľúčili ich so všetkých strán. Poliakov bolo vyše dvesto, ale   Jaríkovčania sa nepoddali. Bránili sa na svojich vozoch, ako im   kázalo smelé srdce a pamiatka otcov. Šestnástoria z nich pojali na   druhý svet so sebou štyridsiatichtroch Poliakov, a tu poľský vodca   ostatným dal voľný priechod, zadržiac len vozy, na ktorých sa   nachádzali pobití a pri nich niektoré obrazy zo štácií, následkom   čoho Kalvária v jaríkovskom kostole nebola úplná. Fráter Nikázius   namiesto chýbajúcich obrazov povpisoval krásnym písmom mená na   výprave zahynuvších, lebo sa ony, podľa jeho mienky, dobre hodily na   také miesto, kde malo byť zvečnené utrpenie pre vykúpenie ľudstva z   večnej biedy a zo žiaľu pozemského. Obraz Ukrižovaného doviezli a   postavili na oltár a fráter
+   </tei:p>
+   <tei:p>
+    19 Z dávnych časov.
+   </tei:p>
+   <tei:p>
+    289
+   </tei:p>
+   <tei:p>
+    ﻿Nikázius, ukazujúc naň, mal príležitosť vysvetliť svojmu   skormútenému stádu, prečo zahynuli toľkí, a to najlepší Jaríkovčania,   pri konaní dobrého skutku. Na oltári visel ukrutne ukatovaný Spasiteľ   na dreve kríža, napred padnuté vlasy skoro celkom zakrývaly jeho   umučenú tvár, jeho kŕčovite pozatínané prsty na rukách a nohách   poukazovaly ešte i po smrti na strašné muky, ktoré pretrpel. Na   obraze bol celý obzor zatemnený čiernymi oblakmi, len s ľavej strany   padal na Spasiteľovu hlavu tenký-tenký svetelný lúč, ožarujúc ju   svätým svetlom. Fráter rozprával, čo mu vnukol duch posvätnej chvíle:   —- Mnoho žiaľu musi byť tam, kde zablysne lúč božej milosti v   srdciach ľudských. Nežijeme na svete na radosť, ale na trápenie a   starosti. Hľa, náš Boh vytrpel najviac zo všetkých tvorov. Stal sa   človekom, aby mohol trpieť. Musíme znášať svoj kríž i my, lebo taká   je vôľa Najvyššieho, ktorý ani svojmu synovi neodpustil, a to muky   najukrutnejšie. Kde trpí Boh, je radosť trpieť i jeho tvorovi.   Najkrajšiu, najvznešenejšiu službu božiu konáme vtedy, keď trpíme v   mene a na slávu Krista Pána, ktorý zasa trpel za nás všetkých,   nehodných a biednych. Takto v dojatosti a prostosti duše svojej   vyložil fráter Nikázius skromnými slovami svojim poslucháčom jednu z   najväčších tajností bytu ľudského, a pozdvihnúc ich dušu a svoju,   venoval ju ako najkrajšiu obeť Večnému Otcovi. Teraz pochopili   Jaríkovčania, na čo je chrám
+   </tei:p>
+   <tei:p>
+    290
+   </tei:p>
+   <tei:p>
+    ﻿boží a prečo je malá každá obeť, slúžiaca na jeho povznesenie. Keď   sa Jaríkovčania ticho a so zbožnou mysľou vzdialili z kostola,   zostala tam jedna kľačiaca postava s čelom schúleným na stupni   oltára. Bola to Fausta.
+   </tei:p>
+   <tei:p>
+    19*
+   </tei:p>
+   <tei:p>
+    291
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

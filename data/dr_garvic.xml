@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944603" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Dr. Garvic : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     7315
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿Dr. Garvic
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     DR. GARVIC
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Ozajstná láska, o ktorej sa väčšine ľudí ani nesníva, je ako osud:   trhá sväzky rodinné, manželské, nezná cti, povinnosti. Robí dojem   posadlosti, keď jedna myšlienka opanuje človeka tak, že vďačne   obetuje za ňu aj život. A predsa — podivná nestálosť ľudskej prírody   — postačí malichernejšie podráždenie nepatrnej slabosti, aby bola   táto taká silná vášeň vyrazená zo svojho prúdu aj vtedy, keď človeka   najsilnejšie opanujúce, veľké mravné zásady stratily úplne svoju moc   nad ním, práve pre jej vládu. Dr. Rosa bol osnovníkom u advokáta   Burdala a o pol roka mal skladať advokátsku skúšku, po ktorej sa mal   stať, podľa dohodnutia so svojím šéfom, spoločníkom znamenite idúcej   kancelárie. Rosa bol vysoký, štíhly, počerný, šumný mužský. V jeho   vystupovaní bola ráznosť, ktorá nebola len povrchným náterom, ale   skutočnou črtou jeho povahy. Nebol zlého srdca, hoci robil dojem   väčšieho egoistu, akymlskutočne bol. Zdalo sa, že všetko robí s   vypočítavosťou. Nebola to pravda, ale bol človek nervózny, vystavený   účinkom rôznych popudov, ktoré však podľa možnosti opanúval, a práve   tento vnútorný boj so sebou robil dojem vypočítavosti. Cit povinnosti   ajmravnosti bol v ňom silný, opovrhoval každou podlosťou, nízkosťou.   Nemal mimoriadne všeobecné vzdelanie, ale juristom bol dobrým.
+   </tei:p>
+   <tei:p>
+    53
+   </tei:p>
+   <tei:p>
+    ﻿Keď pred rokom prišiel do B., soznámil sa raz na výlete v háji,   „Borový“ zvanom, s Elou Solárskych, dcérou bohatého obchodníka so   železom. Bol poodišiel od výletnej spoločnosti, ktorá ho   stereotypnými vtipmi a praktickými žartmi trochu nudila, a zašiel na   kraj lesíka, ktorý tvoril breh riečky, hustejšie-redšie obrúbený   vŕbami, brezami a rozrastenými starými smrekmi. Piesočnatá zem bola   krytá nápadne jasnozelenou trávou s riedkymi poľnými kvetmi. Pod   rozrasteným smrekom sedela na zemi dáma, vyzúvajúca si črievičky.   Rosa ju zazrel a chcel sa utiahnuť. Ale videl, že ho aj ona zbadala a   že sa usmiala. Vedel, že jej ho predstavili, ale nevedel predsa, kto   je. — Ráčite si pobehať boso, alebo chcete trochu v rieke brodiť? —   opýtal sa jej tiež s úsmevom. — Oj, nie. Nabralo sa mi piesku do   črievic, nuž ho vytriasam, — odvetila a dívala sa mu priamo do očú.   Dívali sa niekoľko sekúnd na seba. Ona si myslela: „Šumný mladý muž,   tento nový koncipista.“ Rosa si myslel, obzerajúc ju: „Aké je to   sympatické dievča! Oči tmavohnedé, bohvie o čom hovoria, a ústa aké   má mäkké a teplé. Výraz tváre je dobrý, milý. Nôžkami trochu nervózne   myká. Chutná je.“ Ela si chytro naťahovala hnedé črievičky na nôžky,   odeté priehľadnou pančuchou, pričom si vrchnými zúbkami prihryzla   spodnú peru. — Pomôcť vám? Ela sa zasa usmiala a pozrela na neho.   Potriasla hlavou.
+   </tei:p>
+   <tei:p>
+    54
+   </tei:p>
+   <tei:p>
+    ﻿— Oj, nie, ďakujem vám, do toho sa vy nerozumiete. To je kumšt   črievice dobre zaviazať. — Nuž tak obratne by som to iste neurobil   ako vy. Ela sa ľahko vyšvihla so zeme, sotva sa dotknúc ním podávanej   ruky. Teraz, keď stála rovno pred ním, spozoroval, akú peknú postavu   má, aká je vysoká, plná, a predsa ohybné štíhla. Podíval sa na ňu a   neriekol ani slova. Začalo mu byť akosi teplo okolo srdca. Ela sa bez   príčiny zapálila, sklopila oči a trochu ostýchavo sa usmiala. — Pekne   je tu, čo? Pozrite na tie vrchy v diaľke a na tie roztratené   červenostreché dedinky medzi záhradami. Rosa riekol zamyslene: —   Pekne veru, — kráčal potom bez slova po jej boku k ostatnej   spoločnosti. Ela odišla od neho a on pristúpil ku svojmu šéfovi, tiež   ešte mladému mužskému, a opýtal sa ho, kto je tá dáma, s ktorou bol   prišiel? Burdal odvetil s úsmevom: — Ó, to je šumná rybka, čo? To je   dcéra Solárskeho, bohatého kupca. Rosa zamrmlal v duchu: „Solársky,   Solársky.“ A potom hlasno: — Aha, už viem. To je ten mrzký, protivný   chlap, s ktorým som mal to nemilé rokovanie pred niekoľkými dňami. —   Áno, ten, a ktorého si tak špatné vyobracal. Rosu zle sa dotkla   rozpomienka. Pomyslel si, že mohol byť aj šetrnejší oproti   Solárskemu. Ale nemohol za to, ten chlap bol pridivý, prisurový,   príliš namyslený a vyzeral ozaj ako orangutan so svojím vydutým,   zubatým pyskom. Že to dievča má takého otca! A k tomu jeho reč! Stále   plietol vý-
+   </tei:p>
+   <tei:p>
+    55
+   </tei:p>
+   <tei:p>
+    ﻿razy, namiesto „okolnosti“ hovoril „záležitosti“ a „krajnosť“   spomína ako vidiek, krajinku. Ela sa shovárala s lekárom, doktorom   Garvičom. Rosa pristúpil bližšie k nim a počul, ako Ela hovorila: —   Mne je každá práca milá, do každej vložím, ako mi to profesor Vojtek   vysvetlil, trocha poézie. Ja som veru nepomyslela, že je to poézia,   keď si myslím, utierajúc sošku, že sa ona tomu teší, že bude zasa   pekná. Alebo pri vyšívaní kvietka si myslím, že rastie pod mojimi   rukami. To je tiež poézia. Garvič, mladý mužský s okrúhlymi obrvami a   so strnulým úsmevom, ako by sa stále divil nad niečím, podotkol,   nespúšťajúc oka s dievčaťa: — Pravdaže poézia, lebo všetky mŕtve   predmety oživujete, keď sa sbovárate s nimi, a tak rozumiem, že vám   je nie nijaká práca zdĺhavá. Rosa sa opýtal: — A radi čítate? A čo?   Ela sa zasmiala: — Čo by dievča čítalo? Pravdaže len romány a veci o   ľudských osudoch. Garvič podotkol, či ju zaujíma láska? Ela odvetila:   — Neviem, ako je to. Nikdy som nebola zamilovaná, a predsa ma veľmi   zaujíma láska a veľmi ľutujem nešťastie zamilovaných. — Pozrela na   Rosu, ktorý sa vážne díval na ňu, a zapálila sa až po vlasy. Rosa   urobil o niekoľko dní vizitu u Solárskych. Bývali vo vlastnom veľkom   prízemnom dome, napredku s obchodom. Bývanie bolo vzadu, obtočené   peknou veľkou záhradou a čistým, štrkom vysypaným dvorom. Zariadenie   bytu bolo už trochu staromódne, ale v najväčšom poriadku a   pedantne
+   </tei:p>
+   <tei:p>
+    56
+   </tei:p>
+   <tei:p>
+    ﻿čisto udržované. Rosu prijala pani Solárska, osoba v najlepšom   veku, milá a ponášajúca sa na dcéru. Bola vysoká ako ona, lenže   trochu prichudnutá. Privítala ho vľúdne a nenútene ako nejakého   dávneho známeho. — Pekne vítam, pán doktor, teší ma, že vás vidím u   nás. Ela vás spomínala, a že naše mestečko najskorej vyhralo vaším   príchodom. Sadnite si, zavolám muža a dcéru. Odbehla, cestou ešte   napochytre upratúvajúc maličkosti, o ktorých len ona zbadala, že sú   nie na mieste. Ela prišla. Mala veľmi chutné biele domáce šaty,   trochu vykrojené na krku. Na bielom okrúhlom hrdle mala tenunkú   striebornú retiazku s medailónikom. Vykračovala rozhodne, trochu   rozpačito. Rosa sa s úľubou díval na jej neisté vystupovanie. — Pekne   od vás, že ste prišli. Otec nemôže prísť, je zamestnaný, — riekla a   sklopila oči. Potom si sadla oproti Rosovi, a složiac ruky do lona,   dívala sa na neho. — Slečna Ela, mne sa tu u vás vidí. Všetko sa mi   páči. Príjemne sa tu žije, ticho, bez rozruchov. — Ticho je tu v   meste dosť. V domácnostiach, kto do nich nahliadne, nájde preto azda   nemilého života aj nazbyt. Rosa pozrel na ňu s nedorozumením.   Nevedel, že je u Solárskych nie veľmi tichý rodinný život. Ela mala   brata, surového lumpa, s ktorým sa jeho otec stále a ostro vadieval.   — Chodievate sa prechádzať, slečna Ela? — Chodím každý deň do   Borového. Prejdem cez našu záhradu a som tam o niekoľko minút.   Rada
+   </tei:p>
+   <tei:p>
+    57
+   </tei:p>
+   <tei:p>
+    ﻿58
+   </tei:p>
+   <tei:p>
+    sedávam na brehu rieky, i knižku si vše ta vezmem, alebo ručnú   prácu. -—- Smiem vás tam niekedy vyhľadať? — Nemôžem vám to zakázať.   A veď ta chodí ináč celé mestečko. Po príchode pani Solárskej sa Rosa   hneď odporúčal. Bol načistom, že Solársky sa hnevá na neho a že ho   nechce vo svojom dome privítať, preto neprišiel, a Ela bola v   rozpakoch, keď vošla do izby. Rosa sa naučil po skončení kancelárskej   práce chodievať do Borového. Našiel tam niekoľko ráz Elu alebo v   spoločnosti iných dievčat, alebo aj samu. Bol načistom so sebou. Ela   sa mu vkradla do srdca takým spôsobom, že ju považoval za svoju a že   mal pocit, že by jeho život nebol bez nej nič hoden. Raz sedeli práve   pod tým smrekom, pod ktorým si Ela uväzovala črievičky, čo bolo   obďaleč od obyčajného prechádzkového miesta obecenstva. Rosa jej bol   čítal z Anny Kareniny a Ela vyšívala. Rosa složil knižku a zadíval sa   na vyšívajúce dievča. Ela konečne zdvihla zrak k nemu. — Ela, viete,   že bez vás nemôžem žiť? -—■ Nútil sa hovoriť hlasom ľahkým, ale   jednako sa mu triasol od rozčúlenia. Ela zbledla a odložila výšivku   nabok. Pozrela ako podesená na Rosu a zašeptala: — Bože môj, ten istý   pocit mám i ja. Myslím iba na vás. Darmo mi čítate, nerozumiem ani   slova, len váš hlas počujem. — Ela, hlúpe slovo je povedať, že ťa   ľúbim. Tým som nič neriekol. Mne sa zdá, že som ťa vždy miloval. Ešte   som ťa neznal, a už si mi bola drahá.
+   </tei:p>
+   <tei:p>
+    ﻿Mám pocit, že si ty moja, odkedy svet stojí, že ti ma nikdy nik   nemôže vziať a že vôbec nemôžem a ani nechcem bez teba žiť. Ela mu   podala svoju mäkkú, hladkú ruku. Rosa ju chytil, a nežne ju hladiac,   priložil si ju k ústam a bozkal ju vrúcne. — Moja zlatá, jediná, —   povedal hlasom, zalkýnajúcim sa od pohnutia. — Vladko môj, —   zašeptala a pozrela na neho svojimi smutnými očami. Rosa si kľakol k   nej, a chytiac jej rukou okrúhlu hriadku, pobozkal ju s nekonečnou   úctou na ústa. I Rosa, i Ela vedeli, že Solársky by proti ich sobášu   rozhodne odporoval. Solársky chcel, aby Ela šla za Garviča, ktorý ju   už bol pýtal, a tomu ju jej rodičia aj prisľúbili. Ela sa mu   nesľúbila, už ju ťahal cit k Rosovi, neuvedomelý cit, ale predsa taký   silný, že jej hatil v tom, aby sa Garvičovi prisľúbila. Rosa a Ela   boli s celou touto situáciou načistom. Schádzali sa v háji častejšie.   Mali v ňom miestečká odľahlejšie, ktoré menovali „prvým“ a „druhým“,   „Vladovým“ a „Eliným“. Slúčenie ich duší bolo také silné, že im   postačil často jediný pohľad, aby vedeli, čo myslia. Ani im na um   nesišlo, že by mohla byť prekážka, ktorá by mohla zapríčiniť ich   rozluku. To sa im zdalo smiešne, nemožné. Vedeli, že Solársky   neprivolí, aby Ela šla za Rosu. Na jeho privolení im nezáležalo. Len   čo složí Vlado advokátsku skúšku, soberú sa, či sa to bude Solárskemu   páčiť, či nie. Ela bola už 22-ročná, nemohol jej viac nikto   rozkazovať. Majetok, peniaze sa im zdaly opovržlivo vedľajšou vecou.   Toľko budú vždy
+   </tei:p>
+   <tei:p>
+    59
+   </tei:p>
+   <tei:p>
+    ﻿mať, aby vyžili, a im išlo len o život a žiť chceli nie sebe, ale   druh druhovi kvôli. Keď sa sišli osamote, neoblápali a nebozkávali sa   nejako vášnivo, postačil im hlboký pohľad a azda jeden bozk, ktorým   vymenili svoje duše. Ani primnoho nehovorili, tešili sa a požívali   prítomnosť druhého s akousi bázňou a smútkom, že sa zasa musia   rozísť, a to sa im vždy zdalo, ač na tak dlho, kým sa zasa uvidia.   Neťažilo sa im obchádzať aj dlhou cestou alebo čakať aj hodiny len   preto, aby pohľad zďaleka mohli vymeniť. Žili v stálom nepokoji, že   jednému z nich sa prihodila nejaká nepríjemnosť alebo nehoda, keď sa   deň-dva nevideli. Jedna okolnosť robila roztržku medzi nimi. To bolo   prichádzanie Garviča do Solárskych. Rosa raz, úplne opanovaný   nepremožiteľným citom žiarlivosti, vzlykal ako dieťa na prsiach   Eliných, keď bol zazrel Elu s Garvičom v záhrade a Ela mu dala kvet,   ktorý od nej pýtal. Ela ho presvedčovala jeho vlastnou láskou k nej,   že veď sa tou istou neskrotiteľnou vášňou aj ona túli k nemu. Vďačne   by dala aj život za jeho uspokojenie. Ponúkla sa mu na každú skúšku.   Bola hotová hneď s ním ísť do jeho bývania a vôbec sa ani nevrátiť do   rodičovského domu. Pravdaže, Rosa to neprijal, ale uspokojené a   šťastlivo bozkal jej drahé oči, ústa. Je starodávny zvyk vtipkovať na   účet malomestských plesov. Je to aj veľmi ľahká vec. A predsa tieto   plesy lepšie splnia svoju úlohu ako veľkomestské, na ktorých sa pri   všetkej paráde a škrobenosti iste málokto tak dobre pobaví ako na   malomestských zábavách.
+   </tei:p>
+   <tei:p>
+    60
+   </tei:p>
+   <tei:p>
+    ﻿V B. ples Besedy sa tiež dobre vydaril. Ostatní hostia sa rozišli   len za bieleho rána. Solárskovci, Rosa, Garvič, všetci boli tam. Ela   nemala ani tušenia, aká dojemne pekná bola vo svojich bielych šatách.   S akým potešením pásol Rosa oči na nej! Ela cítila, ako ju jeho zrak   hladí, a usmiala sa mu blažene. Garvič bol okolo nej ako tôňa. Raz,   dva razy si zatancovala s Rosom a prešla «a s ním po sále. Boli takí   naivní, že si mysleli, že ich správanie je také korektné, že nikto   nebadá ich pomer. A každý pohľad, každý dotyk ich prezrádzal: oči im   spievaly celú nežnosť ich citov, keď hľadeli na seba, a inde sa ich   zrak vôbec neobracal. Ruka Elina v ruke Rosovej rozprávala celé   sonety, cítil pohnutie alebo stisnutie každého jej prstíka a každý   pohyb ho ubezpečoval, že ho má rada a myslí iba na neho. Keď ju pri   tanci držal obtúlenú, voňal opojnú vôňu jej vlasov a zazrel vše jej   drahé oči, potreboval celú svoju energiu, aby jej nezačal vykladať   svoju lásku a túžbu po nej. Rosa pri prechádzke prosil Elu, ktorá už   bola s Garvičom viac ráz tancovala, aby to už nerobila, lebo každé   jej dotknutie sa Garviča zapríčiňuje mu muky. — Čo môžem robiť, keď   musím. Myslíš, že mi to spôsobuje radosť? Poznáš otcovu násilnosť,   vieš, že mi je schopný tu na plese urobiť najväčší škandál, keď dám   Garvičovi košik. — Dušinka, vy ženy máte sto výhovoriek, keď chcete   niečomu vyhnúť. — Uver mi, že urobím všetko možné, aby som sa ho   striasla. Ty si to iste nežiadaš väčšmi ako ja. Prídeš zajtra do   Borového?
+   </tei:p>
+   <tei:p>
+    61
+   </tei:p>
+   <tei:p>
+    ﻿— Iste prídem o piatej. Na „druhé“, nie na „prvé“ miesto? — Dobre.   Pozreli si do očí a tým pohľadom sa rozlúčili. Nepomysleli na ako   dlho. Elu odviedol Rosa na jej miesto, on sám sa tak postavil, aby ju   nebadane mohol pozorovať. Stál pod veľkým zrkadlom, v ktorom bolo   vidno skupinu Elinu, a shováral sa so svojimi priateľmi. Veselé   nápady, kritiky, klebietky preletúvaly medzi nimi. Garvič prišiel k   Ele a žiadal ju zasa do tanca, pokloniac sa a ako na isté podávajúc   jej rameno. Rosa nespustil s nich oči. Videl, že Ela krúti hlavou a   chytá sa za čelo. Garvič s jednej strany, otec s druhej dohovárali   jej. Otec Elin sa nahol nad ňu a zašeptal jej čosi do ucha. Nato Ela   vstala, podala Garvičovi ruku a vstúpila s ním do radu tancujúcich.   Rosa bol presvedčený, že Ela veľmi ľahko mohla vyhnúť tancu s   Garvičom, keby to bola skutočne chcela. Konečne ani Garvič nebol taký   netaktný, že by sa jej bol natískal, keby bol videl jej krajnú   nevôľu. Za svoju lásku, keby ona bola taká, aká mala byť podľa   uisťovania Elinho, môže človek aj istú obeť doniesť. Žiarlivosť mu   šepkala, že rečami chce za neho dať život, skutkom ani jeden tanec.   Ženské reči! Sobral sa do garderóby po svrchník a šiel domov so   srdcom ani kameň. Ela videla, že Rosa zpod zrkadla odišiel. Hľadala   ho očami po celej sieni, nebolo ho nikde. Veľká ťarcha padla na ňu,   cítila sa tak, ako by ju bolo
+   </tei:p>
+   <tei:p>
+    62
+   </tei:p>
+   <tei:p>
+    ﻿stihlo najväčšie nešťastie. Kolená sa jej zatriasly a srdce   oťaželo. — Zaveďte ma k matke, zle mi je, — zašeptala Garvičovi,   ktorý, pozrúc na ňu, videl, že je celkom premenená. Chytil ju pod   pazuchu a viedol na miesto. — Čo vám je, Ela, čo vás bolí? — pýtal sa   jej starostlivo. Ela odvetila, trochu sa tackajúc: — Nič, nič, dajte   mi pokoj! Zaveďte ma na miesto! — Zaviedol ju. Ustrachovaná matka   dala jej voňať lietaciu soľ, i prebrala sa trochu. Naraz jej prišlo   na um, možno, že je Rosa v druhej miestnosti. Všetko sa jej zdalo   malicherné pri myšlienke, že je tu, že sa nehnevá, že ju neopustil,   že len zo siene vyšiel. Musela sa o tom presvedčiť. Okolo šla jej   priateľka Ruža Boreckých, i zavolala ju. Ruža prišla a videla na nej   premenu. — Luška, poď sa prejsť, — volal ju milým, ľútostivým hlasom.   Ela vstala a šla s ňou. Ruža veľmi dobre vedela o pomere Elinom s   Rosom a priala zo srdca ich láske. — Luška, ty si sa s Vladkom   pohnevala. — Ele dobre padlo, že sa môže trochu vytúžiť. -— Pomysli   si, nahneval sa, že som toľko tancovala s Garvičom, i odišiel vari v   hneve, — povedala Ela žiaľne. — Ty si dieťa. Veď keď sa nahneval, nuž   sa zasa udobrí. — Mám také zlé, zlé tušenie! — zajakavo, premáhajúc   plač, hovorila Ela. — Poďme pozrieť, či je nie v niektorej vedľajšej   miestnosti, — obodrovala ju Ružka, pritískajúc k sebe jej rameno.
+   </tei:p>
+   <tei:p>
+    63
+   </tei:p>
+   <tei:p>
+    ﻿Išly, poprezeraly všetky miestnosti. Rosu nebolo nikde.
+   </tei:p>
+   <tei:p>
+    — Idem domov, nevydržím tu, — šeptala Ela.
+   </tei:p>
+   <tei:p>
+    — Poď, pravdu máš, doma ti bude lepšie, aspoň budeš na pokoji.
+   </tei:p>
+   <tei:p>
+    Ela odišla s matkou domov. Shádzala šaty so seba, hodila sa do   postele a zakryla tvár do vankúša. V úzkosti srdca stenala ako ťažko   nemocná. Nad ránom zaspala a zobudila sa občerstvená. S úsmevom   vystierala pekné mladé údy, keď jej naraz udrelo do hlavy: „Ó, Bože,   Vlado! Čo je s ním? Čo bude so mnou?“ Pomyslela na svoj večerný údes   a trochu sa divila nad sebou, prečo sa vlastne tak naľakala. Veď na   celej veci nič nie je. Trochu sa namrzel, tancovať viac nechcel, nuž   odišiel. Cítila síce, že sama seba klame, lebo vedela, že bez príčiny   by nebol odišiel z plesu, dokiaľ ju tam videl. Nuž ale, veď sa to   večer všetko vysvetlí. Deň, odhliadnuc od chvíľkových záchvatov   nepokoja, strávila celkom dobre a o pol piatej si odela kabát,   zahodila na seba šál a utekala do Borového. Mrkalo už. Chodníky boly   pokryté nečistým, pochodeným ľadom, miestami primrznutými mlákami.   Sneh nejasne, šedivo svietil medzi černejúcimi sa stromami na snehom   pokrytých konároch, s ktorých visely drobné okrôpky. Podúval studený   vietor. Nad ďalekými vrchmi bolo ešte vidno červenú žiaru   zapadajúceho slnca. Ela utekala ľahkými nôžkami. Nevedela iste, na   ktorom mieste sa majú sísť, na „prvom“, či na „druhom“? Myslela:   „Idem najprv na bližšie ležiace ,druhé‘, keď nebude tam, prebehnem na   ,prvé‘.“
+   </tei:p>
+   <tei:p>
+    64
+   </tei:p>
+   <tei:p>
+    ﻿Prišla trochu zadychčaná na čistinku medzi smrekmi, ktorú menovali   „druhým“ miestom. Zastala pod smrekom a obzerala sa. Vietor šumel v   smrekoch. Tu i tu odpadlo s nich kus ľadu alebo snehu, ináč nič.   Ticho, mŕtvo. Pozrela na neveľkú plochu čistiny, jej už temnejúca   pôda bola pustá, ako by tam nikdy nik nebol býval. Zavolala ticho:   „Vladko!“ Hlasnejšie: „Vladinko!“ Nič sa neozvalo, len vietor šumel   konármi. Obrátila sa a utekala, plná nádeje, ba istoty, že Rosa bude   na „prvom“ mieste. Toto od „druhého“ bolo vzdialené len na niekoľko   sto krokov. Hruď sa jej radostne rozpínala a srdce sa trepotalo pri   pomyslení, že o niekoľko minút odpočinie si na jeho prsiach a že   všetko, všetko zasa bude dobre. Ó, koľko daromného strachu si   narobila! Pribehla na „prvé“ miesto. Toto bolo rozložitejšie ako   „druhé“, na okrajoch rubené kríkmi a ohradené bukmi a smrekmi. Nebolo   také priehľadné ako „druhé“. Vbehla naprostriedok čistiny a obzerala   sa na všetky strany. Nikto. Iba vietor šumel medzi konármi. Zavolala   nesmelo: „Vlado!“ O chvíľku už plačlivo a hlasno: „Vladko, Vladuško!“   Zapotácala sa a hodila premrznuté ruky — zabudla si v náhlosti   rukavice vziať — na tvár: „Ó, Bože, Bože môj! Čo si počnem, ja   nešťastná! Niet ho tu, niet.“ Šál sa jej somkol s hlavy a vietor   rozdúval jej vlasy do tváre. Chodila, postávajúc, po čistine pomedzi   kríky. Ak by prišiel? Načúvala. Nič. Konečne sa sobrala, a vzlykajúc,   kráčala neistým krokom nazad na chodník. Konáre jej zadrapovaly
+   </tei:p>
+   <tei:p>
+    5 Kozinský mlyn
+   </tei:p>
+   <tei:p>
+    65
+   </tei:p>
+   <tei:p>
+    ﻿ruky, tvár a odev, necítila to, jej nešťastie utlmilo v nej všetky   city. Niekoľko minút pred jej príchodom bol Rosa s podobnými citmi   opustil „prvé“ miesto, aby vyhľadal „druhé“. Minuli sa. Ela, chvíľami   sa soberúc a chvíľami sa vlečúc, potácavé prišla domov. Ešte jednu   nádej mala. Odpíše mu kartičku. Odpíše mu, aby sa zajtra ráno o pol   deviatej, keď pôjde do súdu, zastavil v obchode u Rosnera, tam ho   bude čakať. Je to trochu včas pre panské dievča, ale jej bolo všetko   jedno: dlhšie tú neistotu nevydrží. Najradšej by bola utekala hneď za   ním, keby bola vedela, kde je. Ale nemôže. Veď keby ju odvrhol, Bože   drahý! To by neprežila. Zavolala učňa Števka zo sklepú a oddala mu   lístok, aby zaniesol do kancelárie pána advokáta Burdala a oddal pánu   doktorovi Rosovi. Ak by pán doktor nebol tam, tak nech sa vyzvie, kde   je. Števo bol šikovný šuhaj a mal Elu veľmi rád. Bol do nej po   chlapecky zamilovaný a bol by za ňu do ohňa skočil. Utekal s lístkom   a pribehol do kancelárie, v ktorej bol prítomný len advokát Burdal. —   No, čo je, chlapík? — pýtal sa priateľsky Števka. — Hľadám pána   doktora Rosu. — Načože ti je, chceš ísť s ním na pivo? — Doniesol som   mu lístok od slečny Ely. — Synku, pán doktor je už nie tu. Kde môže   byť, neviem. Príde už len ráno o ôsmej. Ale daj sem ten lístok, ja mu   ho isto, istučičko oddám. — Ale isto, pán advokát? — žobronil   Štefan.
+   </tei:p>
+   <tei:p>
+    66
+   </tei:p>
+   <tei:p>
+    ﻿— Celkom isto, neboj sa. Taký spoľahlivý posol, ako si ty, budem   aj ja. Števko oddal lístok. Burdal ho vzal, obzrel, zavoňal a usmial   sa. Položil bo na mapu na písacom stole Rosovom. Zakrátko skončil   Burdal svoju prácu a odišiel z pisárne, oddajúc kľúč sluhovi. Martin   vzal kľúč a vymietol a usporiadal kanceláriu. Ako každý sluha, aj on   vždy poprekladal písma a akty na stoloch pri riadení podľa veľkosti a   robil z nich rovnaké hŕbky. To žiadal jeho cit poriadku. Daromné boly   všetky nádavky jeho pána, v tomto si nedal rozkázať. Elin list tiež   strčil medzi iné karty podobnej veľkosti na Rosovom stole. Rosa sa po   príchode z hája cítil ako človek, ktorému naraz všetku nádej   odobrali. Všetkému koniec. Robil si výčitky pre svoju žiarlivosť, pre   svoju prenáhlenosť. Prepustil Elu bez boja takému protivnému sebcovi,   akým bol v jeho očiach Garvič. Ani na to nepomýšľal, že by bez Ely   mohol žiť. Musí sa s ňou sísť. Vysvetľoval si, že do hája takmer v   noci nemohla ísť. A možno ju i niečo iného zašlo, čo sa už viac ráz   stalo. Úbohá, možno väčšmi trpí ako on. Takýmto spôsobom sa v ňom   rojily rôzne myšlienky a city. Raz zúfal, raz bol plný nádeje. Ráno   Ela so stiesneným srdcom a so zastávajúcim dychom vyberala u Rosnera   rôzne čipky, stužky, trasúc sa pri každom svojom kroku. Minúty chytro   utekaly. Bolo pol, tri štvrte, bolo deväť hodín. Rosa neprišiel. Ela   nechala všetky navyberané veci na pulte a odišla bez pozdravu zo   sklepú. Cítila sa ukrutne slabá, nohy jej boly ani z vody,
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    67
+   </tei:p>
+   <tei:p>
+    ﻿hlava sa jej točila ako zrazu veľmi onemocnevšiemu človekovi.   Ledva došla domov, spadla na posteľ a zamdlela. Keď prišla k sebe,   videla okolo seba celú rodinu — ešte aj jej surový otec vyzeral   ustarané. Pri posteli boli aj dvaja lekári: Garvič a starý fyzikus,   ktorý sa utrápené díval na sklesnuté, krásne dievča. „No, chvála   Bohu, keď len otvorila oči,“ povedal, pohladiac ju po bledej tvári.   Ela sa dívala pred seba a zazrela uplakanú tvár matkinu, ktorá sa   skláňala nad ňou. — Eluška, dieťa moje, keď si sa mi len prebrala. —   a vyhladkávala jej rozcuchané vlasy s tváre. Ela si hlboko vydýchla,   smraštila tvár ako dieťa a začala úpenlivo plakať. Na dotazy, na   prosby neodpovedala, len plakala, že ju len tak pohadzovalo v   posteli. Naraz, ako by odťal, prestala plakať, dívala sa pred seba   ako vyjavená. Slovo z nej dostať nebolo možné. — To dieťa utrpelo   veľmi silný duševný otras, — vyriekol starý fyzikus. Garvič fajčil   cigaretu a díval sa zamysleno oblokom. — Iste, — preriekol. — Len to   by som rád vedel, z akej príležitosti? — Cítil sa nevoľne, nie si súc   načistom so sebou, či je aj on nie čiastočnou príčinou. Chýr o   onemocnení Ely sa rozniesol mestečkom a počul to aj Rosa. Bol práve   pri súde, keď mu kolega pošepkal, že Ela povážlivo ochorela, lebo   sháňajú lekárov k nej po celom meste. Jej lístok Rosa nebol našiel na   stolíku. Novina účinkovala naň, ako by ho do pŕs udrel; zastal mu   dych a obledol, ruky sa mu zatriasly.
+   </tei:p>
+   <tei:p>
+    68
+   </tei:p>
+   <tei:p>
+    ﻿„Bože drahý, čo je s tebou, holubička moja nevínna! Po rokovaní   utekal rovno, bez rozmyslu, ako nejakou silou pudený do Solárskych.   Vo dvore sa sišiel s mladým Solárskym. — Dobrý deň! Čo je s Elou? —   pýtal sa ho Rosa. — Je veľmi zle, — odpovedal mu, zazerajúc naň,   Solársky. — Môžem ju ísť pozrieť? — pýtal sa prosebne Rosa. — O tom   ani reči. A vy už vôbec nie. Ako by ste k tomu prišli? — hovoril   surovo Solársky, zapaľujúc si cigaretu rukami, trasúcimi sa od   alkoholizmu. — Nuž ale čo jej je, aspoň to mi povedzte! — A čo ja   viem. Chorá je, veľmi chorá. — Nuž to jej aspoň povedzte, že som tu   bol dopytovať sa na ňu. — Uvidím, možno, že jej poviem, ale možno, že   aj nie. Porúčam sa. Rosovi zovrela krv. Zaťal päste a blížil sa k   Solárskemu. — Vy mizerný chlap, tu vás ohluším! Solársky sa zľakol,   cigareta mu vypadla z otvorených úst a vybehol na schody pred vchodom   a zastal pred dverami. — Opovážte sa ďalej, a budem na ratu kričať.   Teraz jej už iste nič nepoviem. Rosa sa obrátil rozčúlený a išiel na   cestu. Popoludní počul, že Ela s matkou a Garvičom odcestovali, kam,   nevedel nikto. Hovorili, že k profesorom.
+   </tei:p>
+   <tei:p>
+    69
+   </tei:p>
+   <tei:p>
+    ﻿Rosa sa sišiel o tretej v kancelárii so šéfom. Burdal pozrel na   neho a užasol nad jeho výzorom. — Človeče, veď si odvčera ostarel o   desať rokov. Čo je s tebou? Človeče, oči máš zapadnuté a tvár   natiahnutú ani struny na husliach: ja, pravda, našiel si ten list na   stolíku? Myslím, že je od Ely. Rosovi sa triasla brada, zazrel na   Burdala i pýtal sa zachrípnuto: — Kde je? Nie, nedostal som ho. — Na   stolík som ti ho položil. To ho ten nešťastný Martin iste kdesi   zapotrošil. Rosa už prehádzal písma na stole a našiel kartičku.   Roztrhol obálku a čítal: „Ty môj život! Ty moja láska drahá! Nenič ma   už toľko! Darmo som ťa hľadala v háji, celý som pobehala. Príď ráno o   pol 9-tej k Rosnerovi do sklepú. Tam ťa budem čakať. Ak neprídeš,   neviem, čo sa stane. Tieto muky dlho nevydržím! S Bohom, ty moje   všetko na svete. Ela.“
+   </tei:p>
+   <tei:p>
+    Rosa si sadol za stolík a oprel hlava o dlane. Burdal videl, ako   sa celé jeho telo trasie od pohnutia, a videl kvapkať slzy zpomedzi   prstov na lístok. Pristúpil k nemu, položil mu ruky na plecia a   potriasol ho za ne. — Vlado, čo je, nezúfaj! Rosa vstal, utrel si   rukami oči a prešiel dva razy po izbe. Bolo v ňou vidno, že sa   premáha. Konečne sa sobral a riekol temno. — Nezúfam, ale nemôžem za   to, keď nevýslovne ľutujem to krásne, drahé, dobré dieťa. Čo vystálo!   — Povedal Burdalovi, čo sa stalo, a ukázal mu aj lístok: — Som
+   </tei:p>
+   <tei:p>
+    70
+   </tei:p>
+   <tei:p>
+    ﻿s Elou zasnúbený a vezmem si ju, i keď má sprostého otca, len čo   složím advokátsku skúšku. Burdal potriasol hlavou. — Bože, pre také   lapálie toľké utrpenia! Chúďa dievča. Skutočne ju ľutujem, ale aj   teba, lebo ty si vina všetkému a viem sa vmyslieť do tvojho duševného   položenia. Veď je to až tragické, ako nehožiatko vo tme chodilo po   tom opustenom háji, a nenašlo ťa. Dbohá Eluška! Vieš čo, príď ku mne   na večeru, moja šikovná ženička ti jedno-druhé vyhovorí z hlavy. Rosa   povedal, že nemôže prísť. Burdal sa však nedal odbiť. Dohováral mu,   že si pohovoria, čo sa dá robiť. — Musíme sa dozvedieť, kde je Ela.   Ostatné je hračka. Prídeš? Rosovi dobre padol úprimný záujem   priateľov, i prisľúbil sa. Čudné, nevedeli sa vyzvedieť, kam sa Ela s   matkou podela. Garvič sa o týždeň vrátil. Od neho sa nič nedalo   vyzvedieť. Burdal najal znamenitého korheľa Mikuláša Smitku, aby sa   od mladého Solárskeho pri lumpačke dozvedel, kde je Ela. Solársky sa   aj šťastlivo opil a udal aj adresu akéhosi rakúskeho sanatória, kde   je údajne Ela. Rosa odcestoval ta naskutku, ale o Ele a jej matke   nebolo tam ani slychu, ani chýru. Akiste mladý Solársky nevedel sám,   kde sú. Minul mesiac, a nič sa nepremenilo. Rosa vyzeral ako starec.   Dvadsaťosemročný človek začal šedivieť, nemal dňa ani noci, bol   netrpezlivý, každú chvíľu inej nálady; a tomu pevnému mužovi sa pri   každom rozčúlení triaslv ruky a nevedel sa zdržať slz. Každý deň   čakal zprávu od Ely,~ä~kazdý deň darmo. Sám seba ubezpečoval, že mu   Ela uemôže
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿viac písať, a predsa dúfal, že mu odpíše aspoň to, kde je. Raz   predstúpil pred Burdala a oznámil, že vystupuje z jeho kancelárie.   Nemôže to viac v B. vydržať. Tu mu všetko pripomína Elu. Trpí   priveľmi. Ide domov k rodičom, možno sa mu tam poľahčí. Hodí sa   celkom na štúdium. Burdal ho všemožne odhováral, prosil, hrešil,   všetko darmo. Priatelia sa s ľútosťou rozišli. Minulo pol roka, čo sa   Rosa nedozvedel nič o Ele. Burdal mu vypisoval všetky klebety, ktoré   boly rozšírené v B. o Ele, ale to mu všetko nič nepomohlo. Hovorili,   že zmiznutie Ely a jej matky zariadil doktor Garvič, ako aj to, že sa   Ela má vydať za neho, lebo jej poslal oznámenie zasnúbenia sa doktora   Rosu s akousi slečnou Júliou Maretovou, ktoré on sám dal vytlačiť.   Matka vraj stále dolieha na ňu, aby sa vydala za Garviča, a napokon   Ela nebude vedieť vzdorovať. I Rosove, i Eline nervy sa za tie   mesiace utíšily. Ale žeravý žiaľ a netrpezlivú bolestnú túžbu po sebe   cítili obaja tak ako v prvý deň rozluky. Rana ich srdca bola taká   živá ako pred pol rokom, ba stala sa ešte citlivejšou. V auguste   složil Rosa advokátsku skúšku a zároveň s diplomom dostal oznámenie,   že sa Ela vydala za doktora Emila Garviča. Rosa pretrpel aj tento   ukrutný otras. Ľutoval Elu neskonalé, lebo vedel — aspoň si namýšľal,   že vie — čo pretrpela, kým ju dostali tak ďaleko, že privolila k   tomuto skoku do priepasti. Dr. Garvič pochádzal zo zámožnej, ale   nervove dedične zaťaženej rodiny. Jeho otec bol trpel na
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿petit mal. Zomrel pomerne mladý veľmi záhadným spôsobom. Isté   bolo, keď aj nebol samovrahom, ale príčinu smrti si schválne   zadovážil. Garvič bol majetkové úplne samostatný. Bol lekárom, ale   viáťTz pasie ako z povolania. Zaujímaly ho len záhadné prípady   onemocnení a tieto každým možným spôsobom hľadel osvietiť. Mal   dokonale zariadené laboratórium so všetkými diagnostickými pomôckami   i s rôntgenom. Nemal pokoja, kým taký záhadný prípad nerozlúštil,   chodil za ním, bol mu často na ťarchu, vyšetroval ho bezohľadne.   Garvič stratil zpred očú človeka a videl len nemoc. Skutočne bolo   čosi posadlého v tom, ako prenasledoval takého úbožiaka, kým nebol š   jeho nemocou načistom. Keď vedel, čo mu je, nestaral sa viac oň. Mal   mnohé obdivuhodné úspechy. A predsa ho ľudia nemali radi a ani ho   priveľmi neobťažovali, lebo bolo v ňom čosi neprirodzeného. Smiať sa   ho nevidel nikto, pri tom všetkom, že na jeho ústach stále zahrával   akýsi trápny úsmev. Priateľa vôbec nemal a nestýkal sa s nikým, len   natoľko, nakoľko to každodenná potreba vyžadovala. Jeho spôsoby boly   tiché, hladké, odmerané, úplne chladné. Jeho diagnostická mánia   doniesla so sebou aj to, že študoval tváre. Všímajúc si na chorom   všetkého, všímal si aj do krajnosti jeho tváre. Tak sa naučil   študovať portréty. Cestoval mnoho, poprezeral mnoho obrazární, i stal   sa časom veľmi podrobným znateľom portrétov. Iné obrazy ho vôbec   nechaly chladným. Portréty účinkovaly na neho nielen výrazom, ale aj   svojím vyhotovením. Stal sa akýmsi naturalistom v ich posudzovaní a   ocenení. Jemu
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿neimponovaly mienky kritikov, maliarov, on mal svoju teóriu a tú   nikomu nepovedal, ale ani nijakú cudziu neprijal. Od trečentistov   podnes poznal dobre každý portrét, ktorý stál za slovo. Jeho   presvedčenie bolo, že maliar s rôznymi odtienkami vmaFúva svoju dušu   do tváre odmaľovaného. A ako si namýšľal, čítal povahy z dobrých   portrétov ani z knihy. Bellini bol viveur a také sú aj jeho madony a   iné podobizne, Tintoretto ukrutník, jeho senátori benátski sú takí   tiež, Holhein surovec a takí sú aj všetci, ktorých odmaľoval. A   konečne po kráse a čarovnej nežnosti bažiaci Leonardo vložil do   portrétov svojich žien nehynúcu, zvláštnu, neopísateľnú ženskú   nežnosť, ktorá i všetkých jeho mnohých žiakov, aj pri ich   nepatrnosti, vyzdvihla zo zabudnutia. Garvič sa zahľadel i na hodiny   na zaujímajúcu ho podobizeň. Najznamenitejších portrétov, možno v   najlepších reprodukciách, mal mnoho sto. Keď sa nabažil medicíny,   vybral svoje sbierky a zabával sa s nimi. Pre obrazy bol precestoval   celú Európu. Pre niektorú hlavu aj týždeň-dva, dokiaľ sa jej   nenabažil. Cestoval vždy sám a každému styku vyhýbal. Ela naň tak   podivne účinkovala, lebo nachádzal v nej prototyp Leonardových žien.   Postavy bola ako Melzilm Pomona, vysoká, štíhla, pritom plných   foriem, hlavičku mala neveľkú, so zvláštnym ľúbezným ťahom okolo úst   a očú, ktorý takými báječnými robí ženy žiakov Leonardových. Oči mala   hlboké, tmavohnedé a vždy akési smutné, aj keď sa smiala. Garvič bol   oproti ženám vôbec chladný, ale na Elu sa mu žiadalo hľadieť bez   ustania. Vždy
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿ju videl v inej podobe. Leonardo maľoval Giocondu štyri roky, a   nedomaľoval ju a nebozkal ju azda nikdy. Garvič kupoval Ele rôzne   šaty, divné klobúky, šatky a žiadal od nej, aby sa do nich   drapírovala, a to bola aj celá manželská povinnosť, čo mu ona   neodoprela, lebo ináče každú jej túžbu, ktorú jej len na očiach   videl, splnil prv, ako by ju mohla vysloviť. Ináč sa Ela spravovala   voči nemu, ako by bola v jeho dome hosťom. Mala svoje osobitné dve   izby, do ktorých ho takmer nepripustila. Keď predsa ta vošiel, bola k   nemu nevľúdna, neshovorčivá. Schádzali sa pri každodennom jedení a   popoludní v spoločnej dennej izbe, kde obcúvala s ním dosť   priateľsky, ako s lepším známym. Bolo to vôbec podivné manželstvo,   ktoré zapríčiňovalo susedom mnoho lámania hlavy. Garvič mával   výslovné melancholické záchvaty. Dva obloky v jeho ordinačnej izbe   boly obrátené do záhrady a dva proti starému ošarpanému múru, ktorý   sa topil v blate. Pod múrom bol srub dávno opustenej studne.   Pozoroval, že keď sa zahľadel na tento múr, že sa duša jeho   zatieňovala ani čiernym oblakom. Neopísateľný, takmer hmatateľný,   beznádejný smútok mu zaľahol na dušu, pod vplyvom ktorého ho nič na   svete netešilo, ani Ela. Jediná jeho útecha v takéto časy bolo   pomyslenie, že môže skončiť svoj život, kedy chce. Garvič si bol vzal   Elu za ženu pod vplyvom monománie, že bez nej nemôže žiť, a urobil aj   všetko bez ohľadu na bežné mravné zásady, aby jej rodičov a ju samu k   tomu prinútil, aby mu v tomto ohľade nevzdorovali. S krajnou   konze-
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿kvenciou ju vedel pol roka zatajiť pred Rosom a s nadľudskou vôľou   nasugerovať jej materi, aby mu ju do náručia vohnala. Hanebnosť so   snubným oznámením Rosovým bola pravda. Rosa bol asi rok advokátom vo   svojom rodisku a šlo mu veľmi dobre, keď musel raz odcestovať vo veci   istého klienta do Rratislavy. Vlak zastal na stanici C. Rosa stál na   chodbe a zunovano sa díval na perón. Nebolo na ňom mnoho cestujúcich:   dvaja-traja sedliaci, niekoľko večných žiakov a pri vchode sa   shovárala akási tučná staršia dáma s inou dámou, ktorú však zakrývala   svojou postavou. Staršia dáma sa pohla a Rosa zazrel pri nej veľmi   elegantnú, nadprostredne vysokú, štíhlu mladú dámu. Naraz mu prestalo   srdce biť a v nasledujúcu minútu ho cítil až kdesi v hrdle. Bože!   Bola to Ela! Bez rozmyslu utekal do dverí vagóna, chtiac vyskočiť a   utekať k nej. Vtom zazrel, že drží v ruke ľahký cestovný kufrík, teda   cestuje. A skutočne, odobrala sa od starej dámy a šla do vlaku. Už   bola pri Rosovom vagóne, skoro ho prešla. Rosa zvolal: — Ela!   Podvihla hlavu a zazrela Rosu. Videl, že bledla a mimovoľne sa   chytila za prsia. Rosa skočil, pomohol jej do vlaku a zaviedol ju do   svojho kupé I. triedy, kde boli sami. Pozreli si do očí a s akýmisi   neartikulovanými hlasmi si padli do náručia. Ó, tá blažená chvíľka   vyvážila všetky žiale a utrpenia toho pol druha roka. Ich ubolené,   ich toľkou daromnou túžbou umučené srdcia konečne boly pri sebe. Dlho   trvalo, dokiaľ medzi pozeraním si do očí, oblápaním sa
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+   <tei:p>
+    ﻿a bozkávaním, pretrhovaným len nesrozumiteľným mrmlaním najmilších   mien, prišli k slovu. — Môj si? Nezabudol si na mňa? — Skorej život   ako teba. Nemôžem ti vôbec vysloviť, aká si mi drahá! — Neodoženieš   ma už od seba? Pôjdem s tebou, — i oblapila rukami jeho tvár a v   bozku mu opakovala bezprestajne: — Pôjdem, pôjdem, pôjdem. Niekoľkými   stanicami prehrmel rýchlik, kým sa natoľko utíšili, že, držiac sa za   ruky, začali chladnejšie uvažovať o svojom položení. — Nuž ty by si   hneď chcela so mnou ísť, hneď a hneď, dušinka drahá? — pýtal sa jej   Rosa, hladiac jej ruky. — Áno, chcem ísť s tebou. Ak sa rozídeme, nuž   sa zasa nenájdeme. Rosa sa usmial. — Dušinka, nás nerozlučovaly   kilometre. Teraz, keď sme sa sišli, viac sa nerozídeme, aj keď   nebudeme niekoľko dní spolu! — To chceš, aby som sa vrátila, —   opýtala sa Ela a začala kriviť ústa ako dieťa, keď ide plakať. Rosa   ju oblapil, položiac si jej hlavu na svoje prsia, pohladil ju: —   Neplač, zlaté dieťa. Prisahám ti na všetko, čo mi je najsvätejšie na   svete, že ťa nikdy neopustím. Ale musíme predsa všetko tak zariadiť,   aby si v očiach celého sveta vyšla čistá. — Ela sa trochu utíšila,   najmä keď jej sľúbil, že jej bude každý deň písať, kým sa nesídu   naveky. Vyrozprávala mu, aký je jej pomer ku Garvičovi. Podľa jej   mienky jej Garvič sotva bude pri rozsobáši väčšie ťažkosti robiť,   lebo doteraz všetko urobil, čo si žiadala. Na základe tohto sa   rozhodli, že Ela sa vráti domov a povie Garvičovi,
+   </tei:p>
+   <tei:p>
+    77
+   </tei:p>
+   <tei:p>
+    ﻿že, síduc sa s Rosom, presvedčila sa, že ju vlastne len klamlivým   predstieraním a násilným nahováraním odvrátili od neho a že je vôbec   nie náchylná svoj život obetovať nesvedomitému pokračovaniu jeho a   jej rodičov. Uvidia, aký účinok bude mať toto oznámenie na Garviča.   Ak bude robiť ťažkosti, tak príde Rosa po ňu a dovedie ju ku svojim   rodičom, u ktorých zostane tak dlho, dokiaľ sa celá otázka   nerozrieši. Rozišli sa plní starostí, ale aj blahých nádejí. Ela   prišla ráno domov, prv, ako ju Garvič očakával. Sedel pri raňajkách,   keď došla ešte v cestovnom úbore. Garvič vstal a privítal ju. — No,   chytro si prišla. Čo je s tetou? — Nič, ani som s ňou nebola. Stala   sa iná, omnoho vážnejšia udalosť, ktorá ma doviedla už domov. — Čo   takého, — pýtal sa pokojne Garvič. — Poviem ti, len sa idem   preobliecť. — Odišla. Garvič si ďalej natieral maslo na žemľu a pil   svoju kávu. Pred ním ležaly nové lekárske noviny, do tých pozeral   medzi jedením. Po raňajkách si sadol do pohodlného fotela, zapálil   cigaretu a čital svoje noviny. Vošla Ela. Sadla si ku stolu. Chyžná   jej doniesla raňajky. Keď odišla, Ela odstrčila od seba nádoby   trasúcimi sa rukami. — Nie, nemôžem teraz jesť. Garvič, cestou som sa   sišla s doktorom Rosom, od ktorého ste ma s mojimi rodičmi   najnesvedomitejším spôsobom odviedli. Ja vás nechám, ja s vami pod   jednou strechou žiť nebudem. Pôjdem k nemu, ku ktorému ma od prvej   chvíle srdce tiahlo. Ela, ako slabši ľudia vôbec, nevedela byť   roz-
+   </tei:p>
+   <tei:p>
+    78
+   </tei:p>
+   <tei:p>
+    ﻿hodná bez rozčúlenia, a preto upotrebúvala aj výrazy, ktoré   neskoršie oľutovala. Garvičova tvár na jej reč dostala výraz človeka,   ktorého udreli a ktorý čaká druhý úder. Zamračil sa a jeho trápne sa   usmievajúce ústa dostaly podobu sardonického úsmevu, takže mu bolo   vidno horné zuby i s ďasnami. — To je nateraz tvoja nezmeniteľná   vôľa? — Nielen nateraz, ale vôbec. Ak chceš, aby som ti odpustila   tvoje neslýchané pokračovanie proti mne, tak mi vráť slobodu. Na   nijaký prípad nezostanem pri tebe. — A ako ti ju mám vrátiť? — pýtal   sa Garvič, stále strnulé vytŕčajúc vrchné zuby. Ela zrazu   inštinktívne a s akýmsi desom začala naň hľadieť. Očakávala väčší   rozruch, väčší odpor od neho. Nevedela ešte, že najhlbšie rany, tak   duševné, ako telesné, nevyvolávajú veľké zovňajšie rozruchy. Na   smrteľné bodnutie dýkou zhíkne človek a na kožný rez tupým nožom   kričí na ratu. — Rozsobášme sa, — povedala neistým, plačlivým hlasom.   Garvič neodpovedal. Oprel hlavu o chrbát fotela a mechanicky potiahol   z cigarety. Pomaly fúkal dym z úst, dívajúc sa na povalu. Myslel:   „Prišlo, čo muselo prísť.“ Ela skočila so stoličky a podišla k nemu.   — Emil, čo ti je, — zavolala zľaknutá. Garvič sa zadivený podíval na   ňu. Vstal z fotela a oklepával si so šiat cigaretový popol. — Nič.   Azda neľutuješ, čo si povedala? Ele rázne krútila hlavou. Zastal pred   ňou a dí-
+   </tei:p>
+   <tei:p>
+    79
+   </tei:p>
+   <tei:p>
+    ﻿val sa na ňu. Ona stála pred ním a dívala sa mu zostrašene,   očakávajúc, čo bude, do tváre. — Ela, raz, jeden, jediný raz si ma   bozkala. Môžem ťa ešte raz bozkať? Ela neodpovedala ani slovom, ani   posunkom. Pristúpil k nej a bozkal jej mäkké, teplé ústa. Nikdy   nezabudla Ela na jeho chladné, ostré pery. Sišiel jej na um, keď ju   po sobáši bol pobozkal. Vtedy jeho pery iste boly také. — Idem   porobiť potrebné kroky, aby si sa odo mňa oslobodila. S Bohom!   Povedal a odišiel z izby. Ela, zostanúc sama, zalomila rukami. „Bože   môj, čo je s tým človekom. Ten si na niečom zlom láme hlavu!“ Garvič   vošiel do svojej pracovne, tam zobral rôzne písma a šiel rovno k   verejnému notárovi. Prezeral noviny, kým notár odbavil iné stránky.   Dal si napísať testament, v ktorom všetok svoj asi ďvojmiliónový   majetok poruejI_ETe. Za to nežiadal od nej nič, ani opatrovanie   hrobu, ani kytice, ani spomienky. Ele bolo v pustom dome otupno.   Ovládal ju nepokoj. Obliekla sa a prešla ku svojim rodičom. Na   matkine otázky odpovedala vyhýbavo. Len to rozprávala, že je jej muž   akýsi podivný, podivnejší ako inokedy, a že sa bojí s ním byť; či   môže zostať doma aspoň deň-dva? Matka, krútiac hlavou, pravdaže jej   dovolila, aby zostala. Cez deň sa vyzvedaly, čo robí Garvič.   Dozvedely sa, že išiel po obciach chorých navštevovať, a upokojily   sa. Keď večer zostala matka s dcérou osamote, začala sa jej   vypytovať, čo sa stalo a prečo je nepo-
+   </tei:p>
+   <tei:p>
+    80
+   </tei:p>
+   <tei:p>
+    ﻿kojná. Ela najprv vykrúcala a potom sa jej hodila 8 plačom okolo   krku a vyrozprávala jej všetko, čo sa stalo. Dobrá mať jej nerobila   výčitky. Zamyslela sa, hladiac hlavu utrápeného dieťaťa. Pomyslela na   život, ktorý jej dcéra má, a na to, že zlé, nemúdre skutky nesú svoje   ovocie. Ráno, okolo šiestej, silne búchali na bránu u Solárskych. Do   spálne matky a dcéry vošla s hrmotom slúžka a pristúpila k posteli už   zostrašene sediacej panej: — Čože sa stalo, Zuzka? — Peter priletel   ako bez duše, že vraj pán doktor zomreli. Hovorí, že sú už aj na smrť   oblečený, len pochovať. Ela skočila s postele a hádzala, plačúc a   vzlykajúc, na seba šaty. O chvíľočku bol celý dom na nohách a všetci   utekali do Garvičov. Našli ho, v čiernych šatách korektne oblečeného,   na pohovke jeho ordinačnej izby. Strnulá mŕtvola vyzerala, ako by   chcela s divána sostúpiť. Na pracovnom stolíku našly lístok tohto   obsahu: „Striekol som si tri decigramy morfia a jeden centigram   skopolaminu pod kožu. To je dávka, ktorá úplne postačí, aby človek na   svete nikomu viac nezavadzal. Ani sebe. Garvič.“ Smrť Garviča a z nej   vyplývajúce okolnosti do krajnosti rozčúlily citlivú Elinu dušu. Na   svoju lásku úplne zabudla; zdala sa jej citom, ktorý azda nikdy   úprimne necítila. Považovala sa za nevernú ženu, ktorá zavraždila   muža, milému kvôli. Pomyslela si, aký pozorný bol vždy oproti nej   Garvič. I teraz, keď videl, že jej stojí v ceste, odišiel naj-
+   </tei:p>
+   <tei:p>
+    6 Kozinský mlyn
+   </tei:p>
+   <tei:p>
+    81
+   </tei:p>
+   <tei:p>
+    ﻿veľkodušnejším spôsobom. Zdal sa jej veľkolepým hrdinom oproti   každodennému Rosovi. Nechápala ho, jej srdce blúdilo. Jej matka   odtelegrafovala Rosovi, že Garvič v noci náhle zomrel. Rosa druhý deň   predpoludním už bol v B. Prišiel k Ele, ktorá bola v Garvičovom dome.   Očakával, že sa mu hodí do náručia a — ako to u žien už inakšie   nemôže byť — v záplave sĺz dá nervovému napätiu voľný beh. Vošiel do   Elinej izby, v ktorej sedela pri písacom stolíku. Keď vošiel, išla mu   tichučko, so sklopenou hlavou oproti. Tak vyzerala v čiernom úbore,   že Rosa zastal a prekvapený sa díval na neočakávaný zjav. Nemile ho   prekvapil najmä výraz jej tváre. Bol strnulý, cudzí. Podala mu ruku.   Rosa jej ju pobozkal a potom, chtiac jej pozrieť do očú, zdvihol jej   rukou tvár. — Lušinka, čo je s tebou? Takto ma privítaš len po   trojdňovom rozchode? Ó, to ma smutno prekvapuje! Ela si sadla na malú   stoličku a složila ruky na kolenách. Hovorila ako v bezvedomí, ako by   niekto hovoril z nej. — Vlado, ja som najnešťastnejšia osoba na   svete. Pomysli si, ja som nevinného, dobrého človeka vohnala do   samovraždy. Prečo? Pre svoju takzvanú lásku. Či slobodno človeka   zavraždiť pre cit? Miloval ma, ba zbožňoval, čo mi na očiach videl,   urobil mi kvôli, a ja som ho zavraždila. Pre lásku, preto, že teba   mám rada! Slobodno to?
+   </tei:p>
+   <tei:p>
+    82
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

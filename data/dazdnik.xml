@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944894" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Dáždnik : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2642
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿Dáždnik
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     DÁŽDNIK
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Na poschodí starého domu hývaly dve staré slečny. Dom bol starý,   ešte z časov, keď malomestskí palieri stavali každý podľa svojho   „slohu“: pod čím rozumeli, že každý z nich inú bylinu upotrebúval na   okrasu domu. Jeden mučil utrápených murárov tým, že museli okolo   dverí a oblokov z malty narobiť hrozná, iný bol pyšný na svoje jablká   a hrušky alebo kadejaké listy. Rozumie sa, že tieto zázraky zamazali   primeranými farbami: pravda, len po prvý raz, keď dom bol celkom nový   a majiteľ mal z neho ešte ukrutnú radosť, lebo celé obyvateľstvo   mestečka postávalo pred ním, kochajúc sa na novej pýche svojej rodnej   obce. Keď bolo o niekoľko rokov treba dom prefarbiť, tak ho už   obyčajne celý len jednou farbou zamazali a červené hrozno a zelené   listy zmizly pod ružovým alebo belasým náterom. Neskoršie sa i tento   stával prozaickejším: ružovosť a modrosť ustúpila praktickej   šedivosti a len na orýpaných miestach vyzeraly ešte pestré farby   mladosti domu. Košíkovité, navonok vyčnievajúce mreže boly pripravené   i na poschodových oblokoch, lebo veď v oné časy, keď tieto domy   stavali, boli azda i milenci i lúpežníci podnikavejší, najskorej i   preto, lebo bolo skorej čo ukradnúť ako dnes, a dievčatá a nevesty   ochrániť: nestačily ani mreže. Dve staré slečny, Genka a Lojzka   Morských, ani neboly také staré na roky, ako svojimi náhľadmi
+   </tei:p>
+   <tei:p>
+    9*
+   </tei:p>
+   <tei:p>
+    131
+   </tei:p>
+   <tei:p>
+    ﻿na život. Najskôr boly staré už aj vtedy, keď im bolo len dvadsať   rokov, a to preto, lebo ich rodičia už boli hodne starší, keď sa im   tieto dve potechy ich života narodily. Morskovci boli dosť zámožní,   majetok im stačil, aby i oni sami v pomernom blahobyte trávili svoj   život, ako aj k tomu, aby svojim dvom dcéram zabezpečili bezstarostné   živobytie. Oni a ich dcéry držali za jediný bezpečný spôsob uloženia   peňazí ich umiestenie v sporiteľniach, a to tak, že ich rozdelili po   mnohých ústavoch, lebo sa nechceli spoľahnúť len na jeden. Vôbec   Genka a Lojzka sa držaly prísne všetkých príkazov a zvykov   rodičovských i vtedy, keď tých i už dávno nebolo. Múdre a spoľahlivé   im bolo len | to, čo robievali otec — mať. Boly v každom ohľade do   krajnosti konzervatívne. V celom svojom živote sa dívaly na mužských   ako na najvýš nebezpečné tvory, ktoré majú v hlave len samé úskoky a   fígle, ako by mohly dievčatá urobiť nešťastnými. Pri tom všetkom   však, že sa na mužských dívaly len so samým strachom, predsa ich čosi   ťahalo k nim. A ten pocit akejsi neistoty robil ich ešte   bojazlivejšími, lebo často cítily, ako by bolo dobre odpočinúť na   prsiach muža a preukázať mu všetok cit dobroty a lásky, ktorý v nich   prebýval. Na každú novotu hľadely s poverčivou hrôzou; aeroplány,   kiná, rôntgen, to sa im zdalo pokúšaním Pána Boha, čímsi   neprirodzeným. Modernejší román, najmä trochu smelší, čítaly len so   šteklivým pocitom, že pášu hriech, z ktorého sa musia vyspovedať, a   hanbily sa pritom ešte i samy pred sebou. Ich živobytie bolo tiež tak   zariadené, ako ho
+   </tei:p>
+   <tei:p>
+    132
+   </tei:p>
+   <tei:p>
+    ﻿mali ich rodičia. Za povinnosť si považovaly mať vždy plné obloky   kvetín, a vlastne hlavná ich radosť bola, keď sa mohly navzájom pýšiť   krásne vypestovanými pelargóniami, fuksiami a begóniami. Za   najjemnejší parfum malý mošus a v ich dome, ktorý udržiavaly v   pedantnom poriadku a čistote, vždy voňal rozmarín, rumanček, lipový   kvet a iné liečivé byliny, ktoré podľa starého zvyku opatrovaly ako   isté pomôcky pri rôznych nemociach. Ani Genka, ani Lojzka neboly   špatné; malý celkom pekné črty tváre a nie zlú postavu. A predsa sa   nevydaly. Príčina toho bola, že Genka sa narodila so zmrzačenou   nôžkou a Lojzka — staršia — mávala každý rok raz zrádnik, čo okrem   ich domáceho lekára, starého ich priateľa, Rozinského, azda nikto   nevedel. I Genka, i Lojzka by boly malý príležitosť vydať sa, ale keď   pomyslely na svoje telesné chyby, nemohly sa premôcť natoľko, aby ich   prezradily i svojim prípadným mužom, a zostaly radšej pannami. A tak   žily tieto dve ozaj ctnostné ženy v živote malého mestečka,   nezúčastňujúc sa na ňom skoro vôbec. S času na čas ich navštívila   niektorá staršia priateľka alebo rodina a v riadnych obdobiach i ony   chodily na návštevy, na ktoré sa chystaly sťa malé mesto na vítanie   biskupa. Ich život plynul ticho a bez starosti; veľká udalosť bola v   ňom, keď im zhynulo kura alebo keď skapala mačka. A tu naraz boly tak   ukrutne vyrušené! Lojzka šla ráno, ako obyčajne, do kuchyne urobiť   kávu na raňajky, čo nemohla na slúžku nechať,
+   </tei:p>
+   <tei:p>
+    133
+   </tei:p>
+   <tei:p>
+    ﻿a tu našla v kúte, pri Terkinej posteli, skoro nový, poriadny   mužský dáždnik! Lojzka sa dívala naň s prekvapením. — Terka, čo je   to? Terka, šumné, červenolíce dievčatko, asi dvadsaťročné, mrdla   plecom: — Nuž čože je? Parapeľ, daj sa mi ho Bože. Veď už vari videli   parapeľ. — Terka, dáždnik, a to mužský dáždnik! Ako ten sem prišiel?   Nezabudol ho tu azda pán doktor? — Ešte čo, veď vedia, že ten nikdy   nechodí s parapľom. — Nuž čí je to dáždnik? Kto ho mohol sem doniesť?   Terka mrdala plecom a zohla sa, aby priložila do sporáka. Lojzka   zabudla i na kávu a utekala s dáždnikom ku Genke, ktorá ešte   vylihovala v posteli. Už v susednej izbe kričala: — Genka, Genka,   pozri, čo ti nesiem. Pomysli si, čo sa stalo, v našej kuchyni som   našla mužský dáždnik. — I vniesla ho, opatrne ho kolembajúc za kvačku   na jednom prste, aby sa ho čím najmenej dotkla. Buclatejšia Genka,   ktorej vše vyšľahol i bystrejší blesk z očú, vyskočila s postele a   pribehla k sestre. — Ukáž ho, aký je to zázrak? — I vzala ho,   obzerala, roztvorila i zavrela niekoľko ráz. — Poriadny, skoro nový   dáždnik. To tu iste nechal nejaký pán! Lojzka zalomila rukami: —   Nejaký pán, pre Kristove rany! A čo by ten tu bol robil? Genka vzala   dáždnik, uložila sa s ním znovu do
+   </tei:p>
+   <tei:p>
+    134
+   </tei:p>
+   <tei:p>
+    ﻿postele a obzerala ho rozčúlene ako nejaký zvláštny, zriedka   viditeľný predmet. — Hm, ja myslím, že to Terka bude najlepšie   vedieť. Možno ho našla, alebo niekde vzala. Vieš, že sa dáždniky   často tratia. Hľa, i náš doktor nenosí dáždnik od tých čias, čo mu   dva zmizly. — Počuješ, keď je to panský dáždnik, to iste tu bol   nejaký pán! A ak bol i v izbách! Ty, Genka, mne sa zdá, že cítim taký   zvláštny pach za tabakom, to bol iste mužský. — Lojzinka, a naše   nočné kabátiky a nohavičky boly na stole porozkladané. Vždy tú   bielizeň ta kladie tá hlúpa Tera! — zvolala Genka, začervenajúc sa a   tisnúc dáždnik mimovoľne na srdce. — Pre pána Jána! Aká hanba, aká   hanba! Neukážem sa viac na ulicu ani za celý svet, — zvolala Lojzka,   zalamujúc rukami. — To je strašné, že sa to práve v našom dome stalo.   Ale čo len hľadal tu ten „mužský“? Čo tu len chcel? — Ale ja myslím,   že azda predsa nebol v izbe, lebo tak by nebol dáždnik zabudol v   kuchyni, — potešovala sa Lojzka. — To máš veru pravdu. Aká si ty len   múdra, na všetko myslíš! Vieš čo, Lojzka, najmúdrejšie bude, opýtajme   sa Terky, čo je to s ním. Tá bude iste vedieť niečo o ňom. Istá vec,   že Terka vedela, a či nevedela! Lojzka zacengala a Genka si   rozmyslela vec, a odložiac napokon dáždnik, vstala a obliekala sa.   Terka vošla s raňajkami do izby, a dokiaľ ich ukladala na stole,   kývala Lojzka Genke, aby sa za-
+   </tei:p>
+   <tei:p>
+    135
+   </tei:p>
+   <tei:p>
+    ﻿čala spytovať, čo je s tým dáždnikom. — No, Genka, no. Veď už   začni. Genka si so dva-tri razy prebrúsila hrdlo a konečne začala: —   Ty, Terka, povedz, aký je to dáždnik? Ty to iste vieš. Veď vari   nespadol s neba. Terka ani nehlesla, ako by nič. — Terka, prečo   nehovoríš? Kde sa ten dáždnik vzal v tej kuchyni, veď povedz, dievka   moja. Veď si ho azda len neukradla? — spytovala sa už i Lojzka. —   Nuž, keď už tak chcú vedieť, nuž im poviem, — začala Terka tak, že   bolo na nej vidno, že sa posmeľuje. — Veď už hovor, no! -—- skričala   na ňu Genka. — Včera večer prišiel do kuchyne akýsi pán a pýtal sa,   či som ich kravu nevidela. A ten zabudol tam ten parapeľ, no! I   Genka, i Lojzka zalomila rukami. — Pre Pána Boha; včera a akýsi pán!   — skríkla Genka. — V noci po kuchyniach chodiť a spytovať sa o kravu!   Kto to kedy slýchal, — divila sa Lojzka. — Nuž a koľko hodín už bolo,   keď bol ten pán v kuchyni? Terka utekala von a už vo dverách zvolala   chytro: — Bolo už okolo pol dvanástej! — a zatrepla dvere. Iste   považovala túto zvedavosť so strany slečien za veľmi neoprávnenú.   Genke vypadly sukne, ktoré si pripravovala, z rúk: — Lojzka, že vraj   o pol dvanástej v noci! — O pol dvanástej v noci chodia páni kravy   hľadať po domoch! To je hrôza, čo to len bude s nami.
+   </tei:p>
+   <tei:p>
+    136
+   </tei:p>
+   <tei:p>
+    ﻿Musíme to oznámiť slúžnemu, nech urohí nejaký poriadok, —   lamentovala Lojzka. — A keby to aspoň jalovicu, ale hneď kravu! —   škandalizovala sa Genka. — A kto to len mohol byť, kto to len mohol   byť? — Hádala ďalej, a zabudnúc i na obliekanie, vzala zasa len   nešťastný dáždnik do rúk a prezrela ho: — Nič na ňom nevidno, kto by   to mohol byť, nič! Genka sa pri stálom lamentovaní a hádaní obliekla   a naraňajkovaly sa. Dnes zabudly na svoj každodenný rozhovor o   dražobe, o zlej akosti kávy a pečiva pre ten nešťastný dáždnik. Keď   boly vošly obidve do kuchyne, inkvirovaly zasa Terku, ktorá naskrze   nechcela vyjaviť, kto bol ten pán. — Nuž a akože vyzeral, to si už   len zaiste videla, — skríkla na ňu už nervózne Genka. — Mal taký   červený nos, — vytisla zo seba nevdojak Terka. — Červený nos! Kto by   to mohol byť? — pýtala sa zadiveno Lojzka. — Kto má tu v meste   červený nos? — Ojojój, červených nosov je tu dosť! — odsekla Terka. —   A aký bol? Vysoký, či nízky? — na to Genka. — Starý, či mladý? — Ani   starý, ani mladý, ani vysoký, ani nízky, len taký ako všetci ľudia, —   vysvetľovala Terka. — A to si ešte svietila o pol dvanástej, ty   naničhodnica. Čo ty petroleja spáliš, ani si ho nie hodna, — pustila   sa do nej Genka. — Ja som nesvietila, ja som už dávno ležala
+   </tei:p>
+   <tei:p>
+    137
+   </tei:p>
+   <tei:p>
+    ﻿v posteli, — bránila Terka svoju urazenú nevinnosť. — Nuž a či ho   azda po hlase nepoznať? — Ktože tak hovorí ako moriak: hudry, hudry,   hudry? Nik, iba on, — odsekla Terka víťazoslávne. — Nuž veď to bol   Gábor Búška! Ten lump, ten naničhodník, čo po všetkých kuchyniach   sliedi. Aká hanba, aká hanba! — nariekala zasa Lojzka. — A veď ten   ani kravy nemá, čože ten hľadal kravu? Na túto otázku Terka zostala   dlžná odpoveď. — No a čo si to hneď nepovedala, kto to bol, ty, ty   jedna naničhodná osoba, — kričala na ňu Genka. — Keď som sa hanbila,   no, — odsekla plačúc Terka. — Keby bol u nich býval v noci, by sa   tiež hanbily povedať. Húhúhúhú. — Preboha, aká hanba! U nás, u nás! V   našom poctivom dome! — kričaly slečny a utekaly ozlomkrky, potkýnajúc   sa na prahoch, do izby, aby nepočúvaly tie strašné reči Terkine. V   izbe sa podívaly na seba a potom si padlý do náručia a plakaly   žalostne, ako by ich bohvie aké nešťastie bolo stihlo! Po troche sa   utíšily a začaly o veci predsa len chladnokrvnejšie rozmýšľať. Veď   konečne čože sa stalo takého hrozného? Že bol v noci v ich dome cudzí   mužský, a ešte taký vychýrený lump, ako je Gábor Búška? Dobre, ale   bol len v kuchyni, nuž a do kuchyne môže hocikto prísť, to je predsa   nie hanba pre nich. Na šťastie ich prišiel navštíviť ich domáci lekár   Dr. Rozinský, ktorému, rozumie sa, vyrozprávaly svoje žiale.
+   </tei:p>
+   <tei:p>
+    138
+   </tei:p>
+   <tei:p>
+    ﻿Doktor, veselý starší pán, šiel sa rozpučiť od smiechu nad   rozhorčením tých dvoch starých detí. Vysmial a nahovoril ich, aby z   pokuty nevrátily tomu darebákovi ten dáždnik, keď príde poň alebo ho   bude pýtať. Slečnám odľahlo na duši od lekárovho posmechu, ale   dáždnik im preto neschádzal s umu. Ba čo viac, väčšinu svojho   slobodného času strávily s ním alebo hovoriac o ňom. Robily s ním   kadejaké pokusy, chodily pod ním, ako by pršalo. — Pozriže, Lojzka,   ako by sme to šly, keby som ja bola ženou toho pána a on by ma viedol   pod pazuchu a držal dáždnik nad hlavou, — vábila Genka. Lojzka   vstala, chytila Genku pod rameno, a tak, premieňajúc sa — to bola   Lojzka, to zasa Genka pánom — chodily po izbe, vymýšľajúc rôzne   príhody. Bolo podivné, ako sa tie staré slečny neustály zabávať s tým   dáždnikom len preto, lebo malý pritom pocit, že majú skutočne muža!   Bol ten muž-i ský lump, spustlý človek a len pisár pri obecnom) súde,   všetko jedno, ale bol mužský! Náhodou bolo niekoľko dní pekne a tak   pánu Búškovi nešiel dáždnik na um. Raz sa však rozpršalo a tu vrazila   Terka, príduc zo sklepú, do izby a zavolala: — Pýta odo mňa ten   parapeľ! sfrHviiríthi — Kto pýta ten dáždnik? — zvolala zľaknutá   Genka. — Nuž on, ten, tento, no! — kričala Terka. — Pán Búška? —   pýtala sa Lojzka. — Nuž a ktože iný? — odvrkla Terka.
+   </tei:p>
+   <tei:p>
+    139
+   </tei:p>
+   <tei:p>
+    ﻿— Povedz mu, že mu ten dáždnik nevydáme! Kto sa po nociach po   cudzích domoch vláči, toho musíme pokutovať, — povedala Genka, ktorú   doprosta bolestne pichlo v srdci, keď pomyslela na stratu dáždnika.   Terka mrdla plecom a odvetila: — A ja dbám, nech urobia, čo chcú. Ja   mu to poviem. — I odišla. Keď Terka odišla, cítily sa Lojzka a Genka,   ako by im hrozila nejaká ťažká strata. — Lojzinka, čo urobíme? Ja mu   ten parazol nedám. — Ani ja, a čo bude čo robiť. Čože, obišiel by bez   pokuty? 0 tom ani reči! — A veď i doktor povedal, aby sme mu ho   nedaly. A potom, mne by bolo za ním tak — Túto! — zvolala Genka a   plačúc hodila sa na diván. Podvečer zasa vošla Terka do izby, hoci ju   nevolaly. Zastanúc si pri dverách, rozpačité mädlila zásterku. — Čože   chceš, Terka, — opýtala sa jej Lojzka, — stavajúc okuliare a knižku   na stôl. — Nuž zasa som prišla pre ten parapeľ. „On“ povedal, že ak   mu ho nedajú, že bude všade rozprávať, že ... — i — zamĺkla. — Čo   bude rozprávať, hovor! — zvolala rozčúlene Genka, prestanúc   štrikovať. — Nuž povedal, že bude rozprávať všade, že ten parapeľ   nezabudol v kuchyni, ale v izbe. — A čože je na tom, keby ho bol   zabudol v izbe? — mienila Lojzka. — Ale v noci, keď bol v ich izbe, —   vybúšila Terka a utiekla von. Genka sa zapálila ani oheň a chytila sa   za srdce.
+   </tei:p>
+   <tei:p>
+    140
+   </tei:p>
+   <tei:p>
+    ﻿— Ach, ach, Bože, toto, takéto niečo! To je strašné, kto to kedy   slýchal! Taký naničhodník, — kričaly na seba a vyskočiac behaly po   izbe ani rozplašené, vyberajúc trasúcimi sa rukami dáždnik z kasne,   kde bol uschovaný. — Na, daj mu ho, daj mu ho, nechcem ho ani viac   vidieť. I vyhŕkly jej slzy z očú. Lojzka sa podívala na ňu ľútostivo,   i prišla na spásnu myšlienku. Vzala céger, v ktorom mala peniaze, a   vyňala z neho desať zlatých. (Vtedy ešte rátali na zlatky.) — Ty,   Genka, nechaj ten dáždnik. Pošlem mu zaň desať zlatých. Veď si za tie   peniaze môže kúpiť i nový, a hodvábny. Genka s mimovoľným šťastným   úsmevom odpratala zasa dáždnik na jeho miesto. Gábor Búška bol s   desiatkou spokojný. Lenže, pravda, vyrozprával celú udalosť po   všetkých krčmách, v ktorých sa obrátil. Isté je i to, že si nový   dáždnik nekúpil. On už mal také šťastie s dáždnikom, že vždy našiel   nejaký lepší „zabudnutý“. Nuž bolo to už dávno . .. Od toho času   Lojzka odišla ku svojim drahým rodičom. Už len Genka žije ako   staručká dáma, ktorú každý rád má a ctí si ju, lebo je ku každému   taká dobrá. S dáždnikom sa už dávno prestala hrať. Ale ho preto   opatruje, nebožiatko, ako vzácnu relikviu, ku ktorej sa viaže jej   jediná spomienka na šťastie a lásku v tomto živote.
+   </tei:p>
+   <tei:p>
+    141
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

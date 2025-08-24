@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1945325" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Biela labuť : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6586
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Biela labuť
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     V ČOM JE RADOSŤ ŽIVOTA?
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Koncom XV. storočia Florencia kvitla ani rozrastená ruža, na   ktorej od kvetov nevidno listy. Medičovci a občianstvo si navzájom   naháňali bohatstvo, ktorým sa honosili v stavbe prekrásnych chrámov,   skvostných palácov a v najskvelejšom rozkvete umenia, akým sa kedy   preslávily ľudské pokolenia.
+   </tei:p>
+   <tei:p>
+    Bohatí nobilovia si stavali na ochranu svojho pyšného života   vzdorné paloty z tvrdých, ostrotesaných kameňov, ktoré už svojím   výzorom hrozily ako obrnenou päsťou odporcovi. Navonok ozubenými   múrmi ovenčené tvŕdze ukazovaly málo úzkych oblokov, po rozmerných   múroch neriadne roztratených. Znamenití architekti potešovali život   len vo vnútri bohatými sieňami i nádvoriami, okrášlenými kvetmi a   vodometmi i elegantnými schodišťami a arkádami na štíhlych   stĺpoch.
+   </tei:p>
+   <tei:p>
+    Florenťania sa pretekali v okrašľovaní svojich verejných budov a   námestí, a súperili v šatstve a v bohatosti rozmarného života, kým   neprišiel trpký mravokárca.
+   </tei:p>
+   <tei:p>
+    Ale Savonarola prehrmel ako búrka chytro a zničil ako búrka sám   seba.
+   </tei:p>
+   <tei:p>
+    Bohatstvo, ako vždy, i teraz urobilo ľudí spupnými, nemilosrdnými,   smyselnými, hroznými vlkmi.
+   </tei:p>
+   <tei:p>
+    Uguccione Prendilaque mal pevný palác na námestí Sta Croce. Jedným   z jeho úzkych oblokov bolo možno prehliadnuť celé námestie i s   nádher-
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    99
+   </tei:p>
+   <tei:p>
+    ﻿ným chrámom s fasádou z bieleho mramoru. V tomto obloku vie   stávala jeho dcéra, Lauretta, a nejeden nielen z mladších Florenťanov   urobil radšej i dlhšiu obchôdzku preto, aby sa pokochal v krásnom   obraze. Veď i Fra Filippo Lippi i Domenico Ghirlandajo ju radi   maľovali, nielen pre jej zvláštnu, podivne vábnu tvár, ale i preto,   že sa vedela tak obliekať, že i pre farbitosť jej šiat sa zastavovali   nábožní Florenťania, keď sa do kostola ponáhľali. Ťahala ich žiadosť   za potrebnou očistou od hriechov, ale nevídaný pohľad ich ešte väčšmi   zdržiaval. Veď i aká len bola tá biela tvár so zvláštne červenými   perami, s čiernymi obrvami, so zlatožltými vlasmi vo svetlozelených,   striebrom lemovaných šatách s belasou záclonou za chrbtom, na ktorej   kričal malý červený erb Prendilaquovcov! Bolo to podivné, zdalo sa to   nesmyselným a nevedeli sa na to nadívať. Lauretta vše stála tam bez   pohybu, ani okom nežmurknúc, takže mnohí, vidiac ju prvý raz, ťažko   si dali vybiť z hlavy, že je to nie obraz.
+   </tei:p>
+   <tei:p>
+    Ale ona ožila, jej bledá tvár zružovela, ústa ožily úsmevom, oči   blysly, keď videla toho, za ktorým túžilo jej srdce vo dne a túžilo i   dlhé nespavé noci.
+   </tei:p>
+   <tei:p>
+    Nijaká kronika nespomína Ugucciona Prendilaquu ako vzorného občana   florentského. Hovoria, že bol zákerník, všetkých dvorov pes, bažiaci   za majetkom, zábav a pôžitkov chtivý natoľko, že sa mu a jeho   staršiemu synovi Francescovi i Lauretta len ťažko, a to s pomocou   mladšieho brata Antónia, telesne slabého, ale veľmi ostrovtipného,   mohla ubrániť.
+   </tei:p>
+   <tei:p>
+    100
+   </tei:p>
+   <tei:p>
+    ﻿Ani Lauretta sa nevyznačovala zvláštne ctnostným životom. A ako by   to i bolo bývalo možné v takom dome, medzi takými ľuďmi, pri takom   spôsobe života! Počula len rúhanie a výsmech akejkoľvek mravnosti.   Slabý, ale vrtký Antonio možno viac i zo vzdoru proti otcovi a   bratovi, ako z úprimného presvedčenia, bránieval božie príkazy a   trpko odsudzoval ich reči a konanie a nejedno jeho slovo, povedané vo   vážnej chvíli, blýskajúce sa jasom pravdivosti, ťažko zaľahlo na dušu   sestry, a strpčujúc jej ľahkomyseľnú dobrú vôľu, nedalo vyhynúť v nej   semenu dobra, ktoré pred rokmi umrevšia matka vsiala do nej.
+   </tei:p>
+   <tei:p>
+    Lauretta bola hriešnou láskou pripútaná k Siccovi Bonattimu,   majiteľovi prápora jazdcov v službe slávnej signorie mesta Florencie.   Bonatti bol manželom peknej a bohatej monny Catelly D’Olona.
+   </tei:p>
+   <tei:p>
+    On miloval Catellu a zvádzaniu podivne čarovnej Lauretty nemohol   odporovať. Lauretta bola vysoká, štíhlych údov. Keď videl jej   prekrásne utvorené ramená a bozkával jej dlhé, elegantné prsty, zdalo   sa mu, že mu sedí na lone sama bohyňa Diana. Pozrela mu do očú a   hlava sa mu zatočila, a keď mu svoje červené, hladné pery vtisla na   ústa, myslel, že, stratiac svoju dušu, stal sa čiastkou čudesnej   víly.
+   </tei:p>
+   <tei:p>
+    Ich lásku strpčovalo, že sa mohli schádzať len veľmi zriedka.   Strážili ich Prendilaquovci a špehovala monna Catella.
+   </tei:p>
+   <tei:p>
+    Ale videli sa skoro denne, lebo Bonatti, bohato vyobliekaný v   šarlátovom zbrojnom kabáte, s belasými vyšívanými kvetmi, jazdieval   námestím Sta
+   </tei:p>
+   <tei:p>
+    101
+   </tei:p>
+   <tei:p>
+    ﻿Croce na Piazzu delia Signoria na lesknúcom sa čiernom koni.
+   </tei:p>
+   <tei:p>
+    Lauretta mu pohFadmi a neslýchaným, vždy novým obrazom seba samej   vrývala svoju lásku do srdca. Kronika Grimaldiho píše, že sa   Florenťania sbiehali, keď tušili, že Sicco má prechádzať. Lauretta sa   neukázala, len keď ho už bolo vidno na najďalšom konci námestia. Len   keď vedela isto, že vôbec nepríde, stála zavše až hodinu smutná a   opustená v obloku, v taký čas vždy nehybne ako socha, so sklopenými   očami.
+   </tei:p>
+   <tei:p>
+    Zdalo sa, že svojím čakaním chce vynútiť príchod milého. Ľudia   nespúšťali s nej očí a mnohí slzili a vystierali za ňou túžobne   ramená.
+   </tei:p>
+   <tei:p>
+    Dňa 26. apríla 1478 sa Lauretta a Bonatti tešili na schôdzku.
+   </tei:p>
+   <tei:p>
+    Prišiel pápežský legát s písánskym arcibiskupom z Ríma do   Florencie s odkazmi od sv. otca Sixta IV. Prišli páni boli hosťami   najbohatších a najvplyvnejších pánov florentských: Medičovcov a s   nimi sošvagrených Pazziovcov.
+   </tei:p>
+   <tei:p>
+    26. apríla malý byť slávnostné služby božie v dóme, pri ktorých   mal slúžiť veľkú omšu sám pápežský legát. Na takých službách božích   musel byť prítomný každý, kto niečo znamenal, a predovšetkým museli   tam byť a boli i vtedajší vladári Florencie, Lorenzo a Giuliano de   Medici.
+   </tei:p>
+   <tei:p>
+    Ani takí páni, ako boli Uguccione a Francesco Prendilaque nemohli   chýbať pri takej príležitosti v dóme, lebo by si boli mysleli, že by   ich neprítomnosť každý — priateľ-nepriateľ — jednako bol zbadal a   vysvetľoval v ich neprospech.
+   </tei:p>
+   <tei:p>
+    102
+   </tei:p>
+   <tei:p>
+    ﻿Keď sa 26. apríla ozvaly veľké zvony na krásnom campanile   Giottovom, vtedy hneď za odchodom Ugucciona a Francesca Prendilaquu   vbehol do ich paláca skromne odetý mužský. Zdal sa obyčajným   zbrojnošom, a kto ho videl, iste ho pokladal za zbrojnoša. Bol to   však Sicco Bonatti, ktorému bolo omnoho pilnejšie kľačať pred   Laurettou, ako pred hostiou, pozdvihnutou pápežským legátom. Pobadal   ho len skromný Antonio, ktorý bol taký tenký a vrtký, že ho ani ten   nevidel, kto ho hľadal. Antoniovi bolo tiež omnoho pilnejšie ostať   doma, ako ísť na veľkú omšu do florentského dómu 26. apríla.
+   </tei:p>
+   <tei:p>
+    Lauretta čakala svojho milého. Veď ich schôdzky holý také   zriedkavé! Prešly mesiace, čo sa museli uspokojiť len pohľadmi na   seba. Aká je ťažká, aká je mučiteľná nedovolená láska! A jednako jej   najbolestnejší pôžitok je hoden akejkoľvek obete, nevynímajúc ani   pretrpkú smrť.
+   </tei:p>
+   <tei:p>
+    Lauretta chytila svojimi hladkými prštekmi horúcu ruku Bonattiho a   viedla ho úzkymi chodbami do svojej komory. Bola to vysoká izba s   jediným úzkym, dlhým oblokom. Jej steny holý vykladané bielym   mramorom, na podlahe bol mäkký zelený koberec; v jednom z kútov stála   pod oranžovým baldachýnom posteľ, zakrytá lesklou Hlavou prikrývkou.   Celú stenu krášlila skvostne vyrezávaná truhla, pokrytá s vrchu   vankúšmi; na ňu splýval so steny gobelín, nad ktorým visela   Boticelliho Primavera. Predstaviteľka jari a jej družice sa ľahko,   ako vzdušné preludy, vznášaly nad utešenou kvetnatou lúkou. Lauretta   a Sicco, držiac sa za ruky,
+   </tei:p>
+   <tei:p>
+    103
+   </tei:p>
+   <tei:p>
+    ﻿dívali sa na čarovnú vidinu, trasúc sa — až si padlí do   náručia.
+   </tei:p>
+   <tei:p>
+    Trvalo to hodne dlho, čo sedeli na vyrezávanej truhle, objímajúc   sa a ubezpečujúc sa o svojej láske. Mysleli si pred schôdzkou, aké   vážne veci si majú povedať, a presvedčili sa, že nič nebolo také   vážne
+   </tei:p>
+   <tei:p>
+    a pilné, ako ubezpečiť sa ešte a ešte raz o tom, že im je nie nič   také drahé a milé, ako oni druh druhovi.
+   </tei:p>
+   <tei:p>
+    Na ťažkých vyrezávaných dverách komory ozvalo sa ostré zaklopanie   a Lauretta ich hneď, priskočiac k nim, otvorila.
+   </tei:p>
+   <tei:p>
+    Vošiel ticho Antonio. Aký to bol podivný človek! Nemal ešte ani   celých dvadsať rokov. Co on musel všetko prežiť a skúsiť, v akých   ohňoch bola jeho duša vypálená, keď vedel bez akéhokoľvek rozrušenia   povedať obyčajným hlasom:
+   </tei:p>
+   <tei:p>
+    — Sicco, utekaj! Ak zmeškáš chvíľočku, nevyhneš smrti; otec a brat   ťa iste zabijú. Čo sa stalo, dozvieš sa na ulici.
+   </tei:p>
+   <tei:p>
+    Hoci bola reč Antoniova tichá, jeho pozor bol jednako taký   prenikavý, že Bonatti, po jedinom pohľade na Laurettu, zmizol. Vyjdúc   z domu, pobádal, že na námestie sa roja z ulíc rozčúlení ľudia,   kričiac a posunkujúc. Hodil sa tesne pri múre na roh tvŕdze, lebo bol   pohadal na čele jednej z tlúp Prendilaquovcov, ktorí obidvaja utekali   smerom svojho domu s holými mečmi v rukách.
+   </tei:p>
+   <tei:p>
+    Lauretta sa po úteku Bonattiho obzrela a zalomi-
+   </tei:p>
+   <tei:p>
+    104
+   </tei:p>
+   <tei:p>
+    ﻿la ruky so zdeseným pohľadom a so zblednutoutvárou.
+   </tei:p>
+   <tei:p>
+    — Co sa deje, Tonio?
+   </tei:p>
+   <tei:p>
+    Brat jej chytro vyrozprával, čo bol počul na uliciach.
+   </tei:p>
+   <tei:p>
+    — V dóme, pri slávnostnej omši legáta, pri pozdvihovaní sviatosti,   keď sa každý veriaci hodí na kolená a bije skrúšene v prsia, prepadli   Pazziovcí
+   </tei:p>
+   <tei:p>
+    a ich ľudia Medičovcov. Giuliana zaklali pred oltárom, pred ktorým   legát dvíhal skutočné telo Kristovo, telo nášho Boha, ktorý hľadel na   tú hrôzu. Lorenzo, hoci poranený, ušiel s priateľmi do sakristie. Ľud   sa oboril na vrahov, z ktorých niekoľkých zabili v dóme. Pisánskeho   arcibiskupa, búriaceho radu proti Medičovcom, a Pazziovcov už obesili   na oblokoch Palazza vecchia a teraz robia pohon na všetkých   nepriateľov Medičovcov. A nepriateľom je každý, koho potrebuje kto   odpratať.
+   </tei:p>
+   <tei:p>
+    Lauretta sa zatočila a bola by padla na podlahu, keby ju Tonio   nebol zachytil a uložil na truhlu.
+   </tei:p>
+   <tei:p>
+    Ale netrvalo dlho a ona sa prebrala, sosbierajúc sa násilným   spôsobom, a skočila na nohy.
+   </tei:p>
+   <tei:p>
+    -— A prečo chcú zabiť Sicca?
+   </tei:p>
+   <tei:p>
+    — Vieš, ako nenávidia otec a brat Sicca. A aká je teraz znamenitá   príležitosť zbaviť sa beztrestne nepriateľa? Vieš, akiste vedeli, že   je tu, keď ho nevideli v dóme. Počuješ, s akým hurhajom sa valia so   svojimi vrahmi sem? Iste prvý ich krok v dome bude do tvojej komory.   A — tu sú!
+   </tei:p>
+   <tei:p>
+    Vytrhnutými dverami sa vovalili do izby najprv Prendilaquovci a za   nimi luza kadejako vyzbrojená.
+   </tei:p>
+   <tei:p>
+    Lauretta s hrôzou, onemelá, hľadela na strašnú
+   </tei:p>
+   <tei:p>
+    105
+   </tei:p>
+   <tei:p>
+    ﻿i jazvou spotvorenú tvár otcovu, ktorý sa jej zdal ako divá beštia   alebo diabol. Popri nej sa škerila vyžitá tvár jej brata Francesca, s   ostro dohora ako polmesiac vypätými obrvami a roztvorenými,   vrieskajúcimi ústami.
+   </tei:p>
+   <tei:p>
+    — Kde je tvoj frajer? Kde je ten brigant?
+   </tei:p>
+   <tei:p>
+    Lauretta si zakryla tvár rukami a odvrátila sa. Antonio skočil   pred otca a kričal hlasom vysokým, všetko prenikajúcim, takže by si   každý bol najradšej zapchal uši:
+   </tei:p>
+   <tei:p>
+    — Ste slepí? Veď tu nemáte nikoho. Privediete vy sami luzu sem do   svojho domu. Veď vám tí banditi všetko rozkradnú. Hľa, — i skočiac   udrel rukoväťou dýky špinavú, vyrobenú ruku, siahajúcu za strieborným   krucifixom na kľakadle pod oblokom, — hľa, našiel si, čo si   hľadal!
+   </tei:p>
+   <tei:p>
+    Prendilaquovci sa odvrátili od dcéry, a zazrúc tiež ruku,   chytivšiu kríž, kričali:
+   </tei:p>
+   <tei:p>
+    — Á, briganti, mascalzoni, von, von s vami!
+   </tei:p>
+   <tei:p>
+    I búšili do ľudí, okolo nich do izby sa natisnuvších.
+   </tei:p>
+   <tei:p>
+    Antoniov hlas zasa prenikol huk tlupy: — Kde máte Boniattiho?   Sníva sa vám?
+   </tei:p>
+   <tei:p>
+    Za chvíľu sa ozýval vresk a preklínanie ľudí, klopot ich ťažkej   obuvi na chodbách, a onedlho prestal.
+   </tei:p>
+   <tei:p>
+    Antonio vyzrel na prázdnu chodbu a hodil sa na drevené, široké,   vyšívaným kobercom kryté kreslo, s ktorého sa mu nohy celembaly nad   podlahou.
+   </tei:p>
+   <tei:p>
+    Lauretta zašeptala:
+   </tei:p>
+   <tei:p>
+    — Povedz mi teraz, čo sa robí?
+   </tei:p>
+   <tei:p>
+    — Taká prostá vec. Vieš, že Pazziovci sú o máločo
+   </tei:p>
+   <tei:p>
+    106
+   </tei:p>
+   <tei:p>
+    ﻿menej bohatší ako Medičovci. Možno sú i bohatší
+   </tei:p>
+   <tei:p>
+    — veď ktože ocení na dukát majetky? Iste sú to tiež velkí páni,   bývajúci v slávnych palácoch. Minule Francesco Pazzi vyhodil   dvadsaťtisíc dukátov na jedinú slávnosť. Bože môj, a títo ľudia   závidia Medičovcom! Myslia, že nemajú tej vlády čo tí. A preto sa   dopustia najhriešnejšieho zločinu, aký si kresťan vôbec môže   predstaviť, nie preto, aby ho skutočne vykonal, ale keď si pomyslí,   ako by sa dostal do najhlbšieho priepadliska pekla.
+   </tei:p>
+   <tei:p>
+    Lauretta skríkla, hodiac ruky na tvár;
+   </tei:p>
+   <tei:p>
+    — Pri pozdvihovaní sviatosti, hovoríš, sa vrhli vrahovia na   Lorenza a Giuliana?
+   </tei:p>
+   <tei:p>
+    — Áno, legát musel hľadieť s vysoko pozdvihnutou hostiou na   blýskajúce sa nože a počúvať miesto nábožných vzdychov vresk   vraždených a kliatby zabíjajúcich.
+   </tei:p>
+   <tei:p>
+    — Prečo, Bože, prečo to všetko?
+   </tei:p>
+   <tei:p>
+    Antonio hodil rukou:
+   </tei:p>
+   <tei:p>
+    — Ľudia sú Antikristi!
+   </tei:p>
+   <tei:p>
+    Antonio pozoroval, čo sa dialo v ich domácnosti, a bol   presvedčený, že ak nezakročí, hrozná udalosť zničí celú rodinu.
+   </tei:p>
+   <tei:p>
+    Lauretta chodila celé hodiny po svojej komore, práve tak, ako   lapené zviera v klietke, hľadajúce nejaký východ. Bolo na nej vidno   najsilnejšie nervové napätie, akému nemôže nik odporovať dlhé časy.   Čo sa robilo v jej duši, to Antonio čisto videl. Chcela, želala,   dychtila len za tým, aby sa Siccio stal jej, úplne a jedine len jej.   Lámala si hlavu na zú-
+   </tei:p>
+   <tei:p>
+    107
+   </tei:p>
+   <tei:p>
+    ﻿falých plánoch, ako by sa to dalo -vykonať. Pritom nemala skoro   nijakej možnosti sísť sa s ním, lebo ju otec a Francesco nespúšťali s   očí. Jej hrozný otec so svojou dokaličenou tvárou, ktorej pravú   polovicu mal rozdrúzganú úderom obucha tak, že mu trčaly ľavé vrchné   zuby navonok, nekryté pravým lícom, sedel hodiny pri nej a lichotil   jej, hrozil a žobronil o jej lásku. Mala štilet, a keď jej bolo do   nevydržania, kričala zúfalo, plačúc, alebo sa vyhrážala, že sa   prekole. Tak sa často striasla toho netvora, alebo pribehol k nej   Francesco, ktorý sa vrhol surovo na otca.
+   </tei:p>
+   <tei:p>
+    Z Prendilaquovcov jediný Antonio rozmýšFal vše o svojej rodine.   (Veď je tak málo ľudí, ktorí pomyslia na to, koľko a akých čírych   beštií je medzi nami!) Antonio videl, že sú to všetko ľudia   nepremožiteľných túžob, nepokúšajúci sa ani najsilnejšie z nich   potlačiť. Videl hrozné žiadosti otcove a bratove a vedel veľmi dobre,   že Lauretta je práve tak hnaná svojou túžbou za láskou Bonattiho, ako   bezveslová loď víchrom na rozbúrenom jazere. Jej city holý práve také   neoprávnené, lenže omnoho silnejšie ako otcove a bratove k nej. Že   títo ľudia neurobili nejaký hrozný skutok, toho príčinou bolo, že si   navzájom stáli v ceste. Pozorovali sa a zachytávali jeden druhému   ruku, pozdvihnutú k činu. Otec a brat žiarlili na seba a najväčšmi na   Bonattiho, čím skoro celkom znemožnili jeho styk s Laurettou. Jednako   vždy len Antonio, všetko pozorujúci, prekazil nešťastie. Lauretta   bola vo svojej nezdolnej túžbe za Siccom náchylná na každý zločin,   aby ho oslobodila od jeho ženy. Ale Antonio jej
+   </tei:p>
+   <tei:p>
+    108
+   </tei:p>
+   <tei:p>
+    ﻿opätovne dokázal — lebo už jeho dôvody zakaždým vybila z hlavy —   že keby monna Catella razom umrela, celkom iste by najsamprv ju,   Laurettu, brali na otázku a že by celkom isto neušla lavici umučenia.   Nikomu nemá tak záležať na tom, aby sa monne Catelle nič nestalo, ako   Laurette.
+   </tei:p>
+   <tei:p>
+    Antonio ju vystríhal i pred Bonattim. Dokázal jej, že je to človek   namyslený, obmedzený, nespoľahlivý, ľahkomyseľný.
+   </tei:p>
+   <tei:p>
+    — Čo más na tom človeku, ty nešťastnica?
+   </tei:p>
+   <tei:p>
+    Lauretta sa hodila na stolicu.
+   </tei:p>
+   <tei:p>
+    — Je krásny ako boh, to mám na ňom. Ale potrestal ma ním ktorýsi   svätý! Veď prečo vidím len jeho oči, prečo sú mi sladké len jeho   ústa? Prečo pokladám za chlapa len jeho jediného na svete? Veď sa   bránim proti tomu začarovaniu. Ale všetko je daromné. I keby ma   mučil, bola by mi jeho ruka milšia ako iného, keby ma hladila. Viem,   že zahyniem pre neho a, Antonio, zahyniem vďačne!
+   </tei:p>
+   <tei:p>
+    Antonio hľadel do hlboko zapadnutých očú úbohej sestry.
+   </tei:p>
+   <tei:p>
+    — Lauretta, keď ostaneš tu, v tomto prekliatom dome, kde každý kút   skrýva proti tebe zradu, kde ťa tak ťažko ochrániť od skazy,   zahynieš. Musíš odtiaľto odísť.
+   </tei:p>
+   <tei:p>
+    Dievča beznádejne zašeptalo:
+   </tei:p>
+   <tei:p>
+    — Kde mám ísť? Azda do nejakého kláštora? Veď tam prídem o všetko,   veď tam prídem — oň.
+   </tei:p>
+   <tei:p>
+    Antonio hľadel dlho bez slova na nešťastné dievča. Myslel si, či   môže zato, že ju city tak nepremožiteľné opanúvajú? Len kto   prebojoval v sebe ťažké duševné boje, vie, čo znamená premôcť silný   cit.
+   </tei:p>
+   <tei:p>
+    109
+   </tei:p>
+   <tei:p>
+    ﻿Ako málo je Fudí, ktorí to môžu urobiť! A ako je také   devätnásťročné dieťa vyzbrojené do tuhého boja? Na akom podklade má   premôcť hrozný, do priepasti ju vlečúci cit?
+   </tei:p>
+   <tei:p>
+    — Nechoď do kláštora. Pýtaj sa do našej vily v San Stefano. Tam   povedieš gazdovstvo. Nebola by si ženou, keby si nemohla otca a brata   naviesť, aby ti to dovolili.
+   </tei:p>
+   <tei:p>
+    — Do vily v San Stefano? — zvolala Lauretta
+   </tei:p>
+   <tei:p>
+    s radostným prekvapením. Ale jej radosť razom zhasla. — Veď je to   na päť míF od Florencie!
+   </tei:p>
+   <tei:p>
+    — Päť míF, na ktorých ťa nikto nebude pozorovať, je omnoho menej   ako sto krokov, na ktorých ťa vidí sto Fudí. Lauretta, do San   Štefana, do jeho okolitých krajov možno ísť dvadsatorako, a do San   Miniata vedie odtiaľto len jediná cesta, na ktorú z nášho domu tiež   len jediným otvorom môžeš ísť.
+   </tei:p>
+   <tei:p>
+    — Ale či ma pustia otec a Francesco?
+   </tei:p>
+   <tei:p>
+    — Uvidíme; myslím, že to vykonáš. Klam ich.
+   </tei:p>
+   <tei:p>
+    Antonio predložil tú otázku otcovi a bratovi; každému osobitne. A   obidvaja pristali s tou výmienkou, že tam bude sama. Totižto   Francesco žiadal, aby tam bola bez otca, a otec bez Francesca.
+   </tei:p>
+   <tei:p>
+    V nedeľu ju smú ísť navštíviť spoločne. Pritom si obidvaja   umienili, že ju potajomky budú navštevovať.
+   </tei:p>
+   <tei:p>
+    Toto Antonio dobre vedel, a preto upozornil na to Laurettu, aby sa   nedala prekvapiť a aby ani jednu noc nespala doma, ale vždy u   niektorého suseda alebo sluhu, hoci u posledného pastiera.
+   </tei:p>
+   <tei:p>
+    Lauretta sj nežiadala iné, len aby Antonio vykonal, aby sa aspoň   raz mesačne mohla sísť so Sic-
+   </tei:p>
+   <tei:p>
+    110
+   </tei:p>
+   <tei:p>
+    ﻿com. Antonio vediac, že nijakým prehováraním sestru od Bonattiho   neodvedie, sľúbil jej to.
+   </tei:p>
+   <tei:p>
+    Lauretta sa o niekoľko dní preniesla do San Štefana a cítila sa   tam na pokoji pomerne šťastlivá. Prvý mesiac Bonatti prišiel na   ushovorené miesto v pomarančovom lesíku pri Sesto. Boli spolu skoro   dve hodiny a Lauretta holá blažená, obdivujúc namyslenú tvár a   hrdinskú postavu svojho milenca. Bola k nemu veľmi milá, ale Bonatti   jednako nespokojný odišiel. Zaiste bola medzi nimi otázka, ktorú   nemohli rozlúštiť.
+   </tei:p>
+   <tei:p>
+    San Stefano ležalo pri hradskej, bielej ako mlieko; s jednej   strany nad ňou vypínaly sa redšiehustejšie, krovím a olivovými   stromami pozarastané kopce, s druhej strany sa vystierala široká   úrodná rovina, krytá obilím, v ktorom krížom-krážom rástly rady   ovocných stromov, pospájaných viničom.
+   </tei:p>
+   <tei:p>
+    Vila Prendilaquovcov stála v peknej záhrade pri bielej ceste,   ktorú z dvojposchodových vežičiek bolo možno ďaleko pozorovať.
+   </tei:p>
+   <tei:p>
+    Lauretta rada sedávala v izbičke na jednej z veží. V duchu bol tam   s ňou vždy milý hosť, ktorý však nechodil. Jej myšlienky neprestajne   lúštily nerozlúštiteľnú otázku, ako by sa stal jej navždy a stále.   Vše ju prebehla hrôza, že niektorý jazdec, vynorujúci sa z oblaku   prachu, môže byť jej otec alebo Francesco, ale minulý už týždne a   hrozná rodina sa neukazovala. Mali dosť zaneprázdnenia stálymi   nepokojmi v meste, kde nebol nikto istý ani slobodou, ani   životom.
+   </tei:p>
+   <tei:p>
+    O mesiac poznala Lauretta pútnikov na bielej
+   </tei:p>
+   <tei:p>
+    111
+   </tei:p>
+   <tei:p>
+    ﻿ceste. Vedela, ktorý chodí denne, ktorý týždenne a kto je len   náhodilý cestujúci. Veď ona nesedela vždy na vežičke; chodila i po   hájoch a obzerala často i prácu robotníkov, lebo jej neschádzala s   duše túžba za milencom, ktorého sa bála prehliadnuť.
+   </tei:p>
+   <tei:p>
+    Lauretta vedela, že v stredu ráno, kým ešte slnce veľmi   nepripekalo, pôjde smerom Bassi madre Anastázia s dvoma druhými   mníškami, vedúcimi tri alebo štyri, kadejakými vrecami naložené   mulice. Len predvčerom sa to dozvedela od monny Terezíny, správcovej   ženy, že tie mníšky každý týždeň odnášaly milodary do špitála   malomocných, o ktorých Lauretta máločo vedela. Myslela, že sú to   nejakí úbohí, ošarpaní žobráci, trpiaci na akúsi špatnú nákazlivú   chorobu.
+   </tei:p>
+   <tei:p>
+    Tak z dlhej chvíle sa pýtala monny Terezy:
+   </tei:p>
+   <tei:p>
+    — Akí sú to ľudia, tí leprózni?
+   </tei:p>
+   <tei:p>
+    Tučná, vždy veselá monna Tereza jej vďačne porozprávala, čo   vedela.
+   </tei:p>
+   <tei:p>
+    — Ó, domina mia, to sú vám najnešťastnejší ľudia, — riekla,   prevracajúc veľké čierne oči. — A nemyslite, že sú to len samí   žobráci: tam je i mnoho veľkých pánov z najlepších rodín.
+   </tei:p>
+   <tei:p>
+    — Ako, veľkí páni? — divila sa Lauretta. — Veď veľkí páni majú kde   byť opatrení, keď sú chorí; nemusia ísť do takého špitála, kde pre   nich sbierajú milodary, — i sošpúlila opovržlivo červené pery.
+   </tei:p>
+   <tei:p>
+    —-To je tak, čara domina: každý, kto má lepru, musí ísť do   ospedale pei miserrimi, či chce, či nie. Ak sa opováži taký chorý   chodiť medzi ľuďmi, toho môže a má zabiť každý, kto ho zazrie von
+   </tei:p>
+   <tei:p>
+    112
+   </tei:p>
+   <tei:p>
+    ﻿zo špitála, a to pod pokutou smrti. A každý, kto je v špitáli, sa   pokladá za mŕtveho. Ak je ženatý, tak sa jeho žena môže beztrestne   vydať, za koho chce.
+   </tei:p>
+   <tei:p>
+    Monna Tereza sa zľakla a skríkla:
+   </tei:p>
+   <tei:p>
+    — Madona santissima, čo je s vami, domina Lauretta, veď ste bledá   ani mramor!
+   </tei:p>
+   <tei:p>
+    — Nič mi je nie, nič mi je nie, — zvolala Lauretta a krútila   rukami okolo hlavy.
+   </tei:p>
+   <tei:p>
+    Ale bola by spadla bez vedomia na dlážku, keby ju monna Tereza   nebola ešte zachytila a položila na posteľ. Rozšnurovala ju a   preberala.
+   </tei:p>
+   <tei:p>
+    Monna Tereza si vzdychla.
+   </tei:p>
+   <tei:p>
+    — Aké krásne telo, aké nevinné dieťa! Čo sa jej, úbohej, stalo?   Dio mio! No, ale veď už otvorila oči. Aké ich má strašne smutné. Ani   ona nemá mnoho radosti zo sveta s takou rodinou. Poverina mia!
+   </tei:p>
+   <tei:p>
+    — Co sa vám stalo? — pýtala sa hlasne monna Tereza s dojímavou   ľútosťou.
+   </tei:p>
+   <tei:p>
+    Lauretta už veľmi dávno nepočula takých liprimne súcitiacich slov,   i zaťažil jej životný žiaľ na srdci, i zaplakala horko a   bolestne.
+   </tei:p>
+   <tei:p>
+    Na dušu jej zaľahla nevykoreniteľná nevyhnutnosť, ako istota   smrti, že Sicco bude jej mužom, len keď ochorie na tú strašnú   chorobu. Keď dostane lepru, musí ísť do ospedale pei miserrimi, a tam   bude i ona, a hoci chorí, ale budú svoji...
+   </tei:p>
+   <tei:p>
+    V najbližšiu stredu kráčala v šedivom mužskom habite, tak ako   inokedy, vysoká, trochu zohnutá madre Anastázia so svojimi družkami,   so zahalenou tvárou a zamotanými rukami, lebo veď musela
+   </tei:p>
+   <tei:p>
+    8 Itália.
+   </tei:p>
+   <tei:p>
+    113
+   </tei:p>
+   <tei:p>
+    ﻿hľadieť, aby sa nijaká čiastka jej tela nedotkla ničoho, čo mohlo   byť pošpinené chorými na lepru.
+   </tei:p>
+   <tei:p>
+    Prišli pred bránu z nevakovaných tehál, okolo ktorej bola   nedohľadná ohrada murovaná. Nad bránou bola veľká tabuľa, na ktorej   bol navrchu kríž, pod ktorým boly tieto nápisy: Domine, miserere   nobis! a Ospedale pei leprosi.
+   </tei:p>
+   <tei:p>
+    Na bráne boly malé dvere a pri nich rukoväť zvonca.
+   </tei:p>
+   <tei:p>
+    Jedna z mníšok potiahla rukoväť, a ozval sa v budove, obďaleč od   brány, dusene zvonec. Hneď žatým sa dvere samočinne otvorily.
+   </tei:p>
+   <tei:p>
+    Madre Anastázia sa trochu potočila, takže sa musela zachytiť   otvorených dverí; vošla za bránu a kráčala, akosi tackajúc sa, do   hlavnej budovy špitála.
+   </tei:p>
+   <tei:p>
+    Sorella Justína pozrela na sorellu Serafínu a pokrútila   hlavou.
+   </tei:p>
+   <tei:p>
+    — Divné, čo je dnes s madre Anastáziou. Celé jej správanie je   akési premenené. Ani chôdzu nemá ako iný raz. A dosiaľ sa nepamätám,   že by bola išla do špitála, okrem jediný raz, keď musela pre   rozhrešenie hriechu skúposti zaniesť dukát na oferu do kaplice   špitála. Prečo len išla teraz?
+   </tei:p>
+   <tei:p>
+    Sorella Serafína bola zatrpknutá osoba, nestarajúca sa o cudzie   veci.
+   </tei:p>
+   <tei:p>
+    — Ech, nech si robí, čo chce. Každý vie, kde ho duša tlačí.   Poskladajme chytro túto žobrotinu, aby sme čím skorej odišly   odtiaľto! — i odväzovala vrecia z mulíc, a nahýbajúc sa nazpät a   stonajúc, odnášala ich za bránu, kde ich hádzala
+   </tei:p>
+   <tei:p>
+    114
+   </tei:p>
+   <tei:p>
+    ﻿bezohľadne na vypálený trávnik, zelenajúci sa len pod samou   bránou.
+   </tei:p>
+   <tei:p>
+    Sorella Justína nespúšťala očú s madre Anastázie, kým nevolia do   budovy. Len žatým, stále hovoriac viac sebe ako Serafíne, oddala sa   tiež do práce a skladala i so svojich mulíc vrecia s milodarmi.
+   </tei:p>
+   <tei:p>
+    Poskladaly vrecia, a madre Anastázia ešte nechodila.
+   </tei:p>
+   <tei:p>
+    — Čo ju len zašlo? — hútala Justína.
+   </tei:p>
+   <tei:p>
+    Serafína vytiahla zpoza pása ruženec a pohyblivými prstami púšťala   pomaly jeho perličky. Druhá mníška tiež sosňala pátričky s cingula,   ale, držiac ich obidvoma rukami, hľadela do ohradeného priestoru, kde   bolo vidno roztratené medzi stromami a kríkmi na obrobenom poli   väčšie-menšie domčeky a chalúpky.
+   </tei:p>
+   <tei:p>
+    Madre Anastázia vyšla po dlhšom čase v sprievode akéhosi chlapa,   ktorý mal tvár tiež čiernou hábou omotanú. Sorella Justina ho   poznala. To bol vrátnik, ktorému lepra vyžrala už skoro celú tvár.   Viedol madre Anastáziu do niektorých domčekov a chalúp, odkiaľ s ňou   o dlhší-kratší čas vychádzali vyprevádzajúci ju ľudia, chorí   všetci.
+   </tei:p>
+   <tei:p>
+    Napokon sa madre Anastázia vrátila. Justína a teraz ani Serafína   nespustily s nej očí. Madre kráčala pomaly, s očami k zemi   obrátenými. Ale pridalo sa jej pozrieť so dva razy dohora.
+   </tei:p>
+   <tei:p>
+    Sorella Justína skoro skríkla:
+   </tei:p>
+   <tei:p>
+    — To je nie pozor madre Anastázie. Sorella Serafína ostro   prisvedčila:
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    115
+   </tei:p>
+   <tei:p>
+    ﻿— Nie.
+   </tei:p>
+   <tei:p>
+    Mníšky vysadly na mulice a odišly kročmo bez slova. Keď prišly do   San Štefana, zastaly pred vilou Prendilaquovcov a madre Anastázia   sišla s mulice a vošla do domu. O chvíľu, čo by sa bol odmodlil dva   Otčenáše a Zdravas, vrátila sa s tvárou
+   </tei:p>
+   <tei:p>
+    a rukami voľnými. Veď už ani nebolo prečo ich mať zakryté, keď   nemalý príležitosť môcť sa nakaziť.
+   </tei:p>
+   <tei:p>
+    Minul sa mesiac, čo bol Bonatti s Laurettou v pomarančovom lesíku,   a on sa viac nehlásil. Deva si myslela, že sa hnevá na ňu, lebo   nebola k nemu taká bezmedzne milá, ako si to on žiadal. Bola zúfalá.   Ak teraz viac vôbec nepríde!
+   </tei:p>
+   <tei:p>
+    Onedlho ju prišiel pozrieť Antonio, ktorý ju zavše navštívil a   rozpovedal jej, že otcovi sa rana na tvári zasa veľmi zapálila a je   pravdepodobné, že nevydrží chorobu, lebo je veľmi slabý.
+   </tei:p>
+   <tei:p>
+    0 niekoľko dní dostala zvesť, aby prišla na otcov pohreb. Laurette   sa zdalo teraz, keď si myslela, že sa Bonatti s ňou rozišiel, všetko   úplne ľahostajným. Jedine, čo ju zaujímalo, bola možnosť sísť sa s   ním, keď bude v meste.
+   </tei:p>
+   <tei:p>
+    Grimaldi vo svojej kronike spomína pohreb Ugucciona Prendilaquu   najmä preto, že -— ako sa hovorí — sa veľké množstvo Florenťanov   sišlo naň, lebo chceli vidieť Laurettu. Bola oblečená v bielych   smútočných šatách, lemovaných na okrajoch tmavolilavými páskami. Tvár   mala obrúbenú bielym čepčekom; bola ani detská a máločo sa líšila
+   </tei:p>
+   <tei:p>
+    116
+   </tei:p>
+   <tei:p>
+    ﻿od šiat bledosťou pleti, len červené pery a čierne obrvy boly   násilne farbisté.
+   </tei:p>
+   <tei:p>
+    Rakev bola vyložená v jednom z dvorov paláca, obrúbenom arkádami   zo sivého mramoru. V štyroch jeho kútoch šumely vysoké cyprusy; pred   každým z nich sa vypínal mramorový stĺp, majúci na hlavici pripevnený   kovový kôs, v ktorom horely voňavé drevá a živica. Medzi týmito   stĺpmi bol postavený vysoký katafalk s rakvou.
+   </tei:p>
+   <tei:p>
+    Katafalk obtáčalo bratstvo sv. Tomáša, ktoré sa staralo o   pochovávanie mŕtvol. Jeho členovia boli zahalení čiernymi kamžami s   kapucňami, zakrývajúcimi i tvár; držali hrubé horiace sviece v   rukách.
+   </tei:p>
+   <tei:p>
+    S pravej strany rakvi boly umiestené tri kreslá pre najbližších   členov rodiny, z ktorých len dve boly zaujaté. Francesca na pohrebe   nebolo. Ležal už od dvoch dní s prebodnutými prsami na dne Arna.
+   </tei:p>
+   <tei:p>
+    Prišlo kňazstvo a odbavilo svoje funkcie.
+   </tei:p>
+   <tei:p>
+    Ani Lauretta, ani Antonio nepokladali za svoju povinnosť   predstierať žiaľ za otcom, aký necítili. Hľadeli vážne okolo seba,   ale bez akéhokoľvek znaku smútku. Laurettu zožierala túžba za Siccom,   ktorého nevidela v obecenstve, hoci bol osobitne pozvaný, a neprísť v   takom prípade pokladali za nepriateľský, urážlivý skutok. Keď po   obradoch sa pochod zriadil a prechádzal úzkym priechodom do druhého   dvora, ktorý ústil bránou na ulicu, Lauretta cítila stisnutie ramena,   a keď sa obzrela hnevne na smelca, zamrelo jej srdce od blaženosti,   lebo zazrela Sicca Bonattiho.
+   </tei:p>
+   <tei:p>
+    117
+   </tei:p>
+   <tei:p>
+    ﻿Zašeptala mu, ukážuc tvárou smerom na svoju komoru:
+   </tei:p>
+   <tei:p>
+    — Choď hore, prídem!
+   </tei:p>
+   <tei:p>
+    Bonattí odstúpil a v bráne sa Lauretta razom zapotácala a chytila   sa obidvoma rukami ramena pri nej kráčajúceho Antónia, ktorý videl   všetko, čo sa s Laurettou a okolo neho dialo.
+   </tei:p>
+   <tei:p>
+    — Milý, zle mi je, spadnem. Musím ísť do svojej izby.
+   </tei:p>
+   <tei:p>
+    Antonio videl, že sa triasla na celom tele, i zavolal služobnú, za   ňou idúcu, a oddal jej ju, aby ju odprevadila. Na chodbe Lauretta   poslala služobnú preč a utekala do svojej izby, kde našla už túžobne   očakávajúceho ju milenca.
+   </tei:p>
+   <tei:p>
+    Chodbou jej prišlo na um, že iste mnohí pobádali jej shovor s   Bonattim i že opustila sprievod. Zaiste budú o nej trúsiť zlé reči,   že opustila otcovu rakev, aby mohla ísť do náručia milého. Ale aké   jej to bolo vtedy ľahostajné, čo si ľudia budú o nej myslieť! Veď ona   už urobila svoj účet i so svetom i so životom. Akou voľnou a   slobodnou sa cítila od všetkých vzťahov, viažúcich iných k životu a   svetu!
+   </tei:p>
+   <tei:p>
+    Bonatti ju čakal v jej spálni. Celú jeho vysokú postavu kryl   široký plášť bez rukávov z čiernej lesklej látky so širokými   striebornými pruhmi. Všimol si, aká bola jej postava krásna v tesne   priliehajúcich šatách so širokou dlhou vlečkou.
+   </tei:p>
+   <tei:p>
+    Hodila sa mu na prsia a on ju zavinul do plášťa a pritisol k   sebe.
+   </tei:p>
+   <tei:p>
+    — Aký si neverný, tak si na mňa zabudol; myslela som, že ťa už   nikdy neuvidím.
+   </tei:p>
+   <tei:p>
+    118
+   </tei:p>
+   <tei:p>
+    ﻿— Neľúbiš ma, zahrávaš si len so mnou.
+   </tei:p>
+   <tei:p>
+    Zakaždým, keď Bonatti videl Laurettu, rozplamenila sa jeho túžba   za ňou. Myslel, že niet žiadúcejšej ženy. Ale jej láska sa mu zdala   plná záhad a úskokov, a preto si ju často hľadel i vybiť z hlavy, keď   mu jeho žena Catella preukazovala v každom ohľade najväčšiu   oddanosť.
+   </tei:p>
+   <tei:p>
+    — Nebudeš sa už na mňa žalovať. Na deň Nänebevzatia Madony — to je   asi o dva týždne — mám narodeniny. Príď, — Lauretta sklopila tvár a   zašeptala tie slová, — na noc do vily v San Stefano. Príď iste.   Prichystám ti slávnu hostinu.
+   </tei:p>
+   <tei:p>
+    Bonatti privinul Laurettu s vášnivou túžbou na prsia.
+   </tei:p>
+   <tei:p>
+    — Prisahám ti na hrob svojej drahej matky, že prídem.
+   </tei:p>
+   <tei:p>
+    V deň Nanebevzatia Panny Márie bola na poschodí vily   Prendilaquovcov v San Stefane malá hodovná sieň skvele vyriadená.   Široké obloky holý obtočené meďovočervenými, do tmavozelená hrajúcimi   záclonami; na svetlolilavých stenách jagalo sa v bronzových   kandelábroch, ovešaných farebnými kryštálmi, množstvo sviec, ako i z   podobného nad stolom visiaceho lustra.
+   </tei:p>
+   <tei:p>
+    Stôl bol pokrytý obrusom, skvostnými čipkami prešívaným; založený   bol kryštálovým a strieborným stolovým náčiním a okrášlený zriedkavým   voňavým kvietím. Po stenách holý navešané girlandy najkrajších   kvetov. Na malej arkáde čakali bohato a pestre vyobliekaní hudci a   dve krásne, vábne za-
+   </tei:p>
+   <tei:p>
+    119
+   </tei:p>
+   <tei:p>
+    ﻿šalené dievčatá, a viacerí sluhovia netrpezlivo vyzerali, kedy už   príde ich panstvo.
+   </tei:p>
+   <tei:p>
+    Čakanie sa im zdalo dlhým, leho sa ich pani nikdy tak ťažko   neobliekala ako dnes. Messer Sicco Bonatti ju očakával netrpezlivo v   susednej siení, klopal na dvere, hromžil a prosil, kým sa   nerozťvorily dvere a neukázala sa mu, ako si myslel, najkrajšia   vidina, akú kedy zazrel.
+   </tei:p>
+   <tei:p>
+    Štíhla postava Lauretty bola zahalená krvavočerveným ľahučkým   závojom, pod ktorým daly tušiť jej hybkú postavu svetlobelasé voľné   šaty, z ktorých pri niektorých pohyboch vyzeraly jej ramená a nohy.   Zlatovlasú hlavu krášlil ľahučký veniec zo zlatých listov, medzi   ktorými sa blýskalo hojne farebných drahokamov, ktoré i na ostatnom   tele vyzdvihovaly váhnosť niektorých jeho čiastok.
+   </tei:p>
+   <tei:p>
+    Ale všetka tá krása zmizla pri pohľade na šťastlivú tvár Lauretty.   Vzala svojho milého, ktorý sa zdal hrdým, sebavedomým a blaženým ako   Jupiter, navštevujúci svoju lásku, za rameno a voviedla ho pri   slávnostnej hudbe do hodovnej siene.
+   </tei:p>
+   <tei:p>
+    Lauretta a Sicco využili najrozkošníckejšie každý spôsob zábavy.   Požívali najdelikátnejšie jedlá, pili najjemnejšie nápoje. Tešila a   rozveseľovala ich hudba a vedomie vyplnenia každej ich túžby.   Tancovali a spievali a tešili sa dlho do noci, kým im sladšie   žiadosti neprekazily už užité pôžitky.
+   </tei:p>
+   <tei:p>
+    V susednej izbe ich čakalo rozkošne pripravené snubné lóže...
+   </tei:p>
+   <tei:p>
+    Keď slnce včas ráno rozrážalo svojimi zvedavými lúčmi milé nočné   šero, našlo v spálni len samého messera Bonattiho.
+   </tei:p>
+   <tei:p>
+    120
+   </tei:p>
+   <tei:p>
+    ﻿Zdvihol hlavu a obzeral sa najašene okolo sebar na pohovke odvčera   večera ležaly krásne, teraz už potrhané šaty skvostnej Lauretty.
+   </tei:p>
+   <tei:p>
+    Bonatti vstal a obliekol sa; vyhľadal čeľaď, ktorá v noci tak   zdarné bola prispela k zábave, ale z rozospatých nikto nevedel, kde   sa podela pani domu.
+   </tei:p>
+   <tei:p>
+    Ani ju nenašli a nijakej stopy po nej. Nebolo možno ani tušiť, kde   sa podela. V meste a okolí jej tiež nikde nebolo.
+   </tei:p>
+   <tei:p>
+    Jediný Antonio vedel, kde sa podela jeho úbohá sestra.
+   </tei:p>
+   <tei:p>
+    Ráno sa hlásil u neho posol zo San Štefana, ktorý mu oznámil, že   po nočnej zábave s Bonattim Lauretta odišla, a nikto nevie, kde.
+   </tei:p>
+   <tei:p>
+    Antonio sa hneď sobral a šiel k spovedníkovi monny Catelly, k   chudému padre Faglionemu, ktorého poprosil, aby prinútil ženu   Bonattiho, aby s deťmi bez najmenšieho meškania utekala k sestre do   Pistoje a aby tam ostala aspoň dva mesiace, alebo tak dlho, kým sa   pomery nevyjasnia. Ide o život monny Catelly a detí. Antonio padremu   pod pečaťou spovede vyrozprával, že jeho nešťastná sestra sa nakazila   leprou a poškvrnila ňou i Bonattiho, svojho milenca, ktorý by celkom   iste preniesol strašnú nákazu i na svoje deti a na svoju ženu, keby   sa s nimi stýkal.
+   </tei:p>
+   <tei:p>
+    Ešte toho dňa sa Antonio presvedčil, že monna Catella odcestovala   s deťmi, nikto nevedel kam, a že sa messer Bonatti ešte nevrátil   domov.
+   </tei:p>
+   <tei:p>
+    121
+   </tei:p>
+   <tei:p>
+    ﻿Lauretta sa zobudila ešte za tmy, pohádzala na seba skromnučké   háby, ktoré mala popredku prichystané v susednej komôrke, vzala so   sebou malý batôžtek, a ticho vzlykajúc, hádžuc bozky za spiacim   Siccom, vyšla nepozorovane z domu. Nikto ju nepobadal ani na bielej   ceste, keď toľkým žiaľom obťažená postava utekala pred špitál   najbiednejších. Na zazvonenie sa otvorily samočinne dvere.
+   </tei:p>
+   <tei:p>
+    Lauretta vedela, že tentoraz, keď prekročí ich prah, zavrú sa za   ňou naveky. I oprela sa o tú hroznú bránu, a žalostne plačúc, skĺzla   sa pri nej na zem. Celý život jej prebehol dušou. Ach, veď bolo v ňom   tak málo potešenia! Či mohol Boh zachovať pre ňu krásne dni v tomto   najstrašnejšom mieste na svete?
+   </tei:p>
+   <tei:p>
+    Správa špitála, skladajúca sa tiež z chorých, roztrieďovala   chorých podľa druhu nákazy. Ťažkí, už práce neschopní chorí boli   uložení v hlavnej veľkej budove, ľahšie chorí bývali v roztratených   po veľkom priestore domčekoch a chalupách a konali záhradnícku,   roľnícku a remeselnícku prácu.
+   </tei:p>
+   <tei:p>
+    Mladá, krásna, zdanlivé zdravá Lauretta však mala len po   beláskavej škvrne na prsiach a na jednom ramene, i dojala i ťažšie   chorých správcov. Dali jej na obďalečnom kopci stojacu novú chalúpku   s dvoma izbičkami. Okolo chalúpky sa rozprestierala záhrada s   rozličným ovocím, s vinicou a hriadkami na zeleniny.
+   </tei:p>
+   <tei:p>
+    Lauretta, od vďačnosti plačúc, išla do svojho domčeka, sprevádzaná   monnou Lizettou, ktorá už vyše dvadsať rokov bola v nemocnici,   zdanlivé vždy rovnako chorá. Tvár mala nabehnutú, tvrdú,
+   </tei:p>
+   <tei:p>
+    122
+   </tei:p>
+   <tei:p>
+    ﻿prekrájanú niekoľkými hlbokými vráskami. Na nej sa nezračilo   nijaké dojatie, ani smiech, ani plač: bola to nehybná maska. Ale ináč   sa cítila zdravou a práceschopnou. Tešila Laurettu, že keď bude bývať   v čistote na slnci, môže so svojou nákazou dožiť i vysoký vek bez   väčších útrap. Vôbec celý ten špitál dei miserrimi nie je taký   strašný, keď naň ľudia privyknú. Tu majú aspoň pokoj od každého   prenasledovania, často i od hrôz, ktoré stíhajú vonkajších. Sem   nepríde ani najzúrivejší nepriateľ. Je tu radosti dosť. Sú tu i deti,   a tie sa hrajú a smejú. Počuť tu i spev, tanec a smiech a je tu   radosť — i umrieť.
+   </tei:p>
+   <tei:p>
+    V tú chvíľu sa Laurette, stojacej na kopci a hľadiacej na vrchy a   peknú prírodu okolo nej, zdalo, že dosiahne svoje životné blaho, len   aby prišiel Sicco. Ale, ako mnoho ráz, tak i teraz jej chytro   zadlávil dušu strach, že Sicco jej neodpustí, že ho zákerným spôsobom   pripravila o život na slobode, o krásnu ženu, deti, bohatstvo, všetku   svetskú slávu. Svieralo jej srdce, že jeho pocit, keď ju zazrie, bude   oproti nej nie láska, ale nenávisť a pomstychtivosť. Ak uvidí, že je   jej strach oprávnený, podá mu svoj štilet, nech urobí s ňou koniec,   alebo urobí ho i sama na jeho rozkaz.
+   </tei:p>
+   <tei:p>
+    Míňaly sa dni a týždne, čo si užierala srdce, vyčkávajúc väčšinu   času za kríkmi neďaleko brány. Aké dlhé bolo to čakanie, keď prešly   mnohé dni, že zvonec sa neozval! Aké myšlienky križovaly umom   nešťastnej Lauretty! Najväčšmi ju trápila predstava, že sa Sicco   vôbec nenakazil a že ona celkom zbytočne obetovala svoj — teraz po   smrti
+   </tei:p>
+   <tei:p>
+    123
+   </tei:p>
+   <tei:p>
+    ﻿otcovej — možno skvelý život, v ktorom, keď sa mu oddala úplne,   mohla sa i jeho lásky nasýtiť. Teraz stratila všetko.
+   </tei:p>
+   <tei:p>
+    Preily týždne a stratila už všetku nádej.
+   </tei:p>
+   <tei:p>
+    Už sa mrkalo, keď odchádzala so svojho miesta, kde ju už všetci   obyvatelia nemocnice boli vídavali, sklamaná, bojaca sa zasa dlhej   noci bez spánku, rozmýšľajúc i o tom, že keď sa prehrešila proti   Bohu, že ju trpko potrestal.
+   </tei:p>
+   <tei:p>
+    Ozval sa tupo zvonec.
+   </tei:p>
+   <tei:p>
+    Roztvorily sa samočinne dvere na bráne a zazrela v nich šarlátový   kabát so svetlobelasými kvetmi: kabát otrhaný, ošúchaný; bolo na ňom   vidno, že jeho majiteľ sa v ňom mnoho dní a nocí povaľoval po horách   a lúkach.
+   </tei:p>
+   <tei:p>
+    Sicco Bonatti, vyštvaný z Florencie, dlho sa nemohol odhodlať   vojsť na to miesto večného zármutku
+   </tei:p>
+   <tei:p>
+    a bôľu, napokon ho hlad a strach pred smrťou vohnal na posledný   útulok beznádejných.
+   </tei:p>
+   <tei:p>
+    Tak prišiel.
+   </tei:p>
+   <tei:p>
+    A Lauretta svojho milého, ktorý jej pred dušou stál ako hrdý,   krásny, mocný Jupiter, videla teraz biedneho, zarasteného,   schudnutého a otrhaného.
+   </tei:p>
+   <tei:p>
+    Bolo jej ho ľúto do zatknutia. Najradšej by sa bola hodila pred   ním na kolená a bola ho utešila svojou nesmiernou láskou.
+   </tei:p>
+   <tei:p>
+    Bála sa ho.
+   </tei:p>
+   <tei:p>
+    Cítila, ako strašne sa previnila proti nemu. Myslela, že jej to   nikdy neodpustí, i vkradla sa ticho, nepozorovane do svojho   opusteného úkrytu. Prežila najtrápnejšiu noc svojho života. Niekoľko   ráz mala nasadený hrot svojho štileta na prsiach a len po-
+   </tei:p>
+   <tei:p>
+    124
+   </tei:p>
+   <tei:p>
+    ﻿myslenie, že možnosť tá jej neujde, jej zadržalo ruku. tľfala sa,   že ho možno nekonečnou oddanosťou aspoň natoľko udobrí, že prijme jej   služby ako nevoľnej otrokyne.
+   </tei:p>
+   <tei:p>
+    I pozorovala ho ukradomky niekoľko dní a vypytovala sa o ňom   známych a najmä monny Lizetty.
+   </tei:p>
+   <tei:p>
+    Monna Lizetta jej rozprávala, že po zronenosti prvých dní sa   obdivuhodne sosbieral; že premohol hrôzu pred chorobou, ktorú si   predstavoval omnoho horšou a ktorá je u neho nie ťažšia ako u   Lauretty; že sa zaujíma o zariadenie špitála a že sa priberá do   práce. Monna Lizetta mu rozprávala, že je tu i krásna mladá deva,   ktorá prišla sem pred krátkym časom, máločo chorá. Zaujíma sa o ňu   veľmi.
+   </tei:p>
+   <tei:p>
+    Lauretta sa presvedčila, že Antonio mal pravdu, keď jej hovoril,   že Sicco je plytkej duše. Nemyslí a necíti hlbšie, všetko sa ho   dotýka len povrchne. Veď ani ohromná premena jeho pomerov ho   nedoniesla ani zďaleka tak z rovnováhy, ako si to ona predstavovala.   Merala ho vlastnou mierou a —
+   </tei:p>
+   <tei:p>
+    chvalabohu — mýlila sa.
+   </tei:p>
+   <tei:p>
+    Hľadala ho v poli, odhodlaná ho osloviť. Teraz bola pevne   presvedčená, že jej, hoci po nejakom rozčuľovaní, odpustí. Veď ju mal   jednako rád a bude mať v nej takú milú spoločnicu.
+   </tei:p>
+   <tei:p>
+    Bonatti čistil v poli medzi ovocnými stromami jarok. Bolo na ňom   poznať nezvyklosť tej práce, ktorú robil s omnoho väčším napružením,   ako bolo treba.
+   </tei:p>
+   <tei:p>
+    Lauretta išla tak tichučko, že ju nepohádal, len
+   </tei:p>
+   <tei:p>
+    125
+   </tei:p>
+   <tei:p>
+    ﻿keď bola od neho na tri-štyri kroky. Keď padla jej tôňa na kruh   jeho roboty, zdvihol hlavu. Hľadel na ňu chvíľu s nechápavým   zadivením.
+   </tei:p>
+   <tei:p>
+    — Lauretta, si to ty skutočne? A tu? Bože drahý, ako ty sem   prichádzaš?
+   </tei:p>
+   <tei:p>
+    — Pre teba som tu! Vieš, ako ťa ľúbim; nemohla som bez teba žiť.   Nechceš ma?
+   </tei:p>
+   <tei:p>
+    Bonatti odhodil motyku a priskočil k Laurette, ktorá zprvu   nevedela, čo chce s ňou urobiť.
+   </tei:p>
+   <tei:p>
+    Schytil ju okolo drieku a pritisol ju silne k sebe.
+   </tei:p>
+   <tei:p>
+    — Lauretta, viem, že ma tvoja láska sem doniesla.
+   </tei:p>
+   <tei:p>
+    Hľadel na ňu.
+   </tei:p>
+   <tei:p>
+    — Nie, neublížim ti. Strašne si sa previnila proti mne. Ale z   lásky! Lauretta, nikdy nikto nezaplatil takú cenu za lásku ženy, ako   ja zaplatím.
+   </tei:p>
+   <tei:p>
+    — Sicco, ja som vedome a schválne obetovala svoj život za tvoju   lásku.
+   </tei:p>
+   <tei:p>
+    Bonattimu sa zasa zdala krásnou; spomienka jej lásky mu ju vtisla   do náručia.
+   </tei:p>
+   <tei:p>
+    — Milujem ťa. Ďakujem Bohu, že som ťa našiel, hoc i na tomto   mieste.
+   </tei:p>
+   <tei:p>
+    Žili už spolu v nemocnici pre najbiednejších niekoľko rokov.
+   </tei:p>
+   <tei:p>
+    Raz popoludní odpočívali vo viničím zarastenej pergole na tvrdých   drevených laviciach. Rozmýšľali v tichosti, keď sa Sicco zrazu   zasmial.
+   </tei:p>
+   <tei:p>
+    — Čo máš, milý môj?
+   </tei:p>
+   <tei:p>
+    — Vieš, že dnes je dvadsiateho šiesteho apríla, a tak je tomu   práve päť rokov, čo sa najbohatší a
+   </tei:p>
+   <tei:p>
+    126
+   </tei:p>
+   <tei:p>
+    ﻿najmocnejší páni vraždili najstrašnejším spôsobom, aby rozmnožili   svoje blaho a svoju spokojnosť. Bože môj, mali všetko, čo si človek   môže žiadať, a to všetko im bolo málo. V čomže už väzí šťastie
+   </tei:p>
+   <tei:p>
+    spokojnosť ľudí?
+   </tei:p>
+   <tei:p>
+    Lauretta si obzerala na ramene lepróznu škvrnu, ktorú mala od   príchodu do špitála. Bola trochu väčšia a tmavšia, ale ináč jej   nerobila nijakých ťažkostí.
+   </tei:p>
+   <tei:p>
+    •— Sicco mio, my sme tu skutočne na najopustenejšom mieste na   svete. Sme takí chudobní, že máme len holý život. Pre nás nič   nejestvuje, čo Fudí teší a vábi.
+   </tei:p>
+   <tei:p>
+    Lauretta prešla k Siccovi a sadla si k nemu na lavičku, na ktorej   ležal, zohnúc sa k nemu, hladila mu tvár už nie takou mäkkou rukou   ako kedysi, ale jemu preto niemenej milou.
+   </tei:p>
+   <tei:p>
+    — Sicco mio, nám tu neostalo nič iného, ako dobrota a láska, a   preto je naším jediným potešením milovať sa a cítiť spolu každú   radosť a každý žiaľ, a to nielen náš, ale i našich všetkých   spolutrpiteľov. A tak vidíš, požehnáva nám Boh nové radosti každý   deň, keďže je nám často i smrť zdrojom potešenia, a láska sama osebe   je rozkoš najväčšia. Vo svojej nekonečnej opustenosti nemáme nikomu   čo závidieť, lásku a dobrotu nám nikto vziať nemôže, a tak, hľa, sme   šťastnejší ako tí čo majú mnoho, čo ich šťastie len hatí a ničí.
+   </tei:p>
+   <tei:p>
+    Sicco privinul Laurettu k sebe.
+   </tei:p>
+   <tei:p>
+    — Je to pravda, drahá. Ale radšej by som mal život so všetkými   jeho úkladmi, s porážkami, ale i s víťazstvami ako toto nútené blaho   bez boja.
+   </tei:p>
+   <tei:p>
+    127
+   </tei:p>
+   <tei:p>
+    ﻿Laurette prišlo na um, čo prestála, koľko sa bolestne načakala na   Sicca, koľko preň hrešila.
+   </tei:p>
+   <tei:p>
+    — Môj si, môj! Iste a bez starosti. Vďaka Ti, Pane Bože!
+   </tei:p>
+   <tei:p>
+    128
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

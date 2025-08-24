@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1945160" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Pán biskup a východ slnca : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5240
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Pán biskup a východ slnca
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PÁN BISKUP A VÝCHOD SLNCA
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    11 Itália.
+   </tei:p>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Pánu Andrému de Rosans, biskupovi z Palmýry (in partibus   infidelium), sa snívalo, že mu palec na nohe chytil zlý pes (aký pán,   taký krám) kardinála D’Upaix, i obrátil sa v širokej posteli a   zjajkol:
+   </tei:p>
+   <tei:p>
+    — Ohó, má nás zasa! — I sadol si a siahol mimovoľne na boľavý úd,   pričom pocítil i silné bodnutie v kríži.
+   </tei:p>
+   <tei:p>
+    — Me Hercle! Má nás!
+   </tei:p>
+   <tei:p>
+    Ako sa stenajúc rušal v posteli, vošiel k nemu Mathiou, šúchajúc   si ruky, pričom skláňal hlavu na plece; usmievajúc sa zvolal   natešene: — Má nás, má!
+   </tei:p>
+   <tei:p>
+    — Teba tiež? — spýtal sa pán biskup svojho sluhu, ponášajúceho sa   naň, ani keby mu bol bratom, čo nebol div, lebo tí dvaja od detstva   boli spolu.
+   </tei:p>
+   <tei:p>
+    — Veď nás má vždy naraz. Povedal som už, že by sme mali prepustiť   zásobovanie inému. Nech svätý otec poverí tým nebezpečným úradom,   koho chce.
+   </tei:p>
+   <tei:p>
+    — Mathiou, videl si včera tie krásné pstruhy, ktoré poslal rytier   Godeau, náš milý priateľ? Krajších ešte nechytili v Durance, čo   trúchlime v tomto smutnom zajatí.
+   </tei:p>
+   <tei:p>
+    Mathiou si pošúchal prstami gágor a glgol naprázdno.
+   </tei:p>
+   <tei:p>
+    — Videl.
+   </tei:p>
+   <tei:p>
+    — A ten krásny ruženec prepelíc si tiež videl,
+   </tei:p>
+   <tei:p>
+    čo pochytal náš znamenitý hájnik Lefort?
+   </tei:p>
+   <tei:p>
+    11*
+   </tei:p>
+   <tei:p>
+    163
+   </tei:p>
+   <tei:p>
+    ﻿— Mhm, veru videl! Môžem povedať, boly tučné, ani pampúšky,   hehehe! — a mädlil si spokojne ruky.
+   </tei:p>
+   <tei:p>
+    — No, vidíš. To všetko my popapkáme. Kardinál D’Upaix už sliedil   za nimi.
+   </tei:p>
+   <tei:p>
+    — Len tomu nič! Ten starý žrút by všetko sám chcel pojesť. Tomu   nič!
+   </tei:p>
+   <tei:p>
+    — Tak čo táraš, há? Radšej mi pomasť chrbát a dones i liek na   palec.
+   </tei:p>
+   <tei:p>
+    Mathiou pomaly odišiel a o chvíľu priniesol lieky.
+   </tei:p>
+   <tei:p>
+    — Ľahnite si, — riekol biskupovi, ktorý sa poslušne vystrel na   posteľ, a Mathiou mu tak poriadne namastil chrbát, až stenal pri   operácii.
+   </tei:p>
+   <tei:p>
+    Biskup vstal a urobil skusmo niekoľko pohybov, či mu procedúra   osožila.
+   </tei:p>
+   <tei:p>
+    — N-no, lepšie sa cítim, lepšie! Teraz si ty ľahni.
+   </tei:p>
+   <tei:p>
+    Mathiou už bol shodil kabát a ľahol si tiež na biskupovu posteľ.   Pán de Rosans ho natrel tak statočne, že len tak hekal. Medzi   natieraním hovoril pán biskup odfukujúc:
+   </tei:p>
+   <tei:p>
+    — Kým pomáha proti pakostnici toto natieranie, budeme papkať,   starý hrachu! Na pôst máme dosť času i žatým!
+   </tei:p>
+   <tei:p>
+    — Môžem povedať, že by sme boli lepším masérom, ako sme biskupom:   všetky kosti mi prašťaly. To je ruka!
+   </tei:p>
+   <tei:p>
+    Mathiou vyskočil, a držiac si šaty jednou rukou, chytil druhou   biskupovu a bozkal ju.
+   </tei:p>
+   <tei:p>
+    — Bude najlepšie, keď už vstaneme a vyjdeme na slniečko. Priveľa   leňošíme. Už sme dávno tak včas nevstali.
+   </tei:p>
+   <tei:p>
+    I odbehol, obliekajúc sa, a otvoril dvere spálne, vedúce na širokú   chodbu, ktorej zovňajšiu stenu
+   </tei:p>
+   <tei:p>
+    164
+   </tei:p>
+   <tei:p>
+    ﻿tvorily nízke, ale široké oblúky. Celú tmavú spálňu zalialy lúče   vychádzajúceho slnca. Biskup krivkajúc vyšiel na chodbu a zalomil   rukami nad zázračným obrazom, zvolajúc opätovne:
+   </tei:p>
+   <tei:p>
+    — Ach, ach, ach, aké je to prekrásne!
+   </tei:p>
+   <tei:p>
+    Výšavou nebeskej báne prestreľujúce lúče zpoza montagne de Lure   vychádzajúceho slnca zaplavily zlatoružovým jasom celý utešený a   bohatý kraj aviňonský. V obraze sa menily zelene viníc, záhrad, lúk a   lesov. Pestrosti mu dodávaly kopce a ďaleký horizont uzavierajúce   vysoké vrchy. Lúče sa miestami ligotavo odrážaly od vôd Durance. Kraj   oživily i v ňom roztrúsené obce a hrady, ktorých okná sa jagaly sťa   drahokamy na prekrásnom rúchu.
+   </tei:p>
+   <tei:p>
+    Biskup s dojatím hľadel na taký blízky a jednako neznámy mu obraz.   Mathiou, vidiac pohnutie svojho pána, tiež zatíchol, hoci mu bol   výhľad už zovšednelý.
+   </tei:p>
+   <tei:p>
+    Pohľad preláta prechádzal od najvyšších vrchov k najbližšiemu   okoliu; už sa kochal krásou polí v blízkosti hradu, a teraz sa   prešmykol na utešené kvetné hriadky pod samými arkádami, a tu na   voľnom, štrkom vysypanom priestore, pod oblúkom, v ktorom on stál,   zazrel sivú mulicu a na nej pestré, v kroji vyobliekané tak lahodne   sediace dievča, že mu mimovoľne prišlo na um porovnanie s motýľom,   vznášajúcim sa nad bylinou. Biskup zasa spľasol rukami a zvolal:
+   </tei:p>
+   <tei:p>
+    — Ach, ach, ach! Aké je to utešené, aké je to chutné, ozaj do   zjedenia!
+   </tei:p>
+   <tei:p>
+    Tento výkrik sa sotva vzťahoval na východ slnca, a preto Mathiou   vystrčil hlavu zpoza pánovho ple-
+   </tei:p>
+   <tei:p>
+    165
+   </tei:p>
+   <tei:p>
+    ﻿ca a šibol okom na tú živnosť, ktorú by jeho pán tak vďačne   zjedol.
+   </tei:p>
+   <tei:p>
+    — Mhm, — kývol hlavou prisviedčajúc a usmial
+   </tei:p>
+   <tei:p>
+    sa.
+   </tei:p>
+   <tei:p>
+    Dievča na mulici bolo sťa víla: postavy bolo gracióznej, nôžky v   červených črievičkách, celembajúce so sedla, boly svižké, oči čierne,   plné ohňa, tvárička ani maľovaná a pyštek falošný a veselo sa   usmievajúci. Keď zazrela s údivom hľadiacieho biskupa, sošvihla sa s   mulice a priskočila pod samú arkádu, a pokloniac sa, skríkla, ani keď   deti strašia: — Mú! — a durkla ukazovákmi smerom k nemu.
+   </tei:p>
+   <tei:p>
+    Biskup sa usmial: — Ktože si ty, ty smelá osôbka? A čo tu hľadáš   už tak včas ráno? — povedal, hroziac jej žartovne prstom.
+   </tei:p>
+   <tei:p>
+    -—- Dáme ju do temnice, pod Rolandovu vežu!
+   </tei:p>
+   <tei:p>
+    — zvolal hrubým hlasom, akým deti strašievajú, a so strašlivou   grimasou Mathiou.
+   </tei:p>
+   <tei:p>
+    Dievča spľaslo rukami a prevrátilo oči.
+   </tei:p>
+   <tei:p>
+    — No, toto sa mi ešte nikdy nestalo! Nuž mňa nepoznáte, mňa? Veď   som ja Lisotte, dcéra dolného mlynára! No, že Lisotte neznáte! Zato   vás ja poznám všetkých, a dobre! Ja vás vôbec všetkých poznám v tomto   veľkom aviňonskom hrade. Vy ste pán de Rosans, biskup kdesi medzi   pohanmi. Hovoria o vás, že všetko dobré, čo donesú pre kuchyňu, ide   do vášho žalúdka, a pána pápeža držíte nakrátko. Ale ani vy mu tak   neodjete všetky lepšie kúsky, ako ten, ten tam, čo sa kryje za váš   chrbát, ten Mathiou. Na toho dajte pozor! — hrozila prštekom. — On   vám je nenásytný žrút!
+   </tei:p>
+   <tei:p>
+    Biskup sa tak chutno smial, že sa mu brucho
+   </tei:p>
+   <tei:p>
+    166
+   </tei:p>
+   <tei:p>
+    ﻿triaslo, a Mathiou jej so zaťatou päsťou a s vyškerenými zubmi   hrozil: — Počkaj, ty potvora, ja ti dám, na mňa také strašné veci   hovoriť. Pôjdeš do veže, pôjdeš! A čo s procesiou prídu za teba   prosiť, pôjdeš!
+   </tei:p>
+   <tei:p>
+    — Nuž „pánu“ pápežovi odjeme čo lepšieho?
+   </tei:p>
+   <tei:p>
+    — spýtal sa pán de Rosans. — No, a kto ti to povedal?
+   </tei:p>
+   <tei:p>
+    Dievča sa obrátilo k mulici a poťapkala ju po mäkkej tlame. — Však   to každý vie, i tuhľa Suzanne! Však to vieš i ty, Suzanne? — Mulica   strihla ušami, pokývala hlavou a hrabla kopytom. Jej posunok bol taký   prekvapujúco primeraný, že sa i biskup i Mathiou hlasito   zasmiali.
+   </tei:p>
+   <tei:p>
+    — No, to je veru nebezpečný svedok, tá tvoja mulica. Ale povedzže,   Lisotte, čo si vlastne prišla tak včas ráno, a či si nám niečo   doniesla?
+   </tei:p>
+   <tei:p>
+    — Včera popoludní bol u nás lekár pána pápeža, maitre da Valdieri,   aby ste vedeli. Oj, ja viem, prečo prišiel. Ľúbi sa mu moja staršia   sestra, Margot, s ktorou spávam v jednej komore. Ona dáva na mňa   pozor, lebo som ja šaFo, ako hovorí naša mať. Maitre hovorí, že je   Margot veľmi múdra a že je radosť s ňou sa shovárať. Aj mne povedal,   že som múdra, ale robil na mňa také oči, že som mu ich chcela   vyškriabať. Ohó, ja poznám, ako sa mužskí pozerajú na ženské, a kedy   im treba vyškriabať oči.
+   </tei:p>
+   <tei:p>
+    — Veru si ty múdre dievča, — prisvedčil biskup,
+   </tei:p>
+   <tei:p>
+    ale nám už povedz, prečo si prišla teraz?
+   </tei:p>
+   <tei:p>
+    — Taký je protivný ten maitre s jeho čapicou na ušiach a s veľkými   okuliarmi. Brr! Nuž, včera rozkázal namlieť z najlepšieho ovsa múky   pre
+   </tei:p>
+   <tei:p>
+    167
+   </tei:p>
+   <tei:p>
+    ﻿pána pápeža. Pán pápež má vraj chorobu, ktorá sa len tak vylieči,   keď každý deň z čerstvo umletej ovsenej múky sa urobí preň polievka.   Múku musí každý raz za východu slnca priniesť verná panna
+   </tei:p>
+   <tei:p>
+    — i desať ráz to povedal po latinsky, že virgo fidelis, a tak som   si to zapamätala — ináč by stratila svoju liečivú silu. A taká virgo   fidelis som v celom okolí len ja. Nuž preto som prišla. Tu máte tú   múku, — a obrátila sa k mulici, s ktorej sňala malé biele vrecko.
+   </tei:p>
+   <tei:p>
+    — No, pekne od teba, Lisotte, že sa tak staráš o pána pápeža. To   prídeš zajtra zasa? — spýtal sa vľúdne pán biskup, usmievajúc sa na   ňu.
+   </tei:p>
+   <tei:p>
+    Mathiou si zakryl dlaňou ústa, a zohýňajúc sa, smial sa, že mu až   slzy tiekly.
+   </tei:p>
+   <tei:p>
+    Lisotte sa durdila: — Pozrite, pán biskup, ako sa ten starý blázon   smeje. Či má taký kŕč? Chudák!
+   </tei:p>
+   <tei:p>
+    Mathiou sa premohol, a odtiahnuc biskupa od oblúka, šepkal mu:
+   </tei:p>
+   <tei:p>
+    — To je vybíjaný lotor, ten maitre da Valdieri! Lotor taliansky, a   to sú najhorší. Aby včas ráno Lisotte vypratal z komory jej sestry,   musí svätý otec jesť ovsenú polievku! Bože môj, a ty to trpíš!
+   </tei:p>
+   <tei:p>
+    Pán de Rosans vytiahol obrvy dohora:
+   </tei:p>
+   <tei:p>
+    — Uhm, čosi môže byť vo veci. Mhm, mhm. No, ecce, presvedčíme sa.   — Žatým sa obrátil k Lisotte:
+   </tei:p>
+   <tei:p>
+    — Nuž, dieťa moje, matka hovorí, že Margot dáva na teba pozor?
+   </tei:p>
+   <tei:p>
+    — Isteže a je to i potrebné, lebo ja sa preveľmi rada rozprávam s   každým, najradšej s mladými ľuďmi, ktorí sú, ach, takí roztomilí! —   prekrúcala Lisotte oči.
+   </tei:p>
+   <tei:p>
+    168
+   </tei:p>
+   <tei:p>
+    ﻿— Nuž a to na teba povedal ten maitre, že si virgo fidelis? To   veru neviem, či tá múka osoží pánu pápežovi. Neviem, veru neviem, —   krútil pán biskup hlavou.
+   </tei:p>
+   <tei:p>
+    Lisotte vyskočila oproti pánu biskupovi, ani čo by ju bol šidlom   pichol. Rezko kývajúc ukazovákom, rapčala naň šikovným jazykom:
+   </tei:p>
+   <tei:p>
+    — A to si vy myslíte, že preto, lebo sa rada shováram s   mládencami, by mu neosožila? Ohobó, mýlite sa, pán biskup. U nás je   vo mlyne mladý Jehan Leroud, a ten dáva na mňa ukrutný pozor. Ten by   každému mládencovi, ktorý by sa opovážil za mnou chodiť, kosti   polámal. Ten vám je strašne mocný a ja sa ho, — tu Lisotte zrazu   stíchla a sklopila oči, — ja sa ho tak — hanbím.
+   </tei:p>
+   <tei:p>
+    — Ihahahohobó, — smial sa Matbiou, pliaskajúc sa po stehnách, — ty   si mi pekná virgo fidelis! Ona je zamilovaná a volá to — hanbením!   No, svätý otec, pekná je tá tvoja kúra!
+   </tei:p>
+   <tei:p>
+    Pán biskup len hodil rukou, mysliac si: Ale, ktože ho tam vie, čo   si taký biskup in partibus infidelium môže myslieť? I riekol: —   Matbiou, odober to vrecko a odnes ho, — žatým siahol do kabelky,   visiacej mu na páse, a dal dievčaťu dukát. Lisotte sa radostne   usmiala.
+   </tei:p>
+   <tei:p>
+    — To si môžem celý zadržať? — spýtala sa, ukazujúc peniaz. — Celý,   celučičký?
+   </tei:p>
+   <tei:p>
+    Pán de Rosans ju ťapol po hladkom líci:
+   </tei:p>
+   <tei:p>
+    — Celý. Zakaždým, keď prídeš, dostaneš jeden.
+   </tei:p>
+   <tei:p>
+    — Ichuchú! — výskla si a podskočila. — Tak sa
+   </tei:p>
+   <tei:p>
+    ja skoro vydám!
+   </tei:p>
+   <tei:p>
+    Vyskočila na mulicu a rozbehla sa napred. Zrazu
+   </tei:p>
+   <tei:p>
+    169
+   </tei:p>
+   <tei:p>
+    ﻿sa obrátila a soskočiac utekala k biskupovi a bozkala mu ruku   teplými, mäkkými perami.
+   </tei:p>
+   <tei:p>
+    Keď odbehla, biskup mimovoľne pozrel na svoju ruku a pohladil ju,   ani keby ju utieral.
+   </tei:p>
+   <tei:p>
+    Matbiou pozeral naň a zamrmlal čosi.
+   </tei:p>
+   <tei:p>
+    — Čože to hundreš? — spýtal sa ho biskup.
+   </tei:p>
+   <tei:p>
+    — Nič. Len že by sme sa nezbláznili na staré kolená.
+   </tei:p>
+   <tei:p>
+    — Hlupák, — povedal pán biskup a šiel sa obliekať.
+   </tei:p>
+   <tei:p>
+    Keď bol hotový, šiel do kostola odslúžiť omšu, pričom mu vždy   miništroval kostolníkov chlapec, ktorý vyvalil veľké oči, keď ho   Matbiou vyduril tak včas z postele. Ale šiel vďačne, lebo od biskupa   zakaždým dostal denár za svoju službu.
+   </tei:p>
+   <tei:p>
+    Dnes pán de Rosans veľmi včas prišiel do svojho úradu. Lebo, hoci   po omši i poraňajkoval, tentoraz len zapraženej polievky z ovsenej   múky, ktorú bola doniesla Lisotte, a prešiel po záhrade, obdivujúc   znova a znova krásny kraj, ktorý dosiaľ nikdy nebol tak vzbudil jeho   pozornosť, bolo ešte jednako tak málo hodín, že v hrade, okrem stráže   na múroch, len tu i tu služobnú čeľaď bolo vidno. A tá tiež viac   vyzivovala a vyťahovala údy, ako by bola niečo končila.
+   </tei:p>
+   <tei:p>
+    Matbiou otvoril nepomerne veľkým kľúčom na širokých železných,   veľkými klincami vybíjaných dverách drobné dvierka, ktorými sa   všuchli do rozložitej, pomerne nízkej siene, steny ktorej boly   pokryté vyrezávanými dubovými doskami. V miestnosti bol len jeden   širokánsky, s cifrovanými mrežami oblok, skladajúci sa z drobných, v   olovených rámcoch zapustených sklených tabličiek; páchlo
+   </tei:p>
+   <tei:p>
+    170
+   </tei:p>
+   <tei:p>
+    ﻿v nej starým pergamenom a trochu i stuchlinou. Pred oblokom bol   veľký ťažký stôl a pri ňom pohodlné kreslo, pokryté mäkkým kobercom.   Blízko obloka boly na stene police s veľkými foliantmi, ktoré boly   retiazkami pripevnené k železným žrdiam pod policami. Vo foliantoch   boly záznamy a účty pápežskej zásobárne, ktorej vedúcim úradníkom —   ako by ministrom zásobovania — bol pán de Rosans.
+   </tei:p>
+   <tei:p>
+    — Mathiou, otvor oblok! Akože môže človek sedieť v takomto žalári,   keď je vonku tak krásne!
+   </tei:p>
+   <tei:p>
+    Mathiou zazrel bokom na biskupa a zamrmlal:
+   </tei:p>
+   <tei:p>
+    — Dosiaľ nám tu nebolo ako v žalári. Myslíme najskorej, že vonku   ešte čaká tá na tej mulici.
+   </tei:p>
+   <tei:p>
+    Pán biskup pozrel prísne na sluhu a zdvihol výstražné ukazovák. I   striasol ním, ale len glgol a neriekol nič.
+   </tei:p>
+   <tei:p>
+    Mathiou roztvoril široký, v železnom ráme osadený oblok: do   miestnosti vnikol nielen slnečný jas a vôňa kvetov, ale i huk kriku,   štrkotu zbraní a podkov na dlažbe. Biskup pristúpil k obloku:
+   </tei:p>
+   <tei:p>
+    — Pozri, čo sa to deje.
+   </tei:p>
+   <tei:p>
+    Mathiou pritisol tvár k mrežiam, ale nezazrel nič.
+   </tei:p>
+   <tei:p>
+    — To prišli do Charlemagnovho dvora akísi ľudia; ale odtiaľto ich   nevidno. Musel by som si oko nasadiť na koniec nosa, tak by som ich   videl.
+   </tei:p>
+   <tei:p>
+    — Slož mi foliant s kľúčom a choď pozrieť, čo sa to robí.
+   </tei:p>
+   <tei:p>
+    Mathiou vytiahol zpomedzi kníh onú, ktorá mala na chrbte   namaľovaný kľúč, a hodil ju na veľký stôl pred oblokom, a žatým   utekal von.
+   </tei:p>
+   <tei:p>
+    Biskup otvoril knihu a vyhľadával v nej stranu.
+   </tei:p>
+   <tei:p>
+    171
+   </tei:p>
+   <tei:p>
+    ﻿na ktorej bolo poznamenané, koľko múky dodal dolný mlynár do   hradu. Mal on veľký závod s desiatimi robotníkmi a bolo to hodne, čo   ročite dovážal do hradu. Biskup chodil ukazovákom po riadkoch, a   mrmlajúc, spočitoval: — 250 — 285 — 305 — 465 vriec! — 465 vriec, 465   vriec, — opakoval a pretieral si oči. Namiesto číslic videl usmievavú   tvár s blýskavými očami a s červenými perami, medzi ktorými sa belely   perličky zubov. Po čiarkach mu tancovaly nôžky v červených   črievičkách.
+   </tei:p>
+   <tei:p>
+    — Neurobím dnes nič, —• mrmlal si a odtisol knihu. Sadol si   pohodlne, a složiac ruky na prsiach, díval sa von. Slnce sa už celkom   vyšvihlo nad vrchy.
+   </tei:p>
+   <tei:p>
+    — Ako je len krásne na svete! Ostarel som a nevedel, že je svet   taký utešený a že sú také krásne tvory na ňom. Lisotte, malá   Lisotte!
+   </tei:p>
+   <tei:p>
+    Pán de Rosans rozmýšľal ešte, hľadiac zádumčivo do diaľky a   krútiac pomaly palcami na prsiach. Keďže sa usmieval, myslel sotva na   vrecia múky, ale na niečo iné.
+   </tei:p>
+   <tei:p>
+    Vrzly železné dverce a vošiel Mathiou.
+   </tei:p>
+   <tei:p>
+    — No, tu máš! Ten protivný, vždy sa nadrapujúci Gaskonec, de   Brissac, naozaj zlapal pána Urlemonta a de Verriera, a už ich aj   vešajú na hlavnú bránu.
+   </tei:p>
+   <tei:p>
+    Biskup potriasol hlavou:
+   </tei:p>
+   <tei:p>
+    — No, no! Ecce, tak, milý Hugues a drahý Charles, chytili vás,   chytili. Dobrí chlapci to boli ináč. Škoda ich. Ecce, ecce!
+   </tei:p>
+   <tei:p>
+    — I vyše sto ozbrojencov schvatli s nimi. Z tých vyštrungnú   toľkých, koľko povrazov je pohotové. Ostatných si vezme pán de   Brissac na náhradu
+   </tei:p>
+   <tei:p>
+    172
+   </tei:p>
+   <tei:p>
+    ﻿vybitých mu chlapcov do svojho sboru, lebo sa tí mládenci   diabolsky bránili.
+   </tei:p>
+   <tei:p>
+    — A kto to vyniesol tak šikovne ten múdry výrok?
+   </tei:p>
+   <tei:p>
+    — Nuž kto? Kardinál-prokurátor D’Upaix. — Tak ani súd nezadržal   nad nimi? — Co tam veľké súdy! Však je i sto svedkov,
+   </tei:p>
+   <tei:p>
+    že pán Hugues a pán Charles zbíjali. — No, a pán de Brissac   pristal na to? — Pristal. Lenže kázal potajomky odpratať sko-
+   </tei:p>
+   <tei:p>
+    ro všetky povrazy.
+   </tei:p>
+   <tei:p>
+    Pán biskup sa zasmial:
+   </tei:p>
+   <tei:p>
+    — To je on! Darmo je, tí Caskonci majú papuľu, ale i rozum.   Mathiou, rozum, čoho ty nemáš!
+   </tei:p>
+   <tei:p>
+    – i klepol si ukazovákom po čele. — My nemáme, my!
+   </tei:p>
+   <tei:p>
+    A tým boli milý pán Hugues a drahý pán Charles odbavení.
+   </tei:p>
+   <tei:p>
+    Nasledovné ráno sa pán de Rosans zobudil ešte hodne pred východom   slnca, hoci ho ani hostec netrápil. Ale on si hol umienil, že každé   ráno vstane podívať sa na ten zázrak. Poležal ešte chvíľu ticho,   počúvajúc šumot piesku vo veľkej klepsydre a pozorujúc na zastretom   obloku, či už svitá. Bol by najradšej už vstal. Bol netrpezlivý ani   dieťa, očakávajúce hračku.
+   </tei:p>
+   <tei:p>
+    Zavolal: — Mathiou!
+   </tei:p>
+   <tei:p>
+    V susednej, otvorenej komore spiaci sluha vbehol v papučiach a v   nočnom plášti.
+   </tei:p>
+   <tei:p>
+    — No, čože už mátame? Robia nám azda galamutu včerajšie prepelice,   alebo nám nedá odpočívať krásna Lisotte?
+   </tei:p>
+   <tei:p>
+    173
+   </tei:p>
+   <tei:p>
+    ﻿— Mathiou, ty si hlupák! Chcem vidieť východ slnca, východ slnca!   Ten neslýchané krásny obraz! Chcem ho vidieť celý, nielen polovicu   ako včera. Chcem vidieť i najprvšie záblesky Fôbusových koní a jeho   voza. Ale ty sa do toho nerozumieš. Podaj mi háby a obuv!
+   </tei:p>
+   <tei:p>
+    Mathiou naťahoval biskupovi papuče a hovoril ako by sebe: —   Lisotte prekrstil na Fôbusov akýsi voz a z jej mulice urobil kone. Ó,   tí páni, nikdy nevolajú veci pravým menom! Všetko len pomiešajú a   pritom sa nevyznajú v ničom.
+   </tei:p>
+   <tei:p>
+    Keď vyšli na chodbu, podúval chladný ranný vánok a len nad   Montagne de Lure sa začínalo šeriť.
+   </tei:p>
+   <tei:p>
+    Mathiou vbehol a vyniesol kreslo a teplejší plášť pre svojho pána,   ktorý bez slova prijal jeho služby. Pravda, Mathiou nemlčal, ale ho   stále školoval, aký je ľahkomyseľný, čo mu biskup odplatil tým, že ho   poslal do izby, aby i pre seba doniesol hodne hrubý plášť, do ktorého   sa Mathiou musel tak zababušiť, že mu len nos vyzeral z neho.
+   </tei:p>
+   <tei:p>
+    Pomaly sa začalo vyjasnievať. Na oblohe sa zjavoval jeden do   druhého prechádzajúci oranžový. Hlavý, dozelenkasta prechádzajúci   pruh, v ktorom plávaly ľahučké pobelavé obláčiky.
+   </tei:p>
+   <tei:p>
+    Pán de Rosans hľadel dychtivo na oblohu a na krajinu, ako z tône   vystupujúcu, ktorou šumely vody Durance a mohutnej Rhôny.
+   </tei:p>
+   <tei:p>
+    Zrazu zablesly lúče nad vrchy sa vyšvihnuvšieho slnca!
+   </tei:p>
+   <tei:p>
+    Biskup spľasol rukami:
+   </tei:p>
+   <tei:p>
+    — Je to zázrak, je to krása! No, Mathiou, nebolo hodno vstať pre   to?
+   </tei:p>
+   <tei:p>
+    174
+   </tei:p>
+   <tei:p>
+    ﻿Mathiou bol tiež mimovoíne zamíkol. Ale sotenie sa, utrel si   opakom ruky nos a zvolal:
+   </tei:p>
+   <tei:p>
+    — Len to je divné, že tá krása človeku tak vodu tisne z nosa.
+   </tei:p>
+   <tei:p>
+    Biskup hodil rukou:
+   </tei:p>
+   <tei:p>
+    — Sancta simplicitas!
+   </tei:p>
+   <tei:p>
+    Slnko osvetľovalo už jasne zarosené, ani zo spánku sa preberajúce   lúky, háje. Na blízkom pomarančovom strome ozvaly sa spevavé   vtáčiky.
+   </tei:p>
+   <tei:p>
+    — Aha, už vstaly i stehlíky. Vidíš, i tých zobudila krása!
+   </tei:p>
+   <tei:p>
+    — Hlad, nie krása! Ale, kde je Lisotte? Včera o takomto čase uz tu   bola.
+   </tei:p>
+   <tei:p>
+    Biskup myslel to isté, ale, nerieknuc ani slova, hľadel smerom   hlavnej brány, odkiaľ mala prísť.
+   </tei:p>
+   <tei:p>
+    Dosť dlho ju vyzeral, už začal rozmýšľať, že bude najmúdrejšie ísť   si ešte ľahnúť, keďže mu bol včerajší deň následkom včasného vstania   taký dlhý, keď počul tenké cenganie s inej strany a zazrel Lisotte na   sivej mulici. Ale, preboha, aká bola! Bledá ani stena, a len-len že   nespadla so sedla.
+   </tei:p>
+   <tei:p>
+    — Per amorem Dei! — zvolal a spľasol rukami.
+   </tei:p>
+   <tei:p>
+    Kým biskup zalamoval rukami, Mathiou už bol shodil ťažký plášť a   utekal oproti dievčaťu. Sosadil ju, a chytiac ju pod pazuchou,   vyviedol ju na chodbu. Keďže sa tackala, vyskočil biskup zo svojho   kresla a posadil ju naň.
+   </tei:p>
+   <tei:p>
+    — Čo ti je, Lisotte? — zvolal biskup úzkostlivo, hladiac jej   studené ruky. Mathiou odbehol a priniesol sklenicu vína a pohár.   Nútil dievča napiť sa z neho.
+   </tei:p>
+   <tei:p>
+    Lisotte oblizla nápoj a zalomila rukami:
+   </tei:p>
+   <tei:p>
+    — Aké je to strašné! Včera som sa shovárala
+   </tei:p>
+   <tei:p>
+    175
+   </tei:p>
+   <tei:p>
+    ﻿s pánom Huguesom, a dnes som ho zazrela visieť na veľkej bráne!   Strašne som sa ho zľakla. A ako mi ho je ľúto! — i začala žalostne   plakať.
+   </tei:p>
+   <tei:p>
+    — Ale, však Hugues a Charles boli zbojnicki rytieri, ktorí pobili   a ozbíjali mnohých ľudí! Lisotte, ty nariekaš za zbojníkom!
+   </tei:p>
+   <tei:p>
+    — Ona neplače za zbojníkom, ale za pekným mladým pánom, ktorého   mala rada, však Lisotte, — povedal Mathiou a odťahoval jej ruku od   tváre.
+   </tei:p>
+   <tei:p>
+    — Ty mrzký, zlý človek! — skríkla na sluhu. Hovorila zajakavo a   plačom pretrhávané:
+   </tei:p>
+   <tei:p>
+    — Nemala som ho rada, veď som sa len včera, keď som šla odtiaľto,   prvý raz s ním shovárala. Ležal so svojimi ľuďmi na čistinke pred   lesíkom Trois soeurs. Keď ma zazrel, opýtal sa ma, odkiaľ a kde idem   tak včas. Povedala som mu to a on ma pohladil po tvári, ako to i pán   biskup urobil, a som sa preto doň zamilovala?
+   </tei:p>
+   <tei:p>
+    Pán de Rosans zdvihol plecia:
+   </tei:p>
+   <tei:p>
+    — Neviem.
+   </tei:p>
+   <tei:p>
+    Lisotte vyriekla veľmi presvedčivo:
+   </tei:p>
+   <tei:p>
+    — No, nie som sa.
+   </tei:p>
+   <tei:p>
+    — Už by si ma len mala rada mať, — podotkol pán biskup   žartovne.
+   </tei:p>
+   <tei:p>
+    — Také pekné a milé oči mal! Opýtal sa ma, či som niekde nezazrela   Brissaca s jeho ľuďmi. Povedala som mu, že nie, že tí budú iste v   Kamennom lome naň číhať, aby si dal pozor.
+   </tei:p>
+   <tei:p>
+    — Veď si spáchala zradu, — skríkol Mathiou.
+   </tei:p>
+   <tei:p>
+    — Nestraš ju, vidíš, že je málo čo živá! — zahriakol ho pán de   Rosans.
+   </tei:p>
+   <tei:p>
+    — Nedbám, nech, obeste i mňa, keď vám to vešanie robí takú   radosť!
+   </tei:p>
+   <tei:p>
+    176
+   </tei:p>
+   <tei:p>
+    ﻿— Hneď si ťa obesím na krk, chceš? — spýtal sa Mathiou žartovne,   aby ju rozveselil, a vystieral ramená ku nej.
+   </tei:p>
+   <tei:p>
+    — Ty špata, za nič na svete! — zvolalo dievča a priklonilo sa k   biskupovi, ktorý sa zprvu mimovoľne odtiahol od nej; ale žatým,   pochlapiac sa, privinul ju, ako z obrany, k sebe.
+   </tei:p>
+   <tei:p>
+    Ale Lisotte vyskočila a rozčúlene rozprávala ďalej:
+   </tei:p>
+   <tei:p>
+    — Pán Hugues mi dal dukát a zasa ma pohladil —
+   </tei:p>
+   <tei:p>
+    —... a pobozkal, — zvolal Mathiou.
+   </tei:p>
+   <tei:p>
+    Lisotte skríkla hnevne:
+   </tei:p>
+   <tei:p>
+    — Pohladil po tvári a poďakoval sa mi, že sa tak bojím o nich. A   možno, že kým som zašla domov, už nežil. A koľko ráz bol tu v hrade,   robil pokánie a platil vám dukátmi, a vy ste ho teraz obesili za to!   —— i nariekala zasa. — A teraz je taký strašný na tej bráne, a ja som   sa ho tak, ale tak veľmi zľakla!
+   </tei:p>
+   <tei:p>
+    Pán de Rosans ju poučoval:
+   </tei:p>
+   <tei:p>
+    — Počuješ, Lisotte, pravda je, že Hugues zaplatil dosť    za odpusty, ale i to je pravda, že nám urobil omnoho väčšiu škodu,   keď ozbíjal ľudí, ktorí prichádzali k nám tiež pokánie činiť za svoje   hriechy.
+   </tei:p>
+   <tei:p>
+    — A tých okradol o naše peniaze, vieš ty to. Lisotte? — skočil   biskupovi Mathiou do reči.
+   </tei:p>
+   <tei:p>
+    — A to vy za peniaze odpúšťate hriechy? Tak predávate slávu   nebeskú! — zvolala zadivené Lisotte.
+   </tei:p>
+   <tei:p>
+    Biskup potriasol hlavou:
+   </tei:p>
+   <tei:p>
+    — Čo sa ti robí! Ľudia, veľkí hriešnici, hľadajú
+   </tei:p>
+   <tei:p>
+    12 Itálta.
+   </tei:p>
+   <tei:p>
+    177
+   </tei:p>
+   <tei:p>
+    ﻿poľahčenie svedomia u najvyššieho prameňa milosti, u svätého otca.   No, a keď sa im toho poľahčenia dostane pokáním a sľubmi nápravy,   složia nejakú oferu na milosrdné ciele. Veď my nemôžeme odoprieť   prijať dary, ktoré činia v prospech biednych a opustených!
+   </tei:p>
+   <tei:p>
+    — A keď sme i my sami biedni a opustení, — podotkol so strojeným   smútkom Mathiou, prevaľujúc okále.
+   </tei:p>
+   <tei:p>
+    — Nuž to úbohý pán Hugues zbíjal ľudí na ceste! Ó, ten nešťastník!   A aký bol pekný!
+   </tei:p>
+   <tei:p>
+    — Pravdaže zbíjal. Hľa, bol taký smelý, že i grófa z Armagnacu   prepadol a obral o 15.000 dukátov, za ktoré chcel vykonať, aby mu   svätý otec dovolil sobáš, — rozprával pán biskup potešený, že Lisotte   je už nie taká zronená.
+   </tei:p>
+   <tei:p>
+    — A aký to mohol byť sobáš, keď len za jeho povolenie chcel   zaplatiť ten gróf tak veľa peňazí, že by som si myslela, že ich toľko   ani v celej krajine niet?
+   </tei:p>
+   <tei:p>
+    Mathiou jej to vyložil, keď videl, že je jeho pán v rozpakoch.
+   </tei:p>
+   <tei:p>
+    — Nič na tom: len sestru si chcel vziať pre jej majetok za   ženu.
+   </tei:p>
+   <tei:p>
+    Lisotte sa zhrozila a spľasla rukami:
+   </tei:p>
+   <tei:p>
+    — Hrôza: sestru! A bol by mu to pán pápež dovolil za tie   peniaze?
+   </tei:p>
+   <tei:p>
+    — Ani reči o tom! — zvolal namrzene pán biskup. — Ale Urlemont   jednako nesmel obkradnúť pána Armagnaca o toľké peniaze. Za to, že sa   toho dopustil, rozkázal ho pán kardinál-prokurátor stíhať bez   milosrdenstva. Čo hľadal, to našiel.
+   </tei:p>
+   <tei:p>
+    Lisotte pokrútila hlavou:
+   </tei:p>
+   <tei:p>
+    178
+   </tei:p>
+   <tei:p>
+    ﻿— Pán biskup, ja myslím, že ste nemali pána Hughesa obesiť.   Pokušenie, povoliť mu ten sobáš za tých 15.000 dukátov, by bolo   bývalo jednako priveľké. Ja myslím, že môj Jehan by mu to za tie   peniaze povolil, a ja — tiež. A myslím, že i pán kardinál-prokurátor   by bol býval za to. A keby tak bol i pána pápeža nahovoril, aby   povolil? No, vidíte, a pán Hugues vás oslobodil od tohto pokušenia.   Nemali ste ho obesiť!
+   </tei:p>
+   <tei:p>
+    Toto ponímanie veci bolo také prekvapujúce, že ani pán biskup, ani   Mathiou sa nechceli s dievčaťom o ňom ďalej hádať.
+   </tei:p>
+   <tei:p>
+    — Mhm, mhm, — zamrmlal pán biskup, trochu si odkašľúc.
+   </tei:p>
+   <tei:p>
+    — No, čo je s maitre da Valdieri? — obrátil Mathiou reč na iný   predmet.
+   </tei:p>
+   <tei:p>
+    Lisotte mykla plecom:
+   </tei:p>
+   <tei:p>
+    — Čo ten! Chodí po lúkach a hájoch a sbiera byliny. I teraz som sa   s ním stretla, keď som šla sem.
+   </tei:p>
+   <tei:p>
+    — Saint Louis d’Acre! Ale ten včas vstáva! — zahromžil   Mathiou.
+   </tei:p>
+   <tei:p>
+    — Včas! Ty sa do toho nerozumieš, — poučila ho Lisotte. — To   nevieš, že sú kvety, ktoré sa musia trhať len v noci alebo včas ráno?   Však mi on to vyložil, ako je to s tými kvetmi.
+   </tei:p>
+   <tei:p>
+    Pán de Rosans sa s čudným, nezvyčajným dojatím díval na Lisotte.   Hútal, prečo jeho osud pripravil o potešenie môcť menovať svojou takú   dcéru, ako je to dievča. Ako by sa staral o ňu a akú radosť by mu   pôsobila, keby mohol vzbudzovať stále len úsmev na jej tváričke!
+   </tei:p>
+   <tei:p>
+    Pán biskup vstal nasledovné a mnohé nasle-
+   </tei:p>
+   <tei:p>
+    179
+   </tei:p>
+   <tei:p>
+    12*
+   </tei:p>
+   <tei:p>
+    ﻿dovné rána, aby sa mohol kochať vo východe slnca. Každé ráno   našiel nové krásy na tom prelestnom obraze. Začal študovať krajinu do   podrobností; ha, ten hrad, tá skupina stromov, ako menia skoro každú   chvíľu svoj vid; ako sa blyští tá zarosená lúka, keď padajú na ňu   slnečné lúče!
+   </tei:p>
+   <tei:p>
+    A Lisotte vždy prišla a vždy po polhodinovom štebotaní odniesla   svoj dukát. Rozprávala o udalostiach a kadejakých rozprávkach, ktoré   počúvala vo mlyne. A tam veru bolo hodne novín, však sa tam schádzali   ľudia z celého okolia. Len o Jehanovi nikdy ani neskukla.
+   </tei:p>
+   <tei:p>
+    Jedného dňa, keď už so tri týždne chodila do hradu, spomenula   zahanbená, že nasledovné ráno nie ona donesie múku.
+   </tei:p>
+   <tei:p>
+    — A prečo sa tak pýriš? Veď preto, že neprídeš, nemáč sa čo   hanbiť, — riekol jej pán de Rosans.
+   </tei:p>
+   <tei:p>
+    — Hľadajte chlapa! — zvolal Mathiou,
+   </tei:p>
+   <tei:p>
+    Lisotte mu vyplazila koniec jazyka:
+   </tei:p>
+   <tei:p>
+    — Ty si protivný!
+   </tei:p>
+   <tei:p>
+    — Nuž, čo je vo veci? — spýtal sa pán biskup.
+   </tei:p>
+   <tei:p>
+    — Idem zajtra do mesta, k pánu farárovi, — lepia a sklopila oči. —   Zato sa niet čo hanbiť; to je pekne od teba, — usmieval sa jej pán   biskup.
+   </tei:p>
+   <tei:p>
+    Lisotte stála rozpačito so sklopenou hlavou a tak nevidela, aké   tváre strúhal Mathiou. Zrazu sa schopila, a priskočiac k biskupovi,   chytila ho obidvoma rukami za hlavu, zohla ju k sebe, a stanúc si na   prsty, zašeptala mu:
+   </tei:p>
+   <tei:p>
+    — Ideme s Jehanom oznámiť pánu farárovi, že 1a chceme .. .
+   </tei:p>
+   <tei:p>
+    180
+   </tei:p>
+   <tei:p>
+    ﻿— Sosobášiť! — zvolal jej Mathiou, ktorý bol nepozorovane tiež   priklonil hlavu k biskupovej.
+   </tei:p>
+   <tei:p>
+    Lisotte ho ťapla šikovnou rúčkou po ústach.
+   </tei:p>
+   <tei:p>
+    — Tu máš, čo si hľadal, — a odbehla tak zručne, že kým sa biskup   so sluhom schápali, sedela už na mulici a utekala záhradou k   východu.
+   </tei:p>
+   <tei:p>
+    Nasledujúceho dňa pán de Rosans vstal včas ráno a vyzeral na   vychádzajúce slnce a hlboko vdychoval čerstvý raňajší vzduch. Už boli   dosť dlho vonku, keď počuli cengot zvončeka mulice. Zďaleka videli,   že na nej sediaca postava je nie Lisotte. Keď došla tak blízko, že   bolo možno s ňou hovoriť, videli, že múku doniesla stará, shúžvená   babka.
+   </tei:p>
+   <tei:p>
+    — Brr, — zvolal Mathiou, — to je akási starodávna verná panna!
+   </tei:p>
+   <tei:p>
+    — Kto si ty, dievka moja? — spýtal sa biskup starej osoby.
+   </tei:p>
+   <tei:p>
+    — Ja som Uršule z dolného mlyna. Poslali ma namiesto Lisotte, —   šušlala babka bezzubými ústami.
+   </tei:p>
+   <tei:p>
+    — A ty si panna? — opýtal sa jej Mathiou. — Lebo len keď panna, a   to verná panna, donesie múku, osoží ona svätému otcovi.
+   </tei:p>
+   <tei:p>
+    Babka sliezla s mulice a pristúpila celkom pred biskupa. Bola   shrbená, jedno plece mala hodne vyššie ako druhé, a tvár mala   porafanú čiernymi sypanicami: vĺčka očú spotvorené, nos širokou   jazvou na ľavú stranu tváre pretiahnutý. Nuž, bola veľmi ohyzdná!
+   </tei:p>
+   <tei:p>
+    — Vo svojom desiatom roku som ochorela a od tých čias som   takáto.
+   </tei:p>
+   <tei:p>
+    — A koľko máš teraz rokov? — spýtal sa thiou. — Sto?
+   </tei:p>
+   <tei:p>
+    181
+   </tei:p>
+   <tei:p>
+    ﻿-—• Nie, len tridsaťšesť.
+   </tei:p>
+   <tei:p>
+    — Me Hercle! — zvolal prekvapene biskup. — Bol by som skorej   uveril, že sto.
+   </tei:p>
+   <tei:p>
+    — No, ja ti veru verím, že si vernou pannou, — podotkol Mathiou. —   Však by teba nebozkal ani sám Lucifer.
+   </tei:p>
+   <tei:p>
+    — A čo ti príde za múku? — spýtal sa pán de Rosans.
+   </tei:p>
+   <tei:p>
+    — Nuž veď dukát dávate za to vrecko, — riekla Uršule a sňala ho s   mulice.
+   </tei:p>
+   <tei:p>
+    — Nedaj sa vysmiať; pol livra ti je dosť a dosť, ty stará   ježibaba, — zvolal Mathiou s opovržlivým posunkom.
+   </tei:p>
+   <tei:p>
+    Biskup mu dal livre;
+   </tei:p>
+   <tei:p>
+    — Daj jej, — obrátil sa a odišiel do izieb.
+   </tei:p>
+   <tei:p>
+    Dva-tri dni vstávali pán de Rosans a Mathiou včas a prežívali   slnečný východ. Ale Lisotte nechodila. Biskup rozkázal iným sluhom,   aby odobrali múku od Uršule, takže ju vôbec ani nevidel. Dozvedel sa   však od nej, že Lisotte už viac nepríde.
+   </tei:p>
+   <tei:p>
+    Ešte deň-dva vstal ráno, hoci Mathiou odporoval, ale vždy   neskoršie. Napokon jedného dňa nechcel vstať, keď už dosť neskoro   vošiel Mathiou k nemu.
+   </tei:p>
+   <tei:p>
+    Biskup sa robil, že spí, a keď sluha robil buchot v izbe, aby ho   zobudil, chrápal o dušu spasenú.
+   </tei:p>
+   <tei:p>
+    Mathiou sa zasmial veľmi hlasito a veľmi posmešne, a vyšiel si   tiež ľahnúť do svojej komôrky. Biskup, zostanúc sám, roztvoril oči   naširoko a rozmýšľal:
+   </tei:p>
+   <tei:p>
+    „Východ slnca je krásny, ale jednako je ho dosť vidieť človeku   raz, dva razy. Nevstával som
+   </tei:p>
+   <tei:p>
+    182
+   </tei:p>
+   <tei:p>
+    ﻿preň, ale pre to premilé dievčatko, ktoré má také živé čierne oči   a taký sladký, štebotavý pyštek.“
+   </tei:p>
+   <tei:p>
+    I vzdychol si:
+   </tei:p>
+   <tei:p>
+    „Tomu dieťaťu kvôli by som bol vstával i po celý život, hocako   včas ráno. A jednako, hoc je pekné, čo je jeho krása v porovnaní s   krásou východu slnca, pre ktorú sa mi nechce vstať. Sto ráz mi je   milší úsmev toho dievčaťa ako všetka krása zeme i so slncom i s   hviezdami.“
+   </tei:p>
+   <tei:p>
+    Pán de Rosans si vložil ruky na tvár a vzdychol:
+   </tei:p>
+   <tei:p>
+    „Hreším, hreším! Pokúša sa o mňa diabol. Rúham sa Bohu, keď skvelú   krásu jeho tvorby opovrhujem pre jedného takého chrobáčika, ako je to   dievča. Však mi je azda nie prirastené k srdcu hriešnou túžbou? Pane   Bože, neuvádzaj ma do pokušenia! Vstával som pre dievča a luhal som,   že ma vábi východ slnca. Mathiou mal pravdu.
+   </tei:p>
+   <tei:p>
+    Musím sa kajať. Pôjdem k samému svätému otcovi a vyspovedám sa   mu.“
+   </tei:p>
+   <tei:p>
+    I šiel v ten istý deň k svätému otcovi Benediktovi XII. Bol to už   starý človek a veľmi múdry, a to preto, lebo bol starý a sveta   skúsený, a že bol pápežom. A pápež musí byť múdry, keďže je pravda   porekadlo, že komu Pán Boh dá úrad, tomu dá i rozum, a to rozum   primeraný úradu. Najvyšší úrad na svete je pápežský, a tak musí byť i   pápežský rozum najväčší.
+   </tei:p>
+   <tei:p>
+    Biskup André de Rosans si kľakol k nohám svätého otca a spovedal   sa skrúšene, že zhrešil opovrhovaním tvorby božskej, keďže sa mu   omnoho lepšie videlo jednoduché dievčatko, ako krásny provensálsky   kraj pri východe slnca. Rozprával všetko úprimne, a svätý otec sa   zavše usmial pri jeho
+   </tei:p>
+   <tei:p>
+    183
+   </tei:p>
+   <tei:p>
+    ﻿spovedi: hľa, ako mu odjedávaly najlepšie lahôdky a o koľko   múdrejší bol sluha Mathiou.
+   </tei:p>
+   <tei:p>
+    Keď skončil, spýtal sa ho:
+   </tei:p>
+   <tei:p>
+    — Nuž a povedz mi, syn môj, či si nezhrešil proti niektorému z   desiatich božích prikázaní, najmä nie proti tomu, ktoré nám zakazuje   zneuctievať ženské, lebo však sú ony matkami ľudského pokolenia?   Nezhrešil si proti nemu ani myšlienkou, ani túžbou?
+   </tei:p>
+   <tei:p>
+    Pán biskup pozrel s úprimným pohľadom do múdrych očú svätého otca,   a odvetil, že nie. Zdalo sa mu, že sa mu videla len neskazená   prirodzenosť a dobrota srdca dievčaťa.
+   </tei:p>
+   <tei:p>
+    — Tak nemáš hriechu! Lebo však je krásne dievča vo svojej   nevinnosti a čistote práve takým stvorením Všemohúceho, ako   najpeknejší kraj i pri najzázračnejšom východe slnca. I jedno, i   druhé je tvorbou najväčšej dobroty Boha, a stvorené, aby sme mali z   nich radosť a potešenie. Tak choď, syn môj, v pokoji, a Boh budiž s   tebou.
+   </tei:p>
+   <tei:p>
+    I požehnal ho a prepustil dobrotivé.
+   </tei:p>
+   <tei:p>
+    Pán biskup vstal a pobozkal s pravou pokorou ducha kríž na   črievici svätého otca, a odišiel.
+   </tei:p>
+   <tei:p>
+    Ale keď kráčal popred hradný kostol, vošiel doň, a kľaknúc pred   oltár, modlil sa dlho a skrúšene. Umienil si aj to, že sa bude celý   rok tri razy týždenne prísne postiť. (Čo na to povie Mathiou?)
+   </tei:p>
+   <tei:p>
+    Pán de Rosans nebol si celkom istý, že je ozaj taký nevinný, ako   bol uistil svätého otca: lebo kto je istý svojej nevinnosti, keď mu   oči krásneho dievčaťa pomútia rozum?
+   </tei:p>
+   <tei:p>
+    184
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

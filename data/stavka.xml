@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944765" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Stávka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1684
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿Stávka
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     STÁVKA
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Statkári Dubovič a Holinský zabíjali čas najtrápnejším spôsobom v   záhrade kúpeľného hotela. Nebolo tam okrem nich v tie časy nikoho.   Bolo na tretiu popoludní, keď i trenírovanému človeku síde na um, že   by bolo dobre si zdriemnuť, keď už niekoľko nocí nespal. Nudili sa   zúfale. Dubovič balansoval paličkou na prste a díval sa na jej vrch,   otvoriac pritom ústa dokorán, a Holinský robil guľky z chleba,   ktorými triafal Dubovičovi do úst. — Ak mi trafíš do úst, budeš sa   musieť so mnou strieľať, to ti hovorím popredku, aby si sa potom   nežaloval, keď ti vystrelím dieru do brucha. — Pozri, kura, — zvolal   Holinský a ukazoval na vtáka, zobúceho medzi stolmi. Guľky hádzal   potom kure, mysliac si, že sa tá nebude tak chytro s ním strieľať ako   Dubovič, ktorý by bol schopný duelovať sa už aj len preto, aby sa mu   čas minul. Dubovič sa rezko obrátil, ako by šlo o zriedka viditeľný   zjav. — Kura, bohuprisám, kura, — zvolal. — Ba že sa ešte pamätáš,   ako vyzerá také zviera. Beztoho nemáš lepšiu pamäť ako ona. Holinský   urobil opovržlivú grimasu a zasmial sa vyzývavo. — Ty to hovoríš, ty!   Keď sa ťa druhý deň po lumpačke opytoval župan, kto všetko lumpoval u   Mayera, nevedel si to vyrátať, hoci sme tam boli len štyria. — Haló,   haló, — skričal Dubovič a kýval rukou
+   </tei:p>
+   <tei:p>
+    10 Kozinský mlyn
+   </tei:p>
+   <tei:p>
+    145
+   </tei:p>
+   <tei:p>
+    ﻿na pána, prechádzajúceho záhradou. — Sem sa, sem, doktor. Sme tu   dvaja ťažko nemocní. Poď sem, honorár ti hneď vyplatíme v podobe   vína, koňaku a iných dobrých vecí. Vysoký, chudý doktor pristúpil k   nim a podal im ruku. Doktor mal falošnú, vždy sa usmievajúcu tvár, na   ktorej sa koža sbiehala v drobných rančoch, najmä okolo očú. Smial sa   s neprimeranou vehemenciou na každom najbiednejšom vtipe, keď to   popustil „pán“. — Čože vy tu naháňate včerajší deň, — podotkol   doktor. Holinský ho stiahol za ruku na stolicu a nalial mu vína. —   Pozri, tento človek tuná má pamäť ani kura. Nevedel ani to, s kým   lumpoval celú minulú noc. Boli sme štyria, a nevedel tých štyroch   vyrátať ani za svet. Dubovič hodil rukou. — Nuž, pravdu má, seba som   zabudol. Nechcelo a nechcelo mi na um sísť, že ja som bol štvrtý. To   sa sláva. Doktor sa smial, že ho nebolo možno utíšiť. Holinský   poznamenal, že sa to stáva, keď človek cíti balónovitú neobfaženosť v   hlave. Dubovič udrel doktora po chrbte a Holinskému odvetil: — Myslíš   prázdnotu. Viem, poznám tvoje ľudomilné smýšľanie. Aby som ti   dokázal, že tvoja hlava predstavuje to najabsolútnejšie, fyzické   vákuum, tak sa stavím s tebou o tisíc korún slovenských, že ani na to   sa nepamätáš, čo si dnes na obed jedol. Čo povieš na to? Holinský   vytrčil ruku: — Gemacht! Von tisíc korún. Deponuj ich u doktora. Ale   poznamenávam, že sa staviam bez každého úskoku a vykrú-
+   </tei:p>
+   <tei:p>
+    146
+   </tei:p>
+   <tei:p>
+    ﻿cania. Ja som jedol dnes na obed u Mayera v Dubnici pstruha a   roštenku. Ak je to pravda, zaplatíš mi ty 1000 Ks, ak nie, zaplatím   ti ja tisíc Ks. Stojí? Dubovič kývol hlavou a povedal: — Stojí. —   Zároveň vybral tisícku z tobolky a hodil ju doktorovi, ktorý sa na   neho zadiveno díval. — Ty, človeče, majže rozum; to iste prehráš. Veď   to je úplne nemožné, aby sa na to nepamätal, čo jedol pred dvoma   hodinami. Dubovič mrdol opovržlivé plecom: — Ty toho človeka   nepoznáš. Holinský, vylož 1000 Ks! — Holinský vytiahol tiež tisícku,   ktorú doktor tiež prevzal. — Dobre, deti moje, ale kto ustáli, či je   to pravda, či nie, čo povedal Holinský? Holinský zvolal: — Nič   ľahšieho. Mayer sám mi ponúkol, ba osobne doniesol i pstruhy, i   roštenku; je teda vylúčené, že by sa nepamätal, čo som jedol. On   rozhodne, bez apeláty. Telegrafuj mu, a čo odpovie, to uznáme za   pravdu. Prijímate? — Dubovič pristal a doktor šiel telegrafovať.   Poslal telegram expres a zaplatil i za expres odpoveď. Mayer sedel v   kaviarni pri svojej statočnej každodennej práci: hral sa mariáš s   hosťami, keď mu doniesli telegram. Práve v tú chvíľu nemal najlepšie   karty, ale predsa najprv prišil Steinerovi jednu zúfalú kontru len   preto, lebo Steiner mu bol s veľkým posmechom šibol jednu dobrú.   Steiner pre hrubú chybu, v jede spáchanú, hru prehral a Mayer s   kibicmi robil si z neho neslýchaný posmech. Steiner by bol vďačne   videl vtedy Mayera obeseného. — So ein Gauner! Mayer otvoril   telegram, rehliac sa.
+   </tei:p>
+   <tei:p>
+    10*
+   </tei:p>
+   <tei:p>
+    147
+   </tei:p>
+   <tei:p>
+    ﻿— Gott, der Gerechte! — zvolal naraz. — Čo sa to stalo? — kričali   hráči, a Steiner mu vytrhol telegram z ruky a prečítal ho slastne:   „Čo obedoval dnes u vás statkár Holinský? Dr. Krivozub.“ — Iste si ho   otrávil nejakou gebuzinou. Konečne sa predsa dostaneš do Ilavy, kde   si už dávno mal sedieť, — zvolal pomstivý Steiner. — Aké si mu to dal   cyankáli? — Pstruhy jedol, — poznamenal zajakavo a slabým hlasom   Mayer. Potom zakričal s divým hnevom. — Ja tú ženu zabijem. Bože, do   akej šlamastiky ma tá baba doniesla. Ale ja nedbám, nech ju zavrú,   nech sedí! — No, tie pstrúžiky malý aspoň týždeň, — mieni apatekár,   podľa špatného zvyku apatekárov robiac si posmech zo svojich   bližných. Apatekári sú totižto privyknutí na vzájomné nadávanie a   posmechy stále sa hašteriacich lekárov, a pochytajúc od nich-vtipné,   vo väčšine ešte oprávnené poznámky, upotrebia ich oproti ináč celkom   nevinnému obecenstvu. Steiner pokrútil hlavou: — Týždeň tie ryhy   nemalý. Aby dal Mayer týždňové ryby hosťovi, na to je prizbabelý. Ale   dobrých šesť i pol dňa malý, a to stačí, aby sa v rybe najstrašnejšie   jedy vyvinuly. Bože milosrdný, už ho vidím, ako ho vedú četníci   poputnaného. Že Holinský zomrie, to je isté; ak už nie je mŕtvy! —   Nech ťa šliak trafí na tvoje naradenie! — zvolal Mayer a odbehol s   telegramom k žene. — Sáli, aké staré boly tie ryby, čo som dal dnes   na obed Holinskému? Nešťastie sa stalo, strašné nešťastie! Ochorel,   čo bude s nami! Ty každé sviň-
+   </tei:p>
+   <tei:p>
+    148
+   </tei:p>
+   <tei:p>
+    ﻿8tvo dáš hosťom, a teraz tu máš! — i hodil jej telegram. Sáli ho   vzala tiež s trasúcimi sa rukami. — Ný, pstruhy malý len päť dní a   boly v ľadovni. Boly ešte celkom dobré, len trochu posmrdkávaly, ináč   boly ako čerstvé. Neboj sa, — potešovala Sáli seba a muža. — Čo máme   urobiť, čo mu telegrafovať? Hovor, hovor, ty nešťastná osoba, —   kričal Mayer, netrpezlivo preskakujúc s nohy na nohu. — Čo mu máš   telegrafovať? Ty si len sprostý, maj rozum a choď ku strýkovi   Gelbsteinovi, ten ti povie, čo máš robiť. Mayer prebehol ku strýkovi.   Starý, ten bradáč, požívajúci celkom bezzákladne v rodine renomé, že   je ukrutne múdry, sedel pred domom na lavičke a fajčil z dlhej fajky.   Mayer mu rozpovedal, o čo ide. — No, čo budeš robiť? Môžeš sa   priznať? Nemôžeš sa priznať. Nech ti dokážu, že si mu dal zlú rybu.   Vždy je lepšie, keď sa nepriznáš, možno, že ti nedokážu, že si ho   otrávil, keď budeš tajiť. Keď sa priznáš, si hotový. Telegrafuj mu:   len chudú hovädzinu s chrenom. Nezabudni napísať: s chrenom. To   vyzerá lepšie a robí i tvojmu hotelu lepší chýr, ako by si napísal   len hovädzinu bez chrenu. Choď, syn môj! A na telegram sa nepodpíš.   Pán Boh zachovaj! A nezabudni na chren! Dubovič sa so svojimi druhmi   zabával ďalej. Bolo im teraz veselšie, lebo doktor sa i na najstaršej   anekdote smial ani najatý a Dubovič ich vedel hrôzu. Doktor sa už   toľko smial, že sa začal báť, že ho preto musí nejaká nehoda stihnúť,   i vstal ko-
+   </tei:p>
+   <tei:p>
+    149
+   </tei:p>
+   <tei:p>
+    ﻿nečne, aby sa šiel podívať domov, či neprišla už odpoveď na jeho   telegram. Doktorova pani bola veľmi šumná, pevná, trochu moletná   pani, ktorá, iste súdiac podľa seba, mala len tú chybu, že veľmi   pochybovala o manželskej vernosti svojho muža. Doktor vošiel do bytu   a pani Irena predstúpila pred neho sťa bohyňa zášti: oči sa jej len   tak blýskaly. V jednej ruke držala telegram a druhou, pevnou ťapkou,   mu bez ultimáta strelila na každé líce po zauchu. — Ty lump, ty   nádoba nemravnosti, čo si ty myslíš, že ma ty takto môžeš klamať? Aký   je to naničhodný nadháňač, čo ti telegrafuje, že má pre teba len   chudú hovädzinu s chrenom! Ty, ty, klamár, ty skaza! S chrenom! Ja   tebe dám chrenu. A toho tvojho liferanta ja tiež naučím. Neboj sa, ja   ho vystopujem, čo bude popod holé neho lietať. Tak chudá hovädzina s   chrenom ti nechutí, ty lump! — Ale, Irulka drahá, nerobže hlúposti,   tebe sa sníva! — zvolal doktor, šúchajúc si líca, hnevajúc a smejúc   sa zároveň. Vyrozprával jej celú vec a ukázal na dôkaz i tisícky. —   Vieš, že ja tisícky nikdy nemám, lebo mi ty vždy všetky peniaze   zobériéš. Ale to je podarená vec: ten zbojník Mayer sa iste zľakol,   že Holinský od jeho rýb ochorel, a teraz cigáni. A Holinský tak   prehral tisícku. Podarený kúsok! Doktor prešiel s telegramom do   hotela a kričal už zďaleka: — Holinský prehral. Mayer telegrafuje, že   jedol len chudú hovädzinu s chrenom, hahahahá, a ja
+   </tei:p>
+   <tei:p>
+    150
+   </tei:p>
+   <tei:p>
+    ﻿som pre tú mizernú hovädzinu dostal dve zauchá od ženy! Všetci   traja sa smiali a, podivným spôsobom, Holinský najväčšmi. — Nuž je to   škandál, skutočný škandál! Dubovič, vyhral si. Nikdy ťa už nebudem   prekárať, že máš zlú pamäť, nikdy! Doktor, daj mu tie dve tisícky,   nech si ich má. Dubovič ich bez starosti strčil do vrecka vo veste.   Myslel si: nehodno do toboľky dávať na taký krátky čas. Doktor sa   zadíval na Holinského. — Ty, Dubovič, pozri na Holinského, čo robí!   To nie je smiech človeka, prehravšieho stávku, to je posmešný,   víťazoslávny, opovržlivý smiech nejakého Mefista. — Pozriže ty tie   tisícky, čítal som v novinách, že medzi tisíckami šerie D je mnoho   falošných. Dubovič sa podíval na tisícky, jedna z nich bola očividne   falošná. No ja! Pravdaže sa hádali: Hádka sa skončila tým, že šli k   doktorovi na večeru. Doktor sa veľmi chytro opil a šiel spať. Pani   Irena sa zabávala s pánmi skoro dó bieleho rána. Podivným spôsobom,   pani Irena nemohla odvtedy na Duboviča ani pozrieť. Po zábave si šla   kúpiť veľmi krásny parížsky „model“ klobúk, ktorý ju už od niekoľko   dní dráždil. Pri platení bola veľmi nepríjemne prekvapená, keď jej   obchodníčka, Češka, vrátila tisícku, že je vraj „falošná“. — Jsou teď   špatný časy, milostpani, špatný, veru!
+   </tei:p>
+   <tei:p>
+    151
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

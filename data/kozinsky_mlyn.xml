@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194424" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿﻿Kozinský mlyn : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3792
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      ﻿﻿Kozinský mlyn
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KOZINSKÝ MLYN
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Pavo Rázvora rozprával na salaši večer pri ohníku takto: — Dietky   božie, čo na kraj sveta pôjdete, nenájdete takého chlapa, ako je Adam   Kvak, mlynár v Kozinskej. Ten vám má hlavu ako sito, brucho ani vahan   a obyčajnému chlapovi by siahal iba po pupok. Okále má ako toliare a   ústa, že by kapustnú hlavu — čo menšiu — ľahučko, jedným sekom   prehrýzol. Taký je to chlapík ten Adam. Ale zato vždy v belasých   mlynárskych šatách chodí a i v lete má kapce obuté. Veru tak. Nebojí   sa ten nikoho. Iba ak jeho žena Zuza, tá urobí s ním poriadok. Tá mu,   keď treba, takých niekoľko zaúch vylepí, že sa to na jeho hrinte až v   susednej dedine ozýva. Nuž Zuzy sa bojí, čo je pravda, to je pravda.   Adam je statočný mlynár. Nemá ani o mačný máčik menšiu meričku ako   iní mlynári, a Zuza, ako dobrá gazdiná, z dobrej noše tiež radšej   vezme i do tretice, ako by len raz mala vziať. Detí im Pán Boh   nepožehnal a ani cudzie nemajú radi, najmä Adam nie. A viete, prečo   sa tak namrzel na tie neviniatka? Nuž prišla Otrubuľa s malým deckom   na prsiach do mlyna a akýmsi činom posadila malého Miška do   mlynárovej čiapky na stole. Čapurda bola taká, že by vari aj ročného   chlapca ukolísal v nej. Nuž viete, stalo sa, čo sa s takými   čeľadníkmi ľahko prihodí. Dieťa ako dieťa: spôsobu nemá.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿No, čo vyčíňal Adam, to vám bolo hodno pozerať! Keby ho Zuza   nebola skrotila a do mlynskej komory zavrela, ten by bol toho mrzko   našarapatil. Iba hodne neskoršie, keď už hundrúc prosil: „No, Zuza,   veď ma už pusť,“ vypustila ho ako psíka z chlieva. Ale veru stála s   omelom pri dverách, ak by ho bolo treba. Ako viete, kozinský mlyn   stojí medzi horami na lúke. Pekne je tam v lete. V zime nech Boh   chráni! Duní ti vetrisko, víchor, len tak človeku srdce stíska. Na   dostrel od mlyna stála vysoká a hrubá borovica, že by ju chlap sotva   rukami obopäl. Čo sa do tej borovice hromov napáralo, to vám bol   zázrak! Ale aj vyzerala ako staré brezové metlisko. Raz — ani búrky   nebolo — sa blyslo, hrom zarapčal, a pác! milú borovicu vyvrátilo i s   koreňmi! Mlyn a lúka sú obecné, a tak aj borovica patrila obci.   Lenže, ktože ti takú borovicu kúpi, na ktorej čerti od rokov svoje   tance vydržiavali? Ktože by z nej len dosku do domu vzal? Veru   poctivá kresťanská duša nie. Pri najbližšej búrke ju hrom   istoistučičko nájde a rozhádže ti; keby len dosku, ale celú chalúpku.   Takého hosťa si nikto do domu nežiadal. Juro Macko, legionár, a Ondro   Haluška, Amerikán, večer pri ktoromsi tom poháriku sa chlapili, a to   tým väčšmi, čím horlivejšie iní chlapi hlavami krútili, že oni tú   borovicu zajtrajším dňom kúpia. Ale ráno Juro vonkoncom nemohol nájsť   návlakov do krpcov (že mu ich vraj Mara prekryla). A kdeže ti   legionár môže bosý ťapošiť po obci. Ondrovi, vraj, zasa krava náramne   ochorela, nuž musel tú ratovať. I veru vám táto borovica len zasa   zostala bez kupca.
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿Bol to s ňou trest, a to tým horší, že ležala krížom cez lúku, a   tak bol aj prístup do mlyna, najmä vozmo, veľmi obťažený Čo si tu   počať? Dobrá rada stojí groš. Richtár Ondro Krška, múdra to hlava,   oj, múdra, pohol rozumom a zaratoval obec, ako sa aj patrí. Zavolal   Adama do výboru a vyniesol mu takýto rozsudok: — Ty, Adam, mlynár náš   kozinský, musíš tú borovicu zpred mlyna odpratať. Darúvame ti ju.   Môžeš s ňou urobiť, čo chceš, ale ju akýmkoľvek činom odprac. Ak ju   neodpraceš, vyhodíme ťa aj z mlyna! No, bude, či nebude? Celý výbor   ukrutečným spôsobom chválil richtára. Darmo je, čo rozum, to rozum.   Ale Adam len drgol plecom a zafufnal, lebo fufne tak, že ním deti   strašia: — Poručeno Pánu Bohu, pôjdem z mlyna ďalej. Veď mlynom ešte   mater neumrela. A mne je toho vášho mlyna už beztak potadiaľto.   (Ukazoval po krk.) Žijem tam ako vlk, čochvíľa budem aj zavýjať. Do   dediny (myslel do krčmy) hodina chôdze. Nechcem! Drmol čapurdou na   hlave a poberal sa von. — Ja, to tak nejde. — Richtár húkol na   hajtmanov: — Hnopf! Držte ho, chlapci! — A hajtmani, Vojvoda a   Genšov, chytili milého Adama ako do šrófov. Celý výbor ustálil teraz,   že richtár je sprostý ako peň. Ako by aj nie! Ktože by na takú   borovicu siahol, a čo by bola aj sto ráz zadarmo. Veď, hľa, leží už   odkedy, a keby sa jej Kozinčania nebáli, boli by ju už dávno v   tichosti rozkradli!
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿— Ticho, — zareval zasa richtár a tresol päsťou po stole, — čušte!   Keď sa trochu utíšilo, zapukal si zo zapekačky a riekol: — Adam,   dostaneš liter rumu, keď tú borovicu odpraceš. Adam drgol plecom a   ani necekol. Zasa sa ozval richtárov hlas: — Adam, dostaneš jeden   liter rumu, keď tú borovicu odpraceš. Adam krátko zafufnal: —   Nechcem. Teraz už richtár zareval ani na býka: — Sto striel sa ti do   matere páralo, tri litre rumu ti len bude dosť. Ty gágorisko   rozputnené, ty! Adam teraz zmäkol a zahundral: — A tri kilá slaniny!   Pristali aj na troch kilách slaniny. Myslíte, že závideli Adamovi?   Ani reči. A ani Adam sa priveľmi tej veci neradoval. Prišiel pred   borovicu a obchádzal ju ako nejakú mrcinu. „Čo si len počnem s ňou,   ja biedny človek?“ I huplo mu do hlavy: „Ľaľa, tuto je z kmeňa hodný   kus nepoštiepaný. Z toho by boly znamenité dosky. Ale čože urobíš z   tých dosák? Nuž truhlu (rakvu), človiečku biedny, truhlu. Ale ktože   ti takú truhlu kúpi? Veď nik nechce, aby čo aj po smrti hromy doň   trieskaly.“ Že by tú truhlu pre seba urobil, to mu ani na um nesišlo.   „Ale hop! bude to truhla pre Zuzu, komótna, teplá, a nepremokne. Bude   jej v nej ani v sláve nebeskej!“ Ešte si podskočil a čiapku do krku   zasotil. „Hej, veru jej tam bude dobre!“
+   </tei:p>
+   <tei:p>
+    12
+   </tei:p>
+   <tei:p>
+    ﻿Keby bol býval Adam múdry človek, nebol by Zuze o celej veci nič   hovoril. Nuž ale blázon, vyfrflal, čo chce urobiť. Myslel si, bohvie,   ako ho Zuza pochváli. Zuza povedala, že ona nechce, aby ju, čo i po   smrti, hrom bil. Že keď má niekoho ohlušiť, aby to bol Adam. — A   potom, ty lagan, ty zákrt, ty vydriduch, čože by si sa ma už chcel   striasť? Chudák Adam má veFkú hlavu, ale mu ešte raz taká narástla od   toho, čo sa mal napočúvať. Veci stály na rázcestí, keď prišiel   poobede richtár s hajtmanom, ktorý v košíku doniesol rum a slaninu.   Teraz už bolo všetko vykrúcanie daromné. Vykoštovala sa jedna fFaša   rumu a strovilo sa kilo slaniny. Adam hľadel smelšie do budúcnosti.   Richtár veľmi chválil jeho úmysel, že truhlu spraví pre Zuzu, lebo   jej z duše doprial ktorýsi ten hrom, čo aj po smrti. Takto ju hľadel   uspokojiť tým, že pri pohrebe pán farár truhlu pokropí a požehná, a   to je vraj v takých prípadoch osožnejšie ako najlepší hromosvod. Zuza   zasa myslela, že keď je to také isté, že by to richtár mohol   vyprobovať prvý. Pre ňu aj za živa. Konečne sa o veci dohodli. Bolo   dobre pre richtára, že doviedol so sebou toho hajtmana, lebo by bol   najskôr v rázštubni pri kolese nocoval bez neho. Druhý deň sa Adam s   dvoma Cigánmi prichytil do borovice, aj ju rúče rozpílili, pokálali   na siaho-
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿vicu a jeden klát na pílu odviezli. Siahovicu Adam dobre predal   Židovi „Zamrvankovi“, do ktorej skutočne hrom udrel, lenže nie takým   spôsobom, ako by ste si to mysleli. Z kláta vyšlo šesť dosák,   krásnych ako hodváb. Adam urobil pre ne, obďaleč od mlyna, striešku a   uložil ich pod ňou, aby vyschly. V jeseni Zuza prala na primrznutom   potoku. I veru ochorela: omrštela, kašeľ ju hrtmanil, dych lapala,   bol by jej dušu vlasom zapchal. Pila lipový kvet, pľúcovník a čo už   staré baby vedia poradiť. To akosi všetko nič nepomáhalo, i zavolal   Adam múdru babu Majduľu z Havranej, aby tá poradila. Majduľa prišla s   batôžkom kadejakého haraburdia, vyhnala Adama z izby a rozložila   svoje krámy: byliny, kostičky, skalky, handričky a strapčeky papiera   na prikrytom stole a potom už vyčíňala svoje zázraky. Chodila okolo   stola, dvíhala skalky, kosti, krútila ich v povetrí, krčila sa a   ustavične hundrala čosi. Vzala zelinu a tou robila kruhy okolo Zuzy,   ktorá sa vyjaveno dívala na ňu a potila sa od strachu, že cícerkom   tieklo s nej. Potom sa pustila do Zuzy a namastila ju tak, že jej   mala dušu z tela vypučiť. Zuza len achkala a stenala; kričať sa   neopovážila. Napokon zobrala zasa svoje haraburdy do handry a pýtala   sa, kde je Adam. Adam počúval za dverami, i vošiel dosť skrúšeno,   ešte aj čiapku strhol s hlavy. Pýtal sa veštice, čo to bude s tou   Zuzou. Veštica povedala, že je v zlej moci, ale že je tá zlá moc, ako   by si nechtom zaškrabol, už naštrbená. A najtiaž len naštrbiť, teraz   už dobrá moc bude mať kadiaľ vniknúť do nej.
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    ﻿Ináč že bude, ako Pán Boh, najsvätejšia Panna Mária a archanjel   Michal usúdia. Adam z tohto zostal taký múdry, ako bol, a pýtal sa   jej, čo chce za svoju prácu. Majduľa pozrela na neho prísno a   odvrkla, že či nevie, že ju len Pán Boh zaplatí. Ale že merička múky   by sa jej zišla, i vytiahla mierové vrece. Adam jej povedal, aby šla   za ním na mlynicu. Baba šla. Adam i zlej múky slabo dával. Baba ho   obšívala jazykom. Adam chytil babu za krk a vyhodil ju, že sa tak   rozčapila ako žaba. Ešte sa nesosbierala, keď vyletel za ňou aj jej   batôžtek, ktorý sa jej búšil do chrbta a rozsypal. Môžete si   pomyslieť, čo vyčíňala Majduľa pred mlynom. Yyprískala všetky Adamove   hriechy a nenechala na ňom dobrého vláska. Jaj, ako ho tá čistila! I   Zuzu odsúdila na smrť. — Skape, skape, a ty hrtman, ty anciáš, i ty s   ňou! Adam sa akosi neľakal, že by Zuza umrela. Ako dobrý kresťan   oddal sa do vôle božej. „Ale tú truhlu jej už musím spraviť, aby bola   naporúdzi.“ I začal vám tú truhlu robiť, ale len tak, že kde robil,   kde nie. Keď Zuza väčšmi stenala, robil, keď sa zdalo, že jej je   lepšie, nechal tak: odišla mu vôľa. Myslel si: „Ani čert jej nebude.“   V tom čase prišiel aj do mesta čosi kupovať. A vari to bol papierový   zlatý kríž a zlaté čipky na tú truhlu. Akiste to bolo. Keď už bol v   meste, vošiel aj k doktorovi, lebo mu Pavo Jurákovie povedal, že   darmo je, môže sa hovoriť, čo chce, ale že aj doktor dakedy — zriedka   — ale predsa len dakedy pomôže.
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿Doktor sa Adama spytoval, čo je Zuze. Adam mu povedal, že je   celkom-celučičkým, od päty po hlavu chorá do skapú. Nespí, neje,   leží, stene, kašle. Bolí ju všetko. Nahovoril doktorovi toľko, že mu   bolo na desať chorôb dosť. Pýtal medicínu najmocnejšiu, proti   najtuhšej chorobe. — A ak by nevydržala tú medicínu? — pýtal sa   doktor. — Nuž tak poručeno Pánu Bohu, nech sa netrápi, — riekol Adam.   Doktor povedal Adamovi, že je napitý ani kanón, aby prišiel zajtra,   keď bude triezvy. Adam bol doťahaný, darmo tajiť. Kdeže, v meste byť,   a ani si nevypiť. Vošiel ešte na skusy k apatekárovi, ak by mu on dal   nejakú medicínu pre Zuzu. Apatekár si mnoho hlavu nelámal, namiešal   akýchsi prachov a oddal Adamovi za drahé peniaze. Keď prišiel Adam   domov, vyrozprával žene, čo sa pre ňu nachodil, a omaľoval doktora. —   A ktorý to bol, ten vysoký s okuliarmi? — pýtala sa Zuza. — Ten, ten,   ten. To je kôň a trúba. Ten len posmech robí z človeka. Ani   zdochnutého koňa by mu nedal odrieť. Zuze potom dal užiť naraz dva či   tri z tých práškov, lebo boly malé, a on jej doprial. — Uži, Zuza,   nech sa míňajú, keď som ich zaplatil. Zuze od práškov v ušiach   hučalo, hlava sa jej krútila a počula anjelov spievať. Celú noc tak   šarapatila, že sa Adam ráno s celou chuťou pustil do tej truhly.   „Teraz je už po nej,“ fufnal Adam a hobľoval dosky, že sa mu len tak   kečka parila.
+   </tei:p>
+   <tei:p>
+    16
+   </tei:p>
+   <tei:p>
+    ﻿Lenže Zuza mala tiež svoj rozum a nechcela viac ani zavoňať z tých   práškov. V dedine jej duchovnej kmotre ochorelo 5-ročné dievča, nuž   tomu poslala tie prášky. Nech sú mu na úžitok. Na šťastie ich užil   otec dieťaťa. Boly mu sladké, nuž vysypal si všetky naraz na dlaň a   preglgol. Drichmal vraj potom so tri dni a tri noci. Katra, jeho   žena, hovorila, že nikdy nebolo takého pokoja v dome ako vtedy. Na   jar sa Zuza vykrochala z choroby, práve vtedy, keď aj truhla bola   hotová. Raz v pekný deň šibla Adamovi zaucho, len tak, skoro bez   príčiny, ako by probovala, či to už nejako pôjde. Adam zaucho dosť   spokojne prijal. — No, ľaďže ti ju, ľaď! Už ti nič nebude. To som ťa   podaromnici neprezimoval, — a potriasol kotrbou ako kôň, aby muchy   odduril. Zuza truhlu videla. Akože by nie. Bola veru rúča. Adam ju   zafarbil tmavoorechovou farbou, navrch pribil krásny, veľký zlatý   kríž a okolo vrchnáka bola zôkol-vôkol prilepená krásna zlatá čipka.   Zuza sa zadívala na ňu. Bola široká, dlhá, tam by ťa nikde nič   netlačilo. I povedala: — Ty, Adam, tú truhlu mi nikomu nedávaj.   Vezmem si ju do izby. Adam čosi hundral popod nos, ale tak, aby ho   Zuza nerozumela. Hovoril: — Myslíš, že sa o to hromom pootíkané   truhlisko niekto perie? Keď chceš, nuž kap v ňom. Zuza si truhlu   postavila do kúta izby na dva stolčeky a prikryla čistou plachtou,   aby sa jej neeaprášila.
+   </tei:p>
+   <tei:p>
+    2 Kozlnský mlyn
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿Nuž, hľa, také sú ženy. Raz tak, raz zasa inak. Parom sa v nich   vyzná! Zuza sa každú nedeľu poobede z knižky modlievala. Do kostola   chodiť jej bolo priďaleko, ta šla s Adamom len na výročité sviatky.   Zuze bolo v nedeľu ďaleko do kostola chodiť, ale Adamovi nie. Darmo   je, chlap je len chlap. (Pravda, že Adamko si po kostole vždy zašiel   do krčmy k Telnému.) Zuza sa tak modlievala, že si odkryla truhlu,   sadla pred ňu a skrúšene obracala svoju hriešnu dušičku k Pánu Bohu.   To sa jej stalo takým milým zvykom, že keď stihla, aj stred týždňa sa   pomodlila. Hovorila ženám, že by tú truhlu nedala ani za kozinský   mlyn. Tak ju chválila pred týmito, že im len tak sliny tiekly na ňu.   Y takéto chvíle aj Adam spokojne pohmkával a šúchal si čapurdou   kotrbu. Raz popoludní pribehol Adam celý vyznojený k Zuze a kričal   jej už zďaleka: — Zuza, Zuza, poberaj sa s tým plátnom k Telnému, tam   sú akísi kupci, vezmú ti ho všetko. A zaplatia, čo zapýtaš. Že vraj   bude zasa vojna, nuž treba plátno. Zuze nebolo viac treba. Zvrtla sa,   pohádzala plátno do plachty — bola ho dobrá noša — a hybaj s ním k   Telnému, čo je dobrá hodina chôdze. Telný je, ako viete, bruchatý   Žid, krčmár. Má také brušisko ako kapustný sud, nuž ho preto tak   pokrstili. Dokiaľ Zuza bola u Telného, nuž ti vám, dietky božie, milý   Adam tú truhlu predal! Y Havranej zomrel bohatý Kôpka. Zostal po ňom   len akýsi vnuk, ktorý pred krátkym časom bol prišiel z Ameriky.   Truhle z kozinského mlyna
+   </tei:p>
+   <tei:p>
+    18
+   </tei:p>
+   <tei:p>
+    ﻿šiel chýr široko-ďaleko. Vnuk sa ti tam mnoho o to nestaral, či   budú do starého Kôpku hromy biť, či nie, hlavná vec mu bola, aby ho   odpratal. Nuž ten vám tú truhlu kúpil. Zaplatil Adamovi bez jednania,   čo si zapýtal, a hneď zobral truhlu na voz, ktorý čakal v hájiku   neďaleko mlyna, a hybaj! Adam vedel, že by Zuza truhlu nijakým činom   nepredala, preto ju takýmto huncútskym spôsobom odpratal z domu. Hej,   ale ju doma nečakal! No, to už nie! Odpratal sa ten dobre. Zuza   prišla domov a shodila nošu. Bola od chôdze celá vyzváraná. Kdeže by   nie, vliecť s pol centa dve hodiny na chrbte. A podaromnici. A ten   posmech s tým bruchatým Židom! Nebola by to prijala ani za teľnú   kravu. Ale keby len to! Ale keď vošla do izby, tu truhly niet! „Pre   päť rán Kristových!“ Vybehla ako šialená a kričala, ako by horelo.   No, darmo ty kričíš, dievčička, nemáš tam ani človiečika   široko-ďaleko, čo by ťa zaratoval. Zuza sa napochytro utíšila. Veď   čože budeš vrieskať, keď ťa ani živá duša nepočuje. Pomyslela si:   „No, počkaj, veď mi ty prídeš. Veď ťa ja počastujem. Dám ti ja   vojny!“ Adam prišiel len na tretí deň. Vkradol sa zadnými dverami do   kuchyne, kde skrúšene sedel a pohladkával cifrovanú šatku, ktorú   doniesol Zuze. — Pozri, Zuzka, akú šatôčku som ti doniesol, —   zafufnal a natriasal šatku pred ňou. Zuza si založila ruky na bedrá a   spustila, čo mala nasypané. Bolo toho do vôle božej.
+   </tei:p>
+   <tei:p>
+    2*
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿Najviac ju škrelo, že takého blázna urobil z nej a že ju s tou   nošou tak prehnal. Aj Žid ju napálil. Len ako by na posmech, ponúkol   jej akúsi maličkosť za plátno. Povedal jej, že by sa za vojnou   rozbehla až do Ázie, tam že jej zaplatia lepšie. — A truhlu si mi   ukradol, ty zbojník, teraz mi takou handričkou chceš oči vytiať, ty   lotor, ty šibeník! Pristúpila k nemu so zdvihnutou rukou. Videla, že   sa jej bojí, nuž ho udrela. — Zuzka, nebi ma. — Nie ťa? A či   nezaslúžiš, nie? Tu máš, na, na, na! Ako sa bránil, nuž ju nevdojak   búšil do brucha. — Ach, ty obluda, čože ma ešte chceš aj zabiť? — I   pochytila váľok, ktorý jej bol naporúdzi, a tresk ho ním po hlave.   Adama zaliala krv, i spadol na zem. Zuza sa viac oň neozrela,   pochytila šatku na hlavu, a hybaj do mesta. Išla k fiškálovi na   žalobu. Vpálila k starému Ondrejčákovi. Sedel za stolom, s okuliarmi   na nose, a prezeral písma. Veď ho poznáte všetci. Ten ti len skriví   tých pol úst, ako by sa smial a počúval ťa, čo melieš. Len tu i tu ti   podhodí otázku, že sa ti len v očiach ziskrí: „Ľaľa, veď ten všetko   vie!“ Ten starý vlkolak zakrátko všetko vymäkušil zo Zuzy.   Všeculinko. Že jej Adam ukradol truhlu a že — čo chcela odtajiť — ho   tak ovalila, že zostal ležať ako mŕtvy. — Dievčička, — začal on potom   vykladať, — dievčička, tebe Adam truhlu neukradol, lebo si   nedokázala, že tá truhla bola tvoja. Ale keby aj bola
+   </tei:p>
+   <tei:p>
+    20
+   </tei:p>
+   <tei:p>
+    ﻿tvoja bývala, tak ti ju nijaký súd nedá z hrobu vykopávať a z nej   mŕtvoly vyhadzovať. Najviac ak ti prisúdia jej cenu, a tú ti Adam   iste chcel aj beztoho dať, okrem tých niekoľkých korún, ktoré od   strachu prepil. — Ale o truhlu je sem-tam. Fígeľ je, čo si ty s ním   urobila? A ak si ho zabila? To musí byť mocná kotrba, ktorá by   vydržala úder dubovým váľkom od takej oberučnej baby, ako si ty, a   aby nepraskla! A ak si ho nezabila, tak si ho iste ťažko poranila. —   Dievčička, zvrtni sa a bež, — hohó, nie tak chytro, najprv mi zaplať   40 korún za poradu. — Teda bež domov a vezmi so sebou hneď aj   doktora, lebo mne sa všetko tak zdá, že si ty mrzkej kaše navarila so   svojím Adamom. Zuze sa tak činilo, že sa všetko obrátilo v nej čím   hore, tým dolu. Prišla taká, že by Adama v zuboch bola roztrhala, a   teraz sa všetko v nej od strachu triaslo, ak mu nejako veľmi   ublížila. Vyložila fiškálovi peniaze na stôl a utekala na ulicu. Tak   sa jej dobre podarilo, že i doktora, starého Steinera, zachytila na   ceste a aj Mišo Kurnota z Kozinskej sa jej s koňmi naďabil. Mišo   dobre duril, ale sa Zuze predsa činilo, že sotva ide. — Miško,   Mišíčko, len dur, pre Boba ťa prosím, poháňaj. Zakrátko prišli k   poľnej ceste, ktorá sa od hradskej odrážala ku mlynu. Zuza skočila s   voza a bežala peši. Keď prišla na vŕštek s hájikom, len ti zazrela,   že sa vo dverách mlyna čosi červenie.
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿— Ratnjte, ľudia, — zakričala zúfalo, — veď je to četník! Utekala   s trasúcimi sa kolenami a vykladala cestou, ako by Adam bol už mŕtvy.   — Jaj, Bože môj, Bože, Adamko môj krásny, už som si ťa doriadila!   Ktože mi bude putne poprávať a papuče pošívať? Už ma nebudeš jedovať,   už ti horúcou kašou nebudem ústa obárať! Adamko, Adamko! Pribehla ku   mlynu. Vo dverách skutočne stál četník. — Preboha, čo je s Adamom?   Četník jej porozprával, že išiel s kamarátom popri mlyne a že po   svojej obyčaji vošli dnu. Mlyn bol prázdny, iba v izbe našli   zmŕtveného Adama ležať v mláke krvi. Prebrali ho, zaviazali mu ranu   na hlave, ako sa patrí, a uložili ho do postele. Zuza vletela do   izby. Adam ležal na posteli pod perinou, hlavu mal zaviazanú obväzmi,   iba jedným okom kukal na ňu, lebo druhé mal zababušené. — Zuzka, mne   je už nič, páni četníci ma rúče obriadili. — Čo som strachu vystála   pre teba! Ani si ho nie hoden, ty naničhodník! Prišiel čochvíľa aj   doktor, pozrel ranu, pochválil četníkov a povedal, že o dva týždne   bude Adam zasa chlap. Keď četník počul „dva týždne“, povedal, že je   to chyba. — Takhle to musím oznámiti a vás, mlynárko, sebrati se   sebou, — povedal ten nemilosrdný samaritán. Zuza povedala, že ona   muža neopustí, veď by sám bez opatery zostal v celom mlyne, že ona   vie,
+   </tei:p>
+   <tei:p>
+    22
+   </tei:p>
+   <tei:p>
+    ﻿že zle urobila a že sa previnila, za to že odtrpí. Ale že sa   najprv musí jej muž vyliečiť. Ona že nevyjde nikde. Četník vrkol: —   Jojo, — zobral flintu a šiel s Pánom Bohom. Nuž koniec všetci viete.   Adam sa napochytre vyliečil a Zuzu pekne-rúče zavreli na štyri týždne   do šupy. Peniažky, čo vytŕžili za borovicu, sa minulý na chorobu a na   súdy. Ba ešte aj doložili. Môže povedať, kto chce, čo chce, ale si to   raz nešťastie berieš do domu, keď si ta vezmeš také drevo, do ktorého   hrom udrel. *
+   </tei:p>
+   <tei:p>
+    Valach, starý Matúš Kodrčka, si tabak v zapekačke nechtom   popotláčal a poznamenal chrapľavým hlasom: — Ja som vykúril dva hodné   huky, čo hrom pováľal, a neohlušilo ma, a zjedol som tri ovce, čo   hrom zabil. A Parom ho vie, nerozpučilo ma ani od jednej z nich. Len   ich sem, čím viac. Ondro Špikala z Kozinskej sa ohlásil, že je to   vonkoncom nie sväté Písmo, že by tie ovce bol hrom zabil, že tie veru   inou smrťou sišly s tohto sveta. Matúš dosvedčil, že tie ovce hrom   zabil, čo je veru také isté, ako by si to na dlani videl, lebo aj   bača jedol z nich, a to že je vraj svedok spoľahlivý, lebo aj písať   vie. Špikala podotkol, že i Matúš, i bača sú na jednom brde tkaní a   vrana vrane oko nevykole.
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+   <tei:p>
+    ﻿Matúš je vraj boľševik, človek bez Boha, ktorý dobrého konca   nedôjde. Matúš poľahky odvrkol: — Ako bude, tak bude. Sťa kedy   skapať, a teba na ceste do pekla môže ešte lepšie usepkať ako mňa,   lebo ty si tiež len vtedy dobrý, keď drichmeš. Nuž ktože ho tam vie,   čo je pravda? A opatrnosti veru nezbýva.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

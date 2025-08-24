@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1945949" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Biela labuť : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     15637
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Biela labuť
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     BIELA LABUŤ
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿
+   </tei:p>
+   <tei:p>
+    ﻿Doktor Verný viezol sa z Viedne priamym rýchlikom do Ríma. Sedel v   polkupé prvej triedy a prezeral rozličné noviny, ktoré si bol nakúpil   na stanici. Bolo pekné májové ráno. Otvorenými oblokmi valil sa do   vozňa lichotivý jarný vzduch; obruba kraja sa pýšila tvrdými, na   vrcholcoch snehom krytými Alpami, popri dráhe sa zelenaly lúky a   polia sa strakately stromami: samý kvet. Verný sa cítil mocným, tešil   sa svojej tridsaťpäťročnej mladosti a radoval sa, že sa striasol   špitálskych trampôt a starostí na celé štyri týždne. Tešil sa na   Taliansko, ktoré už viac ráz bol navštívil. Išiel, ako starých   známych, pozrieť obrazy, stavby, sochy a krajiny, za ktorými mu duša   túžila ako za milým dievčaťom. Nenapil sa vody z fontány di Trevi v   Ríme, a jednako ho ťahalo za tým europským rajom, ako ťahalo od   vekov, počnúc od surových barbarov po moderného učenca a krásnu,   rozmaznanú ženu.
+   </tei:p>
+   <tei:p>
+    Jeho radostný, spokojný pocit nedal mu pokoja: vibrovaly v ňom   všetky nervy, nemohly ho upútať ani jedny noviny, ani výhľad na   krajinu. Keď pozeral na jedno, zdalo sa mu, že je druhé vábnejšie.   Vyrušovalo jeho pokoj i vedomie, že v susednom polkupé sú dve, podľa   smiechu a reči mladé anglické dámy, ktorých rozhovor bolo vše celkom   dobre počuť, lebo holý i na jeho i na ich kupé otvorené dvere.
+   </tei:p>
+   <tei:p>
+    Nudil sa s Corriere de la Séra, hoci čítal i ne-
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿priateľský, proti Juhoslávii namierený článok, ktorý by ho inokedy   bol zaujímal. Razom zdvihol hlavu od novín, keď sa dvere pred ním   zatmily: zazrel vysokú, veľmi elegantnú mladú dámu a mimovoľne sa   ľahučko usmial a zašeptal: „Sapristi!“ vyhol sa za ňou a nespustil s   nej očú, kým nezmizla v chodbe susedného vagóna. Cítil, že sa   začervenal, i pokrútil hlavou nad sebou. Myslel si, že urobil tvár   ani ovca, že sa tá bohyňa musela usmiať na nej. Zaiste je to jedna zo   suserdiek. Je to ozajstná hra prírody, že sa táto ženská tak podobá   obrazu krásnej Američianky, ktorý bol minule videl vo Weekly Times.   Všetko na nej zodpovedalo: zlatopobelavé míkádo, veľké belasé oči,   ostro rezané červené, trošičku priveľké ústa, trochu krátky rovný   noštek, okrúhla brada a čerešňová ružovosť tváre. K tomu vysoká,   elastická, plná figúra. A ruky! Do hroma, dosť veľké a elegantné, ani   keby si ich od medičejskej Venuše bola požičala!
+   </tei:p>
+   <tei:p>
+    Verný sedel nahnutý nad novinami; pozeral do nich, ale v duchu   videl stále krásnu ženskú. Krútil hlavou nad sebou, i nad divom.   Napokon sa ustálil na tom, že tá dáma predstavovala typ istých   Ameríčíanok.
+   </tei:p>
+   <tei:p>
+    Jeho hútanie trvalo už chvíľku, keď počul n« chodbe štrknutie a   zazrel kotúľať sa peniaze. Skočil a zazrel druhú dámu zo susedného   kupé, stojacu zohnuté vo dverách a pozerajúcu, kde sa zakotúľaly   peniaze; v rukách držala otvorenú peňaženku a usmievala sa na svojej   nehode.
+   </tei:p>
+   <tei:p>
+    Verný sa jej tiež usmial.
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿— Dovolíte, aby som vám pomohol? —- oslovil ju po anglicky.
+   </tei:p>
+   <tei:p>
+    •—- Ďakujem vám veľmi. Som taká nešikovná. Ale príčinou je vlastne   peňaženka, na ktorej sa mi pokazil zátvor.
+   </tei:p>
+   <tei:p>
+    Dáma vybehla na jednu stranu chodby a Verný na druhú a sbierali   peniaze: holý to šilingy, koruny a sovereigny. Podal jej, čo bol   našiel, a spýtal sa, či jej ešte mnoho chýba. Hľadel jej do očú a   úsmev ani jej, ani jemu neschádzal s tváre. Veď sa museli usmievať,   keď sa tak pozdali druh druhovi. Verný si myslel, že je to osoba ozaj   do zjedenia. Aké má milé oči, aký trochu posmešný, ako by všetko   rozumejúci a odpúšťajúci úsmev, a jednako jej v tých čiernych veľkých   očiach sedí i čosi melanchólie. Angličianka si myslela, že hoci je i   privyknutá na atletické postavy of our boys: našich chlapcov, jednako   málokedy videla takú súmernú, vysokú figúru, ako je tohto cudzinca. A   ako sa jeho tvár ponáša pri istých pohyboch na Byronovu!
+   </tei:p>
+   <tei:p>
+    Verný sa obzeral, či neuvidí ešte niekde nejaký peniaz, ale   nenašiel nič. Angličianka ho uistila, že má už všetky peniaze, a   poďakovala sa mu ešte raz. Žatým vošla do svojho kupé a Verný vyzeral   na chodbe oblokom. Hľadel na kultivovaný kraj, ale v duši mu jednako   diely Angličianky. Cesty — i poľné — holý zriadené, po poliach   roztratené chutné domce a ploty okolo nich z pevného materiálu, v   dobrom stave. Pomyslel si na naše ošarpané ploty z halúz a biedne,   vydraté poľné cesty, ktoré kraju dávajú zanedbaný, chudobný   vzhľad.
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿Obrátil sa trochu a zbadal z dymu, vychádzajúceho z kupé, že dáma   si zapálila cigaretu. Nad dverami jej oddielu bolo napísané: zákaz   fajčiť.
+   </tei:p>
+   <tei:p>
+    — Madame, vystavujete sa nebezpečenstvu, že vás konduktor upozorní   na veľký priestupok a že budete platiť veľkú pokutu.
+   </tei:p>
+   <tei:p>
+    Dáma sa trochu strhla.
+   </tei:p>
+   <tei:p>
+    — Čože som urobila?
+   </tei:p>
+   <tei:p>
+    — Nezbadali ste? Fajčíte v kupé pre nefajčiarov. Nie každý   konduktor je zdvorilý človek. Neriskujte mať srážku s prípadným   boľševikom. Odporúčam vám presťahovať sa na ten čas, kým chcete   fajčiť, do môjho kupé. Aby ste nemysleli, že ma poháňa egoizmus,   ostanem za ten čas na chodbe.
+   </tei:p>
+   <tei:p>
+    Dáma vstala a vyšla na chodbu.
+   </tei:p>
+   <tei:p>
+    — Prijímam vaše pozvanie, ale len pod tou podmienkou, že vás   nevyháňam z vášho hradu.
+   </tei:p>
+   <tei:p>
+    — Priznám sa vám, že sú okolnosti i také, v akých vďačnejšie sedím   v kupé, ako stojím na chodbe. Fajčíte radi, náruživo?
+   </tei:p>
+   <tei:p>
+    Dáma sa hlasito zasmiala.
+   </tei:p>
+   <tei:p>
+    — Nefajčím náruživo rada. Vo vlaku ma vše bolieva hlava, a proti   tomu najlepšia medicína je cigareta.
+   </tei:p>
+   <tei:p>
+    Verný vytiahol obočie, ako by bol urobil nejaký zvláštny vynález,   a riekol:
+   </tei:p>
+   <tei:p>
+    — Ako?
+   </tei:p>
+   <tei:p>
+    Dáma trochu zadiveno podotkla:
+   </tei:p>
+   <tei:p>
+    — Aké „ako“?
+   </tei:p>
+   <tei:p>
+    — Som lekár, urobil som teraz na vás nové pozorovanie, ktoré si   znamenite zapamätám.
+   </tei:p>
+   <tei:p>
+    12
+   </tei:p>
+   <tei:p>
+    ﻿— Som zvedavá, čo to môže byť?
+   </tei:p>
+   <tei:p>
+    Verný sa za chvíľočku díval na ňu: myslel si, že dávno nevidel   takú chutnú, milú osobu, ako je táto. Bol by dal mnoho za to, keby   bol mohol trochu pohladiť jej chudé líca. Postavu mala veľmi peknú,   zrejme športovaním vyvinutú.
+   </tei:p>
+   <tei:p>
+    — Nuž poviem vám. Viete, že pri dámach sa vyskytujú ťažké, veľmi   vážne ochorenia, ktoré možno liečiť len krásnymi toaletami, autami,   alebo prípadne luxusnými kúpeľmi?
+   </tei:p>
+   <tei:p>
+    — Indeed (naozaj)?
+   </tei:p>
+   <tei:p>
+    — I vaše fajčenie patrí zaiste do tejto kategórie. Ľutujem vás   veľmi, lebo sa obávam, že vás hlava každý deň niekoľko ráz bolí. Mňa   by aspoň bolela, keby som také znamenité cigarety fajčil, ako sú   vaše.
+   </tei:p>
+   <tei:p>
+    Dáma sa zasa hlasito zasmiala.
+   </tei:p>
+   <tei:p>
+    — Okúste jednu. Sú americké a doniesla ich so sebou miss   Palmerová, s ktorou cestujem. Čo
+   </tei:p>
+   <tei:p>
+    sa týka bolenia hlavy, nemáte celkom pravdu, — i potriasla   rozhodne hlavou, pričom mu hľadela do očú.
+   </tei:p>
+   <tei:p>
+    Verný vzal z dózy ponúknutú cigaretu, okúsil ju a prevrátil   oči.
+   </tei:p>
+   <tei:p>
+    — Prvotriedna! Madame, fajčenie týchto cigariet je celkom iste   veľmi nebezpečné zdraviu, hoci uznávam, že nemám pravdu ohľadom vášho   bolenia hlavy. Ale zaiste možno nimi liečiť i iné bolesti, a tak   ľudia, ktorí ich môžu fajčiť, budú stále na kadečo trpieť. Miss   Palmerová je dáma, ktorá prešla do reštauračného vozňa?
+   </tei:p>
+   <tei:p>
+    — Išla si vypiť šálku čaju.
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿— Zaiste i ju bolieva hlava?
+   </tei:p>
+   <tei:p>
+    Dáma sa zasa zasmiala.
+   </tei:p>
+   <tei:p>
+    — Myslíte, že aj ona fajčí? Niekedy.
+   </tei:p>
+   <tei:p>
+    — Viete, že sa podobá obrazu, ktorý bol pod menom „Americké   dievča“ uverejnený vo Weekly Times, ako by to bola ona? Preto som bol   celkom prekvapený, keď som ju zazrel. Zaiste bolo moje prekvapenie   veľmi zreteľné na mojej tvári, lebo ma vysmiala.
+   </tei:p>
+   <tei:p>
+    — Sir, vidím, že radi vyhýbate pravde z cesty. Boli ste   prekvapený, lebo vás očarila jej krása, ale nie preto, že sa ponáša   na akýsi obraz. Moja predbežná dobrá mienka o vás začína dostávať   značné pukliny.
+   </tei:p>
+   <tei:p>
+    — Som zúfalý, madame. Radšej sa priznám a uznám, že i ju pokladám   za očarujúce stvorenie.
+   </tei:p>
+   <tei:p>
+    Dáma urobila vážnu, privážnu tvár a vstala, že vyjde z kupé, hoci   cigaretu ani zpolovice nevyfajčila. Verný skočil, aby jej uvoľnil   cestu, urobiac pritom nešťastnú tvár.
+   </tei:p>
+   <tei:p>
+    — Čo, vy už odchádzate?
+   </tei:p>
+   <tei:p>
+    — Máte kontinentálne spôsoby, na ktoré sme nie zvyknutí.
+   </tei:p>
+   <tei:p>
+    — Odpusťte mi tentoraz, madame. Parole d’honneur, že sa viac   neprehreším. Budem trpieť bez slova i najväčšie sužovanie.
+   </tei:p>
+   <tei:p>
+    — Tak, dobre, skúsim to, — i sadla si zasa.
+   </tei:p>
+   <tei:p>
+    — Viete, že je miss Rosy Palmerová naozaj jedna z najkrajších   amerických dievčat, ktoré nemožno napochytro porovnať s každou   priemernou osobou, ako som napríklad i ja? Viete to?
+   </tei:p>
+   <tei:p>
+    —- All right, zapamätám si, že je miss Rosy Pal-
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    ﻿merová jedno z najkrajších amerických dievčat. Ale že ste vy   obyčajná, priemerná osoba, na to nerobím poznámky len preto, lebo sa   nechcem vystaviť trestným sankciám.
+   </tei:p>
+   <tei:p>
+    — Dajte si pozor! Miss Rosy je dcérou multimilionára a je to   naozaj, ako by tí ľudia mali možnosť zadovážiť si za svoje peniaze   všetko, čo je najvzácnejšie a najkrajšie na svete.
+   </tei:p>
+   <tei:p>
+    — Madame, viete, že je to vlastne príšerné, taká osobnosť, a vy s   ňou cestujete len tak, ako by bola obyčajnou smrteľníčkou. Počul som   vás, že ste sa i smiali. Ako sa môžete v takej spoločnosti smiať? Ja   by som sa len díval na ňu ako na Budhu. No, pravda, človek na všetko   privykne, teda i cestovať s takým zosobneným Kohinorom.
+   </tei:p>
+   <tei:p>
+    — V jednom máte pravdu. Tí ľudia chápu celkom inakšie svet a život   ako my. Najmä ženskí členovia takýchto rodín, ktorí sú privyknutí, že   môžu mať všetko, čo stojí peniaze.
+   </tei:p>
+   <tei:p>
+    — Odpusťte moju predošlú poznámku, že sa vám divím, že ste sa   spolu smiali. Možno, že ste i vy dcéra miliardárova, ktorý si tiež   mohol za svoje peniaze zadovážiť, čo si len zaželal.
+   </tei:p>
+   <tei:p>
+    — Ste nenapraviteľný. Ja som dueňa miss Rosy. Cestujem s ňou, aby   som dávala na ňu pozor. Okrem mňa má ešte sekretára, sluhu, chyžnú a   šoféra s autom.
+   </tei:p>
+   <tei:p>
+    — Ráčte odpustiť, ale ako dueňa máte neodškriepiteľné nedostatky,   ktoré môže každý pobádať.
+   </tei:p>
+   <tei:p>
+    — Ktoré sú to? Možno ich napraviť?
+   </tei:p>
+   <tei:p>
+    — To je úplne beznádejné. Koľko duení poznám
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿zo španielskych a talianskych rozprávok, všetky sú staré a špatné.   Nechcem vám lichotiť, ale nemôžem ani pri najlepšej vôli uznať, že hy   ste sa týmito vlastnosťami mohli honosiť, alebo že by ste si ich   mohli nacvičiť hocijakým tréningom.
+   </tei:p>
+   <tei:p>
+    — Ha-ha-ha! — smiala sa dáma a Vernému sa zdalo, že jednako len   ešte milšie pozrela naň, ako vôbec hľadela; pritom držala v ruke   vyfajčenú cigaretu, aby ju odhodila.
+   </tei:p>
+   <tei:p>
+    Verný jej podložil noviny.
+   </tei:p>
+   <tei:p>
+    — Sir, vy sa mýlite ohľadom dnešných duení. Zdá sa mi, že ste   veľmi zaostali ešte niekde v minulých stoletiach. Ja som vzor duení,   som vdova (pritom sa zapálila a sklopila veľmi chutne mihalnice),   omnoho staršia ako miss Rosy, a ako ste sa mohli i sami presvedčiť:   neúprosne prísna.
+   </tei:p>
+   <tei:p>
+    — Ste iste vzor duení, hoci sa vekom i nehodíte na to postavenie,   lebo ste najviac o tri-štyri roky staršia od miss Rosy; ale veď si   taký milionár vyberie zaiste najlepšie i v tomto ohľade. O tom   nepochybujem ani najmenej.
+   </tei:p>
+   <tei:p>
+    — Veru tých milionárov musí človek poznať, keď chce s nimi nejako   vyjsť. Viete, že je v spoločenskom ohľade omnoho väčší rozdiel medzi   multimilionárom a inteligentom, ako medzi inteligentom a princom?   Miliardári sú veľmi exkluzívna spoločnosť a hľadia veľmi zvysoka na   ostatnú spoločnosť. Veď je to ani nie div, keď je ich životný   štandard úplne odlišný od štandardu všetkých ostatných ľudí, ktorí   nemajú z najväčšej čiastky ani tušenia, ako títo ľudia žijú.   Miliardárka sa práve tak nestýka spoločensky hoc i napríklad so   zna-
+   </tei:p>
+   <tei:p>
+    16
+   </tei:p>
+   <tei:p>
+    ﻿inenitým advokátom alebo povestným lekárskym profesorom, ako sa   nestýka londýnsky znamenitý advokát s fabrickým robotníkom alebo   farmárom. V ich spôsobe života je omnoho väčší rozdiel. Vôbec   predstavte si ľudí, v ktorých živote všemožný peniaz nehrá zástoj.   Možno, poznáte prípad francúzskeho znamenitého spisovateľa Bourgeta,   ktorého newyorský milionár pozval na prednášku do svojej paloty a po   prednáške prosto poslal domov? A $ Bourgetom obcovali i   panovníci.
+   </tei:p>
+   <tei:p>
+    — Co rozprávate, neoduševňuje ma vefmi ani za vašu krásnu miss   Rosy, hoci by bola i najkrajšia i najbohatšia zo všetkých bohýň.
+   </tei:p>
+   <tei:p>
+    Angličianka potriasla fahučko hlavou.
+   </tei:p>
+   <tei:p>
+    — Mýlite sa. Miss Rosy je, hoci i taká boháčka, pomerne veľmi   milá. Možno preto, lebo mnoho cestuje, a tak sa musí stýkať i so   skromnejšími ľuďmi, najmä v Európe.
+   </tei:p>
+   <tei:p>
+    Vtom vstala, aby išla do svojho kupé. Verný vyskočil a uhol jej na   chodbu, pričom sa skoro buchol do prichádzajúcej miss Rosy. Pozrel na   ňu mimovoľne s prísnou tvárou; pohľad mu miss Rosy vrátila úplne   bezvýrazne, ako by bola pozrela na obločný rám.
+   </tei:p>
+   <tei:p>
+    — Kate, škoda, že ste neboli so mnou: dávno som nepila horší čaj   ako dnes. Ozajstný rekord.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate, vychádzajúc z kupé, trochu sa zapálila; kývla mu hlavou   a vošla s miss Rosy do svojho oddelenia.
+   </tei:p>
+   <tei:p>
+    Verný sa sobral a odišiel do reštauračného vozňa. Mal dosť dojmov,   o čom rozmýšľať.
+   </tei:p>
+   <tei:p>
+    2 Itália,
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿Viezli sa celý deň a Verný sa všemožne usiloval, aby svojim   susedkám čím najmenej stál v ceste. Idúc z reštauračného vozňa,   našiel ešte jeden sovereign, na zrejmý dôkaz toho, že mrs. Kate   odtajila stratu, len aby ďalej neustávala nikoho. Trochu sa podivil,   že najatá spoločnica tak ľahkomyseľne zachádza s funtmi šterlingov.   Nechtiac dámy vyrušovať, poslal jej ho po konduktorovi.
+   </tei:p>
+   <tei:p>
+    Keď sa vrátil po olovrante, na ktorom, ako i na obede, malý účasť   i anglické dámy, našiel ich stáť v chodbe, hoci hodne neskoršie   prišiel za nimi. Keď prechádzal do svojho kupé, do ktorého mu bol   medzitým prišiel i akýsi, pravdepodobne nemecký finančník, s   vyšívanou čiapkou na hlave, zbežne sa podíval na dámy, neprezradzujúc   nijaký záujem; zazdalo sa mu, že miss Rosy pozrela naň nie tak úplne   nevšímavo ako predpoludním a žatým vošla do svojho kupé. Mrs. Kate   pristúpila ku dverám jeho oddelenia, a ľahučko sa usmievajúc, kývla   mu hlavou.
+   </tei:p>
+   <tei:p>
+    — Ďakujem vám.
+   </tei:p>
+   <tei:p>
+    Vyskočil k nej. — Nechýbajú vám ešte peniaze? — Nie, ani penny ...   Nevzbudzuje vo vás tento strašne pustý kraj stiesnenosť? — spýtala sa   ho, aby obrátila rozhovor na iný predmet.
+   </tei:p>
+   <tei:p>
+    — Tento Tarvízsky priesmyk je veru hrozný. A najstrašnejšie je, že   v ňom bývajú ľudia. A koľkí! Je záhadné, ako žijú tu medzi týmito   skalami, kde ešte i kríky len tu i tu, i to aké pokrčené, rastú.   Podívajte sa na ich z kameňov, z veľkej čiastky bez vakovky,   poskladané domce.
+   </tei:p>
+   <tei:p>
+    18
+   </tei:p>
+   <tei:p>
+    ﻿— Obvešané biednou bielizňou. Bielizeň je vôbec pre Taliansko   charakteristická. Všade jej je plno. Je to dôkaz, že jej málo majú,   keď ju vždy perú. Poznáte Durerovu kresbu ,Melanchólia4?
+   </tei:p>
+   <tei:p>
+    — Poznám tú zúfalú osobu. Máte pravdu. Tento kraj je ani cesta do   Danteho pekla, životnejšie znázorňuje melanchóliu ako Durerova   kresba. Keď to vidím, prichodia mi na um moje najtemnejšie   hriechy.
+   </tei:p>
+   <tei:p>
+    I usmial sa.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate sa zdalo, že má prísnu tvár, ktorá celkom neočakávane   zmäkne, keď sa usmeje. Pokrútila šelmovsky hlavou.
+   </tei:p>
+   <tei:p>
+    — Ale, veď vidíte i mnoho krásneho, to by vás malo tešiť.
+   </tei:p>
+   <tei:p>
+    — Naopak. I to krásne ma často len bolí, lebo sa ho musím zriecť,   nie je moje.
+   </tei:p>
+   <tei:p>
+    — Pane, všetko krásne nikto nemá. Múdry človek je spokojný, keď má   aspoň niečo z neho. Nesmiete byť takým egoistom.
+   </tei:p>
+   <tei:p>
+    — Lekár, a egoista! Myslím, že nám váš znamenitý conpatriot   nespravodlivé stúpa do poctivosti. Aspoň veľkej väčšine lekárov iste.   Nepokladajte za dajaké chvastanie, čo vám poviem. Som pevne   presvedčený, že skoro všetci lekári cítia tak ako ja; preto vám to   spomínam, lebo je to charakteristické pre všetkých. Mal som vo svojom   špitáli v posledné dni dva také prípady, ktoré ma veľmi dojaly, kde   sme so svojimi kolegami urobili všetko možné, aby sme pomohli — a,   bohužiaľ, bez všetkého výsledku. Dal som na svoje trovy — išlo o   chudobnú mladú matku, ženu úradníka — i zna-
+   </tei:p>
+   <tei:p>
+    2*
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿menitého profesora doviesť k uej: oič nepomohlo, umrela. Nechcem   tým povedať, že ku každému takému chorému dávam dovážať zakaždým   profesorov. Ale sú pripady, kde s radosťou obetujeme peniaze, aby sme   zachránili v ľuďoch dôveru k nášmu ľudskému citeniu, a nie ku svojej   vede ... Teraz som ušiel i preto na nejaký čas sa prevetrať, lebo   naše povolanie bez strát nejde, a nemáme vždycky nervy tieto straty   bez otrasov prenášať.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate pozrela s výraznejšou melanchóliou naň, ako ináč   hľadievala.
+   </tei:p>
+   <tei:p>
+    — Zdá sa, že ste primäkký, citlivý. Na šťastie nemôžete ani všetky   bolesti sveta vziať na seba, práve tak ako jeho krásu. Veda je nie   Boh, nemôže byť dokonalá. Keby ste zachránili každého, nebolo by v   tom nijakej zásluhy, — riekla mu skoro šeptom a stisla mäkkou rúčkou   jeho ruku.
+   </tei:p>
+   <tei:p>
+    — Vaše spolucítenie ma dojíma a posilňuje, madáme. Ďakujem vára.   Príde mi iste mnoho ráz na um.
+   </tei:p>
+   <tei:p>
+    Teraz sa usmiala milá pani.
+   </tei:p>
+   <tei:p>
+    — Máte ho neobmedzene.
+   </tei:p>
+   <tei:p>
+    Kývla mu hlavou a odišla k miss Rosy, ktorá, vidiac ju vchodiť,   odložila revue, ktorú bola prezerala.
+   </tei:p>
+   <tei:p>
+    Verný si myslel, aký jemný takt má tá pani. Odišla s milým slovom,   keď začínala byť situácia trochu pálčivá. Možno, nikdy viac ju   neuvidí. Ale celkom isto mu jej obraz nevymizne z duše, vždy uvidí   pred sebou milú tvár všetko rozumejúcej osoby, s melancholickými   čiernymi očami.
+   </tei:p>
+   <tei:p>
+    Odišiel do svojho kupé, a hľadiac na pusté ska-
+   </tei:p>
+   <tei:p>
+    20
+   </tei:p>
+   <tei:p>
+    ﻿liská priesmyku, dal svojej fantázii vofný beh. Bol slobodný a   nijakou ženskou neviazaný. Škoda, že je spletená s tou americkou   bohyňou . .. Pravdepodobne sa už viac s ňou nebude môcť ani shovárať.   Keby aspoň vedel, kde idú. Aká by bola jeho cesta bohatá, keby sa   zavše s ňou stretol a mohol vymeniť svoje náhľady o krásnych   umeleckých predmetoch!
+   </tei:p>
+   <tei:p>
+    Pôvodne si bol umienil, že sa v Benátkach nezastavi. Čo tam?   Neťahalo ho nič do mesta, vystaveného počítajúcim, nemilosrdným   kupeckým duchom, cifrovane, sťa strakatá mydlová bublina, s umením   bez pravej veľkosti a slobody, možno, len s dvoma-troma naozaj   veľkými a sympatickými umelcami.
+   </tei:p>
+   <tei:p>
+    Teraz sa mu vtierala myšlienka, že sa dámy zastavia na Lide na   deň-dva. Príroda je tam prekrásna, kúpele v belasej Adrii vábia   každého, kto ich raz okúsil.
+   </tei:p>
+   <tei:p>
+    Skúsi šťastie a ostane tam niekoľko dní.
+   </tei:p>
+   <tei:p>
+    Keď mrs. Kate vošla do kupé, miss Rosy sa jej s tôňou irónie   usmiala.
+   </tei:p>
+   <tei:p>
+    — Kate, drahá, musel vás ten váš cudzinec veľmi dojať; boli ste   taká sentimentálna, že som sa bála, že sa rozplačete. Dajte si pozor,   Kate, dajte si pozor!
+   </tei:p>
+   <tei:p>
+    — Nuž je to človek s dušou. Obyčajne hľadíme na každého neznámeho   ako na antipatického egoistu, ktorému len zavadziame v úzkom vozni. A   koľko ráz sa mýlime! Myslím, že skoro vždy.
+   </tei:p>
+   <tei:p>
+    — Čože vás tak dojalo? Ako dobre, že ste sa tak spriatelili s ním,   aspoň sa máme čím cestou baviť.
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿— Vidíte, Rosy, aká ste nekonzekventná. Pred hodinou ste ma   hrešili, že som ľahká vdovička, pozerajúca na mužských, a teraz ma   chválite!
+   </tei:p>
+   <tei:p>
+    Mrs. Kate vyrozprávala obšírne, ako to dámy — i   najinteligentnejšie — robievajú, čo sa shovárala s Verným.
+   </tei:p>
+   <tei:p>
+    — Co myslíte, Kate, nie je váš doktor trochu prisentimentálny?   Takí chlapi nemávajú pevnú povahu. Pomyslite si, Kate, chlap bez   vôle! ... Viete čo; myslím, že urobíme najmúdrejšie, keď vystúpime v   Udine a budeme trochu chodiť na aute po krajine.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate návrh nemilo dojal.
+   </tei:p>
+   <tei:p>
+    — Prečo, drahá?
+   </tei:p>
+   <tei:p>
+    — Lebo váš cudzinec ide iste do Benátok, ktoré sú také malé, že by   sme sa s ním iste sišly či na piazette, či na Lide. Ä keď sa s nim   sídeme, obávam sa o vás, Kate!
+   </tei:p>
+   <tei:p>
+    Miss Rosy pozerala mrs. Kate so strojenou prísnosťou do očú. Kate   sa zapálila.
+   </tei:p>
+   <tei:p>
+    — Co vám budem tajiť, že sa mi ten cudzinec vidí? Iste sa mi vidí,   a aj vám, sweet heart, sa vidí.
+   </tei:p>
+   <tei:p>
+    Rosy sa zapálila ešte i na obnaženom krku, jednako vztýčila hrdo   hlavu.
+   </tei:p>
+   <tei:p>
+    — Ale iste, je to pekný vzor chlapa. Ale že by som sa zaujímala   oň, to tajím. Vystúpime v Udine?
+   </tei:p>
+   <tei:p>
+    Mrs. Kate cítila, že by Rosy bola omnoho radšej, keby jej   odporovala a keby išli rovno na Lido. Ale teraz si trochu zo vzdoru   myslela: „Keď to mrzí mňa, nech to mrzí i teba,“ i povedala:
+   </tei:p>
+   <tei:p>
+    — Dobre, vystúpime. Hoci mi je to celé trochu
+   </tei:p>
+   <tei:p>
+    22
+   </tei:p>
+   <tei:p>
+    ﻿smiešne: utekať pred človekom, ktorý nás naskrze   neprenasleduje.
+   </tei:p>
+   <tei:p>
+    Miss Rosy chcela úplne zahladiť stopy svojho cítenia, ktoré ju   nútilo nedopriať mrs. Kate cudzinca, keď sa ona nemohla dostať s ním   do styku pre svoju prílišnú veľkopanskú pýchu, i povedala:
+   </tei:p>
+   <tei:p>
+    — Ja vám poviem pravdu, že som chcela vystúpiť v Udine i bez   cudzinca. Hlavné, všetkými turistami navštevované mestá sú nám už i   tak známe. Na vidieku je mnoho zaujímavostí a mnoho milej intimity   ozajstného života, ktorý vidíme v malých mestách v jeho skutočnosti,   kdežto vo veľkých len masku.
+   </tei:p>
+   <tei:p>
+    — Rosy, — zvolala mrs. Kate s posmechom, — vy hovoríte ani   profesor na prednáške! Ako ťažko sa pretvárať tomu, kto je nie na to   zvyknutý! Vy ste taká drahá!
+   </tei:p>
+   <tei:p>
+    I stiahla jej hlavu k sebe a bozkala ju.
+   </tei:p>
+   <tei:p>
+    V Udine vošiel do vagóna sekretár a sluha miss Palmerovej, zobrali   ich plédy a skvostné toaletné tašky i knihy a otvorili pred dámami   dvere vagóna. Miss Rosy kráčala s krásnou hlavou hrdo vztýčenou.   Pozrela na Verného, a oči sa im stretly, ale ostaly nemé. Keď išla za   ňou mrs. Kate, vyskočil a poklonil sa jej.
+   </tei:p>
+   <tei:p>
+    — Good bye, — riekla milo, s úsmevom.
+   </tei:p>
+   <tei:p>
+    Verný pozrel na ňu s prekvapeným ľakom, že už odchádzajú, i   zamrmlal čosi nesrozumiteľného, á pokročiac k obloku, hľadel za nimi.   Bol už večer, na nie veľmi skvele osvetlenej stanici bolo málo ľudí,   medzi ktorými bolo vidno Angličianky prechádzať ku východovým dverám.   Neboly ďaleko od
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+   <tei:p>
+    ﻿vozňa, z ktorého vyšly, a Vernému zatrepotale srdce, keď sa   obzrela mrs. Kale a kývla mu ešte rukou i hlavou a keď pobadal i   ľahučké kývnutie hlavou miss Rosy.
+   </tei:p>
+   <tei:p>
+    Obrátil sa a preniesol svoj kufrík do kupé, z ktorého vyšly dámy,   a hodil sa na sedadlo. Bol ešte plný ich jemného parfumu.
+   </tei:p>
+   <tei:p>
+    Smial i hneval sa na seba, že ho nepatrné kývnutie miss Rosy tak   dojalo. Mrs. Kate razom ustúpila do pozadia pred skvelou krásou   Američianky a pred bleskom jej ohromného bohatstva. On pokladá za   bohvie aký znak záujmu jej skromnučké kývnutie hlavou, a ona, ak   vôbec niečo, tak si myslela: „Čože by som mu nekývla hlavou, veď ho   nikdy viac neuvidím. Nech má radosť.“
+   </tei:p>
+   <tei:p>
+    Kým bola najmenšia možnosť prísť s ním do styku, si ho vôbec   nevšimla ani toľko ako čvirikajúceho vrabca na strome.
+   </tei:p>
+   <tei:p>
+    Cítil sa poníženým. Vyhováral sa sára pred sebou, že nemá na to   príčiny, veď sa neprevinil oproti nej v ničom. Jednako ho nemilo   mučilo vedomie, že by bol býval blažený, keby ho bola oslovila, alebo   keby sa bola zúčastnila na jeho rozhovore s mrs. Kate, čo by bola   bývala celkom obyčajná zdvorilosť. Ale on pre ňu vôbec nejestvoval.   Možno, mimovoľne, bez rozmyslu mu kývla hlavou, ako sa kývne sluhovi,   žobrákovi, vôbec každému bez rozmyslu — a jeho to tak vzrušilo!
+   </tei:p>
+   <tei:p>
+    Bolo mu to jedno, kde pôjde teraz. Vábne ženy zmizly z jeho cesty.   Keď si bol umienil, že pôjde na Lido, nuž pôjde ta na niekoľko   dní.
+   </tei:p>
+   <tei:p>
+    24
+   </tei:p>
+   <tei:p>
+    ﻿Večer prišiel na Lido a ubytoval sa v hoteli ,Excelsior‘. Trávil   dni, ako mohol, kúpaním, hraním tenisu a prechádzkami po meste. V   tretí deň popoludní sedel, ako si to už navykol, v kaviarni oproti   prístavišťu vaporettov, a prezerajúc noviny a popíjajúc čiernu kávu,   hľadel na obecenstvo, prichádzajúce parníkmi. Myslel si, že málokedy   robia ľudia taký stádovitý dojem ako v Benátkach, keď vystupujú po   môstku z lode a prechádzajú sa po tlupách v istých hodinách po meste,   putujúc s jedného pamätného miesta na druhé. Všetci majú tie isté   popudy a nejasné predstavy o videnom a hľadia na seba či s ostychom,   či so závisťou alebo s posmechom. Bol presvedčený, že všetci   prisahajú na hezmierne chvály svojich reklamných cestopisov a   pokladajú za nevzdelaného hlupáka, kto si dovolí byť inej mienky.   Veľké množstvo z nich sú zamilované novomanželské páriky, ktoré,   tlačiac sa k sebe, ako trúce sa ryby, nemyslia na nič, len na seba a   svoju lásku. Benátky sú vôbec svätyňou prvých obetí Venuši, a nie San   Marco, ale Kupido a Merkúr by mali byť ich patrónmi. Na piazette,   možno, tak pripadajú pozorovateľovi vo veľkej väčšine nepekné a   všedné páriky zaľúbencov ako všetko všade špiniace holuby.
+   </tei:p>
+   <tei:p>
+    Prišiel zasa vaporetto a Verný hľadel na schádzajúcich. Zrazu   chytil ,Figaro‘, pri ňom na stole ležiace, a zakryl si ním tvár.   Zbadal medzi prichádzajúcimi svojho priateľa, advokáta Paľka Chovaná,   ktorý so svojou ženou Marienkou sebavedome si vykračoval po   nábreží.
+   </tei:p>
+   <tei:p>
+    Asi pred štyrmi rokmi bol Verný zamilovaný
+   </tei:p>
+   <tei:p>
+    25
+   </tei:p>
+   <tei:p>
+    ﻿do Marienky, pokladajúc ju vtedy (Bože môj!) sa najkrajšiu na   svete. K tomu sa všeobecne povrávalo, že dostane hneď po sobáši od   otca — veľkokupca — pol milióna v hotovosti vyčítaných na stôl. Kým   však šťastlivo váhal, či si ju už vziať a vzdať sa klinickej kariéry,   prišiel jeho priateľ Pavol a nátlaku rodičov ľahko povolivšiu   Marienku si vzal. Verný nechcel pred Chovanom ukazovať, ako mu celá   udalosť zarezala do živého, pretvaroval sa, že si z nevery   Marienkinej mnoho nerobí a udržoval s ním priateľstvo ďalej; zavše ho   navštívil a stýkal sa i s jeho ženou celkom priateľsky. Cítil však   oproti nim dlhší čas rozhodnú nevraživosť, ktorá sa časom zmenila na   ľahostajnosť.
+   </tei:p>
+   <tei:p>
+    Keď ich teraz zazrel, obzeral si ich zpoza novín dôkladne, keď   kráčali vzdialení od neho nie viac ako desať-pätnásť krokov.
+   </tei:p>
+   <tei:p>
+    Marienka, teraz trochu vychudnutá, obstojne šumná osoba, mala tvár   veľmi obyčajnú; oblečená bola, hoci so zrejmou nádherou, v   neprimeranej toalete a rozhodne nie vkusne. Verný pomyslel si na   Angličianky, zašatené s krajnou eleganciou, a holo mu ľúto, že sa   naše slovenské dámy nevedia obliekať a že majú len vo výnimočných   prípadoch okúzľujúce vystúpenie. Rozmýšľal, čo je toho príčina, a   prišiel na presvedčenie, že uchvacujúce správanie je vždy výsledkom   vysokovzdelanej, dobrotivej duše a istoty ovládania situácie. Nadulo,   veľkopanský sa držať naučí sa každá chyžná, ale nevie duše vložiť do   tváre a do svojho vystúpenia, kto ju nemá.
+   </tei:p>
+   <tei:p>
+    Verný sa nechcel sísť s Chovanovcami. Boli mu
+   </tei:p>
+   <tei:p>
+    26
+   </tei:p>
+   <tei:p>
+    ﻿priobyčajní, možno, práve preto, lebo bolo tak vidno na nich, že   sú zámožní a že si myslia, že si môžu niečo dovoliť. Porovnávajúc ich   mimovoľne s mrs. Kate a miss Rosy, cítil, že by mu vyslovene zle   padlo, keby sa v ich spoločnosti sišiel s Angličiankami. Mrzelo by   ho, že by myslely, že takí sú ľudia triedy, do ktorej patrí i on.
+   </tei:p>
+   <tei:p>
+    Rozhodol sa, že zajtra predpoludňajším vlakom odcestuje do   Florencie. Veď čože má tu ešte robiť? Bohvie, kde Angličianky zašlý!   Veď čože je tým? Sú voľnejšie ako vták, lebo ich nič neviaže k   nejakému miestu, len ľubovôľa.
+   </tei:p>
+   <tei:p>
+    Večer videl mimochodom, že sa Chovanovci ubytovali v Grand Hoteli   Hungaria a že iste pod zámienkou neznalosti inej reči obcujú tam s   personálom a tamojšími hosťmi po maďarsky, hoci po nemecky vedia.   Zaiste sú nie hrdí na svoju slovenskosť, ale ju zataja ...
+   </tei:p>
+   <tei:p>
+    Ráno bolo prekrásne, od mora povieval ľahučký vánok. Nevydržal v   izbe; chytro pohádzal na seba tenisový úbor a vyšiel na ihrisko.
+   </tei:p>
+   <tei:p>
+    Bolo ešte len šesť hodín a len tu i tu sa mihol človek okolo   hotela alebo na nábreží.
+   </tei:p>
+   <tei:p>
+    Na ihriskách bol už akýsi život. Na jednom bola spoločnosť troch   dám a dvoch pánov a na druhom obďaleč hraly sa dve dámy, ako sa mu   zdalo, hodne pohodlne. Išiel smerom k nim; keď sa priblížil, poznal s   úplnou istotou, že sú to miss Rosy a mrs. Kate.
+   </tei:p>
+   <tei:p>
+    Zprvu bol radostne prekvapený. I zrýchlil krok, ale hneď ho i   stíšil: je otázne, či je on dámam taký vítaný, ako ony jemu. Mrs.   Kate ho iste milo pri-
+   </tei:p>
+   <tei:p>
+    27
+   </tei:p>
+   <tei:p>
+    ﻿víta, ale aký posunok urobí miss Rosy? Jednako kráčal ďalej, lebo   si myslel, že je jeho povinnosťou pokloniť sa dámam. Potom už môže   zariadiť svoje správanie podľa ich pokračovania.
+   </tei:p>
+   <tei:p>
+    Keď bol od ihriska nejakých dvadsať krokov, zvolala naň mrs.   Kate:
+   </tei:p>
+   <tei:p>
+    — Good morning, doktor! Poďte sem!
+   </tei:p>
+   <tei:p>
+    Verný rezko vykročil a poklonil sa. Len Kate mu podala ruku a miss   Rosy kývla s malým úsmevom hlavou. Roly obidve skvostné v tenisových   úboroch a jemu bolo na tvári vidno, že s obdivom hľadí na ne. Verný   mal teraz príležitosť prvý raz si miss Rosy dobre obzrieť. Pri   nedostatočnom pozorovaní nebol mohol pobadať na jej tvári hrdú,   trochu opovržlivú črtu, ktorá trochu zacláňala i jej úsmev.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate podotkla:
+   </tei:p>
+   <tei:p>
+    — Dobre ste prišli. Viete dobre hrať? Miss Palmerová hrá   prvotriedne, ja nie veľmi, nuž moja hra ju veľmi nebaví.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa hrala s loptou a s raketou.
+   </tei:p>
+   <tei:p>
+    — Nuž hrám obstojne, — poznamenala ledabolo.
+   </tei:p>
+   <tei:p>
+    — Som veľmi rád, že sa môžem s vami hrať. Smiem sa vám predstaviť?   Som Ján Verný, lekár z B., Cechoslovák, presne Slovák. Vôbec akási   špecialita, lebo neverím, že by ste mnoho Slovákov poznali.
+   </tei:p>
+   <tei:p>
+    Dámy sa usmialy. Miss Rosy podotkla:
+   </tei:p>
+   <tei:p>
+    — Ste veru prvý Slovák, s ktorým sa shováram, hoci je ich u nás v   Amerike dosť.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate povedala:
+   </tei:p>
+   <tei:p>
+    28
+   </tei:p>
+   <tei:p>
+    ﻿— Never mind it, nerobte si z toho nič, hlavná vec je, či dobre   hráte tenis. Ak áno, tak sú Slováci hravé boys, ak nie, tak je to v   našich očiach veľká národná chyba. Ináč keď ste vy prezradili svoje   inkognito, prezradíme vám i my, že sme miss Rosy Palmerová z Detroitu   a mrs. Kate Jarvie z Oxfordu.
+   </tei:p>
+   <tei:p>
+    Verný sa trochu usmial.
+   </tei:p>
+   <tei:p>
+    — Priznám sa vám, že sa vašej známosti úprimne teším. Ohľadom hry   myslím, že hrám dosť obstojne, keď ma nerozčuľujú. Nuž, šampión som   nie.
+   </tei:p>
+   <tei:p>
+    — Tak ukážte, čo viete. Hrajte jeden set s miss Palmerovou, a ja   budem kritizovať.
+   </tei:p>
+   <tei:p>
+    Prvé dva gamy Verný tak hladko prehral, že vôbec nepočítal   ničoho.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate poznamenala s ľútostivým posmechom; — Ó, doktor, vy   Slováci ste iste v iných hrách
+   </tei:p>
+   <tei:p>
+    majstri, keď v tenise dosahujete rekord absolútnej nespôsobilosti.   Myslím, že by som vás i ja ubila.
+   </tei:p>
+   <tei:p>
+    Miss Rosy vytiahla obrvy dohora a bolo na nej vidno, že stratila   záujem o hru.
+   </tei:p>
+   <tei:p>
+    Verný bol taký zaujatý pozorovaním krásnych pohybov svojej   odporkyne (bolo na nej vidno, že ju i v tomto ohľade cvičili   znamenité učiteľky), že úplne zabudol na hru. Rol by najradšej   odložil raketu a hľadel na uchvacujúce stvorenie. Na slová mrs.   Jarvie sa spamätal.
+   </tei:p>
+   <tei:p>
+    — Máte veru pravdu. Ale prosím ešte trochu trpezlivosti; možno, že   sa soberiem.
+   </tei:p>
+   <tei:p>
+    V hre potom ukázal, čo vie. Pomyslel si, že dámy by holý toho   presvedčenia, že možno i preto hrá tak slabo, aby si získal ich   priazeň. Ale dobrej hráčke nepadne dobre, keď sa s ňou zahrávajú.
+   </tei:p>
+   <tei:p>
+    29
+   </tei:p>
+   <tei:p>
+    ﻿Ostatné gamy vyhral a miss Rosy, namýšľajúca si hodne na svoju   hru, bola trochu nepríjemne rozrušená, keďže už bola pokladala výhru   za istú. Trochu zamračene sa spýtala:
+   </tei:p>
+   <tei:p>
+    — Hráte ešte jeden set?
+   </tei:p>
+   <tei:p>
+    Mrs. Kate, ktorá nebola spustila očú s pekného chlapa, ktorého   postava v tenisovom úbore sa veľmi výhodne uplatňovala, navrhla, aby   sa hrali v trojke, lebo sa obávala, že ak miss Rosy zasa premôže,   namrzi sa naň a hude vyhýbať jeho spoločnosti.
+   </tei:p>
+   <tei:p>
+    — Dovoľte, mrs. Jarvie, ešte jeden set s miss Palmerovou. Zaiste   ma teraz ubije nadobre, a žatým budete vy mať príležitosť moje rany   zahojiť tým, že sa mi dáte premôcť.
+   </tei:p>
+   <tei:p>
+    I hrali druhý set, a mrs. Jarvie s úprimným potešením hľadela na   krásnu hru, výkrikmi dávajúc najavo vše svoj obdiv.
+   </tei:p>
+   <tei:p>
+    Nebolo veľkého rozdielu, ale jednako vyhral Verný. Miss Rosy bola   spokojná sama so sebou, a hoci i prehrala, podala mu ruku s   úsmevom:
+   </tei:p>
+   <tei:p>
+    — Doktor, vy ste fair player.
+   </tei:p>
+   <tei:p>
+    — Ďakujem vám, miss Palmerová. Ufám sa, že v najbližšej hre ma vy   premôžete. Mnoho mi nechybelo. Hráte prvotriedne: musel som sa veľmi   sosbierať.
+   </tei:p>
+   <tei:p>
+    Mrs. Jarvie im gratulovala. — Ale teraz sa poďte so mnou zahrať.   Ufám sa, že zachránim česť anglických dám! Hral sa s mrs. Kate a —   prehral. Prehral — a nie schválne. Mrs. Kate vôhec nebola zlá hráčka   a Verný bol milým správaním miss Rosy taký do-
+   </tei:p>
+   <tei:p>
+    30
+   </tei:p>
+   <tei:p>
+    ﻿jatý, že myslel len na ňu a hra mu bola čímsi vedľajším.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate ukazovala, že je na svoju výhru veľmi hrdá. Miss Rosy,   hľadiac na Verného, usmiala sa s porozumením.
+   </tei:p>
+   <tei:p>
+    — Mrs. Jarvie, vy ste falošná: veď vy hráte prvotriedne.
+   </tei:p>
+   <tei:p>
+    — Ó, áno, vždy, keď budete hľadieť inde, a nie na hru, vyhrám. You   can be súre of it.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa zapálila.
+   </tei:p>
+   <tei:p>
+    — Dámy prišly včera večer?
+   </tei:p>
+   <tei:p>
+    — Áno, a ostaneme tu niekoľko dní, ak nás tunajší Angličania a   Američania neodoženú, — podotkla mrs. Jarvie.
+   </tei:p>
+   <tei:p>
+    — Je to pravda, že nás je všade primnoho, a všetci naši ľudia si   myslia, že je ich povinnosťou starať sa o zábavu osamelých dám a   natískať im svoju vôľu. A my sme si s mrs. Jarvie teraz umienily, že   budeme tak žiť, ako sa nám bude páčiť, a nie cudzím pánom.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate hľadela na Verného a kývla hlavou.
+   </tei:p>
+   <tei:p>
+    — Áno, vyhneme im. Mne by to bolo ľahké, keby som bola sama, ale   ...
+   </tei:p>
+   <tei:p>
+    — Neverím, — zasmial sa Verný.
+   </tei:p>
+   <tei:p>
+    — Ó, iste, ale miss Rosy sa ich nemôže ohnať- Ostanete ešte   tu?
+   </tei:p>
+   <tei:p>
+    — Možno, ostanem. Chcel som dnes odísť do Florencie, ale keby som   sa mohol ešte raz zahrať s vami, vďačne by som ostal. Vidí sa vám   Lido a Benátky?
+   </tei:p>
+   <tei:p>
+    Mrs. Kate spľasla rukami:
+   </tei:p>
+   <tei:p>
+    31
+   </tei:p>
+   <tei:p>
+    ﻿— Ako sa mi tu vidí! Aké krásne belasé je tu more s bielymi, stále   sa meniacimi penami na brehu! Je to, ako by vietor pokyvoval jemným   svetlobelasým hodvábom s čipkovými bielymi okrajmi. Nad ním práve   také belasé nebo a v tej belasosti zatratený polkruh krásneho mesta   so stále sa meniacim životom veľkých morských lodí, parníčkov a   gondol. Je to ako zem so svojou krásou a tvorbou ľudí, vsunutá do   nekonečnosti mora a neba.
+   </tei:p>
+   <tei:p>
+    Miss Rosy i Verný sa usmievali na oduševnení peknej panej.
+   </tei:p>
+   <tei:p>
+    — Madame, vy ste hotový básnik! Ako mocne musí na vás účinkovať   krása!
+   </tei:p>
+   <tei:p>
+    Miss Rosy povedala:
+   </tei:p>
+   <tei:p>
+    — A keď sa podívame na tú tvorbu ľudí, očaria nás paláce, chrámy,   sochy, obrazy nehynúceho pôvabu, dvíhajú dušu na Olymp!
+   </tei:p>
+   <tei:p>
+    Veľký bol rozdiel v prednese mrs. Kate a miss Rosy, ktorá hovorila   chladnokrvno a akosi nedbanlivo.
+   </tei:p>
+   <tei:p>
+    Verný hľadel s obdivom na krásne ženské; prekvapoval ho spôsob ich   vyjadrovania. Jednako ho pokladal za trochu premrštený, a preto   poznamenal:
+   </tei:p>
+   <tei:p>
+    — Nie som veľkým obdivovateľom tohto mesta Iste sú jeho prírodné   krásy veľmi uchvacujúce, i ľudia tvorili tu i mnohé diela,   povznášajúce nás na Olymp, ale na Olymp, na ktorom sídlili i mnohí   bohovia, ktorí boli neprajníkmi ľudského pokolenia.
+   </tei:p>
+   <tei:p>
+    Pomaly sa vzďaľovali s ihriska.
+   </tei:p>
+   <tei:p>
+    32
+   </tei:p>
+   <tei:p>
+    ﻿— Ako môžete tak hovoriť, vy strašný človek! — naskočila naň s   líčeným rozhorlením mrs. Kate.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa usmiala.
+   </tei:p>
+   <tei:p>
+    — Dajte si pozor, mrs. Kate vás ubije, ak sa opovážite haniť jej   sväté mesto.
+   </tei:p>
+   <tei:p>
+    — Nuž, sú Benátky pekné, skorej chutné so svojimi palácmi a   kostolmi, lenže sú paláce jeden ako druhý: rozmanitosť oblokových   oblúkov veľký rozdiel medzi nimi nerobí; renesančné a barokové paláce   sú zasa podobné a je ich pomerne málo. Všimli ste si palác   Vendramin-Calergiho s nápisom na ňom: „Non nobís, Domine, non   nobis.‘; V palazzo ducale je i poprsie tohto briganta: aká je to   pretvárka a faloš! Vyjmúc dvoch-troch, sú to všetko obydlia malých   ľudí, majúcich potešenie jedine vo svojej domácnosti a v tom, že môžu   týmito schránkami pekných žien súperiť medzi sebou. To sú nie   stelesnené túžby mocných, voľných mužov a ich bojov. Predstavte si   paláce vo Florencii: taký palazzo Pitti, alebo Riccardi, alebo   Guadagni!
+   </tei:p>
+   <tei:p>
+    Madame Jarvie poznamenala:
+   </tei:p>
+   <tei:p>
+    — Veď v tomto ohľade máte pravdu, ale jednako je dojem celého   mesta s Canalgrande taký, že nemá podobného.
+   </tei:p>
+   <tei:p>
+    — Iste je to ojedinelý dojem, už i tým, že niet mesta, ktorého   ulice tvorily by lagúny a ktoré by bolo spravované takým spôsobom,   ako Benátky. Mne je aspoň nie známe, že by inde vláda a hlava štátu   po stá rokov sídlila v paláci, ktorý je zároveň jedným z   najukrutnejších žalárov. Moc, blahobyt a šťastie, založené na   mučiarňach a najhroznejšej neistote bezpečnosti svojich obyvateľov,   lebo veď
+   </tei:p>
+   <tei:p>
+    3 Itália.
+   </tei:p>
+   <tei:p>
+    33
+   </tei:p>
+   <tei:p>
+    ﻿nikto nebol istý, či ho už tej noci neprepadnú jeho spoluobčania,   majiíci nad nim strážiť, či ho neodvedú sbirrovia do toho pekla na   svete, hoci bol i najnevinnejší! A k tomu to pokrytectvo a samá   nepoctivosť! Ideu svojho parádneho kostola a všetkých svojich palácov   vzali od cudzích, práve tak ako sochy a stĺpy do veľchrámu. Ukradli   aj telo svojho svätca. Nevybojovali ho, ale ukradli ako   najobyčajnejší kmíni, zahaliac ho do slaniny, aby ho mohamedánom   urobili odporným. Vrchná polovica ich palazzo ducale je prísna a   chmúrna; spodná polovica by sa so svojimi čipkovitými galériami   hodila do letohrádku v krásnom parku. Ich ponte dei sospiri je zvonku   prekrásnou, milou hračkou, zdanlivé miesto pre schôdzky zamilovaných.   Zdnuka je to hrozná chodba do mučiarní, a čo je ešte najstrašnejšie,   pred inkvizičný súd desiatich katov, ktorí sa svojou zbabelosťou   nútili do ukrutností, bojac sa ukázať cit milosrdenstva alebo   spravodlivosti.
+   </tei:p>
+   <tei:p>
+    Miss Rosy zvolala:
+   </tei:p>
+   <tei:p>
+    — Ich dóžovský palác je krásny plumcake (koláč), naplnený   najhroznejším jedom.
+   </tei:p>
+   <tei:p>
+    Mrs. Jarvie pokrútila hlavou a usmiala sa.
+   </tei:p>
+   <tei:p>
+    — Nemáte pravdu! Vy dvaja vidíte všetko pričierne. Rosy, vám sa   páčily Benátky, kým vám ich doktor nepokazil. Krásne obrazy   Belliniho, Tiziana, Tintoretta nevyrástly na hroboch ani v   mučiarňach.
+   </tei:p>
+   <tei:p>
+    — Madame, všimli ste si poprsia dóžov v palezzo ducale? Videli ste   portréty Tintoretta i Tiziana, ich senátorov a kadejakých   prokurátorov?
+   </tei:p>
+   <tei:p>
+    34
+   </tei:p>
+   <tei:p>
+    ﻿— Máte pravdu, — poznamenala Miss Rosy, — to sú všetko hrozné   tváre: alebo zákernícke. alebo ukrutné. Ó, Kate, nenávidím toto   mesto!
+   </tei:p>
+   <tei:p>
+    — Madame, boli ste už v ich žalároch?
+   </tei:p>
+   <tei:p>
+    — Nebola a ani nepôjdem, — odvetila s chutnou trucovitosťou mrs.   Kate. — Myslíte, že nemáme v živote dosť nemilých dojmov, i keď   nebeháme za nimi?
+   </tei:p>
+   <tei:p>
+    — Moja drahá, tak nemôžete správne súdiť, keď hľadíte na všetko   len s krásnej strany, — riekla miss Rosy vážne poučujúcim hlasom.
+   </tei:p>
+   <tei:p>
+    Verný sa zasmial na ich škriepke.
+   </tei:p>
+   <tei:p>
+    — A čo myslíte, že som tým niečo stratila? Čo mám z toho, keď si   kazím svoj milý optimizmus a keď som smutná?
+   </tei:p>
+   <tei:p>
+    Mrs. Kate pritom strčila päťlírnik do dlane otrhanému chlapcovi,   predávajúcemu noviny, ale noviny od neho nevzala.
+   </tei:p>
+   <tei:p>
+    — Ako lacno ho urobím šťastlivým na celý deň! — Nepôjdete dnes do   mesta? — spýtal sa Verný.
+   </tei:p>
+   <tei:p>
+    Dámy hľadely na seba spýtavo. Miss Rosy pokrútila hlavou   záporne:
+   </tei:p>
+   <tei:p>
+    — Neviem ešte.
+   </tei:p>
+   <tei:p>
+    Mrs. Jarvie poznamenala:
+   </tei:p>
+   <tei:p>
+    —- Najskorej nepôjdeme, lebo musíme písať listy. Už sme skoro celý   týždeň nevybavily túto milú povinnosť. A aká vďačná práca je opisovať   našim milým svoje dobrodružstvá; sú to takí vďační čitatelia! Aké sme   pred nimi duchaplné! Však, Rosy?
+   </tei:p>
+   <tei:p>
+    — Zaiste, a právom.
+   </tei:p>
+   <tei:p>
+    — Ale zajtra ráno prídeme na tenis, — riekla
+   </tei:p>
+   <tei:p>
+    3*
+   </tei:p>
+   <tei:p>
+    35
+   </tei:p>
+   <tei:p>
+    ﻿miss Rosy, keď sa jej zazdalo, že Verný zosmutnel.
+   </tei:p>
+   <tei:p>
+    Boli v hale hotela, kývly Vernému hlavou na rozchod a odišly.
+   </tei:p>
+   <tei:p>
+    Zmizly tak neočakávane, že sa Verný cítil veľmi opusteným.   Nahováral si, že sú bezohľadné. Myslel si, že by bolo najlepšie   odcestovať a nechať ich tak. Mal dosť času pobaliť a odviezť sa na   železnicu. Išiel pomaly do svojej izby a preobliekol sa do   vychádzkových šiat, i pobalil po troche. Hľadel oblokom na more a na   život na jeho brehoch. Deň sa mu zdal nekonečne dlhým do rána! Bolo   mu veľmi clivo za Angličiankami. Vyšiel na nábrežie, a nerozmýšľajúc   (predstavoval si stále najmä miss Rosy pri rozličných pohyboch),   chodil hore-dolu, nevediac sa odhodlať na nič. Čakal vaporetto, hoci   vedel, že neodcestuje. Zdalo sa mu, že by sa vďačne sišiel s   Chovanovcami, len preto, aby sa povadil s nimi. A tak jednako sa   prevliekol čas, ktorý by bol stačil na jeho odchod na stanicu, a on   neodišiel.
+   </tei:p>
+   <tei:p>
+    Pozrel na hodiny: bolo pol jedenástej, vlak do Florencie už   odjachal.
+   </tei:p>
+   <tei:p>
+    Sadol na vaporetto a sišiel na piazette. Bola plná tam sa   potulujúceho obecenstva, zväčša z darebáčiacich Benátčanov. Boli mu   protivní vylízaní šviháci, chtiaci koketovať a flirtovať s   cudzinkami, vykrúcajúc na ne svoje hladné oči. Nejedna husička si   namýšľala na svoju neodolateľnú krásu, keď sa taký chudák prilepil na   jej kroky. Mnohé dámy — i prázdnohlaví páni — sa dali fotografovať,   obsadení holubmi, v úzadí majúc San Marco alebo dóžovský palác. Verný   sa uškrnul, hľadiac na šumnú mladú paničku, keď po fotografovaní
+   </tei:p>
+   <tei:p>
+    36
+   </tei:p>
+   <tei:p>
+    ﻿obzrela svoje svetlé hodvábne satočky. Iste si pomyslela, že sa s   holubmi viac fotografovať nedá.
+   </tei:p>
+   <tei:p>
+    Odišiel ku kostolu St. Giovanni a Paolo, pod ktorým stojí socha   condotiera Colleoniho.
+   </tei:p>
+   <tei:p>
+    Obzeral krásnu sochu tohto starého zbojníka, a hneval sa na   Benátčanov. Colleoni im bol urobil platné služby, a jednako ho   otrávili. Prijali od neho stotisíc dukátov na jeho sochu, ktorú boli   povinní postaviť na piazza San Marco, alebo na piazette.
+   </tei:p>
+   <tei:p>
+    Hoci je socha Colleoniho dielo Verrochia a Leopardiho, jedna z   najkrajších jazdeckých sôch na svete (mnohí kritici hovoria, že vôbec   najkrajšia), prešibaní Benátčania postavili ju do zastrčeného kúta,   nad úzku, páchnúcu lagúnu, hoci by ich piazette bola tvorila   prvotriednu okrasu. Colleoni nebol nobile z ich kruhu.
+   </tei:p>
+   <tei:p>
+    Popoludní vošiel do dóžovského paláca a obzeral z dlhej chvíle   dôkladne v jeho dvore všetky sochy; žatým vyšiel na poschodie do   zasadacích siení, všímajúc si tam viac obecenstvo, ako obrazy, ktoré   už mnoho ráz bol popozeral.
+   </tei:p>
+   <tei:p>
+    Stál v sala del maggior consilio pred Paradisom Tintorettovým, a   vše pozrel na obraz, ako by s ľútosťou, že znamenitý maliar také dlhé   roky strávil v základe nie mnoho znamenajúcou maľovačkou, vše zas   hľadel na ostatné, pomerne nie obzvláštne vynikajúce ohromné obrazy,   pokrývajúce rozsiahle steny. Zazdalo sa mu, že počul za sebou hlas   mrs. Jarvie, i obrátiac sa pomaly, videl ju s elegantným mladým   človekom. Pokročil k nej a poklonil sa: videl záblesk potešenia v jej   očiach.
+   </tei:p>
+   <tei:p>
+    37
+   </tei:p>
+   <tei:p>
+    ﻿— A vy ste tiež tu! Miss Rosy bude rada. Podívajte sa, tam stojí.   Hľadí na čiernu škvrnu na stene, kde mal byť obraz Marína Falieriho.   Choďte k nej a môžete spolu kritizovať Benátky, ako sa vám bude   ľúbiť.
+   </tei:p>
+   <tei:p>
+    Verný pozdravil miss Rosy, ktorá ho nezbadala, len keď stál pred   ňou a ju oslovil. Privítala ho s milým úsmevom a podala mu ruku.
+   </tei:p>
+   <tei:p>
+    — Čo viete o tom nešťastnom dóžovi? V cestopise je toho málo o   ňom.
+   </tei:p>
+   <tei:p>
+    I ukázala na čierny štvorec na stene.
+   </tei:p>
+   <tei:p>
+    — Ako vždy: Cherchez la femme. Falieri bol starý úradník   republiky, keď sa stal dóžom. Mal mladú, krásnu ženu, ktorej dvoril   Michele Steno. Pri viacerých príležitostiach sa správal oproti dóžovi   posmešne, a Falieri si nemohol od pyšného nobila zadovážiť nijakého   zadosťučinenia. Dóžovstvo bolo už vtedy parádnym postavením bez   akejkoľvek moci. Moc mali predovšetkým traja ,kápovia‘ desiatich,   ktorí mohli bez akejkoľvek zodpovednosti i zo svojho stredu dať   popraviť, kto im bol podozrivý. Nešťastný Falieri chcel dostať moc do   svojich rúk a hľadal na to spojencov medzi nízko stojacimi občanmi   republiky, nemajúcimi vôbec nijakých politických práv. Pravda,   sprisahanie sa vyzradilo, a Falieriho sťali na Scala dei Giganti.   Ľutujete ho?
+   </tei:p>
+   <tei:p>
+    — Možno, ľutujem ho, ale úcty, s ktorou som hľadela na tú čiernu   škvrnu, viac nemám. Myslela som, že čo robil, toho príčinou bola   oddanosť republike, a nie žiarlivosť a pomstychtivosť. Som zvedavá,   čo sa stalo s jeho ženou?
+   </tei:p>
+   <tei:p>
+    38
+   </tei:p>
+   <tei:p>
+    ﻿— Ani ja ho neľutujem. Skoro nikdy neľutujeme starca, ktorý sa   zamiluje do mladej ženy. Je to neprirodzené. Jeho žene sa nič   nestalo. Nobilovia si medzi sebou nevykálali oči, keď nemali na to   príčiny.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa obrátila a kráčala zo siene. Verný šiel s ňou, obzrúc   sa za mrs. Jarvie a jej spoločníkom. Nebolo ich vidno, najskorej   vošli do inej miestnosti.
+   </tei:p>
+   <tei:p>
+    — Nemali by ste vôle ísť si pozrieť ponte dei sospiri a žaláre, čo   len povrchne, keď ste ich ešte nevideli?
+   </tei:p>
+   <tei:p>
+    Miss Rosy pozrela naň akosi zvedavo a pohla máličko plecom.
+   </tei:p>
+   <tei:p>
+    — Nedbám. Dosiaľ som sa nemohla na to odhodlať.
+   </tei:p>
+   <tei:p>
+    — Úplne postačí, keď si obzrieme miestnosti súdu a jeden-dva   žaláre nad zemou. I to stačí, aby človek navždy zanevrel na   Benátčanov, keď si pomyslíme, koľkí celkom nevinne trpeli tam strašné   útrapy a hroznú smrť.
+   </tei:p>
+   <tei:p>
+    — Myslím, že trochu jednostranne posudzujete tých ľudí. Veď oni   jednako bránili bezpečnosť svojho štátu. Viete, že sa zo všetkých   talianskych republík len Benátky udržaly pri veľkej moci a ich   obyvateľstvo žilo pokojnejšie ako obyvateľstvo Florencie alebo   Milána.
+   </tei:p>
+   <tei:p>
+    — Neviem, či to bolo naozaj tak. Machiavelli chváli benátsku   konštitúciu. Ale predstavte si, že Benátčanov stále otrocký   utlačovali, najmä triedy okrem nobilov. V iných štátoch boly zavše   nepokoje, ale v pokojných časoch mali občania slobodu a
+   </tei:p>
+   <tei:p>
+    39
+   </tei:p>
+   <tei:p>
+    ﻿istotu života a voľnosti. Tu v tejto izbe delia bussola sú dvercia   schránky, do ktorej padaly infámne denunčné listy levskou tlamou,   nachádzajúcou sa v predizbe.
+   </tei:p>
+   <tei:p>
+    Miss Rosy zastala, bolo jej na tvári vidno stiesnenosť.
+   </tei:p>
+   <tei:p>
+    — Bože môj, veď i úradník, ktorý vyberal listy z tej nešťastnej   schránky, iste to robil s trasúcou sa rukou, či aj jeho neoznámili,   alebo člena jeho rodiny.
+   </tei:p>
+   <tei:p>
+    — Čo viac, i desiati vodcovia, ba i členovia collegia dei tre,   tvoriaci trestný senát, neboli istí, či je nie jeden z nich oznámený.   Že bol nevinný? To mu veľmi nepomohlo. Loredanovci žili v   nepriateľstve s Foscarovcami. Dvaja z nich náhle umreli. Syn   znamenitého dóžu Jacoma Foscariho bol iste nevinný v zločinoch, pre   ktoré ho prenasledovali, nespáchal zradu, len už mučením ohlúpený   prosil milánskeho Sforzu, aby sa ho zastal, a preto ho zasa tak   skatovali, že onedlho umrel. Jeho otec nemal ani toľko vlády, aby bol   mohol vykonať to, že by mohol v rodičovskom dome umrieť. Odvliekli ho   na Krétu, tam zahynul. Žatým prenasledovali dóžu Francesca Foscariho,   ktorý, hoci sa sľubom zaviazal do smrti sa nezriecť dóžovskej   hodnosti, jednako musel už ako vyše osemdesiatročný starec opustiť   dóžovský palác. Keď ho obecenstvo videlo, o palicu sa opierajúceho,   schádzať scalou dei Giganti, ľutovalo ho, ale nikto sa neopovážil ani   hlasom, ani posunkom preukázať svoj súcit. Vedel každý, čo by mu bol   zadovážil hoc i mimovoľný pohyb. Veď keď zmizol člen, hoc i   najvplyvnejšej
+   </tei:p>
+   <tei:p>
+    40
+   </tei:p>
+   <tei:p>
+    ﻿rodiny, neopovážili sa jej príslušníci ani sa len vyzvedať, kde sa   mohol podieť, aby i na nich nepadlo podozrenie. Collegio dei tre   robilo v tajnosti, bez vedomia i senátu desiatich, čo chcelo, bez   zodpovednosti. Môžete si myslieť, aké hrôzy tí traja, svojou úradnou   mocou skazení ľudia popáchali. Je mnohonásobne dokázané, že zneužili   svoju moc na odstránenie ľudí, ktorí im z hocijakého ohľadu   zavadzali, alebo na ktorých sa chceli pomstiť. To všetko sa dialo v   miestnostiach, ktoré ideme pozrieť. Môžete si predstaviť, že v takto   spravovanom štáte mohol byť človeku život milý?
+   </tei:p>
+   <tei:p>
+    Vošli do siene, v ktorej zasadávali „desiati“. V jednom z kútov sú   dvercia.
+   </tei:p>
+   <tei:p>
+    — Tadiaľ privádzali obžalovaných pred sudcov.
+   </tei:p>
+   <tei:p>
+    — podotkol Verný.
+   </tei:p>
+   <tei:p>
+    Miss Rosy kývla hlavou. Chvíľku stáli, ticho obzerajúc miestnosť.   Žatým si pozerali do očú, dorozumievajúc sa pohľadom. Miss Rosy   cítila mrazenie po tele.
+   </tei:p>
+   <tei:p>
+    — Bože, ako mnoho ľudí tu stálo s tým pocitom, že by vďačne dali   všetku lásku, všetko šťastie života za momentánnu smrť!
+   </tei:p>
+   <tei:p>
+    — Iste je málo takých miest na svete, na ktorých by ľudia boli   pretrpeli viac najhroznejších úzkostí ako na tomto.
+   </tei:p>
+   <tei:p>
+    — Keby sa nárek a vzdychy, ktoré toto miesto zapríčinilo, spojily   v jeden hrozný chorál, bola by to hrozná obžaloba človeka.
+   </tei:p>
+   <tei:p>
+    — Divím sa, že Dante nepostavil za jeden z najukrutnejších   pekelných trestov: byť súdeným nemravným, predpojatým a zbabelým   sudcom. A tu
+   </tei:p>
+   <tei:p>
+    41
+   </tei:p>
+   <tei:p>
+    ﻿v susedstve je izba troch pohlavárov desiatich, ktorí boli vlastne   koreňom a prameňom všetkého zla a slávy Benátok. Išli do žalárov cez   ponte dei sospiri.
+   </tei:p>
+   <tei:p>
+    Miss Rosy zbadala, s akou vypočítavou brutálnosťou je most zdnuka   vystavený: uzučké, strmé schody, z kameňa len zhruba okresaného, vedú   v ňom do úzkej chodby, lebo je dĺžkou rozdelený na dve polovice, v   jednej z ktorých stáli drábi, aby zúfalému väzňovi vzali akúkoľvek   možnosť i len pomyslenia na nejaký pokus úteku. Zvonku sú v stene   mosta v oblokoch pekne kresané kamenné mreže, cez ktoré vidno na   lagúny a mesto; zdnuka za nimi sú ešte mocné železné, aby   nešťastníkovi ozaj neprišlo na um chcieť ich vyboriť, a shodiac sa do   lagúny, radšej sa v nej utopiť, ako predstúpiť pred ukrutných   benátskych sudcov. Vydratá kamenná dlážka mosta dokazuje, koľkí   kráčali touto hroznou cestou za dlhé veky!
+   </tei:p>
+   <tei:p>
+    S mosta prišli do veľkej sklepenej, len nasurovo ovakovanej   predsiene, údajne mučiarne, z ktorej vedú chodby do žalárov. Vošli do   prvého, ktorý sa im ukázal. Bola to dosť veľká sklepená miestnosť s   oblokom na chodbu. Zaiste to bol žalár pre veľkých pánov. Ale i on   tak pôsobil, že i človek silných nervov zamrel hrôzou, keď ho videl.   V malom obloku sú mreže hrúbky detského ramena a dvere sú nie z   dosák, ale z dubových trámov a na nich závory železné z tyčí hrúbky   mužského ramena. Z toho žalára vôbec nebolo možno ujsť, i keby neboly   na ňom strašné mreže, lebo väzeň by z neho vybehol len na chodbu,   ktorá bola plná
+   </tei:p>
+   <tei:p>
+    42
+   </tei:p>
+   <tei:p>
+    ﻿•drábov a špehov. Ale ako skľučujúc© iste pôsobily na dušu   úbožiakovu, ktorý sa dostal do toho hrozného žalára!
+   </tei:p>
+   <tei:p>
+    Miss Rosy a Verný stáli v otvorených dverách, a pozrúc na seba,   vošli do miestnosti, preplnenej pamiatkami mnohých obetí.
+   </tei:p>
+   <tei:p>
+    — Miss Palmerová, čítal som v istom románe, že pani odlúčená od   svojho milého želá si radšej byť s ním v temnici, ako pri svojom   mužovi v kaštieli. Čo poviete na to?
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa odvrátila, a hľadiac zamrežovaným oblokom, riekla po   chvíli, keď si Verný už myslel, že mu neodpovie:
+   </tei:p>
+   <tei:p>
+    — Nemôžem to posúdiť. Ale myslím, že by pre milujúcu ženu muselo   byť hrozné dívať sa na útrapy svojho milého. Iste by celú lásku   otrávil pocit starosti a žiaľu. A s mužom, milujúcim ženu, by to   muselo byť podobne. Nezostalo by im ničoho iného, ako spolu umrieť.   Nemyslíte?
+   </tei:p>
+   <tei:p>
+    I obrátila sa k Vernému a hľadela mu do očú.
+   </tei:p>
+   <tei:p>
+    — Yes, máte pravdu. Bol by to hrozný egoizmus chcieť mať svoju   milú pri sebe i za cenu takých útrap. Ale nepôjdeme už odtiaľto?
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa mu trochu šelmovsky usmiala.
+   </tei:p>
+   <tei:p>
+    — Vaše ponáhľanie sa odtiaľto nepoukazuje na mnoho citu.
+   </tei:p>
+   <tei:p>
+    — Ale prosím! Vďačne tu ostanem, keď rozkážete. Len by som to dal   na taký prípad trochu zariadiť.
+   </tei:p>
+   <tei:p>
+    — No, tak až druhý raz. Teraz pôjdeme vyhľadať mrs. Jarvie a mr.   Toma.
+   </tei:p>
+   <tei:p>
+    — Mr. Tom je pán, s ktorým bola mrs. Jarvie?
+   </tei:p>
+   <tei:p>
+    43
+   </tei:p>
+   <tei:p>
+    ﻿— Áno, náš sekretár, robiaci vždy to, čo sa jemu Fúbi. Myslím, že   sa mu najlepšie ľúbi dvoriť mrs. Jarvie.
+   </tei:p>
+   <tei:p>
+    — Dávam mu za pravdu, — podotkol Yemý s úsmevom, hoci sa ho i   vedomie, že sa sekretár zaujíma o mrs. Kate, veľmi nepríjemne   dotklo.
+   </tei:p>
+   <tei:p>
+    Vyšli na Scala dei Giganti a čakali tam mrs. Jarvie a Toma, ktorí   o štvrť hodiny prišli, keď ich boli hľadali po celom paláci.
+   </tei:p>
+   <tei:p>
+    Verný si myslel, že jeho povinnosťou je teraz opustiť dámy, aby   nemalý pocit, že pa im natíska, i odporúčal sa im. Pri odchode mu   miss Rosy poznamenala, aby zajtra nezabudol prísť na tenis, lebo že   je dlžen revanš.
+   </tei:p>
+   <tei:p>
+    Verný, odchádzajúc, mal pocit, že ide v ústrety najvyslovenejšej   nude. Na čo si pomyslel, nič ho netešilo.
+   </tei:p>
+   <tei:p>
+    Miss Rosy po jeho odchode naložila sekretárovi rozličné   vykonávania, takže ostala sama s mrs. Kate.
+   </tei:p>
+   <tei:p>
+    Kráčajúc pomaly piazettou, podotkla mrs. Jarvie:
+   </tei:p>
+   <tei:p>
+    — Čo teraz? Budeme sa práve tak nudiť ako predpoludním. Pôjdeme sa   na Lido kúpať?
+   </tei:p>
+   <tei:p>
+    — Škoda, že Verný odišiel. Čas sa s ním jednako lepšie míňa. Má   také myšlienky, že sa dá s ním hovoriť.
+   </tei:p>
+   <tei:p>
+    — Mohli ste ho zadržať; myslím, že by bol vďačne ostal, — riekla s   úsmevom mrs. Kate. — Poďme písať listy.
+   </tei:p>
+   <tei:p>
+    — Veď sme predpoludním nenapísaly ani jeden. Stále ste hovorili   len o Vernom.
+   </tei:p>
+   <tei:p>
+    44
+   </tei:p>
+   <tei:p>
+    ﻿— Neviem, kto z nás viac. Jedno je vlak isté, že ste vďačne   počúvali.
+   </tei:p>
+   <tei:p>
+    — Je to človek z iného prostredia, ako sme my. Tak je prirodzené,   že musí mať pre nás mnoho originálneho.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate sa strochu falošne usmiala.
+   </tei:p>
+   <tei:p>
+    — Iné ho nerobí nič zaujímavým?
+   </tei:p>
+   <tei:p>
+    Ráno sa sišli na tenis grounde a brali sa. Ale nie s tou   zaujatosťou ako deň predtým. I medzi hrou robili dlhé pauzy, ktoré   vypĺňali rozhovormi. Všetkým trom sa zdalo, aké trefné poznámky im   prichodia na jazyk a aký veľký pôžitok majú zo svojich rozprávok. V   tenise ani nedokončili hru a odišli s courtu.
+   </tei:p>
+   <tei:p>
+    V hale hotela sa rozišli zasa.
+   </tei:p>
+   <tei:p>
+    — Tak, Good bye, mistress Jarvie; Good bye, miss Palmerová. Idem   predpoludním do Florencie.
+   </tei:p>
+   <tei:p>
+    Obidve mu potriasly priateľsky ruku.
+   </tei:p>
+   <tei:p>
+    Verný vo Florencii prvé tri dni sedel skoro celý čas, kým holý   obrazárne otvorené, v galérii Uffizi. Zavše zašiel na chvíľu do   palazzo Pitti, ale nemajúc tam pokoja, vrátil sa do Uffizi. Keďže si   to želal, nasugeroval si temer istotu, že miss Palmerová a mrs. Kate   iste prídu do Florencie, a keď budú tu, navštívia aj galériu v   Uffizi.
+   </tei:p>
+   <tei:p>
+    Chodiac po sieňach a koridoroch a stojac vše pred niektorou sochou   alebo obrazom, chcel hľadieť naň, ale prv-neskôr sa zbadal, že nevidí   umelecký predmet, lebo jeho duch blúdil inde. Stále mu holý v hlave   anglické dámy. Namýšľal si, že by nemohol dostať lepšej ženy, ako je   mrs. Jarvie. Je peknej, premilej tváre, súmernej po-
+   </tei:p>
+   <tei:p>
+    45
+   </tei:p>
+   <tei:p>
+    ﻿stavy, nie staršia ako 25—26-ročná a iste veľmi sympatickej,   prispôsobujúcej sa povahy. Peňazí nehľadal, sám zarobiac toľko, že by   mohol rodine dovoliť i istý luxus. Ale keď i vždy začal svoje   fantázie s mrs. Kate, preskočil dosť skoro na miss Rosy, aby od nej   neodišiel. Pokladal ju za hrdú
+   </tei:p>
+   <tei:p>
+    a chladnú a vôbec si nenamýšľal, že by išla zaň. Ale jednako mu   nevychádzala z umu jej neobyčajná krása. Jej prelestné pohyby, ktoré,   hoci bola i priveľkej postavy, boly jednako okúzľujúce, graciózne a   elegantné. Zavše mu prišly na um jej niektoré posunky, pohľady alebo   úsmevy, a tu sa nemohol zbaviť predstavy, že jej je nie celkom   ľahostajný. Vždy mu znel v ušiach jej mäkký, lichotivý altový hlas,   keď niekedy niečo zvláštne milého povedala.
+   </tei:p>
+   <tei:p>
+    Keď sa natrápil takýmito predstavami, rozmýšľal o svojom   pokračovaní. A tu prezrel sám seba a smial i hneval sa na seba.
+   </tei:p>
+   <tei:p>
+    Jeho zásada bola, aby človek sám seba tak mal v moci, aby, keď si   rozvážil dobre, čo by bolo treba urobiť, si to rozkázal, ako   dôstojník vojakovi, a vykonal rozkaz, i keď je to spojené s   nepríjemnosťami. A ozaj sa vnútil často do skutkov, ktoré mu boly v   značnej miere nemilé. Lenže to boly vždy len skutky malého   dosahu.
+   </tei:p>
+   <tei:p>
+    Teraz si nahovoril, že je jeho túžba za Angličiankami úplne   bezzákladná. Angličianky pravdepodobne už dávno naň zabudly a   zabávajú sa ktovie s akými veľkými pánmi. Tak, čo je i jeho po   nich?
+   </tei:p>
+   <tei:p>
+    Všetko to bútanie bolo daromné, lebo Angličianky nemohol vyhostiť   zo svojej hlavy. Po troch
+   </tei:p>
+   <tei:p>
+    46
+   </tei:p>
+   <tei:p>
+    ﻿dňoch nešiel viac do Uffizi, ale chodil po meste, navštevujúc   paláce a kostoly. Všade ich hľadal medzi obecenstvom, ale bez   výsledku.
+   </tei:p>
+   <tei:p>
+    Rád navštevoval baziliku San Miniato al Monte. Tešila ho vychádzka   von z úzkych ulíc mesta na príjemný sparkovaný kopec, na ktorom bol   jeden z najstarších chrámov florentských a prvý stavaný v toskánskom   slohu. Je obtočený malým, ale veľmi útulným cmiterom s niekoľkými   dojemnými sochami.
+   </tei:p>
+   <tei:p>
+    Veď koho by nedojaly umelecké sochy, plné života, predstavujúce   mladých ľudí, keď sú postavené na hroboch! A neveľká bazilika so   svojím milým, štíhlym stĺporadím, osvetleným cez široko poroztvárané   portále priateľským jarným slncom, vľúdne vábi k návšteve, za ktorú   sa odplatí takými krásnymi prekvapeniami, že ich ťažko kedy   zabudneme. Zaiste, hoci i so stiesneným srdcom, častejšie si   pomyslíme na kryptu, v tomto chráme nad jeho dlážkou v boku kopca   umiestenú, do ktorej vyjdeme mramorovými schodišťami s oboch strán   oltára, obdivujúc pritom utešené, z bieleho mramoru vytesané čipky a   arabesky, robiace dojem jemných výšiviek.
+   </tei:p>
+   <tei:p>
+    V krypte sú krásne sarkofágy a sošky utešených mladých pani a   dievčat.. . Aké je to smutné, a koľko žiaľu a bolestí halia tie   krásne mramory.
+   </tei:p>
+   <tei:p>
+    a okolo mnohých z nich poukladané sú čerstvé vence a kytice:   všetko znaky ešte nezahojených, bolestných rán srdca.
+   </tei:p>
+   <tei:p>
+    Verný zakaždým navštívil týchto svojich tichých priateľov a s   dušou, plnou tiesne za stratenými An-
+   </tei:p>
+   <tei:p>
+    47
+   </tei:p>
+   <tei:p>
+    ﻿gličiaukami, žialil za stratenými preludmi a potešeniami svojej   cesty. V roztrpčenejších chvíľach začal zle smýšľať o živote   vôbec.
+   </tei:p>
+   <tei:p>
+    Život však prekvapí niekedy i príjemne.
+   </tei:p>
+   <tei:p>
+    Posledne, vyjdúc z kostola, išiel, ako obyčajne, na neďaleké   piazzale Michelangiolo, aby sa kochal v krásnom výhľade na mesto. V   širokej, zeleňou krytými kopcami obrúbenej doline, ovlažovanej Aruom,   sa rozlieva záplava domov s červenými škridlicovými strechami, z   ktorej vyčnieva množstvo najrozmanitejších veží, kopúl a palácov.   Zeleň kopcov sa strakatie v nej roztrúsenými vilami a malými osadami.   V strede mesta sa vypína v ohromnosti všetko ©panujúcej duomo delia   Santa Maria del Fiore so svojou báječnou kopulou.
+   </tei:p>
+   <tei:p>
+    Verný, hľadiac na prekrásne divadlo, myslel viac na ducha   Florenťanov, ktorý vytvoril tieto umelecky jedinečné zázraky, ako na   ich umeleckosť a výzor. Zabratý do týchtô myšlienok, zabudol i na   miss Rosy a mrs Kate.
+   </tei:p>
+   <tei:p>
+    — Here is our doctor! — začul hlas mrs. Jarvie. —- Good day, mr.   Verný, — ozvala sa i miss Rosy.
+   </tei:p>
+   <tei:p>
+    Verný sa zvrtol ani vzpruhou otočený. Klaňal sa dámam. Na tvárach   a posunkoch všetkých troch bolo vidno, ako sa tešia, že sa sišli.
+   </tei:p>
+   <tei:p>
+    — Kde ste sa schovávali, vy nešťastný človek?! Hľadáme vás už   niekoľko dní, chodíme po kostoloch a obrazárňach, a nikde vás niet, —   hrozila mu mrs. Jarvie prstom.
+   </tei:p>
+   <tei:p>
+    Miss Rosy stála pritom, ako by ju reči mrs. Kate vôbec   nezaujímaly, a hľadela na ňu bez slova.
+   </tei:p>
+   <tei:p>
+    48
+   </tei:p>
+   <tei:p>
+    ﻿— Pravdu povediac, veľmi som si želal, aby ste prišly do   Florencie. Som tu taký opustený. Naši Slováci málo cestujú, a tak môj   výhľad sísť sa so známymi je veľmi malý. Pomyslite si, keď človek   všetky svoje zážitky a geniálne poznámky, aké má ináč každý, musí   nechať len pre seba.
+   </tei:p>
+   <tei:p>
+    — You are right, doctor, človeka tešia, len keď ich môže vysloviť   a keď ho za ne pochvália, — usmiala sa miss Rosy.
+   </tei:p>
+   <tei:p>
+    — Pravda, človek nesmie povedať všetko, čo cíti a myslí, a to je   také smutné, — hovoril Verný s veľmi utrápenou tvárou. — Ale jednako   sa opovážim prezradiť, že sa mi Florencia so všetkými svojimi krásami   vo vašej spoločnosti omnoho lepšie vidí ako bez nej.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa zasmiala.
+   </tei:p>
+   <tei:p>
+    —- Bez otázky i my patríme k jej okrasám, keď sme tu.
+   </tei:p>
+   <tei:p>
+    — Iste, — kývala mrs. Kate so strojenou vážnosťou. — Keby   Florenťania mali rozum, postavili by si nás alebo naše soŕhy na   Loggia dei Lauzi, aby zvýšili svoj cudzinecký ruch.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa smiala a Verný poznamenal veľmi vážne a   precítene:
+   </tei:p>
+   <tei:p>
+    — Máte pravdu, madame, mali by to urobiť.
+   </tei:p>
+   <tei:p>
+    Úprimné presvedčenie, vyznievajúce z reči Verného, vohnalo obidvom   dámam červeň do tváre.
+   </tei:p>
+   <tei:p>
+    — Dávni Florenťania by to boli iste urobili. Tí, ktorí rozkázali   svojim staviteľom, aby im postavili najkrajší a najväčší chrám, aký   len môže byť na svete. Pomyslite si, aký je to rozdiel medzi občanmi   florentskými a benátskymi, ktorí rozkázali svojim
+   </tei:p>
+   <tei:p>
+    4 Itália.
+   </tei:p>
+   <tei:p>
+    49
+   </tei:p>
+   <tei:p>
+    ﻿ľuďom, aby ukradli ideu svojho kostola len tak, ako i stĺpy a   sochy doň pokradli!
+   </tei:p>
+   <tei:p>
+    — Taký, ako medzi ich duomom a chrámom sv. Marka! — zvolala miss   Rosy.
+   </tei:p>
+   <tei:p>
+    — Uznám, že kopuly sv. Marka sú pozlátené škrupiny v porovnaní so   zázračnou, temer nepochopiteľnou výšavou a priestranstvom kopuly   duomu.
+   </tei:p>
+   <tei:p>
+    — Tak i z vás sa stane Šavol Pavlom, dear madam, — riekol Verný. —   Dojem, ktorý som mal, keď som prvý raz zastal medzi duomom,   campanillou a battisteriom, je možno jedinečný na svete.
+   </tei:p>
+   <tei:p>
+    Miss Rosy mu oduševnene prisviedčala, pričom sa jej oči nezvyčajne   lesklý.
+   </tei:p>
+   <tei:p>
+    — Äno, doktor. A v Renátkach, stojac pred San Marcom a palazzom,   mám pocit, že sa dívam na cifrované veci v panoráme. Tu ma tie budovy   ohromujú a zároveň pozdvihujú, že človek môže niečo takého   veľkolepého a vysoko umeleckého tvoriť.
+   </tei:p>
+   <tei:p>
+    Verný hľadel na ňu s oduševneným obdivom, mysliac si, že neuvidí   chytro takú krásnu ženskú, ako bola miss Rosy v tú chvíľu.
+   </tei:p>
+   <tei:p>
+    Miss Rosy precítila význam jeho pohľadu a sklopila oči.
+   </tei:p>
+   <tei:p>
+    Mrs. Jarvie hľadela na nich, a trochu vydýchnuc, usmiala sa; v jej   úsmeve bol tieň trpkosti. Poznamenala však:
+   </tei:p>
+   <tei:p>
+    — Dovolíte, aby som i ja prispela na oslavu Florencie? Nezabúdajte   na Ghibertiho portále, ktoré, hoci nie veľkosťou, ale umeleckosťou,   nestoja niž-
+   </tei:p>
+   <tei:p>
+    50
+   </tei:p>
+   <tei:p>
+    ﻿šie ako Giottova campanilla a Bruneleschiho kopula.
+   </tei:p>
+   <tei:p>
+    — Ó, mrs. Jarvie, my s obdivom uznávame váš opravdivý umelecký   vkus!
+   </tei:p>
+   <tei:p>
+    Dámy poslaly svoje auto do mesta a šly peso s Verným, rozprávajúc   si ďalej o svojich skúsenostiach.
+   </tei:p>
+   <tei:p>
+    Umienily si, že vo Florencii ostanú dlhší čas, preto si najaly   vilu na Ťavej strane Arna. Verný, hoci bol už odhodlaný, že   odcestuje, poznamenal, že ostane ešte niekoľko dní, na dôkaz toho,   ako sám zachovával svoje naloženia. A Verný bol všeobecne známy ako   človek pevného slova.
+   </tei:p>
+   <tei:p>
+    Zavolaly ho na čaj, a išiel vďačne.
+   </tei:p>
+   <tei:p>
+    Ich rozhovory sa točily vždy okolo všeobecných tém, vo   vynachádzaní ktorých bol Verný nevyčerpateľný. Že sa druh druhovi   videli, hľadeli si byť podľa možnosti príjemní. Všetci traja boli   pomerne vysokovzdelaní a dosť duchaplní, a tak sa svojimi rozhovormi   dobre zabávali a stali milými navzájom. Chodili po meste, navštevujúc   najmä zaujímavé predmety, vozili sa po okolí a vše sa na premienku   zahrali tenis alebo biliard, majúc obidvoje vo vile.
+   </tei:p>
+   <tei:p>
+    Verný mal prevahu nad svojimi spoločnicami skoro v každej otázke   ako i v hrách. Dal si však veľmi záležať na tom, aby im ju nedal   cítiť. Vediac, že sa obyčajne rozprávajúci omnoho lepšie zabáva ako   poslúchajúci, hľadel otázkami dámy pohnúť, aby mu opísaly americké a   anglické pomery, dávajúc veľký pozor, aby to holý veci také, na ktoré   mohly byť hrdé a o ktorých hovorily vďačne. Pri navštevovaní   rozličných pamiatok hľa-
+   </tei:p>
+   <tei:p>
+    51
+   </tei:p>
+   <tei:p>
+    4
+   </tei:p>
+   <tei:p>
+    ﻿delí nie na to, aby videli každú maličkosť, ale aby si   najdokonalejšie veci čím najživšie vštepili do duše.
+   </tei:p>
+   <tei:p>
+    Michelangelove sochy v Segrestii nuove účinkovaly na Verného takým   mohutným dojmom, že obledol a okolie očú mu zarudlo. Trasúcou rukou   pohladil (hoci bolo prísne zakázané) sochu „Noci“.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate zašeptala:
+   </tei:p>
+   <tei:p>
+    — Doktor, čo vám je, cítite sa zle?
+   </tei:p>
+   <tei:p>
+    Mocný otras účinkoval i na dámy, ktoré ešte neboly svedkami takého   mohutného dojmu umeleckého diela na niekoho.
+   </tei:p>
+   <tei:p>
+    — Boh zachovaj! — odvetil ticho Verný. — Každý raz, keď vidím   tieto zázraky umenia, ma prejdú vlny takého dojatia, ako myslím, že   prešly prvých kresťanov, keď hľadeli na pozostatky apoštolov.
+   </tei:p>
+   <tei:p>
+    — Viem, prečo ste pohladili tie sochy, — poznamenala miss Rosy   dojatým hlasom.
+   </tei:p>
+   <tei:p>
+    — Prečo? — spýtala sa trochu posmešne mrs. Kate.
+   </tei:p>
+   <tei:p>
+    — I ja som sa ich dotkla. Mám vedomie, že keď Michelangelo   pracoval na tých*1 sochách, musely atómy z neho zostať na nich. Keď   sa ich teraz dotknem, tak pohladím ruku najväčšieho umelca, ktorý   kedy žil na svete.
+   </tei:p>
+   <tei:p>
+    Verný prikývol.
+   </tei:p>
+   <tei:p>
+    — Mám ten istý pocit. Ale videli ste pamätník Michelangelov v   chráme Santa Croce? Čo si musíme pomyslieť, keď porovnáme tieto   nepochopiteľne skvostné ženské postavy a tieto sochy dvoch Medicich,   týchto dvoch nobodies (niktošov), ktorí
+   </tei:p>
+   <tei:p>
+    52
+   </tei:p>
+   <tei:p>
+    ﻿v živote nič nedokázali, tohto Lorenza II. a Giuliana, tieto   nedostihnuteľne krásne diela s nemotorným pomníkom, ktorý sa dostal   jemu údelom!
+   </tei:p>
+   <tei:p>
+    — Nemáte pravdu, doktor, — odporovala mrs. Jarvie. — Michelangelov   pomník je nie v Santa Croce. Jeho pomník je tu, je v kopule sv.   Petra, je v Sixtínskej kaplici, je všade, kde sú jeho diela.
+   </tei:p>
+   <tei:p>
+    Miss Rosy dojala skvostná prostota bez akéhokoľvek luxusu v   Segrestii nuove.
+   </tei:p>
+   <tei:p>
+    — Porovnajte túto miestnosť, kde je skoro všetko výtvorom   Michelangelových rúk a jeho ducha
+   </tei:p>
+   <tei:p>
+    s nekonečným prepychom hrobky ostatných Mediciovcov. Neviem, či   niekde tak bije do očú rozdiel medzi tým, čo tvorí génius a čo môžu   urobiť milióny.
+   </tei:p>
+   <tei:p>
+    — Hoci, dear miss Rosy, keby holý tieto sochy tu na predaj, vaši   rodáci by ich omnoho drahšie zaplatili, než čo stálo mauzóleum   toskánskych granducov.
+   </tei:p>
+   <tei:p>
+    — Možno, že by si i miss Rosy kúpila jednu z tých krás, — usmiala   sa mrs. Kate.
+   </tei:p>
+   <tei:p>
+    — Zaiste hy môj otec neľutoval vymeniť zlatom tieto mramory, —   riekla miss Rosy s hrdým pohnutím hlavy.
+   </tei:p>
+   <tei:p>
+    Bolo už po piatej, i odišli autom do svojej vily.
+   </tei:p>
+   <tei:p>
+    Na ponte vecchio sišla mrs. Kate, robiaca vždy kadejaké nákupy,   aby poprezerala, čo tam zlatníci majú zaujímavého. Keď prišli domov,   poslali auto po ňu.
+   </tei:p>
+   <tei:p>
+    Miss Rosy nechala Verného v jednom zo salónikov a odišla na   chvíľočku do svojich izieb. Verný, hľadiac oblokom na vavrínové kry a   cyprusové
+   </tei:p>
+   <tei:p>
+    53
+   </tei:p>
+   <tei:p>
+    ﻿aleje, rozmýšľal zronene o tom, že o niekoľko dní musí odcestovať.   Keď si predstavil, že sa musí rozlúčiť s miss Rosy, stislo sa mu   srdce bolestne, takže si po prsiach pobúchal päsťou, aby ho nejako   upokojil. Nuž ale čože chcel? Yeď o tom nebolo ani len možnosti   myslieť, že by si ju mohol vziať. Za mrs. Kate mu nebolo tak ľúto;   nahováral si, že preto, lebo s ňou nemusel pretrhovať styky.
+   </tei:p>
+   <tei:p>
+    Počul tichučký šuchot, a obrátiac sa, zazrel miss Rosy, ktorá   vošla do salónu. Hľadel na ňu s obdivom. Aká bola krásna! Nikdy ju   takú nevidel! Mala oceľovobelasé šaty, pančuchy slezovej farby a   svetlobelasé črievičky; na prsiach jej visela reťaz jantárových   perál, veľkých ako orech.
+   </tei:p>
+   <tei:p>
+    — Dearest, miss Palmer, odpusťte moju poznámku: keby dobrý maliar   namaľoval teraz váš portrét, dostal by sa razom medzi   najpovestnejších maliarov.
+   </tei:p>
+   <tei:p>
+    Miss Rosy sa trochu zapálila a kývla milo a hrdo hlavou.
+   </tei:p>
+   <tei:p>
+    — Áno, odpustím vám to. Ba nielen odpustím, ale teším sa tomu, že   sa vám vidím.
+   </tei:p>
+   <tei:p>
+    Verný pocítil, že mu udrela krv do tváre. Miss Rosy nikdy   nehovorila s ním takýmto spôsobom.
+   </tei:p>
+   <tei:p>
+    — Je mi veľmi ľúto, že sa zajtra-pozajtre už musím od vás odobrať.   Moje aranjuezské dni sa končia.
+   </tei:p>
+   <tei:p>
+    Miss Rosy si sadla na malý empírový fotel, ktorý pri svojej nie   veľkej pohodlnosti mal výhodu, že nezakrýval nič z krásnej   postavy.
+   </tei:p>
+   <tei:p>
+    — Dajte mi cigaretu.
+   </tei:p>
+   <tei:p>
+    54
+   </tei:p>
+   <tei:p>
+    ﻿Verný jej podal zlatú dózu s cigaretami, ležiacu na malom   vykladanom stole.
+   </tei:p>
+   <tei:p>
+    Po zapálení cigarety hľadela miss Rosy chvíľočku na tepich pod   garnitúrou.
+   </tei:p>
+   <tei:p>
+    Napokon, keď Verný začal hovoriť, pretrhla ho:
+   </tei:p>
+   <tei:p>
+    — Musíte už zajtra odcestovať? •—- riekla trochu pritlmeným   hlasom, hľadiac mu prosto do očú.
+   </tei:p>
+   <tei:p>
+    Verný vzdychol:
+   </tei:p>
+   <tei:p>
+    — Neúprosná povinnosť ma volá.
+   </tei:p>
+   <tei:p>
+    — I keby som vás prosila, aby ste ešte zostali, odišli by ste?
+   </tei:p>
+   <tei:p>
+    Verný si sadol neďaleko nej do fotela, zrejme preto, aby získal   aspoň chvíľku času na rozmyslenie, čo jej má povedať.
+   </tei:p>
+   <tei:p>
+    Cítil, že príde do ťažkého postavenia, jednako bol jeho cit omnoho   mocnejší v tú chvíľu ako jeho rozvaha, i riekol tupo:
+   </tei:p>
+   <tei:p>
+    — Myslím, že v tom prípade ešte skorej.
+   </tei:p>
+   <tei:p>
+    — Nerozumiem vás, — riekla ticho trochu neistým hlasom, ktorý   prezrádzal, že vie, prečo chce už odcestovať.
+   </tei:p>
+   <tei:p>
+    — Keby som na vašu žiadosť teraz ešte tu ostal, bolo by mi žatým   ešte omnoho ťažšie odísť ako teraz.
+   </tei:p>
+   <tei:p>
+    — Tak: chcem, aby ste ostali!
+   </tei:p>
+   <tei:p>
+    — Ó, drahá miss Rosy, vy vzbudzujete vo mne neuskutočniteľné   nádeje.
+   </tei:p>
+   <tei:p>
+    Miss Rosy polámala cigaretu na popolníku, žatým pozrela milým,   šelmovským úsmevom na Verného, nespúšťajúceho s nej očú.
+   </tei:p>
+   <tei:p>
+    — Vy ma radi máte?
+   </tei:p>
+   <tei:p>
+    55
+   </tei:p>
+   <tei:p>
+    ﻿Verný sklonil hlavu a chytil si ju obidvoma rukami; chvíFu ju tak   držal a žatým, vztýčiac ju, ako človek odhodlaný na všetko,   zašeptal:
+   </tei:p>
+   <tei:p>
+    — Neviem vám vypovedať, aká ste mi milá. Nemal som ani tušenia, že   niekoho možno tak ľúbiť. Som veľmi nešťastný!
+   </tei:p>
+   <tei:p>
+    — Nebuďte nešťastný, i ja vás ľúbim. Chcete ma bozkať? — podávala   mu obidve ruky, a nahnúc sa k nemu, núkala mu ústa.
+   </tei:p>
+   <tei:p>
+    Verný sa hodil k nej na kolená a oblapil ju okolo drieku, jej   ramená ovinuly jeho krk, pozreli si za chvíľku do očí, ako by chceli   vedieť, či je to ozaj všetko pravda, a zamreli blaženosťou v prvom   bozku.
+   </tei:p>
+   <tei:p>
+    Žatým mali príležitosť presvedčiť sa hodnú chvíľu, v aké dieťa   premení láska i vážneho i tvrdého človeka.
+   </tei:p>
+   <tei:p>
+    Keď vošla mrs. Kate, obzrela ich trochu upodozrievavo a   poznamenala, že sa jej podarilo kúpiť zaujímavé zlatnícke   starožitnosti, a odišla do svojej izby sa preobliecť.
+   </tei:p>
+   <tei:p>
+    — Kate poznala, že sa tu niečo stalo. Vie iste, že sme sa   zasnúbili. Ó, tá má oči! Bude akiste veľmi prekvapená!
+   </tei:p>
+   <tei:p>
+    Poznámka, že sa zasnúbili, otriasla Verným. Zaiste, snívajúc o   miss Rosy, staval si poveterné zámky i o tom, ako by žili, keby sa   sosobášili. Lenže vedel veľmi dobre, že takéto zámky sa stavajú bez   ohľadu na to, že keby ho miss Rosy i milovala, či by si ho vzala za   muža. Teraz ho svojím správaním a oddanosťou tak prekvapila, že jej   lásku, hnaný túžbou za krásnou ženou, bez rozvahy prijal.
+   </tei:p>
+   <tei:p>
+    56
+   </tei:p>
+   <tei:p>
+    ﻿Predstava, že si ju musí vziať za ženu, padla mu ako trpká kvapka   jedu do pohára slasti.
+   </tei:p>
+   <tei:p>
+    Keď o krátky čas prišla mrs. Jarvie k nim, bol veFmi vážny, skoro   skormútený; i miss Rosy správala sa tak nenútene, že mrs. Kate celkom   pomýlené hľadela na nich.
+   </tei:p>
+   <tei:p>
+    Shovárali sa o jej nákupe a Verný onedlho odišiel, keď ho miss   Rosy bola milo vyzvala, aby zajtra prišiel včaššie ako inokedy.
+   </tei:p>
+   <tei:p>
+    Verný, vyjdúc na ulicu, kráčal úplne bez uváženia, ktorým smerom   ide. Jeho duša bola celkom vyzdvihnutá z dverají. Chvíľami bol hrdý a   šťastný, že ho taká krásna, vzdelaná a bohatá ženská obdarovala   svojou láskou a oddanosťou, a v nasledujúce chvíle sa mu vrezalo   bolestne do srdca, že je úplne vylúčené, že by si ju mohol vziať za   ženu. Musel by jej obetovať celý svoj doterajší život, všetky svoje   záujmy, celé svoje doterajšie bytie. A bolo otázkou, či je ženská, i   zaistene dokonalá a ľúbiaca, takej obeti hodna? Predstavil si, že   sosobášiac sa s ňou, šiel by do Ameriky, a vzdajúc sa svojho   povolania, na ktoré miss Rosy nehľadela so zvláštnym rešpektom a   sympatiou, žil by ako nejaký trúd z jej majetku, iste nenávidený a   opovrhovaný jej spoločnosťou. Alebo, keď povážil možnosť, že by ona   šla s nim do jeho nemocnice, tak sa mu natískala neodbytná istota, že   by za krátky čas zunovala i našu chudobnú spoločnosť, i naše veľmi   provinciálne, úzunké pomery. Následkom toho by musel byť rozchod,   alebo unudený život, plný zriekania a pretvárky. Nemohol si nájsť   východisko z týchto ťažkých okolností. Chcel si na-
+   </tei:p>
+   <tei:p>
+    57
+   </tei:p>
+   <tei:p>
+    ﻿hovoriť, že keby odišiel s ňou do Ameriky, časom by iste našiel   spôsob uplatniť sa i v jej pomeroch, ale v povedomí mu nezvratné   sedela istota, že by za nijaké peniaze a nijakú lásku nemohol trpieť   čo i len stopy opovrhovania alebo posmechu. Predstavil si, akú smutnú   postavu by iste hral medzi ľuďmi, ktorých spôsoby života a svetový   náhľad sú mu celkom cudzie a neznáme, a ktorí by s tým väčšou   nenávisťou hľadeli na votrelca, lebo im ■odobral prekrásne a bohaté   dievča, za ktorým iste mnohí z nich túžili. K tomu by sa musel vzdať   svojho povolania, s ktorým on už srástol a ktoré mu bolo milé, na   ktoré bol zvyknutý hľadieť ako na úplne uspokojujúci životný   cieľ.
+   </tei:p>
+   <tei:p>
+    A tak sa obrátila jeho radosť chytro v trpké utrpenie. Mal miss   Rosy veľmi rád. Myslel si, že hlavné črty jej povahy sú súrodé s jeho   životnými náhľadmi, že je v základe šľachetného, dobrotivého srdca;   pravda, skazeného do istej miery tým, že každá jej žiadosť bola vždy   vyplnená, že je vôbec nie privyknutá na nijaké zriekanie, čoho   dôkazom je i jej terajšie správanie sa oproti nemu. Zapáčil sa jej, a   ona si ho bez akejkoľvek lepšej ■rozvahy chce vziať. Je hrdá, čo je   prirodzené, keď bola vychovaná v pomeroch, ktoré ju musely takou   urobiť. Keby vedela, že jej muž by nehral taký zástoj, aký si ona o   ňom predstavuje, jej láska k nemu by tým trpela, ktovie, koľko by   vládala vytrpieť, aby vôbec nezahynula?
+   </tei:p>
+   <tei:p>
+    A teraz čo urobiť? Uvedomiť ju, hoc i s prebolestným zriekaním, že   si ju nemôže vziať? Ako bude trpieť tým jej hrdosť, ako zanevrie naň   a
+   </tei:p>
+   <tei:p>
+    58
+   </tei:p>
+   <tei:p>
+    ﻿v aký hnev a opovrhnutie sa obráti jej láska! A to má urobiť   ženskej, ktorá mu je nadovšetko milá? Za ktorú by doniesol akúkoľvek   obeť, okrem zrieknutia sa svojej cti!
+   </tei:p>
+   <tei:p>
+    Rozmýšľajúc potĺkal sa po uliciach do noci. Bolo okolo polnoci,   keď prišiel do svojho bytu. Sediac
+   </tei:p>
+   <tei:p>
+    a chodiac sem-ta po izbe, vymýšľal plán za plánom, aby všetky   odvrhol.
+   </tei:p>
+   <tei:p>
+    Okolo jedenástej sa zjavil vo vile miss Palmerovej a sluha ho   zaviedol k mrs. Kate na terasu.
+   </tei:p>
+   <tei:p>
+    Mrs. Jarvie zdala sa mu veselšia ako inokedy, ale keď ju lepšie   pozoroval, nadobudol presvedčenie, že je jej veselosť strojená. Akási   roztržitá sa zdala. Upravovala kvety do vázy a stále jej padaly z   pripohyblivých rúk. Pozrela naň.
+   </tei:p>
+   <tei:p>
+    —- Mr. Verný, vy sa akosi necítite dobre. Šťastlivý snúbenec by   mal byť omnoho blaženejší.
+   </tei:p>
+   <tei:p>
+    Verný sa začervenal.
+   </tei:p>
+   <tei:p>
+    — Tak miss Rosy vám povedala?
+   </tei:p>
+   <tei:p>
+    — Áno, že ste sa zasnúbili. Blahoželám vám!
+   </tei:p>
+   <tei:p>
+    I podala mu mäkkú, teplú rúčku.
+   </tei:p>
+   <tei:p>
+    — Ďakujem vám čo najsrdečnejšie, —- riekol i bozkal jej ruku.
+   </tei:p>
+   <tei:p>
+    — Viete čo, miss Rosy sa ešte neukáže ani o dve hodiny. Čo   myslíte, chce byť pre vás okúzľujúca.
+   </tei:p>
+   <tei:p>
+    — Bože môj! Okúzľujúca! Veď je ona i tak hotový anjel, načo sú jej   dve hodiny?
+   </tei:p>
+   <tei:p>
+    — Môj drahý, to len taká majstrovská chyžná vie, čo znamená   dokonalá dáma v každom ohľade. Viete čo? Prejdime sa. Poďte na   piazzale Michelangiolo; odtiaľto je to nie ďaleko.
+   </tei:p>
+   <tei:p>
+    — Pôjdem vďačne s vami.
+   </tei:p>
+   <tei:p>
+    59
+   </tei:p>
+   <tei:p>
+    ﻿Prišli do parku okolo San Miniato skoro bez slova; obidvaja boli   zahrúžení do myšlienok, ktoré nepokladali za zrelé na vyjadrenie.
+   </tei:p>
+   <tei:p>
+    Verný sa zohol a zdvihol na ceste pohodenú vetvičku myrty.
+   </tei:p>
+   <tei:p>
+    — Čo poviete na naše zasnúbenie? Mrs. Jarvie, vaše mlčanie je také   podivné!
+   </tei:p>
+   <tei:p>
+    — A mne vaše, dear Verný. Vaše srdce je ťažké — len láskou?
+   </tei:p>
+   <tei:p>
+    — Poviem vám pravdu, že väčšmi starosťou ako radosťou.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate zastala a obzrela sa: okolo nebolo nikoho vidno. Bola   neobyčajne vážna a pery sa jej trochu triasly. Sklopila veľké, čierne   oči.
+   </tei:p>
+   <tei:p>
+    — Poviem vám, že vás mám rada a že mi je veľmi ťažko hovoriť o   vašom zasnúbení. Keď budem celkom úprimná, pomyslíte si, že hovorí zo   mňa žiarlivosť. — Zatíchla na chvíľku, ako by rozmýšľajúc, a žatým   riekla skoro šeptom: — A ktovie, možno, že i hovorí?
+   </tei:p>
+   <tei:p>
+    — Vy ma máte radi? Drahá mrs. Kate, iste nie radšej ako ja vás.   Ste mi nekonečne sympatická. Poznám vašu dobrotivú dušu a som   presvedčený, že len úprimný záujem o miss Rosy a, možno, i o mňa   diktuje vaše slová.
+   </tei:p>
+   <tei:p>
+    — Tak poďme ďalej. Rozmysleli ste si, aké bude vaše spolužitie s   miss Rosy?
+   </tei:p>
+   <tei:p>
+    — Rozmyslel a nespal som od starosti celú noc. Aby som vám pravdu   povedal, pokladám svoj sňatok s Rosy za veľmi problematický.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    60
+   </tei:p>
+   <tei:p>
+    ﻿Verný jej vyrozprával všetko, čo cez noc rozmýšľal.
+   </tei:p>
+   <tei:p>
+    — Prečo ste nevyhli tomu vyznaniu, keď ste iste vedeli o   ťažkostiach, s ktorými je vaše manželstvo s Rosy spojené?
+   </tei:p>
+   <tei:p>
+    — Vaša spoločnosť mi bola a je nadmieru milá. Kde som ja s tým   počítal, že by ma Rosy chcela za muža!
+   </tei:p>
+   <tei:p>
+    — Doktor, vy ste statočný človek. Ubezpečujem vás, že máloktorý   mužský by tak hovoril, keby mohol dostať do svojej moci takú krásnu   ženu a toľké milióny dolárov ročitého dôchodku, ako má miss   Palmerová. A možno, že tí mužskí by mali pravdu a vy že ste nesmelý,   naivný Slovák! Ale, hocijako, dávam vám za pravdu.
+   </tei:p>
+   <tei:p>
+    Verný bol plný nádeje, že mu mrs. Kate vyhovorí jeho starosti z   hlavy. Keď teraz počul jej slová, riekol smutne:
+   </tei:p>
+   <tei:p>
+    — Tak vy pokladáte moje obavy za oprávnené?
+   </tei:p>
+   <tei:p>
+    — Áno, vaše obavy sú oprávnenejšie, ako vy myslíte. Viete čo?   Urobte pokus, ktorým nič neriskujete. Ja poznám lepšie povahu miss   Rosy ako vy. Som s ňou už skoro pol roka a mne sa ukáže taká, aká je.   Ona je veľmi dobrá a má vo svojej povahe mnoho šľachetného.   Zamilovala si vás ako Desdemona Othella pre nebezpečenstvá, ktoré   vytrpel, pre rozličné romanticky znejúce udalosti, ktoré ste jej   rozprávali zavše z vášho života a okolia a ktoré sú pre ňu niečo   úplne nového. Účinkoval na ňu i veľký záujem, ktorý máte o umenie a   že máte o mnohých veciach inú mienku, ako je v estetikách a   cestopisoch. Pokladá vás za geniál-
+   </tei:p>
+   <tei:p>
+    61
+   </tei:p>
+   <tei:p>
+    ﻿neho človeka. Ste vôbec celkom nová postava v jej živote. Tieto   posledné týždne sme sa okrem vás nestýkaly s nikým. Je otázka, či   nebude styk s inými pánmi vplývať na ňu tak, že premôže dojem, ktorý   ste na ňu urobili. A keď nepremôže, tak aspoň oslabí, keď vás tu   nebude. Máte i tak už odcestovať domov: tak choďte o dva-tri dni.   Ostaňte doma tri, nie, povedzme, len dva týždne. Žatým sa vrátite,   alebo nie, podľa toho, ako sa vyvinú pomery. Dajte mi svoju adresu,   aby som vám mohla písať, keď bude potrebné.
+   </tei:p>
+   <tei:p>
+    Verný jej bozkal ruku s úprimným citom vďaky
+   </tei:p>
+   <tei:p>
+    a oddanosti. Dal jej vizitku so svojou adresou, ktorú si odložila   do vizitkovej kabelky.
+   </tei:p>
+   <tei:p>
+    — A ja nesmiem vedieť vašu adresu, dearest mrs. Jarvie?
+   </tei:p>
+   <tei:p>
+    I mrs. Kate mu dala svoju vizitku, na ktorej pripísala ulicu:   Highcourt Street 6.
+   </tei:p>
+   <tei:p>
+    Verný ostal vo Florencii ešte tri dni a zažil s miss Rosy   neopísateľne blažené časy. Rosy bola najmilšia, najoddanejšia   snúbenica. Zdalo sa, že sa jej povaha celkom premenila, lebo sa stala   neuveriteľne skromnou. I sama mrs. Kate bola ňou úplne pomýlená, a   keď sa Verný odoberal, zašeptala mu, hoc i zronene, že má nádej, že   miss Rosy láskou tak premení, že bude z nej znamenitá, prispôsobujúca   sa žena.
+   </tei:p>
+   <tei:p>
+    Prvých päť dní po svojom odchode dostal Verný od miss Rosy každý   deň láskou preplnený list, na ktorý podobným tónom odpovedal. Štvrtý,   či piaty deň mu písala i mrs. Kate, že Rosy vo dne i v noci
+   </tei:p>
+   <tei:p>
+    62
+   </tei:p>
+   <tei:p>
+    ﻿len o ňom sníva, jej hlava je plná plánov, ako budú spolu žiť a   ako utvoria vzorné manželstvo pre celé Spojené štáty.
+   </tei:p>
+   <tei:p>
+    Prišiel deň, keď list neprišiel.
+   </tei:p>
+   <tei:p>
+    Nasledujúci deň prišiel o stranu kratší, v ktorom bolo mnoho   lásky, ale jednako citeľne menej ako v predošlých.
+   </tei:p>
+   <tei:p>
+    Deň žatým dostal list od mrs. Kate. Dozvedel sa, že holý vo   Fiesole, kde sa v Teatro romano stretly údajne so starým známym, s   marcheseom Arrigom Consalvim. Pán marchese ubezpečil dámy, že pri   predošlej ceste miss Palmerovej, keď bola vo Florencii s rodičmi, mal   veľké šťastie byť jej predstavený. Je to aristokrat od päty po hlavu,   najistejšieho a veľmi šarmantného vystúpenia. Je to pekný Talian,   čierny, s čiernymi fúzikmi, s karmínovými perami, belostnými zubmi a   očami ani žeravé uhlíky. Je pohyblivý, stále hovorí. Gestikuluje a je   nadmieru zábavný. Nemožno sa mu ubrániť, každému nanúti svoju vôľu.   Rosy je tým človekom pomätená. Nachádza, že je veľký rozdiel medzi   Consalvim a Verným. Consalvi je iste nie taký rýdzi charakter, ale   omnoho zábavnejší spoločník
+   </tei:p>
+   <tei:p>
+    a človek veľkého sveta ... Anglicky hovorí slabo (Rosy tvrdí, že   „veľmi zábavne“), ale francxizsky dokonale.
+   </tei:p>
+   <tei:p>
+    Má auto s čudesnou, briliantnou karosériou; je omnoho parádnejšie   a bohatšie ako miss Rosino. Pravda, mr. Bruce, šofér Rosy, hovorí, že   je to staré železo a vymaľovaná stará kasňa. „Svoje auto“ by nedal   ani za plný nákladný vlak takých hračiek.
+   </tei:p>
+   <tei:p>
+    63
+   </tei:p>
+   <tei:p>
+    ﻿Verný sa po prečítaní týchto listov podivne cítil. Hoci pokladal   za rozumnejšie rozlúčiť sa s Rosy, jednako by bol býval šťastlivým,   keby ho nejaká neočakávaná udalosť alebo náhoda prinútila, aby si ju   vzal. Listmi bola i jeho láska i jeho mužská hrdosť poštvaná.
+   </tei:p>
+   <tei:p>
+    — Čože, taký taliansky vetroplach, siahajúci zrejme za bohatstvom   miss Rosy, má ma vyhodiť zo sedla!
+   </tei:p>
+   <tei:p>
+    Keď sa trochu upokojil, prišiel na presvedčenie, že bude   najlepšie, keď sa jeho pomer s miss Rosy vôbec roztrhne. Akáže je to   osoba, ktorá každému komedíantskému Talianovi kvôli zabudne na svoju   lásku! A akú lásku! Prišla mu na um i rozprávka
+   </tei:p>
+   <tei:p>
+    o Bielej labuti a princovi, ktorý v mesačnú noc pri jazere   vystopoval priletevších dvanásť bielych labutí, ktoré, svlieknuc so   seba perie, stály sa krásnymi dievčatami a kúpaly sa v jazere. Princ   perie najkrajšej schoval, takže po kúpaní nemohla ho vziať na seba a   odletieť s ostatnými. Musela ísť s princom, ktorý si ju vzal za ženu.   I mali sa veľmi radi a princ, mysliac, že i keby mohla, by mu viac   neuletela, ukázal jej jej perie. Ona si ho obliekla a uletela mu   otvoreným oblokom.
+   </tei:p>
+   <tei:p>
+    Ci by to neurobila i Rosy? Tak sa zdá, že áno, lebo je to žena tak   vychovaná, že urobí zadosť každej svojej chúťke.
+   </tei:p>
+   <tei:p>
+    Verný odpovedal na listy a dostal nové len o nejakých päť dní.
+   </tei:p>
+   <tei:p>
+    I miss Rosy i mrs. Kate mu písaly, že ich marchese Consalvi zasa   vtiahol do spoločnosti, že trávia dni a noci samými zábavkami,   vychádzkami, tancami,
+   </tei:p>
+   <tei:p>
+    64
+   </tei:p>
+   <tei:p>
+    ﻿hračkami. Majú vždy plný dom hostí. Niet naozaj času myslieť na   lásku a vypisovať dlhé listy. Miss Rosy mu napochytre posiela   niekoľko vrelých bozkov. (Ó, ako túži za ním!) Mrs. Kate mu písala,   že ak reflektuje na miss Rosy, aby prišiel bezodkladne, lebo ich   láska je vo veľkom nebezpečenstve. Consalvi robí všetko možné, aby si   ju získal.
+   </tei:p>
+   <tei:p>
+    Verný mal niekoľkých ťažko operovaných, osud ktorých mu ležal   veľmi na duši, i nemohol sa odhodlať utekať za bielou labuťou. Ostal   pri svojich chorých.
+   </tei:p>
+   <tei:p>
+    Odpísal dámam, že príde len asi o týždeň alebo dva, keď bude so   svojimi chorými v poriadku. Veď sa miss Rosy tak chytro míňa čas,   ešte chytrejšie ako jemu pri práci.
+   </tei:p>
+   <tei:p>
+    Zasa len o týždeň dostal milý a prekvapujúci vážny list od Rosy.   Ona bola hneď deň po ich zasnúbení kábelovala rodičom, že si vybrala   znamenitého človeka za muža a že by bola veľmi šťastlivá, keby prišli   bezodkladne, aby ich blaženosť bola zabezpečená navždy.
+   </tei:p>
+   <tei:p>
+    Toto bol vážny list, ktorý Verného razom vytrhol zo všetkých   pochybností. Sľúbil miss Rosy, že si ju vezme, a tu mu nepozostáva   nič iného, ako splniť svoje slovo bez ohľadu na to, čo bude   následkom. A nemusí sa vždy tak zle stať, ako sa človek obáva. Zdá   sa, že je Rosy omnoho hlbšieho citu a pevnejšej povahy, ako by sa   zdalo.
+   </tei:p>
+   <tei:p>
+    Odhodlal sa, že zariadi svoje veci čím najrýchlejšie a o dva-tri   dni odcestuje. Rosy odpísal svoje rozhodnutie.
+   </tei:p>
+   <tei:p>
+    V ten istý deň popoludní dostal expresný list
+   </tei:p>
+   <tei:p>
+    5 Itália.
+   </tei:p>
+   <tei:p>
+    65
+   </tei:p>
+   <tei:p>
+    ﻿od mrs. Kate. Píše, že rodičia miss Rosy sú vysokovzdelaní,   pomerne mladi ľudia a že sú veľmi zvedaví na Verného. Nemôže povedať,   že by boli veľmi oduševnení voľbou dcéry, ale mienia jej nechať voľnú   ruku. Oni by chceli omnoho radšej mať plnokrvného Američana za zaťa,   a to z ich vlastného spoločenského kruhu. Prišiel s nimi mr. Róbert   Rooster, tak sa zdá, že ďalšia rodina, ktorého pokladá mrs. Kate za   nebezpečného soka. Chudáka marchese Consalviho odbavil jedným slovom,   nazvúc ho clownom, nad čím sa Rosy a rodičia chutne zasmiali, lebo   skutočne má mnoho z pohybov týchto artistov.
+   </tei:p>
+   <tei:p>
+    Mr. Rooster je vysoký, dobre urastený, rozhodne pekný mužský,   ráznych, inteligentných črt tváre; má ešte len dvadsaťsedem rokov a   je veľký boháč. Miss Rosy pozná už dávnejšie a iste už nejaký flirt   bol medzi nimi. Teraz ich vidno často po kútikoch a v záhrade spolu a   Rosy naskrze nerobí dojem veľmi šťastlivej snúbenice. Preto bude   dobre, ak Vernému záleží na nej, aby bezodkladne prišiel. Myslí, že i   tak bude mať ťažké postavenie.
+   </tei:p>
+   <tei:p>
+    Prvý dojem Verného po prečítaní listu bol, že by bol omnoho   múdrejšie urobil, keby sa bol o mrs. Kate uchádzal. S miss Rosy, keby   ju dostal, by jeho život nebol spokojný. Musel by sa zrieknuť svojej   samostatnosti a ona by robila, čo by sa jej chcelo.
+   </tei:p>
+   <tei:p>
+    Teraz bol zasa toho presvedčenia, že hoci má i Rosy rád, bude   múdrejšie, keď sa s ňou rozíde.
+   </tei:p>
+   <tei:p>
+    Keď prišiel do vily Palmerovej, stretol sa na
+   </tei:p>
+   <tei:p>
+    66
+   </tei:p>
+   <tei:p>
+    ﻿šťastie v hale s mrs. Kate, ktorá ho veľmi srdečne privítala.
+   </tei:p>
+   <tei:p>
+    — Práve ste dobre prišli. V salóne niet cudzieho, len Palmerovci a   mr. Rooster. Poďte, ja vás uvediem.
+   </tei:p>
+   <tei:p>
+    Palmerovci sedeli na terase, čítajúc a prezerajúc noviny, a Róbert   a Rosy stáli pri obloku.
+   </tei:p>
+   <tei:p>
+    — Privádzam vám iste veľmi milého hosťa, — ozvala sa mrs. Jarvie.   — Mr. Verný — mr. Rooster.
+   </tei:p>
+   <tei:p>
+    Palmerovci, počujúc, čo sa deje, vošli do salónu. Urobili na   Verného veľmi priaznivý dojem dobrých, vzdelaných ľudí. Všetci ho   privítali celkom priateľsky, najupätejšou sa mu zdala práve Rosy.   Keby sa bol vmyslel do jej položenia, bol by jej správanie sa lepšie   pochopil a nebol ho privlastňoval len strate náchylnosti k nemu.
+   </tei:p>
+   <tei:p>
+    Takto bolo postavenie Verného hodne háklivé, a preto sa nemohol   striasť istej strnulosti a neistoty v správaní. O Palmerovcoch   predpokladal, že sú nie zaň, cítil, že sa Rooster trochu opovržlivo   díva naň, a od Rosy sa mu nedostalo posmelenia.
+   </tei:p>
+   <tei:p>
+    Hovoril anglicky dohre a plynné, ale Američanov často nerozumel a   dával preto nepriliehavé odpovede a zmiatol sa. Mrs. Kate mu podľa   možnosti priskočila na pomoc a zavše trochu trápnu situáciu šikovne a   taktne zachránila v jeho prospech. Miss Rosy, zrejme trochu   rozladená, nezúčastnila sa na rozhovore. Palmerovci rozprávali o   svojej ceste. I Verný bol v Amerike a dovolil si niektoré poznámky na   americké pomery, na ktoré Palmerovci neodpovedali, zrejme, lebo — ako   si
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    67
+   </tei:p>
+   <tei:p>
+    ﻿Verný myslel — nesúhlasili s ním a zavracať ho nechceli.
+   </tei:p>
+   <tei:p>
+    Po štvrťhodine, ktorá sa celej spoločnosti zdala veľmi dlhou,   Verný sa odporúčal. Nezdržiaval ho nikto ani najmenšou poznámkou, ani   ho nikto nepozval, aby svoju návštevu opakoval.
+   </tei:p>
+   <tei:p>
+    Keď Verný prišiel do hotela, shádzal so seba cutaway a obliekol sa   do cestovných šiat. Bol prišiel do Florencie v očakávaní porážky, a   to vedomie mu ju i zadovážilo. Vošiel k Palmerovcom stiesnene, s   pocitom, že sa mu bude ťažko vyslobodiť bez väčšieho otrasu od Rosy,   ten pocit prešiel i na Rosy a výsledok bol taký, aký jedine mohol byť   v takýchto okolnostiach.
+   </tei:p>
+   <tei:p>
+    Napokon, hoci mal i srdce ubolené, hoci mu i bolo žalostne ľúto za   prekrásnou a milou Rosy, ktorá vedela byť taká nekonečne ľúbezná,   cítil uspokojenie, že sa dostal zo situácie, ktorá jeho náhľadu na   život nezodpovedala. A tešil sa tým, že hrdým zrieknutím sa jednako   ukáže, že je človek, ktorý radšej prinesie i veľkú obeť skorej, než   by jej mal vyhnúť i najmenším — ako si nahováral v tú chvíľu —   pokorením.
+   </tei:p>
+   <tei:p>
+    Sadol si a napísal miss Rosy list, plný lásky, uznania a vďaky za   jej nevysloviteľnú dobrotu a nikdy v jeho pamäti nevyhynúcu lásku, a   vrátil jej slobodu rozhodnutia. Odporúčal sa jej rodičom. Jej nie.   Lebo veď ona je vždy a stále s ním a nikdy z duše jeho nevymizne.   (Tak si to myslel vtedy.)
+   </tei:p>
+   <tei:p>
+    Zavolal boya, poslal list do vily a odcestoval o polhodinku   najbližším vlakom z Florencie. Bol to vlak do Pisy, i sadol doň a   išiel, hoc i okruhom, do-
+   </tei:p>
+   <tei:p>
+    68
+   </tei:p>
+   <tei:p>
+    ﻿mov ku svojim chorým, starosť o ktorých iste vylieči i jeho ťažko   zranenú dušu.
+   </tei:p>
+   <tei:p>
+    Keď prišiel domov, našiel list od mrs. Kate. Robila mu výčitky pre   jeho pokračovanie. Urobil na Palmerovcov veľmi dobrý dojem, videl sa   im. Miss Rosy je veľmi nešťastná a veľmi zronená. Palmer o hodinu po   jeho odchode išiel do hotela vrátiť mu vizitu a pozvať ho na večer na   hostinu, na zasnúbenie, a dozvedel sa, že práve odcestoval. Kam?   Nevedeli mu povedať, a keď sa vrátil, našiel Rosy celkom nešťastnú s   jeho listom. Bohužiaľ, situácia sa tera? už nedá zachrániť.   Palmerovci nemôžu za ním behať a miss Rosy si nemôže predstaviť, ako   by on — Verný — mohol svoje slová odvolať.
+   </tei:p>
+   <tei:p>
+    Čo si myslel a cítil Verný, keď čítal tento list?
+   </tei:p>
+   <tei:p>
+    0 týždeň dostal z Florencie balík, v ktorom bol obdivuhodný   antický šperk. Bolo to oko zo slonovej kosti, ktorého farbisté   čiastky sa skladaly z drahých kameňov. Vo vnútornom kútiku bol slzu   znázorňujúci briliant. Vĺčka sa daly zavrieť a oko robilo pri istom   ich postavení uchvacujúco smutný dojem.
+   </tei:p>
+   <tei:p>
+    V etui, v ktorom bol šperk, našiel kartičku so slovami: From Rosy   Palmer.
+   </tei:p>
+   <tei:p>
+    S mrs. Jarvie si pisali i ďalej. Asi o mesiac odcestovali   Palmerovci do Ameriky a mrs. Kate sa vrátila do Oxfordu. S   Palmerovcami ostala v stálom spojení a tak mohla asi o pol roka   Vernému odpísať, že sa Rosy vydala za Roostera a že sa zdá,
+   </tei:p>
+   <tei:p>
+    69
+   </tei:p>
+   <tei:p>
+    ﻿že je celkom, keď i nie šťastná, ale spokojná so svojím   osudom.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate myslela, že je rozdiel medzi blaženosťou a spokojnosťou   veľmi ťažko urobiť, sú to pojmy, ktoré nemožno odvážiť. Ona pevne   verí, že keď Rosy tu i tu v tichý, osamelý večer — akých zaiste mnoho   nezažije — alebo v peknú mesačnú noc i trochu zatúži za zašlým   krásnym fantómom minulosti, takže si srdce žiaľom neujedá. Celý jej   pomer k Vernému iste slúži skorej na prehĺbenie a okrášlenie jej   života, ako na jeho strpčenie.
+   </tei:p>
+   <tei:p>
+    Verný, súdiac podľa seba, bol tej istej mienky. Upevňovalo sa v   ňom presvedčenie, že bez pevných duševných koreňov vôbec niet trvalej   lásky. Jeho myšlienky sa už dosť dávno prestaly zaoberať s miss Rosy,   na ktorej miesto nastúpila mrs. Kate.
+   </tei:p>
+   <tei:p>
+    Zavše si namýšľal, že svojím pokračovaním oproti miss Rosy   preukázal, že má cennejší charakter. Zriekol sa radšej krásnej ženy a   veľkého bohatstva, ako by sa bol vzdal svojho činorodého života v   prospech svojho rodu. Pravda, cesta, ktorou k tomuto výcviku prišiel,   nebola bez chvíľ slabosti. Niekoľko ráz sa zakolísal, ale jeho pevná   príchylnosť ku svojmu povolaniu a rodu napokon zvíťazila.
+   </tei:p>
+   <tei:p>
+    Keď si však rozobral vplývanie mrs. Kate na svoje rozhodnutie, tak   sa presvedčil, že vlastne ona to bola, ktorá mu nielen umožnila   výsledok, ale ktorá mu ho vsugerovala. Bez nej by nebol odišiel z   Florencie, a po odchode to bola ona, ktorá, hoci ho i zdanlivo   obodrovala, aby Rosy neopustil, jednako mu tak predstavovala pomery,   že stratil dôveru
+   </tei:p>
+   <tei:p>
+    70
+   </tei:p>
+   <tei:p>
+    ﻿k nej a k prajnému výsledku svojho uchádzania sa o ňu.
+   </tei:p>
+   <tei:p>
+    Prišla mu na um otázka, prečo tak robila, či naozaj chrániac   záujem jeho a či svoj? Ci jej nezáležalo na tom, aby Rosy opustil,   úfajúc sa, že si možno vezme ju?
+   </tei:p>
+   <tei:p>
+    Verný nestratil svoju príchylnosť k nej, i keď pokladal toto jej   stanovisko za pravdivé, naopak, robilo mu ju to ešte cennejšou. Bolo   by ťažko tvrdiť, že jej pokračovanie nebolo korektné, lebo bolo nozaj   veľmi otázne, či spolužitie Verného a Rosy by bolo šťastlivé. Verný   sa spieral možnosti, že by si bol Rosy vzal za ženu, keby bola mrs.   Kate všetko urobila v prospech jeho ženby, lebo tak by bol musel   uznať, že jeho povaha je slabá.
+   </tei:p>
+   <tei:p>
+    A jednako, koľko ráz myslel na milú, krásnu mrs. Kate, videl ju   vždy usmievajúcu sa. Vždy sa mu zdalo, že ho pokladá za mužského, s   ktorým si môže zahrávať, ako sa jej ľúbi. Ale nech je, ako chce,   radosť je s ňou hovoriť. Je potešenie hľadieť do očú tejto múdrej,   dobrotivej ženy! Aký podivuhodný takt má v obcovaní s ľuďmi, kedy čo   komu padne dobre! Ako pomáhala každému, aby sa ukázal v najlepšom   svetle!
+   </tei:p>
+   <tei:p>
+    Otázka, že by si ju mohol vziať za ženu, mu nevychádzala z umu.   Akú by mal domácnosť s takou ženou! Radosť by bola s ňou žiť! Myslel,   že by iste išla zaň, veď mu prezradila, že ho má rada; jej materiálne   postavenie nemôže byť také skvelé, že by prevyšovalo to, čo by jej on   mohol zabezpečiť, keď chodila, hoc i s milionármi, ako cestovná   spoločnica.
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿Spýtať sa jej nechcel a ona sa o svojich pomeroch nikdy ani   jediným slovom nezmienila.
+   </tei:p>
+   <tei:p>
+    Rozhodol sa, že budúceho roku navštívi Anglicko a že zájde i do   Oxfordu a prekvapí svoju milú priateľku. A naozaj, v pekný júnový deň   zastalo auto s doktorom Verným vo veľmi elegantnej Highcourt ulici   pred 6. číslom, ktoré bolo vybité na železných mriežkových dverách   záhrady veľmi bohatej vily.
+   </tei:p>
+   <tei:p>
+    Verný kázal šoférovi čakať, a obzerajúc nádhernú budovu zvonku,   kráčal starostlivo pestovanou záhradou ku vchodu, pred ktorým bola   lodžeta s balkónom. Nebol načistom, v akom postavení býva mrs. Kate v   tomto dome. Najskorej bude spoločnicou pri nejakej bohatej dáme.   Zazvonil, a onedlho otvoril vysoký sluha v čiernych šatách dvere a   vpustil Verného do haly.
+   </tei:p>
+   <tei:p>
+    Verný sa trochu neisto spýtal sluhu:
+   </tei:p>
+   <tei:p>
+    — Býva v tomto dome mrs. Kate Jarvie?
+   </tei:p>
+   <tei:p>
+    Sluhovi mihol ledva badateľný úsmev tvárou.
+   </tei:p>
+   <tei:p>
+    — Yes, sir.
+   </tei:p>
+   <tei:p>
+    — Mohol by som sa teraz s ňou shovárať? — Možno, pane, ráčte mi   dať svoju kartu.
+   </tei:p>
+   <tei:p>
+    Pritom mu odobral klobúk a svrchník a zaviedol ho do veľmi vkusne   a priateľsky zariadeného salónu.
+   </tei:p>
+   <tei:p>
+    Nečakal dlho, keď vstúpila staršia šumná dáma. Mala vizitnú kartu   v ruke a hľadela na ňu lorňónom.
+   </tei:p>
+   <tei:p>
+    — Pán doktor Verný?
+   </tei:p>
+   <tei:p>
+    Verný sa poklonil.
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿— Áno, madame. Môžem mať to šťastie hovoriť s mrs. Jarvie?
+   </tei:p>
+   <tei:p>
+    — Áno, len ráčte trochu počkať, kým sa preoblečie. Bola v meste   nakupovať. Vy ste zaiste ten pán, s ktorým vlani cestovala po   Taliansku?
+   </tei:p>
+   <tei:p>
+    — Áno, madame. Tohto roku som navštívil Anglicko a nechcel som   obísť takú milú dámu, na ktorú mám príjemné rozpomienky.
+   </tei:p>
+   <tei:p>
+    — Máte pravdu, mrs. Jarvie je veľmi príjemná pani. Ale, hľa, už je   tu.
+   </tei:p>
+   <tei:p>
+    Mrs. Jarvie sa zjavila v roztvorených dverách, vedúcich do   knižnice. Mala svetlé šaty, bola v nich skvelá. Usmievala sa ako   vždy, len z očú jej tentoraz netrúchlila melanchólia, ale svietila z   nich radosť. Prišla k Vernému a podala mu ruku.
+   </tei:p>
+   <tei:p>
+    — Buďte vítaný u nás. Aké prekvapenie! Prečo ste nenapísali ani   slovíčka, že prídete? .
+   </tei:p>
+   <tei:p>
+    — Bál som sa, že by ste mi ušli, keby ste vedeli, že prídem. Takto   som vám to znemožnil.
+   </tei:p>
+   <tei:p>
+    Staršia dáma vstala. S úsmevom podotkla:
+   </tei:p>
+   <tei:p>
+    — Mám ozaj inú a pilnejšiu prácu, ako vás, mladých ľudí,   vyrušovať.
+   </tei:p>
+   <tei:p>
+    I odišla.
+   </tei:p>
+   <tei:p>
+    Kate sa usmiala.
+   </tei:p>
+   <tei:p>
+    — Číta román od mrs. Crokerovej; to je tá pilná práca. Ale sadnite   si.
+   </tei:p>
+   <tei:p>
+    Verný jej chytil ruku
+   </tei:p>
+   <tei:p>
+    — Nesadnem si, kým mi neodpoviete na jednu otázku.
+   </tei:p>
+   <tei:p>
+    — Tak, dobre, nesadnite si. Ale ja si môžem?
+   </tei:p>
+   <tei:p>
+    — Tiež nie, prosím vás, lebo by to komplikovalo celú moju prácu.   Kate, drahá, ja som len kvôli vám
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿prišiel do tohto krásneho mesta. Vlani ste mi povedali pod   bazilikou San Miniato, že ma ľúbite.
+   </tei:p>
+   <tei:p>
+    — Povedala som, že vás „rada mám“, a nie ľúbim.
+   </tei:p>
+   <tei:p>
+    — Prosím vás, nerobte mi daromné slovné ťažkosti. Povedali ste, že   ma ľúbite, ja som si to veľmi dobre zapamätal.
+   </tei:p>
+   <tei:p>
+    — Nuž, a ak som i tak povedala, čo je na tom? Poznám pánov, ktorí   sa za rok i z omnoho horúcejšej lásky vyliečili, — podotkla trpko,   hľadiac na zem.
+   </tei:p>
+   <tei:p>
+    — Kate, drahá, vy sa na mňa hneváte pre Rosy?
+   </tei:p>
+   <tei:p>
+    — No, trochu, — i usmiala sa.
+   </tei:p>
+   <tei:p>
+    — Verte mi, že mi ani vo sne neprišlo na um opovážiť sa siahať za   Rosy. Ona sa mi ponúkla, ona si ma chcela vziať, možno vo chvíľkovej   nálade. Čo som mal robiť? Napokon, keby som ju bol veľmi chcel, bol   by som sa inakšie správal, uznáte?
+   </tei:p>
+   <tei:p>
+    — Uznám. Tak, čo chcete teraz s tým dlhým úvodom ako v Shawových   dielach?
+   </tei:p>
+   <tei:p>
+    — Drahá Kate, chcem, aby ste nechali svoje tunajšie postavenie tak   a aby ste išli so mnou na Slovensko. Možno, že by sa v mojej   nemocnici našlo i lepšie.
+   </tei:p>
+   <tei:p>
+    Kate sa usmiala.
+   </tei:p>
+   <tei:p>
+    — Ale jednako si sadnime k tomuto pokonávaniu. Som zvedavá, aké?   Za prvú opatrovníčku alebo kľučiarku?
+   </tei:p>
+   <tei:p>
+    — Nie. Myslím najprvšie, ktoré tam vôbec je, ktoré by vás   postavilo i nad vedúceho lekára.
+   </tei:p>
+   <tei:p>
+    — A to že je aké?
+   </tei:p>
+   <tei:p>
+    — Žena toho lekára.
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿— A to ste vy?
+   </tei:p>
+   <tei:p>
+    — Áno, moja maličkosť, — riekol Verný, a pery
+   </tei:p>
+   <tei:p>
+    a ruky sa mu triasly od rozčúlenia. Mrs. Kate hľadela na povalu,   vše mu pozrela do očú. Žatým vzdychla zhlboka.
+   </tei:p>
+   <tei:p>
+    — Dobre, pôjdem, — riekla vážne, — ale len s jednou výmienkou.
+   </tei:p>
+   <tei:p>
+    Verný, ktorý očakával, že sa mu od blaženosti hodí do náručia,   stisol obočie.
+   </tei:p>
+   <tei:p>
+    — S akou?
+   </tei:p>
+   <tei:p>
+    — Dajte si pozor, čo vám poviem: s tou výmienkou, že neodvoláte   svoje slovo ani v tom prípade, keď sa dozviete o mne niečo, čo posiaľ   neviete a čo by ste vy prípadne mohli pokladať za dostatočnú príčinu   na to, aby ste ma nechali tak, ako ste nechali i miss Rosy.
+   </tei:p>
+   <tei:p>
+    Verný bol v značnej miere zarazený, i mrs. Kate hľadela naň s   napätou netrpezlivosťou:
+   </tei:p>
+   <tei:p>
+    — No, osvedčte sa!
+   </tei:p>
+   <tei:p>
+    — Bože môj, aké sú to výmienky! Viem, že ste osoba bezúhonná. Tak,   tu je moja ruka a čestné slovo, že nie.
+   </tei:p>
+   <tei:p>
+    Mrs. Kate mu podala svoju mäkkú, hladkú rúčku a Verný ju, pravda,   nevypustil, kým ju viac ráz nebozkal. Kate si vydýchla zhlboka.
+   </tei:p>
+   <tei:p>
+    — Tak, dear sir, vy sa mýlite ohľadom môjho postavenia. Ja som   nebola najatou spoločnicou miss Rosy, ale jej hosťom. Išla som s ňou   na prosby rodičov, lebo ju nechceli pustiť samu na cesty.
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿— No, a tu ste nie zamestnaná ako spoločnica dámy?
+   </tei:p>
+   <tei:p>
+    — Nie, milý priateľu, naopak. Tá dáma je moja milá spoločnica.
+   </tei:p>
+   <tei:p>
+    — Tak, čia je táto krásna vila a celé jej veľkopanské   zariadenie?
+   </tei:p>
+   <tei:p>
+    — Hanbím sa za svoju nehodnosť, ale je to všetko moje.
+   </tei:p>
+   <tei:p>
+    — A, pravda, máte i kapitál, aby ste takému bytu primerane mohli   žiť, — zvolal Verný so zúfalým rozčúlením.
+   </tei:p>
+   <tei:p>
+    — Do plaču mi je, keď sa musím priznať, že mám asi   päťdesiat-šesťdesiattisíc funtov šterlingov, čo je podľa vašich   peňazí asi sedem-osem miliónov korún.
+   </tei:p>
+   <tei:p>
+    — Ó, milá mrs. Jarvie, do akej nemilej situácie som sa dostal! A   ja, žobrák, takej milionárke núkam svoju biedu! Prečo ste mi nikdy   ani slovom nenaštrkli, že ste nie spoločnicou Rosy, ale jej hosťom?   Co mám teraz urobiť?
+   </tei:p>
+   <tei:p>
+    Kate vyskočila so svojho fotela a pristúpila celkom k Vernému.
+   </tei:p>
+   <tei:p>
+    — Dali ste čestné slovo, že moje postavenie nebude robiť prekážky,   či nie?
+   </tei:p>
+   <tei:p>
+    Verný vzdychol žalostne: — Dal.
+   </tei:p>
+   <tei:p>
+    — Máte ma radi, alebo nemáte?
+   </tei:p>
+   <tei:p>
+    — Mám vás omnoho radšej, ako som miloval Rosy, lebo ste mijmvahou   omnoho-omnoho milšia.
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+   <tei:p>
+    ﻿— Tak teda si ma už vezmite raz, lebo musíme ísť na lunch, ktorý   sa celkom skazí.
+   </tei:p>
+   <tei:p>
+    I sadla si mu do lona a oblapila ho svojimi okrúhlymi   ramenami.
+   </tei:p>
+   <tei:p>
+    Napokon, hoc i vzdychajúc, pritúlil ju k sebe a medzi bozkmi   zabudli i na lunch i na celý svet a blúznili len o svojej láske .   ..
+   </tei:p>
+   <tei:p>
+    77
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
