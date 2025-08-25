@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194360" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Leonard : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     776
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Leonard
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     LEONARD.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V priestrannom ateliéri známeho majstra tvorivý jeho duch   rozprával sa s ťažkými balvanmi mramoru. Za ohromným oblokom bol celý   jeho svet, ta len zriedka nazrel zvedavec. Dni letely jeden za   druhým, ruka kreslila, dláto a kladivo pracovaly. Veľký svet začal sa   o dielňu zaujímať. Co jeden balvan ožil, rozpísaly sa noviny a   sľubovaly schopnému človeku budúcnosť. Vzbudila pozornosť najmä pekná   Anetta. Chodili ju obdivovať a hovorili: „Je ako živá.“ Ale málokto   tušil, koľko lásky a bolesti vlial Leonard do tých bielych údov,   nahnutej dievčenskej hlávky, okrúhlych ramien a svietiacich pŕs.   Veľký sochársky podnik zachytil nadaného majstra do práce pri súsoší   krajinského monumentu a práca šla, až ju začali závidieť. V ateliéri   pribudlo pracovníkov, ktorých si už majster vychoval. Tvorily sa   plány a obraznosť zbujnela. Svaly zvieracie i ľudské vyvstávaly z   kameňa. Na ne tvoriteľsky hľadieval Leonard, tu i tu potiahnuc z   krátkej fajočky.
+   </tei:p>
+   <tei:p>
+    — Príde Anetta? — zašomre na štíhleho pomocníka. — Ty, vieš,   Peter. Dnes by mala prísť. Sľúbila! Príde! Mali by sme ešte mramor   vytesať a postaviť primerane.
+   </tei:p>
+   <tei:p>
+    Sotva boli s prácou hotoví, otvorily sa dvere a do ateliéru   vstúpilo služobné dievča, rozkvitnuté ako osypaná jar.
+   </tei:p>
+   <tei:p>
+    — Anetta! — zvolal Leonard. — Čakal som ťa, pozri!
+   </tei:p>
+   <tei:p>
+    — To by mala byť ja? — zažiaria velké oči a vyrobené ruky sa   zachvejú.
+   </tei:p>
+   <tei:p>
+    — Ty, Anetta! — ponorí jej zrak do veľkých očú majster a pohladí   ju po ramienku. — Ododnes nepôjdeš viac domov, ostaneš tu. Postaráš   sa o našu domácnosť!
+   </tei:p>
+   <tei:p>
+    Ale žiaľ Leonardov začal sa len teraz. Sochu Anetty kúpil bohatý   Američan a odviezol ju ďaleko za more. Kým ju nahrádzala Anetta živá,   majster to ani nezbadal. Ale naraz bledosť vystúpila na jej tvár a   jej veľké oči začaly sa žalovať. Zavolal k nej povestného lekára.
+   </tei:p>
+   <tei:p>
+    — Pán doktor, zachráňte Anettu! Zachránite tým moje umenie i   mňa!
+   </tei:p>
+   <tei:p>
+    — Vy ste, majster, predali jej obraz za more? — Predal! — osmutnel   Leonard.
+   </tei:p>
+   <tei:p>
+    — Získajte si ho zpät!
+   </tei:p>
+   <tei:p>
+    Oznamy idú do šíreho sveta. Anetta sa nenájde. A tá živá vädne ako   ruža. Okrúhle údy tratia sa ako vňať a oheň očú hasne kdesi pod   popolom.
+   </tei:p>
+   <tei:p>
+    Majster cíti — stráca cenu, čo mu je také drahé a čo mu nenahradí   nikto. Peniaze sa mu sypú, i uznanie, ale ho netešia. Do ateliéru   nejde. Stojí pri posteli chorej a díva sa na jej ustaté mihalnice   skrúšeno. Ponúkne ohromné sumy získať Anettu zpät, ako by ten pevný   mramor mal zachrániť život hynúcemu telu. Napokon mramor sa vráti na   svoje predošlé miesto, ale Anetty už nebolo. Na tichom mestskom   cintoríne ustlala si miesto pod košatou lipou.
+   </tei:p>
+   <tei:p>
+    Osirel Leonard a osirelo i jeho umenie. Dláto i kladivo vypadly mu   z ruky a začaté veľké
+   </tei:p>
+   <tei:p>
+    dielo neskončil. Hodiny prebdel pred velkým mramorom Anetty.   Myslel, že mu ju nahradí, hladil ju, shováral sa s ňou, keď v istý   deň zbadal, ako sa mu biely mramor zpred očú stráca. Ustatý zrak mu   vypovedal. Tmy hustly okolo neho, hustly a halily krásne údy viac a   viac. Slávni lekári chodili so všetkých strán sveta za majstrom   Leonardom. Nevedeli pomôcť, a on mal ešte toľko veľkých plánov v   kučeravej hlave. Nebolo mu ich ľúto, len Anetty. Chodil do cintorína   k jej hrobu a odtiaľ do ateliéru k jej soche. Peter ho vodieval, v   pracovni hovoril k nemu, len nesmierny smútok zastavil jeho kroky.   Zdalo sa mu čuť na troskách veľkolepých plánov. Leonard už prestal   hľadieť do budúcnosti, hľadel prekonať prítomnosť, žil len, ako by   musel, a zvesť o úspechoch jeho priateľov spôsobila mu bolesť.   Vyrovnal sa i s ňou. Ťažká choroba vyčerpala ho hmotne. Pomaly   vypredával, ateliér bol stále prázdnejší a prázdnejší. Napokon ostal   tam len jediný mramor — krásna Anetta.
+   </tei:p>
+   <tei:p>
+    Bola noc i v oblokoch, kde ju majster nevidel, ešte hustejšia v   sklamanej duši, ubitej životom. Bohatý Američan poslal svojho agenta   po biely mramor Anetty, ponúkajúc päťnásobnú sumu ako prv. Leonard   mohol ticho dožívať svoj život, ale život nemal už pre neho nijakú   cenu. Chytil sa za hlavu, zakvílil ako ranená zver v pustom ateliéri,   hmatajúc rukami, doplazil sa k mramorovej Anette, objímal ju, hladil   a plakal. Jeho nárek niesol sa pustou ozvenou, ktorému bohatý, šíry   svet nerozumie. Jeho ruky chvely sa na krásnej tvári, oblých prsiach   a údoch. Krv sa mu hnala do hlavy, krv rozvírená ako nejaký zakliaty   ohňostroj. Nad jeho zrakom zrazu vy-
+   </tei:p>
+   <tei:p>
+    norily sa kontúry Anetty. Zdalo sa mu, že vidí, ako mu ju berú   čiesi tajomné ruky.
+   </tei:p>
+   <tei:p>
+    — Nedám, — s divým výkrikom objal krásnu sochu kŕčovite Leonard.   Svážil ju na seba a v druhú chvíľu rozsypaly sa ťažké trosky na   tvrdej dlážke. Ráno našiel Peter svojho nešťastného majstra vedľa   rozbitej Anetty. Pochovali ich všetkých spolu pod košatou lipou.   Zamlknuté srdcia i chladný kameň. Život im nežičil, ale aspoň patrili   k sebe.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

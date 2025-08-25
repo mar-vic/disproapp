@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943954" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Čo človeku ostane : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1215
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Čo človeku ostane
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     CO ČLOVEKU OSTANE.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Svet je veľký a krásny, očima svojimi vábi a plnými rukami ak   nerozdáva, aspoň sľubuje. Tak sľuboval i Jožkovi Perníkovi peknú   existenciu, bohatstvo, kariéru. A kariéra nie je prázdne slovo, kto   sa k nej dobyje, zaujme kus sveta pre seba. Človek bez kariéry je   menej ako nula, človek s kariérou stane sa naraz váženým, múdrym, je   nevyhnutným v ľudskej spoločnosti. Ak nemá doktorát, spomenie si   naňho niektorá univerzita, že sa jej môže niekdy zísť, a dá mu ho.   Tak sa stal i Jožko Perník napokon Dr. Jozefom Perníkom. Mal právo   prednášať na univerzite a stavať na podiv svetu nielen svoju životnú   púť, ale i svoju okrúhlu holú hlavu. Spoločnosť potrebuje takých   ľudí. Tohto dobra nedostane sa sice všetkým, ale niekomu sa to musí   dať. Na koho pripadne, ten to dostane. A čo si myslia o ňom viacerí,   namyslí si i on, a prečo by si nenamyslel? Tak sa stalo i s Dr.   Perníkom, ktorý, mimochodom rečeno, bol predtým dobrý manžel a dobrý   otec. Mal svojich rád, lebo horizont jeho šťastia nesiahal ďaleko.   Vedel byť skromný a utiahnutý. Keď začal robiť kariéru, nastal obrat.   Nemohol ostávať doma medzi štyrmi stenami. Úcta rástla, prostriedky   sa sypaly, bolo ich treba troviť. Kedysi prišlo leto, Pemíkovci vyšli   sj s deťmi na dedinu medzi sliepky a husi, a bolo dobre. Šelest   zelenej vrbiny stačil. V penivých
+   </tei:p>
+   <tei:p>
+    vlnách Váhu plávala rozkoš a slnko je všade úsmevy rozsievajúcim   božím slniečkom. Nastala kariéra, a zmenilo sa všetko. Nestačily   Tatry, ani Karlove Vary. Detičky ostaly doma s pestúnkou a milosťpani   balila, nielen na modrý Jadran, ale hen do slnečnej Nizzy a Monte   Čaria.
+   </tei:p>
+   <tei:p>
+    — To si môžeme dovoliť, Jolanka, — pozrel Jožko povedome do   šedivých očú svojej manželky. Ešte sa mu zdaly pekné, lebo ich mala   pekne uložené.
+   </tei:p>
+   <tei:p>
+    Ale v šírom svete je tak mnoho pekných očú, nielen šedivých, ale i   belasých i čiernych, a všetky majú inakšie kúzlo. Človek chudobný,   nenáročný ostáva pri svojich, hoc sú i šedivé. Človek s kariérou   dopraje si všelijakých, pre kúzlo, pre chuť. Tak to bolo i s Jožkom   Perníkom. Horizont jeho, ktorý sa končil kedysi rodnou dolinou a   nebotyčnými končiarmi Tatier, nesmierne sa rozšíril. Zachytil až   Split. Roztiahol sa nad krásne Taliansko, nad rozváľané Alpy, nad   francúzsku Riviéru a sklonil sa až nad pestrý Ostende.
+   </tei:p>
+   <tei:p>
+    Jolanku to však neuchvátilo. Ženská márnivosť nedodala jej krídel.   Akýmsi tajomným inštinktom hnetená zbadala, ako viac stráca, než   vyhráva. Jej muža unášaly vlny kamsi doďaleka, ona klesala na dno. S   hrôzou videla, že mu už nedostačí. Co jej šedivé oči, keď na Lide je   toľko krásnych modrých i čiernych?! Co zvuk jej úsmevu, keď pri mori   zvoní najkrajší úsmev striebristými zvonkami? Hľadela na rozvlncnú   morskú hladinu, v nej sa odrážala celá modrá obloha, ale svoje nebesá   v nej nepoznala. Svet, predtým interesantný, javil sa jej   šablónovitým a fádnym ako v Dalmácii, tak i v Monte Carlu, podobne i   v Nizze Ten istý flirt, tá istá nahota, ten istý
+   </tei:p>
+   <tei:p>
+    pud rozjareného živočíšstva. Tak isto pekné ráno a také isté dumné   večery.
+   </tei:p>
+   <tei:p>
+    Jožko si našiel svoju spoločnosť, vyžíval si svoj život bezmedzne,   nikto mu neprekážal. Kto by aj mohol prekážať pánovi, ktorý urobil   veľkú kariéru? Ale Jolanka cítila, že ich lode, zaregistrované v   jednom prístave, odďaľujú sa od seba. Muž mal celý svet a kochal sa v   ňom. Ona zatúžila po úhľadnom domku doma pod vysokými horami a po   svietiacich hviezdach meravých ľudských očí.
+   </tei:p>
+   <tei:p>
+    — Jožko, ja už idem, — sverila sa jedného pekného dňa mužovi.
+   </tei:p>
+   <tei:p>
+    — Kam? — zadíval sa na ňu on udiveno.
+   </tei:p>
+   <tei:p>
+    — Domov k deťom, k nám!
+   </tei:p>
+   <tei:p>
+    — Nemáš tu všetko, čo ti treba?
+   </tei:p>
+   <tei:p>
+    — Mám mnoho, ale je to cudzie, — sklopila šedivé oči. — Tu je svet   veľký a krásny, ale čo je z neho naše?
+   </tei:p>
+   <tei:p>
+    — Všetko je naše, moja milá, — privinul ju nežno k sebe ako   kedysi. — Za peniaze dostať všetko, svet rozdáva, treba len brať.
+   </tei:p>
+   <tei:p>
+    — Rozdáva, hej, ale i berie!
+   </tei:p>
+   <tei:p>
+    — A čo ti vzal ? — pozrel muž na ňu akosi zarazene. — Nemáš svoje   zábavy, svoje priateľky i svojich priateľov?
+   </tei:p>
+   <tei:p>
+    — Mám, — odpovedala, — ale nemám teba, ako som mala predtým!   Druhého dňa sa rozišli, Jolanu unášal rýchlik popod nebotyčné Alpy k   sivému Dunaju a k Váhu — domov!! Jožko ostal ešte na Riviére dopíjať   pohár, prekypujúci šumivým vínom, čo mu predkladala na striebornej   tácni jeho kariéra. Mal z čoho, rozhadzoval, zabudol, že bol voľakedy   chudobný a potrebný posledného krajciara. Teraz sa cítil pánom a   žičil si všetkého povedome, len niekdy prišlo mu na mysel, že tie   všelijaké výhody života nevydobyl si sám, zvrtly sa časy zásluhou   neznámych tisícov a vyniesly i jeho ako premnohých. On si nadobudol   právo využiť príležitosť rozumne a do krajnosti. Aj užíval tohto   práva. Človek je len raz pánom v živote; márne mu písala žena zpod   vysokých vrchov, šťastie sa smialo naňho a Dr. Jožko Perník usmieval   sa naň.
+   </tei:p>
+   <tei:p>
+    Len jedného rána vstal akosi bez vôle, bol i v herni a vyhral   dosť, šťastie mu nekrivdilo, mohol si dožičiť, čo chcel. Mohol si   miesto svojej ošumelej Jolany dožičiť dám, najkrajších očú, ľaliových   rúk a postavy ako lesná laň. Nič ho netešilo.
+   </tei:p>
+   <tei:p>
+    Skoro zisťoval, že upadá ako more pri odlive. — Je chorý!
+   </tei:p>
+   <tei:p>
+    Na radu lekárov balil a rýchlik odvážal ho domov, bližšie k   modrému Dunaju a k vysokým horám. Aká však bola tá cesta! Roztvorené   náručia krajov, čo prv volaly, ostávaly chladné. Pery nemalý úsmevy,   oči nemalý viac jasu. Krásne yilové letoviská vystieraly prázdne   hrsti. Nič nebolo viac v nich, nič! Co by i mohlo byť pre chorého   človeka?
+   </tei:p>
+   <tei:p>
+    Wien... Bratislava... chvála Bohu.
+   </tei:p>
+   <tei:p>
+    Pod vysokými vrchmi malý úhľadný domec. Pri malom vchode nečakajú   dámy a páni, nečaká veľká spoločnosť. Ani jej je však nie treba. Čaká   len troje detí s očami ako hviezdy a vedľa nich poblednutá smutná   žena so šedivými očima.
+   </tei:p>
+   <tei:p>
+    — Poď, — lapila ho za ruku a pomohla mu dnu. — Ľahneš si. Všetko   máš pripravené. A Jožko Perník vošiel do svojej známej izby. Klesol   na pohovku a rozplakal sa. Jolana stála vedľa a podopierala ho.   Detské rúčky siahaly za
+   </tei:p>
+   <tei:p>
+    otcom a chcely sa ho aspoň dotknúť. A on plakal, plakal nad svojím   nešťastím, ktoré dopadlo naňho naraz ako kameň. Plakal rozcítený, ked   videl, ako sa všetko tratí v hmlách s ušlým zdravím a nepomohla ani   kariéra.
+   </tei:p>
+   <tei:p>
+    — Kde sa to všetko podelo, kde? — spytoval sa Jožko sám seba, keď   složil hlavu na bielu hlavnicu. — Kde to krásne modré nebo s   modručkou oblohou, kde tie vlny ani ultramarín, s kolembavými   lodicami a s prostopašným jasotom v očiach? Kde spoločnosť, kde   kamaráti a kamarátky? Všetko to ostalo kdesi a roztrúsilo sa ako   pleva vo vetre, ostaly len jedny oči, žiariace stálym leskom — detské   oči. Ostaly len jedny ruky, bledé a vlhké — tvoje ruky, jolanka!!   Napäl sa a habkal okolo seba.
+   </tei:p>
+   <tei:p>
+    — Kde si, žena, kde ?
+   </tei:p>
+   <tei:p>
+    — Koho voláš?
+   </tei:p>
+   <tei:p>
+    — Teba!!
+   </tei:p>
+   <tei:p>
+    A v tú chvíľu pritiahol Jožko, trasúci sa, jej ruku a stisol ju   tuho, tuho.
+   </tei:p>
+   <tei:p>
+    Žiadal si i deti k sebe jedno za druhým a pohladil ich po   hlávkach.
+   </tei:p>
+   <tei:p>
+    — Otecko, bude ti lepšie, — počul z tých úst a počínal im   veriť!
+   </tei:p>
+   <tei:p>
+    V tú chvíľu strácal sa preňho celý veľký svet a yynoroval sa mu   malý, maličký, ale svoj! Pochopil, celému tomu veľkému svetu išlo   vždy len o to: niečo za niečo!! Musel sa vrátiť domov, chorý,   zničený, a nájsť ten malý svet, ktorému ide len o neho!!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

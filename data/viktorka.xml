@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943980" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Viktorka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1586
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Viktorka
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     VIKTORKA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V dlhom kolísavom šáší zašumelo, zelenkavú hladinu pokryly vlásky.   Krivé vŕby a vystreté jelše nazeraiy do zrkadla. Videly v ňom   modrastú oblohu a tu i tu striebristé šupy rýb, ako sa prevalovaly.   Zabudnuté ticho kúpalo sa v hlbinách, z nich zatrepaly krídlami divé   kačky a letely jedna za druhou, niekoľko sto metrov spustiť sa a   spočinúť zas vo svojom neobmedzenom kráľovstve.
+   </tei:p>
+   <tei:p>
+    I bezodné močiare majú svoje neopísateľné kúzlo, svoju pestrú a   záhadnú ríšu, v ktorej sa hodno prizrieť ráno i večer. Ked sa vodné   kvety rozsypú a zažnú zore na východe a či na západe, nieto štetca,   ktorý by vedel verne zachytiť hýrivosť farieb, rozviatych na tíšine.   Rybári a lovci opustia vďačne kamenné ulice prachom zasadnutých   miest, paláce, divadlá či bary a idú za korisťou. Do tajomných kútov   na Laborci, ktorý sa rozlieva široko-ďaleko. Zájdu sa pokochať krásou   leknínov, ktoré sa rozrastajú na zelených vodách, zakrývajú ich   sýtymi listami, a biele lupene prekrásnych ruží so svitom sa   otvárajú, na mrku zas sa zatvárajú. Vykonajú svoju povinnosť zdobiť   časť sveta, kde by už nikto nečakal krásy, a idú spať.
+   </tei:p>
+   <tei:p>
+    Práve dobrodili sa traja lovci vo vysokých čižmách na pokraj lesa   k neveľkej chalupe. V ruksakoch niesli niekoľko divých kačíc a   slúk,
+   </tei:p>
+   <tei:p>
+    ktoré tu v celých kŕdľoch poletujú. Ustatosť odrážala sa im na   tvári, ledva vliekli nohy za sebou. Traja čujní psi, neveľkí, krátkej   srsti, behali okolo a ňuchali. Na prahu chalupy sedelo prosté, ale   nápadne pekné dievča boso a učudované utkvelo veľkými očima na   neznámych.
+   </tei:p>
+   <tei:p>
+    — Kade cesta do valalu? — spytovali sa jej a rozhliadali sa   nedočkavé po zamlknutom kraji, nad ktorým žiarivý deň obracal sa na   sivý popol.
+   </tei:p>
+   <tei:p>
+    — Tadeto nech sa páči, — pobehla k nim v krátkej sukienke,   vzpriamila sa ako osika a vzpäla okrúhlu bielu ruku do rastúcej noci.   ■— Za dve hodiny, ak sa poponáhľate, môžte byť v dedine, odtiaľ do   mesta nie je už ďaleko. Ja vás trochu odprevadím. — Lovci hľadeli na   dievča a mrkli i na seba. O takej krásnej divej kačičke nesnilo sa   im. Stretli ju, kde by ju nikto nebol čakal. V chalupe, nachýlenej na   jednu stranu, a v hlbinách ohromného močiara, kde, zdá sa, život a   jeho pôvaby už sú pri konci. — Tade choďte, potom zas tadeto, —   osievala sa jej krátka sukňa okolo bielych nôh a veľké oči sa   smialy.
+   </tei:p>
+   <tei:p>
+    — Ale, dievčatko, čo ty tu robíš v takomto zapadnutom kúte? —   obzeral si ju z lovcov najmladší, ktorého ostatní Janym menovali. —   Žijeme tu cez leto s otcom i s matkou. Ja si robím svoje, otec chodí   za zverou. Na jeseň vrátime sa do valalu, — odpovie dievča. — A ako   ťa menujú? — prizrel sa jej Jany do tmavých, žihavých očú.
+   </tei:p>
+   <tei:p>
+    Vtom sa však už niesol hlas od chalupy zpomedzi stemnených vrbín a   jelší. — Viktorka... Viktorka!
+   </tei:p>
+   <tei:p>
+    — Už id-e-m! — Priložila si dlane k ústam a
+   </tei:p>
+   <tei:p>
+    zavolala iste ustaranej materi, ktorá nerada videla zmiznúť dcéru   s cudzími pánmi.
+   </tei:p>
+   <tei:p>
+    — Tak už viete, — usmiala sa Janymu i ostatným. — Menujú ma   Viktorka.
+   </tei:p>
+   <tei:p>
+    — A šla by si s nami? Škoda ťa tu kvitnúť, kde ťa nikto   nevidí.
+   </tei:p>
+   <tei:p>
+    — Kto ma chce vidieť, príde, —■ zakývala rúčkou, zavracajúc psov,   ktorí vyskakovali okolo nej. — Ale teraz už musím — dobrú noc.
+   </tei:p>
+   <tei:p>
+    Zmizla ako zjavenie za vrbinou a jelšami. Brilianty hviezd a zlatý   veľký mesiac kúpaly sa v močiari. Ukláňavá šašina tajomne šumela nad   záhadami zabudnutého života.
+   </tei:p>
+   <tei:p>
+    — Kde ty chodíš? — kárala ju starostlivá mať.
+   </tei:p>
+   <tei:p>
+    — Pozri, ani otca ešte niet doma, nevieš, čo sú páni — to sú lovci   nielen na sluky a kačky, ale na všetko. Vieš?
+   </tei:p>
+   <tei:p>
+    — Veď som tu a nič sa mi nestalo, — uspokojovala mater a siahla   pri slabom petrolejovom svetle za svojím vyšívaním. Jej myseľ   putovala však za podivnými lovcami — nestalo sa to prvý raz, že si   jej, chudobnej dievky, všimli boli takí páni, ale ten Jany — ten   Jany. Badala i vo tme jeho žeravé oči a nevedela sa ho striasť.
+   </tei:p>
+   <tei:p>
+    Márne vyšla von zadívať sa na iskry hviezd, ktoré sa odrážaly od   vôd, i na mesiac, čo si rozčesával zlaté vlasy. Márne si rukou trela   čelo a zaháňala videnie. Videla ho v šere, ako sa usmieva na ňu, ako   ju vábi do mesta, kde by nebola skrytá ľudským očiam.
+   </tei:p>
+   <tei:p>
+    Konečne ozval sa otec. Priniesol dve krásne líšky, preto bol tak   dlho. Ukazoval jej ich, vystieral ich na stôl v celej dĺžke. Obzrela   si ich i s materou, žasla nad korisťou a zabudla na Janyho na   chvíľu.
+   </tei:p>
+   <tei:p>
+    Teplá letná noc v močiari má tiež svoju moc i kúzlo. Tie tajomné   hĺbky a rozčuchrané stromy nikdy nespia. Ozve sa z nich nielen   radostný vysk, ale i úzkostný škrek, ktorý sa tratí v dlhých tôňach   šašiny a trasie sa ešte chvílu na tajomných vodách.
+   </tei:p>
+   <tei:p>
+    Iba rozkvitnuté lekníny ako by složily biele hlávky, tichučko sa   kolembajú, spia. Nie tak Viktorka — položila si biele ruky pod hlavu,   i usnula, ale videla lovcov i Janyho, ako sa díva na ňu, počula jeho   hlas, ako ju volá do mesta, a zobudila sa.
+   </tei:p>
+   <tei:p>
+    Otec i mať vydychovali si pokojne, ona si zobrala hlavnicu a vyšla   na pažiť. Zlatý mesiac tratil sa už za hmly, ale hviezdy sa osýpaly,   keď vystrela na pažiť svoje pekné telo.
+   </tei:p>
+   <tei:p>
+    — Kam ideš, Viktorka? — ohlásila sa mať z postele za ňou.
+   </tei:p>
+   <tei:p>
+    — Horúco mi je... dusno. — Von dýchalo sa príjemným chladom. Iba v   ostrovoch kolembavcj šašiny šumelo ako v rozpálenej dievčenskej   hlave. Viktorka vedela, Jany musí sa vrátiť, a zaspala nad ránom   spánkom spravodlivých. O niekoľko dní zarazil ju štekot. Vedela, čo   znamená, a vyšla — bol to Jany, ale sám-samučký. Puška mu visela na   pleci, pero sa zachvelo za klobúkom, dva psíky obskakovaly ju, ako i   jeho, a zvaly ich kamsi hlboko do lesa.
+   </tei:p>
+   <tei:p>
+    — Vedela som, že prídete, — usmiala sa mu a nedbala viac na   starostlivú mater. Lístie stromov sa lislo, vody i zem rozvoniavaly a   ona sa skvela na slnku ako roztvorený kvet, ktorý vyčkáva, kto ho   zoberie.
+   </tei:p>
+   <tei:p>
+    — Ty moja Victoria regia, — objal ju Jany náruživo a privinul k   sebe.
+   </tei:p>
+   <tei:p>
+    Nebránila sa mu. Zapäla sa do jeho ruky a
+   </tei:p>
+   <tei:p>
+    kráčala po tráve a kvietí, kam ju viedol — nebol jej už   neznámy.
+   </tei:p>
+   <tei:p>
+    — A kto je to Victoria regia? — dala sa mu niesť očima ako kvietie   zelenkavou hladinou.
+   </tei:p>
+   <tei:p>
+    — To je tá biela ruža, chvejúca sa na hladine pod bujnou šašinou,   — ovíjal sa ako had okolo jej tenkého drieku, vpíjal sa do nej očima   a pil dúškom z jej ramenných úst. — Victoria regia? To je najkrajšia   ruža močiara, Viktorka, to si ty.
+   </tei:p>
+   <tei:p>
+    — A viete, Jany, že ten podivný kvet nemožno odtrhnúť, a ak ho kto   odtrhne, zvädne.
+   </tei:p>
+   <tei:p>
+    — Nehovor, — potrhol ju za sebou. — Poďme ta do šašia ku hladine,   skúsim to, dobre? -— Išli a skúsili, ale Viktorka osmutnela. Leknín   vädol, až uvädol pred jej očima. Zadívala sa do hladiny, kde sedeli,   a jej krásne oči plávaly v slzách.
+   </tei:p>
+   <tei:p>
+    — Nesmúť, Viktorka, — potešoval ju Jany. kladúc a dvíhajúc pušku   na plece. — Zoberiem si ťa so sebou do mesta. Nájdem ti dobrú službu,   opatrím ťa a budeme si žiť. — Viktorka si utrela oči, keď sa však   lúčili, poznala, že je Jany už nie taký, akým si ho predstavovala,   ani jeho bozk nebol taký vrelý. Márne vyskakovaly psíky jemu na   kolená, jej na sukienku. Už to bolo iné, všetko iné.
+   </tei:p>
+   <tei:p>
+    Po jeho odchode túlala sa ešte močiarom dlho sama-samučká. Zdalo   sa jej, nemôže domov — musí takto chodiť. Za chrbtom naraz zašumelo   jej niečo. Strhla sa, obzrela, ale nevidela nikoho. Močiar už usínal.   Na lesklej hladine svietil ohromný rad zavretej Victorie regie a   odrážal sa v oceľovom zrkadle, iba niekdy prudko zašumela šašina a   ozval sa škrekot úzkostlivý. Viktorka sa zachvela. Pocítila mráz nad   srdcom i
+   </tei:p>
+   <tei:p>
+    na chrbte. Kradla sa do chalupy tíško, tichučko, nevyrušiac dych   otca a matere.
+   </tei:p>
+   <tei:p>
+    Takto bolo niekoľko večerov.
+   </tei:p>
+   <tei:p>
+    Jany chodil s puškou na pleci, obskakovaný drobnými psíkmi, keď ho   kto stretol a spýtal sa — kam, — vedel vždy výhovorku — na sluky, na   divé kačky, ale neniesol nikdy nič. Victoria regia belela sa   ružovkavo ako krv na zelenkavej hladine. Viktorka prišla na určené   miesto a nič mu neodoprela, len raz, keď horel túžbou, jej milý   hľadal ústami jej pery, vymkla sa mu kŕčovite a rozhodnutá pozrela mu   do očú.
+   </tei:p>
+   <tei:p>
+    — Jany, a vezmeš si ma? — zatriasol sa jej hlas. — Cítim, nie je   dobre so mnou. — Mladého lovca otázka ohromila ako blesk. Vypráva]   Viktorke to i oné — napokon chladno odišiel. Keď sa Viktorka vliekla   k chalupe, spustil sa dážď. Vtáctvo škriekalo z húšte a celý močiar   plakal. Krásne močiarne ruže privrely sa tuho — hladina sa   zvráskavela a vzdychala záhadne.
+   </tei:p>
+   <tei:p>
+    — Co je to s tebou, Viktorka? — spýtala sa jej mať na druhý   deň.
+   </tei:p>
+   <tei:p>
+    Miesto odpovede — rozplakala sa.
+   </tei:p>
+   <tei:p>
+    — Vidíš, takí sú páni, — pozrela na dcéru vyčítavo, — všetko patrí   im. I močiarna ruža, ktorú sotva že odtrhli — uvädla.
+   </tei:p>
+   <tei:p>
+    Ale vo Viktorkinej duši kypelo všetko sklamaním, ako keď zlomcuje   búrka divým močiarom. Nevedela viac pozrieť materi do očú, nie   otcovi, netešily ju najkrajšie líšky, ani ryby, ani srazené kačice.   Istého rána vyšla prvá z domu
+   </tei:p>
+   <tei:p>
+    — zadívala sa ešte na ružové zore i na ich nádherný lesk v   zelenkavých vodách. Rozpriahla ľaliové ruky, nahla sa kolembavou   šašinou a skočila do chladnej hĺbky.
+   </tei:p>
+   <tei:p>
+    Šašina smutne zašumela nad jej pekným mladým telom. O niekoľko dní   našli utrápení rodičia i hájnik zo susedného valalu na povrchu   zelenkavej hladiny Viktorku, bez duše. Plávala ticho pomedzi   beloskvúce ostrovy v zadumanej Victorii regii a zakrývala, čo sa   stalo, rozloženými zelenými listmi.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944809" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Koniec lásky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4067
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Koniec lásky
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KONIEC LÁSKY.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Bola nedeľa. Popoludnie. Čas nepríjemný—zimný. Sviežo napadlý sneh   topil sa pod južným vetrom. Stromy a strechy domov sčeraely. V   plechových rúrach pri uhloch domu cengaly kvapky roztopeného snehu.   Smutný pohľad na malý kus popolavého neba, holú stenu susedného domu   a cez nízke šindľové strechy na biele jednotvámé vŕšky, žltú dielňu s   komínom, naplňoval človeka ťažkým, oloveným citom.
+   </tei:p>
+   <tei:p>
+    Mne bolo ťažko na duši. Odišiel som od spoločnosti v salóne. Tam   mi bolo ešte ťažšie. Čo ma ona ustavične prenasleduje svojimi   tajomnými pohľadmi? Mohla vycítiť, že je všetkému koniec. Tretí žúr,   čo sa stránim, a ona nedajbože pochopiť . . .
+   </tei:p>
+   <tei:p>
+    Priložil som do pece niekoľko polien a pritiahol fotel. Z tretej   izby ozýval sa spev a smiech.
+   </tei:p>
+   <tei:p>
+    A aký veselý som bol, keď som prišiel. Usalašil som sa pri nej,   len tak, aby nebolo divným. Samý smiech a blahosklonnosť s jej   strany. Nemal som si sadať. Čo, tuším ešte nejakú iskierku? Pozriem   jednako svrchu do jej tvári a možno, že sa mi zapáči? Uvidím na nej,   čo som posiaľ nevidel? Sotva. Predsa sadám a chytám jej ruky. Chcem   sa Istiť a motám jej myšlienky . .. Neviem prehovoriť slovíčko s ňou.   Hľa, s domácou slečnou, ako ľahko by mi bolo hovoriť. Je zaujímavá.   Aké má divné oči. Akési zvädnuté, akoby z jemnučkej, priehľadnej   hmly. Neurčitej farby. Raz zdajú sa ti pivovými, raz málinko   belasými, sťaby pretkávané tenučkými be-
+   </tei:p>
+   <tei:p>
+    139
+   </tei:p>
+   <tei:p>
+    ﻿lasými nitkami, a raz čierne. Divné oči. Nešťastné obrvy, ako sa   hovorí. Dlhé, skoro spojené. Povedal by jej len; „Slečna, vy máte   nešťastné obrvy! a rozhovor by sa rozpriadol. .. Dnes je naozaj   pekná. Ako šikovne má prihladené čierne vlasy. Samé drobné vlnky v   nich. V pravom sluchu tenučká belasá žilka. Ta som si mal sadnúť.
+   </tei:p>
+   <tei:p>
+    S Elenou, nedajbože. Akási ľútosť ma nadchodí, alebo hlas   svedomia. Kedy-tedy prázdne slovko.
+   </tei:p>
+   <tei:p>
+    Zostal som jednako pri Elene a šepol jej do ucha pri hre:
+   </tei:p>
+   <tei:p>
+    — Ja s mojej strany vám dávam Bradného. A či iného chcete?
+   </tei:p>
+   <tei:p>
+    — Nie, nie! Ja vám dávam seba. Dobre?
+   </tei:p>
+   <tei:p>
+    — Dobre.
+   </tei:p>
+   <tei:p>
+    Zľava som dostal zasa len Elenu. Nechal som ju plávať. Ona sa   pritom začervenela a podržala si mňa. Trápno mi bolo. Tuším, že som   sa začervenel aj ja. Co si títo teraz pomyslia? bleslo mi hlavou. Ani   čo by čítal v ich myšlienkach: Títo dvaja sa červenejú. Hľa, ako sa   majú radi. Aká je láska, prezradí ťa. Hlupáci, keby vedeli. . .
+   </tei:p>
+   <tei:p>
+    Zahrali kolospev. Domácu slečnu pojal mladý notár z blízkej   dediny. Nízky, tučný blondín. Zavrtel sa s ňou v prostriedku   utvoreného kruhu. Vidieť bolo na ňom, že mu je nie pohodlne, ale   chcel ukázať, že je i on veselý, galantný a smelý. Prečo by on nebol   prvým v kruhu? Nevedel, ako sa vrtieť so spoločnicou a v konfúzii   spýtal sa slečny:
+   </tei:p>
+   <tei:p>
+    — Akú si rozkážete?
+   </tei:p>
+   <tei:p>
+    — Ach, čo! Zaspievajme vašu.
+   </tei:p>
+   <tei:p>
+    — No tedal
+   </tei:p>
+   <tei:p>
+    — Ja, s mojím hlasom!
+   </tei:p>
+   <tei:p>
+    Napokon domáca slečna začala:
+   </tei:p>
+   <tei:p>
+    „Šuhajko, luterán ..
+   </tei:p>
+   <tei:p>
+    140
+   </tei:p>
+   <tei:p>
+    ﻿Kruh sa pohol a zaspieval, pomaly hýbajúc sa napravo.
+   </tei:p>
+   <tei:p>
+    — A ak mňa vyberú, — hútal som, — akú zaspievam? Len keby nie s   Elenou. S inou ktoroukoľvek, len keby nie s ňou. Ona zaspieva vysoko,   hlasno, tenučko. Počujú všetci, aký má nepríjemný hlas. Zadivia sa,   ako ju ja môžem rád mať s takým hlasom. A keby len iskierku cítil v   sebe . . . Ako ma ťahá . . . Ruku mi stisla . . . Nepríjemný hlas . .   .
+   </tei:p>
+   <tei:p>
+    Sloha odznela. Tí, čo sa v prostriedku krútili, pošeptali si   niečo. Tušenie ma nesklamalo. Domáca slečna zvrtla mňa a notár Elenu.   Stál som v prostriedku. No, čo zaspievať, čo? Chytro, chytro! Len   smutnú nie! Hneď by hútali, čert vie, o čom.
+   </tei:p>
+   <tei:p>
+    Nejakú veselú, veľmi veselú . . . Teraz ti práve nepríde na um,   hľa! Aký som ja! Eh!
+   </tei:p>
+   <tei:p>
+    „Kameň na kameni, počal niekto v kruhu. Zachytil som tón a   zakričal pokračujúc:
+   </tei:p>
+   <tei:p>
+    „Na kameni kameň.
+   </tei:p>
+   <tei:p>
+    Salónom zaznela pieseň ťahavá, sentimentálna: „a na tom kameni   ešte jeden kameň. Dobrá príležitosť. Teraz prejdem na druhý   koniec. Vyčkám, až ona vykrúti. Dostal som sa k domácej slečne. Elena   celkom proti mne.
+   </tei:p>
+   <tei:p>
+    — Ach, vy úbohý! Kam ste to prišli? — privítala ma.
+   </tei:p>
+   <tei:p>
+    — Konečne k vám! — poklonil som sa jej vážne, hlboko. Ona sa tiež   uklonila.
+   </tei:p>
+   <tei:p>
+    — A teraz vás nepustím, — povedala, — hoci by ste radi takto   čarovať ...
+   </tei:p>
+   <tei:p>
+    — S kým?
+   </tei:p>
+   <tei:p>
+    — Aký svätý!
+   </tei:p>
+   <tei:p>
+    — No, povedzte. Vidíte, taký som rád, že som k vám prišiel.
+   </tei:p>
+   <tei:p>
+    — Ale!
+   </tei:p>
+   <tei:p>
+    141
+   </tei:p>
+   <tei:p>
+    ﻿— Celkom vážne. Vy neuveríte, ale ja som rád. Špeciálne vám som   chcel dnes niečo povedať. Nič lichotivého, nemyslite si. Keby nás len   nerozdvojili. A stisol som jej prsty, ťahajúc ju z kruhu a obracajúc   sa k nej. Zasmiala sa.
+   </tei:p>
+   <tei:p>
+    — Prečo práve mne?
+   </tei:p>
+   <tei:p>
+    — Vy na mňa dnes robíte dojem. Počkajte. Nazdáte sa, že vám tým   lichotiť chcem? Konečne, tomu hovoríme, s kým sa nám hovoriť žiada.   Vy ste narážali na niečo, keď ste chceli, aby som čaroval. Nazdali   ste sa, že by som radšej s Elenou stál, alebo sa krútil. To vás   mrzelo a povedali ste mi to. Mysleli ste si, že sa s vami necítim tak   dobre, a vaša márnomyseľnosť bola urazená, tým väčšmi, lebo nemáte,   ako sa hovorí, stáleho gavaliera, hoci by ste si ho zaslúžili.   Gavaliera, ktorý by vám ustavične venoval pozornosť. Nemusel by   prehovoriť ani slova, len aby bol stály, — a čím viac by ich bolo,   tým lepšie. Mohli by ste si vyberať. Nezávideli ste jej, keď ste   narážali na moje gavalierstvo k nej? Musíte mi odpustiť, že som taký   rovný . . .
+   </tei:p>
+   <tei:p>
+    — Až prirovný! Prosím, nebuďte .. . No a potom?
+   </tei:p>
+   <tei:p>
+    Kruh sa zvrtol a točil naľavo. V prostriedku bola Elena s akýmsi   úradníčkom. Nedívali sa na mňa, čím sa mi obľahčilo. Domáca slečna   hľadela niekam nabok. Znova všimol som si vlniek vo vlasoch a jej   bieleho líca s určitým profilom. Rýchlo obrátila tvár ku mne a   opätovne spýtala sa:
+   </tei:p>
+   <tei:p>
+    — A potom?
+   </tei:p>
+   <tei:p>
+    — Pekná si, — chcelo sa mi povedať, ale zas len prsty som jej   stisol. — Viete, tá spoločenská lož je i tak špatná, — povedal som   nahlas, — no, tu jej niet. Tu sú len formy, spôsoby, ale dámy musia   privykať nielen na poklony.
+   </tei:p>
+   <tei:p>
+    — Ach, poklony!
+   </tei:p>
+   <tei:p>
+    142
+   </tei:p>
+   <tei:p>
+    ﻿— Vy ste pekná. A aké vy ružové nechtíky máte. Oči raz belasé, raz   čierne. Interesantné .. . Tie obrvy . . . Vidíte, toto všetko by som   rád povedať, ale sa mi to protiví povedať tak, ako by sa patrilo
+   </tei:p>
+   <tei:p>
+    — s citom. Cit len cítiť, nevysloviť ho, len v kútiku kde nepočuje   nikto a kde je tma, aby sa človek nezahanbil. Bo veď i tak sa hanbí,   až príde do svetla. Hotový ,,katzenjammer
+   </tei:p>
+   <tei:p>
+    — Co chcete vlastne povedať?
+   </tei:p>
+   <tei:p>
+    — Hneď . .. Kult žien je nie už v móde. Emancipácia,   rovnoprávnosť; teda odpustíte, že som si dovolil troška rovnosti.   Chcem radu. Nemusíte vravieť nikomu, že som vás o ňu pýtal. . .   Prosím, povedzte mi spôsob, prestať byť gavalierom, tak aby neurazil   márnomyseľnosti a že by sa iné neradovaly. Ľutovať jej nebudú . .   .
+   </tei:p>
+   <tei:p>
+    Prišiel mladý vysoký človek s cvikrom a zavrtel sa s domácou   slečnou.
+   </tei:p>
+   <tei:p>
+    — Potom poradíte! — zavolal som ešte a chytil ruku mladého   človeka. Mal ju veľmi chladnú. Prečo ma ona dnes tak vábi, — dumal   som, — videl som ju nie raz, nie dva, a dnes ma zrovná očarovala.   Skoro by som jej povedal, že ju rád. A tento hlupák musel prísť, aby   nás rozdvojil. Keby neslúžila lži, vykrútila by ho a prišla nazpät...   Ä, á, — Elenka, ako sa milostné usmieva. Až hlavu naklonila a počúva.   Keby len našla gavaliera, ako ľahko by bolo odísť bez urážky jej   samolásky a márnomyseľnosti . . . Ako by som sa len mohol dostať ku   domácej? . . .
+   </tei:p>
+   <tei:p>
+    Doniesli pokrievku. Hostia si znova posadali a jedna dáma začala   rozdávať mená. Mužským ženské a dámam mužské. Vedel som, že mne dá   meno Elena a Elene Miloš. Tak sa aj stalo. Slečna zastala na chvíľku   predo mnou a bez rozmyslenia povedala;
+   </tei:p>
+   <tei:p>
+    143
+   </tei:p>
+   <tei:p>
+    ﻿— Vy budete Elena.
+   </tei:p>
+   <tei:p>
+    — Ale prečo?
+   </tei:p>
+   <tei:p>
+    — Vy viete.
+   </tei:p>
+   <tei:p>
+    — Dajte mi radšej Olga.
+   </tei:p>
+   <tei:p>
+    — Nie, nie, vy budete Elena! — a odišla.
+   </tei:p>
+   <tei:p>
+    Nazdáva sa, že ju ešte rád vidím. Ale ku domácej, tak sa mi vidí,   už sa nedostanem. Škoda. Najmä dnes by som rád hovoriť s ňou.
+   </tei:p>
+   <tei:p>
+    Slečna, čo rozdávala mená, zastala pred Elenou a počul som, ako ju   nazvala Milošom. Ona so smiechom prikývla hlavou, ako by jej to bolo   veľmi kvôli.
+   </tei:p>
+   <tei:p>
+    Ešte vždy prechováva nejaké nádeje. Zle je dívať sa na to. Musím   jej konečne rozpovedať, aby netrápila seba i mňa. Len ako? Celé mesto   hovorí o vážnom pomere, o tajných sľuboch, a teraz odrazu jej to   poviem. Najlepšie by bolo stratiť sa niekam a mlčať tam, kým   nezabudnú všetci. Teraz mi vraví každý Elena, Elena — vždy Elena, —   všade Elena. Že ich to toľko zaujíma. Musím sa rozhodnúť, tak, alebo   tak. Jej na každý spôsob treba oči otvoriť . . . A veď to musí cítiť,   len myšlienku odháňa, ako osu, ktorá by mohla poštípať. Myslí si: to   nemôže byť, — som taká, ako pred dvoma mesiacmi — a vtedy mi poslal   ruže.
+   </tei:p>
+   <tei:p>
+    Krásny jesenný deň bol a prišlo mi na um, ako som sháňal portýra v   hoteli, kto by tú kytku odniesol. Ako sa jej musela zaradovať a ako   som sa jej radoval ja, keď som kytku videl na jej prsiach. Teraz mi   je to skoro smiešno. Toľká naivnosť, toľko citu a slabosti!
+   </tei:p>
+   <tei:p>
+    — Elena! — zakričal niekto.
+   </tei:p>
+   <tei:p>
+    Jej hlas bol, a bežne, nedbale pozrel som na jej stranu. Pokrievka   sa vrtila v prostriedku. Nikto nebežal ju zodvihnúť, až padla.
+   </tei:p>
+   <tei:p>
+    144
+   </tei:p>
+   <tei:p>
+    ﻿— Záloh, záloh! — zakričali. Slečna prišla s klobúkom ku mne. Len   teraz mi prišlo na um, že veď ja som mal dvíhať.
+   </tei:p>
+   <tei:p>
+    — Prosím záloh, zamyslený pane! Stiahol som si prsteň, ako   záloh.
+   </tei:p>
+   <tei:p>
+    — Ale vy ste naozaj zamyslený, — povedala domáca, nahnúc sa cez   suseda. Sedela tretia odo mňa.
+   </tei:p>
+   <tei:p>
+    — Čakám na radu, neviem si poradiť.
+   </tei:p>
+   <tei:p>
+    — Ja vám neporadím. Musíte si sami klbko rozmotať.
+   </tei:p>
+   <tei:p>
+    — Vy ste nemilosrdná. — Ako vy. Podpálite a necháte horieť.   Čo,
+   </tei:p>
+   <tei:p>
+    pekné svetielko? Páči sa vám?
+   </tei:p>
+   <tei:p>
+    — Nezohrieva.
+   </tei:p>
+   <tei:p>
+    — Zahasiť ho a neihrať sa s ním. To je naozaj špatné. — I to by   som vám vysvetlil, ale niet príležitosti. Vy, keby ste sa neklonili   starým formám, povedali by ste mi: no poďte do bočnej chyže a   vysvetlíte. No nie, slečna? — obrátil som sa i ku susede, cez ktorú   sme hovorili, — keď sami od seba nepomôžeme slečne obliecť kabátik,   nech vyzve sama. Veď vďačne poslúžime, ale očakávať vždy tú   pozornosť, nepristane. Nech vyzve sama. Ak sa jej chce hovoriť s   mladým človekom, nech povie: pane, poďte sem ku kamínu, chcem sa s   vami poshovárať. Nie? Máme také drevené spôsoby. Na to poviete, že sa   to dáme nesvedčí. Hľa, staré, nemoderné rúcho . . .
+   </tei:p>
+   <tei:p>
+    — Elena! — ozvalo sa znova v salóne.
+   </tei:p>
+   <tei:p>
+    Lenivo som vstal a zodvihol pokrievku. Pozrel som dookola. Elena   práve sedela. Ona ju zavrtela. A opäť mi bolo akosi odporne okolo   srdca, ale hneď som sa zaradoval. Zavolám slečnu, čo medzi nami sedí   a dostanem sa ku domácej.
+   </tei:p>
+   <tei:p>
+    — Jozef!
+   </tei:p>
+   <tei:p>
+    145
+   </tei:p>
+   <tei:p>
+    io Novely
+   </tei:p>
+   <tei:p>
+    ﻿—■ Konečne dostal som sa k vám, — prehovoril som, sadajúc, a bolo   mi veselo, ale netrvalo dlho, zavolali ma zasa. Až keď bola pauza,   dostal som sa ku nej. Sedela pri klavíri a hrala:
+   </tei:p>
+   <tei:p>
+    „Nebanovala bych, keby nemusela . .
+   </tei:p>
+   <tei:p>
+    Sadol som k nej a díval sa na jej ruky a do blýskavej politúry   klavíra. Tam bolo vidieť dlhé skomolené prsty, ružové a belasé   hýbajúce sa body rukávov. Niekoľko dám prišlo bližšie, medzi nimi aj   Elena. Mala karty v rukách.
+   </tei:p>
+   <tei:p>
+    — Červený túz bude láska, — vravela a pozrela pritom na mňa.
+   </tei:p>
+   <tei:p>
+    — Však červený túz najlepšie zodpovie láske? — spýtala sa ma.
+   </tei:p>
+   <tei:p>
+    — Rozhodne, potvrdil som.
+   </tei:p>
+   <tei:p>
+    — Co je len s ňou a čo je so mnou? — myslel som si v duchu, — veď   takou nikdy nebola. Predtým taká tichá a ostýchavá. Len áno a nie, a   teraz sa neprestáva smiať. Vždy ju počuť. Hľa a zasa má tie svoje   ustavičné belasé šaty, s veľkými, smiešnymi stužkami. .. Na hrdle sa   jej odopäl háčik. Aká je odporná — a vždy na mňa pozerá.
+   </tei:p>
+   <tei:p>
+    — Teda: sedmička, dolník ... začala vykladať, — kráľ, zelený túz,   deviatka . . . nijako nejde — a zasmiala sa zasa.
+   </tei:p>
+   <tei:p>
+    Vstal som so stoličky, aby som odišiel. Pomaly oddiaľoval som sa,   kým ona vykladala, kladúc karty na malý filigránsky stolíček s albami   a pohľadnicami . . . Nie je gustiózna, keď sa smeje. Vysoko dvíha   peru a všetky zuby jej vidieť . .. Ale prečo som to dnes zbadal a   predtým nikdy? Ako socha so smutnou tvárou by bola krajšia. Čierne   šaty, k tomu kytku voňavých fialôk. Ale ani tak, ani tak. Mne sa ona   viacej nepáči. Ustavične na mňa pozerá a hľadí, aby sa ku mne   dostala.
+   </tei:p>
+   <tei:p>
+    146
+   </tei:p>
+   <tei:p>
+    ﻿— Pane Krátky, pane Krátky! Počkajte! — za-
+   </tei:p>
+   <tei:p>
+    kričala Elena za mnou, — to sa práve vás týka a mňa.
+   </tei:p>
+   <tei:p>
+    Negalantne staval som sa, ako by nepočul a priblížil sa ku mladým   ľuďom, ktorí v kútiku salóna stojac, kúrili a shovárali sa potichu.   Tam som postál za chvíľu a nezbadané zašiel do tretej izbičky.
+   </tei:p>
+   <tei:p>
+    Tma sa pomaly spúšťala do dvora, do okien, do izby. Vo veľkých   črepových kachliach blčal oheň a hádzal cez dvierka svetlo na podlahu   a stenu. Tak dobre bolo sedieť v mäkkom foteli a rozmýšľať. Ťažká,   nepokojná, ustavičná myšlienka . .. Všade mi zavadzia. Nepohodlne mi   je pri nej a namanie sa ti v najkrajších minútkach. Ona sa ešte vždy   nazdáva, že ju rád. To je trápne, že ju musím prebrať zo snov. Tak sa   mi aspoň patrí. Len ako, ako? A prečo sa to od istého času tak   zvrtlo? Ani čo by bol niekto chytil moje srdce a prevrátil ho, že sa   z neho všetko muselo vysypať. Ale to sa nestalo odrazu. Pomaly začaly   sa tratiť city, až s prázdnym srdcom dlho chodil som popri nej,   chcejúc si nanútiť niečo, čo sa nedá nanútiť: lásku k nej. Dosť   neskoro som sa zbadal. Ďalej pretvarovať sa nesmiem, kvôli nej a   kvôli sebe. Musím jej to ukázať — musím. Teraz ma hatí pri každom   kroku. Potom ma nebude. Len kde je príčina zmeny? Veď som ju rád   videl. Premenila sa? Veď predtým bola tá istá, lenže tichšia,   bojazlivejšia ... A ja som si ju predstavoval, aká bola predtým. Vždy   po kútikoch, bez smiechu a kriku. Načúvala, ako druhé hovoria, smejú   sa, koketujú a klebetia. Ona nikdy. Videl si len jej dobré, veľké   oči, ktorými nikdy nepozrela na teba. Skrývala ich, ako by sa bála   pozrieť do svetla, že ju popáli. To ma vábilo. Pozrieť do duše   nevinného decka, ktoré začína už aj duševne cítiť. Predstavil som si   svoj zamilovaný obrážtek. Sladko mi bolo okolo srdca. Ešte i teraz   rád ho vidím. Ach, a tie tichučké
+   </tei:p>
+   <tei:p>
+    147
+   </tei:p>
+   <tei:p>
+    ﻿scény citu! Prichádzaly mi na um jedna za druhou. Kam sa podela   ich vrúcnosť? Ani uhlíka po nich . . . Kráča dolu ulicou. Okrúhly   klobúčik s červenými pásmi, závoj s čiernymi punktmi, brnavý kabátik.   Ani čo by som ju videl. Stretám sa s ňou. Chce vážnou byť, ale   vidieť, že by sa rada usmiať a že jej je nepríjemne. Podáva ruku a   červenie sa. Ideme spolu a ja som rád, že môžem s ňou ísť. Ani   nehovorím o ničom, len som rád. Divné chvíľky to boly. Hľa, a pri   bráne znova skormútil som sa, ani čo by som ju posledný raz   videl.
+   </tei:p>
+   <tei:p>
+    — Kedy vyjdete, Elenka? — Ak nebude zima, večer,
+   </tei:p>
+   <tei:p>
+    — Prejsť sa? — Áno.
+   </tei:p>
+   <tei:p>
+    — Ale vyjdite iste.
+   </tei:p>
+   <tei:p>
+    Také prosté slová a ona predsa musela vycítiť z nich, že budem   veľmi rád, keď vyjde.
+   </tei:p>
+   <tei:p>
+    — Ak neprídete, poďte ešte teraz trošíčku. — Vyjdem.
+   </tei:p>
+   <tei:p>
+    — No, aspoň dvadsať krokov teraz. — Nie. S Bohom!
+   </tei:p>
+   <tei:p>
+    Podal som jej ruku a bolo mi ťažko, smutno. Niesol som ju v   myšlienkach so sebou a či ona niesla moje myšlienky. Nazdáva sa,   myslel som si, že by sa prehrešila bohvie proti čomu, keď je už doma   a dala by sa nahovoriť, aby prešla s mladým človekom ešte dvadsať   krokov.
+   </tei:p>
+   <tei:p>
+    Raz pýtal som si fotografiu.
+   </tei:p>
+   <tei:p>
+    Sľúbila, ale za mesiac ju vždy zabudla doma. — Vidíte, aká ste   zábudlivá.
+   </tei:p>
+   <tei:p>
+    — No, zajtra iste. — Zabudnete.
+   </tei:p>
+   <tei:p>
+    — Nie.
+   </tei:p>
+   <tei:p>
+    A nepriniesla jej. Napokon povedala:
+   </tei:p>
+   <tei:p>
+    148
+   </tei:p>
+   <tei:p>
+    ﻿— Viete, to ani nemožno. Videli by ju u vás iní. Čo by si   pomysleli?
+   </tei:p>
+   <tei:p>
+    — Nevidí jej nikto.
+   </tei:p>
+   <tei:p>
+    — Nuž tak ju donesiem.
+   </tei:p>
+   <tei:p>
+    Nedoniesla.
+   </tei:p>
+   <tei:p>
+    — Bola mama doma a pred ňou som nemohla.
+   </tei:p>
+   <tei:p>
+    — Nemohla! — povedal som s výčitkou. Vy mi ju nechcete dať, to je   všetko.
+   </tei:p>
+   <tei:p>
+    — Cožeby. Ale keď ju aj vezmem, ako vám ju oddám?
+   </tei:p>
+   <tei:p>
+    — Ó, Bože, ako! Veď sa na nás každý nedíva . . Pôjdeme do   spevokolu, alebo na próbu. Šuchnete do vrecka.
+   </tei:p>
+   <tei:p>
+    — No, tak ju donesiem, ale to sa jednako nesvedčí ísť do   vrecka.
+   </tei:p>
+   <tei:p>
+    — Dáte mi ju do ruky. Alebo najlepšie, vezmite ju zajtra. O pol   siedmej pôjdem i ja dolu. Vtedy je už tma. Oddáte. Dobre?
+   </tei:p>
+   <tei:p>
+    — Dobre.
+   </tei:p>
+   <tei:p>
+    Až raz ju predsa doniesla a oddala. Ťažko ju vyberala z vrecka   kabátika. Papier zašuchotal na nej. Skoro sa naľakala . . . Ako som   vtedy mrhá val čas, a nikdy mi to na um neprišlo. Bolo treba prejsť   do nejakého obchodu. Pred nosom cesta rovná. Pätnásť krokov, už si   tam. Nie, nešiel som rovno, ale dookola popri ich dome. Možno, že ju   uvidím v okne. Otvorí okno a ja jej podám ruku, pozriem do očú a   počujem jej hlas.
+   </tei:p>
+   <tei:p>
+    Kamene pred ich domom som poznal. I teraz viem, aký je každý z   nich. Jeden je vyšúchaný, z jedného chýba polovička, dva sú   červenkasté. Na jednom je veľká škvrna. Má podobu Afriky. Na druhom   je viac menších, červených škvŕn. Bránu majú tmavozelenú s veľkými   vyrezávanými romboidmi. Kraje sú pozlátené na nich. Levy s obručami v   nozdrách sú veľmi veselé a nie rovnaké. Kľučka
+   </tei:p>
+   <tei:p>
+    149
+   </tei:p>
+   <tei:p>
+    ﻿veľká mosadzná. Kolko ráz som prešiel vedia, vždy mi prišlo na nm:   túto kľučku aj ona chytá. Za bránou sú dvere naľavo, za nimi je izba.   Tam býva ona. Co robí? — Idem tak teraz ulicou a oproti mne uteká   psík. Ona ho neraz hladkáva. Volám na neho, aby som ho pohladkal.   Taký pekný psík... Dymí sa z komína. To je ich komín. Kúria. Možno,   že je i ona doma.
+   </tei:p>
+   <tei:p>
+    Raz večer boly próby na koncert. Sedel som na schodkoch, vedúcich   do garderóby. Ona pri mne na stoličke. Hrajúci rectovali, iní   počúvali. Samé roztratené grupky. Nik nás nevidel. Svetlo z dosák   ledva siahalo do nášho kúta. Osvecovalo slabúčko jej bielu tvár a   ruky. Sedela ticho, ako by načúvala reči hráčov a tajené smiechy za   kulisami. Ja som sa odrazu nahol k jej lícu. Odchytila hlavu. Rýchlo   vstala a odišla. — Co, ešte vždy sa ma bojí? — pomyslel som si.   Nechce prezradiť zo svojho citu nič. Uteká, lebo som sa sklonil k   nej. Co tají, čo sa bojí? Vidím ti na očiach, že ma rada máš, v   každej vete ti to zneje a ty utekáš, hoci by si rada zostala. Vtedy   mi neprišlo na um, že to tak musí byť. Chcelo sa mi potrestať jej   bojazlivosť. Umienil som si, že nepozriem na ňu. Co má utekať predo   mnou? Je to smiešne . .. Tam je slečna Želá. A šiel som k slečne   Žele. Pamätám sa, že ona začala hovoriť.
+   </tei:p>
+   <tei:p>
+    — A čože vy takto? Zunoval sa vám tmavý kútik pri schodoch?
+   </tei:p>
+   <tei:p>
+    — Prečo sa spytujete? Mám i ja svoje túžby, — odpovedal som s   pózou, veľkým pátosom a vážne. — Celý život má pozostávať zo sedenia   v kútiku?
+   </tei:p>
+   <tei:p>
+    — Ale prečo nie? Veď je to prijemné. — So slečnou Elenou,   však?
+   </tei:p>
+   <tei:p>
+    — No áno.
+   </tei:p>
+   <tei:p>
+    — Poďme, slečna Želá, do toho kútika. Možno, že nám bude   prijemne.
+   </tei:p>
+   <tei:p>
+    150
+   </tei:p>
+   <tei:p>
+    ﻿— Vám — so mnou?
+   </tei:p>
+   <tei:p>
+    — Pravda.
+   </tei:p>
+   <tei:p>
+    — A láska?
+   </tei:p>
+   <tei:p>
+    — Ozaj, láska! O, láska, ty cit vznešený! Poď!
+   </tei:p>
+   <tei:p>
+    — zavolal som nahlas, urobiac rečnícke gesto. — Pssst! Co sa vy   smejete? Vy ste v nej, že vám ani ušú nevidieť. Nemáte práva   vysmievať sa.
+   </tei:p>
+   <tei:p>
+    — No a vy ste o nej presvedčená?
+   </tei:p>
+   <tei:p>
+    — Ešte nie, ale vidím ju.
+   </tei:p>
+   <tei:p>
+    — Kde?
+   </tei:p>
+   <tei:p>
+    — Aj na vás.
+   </tei:p>
+   <tei:p>
+    — Vidíte, ako sa mýlite. O láske vravieť je vec smiešna, a ešte v   tom smysle vznešené, krásné, duševné. Vy ste ma už videli aj pivo   piť, alebo karty hrať. Ako radi víno pijeme, karty alebo biliard   hráme, tak milujeme ženy. Za kartami ideme, lebo nám napnú nervy,   zaujmú myse! a rozprúdia krv. Tak ideme za slečnami, slečna. Krv, ale   nie duša . ..
+   </tei:p>
+   <tei:p>
+    — Ale tak by sme potom každého radi videli. To je nie tak.
+   </tei:p>
+   <tei:p>
+    — Ani v tom nehrá duša ani najmenšej roly. Pozrime holuby. Ich   charakter je, že si vyhladajú páry. Tak aj ľudia. Lenže my žičíme, a   slúžime predsudkom, akýmsi fixným ideám, spoločenskej hypochondri!.   Obhrýzame koštiaľ, ktorý nám nechali minnensängeri a trubadúri a   nazdáme sa, že sme zaľúbení, nemôžeme žiť bez nej. Ale to je nič iné,   ako rozčúlenie. Ukazovať sa takýmto je komické a neestetické. Vy   slečný máte viac estetického citu v sebe a preto vy to verejne veľmi   ťažko ukazujete, ale skrývate, pokým možno. O láske hovoriť a ukázať   sa zaľúbeným v dobrej spoločnosti je práve tak, ako hovoriť o špatnej   veci a ukázať sa v opilom stave. To sa nesmie stať.
+   </tei:p>
+   <tei:p>
+    151
+   </tei:p>
+   <tei:p>
+    ﻿Tak som táral, mysliac ustavične pritom, kde je ona, lebo som jej   nevidel. .. Iste odišla do druhej izby. Chce, aby šiel za ňou .. .   Aha, tam jej vidieť sukňu za kulisami. Hovorí s kýmsi a sem ani   nepozrie. Ani ja nepozriem na ňu, nech robí, čo chce. Nepozriem,   nepozriem, nepozriem . . .
+   </tei:p>
+   <tei:p>
+    — Spievať! — zakričal sbormajster odrazu, vychádzajúc na dosky s   partitúrou v ruke.
+   </tei:p>
+   <tei:p>
+    — Prosím soprán, soprán! — volal.
+   </tei:p>
+   <tei:p>
+    — A čo sa bude spievať? — spýtala sa vysoká, čierna dáma.
+   </tei:p>
+   <tei:p>
+    — Zimné kvety. Knižky sú v druhej izbe, — odpovedal sbormajster. —   Prosím, nech sa páči! Nemáme kedy!
+   </tei:p>
+   <tei:p>
+    — O tomto sa môžeme ešte poshovárať, — povedala mi Želá, — nemáte   pravdu.
+   </tei:p>
+   <tei:p>
+    A odišla. Vyšiel som za ňou na dosky. Pozrel som ku schodíkom a   videl som, že tam sedí Elena s vážnou tvárou. Pozrela na mňa a ja som   išiel zasa len ku nej. Bol som vtedy naozaj komický. A potom ešte . .   . Na vychádzkach, koncertoch a plesoch. Vždy s ňou plným, zaľúbeným   srdcom. Neraz nad ránom, pri mládeneckých lumpačkách bral som   Cigánov, ukázal okná a vravel, aby zahrali. Hrali smutné i veselé, a   mojou dušou rozlieval sa žiaľ túhy. Tak nahnúť sa k jej svetlej   hlave, zodvihnúť ju nežno a bozkať . .. Brieždilo sa. Hudba umlkla a   ja som šiel domov bledý a s radosťou, že ju na druhý deň uvidím, s   tým som zaspával...
+   </tei:p>
+   <tei:p>
+    ,Ej duby, duby, zelené duby,
+   </tei:p>
+   <tei:p>
+    zelená dubina
+   </tei:p>
+   <tei:p>
+    znelo v salóne. V izbe, kde som sedel, bola už úplná tma. — Pôjdem   do salónu k nej. Možno, že sa mýlim, že je ona i teraz tou tichou,   nežnou Elenou s bojazlivými očami.
+   </tei:p>
+   <tei:p>
+    152
+   </tei:p>
+   <tei:p>
+    ﻿— Tu ste? — vytrhol ma Elenin hlas.
+   </tei:p>
+   <tei:p>
+    Ona prichádza . . . Mám jej povedať, že som tu, či mlčať? Ale, veď   mi vidí nohu vo svetle z pece.
+   </tei:p>
+   <tei:p>
+    — Tu, — povedal som.
+   </tei:p>
+   <tei:p>
+    — Čo sa ma tak stránite?
+   </tei:p>
+   <tei:p>
+    — Co by sa stránil?
+   </tei:p>
+   <tei:p>
+    Povstal som s miesta a Elena podišla ku mne; Aby som videl, pohol   som sa a otvoril dvercia na peci. Hla, ona žiada, a to hlasne, aby sa   jej nestránil, aby bol vždy pri nej. To je to, čo mi ju sprotivilo .   . . Nie, ja ju nerád . . . Aká je dlhá! Všetko na nej je dlhé a   tenké. Tvár, hrdlo, driek, ruky, dlane, prsty. I jej hlas je zdĺhavý   a plačlivý. Belasá toaleta so stužkami. .. Načo prišla? . . .
+   </tei:p>
+   <tei:p>
+    — Ja sa nerada hrám, — povedala, — povedzte rovno! Všetci zbadali,   že sa ma tak stránite. Co som vám urobila?
+   </tei:p>
+   <tei:p>
+    — Co ste mi urobili? Nič.
+   </tei:p>
+   <tei:p>
+    — Ako hovorí, ani čo by ja musel vždy pri jej boku stáť! —   prelietlo mi mysľou. — Nerada sa hrá! Nároky vidieť. Ech, musím jej   povedať všetko . . . Keby sa teraz tak nahol ku jej tvári. Neušla by,   mohol by to urobiť, neušla by.
+   </tei:p>
+   <tei:p>
+    Ale ja som jej vtedy ani ruku podať nemohol. Čosi ma odstŕčalo.   Stále predo mnou a ja som sa díval popri jej hlave niekam do kúta,   chladne, bez rozochvenia.
+   </tei:p>
+   <tei:p>
+    — Neberte ma vážne, — riekol som ticho a vrátil sa k peci. — Teraz   je koniec všetkému, — myslel som si.
+   </tei:p>
+   <tei:p>
+    Zazdalo sa mi, že sa jej oči zakalily. Pozrel som ešte raz v jej   bok. Odišla. Ja som tomu potom neveril. Pre mňa by ona zaplakala? Je   mladá a pekná. Nájdu sa iní. U nej je tak, ako u ostatných.
+   </tei:p>
+   <tei:p>
+    Na obloky fŕkal hnusný zimný dážď. Von všetko skryté v tmavej,   nepriehľadnej noci, ani jedin-
+   </tei:p>
+   <tei:p>
+    153
+   </tei:p>
+   <tei:p>
+    ﻿kého svetlého bodu. Smutne i tam, i tu... Ani čo by nič   nezaujímalo dušu. Svet prázdny, bez radosti ... Kde si, tichá,   bojazlivá Elena so svetlými vlasmi a smutnými očami? Kde je tebou   vyčarovaný svet nezapomenuteľných pocitov? Stráca sa ako vták na   jasnom nebi, letiaci do diaľky, vždy menší a menší. .. drobný bod...   i on mizne ... S tebou sa už nestretnem.
+   </tei:p>
+   <tei:p>
+    154
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

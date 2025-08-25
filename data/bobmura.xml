@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943682" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Bombura : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     11368
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Bombura
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     BOMBURA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Motto: A ty, mor ho! — hoj, mor ho! detvo môjho rodu, kto kradmou   rukou siahne na tvoju slobodu; a čo i tam dušu dáš v tom boji   divokom; mor ty len, a vol nebyt, ako byt otrokom. Samo Chalúpka. I.   Mešťania slobodného kráľovského mesta Brezna mali už v prvých rokoch   sedemnásteho storočia veľký smysel brániť si svoju dedovizeň a svoje   slobody. Vyrástlo to už z dejov, ktoré sa tu odohraly a ktoré ako   hlinu premiesily mäkkú a bezzáujmovú ľudskú dušu. Priebehom času   vybudoval sa tu tvrdý a neústupný charakter, v ňom rástly generácie i   so svojimi chybami a daly základ duševnej tvárnosti budúcim.   Spoločnosť nebola bez chýb ani za najdávnejších časov. Mala svojich   patricijov, svoje súdy, právo — ius gladii, pred ktorým korily sa   všetky hlavy, ako i svoj kriminál, ktorý po dlhé roky sotva kedy bol   prázdny. Ale ruka justície bola prísna, tváre sudcov i senátorov,   ktorým predsedal richtár, kamenné. Taký dvadsaťštyričlenný súd —   vigintiquatuorvirát — upravoval mravy nielen živých, ale i mŕtvych,   rozdával palice a lopaty previnilcom, z nich nameral dosť i ženám,   ktoré sa v niečom zabudly. Samopaš netrpel, na schladenie horúcej   krvi mal prinajmenej trlicu na rínku, ktorá v nedeľu po službách   božích dostala svoje obete. Vyniknúť nebolo ťažko, a ak kto nemohol   byť bez toho, mohol na seba, svoje svaly, alebo svoju krásu a nežnosť   ľahko upozorniť. Ak sa kto obesil, nebol tým ešte von z obliga.   Vigintiquatuorvirát zasadol, fiškus vstal a povedal svoju obžalovaciu   reč i proti mŕtvemu; ak už duša bola v pekle, telo ešte bolo tu a   tomu namerali vysokou mierou. „Nech menovaný,“ tak znel ortiel, „je z   tohto mesta na chotár popravným majstrom na káre vyvezený, a po   odťatí pravej ruky a hlavy nech je jeho telo spálené a prach do vetra   rozhodený. Deliberatum est.“ Viacej nebolo možno urobiť.
+   </tei:p>
+   <tei:p>
+    V takýchto prísnych regulách rástol mestský mrav. Aký div, keď   skoro každá nedeľa mala i svoju senzáciu. Posledne zosústredil sa   záujem mesta na veštici a bosorke Kataríne Plechovej, ktorá práve   sedela v najväčšej istote naprostred rínku.
+   </tei:p>
+   <tei:p>
+    — Čože si vykonala, — pozerali si ju vážne meštianky i poctiví   majstri, príslušní do najrozličnejších cechov.
+   </tei:p>
+   <tei:p>
+    — Ej, čarovala, — znelý poznámky, — nebála sa ani Boha, ani ľudí,   šatku svliekla s mŕtveho a dala ľuďom použiť. Údila v komíne gate a   košeľu, naložené šípom a tŕním. — A na čo jej to len mohlo byť? —   Ktože ju vie, opýtaj sa jej. — Ešte sa jej spytovať, — ozvalo sa   bojazlivo. — Veď má oči ani zrkadlá, povie ti niečo a ostane na   tebe.
+   </tei:p>
+   <tei:p>
+    Takto sa mleli celý deň zvedavci okolo delikventky. Večer, keď ju   vypustili, dráb zaviedol ju na richtárov rozkaz do Drakšiara, kde   mala chalupu.
+   </tei:p>
+   <tei:p>
+    — Ty, Dóra, — pohrozil jej dráb, odchádzajúc, — pritisni si kolom   dvere, nech ťa v noci niekde nevidia, lebo zhoríš na   Viselniciach!
+   </tei:p>
+   <tei:p>
+    — Ba, choďte už, — zasotila drevenú závoru a ľahla si spať.
+   </tei:p>
+   <tei:p>
+    Utrpenie sa však ešte neskončilo. Spravodlivosť vykonala svoje,   ale ľuďom nezapchala ústa. Kam sa Dóra obrátila, všade znelo príšerne   — striga, striga, bosorka. Deti si zakrývaly ústa, aby im zuby   nepočítala, lebo im vypadajú. Pomáhala si, ako vedela, postavila sa   na nohy. skrížila pohľad, zatiahla si šatku a strašila ľahkoverných.   — Veď vás ja nájdem, nájdem vás ja! — A strach mal hneď veľké oči,   ľudia verili, že ona všeličo môže spraviť, i človeka obrátiť na koňa,   prečo by nie. Aj sa jej báli priblížiť, človek nikdy nevie! Ani páni   senátori neodvážili sa zadrieť do nej, ani sám pán richtár.
+   </tei:p>
+   <tei:p>
+    Iba jeden mládenec sa jej nebál, hoci zazerala naňho zpod   pritiahnutej šatky, ale to bol i chlap, vysoký skoro na dve siahy,   nohy ako stĺpy, ruky ani valce, na krku bol by azda aj žarnov   uniesol. Bol to Jakub Bombura, pravým menom Mikovíny. Nebol bohatý,   skoro ostal sám v chatrnom stavaní, ale bol patricij z predného rodu,   nemal ho rád ani richtár, ani úradskí mesta ho nemali v láske pre   výstupči■vosť. Ak sa kto v nedeľu popral v mestskom hostinci, to bol   iste Kubo Bombura, ale on naozaj ani nedaroval nikomu. Keď majetku   ani nemal, ale chlapom bol. Sotva by sa bol odvážil kto v meste ísť s   ním za pasy. Keď sa mäsiarski majstri lapili doňho i na stávku,   pohádzal ich radom na zem ako múčne vrecia.
+   </tei:p>
+   <tei:p>
+    — Kde len berie tento Kubo toľkú silu, — čudovali sa mešťania. —   Nemá sa ani dobre čoho najesť.
+   </tei:p>
+   <tei:p>
+    Kubo sa však dal na zárobky, vedel pracovať za dvoch a kto ho   chcel mať, ten mu i dal. A najradšej vychodil na salaš, tam sa   najedol, nastrebal žinčice, nanosil bačovi dreva i narúbal a potom sa   vyspal do dobrej vôle. Na salaši nebolo smutno, vychodili ta mešťania   aj ich dievky a gazdiné pre syr. Ale prišli i iní chlapi, známi,   neznámi. Mali zbraň, pošmúrne tváre a radi si rozkazovali. Sotili   každého, kto sa im dostal do cesty. Tak to spravil jeden i s   Bomburom.
+   </tei:p>
+   <tei:p>
+    — Ale idze, — skrútil sa tento pohŕdavo. — Neondej.
+   </tei:p>
+   <tei:p>
+    — Aké neondej? — osopil sa naňho chlap ani hora, s vybíjaným   opaskom a valaškou. — Co som ja s tebou kedy husi pásol?
+   </tei:p>
+   <tei:p>
+    Bača i valasi mrkli na seba. Vedeli, čo bude, a nemýlili sa. Slovo   na slovo a chlapi boli vo vlasoch.
+   </tei:p>
+   <tei:p>
+    — Čože sa tak dvíhaš? — okríkol ho neznámy. — Ktože si ty?
+   </tei:p>
+   <tei:p>
+    — Ja som mešťan, — vzopäl sa tento hrdo. — A ty si, ty si   zbojník!
+   </tei:p>
+   <tei:p>
+    — Tíí, ty papľuh, takéto mi povedať! — sčervenel nepriateľ ako   rak, — to si ešte odnesieš! — Odnesie, kto odnesie, — pozrel mu Kubo   smelo do očú a sledoval valašku, blýskajúcu sa v ruke.
+   </tei:p>
+   <tei:p>
+    V druhú chvíľu však už valaška odfŕkla ani trieska. Psi zavyli,   známi i neznámi obstali chlapov a nastalo klbčovisko.
+   </tei:p>
+   <tei:p>
+    — Dajže tomu chlapčiskovi, Jano, — posmeľovali jedni. — Nech ide   mater cicať!
+   </tei:p>
+   <tei:p>
+    — Kubo, nedaj sa, — volali zas druhí. A telá sa svíjaly ako   ohromné hadiská, v chrbtoch pukalo, kosti zapráskaly.
+   </tei:p>
+   <tei:p>
+    Kubo dostal do políčka i do brucha, zrútil sa na zem, sotva sa   však Jano spamätal, už bol zas na nohách, žily mu navrely a vrhol sa   naňho ako rozzúrený býk. Diváci prestali dýchať. Divý zápas chlapísk   ich frapoval, už čakali, všetko sa skončí bezvýsledne, chlap ako   chlap, na tej istej bryndzi, na tej istej žinčici a na tej istej   baranine vyrastený. Keď tu zrazu Kubo sa otočil, schytil Jana za   chrbát a za hlavu a tak ho praštil na zem, až zadunela. Jano ostal   ležať na pažiti ako snop, lapal dych poriadnu chvíľu a ani sa viacej   nechytal do bitky. Mumlal ani trafený medveď.
+   </tei:p>
+   <tei:p>
+    Kubo si stieral krv, ktorá sa mu valila z vyrazeného zuba, gánil   na soka, ak by ešte mal chuti, ale toho prešla všetka. Prítomní zas   obzerali Kuba, či sa mu nič nestalo.
+   </tei:p>
+   <tei:p>
+    — To je hej chlap, — hovorili si i tí neznámi, — taký sa neobrátil   ešte na tomto salaši.
+   </tei:p>
+   <tei:p>
+    — No, Kubo, nie darmo si jedával halušky tri razy denne, —   vychvaľovali ho Brezna nia, hrdí na neho. — Tak to vravela i tvoja   mať, že ťa niekoľko rokov pridájala. Z ničoho je nič. Ale košeľu máš   krvavú na chrbte.
+   </tei:p>
+   <tei:p>
+    — Musím si umyť, to mi iste pomliaždil ten zbojník!
+   </tei:p>
+   <tei:p>
+    — Aký zbojník? — počala sa škriepka znova. — Komu sme my čo ? —   kričali chlapi hrozivé a blýskali valaškami, až psi zavýjali   znova.
+   </tei:p>
+   <tei:p>
+    — Veď ja nič, — umýval si Kubo skrvavené plece vodou z válova. —   Ale ak chcete, ešte vám ukážem!
+   </tei:p>
+   <tei:p>
+    — Škoda sily mariť, — ustával hnev urazených. — Radšej poď s nami,   bude ti dobre!
+   </tei:p>
+   <tei:p>
+    — Ale ja, medzi vás, ja, mešťan, — to už nie! Chudobný som. ale   zbojníkom nebudem! Raz som nie na to, keď chcem, zarobím si a mám, čo   by sa ja túlal po skalách ako medveď!
+   </tei:p>
+   <tei:p>
+    A tu stalo sa niečo, čo nečakal. Z davu vyrazila ostrá tvár Katy   Flochovej. Letela naňho rovno ako osa.
+   </tei:p>
+   <tei:p>
+    — Len sa tak nezhŕdaj, Kubo! — zosipela naňho posmešne, — azda je   to pre teba novina, nejedol si jakživ kradnutú baraninu?
+   </tei:p>
+   <tei:p>
+    — Nejedol! — zdúpnel Kubo, obzerajúc si opovržlivo bosorku.
+   </tei:p>
+   <tei:p>
+    — Len sa nevyhováraj, — dobiedzala ďalej, — veď som aj ja bola pri   tom! — Čože? Ty klietkárka! — sotil jej do očú, poblednutý ako   mesiac. — Ja tvojho Antikrista! — podišiel k nej hrozivo. — Nech   nehľadím na tú tvoju mrcinu, rozdriapem ťa v rukách! — a vtom ju   brnkol trochu do pŕs. Bolo to pre neho trochu, pre ňu priveľa.   Potočila sa, zachrčala a prestala dýchať. Iného nestalo sa nič.
+   </tei:p>
+   <tei:p>
+    Kubo videl, zle je. Bosorky je nie škoda, mali ju už dávno spáliť   alebo hodiť do bacúšskeho stavu. Ale zabiť, to je zle, — svesil   Bombura hlavu a hľadel chvíľu ako do prázdna. — Neboj sa, budeme ťa   brániť, — posmeľoval ho bača i valasi. — My sme videli, ako sa to   stalo.
+   </tei:p>
+   <tei:p>
+    — I my, i my, — znelo so všetkých strán, čo však nezmenilo fakt.   Na pažiti ležala stará žena, prsty skrivené, zuby zaťaté, ostré oči   stlpkom. Ako by len volala kohosi pred súd. Co na tom, že začala ona,   nik ju nevolal, nik neprovokoval.
+   </tei:p>
+   <tei:p>
+    čert ju sem dovliekol. Jednako bola, a už jej niet, a to už vpadá   do právomoci breznianskeho fiškusa, i vigintiquatuorvirov a pod   hrozné právo — ius gladii.
+   </tei:p>
+   <tei:p>
+    „Hoj, Kubo,“ zabrnkal si sám pre seba, „už sa ty so svojím   rodiskom musíš rozlúčiť,“ obzrel si ho s kopca, ako leží pri Hrone v   objatí drsných bášt a múrov.
+   </tei:p>
+   <tei:p>
+    — Nikdy som nemyslel, — povedal zarazeným očiam, matnejúcim okolo   neho. — Pôjdem, kde ma dve oči povedú, ešte jest niekde sveta i pre   mňa. — Neutekaj, Kubo! — ozvaly sa z kúta hlasy. — Ostaň a poď s   nami! — Nikdy, — pokrútil hlavou. Ešte sa postaral o Katu, aby ju mal   kto sniesť do mesta a či už bola, či nebola bosorka, uložiť   kresťansky do mestského cintorína. Potom sa zadíval ešte do blčiacej   pahreby a zahľadel v tie zmlknuté, ohňom ožiarené markantné tváre. —   Majte sa dobre, — pozdravil úctivo a ako netopier stratil sa vo   tme.
+   </tei:p>
+   <tei:p>
+    n. S breznianskeho salaša šiel horami, prťami, kade ho už cesta   viedla. Do vrchov sa nepúšťal, na hradskú nesostupoval. Tade chodia   mnohí, furmani i kupci, mohol by trafiť na nejakého známeho. A Jakub   Bombura, ako sa mu tosKatou prihodilo, štítil sa akosi ľudí, nevedel   sa rovno pozrieť do očú. On pre starú bosorku mal čisté svedomie. Veď   mohla sedieť doma pri peci a nebol by zavadil o ňu, ale ona ani teraz   nedala mu pokoj, stavala sa mu pred oči a hnala ho kamsi   nevysvetliteľne. V duši jeho ozývalo sa
+   </tei:p>
+   <tei:p>
+    to hrozné: — Jakub, Jakub, zabil si, zabil, — a on nevedel si   pomôcť, preto hľadal horu a iba v jej húšťach cítil sa istý. Lebo keď   bol už preč z breznianskeho chotára, ťažko ho budú môcť dolapiť a   tobôž súdiť. A ked už musel medzi ľudí, vyhľadal salaše. Poprosil   baču, alebo vykonal mu niečo a tam medzi deťmi prírody, pri žeravej   vatre zo smoliakov alebo z kosodreviny, cítil sa ako doma. Tak zašiel   až na ľubietovský salaš.
+   </tei:p>
+   <tei:p>
+    — Daj Boh šťastia, — pozdravil slušne, ako sa patrí, a tu videl,   akísi čierni, učadení chlapi obracali barana na ražni.
+   </tei:p>
+   <tei:p>
+    — Bože daj, — odpovedali mu akosi s pleca a obzerali si ho   pozorne. — Kdeže ideš touto cestou?
+   </tei:p>
+   <tei:p>
+    — Nuž ja veru z Horehronia, — odpovedal im, — niekam dolu až do   Senice. Nemám nikoho a tam mám strýka Eliáša, rád by som k nemu na   zimu.
+   </tei:p>
+   <tei:p>
+    — A nič nenesieš so sebou?
+   </tei:p>
+   <tei:p>
+    — Co by niesol, — pochopil hneď príčinu zvedavosti, zbadal baču,   ako sa obzerá a vedel, prečo to robí.
+   </tei:p>
+   <tei:p>
+    — No niečo len musíš mať, — dobíjal jeden z chlapov a počal ho   chytať za šaty a ohmatávať.
+   </tei:p>
+   <tei:p>
+    — Dajže ty mne pokoj, — ohnal sa Jakub. A tu ten chlap našiel sa   naraz na zemi. Prí-
+   </tei:p>
+   <tei:p>
+    tomných to prekvapilo. Ich kamarát na pažiti vedľa vatry váľal sa   ako sviňa v blate, to už neodpustiť, to už ide do cti, — počali   vykrikovať a prišelcovi vyhrážať. Ten sa však nezľakol, stisol päste   a rozkročil sa naširoko.
+   </tei:p>
+   <tei:p>
+    — To si iste ty, čo si tú bosorku zabil na breznianskom salaši! —   vyčítal mu nevdojak ten
+   </tei:p>
+   <tei:p>
+    prvý, ktorý sa už sbieral na nohy. — Myslíš, nevieme o tom? Ked   prídeš pod ľupčiansky zámok, tam ťa nájdu a posadia do chládku. Na   zámku majú poriadne pivnice, môžeš v nich zhniť ako stará metla.
+   </tei:p>
+   <tei:p>
+    — Poddaj sa! — obstali ho chlapi hrozivo. — Alebo ťa   rozsekáme!
+   </tei:p>
+   <tei:p>
+    A už sa to začalo. Zbojníci vrhli sa na Bomburu a chceli si ho   zaskočiť od chrbta, ale on švihol jednou päsťou a oni sa váľali v   blate ani hrušky, rozohnal sa druhou a už nemal okolo seba nikoho,   všetci odťahovali sa na úctivú vzdialenosť, nik sa ho neodvážil   dotknúť.
+   </tei:p>
+   <tei:p>
+    — Hej, chceli by ste ma oddať hajtmanom, vy lotri zbojnícki, —   zahrešil im rozkatený, — ale ja vás oddám čertu, nech si vás zoberie   do jazerného pekla.
+   </tei:p>
+   <tei:p>
+    Nemal však už koho oddávať; barana na ražni, aby nezhorel, krútil   už valach a zbojníci odbehli krátkou cestou. Iba teraz usmial sa   naňho bača.
+   </tei:p>
+   <tei:p>
+    — Chlap si, — potľapkal ho po pleci, — nech sa nepostavíš,   rozsekajú ťa, alebo oddajú panským drábom miesto seba. Najedz sa a   napi po chuti, i vyspať sa môžeš u nás do rána, po takej ruvačke dajú   ti pokoj.
+   </tei:p>
+   <tei:p>
+    Tak sa i stalo a Bombura pohol sa len na svite. Bolo pekne po   daždi, vtáctvo spievalo, kvety sa privrávaly. Kráčal hustou bučinou a   spúšťal sa k ľupčianskemu zámku. Na nešťastie spustil sa však až dolu   na cestu. Neviezol nič ani na plti, ani na voze, tu bo však   pristavili mýtnici.
+   </tei:p>
+   <tei:p>
+    — Stoj, kto si? — Vidíte, kto som, — odpovedal chlapsky,
+   </tei:p>
+   <tei:p>
+    pocestný. Neveziem nič, od čoho by som vám mal platiť!
+   </tei:p>
+   <tei:p>
+    — Aká to reč, — flochli na neho drábi zlostne. — Tu sa panstvu   platí, a nie nám, voľačo už len nesieš, z toho dáš, čo máš.
+   </tei:p>
+   <tei:p>
+    — A chceli by ste? — zadíval sa na nich Jakub posmešne.
+   </tei:p>
+   <tei:p>
+    — Chceli, konáme si len svoju povinnosť! — A ja si tiež konám len   svoju povinnosť.
+   </tei:p>
+   <tei:p>
+    keď vás vyplatím z toho, čo mám, — a hrkol jedného drába do   druhého, až ten tretieho prevalil. — Ta mi choďte z cesty! Furmanov   staviate, kupcov pristavíte, no tam máte aspoň pre čo, ale   pristavovať i chudobného človeka, ktorý nemá len dve päste, je už   priveľa. Co človek len nato žije, plniť pokladnicu vášho panstva?
+   </tei:p>
+   <tei:p>
+    Tých však už nemusel presviedčať, váľali sa predesene v prachu a   boli radi, keď ho videli miznúť na zákrute.
+   </tei:p>
+   <tei:p>
+    Takto sa musel Jakub prebíjať, ale prebíjal sa rezko, videl —   človek nemusí byť zbojníkom, aby zavadil i tam, kde nechce, to je už   tak, niektorí ľudia prežijú život a nikto si ich nevšimne, iný človek   zas spraví krok a už má hádku. Sú ľudia, ktorí priťahujú blesky a   hromy a kapustný hlúb nič nepriťahuje. Takto si vysvetľoval svoje   nehody i Bombura a kráčal odmerane ďalej. Niže Bystrice stretol   sedliakov, stáli okolo naloženého voza, zaviaznutého po osi v blate,   a božekali. Jeden behal s dlhým kolom, podkladal ho sem i tam, oprel   i o plece. A hió, koníčky šly sa roztrhať, natrhly už i pobočky,   skoro by boly ušly bez voza. — Počkajteže, — zastal pri nich Bombura   a zmeral fúru očami. Bola poriadne naložená senom. Tu on vzal kôl,   podložil pod zadné koleso.
+   </tei:p>
+   <tei:p>
+    — No, pohnite! — zdvihol voz pred ich očima do vzduchu.
+   </tei:p>
+   <tei:p>
+    — Hio, hióó, — kričali sedliaci so všetkých strán a voz sa   vyšmykol z priepadliska. Blato vystreklo vysoko, i do Jakubovej   tváre, ale nič. Fúra už šla svojou cestou.
+   </tei:p>
+   <tei:p>
+    — Ej, ej, — kývali hlavami sedliaci. — Ty máš sily. Mohol by si s   nami a budeš nám i richtárom. Ty zadrhneš i medveďa, ak nám príde   jalovice biť, poď s nami do Badína, už sa i tak mrká.
+   </tei:p>
+   <tei:p>
+    Jakub šiel, bola práve muzika v obci. Zaviedli ho do krčmy, tu sa   tancovalo a mládenci chytali si dievky. Jakub hladel, v duši jeho sa   pohlo niečo, zbadal černookú peknú Marišu, vysokú a hybkú ako jedľa.   Díval sa na ňu a čakal, veď už dávno nemal ženy v rukách, ale márne   čakal. Mariša šla z ruky do ruky. Konečne Jakuba vďační sedliaci   prestali baviť, ani pálenka mu už nechutila, vstal a namieril rovno k   černuši, i popýtal ju o tanec. Zrazu stal mu do cesty akýsi pyšný   územčistý mládenčisko. Nos mal dohora, z očú sršaly mu blesky, lapil   dievča za ruku a trhol nabok.
+   </tei:p>
+   <tei:p>
+    — Mariša, — potrhol dievča drsno za sebou, — to by si mala s kým   tancovať! — obzrel si neznámeho hosťa zvysoka. — Veď je to dákysi   tulák.
+   </tei:p>
+   <tei:p>
+    Jakubovi vohnala sa všetka krv do tváre, stal si naprostred krčmy   a zastavil tanec, nikomu neuhol, nikto ho nevládal odstrčiť, vypäl sa   ako dub, nohy ako stĺpy, ruky ako valce, zdalo sa, sú to len   ľudkovia, ktorí sa mrvili okolo neho.
+   </tei:p>
+   <tei:p>
+    — I ja vašich tristo materí, — zmeral ich Bombura, zadržiac   niekoľkých, ktorí mu nadbehli. — Takto vy tu uctíte chudobného   človeka!
+   </tei:p>
+   <tei:p>
+    Nastala trma-vrma. Cigán stíchol, ustrašené oči hľadely, čo bude.   Čo smelší mládenci shŕkli sa okolo a merali Bomburu očami zdola   nahor. Prvý medzi nimi bol ten, čo odviedol Marišu, ostatní prišli na   pomoc. Ale aká pomoc. Sotvaže zavadili do tuláka, on sa ohnal a   chlapci ležali po zemi, rozkydaní ako tekvice v tráve. O chvíľu   leteli po jednom z krčmy ako smeti pred metlou. Všetko vyhrnulo sa na   dvor, najprv dievky, potom i mládenci, ustrašení Cigáni chránili si v   kúte husle, basu a rozladený cymbal. Bombura ostal sám.
+   </tei:p>
+   <tei:p>
+    — Počujte, muzikanti, — zavolal na nich, plný dôvery, — peňazí   nemám, ale ak mi zahráte, odplatím sa vám raz statočne.
+   </tei:p>
+   <tei:p>
+    Muzikanti radi, že im nikto nepolámal inštrumenty, fľochli zboka   druh na druha. Páčila sa im taká reč. Ani oni najčastejšie nemali   peňazí, iba dobrej vôle. Primáš hneď i spustil akýsi rezký kurucký   čardáš, cymbalista dal tomu korenie a basa vážnosti. Bombura si   naddvihol ošúchaný širák so sokolím perom, zdupotal nohami a zavýskal   si, tancoval na div očí, kresal od výmyslu, lebo drobčil sebe, čo tam   po kom, chlap môže byť veselý, ked musí, i sám. Napokon však neostal   sám. Hudba rezala, tí zvonku napínali najprv uši, potom krky, napokon   po jednom vlúdili sa do prázdnej krčmy, najprv len mládenci a chlapi,   potom i dievky s omašlovanými dlhými vrkočmi. Vidieť takého chlapiska   kresať, to sa nestane hocikedy. Napokom videl Bombura okolo seba   všetkých, smial sa im do duše a oni usmievali sa naňho. Zjavila sa i   počerná Mariša, stála a čakala, cítila, že tomu človeku spravila, čo   nemala, a nie je to hocikto. Keby sa aspoň pozrel na ňu. A nečakala   darmo. Bombúra ju zbadal, zatlieskal dlaňami a v druhú chvíľu niesol   ju už v ohromných rukách ako pierko.
+   </tei:p>
+   <tei:p>
+    Ráno hovorilo sa len o podivnom tanečníkovi, všetky dievky snívaly   o ňom, i počerná Mariša, ktorej sa poriadne vryl do pamäti. Bombura   však zmizol, videli ho ísť po ceste do Zvolena, ale kdesi zbočil a   stratil sa, nikto nevedel kam.
+   </tei:p>
+   <tei:p>
+    A zvesť o jeho ohromnej sile šírila sa pred ním i za ním. Vedeli   už o ňom i páni na zvolenskom zámku i tí na Vígľaši, čakali ho, aby   im už ukázal niečo, ale on nie, nemal pre pánov nič na obdiv, ani pre   ich paničky. Zasa udrel do hôr a zahol do Štiavnice, do toho   podivného mesta slovenského bohatstva, kde pilné ruky z tvrdej skaly   vyberaly zlato a striebro. Nešiel za tým, len si obzrel tie diery i   starobylé múry, kde sa nejeden kráľovský zrak obrátil. Na konci mesta   stavil sa vo vyhni. Kováči, chlapi ako z bronzu, ťahali mechy a   zohrievali železá.
+   </tei:p>
+   <tei:p>
+    — Daj Boh šťastia, — prihovoril sa im a prizrel na nákovu, kam   bilo troje svalnatých rúk poriadnymi perlíkmi. — Akosi sa vám slabo   poddáva to železo, mali by ste udrieť tuhšie.
+   </tei:p>
+   <tei:p>
+    — Nuž, perieme, ako vieme, — odvrkli mu pohŕdavo.
+   </tei:p>
+   <tei:p>
+    — Len vám akosi nejde.
+   </tei:p>
+   <tei:p>
+    — A tebe by šlo? — zgánili naňho. — Podajte mi perlík a oprobujem!   — Jakub praštil na nákovu a železo sa rozišlo ako maslo.
+   </tei:p>
+   <tei:p>
+    Udiveným kováčom ukázal ešte niekoľko kúskov, lapil ráf a pokrútil   ho ako žinku, chytil konskú podkovu a rozlomil ju v rukách, ako by   bola zo syra.
+   </tei:p>
+   <tei:p>
+    — Ty si azda ten Miesiželezo, — otvárali oči a pohostili ho. —   Zkade si a kam ideš, ostaň
+   </tei:p>
+   <tei:p>
+    u nás, ty by si sa zišiel pri banskej práci, zaplatili by ťa   dobre.
+   </tei:p>
+   <tei:p>
+    — Nie, ja nemôžem, — vyhováral sa. — Musím ešte ďalej, za strýkom   Eliášom do Senice, tam by rád prezimovať.
+   </tei:p>
+   <tei:p>
+    — Škoda! — ľutovali kováči. — A i tu by si dostal dobrý kus   chleba!
+   </tei:p>
+   <tei:p>
+    Bombura sa poďakoval a šiel ďalej, horami, poľanami, ako   najčastejšie. Tak došiel cestounecestou do Svätých Jánov, tri míle od   Senice. Tu v krčme videli silného chlapa, ktorý vyhadzoval na dvore   ťažké vrecia obilia ako hračku, hneď sa to roznieslo a tamojší zeman,   Ján Lászlóffy z Thardu, poslal svojho kasnára pozvať ho do služby.   Jakub i šiel, do Vianoc ešte ďaleko a obťažovať strýka Eliáša bude   dosť času.
+   </tei:p>
+   <tei:p>
+    Na Lászlóffyho gazdovstve vodilo sa mu dobre, plat nemal veľký,   ale najesť sa mohol vyše hlavy, aj si to všetko nahradil, čo na   potulovaní zameškal. Mlieka bolo tam a mäsa do sýtosti. Skoro sa   našiel vo forme, ako keď ešte neznal tulácky život. Keď bolo treba   zdržať splašené kone, na to bol Jakub, keď sa zdivel bujak, a   mumlajúc besnel i plašil všetkých na dvore, skočil mu do cesty Jakub   a pri pohľade a úžase pána Jána Lászlóffyho lapil ho za rohy a dotiaľ   sa naťahoval s ním, kým ten, vysilený celkom, krotko nešiel ku   válovu.
+   </tei:p>
+   <tei:p>
+    — Človeče, máš ty sily! — divil sa zeman a obzeral chlapa. — Mohol   by si veru nechať sprostú robotu a ísť do cisárskeho pluku za   granátoša.
+   </tei:p>
+   <tei:p>
+    — Ej, vojenský život nie je pre mňa, — mrdol Bombura plecom. — Biť   by sa i vedel, ale poslúchať, to nie!
+   </tei:p>
+   <tei:p>
+    — Prečo, spravili by ťa veľkým pánom a ty by si rozkazoval   iným!
+   </tei:p>
+   <tei:p>
+    — Veľkí páni musia poslúchať ešte väčších, čo z toho? — bránil si   Jakub spôsob doterajšieho života. Cítil, nebolo mu zle, najedol sa,   vyspal sa, a kecľ si vykonal svoje, boí si sám sebe najväčším pánom.   Ale jednému sa priúčal s chuťou, kecľ ho pán Lászlóffy pojal so sebou   na poľovku alebo na šerm. Naučil sa zručne narábať šabľou, kopijou a   budzogáňom. Neraz pán zeman, ktorý v šermovaní vyrástol a mal už   rodinnú tradíciu za sebou, musel uhnúť pred Bomburovými útokmi, keď   nechcel ostať v hanbe. — Chlapík si, Jakub, — pochvaľoval ho, —   spravím ťa prvým svojím horárom! — Ďakujem, pán môj, — uklonil sa. —   Dobre mi bolo, ale ja už nemôžem tu ďalej, strýko Eliáš čaká ma už   týždne v Senici. Odkázal som mu, musím za ním. Tak to vyžaduje   zemianska česť!
+   </tei:p>
+   <tei:p>
+    m. Jakub bol muž slova, ako raz povedal, tak i spravil, na všetkom   bolo badať, že i pod ošúchaným odevom prúdi v ňom zvláštna krv. Na   panstve Lászlóffyho pomohol ešte posvážať obilie i vymlátiť, ale pred   Vianocami zobral si svoje drobné veci do tanistry a prešiel tie tri   míle do Senice. Za jazykom zašiel do zemianskej kúrie, takej ako   všetky. S mrežovými oknami, s ťažkou dubovou bránou, priestrannými   maštaľami a širokým dvorom. Lenže na dvore iba niekoľko poľovníckych   psov zavrčalo naňho a niektorá sliepka, čo sa povaľovala v prachu,   inak bolo vidieť na prvý pohľad, že sa tu o dobytok, gazdovstvo a   také malichernosti nemá veľmi kto starať. V oknách nekvitlo kvetov, z   čoho bolo hneď poznať, že panej dom nemá. V maštali gagotaly husi,   ktosi ich napchával kukuricou alebo šúľkami. O chvíľu ciepkala odtiaľ   gazdiná, stará Jozefína, ktorá tu strávila už svoju mladosť. — Daj   Boh šťastia! — pozdravil sa jej Jakub úctivo. — A tu býva pán Eliáš   Mikovíny? — Čože chceš s ním, — zmerala ho gazdiná a chcela ho   odbaviť úsekom. — Pán veľkomožný oddychujú po poľovačke! A s kýmže to   máme šťastie ?
+   </tei:p>
+   <tei:p>
+    — Povedzte mu, že je tu jeho synovec Jakub Mikovíny, zvaný   Bombura, z Brezna! — Ach ták, teda hosť? — snažila sa natiahnuť   starena milšiu tvár. — Tomu sa poteší, i tak mu je dlhá chvíľa; aspoň   sa bude mať s kým podiškurovať. Nech sa páči zatiaľ do kuchyne. V   kuchyni usadila gazdiná Jakuba za prostý stôl a tu ho čakalo prvé   prekvapenie. Už si myslel, že nedostane ľahko koštiaľa, tá však   otvorila pec a vytiahla z nej celú štvrť barana, uškvareného   načerveno. Zašla i do pivnice a o chvíľu svietila krbka na stole,   veľká ako poriadne decko.
+   </tei:p>
+   <tei:p>
+    — Tak nech sa ľúbi, pán Jakub, — a probovala úsmevom prikryť   deravé zuby.
+   </tei:p>
+   <tei:p>
+    — Hen na polici je i mäkký postruhník, ulomte si, však vládzete, a   zajedzte si i zapite do chuti, — prešla do celkom iného tónu. — Ja   zatiaľ zobudím pána a budete mať času na všetko. Pán Eliáš Mikovíny   hodnú chvíľu sa neukazoval, iste ho bolo ťažko budiť, ale Jakub ani   neľutoval toho, navykol na poriadnu stravu, nuž naložil si, ako sa   patrí na chlapa. Nalial si i do džbánka, ale tu už s móresom, nech ho   strýko
+   </tei:p>
+   <tei:p>
+    Eliáš nevidí hneď pod forgom, i tak si nemyslí o ňom veľa dobrého.   Konečne vrzly dvere, vošla Jozefa a zvala ho z kuchyne do izby.
+   </tei:p>
+   <tei:p>
+    — Veď mi je tu dobre, — zdráhal sa Jakub.
+   </tei:p>
+   <tei:p>
+    Nikde mi lepšie nebude.
+   </tei:p>
+   <tei:p>
+    — Nech sa len páči, — ponúkala ho neústupné. — Zemanovo miesto je   tam v tereme, prenesiem ta všetko, pán veľkomožný je už hore. Po   dlhom nahováraní Jakub poslúchol a šiel.
+   </tei:p>
+   <tei:p>
+    — Ach, carissime fráter, — zvolal mu oproti Eliáš so zemianskou   srdečnosťou a roztvoril mu náruč v ústrety, — nuž ty tulák, kde sa   toľko táraš, chodíš po dvoroch, biješ sa a spíš s dievčiskami, čo   tebe starý strýk, ten môže so svojimi psami i zahynúť. No sadni si,   najedol si sa?
+   </tei:p>
+   <tei:p>
+    — Najedol, — obzeral si Jakub robustného starca. Vidieť, bol z   tvrdého rodu Mikovínych, ale hneď z prvých slov bolo poznať i to, že   je hlavaj a čudák.
+   </tei:p>
+   <tei:p>
+    — Aj si sa napil? — pýtal sa strýko synovca. — Napil veru, —   prikývol tento hlavou.
+   </tei:p>
+   <tei:p>
+    — No veď také víno nerodí sa v Senici, to je hen z bratislavských   vŕškov, vonia ako muškát a kĺže sa ani smotánka dolu hrdlom. Ci je   tak?
+   </tei:p>
+   <tei:p>
+    — Je, strýko, je.
+   </tei:p>
+   <tei:p>
+    — No vieš, keď si sa najedol a napil, — obzeral si ho pozorne, —   teraz už môžme pokračovať. Vidíš, ja tu nemám veľa, ale mám všetko,   čo mi treba. O gazdovstvo sa nestarám, v záčine je len toľko, čo nám   vystačí na chlieb. Kravy máme dve, tie doja celý rok, ale kone by si   videl, nemá krajších ani Eszterházy, na tých si zarajtujeme, vieš   jazdiť?
+   </tei:p>
+   <tei:p>
+    — Niečo viem a niečo sa naučím!
+   </tei:p>
+   <tei:p>
+    — Tak je dobre, — obzeral si ho strýk ďalej od hlavy do päty, —   múdry sa nik nenarodil! A
+   </tei:p>
+   <tei:p>
+    kto sa chce učiť, všetkému sa naučí! Teda sa vieš vyškriabať na   koňa? — Viem, strýko, viem! — A aj obsedieť bez sedla? — Probujem i   to! — Tak môžeme hned ísť! Vyšli na dvor a tu za veľkou pajtou pekný   žrebčinec, vystavený krajšie ako sama kúria. Ako vošli, zaerdžalo so   päť hladkých lesklých koní, natiahly múdre hlavy, šľahly očima,   dúfajúc, že nemusia dlhšie stáť pri válove. Ani sa nemýlily, Eliáš   pojal troch, uzdu dvoch hodil synovcovi, pred maštaľou vyšvihol sa na   pekného havrana a fľochol zboku na Jakuba, ako si poradí on. Ten však   vyskočil tiež na pekného beluša a druhého žrebca pojal poboku, kone   zaerdžaly od radosti, zahriebly kopytami a o chvíľu vyletely zpod   brány na ulicu. Cesta bola plná prachu, ako v tomto kraji. — Musíme   sa prejsť s nimi, — obrátil sa Eliáš. — Nech im krv nezachladne. A   vtom sa už i skúrilo na ceste ako sivý oblak vo vetre. Nikto by to   nebol čakal od toho starca. Jakub tiež stisol kolenami svojho beluša   a letela pätorka kamsi do polí a hájov ani strela. Do večera obišli   poriadny kus sveta. Keď sa vrátili, Jakub bol azda ustatejší ako   strýko, nenavykol ešte na takú prudkú túru. Čakala ich zas baranina a   poriadny krčah vína.
+   </tei:p>
+   <tei:p>
+    — Chlap si, Jakub, — potľapkal ho Eliáš. — Prvá skúška nebola zlá   a ešte sa hocičomu u mňa naučíš, potom môžeš vstúpiť hoci i do   kráľovskej gardy, lebo vieš, — ponúkal ho a vysvetľoval mu pritom, —   naši predkovia neboli len takí hocijakí ľudia a ani zeman nie je ako   zeman. Z našich predkov jeden zachránil starého pána
+   </tei:p>
+   <tei:p>
+    kráľa Bela IV-ho, keď utekal z pustatiny Mohy pred rozbesnenými   Tatármi. Tvoji otcovia bránili vlasť i pred Turkom, nežili len sebe,   bruchu a žene, vedeli narábať šabľou, kopijou i budzogáňom. Skúsime i   my, aby si nevyšiel z cviku. U Lászlóffyho, počúvam, začrel si do   toho, ale čo Lászlóffy, ten je viac len medzi kravy a medzi ovce, ani   poriadneho brnenia nemá, ani šable a kopije, ale počkaj, ja ti   ukážem!
+   </tei:p>
+   <tei:p>
+    Na druhý deň zaviedol ho do ohromnej komory, tam holý šable, dlhé,   krátke i ohnuté turecké, kopije stály hore stenou, budzogáne ľahšie i   ťažšie visely s povaly a železného brnenia stálo na koloch, mohol sa   chlap doňho zašiť celý.
+   </tei:p>
+   <tei:p>
+    — Vidíš, Jakub, tu si máš z čoho vybrať, — ukazoval všetko radom   so samospokojnosťou. — Tomu som ja žil, a tomu žijem ako chlap.   Pozri, ľudia sa žalujú na Turkov i na kurucov, koho berie kuruc a   koho Turek? Toho, kto sa mu dá. Mňa neberie, mám niekoľko svojich   ľudí, a keď si stanú do gliedy, môže do nich hoci i hrom prať z   jazerného pekla, všetko sa od nich odrazí, lebo sú ako z kremeňa. Ľud   len jajká, žaluje sa, hľadá vždy nejakého pána, ktorý by ho chránil,   ale sám sa nepohne, musí ho vždy pohnúť niekto, aby si vedel pomáhať.   No ale nechcem mať z teba orátora, vezmi si brnenie, natiahni na   seba, poď na dvor. Pôjdeme najprv na šable.
+   </tei:p>
+   <tei:p>
+    Na dvore sa srazili a Kubo snažil sa mať ohľad na strýka, vek je   vek. Veď už mal i vlasy, bradu a fúzy posypané snehom. Hneď sa však   presvedčil, že strýko aj pri svojom veku nie je zo slamy. Útočil   naňho ako mladík a sotva sa nazdal, už mu šabľa letela z hrsti.
+   </tei:p>
+   <tei:p>
+    — Synák, lepšie to drž! — poučoval synovca.
+   </tei:p>
+   <tei:p>
+    — Tu ťa to len trochu zamrzí, ale v bitke môže ťa to stáť   život!
+   </tei:p>
+   <tei:p>
+    A Jakub sa priúčal ako nadaný žiak. O niekoľko dní vyobracal   strýka, až sa mu kečka parila, a napokon jemu vyletela šabľa z   hrsti.
+   </tei:p>
+   <tei:p>
+    — Vidíš, chlapče, teraz už bude z teba niečo! — pochvaľoval   mladého chlapa. — Keby otec vstal, nezahanbil by sa za teba.
+   </tei:p>
+   <tei:p>
+    Potom prešli na kopije a napokon na budzogáne. Sadli na kone a tak   útočili, až skaly zaiskrily pod tvrdými kopytami. Kopije, ked sa   srazily, zaprašťaly a budzogáne zazvonily na brnení. Raz bol v   prevahe jeden, raz druhý, radosť bolo dívať sa na nich. V Eliášovi   rozprúdila sa stará krv, až kypela, a Jakub našiel sa iba teraz po   prvý raz v živote vo svojom elemente.
+   </tei:p>
+   <tei:p>
+    — Hej, je to rozdiel, — zdôveril sa pri večeri strýkovi, —   obalkovať sa okolo oviec a nájsť si takéto zamestnanie. Strýko Eliáš,   vy ste ozaj ešte nie starý.
+   </tei:p>
+   <tei:p>
+    — Starý budem, ked umriem! — bolo badať, potešila ho poznámka. —   Ešte však nevieš všetko, zajtra vystrojíme sa do hôr na poľovačku. —   A však vy tu ani nemáte nijaké medvede, — pozrie naňho Jakub   maliciózne. — V takýchto vŕškoch sa poriadna zver ani neukáže!
+   </tei:p>
+   <tei:p>
+    — Máme, čo máme, — vykrútil si Eliáš fúzy, — uvidíš!
+   </tei:p>
+   <tei:p>
+    Ráno už niekoľko jazdcov zdupotalo na dvore. Vystrojili sa i   vyzbrojili. Starý Eliáš rozkázal psov lapiť na svorky. Vyšvihol sa na   svojho havrana, Jakub na erdžiaceho beluša a vypálili do hôr ako šíp.   Spoločnosť bola z okolitých zemanov, ani pán Lászlóffy nechybel. Dlho   ponevierali sa po bukových i ihličnatých horách bezúčelne. Už ich to   počalo i mrzieť. Ak nejaký
+   </tei:p>
+   <tei:p>
+    srnec, alebo srnka, vyštvaní psiskami, čo sa premihli. Poľovníci   začali sa už posmievať samým sebe. Najedli sa a napili a   naprázdno.
+   </tei:p>
+   <tei:p>
+    — No len vydržať, vydržať, — dodával ducha Eliáš. — Večer je ešte   ďaleko.
+   </tei:p>
+   <tei:p>
+    A nemal najhorší čuch. Sotva trochu ochladlo, trafili na divé   svine, dajednu aj položili. Mali už toho pre meno, česť bola   zachránená.
+   </tei:p>
+   <tei:p>
+    — Ale počkajme ešte, počkajme, — zdržoval starý Eliáš ochabnutých   pánov. A vyplatilo sa, lenže to skoro bolo pridrahé. Pod dubovou   horou vyrútil sa ohromný kanec a mal vystreté rovno na Eliáša. Ten sa   bránil, ako sa dalo od neho čakať, ale kanec je kanec a starý Eliáš —   predsa len starý Eliáš. Kým sa poľovníci na krik a na štekot shŕkli,   starec bol už na zemi a diviak na ňom. Vrhli sa na rozľútenú zver so   všetkých strán kopijami. Tie však nechytily sa tvrdej kože. Bol   strach, skončí sa to smutne. Tu však skočil Jakub, lapil diviaka za   hrivu, nakriatol mu ju na jednu stranu a vrazil mu ostrý nôž rovno do   srdca.
+   </tei:p>
+   <tei:p>
+    Nastalo uľahčenie. Páni žasli nad ohromnou silou mladého človeka,   iní pomohli Eliášovi na nohy. A bolo zas všetko dobre. Ešte pri   vykladaní na voz nastalo mordovisko. Kanec bol už nebohý, ale mal   svoju váhu, naťahovali sa s ním do únavy, kolmi podkladali, všetko   darmo. Korisť bola priťažká. Tu zas vystúpil Jakub, rozkročil sa,   lapil kanca, žily mu navrely a ten v druhú chvíľu bol už vo voze.
+   </tei:p>
+   <tei:p>
+    — To je chlap, čo? — pozrel Eliáš hrdo okolo seba. — To je nie na   slivkách a na hrozne, to je na mäse, na bryndzi a na haluškách   vychovaný.
+   </tei:p>
+   <tei:p>
+    Po riskantnom zápase starý Eliáš niekoľko
+   </tei:p>
+   <tei:p>
+    dní postcnával. Jakub ho opatroval statočne. Ani neodišiel od jeho   postele. Ked prišiel k sebe, lapil synovca za ruku a pozrel mu do   očú.
+   </tei:p>
+   <tei:p>
+    — Ty, Kubo, — prehovoril k nemu dôverne, — vidím, chlap by si bol.   Mal by si i šťastie, povedz — neoženil by si sa? Co sa ty, zeman, po   salašoch budeš ponevierať. Pôjdeš so mnou do niektorého zemianskeho   dvora a dostaneš nevestu i bohatú i peknú. Chceš?
+   </tei:p>
+   <tei:p>
+    — Ale, strýko, — zastal mládenec prekvapený, — ved ja už mám!
+   </tei:p>
+   <tei:p>
+    — Koho, kde?
+   </tei:p>
+   <tei:p>
+    — Nuž v Badíne, — začervenal sa po uši, — tú počernú Marišu. — A   rozprával mu, ako pochodil na ceste.
+   </tei:p>
+   <tei:p>
+    Eliáš počúval pozorne a zvážnel. Hned pochopil, o koho ide.
+   </tei:p>
+   <tei:p>
+    — Len by si si ty, zeman, nevzal sedliačku, — zachmúril sa. — Bola   by to hanba pre celú našu rodinu.
+   </tei:p>
+   <tei:p>
+    — Žena ako žena, strýko, — stisol plecami Jakub. — A Mariši veru   nechytí nijaká veľkomožná panna.
+   </tei:p>
+   <tei:p>
+    — Ale mne, starému Eliášovi, chytí, — začervenal sa a pery sa mu   zachvely. — Zajtra pôjdeme do Domenských na pytačky! — Ak sa chcete   oženiť vy, strýko!
+   </tei:p>
+   <tei:p>
+    — Teba chcem oženiť, ty papluh, — zrudol tento ešte viac. — Chcem   z teba spraviť človeka!
+   </tei:p>
+   <tei:p>
+    — No, ja už ostanem taký, aký som! — zaťal tento hlavu a ťažké   ruky sklzly sa mu na dubový stôl.
+   </tei:p>
+   <tei:p>
+    — Tri dni dávam ti rozmyslieť si, — zatínal starec päsťami. —   Alebo si rozmyslíš, alebo
+   </tei:p>
+   <tei:p>
+    choď, odkial si prišiel. Neotravuj mi život, i tak som už na   konci.
+   </tei:p>
+   <tei:p>
+    Tri dni Eliáš čakal, či sa synovec poddá, večer tretieho dňa však   odišiel tento bez stopy. Márne ho stará Jozefína čakala na večeru.   Zbytočne rozkázal Eliáš priniesť z pivnice toho najlepšieho vína.   Ostalo na stole, nik sa ho nedotkol. Mikovínych krv búrila sa a hnala   Jakuba z pokojnej kúrie znova do rozvíreného, nepokojného života. IV.   Jakub, keď zanechal kúriu v Senici, nechápal sám, čo ho to ženie zo   spokojného života. Strýko Eliáš je strýko Eliáš a inakším už nebude.   Keby sa však Jakubovi nechcelo do ženby, napokon bol by sa s tým   uspokojil, konečne ani on sa nestačil oženiť, nemusel by sa ani   synovec, ale celá tá kúria zdala sa mu už pridusná, voľný svet ho   zval a nevedel odolať jeho hlasu. Udrel zasa do hôr a šiel z obce do   obce, s panstva na panstvo. Tak sa pristavil u grófa Ľudovíta Nyáriho   a odtiaľ na panstve Jána Czobora. Tu pobudol dlhší čas. Rok-dva   minulý sa mu všade, robil výborne, dal sa upotrebiť či na   hospodárstve, či na poľovkách, páni ho mali radi. A, ako krásny   chlap, páčil sa i dámam. Nejedna nechala oči na ňom, i keď nevedela   jeho zemiansku genealógiu. Keby bol hľadal ženu, nepotreboval ani   rady a odporúčania starého Eliáša, bol by si ju našiel a prípadne i   vybojoval v súbojoch i sám. Ale jemu sa páčil voľný život, nebol   práve od krásnych očú, ale predchodilo mu to vždy ako zbytočná   príťaž. Narodil sa alebo sa bezstarostne túlať, alebo na niečo   veľkého, významného.
+   </tei:p>
+   <tei:p>
+    Po niekoľkých rokoch ešte raz sa vrátil do Senice, pozrieť strýka,   prišlo mu ho ľúto, veď bol chlap, ako sa patrí, a dobrák ako kus   chleba. Našiel ho už sklesnutého, telesne schudol a tvár sa mu   zvráskavela. Pobudol tu so päť dní, ako by sa len prišiel   odobrať.
+   </tei:p>
+   <tei:p>
+    Na ďalšej túlačke obrátil sa v bátovských horách. Iba medzi   mohutnou bučinou cítil sa dobre, nechýbalo mu kamarátstvo, ale keď   nevidel ohromné buky, alebo duby okolo seba, necítil sa doma. S   vážnym pohľadom mohutných pniskov celkom srástol, ako by i on bol   jeden z nich.
+   </tei:p>
+   <tei:p>
+    V ten čas povrávalo sa veľmi hlasito o zbojníkoch, čo žili po   horách. Pandúri a drábi hen z banských miest chodili ich lapať.   Zavreli do väzenia, oddali sudcom a katovi na nútený výsluch.
+   </tei:p>
+   <tei:p>
+    Istého dňa tak pristavili na ceste i Jakuba Bomburu a začali hneď   inkvirovať.
+   </tei:p>
+   <tei:p>
+    — Odkiaľ si? Kam ideš? Za akým cieľom? — upravovali naňho   otázky.
+   </tei:p>
+   <tei:p>
+    Pred chlapom mali dosť rešpekt, ale sa im zdal ošúchaný, a keď im   začal rozprávať o strýkovi Eliášovi zo Senice, budil podozrenie.
+   </tei:p>
+   <tei:p>
+    — A nie si ty zbojník? — dali sa ho hneď podchytávať. — Celý tvoj   zovňajšok nasvedčuje tomu/
+   </tei:p>
+   <tei:p>
+    — Ja som zbojníkom nikdy nebol, ani nebudem, — vyvrávaí Jakub   odmerane, — pobil som sa so zbojníkmi neraz i na breznianskom salaši,   ale živil som sa vždy statočne, ako sa na zemana patrí.
+   </tei:p>
+   <tei:p>
+    — A ty si zeman? — vystúpilo teraz už naozaj podozrenie. — Zemani   tak, ako ty, nepotulujú sa, ostávajú na svojom. Pôjdeš s nami
+   </tei:p>
+   <tei:p>
+    do Kremnice, tam sa ukáže, či si ty zeman a či zbojník!
+   </tei:p>
+   <tei:p>
+    Jakub už myslel, pandúrov rozhádže, ale prišlo mu zas na um, že   potom povedia — keď sa brániš a chceš vyslobodiť, nie si poriadny   človek. Riadny človek výsluchu sa nebojí. Ide a povie, čo žiadajú od   neho. Tak len šiel dlhými cestami, až prišiel do slávneho mesta   Kremnice. Tu však, ako podozrivého zo zbojníctva, dali ho hneď do   väzenia, ešte to i rozchýrili o ňom. Dozvedeli sa o tom i bystrickí   kupci, ktorí prišli na úrad a oznámili, že dvaja bystrickí drabanti   poznajú všetkých zbojníkov na okolí, tí by iste poznali i uväzneného,   kto je, čo je!
+   </tei:p>
+   <tei:p>
+    Mesto Kremnica rozhodlo požiadať bystrickú mestskú radu, aby   patričných vyslala do Kremnice a spolu s nimi i bystrického kata.   Bystrica ochotne povolila susednému mestu a tak dňa 23. augusta 1618   nastal výsluch pod predsedníctvom mestského richtára Filipa Ertla,   radného pána Jána Mittenhofera a mestského podnotára Joachima   Stubenvolla.
+   </tei:p>
+   <tei:p>
+    Takéto pohostinstvo slobodného a kráľovského mesta zlatých baní   Bomburu nemálo prekvapilo. Celý svoj život správal sa, ako sa svedčí   na zemana. Ponevieral sa pomedzi všelijakými ľuďmi, ale okrem toho,   že odbrnkol tú vešticu, čo sa mu zaplietla do cesty na breznianskom   salaši, nič mu nepriliplo na svedomí. Pasoval sa so zbojníkmi, pobil   sa s nimi, ale zbojníkom byť, to sa priečilo celej jeho povahe. Veď   ako by sa pozrel do očú niekomu z mesta Brezna, kde ho znali ako   chudobného, ale poriadneho človeka, ako by sa ukázal na oči strýkovi   Eliášovi, ktorý prižmúril oči nad všeličím, ale česť mu bola   nadovšetko. Odkedy ho chytili v bátovských horách, myslel, je to len   žart, privedú ho do mesta a pustia ho. A tu hneď do väzenia, putá na   ruky. Prejde týždeň, dva, ani jesť mu poriadne nedajú. — Co som vám   ja vykonal ? — pýta sa vyšetrujúceho sudcu, keď ho drábi   predvedú.
+   </tei:p>
+   <tei:p>
+    — No čo, — stisne tento plecami, — to sa ešte len dozvieme. Je   oprávnené podozrenie, že si chodil po zboji.
+   </tei:p>
+   <tei:p>
+    — Ja po zboji, aká to reč, aké máte proti mne dôkazy ?
+   </tei:p>
+   <tei:p>
+    — No, vieš, dôkazov ešte nemáme, — ujhýna mu sudca, — ale akiste   budeme mať. Máme drábov, pandúrov, máme i väznicu, teda pravdepodobne   nájde sa i ten zbojník. A keď sa nenašiel dosial, možno si ním   ty!
+   </tei:p>
+   <tei:p>
+    — A to je justícia, pán sudca?
+   </tei:p>
+   <tei:p>
+    — Hja, kamarát, — poškrabal sa tento za uchom, — čo je ľudské, nič   nie je dokonalé, tá pravá spravodlivosť bude len na božom súde.
+   </tei:p>
+   <tei:p>
+    V tomto duchu diala sa potom i inkvizícia, ktorej sa Jakub Bombura   musel pekne podrobiť. Ako sa voláš... Odkiaľ si... Prečo si odišiel z   Brezna ... kde si chodil... u koho si slúžil... od koho máš rany na   hlave, na chrbte... tak to šlo do nekonečna.
+   </tei:p>
+   <tei:p>
+    Predstúpili pred súd i bystrickí svedkovia, desiatnik a dráb.   Popravný majster stál so svojimi holomkami v úzadí, hotový na rozkaz   do práce.
+   </tei:p>
+   <tei:p>
+    — Ty si jeden z tých, — tvrdil desiatnik, — ktorí nedávno   hostinec, ležiaci vo vrchoch medzi Kremnicou a Bystricou, nočnou   hodinou vyrabovali a niekoľkých poviazali. Poznám ťa podľa rán, jednu   máš na hlave.
+   </tei:p>
+   <tei:p>
+    — Co ty na to, Bombura ? — pozrel naňho sudca.
+   </tei:p>
+   <tei:p>
+    — Ja, pán sudca, na hlave nemám nijakej rany, — zastal si   obžalovaný meravo, ako stĺp. — Ranu mám na pleci, dostal som ju od   zbojníka na breznianskom salaši, kde som sa bil.
+   </tei:p>
+   <tei:p>
+    Prezreli ho, a vskutku.
+   </tei:p>
+   <tei:p>
+    — A čo ty vieš, — obrátil sa súd k druhému svedkovi z   Bystrice.
+   </tei:p>
+   <tei:p>
+    — Ja len toľko viem, — vystrel sa tento pred súdom, ako sa .na   drába svedčí, — že som podobného človeka videl medzi zbojníkmi. I na   breznianskom salaši, kde taký človek, ako ty, odrel práve istú   bosorku.
+   </tei:p>
+   <tei:p>
+    — To som ja nikdy nerobil, — vysvetľoval Bombura sudcom. — Ked som   ja mal s niekým niečo, vybavil som si to po chlapsky, ale kožu s   niekoho drať, na to som ja nebol!
+   </tei:p>
+   <tei:p>
+    Sudcovia pokývali hlavami a rozhodli sa pre podozrivosť   vyšetrovaného podrobiť ho riadnej tortúre na budúci štvrtok.
+   </tei:p>
+   <tei:p>
+    28. augusta obrátil sa na mesto Kremnicu Štefan Soós, rytier   zlatej ostrohy z Poltáru. Dopytoval sa na Jakuba Bomburu, čo je, kto   je, aký je starý, ako oblečený, čo vyznal pri výsluchu? Ci je nie   jedným z tých zbojníkov, ktorí ho v Hornom Uhorsku na ceste   pristavili a zo všetkého orabovali.
+   </tei:p>
+   <tei:p>
+    Richtár pozrel na sudcov a tí rozhodli sa za próbu mučením.
+   </tei:p>
+   <tei:p>
+    V najbližší štvrtok, ako už bolo určené, predvolali   Bomburu-Mikovínyho do mučiarne. Tu mu predkladali otázky a popravný   majster so svojimi holomkami počal ho spovedať derešom.
+   </tei:p>
+   <tei:p>
+    Jakub ľahol si sám a obnažil sa, ako rozkázali. Keby sa bol lapil   do holomkov, vyhádže ich všetkých i so sudcami a richtárom z   mučiarne, hoc mal putá na rukách, ale nie! On sa vrchnosti   nesprotiví, ked dereš, tak dereš, nech páni vidia, s akým človekom   majú do činenia.
+   </tei:p>
+   <tei:p>
+    Kat a holomci gánili na čudného človeka s uspokojením a počali mu   sádzať mokrými povrazmi. Tu sa ten však vzchopil, zdvihol hlavu a   zavolal na nich hromovým hlasom;
+   </tei:p>
+   <tei:p>
+    — Dosť — a smiete vy takto palicovať čistého zemana?
+   </tei:p>
+   <tei:p>
+    — A si ty zeman ? — nastalo hneď veľké zhrozenie medzi pánmi.
+   </tei:p>
+   <tei:p>
+    — Som, — skočil Jakub Bombura-Mikovíny s dereša a odstrčil   holomkov od seba tak, že sa skopŕcali popravnému majstrovi k nohám. —   Svedkom toho je magistrát slobodného a kráľovského mesta Brezna,   potom môj strýko Eliáš Mikovíny, zeman v Senici, ďalej zeman Ján   Lászlóffy z Thardu vo Svätých Jánoch, u ktorého som za čas slúžil,   opýtajte sa. Strýkovi Eliášovi som už dal znať tajným poslom, čo si   vy tu, páni, s čistokrvným zemanom dovoľujete. — Zastaviť, — zdvihol   hneď richtár ruku a mučenie bolo na konci. Jakuba previedli z mokrej   cely do slušnejšieho väzenia. Ale celá história vŕtala im už v hlave.   Popravný majster a jeho holomci dostali svoju mzdu a šli. Svedkom   richtár dobre vynadal a prepustil ich s prázdnou rukou. Dňa 30.   augusta písala už Kremnica do Brezna a hneď 31. dostala i   odpoveď.
+   </tei:p>
+   <tei:p>
+    — Breznianska mestská rada odpovedá na list kremnickej mestskej   rady, v ktorom píšu, že mladík Jakub Bombura-Mikovíny, brezniansky   patricij, pre podozrenie zo zbojníctva je väzňom a občianskemu dozoru   odovzdaný. O jeho živote a správaní žiada sa informácia. Dáva sa   poučenie: Jakub Bombura-Mikovíny je tunajší rodák, nám dobre známy,   nedopustil sa nijakej viny, ani nespáchal nič, čím by sebe, rodičom   alebo príbuzným zavinil nejakú hanbu. Preto nezaslúži, pre
+   </tei:p>
+   <tei:p>
+    prosté podozrenie, akéhokoľvek dlhšieho väzenia. Žiadame mestskú   radu, ak nevedieť o ňom nič zlého, vyhlásiť ho hned nevinným a   prepustiť na slobodu. Nech to uväznenie jakživ menu a statočnosti   rodu i príbuzných nederoguje a neškodí!
+   </tei:p>
+   <tei:p>
+    Ked richtár Ertl skončil, zadíval sa na prítomných, čo oni na to.   Tí natiahli tvár, ale opatrní radní mali na list svoje poznámky.
+   </tei:p>
+   <tei:p>
+    — Nuž viete, — pohmkli si radní páni, Mittenhoffer, Lilgc,   Taschler, Maško i podnotár Stubenvoll druh za druhom, — vec je vážna,   lebo zeman je zeman, ale Jakub Bombura-Mikovíny nebol vždy v Brezne,   chodil až po Moravu, zadrel do všelikoho, bil sa a ruval, ktovie, čo   všetko porobil. Najlepšie podržať ho ešte niekoľko týždňov, i pán   podžupan zo Zvolena dopytuje sa na neho, iste nie bez príčiny.
+   </tei:p>
+   <tei:p>
+    Tak sa i stalo. Ale listy na mestskú radu dochodily z viacerých   strán. Tak prišiel list od Eliáša Mikoviusa zo Senice, opatrený i   pečaťou Mikovínych. Starý pán iste ožil pri písaní tohto listu.   Nadával na mestskú radu, aký je to poriadok, či páni vedia, čo je to   pre číre podozrenie tak sa vrhnúť na statočného zemana, že on, ak ho   nevypustia, podá žalobu proti nim, čo hned na kráľovskú kúriu.   Prišiel list i zo Svätých Jánov, od zemana Lászlóffyho s dobrým   vysvedčením, prišiel i odinakiaľ, takže richtár Ertl i jeho radní   mali už plnú hlavu, ale nepopustili. Písali do Brezna, že zaisťovacia   lehota pre próbu väzňov, i ked sú nevinní, je podľa mestského štatútu   pätnásť dní, a tie si musí Bombura odsedieť. Prečo sa túlal, ked je   patricij, prečo nesedel doma medzi slávnymi múrmi opevneného mesta   Brezna.
+   </tei:p>
+   <tei:p>
+    Breznianska mestská rada hneď sa sišla a krv sa rozprúdila. Co   taká Kremnica, oni majú bane na zlato, my máme bane na zlato — a   rozkázali notárovi napísať do Kremnice rezolútne: ... protestujeme   proti takému násiliu, aké musel podstúpiť u vás náš patricij Jakub   Bombura-Mikovíny ešte i po vydaní nášho svedectva o ňom. To uráža   naše práva, výsady a slobody. Vaše panstvo poskytuje nám hojnej   príležitosti také neoprávnené pokračovanie zvyklým právnym spôsobom   stíhať a pomstiť ...
+   </tei:p>
+   <tei:p>
+    Týmto boj Brezna s Kremnicou vyvrcholil. Jakub Bombura pocítil to   hneď, lebo začali s ním krajšie zaobchodiť. Videl, že jednako len   neurobil dobre, keď svoje rodné mesto opustil pre kadejaké   dobrodružstvá. Ale tiahlo ho to, čo bolo robiť. Teraz však už zatúžil   zpät. Keď pomyslel na krásne hory, kypiace vody, tiahlo ho domov,   tiahlo. Pre tú bosorku, Katu Flochovú, ktorú odbuchol na salaši,   nemal už strachu. Bolo to už iste premlčané, ale jednako čakal, či mu   ešte odpíše mestská rada.
+   </tei:p>
+   <tei:p>
+    A nečakal darmo. Po kraji, po Turkoch a ich hordách, túlali sa   kuruci, dobrých chlapov bolo treba a chlapiska, akým bol Jakub   Bombura-Mikovíny, nebolo nájsť na šírom okolí. Preto mu i písal   richtár v mene mestskej rady, — príď, Jakub, príď, medzi nás, keď   bude treba, zídeš sa nám a my tebe. — Kremničania vycítili, že   zdržovať násilím patricija slobodného kráľovského mesta Brezna   nemožno viacej. Chceli sa zaistiť aspoň pred jeho pomstou. Predložili   mu reverz, v ktorom Bombura prisľúbil na svoju vieru a zemiansku   česť, že sa pre kremnické uväznenie ani on, ani jeho priatelia nebudú   pomstiť na kremnických pánoch.
+   </tei:p>
+   <tei:p>
+    Dňa 22. septembra 1618 opusti] tento zvláštny človek bohatú   Kremnicu a zamieril rovno hore Hronom do Brezna. V. Jakuba očakávali   jeho spoluobčania s istou zvedavosťou. Spor medzi Kremnicou a Breznom   vyzdvihol jeho osobu. Ako chudobný zeman a sluha nebudil predtým   záujem. Chalupa, ktorá mu ostala, nakrivila sa pod krovom a ledva   stála ešte na svojom mieste. Majetku na šesť volov, kde sa vlastne   autorita začínala, mal primálo. Nejaký ostredok pri Hrone a lúku Pod   Zárubou pod klenovským Veprom, to bolo všetko. Nemal teda čím   zaimponovať a skoro pocítil, že i pri nevšednej povesti, čo ho   predchádzala, nezmenilo sa ešte to staré: — nemo est profeta in   patria sua. Bosorku Katu Flochovú nik mu už nevyhadzoval na oči. Pri   všetkej hrdosti a pýche, ktorá tu už bola odjakživa vo vzduchu,   rešpekt pred jeho päsťou, ťažkou ako kováčske kladivo, bol jednak   prizrejmý. Richtár mesta prijal ho ešte najsrdečnejšie, vedel, časy   sú zlé a taký chlapisko, aký bol Bombura, zíde sa mestu. V mestskej   rade odporúčal vyvoliť ho za jedného z horárov. Nech má čo robiť.   Ľudia sa ho budú báť a jemu sverený revír bude iste v poriadku. Ale   na uprázdnené miesto bolo chlapov viac, more patrio —počalsa hneď   boj; keď Jakub Bombura, prečo by nemohol opanovať horáreň v Rohoznej   Ďuro Brnák? A múdre hlavy rozhodly za Brnáka.
+   </tei:p>
+   <tei:p>
+    — Ej, zle ste to spravili, — vyčitoval richtár prítomným. —   Nepamätáte sa už na rok 1599, keď vojská Ibrahima veľvezíra rozliezly   sa po
+   </tei:p>
+   <tei:p>
+    Zvolenskej až po Brezno, nevšímate si nábehy martalúzov a   Bethlenových hajdúchov. Nie je veru rozumné chlapskými rukami   opovrhovať. — Veď vy to nejak urobíte, pán richtár, — ozval sa jeden   zo senátorov.
+   </tei:p>
+   <tei:p>
+    Tým sa hádka i skončila. Jakub Bombura videl, žiť je ťažko, ak sa   chce človek statočne preživiť. Nahovárali ho vstúpiť medzi hajdúchov,   on však nechcel; cisárski, či necisárski zvíťazia, vedel, pre mesto   je to jedno. Sám sa nebál nikoho a spoluobčanom nalieval odvahy,   nebáť sa tiež. Slovenská krv bola slovenská krv a zišlo sa jej, keď   ju niekto rozprúdil, ale ten niekto musel najprv poriadne   zaimponovať. Co taký boj s kremnickým magistrátom, ktovie, čo všetko   bolo za tým.
+   </tei:p>
+   <tei:p>
+    Ale tu sa stalo niečo, čo všetkým pochybovačom zapchalo ústa.   Povýšenecká hrdosť a pýcha naraz spľasla a Bombura z prostého Kuba   jednako len vyrástol na chlapa. Keď nastaly pekné letné dni, zlé   zvesti lietaly po okolí ako čierne kavky.
+   </tei:p>
+   <tei:p>
+    — Turci sa ukazujú v chotári, Turci!! — znelo výstražné.
+   </tei:p>
+   <tei:p>
+    Hoci cesty k Breznu boly i stromami zasekané, ľudia sa báli z   domu. A taký krásny čas! Trávy už bolo všade do pása a nik sa k nej   nelapal.
+   </tei:p>
+   <tei:p>
+    — Napokon na koreni zhnije, — hmkali ľudia a pokyvovali bezradne   hlavami.
+   </tei:p>
+   <tei:p>
+    — Co spravíme, Jakub? — pýtal sa ho richtár. — Len sa nebáť   ničoho, — vypäl sa tento po-
+   </tei:p>
+   <tei:p>
+    vedome. — Len nech jeden začne a pokosíme sená.
+   </tei:p>
+   <tei:p>
+    — Začne, začne! — svesil richtár hlavu, — ale kto? Žijeme ako   potkany v diere!
+   </tei:p>
+   <tei:p>
+    — Už sa len niekto nájde, — mrvil Jakub ťažkými rukami, — a   ostatní pôjdu za ním. Na druhý deň vypožičal si Jakub poriadny   rebriniak, naložil naň kosu, vidly a hrable, a hio, šiel ku   klenovskému Vepru Pod Zárubu dorobiť si seno. Kosa sa mu len tak   blýskala v rukách a šústala trávu v celých snopoch. Túto on hneď   roztriasal, posušil a nakladal do rebrín. Pred večerom už mal toho   skoro pod pavúz, obzrel sa spokojne a tu, hla, po rozhodených ešte   riadkoch brodil sa akýsi vojengoš. Stúpal opatrne, ako by sa len   ohliadal, krivá turecká šabľa visela mu s pása.
+   </tei:p>
+   <tei:p>
+    — Špehún! — blysklo hned Jakubovi v hlave. — Kdeže idete, dobrý   človek?
+   </tei:p>
+   <tei:p>
+    — Prišiel som pozrieť tento pekný kraj, — odvetil mu oslovený   lámano, — kade je cesta do Brezna?
+   </tei:p>
+   <tei:p>
+    — Nuž tadeto, pán môj, tadeto, — zdvihol Bombura pavúz so zeme,   lapil ho poriadne do pravej ruky a ukázal Turkovi cestu.
+   </tei:p>
+   <tei:p>
+    Špehúnovi ovisly gamby a oči mu dobre nevypadly, díval sa na   chlapiska s úžasom, ten však, ked sa Turek skrúcal, praštil ho   pavúzom po hlave. Hneď sa vystrel na zemi. Nato priskočil k nemu,   odpäl mu krivú šabľu a jedným šmahom odťal mu hlavu. Zanechal voz   svojmu osudu a s Turkovou hlavou na šabli vyšvihol sa na koňa a ako   vietor šibal do mesta.
+   </tei:p>
+   <tei:p>
+    Toto žilo svojím tichým životom, starostlivým, ale míkvym a   plachým. Ked Bomburov kôň, spenený od potu, zastal na rínku, nastal   shon. Na Bomburovi spočinuly užasnuté oči so všetkých strán.
+   </tei:p>
+   <tei:p>
+    — Co nového, človeče ?
+   </tei:p>
+   <tei:p>
+    — Nuž len toľko, — odpovedal, — Turci sa
+   </tei:p>
+   <tei:p>
+    nám už túlajú po chotári, tu, hľa, je dôkaz, — zdvihol pred zrakmi   ustrašených krvavú tureckú hlavu.
+   </tei:p>
+   <tei:p>
+    Hneď bolo toho plné mesto. Občania shŕkli sa v mestskom hostinci,   čoskoro zasadla mestská rada a tu richtár nedal sa len tak ľahko   odbiť.
+   </tei:p>
+   <tei:p>
+    — Občania, — prehovoril, — časy sú nebezpečné, Turci nám dorážajú   do chotára, skoro prídu i hajdúsi, potrebujeme riadnu meštiansku   stráž a pre stráž zas poriadneho vodcu.
+   </tei:p>
+   <tei:p>
+    — Tak je, tak je! — prikyvovali senátori.
+   </tei:p>
+   <tei:p>
+    —-A tým vodcom nech je chlap, ktorý sa nebojí nikoho. Tým je náš   rodák Jakub Bombura-Mikovíny, nech ho Pán Boh živí!
+   </tei:p>
+   <tei:p>
+    — Nech ho Pán Boh živí!! — zahučalo so všetkých strán. Vyhrmelo i   na široký rínok, preniklo do ulíc, i pod vysunuté meštianske   krovy.
+   </tei:p>
+   <tei:p>
+    — Nech ho Pán Boh živí! Jakuba Bomburu Mikovínyho! — nieslo sa do   neskorej noci.
+   </tei:p>
+   <tei:p>
+    Takto konečne prišiel Bombura k náležitej autorite vo svojom   rodnom meste. I ku primeranému postaveniu. Teraz ho už nikto   neznevažoval.
+   </tei:p>
+   <tei:p>
+    Nikto ho nemeral na páry volov, všetci čakali, že ak príde na to,   Bombura sa dokáže a mesto obráni pred Turkom, ako pred hajdúchmi a   hoc pred samým čertom z pekla.
+   </tei:p>
+   <tei:p>
+    Začiatkom roku 1621 dohrmelo množstvo kurucov a hajdúchov   Bethlenových pod mesto, ktoré bolo už opevnené, ale len čiastočne.   Múry a bašty sa len dvíhaly, ale ľahko ich bqlo ešte obísť. Vojaci   rozložili sa pri Hrone pod Mazorníkovom. Viedol ich Bethlenov vodca   Ďuro Széchy a hneď i odkázal mestu, že ho srovná so zemou, ak mu   nepôjde vo všetkom poruke. To
+   </tei:p>
+   <tei:p>
+    všetko znamenalo: 600 fertáľov pšenice, 400 fertáľov ovsa, 200   okov piva, 1000 toliarov, 200 volov, 200 oviec a iné náležitosti.
+   </tei:p>
+   <tei:p>
+    Richtár to oznámil svolaným mešťanom a títo všetci zhíkli od   hrôzy.
+   </tei:p>
+   <tei:p>
+    — Teraz si voľ, človeče, — bedákali, — alebo ťa vyrabujú podľa   vôle, k tomu ti soberú všetko, sprznia i ženy a dievky a tiež   skapeš.
+   </tei:p>
+   <tei:p>
+    — Ťažká tu veru voľba, — znelý výkriky a z ulíc znel plač a   náreky.
+   </tei:p>
+   <tei:p>
+    Posolstvo chodilo za posolstvom a mesto horelo napätím. Nebolo to   po prvý raz, ľudia už na všeličo navykli, ale bolo to jednako len   hrozné.
+   </tei:p>
+   <tei:p>
+    — Co len počneme, čoho sa chytíme, — blúdily splašené oči   bezradne.
+   </tei:p>
+   <tei:p>
+    •— Nebáť sa, — chlácholil vodca mestskej stráže, — máme do činenia   s chlapmi, tí vedia, čo je mužské slovo. Niečo im dáme, na niečo   zabudnú a niečo im proste odoprieme!
+   </tei:p>
+   <tei:p>
+    Odmeraná chlapská reč bola tu naozaj najlepšou obranou. Kuruci   dostali obilia i piva, napili sa a boli hneď dobrej vôle. Keď videli   poplach v meste a zbadali, že sú obyvatelia celkom dobrí ľudia,   nechcelo sa im krv prelievať, hľadeli na vec s veselšej stránky a i   pre seba zaujímavejšej.
+   </tei:p>
+   <tei:p>
+    — Postavte si chlapa, Brezňania, — odkázali na mesto, — nech sa   bije s naším chlapom na meče, kopije a budzogáne. Ktorý zvíťazí, ten   vyhrá a my sa podľa toho budeme správať.
+   </tei:p>
+   <tei:p>
+    Hrozný deň, ktorý sa už zdal privaliť na mesto, trochu zlahodnel.   Myšlienka pre svoju nevšednosť ľúbila sa nielen v kuruckom tábore,   ale i v Brezne.
+   </tei:p>
+   <tei:p>
+    — Čo sa máme mlátiť a pobiť na hromadu, — niesly sa poznámky, —   keď to vykonajú i dvaja miesto všetkých. Boj sa rozhodne a bitka   tiež. Ešte len teraz prišiel Bombura Brezňanom ako na zavolanie,   narástol nad všetkých, hľadeli naňho s úctou a očakávaním, ako na   jediného človeka, ktorý môže zachrániť mesto, jeho majetok a životy.   Bombura to vedel a cítil, teraz nadišla jeho chvíľa: alebo padne pri   Hrone na pažiti, alebo dokáže cenu svojho života. Sám sa nepoznával,   cítil odjakživa i na svojich tuláckych cestách, že je nie mečom,   ktorý by sa mal zavesiť niekde na klin do komory. Čakal na pevnú   hrsť, ktorá ním dokáže veľké veci. Vedľa neho rástli synovia bohatých   mešťanov, hľadeli naňho ponad plece, ale on tušil, že na niečo je, na   čo sa nehodí nikto z nich. Na voľačo veľké, významné, kde príslušníci   iných bohatých rodín zastanú ako kosodrevie vedľa mohutných jedlí a   smrekov. Tento čas, videl, nadišiel. Hron sa valil vo svojom koryte,   ako tiekol od tisícročí, ale v jedinkú chvíľu mohol sa zafarbiť   červenou teplou krvou. Cia to má byť krv? Splašených mešťanov, a či   otužilých kurucov, ohromného žoldniera Petra Pintéra, ktorý posmešne   vykrikoval s plavého tátoša zpoza Hrona, odetý do panciera, a   uškľaboval sa na zdesených mešťanov, schovaných za múrmi mesta, a či   jeho, Jakuba Bomburu-Mikovínyho.
+   </tei:p>
+   <tei:p>
+    Vrelo v jeho duši, vrelo, i keď bojoval najprv sám so sebou. Nie   je ľahká vec položiť všetko na jednu kocku a pre iných. Malicherní   ľudia nie sú toho ani hodní. Ale v najvážnejších osudoch ľudstva   rozhoduje vždy akási tajomná sila, ktorá si vyhľadá a uplatní   prostriedky svojej veľkej vôle. Tak si i medzi Brezňanmi našla
+   </tei:p>
+   <tei:p>
+    Bomburu, ktorý sa dočkal práve v tých najväčších zmätkoch plnosti   svojho času.
+   </tei:p>
+   <tei:p>
+    — Jakub, Jakub, ujmi sa nás, — volali naňho nielen richtár mesta a   senátori, ale i cechmajstri a hospodári, gazdovia, gazdiné, ich   synovia i dcéry. — Ak sa nás neujmeš, všetko z nás zdriapu a   pohynieme pod konskými kopytami!
+   </tei:p>
+   <tei:p>
+    — Nič sa nebojte, — vypol sa Bombura. — Vykonám, čo viem, čo hneď   i dušu tam položím. Alebo on umorí mňa, alebo ja srazím Pintéra, inak   to nejde!
+   </tei:p>
+   <tei:p>
+    Do nedele kuruci odpočívali pod Mazorníkovom, jedli, pili,   hodovali. Ďuro Széchy povolil a jeho vodcovia súhlasili. Nech sa bijú   dvaja na pažiti pri Hrone na šable, kopije i budzogáne. Kto vyhrá,   ten vyhral i vojnu! Trasľavo zazvonily zvony pod Dúbravkou, v   záchveve ich hlasu triaslo sa celé mesto. Ešte predpoludním obsadili   zvedaví mešťania chatrné múry a bašty. Od brehu zas shrnuli sa kuruci   peši i na koňoch ako mrákava. Vystúpil Peter Pintér a pokrikoval s   posmechom, zašitý do panciera, na svojho soka, ktorý ani nemal   nijakého brnenia, kde by sa to bolo v meste i našlo. Tu pilné ruky   oraly a sialy, trepaly konope a mlátily zbožie cepami. Kde by tu   takých panských vecí! Kdesi mali akýsi šišak i pancier u richtára.   Ale to bolo pre Jakuba iba ako hračka. Vzal si meč. Sadol na beluša,   ako mal kedysi u strýka Eliáša, prežehnal sa na čele a hnal sa popri   Hrone rovno proti ohromnému sokovi.
+   </tei:p>
+   <tei:p>
+    — Hej, hej, hej!!! — pokrikovali vojaci podľa cvalu tátošov. —   Pintér, ukáž mu, čo je kurucká päsť! — Bombura, nedaj sa! — ozvalo sa   tlmene a so strachom zpoza múrov.
+   </tei:p>
+   <tei:p>
+    Bojovníci sa srazili niekoľko ráz, šable zaiskrily na slnku a   zarinčaly v chlapských rukách. Pintér napádal mohutne, Bombura   odrážal, a napodiv zručne.
+   </tei:p>
+   <tei:p>
+    — Jaj, už je stratený! — sliali sa s ním ustráchaní mešťania v   jednu dušu. — Nikto mu viac nepomôže, kuruc je ani drak!
+   </tei:p>
+   <tei:p>
+    — Ale, pozrite, Jakub sa nedá. — strach menil sa v jasot. —   Kurucovi vyletela šabľa z hrsti, Jakub mu ju vyrazil. Kde sa to len   naučil takým rytierskym spôsobom ?!
+   </tei:p>
+   <tei:p>
+    — Kde, — znelo zas, — na svojich túlačkách vo Svätých Jánoch a u   strýka Eliáša v Senici, človek nevie, kedy sa mu čo zíde!
+   </tei:p>
+   <tei:p>
+    Diváci, jedno, či na pravom a či na ľavom brehu Hrona, stratili   dych i duše, žily len dve duše, vnorené do seba ostrým pohľadom,   jedna bola Pintérova, druhá Bomburova. Keď šable vypadly, podali im   ich, keď sa tie zlámaly ako triesky, vtisli im dlhé kopije do hrsti,   kone pod jazdcami zdively a rozbehly sa, ako by zápasily aj ony.   Bohaté hrivy a konské chvosty zavialy v povetrí ako zástavy. Svaly sa   naply do prasknutia a kopije zaprašťaly. Zlomily sa jedny, dali im   iné; súboj pokračoval, musel pokračovať, všetko bolo ako vo vytržení.   Nebolo možno skončiť bez výsledku!
+   </tei:p>
+   <tei:p>
+    — Pintér, ukáž mu. Vezmi si ho zboku, kričali hajdúsi na   kuruca.
+   </tei:p>
+   <tei:p>
+    — Jakub, nedaj sa, — tŕplo všetko okolo. Mali aj prečo. Kopije sa   roztrieskaly, bola už z nich len hromada úlomkov a triesok. A Pintér   sedel na Plavcovi ako prikovaný a Jakub váhal, vzdať sa a či nie,   napokon bolo to jedno, jeho teplá krv zafarbila by Hron, a nielen   jeho!!
+   </tei:p>
+   <tei:p>
+    — Nie!! A hoc tu i dušu dám, — vzopäl sa Bombura, krásny ako   rytier z báje, na svojom tátošovi, bielom ani pena.
+   </tei:p>
+   <tei:p>
+    Podali im budzogáne, ťažké, ostnaté. Keď už ani to nerozhodne, tak   nič. A jazdci sa srazili, budzogáne zatrieskaly, údery padaly, ako   keď sa balvany z Ďumbiera rútia do doliny. A vtedy si Bombura   spomenul ešte raz, na čo žije, prečo nezahynul na svojich túlačkách,   prečo prišiel do svojho rodného mesta. Cítil, celé mesto hľadí na   jeho päsť, i kuruci, a zahnal sa budzogáňom s takou silou, ba ešte   väčšou, ako keď kedysi v v štiavnickej kováčskej vyhni udrel na   nákovu. Pintérov pancier preboril sa ako mäkký plech a jazdec bez   slova zrútil sa na zem.
+   </tei:p>
+   <tei:p>
+    — Bombura vyhral, Bomburááá, — zatriaslo povetrím. Takého jasotu   nebolo ešte v Brezne. Ten prekvapoval i odzbrojoval a porážal.
+   </tei:p>
+   <tei:p>
+    Kuruci, keď i nechtiac, uznali to tiež, kde je raz chlap, tam je   slovo, tam napokon i uznanie. S úžasom hľadeli na Bomburu a snažili   sa mu potriasť ruku, i chlapili sa dať mu pocítiť, s kým má do   činenia, ale čo — keď on potriasol ktorú hrsť, ruka ovisla ako trak   na plote.
+   </tei:p>
+   <tei:p>
+    Do rána zo Széchyho vôjsk nebolo pod Mazorníkovom ani pamiatky.   Brezňania z vymeraného šarcu vykúpili sa dosť lacno. Kuruci najedli   sa u nich i napili, ale ďalej nešli. Mešťanom odľahlo. Vtedy   pochopili, že sa človek začína nielen od šesť, alebo dvanásť volov. A   Bomburovi zaistili jeho kapitánstvo v meštianskej stráži.
+   </tei:p>
+   <tei:p>
+    V Ďurovi Széchym zas práve tu dozrela myšlienka, ktorá mu skryto   kolovala v duši. O niekoľko mesiacov zradil Bethlena a dal sa do   služieb cisárovi.
+   </tei:p>
+   <tei:p>
+    VI. Zvesť o hrdinskom zápase rozlietla sa po všetkých banských   mestách. Ľudia boli zvedaví na Bomburu, ale Jakub nebol na nich.   Poznal, čo je človek, i to, že ľudská sláva — poľná tráva. Cvičil si   ďalej svoju meštiansku stráž, opatroval rodné mesto a chránil s mečom   v ruke jeho životné práva. Bolo treba pevných rúk a odhodlaného   srdca, lebo pliaga na pliagu rútila sa na Pohronie. Po Turkovi   kuruci, po kurucoch cisárski a po cisárskych, aby bolo všetkého dosť,   prišiel mor, ktorý plnil domce smútkom a nárekmi. Pán, nepán, šesť   volov, či dvanásť a či ani jeden — jedno! Smrť chodila mestom a tej   ťažko povedať stoj! Nebolo jej možno zasekať cestu ani mečom, ani   kopijou, ani budzogáňom. Bomburov duch však i vtedy podopieral   ostatných, on skúsil život, poznal jeho dobré i zlé stránky a žartom,   odvážnym, veselým slovom staval srdcia, kde sa rútily do prachu.   Richtár i mestská rada cítili, akí bezmocní by boli bez Bomburu,   ktorý sa nebál života a nebál ani smrti. A práve vtedy im oznámil, že   chce na ďalšiu cestu. — Kam, Jakub, — pýtal sa ho richtár. — Nie   ďaleko, — odpovedal tento trochu vyhýbavo, — len sa chcem staviť   niekde v Badíne a dopýtať sa na niečo a potom rád by som byť ešte so   strýkom Eliášom, slabý už bol, keď som ho zanechal. Je tomu niekoľko   rokov a odkázal ,mi ešte prísť, keď ho chcem nájsť nažive.
+   </tei:p>
+   <tei:p>
+    — No, veď nepôjdeš pešo, — položil mu richtár priateľsky ruku na   plece, — máme mestský koč i mestské kone, zachránil si nám ich pred   kurucmi, na čo sú! Mestský hajdúch nech ti je
+   </tei:p>
+   <tei:p>
+    pohoničom, choď, pozdrav strýka tam pri Morave a vráť sa šťastne   zdravý!
+   </tei:p>
+   <tei:p>
+    Jakub neodkladal, videl, smrť sa poneviera krajom, môže vziať   iných, môže vziať i jeho. Dal zapriahnuť pekné sivky a šli. Stavili   sá len v Bystrici nakŕmiť kone. No a potom v Badíne. Pristavili sa v   krčme, zkade kedysi vyhádzal všetkých mládencov. Pustil sa s ľuďmi do   reči, či sa ešte pamätajú. A oni sa veru pamätali, lebo takého chlapa   neobráti sa tu tak ľahko.
+   </tei:p>
+   <tei:p>
+    — A či žije tá moja počerná Mariša?
+   </tei:p>
+   <tei:p>
+    — Azda ste si prišli po ňu, — odpovedali mu žartom.
+   </tei:p>
+   <tei:p>
+    — Keby nebola vydatá, veru by si ju i vzal.
+   </tei:p>
+   <tei:p>
+    — zadíval sa chlapisko ako do nekonečna. — Naponevieral som sa   svetom, ale takých čiernych očú, ako ona mala, nevidel som   jakživ!!
+   </tei:p>
+   <tei:p>
+    — Ani ich nebolo, ani ich viac nebude, — odpovedali mu sedliaci   smutne.
+   </tei:p>
+   <tei:p>
+    — A čo, — vytušil hneď Jakub Bombura skutočnosť. — Umrela? —   Miesto odpovede sklopili chlapi oči.
+   </tei:p>
+   <tei:p>
+    — Na mor?
+   </tei:p>
+   <tei:p>
+    — Na mor!
+   </tei:p>
+   <tei:p>
+    — Taký je život, — zavzdychol si Jakub a sadol do koča.
+   </tei:p>
+   <tei:p>
+    Za deň i pol bol už pri Morave a zamieril rovno do Eliášovej   kúrie. Našiel tu tú istú Jozefínu, tie isté sliepky ako kedysi, iba o   kone asi nemal mať kto starosť. Strýka našiel na lôžku.
+   </tei:p>
+   <tei:p>
+    — No, chvalabohu, carissime, — volal tento naňho, keď vošiel   dverami. Bol už zakvitnutý a biely ako jabloň. V jeho očiach kmitala   už predzvesť, že nebudú svietiť dlho.
+   </tei:p>
+   <tei:p>
+    — Dobre, že si prišiel, — ukázal mu sadnúť
+   </tei:p>
+   <tei:p>
+    si, — počul som, že si chlap, a to je moja posledná radosť.   Povedal som, Mikovíny vedel si zastať svoje miesto i pred kráľom   Belom IV. Vedel si si zastať i ty pred kurucmi, a kým budú u nás rásť   chlapi, ako si ty, budú si vedieť ubrániť svoje a hoc by i dušu hneď   dali. Zo svojho práva na život neupustia! A teraz, však vieš, okrem   tej starej Jozefíny a päť žrebcov nemám nikoho. Jozefíne nechám   niečo, nech pamätá, a ostatné je tvoje, pochovaj ma a majetok si   využi, ako vieš. Ak nechceš do kúrie, môžeš ju aj predať, Lászlóffy   zo Svätých Jánov ju vďačne kúpi i s majetkom a bude to aspoň v   zemianskych rukách. Ale tých päť žrebcov nepredaj nikomu, ani   nedaruj, tie v Brezne vychováš, a keď pocestuješ, nechoď viac ako   kadejaký tulák, daj si z nich zapriahnuť aspoň štyri a cestuj ako   vicišpán. Nech ľudia vidia, kto je posledný potomok Mikovíny ch.
+   </tei:p>
+   <tei:p>
+    Jakub počúval vážne strýkove slová. I poplakal si vedno s ním.   Neodišiel mu od postele niekoľko týždňov. Keď si pýtal vína, podal mu   vína, keď vody, tak vody. Nech vie, že má niekoho. Prišla jeho hodina   a usnul. Jakub ho opatril a pochoval, ako Pán Boh prikázal. I pekný   železný kríž dal posadiť nad jeho hrob. Potom však zariadil ostatné s   Lászlóffym, ktorý mu vyplatil niekoľko vreciek dukátov. Dal   zapriahnuť do koča dva breznianske sivky a štyri zdedené žrebce. Sám   si sadol na pekného beluša do sedla, rozkázal hajdúchovi hnúť a koč   sa kĺzal ticho ako po namastenej niti. On si cválal za ním, nech   nemyslia, že rajtuje pred pánmi. Tak sa mihali cez mestá i dediny,   ľudia sa obzerali za nimi a stŕhali klobúky. — Kto je, ten je, veľký   pán je a zaslúži si poctu.
+   </tei:p>
+   <tei:p>
+    Keď prešli Štiavnicou, hajdúch chcel skrútiť rovno na   Bystricu.
+   </tei:p>
+   <tei:p>
+    — Nie! — predstihol ho na belušovi. — Ešte do Kremnice! Nech   vidia!
+   </tei:p>
+   <tei:p>
+    V tomto trape zašumela v žilách Bomburových dávna zemianska krv.   Prišlo mu na mysel to veľké uponíženie, ktoré musel pretrpieť ako   tulák. Bolo mu do smiechu i do zlosti. Ale vedel, ľudia sú sprostí,   pred veľkým pánom vedia sa koriť po zem, schopného človeka smiešali   by s blatom, hoci ho neskôr potrebujú. — Pomalšie! — zavolal na   hajdúcha, keď vstúpili do ulíc a pohonič poslúchol, veď pochopil.   Usadil Bomburu do hintova, beluša priviazal za koč. Tak šli po meste,   ako niekedy rímski cisári po Ríme z vybratej bitky.
+   </tei:p>
+   <tei:p>
+    — Wer ist? Kto je to? — pristavovali sa Kremničania a mali oči   nechať na krásnych tátošoch.
+   </tei:p>
+   <tei:p>
+    — Wer ist? Čo to za pána? — natiahol krk i pán Stubenvoll a   podíval sa zvedavo do pekného hintova. V tú chvíľu však i zmrzol.
+   </tei:p>
+   <tei:p>
+    — Veď je to náš Bombura z Brezna, ktorého sme my ako tuláka a zo   zbojníctva podozrivého väznili! — bežal hneď za richtárom Ertlom a   prekvapene zvestoval novinu radným pánom Mittenhofferovi, Lilgovi i   Taschlerovi, kto to uháňa na parádnom breznianskom koči.
+   </tei:p>
+   <tei:p>
+    — Teda Bombura, ach jaj, — natiahli páni tváre, — mali by sme ho   azda uctiť a pohostiť. — Nie, len nech ide ďalej, — upozornil opatrný   Mitténhoffer. — Uctíme ho a jemu príde niečo na myseľ, ešte sa poráta   s nami. Dajte mu len pokoj, nech len ide svojou cestou. Sicher ist   sicher!
+   </tei:p>
+   <tei:p>
+    A Bombura šiel, krásne tátoše ho niesly ako
+   </tei:p>
+   <tei:p>
+    vo vetre. Prešiel Zvolenom i Bystricou, až zastal na údiv   Brezňanov na mestskom rínku.
+   </tei:p>
+   <tei:p>
+    Obstali ho hneď zvedavo. Videli, vrátil sa zdravý a dobrej vôle   medzi nich a boli tomu radi. Boli by mu darovali i tie dva mestské   kone, ktoré pribral. Ale čo tomu, už je pán! Všetci by boli chceli od   neho počuť aspoň jedno slovo.
+   </tei:p>
+   <tei:p>
+    — Co nového? — obrátil sa k nim kamarátsky. — Mor už stíchol?
+   </tei:p>
+   <tei:p>
+    — Stíchol, pán kapitán, — mrkli naňho. Ale mal jednu chybu! —   Akú?
+   </tei:p>
+   <tei:p>
+    — Nepohral tých, ktorých mal, — uškrnuli sa, — ale len tých   lepších!
+   </tei:p>
+   <tei:p>
+    — Príde rad i na horších!
+   </tei:p>
+   <tei:p>
+    Mešťania počúvali, ale ešte viac zaujímaly ich krásne tátoše.   Obzerali si ich pozorne od hrív i od chrbta a užasnutí pokyvovali   hlavami.
+   </tei:p>
+   <tei:p>
+    — Za to sa už oddalo ísť do Senice! — mrkali očami. — To sú už hej   kone!
+   </tei:p>
+   <tei:p>
+    — To sú!!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

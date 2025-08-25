@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944479" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Balek : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2410
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Balek
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     BOZK.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Sedel som s ňou v letníku sám. Dookola záhrada, tichá, nehybná,   obliata slnečným svetlom, ktoré hrialo veľmi v povetrí bez vánku.   Murovaná, zavápenená ohrada záhrady až slepila svojou belosťou.   Sklené gule nad okrúhlymi hriadkami kvetov žiarily lúčmi slnečnými.   Kvety a listy stromov lenivo visely. Cez sinavé, tenkou, priehradnou   hmlou zaliate nebo neprelietol vták. Zaiste všetci skryli sa v   tieňoch. V samom letníku bola tôňa, ale dosť sparno, tak, že sa   potilo čelo bez akýchkoľvek pohybov.
+   </tei:p>
+   <tei:p>
+    V ľahučkých bielych šatách, opretá lakťom o malý jedľový, na bielo   farbený záhradný stolík, maľovala akýsi obrázok podľa druhého   menšieho obrázka. Bolo ticho, len niekedy vrzgla pod ňou ľahká biela   pletená stolička.
+   </tei:p>
+   <tei:p>
+    Díval som sa na ňu dlhšie. Často dvíhala tvár
+   </tei:p>
+   <tei:p>
+    a pozerala do záhrady, prižmurovala oči, klonila hlavu a ani raz   nepozrela na mňa.
+   </tei:p>
+   <tei:p>
+    Hneval som sa sám na seba a na ňu, že tu sedím a že ju to ani   najmenej nezaujíma. Poznova mi prišla myšlienka, že je neschopná   zaujímať sa nielen o mňa, ale o nikoho na svete, najviac o seba.   Kedykoľvek stretával som sa s ňou, hladko a pomaly spúšťala a dvíhala   svoju hlavu na poklonu. Hovoril som s ňou a ona zrovná nedávala   odpovedi na otázky. Sama nenadpriadala rozhovoru, len nie-
+   </tei:p>
+   <tei:p>
+    186
+   </tei:p>
+   <tei:p>
+    ﻿kedy opýtala sa niečo, čo nijako nesúviselo s mojou rečou, ako by   vždy premýšľala o čomsi osobitnom, výlučne jej známom. Nevidel som   jej nikdy nadchnutej, oduševnenej. O ničom nehovorila s láskou, nikdy   neukázala, že by niečo rada videla. A jej tvár! Bože, aká to bola   tvár! Malá, biela a krásna tvár, mnoho, mnoho čiernych vlasov dookola   a veľké čierne oči. Čosi zlého bolo v jej lícach. Nie dobrá, ale   pekná tvár. Nemohol som vystihnúť, či je to blazeovanosť, či akýsi   zatvrdnutý smútok. Zdalo sa mi, ako by hriech bola spáchala, ktorý   trápi jej dušu a nedovolí, aby sa pravým, úprimným, srdečným smiechom   rozveselila. Líca nehybné, vždy jednako biele. Načervenaly sa a   nezbledly nikdy. Boly ako tabuľa z mramoru. Pozeral si do jej očú a   videl si, že sú čierne, veľké. Nie tak, ako tvár, ony sa ustavične   hýbaly a pozeraly na všetky strany. Okrem týchto očú nič koketného   nebolo na nej, ani reč, ani držanie. Sama bola tichá, ale oči jej   pozeraly, pozeraly a ligotaly sa každému, ako by každý pohľad chcely   zachytiť, zaslepiť, podmaniť a zaujať. Blýskaly sa, ale ako ľad.   Nebolo v nich ani tepla, ani mäkkosti. Mne zakaždým zazdávalo sa, že   svieti v nich jej napolo odžitá, chladná duša. Jej oči vábily, ale   ani neprinútily, ani neodsácaly.
+   </tei:p>
+   <tei:p>
+    1 mňa iba tieto oči zlákaly. Pre ne sblížil som sa k nej a poznal   sa s ňou. Potom začala ma lákať otázka, či môže byť mäkkou a teplou.   Chcelo sa mi presvedčiť seba samého, že je nie bezcitná, ale že   skrýva sa v nej hlboký cit a raz vybuchne z nej dlho tajená   náruživosť oproti jednému človeku. Rád by som bol býval, keby som tým   človekom bol ja. Presvedčený som bol, že ak to vidím, budem ju veľmi   rád vidieť.
+   </tei:p>
+   <tei:p>
+    Chodieval som ta často, vždy s akousi trémou pred ňou samou. Tak   nevie hovoriť, taká je tichá a ten pocit, že ju ja nemôžem zaujímať,   prékážal mi
+   </tei:p>
+   <tei:p>
+    187
+   </tei:p>
+   <tei:p>
+    ﻿vždy, kedykoľvek kládol som ruku na kľučku. A jednako som chodil.   Ťažko mi bolo s ňou, trápil som sa — a predsa som šiel, kedykoľvek   naskytla sa príležitosť. Ako nastaly pekné májové dni, nachádzal som   ju takmer vždy v letníku. Tak i vtedy. Ten deň nezabudnem nikdy.
+   </tei:p>
+   <tei:p>
+    „A nepozrie, nepozrie, schválne nepozrie, myslel som si. „Kto   ozaj z nás prvý prerečie? Ja budem ticho
+   </tei:p>
+   <tei:p>
+    Mlčal som dlho, i ona. Odrazu veľká mucha počala bzučať okolo jej   hlavy. Ustrašene pozerala okolo, pričom dotkla sa pohľadom i môjho   čela, ale hneď odvrátila hlavu a stopovala bzučiacu muchu.
+   </tei:p>
+   <tei:p>
+    — Nie je nebezpečná, — prehovoril som. Nebojte sa . . . A už   odlieta.
+   </tei:p>
+   <tei:p>
+    A ako by som bol dostal smelosti od toho bzukotu, nahol som sa nad   obrážtek, čo maľovala.
+   </tei:p>
+   <tei:p>
+    — Načo to bude? — spýtal som sa, zabudnúc, že som vlastne nechcel   nadpriadať rozhovor.
+   </tei:p>
+   <tei:p>
+    — Len tak pre seba maľujem,—povedala sucho a zasa len nepozrela na   mňa.
+   </tei:p>
+   <tei:p>
+    — Toto tu je lopúch, nie? . . . Pravdaže lopúch a veď je veľmi   krásny na origináli, čo ho shľadúvate tam niekde v záhrade? Vždy pred   seba pozeráte ...
+   </tei:p>
+   <tei:p>
+    Hlbšie naklonila hlavu k obrázku a neodpovedala.
+   </tei:p>
+   <tei:p>
+    — Zas nedávate odpovedi.
+   </tei:p>
+   <tei:p>
+    — A čo vám povedať?
+   </tei:p>
+   <tei:p>
+    Nepozrela na mňa.
+   </tei:p>
+   <tei:p>
+    — Príčinu! — povedal som podráždene. — Načo? ...
+   </tei:p>
+   <tei:p>
+    „Ale či ma ona naozaj nemôže vystáť? pomyslel som si. „Som   jej natoľko odporným, že sa so mnou nechce púšťať do rozhovoru? Ci je   to len lenivosť a či sa robí zaujímavou a chce dráždiť?
+   </tei:p>
+   <tei:p>
+    188
+   </tei:p>
+   <tei:p>
+    ﻿Ci ma považuje za nehodného preriecť so mnou slovíčko?
+   </tei:p>
+   <tei:p>
+    Zamlkol som opätovne a umienil som si zasa, že budem čušať.   Odtiahol som stoličku ďalej od nej a počal som si krútiť cigaretu.   Veď len prehovorí, musí. Ak bude mlčať, odídem. Ale, veď jej je to   jedno. Len troška záujmu keby som videl, troška teploty oproti mne,   ako rád by som ju mal! Aspoň keby pozrela. Inokedy pozrie, dnes ani   to. Čože chce?
+   </tei:p>
+   <tei:p>
+    — Akú mienku máte vy o mne? — spýtala sa ma odrazu.
+   </tei:p>
+   <tei:p>
+    Otázka ma prekvapila.
+   </tei:p>
+   <tei:p>
+    — Pozrite sem, ak chcete počuť . — Ale veď ja očami nepočúvam.
+   </tei:p>
+   <tei:p>
+    — Lepšie počujete.
+   </tei:p>
+   <tei:p>
+    — No teda takto?
+   </tei:p>
+   <tei:p>
+    Dívala sa na mňa celkom vážne. Svetlo v jej očiach sa triaslo, ako   v prizme, čo lomí a farbí lúče, ale nemožno cez ňu ničoho vidieť.
+   </tei:p>
+   <tei:p>
+    — Tak. A otvorte lepšie oči, aby som mohol dnu nazrieť. Nože,   prosím vás, odstrite tú farbistú záclonu, tak vám poviem ...
+   </tei:p>
+   <tei:p>
+    Bolo mi veselšie, keď som videl, ako usiluje sa lepšie otvoriť   oči, dvíha obrvy a mraští čelo.
+   </tei:p>
+   <tei:p>
+    Vidíte lepšie? — spýtala sa.
+   </tei:p>
+   <tei:p>
+    — Nevidím vo vašich očiach, čo by som chcel vidieť, a to dušu.   Povedzteže, čo vás vlastne zaujíma na tomto božom svete?
+   </tei:p>
+   <tei:p>
+    — A vás?
+   </tei:p>
+   <tei:p>
+    — Mňa napríklad vy. Ale vás, vás, vy zatvorená kniha so zámkou bez   kľúča?! Nadajbože riadka prečítať . . .
+   </tei:p>
+   <tei:p>
+    Oprela sa o operadlo stoličky, založila si na kríž ruky a dívala   sa mi na ústa. Vždy taká pekná, chladná a zlá tvár.
+   </tei:p>
+   <tei:p>
+    189
+   </tei:p>
+   <tei:p>
+    ﻿— Maľovanie vás nezaujíma, — pokračoval som, — hra na klavíri tiež   nie. Všetko robíte z nudy, aby vám čas prešiel. Aspoň tak si myslím.   Knihy, neviem, či čítate, a keby ste ich aj čítali, zaiste vefmi málo   zaujímavých kníh by ste našli pre seba, A predsa vás zaujíma niečo.   Zaujímate sa jedine o seba. Náramne ste márnomyseľná. Vždy a všade   máte pred sebou len seba. I teraz, keď ste pred seba pozerali,   mysleli ste na seba. Márnomyseľnosť. V každej bálovej toalete ste   odfotografovaná, z tvári, z boku, polobraz, celý obraz, od chrbta s   takým a takým účesom, v kostýmoch, v národnom kroji.. . Rozhodne   márnomyseľnosť. . .
+   </tei:p>
+   <tei:p>
+    — Ďalej, ďalej.
+   </tei:p>
+   <tei:p>
+    — Pozoroval som vás, keď ste vchádzali do izieb, kde bolo mnoho   ľudí. Tie vaše oči, Bože drahý! Samá gymnastika. Nemohli ste   niektorého mladého človeka nevyznačiť pohľadom. Ľadovým síce, ale   predsa. Len aby efekt, aby ste sa páčili.
+   </tei:p>
+   <tei:p>
+    — Nepomyslíte na nikoho, len nakoľko sa to vašej krásy týka . . .   Aká som, aká budem, čo mi pristane, takýto driek, takáto blúza . . .   Vy chcete, aby všetko hľadelo na vás, zaľúbilo sa do vás. A vy   svojimi očami zvábite. Ľudia idú a búši do nich chladná vlna, až sa   strasú od zimy, lebo vy — možno, že neviete, a možno, že nechcete —   nekoketujete ďalej. Pre známeho vy ako by ste prestali byť   márnomyseľnou. Známeho nepovažujete za hodného, aby ste sa pred ním   ďalej blýskali. Nemôžete rada vidieť jedného. Všetkých áno, ale   jedného nie, a i tých všetkých len kvôli vlastnému efektu, ako som   povedal. Ako by ste chceli byť všeobecnou a nikdy nie špeciálne pre   jedného. Všetko robíte bez srdca, všade len tá márnosť, tá hýbe vami.   Vy ste bezcitná, tuším ani krvi nemáte . . .
+   </tei:p>
+   <tei:p>
+    Zamlkol som. Dívala sa na mňa ešte za chvíľku, očakávajúc, že ešte   poviem niečo.
+   </tei:p>
+   <tei:p>
+    190
+   </tei:p>
+   <tei:p>
+    ﻿— Takými sa mi zdáte, — končil som. — Je to síce obrázok všetkých   krásavíc, ale iné majú k tomu i citu, a vám chybuje. Iné sú   vytrvalejšie, nakoľko neprestávajú pri jednom človeku, náhle zjaví sa   len jeden — už je koniec.
+   </tei:p>
+   <tei:p>
+    — Pekný obrázok máte o mne. Ďakujem. Vy ste ho maľovali.
+   </tei:p>
+   <tei:p>
+    A akoby urazená, chytila štetku, namočila koniec do pohára s vodou   a poznovu naklonila sa k obrázku.
+   </tei:p>
+   <tei:p>
+    — Nie je tak? — spýtal som sa.
+   </tei:p>
+   <tei:p>
+    — Tak je, — odvrkla.
+   </tei:p>
+   <tei:p>
+    — Ale nepovedzte, že je tak. Povedzte, že je nie tak. Ukážte sa   inými.
+   </tei:p>
+   <tei:p>
+    — Ako možno, keď som takou? — povedala mi chladne a podoprela si   rukou hlavu.
+   </tei:p>
+   <tei:p>
+    Videl som len malé ucho bez náušnice, biely nahnutý krk a tenké,   chudé prsty jemnej podlhovastej ruky s belasými žilkami.
+   </tei:p>
+   <tei:p>
+    Pritiahol som si stoličku k nej.
+   </tei:p>
+   <tei:p>
+    — Vy teraz trestať chcete, slečna. Neuznávate a prisviedčate.   Chápem, že dáma musí skrývať svoje pocity a myšlienky. Ale drobná   iskra v oku, nerv v lícach, prednesenie jedného slova prezrádza ju   ustavične. A vidíte, ako vás znám, vaša tvár a oči sú vždy jednaké,   hlas rovnako znie, oči jednako svietia a vždy ako ľad pri každej   príležitosti. Mnoho ráz som vás pozoroval — viem. Nielen oproti mne.   Nenazdajte sa. Rád by som vidieť u vás teplotu, ale hnevať sa na   vašom chlade nesmiem. Oproti každému jednotlivcovi ste tuším takí.   Ako vyvesený obraz; kedykoľvek pozriete naň, vždy tie isté farby.
+   </tei:p>
+   <tei:p>
+    — Tak je, tak je, — prisvedčila s takým prízvukom, ako by to   nebola pravda. — A vás čo donáša ku mne? — spýtala sa. — Len   samoláska a tiež márnomyseľnosť. Chceli by ste horúcu lásku odo
+   </tei:p>
+   <tei:p>
+    191
+   </tei:p>
+   <tei:p>
+    ﻿mňa? Veď vy sami nemáte ani troška citu v srdci ku mne, vy máte   jedine akési predsavzatie vzbudiť vo mne náklonnosť, slabosť, a keby   ste ma videli horúcou, i tak by ste mi neverili. Neverili by ste   mi...
+   </tei:p>
+   <tei:p>
+    Robila mokrou štetkou čiary po stole a dívala sa ponadeň do   jedného kútka letníka.
+   </tei:p>
+   <tei:p>
+    „Naozaj, veď ja som jej posiaľ nepovedal, že ju rád vidím,   prebleslo mi hlavou. „Ale či to treba povedať? Vidí, že sa zaujímam,   chodím ...
+   </tei:p>
+   <tei:p>
+    — Nie, slečna, — počal som celkom ticho a chytil som ju za ruku. —   Len troška citu keby som videl, troška citu . . . Málinko ... Ja by   som vás rád mal a veril.. .
+   </tei:p>
+   <tei:p>
+    Vlastného hlasu som si všimol, tak divne znel, taký tichý bol, ale   bez nežnosti. Zadivil som sa. Veď moje srdce ako by utíchlo a   nebúchalo tuhšie. Pritiahol som jej ruku k svojim ústam. Neodťahovala   jej. Priložil som pery k jej tenkým prstom. Odvrátila hlavu a bola   ticho.
+   </tei:p>
+   <tei:p>
+    — Áno, len málinko citu, — hovoril som. — Ja by som vás rád videl,   slečna . . . Ale takto sa vás bojím . . . áno, bojím . . .   vidíte.
+   </tei:p>
+   <tei:p>
+    A mne naozaj počalo byť úzko okolo srdca. „Prečo si neodťahuje   ruky? namanula sa mi otázka. Nevidel som posiaľ na nej, že by ma   rada mala. Pritiahol som si stoličku k nej. Vstala. Divné, ale ako by   som sa bol potešil, že vstáva. „Iste chce odísť, myslel som si.   „Ale čo si ruku necháva v mojej? Divné
+   </tei:p>
+   <tei:p>
+    Vzala do ruky obrážtek, čo maľovala. Vstal som i ja, a zdá sa mi,   že celkom nepovedome, možno, v zadivení som vstal a držiac ešte vždy   jej prsty v ruke, pristúpil som celkom blízko k nej. Neodstúpila, ba   práve podňala obrážtek pred moju tvár. Jej čierne vlasy dotýkaly sa   mojich a šteklily ma po sluche.
+   </tei:p>
+   <tei:p>
+    192
+   </tei:p>
+   <tei:p>
+    ﻿— Čo myslíte, aký je tento obrázok? — spýtala sa.
+   </tei:p>
+   <tei:p>
+    — Pekný, — povedal som.
+   </tei:p>
+   <tei:p>
+    Obrátila sa tvárou ku mne a zadívala sa na mňa. Co sa tak díva na   mňa? Čaká volaco odo mňa? Nejakú otázku? Vidieť.
+   </tei:p>
+   <tei:p>
+    Znepokojil som sa ešte väčšmi.
+   </tei:p>
+   <tei:p>
+    Čože jej povedať? Prečo neodstupuje? Iná by sa takto nepriblížila.   Ona ma jednako nemá rada. Nič nevraví, len čaká.
+   </tei:p>
+   <tei:p>
+    Ľahúčko pritiahol som ju za ruku ešte bližšie k sebe.
+   </tei:p>
+   <tei:p>
+    Povolila. Jej oči, ústa, líca boly celkom blízko mojej tvári.   Počul som, ako dýcha. Úzkosť, ktorú som pocítil, väčšila sa. Pritom   srdce ako by sa stalo kameňom. Co nebúcha, čo nebúcha? A líca sú mi   chladné. Co je to? Vždy sa mi zdalo, keby troška citu .. . Ale veď   ona necíti. Co to robí? Je i teraz chladná a takto blízko. Ja sám   cítim len duševný nepokoj . . . Čakal niečo. Je tichá. Zas pozrela.   Čaká. Čože jej povedať. A veď musím niečo povedať, urobiť. A akoby   len zo zdvorilosti ovinul som jej hlavu a pritisol k mojim ústam.   Chladné líca. Aj pery. Ako inokedy. Tichá, nerozcítená. Keby len   troška rada mala, teraz by bola teplejšia . . . Bože drahý! Složila   svoju hlavu na moje plece. Ako by sa jej bola ta skotúľala . . . Co   jej povedať? Veď necíti, necíti, —- to ja vidím a cítim. A veď treba   niečo. Ak sa jej spýtam, či ma rada a povie áno, čože ja urobím? Veď   ma nemiluje. Ja by jej to teraz naozaj neveril. Tak odrazu sa zradiť   a pritom chladným byť. Nie, nie! Mne samému sa srdce nehýbe. Mal by   som byť rozčúlenejším, ale ako by bol mŕtvy. Prekvapila, zarazila ma.   Akási otázka moce sa mi v hlave. Prečo to urobila? Odpoveď hľadám a   nenachádzam. Nemotorným, dreveným sa stávam.
+   </tei:p>
+   <tei:p>
+    193
+   </tei:p>
+   <tei:p>
+    13. Novely
+   </tei:p>
+   <tei:p>
+    ﻿Volaco zašramotilo v záhrade. Ona prvá pozdvihla hlavu a šla ku   schodíkom pozrieť. Potom sa vrátila a sadla na stolec, ako iný   raz.
+   </tei:p>
+   <tei:p>
+    — Co to šramotilo? — spýtal som sa. — Nič, — povedala a pozrela na   mňa.
+   </tei:p>
+   <tei:p>
+    Odrazu rozjasnilo sa mi všetko v myšlienkach. Našiel som odpoveď,   ktorú už dávno pri bozku pocítilo srdce, len hlava nemohla do   odpovedi sobraf. Nie som ani prvým, ani posledným. Necení si svojich   úst a líc. Pred mnohými si necenila, ani predo mnou si necení. Dala   sa bozkať, ako iným. Nie som sám. Pritom necíti už. Vyžíva, vyžitá   duševne celkom. Tí mnohí gavalieri posnímali jej duševný žiar a či ho   ona porozsievala. Prichádzali k nej s chválou na ústach, s túhou v   duši zaujať jej pozornosť. Krútili sa okolo nej, ako kolieska v   hodinkách okolo rubínov. Rubín sa zodral, koliesko prestáva sa krútiť   . . . Cožeby zvláštna dáma! Celkom obyčajná a zamrznutá k tomu   naveky. Jej duša viac dojmov neprijíma. Bozk mi vysvetlil všetko.
+   </tei:p>
+   <tei:p>
+    Krásna, bledá dáma, ktorá ma predtým tak vábila, nevzbudila vo mne   viac ani najmenšieho záujmu. Cítil som len hnev nad tým, že som   hľadal niečo vyššieho, krajšieho, neobyčajného a našiel som denné,   prosté, obyčajné.
+   </tei:p>
+   <tei:p>
+    — Vidíte, že neveríte, — preriekla po chvíli.
+   </tei:p>
+   <tei:p>
+    — Co neverím? — opýtal som sa, ani nevediac, čo sa spytujem.
+   </tei:p>
+   <tei:p>
+    Chcelo sa mi preč ísť a viac sa nevrátiť,
+   </tei:p>
+   <tei:p>
+    — Neveríte mi.
+   </tei:p>
+   <tei:p>
+    — Co, čo?
+   </tei:p>
+   <tei:p>
+    — 2e vás rada . .
+   </tei:p>
+   <tei:p>
+    — Veď vy to sama neveríte
+   </tei:p>
+   <tei:p>
+    O štvrť hodinky som odišiel a bol som presvedčený, že sa viac   nevrátim.
+   </tei:p>
+   <tei:p>
+    Posiaľ som sa nevrátil.
+   </tei:p>
+   <tei:p>
+    194
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

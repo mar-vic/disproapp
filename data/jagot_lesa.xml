@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943197" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Jagot lesa : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2001
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Jagot lesa
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     JAGOT LESA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    — Píšte, prosím, Nelka — píšte, budem vám diktovať: Comercional   Bank o£ Európe, Regen Stred, London ...
+   </tei:p>
+   <tei:p>
+    Stroj pod bielymi prstami zahrčal a kládol riadok za riadkom.   Pracoval bezchybne, ako sa v Obchodnej banke musí pracovať. Slečna   Nelly sa nezamýšľala a formovala anglické slová s podivnou ľahkosťou.   Riaditeľ Dr. Jozef Sviták diktoval jej, ako by hrachom sypal, ako by   mal len nejakú zvláštnu radosť, ak pohotovosť slečny vypovie.   Sledoval jej pohyby, jej hladký účes, jej žiarivé oči, pohyblivé ani   u gazely, vážnel a zas usmieval sa pritom. Iba raz zbadal, ako to   dievčaťom trhlo. Ruky sa sklzly s rozbehaných klávesov, na chvíľku   spočinuly v lone a oči zahľadely sa jej do diaľky. — Co to len tak   trhlo vami, Nelka! — pozrel na ňu zpod veľkých okuliarov, — diktujem   azda zle?
+   </tei:p>
+   <tei:p>
+    — Nie, pán doktor, — začervenala sa, ako by prichytená. — Prišlo   mi niečo na um. Spomenula som si na poklad Londýna, na Tower, kde som   bola predvlani s otcom.
+   </tei:p>
+   <tei:p>
+    — Azda na nejaké dobrodružstvo? — prestal riaditeľ diktovať a   čistil si okuliare ružovou šatôčkou z kabátového vrecka.
+   </tei:p>
+   <tei:p>
+    — Nie, pán doktor, — zachvel sa jej hlas pri stretnutí s jeho   dlhým pohľadom. — Videla som
+   </tei:p>
+   <tei:p>
+    to ohromné anglické bohatstvo zlata a briliantov, rubínov a   periel, trblietajúcich sa ako nebo, posiate hviezdami, zatúžila som   so ženskou márvosťou po niečom podobnom. Vtedy sme boli ešte bohatí a   mohla som si dopriať všeličo. Môj nebohý otec nebol by mi vedel nič   odoprieť. Od tých čias, ako viete, zmenilo sa všetko, ostaly sme s   matkou vo veľkej biede a ja som sa stala vašou stenotypistkou.
+   </tei:p>
+   <tei:p>
+    — Poklady holý i budú, — pohodil doktor, ako by išlo o   najprostunkejšiu vec. — Briliantov je na svete veľmi mnoho, len ich   nevieme hneď rozpoznať a využiť ako treba.
+   </tei:p>
+   <tei:p>
+    Nelka pozrela naňho zvedavo, ako by nerozumela tomu. Hneď sa však   prehŕňala v klávesoch a za diktátom sypaly sa vety monotónne   ďalej.
+   </tei:p>
+   <tei:p>
+    Pred týmto rozhovorom slečna Nelly zakúsila už dobrú časť tvrdého   života. Rodinný krach, kde sa naraz obráti všetko na prach a popol,   nie je pre živé kvitnúce dievča maličkosťou.
+   </tei:p>
+   <tei:p>
+    Otec špekuloval na burze. Stratil všetko, a napokon i život. Jeho   pekný majetok rozobraly banky ako dom z karát. Drahé náradie z   pohodlného bytu zmizlo a ostaly len dve zúfalé tváre a podobné hlavy,   rozbolené do prasknutia. — Co počneme, Nelly, — zahľadela sa zlomená   mať na dcéru bezradne. — Pomaly nás banka vypovie i z domu, — z nášho   vlastného domu. Máš ešte briliantové colier, čo tí otec dal na   osemnáste narodeniny.
+   </tei:p>
+   <tei:p>
+    — Ach, Bože, muselo to až k tomu prísť? — vrhla sa jej plačúca   dcéra do náručia, — nieto nikoho, kto by nám pomohol?
+   </tei:p>
+   <tei:p>
+    — Niet, duša, — sbierala matka sily uchlácholiť ju. — Keď človeka   stihne nešťastie, nemá viac priateľov. Ľudia zabúdajú a miesto pomoci   využijú dobrú príležitosť stiahnuť s neho, čo sa dá.
+   </tei:p>
+   <tei:p>
+    — To je hrozné, — zakvílila Nelly, a prehodiac si elegantný   kabátik, pustila sa z domu, kam ju dvoje očú povedie. Išla trotoárom   mesta a nebola si toho skoro vedomá. Nevidela nikoho, nepočula, len   svoje skľúčené nešťastie a zhasínajúcu beznádej. Zanechala hrdé domy,   vyumelkované parky a pestrá divá príroda vzala ju do náručia. Zapadla   do lesa, vonného, jedľového lesa. Nikto jej neukazoval cestu pomedzi   borovice, smreky až po rozrastené kosodrevie. Mäkunký sivožltý mach   volal ju odpočinúť si. Ona šla ďalej. Tajomné húšťavy snažily sa ju   zadržať, šípy a tŕnie dodriapaly jej jemné, bielučké ruky. Ona šla   ďalej, ako by utiecť pred svojím nesmiernym nešťastím, pred sosutým   životom dvoch prinútených duší.
+   </tei:p>
+   <tei:p>
+    „Co sa to len stalo? Muselo sa to všetko stať?“ rozhučalo sa jej   to v mladej duši. A len blízke vodopády prekonaly tento divý hukot.   Zastala pod nimi a dívala sa na padajúce čistunké prúdy vôd, na ten   hlboký zelenkavý vír pod ramenami brala, porastených žltučkých   vrchoch a palmovitým rebričím.
+   </tei:p>
+   <tei:p>
+    Zdalo sa jej, že tie zelenkavé hĺbky volajú — volajú. Počula ich   vábny hlas a uvažovala, pochopila, aké je to veľkolepé skryť sa do   tohto skalnatého hrobu a nedať k sebe viac prístupu nikomu — nikomu.   Tam v známom meste ako by všetky oči len na ňu hľadely. Nehľadí na ňu   nik, iba zaslzené oči jej matere a jej vlastná zlomená mladosť.   Rozplakala sa ako decko a vody
+   </tei:p>
+   <tei:p>
+    hučaly, ako by len chcely pohltiť zhublé telo. Spenený prúd padal   na ostré skaliská a rozprskoval sa na podivné kryštály, čo sa   rozsvietily na slnku a zihraly farbami, ako i tie Neline slzy, čo sa   sviezly do pekného kalicha a uviazly na vetviciach voňavej   kosodreviny.
+   </tei:p>
+   <tei:p>
+    Keď Nelly zdvihla oči, zelené ihličie ligotalo sa na okolí a na   ostrých braliskách prepásala sa krásna sedemfarebná dúha.
+   </tei:p>
+   <tei:p>
+    „Ani v Toweru,“ spomenula si nešťastná Nelly. Načrela si do   bielučkých dlaní chladnej, čerstvej, priesvitnej vody, umyla smutné   oči a porosila usušené telo. Dlho, dlho dívala sa na krásnu hru   prírody, na klenotnicu našich tajomných hôr a vracala sa v duši sama   k sebe. Odkiaľsi z hlbky začula ťažké údery, zbadala, ako padá strom   za stromom a žilnaté ruky odvážajú ich, ta nižšie, kde ich už čaká   ľudská potreba. Shora zacvendžaly kosy a ženy v ohromných batohoch   snášaly seno na ohnutých chrbtoch.
+   </tei:p>
+   <tei:p>
+    „Nájdem si prácu i ja!“ zablyslo dievčaťu v hlave a odvrátilo   hlávku od zelenkavých, vábiacich vôd. „Svet je taký veľký a ja taká   mladá!“
+   </tei:p>
+   <tei:p>
+    Vtedy už sadal súmrak na skalnatú dolinu, na stmelej oblohe   rozsýpaly hviezdy svoje jagavé brilianty, hádzaly ich do lesklých vôd   a sypaly na rozšumené, zamyslené jedlice.
+   </tei:p>
+   <tei:p>
+    „Co si len pomyslí doma moja smutná mať?“ zakmitlo zpod hustých   mihalníc. „Je noc. Ci večne ostane? Nájde sa miesta na zemi ešte i   pre nás, hoci sme všetko stratily? Ostane z briliantov, i keď je už   moje collier azda predané?“
+   </tei:p>
+   <tei:p>
+    Vzpriamila sa a zahľadela pred seba. Len teraz pochopila, že je v   hore a sama. Inokedy bola by umierala strachom, teraz sa nebála   nikoho. Kráčala smelo v pevnom vedomí, skoro bude doma. Štíhle pniská   jedlíc predišly jej ako píšťaly na organe. Pri ich pätách videla   žiarivé oči svojej matere a počula v duchu pieseň — pravý žalm   života. Doma skľúčená mať svietila ešte. Sedela pri stole nad   otvorenou hrubou knihou a mala ruky složené ako k modlitbe.
+   </tei:p>
+   <tei:p>
+    — Kde si bola, Nelka? — spočinula na prišlej dlhým pohľadom. —   Mala som strach o teba.
+   </tei:p>
+   <tei:p>
+    — Nič sa nestalo, našla som svoje zdravie, — objala ju dcéra a   stierala jej prstami vyhŕknuvšie slzy.
+   </tei:p>
+   <tei:p>
+    — Ale tvoje collier je už tam — predala som ho, aby sme malý na   najpotrebnejšie. — Dobre — kúpime si ho zpät, — zdvihla zrak   odhodlane. — Zajtra pôjdem si hľadať prácu! A dve ubité duše utkvelý   na sebe pohľadom. Oči ich skvelý sa ako brilianty.
+   </tei:p>
+   <tei:p>
+    Nelly zašla do sprostredkovateľskej kancelárie. Našla tam čakať   mnoho ľudí, a to ju posmelilo. Len sa skoro okúňala pre svoje   elegantné šaty. Ostatné dámy, hľadajúce prácu, boly oblečené skromne,   hodne skromnejšie. Prekračovala s nohy na nohu. Ohliadala sa pozorne   okolo seba. Čítala z tvárí vychádzajúcich, aká je tam úradovňa, až   prišiel rad i na ňu.
+   </tei:p>
+   <tei:p>
+    — Cím vám môžem slúžiť? — zmeral si ju chladne úradník ostrým   pohľadom, až jej srdce stislo.
+   </tei:p>
+   <tei:p>
+    — Zamestnanie hľadám. — Odvetila ticho, ako by sa bála, že ju   pozná a vysmeje. — Prácu,: akúkoľvek skromnú prácu! — A čo viete,   slečna? — všimol si tento hned rozpakov elegantnej dámy. — Šaty nie   sú tu ešte odporúčaním — viete variť, viete pestovať deti,
+   </tei:p>
+   <tei:p>
+    alebo... — prešiel po shrnutom čele. — Viete reči? Mohli by ste   byť spoločnicou nejakej staršej dáme, a keď to nie, ak máte   svedectvá, mohli by ste niekam do úradu, — vykladal jej jedno za   druhým na prstoch, kým Nelke nevyhŕkly slzy, veľké, okrúhle a lesklé   ako brilianty. — No, —- neplačte! — Prišlo mu jej akosi ľúto. Vošiel   do kontoáru, za druhým úradníkom, prehrnul záznamy a o chvíľu vrátil   sa s vyjasnenou tvárou. — Máme niečo pre vás. V tlačiarni „Echo“   potrebujú nakladačku. Ak sa vám to hodí, môžete hneď nastúpiť.
+   </tei:p>
+   <tei:p>
+    Nelly pozrela na úradníka s vďakou. Ten len teraz zbadal, aké má   krásne oči a hladkú štíhlu postavu.
+   </tei:p>
+   <tei:p>
+    — Nebude to niečo skvelé, ale stačí do času, — postúpil niekoľko   krokov za odchádzajúcou. — Ale čosi by vás prosil — viete klepať na   stroji? Ak nie, naučte sa, zíde sa vám to. Reči, vravíte, viete,   hodili by ste sa do nejakého veľkoobchodu alebo banky. Naučte sa.
+   </tei:p>
+   <tei:p>
+    — Naučím.
+   </tei:p>
+   <tei:p>
+    Nelly prijala ponúkané. Nastúpila svoje miesto v tlačiarni a   ukladala noviny akéhosi obrázkového časopisu, ktoré stroj vytlačil,   složil i postrihal. Práca nebola ťažká, len dosť jednotvárna. Nelly   mala z nej radosť. Skúsila, že jej elegantný odev len prekáža a   obliekla si prostunké šaty, ako malý jej družky. Na konci týždňa   priniesla matke zárobok a s jasavým pohľadom vzala jej hlavu do   náručia.
+   </tei:p>
+   <tei:p>
+    — Pozri, mama, čo som si zarobila, — a rozplakaly sa obe.
+   </tei:p>
+   <tei:p>
+    Večerom chodila Nelka učiť sa písať na stroji, onedlho už sa jej   prehýbal pod prstami a ona sa mohla obzrieť o iné, vhodnejšie miesto.   Tak sa dostala šťastnou náhodou do Obchodnej banky, kde so svojimi   rečovými znalosťami stala sa skoro váženou a napokon i pravou rukou   jedného z riaditeľov, doktora Svitáka. Ten jej diktoval listy,   adresované na všetky strany pred morom i za more, nemecky, francúzsky   i anglicky, a žasol, ako jej to perfektne šlo. Pritom nezabudol   utkvieť zrakom na jej pekných, výrazných očiach a pohladiť jej   štihlu, hybkú postavu, ako i teraz, keď stroj vyhrkotal prípis do   Londona na Regen Stred.
+   </tei:p>
+   <tei:p>
+    — Dovoľte, Nelly, — pohladil ju nežno po ruke, — ale bez vás by   sme si už ozaj neporadili. — A ja mám práve v úmysle ísť ďalej, —   zachvelo sa jej čosi v hrdle.
+   </tei:p>
+   <tei:p>
+    — Kde, čo? — skočil od stola riaditeľ, — len nemyslíte naozaj.   Nevyhovuje vám náš ústav?
+   </tei:p>
+   <tei:p>
+    — Vyhovuje, — bráni sa ona tomu, ako kto nechce všetko vyjaviť. —   Ale, viete, umienila som si, kým som mladá a zdravá, do Ameriky. Mám   tam známych, čo mi pomôžu, a mám istý sľub, čo chcem splniť.
+   </tei:p>
+   <tei:p>
+    — A to je? — Pán riaditeľ, viete o smutnom páde našej
+   </tei:p>
+   <tei:p>
+    rodiny. Stratili sme všetko smrťou otcovou, —■ sklopila zvlhnuté   veľké oči. — Moja matka musela predať i briliantové collier, ktoré mi   otec daroval, keď som mala osemnásť rokov. Sľúbila som ho kúpiť zpät,   preto musím do Ameriky. Naučila som sa pracovať a verím v seba i v   možnosti nového sveta. Odpusťte mi, pôjdem.
+   </tei:p>
+   <tei:p>
+    — Nepôjdete, Nelly, — vzpriamil sa riaditeľ rezolútne. — Ostaňte   aspoň do konca tohto mesiaca. Potom si spravte, ako uznáte za dobré.   Dni sa míňaly a Nelly sa chystala za more. Sviták sa stával čo deň   tajomnejším. Istého rána,
+   </tei:p>
+   <tei:p>
+    keď Nelly vošla do jeho pracovne, siahol do vertheimky a vyňal z   nej skvostnú kazetu.
+   </tei:p>
+   <tei:p>
+    — Pozrite toto, — podal jej skvost a ruky sa mu zachvely.
+   </tei:p>
+   <tei:p>
+    Nelly ju otvorila, a dobre že sa jej všetko nevysypalo na zem.
+   </tei:p>
+   <tei:p>
+    — Joj, briliantové collier, — užasla stenotypistka na hýrivom   lesku, ktorý jej nebol neznámy. — Kde ste ho dostali?
+   </tei:p>
+   <tei:p>
+    — V obchode, kde ho predala vaša matka.
+   </tei:p>
+   <tei:p>
+    — A pre koho? — hmýrilo sa jej v očiach, ktoré niekoľko ráz   pretrela ružovými prstami.
+   </tei:p>
+   <tei:p>
+    — Pre vás, Nelka — pre vás, — pristúpil k nej bližšie a lapil ju   za ruku. — Pre teba, aby si nešla za more a nestratil náš ústav ani   ja tvoje veľké schopnosti. Vezmem si ťa a budeme ďalej pracovať   spolu.
+   </tei:p>
+   <tei:p>
+    Nelly sa sosypala do jeho náručia. Nastalo ticho, blažené ticho.   Ranné slnko rozsýpalo sa v tisícorakých nádherných farbách na pekne   brúsenom kryštálovom ťažidle, uloženom na širokom riaditeľskom   stole.
+   </tei:p>
+   <tei:p>
+    Spomínali na to neraz. Najmä keď Nelly obdarila muža troma peknými   deťmi. Malý oči veľké a lesklé ako brilianty. Rozsievaly okolo seba   šťastie a radosť, rástly ani z vody. Rodina Svitákovie vychodila   často do hôr, pred rozpenené vodopády so starou matkou, kde mamička   kedysi hľadala smrť a našla cestu k životu. Tu sa pokochali v lete,   keď sa zatrblietala rosa na kvietí a ihličnatých vetvách, ale i v   zime, keď vody zamrzly a inovať postriebrila kosodrevie na miliardách   briliantov, ktoré nezatieni nič, nič na svete, ani vrátené collier,   ani anglický poklad v Toweri. Taký je jagot lesa a jeho lesk v   tisícorakých farbách odráža sa v duši.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

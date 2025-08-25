@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194397" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Túžba najtuhšia : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1594
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Túžba najtuhšia
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     TÚŽBA NAJTUHŠIA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Rexovci boli rodina, ktorej sa na okolí závidelo. Mladý advokát   Dr. Ján Rexa pekný majetok zdedil i vyženil. Deti mal dve, Janka a   Aničku — pekné ani obrázok. Chlapca počerného, ženúceho dohora ani   šašina, dievčatko švitorivú babulku so zlatou kučeravou hlavičkou,   ako by vypadla materi z oka. Nechýbalo vtedy nič. Advokatúra išla   dobre. Ľudia sa hádali, naťahovali ako od nepamäti — majetku   pribúdalo. Mladá pani chodila často do kúpeľov. Zachovala si čistú   pleť a hybkú postavu. Jej muž zas rád vychodil do cudziny, poznať   svet, a zo svojich ciest vždy priniesol pekné dary pre ňu i pre   deti.
+   </tei:p>
+   <tei:p>
+    — Tým už ozaj nechýba — už iba vtáčie mlieko, — ohliadali sa ľudia   na nový pekný dom, čo si Rexovci práve vystavili v priestrannej   záhrade. — A keby už mali aspoň dosť, — narážali na novú advokátovu   kariéru, keď sa nedávno stal poslancom.
+   </tei:p>
+   <tei:p>
+    — Na dosť mnoho načim, — bolo čuť poznámky.
+   </tei:p>
+   <tei:p>
+    Ľudia mnoho zjedia očami. Nerobili by to, keby lepšie poznali   život. Ten nedaruje nikomu, nedaroval ani rodine rexovskej. Keď boli   majetkové na vrchole a mali všetkého prebytkom, pani Amália Rexová   len zbadá istého dňa nepatrnú vyrážku na mužovej tvári.
+   </tei:p>
+   <tei:p>
+    — Co to máš pod okom, Janko? Akú škodu, — upozorní ho hneď   starostlivo.
+   </tei:p>
+   <tei:p>
+    — Nič, — odvetí ľahostajne, prejdúc si dlaňou po tvári. — Zdá sa   mi, uštiplo ma čosi, či sa mi len vyhodilo! Veď to zmizne, —   uspokojoval ženu, ktorá sama mala sklon k hypochondri!, namýšľať si z   malých znakov na veľké veci. Žena zmĺkla, ale vyrážka pod okom   nezmizla. Mesiac za mesiacom rozkladala pokožku — prehlbovala sa.
+   </tei:p>
+   <tei:p>
+    Advokát Rexa počal chodiť po lekároch, a to bol prvý mrak na   jasnom nebi jeho rodiny. Nevedel dotiaľ, čo je nemoc. Nevedel, koľko   nerestí skrýva sa pod jasavou pozlátkou v meste a na celom šírom   svete. Ľudia si žili bezstarostne, chvatom využívali darov dňa   mladosti, bohatstva, výhod. Využíval i on so svojimi. Nikto nemal   drahších šiat ako jeho žena, nikto lepšie opatrených a chovaných detí   ako ona. Pri všetkej závisti nikto nemal toľko priateľov ako mladý   pán poslanec, pred ktorým sa ešte — len otvárala budúcnosť. Co si   toho nasnili so ženou, čo všetko nepredkladali, ako si zariadia dom s   anglickou eleganciou, ako si zariadia záhradu, plnú prastarých   stromov. Ako časť roka prežijú doma, časť v hlavnom meste alebo na   mori. Veľké plány stavala bujná obraznosť v takých nádherných   farbách! A keby človek vedel byť len deň pánom svojho života, holý by   sa iste uskutočnily. Ked tu taká vyrážka pod okom advokáta, a kazilo   sa všetko.
+   </tei:p>
+   <tei:p>
+    Obrátil sa k miestnym lekárom o radu. Tí skúmali, predpisovali.   Vyrážka pod okom sa len šírila, vjedala do tela a vyvolávala bolesť.   Zašiel i na hlavnomestskú kliniku. Lekári venovali sa mu s ochotou,   nielen ako poslancovi a
+   </tei:p>
+   <tei:p>
+    bohatému človeku, ale s akousi dravou ambíciou pomôcť mu. Zvedavý   bol na diagnózu. — Carcis! — znelo s tajomnou maznavosťou okolo neho,   ani v blízkosti tigra na púšti, alebo hádam okuliamika indickej   džungle, s hrôzou pochopil, že má raka, a v tú chvíľu celá stavba   jeho krásneho života sosutila sa na hŕbu. Pomyslel si na ženu, na jej   hladkú, bezstarostnú tvár, na živé odrastené deti a — zaplakal.   Pomyslel na vábnu kariéru, na dom, zariadený s anglickým komfortom,   na šumiace staré lipy okolo neho, a zaľahol mu na dušu smútok ako   mrak na hory. Iba keď mu prišlo na um jeho ohromné bohatstvo —   rozjasnilo sa mu v očiach.
+   </tei:p>
+   <tei:p>
+    „Ech, čo by tratil nádej,“ posmeľoval sám seba. „Rozum rodí sa i   inde. Pôjdem do cudziny a pomôžem si.“
+   </tei:p>
+   <tei:p>
+    To isté radila mu žena Amálka, to isté i dorastajúce deti, ktoré   tušily, že nemôže byť s ním dobre, keď ostáva tu v tomto dome toľkých   nemocných. Medzi mníškami, ktoré chodia nehlučne s toľkou   odovzdanosťou za zamýšľavými pánmi v bielych plášťoch.
+   </tei:p>
+   <tei:p>
+    — Choď, muž môj, choď, — ponúkal ho rozochvený hlas jeho Amálky. —   Co tam necháš polovicu majetku, a hoci celý — len sa nám zdravý   vráť.
+   </tei:p>
+   <tei:p>
+    — Choď, otecko, choď, — žobronily za matkou i deti, Janík i   Anička. — My budeme doma gazdovať a modliť sa za teba.
+   </tei:p>
+   <tei:p>
+    Pri týchto slovách nevedel sa chorý zdržať, objal ženu i deti a   schystal sa na ďalekú cestu. Vedel už, podujíma sa na ťažkú úlohu.   Informoval sa, že hľadá zdravie tam, kam sa obracajú oči šíreho   usúženého sveta. Vedel o zákernosti nemoci, na ňú sú vypísané   miliónové
+   </tei:p>
+   <tei:p>
+    odmeny veľkých inštitútov ako na nebezpečného dravca — zdolať ho,   ale v duši jeho zablysla sa nádej ako rozsýpavý, farbistý diamant v   hranatom štrku.
+   </tei:p>
+   <tei:p>
+    — Idem! — Pohladil ešte ženu i deti a šiel.
+   </tei:p>
+   <tei:p>
+    Cestoval rovno do Paríža a pobudol tam dobrý čas. Vyhľadal   najslovutnejších lekárov a ti zas robili, čo bolo ľudsky možné.   Liečili ranu najmodernejším ožarovaním.
+   </tei:p>
+   <tei:p>
+    Tá počala i schnúť a on v nádeji vrátil sa za svojimi. Našiel ich   v zlom. Od jeho odchodu ako by sa rozsypalo vrece nešťastia na panský   dom v záhrade pod šumiacimi lipami. Bielučká Anička v nestreženej   chvíli padla do rybníka a zavrela pekné oči na večnosť. Janko skočil   s vŕby pri kúpaní v rieke boso na rozvalenú, čerstvú prsť a skántril   ho tetanus. Rozžialená mladá mať stratila sviežosť svojej krásnej   pleti, uvädla do nepoznania, ako kytica, ktorú už týždne zabudli   poliať.
+   </tei:p>
+   <tei:p>
+    — Hrozné! — lapil sa nešťastný otec za hlavu, keď mu povedali o   tom. — Co som vykonal zlého, keď ma osud kára ako toho Jóba, a keby   bol už tomu aspoň koniec! — Objal bledú ženu, chvejúcu sa ani   pavučinka, a zaplakal.
+   </tei:p>
+   <tei:p>
+    Služobníctvo na prstoch chodilo po dome, ktorý z miesta radosti   zmenil sa na kryptu, moknúcu slzami. Košaté lipy vonku rozstonaly sa   žiaľom a roznariekaly. Ľudia, ktorí hľadeli prv na pekný dom z   netajenou závisťou, teraz, keď mohli, vyhli mu radšej, nech sa ich   nešťastie nechytí.
+   </tei:p>
+   <tei:p>
+    Nie div! Ako sa to sypal zdar, ani blýskavé zlaté mince z   rozviazaného vreca. Tak sa teraz dial pravý opak nezastaviteľný.
+   </tei:p>
+   <tei:p>
+    Nadišiel deň, ktorý polámal okná i posledné kvety. Pekná Amálka   uvädla a odobrala sa za svojimi deťmi. Rana pod okom Rexovým otvorila   sa znova. Najprv nedbal o to, veď už stratil skoro všetko okrem toho   biedneho života! Ale prišla bolesť pálčivá a tvrdá. Ľudia radili mu   miesto Paríža Berlín alebo Viedeň.
+   </tei:p>
+   <tei:p>
+    Váhal.
+   </tei:p>
+   <tei:p>
+    — Co odkladáš? — dovrávali mu priatelia. — Si ešte dosť mladý —   zachráň sa — verejnosť ťa ešte potrebuje.
+   </tei:p>
+   <tei:p>
+    — Ale mňa ? — spočinul na nich dlhým bolestným pohľadom. — Načo by   bol ešte komu? Deti som stratil, ženu som stratil, čo mám, rozkladá   sa všetko ako voda na rieči. Komu ja môžem byť potrebný ešte?
+   </tei:p>
+   <tei:p>
+    — I nám, Janko — i nám! — hladely naňho kamarátske oči so   sústrasťou. — Ale i sebe!! Umierať je ťažko, i keď človek mnoho   stratil, ťažko je odtŕhať sa od života, i keď niet v ňom lúča   svetiel. Je to tajomná sila v nás — nemožno ju obísť, nemožno poprieť   — ozve sa, hoci by sme nechceli. Zlomený Rexa dal sa presvedčiť,   navštívil Berlín i Viedeň. Na klinikách strávil dlhý čas. Podrobil sa   všetkému, čo radili. Dal sa informovať o každej zvesti. Ako sa darí   boj proti zákernej nemoci, ktorá sa chytila i jeho ako kliešť. Čakal   a trpel. Lekári a biele ošetrovateľky hladely naňho so sústrasťou.   Pliaga mu rozožierala tvár a vnikala mu do mozgu.
+   </tei:p>
+   <tei:p>
+    — Radšej sto ráz smrť než takéto muky! — precedil raz cez zaťaté   zuby pred svojím duchovným. — Nezúfať, priateľko! — sbieral tento   všetky sily potešiť ho. — Všetkému sa napokon uľaví.
+   </tei:p>
+   <tei:p>
+    — Len kedy — kedy? — Spoľahnime na toho, ktorý nám život dal
+   </tei:p>
+   <tei:p>
+    — nedočkavosťou si nepomôžeme. Konečne bolo všetkým dosť toľkého   utrpe-
+   </tei:p>
+   <tei:p>
+    nia. I mníškam, ktoré sa v kaplnke modlily za nemocného, aby ho   Pán Boh vzal. I lekárom, ktorí si všímali tohto hrozného boja o život   a cítili svoju bezmocnosť. Návštevníci hľadeli na nemocného   beznádejne, ako z tej ubolenej hlavy tratia sa všetky myšlienky a   horia v plameni múk.
+   </tei:p>
+   <tei:p>
+    — Nedajte sa mi trápiť ďalej, — prosil lekárov.
+   </tei:p>
+   <tei:p>
+    — Slabý je už, ani hmla. Nemá viac čo čakať od života — uľavte mu   nejak.
+   </tei:p>
+   <tei:p>
+    — Človek má právo na svoj život do posledného dychu, — pozrel   chladno muž vedy a povinnosti cez lesklé okuliare.
+   </tei:p>
+   <tei:p>
+    Zato nebol z kameňa ani on. Predpísal nešťastnému morfium   najsilnejšej koncentrácie. Mladá mníška priniesla fľašôčku tekutiny.   Položila na stolík chorému a vedľa niečo vody do pohára.
+   </tei:p>
+   <tei:p>
+    — Tak prosím, — nahol sa primár k beznádejnému pacientovi a s   prísnym pohľadom ukázal na sklenicu, — ak sa ozvú bolesti, kvapnite   si z lieku do vody, ale len päť kvapiek — šiestu nie, lebo by ste   usnuli naveky.
+   </tei:p>
+   <tei:p>
+    Prítomní odišli, ostala len mníška, ktorá odovzdane do vôle božej   mrvila ruženec. Vyrušil ju bolestný ston. Skočila k nemocnému, keď sa   chytal sklenky s liekom.
+   </tei:p>
+   <tei:p>
+    — Ja si sám, sestra — sám! — lapil sa kŕčovite utišujúceho lieku v   obave, aby mu nekvapla viac, než slobodne. V tú chvíľu zabudol na   všetky pohromy — na stratu pekných detí, mladej
+   </tei:p>
+   <tei:p>
+    ženy, veľkého majetku i kariéry. Zabudol na svoju zohyzdenú tvár,   na neznesiteľné muky, ktoré mu ohnivým nebožiecom vŕtaly v hlave, na   všetko... Všetko zabudol! V duchu videl len slabo žiariacu iskierku   svojho života, iba tú videl a počítal nahlas: — Jedna ... dve ...   tri... štyri... päť... — a dosť — složil sklenku. Ešte si ju raz   vzal, pozrel, či neprelial. Ale nie — tekutiny ešte ostalo. Spokojne   potriasol pohár a prevalil na hlavu.
+   </tei:p>
+   <tei:p>
+    Bolesti sa utíšily a on nevstal viacej. Skončil svoju krížovú   cestu — ticho, uspokojené. Keď mníška vyprávala o jeho posledných   chvíľach, lekári smutne sklonili hlavy. V údive nad ľudskou   bezmocnosťou a nad húževnatosťou túžby — žiť.
+   </tei:p>
+   <tei:p>
+    — Takí sme všetci, — pohodil primár skepticky a vzdialil sa s   kolegami v bielych plášťoch za inou povinnosťou.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

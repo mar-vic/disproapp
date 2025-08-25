@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944251" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Štvorylka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4599
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Štvorylka
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ŠTVORYLKA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Do nášho mesta prišli vojaci. Kto by si to bol pomyslel? K nám   prídu! Richtár nemá kde bývať. Nový doktor už pol roka hladá byt.   Nový advokát sa procesuje, že mu vypovedali. A tu ti príde odrazu   batalión vojska. Jednoduchí, bez hviezdičiek, v úzkych nohaviciach a   vysokých čiapkach. Jednoduchí s hviezdičkami, v takých istých   nohaviciach a čiapkach. Nie jednoduchí, so zlatými hviezdičkami v   pantalónach, bez koní, nie jednoduchí s koňmi a jeden celkom   nejednoduchý so zlatým golierom, v čižmách a na koni. A to ešte v   sobotu! V nedeľu si rozhodne nepoznal mesto, začadené krčmy a   cukráreň. Všetko akosi blýskalo.
+   </tei:p>
+   <tei:p>
+    Starí páni vytiahli svoje najlepšie háby. Pozeral si, pozeral.   Ale, reku, toto by bol náš pán richtár? Veď ten vždy nosí tie obdrané   kockované nohavice, či v nedeľu, či v robotný deň. A teraz, ľaľa:   nohavice čierne, kabát čiernyEšte i metál si vylepil, vyčistený,   jagajúci sa. Pozri, pozri, veď on nechodí do krčmy a teraz rovno ta   mieri. Tam je aj advokát Ježný a diškuruje o vojne:
+   </tei:p>
+   <tei:p>
+    — ... viete, to nebolo nič. Keď sme my tiahli Bosnou...
+   </tei:p>
+   <tei:p>
+    Pán sudca na to;
+   </tei:p>
+   <tei:p>
+    — Eh, čo Bosna, ale keď sme my ležali v Ta liansku...
+   </tei:p>
+   <tei:p>
+    155
+   </tei:p>
+   <tei:p>
+    ﻿— Taliansko je nič. Co Taliansko, — pokračoval Ježný, — ale Bosna!   Bosna, viete, to je kraj! Samé skaly, bralá! Taliansko! — zasmial sa.   — Slnce sa ti smeje, všetko vonia, ale Bosna! — Raz, pamätám sa, bola   strašná hmla . . .
+   </tei:p>
+   <tei:p>
+    Ľudí si nepoznal. Samá vojna. A ešte panie! Doktorova žena   obliekla si napríklad svoju čiernožltú toaletu. Na spodku žltý   hodváb, na vrchu čierne čipky. Krásna! Raz bola v nej pred dvoma   rokmi na bále. Klobúk prepichnutý veľkým strakatým perom. Elegantná.   Pani advokátka česala sa zasa celé dve hodiny a obliekla si belasé   hodvábne šaty, pretkávané akýmsi bielym, lakové črievičky, hodvábnu   spodnú sukňu a lorňón. Pani inžinierka svoj dlhý, elegantný kaftan so   zamatovým golierom. A všetky išly do kostola o pol desiatej. Akoby aj   nie. Môže ich stretnúť ten celkom nejednoduchý so zlatým golierom.   Akože by šly len tak proste? Treba sa ukázať.
+   </tei:p>
+   <tei:p>
+    Slečny, tie vyšly už o 9. ráno. Tiež do kostola. Slečna Meluzínka   mala zrovná atlasové topánočky na sebe. Slečna Zuzanka si vzala do   kostola vejár s perami na zlatej retiazočke. Slečna Viera sa blýskala   ako slnce, od diamantov na ušiach, hrdle a ručičkách. Odrazu svornosť   zavládla medzi nimi. Prv si závidely perá na klobúkoch, alebo keď   niektorej vyšlo na klinčeku, že ju on miluje. Teraz šly sa   poohlasovať do kostolíka. Bol to utešený rad. Srdce ti pišťalo.
+   </tei:p>
+   <tei:p>
+    O slúžkach ani nehovoriť. Ani jednej si nevidel v nedeľu   predpoludním bez, ako sa to hovorí, „pigľajzne, alebo kefy. Tá,   čo u doktorov slúžila, sedem ráz si prebigľovala šaty a ešte sa jej   pokrčenými videly. Slúžka u sudcu zabudla nakŕmiť svine, lebo   neprestala viksovať topánky. Podsudcova slúžka ukradla pani   podsudcovej parfumu a ešte povedala, že sa nemá kedy ani učesať. Dnes   po obede ide na prechádzku, čokoľvek budú hovoriť.
+   </tei:p>
+   <tei:p>
+    156
+   </tei:p>
+   <tei:p>
+    ﻿Ale toto všetko bolo by sa dalo odpustiť vojakom, keby neboli   prišli práve pred letnou zábavou, ktorá mala byť v utorok. Takto   nemôže byť. Vrútia sa vojaci, i čo ich nepozveš. Pomútia hlavy   slečinkám. Namyslia si a nebudeš môcť s nimi ani poshovárať sa.   Vieme, im len čiapočka vojenská, šablička, gombičky. To sa blyští. Za   tým budú lipnúť, ako nočné komáre za svetlom. Môže sa stať nešťastie.   Posiaľ ako dobre bolo. Vždy si videl príjemný poriadok. Samé páriky,   a také stále, verné páriky. Každá dáma mala svojho gavaliera, každý   gavalier svoju dámu. Vždycky. Šiel si ráno do úradu, na ulici samé   páriky. Šiel si na obed z úradu, zasa. Šiel si sa po večeri prejsť,   zasa si sa len stretol so samými párikmi. Išly za sebou, ako sluky.   Tak sladko, potichučky štebotaly si, že si nepočul iné, len   „ssssss, naše mesto bolo údolím lásky a poézie. Nuž a pri alebo   „cccccc Alebo neštebotaly, len sa dívaly sebe do očú, tými   dlhými pohľadmi lásky. Naozaj, takýchto okolnostiach musel potriasť   príchod vojakov srdcami zaľúbených gavalierov. Pozrie niektorá na   takého nie jednoduchého s hviezdičkami a pantalónmi, pozrie i druhá i   tretia, a gavalieri budú nešťastní. Môže sa veľmi ľahko stať, že   banka zostane bez úradníkov, fiškáli bez pomocníkov a kancelárie bez   fiškálov, pozemná kniha s civilným súdom bez pána podsudcu a pisárov.   Všetko vhrnie do seba rieka, čo tečie pri meste.
+   </tei:p>
+   <tei:p>
+    — Treba odročiť bál! — vydali heslo niektorí aranžéri.
+   </tei:p>
+   <tei:p>
+    — Áno, odročiť! — chytili iní.
+   </tei:p>
+   <tei:p>
+    A mesto zaplnilo sa strašnou zvesťou, že sa bál odročí. Poradu   treba svolať do kaviarne, na kedy?
+   </tei:p>
+   <tei:p>
+    O tom dopočula sa pani doktorka.
+   </tei:p>
+   <tei:p>
+    — Ešte čo! — podotkla celkom nahnevane. — Nuž a komu potom ukážem   svoju čierno-žltú toaletu a svoje krásne žlté vlasy? — myslela.
+   </tei:p>
+   <tei:p>
+    157
+   </tei:p>
+   <tei:p>
+    ﻿— Pravdaže nie! — potvrdila advokátka. To je netaktičnosf od   mladých ľudí. Vôbec, oni nevedia, čo sa patrí. U nás sú mladí India   celkom inakší. —Pritom si myslela:—Všetci sú driečni, tí oficieri.   Vidia moju toaletu. Krajšia, veru, ako doktorkina. Budú dvoriť. A až   vidia, ako viem pozerať cez lorňón, direktne ich obájim. Muž bude   žiarliť.
+   </tei:p>
+   <tei:p>
+    To isté povedala a myslela si pani sudcová. To isté všetky   dievčatá. Manželky povedaly mužom, ako čo. Pán sudca advokátom,   advokáti svojim pomocníkom. Doktori sú aj tak obyčajne pod papučami.   Na porade bol podsudca prvý, čo povstal proti odročeniu.
+   </tei:p>
+   <tei:p>
+    — Nemožno odročiť, — vravel s krikom. — Ináče sa poďakúvam z   hlavného aranžérstva, a búchal pritom na stôl. — Veď, prosím, ako by   to bolo? Pozvánky rozposlané, plakáty vytlačené, ako by to bolo?
+   </tei:p>
+   <tei:p>
+    Civilný súd s pozemnou knihou prisvedčil hneď. Keď pán podsudca   tak, i my tak. Nuž pravda, ako by to bolo ...
+   </tei:p>
+   <tei:p>
+    — Nemožno, nemožno,—kričali jedným tónom.
+   </tei:p>
+   <tei:p>
+    — Všetko v poriadku.
+   </tei:p>
+   <tei:p>
+    — Dámy pripravené.
+   </tei:p>
+   <tei:p>
+    — Kytky objednané.
+   </tei:p>
+   <tei:p>
+    — Sála vyleštená.
+   </tei:p>
+   <tei:p>
+    — Oleandre prichystané.
+   </tei:p>
+   <tei:p>
+    — Vejáriky vypožičané.
+   </tei:p>
+   <tei:p>
+    — Muzika tu.
+   </tei:p>
+   <tei:p>
+    — Muzika tu.
+   </tei:p>
+   <tei:p>
+    Kričali s pisármi i pomocníci advokátski.
+   </tei:p>
+   <tei:p>
+    — Teda sa neodročí? — opýtal sa podsudca opätovne.
+   </tei:p>
+   <tei:p>
+    — Nie, — zahrmelo kaviarňou.
+   </tei:p>
+   <tei:p>
+    — Ďakujem.
+   </tei:p>
+   <tei:p>
+    158
+   </tei:p>
+   <tei:p>
+    ﻿A bolo skončené. Ajhľa, tiež vidieť, aká znamenitá svornosť   panovala v našom meste. Lenže úprimne treba vyznať, pánu podsudcovi   bolo dobre. Bol tiež zaľúbený, ale šťastne á iste. Vedel si zariadiť   veci, na čo pomáhalo mu i to, že i telom i duchom svojím veľmi sa   rekomendoval. Blondín s veľkým účesom na pravý bok začesaným. Na   veľké oblé jeho čelo poeticky padaly vlasy. Oči belasé a tvár jemnú,   útlu, uzučkú, s ľahkým rumencom. Ináče svalnatý-Fúzy červenkasté, ale   silné, okrúhle. Slovom, driečny. A ešte jeho duchaplnosť. Pritom, ako   sa vedel obliekať. Iní nosili len letné šaty, on biele flanelové. Iní   chodili bez rukavíc, on s jemnými, hodvábnymi, riedučkými rukavicami.   Iní nosili hrubé palice, on tenučkú, ako malíček. Iní hovorili   „pardon! bez nosovky, on pekne po francúzsky nosom. Znamenitá   família k tomu, meno na štvrťhodinu a korunka na ručníčku,   tabatierke, paličke a punčoškách. Ešte i cigarety mávaly u neho   korunky. Skrátka, mohol sa cítiť šťastným, mal všetko. Každý ho chcel   imitovať, ale sa ani jednému nedarilo. Náhle niekto mal podobnú   mašľu, už si objednal nejakú extra. Náhle videl, že niekto nosí tenkú   palicu, už mal takú ani hrubú ani tenkú. Myslel si niekto: no, tento   kabát je znamenite šitý, tak, ako podsudcov. Uvidel ťa v ňom, a prvé   čo bolo?
+   </tei:p>
+   <tei:p>
+    — Ktože vám šil tento kabát? V Pešti robený, však?
+   </tei:p>
+   <tei:p>
+    — Ano.
+   </tei:p>
+   <tei:p>
+    — Vidieť, i tam sú už fušeri. A u ktorého krajčíra?
+   </tei:p>
+   <tei:p>
+    — Curay
+   </tei:p>
+   <tei:p>
+    — Babrák. Celkom nemódne rukávy. Gombice. Ach, perlmutky. Kto to   slýchal? Ale čo vy idete k Curaymu? Pozrite, toto robil Mezey.   Elegantné futro, vrecká zdnuky, rukávy. Obzrite!
+   </tei:p>
+   <tei:p>
+    159
+   </tei:p>
+   <tei:p>
+    ﻿To isté hovoril i o nohaviciach a znosil všetko. Odišiel si   smutný. Kúpil si si tabatierku. Vyňal si ju pred podsudcom a on už   zbadal, že je nová.
+   </tei:p>
+   <tei:p>
+    — Akú to tabatierku máte!
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    — No, dosť pekná.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    — Troška mäsiarska, ale dosť pekná. Pozrite moju, pravá krokodília   kožka. Pravda, stála osem zlatých, ale si ju obzrite. Pritisnite tu.   Otvorí sa. Tu na cigary, tu na cigarety. Jeleňou kožou futrovaná;   obzrite.
+   </tei:p>
+   <tei:p>
+    Rozgurážil si sa v kaviarni. Bol tam i podsudca a chcelo sa ti   zaimponovať.
+   </tei:p>
+   <tei:p>
+    — Fľašu šampanského! — skríkol si na sklepníka.
+   </tei:p>
+   <tei:p>
+    — Akéže píjavate?
+   </tei:p>
+   <tei:p>
+    — Tórley.
+   </tei:p>
+   <tei:p>
+    — Ako to môžete, pre Boha!
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    —- Radšej mláku. Vôbec tu nedostať dobrého a dobré je aj   zriedkavosť. My sme píjali doma znamenité. Keby tak z toho. Ale aj   bol mok! Niečo klasického. Bohovia na Olympe ho nepili.
+   </tei:p>
+   <tei:p>
+    Znosil všetko a každého. Akože by si nebol podmanil celé mesto!   Každý ho zbožňoval a dámy najviac, najmä slečna Olinka. Ach, slečna   Olinka! Musíš povzdychúť pri jej mene. Aká to bola krásavica! Prvá   krásavica. Vysoká a súmerná. Vlasy, na ktoré sa povie, že sú zlaté.   No krásavica! Líca, človek by neuveril, červené a nie mäkké, mdlé,   ale až pukajúce sa od zdravia. Pery, šija, všetko, ako by uliato do   najkrajšej formy. Krása! A aká nevinná a nedotknuteľná. Probovali už   mnohí ľudia dostať sa do jej srdiečka, ale darmo. Na nežné slovo   nemala inej odvety, len:
+   </tei:p>
+   <tei:p>
+    160
+   </tei:p>
+   <tei:p>
+    ﻿—■ Ale choďte. Povedali ste jej:
+   </tei:p>
+   <tei:p>
+    — Aká ste vy krásna, slečna! — Ale choďte, bola jej odpoveď. —   Také zúbky máte, ani perly, — Ale choďte.
+   </tei:p>
+   <tei:p>
+    Taká bola nedotknuteľná a nevinná. Bože, a milá!
+   </tei:p>
+   <tei:p>
+    Prišli ste ku jej tatinkovi. Bol stoličným fiškusom na odpočinku.   Nepočul dobre a vravel veľmi potichu. Tu bola vždy napomoci.
+   </tei:p>
+   <tei:p>
+    — Čo hovoríte? — spytuje sa starý pán. — Tatinko sa spytuje, čo   ráčite hovoriť, — A ako sa máte?
+   </tei:p>
+   <tei:p>
+    —■ Tatinko sa spytuje, ako sa ráčite mať. — Chcete borovičky?
+   </tei:p>
+   <tei:p>
+    — Tatinko sa spytuje, či rozkážete koňaku. — Prečo bych si   nevypil?
+   </tei:p>
+   <tei:p>
+    A slečna Olinka už donáša buteľku s hviezdami a nalieva a   núka.
+   </tei:p>
+   <tei:p>
+    — Ráčteže, prosím, ráčte. Ešte jeden . . . Ale ešte jeden.
+   </tei:p>
+   <tei:p>
+    Taká bola milá. Do takého dievčaťa sa musel každý, ako sa to   hovorí, zaľúbiť. Tak aj pán podsudca, a to tým viacej, lebo býval u   pána fiškusa. S Olinkou stretával sa každé ráno, na obed a večer.   Zpočiatku i jemu vravela na všetko: — ale choďte, nech sa páči, ako   sa máte atď., ale láska nestojí. Je ako lavína. Z hrudky povstane, tá   hrudka sa pustí, naberá na seba, väčší, šíri sa a letí, letí ohromná   guľa dolu a znova rozdrobí sa na kúsky. I pán podsudca zpočiatku len   za tým túžil, aby sa mohol za minútku poshovárať s ňou, potom zatúžil   za dvoma minútkami, potom za troma. Zbadal biele ruky Oľgine a tak sa   mu ich žiadalo dotknúť. Len dotknúť, nič
+   </tei:p>
+   <tei:p>
+    161
+   </tei:p>
+   <tei:p>
+    11. Novely
+   </tei:p>
+   <tei:p>
+    ﻿viacej. Keď sa ich tak dotkol, túžba jeho nezastavila sa. Jemu   chcelo sa tie drobné, tenké pršteky stisnúť, potom celú dlaň, potom   tú dlaň podržať v ruke za minútku, za dve minútky, za tri minútky,   potom jej nikdy nepustiť, večne ju držať, večne cítiť ten šťastný   elektrický prúd. A keď sa mu to pošťastilo, keď nechávala svoju ruku   v jeho ruke, cítiac a mlčiac, nezastala láska. Pán podsudca zatúžil   za lícami Olinkinými...
+   </tei:p>
+   <tei:p>
+    Bol príjemný septembrový večer. Branecký vyšiel na lavičku do   sadu. Tak ticho a milo bolo okolo všade. Zdalo sa mu, že všetko   láskou dýcha, že je všetko jemu naklonené. Cit sa mu rozšíril v   prsiach, a tak mu bolo, ako by aj on všetko miloval. Hla, domáci   drozd tak protivne pískava. Zlostí sa naň a prečo sa vlastne zlostí?   Boží hlas. Drozd vie iba pískať, nuž píska. Alebo husi, ako protivne   gagocú a veď je to celkom nie protivné. Musia gágať. Čo sa na ne   hnevá? . . . Len kedy vyjde už Oľa . . .
+   </tei:p>
+   <tei:p>
+    Nečakal dlho. Olinka vyšla. Takto sa stretávali náhodou. Oľga   vychádzala pred večerou hodinku do záhrady, on tiež — teda museli sa   sísť.
+   </tei:p>
+   <tei:p>
+    — To ste vy, slečna? — spýtal sa.
+   </tei:p>
+   <tei:p>
+    — Ja.
+   </tei:p>
+   <tei:p>
+    — A kam?
+   </tei:p>
+   <tei:p>
+    —■ Prejsť.
+   </tei:p>
+   <tei:p>
+    — Dovolíte?
+   </tei:p>
+   <tei:p>
+    —• Prosím.
+   </tei:p>
+   <tei:p>
+    Sli spolu. Boli si tak blízko, a predsa pánu podsudcovi zdalo sa,   že je od nej ďaleko. Vytiahol rukú z vrecka a nežne chytil jej ruku.   Stisk, Elektrika.
+   </tei:p>
+   <tei:p>
+    — Ako som ja predsa ďaleko od vás.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    Cítim diaľku medzi nami
+   </tei:p>
+   <tei:p>
+    —- I teraz?
+   </tei:p>
+   <tei:p>
+    — Áno.
+   </tei:p>
+   <tei:p>
+    162
+   </tei:p>
+   <tei:p>
+    ﻿A ona dotkla sa svojím plecom o jeho. Taká je láska, keď ju   cítime, necítime ju len v srdci, ale všade, v každej žilôčke, v   každom úde, prste, lakti, pleciach a všade. Tak bolo i s pánom   podsudcom a Olinkou.
+   </tei:p>
+   <tei:p>
+    I teraz? — pýtala sa ešte raz
+   </tei:p>
+   <tei:p>
+    — Ano.
+   </tei:p>
+   <tei:p>
+    — A kedy nie?
+   </tei:p>
+   <tei:p>
+    Pán podsudca pritiahol jej ruku ku svojim perám. Naklonil sa,   bozkal ju.
+   </tei:p>
+   <tei:p>
+    — Vy viete, — povedal a nepustiac jej ruky, pritiahol celé dievča   k sebe. Sklonila hlavu a hľadela nabok.
+   </tei:p>
+   <tei:p>
+    — Ako vás ja rád. Vy to viete a spytujete sa. Slečna Oľga, vidíte   . . . Také pekné pery máte ... Vidíte, — vravel bez smyslu,   nechápajúc sám, čo vraví. Nahol sa a bozkal ju na líca. — Olga   —povedal ešte a viac nemohol. Srdce mu trepalo, zadúšalo dych,
+   </tei:p>
+   <tei:p>
+    Ô, bozk! Ako objímajú sa v tebe malom, polminútovom, večne   skrývanom dve duše plné lásky a oddanosti. Koľko je moci v tvojej   sladkosti. Ľudia a celý svet tratia sa v nej a sám pred sebou mizne   človek. Co more vied, umenia, čo sláva a sila! Všetko je malicherným,   slabým, nezaujímavým pre teba. Tvoja minúta je jedine sladká, drahá,   skvostná, nezapomenuteľná. Ty spravíš cenným i najsmutnejší a   odhodený lákavým. Ty, keď ideš zo srdca plného lásky, ako je srdce   pána podsudcu a Olinky!
+   </tei:p>
+   <tei:p>
+    Prešlo niekoľko minút, kým sa ich srdcia utíšily. Neďaleko bola   lavička, ta si sadli.
+   </tei:p>
+   <tei:p>
+    — Olinka, — počal podsudca, — ja by mal k vám prosbu.
+   </tei:p>
+   <tei:p>
+    — A čo?
+   </tei:p>
+   <tei:p>
+    — Prvý čardáš, keby ste tak mne dali.
+   </tei:p>
+   <tei:p>
+    — No, Bože, prečo nie.
+   </tei:p>
+   <tei:p>
+    163
+   </tei:p>
+   <tei:p>
+    ﻿Znova zatíchli, chytiac si ruky. Hodina večere sa blížila. Cas   plynul. O štvrť na deviatu bozkali sa druhý raz a znova sa im srdcia   roztrepotaly, že museli zatíchnuť na pár minút.
+   </tei:p>
+   <tei:p>
+    — Olinka, mám ešte jednu prosbu.
+   </tei:p>
+   <tei:p>
+    — A čo?
+   </tei:p>
+   <tei:p>
+    — Prvú štvorylku mi dajte.
+   </tei:p>
+   <tei:p>
+    — No, Bože, prečo nie
+   </tei:p>
+   <tei:p>
+    O pol deviatej sa už dva razy jedno za druhým bozkali. Pán sudca   poprosil o druhú štvorylku a ju aj bozkal. O trištvrte na deväť   bozkali sa tri razy a pán podsudca dostal supečardáš, tretiu   štvorylku. O deviatej vstali a šli na večeru. Cestou sa mnoho ráz   bozkali a pán podsudca dostal predposledný čardáš, ostatný čardáš a   čardáš do rána.
+   </tei:p>
+   <tei:p>
+    Nuž jemu ľahko bolo proti odročeniu. Šťastný gavalier, ktorý má   zabezpečenú tanečnicu podľa srdca.
+   </tei:p>
+   <tei:p>
+    Ale medzitým vojsko hralo prvú úlohu v salónoch a kuchyniach, na   hlavnej promenáde a v každom sádku, v cukrárni a krčmách. Tá slečna   bola šťastná, ktorej prihovoril sa taký nejednoduchý so zlatými   hviezdičkami. Očká zažiarily, ústa sa usmialy, srdiečko zatrepotalo.   Je to radosť počúvať takého oficiera. Počnete o fatamorgáne, a on   hneď o koňovi, alebo regrútoch ... Že tak a tak, nahneval sa a dal   svojmu buršovi zaucho. Hehehe . . . Spravili sme 50 kilometrov. Ľudia   sa krčili, čo nevládali. Zrovná štvornožky išli, bledli, kamarát, a   keď sme prišli domov, kamarát, vidím: akási sviňa nedrží kroka. Halt!   komandujem. Vieš, aké mám komando? Plukovník pochválil. Kompánia   stojí. Links front! Pred nosmi, kamarát, močarina. Nieder! zarevem.   Kompánia padá do blata. Auf! Nieder! A ešte raz, kamarát. Ľudia   nevládali. Hehehe . . Ako by ti neimponoval taký oficier? Toľká moc a   toľké
+   </tei:p>
+   <tei:p>
+    164
+   </tei:p>
+   <tei:p>
+    ﻿hehehe. — A ešte dáme! Zdvihne si šabličku. Sablička zablysne,   portepé sa rozkolembe a blýska. Gombičky sa ligocú, hviezdičky sa   trblietajú, čiapka so zlatými šnúrami sa jasá. Ostrohy taktiež. Akože   by taký oficier dáme neimponoval. A potom ten manýr! Podá vám ruku   civil, to je také hrubé, také neelegantné. Oficier sa hlboko nahne a   ešte aj nohou pokýva, aj usmeje sa, aj stačí pri tom všetkom svoju   bielu rukavičku stiahnuť. S civilom idete — musíte sa báť, že vám na   nohu stupí. Oficier vždy v dištancii a vždy tak hladko a nežne sa k   vám približuje. Ach, oficier je oficier. A tá myšlienka k tomu, že   nás on bráni od nepriateľov, je vystavený guliam, nebezpečenstvám,   ohňu! Akože ho nemilovať. Ako odoprieť, čo si on zažiada. Ach,   oficier! Civil je nič, ale oficier, oficier, oficier! Nie div teda,   že naše dámy s túhou očakávaly bál a tú túru, keď príde niektorý z   nich, ukloní sa a pojme do tanca.
+   </tei:p>
+   <tei:p>
+    Prišiel deň bálu. Celkom inakší deň ako ostatné dni. V deň bálu   zobudíš sa za včaššie, ideš včaššie do úradu. V úrade ti je fádne,   pero sa ti nechce chytiť do ruky. Veď je dnes bál. O jedenástej ideš   na pivo, veď je dnes bál. Prečo by si nezašiel? Po obede len čo   nakukneš do kancelárie. Treba sa obliekať — veď je bál. Akože si   ukrátiť čas? Prejdeš do kaviarne a zahráš preferans. Treba by bolo   sedieť v úrade, ale veď je dnes bál.
+   </tei:p>
+   <tei:p>
+    Ale čo len deň! Večer bol ozaj už inakší ako ostatné večere. To   bolo vidieť i na starých pánoch. Už o siedmej sedeli v kasíne. Prečo   by nevyšli včaššie ako iný raz, veď je bál. Titul. I upiť si môžu   viacej, nik sa ich nespýta, koľko pili, veď je bál. I prehrať viacej,   i smelšími byť v kartách, i neskoršie odísť domov, veď je bál. Ak sa   ťa opýtajú doma, kde si bol? — povieš, že na bále. A, na bále, to je   iná vec. Prečo by si si tedy nezahral a neprišiel
+   </tei:p>
+   <tei:p>
+    165
+   </tei:p>
+   <tei:p>
+    ﻿neskoršie domov? Ach, bál, bál, potrasieš ty srdcami, potrasieš. I   staršie dámy sa rozohrejú pri tvojom tlaku. Budeme sa prizerať a náš   duch zalietne do minulosti a bude tancovať s naším Ondriškom, Paľkom,   Janíčkom. Prídu na um staré, krásne časy... Prečo som nešla za neho?   Láska bola ... Ach, keby sa tá mladosť vrátila, aby neutiekla tak,   ako utiekla ... Ale prečo? Veď sa bude moja dcérka zabávať. Driečne   dievča a dostane niečo. — Aká radosť i pre starých mládencov. A ak sa   pritrafí ešte stisnúť niektorú rúčku a rozveseliť sa v srdci. Možno,   hlesne nejaká nádej a možno, keby to dal Boh .. . nebudem musieť   slaninu držať za oknom v mastnom papieri a piškótové cesto sám si   robiť pre kanárikov. Dal by Boh! O mladých ani nehovoriť. Tam bude   moja Marienka, tam bude môj Janko. Dnes jej poviem, vo štvorylke,   myslí si on, že ju rád. Ach, dnes mi iste povie, že ma rád, myslí si   oná. Radosť, radosť! Kto by sa bálu netešil?
+   </tei:p>
+   <tei:p>
+    A predsa, predsa!
+   </tei:p>
+   <tei:p>
+    Už o ôsmej jagaly sa okná sály a bolo počuť hudbu. Sála   vyčečinovaná a lampiónmi dekorovaná, bola plná. Dámy sedely pri   stenách na červených remenných laviciach. Tak roztomilé oblečené, s   kytkami a ručičkami v lone. Každý by bol rád počul už hudbu pod nohy,   ale ešte nebolo možno. Dva plyšové fotele pre lady patronesu neboly   ešte okupované. Znak, že sa ešte nemôže tancovať. Pri vchode,   baldachýnom ozdobenom, bolo vidieť aranžérov v čiernych kabátikoch   alebo frakoch, v prostých čiernych topánkach, alebo v topánkach   lakovaných, s okrúhlymi malými klobúkmi, alebo s klakmi. Každý mal   červenú ružu v dierke ako aranžér, len hlavný aranžér mal bielu.   Dvaja z nich na tácničkách ponúkali tanečné poriadky s belasými   kystkami, dvaja odoberali karty. Ostatní vznášali tanečnice usmiati a   zdvorilí.
+   </tei:p>
+   <tei:p>
+    166
+   </tei:p>
+   <tei:p>
+    ﻿— Napravo, či naľavo, milostivá slečna?
+   </tei:p>
+   <tei:p>
+    — Len rovno.
+   </tei:p>
+   <tei:p>
+    — Teda rovno.
+   </tei:p>
+   <tei:p>
+    — A či oficieri prídu?
+   </tei:p>
+   <tei:p>
+    — Nemôžem slúžiť. Možno.
+   </tei:p>
+   <tei:p>
+    Slečna sa posadila. Obapolná poklona. Šlo sa po druhú   vchádzajúcu.
+   </tei:p>
+   <tei:p>
+    — Akože chcete, slečna. Naľavo, napravo, či rovno?
+   </tei:p>
+   <tei:p>
+    — Ako vám je najpríjemnejšie. — Rada bych neďaleko fotelov.
+   </tei:p>
+   <tei:p>
+    — Teda neďaleko fotelov.
+   </tei:p>
+   <tei:p>
+    — A čo, oficieri prídu?
+   </tei:p>
+   <tei:p>
+    — Iste.
+   </tei:p>
+   <tei:p>
+    Zasa vzájomná poklona a išlo sa po tretiu vchádzajúcu. Tie isté   slová. Tá istá otázka a odpoveď o oficieroch. A mladí ľudia   ponosovali sa, že každá len o oficieroch. Prídu, — nevieš? Radšej   keby neprišli. Ostatne, ja mám tance zabezpečené, a ty? Aj ja .. . Ty   tiež? Tiež. Tiež? No teda nech prídu, ale je to nepríjemné počúvať,   vždy oficier. Nie? No pravda. A najmä dámam sa nesvedčí opytovať sa.   Prídu. Dobre. Neprídu. Dobre. Neopytujem sa, ale čakám. No nie?   Pravdaže. Pomaranče. Nevedia, že s tým urážajú nás. Ja si síce z toho   nerobím nič ale potom nech nehovoria o dobrom tóne: — Mladi ľudia sú   negalantní! — Mladí ľudia si mnoho dovolia! — Mladí ľudia nevedia, čo   sa patrí! — Mladí ľudia nevedia, čo je dobrý tón! A potom takto. Co   ony vravia o dobrom tóne. No, nemám pravdu?
+   </tei:p>
+   <tei:p>
+    O 9. večer zjavila sa matka bálu. Manželka pána sudcova. Vlasy v   krásnej vysokej frizúre sčesané, zapudrované. V očiach ligotanie, na   tvári úsmev. Pekná pani. Elegantná svetlo-žltá hodvábna toaleta. Vôňa   fialkového parfumu a ružičiek, čo mala na prsiach a kytke. Cigáni   spustili marš a krv
+   </tei:p>
+   <tei:p>
+    167
+   </tei:p>
+   <tei:p>
+    ﻿vo všetkých ožila. Ako by bol prešiel elektrický prúd cez údy   každého. Sála rozhýbala sa, tanečnice dupkaly nožičkami a kývaly   hlávkami napravo, naľavo. Vidieť bolo chuť do tanca. Rad aranžérov   rozdvojil sa. Naklonili svoje hlavy. Niektorí hlbšie, niektorí   hlboko, niektorí nie hlboko. Niektorí pošeptali pozdravenie, niektorý   pozdravil hlasnejšie. Každý sa usiloval, aby bol voľný priechod pre   matku a jej sprievodcu, pána podsudcu.
+   </tei:p>
+   <tei:p>
+    Pán podsudca naklonil sa k sudcovej a šeptal čosi.
+   </tei:p>
+   <tei:p>
+    Pani sudcová sa zasmiala.
+   </tei:p>
+   <tei:p>
+    Zasa šepot.
+   </tei:p>
+   <tei:p>
+    Zasa smiech a pán podsudca s poklonou usadil sudcovú. Zahrali   čardáš. Pán podsudca sa zasa uklonil, pani sudcová vstala a ples bol   otvorený. Páriky sa vyhľadaly. V čardáši si tak blízko a tak dobre dá   sa hovoriť a pozerať do očú a zavzdychnúť. Pomocník Ježného už šúchal   nohami so svojou. Pozemná kniha so svojou, úradníci z banky so   svojimi. Kasír zo sporiteľne so svojou. I pán sudca so päť ráz otočil   sa a ďakoval, aby Olinka nesedela. Taký je už cit lásky; volá, volá,   privolá.
+   </tei:p>
+   <tei:p>
+    — Ach, slečna, Oľa, s vami, vidíte, ja najradšej, — prehovoril a   počal šúchať nohami.
+   </tei:p>
+   <tei:p>
+    — Tak sa vidí, je animo.
+   </tei:p>
+   <tei:p>
+    — O áno. A vy sa ako cítite? Dnes pri obedfe ste boli divní.
+   </tei:p>
+   <tei:p>
+    — Prečo divná?
+   </tei:p>
+   <tei:p>
+    — A ja viem?
+   </tei:p>
+   <tei:p>
+    — Ani som nebola. — Vy ... vy ...
+   </tei:p>
+   <tei:p>
+    — No čo?
+   </tei:p>
+   <tei:p>
+    — Viete čo ste?
+   </tei:p>
+   <tei:p>
+    — Co?
+   </tei:p>
+   <tei:p>
+    168
+   </tei:p>
+   <tei:p>
+    ﻿— Selmička, — a zvrtli sa so tri razy odrazu a potom nazpät tri   razy a zasa začali šúchať nohami.
+   </tei:p>
+   <tei:p>
+    — Vy ste šelma, — povedala Olinka.
+   </tei:p>
+   <tei:p>
+    — Vy ste.
+   </tei:p>
+   <tei:p>
+    Niekto za chrbtom zakričal s hudbou: „Ejejejej! Druhý sa mu   ozval a zakričal: ,,Ť! A všetko sa vrtelo a odrazu ako by na   povel, Cigáni začali akosi potichu . . . „Pssss ozval sa ktosi a   za ním druhí v takte: „ct, ct, ct Počul si len šúchanie nôh a   nôtu, peknú nôtu, čo rozprúdi krv, roznieti cit, že musíš cítiť, a čo   si nikdy necítil.
+   </tei:p>
+   <tei:p>
+    — Teraz vieme, kto je šelma — začal zas pán podsudca potichu.
+   </tei:p>
+   <tei:p>
+    — Nuž vy.
+   </tei:p>
+   <tei:p>
+    — Ba vy.
+   </tei:p>
+   <tei:p>
+    — Vy, a lala, oficieri — zvolala odrazu Olinka a zadívala sa ku   dverám.
+   </tei:p>
+   <tei:p>
+    — Oficieri, — zvolala suseda. — Oficieri, — zvolala tretia.
+   </tei:p>
+   <tei:p>
+    Nad tichým, citným čardášom zasipelo slovo oficieri. Súzvuk v   dušiach rozptýlil sa ako dym. Nové túžby skrsly v srdciach. Smútok   zavládol srdcami gavalierov. Dámy sa zaujímajú o iných, nie o   nich.
+   </tei:p>
+   <tei:p>
+    Naozaj do sály prišli ôsmi nejednoduchí so zlatými hviezdičkami a   pantalónmi. Bez šablí a ostrôh. Vidieť, chcú tancovať. Všetci   vyparádení, s vysokými čistými goliermi, manželkami a rukavičkami.   Pošli ku tancujúcim a tam sa rozostavili. Rozložili nohy a skrižovali   ruky na prsiach, ako Napoleon robieval. Z každého môže byť Napoleon.   Prečo by oni nekrižovali ruky, ako Napoleon? Imponujúca póza. A ten   ich vábiaci smiech. — Budú s nami tancovať, budú s nami tancovať, —   dumaly dievčatá.
+   </tei:p>
+   <tei:p>
+    — Protivní, ako sa rozostavili, — mysleli mladí ľudia a znechutili   sa, znechutili. Čardáš ešte raz zavreskol, potom tíchol, až umlkol.   Tanečníci zaviedli taneč-
+   </tei:p>
+   <tei:p>
+    169
+   </tei:p>
+   <tei:p>
+    ﻿nice na miesta. Vytiahli svoje ručníčky a utierali spotené hlavy.   Každý zašiel do susednej chyže občerstviť sa. Niektorí pohárikom   piva, niektorí dvoma pohárikmi a pokúriť si. Taký je už u nás   zvyk.
+   </tei:p>
+   <tei:p>
+    Medzitým oficieri okupovali najkrajšie grupy dám. Bolo šťastie s   nimi prechádzať sa po sále. Hla i tu sa hneď ukázalo, čo je oficier.   Teplo ti je a chceš sa ochladiť vejárom, už ti ho oficier berie z   ruky a sám chladí a tak mäkko, nežne. Spomenieš, že si smädná, už sa   oficier rozbehne. Sklepník prináša limonádu. Ach, keby tak niečo   sladkého bolo, zavzdychneš. Už máš mrazené. Takí ľudia. Prechádzaš sa   s nimi. Im je studno bokom ísť popri tebe. Obrátia sa ti tvárou a   chrbtom idú, a tak šikovne! Keď nie inde, ale na bále naozaj si ich   musíš zamilovať. Im odoprieť niečo bolo by hriechom.
+   </tei:p>
+   <tei:p>
+    Zahrali vals. Po valsi nastalo ešte väčšie obajanie. Ako tí   tancujú! Páperom sa cítiš. Nebežíš, letíš. Ach!
+   </tei:p>
+   <tei:p>
+    — Prosím, zadávať sa na štvorylku! — zakričal po valsi hlavný   aranžér, pán podsudca. Cigáni dva razy zahrali vstup. Bolo treba   kričať.
+   </tei:p>
+   <tei:p>
+    — No a ty čo netancuješ? — spýtal sa hneď pomocníka Ježného.
+   </tei:p>
+   <tei:p>
+    — Ale, — vrkol a šiel ku dverám.
+   </tei:p>
+   <tei:p>
+    — Zadávať sa, zadávať — pošepol pozemnej knihe, potľapkajúc ju po   pleci. — Čert ma po všetkom.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    — Ale
+   </tei:p>
+   <tei:p>
+    — Co sa ti stalo?
+   </tei:p>
+   <tei:p>
+    No nečakajúc na odpoveď, pobral sa za jedným úradníkom z   banky.
+   </tei:p>
+   <tei:p>
+    — Cížik! — zavolal.
+   </tei:p>
+   <tei:p>
+    — Co je?
+   </tei:p>
+   <tei:p>
+    — Tancovať!
+   </tei:p>
+   <tei:p>
+    170
+   </tei:p>
+   <tei:p>
+    ﻿— Tancujte si, — a pošiel preč.
+   </tei:p>
+   <tei:p>
+    Pán podsudca sa zadivil, ale poznove zatlapkal rukami a   zakričal:
+   </tei:p>
+   <tei:p>
+    — Prosím zadávať sa na štvorylkul
+   </tei:p>
+   <tei:p>
+    Niekoľko nepatrných párov sa sosbieralo. Inteligencia sedela. Pri   každej inteligentnej ružičke oficier. Pán podsudca sa rozhľadel. Hľa,   i pri jeho Olinke, — a rozbehol sa k nej:
+   </tei:p>
+   <tei:p>
+    — Prosím teda, slečna.
+   </tei:p>
+   <tei:p>
+    — Odpusťte, pane, ale tento tanec budem s pánom lajtnantom. — Ale,   veď ste mne ... — Odpusťte, ale ...
+   </tei:p>
+   <tei:p>
+    Co to má znamenať? Košík? Opovrhnutie? — pomyslel si a mráz mu   prešiel po chrbte. Ako sa zachovať? Cigáni zahrali po štvrtý raz   vstup. Hlavný aranžér musí mať tanečnicu. Prešiel k slečne   Zuzanke.
+   </tei:p>
+   <tei:p>
+    —- Prosím, ak možno.
+   </tei:p>
+   <tei:p>
+    — Odpusťte, — zahovorila rýchlo, — ja som túto štvorylku sľúbila   pánu notárovi, ale ma tuto pán lajtnant požiadal, nuž už len s ním.   Srdce mu zhorklo. Prešiel k Marienke. — Odpusťte, ja som túto   štvorylku vlastne ..-
+   </tei:p>
+   <tei:p>
+    — Pánu Cížikovi?
+   </tei:p>
+   <tei:p>
+    — Ano, ale tuto pán oberlajtnant.
+   </tei:p>
+   <tei:p>
+    Poklona.
+   </tei:p>
+   <tei:p>
+    Prešiel k Zofke, prešiel k ostatným dámam. Tá istá odpoveď. Všade   pôvodne doktor, kasír, Cížik, pozemná kniha, ale ona chce túto   štvorylku s pánom lajtnantom, oberlajtnantom. Nuž dobre. Čert ma po   vás. Riaďte si ju sami. Idem za ostatnými, — V kaviarni ich   našiel.
+   </tei:p>
+   <tei:p>
+    — I ty si tu?
+   </tei:p>
+   <tei:p>
+    171
+   </tei:p>
+   <tei:p>
+    ﻿— Sláva! — zakričali mu.
+   </tei:p>
+   <tei:p>
+    Bolo ich osem. Všetci oklamaní v láske. Všetci rozhorčení nad   potupením. Všetci poučení o nestálosti žien. Ô žena, žena! Ty vzala   si nám raj pre jedno jablko. Život zhorkol, tvár sa zapotila a predsa   ťa milovali a milujú. — Ô, osem krásavíc nášho mesta! Zabudly ste na   cítiace srdcia, na lunné noci a tiché nočné hudby pod vašimi oknami.   Nazdaly ste sa, že ľúbite a pre niekoľko hviezd na krágliku zabudly   ste na tie ľúbozvučné tóny, ktoré udieraly do okien vašich,   osvetlených tichým, chladným svetlom mesiaca. Myslely ste si,   nezabudnete, a zabudly ste, zabudly. A predsa vás milujú tí ôsmi   gavalieri. I oni chcú zabudnúť a nemôžu. Treba im vína, vína, vína.   To osladí najhorkejšiu chvíľu, to vráti stratenú vôľu a raj.
+   </tei:p>
+   <tei:p>
+    Zapili si. Usilovali sa hovoriť, ale nešlo. Hudba znela zo   susednej izby. Eh, všetko uletí, ako ten tón, všetko, a my sa   trápime, že uletí. Bojíme sa, trasieme. Smutne im bolo a predsa sa   chceli smiať. Vína, vína. Na zdar! Prosit!
+   </tei:p>
+   <tei:p>
+    V dvorane boli už pri kolóne.
+   </tei:p>
+   <tei:p>
+    — Kolón, — zakričal jeden so štyrmi hviezdičkami. Tak sa zdá,   oberlajtnantami ich menujú.
+   </tei:p>
+   <tei:p>
+    Dva rady sa pochytaly za ruky.
+   </tei:p>
+   <tei:p>
+    — Dámy eté!
+   </tei:p>
+   <tei:p>
+    Zrazu bolo počuť trúbu. Pod samými oknami zavrieskala. Neúprosne,   strašne znela v harmónii cigánskej hudby. Nemilosrdne potriasol   tablice okien jej hlas a niesol sa sálou do každého ucha. Cigáni   prestali hrať. V sále utíchlo všetko, načúvajúc.
+   </tei:p>
+   <tei:p>
+    — Alarma! —• zavolal oficier-aranžér a načúval ešte chvíľu.
+   </tei:p>
+   <tei:p>
+    — Alarma! — opätoval a pustiac ruku svojej dáme, behom sa pustil z   dvorany.
+   </tei:p>
+   <tei:p>
+    172
+   </tei:p>
+   <tei:p>
+    ﻿— Alarma! Alarma! Ôsmi oficieri zmizli.
+   </tei:p>
+   <tei:p>
+    Osem tanečníc ostalo stáť. Cigáni opätovne zahrali. Hanba!
+   </tei:p>
+   <tei:p>
+    Osem krásavíc ostalo bez tanečníkov a bez sprievodu vrátily sa na   svoje miesta.
+   </tei:p>
+   <tei:p>
+    — Chaíne anglaise — prevzal komando pisár v civilnom súde.
+   </tei:p>
+   <tei:p>
+    — Tour des dames!
+   </tei:p>
+   <tei:p>
+    Osem tanečníc sadlo si na miesta. Osem tanečníc sedelo.
+   </tei:p>
+   <tei:p>
+    Do rána.
+   </tei:p>
+   <tei:p>
+    173
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

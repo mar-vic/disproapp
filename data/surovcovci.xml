@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194331" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Surovcovci : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     12026
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Surovcovci
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     SUROVCOVCI.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    I. Ďura Jánošíka obesili roku 1713 pri Váhu v Liptovskom Svätom   Mikuláši. Pánom sa uľavilo, poddanstvo vzdychalo — kto sa nás   zastane? Kto sa ujme ubitého ľudu? — nieslo sa z chalupy do chalupy.   Ale túžba vzoprieť sa letela vo vetroch ako semeno zrelej jedlice,   zabudla sa i tu i tam, míňaly sa roky a túžba prinášala svoje ovocie.   Vicišpán a jeho pandúri mali práce dosť, keď i chlapi, ktorí sa   dávali na zboj, mali i svoj tieň a tvrdú, neraz ukrutnú povahu.   Jánošík zmenil sa v legendu, ktorá neprestala dráždiť, jeho   nasledovníci boli z mäsa a krvi, z ľudského sebectva, z túžby po   ľahšom živote, keď i neboli bez srdca, a s tým, čo získali, vedeli sa   rozdeliť ...
+   </tei:p>
+   <tei:p>
+    — Bože môj, Otče môj, však je ten svet zmotaný, čo vystojí, čo   vystojí chudobný poddaný! — nieslo sa nielen po trenčianskych a   liptovských horách, prevalilo sa z Považia na Hron a o niekoľko rokov   rozhučalo sa pod Ďumbierom, v kraji komorného grófa, na okolí   slobodného kráľovského mestečka Brezna, na Handloch, Čiernom Balogu a   po všetkých osadách tejto veľkej obce. Na Dobroči, Kráme, u Komov, u   Fajtov ožily večery. Chlapi pri kozúbku, ženy a dievky pod kúdeľami   nasnášali toho.
+   </tei:p>
+   <tei:p>
+    Mnoho sa o tom vedelo v krčme u Komov, kde svedčná krčmárka Ul’ana   ovdovela a o krátky čas mala dobré spojenie na všetky strany. Tam už   v tridsiatych rokoch vedeli, že sa Martin, Pol jak, rodák handelský,   stretol na Cinobani so svojím kamarátom Jakubom Surovcom z   Trenčianskeho Rovného a zverboval ho na voľný život.
+   </tei:p>
+   <tei:p>
+    — Co sa budeš trápiť a chodiť so salaša na salaš? Takto k ničomu   neprídeš, — kreslil mu život peknými farbami. — Pôjdeme radšej z   krčmy do krčmy, kde jest, tam si vezmeme, kto nemá, tomu dáme a   budeme mať priateľov. Si pekný chlap a na Dobroči máš dievča ako   lusk, Anču Kováčikovie, sestru Veľkého Maca. Pre koho zakvitne, ked   sa ty budeš túlať po svete? Pod, v chalupe na kopci za Dobročou   urobíme si hniezdo, nájdeme pomocníkov, a bude sa nám žiť, len   radosť.
+   </tei:p>
+   <tei:p>
+    Jakub váhal, ale napokon pristal. Hned potom vrátili sa na Dobroč,   obsadili osamelú chalupu, pokrytú slamenou strechou, a rodina začala   sa rozrastať. Hneď v prvé dni zbadal Jakub, že je takto žiť lepšie,   ľudia sa prišli podívať a sniesli na stôl čierneho chleba, mlieka i   mäsa. Večer u krčmárky Uľany bolo veselo, mladej žene iskrily čierne   oči a sukňa sa jej vyzývavo roznášala. Vedela, že Martin bez peňazí   neprišiel. Nalievala kyslé víno do džbánkov. Tu i tu fľochla na   Jakuba, ktorý sa ešte akosi červenal. — Že ste už len trafili k nám!   — vypla sa ani struna, vedomá svojej ženskej čarovnosti a mladosti. —   My tu vädneme, a vy ktovie aké ženy a dievky oblažujete vo svete.   Veru, Jakub, čas bol, ani ty nebudeš večne mladý, ako si dnes.
+   </tei:p>
+   <tei:p>
+    — Nezaliečaj sa mu, Uľa! — hrkol Martin
+   </tei:p>
+   <tei:p>
+    džbánkom na dubový stôl, — veď ty máš tiež svojho, veď za tebou   škúli pán Sebastián, a ten ti vyhovie i opatrí ťa. Jakub si inde   srdce zabudol.
+   </tei:p>
+   <tei:p>
+    — Co len to, kde si zabudol,.— ohnala sa vdova so smiechom, — ale   kto ho našiel...!
+   </tei:p>
+   <tei:p>
+    — No, Anča Kováčikovie neuhne ti v ničom, — natiahol dlhú tvár a   pozrel šelmovsky, čo oni obaja na to. — Žien je dosť, a jedna krajšia   ako druhá, pravda, Jakub?! — udrel ho priateľsky po pleci. — Všetkého   sme mali a budeme mať, dobrým chlapcom ženy dožičia radosti. — Ktorá   komu, — zvrtla sa krčmárka a odišla.
+   </tei:p>
+   <tei:p>
+    — Vidíš, nehovor jej tak! — začal mu hneď Jakub vyčítať. — Ona to   nemá rada. Ani jedna žena nemá rada, keď niekto inú chváli, a s   Veľkým Macom nie je ani veľmi zadobre. Keď sa opil a pobil jej riad i   obloky, vyhrážala sa mu, že prechováva zbojníkov. Keď má jeho v   žalúdku, bude mať i jeho sestru a vypomstí sa ľahko. Povie drábom a   tí chytia i teba. — No veď, no, Jakub, — smraštil Martin nízke čelo.   — Ešte vidieť, že si nie pravý zbojník. Mňa chytiť, to nebude tak   ľahko, a dúfam, ani teba, hoci by sám komorný gróf a celá stolica   vyslali svojich hajdúchov. Radšej si vypime, čo nás tam po ženách,   ženy i tak neboly pre vážnych ľudí nikdy na osoh. I sám Jánošík, keby   nebol mal tej Anče, nebol by prišiel ani na starú babu, ktorá mu   podsypala hrachu pod krpce, a nebol by odvisol na háku za rebro.   Chlap len s chlapom, vieš, a my si kamarátov nájdeme hockoľko. So   ženou sa môžeme pobaviť, ale ďalej nič, — zabudli kamaráti na   škriepku a hovorili o vážnejších veciach.
+   </tei:p>
+   <tei:p>
+    Sedliaci zvedavo fľochli na nich. Vedeli, vrátili sa zo šíreho   sveta a skúsili všeličo, ako sa kde inde žije, ako sa robotí, akí sú   kde páni a ich drábi, aké krčmy a aké salaše. Hovor rástol. Uľa   vyčervenená nosila džbánok za džbánkom, chlapi na laviciach   primkýnali sa bližšie, až sa zmenili na jediné ucho. Vtedy sa už   hovorilo tichšie, iste o vážnych veciach, aké zaujímajú všetkých.   Hlavy sa daly dovedna a vrava sa stala skoro šepotom. V tajomnom   kruhu našli všetci svoje miesto, ved boli jedna krv a jedno utrpenie.   Tam boli i niektorí domáci, ale aj prespoľní. Bratia, Ondro a Jano   Oravec mali chalupu neďaleko, podopretú kolom, aby sa nezrútila.   Ostatní boli valasi Paľko Gajdoš z klenovského, Miško Žilka z   tisovského, Maco a Ďuro z valaštianskeho salaša. Všetci boli červení   a zdraví ako chlapi, chovaní na syre a žinčici. Gazdovstvá nemali,   ale neboli by sa čarali s hocikým. Vedeli si žiť, a to veselo. Nejaká   tá ovca vedela vždy okrivieť a našiel sa i nejaký groš na holbu vína   alebo pálenky. — Hej, kamaráti, mali by sme sa niekde sísť a poradiť,   — navrhol im Martin, hladiac im do očí, čo oni na to. — Tu sme doma,   na Dobroči nás nikto nevyzradí, vyjdeme po jednom a stretneme sa v   chalupe na kopci, tade večer nechodí nik, a keby aj, prišli sme zo   sveta a chceli sme sa vidieť, mohli by sme i vína vziať a pálenky do   krčaha, veď sa nevyleje. Hej, krčmárka, — zavolal na Uľu a cinkol   dukátom na dubový stôl, — dáš nám?
+   </tei:p>
+   <tei:p>
+    —Ale dám, Martin, — uškrnie sa krčmárka a zvŕta sa medzi chlapmi.   — Čo by len nedala. O chvíľu tratili sa chlapi z krčmy ticho jeden za   druhým. Zahli stavaním pomedzi stodoly na kopec. Maco a Ďuro z   Valaskej niesli lagvice
+   </tei:p>
+   <tei:p>
+    vína a pálenky. Keď sa sotmelo, boli už všetci pod slamenou   strechou. Vítala ich Dóra, Martinova stará gazdiná. Vzala lagvice,   složila do komory, založila na ohnisku a začala hneď variť pálenku.   Zatiaľ sa pilo víno. Martin vynášal krčah za krčahom, chlapi si   zdravkali a nálada začala rásť.
+   </tei:p>
+   <tei:p>
+    — Tak, kamaráti, — prehovoril Poljak, keď sa už nálada stupňovala,   — vieme, na čo sme sa chytili, netreba nám hovoriť. Nebudeme večne   len žinčicu strebať a ovčím lojom mazať si hubu. Sme chlapi a   opatríme si, čo nám treba. Najprv vyvoľme si vodcu, ktorého by sme   všetci poslúchali. Ja navrhujem Jakuba Surovca, on je smelý, mocný   ako buk. Videl už sveta, ako i ja, teda nech žije!
+   </tei:p>
+   <tei:p>
+    — Nech žije! — hrkly tupo džbánky, tmavé oči sa zablýskaly a   sústredily všetky na počernej, odmeranej Jakubovej tvári.
+   </tei:p>
+   <tei:p>
+    — Dobre, kamaráti, — vypäl sa vyvolený a vykročil zpod pece k   širokému stolu, rozkročenému pod oblokom ako dlaň. Tu sa obzrel vážne   po všetkých prítomných, kľakol na kolená a zdvihol prsty dohora.   Všetci stáli, ani jedle na Vepri, míkvo a vážne.
+   </tei:p>
+   <tei:p>
+    — Prisahám večnému Bohu, svätej Trojici a všetkým božím svätým, —   niesol sa tvrdo jeho hlas a vŕtal do duše, — že nikdy svojich   tovarišov nezjavím, neoklamem, nezanechám v šťastí a v nešťastí. Tak   mi Pán Boh pomáhaj!
+   </tei:p>
+   <tei:p>
+    Keď jeho slová zamlkly, chlapi cítili, čosi sa stalo. Zastali si   všetci pred vodcom plece pri pleci, hlava vedľa hlavy, a stopiac sa v   jeden zrak, hovorili za ním:
+   </tei:p>
+   <tei:p>
+    — Prisaháme večnému Bohu, svätej Trojici a
+   </tei:p>
+   <tei:p>
+    všetkým božím svätým, že nikdy svojich kamarátov nezradíme,   neoklameme, nezanecháme v šťastí a v nešťastí...
+   </tei:p>
+   <tei:p>
+    — Amen, — doložili, objali sa a podali si ruky. To bol prvý   zbojnícky slub, viažuci srdcia i duše ako železná obruč drevené   dúhy.
+   </tei:p>
+   <tei:p>
+    — A teraz, kamaráti, postavme si najprv stráž, — znel Jakubov hlas   veliteľský. — Tu sme istí, všetko je tu naše až po krčmu, ale čert   nespí! Najprv sa zabezpečme, potom si povieme, čo budeme robiť, potom   sl vypijeme i zaspievame.
+   </tei:p>
+   <tei:p>
+    Súhlasili a večer mal už svoj program. Dvaja šli na dvor a pozreli   i na záhumnie. Ale nevideli ani duše, nuž nechali tam valaského   psiska Dunaja a starú Doni. Ked prišli medzi chlapov, chlapi sa   radili, do čoho sa chytiť.
+   </tei:p>
+   <tei:p>
+    — Nuž, viete, — radil bystrý Poljak, mrkajúc úzkymi očami, —   rodinu už máme, treba sa o ňu postarať. Najprv čo by sme ešte   pribrali niekoho, a tu radím zájsť na černovršský salaš, tam je dobrý   chlap Tomáš Greguš. Ked mu povieme, nechá ovce tak a pôjde s   nami.
+   </tei:p>
+   <tei:p>
+    — Len či pôjde? — pochybujú chlapi. — Greguš má ženu i dieťa, a   takému sa je ťažko odtrhnúť.
+   </tei:p>
+   <tei:p>
+    — Ved ho my primusíme, — zdvihol významne hlavu Jakub, ktorý už   cítil, ako ho vodcovský duch opanúva. — I Tomášovi dodáme chuti. Keby   nami pohrdol, chýbal by nám, mohol by nám byť i nebezpečným, všetky   doterajšie tajné spády sú mu známe ako i nám.
+   </tei:p>
+   <tei:p>
+    Chlapi prikývli a dohovorili sa.
+   </tei:p>
+   <tei:p>
+    — A potom, nemôžeme len tu doma ostať, — ujal sa slova Martin   Poljak, ktorý mal vždy najväčšie plány. — Co tu na Dobroči, v Brezne   alebo Polhore? Na valaštianskom alebo mýtňanskom salaši zdrapnúť   jednu-dve ovce, čo viac? Ja odporúčam ísť do Liptova, do Oravy, až do   Poľskej za Tatry, tam sa už niečo ulizne.
+   </tei:p>
+   <tei:p>
+    — Povediem vás, kamaráti, — rozhodne Jakub. — Musíme si opatriť   plátna na košele. I na sukne pre naše ženy a frajerky, a za vrchmi   tam toho jest. Ked už máme robiť, nesmieme len za to žrádlo. Mikulášu   vyhneme, keď tam ten Jánošíkov hák i dnes straší, ale pôjdeme   navštíviť oravských pánov, do Tvrdošína, do Trstenej a Slanice. Potom   zas poľských magnátov do Nového Targu a ešte ďalej.
+   </tei:p>
+   <tei:p>
+    — Výborne! — prikyvovaly počerné tváre; zdvihli džbánky, plné   varenej pálenky s medom, a prevracali ich dúškom hore dnom.
+   </tei:p>
+   <tei:p>
+    — Veď nám len bude, nebude nám nijaký pandúr rozkazovať, na   komorské nechodíme. Co je pod oblohou, je naše, a my sme svoji. Tak   veru!
+   </tei:p>
+   <tei:p>
+    Zdravkali si a popíjali dlho v zapustnutej chalupe.
+   </tei:p>
+   <tei:p>
+    Ale po jednom sa vytratili, prvý sa chytil drevenej kľučky Jakub   Surovec. — Kam sa ponáhľaš, Jakub? — chytil ho za rukáv Martin. —   Ostaň ešte.
+   </tei:p>
+   <tei:p>
+    — Veď vieš. Idem k Macovým. Ešte som nebol, ako som sa vrátil.
+   </tei:p>
+   <tei:p>
+    — Viem, viem, — usmial sa Martin na chlapiska. — Pekná dievka len   každého z nás pohne, ale nebuď dlho!
+   </tei:p>
+   <tei:p>
+    — Nie!
+   </tei:p>
+   <tei:p>
+    — Asi len do rána, — uškrnul sa Poljak za priateľom. — Poznám ho   dobre, a ani Anča nepustí sa ľahko takého chlapiska!
+   </tei:p>
+   <tei:p>
+    II. Martin sa nemýlil. Kubo, keď sa spustil s vŕšku, našiel u   Veľkého Maca celú famíliu. Za stolom sedel starý, ale prefíkaný   gazda, okolo neho niekoľko Dobročanov, na ohromnej peci vyvaľoval sa   syn Jano, ktorý sa už priučil všeličomu. Ženy, a tak s nimi i Anča,   tmolily sa v pitvore a sťahovaly akúsi divinu.
+   </tei:p>
+   <tei:p>
+    — Daj Boh šťastia! — pozdravil prišlý a zamieril rovno za gazdom.   — Ako sa máte, sváko? — potriasol mu rukou.
+   </tei:p>
+   <tei:p>
+    — Nuž, len tak, Kubo, len tak, — uškrnul sa starý omrzene. —   Prišiel si, prišiel z tej Cinobane, a čo si tu počneš? Srsti nemáš,   ani len sekery, leda žinčicu budeš po salašoch strebať.
+   </tei:p>
+   <tei:p>
+    — Dobrý chlap si vždy nájde, čo mu treba, i bez salašov.
+   </tei:p>
+   <tei:p>
+    — Ako by nie! — prikývol strapatou hlavou Maco Veľký. — Aký by len   bol chlap, keby si nenašiel? A teba Martin Poljak už vraj i   zverboval?
+   </tei:p>
+   <tei:p>
+    — Čo by len on, — prisadol si Kubo k stolu. —- Keď sa už   zverbovať, zverboval by sa sám.
+   </tei:p>
+   <tei:p>
+    — Len si daj pozor, Kubo, ■— pozrie na neho i na ostatných gazda   otcovsky. — U mňa, vieš, vždy ste doma, ale vicišpán vo Zvolene   nespí, ani komorný gróf v Banskej Bystrici. Nech ti zuby v loji   nezaviaznu. Lebo ak, namerajú ti na zadok palíc, že ho budeš mať ako   červené súkno, rozstrihané tupými nožnicami.
+   </tei:p>
+   <tei:p>
+    — Veď ja to len tak, — mrdol Kubo plecom, ako by ho už nudil celý   rozhovor. — A kde je Anča?
+   </tei:p>
+   <tei:p>
+    — Kdesi von, okolo ohniska, Janovi som ulial
+   </tei:p>
+   <tei:p>
+    guliek. Sniesol roháčika. Stará s Ančou sa piple s ním, bude dobrá   večera, ostaň, oblizneš i ty, — Vy ste uliali Janovi guľky? —   vzrastal hneď Kubov záujem. — Čoby len nie, — múdril sa starý. — Nie   je to ťažké, človek si opatrí v Brezne kus olova. Doma ho na paňvici   rozleje, potom naleje do drevenej formy, a máš guliek, koľko chceš. —   A mne by ste uliali? Potreboval by som tiež nejakú srsť hľadať. —   Ulial, ulial! — uškrnul sa gazda a prešiel si tvrdou dlaňou po dlhých   mastných vlasoch. — Prečo by neulial? Olovo je na to, ulejem ti ich,   koľko len chceš. — Dobre, sváko. Prídem, keď budem potrebovať. Pri   rozhovore čas sa míňal. Kubo vyšiel do pitvora, podal Anči ruku i   buchol ju do chrbta. Zakolísala sa ako svrčina, keď sa oprie vietor   do nej. Oči jej zažiarily ako pahreba na ohnisku. Ale pozrela na   starú Kováčikovú, ktorá miešala mäso veľkou lyžicou v ohromnom   čiernom hrnci, a odsotila ho od seba. — Jaj, Kubo, nezavadzaj, máme   robotu, — zajedla sa do neho očami. — Chystáme večeru chlapom i tebe,   však si zaješ i ty? — snížila hlas. — Potom ... Všetko šlo svojím   poriadkom, lebo v kráľovstve Veľkého Maca poriadok bol pánom. S   ohniska priniesli veľkú misu, plnú mäsa, bral si každý prstami a do   dlane. S chuťou sa pustili do Janovej koristi. I on sa sviezql s pece   a ohrýzal mäso s koštiaľov. I Kubo tak, a bolo dobre, lebo takej   pečienky veru dávno nejedol. Z Anče bude dobrá žena a výborná   kuchárka, len musí mať niekoho, kto jej prinesie do komory.
+   </tei:p>
+   <tei:p>
+    Keď sa najedli, zapili si nie vínom, to je pre pánov, ale   pálenkou, lebo to je dobrý nápoj, najmä ked sa nasype do neho korenia   a papriky.
+   </tei:p>
+   <tei:p>
+    Z hojnej večere dostal sa dobrý koštiaľ i ostatným chlapom, ktorí   po jednom prichádzali. Poslali hneď i s pintou do Komov a Ula   opatrila ako vždy. Pod strechou Maca Veľkého všetko šlo, ale Maco to   nerobil zadarmo. On tovarišov nasýtil i prenocoval na šope, a hoci v   dymníku na pôjde, ked bolo treba, ale najprv o seba mal starosť.
+   </tei:p>
+   <tei:p>
+    Po mastnej večeri chlapi sa naliali, ako Pán Boh prikázal, a   rozišli sa po kútoch.
+   </tei:p>
+   <tei:p>
+    Kubo skočil do komôrky za Ančou. Vyčkávala ho už na posteli.
+   </tei:p>
+   <tei:p>
+    — Si tu, Anča? — šmátral pozorne mocnými rukami okolo seba.
+   </tei:p>
+   <tei:p>
+    — Tu! — snížila hlas šepmo. — Kdeže by bola.
+   </tei:p>
+   <tei:p>
+    — A prenocuješ ma? — prikrádal sa k dievke a poznával jej údy.
+   </tei:p>
+   <tei:p>
+    — Len ťa nepošlem k inej.
+   </tei:p>
+   <tei:p>
+    — Ani by nešiel. Anča, vieš, tak som túžil po tebe.
+   </tei:p>
+   <tei:p>
+    — Hej, a šiel si najprv do Komov za krčmárkou, — predhodila mu   vyčítavé. — Ula je ako žeravé železo, pasie po tebe.
+   </tei:p>
+   <tei:p>
+    — Ako chce, — strhol Kubo k sebe dievku a povil do svojho mocného   náručia. — Ja len teba chcem, ona Uľa pasie po všetkých, láska sa i s   Martinom, fľochuje za Macom, Ďurom z Valaskej. Je už taká, jej treba   chlap! Nájde si ho, či chce, či nechce. Ale ty, Anka, si len moja,   nechodíš za chlapmi do sena na šop.
+   </tei:p>
+   <tei:p>
+    — Nie, — ovisla mu hlavou na širokých prsiach. — Mám ťa rada.
+   </tei:p>
+   <tei:p>
+    — I ja teba, Anča, inak nebol by sa dal Martinovi zverbovať, chcel   som prísť na Dobroč a vidieť ťa.
+   </tei:p>
+   <tei:p>
+    — A nebojíš sa, Kubko? — horela ako rozpálený smoliak pri   smoliaku.
+   </tei:p>
+   <tei:p>
+    — Koho, Anka?
+   </tei:p>
+   <tei:p>
+    — Nuž drábov.
+   </tei:p>
+   <tei:p>
+    — Drábi nech sa mňa boja!
+   </tei:p>
+   <tei:p>
+    — Ale čo ťa čaká v takom živote a čo mňa s tebou? — pritúlila sa k   nemu ako decko. — Ja vidím u Macov, aký je to život. Chlapi prídu a   idú, ak čo prinesú, rozdajú za opateru alebo prepijú. Napokon zostane   im len holá dlaň. — No, vieš, Anča, ja budem mať starosť na seba, a   tým i na teba, veď okrem matere v Rovnom nemám nikoho. Co ti   prinesiem, odložíš. Keď bude všetkého dosť, odídeme v iný kraj. dáme   sa pekne v kostole sosobášiť a budeme sj poriadne žiť ako tí najlepší   smrtelníci.
+   </tei:p>
+   <tei:p>
+    Anku tieto slová uspokojily. Nad ránom, keď kohút zakikiríkal,   vyprevadila svojho Jakuba až po bránku, ktorú potom pevne zavrela.   Surovec šiel na kopec, kde v chalupe našiel Martina ešte poriadne   chrápať. Odopäl opasok a ľahol si na lavicu i on. O chvíľu tiež   chrápal, nemal prečo nespať, veď nepôjde na komorské.
+   </tei:p>
+   <tei:p>
+    Celý deň ostali doma. Len podvečer nazreli niekoľkí priatelia,   vycedili ešte, čo ostalo v lagvici, a pustili sa i s vodcom na   čemovršský salaš mešťana Luciusa.
+   </tei:p>
+   <tei:p>
+    Pred kolibou privítaly ich veľké psiská zúrivým štekotom. V kolibe   horely smoliaky a vrhaly ostrú žiaru do večerného šera.
+   </tei:p>
+   <tei:p>
+    — Daj Boh šťastia! — pozdravil Jakub Tomáša i jeho valachov.
+   </tei:p>
+   <tei:p>
+    — Bože daj! — pozrel Tomáš na prichádzajúcich zdržanlivo. — Co nám   nesiete, priatelia?
+   </tei:p>
+   <tei:p>
+    Nakrájal hneď syra na lopár a načrel do črpákov žinčice.
+   </tei:p>
+   <tei:p>
+    — Nuž my prichodíme len tak, — pokračoval ďalej Jakub, keď si   posadali na pažiť pred kolibu. — Hádam i tušíš. Radi by sme ťa mať   medzi sebou, veď si chlap ako my, nenaľakáš sa drába, ani pištole. A   čo takto vyslúžiš u Luciusa ? Nažerieš sa syra a nastrebeš žinčice.   Tu i tu ak ti prídeme zabiť nejakú ovcu i pre seba. Daj sa s nami na   voľný život, budeš mať všetkého, čo sa ti len zažiada.
+   </tei:p>
+   <tei:p>
+    — Nemám vôle, — spustil Tomáš hlavu medzi väzy. — Mám ženu Evu i   decko, takému je ťažko sa dať na taký život.
+   </tei:p>
+   <tei:p>
+    — Čoby len bolo! — prevrávali ho radom. — Azda sme my bez žien?   Kto nemá ženu, má frajerku. I náš vodca Jakub má Anču. Nedal by ju za   všetky svety, a hľa, vedie nás. A ty, Tomáš, nestal by si medzi   nás?
+   </tei:p>
+   <tei:p>
+    — Co by som mal stať? — rozkročil sa Tomáš pevne. — Človek, keď sa   nehrá s ohňom, nepopáli sa.
+   </tei:p>
+   <tei:p>
+    — Ale ostane večným žobrákom. A takto ženu i dieťa si opatríš.
+   </tei:p>
+   <tei:p>
+    —-Ale prečo niesť kožu na trh? — odťahoval sa Greguš. —   Najpotrebnejšie si nájde človek i bez toho. Povedzte mi, čo strojíte   veľkého vykonať!? Nech vidím, či je to hodno, alebo nie. — Povieme ti   i to, keď chceš, — stal si za všetkých vodca. — Dva roky predtým, ako   som sa ja úliahol v Trenčianskom Rovnom, nastokli páni na krivý hák   Jánošíka z Terchovej. Ešte sj i šibenicu obháj duchoval, kým   nevydýchol svoju dušu do hôr. Poddaní vzdychali za svojím ochrancom,   ale nepohlo sa lístka, zakríknuté váľaly sa v dolinách dediny i   mestečká. Musel niekto prfeť,
+   </tei:p>
+   <tei:p>
+    kto sa ozve, kto sa pomstí za Jánošíka! A to sme my, ako nás tu   vidíš. A teba voláme zastať si medzi nás, inak vieš, čo ťa čaká. Ak   ti je tma v očiach, zasvietime ti. Chceš byť náš, alebo nie ?!
+   </tei:p>
+   <tei:p>
+    — No, poručeno Bohu, — zmäkol Greguš na tieto slová. — Mali by ste   mi ublížiť, radšej pôjdem s vami.
+   </tei:p>
+   <tei:p>
+    — To je j najmúdrejšie, — prikyvovali drsní chlapi. — Co by si sa   mal skrývať, keď môžeš rozkazovať. — A spustili hneď veselo:
+   </tei:p>
+   <tei:p>
+    Bou by Jánošík bojuvav, keby si bou merkuvav! Keby si bou svoj   opaštek na stole nenehaví!
+   </tei:p>
+   <tei:p>
+    — No, vidíš, nám sa to nestane, — volali chlapi so všetkých strán.   — Dáme si lepší pozor na mladé i na staré baby a ohlásime pánom:   Jánošík neumrel na krivom háku, o dva roky ožil, teraz je tu taký,   aký bol. Volá sa Kubo Surovec, a za ním ideme my, jeho kamaráti.
+   </tei:p>
+   <tei:p>
+    — Hej, hore háj, dolu háj, hore hájom chodník! — zahučalo zpod   Vepra do Ďumbiera, až do bralnatých Tatier. Ozvalo sa v ten večer nie   z ľudí, opásaných blancierovými opaskami, ale zo zeme, čiernej   slovenskej zeme. Rozhučalo sa ponad breznianske múry, letelo nad   Hron, prevalilo sa na Považie a nieslo sa, ako odbojný a pomstivý   duch bitých a dlávených, doďaleka.
+   </tei:p>
+   <tei:p>
+    Po všetkom tom Greguš odprisahal vernosť a oddanosť kamarátom, že   ich nikdy neopustí a nezradí a neoklame v šťastí ani v nešťastí.   Chlapi výskali od radosti a vyhadzovali valašky okolo pahreby.   Kudlatí Dunčovia štekali, ako by boli jedno s veselou rodinou. Ovce   sa dívaly z košiara zvedavo a kdesi nablízku zahúkala sova.
+   </tei:p>
+   <tei:p>
+    Chlapi sa nerozišli naprázdno. Greguš postúpil jalovku z košiara   Luciusa. Jakub ju vybral a nastala nová hostina. Mäsa bolo, i pálenky   sa hneď našlo. Naspievali sa pritom do vôle. Greguš spravil i   pesničku o Surovcovej materi, ako to bude, keď príde veľký koniec. Aj   si ju zaspievali od srdca;
+   </tei:p>
+   <tei:p>
+    Surovcova mati syna oplakáva, že mu popod nôžky vetríček povieva.   Surovcova mati syna oplakáva, že ho na koliesku vetríček   previeval!
+   </tei:p>
+   <tei:p>
+    Rozlieha sa pieseň z mocných chlapských hrdiel, vzlietla až pod   tmavý oblak, ktorý sa rozprestieral pod zvážneným Ďumbierom ako veľké   tušenie.
+   </tei:p>
+   <tei:p>
+    Nad ránom pustili sa chlapi hore Vagnárom popri Mýte na   valaštiansky salaš v Bystrianskej doline. Tu pobudli tri dni a   zarezali ovcu. Pre toľkých chlapov bolo im treba, bolo ich už práve   deväť a priberali ešte nových. m. Z Bystrej šli chlapi na   východniansky salaš do Liptova. Tu pribrali nových dvoch kamarátov,   Ondra Ponického a Ďura Lukáša, ktorí už z tohto majstrovstva i vedeli   niečo. Tí ich upozornili, že sa zvesť o nich už nesie po dolinách a   pandúri chystajú sa už na nich i v Mikuláši. — Hja, Jánošíkov krivý   hák! — blyslo hned Surovcovi v hlave. — Nie, kamaráti, nepôjdeme na   Pongrácov, vrátime sa do Valaskej, tam bude tiež čo robiť. I vrátili   sa do Bystrej na salaš. Neďaleko pod ohromnou borovicou sadli na   radu. Surovec cítil.
+   </tei:p>
+   <tei:p>
+    že ich pribúda, a to znamená, musí sa robiť niečo vážneho. Žiť len   tak na žinčici a žviakať baraninu zdalo sa všetkým primálo. I súkna   im treba a plátna i peňazí. Po dedinách nesohnať ani na olovo a   prach. Bez toho nedá sa ani na krok.
+   </tei:p>
+   <tei:p>
+    — Koľko máme zbrane, kamaráti? — zadíval sa na drsné tváre,   zvedavé i tak, čo bude.
+   </tei:p>
+   <tei:p>
+    — Niekoľko hrstí gúľ, — referoval Martin Pol j ak, ktorý ináč mal   o všetko starosť, — so dva polháky, ktoré sme vzali pod Kriváňom, kam   ich priniesli z Poľskej, päť pištolí, a dosť. Ináč máme v rukách len   valašky.
+   </tei:p>
+   <tei:p>
+    — No, to je málo! — zgánil Surovec. — Tak by nás mikulášski   pandúri rozprášili ako práchno, musíme si najprv opatriť muníciu.
+   </tei:p>
+   <tei:p>
+    — To znamená, musíme si požičať od niekoho na večný interes, —   ozval sa zamlknutý Greguš. — Alebo kúpiť za čiesi peniaze.
+   </tei:p>
+   <tei:p>
+    — Co len to! — mrkli pochmúrni chlapi na seba. — V Brezne a v   Bystrici jest takého tovaru dosť.
+   </tei:p>
+   <tei:p>
+    — Len peniaze kde nájsť? — To ste mi zbojníci! — zamiešal sa   vodca.
+   </tei:p>
+   <tei:p>
+    — Takéto rozpaky! Pozrite, chlapci, ja vám čosi ukážem! — a   vytiahol z tanistry dlhú pušku, pevnú, s dvoma rúrami. — To ste ešte   nevideli, čo?
+   </tei:p>
+   <tei:p>
+    — Ej, ej, dva kohútiky, dve rúry, — kývali udivení chlapi hlavami.   — To vari i dva razy vystrelí! A kto to ozaj spravil? Musela to byť   však hlava, — pochvaľovali, vytušiac hneď, že týmto kapitálnym   majstrom je sám Surovec. — Vidíte, musíte sa poriadne vyzbrojiť   všetci, — rozhovoril sa Surovec veliteľský, — tak sa nás budú báť,   naše slovo nájde váhu a dosiahneme, čo nám treba. Vo Valaskej je   bohatý pán
+   </tei:p>
+   <tei:p>
+    Joannes Marček, ked my nemáme, on má. Ak si zájdeme za ním a   povieme mu, ked nechce mať pekáreň zo stajní a stodôl, aby neodkladal   pomôcť nám, dá si povedať a požičia nám všetko, čo treba.
+   </tei:p>
+   <tei:p>
+    Oči sa rozjasnily a chlapi si pritiahli opasky.
+   </tei:p>
+   <tei:p>
+    — Ja už nič, — stisne Greguš plecami. — To nám nevystačí, musíme   ísť dalej, až do Novohradu. Na Mýtnej je bohatý krčmár, on nám   prisype.
+   </tei:p>
+   <tei:p>
+    — Príde i na toho rad, — natiahne krk Paľo Gajdoš. — Teraz by sme   si mali bližšie pomôcť, tam je valaštiansky kostol, v sakristii sú   monštrancie a strieborné i zlaté kalichy. Pán páter je už starý,   nedovidí už a nedopočuje, oddelíme si trochu z jeho pokladnice.   Pomrvíme to, hoci i v hrsti, a črepy nám vyplatí Steinmann hotovými.   Bude rád, ked nám ich nebude musieť vyplatiť zadarmo, alebo, ako sa   povie, na večný účet.
+   </tei:p>
+   <tei:p>
+    — To je už niečo, — prikyvovali niektorí, kým Ďuro a Maco z   Valaskej trochu zbledli.
+   </tei:p>
+   <tei:p>
+    — Kostol je predsa len kostol, — odrádzali. — Človek vezme od   pána, môže myslieť, že si len požičal, ale z kostola, to je už iné.   Tam ho i potme vidí niekto, Pán Boh!
+   </tei:p>
+   <tei:p>
+    — Tak my neprídeme k poriadnej munícii, — pohodil Surovec, — a bez   munície uštekajú nás psi.
+   </tei:p>
+   <tei:p>
+    — Tebe je ľahko, ked si nie katolík, — pozreli na neho Ďuro a   Maco.
+   </tei:p>
+   <tei:p>
+    — Co sme, to sme, všetci sme jedno, hôrni chlapi. Boha sa bojíme,   ale peniaze sú nám potrebné.
+   </tei:p>
+   <tei:p>
+    Napokon sa dohodli, že zoberú len to staršie, nejaký kov a niečo   plátna na košele.
+   </tei:p>
+   <tei:p>
+    — Nezdá sá mi to, — krútil hlavou Jano Oravec. — Ale čo   robiť?!
+   </tei:p>
+   <tei:p>
+    — Ani nič nespravíš. Keď slnko vyšlo, spúšťali sa pomaly nadol,   keď zmrklo, dali sa do roboty. Surovec s niekoľkými zašiel k   Marčekovi, psom dal hodiť slaniny, stavanie obsadiť, potom vošiel za   pánom.
+   </tei:p>
+   <tei:p>
+    — Daj Boh šťastia, pán veľkomožný! — pozdravil sa, ako sa   sluší.
+   </tei:p>
+   <tei:p>
+    — Co mi nesiete ? — pochopil hneď Marček, s kým má do činenia.
+   </tei:p>
+   <tei:p>
+    — Len seba! Len nás!! — obzrel sa za pootvorené dvere. — Viete,   kto sme. Potrebovali by sme pôžičku na muníciu, veď ju mal i pán   Rákóczy odkiaľsi hen z Francúzska, nám dáte vy, a my, keď sa zmôžeme,   vrátime.
+   </tei:p>
+   <tei:p>
+    — Jaj, priateľu, — vynašiel sa pán, — to nejde len tak, na to by   som mal zavolať pána notára. Zhotoviť dlžobný úpis.
+   </tei:p>
+   <tei:p>
+    — Netrápte sa, pán veľkomožný, — zastal mu Surovec do cesty a   pozrel mu ostro do očú. — Vidíte, je tma, keby prišiel, museli by sme   mu posvietiť a vás by to mrzelo. Mali by ste zo stajní iba pekáreň a   z volov a kráv i oviec iba pečienku, ktorú by sa vám nechcelo jesť.   Spravme sa takto. Niečo dáte vy, niečo odpustíme my, a môžeme byť obe   stránky spokojné!
+   </tei:p>
+   <tei:p>
+    Pán veľkomožný zo začiatku sa durdil a nadával. Ale keď poznal, v   čom je, utrel si zrosené čelo, vybral z almárie niekoľko vreciek   dukátov i mariášov a vymenil sa.
+   </tei:p>
+   <tei:p>
+    — Takto je dobre, pán veľkomožný, — uklonil sa Surovec na znak, že   vie, čo sa patrí. — Takto máme i my, a vy tiež nevyjdete naprázdno.   Na ostrý hvizd chlapi sa stratili. Zatiaľ sakristiu Paľo Gajdoš, Ďuro   z Oravy a ešte niekoľkí pozorne doriadili. Vylámali dvere, zobrali   rúcha a plátna na košele, pomrvili v hrsti staré kalichy i staršiu   monštranciu a oddychovali v krčme ako po robote.
+   </tei:p>
+   <tei:p>
+    Keď po obci nastal poplach, zbojníkov už tam nebolo. Šibli na   Hronec a potom na Dobroč k Veľkému Macovi. Tam sa zabávali u Komov do   rána a Jakub nechal Anči niekoľko dukátov v posteli, nech vie, koho   má. O niekoľko dní sišíi s Martinom a Paľkom Gajdošom k Steinmannovi   odvážiť, čo získali. On si to iste zamení. Ale Steinmann potiahol sa   za bradu, potuteľne sa usmial a vyhováral. Je to vraj ťažko, nemôže,   ešte keby plátno, biele plátno, ale o kalichoch tu už vedia, i o   prikrývadlách. Inokedy, ale teraz nech by ho len nechali na pokoji,   nezabudne a odslúži sa ochotne.
+   </tei:p>
+   <tei:p>
+    — Ej, Žide, bojíš sa, pravda? — lapil ho Jakub do železných rúk a   potriasol ani hrušku.
+   </tei:p>
+   <tei:p>
+    — Pusťte ma, pán veľkomožný konduktor, a nebudem sa báť! — uškrnul   sa Steinmann a odťahoval sa pod pec, ako od svrabu, čím ďalej. — Som   malý, maličký tvor, menší ako blcha a mám devätoro detí, človek   spraví, spraví, ale musí si dať pozor, ak chce žiť.
+   </tei:p>
+   <tei:p>
+    — No, dobre, — vypäl sa Jakub skoro do povaly. — Poradím si i bez   teba. Pôjdeme hneď do Bystrice a zameníme tovar.
+   </tei:p>
+   <tei:p>
+    Steinmann si trel ruky, ukláňal sa a vyprevadil hostí až k dverám.   Tí sa dlhými krokmi pohli dolu Hronom. Ráno už boli v Bystrici. Jakub   zašiel do známeho obchodu, kde odpredávali i staršie šaty. Tam   vybalil prikrývadlá, ktoré už Anča na Dobroči postrihala a svinula do   kotúča. Nikto by nebol poznal, z čoho sú. Nepoznali ani v obchode a   prevzali tovar za slušné peniaze.
+   </tei:p>
+   <tei:p>
+    Paľo a Martin pochodili horšie, pomrvené kalichy a monštrancia   ostaly predsa len podozrivými črepmi, klenotník krútil hlavou, na čo   by mu to vraj bolo, ale možno kúpi, ak počkajú trochu.
+   </tei:p>
+   <tei:p>
+    — A straku na kole nechytili by ste za chvost? — uškrnul sa na   neho Poljak, shrnul črepy zlata a striebra do poriadneho vrecka,   mrkol na Gajdoša a vyrazili z dverí. — A psa ak máte, dobre si   uviažte, — hodili ešte niekoľko slov dverami do obchodu, — lebo môže   vám do nohy zahryznúť.
+   </tei:p>
+   <tei:p>
+    Vyrútili sa na ulicu, zašli k Hronu a kráčali rovno do Urpína.   Vedeli, neostane to tajnosťou a komorný gróf sa postará o ostatné.   Zapadli do rozlistnatenej bučiny. Vrecko, plné zlatých a strieborných   črepov, zahrabali pod ohromným bukom do zeme a označili si ho. Keď   mali poklad v istote, nečakali už, čo sa stane, a pustili sa bočnými   chodníkmi hore Hronom.
+   </tei:p>
+   <tei:p>
+    — Ten Jano Oravec to dobre tušil, — povrávali si. — Kostol je   kostol, vylúpiť ho nie je ťažko, ale čo s tým, tam ťa vždy niekto   vidí.
+   </tei:p>
+   <tei:p>
+    — Ba čo je len s Jakubom? — postávali v poli a dívali sa na cestu,   či sa neukáže. Ale cestou šly len ťažké vozy s medenou rudou do   Hámru. Vtedy ešte nevedeli, že je už vodca v pasci. S peniazmi, ktoré   utŕžil, zahol rovno do neveľkej krčmy, hneď pri mestskej bráne.   Vyzeral svojich tovarišov, jedol a pil, keď tu narazí vošli drábi   veľkomožného pána komorného grófa. Nepozorný pokus u klenotníka   upozornil na zriedkavých vtáčikov. Drábi hneď dostali rozkaz a   rozbehali sa po meste. Gajdoš a Poljak ušli, ale Jakubovi sa   pripieklo. Obstali ho a vrhli do väzenia.
+   </tei:p>
+   <tei:p>
+    — A, to si ty, čo vykrádaš salaše a kostoly?
+   </tei:p>
+   <tei:p>
+    — Aké kostoly? — pustil sa do nich Surovec a striasol ich so seba,   až sa dívali ako omráčení, koľko sily má to chlapisko.
+   </tei:p>
+   <tei:p>
+    — A si neponúkal klenotníkovi zlaté a strieborné črepy, há? —   revali na neho so všetkých strán. — Kde si ich vzal?
+   </tei:p>
+   <tei:p>
+    — Nenúkal som nijaké črepy, — spravil Jakub kruh okolo seba. — Mal   som plátna, ktoré natkaly ženy na Dobroči, potrebovaly peniaze, to   som priniesol a predal.
+   </tei:p>
+   <tei:p>
+    — Cigániš, holomok! — sršali na neho ako osy a rozmýšľali, ako by   ho bolo dostať s nôh. Nešlo to ľahko, leteli drábi i stoly, praskaly   i džbánky i náčinie. — Napokon mi tu všetko potlčiete, — vyrútil sa   ťažký, tučný krčmár na rozvadených, chcel Jakubovi nohu podložiť, ale   zrútil sa sám na dlážku a Jakub na neho. V tú chvíľu držali) ho už   drábi a viazali. Márne kopal a hrýzol, napokon podľahol presile.   Strážcovia poriadku zamkli ho do bystrickej veže, kde bol niekoľko   dní a nocí o hlade a smäde. Potom musel pred súd, ktorý mu kožu   neodrel, ani na kolese ho nedodrúzgal. Vysvitlo totiž, človeka   nezabil, iba ovce čo si bral po salašoch. Za to dostalo1 sa mu dosť,   len štyri razy po dvesto palíc, čo on so stisnutými zubmi statočne   preniesol. — No, a teraz môžeš ísť, — povedali mu s posmechom, keď sa   už sotva dvíhal s dereša. — Na príučku máš dosť! A nezabudni sa s tým   pochváliť na Dobroči.
+   </tei:p>
+   <tei:p>
+    — Veď ja to komusi odmlátim i s úrokmi, — chytal sa Jakub za boky   a vypäl sa do povaly. — Nech si to len pán gróf dobre zapamätajú. —   Nebolo ti dosť, chceš ešte? — pichalyostré fúzy do neho.
+   </tei:p>
+   <tei:p>
+    — Veci ja nič! — zazrel na drábov a odišiel. Obzeral sa za   kamarátmi Poljakom a Gajdošom, ale o tých už nebolo chýru. Vystrel   teda rovno na Dobroč, kde v chalupe na kopci zaprisahal znova   všetkých tovarišov, že si neoddýchnu, kým tých osemsto palíc   nerozmenia na drobné. Aj sa povesť o tom pohla po celom kraji. Raz   bili a okradli v tom, druhý raz zasa v inom kaštieli. Chudobným   krpčiarom dostalo sa z toho vždy niečo, už i len pre tú zvesť, ktorá   delila obyvateľstvo ako za Jánošíka. V širokých sedliackych vrstvách   začalo sa už hovoriť, že Jánošík ani, neumrel na krivom háku v   Mikuláši, Jánošík žije, chodí po horách a dolinách, navštevuje mestá   a kaštiele, len sa teraz už nevolá Juro Jánošík, ale Jakub Surovec.   Táto zvesť prišla i do Tisovca a do Rimavskej Soboty, kde pán   vicišpán so stoličnými asesormi radili sa, ako pristaviť vlnu, nech   sa neprevalí s breznianskych hôr do Gemera. Surovec a jeho chlapci   mali o tom čerstvé zvesti, ani nechceli veľmi na Gemerskú stolicu,   veď i tu majú sa s kým biť i s kým sa deliť napoly a vyše poly. Ale v   Tisovci bol jarmok, kamaráti navrávali, vraj, jednako len bolo by   dobre obzrieť sa tam, chodia ta bohatí gazdovia i zemani, dá sa niečo   uloviť.
+   </tei:p>
+   <tei:p>
+    Surovec sa dal nahovoriť.
+   </tei:p>
+   <tei:p>
+    — Kúpim ti pekný ručníček i granáty na hrdlo, — sľuboval už Anke   dávno, teraz mal príležitosť, nuž šiel s ostatnými. Ale akosi nemal   šťastie, jeho chlapci pritovarišili! sa k akejsi starej babe, ktorá   mala peniaze na šnúrke za rubášom. Ktorýsi jej ich vytrhol. Baba sa   rozkričala, ako by ju dral, a splašila pánov i sedliakov, drábov i   vojakov. Naraz len stáli okolo Jakuba ako kovaná obruč, kamaráti sa   rozutekali.
+   </tei:p>
+   <tei:p>
+    On ostal, ako za všetkých. Vedel, potom im už dajú pokoj. A aj sa   vrhli na neho, poviazali už druhý raz a teraz už viedli do Rimavskej   Soboty. Pán vicišpán sa zaradoval!
+   </tei:p>
+   <tei:p>
+    — Máme vtáčika, klietku sme mu už prichystali, — trel si ruky   spokojne a Surovec dostal sa na jednoročný odpočinok do stoličnej   väznice.
+   </tei:p>
+   <tei:p>
+    „Hej, jeden celý rok!“ zamyslel sa Jakub, keď, napnúc sa na prsty,   videl kúsok belasej oblohy, maličký ako dlaň. „Snehy sa pustia na   horách, len ja musím tu hniť,“ a zaštmkal putami. — Minie sa i leto,   na salašoch dorastú mladé dojky, a o moju Anču nik sa nepostará. Ej,   to už nie, takto tu hlivieť celý rok! Musím sa dostať odtiaľto, keď   to bude čo stáť.“ A pomyslel na svojich kamarátov, ktorí azda len na   svojho vodcu nezabudli.
+   </tei:p>
+   <tei:p>
+    Volali ho na dvor drevo píliť. Zaradoval sa, aspoň mu sosnímu putá   a obzrie sa dookola. Chytil sa do práce a robil za dvoch, dozorca ho   mal rád, ponechal ho bez pút, i keď sa vracal večer z roboty. Jakub   to hneď pocítil. Keď sa vo svojej pivnici napäl na prsty k obloku,   zbadal hore mesiac, ktorý ho vábil neodolateľne. Pomyslel si, taký   istý zlatý kosák vidia i z Dobroče. Pomohol si hore drsnou stenou,   chytil mreže do železnej hrsti a zatriasol. Zdaly sa mocnými, ale   zbadal — povoľujú. Keď tak niekoľko nocí chytí sa do nich, vyhegajú   sa. Všetko sal poddá, dažďová kvapka napokon preryje aj najtvrdší   kameň. Len vydržať, a on vydrží, nemá i tak čo robiť. Preskúmal i   dlážku, bola z kameňov, jeden z nich vyvážil, podeň poznáša vápno a   všelijaký nečin, čo odštibre, nikto to nezbadá. Keď bude všetko   pripravené, za tmavšej noci
+   </tei:p>
+   <tei:p>
+    oprie sa do mreže, zohýbe ju a vytrhne. Bol by to čert, keby ju   nevytrhol, veď on už rozmiesil nejednu obruč. S takýmito plánmi v   hlave jedol komisný chlieb a zapíjal ho vodou. Pílil a rúbal kľuchty   na dvore a pozeral, či by nepoznal niekoho.
+   </tei:p>
+   <tei:p>
+    Istého dňa prišlo plno vozov, medzi furmanmi i niekoľko známych   postáv. Martin Pol jak, Paľo Gajdoš a Tomáš Greguš. Podávali si   kľuchty z rúk do rúk. Martin využil príležitosť, a keď mu pomáhal   kľuchtu vliecť, pošepol mu niekoľko slov.
+   </tei:p>
+   <tei:p>
+    — Len vy choďte domov na Dobroč a čakajte ma, prídem! — povedal   mu. Kamaráti mysleli vyviesť ho z pivnice, ale on vyjde sám. Netreba   mu pomoci. Len by z nich nechytili ani jedného.
+   </tei:p>
+   <tei:p>
+    Tak sa i stalo.
+   </tei:p>
+   <tei:p>
+    Jakub pokračoval vo svojej tichej práci. Keď bol so všetkým hotový   a prišla noc, ktorú ani kosák mesiaca neosvecoval, vybral zo steny,   čo bolo treba, chytil sa železných mreží a ohromnou silou trhol ich   za sebou. Železo povoľovalo chlapiskovi, ale musel posbierať sily,   koľko jej len mal. Zvonku ovial ho čerstvý vzduch a volaly na neho   najkrajšie predstavy. Zdalo sa mu, vidí Vepor, i Ďumbier dovidí, malá   Dobroč túli sa ako na dlani a na kopci pod slamenou strechou kamaráti   ho čakajú. Ešte len teraz dokážu, že Jánošík neumrel na krivom háku,   udrú do šíreho sveta a dajú sa s ním za pasy. Stisol Jakub zuby a   nakriačil mrežu, vystupujúcu z oslabenej steny. Ešte bolo treba niečo   sily, a tu zazrel čiesi dievčenské krásne jasavé oči. —1 Hanka,   Hanka, milá frajerka moja, to ma ty čakáš na dvore u Veľkého Maca a   hľadíš sem, pozeráš?! Oh!! — napäl posledné sily ako prenasledované   zviera, hrče mu navrely na čele a mreža bola von!
+   </tei:p>
+   <tei:p>
+    Položil ju ticho na dlážku, a raz-dva bol z pivnice von. Keď   pocítil pevnú pôdu pod nohami, pustil sa rovno cez hory, cez doly,   šiel ho- diny a hodiny, dúbravami, bučinou, napokon sihlinou,   preskakoval jarky, zahadzoval sa, ako by mu dlhý krok nestačil, ako   vlk na dojku, ako diviak za svojou láskou. Nad ránom, keď zore   pobledly, bol už pod Veprom, skoro žatým vyzváraný od päty po hlavu   skočil pod skrivenú strechu na kopci pri Dobroči a ešte budil   rozválaných prekvapených kamarátov. IV. Keď spravodlivosť nechali   chlapi pánu vicišpánovi v Rimavskej Sobote, smiali sa do chuti a   snovali pomstu. Surovec ožil, ako by sa nič nebolo stalo. Čože mu   sobotská väznica, tých bystrických štyri razy po dvesto palíc pálilo   ho viac, až horel ako vatra za mrku na horách.
+   </tei:p>
+   <tei:p>
+    — Veď im ja to všetko premením na drobné! — prisahal sa a chystal   na veľký čin. Chlapov sa sbieralo, bolo ich už jedenásť stálych, ale   obyčajne chodili len deviati. Ak sa kde pristavili, Jakub, Martin   Poljak, Ondrej Ponický a Tomáš Greguš najčastejšie rekvirovali.   Ostatní strážili okolie, ako sa na skúsených zbojníkov svedčí.   Niekoľko dní pobudli na Dobroči, kde sa veselo jedlo a pilo. Ohnivá   Uľa nalievala. Veľký Maco lial gule z olova a nakupoval v Brezno   prach, Jakub vyobjímal Anku, ktorá bola jednostaj ako pahreba. Mala   aj za čo, veď jej Surovec opatril i ručníček a granáty od   Steinman-
+   </tei:p>
+   <tei:p>
+    na a nadelil jej zo svojho i žltákov niekoľko, hrstí. Uľa vedela o   tom a klalo jej to oči, ale čo bolo robiť! Jakub mal svoje dievča,   nepotreboval inej ženy, a potom bol tu len niekoľko dní. Keď tie   prešly, zašiel do prehnutej chalupy na kopec, medzi tovarišov.
+   </tei:p>
+   <tei:p>
+    — Počujte, chlapi, — prehovoril k nim vážne, — dosť sme sa už   nahajdákali, bolo by už i do práce. Ale nie tu, kde nás pozná každý   pandúr a striehne vicišpán. Pôjdeme za Tatry, do Poľska a do Oravy.   Tam popreháňame pánov a ľudí, ktorí nám prídu do cesty. Nech vedia,   Jánošík neumrel, žije a v jeho duchu žijeme my. Pôjdete?
+   </tei:p>
+   <tei:p>
+    — Pôjdeme, ako by sme nešli! — zamrmlali chlapi.
+   </tei:p>
+   <tei:p>
+    Prezreli a spočítali muníciu a druhého dňa na svite pustili sa cez   Vagnár prťami po hĺbkach na východniansky salaš. Tu zabili hneď dve   ovce a upiekli ich, niečo z nich zjedli, ostatné vzali so sebou.
+   </tei:p>
+   <tei:p>
+    — Veď sa nám mäsa i zíde, kamaráti! — posmeľoval Martin. — Chceme   zmiznúť s našich salašov, našim pandúrom a zemanom s očí. Musíme cez   Tatry hen do Poľska. Keď musíme, poďme.
+   </tei:p>
+   <tei:p>
+    Najedení kráčali veselo, vína nebolo, ani pálenky, nuž priľahlí k   potoku, kypiacemu čerstvo cez vymyté skaly, a nabúchali sa.
+   </tei:p>
+   <tei:p>
+    — Veď sa v Poľsku nejakej vodky iste nájde pre nás! — maľoval Paľo   Gajdoš sebe aj iným. Zamierili popod Kriváň Kôprovou dolinou, hore   rozkypenou riečkou Belou do Hlinskej a k Temným Smrečinám. Ohromné   braliská hí’adelymlkvo so všetkých strán na svoje divé deti. — Co len   vykvitne z ich semena, ľudia ako v Európe
+   </tei:p>
+   <tei:p>
+    a či len veční sluhovia, paholci, valasi a ovocie pre šibenicu? —   Neďaleko z kolmého skaliska rútil sa vodopád, ako by dával odpoveď.   Vykrpcovaní chlapi hnali sa za sebou ako živý mrak. Vystupovali so   skaly na skalu, podkovy hrkaly im na kameňoch, keď sa blížili k   jazerám, ostrým hvizdom ozval sa hvizdák. Všetci šli odmerane, iba   Jano Oravec akosi zaostával.
+   </tei:p>
+   <tei:p>
+    —Co sa toho hvizdáka bojíš? — volali na neho. — Akosi sa ti   nechce.
+   </tei:p>
+   <tei:p>
+    — Ustatý som, — odpovedal oslovený a zbystril krok za ostatnými.   ■— Zdá sa, nie je to život pre mňa.
+   </tei:p>
+   <tei:p>
+    — Tak si mal ísť za kňaza, — zhundral na neho Surovec. — Bol by   nás mal aspoň kto ospovedať.
+   </tei:p>
+   <tei:p>
+    —Ved si ty luterán, — pohodil Oravec konduktorovi, ako ho niektorí   menovali.
+   </tei:p>
+   <tei:p>
+    — A myslíš, luteráni sa nespovedajú?
+   </tei:p>
+   <tei:p>
+    — Len sa hore, chlapi, — ponúkal Ôndráš Tonický do kroku. —   Pozrite na tie sucháre, — ukazoval, — človek môže na nich i odvisnúť,   a pred šibenicou pomodlí sa a vyspovedá luterán a či katolík.
+   </tei:p>
+   <tei:p>
+    — Hej, hore háj, dolu háj, — spustili chlapi. Braliská spev   zachytily, podávaly si ho s chrbta na chrbát a napokon uložily   mohutný spev voľných, neskrotených chlapcov do tatranských jazier,   zvírených striebrom, a Kriváňu do náručia.
+   </tei:p>
+   <tei:p>
+    Tak sa prevalili na Dunajec, stretali poľských goralov, ktorí ich   pozdravovali ponížene ako svojich bratov pri Váhu a Hrone. Večer sa   priblížili k Novému Targu.
+   </tei:p>
+   <tei:p>
+    — Hej, chlapi! — pristavil ich Jakub. — Ale musíme myslieť i na   svoju domácnosť!
+   </tei:p>
+   <tei:p>
+    — Máme tú hneď niečo, — postavil sa do prostriedku Martin Poljak,   ktorý sa už obrátil v týchto stranách. — Pozrite hen pod stromami to   veľké stavanie, tam býva bohatý gazda, menujú ho Fulas, on by nás   mohol niečím podporiť !
+   </tei:p>
+   <tei:p>
+    Počkali, kým sa zvečeriio, obsadili vchody a vošli do domu.
+   </tei:p>
+   <tei:p>
+    — Daj Boh šťastia! — pozdravil Jakub domácich, gazdu, gazdinú a   niekoľko drobných detí, ktorí ich neprivítali najvľúdnejšie.
+   </tei:p>
+   <tei:p>
+    -—Co tu chcete?
+   </tei:p>
+   <tei:p>
+    — Viete, sme pocestní a je nás do deväť, — odpovedali. — Vyšli sme   z peňazí, či by ste nás na cestu nemohli niečím podporiť?
+   </tei:p>
+   <tei:p>
+    — Nemám sa ja o koho starať? — pozrel gazda nadureno. — Len vy   choďte pekne s Pánom Bohom!
+   </tei:p>
+   <tei:p>
+    — To veru nejdeme len tak naľahko, — odsekol Jakub. A už boli v   izbe i Martin, Greguš, Gajdoš a Ponický, ktorí začali nebezpečne   hľadieť na domácich.
+   </tei:p>
+   <tei:p>
+    — Veru mali by ste si vec lepšie premyslieť, hladný vlk trhá.
+   </tei:p>
+   <tei:p>
+    — Na každého vlka nájde sa sprava, — odvážil sa ešte gazda. Ale to   chytro oľutoval. Kubo ho lapil pod krk, iný zas vzal si na starosť   ženu a deti, ktoré začaly nariekať.
+   </tei:p>
+   <tei:p>
+    — Bohu dušu a mne peniaze! — hrmel vodca na gazdu. — Kde ich   máš?
+   </tei:p>
+   <tei:p>
+    — Nemám nijakého groša, — bránil sa gazda poplašený.
+   </tei:p>
+   <tei:p>
+    — Pani, zraďte, kde ich máte, — vyhrážal sa Gajdoš gazdinej. — Ak   nepoviete, kde sú, prehrnieme sýpku a posvietime si pritom.
+   </tei:p>
+   <tei:p>
+    — Nemáme, nič nemáme, — opätoval gazda a počúval štekot psa vonku,   či sa mu nenadarí niekto na pomoc.
+   </tei:p>
+   <tei:p>
+    Štekot zmĺkol a on vykrúcal, ale márne.
+   </tei:p>
+   <tei:p>
+    — Vyberte z našej munície a podajte mi niečo, — žiadal Kubo.
+   </tei:p>
+   <tei:p>
+    Dali mu horiacu sviečku, chlapi držali gazdu i za ruky a on   položil mu oheň pod brusce.
+   </tei:p>
+   <tei:p>
+    — Joj! — nakrivil gazda tvár, ale nevyzradil. Pálili ho ďalej,   dobre mu prsty nespálili, ale on stál ako stĺp.
+   </tei:p>
+   <tei:p>
+    — Tak si prezrieme sýpku sami, — zunovali naťahovačku. I to   vykonali.
+   </tei:p>
+   <tei:p>
+    Našli v zboží asi desať zlotých, vstrčil ich do opaska Martin ako   pokladník spoločnosti. Okrem toho sobrali peknú mentieku, plátna,   sukňu a dva polháky. Všetko sa zíde.
+   </tei:p>
+   <tei:p>
+    Keď boli hotoví, poďakovali sa pekne, ako sa sluší, pozdravili a   zapadli do noci.
+   </tei:p>
+   <tei:p>
+    V Novom Targu zašli do postrannej krčmy, tu sa podelili a naliali   sa vodky. Martin radil im napadnúť akéhosi bohatého kňaza, ale keď to   bolo v tom istom mieste, nechali plán tak a ráno odišli. Zbadali, že   je tu pôda dosť nebezpečná, panskí drábi začali hneď behať okolo,   bolo treba hľadať istejšie miesto, a kde istejšie ako na salaši!   Zahli do hôr a šli so salaša na salaš, strebali žinčicu, ovsený   chlieb zajedali bielym syrom a brali oštiepky na cestu. Skoro prešli   do Oravy, kde sa cítili istejšími. V Trstenej popredal Martin   oštiepky a nakúpil za to chleba a pálenky, najedli sa i napili.   Odtiaľ šli do Slanice, kde ozbíjali bohatého farbiara Joanesa   Brnoljaka. Tu šlo všetko hladko. Brnoljak, keď videl chlapcov ako   hory, neškriepil sa s nimi, dal im
+   </tei:p>
+   <tei:p>
+    tri vrecká dukátov, mentieky, plátno farbisté i biele, dolomán,   klobúky a pištole. Podelili sa s korisťou na hrste, dali aj   pocestnému — roznášať o nich dobrú povesť. Tak došli na tvrdošínsky   salaš, najedli sa, napili, a ked sa im zdalo, že majú dosť, udreli na   Liptov, a to rovno do Hýb. — Ale tu sa už zabavíme, — zastali pred   mestskou krčmou a vrhli sa dnu. Posadali si za dlhé táfle, hostinský   nosil čaše vína a pálenky, i muzikanti sa našli. Jedno Cigánisko malo   z nich i cymbal. Náladu nebolo treba roznecovať, chlapi, naložení,   ako sa patrí, nalievali sa veselo, bili päsťami na táfle, až nádoby   skákaly. — Hej, len vždy veselo, cic, kozy, kozina, ešte nám nebije   posledná hodina! — vyspevoval Ponický hlasom ani čerešňová kravská   trúba. Ostatní spievali za ním. Hodovali celý deň i noc. Hýbania   vedeli o nich, ale nikto sa ich neodvážil dotknúť. Drábi z blízkeho   Hrádku ani len nečuchli. Ked už mali dosť, udreli na porubský salaš,   odtiaľ prevalili sa do Brezna. Popri mestskom múre prekradli sa na   Dobroč, do Komov a Fajtov. Tu si ešte všetko spočítali a rozdelili   sa, ako sa svedčí. Vodca dostal dve časti, ostatní po jednej. Ušlo sa   dosť každému, i vyčervenenej Uli, i Veľkému Macovi. Jakub, pravdaže,   nezabudol na svoju Aničku a opatril si ju poriadne, plátnom bielym i   farbistým, a najmä žltými, lesklými dukátmi. — A teraz sa rozídeme na   tri dni, kamaráti, — rozhodol vodca. — Zatiaľ si odpočinieme, potom   pôjdeme ďalej! Príďte všetci do nášho hniezda.
+   </tei:p>
+   <tei:p>
+    Všetci súhlasili, iba Jano Oravec sa vyhováral, vraj, nemôže,   veľmi je ustatý. Zadívali sa na neho a zaškúlili na seba. V posunku   tom začernela sa nedôvera, ale nepovedali slova. Pri rozlúčke vyšli   za ním dvaja, aby sa mu vraj nič nestalo. Ani sa mu nie, lebo ho už   nevidel nikto nikdy viacej. Taký bol zbojnícky zákon. V. Po prvej   vydarenej väčšej vychádzke za Tatry surovcovcom narástly krídla.   Chodili od severu na juh a od Gemera až na Považie. Zvesti niesly sa   pred nimi i za nimi a oni v ich ovzduší rástli a rástli. Vodca   zbojníkov Jánošík nezahynul ria krivom háku, na radosť a uspokojenie   zemanov. Žije a túla sa so svojimi tovarišmi ako víchor. Boháči trasú   sa pred ním, neľudskí drábi a hajdúsi dajú si viac pozor. Na čin   bránu načiarajú v noci krivý hák, tam sa už vie, na ten dom Jakub   myslí a má iste prečo. Po dedinách a mestečkách nastal a nastával   hotový kult krivého háku, jedni sľubovali si od neho všeličo, iní sa   triasli pred ním. — Čo taký Surovec?! — rozprávali si. —Fúkne ti do   panského stavania, a už vieš, nie je sám. Jeho tovarišia predo   dvermi, druhí už v maštali alebo v komore. — Daj Bohu dušu a mne   peniaze! — Povieš, že nemáš alebo nedáš, schytia ťa i traja, začnú ti   prsty sviecou páliť alebo šibrinkujú ti nožom okolo nátury. Juj. —   Tak vzplanul nový zboj pod Tatrami a prelial sa i na žírne roviny. —   Ta musíme, — posmeľoval Surovec. — Ta, kde jest čo brať. Na holom   štipci koňa nenapasieš! — A chodili krížom-krážom, rozsievali strach   po kaštieľoch a zažíhali nádej po biednych chalupách. Jakub ich   nielen vodil, ale i opatril. Korisť, zlato, striebro, šatstvo snášali   na Dobroč, čo bolo lepšie skryť a dalo sa, to ukladal Jakub do   bystrianskej jaskyne. Iba Poliak a Greguš vedeli o kvapľoch, pod   ktorými sa to zakopáva. Ináč delili sa so získaným spravodlivo,   nevedeli už, čo je bieda, ako nevedeli, čo je strach. Pán Steinmann   objednával ručníky a lesklé náhrdelníky. Dobročianky kolísaly sa v   širokých sukniach a chlapi pili, kde sa naskytla príležitosť. Keď bol   v Brezne jarmok, celý bol ich.
+   </tei:p>
+   <tei:p>
+    Raz ešte za bieleho dňa složili sa v krčme u Polonych. Jedenásť   valašiek zaťali do hrady a rozkazovali si ako opravdiví páni.
+   </tei:p>
+   <tei:p>
+    — Anča, — volali na krčmárku, — daj nám okov vína a barana!
+   </tei:p>
+   <tei:p>
+    — A čo mi dáte?
+   </tei:p>
+   <tei:p>
+    — No, neboj sa, dostaneš jedenásť cedil dukátov. V Úplzlí je   zakopané dukátov a dukátov a vtedy vyjdú napovrch, ked ich   breznianske kravy vytlačia! Obuvníci, sedlári i povrazníci, hrnčiari   i pernikári dávali im vďačne, lebo vedeli, majú čím platiť. Pandúri   chodili z Muráňa i Ľupče, od Bystrice, Zvolena, ba i hen z Vígľaša,   či by sa nej ak nedostali k hniezdu.
+   </tei:p>
+   <tei:p>
+    Nedarilo sa im, ľud mlčal. Pán Sebastian vedel o všetkom, bol   dobrý na majetku a dobrý i s vicišpánom, ale necekol slova, vedel,   stálo by ho to majetok i život. A čo z toho? Radšej si zašiel za   UIou, dal jej, čo chcela, potľapkal ju i pohladkal a myslel na svoje   veci. Uľa mu vyhovela, ale nestála o neho, myseľ jej blúdila kdesi   inde, ani nie tak za Jakubom, ako skôr za jeho frajerkou. Chlapov   dosť! Ale keď Hana
+   </tei:p>
+   <tei:p>
+    dostala niečo, Ula vždy vedela o tom. Horela závisťou, mala vždy   ženy, ktoré jej priniesly všetko, a zhárala tým, čo počula. Hana sa   nepohla, aby jej krčmárka nebola na stope. Nenávidela ju, lebo má   pekné oči a červené líca. A táto náruživosť rástla, ako môže iba u   ženy proti žene.
+   </tei:p>
+   <tei:p>
+    — Hej, krčmárka! — pritierali sa k nej pandúri, keď sa složili v   krčme, — a vedela by si ty niečo o tých chlapoch, čo su v boji s   celou Zvolenskou stolicou a tu kdesi sa prepadli? — Čo by ja len   vedela, — skrútila sa na päte a kmitly jej na fúzatého pandúra lesklé   biele zuby. — To já mám päť hláv, o takom hovoriť? Ale keď sa lepšie   prizrela, fúzatý pandúr bol chlap ako jedľa. Ručiská mal ako húžvy,   vedel by v náruč privinúť. Mala sa k nemu s pozornosťou, i usmiala sa   na neho, dozvedela sa, volá sa Ferko a chodí sem častejšie. Raz   počula, Hana vraj dostala zasa na šaty. — No, tá už bude chodiť ani   pani veľkomožná, — uhryzlo ju niečo pod srdcom. — A keby len ten   Jakub vedel, na koho tá všetko fľochuje! Ver’ by si jej ani neobzrel!   — A už bola na tom, pandúrovi všetko vyjaviť, ale v krčme zjavilo sa   naraz niekoľko tovarišov, Poljak, Greguš i Gajdoš. Dovtípila sa, tí   sú tu nie darmo, vzduch je nie bez dymu, a ani necekla. Napokon   prišiel i Surovec a pandúrov ani neobzrel. Dal nakrájať slaniny,   ktorú si zapili pálenkou. Pandúri sa stratili, bolo ich primálo.   Večer vykradli sa im chlapi a prepadli sa medzi stavaním i rozplynuli   ako gáfor. Na Dobroči všetci vedeli, kde zamierili, i Uľa vedela, ale   neodvážila sa ani ona, domyslela si, hneď je krčma v blku a ona v   ohni, a nemýlila sa. V prehnutej chalupe pod deravou strechou
+   </tei:p>
+   <tei:p>
+    sa zahmýrilo. Tovarišia sa schádzali, prišiel i vodca a rozostavil   stráže. Stará Dóra v pitvore krájala klobásy a varila v kotlíku   pálenku. Ostatní potiskali sa v izbe a postávali akosi so svesenými   hlavami. Počítali sa a vedeli, chýbajú im dvaja, Žilka a Ponický.   Vedeli o nich, že sú vo Zvolenskom zámku a čaká ich šibenica alebo   prepílený rebrík.
+   </tei:p>
+   <tei:p>
+    — A čo čaká nás? — pozreli na seba s netajenou predtuchou.
+   </tei:p>
+   <tei:p>
+    — Kamaráti, — prehovoril vodca, — lístie padá so stromov, nezadlho   je tu zima, máme si pohovoriť, ako budeme zimovať a či sa sídeme   ešte. Koristi máme dosť, zlata, striebra i plátna a šatstva, dostane   sa každému na pamiatku. Pre istotu niečo si necháme na istom mieste,   skaly, tie nevykričia. Ostatné si rozdelíme a začneme riadne žiť.   Jánošíka sme pomstili, kaštiele sa trasú, pandúri behajú, páni platia   sily proti nám a paničky sú zvedavé na nás. Ale my sme nie zvedaví na   nich a opatríme sa rozumne a múdro. Potom sa rozídeme všetci po   svojom. Čo myslíte, bude to dobre? — Dobre, dobre, vodca náš, —   prikyvovaly počerné tváre a ochotné ruky delily dukáty, zlato a   striebro na hŕbky po stole a laviciach. Tri lojové sviece horely na   stole, ich ohybný plameň sa vlnil, vrhal žiaru do kútov, ktorú hŕbky   vzácneho kovu znásobily. — Všetci dostanete po jednej hŕbe, — ozval   sa Martin Poljak ako pokladník. — Jakubovi prídu dve, vyberte si   alebo ťahajte los. Pristali i bez lósu. Ťažké ruky poskladaly poklad   do vreciek. Iba vodca nechal si svoje hneď vo dvoch vreckách. Všetci   vedeli, pre koho chystá jeden diel.
+   </tei:p>
+   <tei:p>
+    Keď všetci dostali svoje, ostaly ešte dve hĺbky a niekoľko hrstí   dukátov a striebra. —-Tie dve hĺbky patria Žilkovi a Ponickému,   chyteným kamarátom, — poznamenal Jakub. — Schováme to pre nich na   isté miesto, ak toho budú ešte kedy potrebovať. Ostatné rozdelíme na   dary. Spokojní ste? — Spokojní! — zachvela sa chalupa. — A teraz si   zajedzme a zapime! Vošla Dóra s lopárom nakrájanej klobásy a slaniny.   Chlapi sa pustili do jedla s chuťou. Mizlo všetko s lopára a   zalievalo sa poriadnou hriatou. Všetci užili, koľko sa im chcelo. — A   teraz sa už rozídeme, — povstal Jakub a prehovoril pohnutým hlasom.   Veď rozpúšťal svoju rodinu, v ktorej sa žilo jeden za všetkých,   všetci za jedného. — Ďakujem vám všetkým za dôveru a poslušnosť.   Majte sa dobre! — A po zime sa nesídeme, vodca? — ozvali sa chlapi. —   Ak budeme žiť a ak sa nám bude chcieť! Potom sa po jednom potratili.   Napokon ostal Jakub sám s Martinom. Dlho sa díval na dobrého   kamaráta, až ho chytil kíčovite za ruku. — Sľúb mi, Martin, —   prehovoril k nemu, — ak bude so mnou zle, prídeš a vyprevadíš ma! —   Sľubujem ti, kamarát! — a objali sa. Na oblohe jagaly sa už hviezdy.   Sychravo ťahalo sa od Ďumbiera, lístie je už dolu so stromov, padne   biely sneh a zakryje stopy krivolakých ciest. Ale čo bude dotiaľ a čo   potom? Jakub sbehol s kopca a zastavil sa u Veľkého, Maca. Dal mu   tiež jeho časť z darov ako všetkým. Pamätal ešte i na krčmárku Ul’u,   nech nepovie slova, keď ho už nebude. Ale najkrajší dar
+   </tei:p>
+   <tei:p>
+    oddal svojej Ánke. Obe vrecká, plné pokladov. Jedno za ňu, druhé   za neho. Veď jej teraz už nebude prinášať, bude mať dosť. Odídu   niekam do Trenčianskej a soberú sa riadne v kostole, ako sa svedčí na   poriadnych ľudí, a budú si žiť ticho a zbožne. Hanke zasvietily oči.   Vrhla sa mu do náručia, — Tak si to už nechal? — prihovorila sa k   nemu v komore. — Nechal! — A nevrátiš sa k tomu viacej? — Nevrátim!   Dosť už bolo starať sa o toľkých, pokúsim sa starať len o nás dvoch,   o teba a o seba! V tú chvíľu vtrhla na Dobroč celá čata pandúrov.   Rozostavili stráže a niekoľkí, medzi nimi i Ferko, vošli k Uli. Uľa   sa zvŕtala ako vždy. Nosila víno v džbánkoch a obsluhovala veselo, —   Ale, Uľka, — doberali si ju pandúri, — máš tu vraj aj konkurentku, a   je ešte mladšia a krajšia ako ty. Uľa vedela, na koho sa cieli, a   bodly ju slová do srdca ako had. — Počuj, Uľka, — prikradol sa k nej   úlisné Fero. — Čo ty nevyužiješ, čo sa ti ponúka? Mohla by si mať   všetkého v hojnosti na celý život. Ty vieš všetko, povedz nám! U koho   spáva a kde je Jakub Surovec? Dvadsaťtisíc dukátov ťa neminie, kecľ   povieš. — A čo ja viem, — stisla Uľa plecami, ale bolo vidieť, čosi   sa v nej zmieta. Pochopila, nech vyhovie Ferovi, ukáže i Hane, a   Jakuba nemá čo ľutovať. Neobzrel sa o ňu. V noci, keď sa popití   chlapi rozváľali na sene po šopách, i Tomáš Greguš s nimi, pandúri   vrhli sa na chalupu Veľkého Maca. Zaznel jediný výstrel, ale druhý   nenasledoval. To bol znak, že sa pandúrom podarilo zmocniť sa   vodcu!
+   </tei:p>
+   <tei:p>
+    — Zle je, nedobre! — skákali chlapi so sena, ale bola už   trma-vrma. Pandúrom podarilo sa chytiť i Tomáša, zavesili sa mu na   ruky, keď ich zpočiatku i rozhadzoval, a spútali ho. Podobne i Jakub   povyhadzoval ich i niekoľko ráz z pitvora. Hanka zalamovala rukami a   nariekala, ale on nič, tešil ju, vyhadzoval pandúra za pandúrom ako   zhnité hrušky, už vyšiel i na prah, bolo sa mu len rozbehnúť. Ale tu   Fero podhodil mu pod nohy poriadny klát a Jakub sa prevrhol a padol.   Zrazu boli pandúri na ňom a nepustili ho viacej! Márne zalamovala   Hanka rukami, márne nariekala, i Veľký Maco márne ondial. Pandúri   zaťali sa do Jakuba ako svorka psov do diviaka, zvalili ho a   sviazali. Ešte v noci viedli Jakuba a Tomáša z Dobroče do   Brezna. Retiazky im hrkaly na rukách i na nohách. Ledva šli. — No,   len poďte, poďte, — strkali do nich. — V Brezne si oddýchnete, tam   vás už čaká istý nocľah. Zavreli ich do väznice, čakať na ďalší osud.   Na Dobroči našli ráno Uľu krčmárku bez duše v posteli, vlasy mala   slepené krvou. Ľudia hádali, ale nikto nevedel, ako sa to stalo. VI.   Hore i dolu Hronom rozvravela sa dolina. Novina sa niesla od chalupy   do chalupy ani rozbehnuté kruhy na jazere, do ktorého vovalily   žilnaté tvrdé ruky ohromné skalisko. Zvesť prišla o tom do každého   kúta a vyvolávala najrozličnejší dojem. Kto sa radoval, kto zaplakal.   I sama čierna slovenská zem zdala sa precítiť udalosť v celej jej   hrôze. Surovec lapený, Greguš v okovách, okrem toho ešte dvaja, Žilka   a Ponický, na Zvolenskom zámku. Tatranské bystriny válily sa mútne.   Tvrdé končiare Ďumbiera nakláňaly sa k sebe melancholicky a bezradne.   V krčmách na Handloch i v Brezne ozývalo sa významne;
+   </tei:p>
+   <tei:p>
+    Bolo nás jedenásť, už nás je len desať, a i z tých desiatich   štyroch idú vešať.
+   </tei:p>
+   <tei:p>
+    — To viete, bez toho Oravca Jana, ktorého odstránili zbojníci, keď   sa chcel od nich odštiepiť, — vysvetľovali vravnejší.
+   </tei:p>
+   <tei:p>
+    — A teraz mali by sa veru tých lapených ujať, — poznamenal   obchodník, ktorý v Brezne predával roky pušný prach Veľkému Macovi. —   Taká by mala byť zbojnícka česť. Ale čo, ľudia sú vždy rovnakí, ako   za Krista Pána. Vodca je chytený, jeho tovarišia hybaj v štyri   svety!
+   </tei:p>
+   <tei:p>
+    — Ba ozaj, čo s nimi bude? — hádali mešťania. — Uvidíte, ujmú sa   ich páni piaristi. Oni to robia odjakživa, keď je už s niekým zle.   Pán prior zájde k nešťastníkom, požiada ich vrátiť sa do cirkvi   katolíckej, a čo môže, spraví.
+   </tei:p>
+   <tei:p>
+    — Veru, keď už ide človeku o kožu, je mu jedno, na aký vešiak mu   ju zavesia, — počuť mienku tu i tam.
+   </tei:p>
+   <tei:p>
+    V napätom očakávaní žilo slobodné kráľovské mesto Brezno, i celé   okolie až po Bystricu a Zvolen. Skracovať zvláštnych ľudí o hlavu v   tomto čase nebolo tu nečasté. Mestá malý svoje „ius gladii“ a   používaly ho veru obratne, malý na ten cieľ, a to pre všetky tri   stupne tortúry, íi potrebné náčinie. Železné matky na mliaždenie   prstov, sviece a železá podhriať prsty, ale tak
+   </tei:p>
+   <tei:p>
+    dokonalé, že neostaly z nich leda kýptiky, španielske topánky,   vybité klincami, ktoré pomohly k pamäti delikventovi. A ked to všetko   nepomohlo, tam bol škripcový rebrík, ktorým sa naťahovaly kosti, až   pukaly. Iba Jánošík v Mikuláši prekonal všetky tri stupne, a ešte si   i v centových okovách zahaj duch oval okolo šibenice a vyfajčil vraj   pritom päť funtov tabaku. Nuž ale takého Jánošíka nezrodilo ani vtedy   každé storočie. Zato breznianski väzni správali sa chlapsky. — Človek   len raz umrie, — posmeľoval Jakub sklesnutého kamaráta Tomáša,   prikovaného k nemu na jednu reťaz. — A ked raz umrie, nikto nemá k   nemu viac prístupu, ani sudca, ani kráľ, ani kat!
+   </tei:p>
+   <tei:p>
+    — Pán Boh už aspoň_ to dobre spravil, — stisol zuby kamarát. —   človek, ako my, môže sa aspoň potešiť, — potom budem mať už pokoj. —   Ale dotiaľ čakala ich ešte mnohá skúška. Predne niekoľkodňové   vypočúvanie, prišli drábi, ozbrojení po zuby, a vyviedli chlapov do   mučiarne, ukázali ím všetky nástroje a poučili ich o nich ako deti v   mestskom gymnáziu. Ak sa poddajú, bude im ľahšie, ak nie, budú im   kosti prašťať a telo horieť, ako sa patrí na takých chlapov. Potom   ich lapili do výrobku, prišiel zakuklený kat z Banskej Bystrice i so   svojimi holomkami a začali ich najprv opátrať a hladkať, tak ako voly   na bijámi.
+   </tei:p>
+   <tei:p>
+    — Hej, nebyť týchto okov, — zazerali Jakub i Tomáš, — nešlo by to   tak ľahko! Ale teraz ľahko im!
+   </tei:p>
+   <tei:p>
+    Holomci postavili dereš a ponúkali chlapov ľahnúť si.
+   </tei:p>
+   <tei:p>
+    — Ale, dajteže nám_ pokoj, — zrinčali väzni príšerne okovami. —   Čože, Jano, Mišo, azda sa
+   </tei:p>
+   <tei:p>
+    neznáme! Vari sme jedného barana zjedli spolu na bystrickom   salaši?
+   </tei:p>
+   <tei:p>
+    — Zjedli, nezjedli, líhaj! — okríkol ich kat. — Taká je   spravodlivosť. Keď prv ľahneš, budeš prv hotový!
+   </tei:p>
+   <tei:p>
+    O chvíľu sekaly údery po chlapských chrbtoch ako pod bukovým   piestom na Hrone pri žmýkaní, sekaly veru, a chlapi nemukli.
+   </tei:p>
+   <tei:p>
+    Sudcovia stáli pred delikventmi so zaostreným nosom dohora.
+   </tei:p>
+   <tei:p>
+    — Ako sa voláš a odkiaľ si? — Ci si sa dávno dal na zbojníctvo?   Kto ti dal radu viesť taký život?... Kde si najprv začal zbíjať?...   Kto sa k tebe pritovarišil ?... Kto vás viedol ?... Koľko vás   všetkých bolo?... Kde ste zbíjali?... Ublížili ste niekomu na   tele?... sypaly sa otázky, sudcovia naslúchali, holomci sekali,   mestský notár značil všetko úradne do protokolu. Prvé vypočutie bolo   ešte dosť hladké, zbojníci sa priznali ku svojim túram po salašoch,   ale zvedavosť inkvizície siahala hodne ďalej. Videli, delikventi sú   doriadení a tortúra mala tiež svoje humánne pravidlá, po   jednohodinovom mučení nasledoval vždy oddych pre obidve stránky. V   Brezne to tiež statočne zachovali, i to, čo sa priznalo pod palicami,   muselo sa ešte v pokoji zopakovať, aby sa vraj nepovedalo, že to bolo   pod tlakom násilenstva. Tak to šlo niekoľko dní, Jakub a Tomáš revali   zavše ako voly na holiach — s rozdielom, že o ryčiaceho vola jednako   sa len obzrel niekto, o zbojníkov nik. Otázky sa im sypaly na biedne   hlavy a odhaľovaly im závoj s pamäti. — Ako to bolo v Poľskej... ?   Ako v Novom Targu... ? Čo ste robili v Orave... ? Kto vyraboval   valaštiansky kostol ? ... Kto kostol
+   </tei:p>
+   <tei:p>
+    na Pondelku?... Kde ste brali zbroj, prach a gule?... — Zbraň sme   si nadobudli v Poľskej, — vysvetľovali chlapi, keď videli španielske   topánky, — gule lial nám Maco Veľký na Dobroči zadarmo. — A čo ste   zobrali? ... — Noó, čo sa našlo, — uškrnuli sa zbojníci, keď im   vbíjali železné kliny do podošiev. — I dukáty? — Áno! — I šatstvo? —   Áno, jaj, jaj, Bože dobrý, — osŕkali pod hroznými údermi kladiva,   ktorým im vrážali kliny do živých nôh. — A kde ste ukladali peniaze ?   ... — Rozdali sme ich a prepili! — Komu ste rozdali? — Kto komu, i   sedliakom, ženám a frajerkám! — Ale máte ešte čosi v skrýši? —   Nemáme! — tvrdili chlapi zanovité. — Keď sme boli posledne na   Dobroči, rozdelili sme, čo bolo, a rozišli sme sa. Rozhodli sme sa   dať na poriadny život! — A ani teraz nechcete sa priznať, kam ste si   ukryli z pokladov? — Nemáme čo priznať! — Tak najbližšie budete mať!   Prichystajte sa na to, čo ste ešte neskúsili. Sudcovia márne do nich   dodievali, márne hľadal Tc srdcu i tu prítomný ctený richtár mesta,   mlčali ani zvon, ktorému srdce vypadlo z úst. Rozniesla sa o tom   povesť po celom meste, i na Dobroči dozvedeli sa o ich hroznom   utrpení. Večerom k Veľkému Macovi sišlo sa niekoľko chlapov, i Martin   Poljak bol medzi nimi a nazrela i Anka. Bola bledá od prebdených   nocí, deň čo deň chodila do mesta, ale vrátila sa vždy s prázdnou   rukou. Neznámi, ktorí ju stretali, nevedeli, akú ohromnú bolesť nosí   vo svojom mladom srdci. Známi neraz zavadili do nej, iba tu i tu   počula slovo: — Neboj sa, neplač, dievča, veď ho ešte neobesili!   Nájdu sa chlapi a postarajú sa, aby ho ani nie! O tom sa hovorilo i u   Veľkého Maca. — Viete čo? — vykladal Martin Poljak. — Bolo by sa nám   prestrojiť za piaristov, pán prior iste si nedá ujsť navštíviť pred   popravou Jakuba, ktorý je evanjelik. I s Tomášom sa vynasnaží v   poriadku rozlúčiť. Počúvať, uchráni ich aspoň od popravy v meste. Ak   už musia zhynúť, nech nezhynú na diváky svetu. — Veď ani na   Viselniciach nebude inakšie, — zašomrú v kúte. — Tam tiež bude celé   Brezno i okolie. — Kto bude, tak bude, — flochol rezignovane Maco   Veľký. — I my tam budeme, ak to musí byť, pravda, Martin? — pozrie na   Poljaka. — I my, — zdvihol Poljak hlavu. — Ale najprv, pravda,   Anička, pokúsime sa o niečo s tými piaristami? Pokúsili sa, ale   darmo. Brezno malo hradby mocné a chlapi ledva sa vedeli stratiť, keď   sa obalkovali okolo väznice. Všetko sa zmenilo na dym a paru, miesto   nádeje svitol ešte jeden deň inkvizície, ten posledný. Sudcovia v   chladnom sklepe rozkázali napäť väzňov na rebrík a otáčať škripcom. V   kostiach im pukalo, centové závažia roztiahly údy a oddeľoval sa   stavec od stavca, ohromná bolesť zatemnila zrak.
+   </tei:p>
+   <tei:p>
+    dzovali im na oči kamarátov, ktorých už zbadali v meste. — Hja,   Brezno nie je Rimavská Sobota, odtiaľto neufrknete. Otočiť! Škripec   chlapov doriadil a bystrický kat trel si pokojne ruky, ked ležali na   dlažbe ako dolámaní. A vtedy nastalo ticho ani z kameňa, zpomedzi   sudcov vystúpil mestský richtár a pokynul notárovi prečítať rozsudok.   Notár vstrčil husie pero za ucho a s vážnou tvárou čítal pri povstaní   prítomných: — Deliberatus est Jacobus Surovec, konduktor a vodca   zbojníkov, a Tomáš Greguš v jeho tovarišstve ostávajúci, — znel   sonórne jeho hlas, — na smrť. Prvý pre krádež oviec už bol potrestaný   slávnou komorou bystrickou na svojom tele štyri razy dvesto palicami,   potom v Rimavskej! Sobote na rok do žalára bol vhodený a utiekol,   nielen aby svoj život na lepšie priviedol, ale s roka na rok,   nešetriac ani božský, ani ľudský zákon a potupujúc spravodlivosť   zákona, dopustil sa mnohých zlodejstiev, ako sám dobrovoľne i na   mukách priznal. Vyraboval so svojimi tovarišmi kostol valaštiansky,   Joanesa Marčeka, za Tatrami v Poľskej gazdu, v Slanici farbiara   Joanesa Brnoljaka a iných orabovali a mučili. Druhý, hoci v nijakom   veľkom a zlom zločine nebol prichytený, jednako s Jakubom Surovcom sa   dal na zboj, zúčastnil sa na trápení a rabovaní mnohých ľudí. Kubo   Surovec mal by byť v meste od rúk a nôh kolesom lámaný a tým spôsobom   ukrutne trápený a usmrtený, ale na mnohé prosby tunajších pánov   pátrov piaristov od takého trestu sa odstupuje. Nech je na miesto   popravné vedený a tam popravným majstrom od hlavy po päty kolesom   lámaný. Hlava jeho sťatá a nakraji kolesa pribitá, celé jeho telo má   byť do kolesa vpletené a vedľa šibenice vyložené.
+   </tei:p>
+   <tei:p>
+    Tomáš Greguš nech je na šibenicu obesený. Iným na odstrašenie.   Obaja oddávajú sa do rúk popravného majstra!
+   </tei:p>
+   <tei:p>
+    Notár skončil, richtár sa zadíval na odsúdencov, ktorých drábi   obstali.
+   </tei:p>
+   <tei:p>
+    — Co si želáte? — zachvel sa mu hlas. — Aká je vaša posledná   vôľa?
+   </tei:p>
+   <tei:p>
+    — Ja by chcel ešte poriadnu večeru, — zadíval sa na sudcov Tomáš   Greguš.
+   </tei:p>
+   <tei:p>
+    — Dostaneš ju! — kývol mu richtár blahosklonne.
+   </tei:p>
+   <tei:p>
+    — A ty čo chceš? — obrátil sa k Jakubovi.
+   </tei:p>
+   <tei:p>
+    — Nuž, ja by sa chcel rozlúčiť so svojím dievčaťom.
+   </tei:p>
+   <tei:p>
+    — Dobre, i to sa ti splní. Nech nepoviete, vy zbojníci, že my,   Brezňania, nie sme ľudia!
+   </tei:p>
+   <tei:p>
+    Večer priniesli poriadnu hostinu do žalára obom. Odomkli im putá   aspoň na tú chvíľu, i tak boli od inkvizície zmučení a zlámaní ako   konope, vyšlé zpod trepačky. Niekoľko ozbrojených drábov sedelo   oproti nim a divilo sa, ako si popíjajú. Spomínali na veselé časy,   prežité v Orave a v Poľsku, v Novohrade a v Gemeri. Ba Jakub začal si   i nôtiť:
+   </tei:p>
+   <tei:p>
+    Hej, len vždy veselo, cic kozy, kozina, ked nám už i bije posledná   hodina!
+   </tei:p>
+   <tei:p>
+    Tu sa dvere zrazu otvorily a vošiel páter piarista. Zadíval sa na   odsúdencov a pristúpil k Jakubovi.
+   </tei:p>
+   <tei:p>
+    — Surovec, neviem, či vieš, ale ujal som sa ťa a vykonal pre teba,   čo bolo možné, — vykladal obom. — Neumriete na rínku, ale na   Viselniciach, kde sa už mnohí pred vami lúčili so svetom, a pre   poľahčenie, Jakub, priviedol som ti niekoho.
+   </tei:p>
+   <tei:p>
+    V tú chvíľu vystúpila z dverí Anka, a trasúc sa na celom tele,   zosutila sa Jakubovi do náručia.
+   </tei:p>
+   <tei:p>
+    Neostalo oka suchého, pochopili všetci, že ľudská spravodlivosť a   život sú dve veci. Chvíľky sa míňaly, slzy z dvoch krásnych ohnivých   očí stekaly sa v jedno.
+   </tei:p>
+   <tei:p>
+    Na druhý deň obsadili zvedavci okrúhly vŕšok ako vrany   ďatelinisko. Je to už v ľudskej povahe, ľudia sa hrozia utrpenia, ale   keď môžu, vždy sa perverzne pokochajú v ňom. Myslia, človek nie je   ako človek, a to zdá sa ich ospravedlňovať. Kamaráti šli na   popravište v centových okovách, nevládali napodobniť svojho kapitána   Jura Jánošíka a museli ich drábi podopierať. Bolestne obzerali sa po   rozváľaných kopcoch a vrchoch, kde im bol známy každý chodník, všetky   skaly a všetky studienky. Vydýchli si ešte zhlboka, ako by sa chceli   navoňať rozvitej boriny a oddýchnuť si na zelenej čečine. Hľadeli na   horu ľudí a poznávali tváre.
+   </tei:p>
+   <tei:p>
+    — Hen je Martin, hen zasa Gajdoš! — šepkal Tomáš Jakubovi.
+   </tei:p>
+   <tei:p>
+    — Vedľa Maco Veľký, a s ním, — zachvelo ním razom, — Anka, moja   Anička. S Bohom!
+   </tei:p>
+   <tei:p>
+    Bystrický kat začal už potom prácu krátko a chytro. Jakub ešte   zbadal Aničku, ako sa chytila za hlavu a utiekla. Zvedavci sliali sa   mu potom už v akúsi tmavú masu, nevedel viac, čo sa s ním robí, len   cítil, že prišla posledná hodina a že je to bolestné a hrozné.
+   </tei:p>
+   <tei:p>
+    V tú chvíľu vyrazil spev z ktoréhosi kúta zástupu a zachvel   srdcami, ako keď padajú nebesá.
+   </tei:p>
+   <tei:p>
+    Surovcova mati syna oplakáva, že mu popod nôžky vetríček povieva,   Surovcova mati syna oplakáva, že ho na koliesku vetríček   previeva.
+   </tei:p>
+   <tei:p>
+    Zachytil to ešte i Tomáš Greguš, pochopil, že tú pieseň složil   nielen pre Jakuba, ale i pre seba. Večer už bolo mlkvo a pusto na   popravišti, iba vrany zakrákaly, i tie letely kamsi do šerej   diaľky.
+   </tei:p>
+   <tei:p>
+    Ľud sa rozchodil, jedna časť na Hron, druhá na Bystricu a tá   tretia na Handle. Tam bola i Hanka, ktorá nemohla povedať slova,   vedela len jedno, že je koniec Jakubovho života a že to znamená i   život jej. Išla na Dobroč, ľahla ešte chvíľku do komôrky, kde okúsila   toľko sladkosti. Vedela, nechal jej všetko, poklad je dobre opatrený   a nenájde ho nik. Mohla by si žiť, mohla by sa vydať ako pani, ale čo   to všetko stojí? Človek nežije hmotou, a keby mal všetko zlato tohto   sveta a nikoho viac, žil by ako v pustom grúni. Načo by bol taký   život, načo? VII. Anka nevedela nájsť na svoju otázku odpoveď*   predstavilo sa jej všetko, čo zažila dobré i zlé, tak jasne, ako by   to prežívala znova. Videla zbojnícke hniezdo na kopci. Bolo pusté,   ani len stará Dóra sa neukázala, ani pes nezaštekal. Umordovanú   ovládal ju sen, ale aký to sen, len predstava za predstavou, a vždy   nejakí pondúri a vždy Uľa s hrozným závistlivým pohľadom. No veď   dobre, Jakub bol zbojník, ale dal i jej, a čo ona mala do toho, keď   mal i on niekoho rád? Ženská závisť prekoná všetko! Keď sa prebrala,   červenaly sa už zore, vedľa nej stála mať,
+   </tei:p>
+   <tei:p>
+    žena Veľkého Maca. Tešila ju, chlapov vraj dosť. I okrem Jakuba a   Tomáša, i okrem Žilku a Tonického, ktorých čaká podobné niečo vo   Zvolene ako týchto na Viselniciach.
+   </tei:p>
+   <tei:p>
+    — Bože môj! — zavzdychla Anka a obliekla sa ako na cestu.
+   </tei:p>
+   <tei:p>
+    — Kamže sa chystáš? — pýtala sa jej ešte mať zvedavo.
+   </tei:p>
+   <tei:p>
+    — Idem trochu do poľa, — odvetila dievka.— Hlava ma bolí, azda mi   prejde.
+   </tei:p>
+   <tei:p>
+    A pole už von ošumelo, lístie padalo z bučiny a jedlina pobledla.   Ani zem už nevoňala. Rozváľaný ležal ohromný Ďumbier, iba Viselnice   zdaly sa vypínať nad neho vysoko, vysoko do míkvej oblohy. — Ako   clivo je na svete, — zachvelo ňou, ked pozrela na červenkavú   oblohu.
+   </tei:p>
+   <tei:p>
+    V zapálených zorách zbadala hák, krivý hák... zlomený.
+   </tei:p>
+   <tei:p>
+    Chodila hodiny a hodiny, a nevedela o tom. Ostrý šíp a tŕnie   driapaly jej biele telo. Cítila, musí preč, preč, ako do čiehosi   náručia. Šla horou, potom vyblednutou pažiťou vyššie a vždy vyššie.   Volaly za ňou smreky i jedle a boriny. Márne — nepočula. Volaly za   ňou bystré potoky, mala vážnejšiu povinnosť pred sebou. Vyšla na   príkry skalnatý Vepor, ako by ju nieslo. Ked sa zmrákalo, utkvela   krásnym pohľadom, ktorý mohol ešte všelikoho blažiť, na večerných   zoriach, na svete krásnom, malebnom, ale na svete, ktorý nebol pre   ňu. Pozrela na Brezno, na svoju Dobroč a na všetko okolo nej, pozrela   znova na zore a striaslo ju. „Hák, hák ... krivý hák...“ mihlo sa jej   mysľou. „Ach, zlomený!“ zbadala ho znova a cítila, je to koniec.
+   </tei:p>
+   <tei:p>
+    V tú chvílu dostala sa nad samú priepasť, ktorá zíva na gemerskej   strane.
+   </tei:p>
+   <tei:p>
+    „Jakub, už idem za tebou!“ ovila si hlavu ako vencom bielymi   rukami, zastrela si oči a zrútila sa do bezodnej priepasti. Len na   jar, keď snehy opadaly, našli ju valasi, úbohú. Po šatách poznali,   mala by to byť ona.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

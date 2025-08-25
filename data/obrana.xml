@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944731" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Obrana : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1483
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Obrana
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tatran
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     OBRANA.
+    </tei:head>
+    <tei:head>
+     (Z rozpomienok advokáta).
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Oránil som akéhosi nešťastníka pred porotou. Prí-U pad bol   zaujímavý. Muž prišiel v noci domov. Žena pyskaňa, rozumie sa,   vyčitovala a stúpila mu aj do svedomia aj do česti. Nezniesol toho a   pohladil ju troška po hlave. Nie dlaňou, ako robievajú zamilovaní,   ale päsťou. Žena vykríkla, že ju zabije. Svokor, ktorý spal na   posteli, sa náhle zobudil. Skočil, chytil sekeru a zabil zaťa bez   akejkoľvek predmluvy. Všetko to stalo sa ani za minútu.
+   </tei:p>
+   <tei:p>
+    Prečítal som si niekoľko úvah o nepríčetnosti ľudí, najmä o   takzvanej somnolencii, to jest o tom stave človeka, v ktorom sa   nachádza hneď po rýchlom prebudení, kým príde k sebe.
+   </tei:p>
+   <tei:p>
+    Reč som si napísal, naučil sa ju nazpamäf, vypísal mená kapacít,   jednotlivé odseky úvah, porobil značky, kde budú nasledovať citáty,   poznačil ich červenou tuškou a všetko to strčil s písmami a trestným   zákonníkom do svojej advokátskej kapsy.
+   </tei:p>
+   <tei:p>
+    Bolo treba okolo štvrtej ráno sa hýbať, aby
+   </tei:p>
+   <tei:p>
+    96
+   </tei:p>
+   <tei:p>
+    ﻿som sa dostal na deviatu hodinu rannú do sedriálneho mesta na   pokonávanie.
+   </tei:p>
+   <tei:p>
+    Ako som sa dostal do vozňa, hneď som zadriemal. Zobudil ma priateľ   Zurkovský, notár z Orešoviec. Vysoký tenký chlap, s tenkými   vymastenými fúzmi, ako šidlo, tenkou tvárou, driekom a nožičkami, ako   pipasáriky. Šiel na poľovačku a bol v krátkom poľovníckom kožuchu,   klobúčiku skoro bez striešky, hrubých žltých topánkach a punčochách   do kolien, flintou dupľovkou a kapsičkou, ktorú som mu bol voľakedy   požičal a ktorej mi nevrátil. Upotrebúval ju na patróny, kapsle,   broky a gule. Mával v nej merťuk na pušný prach, prístroj na robenie   patrónov atď.
+   </tei:p>
+   <tei:p>
+    Mne bola táto kapsička voľakedy veľmi milá, lebo som ju bol dostal   od ženy do daru na naše prvé spoločné Vianoce. Preto som si kúpil   podobnú, keď som prišiel na to, aby človek nepožičiaval svojmu   priateľovi peňazí, fajky a kníh, ale ani advokátskej tašky.
+   </tei:p>
+   <tei:p>
+    Vyrozumel som, že ide s celou spoločnosťou na diviaky.
+   </tei:p>
+   <tei:p>
+    Kapsičku si otvoril, vyňal z nej aparát na robenie patrónov,   pripevnil ho na stolíček pod oknom, a počal robiť patróny. Ja som si   obzeral jeho flintu.
+   </tei:p>
+   <tei:p>
+    — Krásna flinta, — poznamenal som.
+   </tei:p>
+   <tei:p>
+    — A ako výtečne nesie. Ani sa nedá s ňou pochybiť.
+   </tei:p>
+   <tei:p>
+    Vzal mi ju z ruky a počal vysvetľovať systém
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    97
+   </tei:p>
+   <tei:p>
+    ﻿dupľovky. Kapsu zavrel aj s aparátom a položil k môjmu klobúku.   Keď mi všetko dopodrobna vysvetlil, opýtal sa ma:
+   </tei:p>
+   <tei:p>
+    — Ty nepoľúvaš?
+   </tei:p>
+   <tei:p>
+    — Nie, To je barbarská zábava.
+   </tei:p>
+   <tei:p>
+    Zasmial sa pohrdlive.
+   </tei:p>
+   <tei:p>
+    — Nerozumiem tých ľudí, čo nepoľujú, — počal. — Veď je to   najkrajšia zábava ... Si von pod holým nebom, v prírode. A príroda   je, ako krásné dievča. Či sa zobúdza, či kvitne, či umiera, či je   mŕtva, vždy je krásna. Ja ju najradšej mám, keď je mŕtva, bielou   snehovou plachtou prikrytá, lebo vtedy najskôr zradí nám poľovníkom,   kde čo skrýva ,..
+   </tei:p>
+   <tei:p>
+    — To je príroda a nie poľovačka, — protestoval som,
+   </tei:p>
+   <tei:p>
+    — A je to aj najzdravšia zábava, — pokračoval, nedajúc sa mýliť   mojou poznámkou. — Si na čerstvom povetrí. Jediný najúčinlivejší   nektár, čo nemusíme kupovať. Najlepšia medicína bez apatéky a   apatekára. Si v poli, alebo v hore, ssaješ bezprostredne ten nektár,   tú medicínu. Chodíš, beháš. Žalúdok ti troví o zlomkrky, krv koluje   aj v najzanedbanejšej čiastke tela. Hlava ti je jasná, srdce smelé   ,..
+   </tei:p>
+   <tei:p>
+    — Odhoď flintu, tak áno.
+   </tei:p>
+   <tei:p>
+    — Čoby odhadzoval. Vyhladnem, hneď si aj zastrelím na pečienku..,   Aj s ohľadu vedy odporúčam ti poľovačku, ako najmúdrejšiu zábavu.   Poľovník sa najviac dozvie. Ty toho zvera, na ktorého poľuješ, musíš   poznať, ináče ti na do-
+   </tei:p>
+   <tei:p>
+    98
+   </tei:p>
+   <tei:p>
+    ﻿strelenie nepríde. Jeho zvyky, jeho náturu treba mať v malom   prste. Ty ani to nevieš, ako sa máš postaviť, keď fúka vietor   povedzme zdola. Ako sa skryť, aby ťa zver nepocítil ? Kedy a ako   streliť na hlucháňa? Sprostý zajac ťa prekabáti...
+   </tei:p>
+   <tei:p>
+    Začalo ma hnevať, že sa tak rozhadzuje.
+   </tei:p>
+   <tei:p>
+    — Aký hrdý. Nikdy nič nezastrelíš. Ani dnes, — začal som ho   prekárať.
+   </tei:p>
+   <tei:p>
+    — Ja? Nikdy nepochybím. Počkaj, vykolem ti oči diviakom, Čo dnes   spálim. Mám predtuchu.
+   </tei:p>
+   <tei:p>
+    — Stavme sa, že nespáliš.
+   </tei:p>
+   <tei:p>
+    — No, — a podal ruku.
+   </tei:p>
+   <tei:p>
+    — Desať fliaš vína.
+   </tei:p>
+   <tei:p>
+    — Dobre.
+   </tei:p>
+   <tei:p>
+    Stisli sme si ruky.
+   </tei:p>
+   <tei:p>
+    — A kam idete? — spýtal som sa. — Do Firkanoviec. Odtiaľ   vozmo.
+   </tei:p>
+   <tei:p>
+    — To sa v Rebeli rozlúčime.
+   </tei:p>
+   <tei:p>
+    — Veru. Ty hore, ja dolu.
+   </tei:p>
+   <tei:p>
+    — Dlho čakáme?
+   </tei:p>
+   <tei:p>
+    — Skoro odrazu príde aj horný, aj dolný vlak. Asi pol hodiny.
+   </tei:p>
+   <tei:p>
+    Po chvíli sme aj sosadli, ale na krížne vlaky sme dlhšie čakali.   Bolo opozdenie. Ja som ustavične pozeral na hodinky, či dôjdem na   deviatu na patričné miesto. Čertovská vec by bola, keby sa tak   opozdil. Bol som nervózny. Chodil som čakálňou. Vychádzal na perón.   Vyzeral vlaky. So Zurkovským som sa skoro pohádal a dosť ľahko by   bolo prišlo aj ku zvade, ale zavolali do čakálne:
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    99
+   </tei:p>
+   <tei:p>
+    ﻿— Firkanovce, Bolemany, Rušť, — sadať.
+   </tei:p>
+   <tei:p>
+    A hneď potom:
+   </tei:p>
+   <tei:p>
+    — Curany, Plošť, Berezany, — sadať.
+   </tei:p>
+   <tei:p>
+    Schytili sme naše veci a každý vysadol do iného vlaku.
+   </tei:p>
+   <tei:p>
+    Vicinálka ťahala sa ako húsenica. Rúčka na hodinkách blížila sa k   deviatej a ešte dve stanice. Nemohol som obsedieť. Otváral som okná   raz na chodbe, raz v oddiele, vystrkoval hlavu, krk sem-tam vykrúcal   a hľadal väžu sedriálneho mesta. Nebolo jej vidno. Či sa prepadla, či   čo? — Šomral som a hrešil na všetky vicinálky, ktoré sa môžu na   orechovej škrupine prekotiť a pre jedného slimáka na koľajniciach   vrátiť. Ponosoval som sa nahlas sám sebe, že ma Pán Boh tak tresce a   tak sa mi vidí, že som aj nohami zadupkal v hneve a reptaní na svoj   mizerný osud. Aký je prézes, dá mi po nose, ak neskoro prídem. Rád by   bol pohnať celú mašinku, ale tá len ťučala, pomaly, komótne vypúšťala   dym, hrkala a škrípala podľa svojej vôle. Keby bol býval na blízku   konduktor, alebo vodič železnice, alebo ten, čo rýchlosť týchto   predpotopných detských hračiek rediguje, bol by sa zamotal do aféry,   taký som bol napálený. Možno, že by bol aj celý cigarník ponúkol, len   aby pohnali. Nuž ale bol som sám a poučil som sa.
+   </tei:p>
+   <tei:p>
+    Bolo deväť, keď som zazrel vežu. Desať minút po deviatej, keď sme   napokon zastali a mohol som vystúpiť. Pustil som sa behom ku   sedriálnej budove. Vyletel hore schodmi a vrazil do siene.
+   </tei:p>
+   <tei:p>
+    100
+   </tei:p>
+   <tei:p>
+    ﻿Práve vstupoval predseda so sudcami. Porotci už boli dnu. Vydýchol   som si. Shodil kepeň a dal ho sluhovi aj s palicou a klobúkom. Kapsu   strčil som pod pazuchu a sadol si na svoje miesto.
+   </tei:p>
+   <tei:p>
+    Pot sa mi rinul s čela a krku. Nestačil som utierať. Srdce mi tuho   bilo a ruky triasly sa.
+   </tei:p>
+   <tei:p>
+    Vec som mal znamenite preštudovanú. Svedkovia svedčili dobre.   Lekári, znalci duševných rozpoložení, boli môjho náhľadu.
+   </tei:p>
+   <tei:p>
+    Pri obrannej reči pustil som sa do rozoberania somnolencie.   Širokým gestom prehovoril som ku porotcom:
+   </tei:p>
+   <tei:p>
+    — Ctení páni porotci! Distingvujme a nikdy sa neprenáhlime.   Nepríčetný človek môže byť človek zdravý alebo chorý. Nepríčetný   chorý menuje sa bláznom ... Nepríčetný zdravý je alebo celkom opitý,   alebo tak rozhnevaný, že mu hnev rozum zatienil... Ten, koho ja   bránim, nebol ani opitý, ani rozhnevaný. On vtedy, keď zabil svojho   zaťa, spal. Áno, ctení porotci, on spal ... Ako hovorí nemecká   kapacita ... Ako hovorí tento ...
+   </tei:p>
+   <tei:p>
+    Meno kapacity mi nemohlo chytro prísť na um. Mal som ju poznačenú   aj s citátom medzi písmami v taške. Rýchlo som ju otvoril,   hovoriac:
+   </tei:p>
+   <tei:p>
+    — Krásne sa vyslovuje ... Nech mi je dovolené jeho vlastnými   krásnymi slovami...
+   </tei:p>
+   <tei:p>
+    Vopchal som ruku do tašky, a vyňal písma a značky. — Utešené slová   ... V tom ma čosi pichlo do prsta. Ruku som
+   </tei:p>
+   <tei:p>
+    101
+   </tei:p>
+   <tei:p>
+    ﻿z kapsy vytrhol. Tá sa prevalila a ja hádžuc rukou v povetrí od   bolesti s vytreštenými očami som hľadel, čo sa robí.
+   </tei:p>
+   <tei:p>
+    Vysypaly sa na zelený stolík patróny, pušný prach, broky, gule,   hulsne na patróny a aparát. Qule skotúľaly sa so stolíka na podlahu   až ku porotcom. Poľovnícky nožík trčal z kapsy. Merťuk na pušný prach   zaletel ku fiškusovi. On ho rukou zachytil a udrel naň tak, že všetky   rúčky a tušky počaly sa hýbať a kotúľať. Ktorýsi červenovlasý porotca   vyskočil. Za ním druhý, tretí. Utekaly sbierať popadané veci. Prézes   sa na stoličke nepokojne pošuchol a prehnúc sa cez stôl, pozeral, čo   to porotci sbierajú.
+   </tei:p>
+   <tei:p>
+    Nemohol som hovoriť od prekvapenia a musel som mať veľmi sprostú   tvár, lebo sa mi jeden prísediaci sudca zasmial. A ako som sa   obzeral, tak som videl, že sa aj fiškus smeje, i niektorí porotci i   sám prézes. Trvalo aspoň desať minút, kým som sa zotavil a vec si   vysvetlil.
+   </tei:p>
+   <tei:p>
+    S horkým úsmevom som poznamenal:
+   </tei:p>
+   <tei:p>
+    — Cestoval som s poľovníkom a kapsy sme si prečarovali...
+   </tei:p>
+   <tei:p>
+    — Aby človek vždy distingvoval a nikdy sa neprenáhli, — Šibol ma   predseda, citujúc z mojej, obrannej reči.
+   </tei:p>
+   <tei:p>
+    Uklonil som sa mu na znak súhlasu a zachytiac tento citát,   pokračoval som v reči.
+   </tei:p>
+   <tei:p>
+    Idúc s pokonávania, skoro som sa sám sebe zasmial. Predstavil som   si, ako Zubrovský strieľal s citátom nemeckej kapacity. Diviaka iste   nespá-
+   </tei:p>
+   <tei:p>
+    102
+   </tei:p>
+   <tei:p>
+    ﻿lil a mne stránku aj bez citáta osvobodili. Na tú radosť dobre   padne vypiť si vyhratých šesť fliaš vína.
+   </tei:p>
+   <tei:p>
+    Nazpäf idúc na vicinálke ma ešte jedna radosť očakávala: Prišlo mi   na um meno kapacity: Freud! Aby ťa čert vzal. A doma ešte jedna:
+   </tei:p>
+   <tei:p>
+    Zubrovský mi vrátil kapsu aj s písmami.
+   </tei:p>
+   <tei:p>
+    Iste v hneve.
+   </tei:p>
+   <tei:p>
+    103
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

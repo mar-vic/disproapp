@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944376" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Balek : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     856
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Balek
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     BALEK.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Na Júla Vrátnického, právnika, povedali, že je solídny, tichý   mladý človek, všetko také vlastnosti, ktoré prvoročnému   právnikovi-balekovi nemôžu lichotiť, a Julo aj všemožne bojuje proti   ním; má elegantný byt, peknú mesačnú gážu a 12 ceduliek zo záložnice,   v kaviarňach opretý o malý mramorový stolíček robí Napoleonovskú   figúru a prekibicuje celé hodiny pri biliarde; nosí cylinder podľa   najnovšej módy, veľké biele mašle a široké nohavice. Aby dokázal   svojim kolegom, že je nie balekom, neplatí účty a, hoci ho hryzie   svedomie, splní slovo, ale dá čakať svojim veriteľom. Ale keď   niektorý pohrozí mu advokátom, ticho vyťahuje tobolku a platí, ale   pred kolegami hovorí, že mal dnes na krku exekúciu a že mu zapísali   nový kabát. Vo veľkom meste, keď človek má plnú peňaženku a nie je   pritom zlodejom, veľmi dobre sa cíti. Otvorený je pred ním celý svet.   Všade môže vstúpiť s jasným čelom, lebo nemusí počítať: mám dve   zlatroba 20 kŕ., palica 5 kŕ., ostalo by 5 hákov, a za to ky, z toho   vstupné 1 zl., dve fľaše piva 60 kŕ., gardepo polnoci neotvoria   brány.
+   </tei:p>
+   <tei:p>
+    Juľo je zriedka v takýchto nesnádzach, lebo stáva gážu, ktorá trvá   tri dni, 15. si dá do záložnice čistiť zlatú retiazku, za čo dostáva   20 zl. Z toho 5 zl. požičia, znamenite poobeduje a večer mení piatku   na päťkrajciarniky a rozsýpa ich po kaviarni, čo kelnerov a jeho   neobyčajne zabáva. Ľúto mu je prefúkaných peňazí, ale pritom ho blaží   myšlienka:
+   </tei:p>
+   <tei:p>
+    35
+   </tei:p>
+   <tei:p>
+    ﻿„Hľa, ukázal som, ako sa viem zabávať. Kto ešte povie, že som   balek?
+   </tei:p>
+   <tei:p>
+    Pomaly, pomaly prichádza prvý. Júlové ruky sú holé, vo veľkej   mašli nevidieť blýskať sa diamantovej ihlice a pepita nohavice s   cylindrom zišlo by sa dať vyhladiť.
+   </tei:p>
+   <tei:p>
+    Roztomilý prvý vráti všetko a Julo je znova elegantný, šarmantný a   má peniaze!
+   </tei:p>
+   <tei:p>
+    A tak to ide každý mesiac. Časy miznú ako bankovky do kasy   kelnerov. Prázdniny, táto mátoha, blížia sa.
+   </tei:p>
+   <tei:p>
+    Vrátnický počúva samé otázky. Otec píše list, a celý obsah jeho je   otázka, či sa učí. Posiela mu peňažný list, a hľa, v kútiku vidí   belasou ceruzou napísanú vetu: „Ale aby si sa učil! Na poukážke   a všade tá istá veta: kolegovia tiež o učení hovoria — hlupáci. Na   Júlovom srdci ťažoba. Skúška straší ho, takmer máva vízie; je nevrlý,   nervózny, ani to pivo mu už nechutí.
+   </tei:p>
+   <tei:p>
+    — Kamarát, nemôžem sa učiť. Ale zato vari len ísť na skúšku, čo? —   hovoril v jedno júnové popoludnie plnolícemu medikovi.
+   </tei:p>
+   <tei:p>
+    Medik, vážne, ani čo by išlo o život, zamyslel sa a povedal:
+   </tei:p>
+   <tei:p>
+    — Co by čo bolo!
+   </tei:p>
+   <tei:p>
+    — Nuž tak pôjdem. A čo myslíš, budem vedieť voľačo?
+   </tei:p>
+   <tei:p>
+    Vrátnický naozaj zadal prosbu o skúšku, dostal termín, ale že sa   ho tam nespytovali, koľko vypil piva cez tento rok, čo má založené a   u koho si dal nohavice šiť, milý Juľko nevedel nijako odpovedať a   prepadol.
+   </tei:p>
+   <tei:p>
+    V kaviarni je veselá študentská spoločnosť. Je ešte len 11 hodín   večer a stoly sú zavalené prázdnymi fľašami.
+   </tei:p>
+   <tei:p>
+    36
+   </tei:p>
+   <tei:p>
+    ﻿Každý je veselý, len Juľo s mračnou tvárou sedí a díva sa do   prázdnoty na akýsi neviditeľný punkt. Kníše nohou prehodenou na   koleno a kúri, ani čo by sa chcel zaúdiť. Do zúfania mu je: treba ísť   domov a s takým indexom, s takou skúškou! Vidí pred sebou prísneho   otca, dobrú, plačúcu matku nad nevďačným synom. Myslí, myslí, ako by   sa vymotal, ale máme. Do Dunaja nechce sa mu hodiť, pod vlak tiež   nie. Bože! Bože!
+   </tei:p>
+   <tei:p>
+    Ako je veselo kamarátom, ani čo by sa nebolo nič stalo. Hľa, i Ema   pri kase sa usmieva, ktorej koľko ráz platil koňak, toľko ráz   hovoril, že je nie viazaný na štúdium, na roky etc., etc. — a   teraz... Napokon vytrhúva ho z tejto letargie rečník mládeže,   desaťročný právnik, človek hlbokého umu a ostrihanej hlavy, Janko   Krkavec.
+   </tei:p>
+   <tei:p>
+    Rečník začal;
+   </tei:p>
+   <tei:p>
+    — Vysokoctená spoločnosť! Vidíme pred sebou kandidáta smrti. Jeho   žiaľ je i naším žiaľom. Navrhujem, aby Juľo Vrátnický zaplatil desať   fliaš tomu, kto vytrhne ho z pomykova! — Shrnul hriadku do dlane a   zdvihnúc vysoko pohár, dokončil:
+   </tei:p>
+   <tei:p>
+    — Teda páni! Napnime nite myšlienok a vysúkajme rukávy! Ja som   taký smelý navrhnúť toto: Kúpa za 60 hákov index, — prosím   nepretrhúvať ma, poznámky trpím len keď dokončím, dá sa spraviť   pečať, utvorí sa profesorský sbor. Každý z nás bude reprezentovať   profesora tej a tej vedy. Zajtra bude mať pán Juľo Vrátnický   elegantný index a výtečnú skúšku!
+   </tei:p>
+   <tei:p>
+    Juľo zbledol od radosti. Vstal, poďakoval sa a dal doniesť pätnásť   fliaš piva.
+   </tei:p>
+   <tei:p>
+    Svitlo ráno, Juľo chodí po ulici s bledou, vylumpovanou tvárou.   Ide na podpis k profesoromštudentom. Hvízda si, veselo mu je, ani čo   by celý svet bol jeho. Stal sa proti svojmu charakteru matematikom:   počíta v hlave dlžoby. Najväčšmi škrie
+   </tei:p>
+   <tei:p>
+    37
+   </tei:p>
+   <tei:p>
+    ﻿ho tých 12 ceduliek, no ale za to ostane ešte na jeden večierok s   kamarátmi.
+   </tei:p>
+   <tei:p>
+    Študent Krkavec — teraz profesor filozofie — ráčili ešte   odpočívať, medik Z., profesor verejného práva, sa práve obúval, ale   zato napísal mu: výtečne, znamenite kolokvoval. Jufo ponúkol ho   cigarou a Z., pomýliac zástoj, ju prijal. Daňovský, profesor   národného hospodárstva, zapísal mu skvelú známku. Keď už i Krkavec   podpísal index, Jufo šiel na stanicu, sadol do vagóna a letel domov.   Rodičia mali veľkú radosť, keď videli krásne svedectvo o složenej   skúške. Že ich oklamal, vyzradil im až po rokoch ako advokát.
+   </tei:p>
+   <tei:p>
+    38
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

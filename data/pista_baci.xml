@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194333" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Pišta Báci : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1453
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Pišta Báci
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PIŠTA BÁCI.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Kálloy, Pišta Kálloy ... pri tomto mene obyčajne pohly sa obrvy v   neveľkom mestečku Horovciach. Hovorilo sa to i proste Pišta báči a   všetci vedeli, čo to meno znamená. Bol to prvý elegán meštianskej   spoločnosti, aký sa dnes už nerodí. Patrične s novou dobou vymizla   táto nevšedná rasa, keď i na elegantných pánov nieto veľkej biedy,   ale taký elegán, ako Pišta báči, to už dnes márne hľadať. Obstarný,   prešedivený, s rozdelenou, krásne pestovanou bradou, navoňavený, s   kostenou paličkou v ruke a s vonnou cigarou v ústach. Chodil pán   riaditeľ mestskej sporiteľne do spoločnosti medzi pánov, a najmä   dámy, stával sa nezbytným členom, riaditeľom večierkov a zábav aj pri   svojom vyššom veku, dáma bola obyčajne šťastná, ak sa jej venoval.   Nuž opravdivý Don Juan. Hľadal ilúzie a vedel ilúzie vzbudzovať. Koho   si on opriadol do svojich pavučín, tá dušička obyčajne svesila   krídelká a neuletela. Vedel využívať život do poslednej kvapôčky. A   nielen on, i jeho rodina, žena, prvá dáma mesta, synovia, verní   napodobnitelia svojho drahého otca, i dcéry, z nich mladšia Piroška   bola ešte žiačkou. Bývali v priestrannom byte, bohato vyzdobenom a   stále navštevovanom hosťami. Ľudia sa obrátili u nich pre zábavu i z   povinnosti a boli vždy vítaní. Nebolo príležitosti, ktorá by našla   domácu paníu nepripravenú, vždy bolo hned všetkého na stole a PIšta   báči i všetci ostatní pričinili sa z celej sily spraviť prítomným   chvíle čo najpríjemnejšie. Kuchyňa bola vždy poruke v plnej potencii,   ako by aj nie?? U Kálloych varilo sa vždy osobitne pre každého podlá   vôle a chuti. Pribudlo niekoľko ľudí? — navarilo sa i pre tých.
+   </tei:p>
+   <tei:p>
+    O veselom, bujnom živote vedelo celé mesto. Hovorilo sa mnoho o   dámach, viac o mladých pánoch a najviac pikantérií o prešedivenom   Pišta báčim. Vedelo sa, ako si vie vždy vybrať do svojho domu   najkrajšie dievčatá z vidieka a vie sa im aj zavďačiť. Ani to nerobil   len pre seba. Keď niektorej noci mladší syn Štefan náhodou zablúdil   do služobnej a zbadal, že nie je sama, vynašiel sa hneď.
+   </tei:p>
+   <tei:p>
+    — Si to ty, Imro, a či azda apa ? — pýtal sa na staršieho brata,   keď sa v takom panskom dome môže všeličo udať.
+   </tei:p>
+   <tei:p>
+    Kto bol, ten bol, nezávideli si a dopriali si všetko. Veselý a   prirodzene veľmi nákladný život nebil do očú zpočiatku nikomu. Bola   to už tradícia od niekoľko sto rokov, ktorá medzi starými múrmi mesta   našla vždy pokračovanie i svojich reprezentantov.
+   </tei:p>
+   <tei:p>
+    Na tento čas bol ním veľkomožný pán bankovej sporiteľne Kálloy   Ištván. Nebola to jediná jeho hodnosť, zosobňoval i kultúrne snaženie   mesta. Mimo divadiel a bálov bol i predsedom školského kuratória a   manipuloval i prostriedkami, došlými z ministerstva. Zpočiatku šlo mu   to hladko a poctivo, neskôr ho život, rodina a priatelia zamotávali.   Kdekomu sišlo na um, či Pišta báčimu stačí na to všetko. Prišlo to na   myseľ i jemu. Pochopil skoro, čo sa robí doma
+   </tei:p>
+   <tei:p>
+    i okolo neho. Snažil sa vzpierať, ale stroj bol už priveľmi   zachodený, stŕhal už sám a tlačil. V banke holý tiež chyby.   Dobromyseľným, prostunkým ľuďom darilo sa skúsenému riaditeľovi   zavesiť všeličo. Tam však jest čím plátať. Školské peniaze robily už   viac starostí, ale vysokými stykmi dalo sa tiež lecičo zaokryť. K   tomu však dopadaly každodenné potreby. Z obchodov bralo sa na úver a   nebolo už v Horovciach obchodu, kde by nebolo dlhu a dlhu.
+   </tei:p>
+   <tei:p>
+    Slučka sa zaťahovala, ale u Kálloych plynul tok života ako prv.   Hostiny, zábavy, divadlá, toalety — rútilo sa nezastaviteľne ako   pretrhnutý stav. V očiach famílie tá istá bezstarostnosť a bohéma do   nekonečna. Na perách Pištu báčiho ten istý úsmev a v ruke tá istá   kostená palička. Nikto netušil, aká hrozná krútňava visí nad panským   domom Kálloych. Pišta báči ani pri tejto ohromnej starosti nezabúdal   na svoje deti. Staral sa o synov — mať vždy niekoľko korún vo vrecku,   o ženu a dcéry, aby sa mohly bezchybne obliekať, nezabudol ani na ich   duševnú výchovu.
+   </tei:p>
+   <tei:p>
+    — Počuj, kamarát, — oslovil raz miestneho rechtora, — nemohol by   si ty chodiť k nám a vyučovať našu Pirošku hudbe! Nahradím ti tvoje   ustávame statočne.
+   </tei:p>
+   <tei:p>
+    — Ale, Pišta, — odpovedal oslovený dobrácky, — prídem a urobíme   to. — Rechtor, ktorý u úradných pánov nebol v nejakej obľube pre   svoju slovenskosť, z neistého pohľadu riaditeľa Kálloyho vybadal   hneď, že ho čosi drhne. Niečo z toho i vedel, lebo sa o zadlžení   rodiny dostávalo mnoho na povrch. Zato šiel na pozvanie, ktoré tak   dôverne znelo. Oni medzi sebou nemali nič zlého, okrem toho, že   Kálloy bol uzavretý do svojej vysokej kasty a zabudol, že sa volal   kedysi Kapsa. Jeden plával s prúdom, druhý proti prúdu.
+   </tei:p>
+   <tei:p>
+    Piroška bola vďačná klavírovým hodinám. Učila sa, pohýnala prsty a   upierala s velkou dôverčivosťou zelenkavé očká na svojho učiteľa.
+   </tei:p>
+   <tei:p>
+    Raz sedeli takto zahrúžení do práce, zrazu sa otvoria dvere a   vstúpi elastickým krokom pán otec Pišta Kálloy. Elegantný tmavý   oblek, striebristá brada starostlivo rozdelená, iba oči bez   úsmevu.
+   </tei:p>
+   <tei:p>
+    — Piroška, — privraví sa dievčaťu chladno, — nechaj nás tu chvíľu   samých, chcem si s ujom o niečom prehovoriť!
+   </tei:p>
+   <tei:p>
+    Keď ostanú sami, Pišta si ustato sadne a obráti akosi zvlhnuté oči   na priateľa. Badať, deje sa čosi v jeho duši. Jeho hrdosť, tá je tam.   Letí na hŕbu ako podťatý peň. Rechtor udivený čaká, čo bude,   zabudnutá pieseň leží na klávesoch a vypäté struny chvejú sa ešte   posledným zvukom.
+   </tei:p>
+   <tei:p>
+    — Kamarát, — pretrhne kovovým hlasom zamlknuté, tvrdé ticho, —   prosím ťa o niečo. — Nech sa ti páči, čím môžem poslúžiť, — nepoznáva   učiteľ hrdého riaditeľa sporiteľne a stĺp miestneho spoločenstva.
+   </tei:p>
+   <tei:p>
+    — Zaspievaj mi a zahraj Sládkovičovu pieseň Hojže, Bože!
+   </tei:p>
+   <tei:p>
+    Prekvapený takou žiadosťou, zadíva sa na neho rechtor, čosi sa mu   zachveje v duši, o chvíľu však prsty spočinú na klávesoch, prsia sa   vypnú a prepychové zariadenou miestnosťou, kde sotvakedy znel   slovenský hlas, zhučí akord za akordom a roznesú sa slová, ktoré keď   kto raz počuje, nezabudne nikdy.
+   </tei:p>
+   <tei:p>
+    A Kálloy ich kedysi počul. Časy prešumely od tých čias nad jeho   sivou hlavou, hádzaly na
+   </tei:p>
+   <tei:p>
+    neho kvety i kamene. Okúsil zo všetkého, čo len výstredný   spoločenský život mohol dať. Rozdával plnou hrsťou svojim i nesvojim.   Niekdy za pekný pohľad, niekdy za horúci bozk a doprial každému   všetko, ale i sebe. Cítil, ako ho unáša obdiv, ako mu žičí, ale i   žiada do nekonečna. Vydolel to roky, roky. Napokon sa sosutilo všetko   a zdá sa, niet viac kade ujsť, preto sa vracia k piesni, ktorú poznal   v detstve, chce sa zachytiť do nej, do jej melódie, do jej slov, do   jej vln. Hojže, Bože!
+   </tei:p>
+   <tei:p>
+    A klávesy zvučia, ako by hovorily k duši, ako by mu bily na   sklamané, ubolené srdce. Pred zraky stavajú sa mu osoby, ktoré hraly   veľký zástoj v jeho živote, tratia sa jedna za druhou ako’ vyblednuté   tiene, miznú v záhadných tónoch: Hojže, Bože, jak to bolí, keď sa   junač roztratí... Odnášajú po kuse z toho srdca, žena i deti, milenky   i priatelia, a čo ostane z neho napokon ? Co zo slávy, čo z   bohatstva, čo z prehýrených nocí, — všetko sa stráca, všetko ktosi   zaberá, ako snopy z poľa, a rechtor spieva ďalej, až dušou otriasa,   až na kostené klávesy, na pestré perzské koberce hrnie sa slza za   slzou.
+   </tei:p>
+   <tei:p>
+    Hojže Bože, Bože drahý, ber len — ved čože stratím? Na ten svet   som prišiel nahý a nahý sa navrátim;
+   </tei:p>
+   <tei:p>
+    len sa potom neuchyľuj pred ostatnou potrebou: pomiluj. Bože,   pomiluj, ked ostanem sám s Tebou!
+   </tei:p>
+   <tei:p>
+    Slová zmlkly, posledné akordy zasýpaly usedavý nárek ako hrobár   prsťou. Rechtor sa vzchopil a zlomeného obra priateľsky pohladil po   sklesnutej hlave.
+   </tei:p>
+   <tei:p>
+    Večer toho istého dňa videli v Horovciach pána riaditeľa banky a   predsedu školského kuratória nasadať na železnicu. Tvár mal   zblednutú, ale nikto netušil, čo sa v jeho duši deje. Prítomným a   známym na peróne zakýval rukou s ľahkým úsmevom na perách. Nad mestom   visel tmavý mrak, ktorý sa mu zdal utekať za nim, i keď sa vlak   pohol. Usmial sa i naň. Zaberal po krásnej hornatej doline, kamsi   nadol, nadol, a ten čierny mrak všade za ním, ako by to bola čiasi   dlhá, dlhočizná ruka, siahajúca po svojej obeti. Kálloy pochopil, tou   obeťou mal byť on. Mal by však už skončiť? On, taký vážený,   obdivovaný, všelijakou poctou zahrnovaný človek. Mal by sa poddať,   keď dráha ešte taká ďaleká pred ním!
+   </tei:p>
+   <tei:p>
+    „Nie, nie,“ vzpäl sa v druhotriednom kupé znova, hrdo, odmerane,   ako robieval v šťastnejšie časy. „Všetkému je spôsob, človek nesmie   zúfať. Sú ešte ľudia! Pochopia ma a pomôžu!“
+   </tei:p>
+   <tei:p>
+    A ťažký dym rozsieval ohnivé iskry po kraji, ktorým sa už   stmievalo.
+   </tei:p>
+   <tei:p>
+    Cesta sa míňala, železničné svetlá sa chvely, vlak šiel vždy   nadol, nadol, a čierny rozťahaný oblak za ním ako smútočný závoj. „Co   je to?“ všimol si ho Pišta báči. „Aké divné, ako Osud, ktorému ťažko   ujsť.“ Kolesá dunely, so skalnatých vrchov spúšťaly sa na žírne   roviny. Ráno zastaly v Bratislave. A večer, keď sa zažaly   bratislavské svetlá, našli ľudia niekoho na dunajskom brehu oproti   propeleru s prestrelenou hlavou. Neušiel svojmu Osudu!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

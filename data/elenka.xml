@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944532" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Elenka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3814
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Elenka
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ELENKA.
+    </tei:head>
+    <tei:head>
+     (Črta.)
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    I ružička, i klinček je pekný kvet, ale najkrajší je predsa len   pekné dievčatko. I slečna Žofka Kobulíková, i slečna Máľa Červeňová   sú pekné dievčatká, ale najkrašia je predsa len Elenka Ježíková. Na   moj pravdu. Slečna Žofka má pritučné líca, slečna Máľa má zasa   chudučké, ale Elenka ani tučné, ani chudé, tak najlepšie. Slečne   Žofke riadením Božím ide nos akosi do šírky a je akýsi veľmi mäsitý,   tučný, slečne Mále ide do výšky. Elenke ani do šírky, ani do výšky.   Jej noštek je taký najlepší. Slečna Žofka má blízko 20 rokov, slečna   Máľa 19. Elenka nemá ani 19, ani 20. Je v najkrajšom veku. Má na 16.   rok. A keď sa jej lepšie prizrieme, vidíme na nej všeličo naozaj   pekného. Vidíme belavé vlásky, tuho prihladené k okrúhlej hlávke a   spletené v jeden vrkôčik s ružovou mašľou na konci. Vidíme veľké,   podlhovasté oči, sivé, ale pekné a tichučké, pokojné. Líca s ružovým   nádychom a tváričku čistú, bielučkú. V ušiach, do polovice zakrytých   vlasmi, zazrieme veľké korale. Okolo hrdla zlatú retiazočku a na nej   ďatelinku, alebo srdiečko, alebo krížik. Skrátka, slečna Elenka je   podarené dievča.
+   </tei:p>
+   <tei:p>
+    Ach, a keby ste vedeli, aká je jednako nešťastná, iste by ste ju   poľutovali. Ako by aj nie! Má na 16. rok, nosí polodlhé sukne, dva   razy prečítala všetky novely Vajanského, tri razy sa pustila do
+   </tei:p>
+   <tei:p>
+    52
+   </tei:p>
+   <tei:p>
+    ﻿„Proti prúdu, a otec jej ešte vždy hudie, že je mladá.   Mladosť je síce veľmi príjemná vec, ale keď nám každú hodinu dva razy   povedia, že sme mladí, napokon si to i vyprosíme. Tak je to s   Elenkou. Ju len preto, že je mladá, nechce otec nikam pustiť samotnú.   Potrebuje štvrtku kretonu, už jej zavesia na krk Marku, starú   kuchárku. Potrebuje hodvabné nite, to isté. Vždy jej je pri boku   škaredé Marisko. Ani na krok bez nej, ako by sa bála samotná. Aké je   to zahanbujúce! Toľko ľudí, mladých ľudí, na ulici, a ona chodí s   Markou len preto, že má na 16. rok, a to je primálo na to, aby človek   chodil po slobode, ako sa jemu páči. Nedávno sa pýtala do spevokolu —   ale tu máš! Otca nedajbože nahovoriť. 2e je vraj mladá. Kto slýchal,   aby sa také dievča samotné po nociach túlalo! O dva roky dosť času na   také veci myslieť. Zasa mladosť, ustavične mladosť. Príde nejaký bál,   a už ju šutrujú — na galériu, a nie dolu, medzi tancujúcich. „O dva   roky budeš chodiť dolu, vraví otec. Nuž a prečo sa už pred dvoma   rokmi učila tancovať? Zabudne všetko. A veď je nie taká mladá. Pred   pár dňami jej i úlohu priniesli, aby zahrala v divadle akúsi Milku.   Keby bola taká mladá, nenosili by jej úlohy. Otec jej nedovolil. A   bola by ju tak krásne a s citom zahrala. Všetci mladí ľudia a   kamarátky boli by jej gratulovali. Otec sa vari bojí, že by ju   ukradli alebo vietor odniesol, či čo?
+   </tei:p>
+   <tei:p>
+    Ustavične aby doma sedela a vyšívala prikrývadlá pod lampy, na   stolík, na väčší stolík, na okrúhly, na dlhý. Slovom, na všetky   stolíky a pod všetky lampy. Elenka i najradšej vyšíva. Pri vyšívaní   treba pozor dať. Tu zabudne, že je mladá, zabudne na svoje nešťastie.   I keď novelu číta alebo na klavíri hrá, tiež zabudne, lebo i tu treba   pozor dať. Nuž ale toto sú len chvíľky, tie nepomôžu boľavému srdcu,   neuľavia rozbolenej duši. Veď čo je chvíľa v roku? Toľko ako kvapka v   mori. A čo je kvapka
+   </tei:p>
+   <tei:p>
+    53
+   </tei:p>
+   <tei:p>
+    ﻿v mori, čo zrnko piesku na Sahare a čo chvíľa pokoja pri večnom   nepokoji? Celkom nič. Elenke je skutočne vždy do plaču, keď si   pomyslí na toto všetko. Ako je druhým dobre, a ona biedna, biednušká!   Najlepšie by bolo umrieť do roka.
+   </tei:p>
+   <tei:p>
+    Nuž ale Elenka, a tie pekné nedele? Ozaj, nedele, jedinká   vychádzka bez Marky! Elenka sa im i raduje. Raduje sa tej hodinke,   keď má ísť do kostola. Každú nedeľu berie svoj spevníček s kalichom   zo slonovej kosti. Odtrhne pár kvetov v záhrade a ide, nehľadiac ani   napravo, ani naľavo. Len kedy-tedy očistom pozrie zpod klobúka na   kadétika s pásikmi na golieri alebo na väčšieho študenta. Rozumie sa,   že kadétikov a študentov je mnoho v nedeľu, a tak Elenka mnoho ráz   pozerá zpod klobúka. Keď je v kostole, sedí, pravda, ako primrazená k   lavici. Kuká iba na pána farára a do spevníka. Kde treba modliť sa,   hlboko skloní svoju šiju a modlí sa; keď spievajú, spieva s ostatnými   a nevynechá ani jedinkého tónu. Akože nemal by mať rád Pán Boh takéto   dievčatko? Kto sa Jemu modlí, prosby a žiadosti jeho splnia sa.
+   </tei:p>
+   <tei:p>
+    Hľa, v jedno nedeľné predpoludnie práve išla z kostola a zápät za   ňou mladý človek. Prešiel úzko popri nej a pozrel na ňu. Zbadala len   malé čierne fúziky. Krv vstúpila jej do tvári a srdce zatrepotalo.   „On ma môže osloviť”, prelietlo jej mysľou, „a ja sa budem   červenať A skutočne, mladý pán zdvihol klobúk a poklonil   sa.
+   </tei:p>
+   <tei:p>
+    — Však slečna Ježíková? — spýtal sa, ako to už býva, s príjemným   úsmevom. — Ja piadim k vám, vlastne k pánu advokátovi. Dovolíte, aby   sme spolu šli?
+   </tei:p>
+   <tei:p>
+    Zašibrinkoval paličkou v ruke, pohodil plecami a potrhol si krídlo   na kabáte.
+   </tei:p>
+   <tei:p>
+    — Vlastne ani neviem, — pokračoval mladý človek, — kde pán advokát   býva. Práve teraz som
+   </tei:p>
+   <tei:p>
+    54
+   </tei:p>
+   <tei:p>
+    ﻿sa pýtal. Vravia, tu ide jeho slečna-dcéra. Ja, reku, slečna ma   zavedie. Preto bol som taký smelý.
+   </tei:p>
+   <tei:p>
+    Opäť naddvihol klobúk a s milostným úsmevom pozrel na Elenku.
+   </tei:p>
+   <tei:p>
+    Bože! Ako nepríjemne jej *bolo. Raz nevedela, čo povedať a či   vôbec niečo povedať. Hľadela do zeme a cítila, ako červenie. — Ja sa   červeniem, — dumala, — a prečo sa červeniem? Bude ma považovať za   decko. Hlúpo. A načo sa vlastne pripojil? Ja ho vôbec neznám. To sa   vari ani nesvedčí. Jednako zišlo by sa niečo povedať — ale čo, čo?   Aká som hlúpa!
+   </tei:p>
+   <tei:p>
+    — Slečna ide z kostola? — pýtal sa. — Áno.
+   </tei:p>
+   <tei:p>
+    — A aký text bol dnes?
+   </tei:p>
+   <tei:p>
+    — Text?
+   </tei:p>
+   <tei:p>
+    — No, áno. O čom kázal pán farár?
+   </tei:p>
+   <tei:p>
+    Dievča zadivené pozrelo na neho. Jeho to zaiste nezaujíma, a   predsa sa spytuje. Pritom zbadala, že má veľkú čiernu mašľu a v nej   zapichnutú červenú svinku. Vyňal ručník; zapáchlo od neho parfumom.   To utvrdilo Elenku, že sa on nemôže zaujímať o také veci.
+   </tei:p>
+   <tei:p>
+    — Prečo? — spýtala sa ho.
+   </tei:p>
+   <tei:p>
+    Hlas jej samej tak čudne zaznel, že si ho nepoznávala. Hneď i   odvrátila tvár a zadívala sa opäť do zeme. Zrýchlila krok, a ani to   nezbadala.
+   </tei:p>
+   <tei:p>
+    — Ako vy utekáte slečna! Ale ak chcete, ja pôjdem za vami. I tak   trafím. Chcete?
+   </tei:p>
+   <tei:p>
+    Badal jej zmätenosť a cítil akúsi sústrasť k nej, ale i radosť, že   sa pred ním červenie. „Ako cez sklo vidieť tomuto dievčatku do   duše, myslel si. „Nevie ešte zakrývať city. Čítaš z jej tvári   ako z knihy. Ako mädlí ten svoj spevníček, k lícu ho dvíha, len   preto, aby som nevidel jej zmätok. Chúďa!
+   </tei:p>
+   <tei:p>
+    55
+   </tei:p>
+   <tei:p>
+    ﻿— Pôjdem za vami, — opätoval. — Veď sme už doma.
+   </tei:p>
+   <tei:p>
+    Prišli k bránke. Elenka chcela ju otvoriť a mladý pán tiež. Ruky   sa im stretly. Ona odchytila svoju.
+   </tei:p>
+   <tei:p>
+    — Ako sa vy mňa bojíte, slečna! Veď my sa od dnes denne budeme   stretávať. A vy sa mňa máte báť?
+   </tei:p>
+   <tei:p>
+    Otvoril bránku a pustil Elenku vopred.
+   </tei:p>
+   <tei:p>
+    — Nech sa vám páči. Vy sa mňa nesmiete báť, ečna ... A vidíte, ani   vášho mena neviem. Ja som, í chcete vedieť, už čo sa môjho mena týka,   Becko. láč som jurista a váš budúci koncipient.
+   </tei:p>
+   <tei:p>
+    Chcelo sa mu povedať, že až bude treba, skoncipuje i ľúbostný   lístok pre slečnu, ale cítil, že by ju tým zahanbil.
+   </tei:p>
+   <tei:p>
+    — Tak vidíte, — doložil, — musíme sa poznať. Do videnia! Vidím, tu   je pisáreň.
+   </tei:p>
+   <tei:p>
+    Podal jej ruku, zdvihol klobúk a znova sa milostné usmial.
+   </tei:p>
+   <tei:p>
+    Elenka skoro behom pustila sa cez koridor do izby, ako by jej bol   ten mladý pán ešte za chrbtom
+   </tei:p>
+   <tei:p>
+    a chcel ju chytiť. A len s očú stratiť sa, aby jej nevidel, ako   kráča, otvára dvere a vchodí do izby. V izbe si vydýchla. Shodila   pláštik a rukavice. Jej zrak nenadále padol na zrkadlo. Tam sa   videla. „Aká som ešte červená, myslela, chytajúc si líca. „On ma   rozhodne za decko bude považovať. Ale nie, veď ma tituloval slečnou.   Ozaj, a ani meno som mu nepovedala. Veď mu poviem. Ale druhý raz   bu-
+   </tei:p>
+   <tei:p>
+    i smelšia, červenať £a nebudem. Nie, nie! To je po. Musíme sa   poznať, zostane u nás, hovoril, ieme sa častejšie vídať.“ A Elenka sa   sama sebe liala. „Dnes popoludní budem čítať „Suchú ra-
+   </tei:p>
+   <tei:p>
+    asť, dočítam ju. Ako je naozaj veselo. Len keby sa nebola   červenala pred ním ...
+   </tei:p>
+   <tei:p>
+    56
+   </tei:p>
+   <tei:p>
+    ﻿Naozaj, odpoludnie veľmi rýchle prešlo Elenke pri „Suchej   ratolesti Už sa mrkalo, keď tu odrazu chybí desať strán. Práve   najzaujímavejšie. Štyri razy preskúmala knihu, či sú nie strany   prehodené, alebo či je kniha nie zle viazaná. Desať strán nikde. A   tak sa jej chcelo čítať. Tak vžila sa do smútku Aninho. Keby to   začiatok, ale to najlepšie. Kde by len mali ešte ten román. Hej,   požičia si od Žofky. Elenka zavrela knihu a vyšla do záhrady. Večer   bol pekný. Vzduch rosou osviežený, čistý a priehľadný. Pomedzi stromy   kde-tu bolo vidieť tmavo-belasé vrchy západu. Nad nimi nehybno stálo   niekoľko oblakov a bledý ešte mesiac. Záhrada bola plná vône bazičky.   Hovor prechádzajúcich sa po ulici slabo doliehal k ušiam skormúteného   dievčatka nad stratenými listmi románu.
+   </tei:p>
+   <tei:p>
+    „A práve to najlepšie, dumala, sadnúc si na lavičku. „Musím   si požičať knižku. Nevynechám ani slovka. A aký vzduch! Elenka   vydýchla si zhlboka. „Bože, ako vonia tá bazička. Zavoňala   niekoľko ráz a zadívala sa na neho. Mesiačik už ligotal sa pomedzi   stromy. Kde-tu blýskala sa i hviezda.
+   </tei:p>
+   <tei:p>
+    „A, mesiačik! privítala ho. Potom jej prišlo na um, že sa v   ňom dve tváre bozkávajú, a rozhodla hneď, že to musí vyskúmať. S   bozku prešla jej myseľ zas na akúsi novelu, kde sa dvaja bozkávali   tiež v záhradke pri mesiačiku.
+   </tei:p>
+   <tei:p>
+    „Ach, ako by to bolo krásne, tak náruživo ľúbiť, zatúžila   zrazu. Keby tak človeka zrazu niekto veľmi, ale veľmi miloval.   Náruživo, nie len tak. Tak boriť sa cez prekážky ku šťastiu. V tej   túhe mrieť a ožívať, ako to píšu básnici. Aké krásne, aké   veľkolepé! Elenka odrazu pocítila, že jej je srdce ťažké, že   túži. Pritisla si srdce rukami, aby ho utíšila. Také bolo vrúce. Tak   túžilo. Túžilo, za niečím, čo sa nedá chytiť, oblapiť, k čomu len   vznášať sa možno, no celkom vzniesť je vec nemožná.
+   </tei:p>
+   <tei:p>
+    57
+   </tei:p>
+   <tei:p>
+    ﻿Podobá sa to hviezdam, mesiacu, prírode. To všetko nemožno   pritisnúť k srdcu. Hľa, ona sedí na lavičke, v záhradke. Ale nie.   Sedí v hore na tráve. Večerný vetior fúka a hora šumí. Konáre vrždia.   Zďaleka počuť potôčik a svrčky. Ona čaká. Gaká na neho a kreslí   srdiečko do trávy. Prečo nechodí?
+   </tei:p>
+   <tei:p>
+    — Elena, Elena-á! — začula odrazu. To on volá. Zbojníci ho   prepadli. Elena letí v tú stranu. Vlasy jej vejú v povetrí.   Prikváčilo ho k zemi. Pusťte ho! velí ona. Zbojníci ho pustili.   Kľačia. Zbožňujú ju. Očarila ich. Pocit sladučký.
+   </tei:p>
+   <tei:p>
+    — Elena, kde si? — ozvalo sa jej odrazu nad samou hlavou. — Co sa   neohlásiš? Večerať! Ja kričím a ona počuje a nič. Aby si človek hrdlo   vykričal.
+   </tei:p>
+   <tei:p>
+    To bol Vlado, mladší brat. Neobrátila sa, hoci hrkly ňou jeho   strmé slová. „Teda je to nie pravda, myslela. „Všetko sen s   otvorenými očami. I zbojníci, i on. Škoda.
+   </tei:p>
+   <tei:p>
+    Ticho zdvihla sa, zavzdychala a pobrala sa za Vladom. Kráčal pred   ňou. Bol o poldruha roka mladší ako Elena, ale na sestru hľadel s   vysoká. Čože Elena! Neznamená nič. Nikdy nechodila do 6. triedy   gymnáziálnej. O trigonometrii nemá ani pochopu. Nevie napríklad, kto   bol Bonifác VIII. Prečo by on nemohol na ňu s vysoká hľadieť? Preto   bol i veľmi nezdvorilý proti sestre.
+   </tei:p>
+   <tei:p>
+    — Elena, a máš frizúru v poriadku? — obrátil sa k nej,   postojac.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    — Máme hosťa.
+   </tei:p>
+   <tei:p>
+    — Akého? — a pohladila si účes obidvoma rukami.
+   </tei:p>
+   <tei:p>
+    — A upískaná si nie? Ukáž!
+   </tei:p>
+   <tei:p>
+    Chytil ju za bradu, chtiac ju podráždiť. — Ale choď! Co sa ty   staráš o mňa? — po-
+   </tei:p>
+   <tei:p>
+    vedala spume a predišla Vlada.
+   </tei:p>
+   <tei:p>
+    58
+   </tei:p>
+   <tei:p>
+    ﻿Elena hľadela. Aký hosť? Tá hlava z rozježenými vlasmi je   oteckova. To je Marka. Ahá! tam je tretia osoba. Mladá. Nakrátko   ostrihaná hlava. Koncipient, ich koncipient. Elenka sa znepokojila.   Iste sa bude zasa červenať. Najprv pôjde do kuchyne. Krajšie bude,   keď príde z kuchyne. Bude sa zdať tak, ako by ona bola robila večeru.   Bude rozohriatá.
+   </tei:p>
+   <tei:p>
+    — A kam ty ideš? — zvolal na ňu Vlado, keď bočila.
+   </tei:p>
+   <tei:p>
+    — Do kuchyne.
+   </tei:p>
+   <tei:p>
+    — Večera je na stole,
+   </tei:p>
+   <tei:p>
+    — Musím ešte.
+   </tei:p>
+   <tei:p>
+    — Ty pôjdeš so mnou. Budeme po jednom prichádzať a sadať k stolu?   -— Mľasol pritom ústami a chytil ju za ruku. — To ukazuje na   neporiadok.
+   </tei:p>
+   <tei:p>
+    — Nie, Vlado, pusť!
+   </tei:p>
+   <tei:p>
+    —- Nepustí) n
+   </tei:p>
+   <tei:p>
+    — Prosím ťa!
+   </tei:p>
+   <tei:p>
+    — Nie.
+   </tei:p>
+   <tei:p>
+    Co bolo robiť Elenke? Musela ísť. Napravila si ešte raz rukou   vlasy a šla. Okolo srdca nebolo jej voľno. Ako ho pozdraví? Akú   poklonu spraví? A ak nešikovne? Keby nie Vlada, bola by šla do izby a   probovala. Len ukázať, že je nie decko, lebo to neimponuje. Bože, ale   ak naozaj zlý kompliment spraví! Nie, nejde rovno, musí probovať.
+   </tei:p>
+   <tei:p>
+    — Vladko na chvíľku! — zaprosila ešte raz.
+   </tei:p>
+   <tei:p>
+    — Nepustím, — povedal tvrdo Vlado a stisol jej ruku. ,,Hľa, aký   som ja prísny, keď chcem, myslel si pritom.
+   </tei:p>
+   <tei:p>
+    — A čo mi ty vlastne rozkazuješ? Pusť ma! — a chcela si vymôcť   ruku. —- Nemáš čo rozkazovať!
+   </tei:p>
+   <tei:p>
+    Ale ruku nemohla si vytrhnúť. Bolo jej do plaču a možno, že by   bola i zaplakala, ale už vychádzali na verandu.
+   </tei:p>
+   <tei:p>
+    59
+   </tei:p>
+   <tei:p>
+    ﻿Starý Ježík, ktorý sedel za vrchstolom a roz-
+   </tei:p>
+   <tei:p>
+    prával niečo, zvrtol sa na stoličke rýchlo a podotkol:
+   </tei:p>
+   <tei:p>
+    — Moja dcéra Elena ... A toto náš pomocník, pán Becko, doložil po   chvíli.
+   </tei:p>
+   <tei:p>
+    Mladý človek zasa s tým milostným úsmevom naddvihol sa a shrbený   urobil poklonu.
+   </tei:p>
+   <tei:p>
+    — Nuž tak, — pokračoval starý pán, obrátiac sa zas k pomocníkovi,   ■—■ nanič sudcovstvo máme! — A zdvihnúc vidličku, urobil v povetrí   niekoľko krivých čiar, aké je to sudcovstvo nanič. — Zrovná tratí   hlavu, keď mu nepodáte pravdu na lopate. — Tu spravil jednu krivú a   dve okrúhle čiary, zaiste na označenie toho, aká je pravda, keď ju   podávajú na lopate. — Alebo vyrknú blbosť, blbosť, mladý pane,   blbosť!
+   </tei:p>
+   <tei:p>
+    Udrel vidličkou o stôl a zatíchol. Mladý pán prikývol a pokrútil   hlavou.
+   </tei:p>
+   <tei:p>
+    — Raz som mal jeden zaujímavý prípad, — počal hneď starý pán a   hovoril veľmi živo a rýchlo.
+   </tei:p>
+   <tei:p>
+    Kde bola reč o ťahaní ucha, potiahol sa za ucho. Kde sa zalamovalo   rukami, celkom naozaj zalomil rukami. Raz celkom nahnevane udrel sa   po čele, že mu očervenelo. Niekoľko ráz zatriasol stolom a iste by   bol všetky taniere poshadzoval, keby neboli doniesli večeru...
+   </tei:p>
+   <tei:p>
+    Elenka, opretá o zábradlie, strhla sa. Práve spočítala 15 hviezd,   najväčších a najkrajších. Sadla tiež k stolu veľmi tichá.
+   </tei:p>
+   <tei:p>
+    — Čože to máme? — opýtal sa Ježík, ale nedočkal odpovedi.
+   </tei:p>
+   <tei:p>
+    Vzal si a pošuchol misu pomocníkovi. Tento ju podvihol a ponúkol   Elenku:
+   </tei:p>
+   <tei:p>
+    — Nech sa páči. Podržím. — Nech sa len vám páči. — Ráčteže. Dámy   majú prednosť.
+   </tei:p>
+   <tei:p>
+    Dievča si vzalo kúsok pečienky a dva zemiačiky.
+   </tei:p>
+   <tei:p>
+    60
+   </tei:p>
+   <tei:p>
+    ﻿— Ešte jeden zemiačik. Do tretice.
+   </tei:p>
+   <tei:p>
+    — Ďakujem.
+   </tei:p>
+   <tei:p>
+    — Jeden.
+   </tei:p>
+   <tei:p>
+    — Nie, nie.
+   </tei:p>
+   <tei:p>
+    — Pol.
+   </tei:p>
+   <tei:p>
+    — Ale ...
+   </tei:p>
+   <tei:p>
+    A potisla misu nazpät. „Aký galantný! blyslo jej mysľou.   „Povedal, že dámy majú prednosť! Nepovažuje ma posiaľ za decko. Ináče   by ma ani nebol toľko núkal. Elenka stala sa veselšou. Inokedy   bývala síce pri všetkom svojom nešťastí veselšou, ale vtedy nebol   mladý človek pri stole. Inokedy bola prvá hotová s jedlom. Teraz si   na to pozor dala, lebo sa nesvedčí ukazovať apetít. Inokedy rovno do   ruky brala koštial a mlzala ho. Teraz jedla všetko nožíkom a   vidličkou, pozorne a pekne, ale sa jej to veľmi nepodarilo. Inokedy   cengávala na pohároch, búchala vidličkou a prikladala si ju k uchu,   ako cvendží. Teraz ani neštrkla. Kukala na otca a uvažovala, že ten   pomocník je vlastne ani nie špatný. Blond, biela, okrúhla tvár s   počernými fúzikmi. Je tenký, štíhlučký. Ozaj, a aké oči. Elenka   kukla. Hľa, belasé. Nos by mohol byť trocha rovnejší, ale ujde. Len   tých pár vláskou pod tou spodnou perou by nemal mať. To je nie   pekné.
+   </tei:p>
+   <tei:p>
+    Mladý človek cítil, že sa dievča na neho díva. Pozrel na ňu viac   ráz, no nemohol sa stretnúť s jej pohľadom. Vždy ho odniesla tu na   etažér, tu na povalu, alebo pod stôl. Raz len-len, že sa nezadívali   na seba. Elenka sa skonfundovala, odhrnula obrus a díyajúc sa pod   stolík, celkom hlasne zvolala:
+   </tei:p>
+   <tei:p>
+    — Na, cica, cica, cicicíc!
+   </tei:p>
+   <tei:p>
+    Hneval sa, že mu pomocník nevenoval ani najmenšej pozornosti.   Odpomík. Chcelo sa mu niekoho uraziť.
+   </tei:p>
+   <tei:p>
+    — Tam sa ti bavkajú. Choď! — doložil ešte.
+   </tei:p>
+   <tei:p>
+    61
+   </tei:p>
+   <tei:p>
+    ﻿— Nepýtala som sa ťa. Čo ustavične zapáraš — riekla ticho, ale   spurno.
+   </tei:p>
+   <tei:p>
+    — No a teraz pôjdeme pozrieť, ak chcete, napríklad do kasína, —   riekol starý Ježík po večeri, utierajúc si ústa, a už zdvihol sa, aby   šli.
+   </tei:p>
+   <tei:p>
+    Elerike po ich odchode bolo veľmi fádne. ,,Co robiť?   hútala. „Čítať? Keby nechybely strany. Vyšívať? Pri lampe   nebudem. A vošla do tmavej izby a sadla si na pohovku. Ach,   dumať, dumať! To je také sladké. Tak dobre padne. Dívať sa z tmy do   svetlej mesačnej noci. Hľa, už jej prichádzalo na um, že sa každý   večer díva takto do noci, keď leží vo svojej posteli, a v posteli je   tak dobre, a ona má takú dobrú postieľku! Ba ozaj, v ktorej bude ich   koncipient spať? Doista v belasej. A tam je skriňa a v nej všelijaké   pletky. Umývač chýba. Tú treba zriadiť. Sobrala sa a vyhľadala   Marku.
+   </tei:p>
+   <tei:p>
+    — Kde bude ten mladý pán spať? — spýtala sa jej.
+   </tei:p>
+   <tei:p>
+    — Milosťpán belasú povedali. — Je tam všetko v poriadku?
+   </tei:p>
+   <tei:p>
+    — Všetko.
+   </tei:p>
+   <tei:p>
+    — Lampu si pripravila?
+   </tei:p>
+   <tei:p>
+    — Áno.
+   </tei:p>
+   <tei:p>
+    — Zápalky?
+   </tei:p>
+   <tei:p>
+    — Všetko, slečinka.
+   </tei:p>
+   <tei:p>
+    Ale jej to nebolo dosť. Prešla do belasej, aby sa presvedčila.   Lampa je tu, ale na holom stolíku. Treba niečo podložiť, stôl   prikryť. Ani kalamára niet. Pred posteľou nič. Ta sa musí položiť ten   starý medveď, čo ona má pred posteľou. Svieca je tiež potrebná. On   príde, bude tma, a môže hneď rozsvietiť. Nebude môcť zaspať, svetlo   má hneď. Svieca musí byť. Bože a steny aké holé! Tento obrážtek!   Zhrozila sa. Lovec so zajacom na chrbte! Sem treba zavesiť Romea a   Júliu, alebo ten „Konečne samotní
+   </tei:p>
+   <tei:p>
+    62
+   </tei:p>
+   <tei:p>
+    ﻿Ale nie, ten si nechá, to je krásny obrázok. Srdce túži pri ňom, a   túžiť je sladko. Sem to a sem to. Nech je izba poriadna, aby sa dobre   cítil. Elenka urobila čo mohla, a aby to Marke nebolo divné, urobila   to sama. Sama preniesla obraz i medveďa. Zapravila sviecu, prikryla   stolík a i pod lampu našla podložku. Napokon otvorila okná a sadla si   do jedného. Tak dobre padlo dýchať to svieže večerné povetrie a dívať   sa na čisté hlboké nebo s bledými hviezdami. Mesiac sa už vysoko   vyšibol, zrovná nad komín susedného domu. Okná jagaly sa v jeho   svetle. Dvor sa belel, sťa by bol vysypaný drobným bielym pieskom.   Záhrada stála v tôni, iba vrcholce stromov boly osvetlené a kedy-tedy   zaknísaly sa vo večernom vetre. Okno susednej izby bolo tiež   otvorené. V izbe sa svietilo a bolo počuť hovor. Elenka načúvala.   Boli to študenti, kamaráti Vladovi. Iste nevedeli nejakú úlohu   spraviť a sišli sa, pofajčiť si trochu. S vysoká hľadela na nich,   práve tak, ako Vlado na ňu. Akí sú to chlapci! Ziga Šaršún? Nula.   Pravda, mala by mu byť povďačná, lebo jej doniesol ružu. Ale čo, keď   nikdy nevie pohovoriť. Červenie sa a smrká. A čo Julko Mraček? Nič,   celkom nič. Chodí do tej triedy, čo i Vlado, a vždy o akýchsi   sínusoch hovorí. Sinus alfa, kotagens beta. Co je to? No a Nemilá?   Tomu nedávno zle prišlo od cigary. Aký je to človek? Záriečský sa zas   pýši, ako on vždy utečie pred pedelom. Uteká pred pedelom? Ech! To sú   vôbec chlapci, deti. Oni ešte ani netušia o láske, o tej ozajstnej   krásnej láske.
+   </tei:p>
+   <tei:p>
+    Na veži odbilo deväť. Elenka odišla od okna. „Ach, keby sa tak   jemu páčilo u nás! dumala. „Keby sa tak do mňa zaľúbil! Ja by   som bola zpočiatku chladná, potom vždy vrelšia. Raz by sme zostali   samotní. On by povedal. . . Ale, Bože, na čo ja myslím. Nezaľúbi sa   do mňa. Bol vo veľkých mestách, vonia parfumom . . . Nie, nie! Akože   by sa on do mňa zamiloval? . . . Vošla do salóna. Okná
+   </tei:p>
+   <tei:p>
+    63
+   </tei:p>
+   <tei:p>
+    ﻿boly pootvárané. Mesiac svietil práve na etažér s drobnými   figúrkami Elenkinými. Tieto figúrky tak rada mala. Každé ráno ich   utierala, každej sa prihovárala. I teraz posla k nim, ale zastavil ju   svetlý bod na stene. Co je to? Pozrela dookola. Začula i akýsi šum v   susednej izbe, v pisámi. Bolo vysvetlené. Tam sa svietilo a cez   kľúčovú dierku padalo svetlo na stenu. Kto tam môže byť? Otec o tomto   čase je v meste. Treba pozrieť cez kľúčovú dierku. Elenka po prstoch   prikradla sa k dverám.
+   </tei:p>
+   <tei:p>
+    „Tam sedí. To je on, náš koncipient. Rukou podoprel si hlavu. Nič   nevidieť, len kúsok jeho nosa. Pôjdem si papieru pýtať — ale nie, —   neskoršie. Keby som teraz vošla, zbadal by, že som pri dverách stála.   Vezmem si sviecu a tak vojdem. Nemusím vedieť, že je on tam. A   podišla od dvier. Nedalo jej čosi pokoja. Chcelo sa jej niečo urobiť,   aby ju spozoroval, aby vedel, že i ona existuje v tejto minúte.   Pristúpila ku klavíru, drnkla do klávesu najprv jedným prstom, potom   dvoma. Vzala akord a, odmietnúc sukienku, prisadla. Salónom   zavznelo:
+   </tei:p>
+   <tei:p>
+    „Tak túžim za tebou, jak rybka za vodou,
+   </tei:p>
+   <tei:p>
+    a ja za tebou tak, ako za horou vták
+   </tei:p>
+   <tei:p>
+    Elenka cítila tú túžbu. Jej duša napĺňa sa ňou. Srdce oťaželo a   jemné jej pršteky vyludzovaly tóny, zvučiace tou istou túhou, tým   istým bôľnosladkýra citom. Ona len cítila, cítila. Nepočula tónov a   piesenky krásnej. Zabudla, že si chcela od neho papieru pýtať. Dva   razy mimovoľne pozrela na svetlý bod na stene, či je tam. Tam bol, a   hrala ďalej, ako by tomu svetlému bodu hrala. Svetlo mesiaca vykĺzlo   sa z chyže nepozorovane, len na okienkach zostalo z neho ešte . . .   Dve ruže jedno za druhým padlý zrovná k rukám Elenky. Odchytila ich a   srdce sa jej roztrepotalo od ľaku. Ale videla peknú žltú ružu
+   </tei:p>
+   <tei:p>
+    64
+   </tei:p>
+   <tei:p>
+    ﻿a rozjasnilo sa jej, že ju niekto hodil z vonku. Pozrela na stenu.   Svetlého bodu tam nebolo. V pisárni tma, koncipient preč. Vstala a   šla k oknu, no na dvore nebolo nikoho.. Mesiac stál zrovná nad   záhradou. Dlhý tieň komína zmizol a svetlo plným prúdom zalievalo   celé okolie, preplnené vôňou bazice. Stromy v nehybnom vzduchu stály   sťa vytesané z čierneho mramora a ďalej splývaly akoby v čiernu masu   skál. Len kde-tu topole, ako ostré, vysoké žuly vyčnievaly medzi nimi   a olivy s popolavými listmi blýskaly sa striebrom. V poli sťa by sa   bolo kúrilo, riedka hmla sa dvíhala a halila ďaleké vrchy priehľadným   závojom. Všade tichosť.
+   </tei:p>
+   <tei:p>
+    — Ruže hádže, ruže hádže, — šeptala si Elenka a bolo jej veselo v   duši. Sladký, tajomstvenný cit rozhostil sa jej v srdci a úsmev sadol   na jej čerstvé, mladé líca.
+   </tei:p>
+   <tei:p>
+    Úbohá Elenka!
+   </tei:p>
+   <tei:p>
+    Koncipient sedel v belasej nad knižkou a tiež sa usmieval. „Pri   sladkých zvukoch piana, — dumal, — „rozplynie sa ti myseľ,   myšlienky, čo máš v klbku, rozťahujú sa opätne na nite. Akože ti   pôjde veda do hlavy? Pomohly ruže. Stíchla Elenka , . .   Nešťastná Elenka.
+   </tei:p>
+   <tei:p>
+    5. Novely
+   </tei:p>
+   <tei:p>
+    65
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

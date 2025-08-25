@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943637" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Mirza : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1226
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Mirza
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     MIRZA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Mal i druhé meno. Možno Kamajk, možno iné. Ale vo veľkej nemocnici   v Sevastopole medzi niekoľko tisíc dokaličenými poznali ho ako Mirzu.   Bol z kraja, kde sa Tatári stretajú s Poliakmi i Rusmi. Náboženstvom   bol moslemín. V jeho rodnej obci, neďaleko Krymu, spieval ešte muezín   večer na minarete. Mladého zachytila svetová víchrica a zmietala v   zápase ohromných hadov, ktoré sa rozplazily po zemeguli. Nemci,   Maďari, Poliaci, Rusi, Turci i Tatári a množstvo iných kropili úrodnú   ruskú zem krvou, aby nezabudla rodiť. Ohromná vášeň rozkypela sa   búrkou od Atlantického oceána na východ — krútila sa na Balt a   vytrhala stromy s koreňom na Dnestri i Done. Tu kdesi stihla i Mirzu,   ktorý hľadel s úžasom, ako granáty vybuchujú, rozsýpajú čiernu ruskú   zem a zasýpajú mnohých na večnosť, Nemcov či Maďarov, Poliakov či   Turkov, jedno.
+   </tei:p>
+   <tei:p>
+    Mirza sa zpočiatku tešil hroznému divadlu. Vo dne i za horúcej   noci, keď výstrely rozhadzovaly príšerné svetlo, on hľadel s akýmsi   pôžitkom na desné divadlo. Jeho šikmé oči horely a vyčnievajúce lícne   kosti lesklý sa na tvrdej tvári. Nevedel, čo je strach, ako i jeho   kamarátov, ťažko ho bolo udržať v zákopoch. V jeho žilách kolovala   neskrotená krv voľných detí širočiznej stepi, okolo seba vídal vždy   kraj, rozložený bez konca, dráždiaci smysly a rvúci kamsi doďaleka.   Aj ho precválal na koni od Krymu až po zelený Tuxkestan. Videl   nádheru ruských chrámov i pôvab tureckých mešít. Pekné ženy bez   závoja i v závoji, znad neho jagaly sa naňho veľké tmavé oči. Nemal   rád pauty, najradšej sa zadíval na bohaté klimské polia a vinice,   ozdobené palmami. Keď ich videl v noci. osvietené zlatým svetlom   veľkého mesiaca, pomyslel si, že sú pekné. Jeho dom, zdedený po   otcovi, ležal tiež v takom čarovnom kúte. Bolo v ňom dosť bohatstva i   ženskej krásy, keď Mirza musel s vrstovníkmi na čierneho koňa,   najťažšie sa lúčil so svojou skľúčenou starou matičkou.
+   </tei:p>
+   <tei:p>
+    — Alah ťa ochraňuj, — složila mu tenké trasľavé ruky na hlavu a   objala ho. — A vráť sa mi ešte, chcem ťa uzrieť, Mirza, prv, než   privriem oči na večnosť.
+   </tei:p>
+   <tei:p>
+    —Neplač, mati! — uisťoval ju, ako milióny matiek v tú chvíľu   chlácholili ich synovia. — Ani nevieš, ako sa vrátim a pochovám ťa   pod vysokou palmou, tam, kde si si priala.
+   </tei:p>
+   <tei:p>
+    — Mirza, ty ideš na vojnu ako na zábavu, — spočinula na ňom   ustatým zrakom skoro vyčítavo. — Prečo tak odchodíš?
+   </tei:p>
+   <tei:p>
+    — Tak išli vždy i predkovia moji, otec Ž starý otec, — pobozkal   Mirza záhyb jej hodvábneho rúcha. — Ak Alah chce, vrátim sa k tebe.   Ak nie, darmo by som ostával doma. Tak si ma učila.
+   </tei:p>
+   <tei:p>
+    — Máš pravdu, Mirza, — objala mať syna naposledy a položila mu   ruky trasmo na hlavu. — Teraz už choď!
+   </tei:p>
+   <tei:p>
+    Zdupotaly teplokrvné tatárske kone a jazdci sa vyrojili na cestu.   Leteli ani vo vetre s ostrými džidami, pripevnenými na nohy v   kolenách.
+   </tei:p>
+   <tei:p>
+    Medzi nimi bol Mirza; keď sa rozbehli, mal dojem, že je to   rozbehnutá rieka, ktorá všetko metie pred sebou. Povedomie istoty v   ňom vzrástlo. Kto by im mohol zaťať cestu? Nik veru.
+   </tei:p>
+   <tei:p>
+    Tak sa dostali príslušníci prastarého kmeňa do Limie, kde sa   miešala stará krv a šľachtická s krvou mladou a rovnako zúrodňovala   ruskú zem. Leteli ako víchor, a kam pozreli, mali voľnú cestu. Ich   šikmé oči smialy sa na nastavšom poplachu.
+   </tei:p>
+   <tei:p>
+    — Tatári, Tatári! — ustupovali Európania nie tak pred džidami, ako   pred krvavým zrakom oživeného Džingischána. Nie div, stará Európa   nábeh jeho strelcov ešte nezabudla. Nechodil, vyvolala Si ho   sama.
+   </tei:p>
+   <tei:p>
+    Ale stáročia sú len jednako stáročia. Co bolo kedysi veľké a   obávané, to dnes všetko muselo svoju silu skúsiť a dokázať. Kanóny   otriasaly zem, pušky štekaly, strojovky rozsýpaly strely na   rozbehnutých džidášov ani dážď.
+   </tei:p>
+   <tei:p>
+    — Alah, Alah! — volali bojovníci.
+   </tei:p>
+   <tei:p>
+    Márne! Do vojny má boh Mohamedov asi len toľko ako kresťanský Boh.   Nemci sa nedali hatiť v ničom. Čierna ruská zem zafarbila sa krvou,   víchrica jazdcov zlomila sa pred zákopmi a diví synovia stepi, ak   nezavreli oči, čakali na milosrdnú sanitu. Odnášali ich na nosidlách   na bezpečnejšie miesto; tak sa dostal Mirza do Sevastopolu. Zaniesli   ho na železnú posteľ a lôžko dostalo číslo. Vedľa čísla bolo i meno   Mirza Tatár. Tu ležal divý syn stepi, krotký-krotučký ako baránok.   Jeho lícne kosti žltly a vyvstaly ani päste, v očiach jeho nebolo už   ohňa. Dostrieľaný ako opica nemeckou strojovkou, čakal odovzdane z   rúk Alaha to ostatné.
+   </tei:p>
+   <tei:p>
+    Lekári ho obväzovali, ako sa dalo. Milosrdné
+   </tei:p>
+   <tei:p>
+    sestry priniesly mu pokrm. Zadíval sa na ne a okúsil málo. Hľadeli   na jeho žltú tvár rezignovane. Bolo zjavné, bojuje a nepotrápi sa   dlho. Vo vojenskej nemocnici, preplnenej zmrzačenými — je to   každodenná vec. Ťažko koho ľutovať, život hasne za životom a chorý sa   vystupuje chorému — uvoľniť mu miesto.
+   </tei:p>
+   <tei:p>
+    Vášne vyhasly — umieral Nemec, Maďar a Rus, dokonával i Tatár   Mirza. A jednako nie je kandidát smrti ako kandidát. Jeden dokonával   ľahko, ledva zbadali, že je už lôžko vyprázdnené, druhý javil nepokoj   ešte i v agónii. To zbadala sestra Mária Gavrilovičová aj u Mirzu.   Stŕhal sa, stonal, hľadal si miesto na lôžku, či by mu nebolo ležať   lepšie. Ale jeho mladé hnedé telo bolo len hŕba páliacich rán. Len   morfiové injekcie čo mu uhasínaly pálčivý bôľ. Díval sa na Máriu   svojím šikmým zrakom ako zviera, ktoré splašene čaká na posledný úder   a chce ho ešte počkať. Je to len nejaký inštinkt, či opravdivá   príčina. Sestra Mária Gavrilovičová vytušila z tých nepokojných očú —   ten človek ešte čaká niečo a nemôže sa dočkať. Večer už myslela,   nedožije rána, a prišla na druhý deň — na lôžku ešte Tatár Mirza. Tie   isté žlté ruky mrvia sa kŕčom, tá istá sivožltá tvár, tie isté šikmé   oči chcely by jej niečo povedať. Vypytovala sa vojaka, pozvala k   lôžku človeka, ktorý vedel po tatársky. Mirza však len ukazoval na   prsia, ako by ho tam... tam v hrudi niečo dusilo a nedalo mu   uspokojiť sa.
+   </tei:p>
+   <tei:p>
+    Sestra Mária nevedela si vysvetliť ten hrozný nepokoj, ktorý ešte   niekoľko dní dodáva sily umierajúcim. Myslela, je to nejaké tatárske   bohatstvo, akého bolo dosť na Kryme a jeho okolí. Predstavovala si   kaštieľ, ktorý opúšťa, peknú
+   </tei:p>
+   <tei:p>
+    mladú ženu, ktorú si zadovážil niekde na Kaukaze. Sú hodnoty,   ktoré udržiavajú život, i keď sa už mrká. Ľudia vedia byť zlí ako   divé zvieratá, vedia sa hrýzť, vedia prelievať krv, ale v každom   srdci nájsť vlákno, ktoré spája so všetkými ľuďmi bez rozdielu   národnosti i kmeňa. To vlákenko nežného ľudského citu.
+   </tei:p>
+   <tei:p>
+    Sestra Mária presvedčila sa o tom už pred niekoľkými dňami, keď   pošta priniesla Mirzovi list. Písaný bol poľsky, azda pre istotu.   Písala mu jeho vlastná mať.
+   </tei:p>
+   <tei:p>
+    — Mirza, Mirza —- máš list, — volala mu sestra Mária do ucha. —   Mamička ti písala!
+   </tei:p>
+   <tei:p>
+    A Mirza, ktorý už dni blúdil v agónii ako loď v hmlách, naraz   otvoril oči a uvedomoval si, čj je to skutočnosť.
+   </tei:p>
+   <tei:p>
+    — Mať ... mať ... mať ...! — A pod ovisnutými fúzmi kmitlo sa mu   niečo na bledých perách, podobné úsmevu.
+   </tei:p>
+   <tei:p>
+    Sestra Mária ukázala mu písmo, i prečitovala lámanú poľštinu.   Položil vyschnutú ruku na papier, ako by ho bol chcel pohladiť.
+   </tei:p>
+   <tei:p>
+    — Ach! — vydralo sa mu z chrčiacich pŕs a znova upadol do agónie.   Z tej sa už nespamätal viacej. Sestra Mária zvedela už, čo Mirza   čakal, i prečo nemohol dokonať. Pozrela naňho so súcitom, ako žena,   pripätá vláknom nežnosti ku všetkým trpiacim. Bola mu i na pohrebe,   keď ho ukladali do čiernej ruskej zeme, predstavovala si, ako smutne   zatlieska list o list v naklonenej palme — pod ňou si raz spočinie   Mirzova matka.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

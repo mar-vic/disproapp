@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943218" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Demänovksý raj : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1394
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Demänovksý raj
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     DEMÄNOVSKÝ RAJ.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Mladosť túlala sa po bralnatej doline — naša mladosť! Nazerala do   kryštalných prameňov a obdivovala svoju tvár. Močila si nohy v   kypiacich vodách hlbokej bystriny, rútiacej sa z bublavého   vyvierania. Z labyrintu záhadných dómov a jaskýň, v nich pracoval   tajomný umelec od tisíc liet na nádherných oltároch, drobnučkých   čipkách a svietnikoch, priesvitných jazierkach so striebornými   guľkami, na organových píšťalách, ktoré sa dlho-dlho nerozoznely.   Tade sa túlala naša mladosť. Po príkrych grúňoch, sbierajúc do   kormana voňavé jahody, šmokvice a maliny. Hnala sa na skaly z Lúčok   do Machnatej, kde sa po úbočiach pásla jalovina. A zpod ich ratíc   sosýpal sa štrk, Kyklopmi tlčený. Konské kopytá vykresaly z nich   žihavé iskry, ktoré odlietaly a hasly v sihline. Nušanka spievala   tlmeno, prepadla v odzemok. Posmeľovala spevcov i básnikov, že kto   vie spievať — nikdy neprestane. Striebristé spieže miešaly sa do   bublania ťažkým plechovým zvoncom a dávaly znať, kde je roztúlaný   gazdovský majetok.
+   </tei:p>
+   <tei:p>
+    Jedle i smreky šumely, rebričie sa smialo s drsných skál.   Rozhádzané kamenie slzlo, belelo i červenelo sa, a od rebrísk rútily   sa nadol kypiace vody do striebristého Váhu — tade chodila naša   mladosť. Smiala sa ako belasá obloha a výskala ako veselé tóny,   vylúdené zo skál. Vybehla
+   </tei:p>
+   <tei:p>
+    na turné, nazrela do okien tajomného paláca, ktorý čnel tam k nebu   od stá liet. Ponevierala sa po skaliskách, pobrodila po hafurí a   zahľadela sa do tichej hladiny Vrbického plesa, ktoré sa kolembalo   pod vysokým Ďumbierom a šeptalo svoje dávne báje, len pre nás a pre   seba. Tade blúdila naša voľná mladosť. Nebála sa hadov, nezľakla   medveďa, jasala od radosti na hasnúcom mraku, spievala na svite s   prebudeným vtáctvom, keď ružové aore pršaly s oblohy na skaly, na   vody a do sviežich duší. Keď slietla noc, nerozplakala sa pod jej   ťažkým rúchom. Prisadla si k vatre z vonného kosodrevia a dychtivé   naslúchala rozprávkam pastierov. Keď sa počalo brieždiť, umyla sa   plným priehrštím čerstvých vôd, oči jej svietily, líca rumenely.   Vystrela sa i zavýskala, až to zaliehalo silou, znovuzrodenou silou   od skaly do skaly.
+   </tei:p>
+   <tei:p>
+    — Hahoo! — vyletelo k oblohe ani ohnivá raketa, rozsypalo sa na   stá svetiel a ako dážď padalo na hory, na háje, bilo sa o skaly, o   hučiace vody, ako vták krídlami. — Hahoo!! — Vtedy sme sa už hli   niekdy nahor, zastať len na mohutných ramenách vysočiny, zahľadieť sa   do nekonečnej všechnosti odtiaľ, azda i zavýskať. Niekdy však   obrátili sme sa zpät, okvietili rebričím, a hoci mohutným lopúchom, a   dali sme sa nekonečnými schodmi z náručia doliny. A vtedy na   rozhľadené vrchy a bralá sosypalo ráno celé poľany divého maku. V   tých tajomných jaskyniach som si vil z neho vence červené, ružové,   kvetnaté všelijakých druhov, hádzalo nám ich na hlavy a my s jasotom,   hoci na tvrdom chlebe, pozdravovali sme život. Tade chodila naša   mladosť.
+   </tei:p>
+   <tei:p>
+    Nikto nás nepoznal, nikto nevychvaľoval, nikto nehanil, a tak to   bolo dobre. Nevedeli sme, čo je
+   </tei:p>
+   <tei:p>
+    kultúra, ale ani čo je pýcha a sprostá nadutosť povýšencov. Rástli   sme pod jedinou mocou, stajenou vo večnom zákone sveta ako tá   priezračná voda, rútiaca sa so skaly na skalu — shora nadol. £ko to   kosodrevie, ponechané sebe. Ako tá sihlina, rozkladajúca svoje vetvy   na slnku a rozsievajúca okolo seba čerstvosť a vôňu — tade chodila   naša mladosť. Radostná zanikla pekná mladosť naša. Múdri a či hlúpi,   bolo nám najedno. Všetci sme boli pekní, všetci rovnako bohatí,   všetci istí, že sa nám túžby raz splnia, lebo sme boli nevinní a mali   sme sa radi.
+   </tei:p>
+   <tei:p>
+    — Heej, kamarát! Cia je táto hora?
+   </tei:p>
+   <tei:p>
+    — Vrbická! — znela odpoveď.
+   </tei:p>
+   <tei:p>
+    — Aká Vrbická, ty blázon! — Teda čia, keď vieš?
+   </tei:p>
+   <tei:p>
+    — Nuž naša! Naša. Hej, naša, naša — naša! — radostne sme sa všetci   rozkričali.
+   </tei:p>
+   <tei:p>
+    Vtedy sme ešte nevedeli, ako je svet podelený a pokrájaný. Zdalo   sa, že všetko patrí nám a my patríme k sebe — jedine k sebe. A vtedy   sa rozkvital v náručí demänovských brál, ako i nám v dušiach,   demänovský raj. Keď sme sišli k Váhu, slnko sa smialo, zvony   vyzváňaly, ale podlamovaly sa nám kolená, ustatosť ťažila nám na   pleciach a tlačila nás až po čiernu zem. Videli sme húfy sviatočne   vyobliekaných ľudí. Ponáhľali do mesta, do krčiem i chrámov, ale nám   to bolo cudzie. Neboli sme za pánov, ani za sedliakov, ani za   bedárov, boli sme proste deťmi divej a múdrej prírody. Zašli sme   aspoň pohľadom na hrebene vrchov nad Demänovou znova a znova a   nevedeli sme sa odtrhnúť od nich. Nič sme tam nemali, nič — a mali   sme všetko.
+   </tei:p>
+   <tei:p>
+    Striebristé vlny Váhu zašumely, dravé vody robily si cestu.   Uchopily okrúhle skaly, srazené
+   </tei:p>
+   <tei:p>
+    niekde na Kriváni, rozbíjaly ich a drvily na zlatý piesok.   Nestrpely hate, nestrpely mosty — slobodne sa previevaly na určenej   ceste do Komárna. Do Dunaja, do mora, do mora. Tam sme sedali na   hatiach v záplave slnečnej, bystrí a nahí. Vrhali sme sa do vín, to   boly naše milenky. Ráno sme sa počali milkovať a končievali sme na   mrku, keď vody ochladly a menily sa na chladnú oceľ.
+   </tei:p>
+   <tei:p>
+    Až potiaľ siahal demänovský ráj, ten náš raj, z ktorého nás život   vytrhol po jednom. Nevyvábil nás darmo. Dal nám všeličo — jednému   viac, druhému menej. Ale všetkým niečo. Vody sa valily dolu Váhom,   pozdravily rána, roztúžily sa za mesačných večerov, a my sme rástli —   — sľubne rástli i mreli. Nejeden kopček pribudol na vrbickom   cintoríne, a nevieme ani ako. Žiadostivo siahli sme na šírych lúkach   za pestrým kvietím života a mysleli sme, je to zadarmo. Stratili sme   svoje inkognito, ale i svoj raj. Vyšinuli sme sa, alebo zapadli, ale   čím viac sme sa dvíhali a viac poznali svet, tým viac sme strácali   voľnosť rúk i nôh, voľnosť duše i tela, ten najkrajší dar ľudského   života. Zbadali sme, čím sme ďalej od svojho strateného raja, tým sme   bližšie k živočíšnemu bytiu. Ako divé deti prostej prírody boli sme   lepší než dnes, keď smieme vysvetľovať iným, akí majú byť dobrí.   Vedeli sme sa oduševniť za tajomnú jaskyňu pod Vyvieraním — dnes už   vieme len počítať. Robia to tak milióny, robíme to i my. Šomreme na   svet a čakáme, čo z neho bude. Kedysi zdalo sa nám — zdolieme všetko,   dnes sa nám tak zdá, — najlepší diel života je pohodlie, hojnosť a   pokoj.
+   </tei:p>
+   <tei:p>
+    Nie sme už mladí. Niekdy si zájdeme po stopách našej mladosti pod   demänovské bralá. Hľadáme tie stopy, nevieme ich nájsť, a ak ich   nájdeme, už im nerozumieme. A tá istá striebristá voda hučí a   rozprašuje sa na drobnučké kvapky v skalnatých dolinách. Tým istým   zvukom ozývajú sa spieže, munú i ťažké zvonce v grúni ako kedysi.   Braliská otvárajú svoje tajomné oči a zamlknuté ich tlamy chcely by   prevravieť. Vedia cesty váľajú sa skaly biele, šedivé i ružové, ako   kedysi. Jedle a svrčiny vystierajú svoje náručia a hrdé voňavé smreky   svoje ramená. V Machnatej spúšťa ktosi lámaný štrk a Rebriská stoja   strážou nad hukotavou bystrinou. I letné rána zakvitnú červeným   makom, rozsýpajúc ho na hory, na bralá, na vody i na ľudí. Jednako   iný je to svet, celkom iný. Do zázračného kráľovstva dostáva sa   človek a sotrel od stá tisíc liet napadnutý pyľ velebného ticha,   zázračnej samoty, ktorá vedela tvoriť i zachovať. Hej, človek je na   všetko zvedavý, a nechce vedieť, ako jeho zvedavosť pripravuje o   kúzlo i najväčšie dielo umelca.
+   </tei:p>
+   <tei:p>
+    Umenie tvorí svoje zázraky v samotách, ľudská zvedavosť len   pristaví ho a zarazí. Kde stál demänovský raj, dnes tam sídli   panstvo, kde sa pnely voľne vetvy jedlí, tam vyčnievajú krovy. Kde sa   zelenala zamatová pažiť a krásna mladosť naša sedávala na brehu   rieky, dnes sa ponevierajú škatuľky zo sardiniek. Našla sa cesta k   rastúcim kryštálom do najkrajšej klenotnice brál, ale o záhadu, čo   ich prikrývala po stáročia, stali sme sa chudobnejšími.
+   </tei:p>
+   <tei:p>
+    Zájdeme si po stopách mladosti a zahladíme sa s pietou na hučiace   vody, na mäkké, machom vystlaté skaly. Na zázračné atropoly Tatier i   do hafurím orámovaného Vrbického plesa, ale iný
+   </tei:p>
+   <tei:p>
+    je to už svet, celkom iný. Možno bohatší, možno ozdobnejší, možno   čarovnejší, ale nie je to už svet, ktorý tu niekedy bol. Nemá toho   nesmierneho kúzla.
+   </tei:p>
+   <tei:p>
+    — Vidíš to i ty? — pýtam sa priateľa, hľadiaceho na sčelenú s   istou rezignáciou.
+   </tei:p>
+   <tei:p>
+    — Vidím, — sklonil hlavu.
+   </tei:p>
+   <tei:p>
+    — A prečo to, čo myslíš, — usilujem sa ho presvedčiť. — Veď dolina   je tu, bystriny tečú, braliská napínajú hlavy, obloha sa usmieva,   hory voňajú a kosodrevie blčí ani svieca.
+   </tei:p>
+   <tei:p>
+    — Hja, kamarát, — pohodil rukou. — Všetko je tu, ako bolo. Možno   je toho i viac, ale na brehu Vrbického plesa nesedí už bezstarostne   krásna mladosť naša!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

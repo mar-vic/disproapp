@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943657" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Rozsievačka ilúzií : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1586
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Rozsievačka ilúzií
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ROZSIEVACKA ILÚZIÍ.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Biele, bielučké ružové obláčiky, kde sa vzaly? Kam uletia? Aká   pustá by bola obloha bez nich!
+   </tei:p>
+   <tei:p>
+    Na javisku vidieckeho mesta zjavila sa zaujímavá blondínka.   Mladosť a oheň kvitly jej v hlbokých očiach a zpod dlhých mihalníc   volalo akési nerozlúštené tajomstvo. Študenti a mladí páni vôbec   zaujímali sa o ňu. Ba i starší prikývli — pekné stvorenie, mala by sa   vydať. — Dámsky svet nebol k nej už natoľko zhovievavý. Hovorilo sa o   nej všeličo, ale nič takého, čo by ju mohlo dehonestovať. Zdedila   vraj po tetičkc neďaleko pekný majetok. Z toho skromne žije. Najala   si dvojizbový byt v predmestí s peknou záhradkou pod oknami. Inak z   domu skoro ani nevychodí. Návštevníkov nemá, iba obstarna výsluha   zájde k nej deň po deň, ale pred večerom odchodí. Mala vraj muža,   ktorý jej odišiel za more a nikdy sa odtiaľ nevrátil. Zlomyseľnejší   šeptali však aj iné veci, o nich však nevedel nik nič istého.
+   </tei:p>
+   <tei:p>
+    Roznieslo sa, že sa volá Betka a rodným menom Schmidtová a   pochádza iste z dákejsi nemeckej rodiny.
+   </tei:p>
+   <tei:p>
+    — Prečo však len prišla sem? — rozvravely sa zvedavé jazyky. —   Rodiny tu nemá, a keď má prostriedky, mohla sa osídliť i bližšie ku   svetu ako tu medzi horami.
+   </tei:p>
+   <tei:p>
+    Skoro však zbadali v meste, že Elizabeta nie
+   </tei:p>
+   <tei:p>
+    je nijakým svetlom pod koryčaťom, za ktorým by nezaletely mušky,   ani kvetinou v úžľabine. Videli ju v elegantných šatách a jej   štíhlosť a krásu všade závideli. Pozvali ju do spoločnosti, kde sa   vedela znamenite obracať. Hrala divadlo a okrem trochu nenašskej   výslovnosti podarilo sa jej výborne. Nebola len pekná, ale mala   nevysloviteľné kúzlo v hovore. Kam vstúpila, rástol úsmev a v dušiach   kvety, ktoré hneď neuvädly. Pomaly snovala sa pozornosť okolo nej,   ako ťahavá povoja, a bavilo ju to. Bolo vidieť, mala temperament,   nenarodila sa spievať nábožné piesne v dvojizbovom domci so starou   posluhovačkou. Vystihol to hneď i akademický maliar Bero Klesák,   ktorý si rozložil svoj ateliér v tomto romantickom kraji. Hľadal typy   k svojmu veľkému obrazu, maľoval-maľoval.
+   </tei:p>
+   <tei:p>
+    Mohol tam nasháňať peknú sbierku, keby mu Elizabeta nebola vliezla   do duše.
+   </tei:p>
+   <tei:p>
+    Stalo sa to po jeho prvej výstave, keď medzi poslednými   návštevníkmi nechýbala ani táto kvitnúca žena. Ukonaný prijímal   blahoželania svojich známych i hodnostárom mesta. Kúpili mu niekoľko   podarenejších obrazov. Napokon pristúpila k nemu Alžbeta, utkvela na   jeho bledastej tvári dlhým pohľadom a podala mu ruku.
+   </tei:p>
+   <tei:p>
+    — Sú to pekné práce, majster. Keby nebola vytrovená, dala by sa   vám odmaľovať.
+   </tei:p>
+   <tei:p>
+    Tieto slová z pekných úst zavialy ako omamný parfum na udiveného   umelca. Čosi už počul o tejto dáme a pomenoval ju sám nositeľkou   ilúzií. Maľovať ju, jej výrazné krásne oči, súmernú tvár, štíhlu   postavu, a najmä úsmev, úsmev na perách, ktorý rozsieva okolo seba,   blaží a stŕha — bolo hneď horúcou túžbou jeho duše. — Ak mi postojíte   niekoľko ráz pred plátnom,
+   </tei:p>
+   <tei:p>
+    bude mi to vyznamenaním, milostivá, — zajakal sa majster.
+   </tei:p>
+   <tei:p>
+    — Teda ešte tento týždeň, u mňa a či u vás?
+   </tei:p>
+   <tei:p>
+    :—U mňa, ak dovolíte. V neďalekej obci mám ateliér, ak dovolíte,   prídem po vás autom.
+   </tei:p>
+   <tei:p>
+    •—Poteším sa tomu.
+   </tei:p>
+   <tei:p>
+    Stará posluhovačka Schmidtovej mala od divu skapať, keď Klesákovo   auto zahučalo na tichej ulici. Všimla si vychudnutého, starostlivo   pričesaného mlkveho pána a vedela hneď z jeho počerného dumného   pohľadu, že je to nie obyčajný návštevník.
+   </tei:p>
+   <tei:p>
+    — Idem sa dať majstrovi odmaľovať, — zaštebotala, — čo poviete na   to?
+   </tei:p>
+   <tei:p>
+    — Ja by sa nedala, — pozrie ona na prišlého nedôverčivo. — Človek   vraj so svojím obrazom vždy voľačo stratí. U nás hovoria — umrie.
+   </tei:p>
+   <tei:p>
+    — Povedačky, — usmeje sa Betka, a nasledujúc maliara, sadne za ním   do auta.
+   </tei:p>
+   <tei:p>
+    Chvíľa, a prevrčia mestom. Vyhrnú na širokú hradskú, oblaky prachu   ostávajú za nimi, zbočia do hlbokej dolinky, kde pod košatými lipami   rozkladá sa starý priestranný kaštieľ.
+   </tei:p>
+   <tei:p>
+    „Ah, tu to bude,“ mihlo Alžbete hlavou. „Sem by mala teda prísť s   týmto cudzím pánom ešte niekoľko ráz? Stáť mu pred štetcom a prípadne   sa i obnažiť?“
+   </tei:p>
+   <tei:p>
+    Pri tejto myšlienke ovial jej ľahký pýr belostný obličaj a všimla   si dôkladnejšie spoločníka pri volante.
+   </tei:p>
+   <tei:p>
+    — Sme, prosím, doma, — kývne jej on zdvorilo. — Nech sa páči k   nám!
+   </tei:p>
+   <tei:p>
+    Dáma sa vzchopila ako zo sna a šla za majstrom inštinktívne.   Viedol ju na poschodie starými chodbami, viedol cez miestnosti,   zapadnuté
+   </tei:p>
+   <tei:p>
+    prachom, kde v jednej za ohromnými gotickými oknami čakaly bez   hnutia jeho rozostavené plátna.
+   </tei:p>
+   <tei:p>
+    — Tak tu je vaša pracovňa? — prevravely jej zamlknuté oči.
+   </tei:p>
+   <tei:p>
+    — Tu, — pokynul jej hlavou. — Môžeme sa hneď dať do práce, —   uvoľnite sa, prosím, a sadnite si hentam na to kreslo. Ja si všimnem   osvetlenia.
+   </tei:p>
+   <tei:p>
+    Alžbeta si sadla a v tú chvíľu zbadala, ako tento prostý umelec   dostal nad ňou akúsi nevysvetliteľnú, tajnú moc. Upravil jej účes,   narovnal obličaj, uhladil rozhádzané šaty. O chvíľu počal skicovať.   Strnulo hľadela naňho, predišlo jej, že je to ani nie človek, ale   akýsi čarodejník; ona, ktorá rozsievala ilúzie, pocítila ilúzie,   vyvolané človekom iným.
+   </tei:p>
+   <tei:p>
+    — Aké je tu všetko divné, — blyslo jej hlavou, — a máte už i   dokončené plátna okrem tých, čo som videla na výstave? — všimla si   jeho úhľadnej drobnej ruky, ktorá sa jej zdala pohybovať vo   vzduchu.
+   </tei:p>
+   <tei:p>
+    — Moje plátna, milostivá, roztrúsené sú po svete, — vnikol jeho   hlas rovno do srdca, — i v Paríži. Prichodím sem len s času na čas,   načrieť krásy a vône z tohto kraja a okúpať sa v jeho velebnom   tichu.
+   </tei:p>
+   <tei:p>
+    — Tak vy znáte šíry svet!?
+   </tei:p>
+   <tei:p>
+    — Som rád a rád by mu niečo dať, čo ešte nevidel a na čom je pyľ   mojej citlivej duše.
+   </tei:p>
+   <tei:p>
+    — Spravte to — budem mať z toho radosť i ja.
+   </tei:p>
+   <tei:p>
+    — Práve to robím, maľujem vás!
+   </tei:p>
+   <tei:p>
+    Takto sa stretali znova v starom kaštieli, znova a znova. Majster   maľoval na plátno, ale i na dno svojho srdca. Pri takom krásnom   zjave
+   </tei:p>
+   <tei:p>
+    ostať len umelcom je ťažko. Pri rozchode dvíhal vždy jej ruku k   perám a dvíhal vždy horúcejšie. Napokon sa sišly aj ich ústa. Ona v   noci nemohla usnúť. Videla, ako rastie práca, a poznávala v nej sama   seba. On zas, osypaný ako jabloň v kvete, díval sa jej nežne do očú a   chcel vystihnúť z nich to najosobitejšie, čo tento krásny tvor boží   charakterizuje. Pri pohľade na ňu, ba i pri čírej myšlienke unášaly   ho ilúzie. Precítil, ako mu je nezbytná v práci, nezbytná k životu.   Ľudia vídali Klesákovo auto, poznali už jeho sirénu, i komu hovorí.   Obraz krásnej blondínky7 sa dokončieval.
+   </tei:p>
+   <tei:p>
+    V jeseni chystal sa majster do Paríža.
+   </tei:p>
+   <tei:p>
+    — Poď so mnou, — nahováral svoju priateľku, keď posledný raz   zatiahol štetcom na portréte a chyboval už iba rám. — Pozri, mám   utešené plány. Je pekný ten obraz?
+   </tei:p>
+   <tei:p>
+    — Ako živý, — a vrhla sa mu do náručia. — Ty si zázračný   človek.
+   </tei:p>
+   <tei:p>
+    — A vykonám ešte dokonalejšie diela. Tuším to, cítim, keď ty   pôjdeš so mnou, — a zasypal ju bozkami. — Pôjdeš?
+   </tei:p>
+   <tei:p>
+    — Nemožné, — vypäla sa mu z náručia. — Mám muža, a nech odídem,   stratím všetko, čo mi dal.
+   </tei:p>
+   <tei:p>
+    — Pletky —- nahradím ti to ja. Nemôžem bez teba žiť, a neviem   tvoriť bez teba.
+   </tei:p>
+   <tei:p>
+    — Dobre, teda choď najprv sám a zariaď, čo treba, — usmiala sa   naňho s neopísateľným kúzlom. — Potom príď po mňa a pôjdeme.
+   </tei:p>
+   <tei:p>
+    Rozlúčili sa ako duše, ktoré nemôžu byť bez seba. Dni sa míňaly a   Alžbeta dostávala zprávy. Jej portrét získal si v Paríži ohromný   obdiv. Majster ho však nepredal nikomu. Nemôže —
+   </tei:p>
+   <tei:p>
+    nemôže! Zvesť sa rozniesla, došla i do mesta blízko ateliéru v   starom kaštieli. Ľudia sa rozhovorili o úspechu našského umelca.   Pokladali ho už trochu za svojho a na jeho inšpirátorku sa nehnevali.   Veď on dal tomu dielu telo, ale ona ducha. Návštevy u Alžbety   Schmidtovej sa rozmnožily a prišiel i pán Alfréd, majiteľ starého   kaštieľa.
+   </tei:p>
+   <tei:p>
+    — Dovolíte, milostivá, pozvať vás na miesto, kde sa zrodil slávny   váš obraz? Ta by ste sa mohli i preniesť z tohto zlého bytu, tam by   ste mali všetko, — navrhol jej trochu ošumelý elegán. Ale človek,   ktorý sa vie obracať, i kde je ovocie sladké a vonné. — Majster, keď   sa vráti, nájde vás.
+   </tei:p>
+   <tei:p>
+    Alžbeta váhala, ale pristala napokon. V kaštieli dostala   apartement, kam presídlila i so svojou posluhovačkou. Prečo by   platila nájomné, keď jej je takto lepšie — a čo môže mať kto proti   tomu, ani pán Klesák nič.
+   </tei:p>
+   <tei:p>
+    Ani nikto nemal. V meste a či v chotári mesta bývať, to je už   jedno.
+   </tei:p>
+   <tei:p>
+    Uškŕňali sa iba ľudia, ktorí si všetko vykladajú po zlom a nikomu   nevedia nič odpustiť.
+   </tei:p>
+   <tei:p>
+    Na jar vrátil sa Klesák z Paríža. Šiel rovno do starého kaštieľa,   kde ho prijal majiteľ domu priateľsky a ochotný na všetky služby. —   Ďakujem, — ukloní sa on, — ale prišiel som len sbaliť svoje plátna.   Dielo je skončené — odídeme.
+   </tei:p>
+   <tei:p>
+    Bez odkladu šiel za svojimi vecami. Na chodbe stretol Alžbetu,   vyobliekanú a krásnu ako vždy. — Ako si to vysvetliť? — zamrelo mu   slovo v hrdle. — Ty v kaštieli starého mládenca? — Ale, Bero, keď ti   všetko vysvetlím, porozumieš, — utkvela na ňom zvlhnutým   pohľadom.
+   </tei:p>
+   <tei:p>
+    — Myslela som vždy na teba. Keď si ty odišiel, niekoho som musela   mať. A pán Alfréd je opravdivý gentleman.
+   </tei:p>
+   <tei:p>
+    V tú chvíľu puklo čosi v starej komnate s veľkými gotickými   oknami. Bol to práve pred chvíľou znesený a vybalený krásny rám na   parížskom obraze roztomilej Alžbety. Majster sklopil tmavé oči.   Bolestne precítil, ako nádherné ilúzie rozbily sa na krúpy, a bez   slova vytackal sa z komnaty.
+   </tei:p>
+   <tei:p>
+    Von na širokom nádvorí slnko práve zapadalo. Vysoko na hlbokej,   zružovenej oblohe váľaly sa obláčiky ani barance jeden za druhým a   bežaly kamsi, bežaly. „Biele, bielučké ružové obláčiky,“ mihlo ešte   Berovi v očiach, „kde ste sa vzaly? A kam letíte do blížiacej sa   noci? Akou pustou ostane mi obloha bez vás!“
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

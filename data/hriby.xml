@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944130" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Hríby : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3011
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Hríby
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     HRÍBY.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Ako je to, ako nie, ale je tak, že sa kapusta s kyslím mliekom,   pes s mačkou, koza s nožom a farár s rechtorom odjakživa nesnášali.   Tak to bolo aj v Dolnej Vieske, dedinke s päťsto dušami, medzi   hustými jedľovými horami, pod vrchom Inovcom, ďaleko od mesta, to   jest, ako sa hovorí, Pánu Bohu za chrbtom.
+   </tei:p>
+   <tei:p>
+    Aspoň tak to bolo medzi pánom farárom Jánom Červeňom a pánom   rechtorom Jánom Bielikom.
+   </tei:p>
+   <tei:p>
+    V kostole bolo, ako bolo. Tu pán rechtor musel odpovedať pánu   farárovi a pán farár musel vyčkať, kým rechtor dokončil, ale mimo   kostola, na ceste!
+   </tei:p>
+   <tei:p>
+    Vše sa obišli, keď sa mali stretnúť. Keď sa už nijako nemohli   obísť, pozdravili sa, aj poshovárali sa. Lenže ako? Ak pán rechtor   priložil tri prsty k strieške klobúka a pán farár odpovedal iba   dvoma, mohol byť istý, že si to pán rechtor zapamätá a pri najbližšej   príležitosti odpovie síce na farárovo pozdravenie, ale len jedným   prstom. Pri takomto pozdravení pán farár obyčajne prižmúril jedno   oko, pán rechtor obidvoje. Farár si myslel: Nechcem ťa vidieť.   Rechtor si pomyslel: Už ťa nevidím. Poštuchal farár pri takomto   pozdravení paličkou blato, alebo udrel ňou o kameň, rechtor iste   sekol ňou do povetria. Farár si pomyslel: Dobre by ťa bolo vymlátiť.   Rechtor myslel: Keby si len bol bližšie.
+   </tei:p>
+   <tei:p>
+    A obidvaja mohli byť najlepšími priateľmi už podľa veku. Farár bol   päťdesiatročný, rechtor mal
+   </tei:p>
+   <tei:p>
+    66
+   </tei:p>
+   <tei:p>
+    ﻿štyridsaťdeväť. Mohli sa radi mať aj podľa figúr. Obidvaja boli   nízki a tuční a mali skoro navlas jednaké plešiny. Plešina pána   recbtora tiahla sa vrchom hlavy, plešina pána farára spúšťala sa už   nad uši. Pánu rechtorovi bolo ešte poznať hviezdu, pána farárova   tonzúra zmizla dávno v plešine. Ale, keď nie podľa figúr, mohli sa   radi mať podľa mien. Jeden sa volal Cerveňom, druhý Dielikom a   obidvaja boli Jánovia s tým malým rozdielom, že farár bol Jánom   Apoštolom a rechtor Jánom Krstiteľom.
+   </tei:p>
+   <tei:p>
+    Boli by sa teda ináče srovnávali, keby sa neboli nenávideli. Takto   všemožne usilovali sa, aby medzi nimi nebolo nič rovnakého a   spoločného. Odprisahal by, že by si bol pán Dielik aj fúzy aj bradu   holil, keby to nebol robil pán Červeň tri razy do týždňa. Pán farár   sa aj vyslovil pred svojou gazdinou Mídou, že by dal sto korún, keby   sa nevolal Jánom a mohol stenknúť na paličku, len aby sa rechtorovi v   ničom nepodobal.
+   </tei:p>
+   <tei:p>
+    Prečo sa nenávideli, prečo nie, na to sa len toľko dá odpovedať,   že to bolo od Pána Boha, alebo od prírody, čiže z tej istej príčiny,   z ktorej sa kapusta s kyslým mliekom, koza s nožom a pes s mačkou   nemôžu vystáť.
+   </tei:p>
+   <tei:p>
+    Aký divný je človek. Zdalo by sa ti, že len to spomíname, čo radi   máme. Nie je pravda. Co nenávidíme, to nám je ustavične na jazyku.   Teší nás, keď môžeme hovoriť o tom, čo nás jedom plní. Takýto hnev je   nám milý, lebo každým slovíčkom môžme prepichnúť predmet svojej   nenávisti alebo mu hlavu umyť, alebo zrovná odpíliť.
+   </tei:p>
+   <tei:p>
+    Dali napríklad u pána farára šošovicu na obed. Co má šošovica s   rechtorom? A predsa sa pán farár hneď osopil na svoju gazdinú:
+   </tei:p>
+   <tei:p>
+    — Sobota. To sa rozumie. Musí byť šošovica. Nevedeli by sme ináče,   že je zajtra nedeľa. U každého rechtora je v sobotu šošovica.
+   </tei:p>
+   <tei:p>
+    67
+   </tei:p>
+   <tei:p>
+    ﻿A načrúc do nej veľkou lyžicou, zdvihol ju nad misu a lial   šošovicu pomaly nazpät, otrčiac spodnú gambu a hundrajúc:
+   </tei:p>
+   <tei:p>
+    — Riedka, ako u rechtora.
+   </tei:p>
+   <tei:p>
+    Potom ju pomiešal a nazrel zblízka do misy, prehodiac nevrlo:
+   </tei:p>
+   <tei:p>
+    — Bez škračiek, bez slaninky . . . Taká šošovica — pre rechtora,   bez chuti a masti. Gazdiná Mída, čierna, suchá, vysoká osôbka s   okrúhlym čelom a malými očami, hlboko pod čeľusťou zatisnutými, ako   sedliacke okienko pod širokým odkvapom, v belasej, tlačenej zásterke   s bielymi bodkami a takej istej šatke, previazanej na tyle, hneď   zafňukala, utierajúc si oči dlaňou:
+   </tei:p>
+   <tei:p>
+    — Vy by ste aj na moriaka povedali, že je taký, ako rechtor, aj na   bažanta . . .
+   </tei:p>
+   <tei:p>
+    — Aj na brava, — zastavil ju farár.
+   </tei:p>
+   <tei:p>
+    — Co vám teda, čo? zažialila a odvrátila sa k oknu, aby svojimi   slzami ešte väčšmi nerozhnevala pána farára.
+   </tei:p>
+   <tei:p>
+    Farár, aby nebol plač a aj preto, že sa musí voľačím   „napchať, pošuchol tanier k mise a nabral si šošovice. Ale   nezabudol za každou lyžicou pokrútiť hlavou, aká je tá šošovica   riedka a hlúpa.
+   </tei:p>
+   <tei:p>
+    Po obede stiahol obrvy, založil si ruky na kríže, rozkročil sa a   vážne hrubým hlasom prehovoril ku gazdinej:
+   </tei:p>
+   <tei:p>
+    — Zapamätajte si na druhý raz .. . Tento pokrm, — a ukázal   pohrdlivo na šošovicu, — nesmie byť u mňa v sobotu na stole . . .   Môže byť od nedele do piatku večera, ale v sobotu na nijaký   sposob.
+   </tei:p>
+   <tei:p>
+    Skrútil sa na ľavej nohe, obrátiac sa takto chrbtom k nešťastnej   Míde.
+   </tei:p>
+   <tei:p>
+    — Ale prečo, prečo? — spýtala sa Mída plačlivo.
+   </tei:p>
+   <tei:p>
+    68
+   </tei:p>
+   <tei:p>
+    ﻿Farár nahol hlavu k plecu, aby ho lepšie bolo počuť:
+   </tei:p>
+   <tei:p>
+    — Už som povedal. Preto, lebo v sobotu každý rechtor je   šošovicu.
+   </tei:p>
+   <tei:p>
+    Trhol hlavou a vyšiel narovnaný von.
+   </tei:p>
+   <tei:p>
+    Alebo boly palacinky. To je už panskejšie jedlo a tak často ani u   rechtora nebýva. Mída jednako dostala po nose.
+   </tei:p>
+   <tei:p>
+    — Viete, čomu sa podobajú tieto palacinky? — Čomu? — strpia   Mída.
+   </tei:p>
+   <tei:p>
+    — Rechtorovi!
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    — Takú majú hrubú kožu, ako on.
+   </tei:p>
+   <tei:p>
+    Gazdiná sa zasa len rozplakala, ako každá urazená kuchárka. Počala   vykladať a bedákať, že by pánkovi ani kráľovský hlavný kuchár   nevyhovel, nie to ona chudera . .. Tie palacinky sú ľahké, ako   pavučina, tenké, ako najjemnejšie tkanivo a pánkovi sú hrubé ako   rechtor.
+   </tei:p>
+   <tei:p>
+    Aby ju uspokojil, zjedol ich desať a ešte uvažoval, či by nebolo   dobre aj jedenástu. Gazdiná sa uspokojila. •— Sotva sú také hrubé, —   myslela si, — nebol by ich zjedol desať.
+   </tei:p>
+   <tei:p>
+    Jedným slovom, u farára bola vždy reč o rechtorovi, u rechtora o   farárovi.
+   </tei:p>
+   <tei:p>
+    Pani rechtorka bola mohutná pani s prísnou, zamračenou tvárou s   akýmsi dravým výrazom v očiach. Zďaleka vzbudzovala rešpekt nielen   pred cudzími, ale i pred svojím vlastným manželom, ktorý ju aj   počúval a na znak úcty a lásky Zuzankou menoval, ale to bývalo len   dovtedy, kým neprišla reč na farára. V tomto ohľade si nedal   rozkázať. Zuzanka odrazu premenila sa na Zuzanu a Zuzana musela   bezpodmienečne vyhovieť rozkazom manželovým.
+   </tei:p>
+   <tei:p>
+    Prišlo, povedzme, jablká oberať. Pani rechtorka sa už aj vybrala   do sadu. Muž ju zastavil:
+   </tei:p>
+   <tei:p>
+    69
+   </tei:p>
+   <tei:p>
+    ﻿— Kamže, Zuzanka? — Jablká obrať.
+   </tei:p>
+   <tei:p>
+    — Najprv pozri, duša moja, či farár neoberá — Nuž a keď?
+   </tei:p>
+   <tei:p>
+    — Ak on oberá, nebudeme my. — Prečo?
+   </tei:p>
+   <tei:p>
+    — Ale Zuzana! Ešte by povedali, že sa podlá neho držíme.
+   </tei:p>
+   <tei:p>
+    Doniesly ženy maliny. Dávaly lacno a pani rechtorka už i zjednala   putňu za korunu. Bola celá vytešená nad lacnou kúpou. Náhodou prišiel   na to muž.
+   </tei:p>
+   <tei:p>
+    — Co to kupuješ? — opýtal sa s úsmevom. — Maliny.
+   </tei:p>
+   <tei:p>
+    — U farára brali? — Brali.
+   </tei:p>
+   <tei:p>
+    — Tak nebudeme my, — povedal už bez úsmevu.
+   </tei:p>
+   <tei:p>
+    — Ale tak lacno, — žobronila žena.
+   </tei:p>
+   <tei:p>
+    — Nebudeme . . . Nechcem takého lekváru, ako má farár, riešil   odmerane.
+   </tei:p>
+   <tei:p>
+    Darmo pani rechtorka vysvetľovala, že maliny sú maliny, ale zato   jej lekvár nebude Laký ako farárov, — nepopustil.
+   </tei:p>
+   <tei:p>
+    — Nie, Zuzana, — povedal chladne, — to nesmie byť.
+   </tei:p>
+   <tei:p>
+    Raz pána Bielika veľký hnev pochytil, keď sa dozvedel, že si z   toho istého vína objednal, čo má farár.
+   </tei:p>
+   <tei:p>
+    — Ešte povie, — kričal, — že mne to isté chutí, čo jemu.
+   </tei:p>
+   <tei:p>
+    Len-len že ho nevylial do potoka, ale sa spamätal a stočil ho do   fliaš. Pre domácu potrebu objednal druhé.
+   </tei:p>
+   <tei:p>
+    Do takýchto krajností prešla láska a shoda medzi pánom Cerveňom a   pánom Bielikom.
+   </tei:p>
+   <tei:p>
+    70
+   </tei:p>
+   <tei:p>
+    ﻿Hnev nielen že pomúti rozum, ale ho aj odoberie, práve tak ako aj   láska. Nie dosť na tom, že sa oni hnevali, žiadali, aby sa Mída na   Zuzanku a táto na Mídu tiež hnevala. Toto už nebolo s kostolným   riadom, lebo akí nepriatelia boli farár s rechtorom, také priateľky   boly Mída so Zuzankou. Iné ženy sa vyponosujú, keď sa náhodou sídu,   tieto dve sa naschvál schádzaly, aby sa vyponosovaly. Iné si pomáhajú   cukrom, kávou, múkou a octom, keď to potrebujú, tieto si vypomáhaly   takýmito maličkosťami aj vtedy, keď ich nepotrebovaly, len aby si   radosť spôsobilý ... — Mám síce ťaušu, myslela si neraz Mída — ale si   požičiam. Zuzanka sa poteší že mi môže niečím poslúžiť. Mám síce   kávy, —- myslievala Zuzanka, ale si požičiam od Mídy, už som si   týždeň nič nepožičala od nej, ešte si pomyslí, že sa hnevám. . . Iné   ženy sú rady, keď môžu klebetiť na cudzích mužov, tieto naopak.   Usilovaly sa rozhnevaných udobriť ... A keď aj plnily rozkazy, plnily   ich naoko a potajme schádzaly sa, aby sa poradily, čo by pána   rechtora s pánom farárom vyrovnalo. Probovaly všeličo.
+   </tei:p>
+   <tei:p>
+    Počaly s kresťanskou láskou. Ale pán farár na Mídine dohováranie   len tolko povedal:
+   </tei:p>
+   <tei:p>
+    — Kresťanská láska? . . . Ano . . . Ale rechtor je pohan.
+   </tei:p>
+   <tei:p>
+    Pán rechtor na reči svojej ženy iba vykríkol:
+   </tei:p>
+   <tei:p>
+    — Zuzana!
+   </tei:p>
+   <tei:p>
+    Keď nešlo s kresťanskou láskou, chytily sa podvodu. Farár dostal   vinš od rechtora na mena a na Nový rok na navštívenke rechtorovej a   rechtor gratuláciu na narodeniny a veľkonočné sviatky na navštívenke   farárovej. Nepomohlo ani toto. Farár sa uškeril a povedal na   rechtora, že je dotieravý. Rechtor rozdriapal navštívenku a odpľul   si.
+   </tei:p>
+   <tei:p>
+    Keď sa falošné vinše nevydarily, chceli obmäkčiť ich srdcia darmi.   Farár dostal za vrece naj-
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿lepších jabĺk, rechtor suchých slivák. Ani jeden, ani druhý   neprijal daru.
+   </tei:p>
+   <tei:p>
+    Neznesiteľní, neúprosní, tvrdí ľudia to boli.
+   </tei:p>
+   <tei:p>
+    Mída so Zuzankou rozmýšľaly práve o nejakom novom spôsobe, ktorý   by mohol rozhnevaných pomeriť, keď sa udalo čosi neobyčajného.
+   </tei:p>
+   <tei:p>
+    Bolo veľmi suché leto. Raz sa jednako trafilo, že ženy doniesly za   väčší košík hríbov.
+   </tei:p>
+   <tei:p>
+    — To nám bude pomoc —-* povedala Mída farárovi.
+   </tei:p>
+   <tei:p>
+    — Len ich vezmite všetky, — mienil farár, — šly by s nimi k   rechtorovi a ten nemusí jesť smažené hríby. To je nie rechtorský   pokrm.
+   </tei:p>
+   <tei:p>
+    Mída vzala, vysmažila. Pán farár zjedol všetko, čo doniesli na   stôl. Jej sa neušlo ani na okoštovanie.
+   </tei:p>
+   <tei:p>
+    Na druhí deň, hneď na svitaní sa farárovi prisnilo, že mu akási   guľa padla na brucho a vrtí sa mu na ňom. Vrtenie zdalo sa mu veľmi   nepríjemným a čím ďalej, tým protivnejším. Guľa ho ťažila. Rád by bol   o inom sníval, ale vše len tá guľa padala a vrtela sa s veľkou   rýchlosťou. Myslel si, že sa musí zobudiť a že sa už aj zobudil, ale   guľa neprestávala sa vrtieť a tlačiť ho. Pritom mu hlava išla naopak.   Myšlienky a či sám mozog roztiahol sa na šnúru a vlál, ako stužka vo   vetre . . . Zasa nová guľa .. . Prásk! Rovno na brucho ... A s brucha   počalo sa mu čosi hrnúť k hrtanu, do úst a do hlavy .. . Zobudil   sa.
+   </tei:p>
+   <tei:p>
+    Skrúcalo mu žalúdok. To bola tá guľa, čo sa vrtila a tisla sa do   úst a do hlavy. Divná mrákava prebiehala mu hlavou a zatemňovala mu   mozog. To bola tá stužka, čo vlála. Pokľakol k posteli a prikrčil sa.   Nahmatal zápalky a zapálil sviecu. Potom zadkom sliezol s postele a   shrbený prešiel aj so sviečkou ku skrinke, kde bola slivovica. Tu   náhle soslabol, a kým mu chrbtom prebehla zimnica, na čelo vystúpil   studený pot. Sadol na remeňmi foteľ
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿s fľaškou a sviecou a potiahol zo slivovice. Ruka sa mu triasla.   Hlavu si nemohol hore udržať. Klesla mu nabok.
+   </tei:p>
+   <tei:p>
+    — Mŕtvica, — myslel si. Ale hneď mu prišlo na um, že pred mŕtvicou   nemá sa čo dvíhať žalúdok . . . Len od čoho, od čoho? — hútal. . .   Predvečerom som jedol klobásky . . . Nejedol by ich ani za desiatku .   . . Striasol sa od hnusenia . . . ľa, hnusí sa mi jedlo . . .   Pokazený žalúdok a nie mŕtvica . . . Alebo včerajšie smažené hríby .   . .
+   </tei:p>
+   <tei:p>
+    Pri myšlienke na hríby mu tak skrútilo žalúdok, že sklonil hlavu   na prsia. Položil sviečku a fľašu vedľa seba na dlážku a oprúc si   bradu lakťami o kolená, melancholicky zadíval sa na odhodený konček   cigary neďaleko neho.
+   </tei:p>
+   <tei:p>
+    — Keď som tú cigaru fajčil, aký zdravý som bol, — prelietlo mu   mysľou . . . •—- Bolo mi treba hríby jesť, — šeptal si utierajúc si   spotené čelo krajíčkom nočnej košele ... — Ach, keby sa mi tak chcelo   odkychnúť, Bože môj, ako by sa mi uľahčilo.
+   </tei:p>
+   <tei:p>
+    Takým slabým sa cítil, že si netrúfal stať s fotela. Jednako   vstal, ale oslabnuté nohy sa mu triasly a podlamovaly. Cítil, že ak   kročí, potočí sa iste, alebo spadne. Toto ho naľakalo. Sadol si zasa   a chytiac fľašu, počal búchať ňou o podlahu.
+   </tei:p>
+   <tei:p>
+    — Mída, Mída! — volal slabým hlasom, chcejúc, aby ho ona odviedla   do postele.
+   </tei:p>
+   <tei:p>
+    Ale Mída sa neukazovala. Až o siedmej vošla do izby a vidiac   farára na foteli skoro zeleného s odvisnutou hlavou pri dennom svetle   a horiacej sviečke vedľa neho, vykríkla a zalomila rukami. Skočila k   fotelu a vybuchla v plač. Zdalo sa jej, že farár umrel.
+   </tei:p>
+   <tei:p>
+    — Ježiši Kriste! Co vám je? — volala a chytila mu hlavu do dlaní,   pozrúc mu zblízka do tvári. Počula, ako zťažka vydychuje a videla   studeným potom zaliate čelo ... — Och, cholera, cholera, —
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿zavzlykala, — i pána rechtora drží . . . Tam už aj doktora   zavolali. . .
+   </tei:p>
+   <tei:p>
+    Farár len čo prešiel s pomocou gazdinej nazpät do postele a   zdvihol kolená k bruchu, opýtal sa slabým hlasom:
+   </tei:p>
+   <tei:p>
+    — I rechtora? A čo mu je?.
+   </tei:p>
+   <tei:p>
+    — Voľačo so žalúdkom, — povedala plačúc.
+   </tei:p>
+   <tei:p>
+    — Akési skrúcanie . . . Mdloba, — počala Mída, prisadnúc si   zpolovičky na stoličku blízko postele, — odrazu sa mu, vraj, hlava   zavrtila, že skoro spadol . . .
+   </tei:p>
+   <tei:p>
+    — Tak práve, ako u mňa, — myslel si farár.
+   </tei:p>
+   <tei:p>
+    — Var a zima, — pokračovala Mída, — a slabosť. Len ľahnúť si. . .   Nemohol sa na nohách udržať ... A žalúdok mu krúti a krúti.
+   </tei:p>
+   <tei:p>
+    — Ako u mňa, — šeptal chorý.
+   </tei:p>
+   <tei:p>
+    — O polnoci sa to počalo. Kričí, len umrieť a umrieť . . . Pani   rechtorka, čo mala robiť, sama pribehla ku mne a zobudila ma . . .   Že, vraj, ako skúsená osoba pomôžem . . . Poď, hovorí, muž mi umiera   .. . Ako nepôjdeš? Život na nitke . . . Vybehla som len tak v   spodničke, rozospatá a naľakaná, až sa mi tak srdce rozbúchalo ... A   prikladáme najprv studené, potom teplé obklady . . . Niet lepšieho od   obkladka . . . Varíme materinské lístky . . . Dávame teplú vodu . . .   Ale nič, nič nepomáha. Pán Bielik sa len svíja a svíja. Raz sa   natiahne, raz sa pokrčí. . . Po živote ho trieme. . . Niet lepšieho   od trenia. Trie jedna, trie druhá a nič. Cvŕka v ňom, čvŕka, ani čo   by ste kapústu tlačili, ale účinku nijakého . . .
+   </tei:p>
+   <tei:p>
+    Rozhodila rukami a udrela sa nimi po stehnách.
+   </tei:p>
+   <tei:p>
+    — Nijakého . . . Poslali potom po doktora.
+   </tei:p>
+   <tei:p>
+    Napravila si šatku na hlave, stiahne ju k očiam, a zasmŕkala.
+   </tei:p>
+   <tei:p>
+    — Voľáka otrava, — podotkla, — žalúdok pokazený.
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿—■ Ako u mňa, — zavzdychol farár.
+   </tei:p>
+   <tei:p>
+    — Probujte, — zavolal, — aj mne dať obkladok, —- a počal sa   hniezdiť. Ťažko mu bolo aj toto vypovedať. Rád by sa bol opýtal, čo   jedol rechtor, od čoho je chorý, ale takým slabým sa cítil, že si   myslel, že položenie týchto otázok presahuje jeho sily.
+   </tei:p>
+   <tei:p>
+    Mída urobila studený obkladok. — Teplý, — kázal farár.
+   </tei:p>
+   <tei:p>
+    Spravila teplý.
+   </tei:p>
+   <tei:p>
+    — Nože tých lístkov!
+   </tei:p>
+   <tei:p>
+    Prevarila lístky a dala mu ich užiť. — Potrite ma troška, —   volal o chvíľu, — Gazdiná ho potrela.
+   </tei:p>
+   <tei:p>
+    — Cvŕka? — opýtal sa — Cvŕka.
+   </tei:p>
+   <tei:p>
+    Zavrtel hlavou. Nijako nemohol pochopiť, že upadol do tej istej   choroby čo rechtor.
+   </tei:p>
+   <tei:p>
+    — A keď ten doktor príde, — povedal ešte, pošlite ho aj ku mne.   Potom mu tak zle prišlo,
+   </tei:p>
+   <tei:p>
+    že vydával zo seba iba bolestné stony.
+   </tei:p>
+   <tei:p>
+    Tak tresce Pán Boh. Pán farár a pán rechtor nechceli sa rovnať v   ničom a podobali sa vo všetkom. Doktor nariadil obidvom ležať za   týždeň a po týždni museli obidvaja robiť takzvanú karlsbádsku kúru.   Prvé dva dni nesmeli nič jesť, neskoršie iba čistú polievočku,   mliečko, vajíčko, zaprávané kurča, telacinku, aj potom len ľahučké   jedlá.
+   </tei:p>
+   <tei:p>
+    Farár už na druhý deň opýtal sa gazdinej
+   </tei:p>
+   <tei:p>
+    —- Ako sa má rechtor?
+   </tei:p>
+   <tei:p>
+    — Lepšie mu je, — povedala. — No, veď sa aj mne ulepší.
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿Mída len čo stačila odbehnúť k Zuzanke, pochválila sa jej, ako sa   pán farár vypytuje na zdravie pána učiteľovo. — Ale veď to aj môj.   Ustavične len, ako sa má pán farár, ako sa má velebný pán?
+   </tei:p>
+   <tei:p>
+    — Tak vraví „velebný pán, pán farár?
+   </tei:p>
+   <tei:p>
+    — Celkom tak.
+   </tei:p>
+   <tei:p>
+    Mída bežala nazpät a všetko rozpovedala pánu farárovi. Ako sa o   neho zaujíma pán Bielik. Len, vraj, ako sa má náš pán farár, velebný   náš pánko?. . .
+   </tei:p>
+   <tei:p>
+    — A on, ako sa má? Co bude obedovať?
+   </tei:p>
+   <tei:p>
+    — Zuzanka strojí teľaciu šnicľu.
+   </tei:p>
+   <tei:p>
+    — Tíí, to je znamenité, aj mne by ste mohli.
+   </tei:p>
+   <tei:p>
+    Celá naradovaná zasa len pribehla k pani učiteľke, že sa pán farár   spytoval, čo budú mať na obed. Aby som mu, vraj, aj ja to isté dala .   . . Veľmi sa zaujíma.
+   </tei:p>
+   <tei:p>
+    — Ako môj .. Rozkázal mi, aby som sa držala podľa vašej kuchyne .   . .
+   </tei:p>
+   <tei:p>
+    — Ale!
+   </tei:p>
+   <tei:p>
+    Gazdiná aj toto oznámila pánu Cerveňovi.
+   </tei:p>
+   <tei:p>
+    Tak to išlo každý deň. Farár vše len o tom, ako sa má pán rechtor,   rechtor zas o tom, ako sa má pán farár. A obidvaja sa zotavovali. Len   jedno sa nemohol dozvedieť pán farár: od čoho si rechtor pokazil   žalúdok a rechtor zasa to: od čoho je vlastne chorý farár. Co   poškodilo tomu a čo tomu.
+   </tei:p>
+   <tei:p>
+    Po týždni pri prvej karlsbádskej kúre Červeň zďaleka zbadal   učiteľa, ako kráča pred ním zvoľna pokyvuje hlavou s boka na bok.   Cítil sa už zdravým a veselým. Prišlo mu na um, ako sa pán rechtor   zaujímal o jeho zdravie cez chorobu, A on tohto človeka nenávidel!   Veď je to chlap samá statočnosť ...
+   </tei:p>
+   <tei:p>
+    — Hej, amice, — zavolal za ním, — počkajte, pôjdeme spolu.
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+   <tei:p>
+    ﻿Učiteľ sa obrátil a zbadajúc farára, vrátil sa k nemu. Podali si   ruky a málo chýbalo, že sa neobjali. O chvíľu pošli spolu po   hradskej, rozprávajúc si o priebehu choroby.
+   </tei:p>
+   <tei:p>
+    — Huncútske hríby, —- hovoril farár, — sobraly ma fatálne . .   .
+   </tei:p>
+   <tei:p>
+    Pán Bielik sa zastavil:
+   </tei:p>
+   <tei:p>
+    — Ako hríby? Aj vás hríby? Farár tiež zastal a začudoval sa:
+   </tei:p>
+   <tei:p>
+    — Aj vás?
+   </tei:p>
+   <tei:p>
+    — Mne bolo od hríbov zle, — potvrdil rechtor.
+   </tei:p>
+   <tei:p>
+    — Ale veď aj mne.
+   </tei:p>
+   <tei:p>
+    — Divná náhoda.
+   </tei:p>
+   <tei:p>
+    — Podivná.
+   </tei:p>
+   <tei:p>
+    A rozhýbali sa poznove k hore Smrčinke. Ta i nazpät bola práve   hodina. Rozlúšťali hádanku, ale ju nemohli rozlúštiť. Najmä farárovi   nešlo do hlavy, veď kúpil všetky a zjedol všetky. Ženy, čo ich   doniesly, samy vravely, že viac hríbov niet, sosbieraly ich do   jedného.
+   </tei:p>
+   <tei:p>
+    Až doma vysvetlila Mída červeňajúc sa a kriviac tvár do plaču, že   hríbov bolo moc. Upražila síce všetky, ale polovicu poslala Zuzanke,   aby pánu farárovi nepoškodily.
+   </tei:p>
+   <tei:p>
+    — Ako pánko rád má hríby, bol by ich zjedol všetky, — vravela už s   plačom, — a kúra by bola bývala raz taká ťažká . . .
+   </tei:p>
+   <tei:p>
+    Farár si zavzdychol:
+   </tei:p>
+   <tei:p>
+    — A raz taká dlhá . . . Takto sme ju podelili No, neplačte.
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

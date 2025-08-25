@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944427" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Otroci : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3080
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Otroci
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     OTROCI.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Elena vošla do svojej izby. Tam bola tma, len čo sa niekoľko   svetlých pásikov dralo cez spustené žalúzie z osvetlenej ulice.   Podišla k oknu a otvorila ho. Na ulici ešte svietily lampy v plnom   svetle. Akoby dve dlhé reťaze, pozostávajúce z veľkých zlatých ohnív,   ktoré sa tam ďalej menšily a spájaly v úžiaci sa zlatý pás. Dlhé rady   stojacich číslovaných kočov s drobnými svetielkami nehybne stály   obďaleč. Ďalej dolu v priečnej ulici neprestajne prebehúvaly koče a   mihali sa ľudia, zaliati prachom svetla, kúriaceho a vystupujúceho   nad temné vysoké budovy.
+   </tei:p>
+   <tei:p>
+    Elena posadila sa do okna a pozrela si na prsty. Od týždňa to   často robievala a zakaždým zdalo sa jej akýmsi neuveriteľným, že je   to na tom prste ozajstná obrúčka. Snubná obrúčka zo zlata. S dátumom.   Teda sa bude vydávať. Neobišlo ju šťastie... Zasmiala sa. Šťastie! S   ním! Aký je on protivný človek. Veľká, vždy spotená figúra s veľkými   fúzmi a guľatými očami. Samý úsmev a ochotnosť. — Elenka, Elenka!   Tieto ružičky na znak lásky .. . Co vraví ustavične o Elenke? Prečo   nepovie Elena? Prečo ružičky? Prečo nepovie ruže ... A ako potriasa   nohou. Nemôže pokojne spávať. Trasie sa na ňom všetko, i plecia i   hlava i bukréta. Hneď mu vystúpi znoj na čelo a utiera sa bielou   šatkou. Jeho oči dívajú sa nežne, sladko. Vidieť, rád vidí. Do   nevystátia rád vidí. Vo všetkom je po vôli. I fúzy by si ostrihal   kvôli nej. Odporný. Nenávidí ho ...
+   </tei:p>
+   <tei:p>
+    174
+   </tei:p>
+   <tei:p>
+    ﻿Jej prichádzajú na myseľ zasa slová toho chudobného študenta   Cudráka . .. Aký je to celkom inakší človek tento Cudrák. Nedávno   prechádzali sa v mestskom parku. Len čo zmrklo. Ten večer jej   nevymizne z pamäti. Ako by včera bola videla ten bledožltý západ. Nad   neďalekým pahorkom začaly sa zjavovať bledé hviezdy. Zapaľovaľy sa   vzájomne. Za pol hodiny žiarily všetky. Medzi vetvami kvitnúcich   gaštanov, z ktorých viala vôňa a naplňovala stromoradie, ukázala sa   veľká guľa mesiaca. V svetle zapálených lámp tmolilo sa prechádzajúce   obecenstvo. Blýskaly cylindre a toaletý dám, šuštiacich hodvábom,   nechávajúc po sebe vôňu nejakého ťažkého parfumu. Tuho pritiahnuté   sukienky, tvary tela, punčošky, drobné topánky, vyleštené, tenké   vysoké opätky vábily nazrieť do bielych tvárí s tuho červenými   perami, čiernymi obočiami a blýskavými očami. Smyselná nervóznosť   opanúvala všetky tie páriky, smejúce a túliace sa, všetkých tých   ojedinelých, pozerajúcich za párikmi a túžiacich po páre. I jej,   Elene, zachcelo sa niekomu ruku stisnúť, povedať, že tie rada má a že   ho bude rada vidieť . . . A pri nej bol študent, chudobný študent   Cudrák.
+   </tei:p>
+   <tei:p>
+    Stratili sa rodičom. Odrazu on čosi povedal, čo bola pravda a čo   dávno cítila, ale nevyjadrila si to zreteľne.
+   </tei:p>
+   <tei:p>
+    — I vy ste otrokyňa.
+   </tei:p>
+   <tei:p>
+    — Ako?
+   </tei:p>
+   <tei:p>
+    — Otrokyňa vašich pánov rodičov a spoločenského zvyku. Tak, ako sú   všetci ľudia otroci.
+   </tei:p>
+   <tei:p>
+    — Ako to? — pýtala sa skoro prestrašená, — ale, prosím vás, dajte   mi rameno, — podotkla, — strkajú.
+   </tei:p>
+   <tei:p>
+    Cudrák chytil ju pod pazuchu a pritiahol k sebe.
+   </tei:p>
+   <tei:p>
+    — Neviem, či môžem voľne rozprávať?
+   </tei:p>
+   <tei:p>
+    — Starí známi. Prečo nie?
+   </tei:p>
+   <tei:p>
+    175
+   </tei:p>
+   <tei:p>
+    ﻿— Nenahneváte sa?
+   </tei:p>
+   <tei:p>
+    — Nie.
+   </tei:p>
+   <tei:p>
+    — Ostatne, prečo by ste sa hnevali. To je pravda. Tak, ako milión   iných, i vy ste otrokyňa. Vydávate sa za človeka, ktorého nemáte   radi. Bohatý je, dobrý, ale vy ho nemôžete vystáť. Povedali ste to aj   otcovi, aj matke. Pán otec sa chytil za hlavu, bledol a pripomenul   smrť. — Do hrobu ma privedieš, Elena, — povedal vám. — Vieš, že mám   nanič srdce. To musí byť. A mamička sa zrovná na posteľ vrhla a   plakala, že jej dych zastavovalo . . .
+   </tei:p>
+   <tei:p>
+    — Vy máte fantáziu, — pretrhla ho Elena.
+   </tei:p>
+   <tei:p>
+    — Asi to tak bolo, keď aj nie celkom. Mamička až kričala v plači,   že azda chcete ostať starou pannou. Kamarátky sa vám povydávaly. Len   vy nie. Veď máte už dvadsať rokov. Ešte tri, — pomysleli ste si vy na   to — a zostanem starou slečnou. Úžasné čosi: stará slečna! Všetok   posmech lipne na takej. Vlečie ho so sebou, ako vlastnú vlečku. Len   si predstaviť takú chudú kostnatú dámu so špicatým nosom a vysadlými   lícnymi kosťami, okolo očú vrásky. Púdor, mašličky, maľovanie. — A   ja, — tak ste si pomysleli, — iste by takou bola, lebo sa vy nazdáte,   že ste chudí. I malú bradovičku máte pod ušami. Tá by sa stala   veľkou. Strach!
+   </tei:p>
+   <tei:p>
+    — Strach, — zopätovala Elena a zasmiala sa.
+   </tei:p>
+   <tei:p>
+    — Teraz sa smejete, lebo ste hneď bežali k zrkadlu a presvedčili   ste sa, že ste ešte celkom pekná. Ba, môže sa povedať, krásna. Vlasy   čierne. Hľa, až sa jagajú. Prirodzený lesk. Vrkoče husté, veľké,   hrubé, svinuté, až vám ťahajú hlavu nazpät. Tú peknú hlavu , . .
+   </tei:p>
+   <tei:p>
+    Cudrák zabudol, že filozofuje, pritisol k sebe útle Elenino   rameno. Ani nezbadala, ba sama pritiahla sa k nemu.
+   </tei:p>
+   <tei:p>
+    176
+   </tei:p>
+   <tei:p>
+    ﻿— Na čele ani vrásky, — pokračoval Cudrák, — a ani okolo očú. A   keby nebolo čiernej pleti, iste by ste mali ružové líca. Najmä toto   červené vám sluší.
+   </tei:p>
+   <tei:p>
+    Cudrák ukázal na červený golierik blúzy a na klobúk.
+   </tei:p>
+   <tei:p>
+    — Zamatový červený golierik na čiernej blúzke a červený klobúčik   ... A keď sa zasmejete. Zuby biele, dobré a dosť drobné. Tých   niekoľko, čo ste si dali plombovať, nevadí. To je iba pekné. Aha,   tamtá zlatá plomba. Nijako nespätí. Básne by mohli písať o takom   zúbku. . . Tretí. Ten, čo je za mliečnym. Napravo.
+   </tei:p>
+   <tei:p>
+    — Ale, vy ste! Vy mi aj do úst pozeráte, zasmiala sa zasa Elena, —   chcete ma otrokyňou spraviť a aby sa nehnevala, strúhate poklony.
+   </tei:p>
+   <tei:p>
+    Cudrák protestoval a vravel, item ďaleko je do tej starej slečny.   No predsa. Je to strašné tak nevydať sa. Kamarátky sa povydávaly.   Ešte dve-tri, a naozaj sa nájde medzi mladými dievčatkami, bakfišmi.   Pôjde na bál a uvidí samé neznáme tváre. Všetko bude veselé, smejúce   sa, naivné ... Krútiť sa to bude v tanci bezstarostne a ona bude   hľadať sebe rovnú priateľku, s ktorou si niekedy oznamovala svoje   tajnosti. A nevidí. Tie široké, čo sedia, už len štvorylky tancujú.   Ony boly jej kamarátkami. Ty si najstaršou, pomyslí si. Aj tebe by sa   patrilo sedieť a najviac nejakú štvorylôčku. Lenže ty si slečna. Ty   sa ešte vrtieť musíš, hopkať a vábiť. A na duši máš hroznú ťažobu.   Prichádzaš si samotnou, opustenou a smiešnou ... A tak to ide ďalej v   žúroch, koncertoch a divadlách. Vôbec v spoločnosti. Vše musíš k   mladým dievčatkám a nepatrí sa ti. Co z toho, že sa každá stará   slečna mohla vydať? Možno, že ju zradil vyvolený, alebo neprišiel.   Nehodila sa prvému do náručia, — lebo nebola otrokyňou. Darmo   rozprávať. Ostala si. To je faktum a svet
+   </tei:p>
+   <tei:p>
+    177
+   </tei:p>
+   <tei:p>
+    12. Novely
+   </tei:p>
+   <tei:p>
+    ﻿sa vysmeje. Sprosták. Treba sa vydať, čo ako. Hoci za   nenávideného. Svet sa vysmeje! Ako sa vôbec smeje nad najkrásnejšími   ctnosťami.
+   </tei:p>
+   <tei:p>
+    — Tak aj nad láskou, — končil Cudrák akosi nepokojne a rozochvené.   — Povedzme, že ja žijem láske. Ja jej aj žijem, — zopätoval ticho.   Elene zazdalo sa, že mu to srdce hovorí. — Rozplývam sa. Nehanbím sa,   že milujem, a ukážem ju pred ňou, pred vami, pred celým svetom.   Nehrám sa s citom, ale ho cítim a posievam ním svoju zamilovanú. Iný   pre mňa neexistuje. Kde je nie ona, nemôžem ostať. A tak ďalej.   Nebudem smiešnym? Povedzte, nebudem smiešnym? ... A prípadne je   dievča chudobné a mohol by mať bohatú. Nepovedia, že som hlupák? 2e,   hľa, mohol mať tisíce, ale on, blázon, len tú chudobnú. Tú bedač.   Môžu ma len preto znenávidieť. Keď nie iní, ale rodina rozhodne. Tá   ma prekľaje. A ja počúvam a som otrokom. Nuž a či sa teraz vôbec   vydávajú alebo ženia z lásky? Je to stará téma, ale, keď sme v tom,   darmo je, povieme si. Sú a či bývajú akési duševné emócie pred   svadbou? Horkýže. Slečny sa vydávajú, to jest slečny vydávajú, lebo   sa patrí vydať sa a či patrí sa ich vydať. Aby nezostaly. Taký je   poriadok. Tovar, ako predtým, ako u divých národov. Otrokyne . .   .
+   </tei:p>
+   <tei:p>
+    Elena chcela protestovať, ale Čudrák ďalej hovorí. Cítila, že je   to všetko preto, lebo sa vydáva. A Boh vie, sympatia k tomuto   človeku, medzi týmito stromami, v svetle lámp a mesiaca narástla za   pol hodinky. Pritiahla sa k nemu inštinktívne a myslela, aký je to   človek silný a spravodlivý, čestný a zaľúbený do nej, do nej. — Vy   tiež počkáte na lásku? — spýtala sa ho, — len potom . . . — Nepočkám.   — Prečože? — Darmo by čakal.
+   </tei:p>
+   <tei:p>
+    178
+   </tei:p>
+   <tei:p>
+    ﻿Vravel tvrdo. Elena cítila, že sa pretvaruje. Darmo preto, že sa   ona vydáva .. . Ale či sa musí vydať? Zasnúbenie je iba dohovor na   kontrakt, ako jej to Cudrák už raz povedal a čo si zapamätala.
+   </tei:p>
+   <tei:p>
+    — Prečo darmo?
+   </tei:p>
+   <tei:p>
+    Zašli na bočný chodník už dávno. Ani nebadali. Tu bolo už tmavšie.   Len malé lampy mihaly svetielkami pomedzi listy stromov a krovia,   vrhajúc biele škvrny na chodník a na trávu. Vôňa gaštanov stala sa   intenzívnejšou. Na dlhú tablu lúky obďaleč lial svoje svetlo mesiac a   ostriebril listy mladých líp a štíhle biele pne briez a osík. V   čipkovanom ráme nad hlavou tiahol sa hviezdnatý pás neba.   Prechádzajúcich ani nebolo.
+   </tei:p>
+   <tei:p>
+    Cudrák neodpovedal na otázku Eleninu. Len po chvíli, ako by musel   niečo povedať, riekol ľahostajne:
+   </tei:p>
+   <tei:p>
+    — Lebo som nešťastný.
+   </tei:p>
+   <tei:p>
+    — V láske?
+   </tei:p>
+   <tei:p>
+    — Áno. To jest, aby som vám povedal všetko, slečna Elena... Tu sa   mu hlas zatriasol. — Nepatrí sa mi to povedať. Poviem. Vás som mal   rád. Aj teraz. Aj potom.
+   </tei:p>
+   <tei:p>
+    Zatíchol. Nemohla sa rozpamätať, čo povedala ona. Len toľko vie,   že znelo jej to ako akási sladká hudba, na ktorej človek lipne celou   dušou vnímavou, zaľúbenou, celým svojím zrakom vlažným,   rozradosteným, celým svojím sluchom čujným a pozorným. Sťa by sa   všetko premenilo v srdci na tóny, patriace ku tej sladkej melódii,   najzvučnejšej, najtichšej, nezapomenuteľnej nikdy, v celom krátkom,   hlučnom, alebo tichom ľudskom živote. Potom šli domov skoro bez   slova. Cudrák podal jej ruku a odišiel.
+   </tei:p>
+   <tei:p>
+    Akosi si vtedy umienila, že nebude otrokyňou. Nevydá sa. Čakať   bude. Konečne rok, poldruha, a
+   </tei:p>
+   <tei:p>
+    179
+   </tei:p>
+   <tei:p>
+    ﻿Cudrák príde. Divná vec. Cudrák ju prenasledoval od toho večera   vždycky a nemohla sa predsa s ním síst. Jeho úzka a bledá tvár s   bočnou bradou a silným nosom, belasými prenikavými očami ukazovala sa   jej a nedajbože odvrátiť sa od nej. Často vychádzala z domu v nádeji,   že sa postretne. Chodila asfaltom a pozerala. Všetko cudzie tváre. A   doma, keď prichádzal jej snúbenec, ako túževala, že keby to radšej   ten druhý. Ten by nikdy nepovedal: „holubička moja, dušička   drahá Ani by sa neuklonil tak. Ten by ju rovno pritiahol k sebe   a ona cítila by teplotu, ako vtedy. Jeho ruku horúcu, jeho reči   precítené. A tento. Ako drevená bába sa hýbe. Ustavične nejaká   pozornosť. Treba odniesť balíček — hneď hotový. Spadne ručník —   hotový je biť sa, aby zodvihol. A nebadá, že ho nenávidí, že mu to   nemôže povedať, ale že je tomu tak.
+   </tei:p>
+   <tei:p>
+    Raz vychádzala z divadla aj so snúbencom. Vo foyer tmolilo sa   obecenstvo. Usmiate, veselé. Na ústach ešte hudba počutej operetky.   Dámy v bielych toaletkách, bundičkách a šáloch okolo hlavy. Čakajúci   kočišia a portýr vo vysokých červených čižmách, plášti a huňatej   baranici, vykrikujúci mená
+   </tei:p>
+   <tei:p>
+    a čísla fiakristov. . . Elena pozrela dookola a odrazu vidí známe   belasé prenikavé oči. Smejú sa. Vysmievajú. Ako by sa jej všetky   myšlienky pomútily v hlave. Chce presvedčiť, že sa bez príčiny   vysmievajú. Nie je pravda, že by otročila. Ci sa svedčí, či nie.   Vymyká sa zpod pazuchy snúbenca a usmiata podáva ruku Cudrákovi.
+   </tei:p>
+   <tei:p>
+    — Človeče, kdeže ste vy? Nikde vás nevidieť.
+   </tei:p>
+   <tei:p>
+    — Tmolím sa ustavične.
+   </tei:p>
+   <tei:p>
+    — Ani v divadle som vás nezazrela.
+   </tei:p>
+   <tei:p>
+    — A ja som vás videl, — zasmial sa, — v prvom akte ste sa nudili,   v druhom na začiatku ste si šuškali s maminkou potom ste kukerovali   toho
+   </tei:p>
+   <tei:p>
+    180
+   </tei:p>
+   <tei:p>
+    ﻿bohatého diplomata v prvej lóži. Pri vstupe Cingitta ste sa veľmi,   veľmi smiali. Nie pravda?
+   </tei:p>
+   <tei:p>
+    — Svätá. A ja som vás nevidela. — Čože ja. Máte sa na čo   dívať.
+   </tei:p>
+   <tei:p>
+    — Nie je pravda. Ja vás . .. Zasekla sa a rýchle, potichu sa   spýtala: Kde by vás tak videla? Keby ste tak zajtra v parku o   desiatej predpoludním. S Bohom!
+   </tei:p>
+   <tei:p>
+    Podala mu ruku. Potom ešte raz sa obzrela. Keď vystupovala do   koča, ešte raz. Cudrák stál pri východe a díval sa za kočom.
+   </tei:p>
+   <tei:p>
+    — Skoda toho dievčaťa. Stratilo sa mi.
+   </tei:p>
+   <tei:p>
+    Pošiel zdĺhavým krokom tým smerom, kadiaľ odbehol koč.
+   </tei:p>
+   <tei:p>
+    Na druhý deň sa lialo. Nemohla ísť do parku. Cudrák to vedel. Ani   sa nešiel presvedčiť.
+   </tei:p>
+   <tei:p>
+    Prišly na pretras aj ohlášky. Snúbenec súril. Elena sa   vzoprela.
+   </tei:p>
+   <tei:p>
+    — Nie, nie ešte. Času dosť.
+   </tei:p>
+   <tei:p>
+    — Nuž ale, čo chceš? — spýtal sa otec.
+   </tei:p>
+   <tei:p>
+    — Nechcem ešte. Ja nechcem, — povedala skoro s hnevom. Celá sa   začervenela. — Prečo tak náhlite? Myslím, že nebudete mať proti tomu   nič, pane, — obrátila sa k snúbencovi.
+   </tei:p>
+   <tei:p>
+    — Božechráň! — Ako sa páči, — povedal.
+   </tei:p>
+   <tei:p>
+    Raz, keď snúbenec odchádzal, nechcela ho ísť ani odprevadiť.   Zostala pri prikrytom stole. Rodičia našli ju shrbenú s dlaňou na   očiach. Dlho nechcela odtrhnúť ruky od očú. Napokon nasilu pustila   ruku. Oči jej holý zaliate slzami. Draly sa cez dlhé mihalnice do   kútikov a vtiekly dolu lícami, trasúc sa na svetle, nad ústami   zastavovaly sa na chvíľu a ďalej tiekly.
+   </tei:p>
+   <tei:p>
+    — Co ti je dievča?
+   </tei:p>
+   <tei:p>
+    — Co je Elenka?
+   </tei:p>
+   <tei:p>
+    181
+   </tei:p>
+   <tei:p>
+    ﻿— Dajte mi pokoj. Pokoj! — vyhŕklo z nej. Ja sa nevydám, nevydám.   Nenávidím ho. Ani nech nepríde.
+   </tei:p>
+   <tei:p>
+    — Nuž ale ako? Zasnúbení ste. — Vrátim mu prsteň. Ja nechcem.
+   </tei:p>
+   <tei:p>
+    — Aká myšlienka!
+   </tei:p>
+   <tei:p>
+    — Nevydám sa ešte. Za dva roky.
+   </tei:p>
+   <tei:p>
+    — Hlúposti, — zahundral otec, — aká je to romantika zasa. Choď   spať. Vyspíš sa a uznáš, že to musí byť. Nezostaneš starou dievkou.   Dva roky! Pravá stará dáma! Potom môžeš čakať s tým venom, čo   máš.
+   </tei:p>
+   <tei:p>
+    — Elenka, vidíš, nerob, — začala matka, celkom poriadny človek.   Postavenie, rang. Co sa ti robí?
+   </tei:p>
+   <tei:p>
+    — Nechcem, — protestovalo dievča, — nevydám sa.
+   </tei:p>
+   <tei:p>
+    Druhý raz, na akýchsi domácich večierkoch ona ustavične hľadala   očami Cudráka. Sadala k nemu a dlho sa shovárali. Zrovná povedala,   aby šiel do bočnej neosvetlenej izby.
+   </tei:p>
+   <tei:p>
+    — Nemožno, slečna, vidia.
+   </tei:p>
+   <tei:p>
+    — Prosím vás! — Prosebne pozrela na neho. — Dobre. Ale to by ste   vari aj mohli povedať.
+   </tei:p>
+   <tei:p>
+    — Nie, nie. Ja chcem niečo urobiť. Chcem sa kompromitovať. Aby   odstúpil. On odstúpil. Aby rodičia nepovedali na mňa.
+   </tei:p>
+   <tei:p>
+    Dotkla sa mu ruky. Jej ruka triasla sa od rozčúlenia a bola   chladná ako ľad. Nemohla dlhšie posedieť. Srdce svieralo jej niečo   ako strach pred tým, čo sa má stať. V pravde nevedela ešte, čo urobí.   Chcelo sa jej byť len osamote s týmto chudobným študentom, ktorý hoci   ju rád mal, ušilo-
+   </tei:p>
+   <tei:p>
+    182
+   </tei:p>
+   <tei:p>
+    ﻿val sa byť chladným a vzdialeným od nej. Nijako nemohla posiaľ   zvábiť ho na prehrešenia proti zdvorilosti a taktu. Co len jej prsty   stisnúť. Co len nahnúť sa k jej lícam a pošepnúť niečo pekného,   čakaného, citného, že ju rád, že jej neopustí. Tam v tej tmavej izbe   možno, že sa odváži a povie. Pohladí jej vlasy. Vezme si jej ruku do   svojej. Ju rozčuľovala myšlienka o tomto. Rýchle vstala od neho a   rovno šla do izby.
+   </tei:p>
+   <tei:p>
+    Cudrák nešiel hneď.
+   </tei:p>
+   <tei:p>
+    — Nemožno, — myslel si, — aká je Elena, urobí naozaj niečo, čo   hodí na ňu tieň. A ja sa viazať nemôžem, aby ju rozviazal so   snúbencom. Bojuje proti otroctvu tak, ako mnohé nebojujú.
+   </tei:p>
+   <tei:p>
+    Lenže, čo má bojovať, keď môže rovno povedať: „Nenávidím ťa.   Choď! Pre rodičov? Tí by boli nešťastní za chvíľu. Hromžili by   na ňu za týždeň. A bolo by. Pre ten hlúpy prsteň? nie toľkým hriechom   zrušiť sľub, ako Ihať kvôli sľubu. Nie, nie. Robí to kvôli rodičom.   Pánom nad otrokom. Akí divní ľudia na svete ...
+   </tei:p>
+   <tei:p>
+    Hútal ešte o mnohom a šiel za ňou. Pred samými dvermi sa   vrátil.
+   </tei:p>
+   <tei:p>
+    — Nepôjdem. Co ja chcem? Mám odoberať, keď nemôžem ničoho   poskytnúť? Pol druha roka má čakať? A keby potom bolo niečo hotové u   mňa, ale práve takým bedárom budem ešte aj vtedy. Dívať sa budem do   života s roztreštenými očami, hotový do práce. A ak práca nepríde?   Zostane mi komora s jedným oknom a bielym ohobľovaným stolíkom. Co ja   chcem? A čo ona? Veď je ona práve taká biedna, ako ja. Potom bude   ešte biednejšia . . .
+   </tei:p>
+   <tei:p>
+    — Otroctvo! Otroctvo! — prehovoril sám ku sebe skoro nahlas.   Vytýkam jej, že je otrokyňa, a sám som otrokom. Inakším ako Elena,   ale otrokom. Otrokom ešte hnusnejším. Otrokom strachu pred životom,   otrokom vlastnej komócie, peňazí. Fuj!
+   </tei:p>
+   <tei:p>
+    183
+   </tei:p>
+   <tei:p>
+    ﻿A znova sa obrátil a šiel za Elenou.
+   </tei:p>
+   <tei:p>
+    Ona bola už netrpezlivá.
+   </tei:p>
+   <tei:p>
+    — Co tak opozdene? — spýtala sa a podala mu ruku. Už bola teplá,   ale triasla sa v jeho prstoch. Podňal ju k ústam. Dovolila.
+   </tei:p>
+   <tei:p>
+    — Elena, — počal, — prečo to vy robíte? Vráťte sa.
+   </tei:p>
+   <tei:p>
+    — Vrátim sa, ale chcem vám niečo . . . Sadnite si, prosím vás. Sem   do fotela. Do tohto.
+   </tei:p>
+   <tei:p>
+    V izbe bola polotma. Cez polootvorené dvere padal pás svetla na   koberec a ten osvetľoval trošku. Z dvora, cez okno, mdlým svetlom   blinkotaly dva lampáše, zavesené niekde nad stajňou, ďalej vo dvore.   V salóne hrali na klavíri starý nemecký valčík: „Du, du, du nur   allein .. . Ktosi pospevoval pritom, Tak sa zdalo, že čuť   šuchot, ako by niekto tancoval, veselo schválne šúchajúc nohami v   tanci. Niekedy zaštrngaly poháre zo susednej, kde sa pilo a   fajčilo.
+   </tei:p>
+   <tei:p>
+    — Tam už tancujú, — podotkla mechanicky Elena.
+   </tei:p>
+   <tei:p>
+    — Ano.
+   </tei:p>
+   <tei:p>
+    Zamlkli, ale po chvíli Elena chytila ho zasa za ruku.
+   </tei:p>
+   <tei:p>
+    — Prosím vás, — vravela mäkko, — máte vy mňa radi?
+   </tei:p>
+   <tei:p>
+    — Povedal som. Veď viete.
+   </tei:p>
+   <tei:p>
+    — A vzali by ste mňa za ženu? — pokračovala rýchle, — ja by vás   rada videla. Dobrou ženou by bola. Vždy a všade poslušná, tichá,   ľúbiaca . . . Vždy, všade ...
+   </tei:p>
+   <tei:p>
+    Slzy jej nedovolily viacej povedať.
+   </tei:p>
+   <tei:p>
+    Cudrák sa nemohol opanovať. Schytil jej hlavu do náručia.   Nešikovne, hrubo priložil si svoju tvár k jej horiacim lícam a   hladkajúc jej vlasy rukou, celkom nepovedome šeptal:
+   </tei:p>
+   <tei:p>
+    184
+   </tei:p>
+   <tei:p>
+    ﻿— Len vás ... jedine vás, slečna Elena ... Kto by vás nerád? .. .   Vždy . . . Od začiatku do konca . . . Neplačte .. . Iba vás.
+   </tei:p>
+   <tei:p>
+    Srdce mu zamieralo v radosti nikdy posial necítenej. Oči sa mu   privrely. Hlas slabol. Celá sila vrhla sa do ramien. Vziať toto   nešťastné dievča do náručia a nikdy ho nepustiť, držať večne tak —   tou prirodzenou, veľkou silou lásky . . .
+   </tei:p>
+   <tei:p>
+    Ulica temnela. Lampy posťahované a pozhasí-
+   </tei:p>
+   <tei:p>
+    nané. Zlatá reťaz svetiel zmizla. V priečnej ulici prestala   premávka, len kedy-tedy prebehol koč. Zdola zďaleka čuť bolo dunenie   basy a niekedy slabučký cengot električky. Potom akési hrčanie,   piskot, kroky blížiace sa a opäť zanikajúce. Elena dívala sa oknom,   ale nič nevidela, ani nepočula. Jej bolo iba smutno. Smutno, že má   obrúčku, že sa vydá za
+   </tei:p>
+   <tei:p>
+    nenávideného človeka. Ten, ktorého rada má. . . Bože! Ťažko   pomyslieť. Študent. Ešte poldruha roka.
+   </tei:p>
+   <tei:p>
+    Prísahu rušiť, sľub nezadržať .. . Rodičia . . . Tovar.. .   Otroctvo ... Akože sa ona môže hýbať? Akože ona môže mať svoju vôľu?   Co chce ten pekný predmet v rodičovskom dome? .. . Ech, život je   mrzký, poriadok zlý a čo by dobrým chcelo byť, vykorbáčujú
+   </tei:p>
+   <tei:p>
+    zo sveta
+   </tei:p>
+   <tei:p>
+    Pravda je, že sa Elena vydala. Neviem, ale vravia, že je aj   šťastná a že sa obidvaja radi majú.
+   </tei:p>
+   <tei:p>
+    185
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

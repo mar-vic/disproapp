@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943359" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Tajomstvo pána Mortona : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1236
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Tajomstvo pána Mortona
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     TAJOMSTVO PÁNA MORTONA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Redaktor Ján Morton patril medzi ľudí, ktorým nedožičilo nebo   ostať tuctovým človekom. Už od detstva javily sa uňho všelijaké   vlastnosti a vždy sa našiel niekto, komu zavadzaly. Všetci jeho   kamaráti mali rovné uši, jemu jedno bolo vyššie ako druhé. Ked išli   zo školy, ostatné deti snažily sa ísť rovno ako vrabce po vychodenej   ceste. Morton ponavštevoval cestou všetky kúty, našiel každú barinu,   obzrel si Cigánov i komediantov, keď sa vrátil domov, obyčajne vždy s   voľajakým defektom, alebo na šatách, alebo na sebe. Hovoril málo, ale   viac zazeral, ako by sa chcel pustiť so všetkým za pasy. Aj sa púšťal   do kdekoho, pričom, pravda, mal šťastie i nešťastie. Ľudia vedeli, že   sa učí dobre, keď sa však čo zlé stalo, — padla hus, alebo sa zažal   stoh od blesku, prvé podozrenie bolo vždy na Mortonovi, on si to   odniesol právom, či neprávom. Takto hneď v detskom veku skúsil, aká   je ľudská spravodlivosť. Ked odrástol, skúsil to viac. Navštevoval   školy nielen začiatočné, ale i vysoké. Hral s ambíciou futbal,   závodil v štúdiu a počali mu veštiť peknú budúcnosť. Chcel byť   kňazom, inžinierom i lekárom, napokon sa dostal do redakcie veľkého   denníka, kde mu sverili písať fejtóny.
+   </tei:p>
+   <tei:p>
+    Morton robil to svedomité. Kreslil minulosť i prítomnosť v   podarených obrazoch, až to budilo pozornosť. Hlavný redaktor pocítil   to hned na počte odberateľov a povýšil Mortonovi plat, o toľko   znásobil i ambíciu mladého človeka, i jeho odvahu, kdekoho a kdečo   bral na svoje ostré pero. Predtým dosť bezvýznamný časopis stával sa   stredom výpadov nespokojných, ale záujemcov, ktorí sa zdali mať z   papierových búrok dokonalú radosť.
+   </tei:p>
+   <tei:p>
+    — Morton... Morton... Ján Morton, — zjavovalo sa vždy častejšie na   stolcoch. — Co len ten človek chce, kam ten človek mieri?
+   </tei:p>
+   <tei:p>
+    Zprvu boly len fejtóny, básničky, neskôr i úvahy a úvodné články   dostaly sa do tlače. Smelé články, ktoré nehľadajú priateľa, ba   robily dojem, že má pisateľ akúsi nenormálnu túžbu rozhádzať si okolo   seba i svojich chlebodarcov, partaj, redakciu a celý-celučký   svet.
+   </tei:p>
+   <tei:p>
+    — Co to len ten Morton myslí? — hovorili si novinári medzi sebou.   — Chytá sa raz do toho, raz do onoho. Raz fejtón, raz verš, raz   úvahy. Tu šport, tu národné hospodárstvo, a hneď politika. Ešte by   mal rébusy a krížovky sostavovať, — hovorili si ľudia od pera medzi   sebou, keď tam Mortona nebolo. Jedni ho, pravda, i tu bránili, druhí   trhali, čo vyšlo z jeho ruky, a hádzali do koša na papier.
+   </tei:p>
+   <tei:p>
+    — Ej! Je to fejtonista, — poznamená zvysoka buclatý pán, vyfúknuc   modravý dym z fajočky. — Ten sa na poriadnu úvahu jakživ nezmôže.
+   </tei:p>
+   <tei:p>
+    — A jednak robia — rozruch pre jeho smelé postrehy spoločenského   života, — blysnú veľké okuliare v čiernom s ostrého nosa.
+   </tei:p>
+   <tei:p>
+    — Rozruch — rozruch! Hoď na hlavnej triede poriadnu skalu do   výkladu, spravíš i poriadny rozruch a dostaneš sa i do novín.
+   </tei:p>
+   <tei:p>
+    — Možno i do basy, — hodí ktosi na smiech uštipačnú poznámku.
+   </tei:p>
+   <tei:p>
+    — A tie jeho verše, — pokračuje sa ďalej v analýze. — Čítajú sa   všade, hovorí sa — vplývajú i na masy.
+   </tei:p>
+   <tei:p>
+    — Ale sú prázdne ako vyzobaný klas, — nahne plešivý hlavu nakrivo.   — Predstavy hosťov nepohnú ani francúzska farebnosť reči, ani ruská   obsažnosť a revolučnosť. Škoda veru miesta, kde ju vytlačia. Tak sa   písalo asi pred sto rokmi.
+   </tei:p>
+   <tei:p>
+    — A Rafael zaujímavé malo val pred niekoľko sto.
+   </tei:p>
+   <tei:p>
+    Takto sa to popresýpa. Všetko, čo vyšlo z Mortonovho mlyna. Ostane   napokon lenpozadná múka — zo všetkých chatrných snažení tohto   človeka, ktorý už od časov nevysvetliteľným spôsobom rozrušuje   stojaté hladiny.
+   </tei:p>
+   <tei:p>
+    Tento rozruch dostúpil však skoro na vrchol. Redaktor Ján Mor ton   počal vydávať knihu za knihou, ako by len sypal. Jeho diela zjavily   sa vo výkladoch kníhkupectiev, písalo sa o nich s chválou i s hanou.   Záujem o pisateľa vzrastal so dňa na deň, hovorilo sa, že sa   osamostatní a nechá redakciu so všetkými jej klebetami plávať. Co by   aj nie? Dôchodky mu rastú i bez toho. Velkopodnik Fortúna vyvolil ho   vraj do správnej rady. I jeho politické konexie rastú. Uvidíte, čo z   Janka Mortona ešte môže byť.
+   </tei:p>
+   <tei:p>
+    Ľudia hádali ten to, ten zas iné. Azda nejaká výhodná ženba, azda   iná kariéra, ktorou by ešte zdvihol svoj osobný vplyv a položil bol   po svojom zdarnom snažení. — Co ten človek môže ešte chcieť? — hádali   blízki i ďalekí prajné i so závisťou.
+   </tei:p>
+   <tei:p>
+    Keď sa mu to dostalo k sluchu, trpko sa usmial
+   </tei:p>
+   <tei:p>
+    a nechal ich stopovať ďalej. Videl, všímajú si ho veľmi bedlivo,   ale k jeho najtajnejšej túžbe nevedia sa sblížiť. Vydáva ďalej svoje   knihy, písal mnoho o svojich náhľadoch, prednášal i rečnil. Úškrnov a   posmeškov ubúdalo. Ľudia prestali krútiť hlavami a povstal celý káder   okolo neho.
+   </tei:p>
+   <tei:p>
+    — Chcel by vedieť, za čím sa ženie tento človek? — sišlo na um   komusi v spoločnosti.
+   </tei:p>
+   <tei:p>
+    — Za slávou, za mamonou, — ozval sa iný, — ako všetci.
+   </tei:p>
+   <tei:p>
+    — Veď to všetko má. Načo by mu to bolo? Musí ho hnať niečo iné.   Nejaká márnivosť. Neupokojená ctibažnosť a podobné.
+   </tei:p>
+   <tei:p>
+    Od tohto času venovali mu pozornosť s tejto tajomnej stránky. Nie   div! O každom verejnom činiteľovi vedelo sa určite, čomu žije. Co je   hybnou silou jeho snáh a túžob. Za čím im duša piští a srdce umiera.   Iba ten podivný Morton — samé protirečenie. Vynoruje sa, rastie, a   ako by mu ani nešlo o to, nehľadá priateľov a všade sa o ňom hovorí,   o jeho zásadách, o jeho prednáškach, o jeho knihách, nehľadá peniaze   — samy ho nájdu. Alebo je taký skromný, aby rástol z márností sveta   tohto?
+   </tei:p>
+   <tei:p>
+    Vyhral veľkú literárnu cenu. Najintímnejší z jeho priateľov prišli   sa s ním potešiť. Prijal ich vo svojom skromnom byte na predmestí a   počastoval, ako sa svedčí.
+   </tei:p>
+   <tei:p>
+    — Tešíme sa spolu s tebou, Janíčko, — zapíjali si prítomní čerstvo   nakrájanú šunku dobrým silným vínom. — Dúfame, tešíš sa i ty peknému   úspechu. Všade sa píše o tvojej knihe. Z výkladov volá na mimoidúcich   a rozpredáva sa. Všímajú si to pozorne i tvoji protivníci a   zaznávatelia. Teraz by mali dostať žltačku. Dosť
+   </tei:p>
+   <tei:p>
+    sa ťa naničili, ale každá poctivá práca napokon nájde uznanie.   Dokázal si najviac zpomedzi nás.
+   </tei:p>
+   <tei:p>
+    — Ale, ale, — zadíva sa trpko Janko na prítomných. — Keby ste   poznali, aká bláznivosť ma láka od mala, zdržanlivejšie by ste   hovorili.
+   </tei:p>
+   <tei:p>
+    — A čo-čo, — naklonia sa kamaráti ešte dôvernejšie. — Je to niečo   nedosiahnutelného ? — Je, — sklonil Morton ustato hlavu, kde na   tmavých vlasoch presvital už sypký mráz. — Je to bláznovstvo, čím   viac myslím na to, tým sa mi hlbšie vnorí v myseľ a zatína ostré   drapy v moju nepokojnú dušu. Zvedaví ste, čo to môže byť? Co nedá   pokoja človeku, ktorý naoko nemá si čo zažiadať, aby sa mu   nevyplnilo, a pozrite, ako málo-máličko je toho, čo môže dosiahnuť.   Pripomenuli ste mi odmenené dielo. Ale načo sa píšu diela ? Načo   knihy, načo sa píšu články a hovoria prednášky? Azda preto, urobiť   človeka bohatým a slávnym, bolo by to málo a veľmi malicherným,   opravdivý spisovateľ a mysliteľ chce viac. Musí chcieť viac, zvládať   a opanovať mysle svojich vrstovníkov, i svojich priateľov. Je v tom   čosi zo športu; vyniknúť a zvíťaziť všade. A takto hľadel som na   svoju úlohu oddávna, i na našu neústupnú verejnosť. Nechcel som jej   darov, ani výhod, nehľadal jej kariéru a vyznamenaní, chcel som ju   donútiť rozmýšľať mojou hlavou a slúžiť jej týmto spôsobom.
+   </tei:p>
+   <tei:p>
+    — Preto som robil všetko to, čo som len podujal!!
+   </tei:p>
+   <tei:p>
+    Nastalo ticho, aké mrazí. Všetky oči utkvelý na pohľade Jána   Mortona s netajenou sústrasťou. Napokon ozval sa najsmelší z   gratulantov.
+   </tei:p>
+   <tei:p>
+    — A preto ti to, Janíčko, naša verejnosť jakživ neodpustí.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

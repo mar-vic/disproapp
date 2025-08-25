@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944627" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Slovo lásky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4075
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Slovo lásky
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     SLOVO LÁSKY.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Curín sedel práve pri akejsi apeláte keď mu poštár oddal medzi   úradnými zelenými, kávovými a žltými obálkami bielu, podlhovastú,   uzučkú. Oznámenie zasnúbenia Eleny Zakalíkovej so statkárom   Zeimom.
+   </tei:p>
+   <tei:p>
+    — So statkárom Zeimom! — zahundral polonahlas. —- Teda predsa!
+   </tei:p>
+   <tei:p>
+    A zaradoval sa, najmä preto, že ho zvesť nedojímala. Jeho srdce   zostáva chladné a pokojné. Jednako vstal od stolíka a počal sa   prechodiť po kancelárii.
+   </tei:p>
+   <tei:p>
+    Šero včasného, zimného mrku už vkradlo sa do chyže a kúty   stemnely. Cez okná bolo vidieť, ako padá hustý, chomáčový sneh a lepí   sa na okenice a sklené veľké tabule. Konáre gaštanov pred oknami,   pred chvíľou ešte čierne, suché a smutné, zbelely od nalepeného   snehu. Vrabce utiahly sa s nich pod strechy. Ich čvirikanie zatíchlo,   len kedy-tedy ohlásil sa jeden-druhý ako by zo spánku.
+   </tei:p>
+   <tei:p>
+    — Áno, áno, — dumal Curín, prechádzajúc sa. — Ja si hvízdam. — A   zahvízdal tenkým vysokým piskotom generálmarš. — Keby ma zvesť   rozčuľovala, iste by som si nehvízdal. Hodil by sa na posteľ a   zahrešil. Ako vtedy. Pred dvoma rokmi.
+   </tei:p>
+   <tei:p>
+    — I túto fotografiu kladiem do zásuvky chladne, — mrmlal si. — Aj   tak stála bez smyslu celé dva roky na jeho písacom stolíku.
+   </tei:p>
+   <tei:p>
+    83
+   </tei:p>
+   <tei:p>
+    ﻿A Curín vzal fotografiu so stola a díval sa na ňu neúprimným,   posmešným pohľadom.
+   </tei:p>
+   <tei:p>
+    — Čože by sa nepozrel na teba. Vlasy, ako by oblak čierny, a v ňom   kus jasného neba: biela, malá tvár s očami veľkými, čiernymi,   nevinnými. Hej, uštipla si ma jašterička, zmijka radostná a ja som ťa   nemohol rozmliaždiť.
+   </tei:p>
+   <tei:p>
+    Chcelo sa mu vyplaziť jazyk na obrázok, ale zazdalo sa mu to   slabosťou. — Vôbec, ona ma už ani nahnevať nemôže, myslel si. Hodil   fotografiu do zásuvky a kolenom zatisol.
+   </tei:p>
+   <tei:p>
+    — Odpočívaj v pokoji! Pre teba niet vzkriesenia u mňa! — zavolal   nahlas so smiechom, sohnutý stojac nad stolíkom. — Lala, ja tancujem   nad tvojou konečnou smrťou!
+   </tei:p>
+   <tei:p>
+    A popiskujúc si valčík, spravil so tri túry po kancelárii. — Nie.   Nie. Rozhodne ma nedojíma zvesť. Naozaj. Netancoval by, keby bol   smutný.
+   </tei:p>
+   <tei:p>
+    Vtedy som bol mladý — myslel si, sadnúc na diván. ■— A taký   smiešny. Aký detský som ja bol. Aký detský! Smiešny, hlúpy,   bláznivý.
+   </tei:p>
+   <tei:p>
+    A oprúc si hlavu o mäkké podušky vysokého divána, dívajúc sa kamsi   na maľbu povaly, myslel o predošlom, zahynutom, mŕtvom. Tak sa aspoň   nazdával, že to všetko už zahynulo a prestalo žiť.
+   </tei:p>
+   <tei:p>
+    Naozaj stala sa vec celkom prostá. Snúbenicu mu bozkal ktorýsi   švihák na bále v bočnej izbičke. Našiel ich tam samotných. Videl ju   pololežiačky, opretú o lakeť na diváni. On za divánom nahnutý k jej   bielej tvári s vystretým krkom k nemu, opojenú, s prižmúrenými očami.   Hotový „Vertige v živote.
+   </tei:p>
+   <tei:p>
+    S veľkým sebazaprením zvrtol sa vtedy Curín na opätku a vyšiel z   izbičky. Obliekol kabát a šiel domov. Chcelo sa mu vrátiť. Pokarhať   Elenu slovom trpkým, boľavým, urážlivým, ktoré by si zapamätala, čo   by jej vždy na srdci ležalo, dušu usta-
+   </tei:p>
+   <tei:p>
+    84
+   </tei:p>
+   <tei:p>
+    ﻿vične ťažilo. Zdržal sa. Cítil fyzický bôľ. Horkosť žlče nad   potupením, bôľ nad stratou lásky. Máchal silno palicou a bil na mokré   kamenie dlažby, až sa mu zlomila. Kus, čo mu zostal v hrsti, ďaleko   odhodil. Prišlo mu na um, že jeho láska teraz tak sa zlomila, ako tá   palica. Nikdy viac sa na ňu neoprie. Neoprie sa na nikoho. Nebude   veriť nikomu. Najmä žene, dievčaťu. Šiel rovno domov. Chodil ako   bláznivý po izbe. Päsťou trepal stolíky, búchal sa po čele a hrešil   na seba, na ňu, na všetky ženy. Schytil jej fotografiu so stolíka a   hodil do koša. Popálil listy. Strhol prstienok s malého prsta a   zahodil. Dva razy cengol na podlahe a zakotúľal sa kamsi pod posteľ.   Skoro vyhodil priateľa, ktorý prišiel za ním a radil, aby provokovať   toho hlúpeho Nemca, čo ho urazil.
+   </tei:p>
+   <tei:p>
+    — Ty ma urážaš! — kričal. — Keď mi to navrhuješ.
+   </tei:p>
+   <tei:p>
+    — Násilenstvo s jeho strany.
+   </tei:p>
+   <tei:p>
+    — Násilenstva niet. Mal si vidieť. — A pred očami zablesol mu   biely krk Eleny s dekoletovanou hruďou.
+   </tei:p>
+   <tei:p>
+    — Daj pokoj! A choď! — Nepotrebujem tvojej rady! — zúril a tisol   priateľa ku dverám.
+   </tei:p>
+   <tei:p>
+    — Nejdem! Si rozčúlený!
+   </tei:p>
+   <tei:p>
+    Curín zastal naprostred izby a zasmial sa. Dunajčík, kamarát,   myslí na revolver, otravu. Ešte to! To by veruže neurobil pre ňu.   Teraz najmä nie. Aby triumfovala. Aby ju on, práve on, ovinul nejakým   interesantným romantizmom. Vozvýšil nad ostatné, pre ktoré sa nik   nezastrelil. Nie. Nie. Ona mu je nulou. Áno, nulou a chce ju vidieť   nešťastnú, zničenú, biednu, pošliapanú, ešte nižšiu, ešte podlejšiu.   než bola. Ako mu ona povedala dnes, že je on nulou a ako je on dnes   nešťastný, zničený, biedny, pošliapaný, nízky a podlý. Ech! Co by   bol. Ani nikdy nebol. Bude hrdý. Nezáleží mu na nej.
+   </tei:p>
+   <tei:p>
+    85
+   </tei:p>
+   <tei:p>
+    ﻿—■ Choď! Choď! — reval na priateľa. — Nezastrelím sa. Ani   neotrávim. Ani nezahrdúsim. Neutopím . . .
+   </tei:p>
+   <tei:p>
+    A musel mu dať ruku. Len potom odišiel.
+   </tei:p>
+   <tei:p>
+    Bude hrdý. Musí potlačiť každý cit k nej, každú myšlienočku musí   odohnať, čo ju obvíja. Treba zmôcť seba vlastnou energiou. Boj   bojovať proti sebe samému. Nepoddávať sa ani doma, ani na ulici žiaľu   a túžbam svojej duše zneuctenej, pošliapanej, a čím skôr oslobodiť ju   z pút, ktoré ju ešte svierajú i po pohanení. Potom znovazrodenú,   zaoceľovanú neniesť ju prvej bábe v ústrety. Privrieť ju silnými   zámkami, aby ju neotvoril ani najnežnejší pohľad dievčaťa,   najoddanejšia dôvera priateľa. Neveriť ničomu a smiať sa každému a   všetkému.
+   </tei:p>
+   <tei:p>
+    To si umienil Curín. Neodpovedal ani na prvý, ani na druhý list   Elenin, v ktorých ho prosila o odpustenie. Dobre sa mu zaryl do   pamäti obrázok v malej izbičke. Ten vystretý krk k jeho ústam.   Daromná výhovorka o násilenstve. Mužskí sú prichabí a či prišetmí na   to, aby sa vlámali k bozkom proti vôli ženy.
+   </tei:p>
+   <tei:p>
+    Úžasne sa trápil. Zbledol. Prestal chodiť do kasína, do hostincov,   aby ho niekde nezastihol posmešný pohľad alebo slovo. Bol by sa bil.   Bol by sa prezradil. Pritom doma, kde ho nikto nevidel, ustavične sa   zrádzal. Vyložil fotografiu na stolík. Zahodený prstienok sám našiel,   ľutoval spálené listy. Večierkami vychádzal na prechádzku a vždy   smerom k ich domu. Na sto krokov pred ním sa vždy zvrtol a šiel   nazpät. Keď bola mračná, nemesačná noc, zavše zašiel pod samé okná,   zastal a díval sa na spustené záclony a na bránu. Obzrel sa, aby ho   nikto nezazrel. Kradol sa ako zlodej na druhú stranu, keď videl   svetlo v jej okne, aby ho nezbadala a ďalej zasa len prešiel, aby   videl aspoň osvetlené tablice, ju nepozorovaný zočil, ako spúšťa   záclony, ako stojí pri okne jej tmavá postava a mizne jej silueta v   izbe.
+   </tei:p>
+   <tei:p>
+    86
+   </tei:p>
+   <tei:p>
+    ﻿Keď tam ešte spolu sedávali, — myslel si pritom. — Tie prvé týždne   ich známosti. Sedávali v okne a hovorili o láske. A vtedy, keď to   bola v bielych šatách s ružovou mašľou v účesi. Pred poltreťa rokom   to bolo a ako by to včera bolo bývalo. Minulo jej sedemnásť rokov. Po   meninách asi štyri dni. Sedeli v salóne. Najprv v okne, potom v   salóne. Chcela niečo zahrať. Sadla za klavír a hrala. On vo foteli.   Cigaretu kúril a díval sa na ňu. Biely, riedky dym vše odfukoval na   bok, aby ju lepšie videl. Ešte sa jej nebol zdôveril, že ju rád vidí,   ešte len cítil, že ho ustavične k nej ťahá, že sa mu žiada ju   neprestajne vidieť, hovoriť s ňou, jej ruku chytiť, pohladiť a keby   tak k ústam podvihnúť! Jej vlasov, alebo ramena sa dotknúť, čo len na   minútu. I vtedy, ako tak sedel, díval sa, díval na ňu bez slova a s   celou dušou v pohľade.
+   </tei:p>
+   <tei:p>
+    — Akú má ona čistučkú tvár, — myslel si. — Profilík. Ružový nádych   nedotknutej sviežej mladosti . . . Prižmuruje mihalnice a z čiernych   veľkých očú zostáva iba tenučký, svetlý, ligotavý pásik, stužtička.   Ako by sa bála tých silných tónov hudby . . . Náušničky zo zlata,   podobné zamrznutej kvapke, ako sa trasú, ako sa trasú, keď zakýva tou   radostnou peknou hlávkou. Aká čistota, tak cíti, ako ja? Ci ju volá   tak všetko ku mne, ako mňa k nej? Keby sa tak neprezradil, či by sa u   nej láska zmohla, pozrela na mňa tak, ako sa ja teraz dívam na ňu? —   Nie. Ja sa neprezradím ničím. Počkám, či ona prezradí niečo. Nie.   Nesmie hodiť tieňa do jej bezstarostných myšlienok.
+   </tei:p>
+   <tei:p>
+    A vtedy, v to popoludnie, pri klavírovej hre Curín zrovná zdesil   sa, že by rád od nej pohľady vďačnosti. Ba viac, pohľad lásky.   Milujúce slovo, slovíčko. Ale aj to by bolo málo. Chcel by celú   oddanosť tejto sviežej, dievčenskej duše. Celú úprimnosť tohto   nevinného decka bez falše a lži,
+   </tei:p>
+   <tei:p>
+    87
+   </tei:p>
+   <tei:p>
+    ﻿čistého ako kryštál, priezračného ako studničná voda. Ako sa to   opovažuje?
+   </tei:p>
+   <tei:p>
+    — A radi máte Chopina? — spýtal sa ho odrazu. Pozrela na neho tak   rýchlo, že ledva stačil odvrátiť pohľad na listy veľkej palmy, ktorá   stála v kúte.
+   </tei:p>
+   <tei:p>
+    — Nerád, slečna, — povedal len po chvíli. — To je taký mesačník,   bez vlastnej mužskej sily. Taký umelý jarok v parku a baronesa nad   ním s bielym slnečníkom.
+   </tei:p>
+   <tei:p>
+    Zatlačil cigaretu do popolníka a pozeral na jej tenké prsty,   ktorými kedy-tedy vzala akord.
+   </tei:p>
+   <tei:p>
+    — A čo vám teda zahrať?
+   </tei:p>
+   <tei:p>
+    — Nehrajte.
+   </tei:p>
+   <tei:p>
+    — Veď je Chopin krásny.
+   </tei:p>
+   <tei:p>
+    Spustila ruky s klávesov do lona a pozrela na neho.
+   </tei:p>
+   <tei:p>
+    — Živá láska je krajšia, — povedal Curín s úsmevom. ,
+   </tei:p>
+   <tei:p>
+    — Veď sa jej posmievate.
+   </tei:p>
+   <tei:p>
+    — Musí byť ideálna, čistá. — Naozaj, myslel si pritom, ja jej   nemôžem povedať, že ju milujem. Ušla by. Ani iskierku citu nemá v   sebe ku mne. Hovorí, ale nič necíti.
+   </tei:p>
+   <tei:p>
+    — Viete — pokračoval nahlas — aby bol poetický, musí sa zrodiť v   duši, nie vo vrecku, nie pre potrebu. Napríklad. Potrebujem do   mojich, povedzme, troch izieb, aj ženu, teda sa ožením, t. j.   zaľúbim. Alebo: Mám obchod, kanceláriu, teda ako? Vezmem si za ženu a   zaľúbim sa. Lámka ma morí v pravej nohe. Kto ma bude opatrovať? Žena.   Teda zaľúbim sa. Vezmem si k sebe ženu. Alebo len, aby vyhovel   požiadavkám a zákonom spoločnosti, t, j. napríklad: bol som mladý, a   v tancoch, alebo na vychádzkach pod stromami, omámený mladosťou a   krvou, povedal som niektorej peknej slečinke: rád
+   </tei:p>
+   <tei:p>
+    88
+   </tei:p>
+   <tei:p>
+    ﻿vás mám. Sľúbil som, že si ju vezmem. Potom oduševnenie zmizne a   ja nič necítim oproti tej dáme. Ale si ju vezmem za ženu, lebo som   jej sľúbil a spoločnosť by ma vyhlásila za nečestného . . .
+   </tei:p>
+   <tei:p>
+    — Nuž a? — Pretrhla ho Elena. — To je aj nečestné. — A obrátila sa   celkom k Čurínovi, ktorý babrúc tužkou kus papiera, pokračoval:
+   </tei:p>
+   <tei:p>
+    — Nie. Láska pravá je nikdy nie z potreby, ako nemá príčiny a je   bez záujmov a len s jedným, duševným, hlbokým záujmom o tú druhú   osobu. Musí byť všetkým v človeku, celým životom pre človeka. Nesmie   mať príčiny. Nie. Rád ťa mám preto, lebo ťa rád, lebo mi to srdce tak   diktuje. Nie preto, že si pekná, že máš utešené ústa a znamenite hráš   Chopina, ale preto ťa rád, lebo ťa rád ...
+   </tei:p>
+   <tei:p>
+    — To by bola rastlina v povetrí, — prerušila Elena nie celkom   smelo a trochu sa začervenala. Sám Curín bol červený. — Človek má   vedieť, prečo má rád.
+   </tei:p>
+   <tei:p>
+    Drnkla do klavíra. Chcela ešte čosi povedať, ale Curín ju   pretrhol:
+   </tei:p>
+   <tei:p>
+    — Nemá vedieť. — Vie, prečo ho hryzie svedomie, prečo hreší, prečo   nemôže zaplatiť dlžobu, ale keď človek vie, prečo miluje, tak   nemiluje. Láska má byť vlastnosťou. Ľpieť má na človeku. Jeho   prírodou má byť. Quasi ako alkoholikovi pitie. Proti všetkému rozumu.   Ty si ma pohanil, nenávidíš ma, ale ja ťa milujem. Miluje, milujem a   vždy ťa budem milovať. Neviem, prečo ťa milujem, ale ťa milujem!
+   </tei:p>
+   <tei:p>
+    Zaiste vravel veľmi citne, s ohňom a presviedčave a Elena si   myslela, že sa to vzťahuje na ňu a na neho. Začervenala sa ešte   väčšmi až po krk a presadla si na kanapu pod palmou, kde bol tieň.   Chcela, aby nebadal, že sa červenala.
+   </tei:p>
+   <tei:p>
+    — Ale neviem, či vás to nenudí? — spýtal sa odrazu, tak naoko. —   To je márnenie času.
+   </tei:p>
+   <tei:p>
+    89
+   </tei:p>
+   <tei:p>
+    ﻿— Oj nie. Ja vás rada počúvam.
+   </tei:p>
+   <tei:p>
+    — Rada ma počúvaš, — pomyslel si vtedy a rozveselil sa. Keby ti   tak mohol povedať, že ťa rád. Keby si ty mňa rada mala. Plamienoček v   očiach, vyjavenie v hlase. Jeho zradenie sa. Povedal by ti všetko.   Lenže ty čušíš. Nemáš rada. Naľakala by si sa slova milujúceho. Ušla   by si.
+   </tei:p>
+   <tei:p>
+    — Naozaj radi? — spýtal sa.
+   </tei:p>
+   <tei:p>
+    — Áno.
+   </tei:p>
+   <tei:p>
+    — Vidíte, Elenka, — povedal mäkko a tichšie pokračujúc v   myšlienkach; — vy ženské neviete milovať tak, ako som vravel, lebo   vždy viete, prečo milujete, lebo vy preto milujete, že vás milujú. Vo   vás bez pričinenia mužského, bez jeho zaľúbených pohľadov, vzdychov a   slov nezmôže sa láska až po nešťastie. Vy ste od prírody plaché v   láske k mužskému, nesamostatne. Možno, neskôr, keď budete všetky   emancipované, budete aj vy počínať, ale nateraz je tak, že najprv   musí zahovoriť duša mužského, potom zahovorí vaša. Ty mužský mi ukáž   svoju lásku, potom sa vo mne narodí. A ak mlčíš, ja žena možno cítim   voľačo ako lásku, ale to zostane zakrpateným, nevyvinie sa. — Ale   prečo ja teraz nemôžem povedať, že ju rád — myslel si pritom.
+   </tei:p>
+   <tei:p>
+    Elena zaprotestovala.
+   </tei:p>
+   <tei:p>
+    — To je nie tak. Nie, nie! — A pokrútila rukami v povetrí.
+   </tei:p>
+   <tei:p>
+    Curín ešte lepšie chcel znázorniť svoju filozofiu. Vytiahol z   bočného vrecka kus papiera a počal maľovať na ňom.
+   </tei:p>
+   <tei:p>
+    — Vy sympatizujte — hovoril — povedzme so Suvikom. Poznáte ho?   Inžinier. To je dosť pekný človek na to, aby ste vy s ním, ako sa   vraví, sympatizovali. Ale on sa vám nikdy neprezradí, že vás rád má.   Zahoríte vy láskou k nemu? Budete vy nešťastná? Budete ho vy vôbec   milovať? Mužský by mohol. Ale o vás je reč. Vy, Elenka. . .
+   </tei:p>
+   <tei:p>
+    90
+   </tei:p>
+   <tei:p>
+    ﻿— Ale nie so Suvikom.
+   </tei:p>
+   <tei:p>
+    — Nuž tedy s iným. —
+   </tei:p>
+   <tei:p>
+    — S iným? ... Ba s iným, áno. Áno. Áno. Nie je pravda, čo vravíte.   Ja viem, že je to nie pravda.
+   </tei:p>
+   <tei:p>
+    Bystro zahovorila a odrazu zatíchla. Opätovne sa červenejúc.
+   </tei:p>
+   <tei:p>
+    — Keby tak napríklad — počal Curín, strkajúc papier do vrecka i s   tužkou — keby tak ... A zamlčal. Zrazu zazdalo sa mu, že Elena   myslela na neho. Jemu to patrí. Ten iný, to je on.
+   </tei:p>
+   <tei:p>
+    Vstal. Pošiel ku nej, sadol si a lichotivo vzal ju za ruku.
+   </tei:p>
+   <tei:p>
+    — Koho, slečna, koho myslíte?
+   </tei:p>
+   <tei:p>
+    — Nemožno povedať.
+   </tei:p>
+   <tei:p>
+    — Nemožno. — Zopätoval ticho za ňou. — A keby vás ja rád videl.   Keby vás ja tak . . vravel skoro šeptom. — Veď vás ja rád. Veľmi.   Elenka, dievčatko ...
+   </tei:p>
+   <tei:p>
+    Videl, ako sklonila hlavu. Jej ruka v jeho, ani čo by sa chcela   zachytiť inštinktívne, stisla mu prsty. Niekoľko ráz trhla sa a   potom, ako by bola zmŕtvela. Celé rameno ochablo. Hlava ešte hlbšie   ovisla. Ohrbátik a krk ešte väčšmi zaokrúhlil sa. Prižmúrené oči sa   celkom zažmúrily a dievča, nahnuté k nemu, ako by sa kĺzalo s kanapy   dolu na zelený, hrubý koberec. Zachytil ju. Prisadol celkom k nej na   kanapu, obrátil jej zblednutú tvár k sebe. Nahol sa celkom k jej   ústam a šeptal čosi nesmyselného, láskou preplneného, kým neotvorila   očú a neodpovedala:
+   </tei:p>
+   <tei:p>
+    — Nie toho — vás, vás!
+   </tei:p>
+   <tei:p>
+    Hej. Hej. On, Curín, hlupák, stával pred jej oknami i po tom   strašnom incidente. Spomínal si všetko, každú vetu, každý jej pohyb.   Spomínal to
+   </tei:p>
+   <tei:p>
+    91
+   </tei:p>
+   <tei:p>
+    ﻿všetko s láskou, s boľavým, roztúženým srdcom. Díval, díval sa do   tých okien skrytý v tieňoch zamračenej, alebo bezmesačnej noci a   bolela ho duša za ňou, Elenou, za stratenou láskou, v ktorú detinsky   dôveroval, v ktorej sa sklamal, v ktorej ho potupili a ponížili.   Zdalo sa mu, že pochoval radosť, svoju veselú, mladú dušu zavrel na   veky. Neotvorí sa tá nikdy viac, ako sa hroby neotvárajú. A keď   mesiac vyšiel, ako kradol sa popri stromoch domov, utajoval sa za   pňami alebo stlpami lámp, keď brána vrzla na ich dome, alebo šiel   niekto po ulici.
+   </tei:p>
+   <tei:p>
+    Potom ešte prišlo niekoľko listov poštou a skrze poslov. Ale ani   ich neotvoril.
+   </tei:p>
+   <tei:p>
+    — Bojovať a víťazom zostať — napomínal sa a posielal poslov   nazpät.
+   </tei:p>
+   <tei:p>
+    A opätovne šiel pod okná. Zazrel ju so dva razy v divadle, ale ani   nepozrel na ňu. Elena ho tiež zbadala, pozrela ďalekohľadom na neho.   Jemu ťahalo zrak na jej stranu. Niekoľko ráz zodvihol svoje sklo a   vše pozrel na druhú stranu. No, jednako uspel zbadať, že Elena   schudla, tvár jej ako by sa bola zmenšila a oči zväčšily. Chytila ho   náramná ľútosť. Zrovná hrdlo mu sťahovalo a po prvom akte sobral sa   preč. Stál pred divadlom. Kúril papirosu za papirosou a rozmýšľal, či   ešte vojsť dnu, či počkať.
+   </tei:p>
+   <tei:p>
+    — Ak vojdem, vidím ju a boj stane sa ťažším. Víťazstvo,   znovuzrodenie — pohundrával si a čakal.
+   </tei:p>
+   <tei:p>
+    Počkal, a keď sa publikum počalo shŕňať vo foyer, vyšiel rýchlo z   podlubia divadla a stal za stĺp, kde ho nikto nevidel. Ale tu   nevydržal. Skoro behom prešiel do bočnej malej uličky a odtiaľto sa   díval na rozchádzajúce sa obecenstvo.
+   </tei:p>
+   <tei:p>
+    — Stratí sa mi. Neuvidím ju. — Desil sa a vyšiel na bulvár,   hľadajúc ju očami. Odrazu zastal. Oviala ho známa parfumová vôňa.   Zrovná pred ním
+   </tei:p>
+   <tei:p>
+    92
+   </tei:p>
+   <tei:p>
+    ﻿kráčala veľkými vlnistými krokmi známa, svižná postava, so   šuchotajúcou sukňou, podvihnutou málinko. Pod veľkým čiernym klobúkom   v čiernych vlasoch domácky učesaných ružovela sa známa dievčenská   mašlička. Popri nej malým, drobným krokom šla jej matka, chudá,   tenučká, stará osôbka. Ponáhľaly sa k najbližšej elektrickej stanici.   Curín pozeral za nimi, ako omámený nejakým tuhým nápojom. Chcelo sa   mu utekať za nimi, sňať klobúk, pozdraviť ich, ruku podať, pozdvihnúť   Elenu do vozňa, cítiť zasa jej rameno a počuť jej hlas, vidieť iu   celkom zblízka a zabudnúť na všetko. Povedať jej, že ju rád   nekonečne, veľmi. Pritom stál na mieste ako prikovaný. Ľudia   mimoidúci strkali do neho. Mrmlali, že stojí v samom prostriedku   idúceho prúdu. A až keď Elena s matkou vysadly do vozňa, sponáhľal   sa, aby ešte raz zazrel cez okno líca dievčaťa, kus jej klobúka, jej   šiat. Potom sadol na najbližší vozeň a chcel ich dohoniť. Napokon   zostávala mu prechádzka pod oknami. . .
+   </tei:p>
+   <tei:p>
+    •— Strašný boj to bol — povedal si Curín, vstávajúc s divána, kam   si po tanci sadol. Zavzdychol a prešiel k oknu.
+   </tei:p>
+   <tei:p>
+    Zabudol na apelátu, ktorú počal a nedokončil. V izbe bola tma a   vonku už tiež nastúpil večer. Lampy svietily už všetky. Sneh, ktorý   predtým v chomáčoch padal, premenil sa na drobný, páperový sniežik.   Na konároch stromov oblepený sneh, tak sa zdalo, stuhol od večerného   mrazivého vetra, ktorý triasol vetvami a fučal hlasno kdesi dolu v   bráne a vše zapišťal v peci, v ktorej oheň už dávno vyhasol. Strechy   domov, cifierky a dlažba bola zasypaná snehom. Na plakátovom stĺpe   bola ho celá kôpka. A von ani človiečika, len kdesi vyššie štyria   ľudia s veľkými čapicami a rukavicami schraňovali sneh. Bolo pol   ôsmej.
+   </tei:p>
+   <tei:p>
+    93
+   </tei:p>
+   <tei:p>
+    ﻿Curín pozeral von, díval sa na štyroch pracujúcich ľudí a vše   myslel na Elenu. Napokon hodil rukou a zavolal nahlas:
+   </tei:p>
+   <tei:p>
+    — Keď sa vydáva, nech sa vydáva!
+   </tei:p>
+   <tei:p>
+    Potom po chvíli doložil pre seba tichšie:
+   </tei:p>
+   <tei:p>
+    — Ja som predsa zostal víťazom. Veď bolo treba povedať len slovo a   ona by sa bola vrátila. — Slovo, myslel ďalej. — To chybovalo. Curín   potreboval iba to povedať, že odpúšťa, že jednako jej chce dôverovať   a jej dôveruje. Potrebovala ho len zazrieť pod jej oknami, vidieť,   ako uteká za električkou pre ňu. Bola by prišla. Teraz sa vydáva a   mne posiela oznam, načo? Chce gratuláciu . . .
+   </tei:p>
+   <tei:p>
+    Akýsi pán viedol pod pazuchou mladú, vysokú, svetlovlasú dámu, Vo   vetre šli k sebe naklonení, pridržiavajúc si klobúky. Dívali sa na   seba a ich tváre sa usmievali. Vidieť, zaľúbení.
+   </tei:p>
+   <tei:p>
+    Curín sa díval na nich posmešne.
+   </tei:p>
+   <tei:p>
+    — Láska! — prelietlo mu mysľou. Hadi. Ako sa ovíja okolo neho. Na   krk by sa mu zavesila. Nenávidím vás, ženy. Nenávidím vašu lásku.   Preto ho miluješ, lebo ti povedal, že ťa miluje. Drží ťa pod   pazuchou. Tisne ti rameno. Vraví. Keby ti nebol nikdy povedal, že ťa   rád, ty by si sa tak netúlila . . . A prečo sa ona vydáva? — prišlo   mu na um. — Nemala ma rada. Nikdy. Ináče by sa nevydávala. Namanul sa   iný človek so slovami o láske a ona postavila na ne novú budovu   lásky. — A ja budem mlčať, mlčať, mlčať, ako mlčím dva roky, po celý   môj zbývajúci život. Nechcem nikoho. Neverím nikomu. Ich láska nie je   láska. Nikdy.
+   </tei:p>
+   <tei:p>
+    Obliekol kabát a šiel na ulicu. Chcel zájsť do najbližšieho   hostinca a predsa šiel na druhú stranu, do ich ulice.
+   </tei:p>
+   <tei:p>
+    — Treba sa mi rozlúčiť, — myslel si. Ešte raz a potom koniec.
+   </tei:p>
+   <tei:p>
+    94
+   </tei:p>
+   <tei:p>
+    ﻿A šiel. Severný vietor mu dul do boka, štípal líca až mu slzy   padaly. Prikladal si ruky k ušiam. A pod jej oknami zavrzol krídlo   kabáta, čo vietor odfukoval, a pozeral na okná. Len v dvoch bolo   svetlo. Jej izbica bola tmavá. — Iste večerajú, — myslel si. Díva sa   na ňu, možno, hovoria o láske, bozkávajú sa. Keby ich tak mohol   vidieť. Keby tak vyšiel hore schodmi. Pozrieť mohol cez kľúčovú   dierku.
+   </tei:p>
+   <tei:p>
+    Prechádzal na druhú stranu, no naprostred ulice mu prišlo na um,   že sa to nedá.
+   </tei:p>
+   <tei:p>
+    — Akože pôjdem? Zbadajú ma. — A zima ho už drvila. — Treba ísť   domov. Ochoriem. Umriem pre ňu.
+   </tei:p>
+   <tei:p>
+    Pustil sa dolu ulicou domov. Cestou šeptal Elene čo najnežnejšie   slová. Ticho ju oslovoval. Usvedčoval o láske a zasa hodil rukou,   spoponáhľal sa a po príchode domov, sadol na diván, díval sa do okien   na konáre stromov, na svetlo padajúce z ulice do izby na koberce.
+   </tei:p>
+   <tei:p>
+    — Koniec. Koniec. — Dobojoval som. S pošliapaním vlastného šťastia   zvíťazil.
+   </tei:p>
+   <tei:p>
+    Zapálil lampu a spustil záclony. Spomenul si na apelátu.
+   </tei:p>
+   <tei:p>
+    — Zajtra posledný deň. Treba ju skončiť, — pomyslel a prisadol k   písaciemu stolíku. Zamočil pero a dával na papier dávno premyslené   dôvody, nemysliac viacej na Elenu, ako sa mu videlo.
+   </tei:p>
+   <tei:p>
+    Odrazu zostal zdesený. Ktosi ohmatával kľučku. Všetka krv udrela   mu do líc. Silné tušenie ho zachvátilo, že to iste bude Elena. To   musí byť Elena. Vstal a rýchlymi krokmi šiel ku dverám a strmá ich   otvoril. Srdce mu búchalo strachom. — Naozaj. Na prahu stála vysoká,   štíhla ženská v tmavých šatách s dlhým, tiež tmavým, niže kolien   siahajúcim boa, čiernou čiapkou na hlave a hustým závojom
+   </tei:p>
+   <tei:p>
+    95
+   </tei:p>
+   <tei:p>
+    ﻿zahalenou tvárou. V ruke mala tenký, svinutý dáždnik a muf.
+   </tei:p>
+   <tei:p>
+    Za chvíľu stála pri dverách, potom ticho spýtala sa:
+   </tei:p>
+   <tei:p>
+    — Slobodno?
+   </tei:p>
+   <tei:p>
+    A ani odpovedi nečakajúc, pošla k najbližšiemu fotelu a sadla   si.
+   </tei:p>
+   <tei:p>
+    — Dovolíte? Vydýchnuť si chcem. — Curín neodpovedal. Videl ju   zadychčanú, ustatú. Privrel dvere a zostal stáť. Sťa by ho boli   obliali horúcou vodou a búšili do pŕs. Vytiahol šatku z vrecka a   sotrel si pot s čela a s hrdla. Zprvu nepozrel na ňu. Bál sa podívať,   ale z jej tichého, zachytávaného hlasu súdil, aká je rozčúlená ... I   on by sa ešte väčšmi zmiatol. — Nemôžem hovoriť, myslel si. Ešte nie.   Ani teraz ešte nie, pomyslel po chvíli. Akoby ona mohla! — Poľutoval   ju.
+   </tei:p>
+   <tei:p>
+    — Neodpustíte mi? — začul po chvíli otázku. —■ Videla som vás pred   chvíľou pred nami. Dívali ste sa a ja som bola dolu, pri bráne. —   Odpusťte mi!
+   </tei:p>
+   <tei:p>
+    Pozrel na ňu, ale Elenka nedívala sa na neho. S naklonenou hlavou,   shrbená, ruky držiac v mufe na kolenách, sedela vo foteli.
+   </tei:p>
+   <tei:p>
+    — Tie isté veľké čierne vlasy, — dumal Curín, dívajúc sa na ňu.   Mäkký, okrúhly profil. Zamrznuté kvapôčky v ušiach zo zlata. Aj   mašlička. Vše ešte mašlička. To sa ma ona, Elenka, dievčatko,   spytuje, či jej neodpustím? Ja jej odpúšťam. Ja jej vlastne nemám čo   odpúšťať. Čože mi urobila?
+   </tei:p>
+   <tei:p>
+    No, pritom sa nehýbal, ako by čakal, či je to nie vízia a kedy sa   stratí pohľadu.
+   </tei:p>
+   <tei:p>
+    — Vy ste vraveli niekedy . . . Dávno. Pamätáte. Láska má byť   vlastnosťou. Ľpieť má na človeku .. . Proti všetkému rozumu . . .   Potupil si ma. Nenávidíš ma . . . Ale ja ťa milujem . . . Milujem.   Vždy ta budem milovať. Vy, Curín, ste to . . . Počkajte! . . .   Počkajte. Nemôžem ďalej . . .
+   </tei:p>
+   <tei:p>
+    96
+   </tei:p>
+   <tei:p>
+    ﻿Zhlboka si vydýchla, ale nepokračovala hneď. Len po chvíli, opäť   zavzdychnúc a letkom pozrúc na Curína, poznamenala ticho a so žiaľom   v hlase:
+   </tei:p>
+   <tei:p>
+    — Prečo neodpúšťať? Láska odpúšťa všetko. Odpusťte!
+   </tei:p>
+   <tei:p>
+    Natiahla rameno k nemu.
+   </tei:p>
+   <tei:p>
+    — Odpusťte!
+   </tei:p>
+   <tei:p>
+    Vzpriamila sa a rovným, bystrým, nežným pohľadom pozrela na neho.   Nikdy toľko nehy a pokorenia nevidel Čurín u dievčaťa. Ženskú hrdosť   ako eliminuje láska. Neprestala ma rada mať.. . bola prvá jeho   myšlienka. Prišla ona biedna a drahá pre slovko lásky. Chce ho počuť,   tak ako ho videla pred hodinou pri ich bráne. Tam bolo ono, to   slovíčko, v jeho zraku, obrátenom hore ku obloku, a preto prišla za   ním, aby ho aj počula. Ak ho nepoviem, myslel Čurín, vydá sa, hoci   mňa má rada. Ak budem mlčať, odíde a nikdy už nepríde. A prečo mlčať?   Moje slovo pre ňu je krajšie a vzácnejšie ako slová iných. Zviedly ju   slová toho šviháka zviedly ju slová Zeimove, zviedly moje a Elenka,   dievčatko, vše stavalo čosi na tie slová. No moje sú jej drahšie, mňa   radšej má, ako iných. Preto prišla... Pristúpil k nej a chytil jej   podávanú ruku. — Iba odpustenie? — Nie. Vašu lásku. — Ako predtým? —   Áno. — A stisli si ruky ...
+   </tei:p>
+   <tei:p>
+    97
+   </tei:p>
+   <tei:p>
+    7 Novely
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

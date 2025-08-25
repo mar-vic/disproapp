@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943140" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Pišta Báci : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1183
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Pišta Báci
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     POSLEDNÁ NOVELA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Bolo to a či bude, čo na tom!? Zem sa otáča1 ako pred státisíc   letami, len jej tvár sa mení. Ona ostáva tá istá, záhadná, tajomná.   Nevie, odkiaľ letí, a nevie kam. Krása jej sa rozrastie ako koralové   ostrovy na oceáne. I zmizne v priesvitných belasých hlbinách. Štíhle   palmy, vzrastlé nad vodami, rozbehnú sa a mizne háj po háji v   nekonečnej diali. Svetlá obruč za obručou odpadá s drieku zeme a   kotúľa sa, odkotúľa. Sever sa tisne na juh, juh na sever a ženú pred   sebou tvorstvo i rastlinstvo, až sa usadí niekde okolo rovníka. Mestá   so svojimi kopulami nakláňajú sa a rozsýpajú ako zo snehu. Uvädla   moc, uvädla i sláva. Napokon ostal len človek — muž a žena. Posledná   dáma a posledný pán. Vyhrievajú sa na žeravo hasnúcom slnku a drkocú   zimou. Pritúliť sa k sebe nemajú už sily, všetku energiu života   strovili slávni predkovia, o ktorých sa nikto viac nezaujíma. Hľadia   v tuleních kožiach na šedivú oblohu s veľkým otáznikom v ustatých   očiach. Vlasov už nemajú, zubov už nemajú. Používajú staré náhradky a   dávajú pozor neskaziť ich. Bývať majú kde, ohromné bloky palácov   sosuly sa na hromadu a zanikly v snehových púšťach. Aj ich arkády i   mramorové sochy a obelisky. I bibliotéky. Ostalo len dravé vtáctvo a   havrany, ktoré prežily ľudskú kultúru a prežijú i človeka. Ale   horizont je pôvabný. Šedivý dozelenkava a domodra. Slnko nevládze už   maľovať sklonenú oblohu, ale zore kvitnú, ružové, červené, ako   kvietie na cintoríne. Všade je mnoho chryzantém, na všetkých kopcoch,   na zrkadlách zamrznutých hladín, všade! A sneh a lad sú symbolom   pokoja, ktorý sotva kto naruší viacej. —-Muž môj, pamätáš ešte na   báje, ktoré vyprávali naši prarodičia, — nahla sa k nemu kamarátka   dôverne, pritiahnuc si tulení kožuštek, aby nemraziio. — Kedysi vraj   zem bola ako záhrada. Kvitla v tisícorakých farbách a smiala sa   životu. Pri vodách rozkladaly sa mestá, ich domy výškou dosahovaly   nebesá. Ľudí bolo mnoho, mnoho, ako hviezd na nebi, a všetci   budovali, všetci v niečo verili, všetci mali ohromné plány. Ale   záhrada s roka na rok vädla a rástly len ohromné snehové obruče,   objímaly zem vždy nižšie a nižšie a hnaly všetko veľké a mocné ako   pinguíny pred sebou. Napokon sme tu len my. Kde sa to podelo všetko??   — Cas dal, čas vzal, — poznamenal muž. — I to však má svoje výhody,   každá doba, ako je to v starých knihách poznačené, dala niečo i vzala   plus-minus-aequal-nul. Ľudia si vybudovali ohromné svety, i zaplatili   za ne. Poviazali sa samochcúc, a ked postŕhali okovy, dvíhali a   oslavovali jednotlivcov, ktorí im v tom pomohli. Stavali mosty,   paláce a múzeá, dnes je takým zamrznutým múzeom celá zem. Mosty sú   nie treba, lebo je stuhnuté všetko na ľad. Paláce sú zbytočné, budujú   ich snehové búre a tabule ich maľuje mráz. Ľudia sa obmedzovali a   oslavovali voľnosť. Tisícročia hľadaly cestu ku svojmu šťastiu a od   tisícročí umierali. To čaká i nás.
+   </tei:p>
+   <tei:p>
+    — A nebude zemi smutno, keď ani nás nebude? — blysla žena   vyhasínajúcim zrakom.
+   </tei:p>
+   <tei:p>
+    — Co by jej len bolo, — vysvetľoval muž. — Krása ostane krásou i v   súmraku, hviezdy sa odlesknú na belasom ľade, ako niekdy svietily na   lomoch drahokamov. Život sa môže stratiť, ale jeho krása ostane. —   Ale načo bude? Komu? — Sebe! Lebo tak je najkrajšia! Manželia primkli   sa k otvoru svojho bytu a muž nalial oleja na oheň. Bol to rybí tuk,   zaváňal, ale horel a svietil. Pri jeho žiari hľadel posledný pár na   vysychajúce črty svojich tvárí. Von vychodil mesiac už skoro bez   svetla zpoza oblakov. Kvety, čo sa rozvíjaly pri jeho zlate, povädly   už dávno. Bolo ticho, velebné ticho. Odrazu ozvaly sa kroky, ťažké a   tlmené. —-Pozri, kto je to! Muž vyšiel, o chvíľu sa vrátil celý   rozochvený. — Nie je to jeden, sú dva: Dva ohromné ľadové medvede,   driapu sa a škrtia. Poď si to pozrieť! — Nejdem, — utiahla sa žena, —   robia len to, čo ich učili ľudia cez stáročia. Muž naslúchal a   prilieval na oheň, ktorý blikal žltučkým plameňom. Nedalo mu to však,   vyšiel a díval sa dlho na súboj posledných hrdinov. Keď sa vrátil,   bol smutný. — Čo ti je, muž môj, — poľutovala ho žena. — Máme už len   jedného medveďa! A tak sa zožierala príroda pred ich očami, bolo jej   vždy menej a menej a ticho okolo rástlo a kamenelo. Večerom nebolo   konca a dni boly šeré. Tak ako pristretý dom, kde sa lúčia s drahým.   Mesiac hasol, len tmavý kruh ukazoval ešte stopy mŕtvej hmoty, ktorá   letela vo vesmíre. Slnko červenelo ako oheň hasnúcej pahreby a
+   </tei:p>
+   <tei:p>
+    zem bola šíra ako kedysi, ohromná a tichá. Niekdy sa zbúrilo more   napätím živelných síl, zdrúzgalo ľadové okovy, začervenelo sa na   slnku, ale ten úsmev bol už úsmevom smrti. Poddalo sa znova. Nikdy   viac nerozkvitly sa záhrady, nikdy viac nerozprestrely palmy svoje   vejáre nadpustinami. Nikdy viac nezatlieskaly ich vetvy nad belasými   hlbinami rozliateho mora. Nikdy viac. Žena sa zadívala na muža, ako   by mu chcela niečo povedať. — Čo hľadíš tak smutne, — vyrušil ju on.   — Nikdy si tak nehľadela! — Nemala som prečo, — rozcítila sa a   rozplakala. — Neplač! — tešil ju. — Nemáš všetko, čo ti treba? Nemáš   dobrý tulení kožuch? Nemáš rybieho mäsa? A oleja nemáme ešte dosť??   —-Máme, — prisvedčila, utrúc si slzy. — Ale nemáme to, čo mali tí   pred nami! Nevieme, čo sú zábavy, ako je to v starých knihách!   Nevieme, čo je život, a musíme ho prežiť, ako aj oni! A mne sa zdá,   muž môj, — pritúlila sa k nemu, — jednako sme len málo žili! — Ako   tomu pomôcť, keď žiť už nevieme? A žena miesto odpovede našla v kúte   truhlu a otvorila ju. Vybrala z nej pekné belasé šaty. Obliekla si   ich a vyšla pozrieť na vody, či jej svedčia. Usmiala sa na muža,   usmiala na seba. Stiahla sa v páse tuho, dotuha, potom ešte hľadala   niečo, prekutávala. — Čo sháňaš? — vytrhol ju muž netrpezlivo. —   Voľačo, — a hľadala, ďalej hľadala. Napokon to našla a maľovala si   tým vyblednuté pery. — Svedčí mi? — stala si pred muža, keď bola   hotová. — Neviem, — odpovedal on útrpne. Ale ju
+   </tei:p>
+   <tei:p>
+    nezarmútil. Vedel, toho sa bojí najviacej. Pochopil, zo všetkej   kultúry sveta ostaly im len posledné radosti, a človek sa i s tými   musí uspokojiť. Šeré svetlo rozlievalo sa nad oceánom. Ale vody   neumrely. Nové zázračné svety dvíhaly sa z ich hlbín a jagotaly sa na   dohárajúcom slnku nádhernou apotézou večného života. Severná žiara   rozliala sa ako horiaca láva, jasala, ale nepálila. Vo vzduchu šumelo   kosodrevie a zaváňala borievka, ako posledný odkaz toho ohromného   sveta, ktorý sa strácal. Po zemi vliekol sa žltučký mach-lyšajník.   Zpod ladu vyhadzovalo striebristé ryby a rodily sa amoeby. — Však je   i takto život krásny? — ponorila mu ona svoje šedivé zraky do jeho   zhárajúcich a matnejúcich ako popol. — Je! — objal ju a pohladil po   ľadovom líci. A tu sa čosi zachvelo ohromnou divou silou. Moria sa   vylialy ako z kotla, zem sa roztočila a zmizla v oblakoch a pare.   Skončila sa ohromná epopeja a začal sa nový život, nový svet so   svojou hrôzou, nádejou, radosťou i utrpením. Ci sa všetko skončilo   naveky?
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

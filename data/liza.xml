@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944668" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Líza : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1964
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Líza
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     LÍZA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Pred šiestimi mesiacmi som sa oženil a teraz som v blázinici. Vy   neveríte, ale je tak. Ja sám neverím a predsa tu sedím na ťažkej   bielej lavici. Sedím, sedím a dumám, a sto ráz predumám v hodine svoj   život. Je mi smutno i smiešno.
+   </tei:p>
+   <tei:p>
+    Pred rokom preložili ma na janskú stanicu. V januári zaujal som   miesto. Bola to búda s dvoma izbičkami a kuchyňou. Štyri drobnušké   okienka a diera v stene na vydávanie lístkov. Okolo nej kriaky   jazmína a päť tenkých agátov.
+   </tei:p>
+   <tei:p>
+    Hustý sneh padal práve, keď som prišiel. Malá štátna búda bola už   skoro do polovice v ňom. Na červených rámoch okien a na tabliciach   bolo ho plno nalepené. Žrde plota a železničné brány ledva bolo   vidieť. Na stĺpikoch vysoké snehové čiapky, a kam si len pozrel,   všade sneh. Blízke vysoké vrchy zôkol-vôkol boly zahalené v   nepriehľadnom bielom závoji.
+   </tei:p>
+   <tei:p>
+    K večeru prestal padať. Pohol sa vietor a už to všade hučalo. Hory   šumeľy, telegrafičné drôty neprestajne hvižďaly, tu tuhšie, tu   slabšie, v koľajniciach kedy-tedy prasklo. Stromy zapadnuté snehom   knísaly sa na malom dvore, ako biele postavy. Železničná brána   triasla sa a vŕzgala. Na nebi ani hviezdičky. Tma.
+   </tei:p>
+   <tei:p>
+    Mne bolo smutno. Vošiel som do nízučkej izby, zapálil lampu a   počúval. Svetlé obrázky, ktoré som niekedy vídal, lietaly mi hlavou.   Prichádzaly mi
+   </tei:p>
+   <tei:p>
+    106
+   </tei:p>
+   <tei:p>
+    ﻿na um osvetlené dlažby mesta, ktoré som zanechal. Videl som v   duchu, ako padá sneh lahučký, malinký. Poletuje nad širokou ulicou,   po ktorej chodia ľudia. Páni v čiernych kabátoch s bielymi ručníkmi   okolo krku, dámy v bundičkách s líščími chvosty na plieckach. Líca na   červeno vyštípané od vetra. Tu i tu v kriku predávajúcich čuť mierny   trap koní, za nimi tupo hučí krytý, ligotavý koč. Cez jeho okná   zamihaly biele šaty, kytka kvetov. Idú na ples, alebo do divadla . .   . Kaviarne s pariacimi sa nápojmi, hotely so smejúcimi sa hosťmi,   Cigáni, spev ...
+   </tei:p>
+   <tei:p>
+    Ťažko mi bolo. Trápila ma túha a skoro chcelo sa mi zaplakať.   Nikdy nezabudnem na tento prvý večer na jánskej stanici. Druhý deň   bol práve taký. Prešiel týždeň a mne bolo ešte vždy smutno. Azda by   som sa nebol ani rozveselil, ak sa neožením.
+   </tei:p>
+   <tei:p>
+    Vzal som si učiteľskú dcéru z dediny Jána, Žofku. Dobré dievča.   Nijako nie salónna krása, tenká, kostnatá. Taká dedinská. Hladký   účes. Ani čo by som ju pred sebou videl. Tučné, okrúhle líca a úzke,   sivé oči. Nos ani trochu nie pekný, ale v dedine najkrajší. Plné   pery. Slovom dedinská. Svetlý pás cez vlasy a taký mala krátučký,   tichý, príjemný smiech . . .
+   </tei:p>
+   <tei:p>
+    Vychádzam k osobnému vlaku. Fujavica
+   </tei:p>
+   <tei:p>
+    veľká. Vietor ti schytáva čiapku. Načim ju rukou pridržiavať. Vlak   zafúkaný snehom. Odbavil som ho a vidím, ako ona plače pri tenkom   agáte. Veľkú škatuľu položila k nohám a utiera si šatkou oči. Z Jána   neprišly sánky, ako ona pôjde domov? Odprevadil som ju. Bolo treba   niečo hovoriť, a hovorím, ako mi je na stanici smutne. Ona hovorí, že   jej je doma veselo. Večer pradú, perie párajú, spievajú. Niekedy   príde z fary Anička, niekedy ona ide k nim. Prídu aj druhé, i mladí   ľudia a hrajú sa na „hnevávam sa na teba alebo na   „sekretára Nie-
+   </tei:p>
+   <tei:p>
+    107
+   </tei:p>
+   <tei:p>
+    ﻿kedy je aj tanec, ale to len obyčajne v nedeľu. Skrátka skromné   dievčatko. Bola by z nej dobrá gazdinká. Boh vie, mne sa zapáčila a   nemohol som zabudnúť. Nuž oženil som sa.
+   </tei:p>
+   <tei:p>
+    Prišla v máji na moju opustenú stanicu. Razom premenila sa táto na   akýsi čarovný kút. Ožilo všetko. Nie preto, že bol máj, ale že som   mal pri boku dobrú mladú ženu. V prvé týždne sbierali sme králiky a   naivne opytovali sme sa bielych lístkov: ,,či ma ľúbiš, zo srdca, s   bolesťou, v tajnosti, trochu a či nič? Držiac sa za ruky,   rozkolembali sme si ich a spievali spolu: „Cez zelenú lúku voda   tečie. Neraz, pamätám sa, večerom, sadli sme si na lavičku,   chytali si ruky a tlieskali si po nich. Zakaždým zvýskla, keď som ju   udrel a potom sme sa smiali spolu. „Cíp, cíp, cipušky .. .“ počujem   ešte teraz. Pominulo sa a viac sa nevráti.
+   </tei:p>
+   <tei:p>
+    A u nej sa veľmi rýchlo pominula táto poézia života. Už počiatkom   júna zavesí sa mi odrazu na krk a povie, že by sme mohli držať dve   prasiatka.
+   </tei:p>
+   <tei:p>
+    — Prasiatka? — zadivil som sa.
+   </tei:p>
+   <tei:p>
+    — No, áno. Teraz sú síce drahé, ale aspoň jedno. Na zimu budeme   mať jaterničky a klobásky.
+   </tei:p>
+   <tei:p>
+    — Jaterničky a klobásky, — myslel som si, — lenže potom už   nebudeme králiky hľadať, ani na ruky si tlieskať.
+   </tei:p>
+   <tei:p>
+    — I šunku.
+   </tei:p>
+   <tei:p>
+    — O čom to ona sníva? Jaterničky, klobásky, šunka. A to sa už viac   nebudeme hrať na cĺpcĺpcipušky, — dumal som. Ale zrazu zahanbil som   sa sám pred sebou. Ja mužský, a takáto naivnosť.
+   </tei:p>
+   <tei:p>
+    — No, dobre, — povedal som.
+   </tei:p>
+   <tei:p>
+    Onedlho zjavily sa dve biele prasiatka. Je to celkom pekné   zvieratko — prasa. Ružový ňufáčik, kľaptavé uši, vyhrnutý pokrútený   chvostík, celé bielučké. Ako to behá sem a ta, ani slepé.   Zakričíš
+   </tei:p>
+   <tei:p>
+    108
+   </tei:p>
+   <tei:p>
+    ﻿„mašura, mašura! — už ti pribehne. Dobré zvieratko. A budeme   mať i jaterničky i klobásky i šunku. Užitočné zvieratko. Uspokojil   som sa. Spolu so ženou chodievali sme ich kŕmiť a škrabať.
+   </tei:p>
+   <tei:p>
+    V júli, už bez opýtania, žena ma prekvapila, že máme päť sliepok a   kohúta.
+   </tei:p>
+   <tei:p>
+    — Sliepočka je veľmi užitočná, — počala.
+   </tei:p>
+   <tei:p>
+    — No dobre.
+   </tei:p>
+   <tei:p>
+    — A vieš, ako sa volá na sliepky?
+   </tei:p>
+   <tei:p>
+    — Nie.
+   </tei:p>
+   <tei:p>
+    Poučila ma.
+   </tei:p>
+   <tei:p>
+    Na tretí mesiac dostavily sa husi, potom kačky a zasa bez   povolenia. Nepovedal som nič, ale ma to znepokojilo. Co to tá žena   ešte nasháňa? Nebudeme môcť ani po dvore chodiť. Ja by som chcel   radšej niečo do izby: pekný kalamár, koberce. Alebo, ako by sa zišlo   napríklad niekoľko kališkov na borovičku. Keď niekto príde, nemáš ho   ako ponúknuť, hanbíš sa. Z fľaše len nemožno piť. A tu máš — samá   hus. Len čo gagoce daromné a znepokojuje ťa.
+   </tei:p>
+   <tei:p>
+    Ale nepovedal som nič.
+   </tei:p>
+   <tei:p>
+    V septembri raz sedím pod oknom. Tu zrazu počujem cvengot a   mékanie. Oproti mne ide koza, hnusná koza, s bradou a krátkym   chvostom. Na krku má modrú stužku, a na stužke zvonček.
+   </tei:p>
+   <tei:p>
+    — Čia je to koza? — spytujem sa ženy.
+   </tei:p>
+   <tei:p>
+    — Naša. Treba každé ráno mliečka. Kravička je drahá.
+   </tei:p>
+   <tei:p>
+    — To si ty kúpila?
+   </tei:p>
+   <tei:p>
+    — Ja.
+   </tei:p>
+   <tei:p>
+    Skočil som, že zaženiem niekam toto protivné zviera, ale spamätal   som sa, a aby nevybúšil zo mňa hnev, odišiel som do hory. To je už   mnoho. Celá menažéria. A mal som vtedy tú kozu zahrdúsiť; ona je   príčinou, že tu teraz sedím. Neurobil som to. Ej škoda. Ale nazdal   som sa, že s kozou bude dosť.
+   </tei:p>
+   <tei:p>
+    109
+   </tei:p>
+   <tei:p>
+    ﻿Máme z každej zveri, príde rad i na koberce i na pekný   kalamár.
+   </tei:p>
+   <tei:p>
+    V isté daždivé popoludnie žena práve tak, ako pri prasiatkach,   odrazu zavesí sa mi na krk a šepce:
+   </tei:p>
+   <tei:p>
+    — Počujže, nadobudnime si mačičku.
+   </tei:p>
+   <tei:p>
+    — Ach, to už radšej psíka, — hovorím celkom dobrodušne.
+   </tei:p>
+   <tei:p>
+    —■ To je také milé zvieratko. — Ale falošné.
+   </tei:p>
+   <tei:p>
+    — Chytá myši. — Mravčí.
+   </tei:p>
+   <tei:p>
+    — Ale i pradie. — Škriabe.
+   </tei:p>
+   <tei:p>
+    — Teda ty nechceš? — Nie, radšej psíka — Ech, čo len pes.
+   </tei:p>
+   <tei:p>
+    Hodila rukou, ani čo by pes bol najmizernejšie zviera. To ma   nahnevalo.
+   </tei:p>
+   <tei:p>
+    — No vieš, mačku nedovolím, — riekol som rozhodne, a bral som sa k   dverám.
+   </tei:p>
+   <tei:p>
+    — Ty si protivný!
+   </tei:p>
+   <tei:p>
+    — Ba ty s tvojou mačkou!
+   </tei:p>
+   <tei:p>
+    Žena vytiahla šatku a počala fňukať. To ma ešte väčšmi podráždilo.   Zasmial som sa zlostne, a trepnúc dvermi, vyšiel som von.
+   </tei:p>
+   <tei:p>
+    Chcelo sa mi vrátiť a povedať jej niečo príkreho, aby som si   uľahčil, ale zazrel som odháčkovanú okenicu, tú som chytil a praštil   ňou o múr. Buchlo veľmi a jedna tabla v okne rozprášila sa na kúsky.   Sám som sa zhrozil, ale šiel som len ďalej. Akási dávno necítená   horkosť vnikla mi do srdca. Hlúpa, pre mačku plače. Drobný dážď   prskal mi do tvári. Popolavé oblaky gúľaly sa po horách; na čiernych,   zvlhlých oráčinách ležala tma. Na dvore bolo plno mokrého žltého   opadaného lístia s agá-
+   </tei:p>
+   <tei:p>
+    110
+   </tei:p>
+   <tei:p>
+    ﻿tov ... A to bude znamenité, ak takto každý deň vymyslí si nejaké   potrebné zviera. Kanárikov ešte nemáme, ani straky s obstrihanými   krídlami. Drozd by sa tiež zišiel, ten píska. Zajačkov ku kozičke . .   . Musím ju odučiť ... A tento dážď len neprestáva. Celý život je   hnusný, i bez zvláštneho roztrpčenia. Sám tento čas leje ti akúsi   melanchóliu do duše. Tak smutne ti je, že by si ušiel niekam ďaleko,   kde slnce svieti a stromy kvitnú. A prichádza ti spomienka na leto,   teplá, sladká spomienka, a smutno ti je, smutno.
+   </tei:p>
+   <tei:p>
+    Šiel som zasa do hory. Hmla ma objala, takže som nevedel, či to   ešte ten drobný dážď a či hmla vlaží mi tvár. Stromy boly už celkom   holé a na ich vetviciach blyšťaly sa milióny kvapák. Fúkol vietor a   ony spŕchaly, sťa by nový prúd dažďa. Nohy sa šmýkaly po mokrej pôde.   Zle je v hore v takomto čase. Obrátil som sa k domovu a rozmýšľal   som, ako sa sblížim k žene a čo jej poviem? Hnev pominul a mrzelo ma,   čo sa stalo. Prišlo mi na um, že veď je ona predsa len žena. Rozum u   nej ďaleký. Tvor citu. Jej diktuje srdce, nálada. A ostatne, veď   mačka ani nie tak hlúpa. Chytá myši. Potuľkáš ju, zapradie. Trie sa o   teba, umýva sa labkou. A ešte, keď je malá! Odprosím ženu a punktum.   Dovolím a koniec.
+   </tei:p>
+   <tei:p>
+    Zrýchlil som kroky, a o pol hodiny čítal som list, v ktorom mi   žena oznamovala, že odišla k rodičom — pre moje chovanie sa k   nej.
+   </tei:p>
+   <tei:p>
+    Pokrčil som list a hodil do kúta.
+   </tei:p>
+   <tei:p>
+    Teda vzdor. Kto by to bol u nej hľadal? Ale dobre. Vzdorovať viem   i ja a ukážem, kto bude triumfovať. Mačku nedovolím, nie a nie. Nech   sedí doma. Rozhodnutý pribral som sa k práci. Pri večeri, musím aspoň   teraz uznať, žena mi trochu chybela, ale navaril som si večeru sám.   Tri vajíčka a dosť. Cez noc spal som výtečne. Ráno obliekol som
+   </tei:p>
+   <tei:p>
+    111
+   </tei:p>
+   <tei:p>
+    ﻿sa, zapálil som si fajku a šiel von. Dážď neprestával. Prasce   kvičaly. Gagot, kikiríkame bolo počuť zo dvora. Co ma po vás! Nech   vás opatruje, kto chce. Vrátil som sa do izby. Pozerám, kde sú moje   raňajky, i znepokojil som sa. To musím sám ísť podojiť kozu, ak chcem   jesť. No, a prečo nie? Vzal som šechtár a stolce a vošiel som do   stajne.
+   </tei:p>
+   <tei:p>
+    —. Líza, Lízučka, musíš mi dať mliečka, — prihováram sa jej.
+   </tei:p>
+   <tei:p>
+    Líza pozrela bokom a ako by sa bola zasmiala.
+   </tei:p>
+   <tei:p>
+    Sadol som si na stolec zavrzol šechtár medzi nohy a chcem   opláknuť.
+   </tei:p>
+   <tei:p>
+    Líza naplašená odskočila odo mňa
+   </tei:p>
+   <tei:p>
+    — No neboj sa, neboj, — chlácholil som ju.
+   </tei:p>
+   <tei:p>
+    Ale Lížu nedajbože kapacitovať. Skákala ani bláznivá, kopala   nohami, hlavou šla do mňa. Desať ráz prichytil som sa dojiť, desať   ráz bez výsledku. A veď ju žena každé ráno dojila, lebo som   raňajkoval každý deň mlieko, kozie mlieko. Prečo to? Či len preto, že   som ja chlap a stud jej nedovolí,
+   </tei:p>
+   <tei:p>
+    a či vie, že som sa ja pohneval so ženou, a ony ushovorily sa, že   sa budú na mne pomstiť? Nemohol som to pochopiť. Proboval som   jedenásty raz. Chytil som ju za chvost, pritiahol k sebe, a nič. To   bude moja žena triumfovať nado mnou, až sa dozvie. Zrazu prišlo mi na   um niečo. Možno, tak sa podarí.
+   </tei:p>
+   <tei:p>
+    Vyšiel som zo stajne, zavrel dvere a obliekol ženinu červenú   sukňu. Potom uviazal som si jej belasú šatku na hlavu, znova som   vošiel do stajne a prisadnem k Líže.
+   </tei:p>
+   <tei:p>
+    A hla! Líza je tichá.
+   </tei:p>
+   <tei:p>
+    Potiahnem raz, dva — Líza tichá.
+   </tei:p>
+   <tei:p>
+    Dojím — Líza tichá.
+   </tei:p>
+   <tei:p>
+    — Predsa len nebudeš triumfovať, žena moja!
+   </tei:p>
+   <tei:p>
+    A dojím, krásne dojím, a Líza sa nepohne.
+   </tei:p>
+   <tei:p>
+    — Predsa len budem raňajkovať!
+   </tei:p>
+   <tei:p>
+    112
+   </tei:p>
+   <tei:p>
+    ﻿Naraz počujem. To je ranný osobný. Skočím na rovné nohy a letím so   šechtárom na stanicu. Vlak vjachal a zastal. Vodič sa smeje a všetci   pasažieri dívajú sa na mňa. Jeden žandár soskočil a ide rovno ku mne.   Co sa stalo? Pozriem nazad, potom na seba samého . . . Pre Pána   Krista! Ženina sukňa a šatka.
+   </tei:p>
+   <tei:p>
+    Odviezli ma do blázinca. Žena predsa bude triumfovať! Bože, len   keby čím skôr!
+   </tei:p>
+   <tei:p>
+    113
+   </tei:p>
+   <tei:p>
+    8 Novely
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944628" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Gazdiná : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2562
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Gazdiná
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     GAZDINÁ.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Slečna Darinka Fialková, obstarná gazdiná u svojho bratanca,   starého mládenca a inžiniera Sihoňa, zavčasu sa zobudila. Prehodila   si pásikavú sukňu cez hlavu s rozčuchranými, riedkymi, šedivými   vlasmi a s vrkôčikom po plecia, tak, ako bola, v špinavom reklíku s   roztrhnutým rukávom, so zimnými papučami na bosých nohách vyšla   von.
+   </tei:p>
+   <tei:p>
+    Kvokanie ju zobudilo.
+   </tei:p>
+   <tei:p>
+    — To zasa tá stará bašta kvoká, — hundrala si pod nos, — len čo   odchovala kurence susede, a tu máš! Aby jej podsypala so 20 vajec . .   . Zasa kvoká...
+   </tei:p>
+   <tei:p>
+    Postála pri latkových vrátkach a pozrela, čo sa robí.
+   </tei:p>
+   <tei:p>
+    Na dvore naozaj ďubala do zeme veľká, červená kvočka s chocholom a   bakombardami. Obzrela sa rýchlo sem i tam, kukala očkom napravo a   naľavo, ako by mrkala na kurčatá, počastovať ich nájdeným zrnom.
+   </tei:p>
+   <tei:p>
+    Darinka sa usmiala. Zbadala, chytro počítajúc v duchu, že je   kureniec viac, ako by malo byť, a že sú medzi nimi aj strakavé . . .   Osem strakavých kureniec . . . Takých nemala. To sú susedine. Tá má   strakavé .. . Jej sú čisto biele, červenkasté a čierne . . . Prizrela   sa lepšie.
+   </tei:p>
+   <tei:p>
+    — Pravdaže susedine, — myslela. — Hneď za rána ma šťastie   stretá.
+   </tei:p>
+   <tei:p>
+    212
+   </tei:p>
+   <tei:p>
+    ﻿Pozorne sa prikrčila, zodvihla konce sukne a mávajúc nimi pomaly a   obozretne, zahnala kurence do drevárne. Privrela vráta a spokojne   vyšla z dvora.
+   </tei:p>
+   <tei:p>
+    Srdce sa jej naplnilo akousi nežnosťou oproti tejto kvočke.
+   </tei:p>
+   <tei:p>
+    — Aká to znamenitá kvočka, — myslela si, — nedala by ju ani za dva   dukáty. Doniesla mi osem kureniec — zadarmo. Jednako užitočná i keď   sedí, i keď nesedí. .. Keď sedí, to ani čo by bola zakliatou.   Nezvábiš jej najmastnejším chrústom. Keď kvoká — kvoká. Aj tridsať   vajec prikryje, — taká je veľká. A aká svedomitá! Neďube, neskáče do   tvári. Dá sa chytiť, ale by svoje vajcia aj proti teľaťu obránila.   Netreba jej zobáka obstrihávať, — ani sa nedotkne vajec, nie že by   ich povypíjala, ako iná. Netreba jej opíjať, aby sedela. Netreba do   vody máčať, aby prestala kvokať ... To dnes len svoje kurčatá volala   . . .
+   </tei:p>
+   <tei:p>
+    Všetky dobré vlastnosti tohto pokladu prišly slečne Darinke na   um.
+   </tei:p>
+   <tei:p>
+    Rozhodla sa, že jej už nikomu nepožičia. Zato jej nikto nič nedá,   nik sa nezavďačí, — iba ak si sama vezme. I u susedy bola za dva   mesiace, a či sa domyslela niečím sa zavďačiť? Horkýže! Keby nie   týchto osem kureniec, bolo by bývalo zadarmo .. .
+   </tei:p>
+   <tei:p>
+    Stolárska dielňa zahúkala na šiestu. Biedna bočná ulička, kde   býval inžinier Sihoň, bola ešte prázdna a tichá. Veľká záhrada   naproti cez cestu len čo začala ožívať vtáčími hlasmi. Slnce ešte   nevyšlo nad strechu humna, odkiaľ od týždňa vychádzalo, a preto   ulička bola v tieni. Zato vrcholce slivák a hrušiek už jagaly sa v   svetle a na slnečné hodiny na vysokom múre domu pri záhrade už padal   tieň železnej rúčky. U susedov boly ešte spustené záclony. Tam   spali.
+   </tei:p>
+   <tei:p>
+    213
+   </tei:p>
+   <tei:p>
+    ﻿Gazdiná vyšla k bránke, čo viedla na uličku. Odchýlila dvercia a   poobzerala sa, či niekoho nevidieť. Potom odvážila sa aj ďalej.   Prebehla zrakom celú ulicu a vrátila sa dnu. Trafil by ju niekto   vidieť takúto. Ešte by sa zahanbila. Vošla ešte do sadu za domom.   Pochodila troška medzi riadkami, ale jej počala zima byť a starý   Sihoň už otvoril okná na spálni — znak, že sa zviechal. Treba mu   poslať pohár mlieka.
+   </tei:p>
+   <tei:p>
+    Čertovská vec, že majú ženy také bystré oči. Ani za dva mžiky   nebola Darinka na ulici a predsa ju zbadala suseda od prava, pani   polesná, pani veľkomožná Edita Žibrienková.
+   </tei:p>
+   <tei:p>
+    Odetá do červeného šlafroku s bielou šatkou na hlave, práve chcela   otvoriť okno na pisárni, keď zbadala Darinku, ako pozerá, sťa straka.   Uspela zbadať aj zimné papuče, aj roztrhnutý reklík, aj vrkôčik.
+   </tei:p>
+   <tei:p>
+    — Čo tá kuce tak zavčasu? Že sa nehanbí tak vyjsť, — blyslo jej   mysľou. A už pocítila, že sa niečo stalo. Nie div, — s rybami sa jej   snívalo. To znamená starosť.
+   </tei:p>
+   <tei:p>
+    Pritisla gombík na lampe, aby zavolala služobnú.
+   </tei:p>
+   <tei:p>
+    Vo chvíli vošlo malé sedliacke dievča s tučnými červenými lícami.   Bolo bosé a malo v rukách konvu na mlieko. Veselo ňou štrngalo a   kolembalo sem a tam i vtedy, keď zastalo pred paňou, očakávajúc jej   rozkaz.
+   </tei:p>
+   <tei:p>
+    — Pozri, či nám niečo neskapalo. Popozeraj dobre vo dvore, v   záhrade, pred domom . . . Potom pôjdeš po mlieko.
+   </tei:p>
+   <tei:p>
+    Dievča sa zvrtlo, zacupkalo bosými nohami a odbehlo. Konva   štrngala jej v ruke.
+   </tei:p>
+   <tei:p>
+    Pani polesná rozhodne cítila, že sa stane niečo nepríjemného.   Popri sne s tými rybami aj to ju nastrašilo, že videla starú babu   hneď za rána. Veď
+   </tei:p>
+   <tei:p>
+    214
+   </tei:p>
+   <tei:p>
+    ﻿je to horšie, ako keby sa bola s farárom stretla. Tá gazdiná, tá   Darinka, tá milá prívetivá osôbka, už dávno jej bola podozrivou...   Veď je pravda, že nebola gazdiná ako druhá gazdiná. Nebrala mzdy,   neslúžila, ale len z rodinnej lásky ku svojmu bratancovi, starému   mládencovi Sihoňovi, stala sa ieho gazdinou. Z dobrej rodiny   pochádzala. Vedela písať aj čítať, vravela i po nemecky i po   maďarsky, nosila veľké klobúky so pštrosími perami, úzke sukne a   ritikúl na šnúrach a pozdravovali sa jej „kistihand Mala   prístup do spoločnosti. Apatekárovci, Korytnický, Labužánska,   advokátka Steinka .. . Všetko dobrá spoločnosť... Co je pravda,   pravda je, ale ako sa mohlo stať, že nedávno z desiatich klátov   dreva, čo boly večer na dvore na ráno zostalo iba päť. Múry dookola,   všetko pozamkýňané, len od susedov nízky, mrežkový plot... Alebo ten   kotol na pranie... Ani čo by sa bol pod zem prepadol... A minulú   stredu len čo kúpila hus a vyšla na ulicu, už bolo po nej . . .   Požičala novú, novučičkú gracu. Tam bola dva týždne a potom na   štvornásobné chodenie chceli vrátiť starú, rozheganú, pokrivenú,   hrdzavú, s poriskom vykývaným a do polovičky hnilým . . .
+   </tei:p>
+   <tei:p>
+    Všetko podozrivé, — myslela si pani Žibrienková. Ale akože povieš   na ňu? Veď je ona inteligentka. Ako apatekárka, ako Steinka, alebo   ja.
+   </tei:p>
+   <tei:p>
+    Malá služobná sa vrátila.
+   </tei:p>
+   <tei:p>
+    — Osem strakavých nám skapalo, — žalovala skoro s plačom.
+   </tei:p>
+   <tei:p>
+    — Kureniec? — spýtala sa Žibrienková užaslá.
+   </tei:p>
+   <tei:p>
+    — Kureniec, — potvrdila slúžka, — celý dvor a záhradu som   prekutala. Nikde nič. Ani v pivnici, ani na ulici... To ako tá hus v   stredu.
+   </tei:p>
+   <tei:p>
+    — Choď sa opýtať do susedov, — zakričala odrazu pani polesná   celkom nahnevaná.
+   </tei:p>
+   <tei:p>
+    Dievča sa pustilo do plaču.
+   </tei:p>
+   <tei:p>
+    215
+   </tei:p>
+   <tei:p>
+    ﻿— Negavdž! — okríkla ho pani. — Hajde! Mars! Na nič nedáš pozor.   Škrata hnusná. Ak ich nenájdeš, z platu ti stiahnem.
+   </tei:p>
+   <tei:p>
+    Pani Žibrienková chytila ťažidlo a udrela ním na písací stolík.   Kalamár podskočil a prevrátil sa. Atrament rozlial sa po zelenom   súkne. Dievča zostrašené vybehlo a milosfpani začala chodiť od okna   po kachle, od kachlí po okno, zúriac:
+   </tei:p>
+   <tei:p>
+    — Svinstvo, svinstvo, svinstvo, — kričala nahlas. — Škandál,   škandál, škandál. Veď je to posmech, posmech, posmech. A to tá stará   skupaňa .. . Keby to tri, ale všetkých osem, všetkých osem! Maškara   hnusná, lakomá!
+   </tei:p>
+   <tei:p>
+    Keď sa medzi oknom a kachľami dosť neprechádzala, prešla k mužovi   do spálne ponosovať sa. Muž ešte spal. Zpod periny trčal mu špicatý,   červený nos. Ale úder dvier bol taký silný, že sa pán Žibrienka   odrazu posadil a ani očú si nepretrúc, vyvalil ich na pani   polesnú.
+   </tei:p>
+   <tei:p>
+    — Co sa robí, — zvolal nahnevaný, — dom sa rúca, či je   zemetrasenie?
+   </tei:p>
+   <tei:p>
+    — Všetky kurence nám skapaly, — zvolala polesná a zastanúc pred   posteľou, zadívala sa na neho, čo povie.
+   </tei:p>
+   <tei:p>
+    — Naše? — spýtal sa.
+   </tei:p>
+   <tei:p>
+    —■ A čieže?
+   </tei:p>
+   <tei:p>
+    — Tak vám treba, — povedal Žibrienka, — na nič nedáte pozor. A   spustil nohy s postele. — Vari budem rajtovaf na každom kurati? — A   vari ja budem rajtovať, či čo? — Ty si na príčine, že najímaš byty na   konci dediny medzi zlodejmi a cigánmi... Tá bosorka u susedov kradne   ako straka ...
+   </tei:p>
+   <tei:p>
+    Žibrienka sa už chcel nahnevať, keď počul, že je vlastne on   príčinou toho, že skapaly kurence. Už sa
+   </tei:p>
+   <tei:p>
+    216
+   </tei:p>
+   <tei:p>
+    ﻿aj zohol po papuču, že udrie ňou o peťasť postele a zakričí, aby   bolo ticho, keď začul akúsi „bosorku u susedov
+   </tei:p>
+   <tei:p>
+    — Všetko ukradne, — pokračovala žena. — Ale kto? — zvolal.
+   </tei:p>
+   <tei:p>
+    —• Suseda. — Darinka?
+   </tei:p>
+   <tei:p>
+    — Darinka, s ktorou sa ty celé hodiny shováraš cez plot v   záhrade.
+   </tei:p>
+   <tei:p>
+    — Darinka? — spýtal sa ešte raz, ale už bez hnevu, naťahujúc   nohavice.
+   </tei:p>
+   <tei:p>
+    — Darinka. Slečna Darinka. Môžeš jej veru povedať:   „kistihand Zlodejka!
+   </tei:p>
+   <tei:p>
+    — Netáraj! Máš dôkazy? — Nemám, ale viem.
+   </tei:p>
+   <tei:p>
+    — Teda čuš a napred sa presvedč.
+   </tei:p>
+   <tei:p>
+    Chladnokrvne zamočil si ruky do vody v umyváku, nahol sa nadeň a   počal si drhnúť tvár, fŕkajúc vodou na všetky strany a vydávajúc   zvuky podobné na ppfff.
+   </tei:p>
+   <tei:p>
+    Žibrienková odstúpila na tri kroky a pozrela na silný, červený krk   mužov. Pomyslela si, že má pravdu. Musí mať najprv dôkazy. Bez   dôkazov nemožno nič hovoriť . .. Ale ich bude mať, keď ich aj nemá.   Bude mať, bude mať. Dá ju zavrieť. Nech sa naučí poriadku to staré   strašidlo.
+   </tei:p>
+   <tei:p>
+    Vyšla z izby pripraviť raňajky.
+   </tei:p>
+   <tei:p>
+    Kurence sa nenašly. Dievča prišlo nazpät s tým, že bola aj u   slečinky, ale že ju okríkly a nedovolily ani do kurína, ani do   drevárne pozrieť.
+   </tei:p>
+   <tei:p>
+    Nedovolila do kurína pozrieť, ani do drevárne. Prvý dôkaz, myslela   si polesná.
+   </tei:p>
+   <tei:p>
+    — A čosi tam aj pišťalo, ako naše. — Pišťalo? Druhý dôkaz.
+   </tei:p>
+   <tei:p>
+    — Ich kurence boly na dvore.
+   </tei:p>
+   <tei:p>
+    217
+   </tei:p>
+   <tei:p>
+    ﻿— Jej boly na dvore a moje zavreté píšťaly. Tretí dôkaz.   Svätosväte sú tam.
+   </tei:p>
+   <tei:p>
+    Neskoro večer, keď už u susedov spaly, pani polesná aj so slúžkou   šly na výzvedy. Dievča sa preškriabalo cez plot. Pani podala jej   lampáš. Dlho pozerala slúžka po dvore, medzi drevom, za chlievami,   dvíhala lampáš dohora, či nebudú po stromoch. Dívala sa aj do   drevárne skulinami, šškala, zabúchala na doskách, ale kde nič, tu   nič. Strakavých nebolo, samé biele, červenkasté a čierne. Vrátila sa   ako prišla a zašeptala:
+   </tei:p>
+   <tei:p>
+    — Strakavých niet.
+   </tei:p>
+   <tei:p>
+    — To ich skryla na noc. Tam sú. Iste sú tam. Život by postavila,   ale dôkazov niet... Poďme spať.
+   </tei:p>
+   <tei:p>
+    Konečne kurence boly a budú. Milosťpani Žibrienková sa na tretí   deň uspokojila. Bola by aj celkom zabudla na nehodu, keby jej nebola   skapala celkom novučičká-nová štetka. Len čo ju oprela o múr, — už aj   odišla na vandrovku. Žibrienkovej zasa prišlo na myseľ všetko, čo jej   pokapalo, päť klátov dreva, kotol, hus, kurence . . . Musí vykutať   zlodeja. Musí a čo by bol pod zemou. Ale prišlo veľké pranie a zasa   zabudla na stopovanie. Až sám polesný vzal vec do ruky.
+   </tei:p>
+   <tei:p>
+    Mal narodenia a kúpil od Michala Kontu, richtára z Militíc, tučné,   malé biele prasiatko na pečienku. Chcel ho mať upečené na večeru, na   ktorú zavolal svojich dvoch najdôvernejších priateľov, zverolekára   Tuliaka a zemského pána z Obnecoviec, Ožikoviča.
+   </tei:p>
+   <tei:p>
+    Priatelia sa sľúbili.
+   </tei:p>
+   <tei:p>
+    — Na prasacinu aj z Ameriky prídem, — po vedal Tuliak.
+   </tei:p>
+   <tei:p>
+    — Kto v slove nestojí, je huncút, — hrozil Žibrienka, tešiac sa   vopred dobrej večeri a spoločnosti.
+   </tei:p>
+   <tei:p>
+    Ale, ako už vieme, človek mieni a Pán Boh mení.
+   </tei:p>
+   <tei:p>
+    218
+   </tei:p>
+   <tei:p>
+    ﻿Priatelia prišli. Večera bola hojná. Mladá hus, kapún mliekom   kŕmený, pražené pstruhy... Pezinské sa upíjalo, ako nektár. Žibrienka   ponúkal jedením, štrngal o poháriky. Nálada bola znamenitá.
+   </tei:p>
+   <tei:p>
+    — Nože, nech sa ti páči, — vravel polesný Tuliakovi medzi večerou,   — nechže sa ti páči z tohto kapúna, ale ťa upozorňujem, že máme ešte   prasacinku.
+   </tei:p>
+   <tei:p>
+    Tuliak, pred ktorým jedlo zmizlo, ani čo by horelo a stále mal   prázdny pohárik, bol znamenitej vôle.
+   </tei:p>
+   <tei:p>
+    — Prassaccina! — vykríkol nadšene a po tvári rozlial sa mu blažený   úsmev, — to ti ďakujem, počkám na ňu. Brat môj drahý, za prasacinu si   dám aj oko vyklať.
+   </tei:p>
+   <tei:p>
+    Zdvihol päsť nad hlavu a zaspieval chripľavým hlasom na melódiu   známeho pochodu „S Bogom mati..
+   </tei:p>
+   <tei:p>
+    — Domáca pani sa začervenela a zmiatla.
+   </tei:p>
+   <tei:p>
+    — Prasacina, prasacina
+   </tei:p>
+   <tei:p>
+    — Prasiatko ušlo pred zarezaním, — preriekla ticho, — ukradli ho   ... Nebude ... Ráčte si len z toho kapúna.
+   </tei:p>
+   <tei:p>
+    Žibrienka vyskočil tak prudko, že stolička, na ktorej sedel,   zaletela až ku dverám. Bola by sa prevrhla, ale sa na nich operadlom   zastavila.
+   </tei:p>
+   <tei:p>
+    — Prasa, hovoríš, prasa skapalo? — spýtal sa povýšiac hlas a strmo   hľadiac žene do tvári.
+   </tei:p>
+   <tei:p>
+    — Náhodou vybehlo a viac sme ho nenašli, — odvetila žena   sebezaprene.
+   </tei:p>
+   <tei:p>
+    — To je fatálne, — zamiešal sa Ožikovič.
+   </tei:p>
+   <tei:p>
+    — To tak nenechám, — rozhodol domáci, spamätajúc sa, že má hostí a   že nemôže robiť scény a hrešiť, ako obyčajne. Pritiahol zasa stoličku   a sadol k stolu. Nalial vína do Tuliakovho pohára a ponúkal hostí   jedlom.
+   </tei:p>
+   <tei:p>
+    Tuliak, pichnúc vidličku do stehna na mise, opäť zanôtil tú istú   melódiu, premeniac text;
+   </tei:p>
+   <tei:p>
+    219
+   </tei:p>
+   <tei:p>
+    ﻿— Fuč je prasa, íuč je prasa.
+   </tei:p>
+   <tei:p>
+    Vo večeri sa pokračovalo. Prišla ešte polenta, syr, ovocie, čierna   káva, koňak, ale domáci pán celkom potratil dobrú vôľu. Stal sa   zamysleným, nevrlým. Okolo polnoci sa hostia rozišli.
+   </tei:p>
+   <tei:p>
+    — Teda ty myslíš, že to Darinka, — spýtal sa svojej ženy, keď   odprevadil hostí a vrátil sa do jedálne.
+   </tei:p>
+   <tei:p>
+    — Jeden krk mám, aj ten dám, — povedala žena. —
+   </tei:p>
+   <tei:p>
+    — Dobre.
+   </tei:p>
+   <tei:p>
+    — Co chceš urobiť?
+   </tei:p>
+   <tei:p>
+    — Ešte neviem ... Ale si istá, že Darinka? — Život postavím.
+   </tei:p>
+   <tei:p>
+    — Dobre.
+   </tei:p>
+   <tei:p>
+    Na druhý deň dal vybubnovať, že sa našlo prasa vo dvore pána   Sihoňa, inžiniera, bývajúceho v uličke. Komu skapalo, nech sa hlási u   neho kedykoľvek. Prasa sa mu odovzdá hneď.
+   </tei:p>
+   <tei:p>
+    Žibrienka rozkázal, aby sa v uličke, kde pán inžinier býva, o   minútu dlhšie bubnovalo a o škálu vyššie dávalo na známosť.
+   </tei:p>
+   <tei:p>
+    — Tu sú dva šestáky. Pomasťte si hrdlo, — povedal bubeníkovi a za   vybubnovanie vysolil zlatku, miesto 50 krajciarov.
+   </tei:p>
+   <tei:p>
+    — Z poverenia pána Sihoňa, — dodal, — ktorý ma na to   splnomocnil.
+   </tei:p>
+   <tei:p>
+    — Tóno, choď! — zabručala hlava obce, — a urob podľa rozkazu.
+   </tei:p>
+   <tei:p>
+    Žibrienka myslel, že odvolajúc sa na bubnovanie, proste vojde do   dvora pána inžiniera a vezme si prasa. Ale bubnovanie malo celkom   inakší účinok a pán polesný len púhou náhodou prišiel ku svojmu   prasaťu.
+   </tei:p>
+   <tei:p>
+    220
+   </tei:p>
+   <tei:p>
+    ﻿Práve si chcel ľahnúť po obede na diván a predriemať pol hodinky,   keď náhle otvorila jeho žena dvere a zavola ho, aby sa šiel podívať,   čo sa u susedov robí. Vyšiel nevrlý, že ho turbujú v odpočinku, ale   hneď sa rozveselil. Z ich dvora bolo celkom dobre vidieť cez mrežkový   plot do dvora Sihoňovho a do tých okien tohto domu, čo hľadely k   záhradám. Okná boly pootvárané a všetko bolo počuť.
+   </tei:p>
+   <tei:p>
+    — Ty starý chomút, — kričala Darinka celkom zachrípnutá, — čo sa   ty staráš do mojich kšeftov. . . Dáš mi ty krajciara voľakedy? ... Ja   ťa vybubnujem, psohlavec. Kto ti to kázal?... Ty starý brav. .. Co   teba do môjho prasaťa ... Ja mám čušať? Sedliak akýsi! Lucifer ...   Luterán . .. Ancikrist... Ja pôjdem? ... Ty vyletíš, ako toto . .   .
+   </tei:p>
+   <tei:p>
+    Oknom vyletel čibuk. Spravil kruh a čľupol do mláčky. Zasipel.   Akiste mu ho Darinka z úst vytrhla a tak vyhodila.
+   </tei:p>
+   <tei:p>
+    — Ja vyletím? Ty vyletíš, ako toto.
+   </tei:p>
+   <tei:p>
+    Vyletela turecká čiapka s kvastľou. Zastavila sa v drevárni.
+   </tei:p>
+   <tei:p>
+    Bolo počuť lomoz, šúchanie a búchanie, ako by pokrovec   prášili.
+   </tei:p>
+   <tei:p>
+    O chvíľu vyletel veľký žltý vlniak. Pár ráz sa prevrátil v povetrí   a drgnúc sa o konár jablone, rozkýval ho. Za vlniakom letel klobúk so   pštrosím perom a sadnúc na jabloň, zdal sa medzi halúzkami ako nejaký   exotický vták. Za klobúkom letela sama Darinka. Bledá, s hrúzou v   tvári zjavila sa v obloku na minútu a skočila dolu, zúfale   vykrikujúc:
+   </tei:p>
+   <tei:p>
+    — Oj, ja nešťastná, —h ja nešťastná!
+   </tei:p>
+   <tei:p>
+    Za ňou sosypaly sa sukne, kabátiky, škatuľky, kefy, kabáty, čipky,   punčochy, fľaštičky a vrkoče, napokon sa celý kufor skrochmelil,   odrypnúc kus vakovky z výklenku pod oblokom.
+   </tei:p>
+   <tei:p>
+    221
+   </tei:p>
+   <tei:p>
+    ﻿— Ôh, ja nešťastná, — volala slečna, — kde je to ohreblo, že ťa   zabijem, ty podliak, hnusník, chruňo akýsi!
+   </tei:p>
+   <tei:p>
+    Krivkajúc na nohu, posla k drevárni iste po to ohreblo. Odchýlila   dvere a von vyrútilo sa malé, biele, tučné prasiatko. Veselo   zakrochkalo, vyhodilo zadkom a pustilo sa dvorom cez otvorenú bránu   na ulicu.
+   </tei:p>
+   <tei:p>
+    — To je ono, — zvolal Žibrienka.
+   </tei:p>
+   <tei:p>
+    — Choď, ty pľuhavstvo, — kričala slečna Darinka na utekajúce   prasa.
+   </tei:p>
+   <tei:p>
+    — Budú mať iní prasacinu a nie ty žráč . . Veď som to ja len pre   teba, lagan nevďačný!
+   </tei:p>
+   <tei:p>
+    A zahrozila sa päsťou k oknu.
+   </tei:p>
+   <tei:p>
+    Potom bolo počuť, ako fiká, hľadajúc ohreblo.
+   </tei:p>
+   <tei:p>
+    222
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

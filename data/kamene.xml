@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943704" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Kamene : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1431
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Kamene
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KAMENE.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Keď Mikuláš Kolčan počal budovať svoju kariéru, nevedel hneď, na   čo všetky svoje schopnosti sústrediť. Chlapci na gymnáziu sbierali   známky, sbieral i on. Prišly na rad chrobáky a motýle, i on sa o to   zaujímal. Potom starý Junker vzbudil záujem triedy o rastliny a   kvety, odtláčali ich do pijavého papiera, a Mikuláš tiež. Ale jeho   nepokojná povaha nezastala pri tom, mal chrobáky rád, i kvety a   rastliny, ale čo len to, toho si môže hocikto nasbierať. On však   chcel mať niečo, čo nemajú druhí. Zašiel si teda do hôr a sbieral   kamene, také kvarcové kryštály, fialové ametysty, rudy i zeminy.   Opatril si galenit i pyrit a hodiny vedel sa prenadívať na lesklé   kryštály. Pomaly mal ich vo svojom ťažkom limbovom kufre celú kopu,   od soľných kociek až po azbest.
+   </tei:p>
+   <tei:p>
+    — Ako to len odvlečieš na stanicu, keď pôjdeš domov na prázdniny ?   — zavadila do neho domáca.
+   </tei:p>
+   <tei:p>
+    — Odvlečiem, ako odvlečiem, — odvrkol Mikuláš a pohládzal si   kamene a lesklé kryštály, ako doma kedysi zajačiky. — Všetci ľudia   majú niečo radi, a ja mám kamene.
+   </tei:p>
+   <tei:p>
+    Keď zasvitly prázdniny a Mikuláš sa vrátil k rodičom, divil sa   otec i mať, aký je len ťažký ten limbový kufor. — Co to máš tam,   chlapče, že je to ťažké ako kapustný sud?
+   </tei:p>
+   <tei:p>
+    — No, mám tam sbierku, pozrite!
+   </tei:p>
+   <tei:p>
+    — Joj, Pane Bože, na čo ti len bude toľko skália a štrku? — užasli   domáci.
+   </tei:p>
+   <tei:p>
+    — To sú kamene ako v košickom múzeu, — vysvetľoval študent   povedome. — Len škoda, keď sa mi nepodarilo ulomiť z toho pekného   pruhovaného achátu! Boh sme v Košiciach na výstave a ja to tam na   dvore vidím, klátik ako odpílený z pňa a zakopaný proti vchodu do   piesku. Ej, mať k pyritu, galenitu, ametystovým kryštálom a rudám   ešte aj taký achát, to by mi už musel kdekto zazávidieť. Obzrel som   sa, či ma nikto nevidí, našiel som poriadnu skalu, a prásk o achátový   klát.
+   </tei:p>
+   <tei:p>
+    — Joj, a ťa nechytili? — zbledla mať.
+   </tei:p>
+   <tei:p>
+    — To nie, ale skala sa rozprskla na kúsky a klátik sa ani nepohol.   Škoda!
+   </tei:p>
+   <tei:p>
+    — Chlapče, chlapče, čo len z teba bude, — pozreli na seba otec i   mať.
+   </tei:p>
+   <tei:p>
+    — Už len bude, čo bude, — odpovedal Mikuláš a ukladal svoje   skvosty na povalu, kde pod pôltom slaniny spával i on.
+   </tei:p>
+   <tei:p>
+    Roky sa míňaly a zo žiaka stal sa dospelý študent, zo študenta zas   človek, ktorý si vyzískaľ nárok na slušné spoločenské postavenie. Aj   si ho opatril. Mal peknú rodinu, slušný byt a mnoho-mnoho kníh i   časopisov. Stával sa človekom, známym svojou ambíciou v práci.   Priateľov nemal, iba obdivovateľov alebo závistníkov. A nemali mu čo   závidieť, platu mal, práve vyžiť, a okrem toho veľkú nehodu v živote.   Zastaral sa do všeličoho a obyčajne, ak pršalo, vietor mu uchytil   dáždnik. Ak išiel dakde za nejakým cieľom, najčastejšie verejným, na   smiech čudákov, potkol sa neraz.
+   </tei:p>
+   <tei:p>
+    — Tak mu treba, — uškŕňali sa kolegovia, —
+   </tei:p>
+   <tei:p>
+    prečo chce byť inakší ako my, čo chce byť o hlavu vyšší, keď o to   nikto nestojí! Mikuláš zbadal len teraz, akými malichernými záujmami   je svet pospájaný. Aká záhada je na tých ľudských tvárach a čo na dne   ľudských duší.
+   </tei:p>
+   <tei:p>
+    — Eh, nič to, — sveril sa raz po krutých bojoch starému novinárovi   Andrušovi, — život mne dá za pravdu, napokon verejnosť   presvedčím!
+   </tei:p>
+   <tei:p>
+    — Mnoho zdaru, — usmial sa priateľ dobromyseľne. — Len v živote je   mnoho nepredvídaného, napríklad — presvedčiť! Komu sa podarí, komu   nie. I Pán Kristus, ako viete, musel prísť v plnosti času, a jednako   ho ukrižovali. Myslíte, každý človek je človek?? Presviedčať, to nie   je matematika, jedného získate, sto a tisíce získa ich bezprostredný   záujem. Mne ide o pravdu, ale či nájsť spôsob donútiť ľudí, prijať   ju! A to závisí od toho, kto ju hlása, najmenej.
+   </tei:p>
+   <tei:p>
+    Z tohto rozhovoru nadobudol Mikuláš všeličo. Prestal predne   bojovať s vetrom, svoj demokratický náhľad o ľuďoch, že všetci nosia   hlavy na väzoch, radikálne zmenil. I z toho, čo sa udalo v   každodennom živote, videl, ako málo je ľudí a mnoho-mnoho živočíchov,   vegetujúcich inštinktívne. Počítal si na prstoch, koľkí asi   smrteľníci rozmýšľajú samostatne v jednom národe, a prišiel na   smiešny výsledok. Začal chápať, aké to vetry previevajú   spoločenstvom. Predstavilo sa mu pred oči tisíce veterných mlynov,   točiacich sa, vŕzgajúcich podľa prúdov vetra napravo, či naľavo. Ci   nie je don Quijote, ktorý sa pustí s nimi v boj, a či nemusí obísť   žalostne ako on!? Niet malých ľudí a niet veľkých, lebo všetko   vynášajú na povrch akési záhadné vlny, alebo vrhajú do hĺbky. Ľudia   sa rodia ako tvory a stávajú sa ľuďmi, ak prídu na povedomie svojej   ľudskej dôstojnosti... na to prišiel Mikuláš a búrky života stávaly   sa mu znesiteľnejšími. Pracoval ako prv, podľa svojho najlepšieho   presvedčenia, videl, čo je na zemi, i čo nad oblakmi, ale nechcel už   presvedčiť všetkých. Utiahol sa so svojimi najbližšími do lesov a do   hôr, nechcel už zavadzať nikomu.
+   </tei:p>
+   <tei:p>
+    — Beh sveta je malicherný a bláznivý — čo na tom meniť, vulgus   vult decipi...
+   </tei:p>
+   <tei:p>
+    Ale i v tomto očakávaní sa sklamal. Ľudia, navyknutí na jeho smelú   protimienku, hľadali ju a vyvolávali, čakali ako ozvenu v horách.   Meno Mikuláša Kolčana potulovalo sa stále po novinách. Ľudia sa s ním   preli, vyzdvihovali i podvracali jeho náhľady, hoc sa im i nikde   neohlásil. Kolčan, zapustnutý už na odeve i brade, s úžasom videl, že   sa nevystúpil z cesty nikomu, obdiv trvá, i závisť a zlosť, tieto dva   večne hrmotiace mlynské kamene. Zpomedzi nich sype sa pre neho   horkastá múka.
+   </tei:p>
+   <tei:p>
+    — Co je to s vami, človeče? — oslovil ho raz starý novinár pri   istej príležitosti, ktorú si našiel sám. — Ste ako tôňa a zdáte sa   starší ako ja!
+   </tei:p>
+   <tei:p>
+    — Hja, paripy života, priateľu, niekoho vynesú, niekto dostane sa   im pod kopytá.
+   </tei:p>
+   <tei:p>
+    — Hovoril som vám, ale nedať sa, nedať, — kývne hosť šedivou   hlavou. — Nikdy to nebolo horšie a nikdy lepšie na svete nebude!   Patrí to k životu. Za vami je už kus poctivej práce, máte sa o čo   oprieť, máte na čo poukázať, prečo ste žili!! A máte priateľov, ktorí   vás spomínajú,lebo ste im dali niečo zo svojej duše. To musí stačiť.   Stačilo iným, postačí i vám! A ak dovolíte, čím sa zapodievate   teraz?
+   </tei:p>
+   <tei:p>
+    — Ledačím! — sklonil oči Mikuláš, ako by sa
+   </tei:p>
+   <tei:p>
+    bál priznať. — Krátim si čas, ako viem. V krútňave života prišiel   som na to, na čo som za svojej pohnutej púte myslel tak málo. — Smiem   vedieť, čo to je? — naklonil sa novinár zvedavo.
+   </tei:p>
+   <tei:p>
+    — Prečo nie, — usmial sa Kolčan už i pri pomyšlienke na to. — Je   to rodina, pane, rodina, žena, syn i dcéry. Človeka musí zbičovať   život a pozná, ako máličko nájsť v tom šírom svete. I vtedy, ked má   úspechy, i ked sa stane slávnym, bohatým a mocným. Svet má záujmy. Za   jeho darmi a nadšenými slovami tušiť vždy nastrčené kostnaté ruky,   čakajúce na svoj obulus. V rodine, ak je dobre vychovaná, ostáva   srdce srdcom, i ked už niet, kto by jej dal ten obulus, rozumiete mi,   priateľu??
+   </tei:p>
+   <tei:p>
+    — Áno, áno, — prisvedčí tento, — ale odpusťte, nejde mi do hlavy,   že by vám po toľkej tvrdej práci mohlo toto stačiť. Iste sa aj iným   zamestnávate.
+   </tei:p>
+   <tei:p>
+    — Ak vás to zaujíma, poviem vám to, — vymkne sa Kolčan   dôvernejšie. — Za detstva mal som náruživosť, vrátil som sa k nej.   Zaujímal som sa dlhé roky o ľudí a ich boje, pracoval som za ich   chlieb, budúcnosť i šťastie. Zazdalo sa mi, natískam sa im zbytočne,   oni majú rozumu dosť, i vôle nadostač. Preto som odišiel. Teraz   sbieram kamene. Nehlaďte tak udiveno, kamene, pán môj, kamene, naše   krásne hory majú ich dosť a ony nie sú mŕtve, žijú, pán môj, žijú.   Ráčte, prosím, bližšie do mojej pracovne. — A uviedol hosťa k   obsažným skleným skriniam. — Pozrite, to je môj svet, tie ametysty a   opále, galenit, pyrit, rudy železná, strieborná i zlatá až po biely   azbest. To sú tie nerasty, ony žijú a rastú v skalinách a pod kôrou   zeme.
+   </tei:p>
+   <tei:p>
+    — Pekné, pekné — prikyvoval priateľ, — ale odpusťte, kameň je   kameň, a človek je človek. Nevrátite sa k ľudom?
+   </tei:p>
+   <tei:p>
+    — Nie, — stisol plecami. — Prečo? Ľudia by dnes už boli pozornejší   k vám. Škoda by bolo zakopať vaše sily. Čaká vás ešte pekná   budúcnosť. A tu čo?
+   </tei:p>
+   <tei:p>
+    — Pozrite, priateľu, — dotkne sa dôverne prstami jeho ťažkej ruky,   — tu mám to najdrahšie, — pokoj! Po rušnej púti človek zatúži po ňom   živelne. Tie kryštály a rudy, konglomeráty a zeminy mi ho nenarušia,   hovoria ku mne vo dne i v noci, ked by ľudia stratili reč; nehovoria   o pomste a skaze. Svedčia o večných zákonoch života, ktoré sú   zázračné a večné, a len práve ľudia ich nevedia vystihnúť a   rešpektovať!!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

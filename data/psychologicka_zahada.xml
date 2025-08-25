@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944629" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Psychologická záhada : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1812
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Psychologická záhada
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PSYCHOLOGICKÁ ZÁHADA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Musel som ísť na železničnú stanicu vozmo aspoň dve hodiny. Bola   treskúca zima a fujavica. Vietor hvižďal a kde zamietol, kde zavial   cestu. Okolo nás pod chvíľou dvíhala sa hmla snehu a pichala nám   tváre, ako ihličkami. Nablízku pri ceste trčaly iba telegrafické   stĺpy, stromy, oblepené snehom, stohy slamy a kôpky nerozkydaného   hnoja. Kolesá škripely, spiežovce tlmeno cengaly a drôty nad našimi   hlavami zuňaly. Kočiš prisadol, opraty, bič odložil, ruky s veľkými   rukavicami bez prstov vopchal do vrecák kabáta, koberec vytiahol si   až ku brade a len niekedy zavolal na kone. Shrbený predo mnou,   nehybne sedel. Kedy-tedy zakašľal, hlasne zasmrkal a odpľul si.
+   </tei:p>
+   <tei:p>
+    Pri drobnom trape vyťahaných, chudých koníkov šli sme pomaly. Len   čo sme došli na stanicu, došiel aj vlak. Nemal som času nechať na   vozíku nepotrebné veci. Vystúpil som taký, aký som bol. Odetý v dlhej   bunde s vyhrnutým golierom nad baranicu, ktorú som si stiahol až po   plecia, aby mi uši neobmrzly. Dlhočizný červený šál mi ešte žena bola   okrútila okolo krku aspoň na dvadsatoro, takže som hlavou ani hýbať   nemohol. Sál bol spustený na žalúdok a brucho, aby mi ani tieto   čiastky tela neprechladly. Na nohách som mal vysoké kapce, dobre vyše   kolien, s dvanástimi prackami na jednej strane, a všetky pracky   držaly. Obuté som ich mal na čižmách a ešte aj slamou boly napchaté,   lebo sla-
+   </tei:p>
+   <tei:p>
+    98
+   </tei:p>
+   <tei:p>
+    ﻿ma drží teplo a hlavnou vecou je, aby nohy boly v teple.
+   </tei:p>
+   <tei:p>
+    Horko-ťažko vystúpil som do vozňa. Kožené, zajacom futrované   nohavice som stiahol, čapicu s veľkým úsilím naddvihol nad oči, aby   sa rozhľadel. Fúzy s cencúľmi ľadu roztrel a počal sa bokom   pohybovať, hľadajúc si miesto v niektorom oddiele. Vlak už uháňal a   raz ma ta, raz ta posotil. Oddiely holý preplnené. Skoro všetky s   pospúšťanými záclonami. Na samom konci vozňa našiel som si miesto.   Spal v ňom iba jeden pán. Rozvalený bol na celom sedadle, obrátený   tvárou k povale. Tienidlo lampy bolo spustené. V pološere videl som   len trčiacu dlhú, čiernu bradu, žltú plyšovú vestu s hrubou zlatou   retiazkou a veľkú čiernu ruku s prsteňmi, položenú na žalúdku. Okolo   jedného prsta mal obkrútenú retiazku. Spal. Aspoň tak sa zdalo podľa   rovnomerného dvíhania a klesania pŕs.
+   </tei:p>
+   <tei:p>
+    Akosi som sa vpratal do oddiela a zdvihol tienidlo lampy. Keď som   si počal bundu sobliekať a sťahovať pravý rukáv, ktorý nijako nechcel   so zimníka, ako by bol k nemu primrzol, zarazil ma nepríjemný zápach,   rozviaty šosmi bundy. Zápach mi bol známy. Voľakedy som už mal   šťastie s ním. Ale nemohol som si uvedomiť, aký je to zápach. Taký   nepríjemný bol, že som si musel prstami zapchať nos.
+   </tei:p>
+   <tei:p>
+    Až keď som složil bundu a počal si šál odkráčať, pripevniac jeden   jeho koniec o kľučku dverí a točiac sa okolo vlastnej osi, zazrel som   v sieti topánky aj s kaločňami na ne natiahnutými.
+   </tei:p>
+   <tei:p>
+    Pozrel som nižšie a videl, že je neznámy pán vyzutý. Ležal iba v   čiernych vlnených pančuchách. Naklonil som sa nad ne, poňuchal a   vysvetlilo sa mi všetko.
+   </tei:p>
+   <tei:p>
+    Pánovi smrdely nohy
+   </tei:p>
+   <tei:p>
+    99
+   </tei:p>
+   <tei:p>
+    ﻿Myslel som si, že si odkrútim šál, poklepem ho úctivo po ramene a   zdvorilé požiadam, aby sa obul. Keď som si odkrútil šál, prišlo mi na   um, že si najprv zimník vyzlečiem, kapce zobujem a len potom ho o to   požiadam. Keď som si zobul aj kapce, prišlo mi na um, že mi treba   ešte výdavky poznačiť do notesa. Kočišovi 40 kŕ. Cesta 5 zlatých.   Ináče by mohol zabudnúť. Až keď to bude, poprosím ho s   odpustením.
+   </tei:p>
+   <tei:p>
+    Práce svoje konal som jednou rukou, lebo druhou som si pridržiaval   nos.
+   </tei:p>
+   <tei:p>
+    Ledva som vytiahol notes a zaznačil do neho výdavok, pričom som   bol nútený pustiť nos a upotrebiť obidve ruky, neznámy pán skočil,   natiahol sa k lampe a stiahol tienidlo. Hneď žatým si. ľahol a   obrátil sa mi chrbtom.
+   </tei:p>
+   <tei:p>
+    To ma prekvapilo. Po prekvapení urazilo. Po urazení vzbudilo vo   mne odpor.
+   </tei:p>
+   <tei:p>
+    — Veď vidí inteligentného človeka, — myslel som sl, — aký je to   spôsob? . . . Ale veď je to komisný spôsob! Nevšímavosť. Urážka. Ako   by tu ani nebol... A veď som tu. I cudziu bundu mohol vidieť, kapce,   šál. . . Pravdaže ma videl, veď som nie z hmly ... Ja ti dám!
+   </tei:p>
+   <tei:p>
+    Flegmaticky zdvihol som tienidlo lampy a vytiahol novinky, že   budem čítať.
+   </tei:p>
+   <tei:p>
+    Neprečítal som ani tri riadky, keď neznámy pán zasa skočil,   natiahol sa k lampe a zasa stiahol tienidlo.
+   </tei:p>
+   <tei:p>
+    — Ja chcem spať, — prehovoril basom a zagánil na mňa.
+   </tei:p>
+   <tei:p>
+    — A ja čítať, — odvrkol som mu a odhrnul tienidlo.
+   </tei:p>
+   <tei:p>
+    — Ja chcem spať, — opätoval povýšeným hlasom a stiahol   záclonu.
+   </tei:p>
+   <tei:p>
+    — A ja čítať, — duplikoval som tiež hlasnejšie a vytiahol som   tienidlo.
+   </tei:p>
+   <tei:p>
+    100
+   </tei:p>
+   <tei:p>
+    ﻿Obzrel som si ho od hlavy do päty. Bol vysoký a mohutný. Čiernej,   suchej, prísnej tvári s hrubými žilami na sluchách a na prostriedku   čela. Na samom čele mal mnoho dlhých, tenkých, ako cverna, vráskov,   ktoré sa mu nad obočím zaokrúhľovaný. Čierne fúzy mu visely dolu s   čiernou bradou, obstrihané akosi do štvorca. Na vrchu hlavy mal malú   hodvábnu čiapočku, na sebe dlhý, čierny kabát a pásikované, vyhladené   nohavice. Prezradzoval cestujúceho Žida.
+   </tei:p>
+   <tei:p>
+    — Ale ja spať chcem, — zareval odrazu a stiahol záclonku.
+   </tei:p>
+   <tei:p>
+    — A jä čítať, — zakričal som aj ja a vytiahol ju.
+   </tei:p>
+   <tei:p>
+    — Aká je to impertinencia? — kričal a strčí mi bradu pod môj nos.   Málo chybelo, že som mu ju nepotiahol, ale som sa zdržal. Bol omnoho   väčší a silnejší ako ja. Keby nebol tienidlo stiahol, možno, žeby bol   spor aj tak nechal. Ale on ho stiahol. Preto som sa rozzúril a   podniesol svoj nos ku jeho, vyhrnúc záclonu.
+   </tei:p>
+   <tei:p>
+    — To sa vás ja môžem opýtať, vy surovec.
+   </tei:p>
+   <tei:p>
+    Neodtiahol tvári, ale mi prskol do očú;
+   </tei:p>
+   <tei:p>
+    — Vy ste sedliak!
+   </tei:p>
+   <tei:p>
+    — Vy ste!
+   </tei:p>
+   <tei:p>
+    — Grobian!
+   </tei:p>
+   <tei:p>
+    — Smrad!
+   </tei:p>
+   <tei:p>
+    — Čítajte po tme!
+   </tei:p>
+   <tei:p>
+    — Spite pri svetle!
+   </tei:p>
+   <tei:p>
+    — Nebude svietiť!
+   </tei:p>
+   <tei:p>
+    — Musí svietiť!
+   </tei:p>
+   <tei:p>
+    — A just nebude!
+   </tei:p>
+   <tei:p>
+    — Just bude!
+   </tei:p>
+   <tei:p>
+    Obidvaja sme boli dávno vstali zo svojich sedadiel. Možno, že by   sme sa boli dávno aj pochytili, ale naša pozornosť bola obrátená len   na tienidlo.
+   </tei:p>
+   <tei:p>
+    101
+   </tei:p>
+   <tei:p>
+    ﻿On ho sťahoval a ja dvíhal. Keby sme sa boli chytili za pasy, bola   by lampa svietila, alebo nie. Toto stále svetlo, alebo pološero   nechcel z nás ani jeden dvoliť. Chúďa tienidlo raz bolo hore, raz   dolu, raz bolo vo vozni pološero, raz svetlo. Raz on povedal, že   nebudem čítať, raz ja jemu, že nebude spať. Nádavky sypaly sa aj s   jednej, aj s druhej strany. Navzájom videli sme, že ani jeden z nás   neodstúpi. Ja nebudem čítať, ale ani on nebude spať a lampa musí   svietiť, — myslel som si ja. Ja nebudem spať, ale ani on nebude čítať   a vo vozni musí byť pološero, — myslel si akiste on. Obidvoje odrazu   nemôže byť. Keď nádavky neosožily, chcel ma kapacitovať, že je väčším   pánom, ako ja.
+   </tei:p>
+   <tei:p>
+    — A viete kto som ja? — volal sťahujúc záclonku.
+   </tei:p>
+   <tei:p>
+    — Žid smradľavý, — odpovedal som mu, vyťahujúc záclonku.
+   </tei:p>
+   <tei:p>
+    — Hlavný agent firmy Morgenstema z Viedne.
+   </tei:p>
+   <tei:p>
+    — Fuj, smrdí ako pes, — ripostoval som ja, — A vy čo ste? Vy   nula.
+   </tei:p>
+   <tei:p>
+    — Tisíc jutár poľa je vám nula a just toľko hôr! Vy pšócher!
+   </tei:p>
+   <tei:p>
+    —- Drevenú figu máte!
+   </tei:p>
+   <tei:p>
+    — Tu je, — udrel som sa po vrecku, na znak toho, že mám peňazí,   ako pliev.
+   </tei:p>
+   <tei:p>
+    — Žobrák!
+   </tei:p>
+   <tei:p>
+    — Co ste to povedali? — Že ste žobrák.
+   </tei:p>
+   <tei:p>
+    — Veď vám môj strýc, kuriálny sudca, ukáže, kto je žobrák, —   pohrozil som sa.
+   </tei:p>
+   <tei:p>
+    — Pískam na vášho strýca. — Zavrú vás na rok, počkajte!
+   </tei:p>
+   <tei:p>
+    — Vás zavrú, len poviem grófovi Strasserovi. — Taký gróf ako   vy.
+   </tei:p>
+   <tei:p>
+    102
+   </tei:p>
+   <tei:p>
+    ﻿Ani majetok, ani hodnosť, ani vplyvné rodiny nepomohly. V kupé   bolo raz pološero, raz vidno. Tienidlo skákalo. Nedali sme sa.   Jednako som ja mal prednosť. Bol som obutý v čižmách a on stál na   remeňom koberci v punčochách. Ale to trvalo len za krátky čas.   Zbadal, že sa môže prestydnúť. Vyskočil teda na sedadlo, prekročil na   druhé a takto rozkročený sťahoval tienidlo lampy. „Fór som   stratil a chcel som ho znova získať. Okrem toho aj smrad bol väčší,   lebo jeho nohy holý pod mojím nosom. Konečne aj zunovalo sa mi už   jednotvárne vyťahovanie tienidla. Chcel som spornú vec komplikovať a   nad chlapom nejakým činom zvíťaziť.
+   </tei:p>
+   <tei:p>
+    Nechal som tienidlo na chvíľku tak.
+   </tei:p>
+   <tei:p>
+    — Ráčte sa obuť — povedal som vážne a chladne, rozkazujúcim   tónom.
+   </tei:p>
+   <tei:p>
+    — Rozkazujte si vašim fafrnkom, — znela jeho odpoveď.
+   </tei:p>
+   <tei:p>
+    — Tak otvorím okno.
+   </tei:p>
+   <tei:p>
+    — Neotvoríte ho.
+   </tei:p>
+   <tei:p>
+    — Teda obujte.
+   </tei:p>
+   <tei:p>
+    — Neobujem.
+   </tei:p>
+   <tei:p>
+    Okno som otvoril.
+   </tei:p>
+   <tei:p>
+    Agent soskočil so sedadla a zavrel okno. Medzitým som ja odhrnul   tienidlo na lampe. Priskočil k lampe a stiahol záclonku. Ja som   otvoril okno. On ho zavrel. Lenže ja som za ten čas zdvihol   tienidlo.
+   </tei:p>
+   <tei:p>
+    Tak to trvalo aspoň pol hodiny, až sa počaly zasa nádavky.   Zabávalo ma to už a prestal som sa hnevať. Ale agent behal v   punčochách ako divý. Prskal, zlorečil, skákal, zavieral okno a   spúšťal záclonku, vyhrážajúc sa. Otvoril som ešte aj dvere. Mali sme   trojnásobnú robotu. K tomu sa nahrnulo zimy a prudké závany fujavice   vniesly za chvíľu do oddielu hromadu snehu. Remenný koberec bol mokrý   a plyš sedadiel zavlhol.
+   </tei:p>
+   <tei:p>
+    103
+   </tei:p>
+   <tei:p>
+    ﻿— Uvidím, či sa neobuješ, — myslel som si, — kým sa budeš obúvať,   i lampa bude svietiť, i okno bude otvorené a i smradu ubudne. Nechal   som tienidlo a okno tak.
+   </tei:p>
+   <tei:p>
+    — Obúvajte sa, — zakričal som. — Neobujem.
+   </tei:p>
+   <tei:p>
+    — Teda sa neobujete? — Neobujem.
+   </tei:p>
+   <tei:p>
+    — Neobujete? — Nie.
+   </tei:p>
+   <tei:p>
+    — Nedovolíte ani okno otvoriť? — Nie.
+   </tei:p>
+   <tei:p>
+    — Ani lampa aby svietila? — Nedovolím.
+   </tei:p>
+   <tei:p>
+    — Chcete, aby som aj naďalej voňal váš smrad? — Chcem.
+   </tei:p>
+   <tei:p>
+    — A vy ste agent Morgenšternov z Viedne? — Som.
+   </tei:p>
+   <tei:p>
+    — Teda vy cestujete v plátne a bielizni? — V tom.
+   </tei:p>
+   <tei:p>
+    — Och, ja blázon, — zvolal som, — a ja tej firme, čo má takéhoto   ägenta, dám utŕžiť ročne aj 1000 zlatých ... To prestáva všetko . . .   Hneď zajtra odpíšem . . . Takýto agent. . . Smrdí na sto míľ . .. Vo   vozni sa rozhadzuje . .. Cestovateľom nedá pokoja. Nemožno pri ňom   ani dýchať, ani pokojne pocestovať ... A ešte i táto manžeta je možno   od neho . ..
+   </tei:p>
+   <tei:p>
+    Vravel som ako pre seba a odpäl som manžetu nazrúc do nej.
+   </tei:p>
+   <tei:p>
+    — Akurát, Morgenstern, Wien
+   </tei:p>
+   <tei:p>
+    Po tomto quasi monologu ako by som sa bol mátal, odrazu zahúkal   som na agenta:
+   </tei:p>
+   <tei:p>
+    — Obúvajte sa, lebo ak nepotrebujete topánok, vyhodím vám ich   oknom.
+   </tei:p>
+   <tei:p>
+    104
+   </tei:p>
+   <tei:p>
+    ﻿Tu sa počína psychologická záhada.
+   </tei:p>
+   <tei:p>
+    Ako na počiatku, keď mi neznámy pán stiahol tienidlo na lampe a ma   to prekvapilo, tak prekvapilo ma teraz to, že sa ten istý pán naozaj   obúval. Jednu topánku mal už obutú. Musel si ju tedy obuť už predtým,   ako som sa pohrozil, že mu topánky vyhodím. Neurobil to z laku. Díval   som sa ako skamenelý. Agent, len čo sa obul, sám vytiahol tienidlo   lampy a otvoril okno i dvere. Strekol čímsi do povetria, čo voňalo   ako jedľa. Predošlý, odporný zápach sa stratil. Potom natiahol sa za   kufríkom v sieti. Otvoril ho. Vyňal akúsi knižku a s úctivým, sladkým   hlasom prehovoril, usmievajúc sa na mňa;
+   </tei:p>
+   <tei:p>
+    — Mám plátna najlepšej akosti. Ráčte si obzrieť. Lacnejšie ako iní   . . .
+   </tei:p>
+   <tei:p>
+    A podal mi knižku
+   </tei:p>
+   <tei:p>
+    105
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943420" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Stupne k životu : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1026
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Stupne k životu
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     STUPNE K ŽIVOTU.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Známy spisovateľ Ondrej Polonec onemocnel. Verejnosť tomu nechcela   veriť. Ľudia vídali ho prednášať, len nedávno, silného a dobrej   farby. Mysleli o ňom, že požije i sto rokov. Patril už životu ako   hodiny domácnosti. Kým idú, pokladá sa to za prirodzené, nik si to   nevšimne, ak zastanú, prekvapí to kdekoho, a Polonec uľahol naozaj.   Ubila ho práca. Jeho pevný organizmus odolal na čas úderom. Elán   tvorivej práce dodával duchu krídel, i keď už motor skoro nepracoval.   Tvorivosť ešte unášala podľa zákona zotrvačnosti. V tlači zjavovalo   sa často známe meno i jeho práce, pravda, ako keď už vyhasína. Nikto   nevedel pochopiť, čo je s ním. Ešte menej, prečo uverejňuje i ďalej a   radšej nehľadá, čo potrebuje — pokoj a zdravie. Jeho najbližší s   obavou hľadeli naňho. Ich starostlivému oku neušlo, ako mu sily ubúda   so dňa na deň, tvár mu bledne a oči sa kamsi prepádajú.
+   </tei:p>
+   <tei:p>
+    — Co sa trápiš, Ondrej ? — dovrávala mu žena Mária, utierajúc si   zvlhnutý zrak. — Potrebuješ ticho, pokoj, a vyzdravieš.
+   </tei:p>
+   <tei:p>
+    — Neviem, — pokrúti muž hlavou, — mesiac za mesiacom sa míňa,   práce moje ležia, a ja nenadobúdam sily. Moji priatelia a známi   veselo tvoria, ďalej bojujú so životom, a ja zaostávam. Ak usnem,   zobudím sa zmalátnený. Pomaly ma
+   </tei:p>
+   <tei:p>
+    necháva všetko, a ešte by som vedel vytvoriť mnoho!
+   </tei:p>
+   <tei:p>
+    — Uspokoj sa, otecko, — tešia ho odrastené deti. — Keď vyzdravieš,   vytvoríš. Dobrí India píšu o tvojom nešťastí a želajú ti zotaviť sa   znova. Treba si ešte i nám, treba aj iným. Knihy tvoje míňajú sa   dobre, aj tí, ktorým si zavadzal, počínajú ťa rozumieť.
+   </tei:p>
+   <tei:p>
+    — Sú, ktorí mi nikdy neporozumejú. — Never, otecko, — prikloní sa   k nemocnému
+   </tei:p>
+   <tei:p>
+    urastený syn, — všade sa zaujímajú o teba. Ľudia sú nie takí zlí,   ako si ich predstavuješ. Dobrá práca nájde dobré slovo. Ty si sa   vyvalil za chmúrnych búrok života. Ostal ti obraz tmavý v duši. Oveľa   lepšie by ti bolo, keby si ho osvietil.
+   </tei:p>
+   <tei:p>
+    — Len čím, syn môj, čím?
+   </tei:p>
+   <tei:p>
+    — Predbežne musíš dbať na lekárov, zachovať ich rady.
+   </tei:p>
+   <tei:p>
+    — Pre mňa je len jedna rada, čo osvieti tmavý obraz a dodá sily k   životu.
+   </tei:p>
+   <tei:p>
+    — A to je?
+   </tei:p>
+   <tei:p>
+    — Práca, syn môj, — práca, akákoľvek maličká práca. Nevieš si ani   predstaviť, ako žije človek prácou a čo má v nej, keď na ňu navykol.   — Moji rodičia, vieš, žili! v chudobe a v práci. Dnes to možno chápu   ľudia inak. Tvoj starý otec robotil a mali sme všetkého pri   skromnosti. Tvoja stará mať vychovala nás prácou svojich rúk a   dokázali sme sa všetci v živote. Mám to už v krvi a je to tak dobre.   Práca zmorí, ale práca i postaví na nohy. Preto ja potrebujem lieku z   práce — ožiť pre prácu, pre svoj cieľ, pre svojich priateľov, pre   svoj rod, i pre vás, syn môj, pre vás.
+   </tei:p>
+   <tei:p>
+    A Ondrej Polonec prenášal svoju neústupnú nemoc trpezlivé ďalej.   Cítil — i tá obrodzuje a očisťuje ducha. Boje po verejnosti, ktoré mu   predtým vyplňaly celý svet, predišly mu naraz nielen zbytočnými, ale   i veľmi, veľmi malichernými. Na svojich konkurentov a zaznávatelbv,   ktorých nechybuje ani v jednom živote, nevedel sa hnevať. V ubolenej   duši, pod váhou nemoci, tratilo sa pomaly to drobné — ničomné.   Vynorovalo sa to najhlavnejšie, čo je pre všetkých trpiteľov a pre   všetkých ľudí. Divil sa, ako je toho málo a ako by to sblížilo   všetkých, zahojilo porozrážané srdcia a umožnilo radostne žiť.
+   </tei:p>
+   <tei:p>
+    Míňal sa deň za dňom, a nemoci len neubúdalo. Nejedna nádej   rozpadla sa v popol, a ked duch i zažiaril na chvíľku, o chvíľu   uvädal ako pouschnutá kytica.
+   </tei:p>
+   <tei:p>
+    — Žena, — podaj mi pero a papier, — zastone nemocný.
+   </tei:p>
+   <tei:p>
+    — Lekár ti zakázal pracovať. A i tak už nevidíš, — znela   odpoveď.
+   </tei:p>
+   <tei:p>
+    — Ale vidíš ty. Ja napíšem i po pamäti a poskladáš to nejak.
+   </tei:p>
+   <tei:p>
+    — Nemáš sa na čo oprieť.
+   </tei:p>
+   <tei:p>
+    — Načiaram i na kolene.
+   </tei:p>
+   <tei:p>
+    A Ondrej Polonec čiaral po papieri detské haky-baky, lebo musel.   Svojou dušou blažene sa usmieval. Ked bol hotový, Mária hieroglyfy   prepísala, zabalila do obálky a poslala časopisu. — Co sa len tak   ustávaš zbytočne? Vydal si už veršov celé knihy, o jeden viac alebo   menej, čo na tom.
+   </tei:p>
+   <tei:p>
+    — Ty nevieš, Mária.
+   </tei:p>
+   <tei:p>
+    O niekoľko dní sadla k chorému žena, s čerstvými novinami v   ruke.
+   </tei:p>
+   <tei:p>
+    — Ten verš už vyšiel, — krotko prevravela a hladila chorého   citnými očima.
+   </tei:p>
+   <tei:p>
+    — Ozaj? — prebral sa hneď čerstvejšie Polonec. Zrak mu nabral sily   a pokúsil sa sadnúť si. — Prečítaj mi ho!
+   </tei:p>
+   <tei:p>
+    A Mária mu ho číta, číta, taký pošmúrny, taký bez nádeje.   Mihalnice sa mu privrú a on naslúcha jej hlasu ako svojej vlastnej   duši. Čosi sa v jeho vnútri deje, čohosi sa chytil, ako mrúci živej   skutočnosti. Ako tonúci brvna. Mária skončila.
+   </tei:p>
+   <tei:p>
+    — Vidíš, ešte žijem — lebo viem pracovať, viem rozdávať svoju   dušu.
+   </tei:p>
+   <tei:p>
+    — Hoc v malom, ale viem, — prehovoril a usnul. Odexpedovali takto   niekoľko čísel. Polonec sa stretal so svojím menom v tlači a z jeho   ťažkonemocného zraku mizla tieseň ako ranná osuheľ.
+   </tei:p>
+   <tei:p>
+    — Hľa, — chválil lekár, — len sa šetriť, priateľ môj, šetriť. A   nepísať, — dodal významne s úsmevom. — Až vyzdravieš, nahradíš si to.   — Ťažko, — pokrútil chorý hlavou. — Umelec, keď hlivie — stráca a   nikdy to viacej nedoženie. Človek sa reštauruje nielen liekmi, ale i   sám sebou.
+   </tei:p>
+   <tei:p>
+    Poloncove drobné práce vychodily ďalej. Ľudia sa divili a nevedeli   to pochopiť. Vysvetľovali si to všelijak.
+   </tei:p>
+   <tei:p>
+    — Musel ten to ešte pred nemocou napísať! Nevie odvyknúť od   honorárov! — niesly sa poznámky. — Ale naozaj, Ondrejko, — je ti to   treba? — Nevedeli sa zdržať napokon vďační návštevníci.
+   </tei:p>
+   <tei:p>
+    — Treba, — usmial sa Polonec, — a ako treba. Vystupujem ako z   ohromnej studne po rebríku, s priečky na priečku. Co jedno dielce,   bližšie som k otvoru, bližšie k belasej oblohe a žiarivému teplému   slnku. Co jedna prácička, vždy viac viery vo mne a istoty o tom, že   je ešte nie všetkému koniec!
+   </tei:p>
+   <tei:p>
+    A priečka za priečkou množily sa na rebríku pod vystupujúcim   Poloncom. Oblohy bolo vždy viac, i slnka bolo viacej. Dni sa ešte   vliekly, hmlisté a vlhké, nohy a ruky sa kĺzaly —1 telo i zmorený   duch sa chvely, hľadajúc oporu. Napokon však zvládal básnik moci   tmavého hrobu a vystúpil na slnko, žiť a pracovať ďalej.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

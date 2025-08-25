@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194483" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Medicína : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     929
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Medicína
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     MEDICÍNA.
+    </tei:head>
+    <tei:head>
+     (Skutočnosť.)
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    U Bartušov kravu zdulo. Keď to mladšia dcéra Mara, stupia, chudá   dievka s tenkým hrdlom a rukami, s dlhou vycivenou tvárou s červenými   škvrnami po bledých lícach, v izbe oznámila, nastal krik a lomoz,   Starý Bartuš, hlava domu, plecnatý, územčitý sedliak s holým temenom,   hrubými gambami, šedivými chumáčmi po bokoch tvári a nad očami,   vyskočil od stola, kde večeral. Ani lyžice nevyňal zo zemiakovej   polievky, ani si úst neutrel. Utekal do maštale. V pitvore mu vliezol   pod nohy malý kraviarik Miško. Capil mu poza väzy, že nosom zaryl do   prahu a vysoký klobúčik s dierkou na samom vrchu, do ktorej bolo   zabodnuté kohútie pero, vyletel mu až na dvor.
+   </tei:p>
+   <tei:p>
+    — Co sa pletieš? Ty papľuh! — zahučal na neho, kým sa zviechal a   revúc hľadel za klobúkom, či mu gazda neprišliapal pierko.
+   </tei:p>
+   <tei:p>
+    Bartuška, bledá a tučná osoba, zababušená v hrubej šatke pre   bolenie zubov, s veľkým bruchom, zastanúc si do dverí, volala do   pitvora na staršiu dcéru Annu, dívajúcu sa za otcom, kam uteká:
+   </tei:p>
+   <tei:p>
+    — Hybaj po doktora . . . Veď sa nám Citróna pukne . . . Taká je   ako tri sudy . . . Ale už ideš? . . . Chytro . . .
+   </tei:p>
+   <tei:p>
+    Brucho sa jej vše potriaslo, čo zahovorila, vydávajúc tieto   rozkazy. Po tomto vybehla na dvor
+   </tei:p>
+   <tei:p>
+    78
+   </tei:p>
+   <tei:p>
+    ﻿a hlasno vzdychajúc, pozerala na svojho muža, ktorý už behal s   kravou, držiac ju na retiazke a skáčuc, ako slepý po mlákach, kĺžuc a   potkýňajúc sa neprestajne po bahne a do rozhodených klád. Prehodil   kolieska na pluhu, odkopol tu rýľ, tu motyku. Červený v tvári a celý   zapotený lietal horedolu, hrešil všetkých svätých, až Bartuške dych   zastavovalo od strachu pred Pánom Bohom. Keď sa Citrónia vzpierala,   štuchal ju lakťom, potrhával najedovaný retiazkou a fučal, ako bujak,   kým sa nerozbehli.
+   </tei:p>
+   <tei:p>
+    — Bodaj by ste skamenely, — vyvolával na svoje dievky, mysliac, že   sú ony na príčine, — a ty ropucha, čo sa dívaš, — zakričal na starú,   — pľúca sa mi roztrhnú a ona sa díva . . .
+   </tei:p>
+   <tei:p>
+    Stará sa strhla, ale nerozumela, čo gazda chce. Pozrela dookola,   ale sa nehýbala s miesta.
+   </tei:p>
+   <tei:p>
+    Prišiel aj doktor. Nízky, mladý Žid s tmavožltou tvárou a zlými   zbojníckymi očami v súkennej, bielej čapici a so zablatenými čižmami.   Pustil sa behom za gazdom, vyťahujúc veľkú fľašu z kabáta.
+   </tei:p>
+   <tei:p>
+    — Tu máte medicínu, — kričala, — z tejto jej do papule naliať . .   . Pán Bartuš! Pán Bartuš! Z tejto do papule . . . Počkajte . . .   Neutekajte . . .
+   </tei:p>
+   <tei:p>
+    Dvíhal fľašu dovysoka a raz hore bežal za gazdom, raz dolu.   Konečne sa mu to zunovalo a odovzdajúc medicínu Bartuške, vysvetlil   jej, že všetko treba vyliať krave do papule a bude po chorobe. Pozrel   ešte raz za gazdom a kývnuc rukou, odišel.
+   </tei:p>
+   <tei:p>
+    Starý Bartuš už nevládal. Fučal väčšmi, ako Citrónia a čím   dial, tým častejšie sa potkýnal. Zbadala to Bartuška.
+   </tei:p>
+   <tei:p>
+    — Choď, Mara, ty, vidíš, otec nevládze, — zavolala nahnevaná na   dcéru, že sa sama nedomyslí.
+   </tei:p>
+   <tei:p>
+    S Citróniou lietala Mara, potom Hana, potom zasa Mara. Sused   Lenčík pozrel ponad plot do dvora
+   </tei:p>
+   <tei:p>
+    79
+   </tei:p>
+   <tei:p>
+    ﻿Bartušovho, čo sa robí, aký je to krik, lomoz a dupot. Pribehol   pomáhať a zamenil dievky.
+   </tei:p>
+   <tei:p>
+    Bartuš dohral medicínu a pozrel na fiasku, prevracajúc ju v   rukách. Zdvihol ju proti svetlu a tak sa díval. Pokrútil hlavou   nedôverčivo. Odštopľoval, poňuchal jednou aj druhou dierkou nosa a   zas ju zaštopľoval a potriasol tekutinou a zas ju skúmal proti svetlu   ... A ak bude ešte horšie, ■— myslel si, — môže to byť jed . . .   Krava zdochne . . . Takto ju popreháňame . .. Dá Boh, že jej to   prejde . . . Ale tuto, toto . . . Boh vie, aká ločprdina . .. Lenže   doktori sú doktori. Vedia všeličo . . . Keby toto len naliať a krava   by ozdravela . . . Treba by bolo medicínu vyskúsiť na nejakom   neužitočnom zvierati. . . Neužitočného nemám. . . Na čom, na čom? Na   akom čerte? . . .
+   </tei:p>
+   <tei:p>
+    Rozmýšľal za chvílu oddychujúc si ešte, spotený a ustarostený. Za   chvílu si bodol prstom do čela. Znak, že si pomohol.
+   </tei:p>
+   <tei:p>
+    Nacedil z tekutiny do hrnčeka a zavolal na ženu, ktorá Lenčíkovi   prikyvovala na čosi. S Citróniou behala Mara.
+   </tei:p>
+   <tei:p>
+    Žena prišla a pozrela na muža svojimi skormútenými očami.
+   </tei:p>
+   <tei:p>
+    — Na, napi sa, — ponúkal ju podávajúc jej hrnček.
+   </tei:p>
+   <tei:p>
+    — Co je to? — spýtala sa ho.
+   </tei:p>
+   <tei:p>
+    — Trocha pálenky. Ja som si už vypil.
+   </tei:p>
+   <tei:p>
+    Žena vydúchla. Zvraštila tvár a odpľula si.
+   </tei:p>
+   <tei:p>
+    — Dobré?
+   </tei:p>
+   <tei:p>
+    — Horkasté akési, — poznamenala, — ale nie nanič ... — Ty, Bartuš,   treba Rypáka zavolať. Ten sa vyzná, — pokračovala, — u Žľabiaka   pichol zdutej krave nôž do boka a bolo. Vodičky nepomôžu ... U   Bartolomeja nebolo rady. Zavolali Rypáka a pomohol. Vieš čo urobil?   Vošiel ta rukou
+   </tei:p>
+   <tei:p>
+    80
+   </tei:p>
+   <tei:p>
+    ﻿a bolo. Krava ozdravela. U Hlomžíka . . . , čože to
+   </tei:p>
+   <tei:p>
+    len Lenčík vravel? .. . Hej. Krava len prasknúť a prasknúť . . .   Tiež preháňali, ale prišiel Rypák. Spravil len kríž nad kravou,   zašomral, stiahol krave kožu na jednom boku, potom na druhom a   bolo.
+   </tei:p>
+   <tei:p>
+    Ozdravela
+   </tei:p>
+   <tei:p>
+    Bartuška vykukla na dvor.
+   </tei:p>
+   <tei:p>
+    — Dievky sa umoria. Lenčík je, ani čo by ho
+   </tei:p>
+   <tei:p>
+    z vody boli vytiahli, — pokračovala šúchajúc si stehno sukňou, aby   sa poškrabala, —• a ty si si ešte
+   </tei:p>
+   <tei:p>
+    nevydýchol
+   </tei:p>
+   <tei:p>
+    Bártuš skúmal gazdinú bedlivo, kedy zbledne,
+   </tei:p>
+   <tei:p>
+    kedy ju počne krčiť, kedy vykríkne, alebo odbehne, ale ona ako by   nič. Drkotala, drkotala a brucho sa jej potriasalo, ako rozprávala o   Citrónii, ktorá toľko a toľko stála . . . Aká lacná bola, ako sa   jednako odmieňa mliekom, hustým ako smotana, ma-
+   </tei:p>
+   <tei:p>
+    slom . . . Bože, keby sa jej len nič nestalo. — Ja by sa zmárnila,   — skončila s navlhnutými
+   </tei:p>
+   <tei:p>
+    očami.
+   </tei:p>
+   <tei:p>
+    Odrazu ich vytreštila, čo sa gazdovi porobilo.
+   </tei:p>
+   <tei:p>
+    Skočil s lavice a chytiac fľašu s medicínou, pra-
+   </tei:p>
+   <tei:p>
+    štil ju o zem. Roztrepala sa na tisíc drobných kúskov a medicína   postriekala zabielené steny pitvora. Gaz-
+   </tei:p>
+   <tei:p>
+    da dupol po skle a kričal:
+   </tei:p>
+   <tei:p>
+    — Pravdaže vodička, aby sa prepadla a ja s ňou,
+   </tei:p>
+   <tei:p>
+    ak ju zaplatím . . . Utekaj pre Rypáka! Ako osoží krave, keď tebe   nepoškodila? . . .
+   </tei:p>
+   <tei:p>
+    6 Novely
+   </tei:p>
+   <tei:p>
+    81
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194438" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Papuča : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4443
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Papuča
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PAPUČA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Všetci ste pod papučou, páni. Darmo tajíte. I vypili by ste si, i   podiškurovali. Tak znamenite sa to šedi, pije a diškuruje, ale   ručička na hodinách sa hýbe, straší, hrozí ako ženské rameno.   Áno.
+   </tei:p>
+   <tei:p>
+    Pamätáte sa na Javora, hostinského? Vy sa nepamätáte. Ja ho nikdy   nezabudnem. Vidím ho. Ozruta. Široký, dlhý, hrubý. Červená turecká   čiapočka s kyckami, posotená do tyla. Veľká, okrúhla, červená tvár   bez fúzov a vlasov na hlave. Krátky kabátik, krátke nohavice a všetko   na ňom krátke a úzke. Ku každému stolu ide, fučí, salutuje, hovorí,   prisadne na chvíľu, vstáva a ide k druhému. A pri každom stolíku   salutuje, smeje sa, hovorí a pije, neprestajne pije a vždy je triezvy   a veselý . .. Kde si sa podel, Javore? Kdeže je výfečné javorovské   pivo, víno a gulášteky? Kde je tvoja biela, čistá krčma? Na zúfanie   je život, ako si odišiel. Pijeme žbrndy... Ej, páni, páni! Vy ste na   príčine. Nie vám je ľúto? ... Už ten vchod lokálu. Široké, vysoké   dvere. Svetlá, veľká izba, druhá a tretia. Biele, okrúhle stolíky s   lesknúcimi sa obrusmi, zápalníkmi a pivovými tanierikmi. Zltučké,   rovné slané rožky s rascou. Spárené fľaštičky na olej a ocot,   soľničky. Všetko čistučké, biele. Zrkadlá . . ,
+   </tei:p>
+   <tei:p>
+    Ale nemožno sa ti celkom poobzerať. Traja ti zavolajú;
+   </tei:p>
+   <tei:p>
+    — Služobník, pane! Úcta hlboká! Poklona!
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿To obsluha. Mimovoľne pozrieš, či nejde za tebou ministeriálny   úradník, alebo aspoň z okresného súdu nejaký múdry sudca. Ale nie.   Zrovná idú k tebe. Stŕhajú ti svrchník, vezmú paličku, klobúk. Lenže   nie ako v hore, ale celkom uhladene, pekne. Pomýlia ťa celkom.   Pozrieš si aj na vestu, či ti nevisí duplovaná zlatá retiazka na nej.   Nie, nie. To je už taká obsluha. Stopuje ti na tvári, kam si chceš   sadnúť, a zaiste ti servítkou opráši miesto. S poklonou sa ťa   opýta:
+   </tei:p>
+   <tei:p>
+    — Rozkážete, blahorodý pane?
+   </tei:p>
+   <tei:p>
+    A ty si si už namyslel, že si pánom, a dvíhaš nos. Chladne,   dôstojne rozkážeš si pohár piva. Zasa poklona. Donesú ti ho. Poklona.   Dopiješ. Prichádza zas a pokloní sa, či ešte poháriček. Chce sa ti   ho. Klepneš dva razy prstom na stolík, a ani čo by si nejakú tajnú   gombičku pritlačil: odrazu sa ti zjaví posluha. Ty len povieš, alebo   ukážeš a už máš. Taká posluha!
+   </tei:p>
+   <tei:p>
+    A hostia sa len tak hrnú. Tam máš národných. Tam sú odnárodnení.   Tam je stoličná aristokracia zo súdov, sirotskej stolice, slúžnovskej   a berného úradu. Tam je inteligencia i menej inteligentní. Lebo u nás   neinteligentných vôbec niet. Tam sú ráno, predobedom a naobed. Tam sú   poobede, večer i v noci. Človek nemôže sa zdržať, keď prechádza popri   Javoroví. „No, poháriček, myslíš, „vypijem, a vojdeš. Ale   nápoj! Musíš vypiť tri, taký nápoj. Alebo ťa zarazí vôňa gulášteka.   „Ech, čo, jeden guláštek nepokazí apetít. Vojdeš a zaješ si.   Slovom, musíš vojsť. Nemožno udržať sa ... A vždy ti je príjemne,   sladko okolo srdca a žalúdka.
+   </tei:p>
+   <tei:p>
+    Ale zrovná si vo vytržení v noci. Tri veľké acetylénové lustry   svietia. Slnečné svetlo. Javor negazduje, keď je reč o citoch hostí.   Druhí áno. Skrútia všetky svetlá a nechajú lampôčku, lebo odišiel,   povedzme nejaký asesor, ktorý len zriedka chodí, ale pije z   jemnejšieho pohárika. Ty môžeš sliepňať, lebo
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    ﻿si nie asesorom. V noci, v noci! Vtedy je tam priestranne a   vzdušné, Tí, ktorí musia, vytratia sa po jednom. Každému je ľúto, keď   odchádza, ale musí, musí. Domáci poriadok tak to donáša. Ej, veru   zostane, ktorý môže podkúpiť ženičku sladkými cukríkmi, koláčikami,   bochníčkami. Veru kúpi a radšej zostane. Lepšie ti je u Javora ako   doma.
+   </tei:p>
+   <tei:p>
+    Zostáva mládež, zlatá mládež. Rovnakí priatelia a druhovia, ktorí   majú krv a túžby. Ako by si namiesto srdca mal hudobný inštrument v   sebe. Ozve sa ti v ňom spev, prenesie sa na ústa a zuní, zuní.
+   </tei:p>
+   <tei:p>
+    Príjemná krčma, znamenitá krčma.
+   </tei:p>
+   <tei:p>
+    A Javor je veselý. Ako by nebol! Nik mu nemôže poškodiť. Neraz   zdalo sa, že je už zle. Nešťastné voľby! — Javor s vládnym hlasoval!   . .
+   </tei:p>
+   <tei:p>
+    — Ale nehovor! Javor?
+   </tei:p>
+   <tei:p>
+    — Javor.
+   </tei:p>
+   <tei:p>
+    — Veď je to posmech!
+   </tei:p>
+   <tei:p>
+    — Posmech!
+   </tei:p>
+   <tei:p>
+    — Bojí sa o krčmu . . . — Ale to je predsa len škandál! Ktože ho   vlastne drží? My. Kto by chodil k nemu, ak nie my? Nikto. To je   škandál! Nemali by sme k nemu chodiť. Veď je to zrada!
+   </tei:p>
+   <tei:p>
+    — Ale, rozumie sa, bojkotovať!
+   </tei:p>
+   <tei:p>
+    Svolala sa porada. Poradu hromadne navštívili. Ozývaly sa tuhé   reči. Oduševnenie veľké. Len málo pochybujúcich hlasov. Ako by   triumfovalo veľké víťazstvo. Každý hromžil medziiným aj na Javora.   „Ech, čo, Javor! Aj tak je jeho víno nie pravé. Čert vie, kde ho   kupuje. Pivo nestálo nikdy za nič. Vždy bolo akési riedke a nečisté.   To sme si len tak namysleli. Žbrnda je to všetko. A takto nás zradiť.   Veď je to posmech. My vlastne nevieme, aká sme my sila. Nemuseli by   sme byť slabí, len svorne spolu sa držať. Podporovať svojich.   Tak.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿A na tretí deň našiel sa vplyvný pán advokát Žarko, ktorého   smädilo. Vošiel k Javoroví.
+   </tei:p>
+   <tei:p>
+    — Celkom som zabudol na to v náhlosti, — povedal, keď ho   interpelovali.
+   </tei:p>
+   <tei:p>
+    Našiel sa druhý, tretí, ktorí tiež celkom zabudli. ,,Ak nás   prekvapia, povieme, že sme zabudli, — mysleli si. „Aspoň si   vypijeme
+   </tei:p>
+   <tei:p>
+    Štvrtého našli doma pri pive. — Akéže to piješ? — spýtali sa ho, —   Javorské.
+   </tei:p>
+   <tei:p>
+    — Ale veď . . .
+   </tei:p>
+   <tei:p>
+    — Veď je to nie proti princípu, keď si ho dám domov doniesť. To je   celkom iná vec, —poznamenal.
+   </tei:p>
+   <tei:p>
+    — To si aj ja dám.
+   </tei:p>
+   <tei:p>
+    — Aj ja.
+   </tei:p>
+   <tei:p>
+    — Ale prečo nie? Veď je to maličkosť.
+   </tei:p>
+   <tei:p>
+    — Ale prečo nie? Veď je to taká maličkosť.
+   </tei:p>
+   <tei:p>
+    Vysvitlo, že nielen tento pán, ale mnohí pili doma. Pán Culek,   apatekár, mal celú štvrtku na čape v komore. Tam užíval, aby ho   neprekvapili.
+   </tei:p>
+   <tei:p>
+    — Keď maličkosť, nuž maličkosť, povedali niektorí. — To si poďme   vypiť.
+   </tei:p>
+   <tei:p>
+    — Ale pravda.
+   </tei:p>
+   <tei:p>
+    — Keď starí nedržia, čo by sme mali my držať, osvedčili sa mladí.   — Poďme k Javoroví. Poďme! Nuž teda poďme!
+   </tei:p>
+   <tei:p>
+    Zasa bolo tak ako predtým. Zasa len Javor a Javor. Bolo Pavla. Tam   si našiel všetkých u Javora. Bolo Jána, Jozefa, Ďura. Tam boli   všetci. Predal niekto dobre zemiaky alebo vola, hybaj k Javoroví.   Vyhral niekto proces, u Javora si ho našiel veseliť sa; ak ho   prehral, tam si smútok odháňal. A keď už vonkoncom nijakého titulu   nebolo — tam boli všetci do jedného u Javora. Skrátka; bolo ako   predtým. A bolo dlho tak, až tu odrazu...
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿Sedel som večer doma. Pri práci. Vytrhlo ma klopanie na dvere.
+   </tei:p>
+   <tei:p>
+    — Voľno.
+   </tei:p>
+   <tei:p>
+    Dvere sa naširoko otvorily a dnu vstúpila nízka, bruchatá figúra s   veľkou vtlačenou hlavou medzi plecami. Široká tvár, obliata červenou   farbou, s malinkými fúzikmi a laikom pod bradou. Roztvorený, dlhý,   čierny svrchník. Široké, bledé nohavice a veľké žlté topánky. V   jednej ruke držal biely klobúk a hrubú čiernu palicu. Druhou držal   kľučku, nezavierajúc dvier.
+   </tei:p>
+   <tei:p>
+    — Servus. Dobrý večer! — prehovoril, — Nepoznávaš, čo? To je   dobre; nože sa prizri!
+   </tei:p>
+   <tei:p>
+    Vravel pomaly a smial sa, ako tuční ľudia, ktorí pre nízky krk   nemôžu jasno hovoriť, ani smiať sa hlasne.
+   </tei:p>
+   <tei:p>
+    — Ale pravda, Táravý! Servus, kamarát! — vykríkol som, poznajúc   svojho kolegu ešte z univerzity.
+   </tei:p>
+   <tei:p>
+    Shodil kabát a sadol si. Vlastne len on hovoril, ja som ho   počúval. Prišiel z malého mestečka, Mielníc. Jeho žena chce sa   presídliť do nášho mesta. Hľadá príležitostný byt. Bože, len keby   našiel. Jej je nič nie dosť vkusné. Ani čo by sa grófkou bola   narodila.
+   </tei:p>
+   <tei:p>
+    — Keby si ju len počúval, — vravel a povýšil hlas. — ,A čo si   nepozapínaš vestu, ty medveď? Tebe to môžem povedať, ako kamarátovi,   — podotkol, ku mne sa obrátiac. — A čo si nepozapínaš vestu?   Nakaľavník. A tento fľak si kde sobral? Doma sedí a zabrýzga sa. Ty,   ty medveď. Už si zasa drichmal. Napuchnuté máš oči, červené, a tu pás   od vankúša. Všetci ste takí. Začmudení, hranatí, bez spôsobu. Ba či   sa umývate? Drsní, drevení, suroví. Prečo si neoblečieš dlhý kabát do   divadla? Prichodíte na vizity v čižmách ... A všetci sú jej hranatí,   bez vkusu. Prichádza ku mne mladý človek. Ona hneď o ne-
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿vkuse. Vidíte, akí ste vy mladí! Neviete zaviesť diškurs ľahúčko,   veselo. Ste ťažkí, zamlkli. Zrovná urážajúci. Myslím, že je to   nedostatok salónov. Potratíte prirodzený rozum a robíte všetko   neslušne. Zapískate všetko. Príde nejaká dáma a už počína . . . Áno,   pekné vkusné šaty. Utešený klobúčik, topánočky. Skveje sa všetko.   Keby ste len boly aj vnútorne také uhladené, bezúhonné. Ale   prichádzate do spoločnosti, hovoríte, hýbete sa a už vidieť samý   nevkus, nejapnosť . . . Každého učí tá baba. Odpusť, že takto   hovorím o žene, ale som vždy ani na škripci. Poklzne sa mi noha na   parkete, už kričí: Ech, ty nešikovník, či nevieš chodiť? Vystriem sa   prípadne, aby si údy priviedol na pravé miesto, už, že tak a tak   neslušnosť. Hvízdam si, už som neslušný. A čo si ty drozd? Vidieť, že   si do salónov nechodil. Položím klobúk na stolík, jem rybu nožíkom,   zle-nedobre. Fuj ... A ako hovorí o babách, čo klebetia. Hľa, nemajú   čo robiť, klebetia, snášajú nepravdy. Vkusná žena to nerobí. Ech! ..   . Ale si dnes zapijeme, čo? Pozajtre príde. Braček, poď! Nemámime   čas. Jeden, dva...
+   </tei:p>
+   <tei:p>
+    Pozrel na hodinky. Bolo pol dvanástej.
+   </tei:p>
+   <tei:p>
+    — Ozaj, braček, poďme. Zapijeme si. Krátka je moja sloboda.   Povečeriame ešte niečo a vypijeme si buteľku, dve, tri.
+   </tei:p>
+   <tei:p>
+    Vybrali sme sa. Utešená mesačná noc. Mesiac stál naprostred neba.   Neúplný, ako zle krájaný chlieb. Vzduch chladný, ale čistučký,   pannenský, bez práška, ako v noci býva. Dlažby pusté. Ticho. Radosť   bola prechádzať sa. Sli sme pomaly a kroky naše sa ozývaly. Ako sme   zašli za uhol, odrazu sme počuli, ako by niekde za domami ďaleko v   poli potichúčky čosi duňalo.
+   </tei:p>
+   <tei:p>
+    — Co to zuní? — spýtal sa Táravý.
+   </tei:p>
+   <tei:p>
+    Zastali sme a načúvali. Za nami na druhej strane domov ozvaly sa   kroky. V tieni zazreli sme hrubú
+   </tei:p>
+   <tei:p>
+    12
+   </tei:p>
+   <tei:p>
+    ﻿nízku postavu v krátkom kabáte so vztýčenou bradou do vysoká. Ruky   mala vo vreckách a palicu pod pazuchou. Figúra sa blížila. Kývanie   hlavou a dlhý, ťažký krok boly mi známymi. Líca sa zabelely; ukázaly   sa tenké, ovisnuté fúzy, zablyšťaly okuliare. Veď je to advokát   Fraňo.
+   </tei:p>
+   <tei:p>
+    — Hohó! Kdeže ty, Fraňo? — zakričal som.
+   </tei:p>
+   <tei:p>
+    Fraňo zastal.
+   </tei:p>
+   <tei:p>
+    — Ktože si? — zavolal.
+   </tei:p>
+   <tei:p>
+    — No tak poď!
+   </tei:p>
+   <tei:p>
+    Prešli sme na druhú stranu. Táravého som predstavil.
+   </tei:p>
+   <tei:p>
+    — A vy tiež pijete?
+   </tei:p>
+   <tei:p>
+    — Akože by nie, — povedal Táravý.
+   </tei:p>
+   <tei:p>
+    — Človek sa zakaždým potkýňa na ľudí so špeciálnymi princípmi. Ja   som takto dosť pravidelný človek a preto si aj vypijem.
+   </tei:p>
+   <tei:p>
+    Bolo vidieť na ňom, že už pil, ale kráčal isto a pomaly.
+   </tei:p>
+   <tei:p>
+    — Vypijem. Rád si vypijem. Víno je moja jediná radosť v živote.   Rád ho mám a lásku svoju netajím. Preto sa starým babám nepáči.   Poviem rovno, že pijem, lebo rád pijem. Zaplatím za svoju radosť, ale   mi neujde a neoklame ma. Príde kedy chcem, odstránim ju od seba, keď   jej mám dosť. Žena vás zanechá, dievča zaplače, keď ju zanecháte.   Starosti, svedomie. S Álp môžete spadnúť a aj kým spadnete, trápite   sa. Kôň môže zdivieť, koč sa dodrúzgať, pre karty zatratíte si   svedomie, ale víno, páni moji, hovorím, neoklame. Však idete k   Javoroví? Neoklame. Vždy je belavo-zlaté, vždy rozčúli, vždy   zabudnete popri ňom, že sú ľudia zlí a mrzkí, že je život špatný,   naničhodný, hlúpy. Zabudnete, že je závisť na svete a že máte   nezaplatenú dlžobu. Poďme chytrejšie, páni, ak dovolíte... To basa   duní. . . Akurát taký je život, ako keď basu počuť
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿zďaleka a inšie nič. Dú-dú-dú . . . Sviňa ryje v chlieve, nazdáte   sa . . . Ale napite sa vína a život zahrá vám bezúhonnou, kompletnou   bandou. Samá harmónia.
+   </tei:p>
+   <tei:p>
+    Kroky sme zrýchlili. Popri duňaní basy začuli sme i piskot   klarineta, potom kontru — bez prímu, potom zas len klarinet, potom   cymbal, potom odrazu všetky inštrumenty.
+   </tei:p>
+   <tei:p>
+    „Ej, pred hostincom hudci hudú, ej, a dievčatá tancujú .   ..
+   </tei:p>
+   <tei:p>
+    zanôtil Fraňo a zavrtel paličkou.
+   </tei:p>
+   <tei:p>
+    — To sú naši, — doložil a búšil do dverí, že sa rozletely.
+   </tei:p>
+   <tei:p>
+    Mladí ľudia sedeli okolo stola, zakladeného buteľkami. Všetci boli   červení, rozgurážení, veselí. Jeden z nich, tučný, rapavý, s malými   očami, s rozloženými od seba rukami, kričal: ,,Do neba vyletím, do   neba vyletím! Druhý držal proti nemu buteľku a volal: „Vypi si!   Vyletíš! Červený blondín s riedkymi vlasmi a svetlými očami stál   pri peci a držal za ruku chudého, husto vlasého blondína s kečkou a   tenkou tvárou.
+   </tei:p>
+   <tei:p>
+    — Odzemok! Odzemok! — volal Cigánom. Tí spustili: „Poza bučky,   poza peň ..
+   </tei:p>
+   <tei:p>
+    Stali si, narovnali sa, založili si ruky do pása a počali oproti   sebe tancovať odzemok. Jeden černovlasý mládenec s čiernymi,   drobnými, hlboko zasadenými očami a veľkého tela skočil od stola k   base a priložiac ucho k nej, načúval, ako duní. Starý, plešivý,   šedivý, ale čerstvý mládenec tiež skočil, shodil kabát so seba a   založiac si jednu ruku za hlavu, zavýskol a počal preberať nohami. .   .
+   </tei:p>
+   <tei:p>
+    — Ech, ja som mal kapitána, — kričal ktosi. — Radosť bola pod ním   slúžiť ... Sli sme ...
+   </tei:p>
+   <tei:p>
+    — Do neba vyletím, vyletím! Chytajte! — volal rapavý, smial sa a   slzy mu tiekly.
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    ﻿Do nôty niekto zahvízdol po valaský. Hneď žatým ktorýsi zakričal:   „Ujujuj! Ujujuj! A traja tichí mládenci pri okne s nevinnými   tvárami počali v takte tliapkať.
+   </tei:p>
+   <tei:p>
+    Keď sa dvere otvorily a zjavila sa mocná, sympatická postava   Fraňova, ako by jedným hrdlom zvolal každý:
+   </tei:p>
+   <tei:p>
+    — A-á-á! Sláva! Doktor! Sem sa, páni! medzi nás . . .
+   </tei:p>
+   <tei:p>
+    Pušného prachu hoď do plamienka, ako zablčí! Zábava ešte väčšmi   vzplanula.
+   </tei:p>
+   <tei:p>
+    — Tuš! — Tuš! — kričali mnohí.
+   </tei:p>
+   <tei:p>
+    Cigáni spustili tuš a hneď žatým „Elena, Elena, rada si ma   mala! Fraňova nôta.
+   </tei:p>
+   <tei:p>
+    Nízky, širokoplecí mládenec s veľkou ostrihanou hlavou buchol   päsťou na stolík a hneď žatým spustil basom pesničku. Druhý zachytil,   ostatní ťahali. Tí, čo tancovali, prestali v tanci a fúkali si do   tvári. Čierny mládenec ešte vždy počúval basu.. . „ že si ma   nechala! potiahol starý plešivý mládenec bez kabáta. Rapavý si   sadol, položil hlavu do dlaní, ako by mu bolo do plaču. Ešte raz   počal refrén:
+   </tei:p>
+   <tei:p>
+    „Nech f a Pán Boh škára,
+   </tei:p>
+   <tei:p>
+    že si ma nechala!
+   </tei:p>
+   <tei:p>
+    Fraňo sa díval a usmieval. Táravý mi podotkol šeptom: — Keby to   moja žena zvedela . . .
+   </tei:p>
+   <tei:p>
+    — Ech, čo, ženy! — zakričal Fraňo. — Verbúnok zahrajte!
+   </tei:p>
+   <tei:p>
+    Cigáni zahrali peknú, ohnivú nôtu. Ani čo by bol vletel elektrický   prúd do izby a každý atóm vzduchu naplnil, vnikol do krvi. . Razom   rozhúpalo sa zasa všetko .. . Preletela fľaša ponad stôl. Fraňo   vyhodil klobúk do povaly. Druhá buteľka, tretia, po-
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿háre — a stôl zostal čistý. Dvaja vyskočili naň a počali tancovať.   Starý mládenec jazdil celou izbou na stoličke.
+   </tei:p>
+   <tei:p>
+    — Dolu ! Verbúnok! ... — ozvalo sa komando.
+   </tei:p>
+   <tei:p>
+    Niektorí z mládencov poshadzovali kabáty, spravili kruh a počali   oproti sebe tancovať. Najlepší v prostriedku. Ani Táravý sa nezdržal.   Chytil ma za rameno, potom obidvoma rukami za plecia a vrtil sa so   mnou.
+   </tei:p>
+   <tei:p>
+    O chvíľu boli už traja na stolíku, potom štyria.
+   </tei:p>
+   <tei:p>
+    Všetko sa vrtilo, cifrovalo, kričalo a výskalo. A Cigáni hrali,   hrali, ako by im stovky lepili na čelo.
+   </tei:p>
+   <tei:p>
+    Táravý za krátky čas tykal si so všetkými. S každým si zatancoval,   s každým sa objal a bozkal. Každý mu vyznal lásku a on každému. Cigán   nachyľoval sa k jeho uchu, ako by tiež vravel o láske. Pokyvkával si   hlavou a vrtel rukami. Advokát Fraňo filozofoval:
+   </tei:p>
+   <tei:p>
+    — Bláznivým je dobre. Co? Nie? Ba bláznivým. C o máš z rozumu? Ako   vážky váži. Toľkoto a nie viac. Viac je proti reguli. Skoda. Zisk.   Ubíja dušu, ducha, srdce. Preč s rozumom, páni! Lúčme sa! Srdce bez   úzdy, ako Niagara. Aký krásny je svet. Jarček zdá sa ti Dunajom.   Močarinka Blatnom. A ty ten Dunaj preskočíš, Blatno preskočíš. Ľudia   krásni, veselí, dobrí! Mozog hop! Nielen to víno leješ do seba, ale s   ním i zlato lásky, viery, nádeje. Neľúbiš? Tak si nepil. Vypiješ si,   ľúbiš, veríš a máš nádej. Pime!
+   </tei:p>
+   <tei:p>
+    A zdvihol pohár.
+   </tei:p>
+   <tei:p>
+    — Pime! Pime! — ozvali sa mu.
+   </tei:p>
+   <tei:p>
+    — Milujme sa!
+   </tei:p>
+   <tei:p>
+    — Milujme sa!
+   </tei:p>
+   <tei:p>
+    — Neklamme sa!
+   </tei:p>
+   <tei:p>
+    — Neklamme sa!
+   </tei:p>
+   <tei:p>
+    16
+   </tei:p>
+   <tei:p>
+    ﻿— Štrngnime si! Bozkajme sa!
+   </tei:p>
+   <tei:p>
+    — Štrngnime si! Bozkajme sa! — ozývali sa za ním ostatní.
+   </tei:p>
+   <tei:p>
+    Povstal a vysoko zdvihol pohár. Ostatní sme tiež vstali, štrngli   si a pobozkali sa všetci. Cigáni hrali:
+   </tei:p>
+   <tei:p>
+    „Nebojme sa, nedajme sa, bratia jednej rodiny ..
+   </tei:p>
+   <tei:p>
+    A zaspievali sme i my.
+   </tei:p>
+   <tei:p>
+    Radosťou nám duše plesaly. Ľudia citom vozvýšení, povznesení, ako   je to pekne. Ako tečú slová vo vzbudenej dôvere. Srdce, duša otvára   sa ti
+   </tei:p>
+   <tei:p>
+    a ty letíš do nich so svojou dušou a srdcom. Takými mali by zostať   vždycky, takými by mali byť všade. Každý ti je priateľom. Nikto nemá   na mysli oklamať ťa, smiať sa nad tebou. Ten ťa rád, i ten, i ten,   všetci, a ty všetkých. Všetko zdá sa ti malicherným, len tí ľudia   okolo sú ti všetkým a len tá pieseň je skvostná. Čo je na zemi   čierno, tratí sa. Nespomenieš si trápnej chvíle, len príjemné   rozpomienky tiahnu tvojou mysľou. Prídu ti na um zamilované ženské   oči, ramená, dom so známymi oknami. Ty sa zajtra budeš prechádzať   tam. Vidíš ju... A srdce plní sa ti radosťou. Radosť je byť medzi   mládežou pri zábave. Tam nájdeš rovnosť, srdce a vznešeného ducha. To   sú tí praví dobrí ľudia ...
+   </tei:p>
+   <tei:p>
+    Okná spopolavely. Cez poloodkryté záclony bolo vidieť v rannom   svetle tmavý múr susedného domu, čierny hrebeň strechy, kamenie dvora   a ulice.
+   </tei:p>
+   <tei:p>
+    — Štyri hodiny, — podotkol blondín s kečkou a tenkou tvárou.
+   </tei:p>
+   <tei:p>
+    —• Ešte buteľku! — rozkazoval advokát.
+   </tei:p>
+   <tei:p>
+    — Už svitá! — zahovoril rapavý. — Zajtra budem ako mačka.
+   </tei:p>
+   <tei:p>
+    2. Sobr. spisy.
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿— Mal si doma zostať! — zahriakol ho plešivý mládenec.
+   </tei:p>
+   <tei:p>
+    Buteľku doniesli, nalialo sa, vypilo sa. Potom doniesli ešte   jednu. Tú už nedajbože dopiť. Cigáni oddychovali. Fraňo si vzal do   ruky palicu, naklonil sa na ňu a zadriemal. Traja tliapkajúci   mládenci sa už predtým vytratili. Napokon cítil každý, že treba   odísť. Cigáni zahrali marš a my, pomaly sa poberajúc, obliekali sme   svrchníky, brali klobúky a palice, vychádzali na dvor a odtiaľ na   ulicu.
+   </tei:p>
+   <tei:p>
+    Na ulici bolo ticho. Mesačná noc premenila sa na zachmúrené ráno.   Nebo zatiahlo sa celé popolavým oblakom. Po kútoch pozostatky nočnej   tmy. Domy s pospúšťanými záclonami stály nemo, len kdetu drobné,   obskúrne krčmičky boly otvorené, čakajúce na včasných robotníkov.   Veľké zaprášené listy gaštanov triasly sa vetrom a šumely. Biela   suchá kamenná dlažba bola plná smetí. Zahodený papier, padnutý list   hnal vietor po nej s nepríjemným prachom. Ideály ako by sa boly   zrútily v tomto zachmúrenom rannom svetle. Rozpálené hlavy chladly.   Rozum sa vracal a každý pocítil tesknotu vážneho žitia. Zasa vhupli   do myšlienok nervózni šéfovia s ustavičnými rozkazmi, dlhé písacie   stolíky, hlavné knihy s číslicami, stránky, práca.
+   </tei:p>
+   <tei:p>
+    — Ale dobre, že nemám ženy! — kričal Táravý a skoro sa roztancoval   na ulici.
+   </tei:p>
+   <tei:p>
+    Fraňo rečnil zas o hviezdach:
+   </tei:p>
+   <tei:p>
+    — Padajú hviezdy, aj my padneme, a diamant v hrude nezhnije ..   .
+   </tei:p>
+   <tei:p>
+    Porozchádzali sme sa po jednom.
+   </tei:p>
+   <tei:p>
+    Táravý sa pár ráz obrátil, idúc druhou stranou a zakričal:
+   </tei:p>
+   <tei:p>
+    — Ale o 11. hodine iste na pivo, páni! — Iste! — ozval sa Fraňo.   •—- Iste! — zakričal som ja.
+   </tei:p>
+   <tei:p>
+    18
+   </tei:p>
+   <tei:p>
+    ﻿Táravý na pivo neprišiel. Poslali sme do hostinca, kde býval, a   dostali sme hroznú zvesť, že jeho pani prišla a že hľadajú i s pánom   byt. ,,No, s Bohom! pomysleli sme si. „Príde druhý raz. Ale   Táravý vôbec sa neukazoval. Možno, že ho vkusná jeho manželka   privrela.
+   </tei:p>
+   <tei:p>
+    — Táravý akosi zabudol na nás, — ozval sa raz Fraňo.
+   </tei:p>
+   <tei:p>
+    — Ja veru tiež prestanem chodiť, — povedal na to advokát Sturec. —   Všetko vychádza na verejnosť z tohto lokálu. Včera mi žena   referovala, že som predvčerom predpoludním od desiatej do jednej   sedel tu a pil. Dnes ma prekvapila, že som včera hneď po obede šiel   na víno a sedel do polštvrtej tu . . . Ja neviem, kto to udáva . . .   Zajtra ma prekvapí, že som dnes vypil štyri poháre piva.
+   </tei:p>
+   <tei:p>
+    — Ale to je zvláštne! — ohlásil sa apatekár Culek. — Včera som sa   trochu zabavil a dnes mi sestra vedela povedať, že to bolo tu, že tu   sedel Fraňo, vy, vy, ty i ty ... a ukázal na nás. — Posiaľ nevedela,   kam chodím, a tu ti odrazu počne vyčitovať...
+   </tei:p>
+   <tei:p>
+    — Teraz mi prichodí na um, — zahovoril mladý podsudca. — Moja žena   žiarlila na mňa. Pred troma dňami diškuroval som s Javorovou pri   bráne. Ona len tak vyšla z kuchyne so zásterkou. Driečna, veď viete,   radi si s ňou podiškurujeme všetci. . . A žena, že za kým sa to   sháňam vraj v tej odpornej krčme, aká to bola chyžná? . . .   Žiarlila.
+   </tei:p>
+   <tei:p>
+    — Ale to je znamenité!
+   </tei:p>
+   <tei:p>
+    — Kto to roznáša?
+   </tei:p>
+   <tei:p>
+    — Iste sluha.
+   </tei:p>
+   <tei:p>
+    -— Alebo Javorová.
+   </tei:p>
+   <tei:p>
+    — Nemožno. Javorová si nebude škodiť — povedal Fraňo. — A ako že   vaše panie prídu k sluhovi, alebo sluha k nim?
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿— Kto teda? — No, ja prestanem chodiť, — potvrdil Sturec. — Veď   uvidím. Ešte pár dní. — Zaiste je to nie príjemné, keď žena alebo   sestra o všetkom vie.
+   </tei:p>
+   <tei:p>
+    — Konečne, že pijeme, nie je hriech. Pif sa žiada, — povedal mladý   podsudca.
+   </tei:p>
+   <tei:p>
+    — Ale musí to vedieť každý? To je nie poriadna krčma, z ktorej sa   všetko vynesie, — horlil Sturec. — Ako má tajnosti štát, ako majú   úrady, pošta, tak i krčma. Nie je tak?
+   </tei:p>
+   <tei:p>
+    Každý prisvedčil a všetci boli nahnevaní. Volali Javora. Veď   poriadok musí byť. Javor sa len usmial.
+   </tei:p>
+   <tei:p>
+    — Ale, páni, zaiste ja sám nevynášam! Obsluha je stará a predtým   toho nebolo. Sami viete. Musí byť medzi hosťmi niekto . ..
+   </tei:p>
+   <tei:p>
+    Hádali, kto by bol takto podozrivým. Ani jeden. Všetci rovnako   chodia, jednako si radi zapijú. Ktože by seba zrádzal?! Stane sa   síce, keď sa dlhšie vystane, že sa manžel vyhovorí na nejakých   cudzích hostí. Povie sa, že boli napríklad Rusi, alebo Poliaci,   nejaký povestný český spisovateľ, alebo slaviansky filolog, historik.   No a že tam boli všetci prednejší, napríklad Ďurský, a keď ten mohol   vystať do tretej, prečože by som, ženička, ja nevystal? To sa   stane. Lenže, aby sa konzekventne zrádzali, to je vylúčené. Nemôže   byť.
+   </tei:p>
+   <tei:p>
+    — Však sa vynájde, — rozhodli páni. Ale zrádzanie   neprestávalo.
+   </tei:p>
+   <tei:p>
+    — To si ty musel povedať, — hovoril priate! priateľovi, — že som   sa včera po obede zabavil.
+   </tei:p>
+   <tei:p>
+    — Komu?
+   </tei:p>
+   <tei:p>
+    — Žene.
+   </tei:p>
+   <tei:p>
+    — Ale, čo sa ti robí?!
+   </tei:p>
+   <tei:p>
+    — No a kto? Ty si bol u mňa. A čert vie, chcel si sa zalichotiť .   . .
+   </tei:p>
+   <tei:p>
+    20
+   </tei:p>
+   <tei:p>
+    ﻿—■ To je predsa mnoho! A to si vyprosím .. . — Druhý nemohol byť   .. . — Osočovateľ! — Ty si! Čo ty máš o tom mojej žene hovoriť?   ...
+   </tei:p>
+   <tei:p>
+    Samé aféry medzi pánmi. Na mládež sa počalo tiež hromžiť. Do   jednej vyspevovala. Poznali hlasy. Napitá tiahla s Cigánmi. U   Živeckých bola nočná muzika. A nie že by sa ticho držala, keď chce   uctiť niekoho, ale našli sa, ktorí pod oblokom tancovali. Alebo, akí   sú to lumpi, tí mladí ľudia! Otvorili všetky okná u Javora a čo raz   vypili fľašku, vyhodili oknom. Poznali osoby. Tam bol ten, ten, ten .   .. Tancovalo sa na biliarde. Skla na dlážke hromada ...
+   </tei:p>
+   <tei:p>
+    — To je mnoho! To je hrozné! Posmech a škandál! Kto to   roznáša?
+   </tei:p>
+   <tei:p>
+    Spoločnosť u Javora sa menšila. Prestal chodiť Sturec, prestal   apatekár, podsudca a všetci lepší. Mládež sa tiež počala strániť   Javora a po chvíli veľký hostinec bol skoro prázdny. Nevidel si tam   nikoho z lepších. Sám Fraňo nešiel, keď nebolo spoločnosti.
+   </tei:p>
+   <tei:p>
+    Javor sa zamyslel.
+   </tei:p>
+   <tei:p>
+    Kto to zasa intriguje?
+   </tei:p>
+   <tei:p>
+    A prechádzal sa pomedzi biele, čistučké stoly. Postával pri oknách   a vyzeral. Posluhovia oprašovali čisté obrusy, rozháňali servítkami,   utierali poháre, opierali sa o steny, hrali sa biliard a kúrili   neprestajne cigarety. ,,Co sa stalo? mysleli si a čakali.
+   </tei:p>
+   <tei:p>
+    Nikto.
+   </tei:p>
+   <tei:p>
+    — Nijakého dôchodku, to nemôže byť, — hundral hlavný posluha.
+   </tei:p>
+   <tei:p>
+    — A moje pobočné grošíky, — zarmútil sa pikolo.
+   </tei:p>
+   <tei:p>
+    — Čože ja tu mám robiť, keď niet pánov? hrešil tretí.
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿— Najlepšie vypovedať pánovi.
+   </tei:p>
+   <tei:p>
+    — Co si počneš? Najlepšie, keď pôjdeme. Niet hostí, nemáš čo   robiť.
+   </tei:p>
+   <tei:p>
+    — Musím ich nejakým činom privábiť, — rozhodol Javor. — Dám   doniesť plzenčiny. Iste prídu. Poznám ich. Nebudú sa môcť zdržať.
+   </tei:p>
+   <tei:p>
+    Plzenčina prišla. Vytrčily sa krásne ceduľky do okien, ale veru   neprivábily nikoho . . . Ale aj miestnosť je už akási nečistá. Treba   bude zamalovať. Krásne vymaľovali izby. Jagalo sa všetko. — Neprišiel   nik.
+   </tei:p>
+   <tei:p>
+    — Aspoň mládež zvábim, keď nie tých starých hlupákov! — nadával   Javor.
+   </tei:p>
+   <tei:p>
+    A odrazu zjavila sa v novospravenej kase krásna brunetka s modrými   očičkami a žltkastými obrvami. Sedela graciózne a usmievala sa celkom   nevinne. Prišli niektorí mladí ľudia, ale len s otázočkami. Tak   očistom spytovali sa posluhov.
+   </tei:p>
+   <tei:p>
+    — A nebol tu môj priateľ Prútik?
+   </tei:p>
+   <tei:p>
+    — Nie, pane.
+   </tei:p>
+   <tei:p>
+    — Kde ten môže byť? Idem ho hľadať.
+   </tei:p>
+   <tei:p>
+    A už vychádzal. Keď prišli dvaja, pýtali sa na tretieho.
+   </tei:p>
+   <tei:p>
+    — A nebol tu náš priateľ Zárožný?
+   </tei:p>
+   <tei:p>
+    — Nie, pane.
+   </tei:p>
+   <tei:p>
+    — Kde ten môže byť? Poďme ho hľadať.
+   </tei:p>
+   <tei:p>
+    A už boli von.
+   </tei:p>
+   <tei:p>
+    I o týchto sa dozvedeli, že boli dvoriť kasírke. Pili pri kase   koňak a boli veľmi vtipní. Každá dáma im to vedela povedať. Vystali i   oni. Darmo lepil Javor plakáťy po stenách, že prišlo znamenité   mníchovské pivo, že dáva najlepší pezinok po 40 kŕ. Neprichádzal nik.   Prišli umelci. Darmo skvelý sa veľké červené plakáty po rohoch, že u   Javora spieva chýrna miss Tony, alebo Rozy a produkuje sa svetoznámy   umelec na trúbach. Neprišiel nik.
+   </tei:p>
+   <tei:p>
+    22
+   </tei:p>
+   <tei:p>
+    ﻿Javor len čakal, čakal. Prešlo štvrť roka, Páni neprichádzali. Ak   prišiel jeden, hneď sa vyzradilo. Radšej neprišli. Prešiel polrok. U   Javora prázdno, púšť, nemota. Aj veľké acetylénové svetlá hasly.   Zjavily sa olejové lampy. Potom sviečky.
+   </tei:p>
+   <tei:p>
+    Nahneval sa Javor. Praštil všetkým. Zatvoril obchod. Zmizol...
+   </tei:p>
+   <tei:p>
+    Bolo podvečer. Po ulici, zatienenej rozvetvenými a páchnúcimi   gaštanmi, prechádzalo sa obecenstvo. Páni, dámy, slečinky, deti s   bonami, obmčiami, fúrikmi a hrkálkami. Kráčal som k svojej snúbenici   a bol som dosť sentimentálne naladený. Poézia rozlievala sa mi dušou   a celým mozgom . . . „Ktože by vás nemal rád, dámy? myslel som   si. „Ktože by si vás neuctil? Ako ľahko zdvihne dvoje slabých   rúk celý tento svet z blata a hnusu do výšin medzi hviezdy. Dvoje   krehkých rúk zamaľuje čiernu plachtu života na skvostný, jasavý   obraz. A my kocháme sa v ňom. Váš dych zničí kvety mrazu na tablách a   my odrazu vidíme ruže v oknách, voňavé, veľké ozajstné ruže. Ktože by   vás nemiloval, kto nectil? Pokým ste ženy . ..
+   </tei:p>
+   <tei:p>
+    A-á-á! Servus kamarát! — zahrčalo mi niečo do ucha.
+   </tei:p>
+   <tei:p>
+    Pozriem — Táravý.
+   </tei:p>
+   <tei:p>
+    Ach, Táravý! Kde si ty?
+   </tei:p>
+   <tei:p>
+    — Obyčajne doma.
+   </tei:p>
+   <tei:p>
+    — Čo robievaš?
+   </tei:p>
+   <tei:p>
+    — Mlčím a poslúcham. Ani sa nespytuj. Ja som vlastne mníchom a môj   byt je kláštorom.
+   </tei:p>
+   <tei:p>
+    — Nehovor.
+   </tei:p>
+   <tei:p>
+    Sli sme spolu. Videli sme zavreté dvere niekdajšieho Javorovského   hostinca.
+   </tei:p>
+   <tei:p>
+    — Kam teraz chodíte? — opýtal sa Táravý.
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+   <tei:p>
+    ﻿— Do akejsi hnusnej krčmy. Ani jesť, ani pif.
+   </tei:p>
+   <tei:p>
+    — Ci by bolo dobre teraz zájsť k Javoroví. — A šiel by si?
+   </tei:p>
+   <tei:p>
+    — Teraz nie. — Prečo?
+   </tei:p>
+   <tei:p>
+    — Pozri hore.
+   </tei:p>
+   <tei:p>
+    Nad našimi hlavami v obloku vis á vis bývalého hostinca zazrel som   staršiu, zapudrovanú ženskú tvár s veľkým účesom, veľkou zlatou   brošňou pod bradou a veľkými ametystovými náušnicami. Ľstivými,   širokými očami hľadela na mňa.
+   </tei:p>
+   <tei:p>
+    — Kto je to? — spýtal som sa. —■ Moja žena — šepol Táravý.
+   </tei:p>
+   <tei:p>
+    Veru škoda Javora! — počal som zasa. — Kto to len vyzrádzal a   intrigoval?
+   </tei:p>
+   <tei:p>
+    Táravý ukázal hlavou hore. — Tá pani?
+   </tei:p>
+   <tei:p>
+    — Tá.
+   </tei:p>
+   <tei:p>
+    — Tvoja žena?
+   </tei:p>
+   <tei:p>
+    — Ona. Celé hárky papieru som odhalil. Samé značky a mená. Známe   mená. Celý deň sedávala pri okne, ba i v noci, ráno zavčasu a   značila, značila a roznášala každý deň tri razy.
+   </tei:p>
+   <tei:p>
+    — Tvoja pani? — spýtal som sa ešte raz. — Ona.
+   </tei:p>
+   <tei:p>
+    V ten večer nešiel som k svojej snúbenici.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

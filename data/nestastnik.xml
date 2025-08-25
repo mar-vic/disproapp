@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944746" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Nešťastník : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4948
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Nešťastník
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tatran
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     NEŠŤASTNÍK.
+    </tei:head>
+    <tei:head>
+     (Malomestská príhoda.)
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Aloiz Murín, asi 35-ročný mladý človek, zavalitý a ramenatý, s   tenkými fúzikmi pod
+   </tei:p>
+   <tei:p>
+    hrbatým nosom, počernej pleti, podsudca pri kráľovskom okresnom   súde, bol by celkom šťastným človekom býval, keby nešťastnou náhodou   nebol mal štyri tetky: Teréziu Činčalovú, Adelu Mrkváčikovú, Gabrielu   Lukovickú a Žofiku Žížnikovú. Všetko vdovy. Obstarné, dobroprajúce   dámy vyše päťdesiatky. Ono by to bolo ešte ušlo, keby boly bývalý   roztratené po krajine. Ale bývalý na hŕbe. Čo viac v Četniciach. A čo   je ešte viac, boly jedna s druhou znamenité priateľky. Navštevovaly   sa. Milovaly sa. Áno, ak bolo treba, keď sa nemohly kuknúť,   dopisovaly si. Ba v tuhej korešpondencii stály s mamičkou pána   podsudcovou, ktorá bývala v Rozkalovciach, dedine v tretej stolici.   Aj navštevovaly ju. Navštevovaly aj pána podsudcu. I jeho bratov, i   jeho sestry. Pán podsudca ich síce pourážal, keď pred polrokom   prišiel a vzal
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿si osobitný, dvojizbový byt. Ale srdcia vdov odpúšťajú všetko.
+   </tei:p>
+   <tei:p>
+    — Alojzko! U mňa budeš bývať, — povedala tetka Réza, — mám   izbičku. Práve pre teba. Ku mne chodí celá inteligentná spoločnosť. .   . Naučíš sa pánskym mravom ... Osvojíš si hladké, elegantné   obcovanie... spôsoby... U tety Adelky nenašiel by si zábavy...   Marlittku by si jej musel prečiíovať.„. Poznáš ty Eugéniu John?   Vidíš! Veď to bola Marlittka... A vieš, kedy sa narodila?... Vidíš!   Čo je Goidelse?... Čo je Blaubart? Die zweiíe Frau? ... Das Geheimnis   der alten Mamsell? Vidíš... Musel by si sa najprv vzdelať v   literatúre. U tetušky Ely by si musel vždy jesť a prehítať   homeopatické pilulky... Tetka Zofika by ťa k stolíku prikovala.   Nesmel by si sa pohnúť z dornu . .. Krajciarika strovif... A platiť   by si dala, — dodala potichu. — U mňa budeš bývať. Punktum.
+   </tei:p>
+   <tei:p>
+    — Ale čo! Kdeže by si ty býval u tetušky Réziky ... Tam aby si   vždy bol klak, frak, lak ... Samé soaré, samí hostia... Na bukréty by   si vydal pol platu ... Hlúposti. Leu u krajčíra by si sa zadížil. Máš   smoking? Máš redingot? Salónrok? ... Príde slúžny ... Ten chodí v   redingote. Musíš maf redingot... Oberst chodí v salónroku ... Musíš   mat salónrok ... A statkár Ledovitz vždy vo smokingu. Musíš mať   smoking... Na Murína sa tak patrí... U mňa.je ticho. My len čítame.   Vzdelávame sa. Do bibliotéky dáme posteľ. Perín máme vyše práva. Tu   zostaneš...
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿— Ani u Réziky, ani u Adelky, — povedala tetka Gabriela. Nezdravé   byty. Rézika kúri, ani čo, by celé hory mala k dišpozícii. Adelka   zasa nič. Tam je horúce, tu zima. U mňa je všetko hygienicky, ja ti   dám aj kost. Takého veru nedostaneš u „Vola“, ani v „Hviezde“. Všetko   zlé kuchárky. A u Rézy! Tam by si nasiakol samými parfúmami ... U   Adelky by si hladom umrel. Žofika sama nemá kam hlavu skloniť.   Hygienicky kost a byt, to je hlavné... A to nikde inde nemáš, leda u   mňa . ..
+   </tei:p>
+   <tei:p>
+    Tetka Žofika odporúčala seba. Vďačne sa podelí s Lojzíkom s izbou   ... — Aspoň sa naučíš skromnosti a gazdovaniu.
+   </tei:p>
+   <tei:p>
+    Pán podsudca nechcel uraziť ani jednej. Vzal si osobitný byt a   urazil všetky.
+   </tei:p>
+   <tei:p>
+    — Aký to separatizmus ... Čože chce? Hneď palác? — ponosovala sa   teta Rézika. — Môj salón mu je nie dosť veľký? — Moji hostia sa mu   primálo?
+   </tei:p>
+   <tei:p>
+    — Tešila som sa mu, — povedala Adelka, — akiste rád lumpáči ...   Tak nebude z neho nikdy vzdelaný sudca.
+   </tei:p>
+   <tei:p>
+    — Nech, — podotkla tetka Gabriela — s tými krčmárskymi kostmi si   iba žalúdok pokazí. — Groše po daromnici vyhadzovať! — zahundrala   teta Žofika, u mňa by bol mal všetko lacnejšie.
+   </tei:p>
+   <tei:p>
+    Konečne byt a kosí sú veci významné. Taká kuracia polievočka a   rozbrátlik s pečenou cibuľkou sú veci, povedal by som, aspoň také   poetické,
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿ako oči a tvár pekného dievčaťa... Nemôžeš sa pohľadom nakochaf.   Až keď si zapapkáš, utíchnu tvoje túžby. Až keď sa k tej tváričke   priblížiš nejakým tým bozkom a oči si podmaníš, aby ony na teba   hľadely, — cítiš sa príjemne a spokojne... A ako dobre ti padne po   takom obede v príjemnej, tichej izbe, na diváni si poležať. Berieš   novinky. Zapaľuješ čibuk. Myslíš a skladáš básne. A veď si ty sám   báseň. Sám ty musíš uznať svoje položenie básnickým. Byt a kost sú   veci významné. Toto uznal aj pán podsudca. Ale nemohol tetušky   uraziť. Na štyroch miestach nemožno bývať. Bývať na jednom znamenalo   by urážku troch teták. Nie, nie, pán podsudca nechcel urážať. Najmä   pán podsudca. Veď to bol človek znamenitý, mäkkého srdca. Chcel sa   každému páčiť, každému sa akomodovať, každému za dosť urobiť. Človek,   ktorý nevedel povedať: „Nie.“ Ktorý nebol taký, za akého ho Pán Boh   stvoril, ale za akého ho chceli iní, najmä tetušky. Človek, ktorý sa   neprestajne zrádzal k vôli iným. Nemal rád na príklad pichľavých   vecí. Látky výbušné sa mu, povedzme, protivili. Veršov akživ nečítal.   Vedel iba tie, ktoré sa v školách naučil. Žltá kaša mu od časov   alumnií prevracala žalúdok. V skutočnosti radšej mal bryndzové   halušky, ako homeopatické pilulky. A Bože! Bože! Ako sa človek k vôli   tetuškám premení!
+   </tei:p>
+   <tei:p>
+    Bol na návšteve u tetky Réziky.
+   </tei:p>
+   <tei:p>
+    — Nože mi požičaj svojho penicílika, — pýtala pána podsudcu.
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿— Nemám nožíka, — povedal skormútene. A klial si v duchu, že   nemôže Rézike takou maličkosťou poslúžiť.
+   </tei:p>
+   <tei:p>
+    — Vreckového nožíka nemáš? — zhrozila sa tetka, — to si ty chlap.   Môžem povedať. Iný človek si flintu kúpi. A ty ani nožíka ... Hú!
+   </tei:p>
+   <tei:p>
+    Otrčila mu špendlík, aby ho naľakala.
+   </tei:p>
+   <tei:p>
+    — Nebojíš sa ma? — spýtala sa ho s posmechom.
+   </tei:p>
+   <tei:p>
+    Čože bolo pánu podsudcovi robiť? V najbližšom obchode si kúpil   nožíček za päť korún. Objednal dupľovku za 200 korún, aby sa mu tetka   neposmievala.
+   </tei:p>
+   <tei:p>
+    — No vidíš, to je pekne, — pochválila ho Rézika, keď sa jej   pochválil, že už má dupľovku.
+   </tei:p>
+   <tei:p>
+    — Aký to nožíček máš ? — vykríkla teta Adela, keď bol u nej a   čistil si nožíčkom nechty.
+   </tei:p>
+   <tei:p>
+    — To som si kúpil.
+   </tei:p>
+   <tei:p>
+    — Čo stál?
+   </tei:p>
+   <tei:p>
+    — Päť korún.
+   </tei:p>
+   <tei:p>
+    — Nie že by si bol kúpil nejakú knihu. „Ben-Hur“ je taká znamenitá   ... Ani viac nestojí, ako päť korún.
+   </tei:p>
+   <tei:p>
+    — Ben-Hur?
+   </tei:p>
+   <tei:p>
+    Pán podsudca po návšteve utekal kúpiť „Ben-Hur“. Chcel ho aj   prečítať, ale pozrel iba začiatok, prostriedok a koniec, aby vedel z   neho voľačo. Odniesol ho tetke Adele. Cestou sa stretol s tetkou   Gabrielou.
+   </tei:p>
+   <tei:p>
+    — Čo to nesieš pod pazuchou?
+   </tei:p>
+   <tei:p>
+    — Ben-Hur.
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿— Čo je ío? — Kniha. Román. — iste stála nejakú korunu. — Päť. —   Za to by si bol dosta! šesť kilo sviečkovice. Zalomila rukami od   zhrozenia. — Gazduj Lojzík, gazduj, — povedala tetka Žofika.
+   </tei:p>
+   <tei:p>
+    Pán podsudca podľa toho stal sa u tety Réziky elegantným pánom.   Chodieval k nej výlučne v čiernom s lepšími topánkami. Tu bol   duelantom a poľovníkom. Strieľal a pichal. Hovoril po pánsky, nosom a   vždy si jednu rukavičku stiahol, kým na dvere zaklepal. K tetke Adeie   sa nemusel preobliekať. Aj ona mala rada pekné šaty. Ale tu už   hovoril o poézii, hudbe, speve, skulptúre .. . O geniálnych a   talentovaných ľuďoch. Rečnil Pieseň o zvone od Schilíera. Citoval   tri, štyri riadky z Homéra, Vergila a Ovida... Bol zčítanýrn ...   Vymýšľal romány a dával im tituly ... Ku tetke Gabriele sa už   primerane musel obliecť. Keď bola zima — prišiel teplo odetý, keď   bolo teplo, prišiel v ľahkých šatách. Hovoril o homeopatii, ako   jedinom prostriedku liečenia. Nadchýnal sa za konzekventnú hygienu.   Rozprával o mäse a kasičkách ... K tetke Žofike sa musel odieť čo   najskromnejšie, nikdy nie v lakírkach. Mal k vôli tejto tetke pletené   rukavice ... Reč bola o drahote... Ako stúpa múka. Ako cukor dražie   ... Petrolej zlacnel... A že za korunu teraz nemožno ničoho   kúpiť...
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+   <tei:p>
+    ﻿Jedna žiadala, aby bol hrdým, sebavedomým. U tej bol hrdý,   sebapovedomý. Druhá mu nadišpuíovala, že je lepšie byť skromným. U   tej bol skromným. Tretia povedala, že je škoda moc hovoriť, ale   radšej vzdelávať sa, čítať... U tej bol tichý a vzdelaný. Štvrtá si   žiadala, aby o všetkom hovoril a povedal, čo mal na obed. U tej veľa   hovoril a rozpovedal jej aj to, čo jedol na obed.
+   </tei:p>
+   <tei:p>
+    Ku takémuto životu treba sú sily, treba sú štúdie. Podsudca veru   aj študoval. Učil sa. Držal illusírovaný časopis vysokej spoločnosti,   k vôli Rézike. Objednal jeden literárny, k vôli tete Adele. Jeden   vegetariánsky, k vôli Gabriele. Jeden hospodársky, k vôli tetke   Žofike. Politické prečítal pri obede a večeri a vedel všetko.
+   </tei:p>
+   <tei:p>
+    Lenže tetušky žiadaly, aby ich skoro každodenne navštevoval. To   bolo moc. Nad jeho duševné a telesné sily. Cítil sa nešťastným. Čím   ďalej, tým nešťastnejším. Až napokon stal sa celkom nešťastným.
+   </tei:p>
+   <tei:p>
+    V jedno decembrové predpoludnie sedel v svojej súdobnej sieni.   Nepokonávalo sa a tak bol sám s protokolistom Černianskym. Oprel sa o   dlhý stôl s krucifiksom, knihami a fascikulmi aktov a složiac hlavu   do dlane díval sa von oknom na rýnok. Bol špatný čas. Padal sneh   pomiešaný s dažďom. Na rýnku nebolo vidno človiečika. Mláky   rozpusteného snehu sa černely. So striech
+   </tei:p>
+   <tei:p>
+    77
+   </tei:p>
+   <tei:p>
+    ﻿kvapkalo. V sieni bolo ticho. Protokolista s veľkou červenou   tvárou a s cvikrom na nose odpisoval nejaké uzavretie a škriabal   perom zabratý do práce.
+   </tei:p>
+   <tei:p>
+    Odrazu pán podsudca zahrešil. Celkom nepekne a nahlas   zahrešil.
+   </tei:p>
+   <tei:p>
+    Pisár sa strhol, a v nedorozumení pozrel na svojho   predstaveného.
+   </tei:p>
+   <tei:p>
+    — Čo sa mu robí? — myslel si, — nikdy som ho nepočul hrešiť...   Sedí nad písmami... Nepracuje... Len sa díva, díva do sveta a odrazu   hreší... Labudík kontra Labudík je nie nič ťažkého. Svedkovia   dokázali všetko.
+   </tei:p>
+   <tei:p>
+    — Povedali ste niečo, Černiansky? — spýtal sa podsudca a obrátil   sa k protokolistovi.
+   </tei:p>
+   <tei:p>
+    — Ja nič. Vy ste zahrešili,
+   </tei:p>
+   <tei:p>
+    — Zahrešil?
+   </tei:p>
+   <tei:p>
+    — Áno.
+   </tei:p>
+   <tei:p>
+    — Kedy?
+   </tei:p>
+   <tei:p>
+    — Pred chvíľou. — Ešte na mňa svalí, — doložil pre seba. — Vidíte,   ani neviem. Od týždňa ma svrbí dlaň. Rád by sa vyzauškoval. Skočil so   stoličky a vopchajúc ruky do kabátových vrecák, rýchlym krokom počal   sa prechádzať k dverám, od dvier a okolo svojho stolíka. Protokolista   složil cviker a pero strčil za ucho. — Ja som idiot, — rozhovoril sa,   — idiot. Idiot. Černiansky! Ja som idiot, — zakričal... Buďte takí   láskaví, vyzauškujte ma! Zprava a
+   </tei:p>
+   <tei:p>
+    78
+   </tei:p>
+   <tei:p>
+    ﻿zľava. Zaslúžim. Celkom seriózne. Vy budete takí dobrí a   vyzauškujete ma.
+   </tei:p>
+   <tei:p>
+    Zastal pred protokolistom a nastrčil svoje okrúhle líca.
+   </tei:p>
+   <tei:p>
+    — Ale pre Boha! Prečo? — sprotivil sa pisár a uprel nedôverčivý   pohľad na podsudcu, ktorý stál pri ňom.
+   </tei:p>
+   <tei:p>
+    — Neurobíte mi to k vôli?
+   </tei:p>
+   <tei:p>
+    — Pán Boh chráň!
+   </tei:p>
+   <tei:p>
+    — Tak ste mi nie priateľom.
+   </tei:p>
+   <tei:p>
+    Hodil rukou a prešiel za svoj stolík. Tam zastal a smutne zakýval   hlavou:
+   </tei:p>
+   <tei:p>
+    — Nik mi je nie priateľom, — zamrčaL rezignovane a sadol si.
+   </tei:p>
+   <tei:p>
+    — A načo potrebujete zaucho? — opýtal sa pisár po chvíli.
+   </tei:p>
+   <tei:p>
+    — Rád by mal aféru ... Aby ma preložili ... Na akýkoľvek spôsob   ... Len preč, preč ... Nemôžem sa zmôcť na to, aby bol sám sebe   pánom. Viete, že mám tu štyri tetky... Pamätáte na októbrový koncert.   Bola tanečná zábava po ňom... Slečnu Anetu Burdíkovskú poznáte? Tá sa   mi páčila, netajím.. . Ale tam boly aj tri moje tetky... Ony   diktovaly s kým tancovať... Rézika vraví: „Nože heno tú. V tej   ružovej toalete. To je Amálka Hvizdáková.“ Letím a vykrúcam .. .   Tetka Adela ma volá a šepce: „Čo sa len zapodievaš s takým horenosom.   Vykrúť tú v tom zelenom. Veľmi dobrá tanečnica a inteligentná,   duchaplná. To je Marienka Lamošová. Bež!“ Bežím k Marienke Lamošovej   a tancujem ...
+   </tei:p>
+   <tei:p>
+    79
+   </tei:p>
+   <tei:p>
+    ﻿Zakýva na mňa tetka Gabriela. „Čo ty s takými dámami s limíatickou   krvou ... Pozri tú v tom svetlom. Olinka Malíková. S tou tancuj.“ Čo   robiť? Tancujem s tou ... Ale mne nedá pokoja Aneta ... Tancujem s   ňou čardáš ...
+   </tei:p>
+   <tei:p>
+    Podsudca rozhovoril sa o Änete... Aké je to pekné dievča tá   Aneta... Tenké s úzkym pásom a pleciami... Vysoké, ale zato tuhé.   Mala biele hodvábne šaty s krátkymi rukávcami a na nich čipky...   Tmavogaštanové vlasy s bielou stuhou, rozdelené pútcom na dve rovnaké   polovice, načuchrané, až na uši, skolmované na vlnky a zahrnuté vo   vrkoč na temene hlavy... Sivé, veľké oči dívajú sa na vás vážne,   prostodušne. A ako jej oči, taká oddaná, naivná, veselá prostorekosť,   taká domácka, dobre vychovaná. Ako sa mne páči ... Vše len o tom, aká   je u nich čistota. Až do prepiatia. U nich to musí isť, ako po šnúrke   ... Že vraj sa vždy vymetá, čistí, popráva, umýva, drhne, behá,   lieta, chodí sem a tam. Mamička si ani na chvíľku nesadne. Ona,   Aneta, len čo prisadne ku klavíru — lebo i ona hrá — klasicky hrá,   Cerniansky! Klasicky! Vykríkol pán podsudca od nadchnutia .. . Len čo   si prisadne ku klavíru, už jej mamička kreslí veľké „A“ do prachu   klavíra... — Najprv, — hovorí, — poriadok, potom hra... Zapáčila sa   mi. Človek je nie z ocele... Po supé-čardáši všetky tetky zazerajú na   mňa... Čo ty s takou učiteľovou dcérou tancuješ .. . vraví Taká   drnda. Uráža Adela. Krivá a
+   </tei:p>
+   <tei:p>
+    80
+   </tei:p>
+   <tei:p>
+    ﻿bez krvi, hovorí teta Gabriela ... Lenže mne sa popáčila. Veľmi   ... Po zábave, vše potajme sme sa niekedy sišli. Vždy potajme, aby sa   tetky nedozvedely. Ony by ju rozniesly ... Na drobné kusy   roztrhaly... Ale tajnosťou to nesmie zostať... Dievča čaká moje   osvedčenie ... Ako sa vraví, — vyjadrenie... Asi pred týždňom som   písal matke... Viete, pripraviť som ju chcel... Píšem len toľko: „Rád   by sa oženil,“ čert mi pošepol ... Nechcem rozpory robiť v rodine ...   Ale už predvčerom som dostal štyri lístočky od mojich teták. To im   iste matka písala. Píšu, aby ich hneď a hneď navštívil. Listy som len   večer dostal. Isť som nemohol ... Viete, pre tú vraždu bola okuláta v   Lipovom... Nemohli vraždiť bližšie! Celý deň sme boli zamestnaní.   Večer o pol jedenástej som prišiel domov ... Jedným slovom, nebolo mi   možno odísť... Teraz si predstavte. Včera ma všetky tetky navštívily   ... Dobre, že sa nepostretaly ...
+   </tei:p>
+   <tei:p>
+    Podsudca si vydýchol a zamračil sa.
+   </tei:p>
+   <tei:p>
+    — Každá mi radí, aby sa oženil, — pokračoval skormútene.
+   </tei:p>
+   <tei:p>
+    — Pani Činčalová, to jest tetka Réza, má pre mňa Amálku   Hvizdákovú. Rozumie sa, že znamenité dievča. Prsty by som si mohol   oblízaf... Jazdí na koni. Panské aliire. Vysoké koneksie ... To by   bolo pre teba, už ako pre mňa... Ja ti ju už vykonám. Nič sa nemusíš   starať... Mrkváčiková, druhá tetka, mi vraví: „Ženu som ti vybrala.   Marienku Lamošovú ... Mladá, pekná
+   </tei:p>
+   <tei:p>
+    6
+   </tei:p>
+   <tei:p>
+    81
+   </tei:p>
+   <tei:p>
+    ﻿a učená. Maľuje, spieva, hrá. A majetku dosť a dosť... Budem sa   shováraf s pani Lamošovou... Lukovická, tretia tetka, už aj   nahovárala pre mňa Olinku Malíkovú . . . Znamenitú kuchárku a zdravé,   čerstvé dievča ... Žížniková, že má pre mňa akúsi Malvínu Jácintovú   ... Robotné ruky, cenné srdce a 30.000 ... Matka mi odpovedala a   hudie, aby sa s nejakou hlúpou husou nezamotal a jej list je samá   Zuzka Špinágľová... Zuzka Špinágľová ... Zuzka Špinágľová ... A   podsudca sa horko usmial. — Pekný výber, — podotkol protokolista. —   Veru pekný, — prisvedčil podsudca, — aby bol človek mohamedánom... A   práve dnes, práve dnes som volaný k Burdíkovcom na pagáčiky. Starý ma   volal. Zavzdychol a pohrúžil si tvár do dlaní. — Nič mi nepozostáva,   ako sa dať preložiť. — Ešte čo! — zvolal protokolista, ktorý len pred   chvíľou začal veriť na kritické položenie podsudcovo. Videl, aký je   naozaj strápený. — Najradšej by čaroval s nejakým kolegom. — Ba to! —   Čo mi iného pozostáva. Veď ma budú prenasledovať. Ustavične mi budú   húsť: „Málika. Marienka. Olinka. Malvínka. Zuzanka!“ A viete, aký som   ja idiot. Ešte im povolím ... Budem dvoriť všetkým a ztratím Anetu   ... — Ale to už len uznajú, že sa nemožno so všetkými oženiť, —   bránil protokolista. — Neuznajú. Roztrhajú ma na franforce.
+   </tei:p>
+   <tei:p>
+    82
+   </tei:p>
+   <tei:p>
+    ﻿— Možno, že sa im zapáči slečna Aneta.
+   </tei:p>
+   <tei:p>
+    — Viem po tom koncerte čo hovorily... Podľa nich by to bolo   rodinné nešťastie s takou holotou mať niečo. Nie je ani bohatá, ani z   vysokého rodu, ani koneksií nemá. Nevie variť. Fiflena. Bledá.   Piluliek neužíva. Málokrvná. Chorá. Nosí veľké klobúky. Nemá ani   poriadnych topánok ect.... Nepáči sa im a mňa by ukrižovaly, keby   zvedely, že sa vážne zaujímam. Matka by vydedila... Ale veď vy mne aj   tak neporadíte Černiansky. Darmo sa vám tu spovedám ...
+   </tei:p>
+   <tei:p>
+    A znova pohrúžil tvár do dlaní.
+   </tei:p>
+   <tei:p>
+    Protokolistovi začalo byť ľúto podsudcu. Pomyslel si, koľko mu už   pohárikov piva zaplatil... Človek znamenitý, len slabý. Treba by mu   bolo pomôcť...
+   </tei:p>
+   <tei:p>
+    — Voľačo vymyslím, — poznamenal.
+   </tei:p>
+   <tei:p>
+    — A čo? — zachytil podsudca.
+   </tei:p>
+   <tei:p>
+    — Počkajte. Rozmyslím to.
+   </tei:p>
+   <tei:p>
+    Prišla mu na myseľ jeho sestra Ema. 40-ročná, stará panna, ktorá   mala skliepok v poštovej ulici. Ona sama býva na poschodí. Na tom   poschodí je jedno okno vždy otvorené do vnútra. Ale roletne sú   spustené. Vždycky spustené. V jednej škáre má ďalekohľad, ktorým vidí   aj na rýnok ... Možno, že aj nás vidí a počuje, — pomyslel si. Táto   osoba vie všetko... A všetko všade a hneď rozchýri ... Verí všetkému,   čo sa pod tým oknom a okolo neho môže počuť a vidieť a už to aj nesie   k súsede, druhej, tretej, desiatej... Potom si pomyslel, že sú mu   podslúžny a sta-
+   </tei:p>
+   <tei:p>
+    6
+   </tei:p>
+   <tei:p>
+    83
+   </tei:p>
+   <tei:p>
+    ﻿rosta stanice dobrými priateľmi... Keby tak chceli s patričnými   dámami pod to okno isť a tam sa zasnúbiť.
+   </tei:p>
+   <tei:p>
+    — Splnomocnite ma, pán podsudca, aby mohol robiť podľa vôle, —   prehovoril po pomlčke protokolista. — Možno, že sa vydarí.
+   </tei:p>
+   <tei:p>
+    — Ako?
+   </tei:p>
+   <tei:p>
+    — To je moja tajnosť.
+   </tei:p>
+   <tei:p>
+    — Splnomocňujem vás.
+   </tei:p>
+   <tei:p>
+    — Zaplatíte dobrú večeru, ak sa podarí.
+   </tei:p>
+   <tei:p>
+    — Zaplatím.
+   </tei:p>
+   <tei:p>
+    Protokolista si založil cviker. Ten sa jagal a zväčšoval jeho   jasajúce oči.
+   </tei:p>
+   <tei:p>
+    — Ako malý foršús môžete si isť vypiť niekoľko pohárikov na môj   účet. Aj porciu gulášu si dovoľte, doložil podsudca.
+   </tei:p>
+   <tei:p>
+    Černiansky odišiel. Nie do krčmy, ale rovno na stanicu.
+   </tei:p>
+   <tei:p>
+    Tu sa shováral s náčelníkom stanice. Vyložil mu, ako podsudca   dešperuje. Núkajú mu na silu Marienku Lamošovú. Ešte sa zastrelí, aký   je citlivý.
+   </tei:p>
+   <tei:p>
+    — Viem, že ju poznáš, — hovoril, — ide o to, aby si ju dnes na   prechádzke zachytil do poštovej ulice a tam pod oknom, čo je pri   skliepku mojej sestry Emy, sa nahlas zasnúbil s ňou... že ju miluješ   a kedy ju môžeš prísť vypýtať... Toto má počuť moja sestra Ema. Tá to   roznesie a Marienka bude zasnúbená s tebou ...
+   </tei:p>
+   <tei:p>
+    — Ale veď sa tým kompromituje dievča.
+   </tei:p>
+   <tei:p>
+    — A prečo by si si jej nevzal?
+   </tei:p>
+   <tei:p>
+    84
+   </tei:p>
+   <tei:p>
+    ﻿— Nebude chcieť.
+   </tei:p>
+   <tei:p>
+    — Prosím ťa, probuj. Dievča je žartovné. Povedz jej, že teba nútia   za Máľu Hvizdákovie a ty sa chceš sťa by kompromitovať s ňou, aby   ľudia povedali, že ty Marienku máš rád. Veď si človek nie na   zahodenie. Marienka si pomyslí, že z tohoto žartu môže byť aj vážna   vec a ubezpečujem ťa, vojde do toho.
+   </tei:p>
+   <tei:p>
+    — Dobre, probujem, — sľúbil náčelník.
+   </tei:p>
+   <tei:p>
+    Podali si ruky na znak slova. Protokolista bežal k podslúžnemu.   Nahovoril mu tiež, čo je s Murínom. Nútia mu Máliku Hvizdákovie. Keby   si ju on zasnúbil — zo žartu, alebo naozaj, tam a tam ... Pozná   Máliku dobre. Povie jej, že ho nútia za Marienku Lamošovie a rád by   sa vykĺzol týmto spôsobom. Dievčatá sa radi obetujú v takýchto   veciach. A tak ďalej.
+   </tei:p>
+   <tei:p>
+    — Dobre, — prisvedčil podslúžny.
+   </tei:p>
+   <tei:p>
+    Doma sa opýtal sestry Emy, či počula najnovšiu udalosť.
+   </tei:p>
+   <tei:p>
+    — Mladý poštmajster sa vari už aj zasnúbil s Olinkou   Malíkovou.
+   </tei:p>
+   <tei:p>
+    — Kto ti to povedal?
+   </tei:p>
+   <tei:p>
+    — Sám poštmajster.
+   </tei:p>
+   <tei:p>
+    Sestra Ema roztvorila na široko oči od udivenia. Ani   nedoobedovala. Váry sa ani nedotkla. Ani čo by pod ňou horelo, tak sa   hnieždila. Napokon oznámila, že musí ísť k tetke Bendelíkovie.
+   </tei:p>
+   <tei:p>
+    — Prosím fa, — povedal jej brat, — nože sa spýtaj, čo vie o slečne   Malvínke Jácintovej.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    85
+   </tei:p>
+   <tei:p>
+    ﻿— Dnes bol akýsi kapitán v pozemkovej knihe ... Vysoký. Počerný   ... Dlhé bakombardy ... Dal si otvoriť protokoly Jácintovcov a   pozeral so mnou, čo majú ... Opýtal sa, kde bývajú. Rád by vraj   návštevu urobiť... Iste je to v spojení so slečnou Malvínkou. Sľúbil   som mu, že sa prezviem o ich materiálnych pomeroch ...
+   </tei:p>
+   <tei:p>
+    Ema ani neodpovedala. Len slúžke Marke rozkazovala :
+   </tei:p>
+   <tei:p>
+    — Nože chytro klobúk!... Kde sú mi ihlice ?... Nie tie   rukavičky!... Alebo ich daj. To je jedno ... Skoro tú gombačku!...   Bendelíková chodí hneď po obede ku Kutnickým ... Nezastihnem   jej...
+   </tei:p>
+   <tei:p>
+    Ani si rukavičiek nepozapínala. Odbehla.
+   </tei:p>
+   <tei:p>
+    — To je nové, — myslela si, tam to ešte nebudú vedieť. Ale, že som   to ja ešte nepočula, divila sa v duchu.
+   </tei:p>
+   <tei:p>
+    Protokolista sa usmieval a trel si ruky radosťou.
+   </tei:p>
+   <tei:p>
+    Murín medzitým, čo sa toto dialo, sedel za svojím stolíkom a znova   zadíval sa cez okná na rýnok. Chumáčový sneh premenil sa na dážď.   Vietor počal podúvať a šibal ním o okná. Drobné kvapky bránily   výhľad. Spojovaly sa v jarčeky a tiekly dolu na rámy a na plechové   výklenky.
+   </tei:p>
+   <tei:p>
+    Na chvíľu sa bol potešil, ale zasa zmalátnel. Nedôveroval v pomoc   protokolistovu. Bolo mu smutne na duši. Myslel na Anetu.
+   </tei:p>
+   <tei:p>
+    86
+   </tei:p>
+   <tei:p>
+    ﻿Po obede, ako obyčajne, išiel podsudca do kaviarne. Ledva sa   složil, počul, že ho po mene volajú.
+   </tei:p>
+   <tei:p>
+    — Pane Murín! Pane Murín! Obzrel sa.
+   </tei:p>
+   <tei:p>
+    Pozri, pozri. Veď ho to pán plukovník Hvizdák volá. Usmieva sa mu   od tarokov a klania sa neobyčajne zdvorilé.
+   </tei:p>
+   <tei:p>
+    — Poďte za štvrtého! — kričí.
+   </tei:p>
+   <tei:p>
+    Lenže podsudca nehrá tarokov. Prisadúva k tarokojúcim sa na   chvíľku.
+   </tei:p>
+   <tei:p>
+    — Akože sa máme, milý pane? — opytuje sa ho plukovník. Prekladá   karty a dodáva:
+   </tei:p>
+   <tei:p>
+    — Mohli by ste nás niekedy navštíviť.
+   </tei:p>
+   <tei:p>
+    — To teta Réza, — myslí si podsudca. Ďakuje za pozvanie.
+   </tei:p>
+   <tei:p>
+    — Budem taký smelý, — a dodáva pre seba: — Amálka Hvizdáková.   Číslo prvé ... Už to ide.
+   </tei:p>
+   <tei:p>
+    Len čo chlipol z kávy, čo mu k susednému stoličku doniesli, už   prisadá k nemu pán Lamoš. Podáva mu ruku a usmieva sa.
+   </tei:p>
+   <tei:p>
+    — Dobrý deň, pán podsudca! Dovolíte? — Dobrý deň! Nech sa páči, —   a robí mu
+   </tei:p>
+   <tei:p>
+    miesto.
+   </tei:p>
+   <tei:p>
+    — Hrávate šach? Nezahrali by sme partiu? — Prosím. Prosím.
+   </tei:p>
+   <tei:p>
+    Hoci je pánu podsudcovi nie vhod teraz hrať, predsa hrá.
+   </tei:p>
+   <tei:p>
+    — Aké špinavé figúrky, — vraví Lamoš, — poobtínané, polámané. Koňa   nerozoznať od sedliaka ... Doma máme osobitný stolíček. Keby
+   </tei:p>
+   <tei:p>
+    87
+   </tei:p>
+   <tei:p>
+    ﻿ste si nesťažovali a prišli niekedy... í dcéra Marienka i ja radi   hráme šach. Marienka neobyčajne ...
+   </tei:p>
+   <tei:p>
+    — Budem taký smelý, — hovorí podsudca a červenie sa. Pritom sa   hnevá, aký je neenergický. Veď mohol by povedať rovno: — Nemožno mi   prísť, a bolo by.
+   </tei:p>
+   <tei:p>
+    — Očakávame vás, — vraví Lamoš.
+   </tei:p>
+   <tei:p>
+    Keď išiel z kaviarne domov, stretol sa s veľkokupcom Malíkom.
+   </tei:p>
+   <tei:p>
+    — Odkiaľže, odkiaľ, pane sudca? — prihovoril sa mu. Vrátil sa s   ním, aby ho odprevadil.
+   </tei:p>
+   <tei:p>
+    — Ak dovolíte, odprevadím vás.
+   </tei:p>
+   <tei:p>
+    — Bude ma tešiť.
+   </tei:p>
+   <tei:p>
+    Kupec začal hovoriť o obchodoch. Drahom rume, výtečnom koňaku a   primá čaji. Rovno z Ruska ... Mohli by ste prísť na čašu čaju ... My   každý večer pijeme čaj... Pravý, ruský samovar. Strieborný. 500   rubľov stál... Jestliby sa páčilo pánu podsudcovi ...
+   </tei:p>
+   <tei:p>
+    — Budem taký smelý! — klania sa podsudca, pritom myslí na Olinku   Malíkovú ... To už teta Gabriela tárala.
+   </tei:p>
+   <tei:p>
+    Doma našiel pozvánku na malé večierky k Jácintovcom.
+   </tei:p>
+   <tei:p>
+    Pani Jácintová písala, že ako známemu a skoro do rodiny patriacemu   svedčí sa mu byf u nich, keď dcéra Malvínka slávi svoje osemnáste   narodeniny ... Murín klesol na pohovku. — Akože odoprieť? Ako? — Tak   milo píšu . ..
+   </tei:p>
+   <tei:p>
+    88
+   </tei:p>
+   <tei:p>
+    ﻿— To zas teta Žofika narafičila... A tej nemôže uraziť... Voľakedy   sa chcela podeliť s ním so svojou jedinou izbičkou... Ale ak sa Aneta   dozvie. Čo povie na to? Povie, že som záletník... Odrazu sa napaprčil   ... — Ale, veď je to direktná honba! — Zahundral a celý nevrlý ľahol   si na diván.
+   </tei:p>
+   <tei:p>
+    Ledva že zadriemal, zobudilo ho tiché klopanie. Vošla tetka   Rézika. Naparfumovaná s veľkým klobúkom a ohromným mufom, v zamatovom   plášti, ktorý jej siahal až po päty. Sadla si na prvú stoličku.
+   </tei:p>
+   <tei:p>
+    — Ja som už hovorila s Málikinou mamičkou... Pozná ťa a oduševnená   je za teba ... Milý, mladý človek, vraj... Taký korektný, gavaliersky   ... Tak sa vyslovila... Môžem ti gratulovať. O šiestej hodine ťa   čakám. Pôjdeme k nim spolu ... Starý plukovník bude rád ... Vieš   tarokovať? ...
+   </tei:p>
+   <tei:p>
+    — Ale tetuška! Veď, — chcel zaprotestovať podsudca.
+   </tei:p>
+   <tei:p>
+    — O šiestej ťa čakám. Výhovorky neprijímam.
+   </tei:p>
+   <tei:p>
+    Chcel povedať, že je volaný k Jácintovcom na malú večeru, že sa   sľúbil k Burdíkovcom na pagáčiky ...
+   </tei:p>
+   <tei:p>
+    — Prídeš. Punktum, — dupla tetka. Čo mal povedať pán podsudca?   Povedal len
+   </tei:p>
+   <tei:p>
+    toľko:
+   </tei:p>
+   <tei:p>
+    — Prosím.
+   </tei:p>
+   <tei:p>
+    Po odchode tety Rézy podsudca rýchlo sa okefoval. Pričesal si účes   a obliekol zimník. Chcel sa ztratiť. Aby ho ešte niektorá tetka   ne-
+   </tei:p>
+   <tei:p>
+    89
+   </tei:p>
+   <tei:p>
+    ﻿našla doma a neinvitovala na nejaké večierky. Otvára] dvere, keď   počul šuchot šiat. Prišla tetka Žofika.
+   </tei:p>
+   <tei:p>
+    — Pôjdeme spolu k Jácintovcom, — povedala. Keď je súra najväčšia,   pomoc božia najbližšia.
+   </tei:p>
+   <tei:p>
+    — Nemožno tetuška, — zalhal podsudca, — chytili jedného zbojníka.   Doviedli ho, nuž ho musím vypočuť.
+   </tei:p>
+   <tei:p>
+    — Aj ja idem.
+   </tei:p>
+   <tei:p>
+    — Kam?
+   </tei:p>
+   <tei:p>
+    — Vypočúvať.
+   </tei:p>
+   <tei:p>
+    — Tam nesmie byť publikum. Paragraf 397, Mohol by mať   nepríjemnosti.
+   </tei:p>
+   <tei:p>
+    — A dlho to potrvá?
+   </tei:p>
+   <tei:p>
+    — Hodinu.
+   </tei:p>
+   <tei:p>
+    — Tak ťa počkám.
+   </tei:p>
+   <tei:p>
+    — Ako sa ti páči.
+   </tei:p>
+   <tei:p>
+    Odporúčal sa a odišiel. Bol zúfalý. Nová zápletka, myslel si.   Robím hlúposti. Veď tetu nebudem môcť tu nechať. K Burdíkovcom na   pagáčiky musím isť. Tetu Rézu musím ohlásiť. Teraz už čo? ... Postál   v bráne. Rozmýšľal... Na rohu ulice ukázala sa ženská figúra. Zhrozil   sa ... Veď je to iste Mrkváčiková ... Vyhrnul golier na zimníku a   pošiel rýchlo protivným smerom... Zdalo sa mu, že volajú za ním:   „Lujzík! Lujzík!“ Neobrátil sa a prelietlo mu mysľou, že je   energickým. Ztratil sa v tme a pobehol, aby ho nedohonili.
+   </tei:p>
+   <tei:p>
+    Bol tmavý večer. Olejové lampy ledva osvetľovaly dlažbu. Mráz   pritiahol a bolo klzko. Ľudí
+   </tei:p>
+   <tei:p>
+    90
+   </tei:p>
+   <tei:p>
+    ﻿bolo málo po ulici. Murín s vyhrnutým golierom šiel smerom k   Burdíkovcom. Bolo mu prejsť poštovou ulicou. Tu mu už nebezpečenstvo   nehrozilo. Z jeho tetušiek v tejto ulici nebýval nik. Šiel pomaly, v   myšlienkach pohrúžený, strápený.
+   </tei:p>
+   <tei:p>
+    — Ako sa človek musí brániť, — myslel, — mám mizernú eksistenciu.   Iba čo tých pár domov budem dediť a rozchytali by ťa ... Neopytujú   sa, či miluješ? Ako by lásky ani nebolo treba. A veď to má byť   podklad spolužitia. Oni sa opytujú: „Môže moja dcéra i naďalej nosiť   slušné šaty a pekné klobúky bez toho, že by to mňa niečo stálo?“ Ak   áno, môže isť... „Či nebude musieť žiť na kapuste a na zemiakoch?“ Ak   nie, môže sa vydať. „Či rodina neutrpí vydajom fľak?“ Ak nie, nech   ide. „Či nebudeme musieť jeho dlžoby platiť?“ Ak nie, berte si ju.   Ale o láske! O tej sa neopytujú ... [Hlavná vec vydať sa. Mať dcéru   preč z domu. Máš mizerné postavenie ... Chytajú ťa, ako hýla ...
+   </tei:p>
+   <tei:p>
+    — Nazpäf! — zvolal ktosi pred ním.
+   </tei:p>
+   <tei:p>
+    Podsudca sa strhol. Ale sa spamätal a pozrel na kričiaceho.
+   </tei:p>
+   <tei:p>
+    — Černiansky! — zvolal. Čo tu robíte? — Psss! Obetujem sa za vás   ... Čakám slečnu
+   </tei:p>
+   <tei:p>
+    Marienku Lamošovú a pána Laurinca ... Majú tadiaľto isť a chcem   byť istým, — vravel Germánsky potichu. — Tam, na tridsať krokov od   nás, vidíte dve figúry?... To je Málika Hvizdáková s podslúžnym ...   Pán podslúžny vyznáva lásku ... A tam ďalej pod jedným oknom s   ro-
+   </tei:p>
+   <tei:p>
+    91
+   </tei:p>
+   <tei:p>
+    ﻿letnou si sľúbia vernosť a pred Bohom a pred sestrou Emou sa   zasnúbia ...
+   </tei:p>
+   <tei:p>
+    — Nuž a?
+   </tei:p>
+   <tei:p>
+    — Podslúžny už štyri razy prešiel popod to okno. Štyri razy ho   videla a počula Ema, že si ju chce vziať. Možno, že už aj to vie,   kedy bude ich verejné zasnúbenie.
+   </tei:p>
+   <tei:p>
+    — A potom čo si počnú? — Čo sa staráte? Z vášho zasnúbenia nič
+   </tei:p>
+   <tei:p>
+    nebude. Tam tí dvaja sú zajtra v celom meste zasnúbení. Ema sa   postará o to. A tetuška Réza upustí od Máliky.
+   </tei:p>
+   <tei:p>
+    Murín chcel objať protokolistu.
+   </tei:p>
+   <tei:p>
+    — Nazpäf! — zvolal Černiansky, — ide Marienka s Laurincom.
+   </tei:p>
+   <tei:p>
+    Naozaj. Dve postavy sa vynorily z bočnej uličky. Kráčaly pomaly,   akoby zabraté do seba.
+   </tei:p>
+   <tei:p>
+    — Skryme sa do brány, — súril protokolista.
+   </tei:p>
+   <tei:p>
+    Ukryli sa. Marienka Lamošová s mladým staničným starostom prešli   popri nich.
+   </tei:p>
+   <tei:p>
+    — Však sa môžeme neskoršie aj naozaj zasnúbiť.
+   </tei:p>
+   <tei:p>
+    — Teraz tedy len k vôli žartu? — opýtala sa Marienka a nahlas sa   zasmiala.
+   </tei:p>
+   <tei:p>
+    — Prečo? Aj teraz to môže byť vážne, — vravel náčelník stanice, —   ak by som vám nebol primálo ...?
+   </tei:p>
+   <tei:p>
+    — Ja som skromná. Pošli ďalej.
+   </tei:p>
+   <tei:p>
+    — Vidíte a počujete, — povedal pisár. — Večeru zaplatím.
+   </tei:p>
+   <tei:p>
+    92
+   </tei:p>
+   <tei:p>
+    ﻿— Len sa ztraťte. Aby vás nevideli.
+   </tei:p>
+   <tei:p>
+    Sudca stiahol hlavu do goliera a potešený šiel popri múre, aby ho   nikto nepoznal... Zvonili. Bolo sedem. Nebo sa celkom vyjasnilo a   hviezdy zjavily sa. Od severu začal vietor duť a veselo mrzlo... U   Burdíkovcov sadajú k večeri, — myslel si, — ba či ma ešte čaká tetka   na byte? Musím sa poponáhľať. Vyhovorím sa na toho väzňa. Na rohu   ulice sa zvrtol predsa k Burdíkovcom ... Čože, keď sa aj opozdím   ...
+   </tei:p>
+   <tei:p>
+    O dva-tri dni naozaj rozchýrilo sa po meste, že si podslúžny berie   Máliku Hvizdákovú. Náčelník stanice už aj vypýtal Marienku Lamošovie.   Mladý poštmajster uchádza sa o Olinku Malíkovú... A slečna Malvína   Jácintová je tuho zaujatá za akéhosi kapitána. Tetka Rézika priletela   k podsudcovi, ako bez duše a vytýkala mu, že v ten večer neprišiel.   Tetka Žofika skoro plakala od hnevu, že ju nechal sedieť tri hodiny.   Gabriela a Adelka mu nadaly, že je taký spozdilec ... To je len   preto, že ich nepočúvol... Keby ich bol počúvol, hľa, bolo by sa   bývalo starať len o obrúčky... Tam sú koneksie. Tam to, tam to...   Chudákovi podsudcovi nadaly zrovná do hlúpych ... Darmo sa vyhováral,   neprospelo mu. Zostal nešikovným, spozdilým hlupákom ... Napokon sa   tetušky uspokojily ... Sľúbily všetky, že veď ony ešte vyberú pre   neho súcu ženu ... Rézika hneď aj pomenovala Klemu
+   </tei:p>
+   <tei:p>
+    93
+   </tei:p>
+   <tei:p>
+    ﻿Záhorských ... Elegantné dievča ... Krása a šik. Nosí toalety, ako   niktorá a má rozvetvenú rodinu. Niektorí členovia sú vysoko   postavení... Pomôžu ku kariére. I tetka Adela vedela už akúsi, ale sa   presvedčí. — Keď sa tamtie vydávajú, vydajú sa aj tieto, — myslel   podsudca a dal večeru. Večera trvala do štvrtej rána. Tieklo aj   šampanské. Cigáni hrali, že sa okná triasly. Pán podsudca si aj   potykal s protokolistom a bozkali sa cez noc aspoň štyri razy. O   štvrtej ráno dal podsudca muziku pod oknami slečny Emy — z vďačnosti.   „Netaj dievča, že ma miluješ ...“ spieval podsudca s hudbou. „Veď ty   za to aj tak nemôžeš...“ spievali ostatní. A slečna Ema odpovedala   pre seba ležiac v posteli a usmievajúc sa:
+   </tei:p>
+   <tei:p>
+    „Prečo by som tajila keď som ťa ja dávno ľúbila.“
+   </tei:p>
+   <tei:p>
+    Hodila aj bozk do tmy. Platil pánu podsudcovi.
+   </tei:p>
+   <tei:p>
+    Ale čo sa nestalo. Na druhý alebo tretí deň dostala Ema odrazu   štyri listy. Boly bez podpisu. Každý bol o Murínovi... Tak a tak ...   Murín je neokrúchaný sedliak, písali jej v jednom... To je človek   nevzdelaný, hrubý. Lump ... písali v druhom ... Skrz na skrz chorý   ... vravel tretí... Hýri a rozhadzuje groše
+   </tei:p>
+   <tei:p>
+    94
+   </tei:p>
+   <tei:p>
+    ﻿do sveta ... Zlé ženy ho navštevujú ... Má pomery ... čítala v   treťom ... Všetky sa končily tým, aby si slečna Ema dala pozor, lebo   bude nešťastnou ... A slečna Ema? — Nemôžem zato, ale keď ho ja tak   veľmi milujem, — povedala a ľahko sa začervenala. Pán podsudca tri   dni čítal gratulácie. Tetky mu vypovedaly. Aby sa u nich viac   neukázal. Sprosták akýsi!
+   </tei:p>
+   <tei:p>
+    95
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

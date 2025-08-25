@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194330" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Laura : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     7751
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Laura
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     LAURA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Nemuselo sa to prihodiť práve v Paríži. Konečne každé europské   veľmesto má svoj Montmartre. Pokútne miestnosti, kaviarne, nasiaknuté   okrem dymu a nápojov i estetickými náhľadmi, mesačné byty, ľudia,   ktorí grošom zriedkakedy oplývajú, ale majú veľké nádeje, alebo aspoň   mali — to sa navzájom hľadá i nachodí všade, kdekoľvek je na to   príležitosť.
+   </tei:p>
+   <tei:p>
+    Na meste teda nezáleží. Nejaký bulevár, nemajúci ani noci, ani   dňa, dáka rieka, prehradená parádnymi mostmi a starostlivo obrúbená   dochovaným stromovím — to všetko nie je nič zvláštneho, kde bohatstvo   a bieda sohnaly raz ľudí na veľké mravenisko. A to isté môžme tvrdiť   aj o obyvateľoch. Železné nervy, ruky a mysle, pracujúce ako stroj vo   svojom povolaní bez toho, že by kedy nad tým rozmýšľaly, či ich snaha   má nejaký smysel alebo nie — to je známka všeobecná. Výnimkou sú   oslabené nervy, háklivé ruky a škrupulujúce mysle, ktorým je všetko   predošlé iba plebs, zažívajúca masa. Prípadne čo slušnejším   viac-menej zaujímavé — kino. Takouto výnimkou bol i Emil Kamhal, a to   najmä čo sa tyče nervov a mysle, teda i náhľadov, túžob a ambícií. Z   týchto posledných už ani tak mnoho neostalo. Odkedy sa stal riadnym   členom — Spoločnosti nového umenia —, zasadajúcej v miestnosti „U   novej hviezdy“, jeho dlhé kučeravé vlasy počaly mu badateľne rednúť.   Bol len dvadsaťpäťročný, ale mal už meno a jeho kolegovia veštili mu   skvelú budúcnosť. Mal všestranné vlohy, pestoval vo svojich prácach   rôzne formy... O živote myslel, že je hlúposť, a na prevažnú väčšinu   ľudí hľadel ako na plebs a zažívajúcu masu.
+   </tei:p>
+   <tei:p>
+    Nakoľko bol však vychytený, natoľko ho v klube počali v novšom   čase podceňovať. Pre vážnu udalosť prešiel vo svojich náhľadoch od   plebsu ku — kinu, čo je už samo v sebe hodný kus cesty. Keď   nevysedával každého večera „U novej hviezdy“, podozrievali ho jeho   druhovia zlomyseľne, že sa stane ešte nemoderným idealistom, a to   všetko pre akúsi stredovekú Lauru, ktorú posbieral na ulici. Ináč   zprvu nehľadeli na Emilov pomer k driečnej Laure takým krivým okom.   Nepobadal v tom totiž nikto zradu náhľadov. Spoločnosť nového umenia   bola o všetkom dobre informovaná. Nebolo nikomu tajnosťou, čomu kvôli   túlal sa Kamhal pri rieke toho večera, keď sa stretol s Laurou.   Nehľadal motýle, ani nesmädila jeho duša, ak môžme totiž o duši takto   hovoriť, o nejakej originálnej nálade. Jeho verše skritizovali   navnivoč. Nakladateľ nechcel mu dať ani haliera, pramene všetky   vyschly, čo teda prirodzenejšie, ako že vyšiel k rieke, oprel sa o   zábradlie poblíž mosta a zahľadel sa na čierne, šumiace vody. Svetlá   elektrických lámp chvely sa odleskom na vlnách. Emilovi prišlo na um,   ako by bolo dobre, keby všetky tie lampy razom vyhasly, nebolo by   viac nijakého chvenia na hladine a prúdy mohly by sa večne ľúbať s   čiernou nocou,
+   </tei:p>
+   <tei:p>
+    keby aspoň tá jeho lampa vyhasla. Vzdychol a pobadal, že je až   priveľmi básnicky naladený.
+   </tei:p>
+   <tei:p>
+    „Aká práca, aký nádherný reálny obraz,“ dumal. „Ale ten nikdy   neuzrie svetlo ... roztrúsili, že nemám techniku, ani talent, a   konečne môžu mať i pravdu. Mal som byť obchodníkom, ako chudák otec   chcel, mäsiarom, lekárom, alebo čímkoľvek, ako väčšina ľudí. Síce i   tak — ktovie, aký by bol býval koniec.“
+   </tei:p>
+   <tei:p>
+    Pri pomyslení na všetko toto pojal ho odpor, ba skoro hnus, ani   nie tak ku svetu, ako skôr voči samému sebe. Ako človek, ktorému už   na ničom nezáleží. Pobral sa na vysoký most s veľkými kamennými   piliermi. Na jednom z nich stála socha akéhosi slávneho kráľa, ktorý   už iste nejednu takú tvár zočil pri svojich nohách, ako bola   Emilova.
+   </tei:p>
+   <tei:p>
+    I teraz tam čupel ktosi v tôni pri samom podstavci. Bola to   ženská, ktorá so zalomenou hlavou hľadela dolu do čiernej krútňavy.   Kamhal sa oprel niekoľkými krokmi vedľa, tu i tu prehrčalo mostom   auto alebo nejaký povoz, hodily svoje svetlá na dve postavy, ktoré   stály nepohnute, ako by z kameňa. Ona zdala sa výlučne sama sebou   zaujatá a on si ju nevšímal, iba vtedy, ked si určite uvedomil, že je   prichabý, aby tú otáznu lampu vyhasil.
+   </tei:p>
+   <tei:p>
+    „Primladý som ešte, primladý,“ uškrnul sa a uprel oči na stvoru,   ktorá meravo držala v ruke svoju tašku a bola mu viac chrbtom   obrátená. Tvár jej nevidel, ale i po badateľne pružnej postave súdil,   že nie je stará. Počkal na najbližšie auto a pri jeho svetle prizrel   sa jej dôkladnejšie. Uzrel jemný profil a pri súmernosti jej tela   predišla mu krásna, veľmi krásna, upomínala ho
+   </tei:p>
+   <tei:p>
+    na kohosi, koho mal rád. V tej chvíli nevedel, na koho, a nechcelo   sa mu o tom rozmýšľať.
+   </tei:p>
+   <tei:p>
+    „Čo môže chýbať tejto gréckej bohyni v hriešnom Babylone?“   spytoval sa v duchu. Jeho prázdne srdce naplnilo sa zrazu čímsi, čo   sa podobalo súcitu. Že to stvorenie živorí, že stojí na rázcestí,   bolo mu jasné. Ved šťastný človek nikdy nepostál v noci pri kráľovej   soche na tomto moste. Zdalo sa mu však hlúpym, aby si mala vybrať   práve tú cestu, ktorú by bol ešte pred chvíľou odporúčal celému   svetu, sebe i jej. Svoj krok, ako si v tom momente vysvetľoval,   nemohol úplne odôvodniť, preto bol chabý a ona by mala byť silná. V   útrobách jeho pohlo sa čosi záhadného, ako pud, čo bolo dostatočné,   aby podišiel k neznámej ako k sestre, prv, ako sa ona juehodí ponad   cifrované zábradlie.
+   </tei:p>
+   <tei:p>
+    — Slečna, ste primladá, —• prehovoril k nej dôverným   polohlasom.
+   </tei:p>
+   <tei:p>
+    Žena sa strhla a Emil pocítil i potme, ako vyčítavo pozrelo naňho,   odvážlivca, tých dvoje veľkých očú.
+   </tei:p>
+   <tei:p>
+    — Odpusťte, vy azda máte matku, otca, možno i viac, — pokračoval,   — nebolo by to múdre!... —
+   </tei:p>
+   <tei:p>
+    Chcel silou-mocou nájsť nejaký vhodný dôvod pre život, a vyšlo z   neho iba toľko, že by to nebolo múdre! Vtedy dopadlo vnove svetlo do   tmavého kúta a neznáme zraky sa spoznaly. Emilovi neboly cudzie tie   oči, hlboké, smutné oči, o ktorých bol hneď presvedčený, že sú hlbšie   ako popod most šumiaca rieka. Povedal jej, kto je, a sám nechcel byť   zvedavý. Keď jej spomenul otca, matku, zahral jej jemnými perami   trpký úsmev. Čo sa mal ešte viac spytovať?
+   </tei:p>
+   <tei:p>
+    — Poďme s tohto hrozného miesta, slečna.
+   </tei:p>
+   <tei:p>
+    poďme! — doložil prosebne, — vaše krstné meno? — Mína, — odvetila,   ledva bolo počuť. — Mína? Nie! — usmial sa mladík, celý prečarovaný.   — Mína sa zaliala pod mostom, budete sa zvať Laurou, dobre? — Dobre,   — odvetila udivená, s ľahkým úsmevom. Pobrali sa s mosta a pustili sa   širokou, živou ulicou pomedzi hostince, divadlá, chrámy a paláce. n.   O tom všetkom hovorilo sa ešte za horúca v miestnostiach „U novej   hviezdy“, ba i viac sa už vedelo a nikto sa na tom nepozastavil.   Chápali vec úplne s umeleckého stanoviska. Vášňou kypiaca krv, nach   ženského tela a chladné zaviatie blížiacej sa hlbokej noci, to všetko   rozpoznávali v Emilovom prípade a to boly motívy nového umenia.   Trochu vyrazenia, trochu naladenia, hlavne zmeny budú vraj   zúrodňujúco vplývať na jeho básnický talent.
+   </tei:p>
+   <tei:p>
+    I keď sa roznieslo v niekoľkých dňoch, že to má byť niečo vážneho,   nerozvírily sa mysle. — Nech si prikrášli svoj byt každý, akou len   chce pozlátkou, veď sa mu ona ošúcha, život, ten nikomu nedá, —   vraveli a najviac ak poľutovali Emila.
+   </tei:p>
+   <tei:p>
+    Ako sa však zjavila jeho novela s názvom „Na brvne oceánom“,   nastal ruch. Vyznávači nového umenia nechceli veriť vlastným očiam,   aké nestroviteľné veci, aké nesmysly! Iba ak si niekto robí žarty z   jeho spisovateľského mena.
+   </tei:p>
+   <tei:p>
+    Kecf sa im však Emil chladnokrvne priznal, uškrnuli sa, že mu tá   stredoveká Laura iste oči zaviazala, a pokladali ho za   strateného.
+   </tei:p>
+   <tei:p>
+    Emil a Laura, zanechajúc nábrežie, poberali sa mlčky vedľa seba.   Keby sa ich bol niekto spýtal, odkiaľ a kam idú, neboli by vedeli   povedať ... Keby ich však bol chcel niekto rozdeliť, boli by sa mu   nebodaj vzopreli. Bolo v ich príhode čosi, podobného lístiu, ktoré   bez ohľadu na ratolesť unáša vietor ľubovoľným smerom. Dvaja mladí   ľudia, ktorí zastali pri kráľovej soche na moste, ako sa zdá, jednako   účtujúc so životom, nevdojak už i týmto dostali sa do rodiny.
+   </tei:p>
+   <tei:p>
+    Ž divadiel sa ľudstvo hrnulo a kaviarne počaly sa plniť. Laura   obzerala okoloidúce elegantné dámy, jej pohľad však prezrádzal iba   náramnú ustatosť. Emil to zbadal a domyslel si, že bude hladná. Sám   tiež od rána nejedol, nuž navrhol, aby vošli do najbližšej malej   jedálne.
+   </tei:p>
+   <tei:p>
+    Neodporovala. Čochvíľa sedeli už za mramorovým stolom
+   </tei:p>
+   <tei:p>
+    medzi oneskorenými hosťmi. Po večeri sišlo na um Emilovi, že nemá   ani haliera, ani prsteňa, ani hodiniek. Hlava sa mu potočila, no   vynašiel sa. Lauru poslal vopred, vraj kým to zaplatí. Potom, ako by   sa len chcel jej niečo opýtať, vyšiel za ňou na ulicu. Na ulici sa   stretli a podišli vbok, hoci ona nemala ani tušenia prečo ... Kráčali   rezkejšie, ale bolo zjavné, ako sa ona namáha.
+   </tei:p>
+   <tei:p>
+    Život nespal ani tu. Nafarbené ženy s mužmi, triezvi i   podgurážení, míňali ich bez povšimnutia. Iba na rohu ulice zavolal   ktosi za Kanibalom:
+   </tei:p>
+   <tei:p>
+    — Servus! Prajem ti dobrú zábavu!! Emil ani neodpovedal, ale   všimol si, že idú popri miestnostiach „U novej hviezdy“. Pohol tým   skoršie a nadpriadol so spoločnicou rozhovore najbezvýznamnejších   veciach. Keď prechodili hlavnejšou ulicou, musel Lauru raz zachytiť,   aby ju mimobežiace autá, autobusy a električky nesrazily. Nevedel   prečo, ale cítil, ako by sa ho to bôľne dotklo, keby sa jej niečo   zlého stalo. Po dlhšom potĺkaní zastali konečne pred ošúchaným domom   v úzkej uličke.
+   </tei:p>
+   <tei:p>
+    — Ste ustatá, Laura? — prehovoril Emil s mäkkým prízvukom, —   nechceli by ste si odpočinúť? Bývam tu na treťom poschodí! — ukázal   na tmavý, neveľký oblok pod samým krovom.
+   </tei:p>
+   <tei:p>
+    — Ale, pane! —- začervenala sa Laura po uši. — Vy sa mýlite!
+   </tei:p>
+   <tei:p>
+    — Nemýlim sa, Laura, — usmial sa, chápuc jej rozpaky. — Nemáte   prístrešia, a tento byt je vyplatený i s raňajkami do prvého. Je už   len istejší ako ulica, môžte v ňom celkom sama bývať, o potrebné sa   postarám, — dodal so zrejmým dôrazom.
+   </tei:p>
+   <tei:p>
+    Zacengal. Ťažká brána sa otvorila. Starej hluchastej vrátničke   zavolal mohutným hlasom, že mu je táto slečna sestra, aby ju   vyprevadila do jeho izby, on tejto noci má iné zaujatia.
+   </tei:p>
+   <tei:p>
+    — A vy sa zamknite na dva spusty, — posmeľoval potom svoju známu,   — zátvor je dobrý, nemusíte sa obávať. Zajtra, akže vám to nebude   proti vôli, vás navštívim.
+   </tei:p>
+   <tei:p>
+    Laura hľadela s údivom v túto otvorenú tvár a nepovedala   záporne... Ani ruku neodtiahla, keď jej ju mladík nežne pritisol k   perám. Odznelo úprimné ,dobrú noc‘. — O chvíľu zmizol Kamhal za rohom   ulice.
+   </tei:p>
+   <tei:p>
+    Laura by bola stála pri bráne ako socha, ale vrátnička ju   vyrušila. Poznala hneď z jej správania, že je nie hocijaká uličnica,   hoci Kamhalovmu tvrdeniu o sestre neverila. O ,škriblerovľ, ako ona   zvala Kamhala, naskrze nesmýšľala lichotivo, ale keď spomínal to   zaujatie, prestala ho upodozrievať.
+   </tei:p>
+   <tei:p>
+    — Nech sa páči, slečna, — prehovorila hlučným hlasom a zdvihla   lampáš dohora, aby jej lepšie posvietila. — On sa tej noci nevráti, a   ak by sa chcel, nuž ho jednoducho nevpustím! — Povedala to takým   istým tónom, že Laura, vidiac jej mohutnú buclatú postavu, vkročila   pod bránu. O niekoľko minút, ktoré hlavne vrátnička potrebovala, aby   sa dostala na šieste schody, zasvitlo svetlo v neveľkom okne pod   krovom. Svietilo dlho, dlho, až okolo polnoci vyhaslo.
+   </tei:p>
+   <tei:p>
+    V ten čas sedel Kamhal v kaviarni, kde nebolo miesta ani hrachom   hodiť, a ohnivo rozkladal človeku s kozou hriadkou a s bystrými   malými očami akýsi dej, ktorý ten s očividomou napätosťou počúval.   Spomínal istého kupcovho syna, ktorý priviedol svojich rodičov na   mizinu i do hrobu. Žil ľahtikársky veselo, miloval a ospevoval krv,   ženskú krásu a hlboké tmy blížiacej sa noci. Neveril v nič okrem vo   svoje vlohy a svoje určenie. I táto viera podľahla a on sa ocitoL na   moste pri nohách tej slávnej kráľovskej sochy. Tam stretol Lauru,   krásnu nežnú Lauru, ktorá trpela pre hriechy iných. Nadišiel obrat.   Dvaja proletári, bití životom, podajú si ruky a pustia sa s ním za   pasy, i ho sputnajú spoločnými silami.
+   </tei:p>
+   <tei:p>
+    Kamhalovi pri tých slovách, ktorými prefarbil noc v jasný deň, oči   len tak svietily nadšením. Nepil, iba čo ho spoločník počastoval   kalíškom absintu. A to nesilené nadšenie je chytľavé ako choroba, i   drobné oči človeka s kozou hriadkou počaly pomaly svietiť, a tiež nie   od absintu. Okolo jednej, vyberúc peňaženku, položil na mramorový   stolík novú bankovku so slovami:
+   </tei:p>
+   <tei:p>
+    — Pane, tu máte preddavok, dokedy bude práca hotová?
+   </tei:p>
+   <tei:p>
+    — Do rána máte už prvú čiastku v rukách, — odvetil spisovateľ,   udusiac radosť v srdci. — A potom o dva-tri dni dostanete celú!
+   </tei:p>
+   <tei:p>
+    Bankovky sa ani nedotkol, ale s významným úsmevom poznamenal, že   si príde po peniaze ráno.
+   </tei:p>
+   <tei:p>
+    Keď sa rozišli, Kamhal sa pobral až kypiaci energiou do klubovej   miestnosti „U novej hviezdy“. — Myslel si, že tam nenájde nikoho a v   tichu bude môcť pracovať až do rána. Skutočne bol tam len Vanka,   nádejný dramaturg nového umenia, ktorý sa práve chystal na odchod.   Bol tiež mladý a vyholený ako herec. Uzrúc príchodzieho, rozkročil sa   naprostred izby a s rukami vo vrecku zvolal na plné ústa;
+   </tei:p>
+   <tei:p>
+    — A, kamarát, kdeže s,i nechal svoju driečnu lady?
+   </tei:p>
+   <tei:p>
+    Ón to bol totiž, ktorý privolal večerom Kanibalovi ,servus‘,   zaželal mu dobrú zábavu.
+   </tei:p>
+   <tei:p>
+    Emil, ak sa ho chcel zbaviť, musel mu vyzradiť čo-to zo svojej   príhody. V tej chvíli nemohol bájiť, ani sa mu nechcelo. Zvedavý   dramaturg horko-ťažko pochopil, že kolega nemá preňho času, a   vzdialil sa z miestnosti s chichotom, ako za kulisy.
+   </tei:p>
+   <tei:p>
+    Kamhal sa hneď rozložil pri najbližšom stolíku. Z opačného kúta   niesol sa rovnomerný dych, niekedy i chrapot. To iste nejaká   zaznávaná
+   </tei:p>
+   <tei:p>
+    osobnosť nového smeru, ktorú vysadil domovník na trotoár. Mladík   sa zdal v bezpečnosti, že ho už nikto nevyruší, a čiaral, písal ako   na diktát. Len niekedy si vošiel prstami nervózne do tmavých   kučeravých vlasov.
+   </tei:p>
+   <tei:p>
+    Ked sa Mína, či už teraz Laura, prebrala zo spánku, práve bilo   deväť na blízkej veži. Ký div, tak dlho nemohla oka zažmúriť. Osamote   jej otupená myseľ zavírila.
+   </tei:p>
+   <tei:p>
+    „Život, aký ja to mám len život?!“ zalomila rukami a zahľadela sa   meravo do pustého kúta.
+   </tei:p>
+   <tei:p>
+    Nebolo jej ozaj na závidenie. Otca nikdy nepoznala, matka mala   neveľkú mliekáreň v bočnej uličke, ktorú jej kúpil maliar-umelec,   lebo sa mu dala maľovať. Svoju Mínu chcela vychovať samostatnou a ona   už i skončila meštianku v nádeji, že bude z nej niečo. Vtedy matka   povážlivé onemocnela. Dievča muselo ostať doma a viesť mliekáreň, čo   jej však nešlo. Jej zanietená duša uletela, kedy mohla, z tesnej   miestnosti a silená práca nemohla byť ani zdarná. Miekáreň museli   predať a do chudobného bytu tisla sa bieda i dverami, i oblokom.
+   </tei:p>
+   <tei:p>
+    Mína pekne vyrástla a chorá mať s úľubou pozerala na dcéru. Na jej   súmernú postavu, okrúhle údy i pravidelne dvíhajúcu sa hrúd, a   predovšetkým na jemnú tvár ušľachtilých črt. Raz, ked sa práve   ukladala na odpočinok, dokončiac svoju modlitbu, mať jej povedala bez   všetkých okolkov, že ak sa im za týždeň niečo vhodného nevyskytne,   Mína musí do ateliéru, aby ich ešte niečo horšieho nestretlo. Umelci   sa už na ňu dopytovali. Tú noc Mína celú preplakala a druhého dňa   našla si miesto ako vychovávateľka. Matka sa dostala do   nemocnice,
+   </tei:p>
+   <tei:p>
+    kde o niekoľko dní umrela, a dcéra hľadela s úfnosťou do   budúcnosti. Ale neminul ani mesiac, a začala ju pani trápiť.   Vychovávateľka nemusela veľmi hádať, aby sa domyslela, že pani   žiarli. Domáci pán hodil síce na ňu tu i tu zvláštny pohľad, ale ona   sa ho snažila udržať v úctivej vzdialenosti. Všetko darmo, bola   pripekná na svoje postavenie. Nasledujúci mesiac nastala búrka v   domácnosti a Mína sa dostala na ulicu. Utiahla sa u známych na   niekoľko dní, kým sa jej trafí zamestnanie. Prezvedala, ponevierala   sa mestom, ale nemala šťastie. Na príležitosti nechýbalo síce ani na   polahodnej, ani na výnosnej, jej však prišla vždy na um vlastná mať,   ktorá to musela neskôr draho zaplatiť, a v srdci sa jej čosi   vzoprelo, rozhodne vzoprelo. Privčasné sklamania mnoho porúchaly v   jej duši. Zato ňou ovládal čistý náboženský cit, ktorý ustúpil niekdy   pochmúrnej chvíli, ale ozval sa znovu a znovu. Bola to náklonnosť od   prírody, opora svedomia, ktoré ľahko nepodľahlo pokúšaniu. Hľa, i tí   známi za vadili doň, vyčítali mu otvorene, že len jeho naivita je   príčinou všetkej biedy, ale ani ono neostalo dlžno odpoveď. Mína si   vzala najpotrebnejšie veci a odišla s predsavzatím, že sa už nikdy   nevráti. Toho istého dňa nadišiel jeden z najpochmúrnejších momentov   v jej živote. Po dlhom bezvýslednom chodení nachýlil sa deň, telo   ustalo a duch sa vysilil. Deva zastala na parádnom moste pri pilieri,   na ktorom čnela hrdá socha slávneho kráľa. Bola umdlená až na smrť a   nepoznala viac svoje srdce. Oprela sa o zábradlie, zahľadela sa do   šumiacich vôd, černejších než noc, a cítila, ako by ju nejaké   neviditeľné ruky dvíhaly. Ešte im
+   </tei:p>
+   <tei:p>
+    zavážila, ale každým momentom prichodila si ľahšia a ľahšia, a tie   ruky len neustávaly a neustávaly. „Život, život, aký ho ja len mám?!   Keby som bola počúvala ľudí, chodila by som už iste v hodvábe, a   takto aké mám určenie, čo ma čaká? Prečo som odišla z toho   mosta??“
+   </tei:p>
+   <tei:p>
+    „Slečna, ešte ste primladá,“ počula celkom jasne, strhla sa, ani   ked sa to skutočne stalo. Kto poslal ta toho mladého človeka s mäkkou   rečou, trúchlym pohľadom a s vlasmi až po plecia? Prečo sa jej ujal?   Veď nedal ani len slovkom, tým menej pohybom najavo, že by chcel   využiť jej postavenie. Kde je teraz, či príde a čo povie ona, keď,   ako sľúbil, ráno príde?? Takéto myšlienky heražily sa jej mozgom,   prifarbily jej sny a pozdravily ju, i ked sa prebudila. Izbica, čo   bola i malá, zdala sa jej ešte dosť obstojná, len steny holý na   mnohých miestach porúchané.
+   </tei:p>
+   <tei:p>
+    Ležala na diváne, do odokrytej postele si nechcela ľahnúť,   protivilo sa jej to. Shodila so seba len obstojne zachované šaty a   prihodila sa ošúchaným dlhým kabátom, ktorý jediný našla v skrini,   okrem niekoľkých kusov bielizne a ušpinených golierov.
+   </tei:p>
+   <tei:p>
+    Otvoriac oči, sadla si a obzerala pozornejšie svoju hospodu.   Bezpríkladný neporiadok a chudoba pripomínaly jej živo predošlý   večer, ako i to, že je v byte človeka, ktorý alebo si len namyslel   byť, alebo je skutočným umelcom. Na stole ležalo niekoľko kníh,   časopisov, papiere, dve sošky, a to všetko jedno na druhom. Ináč   okrem najpotrebnej šieho izba bola v pravom slova smysle prázdna. Na   stene visel jediný obraz, akási pekná ženská tvár, lacná kópia iste   cennej tvorby. To bolo všetko, čo videla, a začala tušiť, čo asi   viedlo toho človeka večer k mostu, prečo tak zdôrazňoval, že sú ešte   obaja mladí. Úzkosť, spojená s ľútosťou, sovrela jej srdce, ale bola   i rada, veľmi rada, že sa neprebrala v nejakej komnate. Počala veriť,   že jej budúcnosť je s budúcnosťou jeho úzko spätá.
+   </tei:p>
+   <tei:p>
+    „Ako sa len volá?“ neprišlo jej na um, ale si pomohla. Skočila k   stolíku, kde našla niekoľko podpisov i adresovaných listov.
+   </tei:p>
+   <tei:p>
+    „Á... Emil, Emil, a Kamhal!“ spamätala sa i sama. To meno iste   niekdy i čítala. Jeho žena by sa teda zvala Kamhalová, lepšie rečeno   Laura Kamhalová. I prezradila sa jej ženskosť vo štveráckom   úsmeve.
+   </tei:p>
+   <tei:p>
+    Počala sa riadiť, hľadala zrkadlo, ale ho nebolo. Vybrala svoje   drobné z kapsičky a pozorne sa pristrojila; kým sa predošlého dňa už   so všetkým porátala, dnes dbala, čo azda i mimovoľne, na to, aby   vzbudila dojem.
+   </tei:p>
+   <tei:p>
+    A mohla byť so sebou spokojná. Ked si lepšie všimla obraz na stene   a nahla sa znovu do zrkadielka, až sa zadivila nad podobnosťou.   Okrúble čelo, husté obočie, nos, pery, všetko sa podobalo, iba oči   mala podbehnuté. Bola však tým zaujímavejšia. Ako by dosial o svojej   mladosti a zdraví ani nebola vedela. Razom sebavedomím zaleskly sa   jej hlboké oči. Nie, ona nebude nikomu na ťarchu, nikomu. Stiahla na   znak odhodlanosti svoje jemné pery a pozrela oknom na krovy a komíny   a na udymenú oblohu. „Nájdem si zamestnanie,“ uisťovala sa v duchu.   „Ešte dnes si nájdem, nebola som dosť smelá. Veď v takom meste aby sa   nenašlo pre mňa zamestnanie? Budem pokladníčkou, alebo výpomocnou v   niektorom obchode, v poslednom prípade hoci len výslužnou, alebo   diakonisou.“
+   </tei:p>
+   <tei:p>
+    Takto zabudla Mína vo chvíľočke na Lauru Kamhalovú.
+   </tei:p>
+   <tei:p>
+    Klopali.
+   </tei:p>
+   <tei:p>
+    — Voľno! — ozvala sa, pripravená na cestu.
+   </tei:p>
+   <tei:p>
+    Kľučka opätovne šťukla a Laura iba teraz zbadala, že sú dvere   primknuté na dva spusty. Myslela, že je to Emil, no mýlila sa. Keď sa   dvere otvorily, do izby vstúpila vyhriata vrátnička s raňajkami a   vypytovala sa slečny, ako sa vyspala. Laura s úsmevom dala sa s ňou   do reči, keď sa na chodbe ozvaly strmé kroky. Vo dverách stál Emil a   prial svojej peknej návšteve dobré ráno. Bol omnoho úhľadnejší ako   večer, oblek v poriadku, tvár bez strniska, vlasy nerozstrapatené,   ale ustatosť sa mu zračila v tvári. Laura ho skoro ani nepoznala.   Hľadela utajiť svoje rozpaky a iba čo sa trochu začervenala. Mladík   ju len ťažko nahovoril, aby si vypila pohár mlieka, ktoré vrátnička   položila na rukopisy, časopisy, knihy, sošky, totiž na stolík.
+   </tei:p>
+   <tei:p>
+    Nedala sa núkať do nekonečna a on, aby ju nemýlil, dopytoval sa   vrátničky celkom takým hromovým hlasom ako večer pod bránou, kedy sa   vyprázdni susedný dvojizbový byt. Počuli to, pravda, i na druhom   poschodí, a Laura nielen počula, ale i pochopila. Krv jej udrela do   tváre. Buclatá vrátnička skončila svoju povinnosť, chcela sa   vzdialiť, Kamhal jej však kývol, aby ostala.
+   </tei:p>
+   <tei:p>
+    — Slečna, chceli by ste zachrániť človeka? — pokročil k Laure a   pohliadol na ňu pokorne.
+   </tei:p>
+   <tei:p>
+    Sklopila oči a neodpovedala.
+   </tei:p>
+   <tei:p>
+    — Povedzte, veď viete, čo všetko od toho závisí. Na nič nečestného   nemyslite! — hovoril určitým tónom.
+   </tei:p>
+   <tei:p>
+    — Ale veď vy mňa ani nepoznáte, ani neviete.
+   </tei:p>
+   <tei:p>
+    kto som, čo som! — pozrela na neho, chvejúc sa rozčúlením.
+   </tei:p>
+   <tei:p>
+    — Viem, Laura... poznám ... ako by nepoznal. Vám celkom tak   nepraje život, ako neprial mne. A celkom tak nemáte nikoho, ako nemám   ja. Laura, Laura, či sme darmo sišli s toho mosta??!
+   </tei:p>
+   <tei:p>
+    — Bojím sa, že je to prenáhlené. Oľutujete to celkom tak   rýchlo.
+   </tei:p>
+   <tei:p>
+    — Nie, Laura, neoľutujem, ved súvisí to s mojím žitím a bytím.   Predošlej noci som zbadal, že je vo mne sily, a vy ste mi jej dodali,   Laura!... Budúcnosť moja je už nie neistá, hľa... — vytiahol z vrecka   nové bankovky, — k tomu ste mi vy dopomohli... a i viac toho bude...   všetko bude. Laura, chcete zachrániť človeka??
+   </tei:p>
+   <tei:p>
+    Chytil ju za ruku a ona sa neodťahovala. V jej hlbokých lesklých   očiach zaleskly sa slzy, ktoré by sme nemohli práve nazvať slzami   radosti, lebo ony značily skôr čosi takého, že to iste sám Pán Boh   tak chce.
+   </tei:p>
+   <tei:p>
+    V tom momente bola Laura okúzľujúca, ešte i vrátnička, ktorá z   rozhovoru nič nepočula, musela sa dovtípiť, že sa medzi mladými ľuďmi   čosi veľmi zvláštneho deje, a neostalo dlho v neistote. — Pani   Maarová, — obrátil sa Emil ku vrátničke, nepustiac Laurinu drobnú   ruku. — Pani Maarová, odpusťte, oklamal som vás včera večer, slečna   nie je moja sestra, ale moja snúbenica ... teda od prvého dvojizbový   byt, ale iste!! III. Spomínaný dvojizbový byt prešiel skutočne prvým   dňom nasledujúceho mesiaca do rúk manželov Kamhalovcov. Bol to i pri   všetkej chudobe ozajstný teplý kútik, pre dve svojvoľnosťou sudby   zmietané duše. A Emil lipol k Lanie každým dňom viac a viac, ona zas   stávala sa presvedčenejšou, že to sám Boh tak chcel.
+   </tei:p>
+   <tei:p>
+    Sobáš mali v chráme na výslovnú žiadosť nevesty. Na svadobnú cestu   nebolo peňazí, ale ani času. Kamhalovci nemohli venovať dva-tri   týždne výlučne sami sebe, lebo život so svojimi potrebami dával im   zreteľne najavo, že na nich naskrze nezabudol.
+   </tei:p>
+   <tei:p>
+    Emil pracoval, ako by chcel všetky stratené dni predošlých rokov   dvojnásobne vynahradiť. Našiel si miesto pri významnejšom časopise.   Pracoval v redakcii, tým viac však ešte doma. Sám sa divil, kde sa to   v ňom berie, toľko energie, keď predtým celé dni, ba týždne premárnil   naprázdno. Obraznosť nadobudla pružnosť a myšlienkový svet sa mu   prehĺbil. Ako s vyvýšeniny hľadel na svoju doterajšiu púť a zdalo sa   mu, že jasne rozoznáva kvetnaté lúky od močarín a trasovísk.
+   </tei:p>
+   <tei:p>
+    Spoločnosť mu nebola viac natoľko vábna. Mnohé mu odpadlo od   srdca, bez čoho si prv úplné šťastie ani predstaviť nemohol.   Kaviarne, veselé noci, zúrivé zvady o kráse, umení prestaly zaujímať   jeho myseľ. „U novej hviezdy“ bolo ho vídať vždy menej a menej. Ked i   prišiel, nechýbala po jeho boku ani Laura. Zprvu ich ešte ako-tak   prijali, čo i nie s tým jasotom ako poniektoré múzy pochybnej   minulosti i prítomnosti. Neskôr však, ako sa zjavila na knižnom trhu   práca „Na brvne oceánom“, počali Kamhala fumigovať a jeho Laure   nadávali do stredovekých.
+   </tei:p>
+   <tei:p>
+    — Keby bola pravda, čo si ty tam popísal! — vraveli mu čo bližší   príležitostne. — Ale kto to uverí? Kto by bol taký naivný nedomyslieť   si, že deva, ktorú tak úchvatne čistou staviaš, do
+   </tei:p>
+   <tei:p>
+    takého krutého položenia... padnúť musela ?! A potom, „Na brvne   oceánom“. — Domnievaš sa, že je oceán taký malý a brvno také   veľké?
+   </tei:p>
+   <tei:p>
+    A Emil sa predsa necítil nikdy porazený. Pred krátkym časom bol by   to isté tvrdil aj on sám, ba nebodaj bol by posbieral ešte i   presvedčivejšie dôvody.
+   </tei:p>
+   <tei:p>
+    — Ale, — vravieval teraz, — ja som to predsa vysnil, moja žena mi   je hodnoverným svedkom.
+   </tei:p>
+   <tei:p>
+    a ona mi všetko dopodrobna rozpovedala ešte pred sobášom. Keby to   však všetko bolo iba ženskou prefíkanosťou, čo hľadala tá grécka   bohyňa na moste, pod kráľovou sochou? Prečo sa nedala modelovať ako   jej matka? Nešla na prvé korzo, neprenajala si byt v aristokratickej   štvrti a nadobudla si čo len stály lístok do opery?? A že na brvne a   oceánom!? Veď nás ten osudný večer chcel pohltiť oboch, a my sme   sišli s mosta, začali sme život znovu a spolu. Od tých čias nás niečo   udržuje na povrchu, čo, pripustím, loďou je azda nie, ale brvnom v   každom prípade to nazvať môžeme...
+   </tei:p>
+   <tei:p>
+    Takto vysvetľoval svoje pokračovanie vážnejším kolegom a   zatvrdlivým vyznávačom nového umenia. Skoro však zbadal, že je to   daromné namáhanie. Co cítil v srdci, to na dlaň vyložiť nemohol, a   keby aj, ich zrak to nemohol zachytiť. Oni videli v Laure menej ako   chápavú milenku a v ňom samom zbalamuteného nadaného človeka, ktorý   potratil koncepty a ktorého im bolo ľúto ... Tým vďačnejšie sa   preukázal Kamhalovi „plebs“ a „kino“. — Kniha mala veľký odbyt, hoci   ju mnohé kritiky neprajné prijaly. Obecenstvo, ktoré sa vrhlo zprvu   na výtvory nového umenia o krvi, o nachu ženského tela a o hlbokých   tmách blížiacej sa noci, malo už zjavne celkom dosť toho a   vedome-nevedome zatúžilo po nádeji, čistote, po svetle. A to žiarilo   z Emilovej práce, čo i bledým jasom, ale žiarilo. Ľudia to   potrebovali, lebo nemohli počuť hlas vlastného vnútra o cieli, o   určení, o istom poriadku. Preto im dobre padlo čítať aspoň len o   brvne, keď už nie o lodi, a kniha vyšla v krátkom čase i v druhom   vydaní. Budúcnosť Kamhalovie domácnosti zdala sa zaistená; posmešné   nápady, pravda, ani potom neutíchly. Emila to nemýlilo, najnovšie   napríklad nazvali ho pátrom, lebo sa vraj už i modliť naučil kvôli   žene. V tom mu síce primnoho krivdili, lebo sa modliť naozaj nevedel.   Ale keď si Laura večer kľakla a složila ruky, kľakol si vedľa i on   ako ona a díval sa s úchvatom na jej zbožnú tvár. To bolo všetko. Pri   tejto príležitosti skrsla v ňom obyčajne téma, ktorú často ešte v   noci vypracoval. Doobeda v robotný deň bol zväčša v redakcii,   popoludní zasadol si k písaniu, pričom mu i žena pomáhala.   Pochopiteľné, že často všetky písačky ostaly bokom. Emil si posadil   Lamu na kolená a šeptal jej do ucha pekné slová. S radosťou v očiach   počúvala rozvrh alebo hlavnejšie črty rodiacej sa novej práce. On zas   čítal z jej pohľadu, že mu rozumie, a duch jeho nadobúdal tým vzlet.   Niekedy ponechali umelectvo bokom a rozhovorili sa o tom, ako si   dakedy celú domácnosť preinačia, ako si najmú byt nad samou riekou,   ako vkusne si ho zariadia, a keď im bude zvyšovať, ako sa vyberú k   moru.
+   </tei:p>
+   <tei:p>
+    Co sa tak zameškalo cez deň, nahrádzalo sa v noci. Emil cítil, že   musí pracovať, ak nechce, aby s tým brvnom zahynul. Ešte nedávno by   bol vysmial človeka, ktorý by ho na také tvorenie
+   </tei:p>
+   <tei:p>
+    navádzal. Bol by mu nadal do nekultúrnych prznitelov umenia. A   dnes, ked sa krčil nad rukopisom, myslel už i na to, čo si vyhrabe   pre domácnosť svojím ustávaním.
+   </tei:p>
+   <tei:p>
+    Nebolo ináč ani možné, Laura doniesla iba jediný dobrý oblek na   sebe, a on nemal vtedy ani toho. Do dvoch izieb potrebovali náradie,   čo sa síce vzalo na splátky, ale stá maličkostí muselo sa hotovým   zaplatiť. Stravovanie ich tiež stálo mnoho, hoci hľadali najlacnejšie   hostince, alebo si zašli do ľudovej kuchyne. Boly dni, ked sa ocitli   úplne na holom, ale Laura vedela byť vtedy veľmi rozmarnej nálady a   jej muž načrtal vtedy zväčša niečo, čo bolo podarené a čo   vypomohlo.
+   </tei:p>
+   <tei:p>
+    Emil, pravda, netušil, že sa jeho žena osamote trápi, ako by mohla   prispieť na zaokrytie domácich potrieb. Už mala i miesto v istom   obchode. Ked sa však sverila mužovi, on nechcel o tom ani počuť.
+   </tei:p>
+   <tei:p>
+    — Máš dosť čo robiť doma, žieňa! — vravel jej vážne, ked ho   domŕzala, — ja ti vždy nechám prácu, a za tú nám lepšie zaplatia. —   Ostalo teda pri starom a Emil s Laurou pracovali vedno. Spoločnosť   málo vyhľadávali a ich len neskôr počali navštevovať, ked sa už o   Kamhalových snahách verejne písalo i hovorilo. Najradšej si zašli   naši novomanželia večerom na nábrežie, ale kráľovu sochu zriedkakedy   spomenuli. Niekdy ich bolo vidieť v nejakej lepšej kaviarni, niekdy v   divadle, ale žili najviac doma v úzkej ulici na treťom poschodí s   výhľadom na krovy, komíny a začmudenú oblohu.
+   </tei:p>
+   <tei:p>
+    Často až po pozdnej noci svietilo sa v jednom z oblokov; vtedy   sedel Emil sám v neveľkej izbietke, ktorá bola určená za pracovňu. Po   bezpríkladnom neporiadku nebolo už stopy. Papiere na stolíku boly   síce rozmetané, ale sošky stály pekne na vyvýšenej poličke v   symetrickej vzdialenosti a hľadely na pracujúceho. Pre knihy, ktorých   ešte ani nebolo veľa, slúžila polica, šaty visely v skrini   poukladané. Slovom, už bolo badať stopy starostlivých rúk na každom   mieste. Keď Kamhal ustal v práci, podoprel si rukou vyholenú bradu a   zahľadel sa na obraz, ktorý visel nad stolíkom ešte v starom byte.   Teraz už vedel, koho zobrazuje, ako i to, prečo sa mu Laura hneď   pozdala známa a prečo zodpovedala jeho vkusu. Kópiu našiel v ktoromsi   antikvariáte a zadovážil si ju, lebo sa mu páčila. Nazval si ju   Laurou, svojou Laurou, preto prekrstil i Mínu na Lauru, hoci mu v tej   chvíli obraz ani na myseľ neprišiel. Jeho žena chcela si zavesiť   matkinu fotografiu do pracovne, on však nechcel pristať, lebo by bez   toho obrazu ani pracovať nemohol. Jeho oči často spočinuly na   okúzľujúcich črtách, ktoré sa mu pozdaly vždy hodnovernejšie, a to   najmä v noci, keď bol sám. Zo susednej izby odchýlenými dverami   niesol sa vtedy rovnomerný dych, ktorý Emil s úľubou počúval ako   rytmickú hudbu. Keď sa však pohrúžil do myšlienok, nepočul nič, ani   obozretné kroky, ani vrzgnutie nemastených dvier, a zbadal sa len   vtedy, keď sa mu dve biele ramená ovinuly okolo hrdla a ktosi nežne   privinul jeho utrudenú hlavu na svoju teplú hruď. Takto nažívali   Kamhalovci asi za dobré dva roky a stará buclatá Maarová, ktorá   chodila do domácnosti vypomáhať, spomínala neraz pred známymi, aký   zázrak sa to len mohol stať s tým roztatáreným ,škriblerom‘.
+   </tei:p>
+   <tei:p>
+    IV. Ale niet vraj domu, v ktorom by sa ľudia večne smiali; ani   Kamhalovcov neobišly pochmúrnejšie chvíle. Cas oslabil kúzlo medových   týždňov a staré vášne zdvihly niekedy hlavy. Emil napríklad nevedel   sa stať abstinentom, hoci si nadával sám do slabochov a   naničhodníkov.
+   </tei:p>
+   <tei:p>
+    Laura to vybadala a v taký čas navrhla ona sama, aby si zašli do   kaviarne. Premyslela si vec dôkladne a nesadla si vedľa muža ako   nejaký strážnik. Rozkázala si to isté, čo i on, keď pivo, nuž pivo,   keď likér, tak likér. Štrngala s ním, lebo vedela, že on si s niekým   musí štrngnúť. Takým činom Emil upokojil svoju vášeň, a predsa   nepadol v obeť pokúšaniu.
+   </tei:p>
+   <tei:p>
+    Horšie bolo s ním po nejakej väčšej namáhavej práci. Vyčerpal sa,   vysilil, a nijako nechápal, že mu treba odpočinku. Mal tisíc chutí do   tvorenia, ale darmo sadal ku stolíku, iba čo hŕbu papiera pokazil.   Trvalo to niekedy i viac dní, a vtedy chodil mrzutý, zamyslený, vôbec   nedalo sa takmer s ním rozprávať. Keď ho Laura prvý raz videla   takého, ledva udusila v sebe plač, mysliac si, že ju už zunoval. V   tom síce nebolo ďaleko od pravdy, lebo Emil v taký čas chápal   najlepšie jej nedostatky. Nezdala sa mu vtedy ani taká pekná, ani   rozumná; ak to bolo večer, nekľakol si vedľa, keď sa modlila pri   posteli, ale išiel do pracovne, prechodil sa dlhými krokmi a hneval   sa, že je jeho žena taká — poverčivá. Nebol však zhovievavejší ani   oproti sebe. Myslel na svoje práce, ktorým mohol ďakovať za meno i   dôchodok, zdaly sa mu plné pokrytectva, predpokladov, nereálneho   blúznenia, a nič viac. Výčitky prívržencov nového umenia dopadaly   na
+   </tei:p>
+   <tei:p>
+    jeho rozorvaného ducha ako kladivo, a keby bolo bývalo možné, bol   by v tom momente všetky svoje novšie tvorby, počnúc novelou „Na brvne   oceánom,“ hodil jednoducho do ohňa. Laura hľadala zprvu príčinu sama   v sebe, vlastne v ich sväzku, a bolo jej do zúfania. Keď ju nikto   nevidel, poplakala si, ale osudná kráľova socha nad riekou nemiešala   sa viac do jej žiaľov. Jej srdce nechcelo a nemuselo byť viac také   slabé. Laura poznala vo svojom živote spravovanie božie, a to ju   utvrdilo v presvedčení, že viac nezahynie. Dodávalo jej to sily,   neraz i sebazaprením. Emil zbadal túto silu, čo sa mu, nestálemu,   chabému, i pozdávalo ... Laura zas pomaly nazrela vždy hlbšie a   hlbšie do jeho duše. Keď sa jeho mrzutosť opätovala, všimla si   okolností, čím by sa mu na duši obľahčilo, a našla i odpomoc. V taký   čas ho poprosila, aby jej narobil rebríčkov do kvetov, čo on rád   robieval, aby jej pomohol pamuk posvíjať, alebo náradie   poprestavovať, alebo, ak bol večer, šli do opery, prípadne do kina.   Tam pán manžel riadne nadal pôvodcom textu, či hudby, často i   predstaviteľom hlavných úloh, a to bola pre neho medicína. Dôjduc   domov, pracoval do noci. Nasledujúceho dňa vybozkával svoju ženu s   nápadnou prostosrdečnosťou, rozpovedal jej svoje najnovšie plány a   nezabudol sa pochváliť, aká nádherná myšlienka ho nadišla. Raz však   už po dvoch rokoch spolužitia došiel domov celkom ružovej vôle. Laura   sedela pri okne v menšej izbici a háčkovala. — Čože to vŕtaš? — pýtal   sa jej žartovne. — Dar pre hosťa, Emil, — odvetila a jej bledá tvár   poliala sa rumencom. Siahol zvedavo po háčkovaní, ktoré jej   ležalo
+   </tei:p>
+   <tei:p>
+    na lone. Pochopil, že to má byť povojník, a nezdržal sa, aby svoje   žieňa neprivinul k srdcu. Ked však o tom osamote rozmýšľal, cítil, že   nebol úprimný, ešte vždy neveril v život natoľko, aby ho komu   doprial, hoci by ten mal byť jeho vlastným potomkom. Od toho času   Laura nebola viac taká svieža a bystrá, Emil sa snažil očividome   obľahčiť jej stav. Bol pozorný voči nej, no bolo v tom i pretvárky.   Jeho žena sa skoro dovtípila, že by bol iste radšej, keby tak nebolo,   ako je, čo ju zabolelo. — Emil, ty toho drobizga nebudeš mať rád, —   nadštrkla niekedy s obavou, keď rozmýšľala o budúcnosti. Stisol jej   ruku na dôkaz, že sa mýli, ale nepovedal ani slova. Naozaj neprezrela   jeho dušu úplne. Jemu nebolo protivné povedomie, že bude otcom, ale   ju, Lauru, akosi nepoznával. Súmerná postava, svieža pleť, usmievavé   pery, bezstarostný pohľad, slovom, všetko, čo ho dosial nadchlo,   zmenilo sa na nepoznanie. A menil sa aj on. Odkedy sa Laura tak   zmenila, jeho tvorivosť ochabovala každým dňom. Ocitol sa častejšie v   rozpoložení, ako by sa bol prepracoval. Nebol spokojný so sebou,   vŕšil sa sám na sebe, no predsa to aj ona pocítila a v takej chvíli   prialai si smrť.
+   </tei:p>
+   <tei:p>
+    O smrti vôbec už veľmi mnoho rozmýšľala, niekedy tak jasne videla   ozaj blízky koniec. Sovrelo jej srdce pri myšlienke, čo bude s   Emilom, ak ostane sám, a vtedy si žiadala žiť, dlho žiť. Keď ho však   uzrela bez vôle, zadumaného, jej citbvá duša zachvela sa ako list,   aby ju ten novovybudovaný pekný svet neprivalil. A vtedy len aby   zachránila sladký pocit vo svojom srdci, bola hotová zrieknuť sa i   života.
+   </tei:p>
+   <tei:p>
+    V jednu noc sa cítila veľmi zle.
+   </tei:p>
+   <tei:p>
+    — Emil, ja ti umriem, — prehovorila k mužovi, ktorý sa usiloval   všemožne, aby jej bolestiam uľavil.
+   </tei:p>
+   <tei:p>
+    Na tie slová sa odmlčal a Laura práve hádala, ako sa ho to dotklo,   ked na jej tvár dopadly slzy — teplé slzy. Počala ho tešiť, veď to   hádam bude všetko dobré, a on bozkával jej čelo, ústa, oči.
+   </tei:p>
+   <tei:p>
+    — A ozaj by si ma nechala samotného na svete? — pýtal sa jej v   hlbokom pohnutí.
+   </tei:p>
+   <tei:p>
+    Potom bol už rad na nej, aby si ho oboma rukami k srdcu privinula.   Bola veľmi rada, že ju ešte vždy nezunoval.
+   </tei:p>
+   <tei:p>
+    To sa prihodilo i viackrát a v takú noc zväčša obaja zle spali.   Ona si žiadala žiť, dlho žiť a bála sa, že sa jej tá žiadosť   nevyplní. Ale obraznosť Emilova pracovala tým viac. Predstavil si   svoju ženu mŕtvu, s pravidelnou peknou tvárou, ťažkými privretými   mihalnicami, jemnými perami, a zakaždým cítil, ako by sa mu chcelo   niečo v prsiach rozstúpiť. Tušil, že by sa zbláznil, prišlo mu však   na um i niečo zvláštneho, čo len umelcovi môže prísť na um. V tom   prípade, keby sa totiž nezbláznil, že by vytvoril práce, kolosálne   práce. Jednotvárnosť v živote ubíja talent, kým zmena, akákoľvek   ťažká, dodáva pružnosti. Svoje úspechy si takto vysvetľoval a tak i   svoju ochabnutosť. Miloval svoj domáci kozub a ľakal sa ho. O jeho   vlohách nemohlo byť pochybnosti, a predsa nešlo mu nič od ruky. „Ak   by tak umrela,“ mihlo mu mozgom a oči jeho zvlhly, až mu zamrelo   srdce od bôľu a či od hrôzy, a predsa by nebol dbal, čo by niečo   zvlnilo jeho dušu, čo by ho zranilo, len aby mohol tvoriť, tvoriť   ...
+   </tei:p>
+   <tei:p>
+    v. Lauru nesklamala predtucha, umrela pri pôrode a Emil stál nad   dvoma mŕtvolami, z ktorých jednu zbožňoval a druhú nenávidel. Keď mu   doktor oznámil, že skonala, hodil sa na zem, plakal a ruval si   kučeravé vlasy. Potom ako by sa bol zmenil v chladnú sochu. Bol bledý   ako stena, ináč sedel pri mŕtvej a ani len sval sa mu nepohol na   tvári.
+   </tei:p>
+   <tei:p>
+    Ľudia ho málo znepokojovali, stará Maarová zariadila všetko   potrebné. Noviny oznámily smutnú zvesť, čo vzbudilo všeobecný súcit,   ale málo bolo tých, ktorí sa osmelili do skromného bytu na tretie   poschodie. Boli to zväčša nasledovníci smeru, ktorého sa stal Emil   kliesniteľom. V iných okolnostiach bol by im býval vďačný, teraz   ledva prehovoril k nim niekoľko slov. Nedbal, či sa kto vzdialil z   izby alebo tam ostal. Hľadel na ten chladný obličaj s bielou   priezračnou pleťou, s hustými mihalnicami a jemnými perami. Hľadel a   nemyslel na nič.
+   </tei:p>
+   <tei:p>
+    Keď precitol na chvíľu z otupenosti, videlo sa mu, že Laura len   spí, alebo že on už tiež umrel.
+   </tei:p>
+   <tei:p>
+    „Iste to bude tak, tak to bude,“ premietal. „Alebo moje srdce je   chladné a tvrdé ako kus ľadu. Smiať sa nemôžem, ale ani plakať   nemôžem. Podivné, veľmi podivné. Ja som si to ináč predstavoval.“
+   </tei:p>
+   <tei:p>
+    Došli s povozom pre umretú, to ho presvedčilo, že ani Laura nespí,   ani on že neumrel. Vysvetľovali mu, že ju chcú previezť do umrlčej   komory, v cintoríne, kde má už prichystaný krásny umelecký podstavec.   Nedovolil, chcel ju mať doma, ešte doma. Cez celé tri dni ani sa   skoro nevzdialil od truhly. Tam sedel, alebo prechodil sa vo dne i v   noci pri zastretých oknách. Pery jeho sa niekedy pohybovaly, ako by   im niečo rozprával. Pri všetkých pochybnostiach a nevere neprišlo mu   ani teraz na um, že by ho ona viac nepočula ani nevidela. Keď   niektorá zo sviec zle horela, napravil ju, aby si nemyslela Laura, že   sa hnevá na ňu pre dieťa. On sa nehnevá, a keď, nuž len sám na seba,   ale ju rád... veľmi, veľmi rád...
+   </tei:p>
+   <tei:p>
+    Po pohrebe, na ktorom sa zúčastnil celý literárny svet veľkomesta,   nevedel naskrze, kde sa vrhnúť. Jeho známi a priatelia chceli ho   vziať medzi seba.
+   </tei:p>
+   <tei:p>
+    Kamhal i z tejto smútočnej príležitosti mohol súdiť, že nepatrí   medzi zaznávané talenty. Jeho umelecká márnivosť mohla sa upokojiť,   veď, hľa, ešte len i tí zaťatí vyznávači nového umenia hľadeli mu dať   najavo, že ho nepokladajú za bezcenného, hoci s ním nesúhlasia.   Všetci sa však čudovali, že Emil nevyronil ani jednej slzy nad   otvoreným hrobom, čo tí, ktorí vedeli bližšie o jeho pomere k   zomrelej, pokladali za zjav veľmi nebezpečný. Nechceli ho nechať   osamote, on však práve, že mu to dali pocítiť, snažil sa striasť sa   ich všetkých. Ani nevedel, ako sa dostal na svoj byt, kde ho nikto   nevítal. Zdusené zapáchajúce povetrie udrelo mu v tvár a on ho s   pôžitkom sal do seba. Ustatý do úmoru zvalil sa na posteľ, privrel   oči a nechcel myslieť na nič. Ležal dolu tvárou, nehybne ako mŕtvy   alebo bez vedomia.
+   </tei:p>
+   <tei:p>
+    Súmrak sadal tam vonku na krovy a komíny, vlúdil sa i do pustého   bytu na treťom poschodí. Zanedlho ozvaly sa chodbou vleklé kroky,   ktosi vošiel do oddelenia, postál pri dverách a potom sa obozretne   vzdialil. Bola to pani Maarová.
+   </tei:p>
+   <tei:p>
+    ktorá nešťastného ,škriblera‘ srdcom ľutovala, ale bola i poverená   jeho ctiteľmi, aby nakukla k nemu tu i tu, či by mu nebolo niečo   treba. Nastrojili to všetko preto, ak by ten človek nejakú hlúposť   chcel vyparatiť. A buclatá vrátnička nevdojak sama cítila význam   svojho poslania. Usilovala sa dvíhať svoje ťažké nohy čo najtichšie,   a dôjduc ku dverám, nakukla kľúčovou dierkou do izby. Videla Kamhala,   ako ležal dolu tvárou na posteli, a tušila niečo veľmi hrozného.   Chcela dnu, ale sa jej nohy podlamovaly. Vzdialila sa s predsavzatím,   že sa po chvíli vráti, a ak bude Kamhal ešte vždy tak ležať, pozrie a   prípadne porobí krik.
+   </tei:p>
+   <tei:p>
+    Keď stúpala dolu schodmi, utierala si zásterou oči a líca. Poznala   možno najlepšie tých dvoch ľudí a nemohla sa zdržať sĺz, keď bola   takého ľútostivého srdca.
+   </tei:p>
+   <tei:p>
+    Nesišla však ani s prvých schodov, ked Kamhal skočil s   postele.
+   </tei:p>
+   <tei:p>
+    — Laura, Laura, prečo si ma nechala! — zalamoval rukami a chodil,   obzeral všetky kúty ako poloblázon. Razom zmĺkol, zrak jeho utkvel na   vkusnej poličke, kde mala Laura poukladané jeho práce. „Na brvne   oceánom“, „Nový život“, „Za svetlom“. — Čítal a prešiel si rukou po   horúcom čele. Jeho zosobnené snahy dochádzaly na návštevu. Iste aby   mu vyslovily svoju sústrasť, a jemu sa zdalo, že majú všetky masky na   tvárach.
+   </tei:p>
+   <tei:p>
+    — Lož, lož, mizerná lož, — zaškrípal zubmi a bil päsťou o stôl.   Nebol schopný súvislejšic myslieť, len kde-tu pohodil zdrap nejakej   drviacej myšlienky.
+   </tei:p>
+   <tei:p>
+    — Cieľ — určenie — poriadok — hahahahaH
+   </tei:p>
+   <tei:p>
+    — rozchichotal sa neprirodzeným hlasom a vyšiel z izby. Ani   vonkajšie dvere neprimkol a tackavým krokom šiel dolu schodmi. Len   teraz pochopil, že jej už ozaj niet, a pustil sa ulicami veľkomesta   ako potulný pes, ktorý hľadá svojho pána.
+   </tei:p>
+   <tei:p>
+    Stará Maarová bola rada, keď ho nenašla doma — treba mu   spoločnosti — myslela si, odpravila mu posteľ, pripravila vodu a   primkla byt. Kamhal si aj našiel spoločnosť. O polnoci sedel „U novej   hviezdy“ úplne spitý. Členovia klubu hľadeli naňho ako na heretika,   ktorý počína ľutovať svoje učenie a svoje skutky. Nadával na svoje   práce, na svojich vydavateľov, na život a na smrť a oni mu   prisviedčali.
+   </tei:p>
+   <tei:p>
+    Domov ani nešiel, kde ho nadišla ospanlivosť, tam sa vyspal. Pil   so smädom človeka, ktorý dávno neokúsil nápoj. Len vtedy sa cítil   dobre, keď bol v omámení, a tešil sa, keď mu spoločníci prízvukovali,   že veď mu nikto nebude robiť výčitky.
+   </tei:p>
+   <tei:p>
+    Trvalo to niekoľko dní, až sa počala ukazovať reakcia. Pri všetkej   duševnej zrumenosti bolo v ňom niečo, čo mu stále protirečilo. Keď   tak po vytrezvení slúchal na ten hlas, počul niečo, podobné výčitke,   jeho ctitelia si tiež dali na tom záležať, aby ho zachránili pre   život, ktorému on sám prekopával riečište. Presviedčali ho, že keď mu   práca i nenahradí stratu, ale mu aspoň ranu zahojí. Usilovali o to   tobôž, lebo vedeli, že Kamhal by znamenal úspech nasledovníkov nového   umenia.
+   </tei:p>
+   <tei:p>
+    Po vybúrení cítil sa Emil zbitý, ale počínal dôverovať slovám,   ktoré ani nie tak dávno on sám rozhlasoval. Zašiel i domov, ale keď   videl predmety, ktoré ho upomínaly na jeho stratený
+   </tei:p>
+   <tei:p>
+    raj, darmo chcel pracovať, nebolo možnosti a sily...
+   </tei:p>
+   <tei:p>
+    Najviac sedával pri stolíku v neveľkej pracovni a vpíjal sa očima   do obrazu, na ktorý preniesol všetku svoju lásku.
+   </tei:p>
+   <tei:p>
+    Ináč v srdci jeho bolo napodiv prázdno. Čudoval sa nad tým i sám,   najmä ked si sprítomnil noci, v ktorých mu Laura predpovedala svoj   blízky skon. Vtedy myslel na kolosálne práce, a teraz zakusoval, ako   ten veľký bôľ udusili i poslednú iskierku jeho ambícií. Očakával   nadchnutie, — nechodilo.
+   </tei:p>
+   <tei:p>
+    V redakcii mu občas svitlo v hlave. Narobil i plánov, ale nemal   sily uskutočniť ich, nenútilo ho k tomu nič, ani ho   nepovzbudzovalo.
+   </tei:p>
+   <tei:p>
+    Po viacerých bezvýsledných pokusoch domyslel si konečne, koho   stratil vo svojej žene, a to ho dorazilo. Jej túžba po žití, čistota   ducha i tela prekradla sa i do srdca. Cítil, myslel i pracoval jej   kvôli, iba jej kvôli. Preto sa mu videlo všetko jeho snaženie len   lžou, pretvárkou, keď jej viac nebolo. Keby mu bola nechala kus   viery, čo hneď tej .poverčivej1 viery, nebol by teraz ako Samson,   zbavený svojich divotvorných vlasov.
+   </tei:p>
+   <tei:p>
+    Dvojitému úderu neodolal, nemal ani čím. Laurina smrť pripravila   ho o tvorivú silu, a bez nej nechápal, načo by mal žiť.
+   </tei:p>
+   <tei:p>
+    „Písať, ja by som mal čo písať... ale ako???“ A hneď zase: „Písať   ... ja by som vedel písať ... ale čo???“
+   </tei:p>
+   <tei:p>
+    Tak bol jeho duch s chvíle na chvíľu naladený. Krv, nach ženského   tela, husté tmy blížiacej sa noci a podobné mu niekedy podráždilo   fantáziu, ale vtedy veril viac v určenie, čistotu, mrav — a naopak.   Bola to duša. vyšinutá z rovnováhy, v ktorej ju za čas ktosi   udržiaval.
+   </tei:p>
+   <tei:p>
+    Co sa dalo predvídať, nadišlo. Emil sa spúšťal a núdza sa vtierala   do jeho príbytku. Maarová tušila, kde sa to skončí, no predsa sa   zhrozila, keď počula, že vtedy a vtedy bude v ich dome na treťom   poschodí licitácia.
+   </tei:p>
+   <tei:p>
+    Svitol určený deň a — skazeného ,škriblera‘ nebolo doma. Ešte sa   domnievala, že si šiel nejaké peniaze zaopatriť, aby zachránil   rodinné pamiatky, ale nechodil. Vypredali ho za bagateľ. Pani Maarová   sama nadhodila na tú kópiu, ktorá visela v pracovni nad stolíkom.   Urobila to z úcty oproti zosnulej, ktorú tam navlas poznávala.
+   </tei:p>
+   <tei:p>
+    Toho dňa večerom uberal sa akýsi tulák po nábreží... bol to   Kamhal. Len dlhšie kučeravé vlasy čo mu ostaly, ináč bol na   nepoznanie. Vyšiel na most a utiahol sa pod tichého kráľa, ktorý tam   už iste videl viac zúbožených tvárí ako kedysi za svojho   panovania.
+   </tei:p>
+   <tei:p>
+    Zďaleka doliehal ohlas života z čulých ulíc, i na samom moste bolo   živo. Emil však počul len vábny hlas vln, černej ších ako hustá noc.   Lampy sa odrážaly na hladine ako vtedy... Emil nemyslel viac na to.   Hľadel vedľa seba na krok, či na dva. Zdalo sa mu, že nestojí sám, že   je tam i ona a opretá o cifrované zábradlie nespúšťa zrak s mohutných   čiernych vôd. Skoro by ju bol oslovil, skoro by jej bol pošepol, že   je primladá — keď sa prehla cez zábradlie... V nasledujúcej chvíli   rozstúpily sa vody a pochovaly život, ubitý žiaľom a umdlenosťou.
+   </tei:p>
+   <tei:p>
+    Mŕtvolu Kamhalovu vylovili. Na cintoríne pri samom múre odpočíva   Emil vedľa svojej Laury. Jeho ctitelia postarali sa o hrob a dali   vsadiť do múru veľkú kamennú
+   </tei:p>
+   <tei:p>
+    tabulu. Na prvý pohľad niet na nej nič zvláštneho, kto však   postoji pri zelenej mohyle, tomu vyrastú pred zrakom z toho mŕtveho   kameňa vody vzbúrené, nekonečné vody. A komu je ešte ani vtedy nie   náhlo, ten rozozná i brvno, tancujúce brvno, po ktorom sa vzťahuje   ľudská ruka. A potom i hlavu rozozná, ale tá už v prekypujúcich   vlnách tonie... Pri tom hrobe i dnes sa stretávajú zamilovaní...
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

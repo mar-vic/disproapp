@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944602" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Koketka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2075
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Koketka
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     KOKETKA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Bolo po tanečnej zábave. Keď sme odprevadili slečny domov a   vrátili sa nazpät, dielňa na náradie už bola odtrúbila na polšiestu   rannú. Cez vrchné okná velkých zaclonených oblokov vidieť bolo kus   tmavo-sivého neba s troma-štýrma preblednutými hviezdičkami a čiernou   kontúrou komína na škridlovej streche.
+   </tei:p>
+   <tei:p>
+    Zasadli sme asi piati okolo dlhého stola. Všetci mladí veselí   priatelia s akýmisi blýskavými tvárami od potu a špiny, s pokrčenými   golierikmi a manžetami, v zaprášených a sviečkami zakyckaných   frakoch. Rozkázali sme si piva a rozhovorili sa o tanečnej zábave a   slečnách. Domov sa nám nechcelo. Spanie zdalo sa nám po vydarenom   plese najnudnejšou vecou. Hudba ešte zvučala v ušiach,   krásavice-tanečnice ešte mihaly sa nám pred očami, ich nežné,   príjemné slová a poznámky sme ešte počuli. Rozpomienky čerstvé,   horúce klzaly sa nám mozgami, myšlienky priadly tkanivo so zlatými   muškami v ňom. Mušky sa trepocú, trepocú, ako by nemohly von z toho   tkaniva.
+   </tei:p>
+   <tei:p>
+    Nemýlil nás v našich myšlienkach zaliaty obrus s pozostatkami   pomarančov, salónnych cukríkov, šumivých limonád a všelijakých   minerálnych vôd, poháre s nedopitým pivom a vínom. Veľká lampa   sliepňala nad nami v dyme a smrade, tak sa zdalo, že dohorieva a   preto rozširuje odporný olejový zápach. Veselý hovor a smiech   zaznieval smutnou sieňou,
+   </tei:p>
+   <tei:p>
+    204
+   </tei:p>
+   <tei:p>
+    ﻿poháre štrngotaly a priateľ Jedlovič, mladý advokát s veľkým   bruchom a bradovicami na lícach a nad očami spieval si českú: „Ten   púvab, jenž ovládá svet, jest krásnéjší, jak z ruže kvet..
+   </tei:p>
+   <tei:p>
+    Milanovič, bankový kníhvedúci s vysotenou špicatou bradou a veľkým   ohryzkom na chudom, tenkom hrdle, mu niekedy zakontroval, hádžúc   hlavou tak, že mu lietala ohromná frizúra a menila sa ustavične.   Rakyta, advokátsky osnovník s čiernou pleťou, malou ostrihanou hlavou   a kultivovanou dlhou bočnou bradou, bez fúzov, sedel, oprúc si hlavu   na na lakeť; kedy-tedy sa mu oči privrely, zdalo sa, že spí, ale za   chvíľu ich otváral naširoko a hľadel dookola, ako by sa bol prebudil.   Apatekársky pomocník Slávik so širokou hranatou tvárou, s tvrdými   črtami a pichľavými, ľstivými očami, neprestával filozofovať a   pohrdlivo sa chechtať.
+   </tei:p>
+   <tei:p>
+    Ja som myslel, zabratý do seba, na Maru 2abicovú. Od prvej   štvorylky som myslel na ňu. Ako krásne pozerala na mňa. Pri   jednoduchej reťazi stisla mi ruku, pri dvojitej rameno. Potom ešte   pozrela za mnou a tak krásne, tak krásne, i usmiala sa mi, ako by   volala: „Poďte, mladý človeče, tak rada by sa s vami zabavila, len s   vami, lebo sa mi páčite. Zpočiatku som neveril, že to mne patrí.   Potom, keď som počal veriť, dlho nešlo mi do hlavy, prečo sa ona   práve na mňa usmieva a tak pekne pozerá, i ruku stíska, i rameno   pritlačí k svojmu. Predstavil sa mi utešený obraz.. . Idem s ňou a tu   odrazu predo mnou hrebenček v tmavých, hustých bohatých vlasoch, samé   drobné jagavé kamenčeky v ňom. To je jej hrebenček. To je ona, čo mi   ruku stisla. Rozháňa vejárom na dlhej retiazke, zakrucuje ho okolo   prsta a zas odkrucuje, šúpa malými nohami v atlasových črievičkách,   smeje sa na pria-
+   </tei:p>
+   <tei:p>
+    205
+   </tei:p>
+   <tei:p>
+    ﻿telkiných slovách, s ktorou sa prechádza, ohybuje sa, pozrie do   zrkadla a napráva si vlasy, a tu odrazu obráti sa ku mne a jej oči   hľadia a smejú sa, iskierky skáču v nich, ako drobné hviezdičky v   belasých jazierkach. Hľadí rovno na mňa, a oči i ústa volajú; „Mladý   človeče, poďte, s vami by sa rada zabavila... A ja sa   pripájam.
+   </tei:p>
+   <tei:p>
+    Z myšlienok vytrhli ma Cigáni, ktorí spustili sentimentálny   nemecký valčík, v susednej izbe, neznámemu mladému človekovi s   čiernou plnou hriadkou, s cylindrom na hlave a preveseným žltkavým   zimníkom na ľavom pleci. Opretý o biliard, dirigoval primáša. Dvíhal   päste nad hlavu a trhal nimi odrazu dolu. To znamenalo fortissimo.   Cigáni hrali fortissimo. Druhý raz roztvoril päste, rozšíril prsty na   rukách, sklonil hlavu ako by chcel plávať, prižmúril oči a Cigáni   hrali piano. O chvíľu si sadol k malému stolíku, pohrúžil hlavu do   dlaní a primáš, prestanúc sa triasť a mykať hlavou, naklonil sa celý   k ušiam mladého človeka šibrinkujúc mu husľami okolo nich. Hral   potichučky.
+   </tei:p>
+   <tei:p>
+    — Co ty myslíš o Mare? — spýtal sa ma neočakávane, potichu a   tajnostne Juľo Rakyta, roztvoriac naširoko oči.
+   </tei:p>
+   <tei:p>
+    Trhol som sa. Prichytil ma práve pri myšlienkach na ňu. Bol som   zas pri jednoduchej reťazi a chcel som prejsť na duplovanú.
+   </tei:p>
+   <tei:p>
+    — Prečo?
+   </tei:p>
+   <tei:p>
+    — Len tak. Chcem vedieť tvoju mienku.
+   </tei:p>
+   <tei:p>
+    — Co myslím? . . . Nič, — prehodil som len tak s pleca, ako by ma   dievča ani troška nezaujímalo. — Tuctová dáma, — riešil som o chvíľu.   Páči sa ti?
+   </tei:p>
+   <tei:p>
+    — Mne sa páči. . . Taká ušľachtilosť v každej jej črte, v každom   pohybe, každom slovíčku. . . Braček, povedal by som ti niečo, keby si   ma neprezradil ... Vieš to dievča ...
+   </tei:p>
+   <tei:p>
+    206
+   </tei:p>
+   <tei:p>
+    ﻿— Akí sú mužskí blázni, —• poznamenal nahlas apatekársky pomocník   a obrátil našu pozornosť na seba. — Pozrite na bláznivého zaľúbeného.   — Ukázal na neznámeho mladého človeka v druhej izbe. Ešte mal hlavu   sklonenú v dlaniach a Cigán mu hral potichučky do ušú ... — Tancoval   s Marou a zaľúbil sa.
+   </tei:p>
+   <tei:p>
+    Pohrdlive sa usmial a sošpúlil ústa.
+   </tei:p>
+   <tei:p>
+    — Aj tento vraví o Mare, — prelietlo mi mysľou. — Čo len chcú s   ňou?
+   </tei:p>
+   <tei:p>
+    — Všetci ste takí, — vravel apatekársky pomocník s posmechom. —   Všetci ste zaľúbení do Mary a myslíte si, že aj ona do vás.
+   </tei:p>
+   <tei:p>
+    Hodil rukou.
+   </tei:p>
+   <tei:p>
+    — Myslí si, že je do neho, — pošepol mi Milanovič. Óhryzok mu   skočil a účes sa premenil. Vlasy mu padlý do čela.
+   </tei:p>
+   <tei:p>
+    — Co ty myslíš o Mare? — spýtal sa Rakyta Milanoviča. Milanovič   zasa hodil hlavou tak, že mu vlasy padlý nazad a s vysoká pohliadol   na Rakytu. Pohľad tento hovoril: ,,Co ty chudák chceš s Marou? Na   teba ona ani nepozrie. Tu som ja. Mixe bolo smiešno na obidvoch,   lebo veď mne stískala ruku. Co sa bude zaujímať o týchto? Jednému   ustavične skáče gágor a druhý rozplešťuje oči. . . Ale ten apatekár,   čo ten chce? Co hovorí o nás, ako o zaľúbených? Vari by aj on   reflektoval. Tvár ako mramor, chladná a tvrdá. Neohrabanec.
+   </tei:p>
+   <tei:p>
+    Apatekársky pomocník, hľadiac ponad naše hlavy, hovoril ešte   hlasnejšie:
+   </tei:p>
+   <tei:p>
+    — Smiešni sú mužskí. Starí, či mladí. To je jedno. Smiešni sú, keď   je reč o majetku. Hovoria, že sú ľudia opatrní a neopatrní,   ľahkomyselní, márnotratní, skúpi, gavalierski, lakomí, a to je všetko   nie pravda, lebo keď ide, povedzme, o podporu svojho bližného, alebo,   aby požičali takému, o kto-
+   </tei:p>
+   <tei:p>
+    207
+   </tei:p>
+   <tei:p>
+    ﻿rom vedia, že im nikdy nevráti, a keď tento chudák príde k nim   raz, dva razy, päť ráz, ak na piaty raz nie, nuž na desiaty raz iste   strčia ruky do vrecák a vyhovoria sa na dražobu. Smiešni sú, keď je   reč o svojej alebo cudzej kožke. Sú vraj smelí a bojazliví, chabí a   odvážni, nemilosrdní, veľkodušní, sverepí, ale zaškrabni ho po   paprčke, raz, dva, tri, štyri razy, ak sa hneď nenapáli, na desiaty   raz ho iste rozhodí zlosť a i najsmelší sa uchýli, aby mu paprčka   čistou zostala. Pri istom stupni nebezpečenstva i najchrabrejší stáva   sa utekajúcim chabcom . . .
+   </tei:p>
+   <tei:p>
+    — Táraniny, — prerušil ho spievajúci Jedľovič.
+   </tei:p>
+   <tei:p>
+    — Možno, — prisvedčil rozprávajúci apatekársky pomocník, — ale   najsmiešnejší sú ľudia, čo sa dievok a srdca týče. V tomto ohľade sú   ľudia iba blázniví. Vymysleli vznetlivosť, záľubčivosť, chladnosť, že   sa nájdu ľudia chladní, rojčiví, smutní, veselí, odporní, príjemní,   tuhí, mäkkí a všetci básnici vedia, akí, ale keď na nás pozrie pekné   dievča raz, dva, tri, štyri razy, ak na piaty raz neosprostieme a   nestaneme sa hotovými blázny, to na desiaty raz smelo nás môžu   zavrieť do blázinca. Nemyslime si, že nám je more po kolená a hlava   že nám siaha po guľu na katolíckej veži. Dievčatko, pekné dievčatko   je do nás po krk, vyše krku, po uši, vyše ušú, ba aj vyše hlavy   zaľúbené. To sa rozumie.
+   </tei:p>
+   <tei:p>
+    Vydýchol si a akosi smutne dodal:
+   </tei:p>
+   <tei:p>
+    — Co je prirodzené, nie je bláznivé. A predsa je v našej prírode   bláznivý punkt, ktorý sa volá samoľúbosťou. Z nej vyrastá   namyslenosť, čo nás vedie za nosom, kým nám ho smrť nenatiahne a   nezahryzne do zeme , . . Marka je pekné dievča, ale koketka, koketka.   Dotýka sa toho nášho bláznivého punkta a my sa bláznime, namýšľame   si. Ty si namýšľaš, i ty, i ty.
+   </tei:p>
+   <tei:p>
+    Ukázal rad-radom, aj na mňa.
+   </tei:p>
+   <tei:p>
+    208
+   </tei:p>
+   <tei:p>
+    ﻿Začervenal som sa. Ten chlap, ako by čítal vo mne. Myslel som síce   na Maru od prvej štvorylky, ale oprávnene. Nenamýšľam si, veď mi ona   najprv ruku stisla, potom rameno. To je istý znak lásky. Keby ma   nemilovala, nestískala by . . . Ale prečo si práve Maru vybral! Má   tisíc iných dievčat . . . Co jej nadáva do koketiek . . . Zbadal   niečo? a teraz závidí.
+   </tei:p>
+   <tei:p>
+    — Daj jej pokoj, — zavolal som namrzený, — to sú sprostosti. Mara   je poriadno dievča.
+   </tei:p>
+   <tei:p>
+    — Lala, aký obranca, — zasmial sa pomocník, potom ako na protiveň   zaduplikoval: — Mara je koketa!
+   </tei:p>
+   <tei:p>
+    Milanovič, bledý, so sršiacimi očami, vstal a zdvihol päsť:
+   </tei:p>
+   <tei:p>
+    — Neurážaj jej!
+   </tei:p>
+   <tei:p>
+    Oplan, — zahučal Jedľovič
+   </tei:p>
+   <tei:p>
+    — O bezbrannom dievčati nefilozofuj, — volal Rakyta.
+   </tei:p>
+   <tei:p>
+    — Nevravím, že sú všteci pozaľubovaní? Blázni, — zahundral pre   seba Slávik,
+   </tei:p>
+   <tei:p>
+    — Co títo vykrikujú, — myslel som si, — ja som tu na to, aby sa   jej zaujal. Na mňa tak krásne pozrela. Pri jednoduchej reťazi.. .   Sprostosti, — kričal som, — tebe sa nepáči a ty zaiste jej, za to   nemusíš . . .
+   </tei:p>
+   <tei:p>
+    V tejto chvíli vrazil do izby neznámy mladý človek, ako by ho bol   niekto posotil. Drgol do dverí a zastavil sa. Na tenkých, podlomených   nohách kolembal sa. Zavesený kabát na pleci sa sošuchol a padol mu k   nohám. Neosmelil sa ho zodvihnúť, aby sa za ním neskrochmelil.   Červený v tvári, hľadiac na kríž, bľabotal:
+   </tei:p>
+   <tei:p>
+    — Vy tu o slečne Márii, . . Urážate ju. . . Neopovažujte sa o nej   špatné .. . Mne ona tri razy
+   </tei:p>
+   <tei:p>
+    209
+   </tei:p>
+   <tei:p>
+    14. Novely
+   </tei:p>
+   <tei:p>
+    ﻿ruku stisla na bále . .. Do mňa je zaľúbená . . . Zajtra ju   vypýtam . .. — Lžete, pane, — vyskočil som. — Nechaj ho, — potiahol   ma za frak Rakyta, — vidíš, že je opitý. Takému pavúkovi nacicanému   daj pokoj. A potom, — šepol mi tajnostne do ucha, — veď sa Mara so   mnou zabávala, za každým, čo sa so mnou stretla, sme si ruky podali,   pozrela významne na mňa a stisla mi prsty. — Aj tebe? — spýtal som   sa. — Vari aj tebe? — opýtal sa on.
+   </tei:p>
+   <tei:p>
+    — Aj vám stískala ruky? — zasmial sa oproti nám apatekársky   pomocník, — mne tiež, ale ako!
+   </tei:p>
+   <tei:p>
+    — Počujete, aj mne, — povedal Milanovič smutne a hodil hlavou.   Očeš mu padol na ľavé ucho.
+   </tei:p>
+   <tei:p>
+    — Aj mne, aj mne, — zavolal Jedľovič a za-
+   </tei:p>
+   <tei:p>
+    chmúril sa. Všetky bradovice sa mu sišly na tvári. — Každému,   každému zhrozil som sa a ako
+   </tei:p>
+   <tei:p>
+    podrazený sadol na stoličku.
+   </tei:p>
+   <tei:p>
+    Opitý pán oprel sa o dvere a hľadel na svoj
+   </tei:p>
+   <tei:p>
+    padnutý zimník. V jeho očiach ako by sa boly uká-
+   </tei:p>
+   <tei:p>
+    zaly slzy.
+   </tei:p>
+   <tei:p>
+    — Nepovedal som, koketka, — vravel apatekársky pomocník, —   koketka, koketka, — pohundrával.
+   </tei:p>
+   <tei:p>
+    Pustili sme sa do podrobností. Komu, ako a koľ-
+   </tei:p>
+   <tei:p>
+    ko ráz slečna Mara stisla ruku, či aj pozrela významne alebo bez   významu, a či vôbec nepozrela, či po pozretí aj sklonila hlávku, aby   sa hanbila, že pozrela, či nie? Ci sa usmiala potom, či ostala   smutnou?
+   </tei:p>
+   <tei:p>
+    — Nikomu tak, ako mne, — zamiešal sa opitý
+   </tei:p>
+   <tei:p>
+    pán a spravil pokus, že zdvihne kabát, ale sa po-
+   </tei:p>
+   <tei:p>
+    točil a zahodil ho na druhú stranu dverí. Pomohli sme mu a   odpratali ho do druhej izby. Tam si ľa-
+   </tei:p>
+   <tei:p>
+    hol na diván. My sme pokračovali v detailoch.
+   </tei:p>
+   <tei:p>
+    210
+   </tei:p>
+   <tei:p>
+    ﻿— Mne dlho, dlho držala ruku, — myslel som si ja, — a bavila sa s   mojimi prsty, s každým osobitne a najmä so snubným, ten dlho, dlho   mädlila, až prešla na malíček. .. týmto tu len ruky stískala ...   Predsa je to celkom iné, ruku stisnúť a držať ju dlho, dlho . .. Ruky   stískať konečne môže byť aj zvykom, ale baviť sa s prsty! . . . Týmto   holobrádkom mohla sa slečna Mara posmievať, ale mne vážnemu, mne   básnikovi sa neposmievala. O mne myslela vážne, mne ona stískala ruku   úprimne, pravdivé, z lásky ...
+   </tei:p>
+   <tei:p>
+    Tak som si myslel ja. Ale, ako vysvitlo, aj ostatní si tak   mysleli, lebo, ako ináče mohol dať apatekársky pomocník ešte v tú noc   rannú muziku pod oknami slečny Mary? Prečo na druhú noc dal vyhrávať   neznámy mladý pán s okrúhlou čiernou hriadkou? Jedťovič poslal veľkú   kyticu ruží. Milánovič štyri kilá cukríkov. Rakyta jej maľovanú   podobizňu. Ja som napísal „Ódu na Maru”, kaligraficky ju odpísal a   poslal rekomandovane.
+   </tei:p>
+   <tei:p>
+    Ako ľahko verí mladý človek, tak tuho miluje.
+   </tei:p>
+   <tei:p>
+    A slečna Zabicová?
+   </tei:p>
+   <tei:p>
+    Dopočuli sme sa od jej brata, že dňa 3. marca t. r. zapísala do   svojho denníka tieto vety: „ ... zasa som šiestim pomútila rozumy a   srdcia. Dnes mi traja vyznali lásku... Zajtra mi musí Jedlovič,   pozajtre Milanovič, a to do obeda, lebo večer mi iste vyzradí svoju   veľkú tajnosť apatekár Slávik . . . Človek sa musí niečím zabávať .   .
+   </tei:p>
+   <tei:p>
+    211
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

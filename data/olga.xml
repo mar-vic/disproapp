@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1944320" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Oľga : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3316
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Oľga
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Sv. Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1944
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     OĽGA.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Zmrklo. Na zamrznutú pôdu spustila sa hustá, nepríjemná a chladná   hmla. Lampy kde-tu zahorely a zasvietily ako by len pre seba. Ulica   spustla. Len chvílami bolo vidieť pokrčeného človeka, zakutraného do   zimníka so spustenou bradou a drobčiaceho po klzkej ceste.
+   </tei:p>
+   <tei:p>
+    Niekoľko ráz som prešiel popri bráne kupca Matúša. Vo veľkých   oknách na poschodí, vidieť bolo, že svieti v izbe veľká lustrová   lampa nad stolom. Na záclonách ani siluetičky, len čo na jednu z nich   padal tieň palmových listov...
+   </tei:p>
+   <tei:p>
+    — Kto mi povie, či ona pôjde na koncert? — myslel som si. — Tri   týždne nevidel som nikoho z ich domu. Ani chyžnej Anči, ani jej   samej. Starého Matúša stretol som tri razy v obchode, ale jeho som sa   nepýtal. Nemal smyslu pre koncerty a ani by nebol vedel, či pôjdu, a   možno, že by som sa prezradil... Len nie prezradiť sa. Už pol roka   bojujem, aby som sa neukázal mäkkým a nežným oproti nej. Co raz ju   stretnem, vždy celý sa premieňam. Spôsoby, reč, hlas, ako by jemnely,   hladšími a plnšími sa stávaly. Cítim, že sa mi oči šíria a väčšmi   blýskajú. Inakšie sa ukláňam, inakšie podávam ruku, inakšie trasie sa   mi hlas, ako keď som s inými. A zakaždým bojujem so sebou. Nechcem sa   vyzradiť. Bože chráň, aby zbadala niečo. Ona by sa smiala a iste by   povedala:
+   </tei:p>
+   <tei:p>
+    — I vy ste ako ostatní. Pozrela som na vás krajšie a už vás mám.   Už mi vyznávate lásku.
+   </tei:p>
+   <tei:p>
+    39
+   </tei:p>
+   <tei:p>
+    ﻿Ako to hovorila o priateľovi Miškovi! . . . Odprevádzal som ju   domov z korčuľovačky. Mama ďaleko za nami s akousi paňou. Hviezdy   počaly sa zjavovať na nebi. Od severa ťahal chladný van. Mrzlo a ľad   i hrudy mrvily sa nám pod nohami. Ona kráčala ľahkým dlhým krokom,   podlapiac si jednou rukou dlhú sukňu, druhou s natiahnutým mufom   kývala v povetrí. Ja veselo strkal som korčuľami. Na čiapočke vialy   jej akési perá. Vyhrnutý prám čierneho kožúška zakrýval jej tvár,   ktorá do červená zradia, vyštípaná od vetra.
+   </tei:p>
+   <tei:p>
+    — Nie vám je zima na ruky? — spýtal som sa. A už som cítil, že sa   mi hlas mení. Prisilil som sa a zmenil ho na posmešný:
+   </tei:p>
+   <tei:p>
+    — Ale vy zle robíte kruhy, slečna Oľga.
+   </tei:p>
+   <tei:p>
+    — Co sa vy rozumiete do kruhov! — Ako by som sa nerozumel!
+   </tei:p>
+   <tei:p>
+    — Nerozumiete sa, — povedala skoro hnevno, ani nepozrúc na mňa.   Pritom pritlačila si muf ku tvári.
+   </tei:p>
+   <tei:p>
+    — Počkajte. Vy nie ste ešte kompetentní súdiť, či sa rozumiem, či   nie. Kruh má byť okrúhly, ľahko robený, istý. Napríklad, ako to robí   slečna Deverovská ... Ako graciózne jej to ide ... Kdežto vám ide do   rovná, čo ako sa usilujete. Pritom máchate mufom a na vašich ústach   vidieť, ako by ste chceli vykríknuť.
+   </tei:p>
+   <tei:p>
+    — Nerozumiete sa.
+   </tei:p>
+   <tei:p>
+    — To je celé vaše odôvodnenie. Vy ste vôbec podivná, slečna Olinka   . ..
+   </tei:p>
+   <tei:p>
+    — Jój, len tak nežne nie.
+   </tei:p>
+   <tei:p>
+    — Vidíte, aká ste podivná. Človek vám povie o nejakom hercovi,   pochváli ho: výborný herec. Vy na to: počula som ho a videla, mizerný   herec. Poviem vám o slečne X.: krásna dáma. Poviete: špatná dáma.   Poviem; krásna váza; vy poviete: ach, prostá celkom ... Taká ste vy   .. . Nerozumiem sa do
+   </tei:p>
+   <tei:p>
+    40
+   </tei:p>
+   <tei:p>
+    ﻿kruhov! A čo by som vám desiatimi ľuďmi dokázal, že áno, rozumiem   sa, čo je aj pravda, — vy poviete: nerozumiem sa.
+   </tei:p>
+   <tei:p>
+    — Lebo sa ani nerozumiete.
+   </tei:p>
+   <tei:p>
+    — No, vidíte.
+   </tei:p>
+   <tei:p>
+    — Co?
+   </tei:p>
+   <tei:p>
+    — Že ste taká,
+   </tei:p>
+   <tei:p>
+    Vošli sme do mesta. Vietor prestal fúkať. Lampy už svietily a   ľudia sa prechádzali. Mne bolo ľúto, že som ju hanil. Srdce za každým   slovom odporovalo a predsa som hanil a hanil. Bál som sa chváliť. Cez   mesto dlho sme nepreriekli slova. — Do domu blízko, — dumal som.   Vojde a zas celý večer budem o nej myslieť. Nože, zachytiť ešte pár   slabík z jej úst... Z jej pekných úst.
+   </tei:p>
+   <tei:p>
+    — Pôjdete dnes do divadla? — opýtal som sa.
+   </tei:p>
+   <tei:p>
+    — A čo dávajú?
+   </tei:p>
+   <tei:p>
+    — Akúsi tragédiu.
+   </tei:p>
+   <tei:p>
+    — Nie. Nemôžem vystáť tragédie. Nepravdepodobné, — mužskí, ako   hrdinovia! Smiešno. — Zasmiala sa a mykla niekoľko ráz plecami. —   Niet slabšieho tvora na svete ako mužský... Bože, keď si pomyslím na   tých, ktorých vídavam, ktorých poznám! Všetko, ako svieže prútiky.   Zohne ich človek na ktorúkoľvek stranu .. .
+   </tei:p>
+   <tei:p>
+    — Ale len tých, ktorých vídate vy, nie? — pretrhol som ju, —   hrdinov nieto na každom kroku a váš svet je veru úzky.
+   </tei:p>
+   <tei:p>
+    — Každý mužský, milý pane. — Co?
+   </tei:p>
+   <tei:p>
+    — Je slabý ... A viete, ja mám z toho ukrutnú radosť ... Koľko ich   bolo! — vravela s úsmeškom
+   </tei:p>
+   <tei:p>
+    a pomenovala niekoľkých ľudí a starších pánov . .. — Koľko ich   bolo, každého podarilo sa mi okrútiť okolo malého prstu. Vohnala som   ich do najnežnejších situácií. Rozplývali sa citom, kľakali a   len-len, že nerozplakali sa od nekonečnej lásky... Je to
+   </tei:p>
+   <tei:p>
+    41
+   </tei:p>
+   <tei:p>
+    ﻿radosť tak odrazu zasmiať sa nad takým roztúženým pánom. Veríte?   Hrozná radosť. A viete, i dnes mi vyznávali lásku. Snúbenec mojej   sestry! Žofka plakala. Len-len, že sa nerozišla svadba. A každý je   taký. To sú potom herosil
+   </tei:p>
+   <tei:p>
+    — To sú figúrky, čo sa okolo vás tmolia. Im ide len o pekné háby,   o dojmy na dámy, ako ste vy. Tí nechcú vašej duše, slečna Oľga, len   váš driek. Ide im o to, aby ste im klesly do náručia a potom sa   chvália pred priatelím. Prázdne figúrky. A vy ste tiež zlá a mrzká,   odpusťte.
+   </tei:p>
+   <tei:p>
+    Mne sa opätovne akosi zatriasol hlas. Horkosť prúdila sa mi v   srdci a vystupovala do hrdla, úst a reči... — Aká je ona krásna. —   Ako rád by chytiť jej ruku, pritiahnuť k sebe a povedať, že ju rád.   Nie, ako tí panáci, ale naozaj . . . Nemôžem. Vysmiala by ma.
+   </tei:p>
+   <tei:p>
+    Prešli sme cez cestu na druhú stranu do ich uličky. Ešte dvesto   krokov, — počítal som v duchu, — a stratí sa mi, Boh vie, dokiaľ . .   .
+   </tei:p>
+   <tei:p>
+    — Podajte mi rameno, tu je zas klzko, — riekla a podala mi   ruku.
+   </tei:p>
+   <tei:p>
+    — Prosím.
+   </tei:p>
+   <tei:p>
+    — Vy vravíte o figúrkach. Čo je vo vašich očiach Mišo Rečník? —   Pozrela na mňa dlhým pohľadom a dotkla sa plecom o moje.
+   </tei:p>
+   <tei:p>
+    — No, to je z najvážnejších, študuje a veľa vie.
+   </tei:p>
+   <tei:p>
+    — Vie on vyznať lásku?
+   </tei:p>
+   <tei:p>
+    — Nie.
+   </tei:p>
+   <tei:p>
+    Zasmiala sa:
+   </tei:p>
+   <tei:p>
+    — Ani pozrieť dáme do očú?
+   </tei:p>
+   <tei:p>
+    — Sotva.
+   </tei:p>
+   <tei:p>
+    — A vidíte, pred štýrmi dňami som dostala od neho dlhý list.
+   </tei:p>
+   <tei:p>
+    — O láske?
+   </tei:p>
+   <tei:p>
+    42
+   </tei:p>
+   <tei:p>
+    ﻿— Vyznal mi lásku. — A vy?
+   </tei:p>
+   <tei:p>
+    — Neodpovedal som mu. List sa odložil medzi akty, ako dôkaz.
+   </tei:p>
+   <tei:p>
+    Mlčal som.
+   </tei:p>
+   <tei:p>
+    — Neveríte? Ukážem vám list. — Nie, nie. Ja vám verím. — Pomenujte   mi ktoréhokoľvek. —• Ach, vy ste prismelá.
+   </tei:p>
+   <tei:p>
+    — Kohokoľvek. — Pomenovať? — Prosím.
+   </tei:p>
+   <tei:p>
+    — Nuž mňa. Seba menujem.
+   </tei:p>
+   <tei:p>
+    Odrazu stíchla. Spravili sme asi desať krokov. Vytiahla si rameno   zpod môjho a zastali sme pred ich domom.
+   </tei:p>
+   <tei:p>
+    — Počkajme mamu... Na vás nepristávam. —• Prečo?
+   </tei:p>
+   <tei:p>
+    — Vy nemáte smyslu.
+   </tei:p>
+   <tei:p>
+    Dívala sa na mňa. Pri svetle lampy vidieť bolo jej dlhé, tmavé   obrvy, šelmovské, falošné oči a drobné, skoro detské ústa. Okrúhle   líca strácaly sa za golierikom. Boly vo svetle bledé, a celá tvár   zdala sa mi vážnou, tak odrazu vážnou od prekvapenia. Mamy nebolo   vidieť.
+   </tei:p>
+   <tei:p>
+    — Nemám smyslu? To sa mýlite. Vy ste nie pre celý svet stvorená,   slečna. Ani pre každého miliónového. Ja mám smyslu, ale nie pre vás.   Aj citu mám dosť v srdci, lenže nie pre vás — slečna! Tak.
+   </tei:p>
+   <tei:p>
+    — Nikdy? — Nie.
+   </tei:p>
+   <tei:p>
+    — A pamätáte minulej jeseni: ten hôrny potôčik? Keď ste ma   prenášali cez vodu, červenali ste sa a temer triasli. Celý večer ste   potom neprehovorili slova.
+   </tei:p>
+   <tei:p>
+    43
+   </tei:p>
+   <tei:p>
+    ﻿— Pamätám, —povedal som sucho.
+   </tei:p>
+   <tei:p>
+    Zbadala moje rozčúlenie vtedy, — myslel som si, — teraz mi to do   očú hovorí. Aká je mrzká, mrzká.
+   </tei:p>
+   <tei:p>
+    — Veď vážite 60 kíl, — zasmial som sa. — A vo vode bolo klzko.   Pokíznuť som sa nechcel. Prirodzená vec.
+   </tei:p>
+   <tei:p>
+    — A tá tichosť?
+   </tei:p>
+   <tei:p>
+    — Človeku nechce sa vždy hovoriť
+   </tei:p>
+   <tei:p>
+    — No, no.
+   </tei:p>
+   <tei:p>
+    — Každú hlúposť si v svoj prospech osobujete. To je špatné. Vy ste   veľmi negavaliersky, cynický.
+   </tei:p>
+   <tei:p>
+    Jej oči sa zväčšily. Pýcha a smiech blesly v nich. Pristúpila   celkom blízko ku mne. Nahla hlavu a vytiahla krk. Cítil som vôňu jej   šiat. Jej nos skoro dotýkal sa mojej tvári. Odrazu bolo počuť kroky.   (Obrátil som sa v tú stranu hlavou. Prichádzala mama. Popri mojom   uchu náhle, krátko a potichu odznel šepot:
+   </tei:p>
+   <tei:p>
+    — Prijímam a podmaním si vás. — Nepodmaníte, — šepol som.
+   </tei:p>
+   <tei:p>
+    — A ak áno?
+   </tei:p>
+   <tei:p>
+    — A ak nie?
+   </tei:p>
+   <tei:p>
+    — Tak vás budem schopný milovať.
+   </tei:p>
+   <tei:p>
+    Odstúpila. Mama prišla. Volala na šálku čaju, ale ja som odoprel.   Rozlúčili sme sa.
+   </tei:p>
+   <tei:p>
+    Teraz tedy boj, dumal som, idúc do kaviarne. Pretvoriť sa a   odvrátiť sa celkom. Lenže ja budem víťazom. Musím byť. Ostatne, veď   má pravdu. I ja ju rád. Boh vie, že je mrzkou dušou a predsa ju rád,   najradšej. Aspoň posiaľ nikto ma tak nezaujímal. Ale to nesmie   vedieť, cítiť, počuť. Vykynožím cit do najmenšej iskierky. Beztak dnu   v srdci, v duši a v myšlienkach všetko umiera. Najmä láska. Pre pozor   ľudský nie je nikdy dosť jeden objekt, pre rozum jedna slávna veta,   pre srdce a dušu jedna krásna, biela tvár, pre jeden ľudský život   jedna
+   </tei:p>
+   <tei:p>
+    44
+   </tei:p>
+   <tei:p>
+    ﻿večná myšlienka o jedinom inom ľudskom živote. A keď to nevymrie v   sebe, treba vôle. To je najväčší pán, keď existuje. S jeho pomocou   vykynožíme. Ak sa predsa nedá, tak na povrchu nesmie zasvietiť z tej   lásky ani len najmenší lúčik . . Bohu chvála, že som sa dosiaľ   neprezradil! Ako by sa mi bola smiala!
+   </tei:p>
+   <tei:p>
+    Bolo mi veľmi smutne. Kaviareň plná ľudí a novín nerozveselila ma.   Jej pyšné, smejúce sa oči videl som ustavične . . . Podmaním si vás,   podmaním ... zunelo mi v ušiach. A čo raz ukázala sa mi v myšlienkach   takouto pyšnou, čo raz som počul tú krátku, cynickú vetu, zakaždým   pocítil som v srdci odpor a silu k boju, ktorý vyhrám. Co raz   predstavila sa mi jej biela tvár, jej šelmovské oči a detské ústa, čo   raz zazrel som v myšlienkach, ako trasú sa vo vetre čierne, jemné   kudmy vlasov, kryjúce sluchy, ako sa smeje tým svojím lepším   smiechom, ako sa kloní, hýbe, kráča svojím elastickým krokom, — vždy   pocítil som túhu ... k nej priblížiť sa celkom! Mať ju v náručí ešte   raz, ako vtedy v jeseni, keď som ju niesol. A jej sa nikdy nebudem   môcť priblížiť. Vyjaviť, čo cítim? Aj keby nebol vypovedaný boj, ona   by sa mi zasmiala v najnežnejšej situácii, ako vravela.
+   </tei:p>
+   <tei:p>
+    Od toho večera, nie že by som sa jej bol stránil, ale pozor som si   dal. Sprevádzal som ju pri prechádzkach na ľad a z ľadu. Potom aj na   ulici. Bol som aj u nich niekoľko ráz. Ale úsiloval som sa byť   gavalierom inej dáme, jej priateľke. Bývalý spoločné hry na žúroch,   ja držal som vždy vlastne pri slečne Aničke, dievčatku peknom, s   elipsovou tváričkou s prihladenými, čiernymi vlasmi. V jej očkách,   tiež čiernych, ešte spal ohník, ý chovaní a rečiach ešte nebolo   prebudeného života. Nijakej samostatnosti. Ju spravovali druhí.   Sedával som pri nej a hovoril, ako s dámou, súcou na vydaj. Bývalý   koncerty a ja nikdy nezabudol som nejakú kytôčku na prsia.
+   </tei:p>
+   <tei:p>
+    45
+   </tei:p>
+   <tei:p>
+    ﻿Trafily sa meniny, narodeniny — kytôčka. Zazrel som ju prechádzať   sa s Oľgou — klinčeky. Bývalo, že zazrel som vo výklade najnovšie   pohľadnice — prvá šla Aničke. Zpočiatku nevedela, ako sa držať oproti   mne. Potom ju naučili, aby sa neodvracala odo mňa. Počalo sa v nej   budiť čosi.
+   </tei:p>
+   <tei:p>
+    — Prečo ty tú Aničku zavádzaš, — spytoval sa ma raz môj   priateľ.
+   </tei:p>
+   <tei:p>
+    — Nezavádzam.
+   </tei:p>
+   <tei:p>
+    — Ba zavádzaš.
+   </tei:p>
+   <tei:p>
+    — A prečo?
+   </tei:p>
+   <tei:p>
+    —- Tebe ona nemôže konvenovať. Ty nemyslíš vážne a všetci hovoria   o veci, ako o vážnej.
+   </tei:p>
+   <tei:p>
+    Naozaj, k Aničke necítil som ani byľky príťažlivosti. Hral som sa   s ňou a moja hračka bola hriešna ...
+   </tei:p>
+   <tei:p>
+    Medzitým slečna Oľga celkom sa premenila. Oči, tvár, pery   zvážnely. Z pyšných rečí nepočul som od nej ani slovíčka. Stala sa   tichou, pokornou. Neusilovala sa zvábiť ma obyčajnou koketériou. Ba   zdalo sa mi, že je jej nepríjemne so mnou.
+   </tei:p>
+   <tei:p>
+    Poznám ťa, pekná maska, myslieval som často. Keď tak nič, nuž   takto. A pozor som si dával. Pretvaroval som sa a trápil. Kynoženie   darilo sa mi navonok, ale zdnuky nie. Dnu cítil som stonásobnú túhu,   a čím dial, tým ťažšie išiel boj. I Aničku som tak nechal. Láska je   ako smäd; nezahasíš ho, kým si nevypiješ, neumoríš jej, kým jej   neukojíš . .
+   </tei:p>
+   <tei:p>
+    Zima prechádzala mi cez rukavičky a topánky. Nos, brád, škrane   ziably. Hmla tisla sa mi pod zimník. Nik. Nik. Žeby niekto s nejakou   stuhou, rukavičkami, špendlíčkami šiel do ich domu. Chyžná Anča. . .   Nik . . . Nazrel som aj cez zavlhnuté sklené dvere do obchodu, či   nezazriem starého v dlhom čiernom kabáte. Obchod prázdny. Červený   učeň s vlnenou čiapkou na hlave vymetal zpoza púdlí. Druhý ukladal   čosi do malej bielej škatuľky. Starého
+   </tei:p>
+   <tei:p>
+    46
+   </tei:p>
+   <tei:p>
+    ﻿nebolo. Vošiel som aj do brány, či neuvidím niekde Anču. Nič.   Zastal som pri otvorených, vyrezávaných dverách, vedúcich do ich   bytu. Okrúhla lampa svietila na červenkasté koberce, na žlté,   mosadzové tyčky a neumelcky zamaľované steny. Začul som, ako sa raz   dvere otvorily, pár vŕzgajúcich krokov, potom plesnutie dvermi. A zas   ticho. Potichu vyšiel som z brány a opätovne pozrel do obchodu. Ten   istý obraz, lenže učeň majúc metlu pod pazuchou, hovoril s kolegom   pri bielej škatuľke. V okne zasa len palmové listy a dokola ticho ..   .
+   </tei:p>
+   <tei:p>
+    Nie, ja nerobím dobre, — tanulo mi mysľou. Chcem vyhrať boj a   tmolím sa pod ich oknami. Rozochvený som zvedavosťou, či pôjde na   koncert.. . Malá kytôčka neprezradí nič . . . Chcem posielať kytôčky   a bojím sa jej spýtať sa, či pôjde na koncert. Pred troma týždňami   bol som s ňou. Chcel som sa spýtať a bál som sa. Tu prišiel mi na um   Ďuro, spoluúradník a kupec Lačný so strižným tovarom . . . Som to len   vykonal! Akým hlúpym som sa cítil vtedy, razu sa červenie ako   panenka! Len preto, že ho Dvadsaťšesťročný mládenec s bradou a fúzami   odprichytili pri láske. Naozaj, to bol nerozum odo mňa, chcieť od   Ďura niečo zvedieť . . .
+   </tei:p>
+   <tei:p>
+    — Vitaj, — hovoril, keď som k nemu prišiel, — sadni si. A utekal   po stoličku, čo je v kúte. — Čože, máš cigaretu? — spytujem sa bez   smyslu; len pred chvíľou som kúril.
+   </tei:p>
+   <tei:p>
+    Kúrime obidvaja a nevieme, čo vravieť.
+   </tei:p>
+   <tei:p>
+    — Je to von zima, — vraví. —• Zima, — odpovedám ja. — Takej ešte   nebolo, — zas on.
+   </tei:p>
+   <tei:p>
+    — Nebolo.
+   </tei:p>
+   <tei:p>
+    A zas mlčíme.
+   </tei:p>
+   <tei:p>
+    — Co, chystáte sa na koncert? — opytujem sa napokon.
+   </tei:p>
+   <tei:p>
+    — Ja pôjdem pozrieť.
+   </tei:p>
+   <tei:p>
+    47
+   </tei:p>
+   <tei:p>
+    ﻿— A vaši?
+   </tei:p>
+   <tei:p>
+    — Ziste. Prečo?
+   </tei:p>
+   <tei:p>
+    — Nevieš, či Matúšovci pôjdu?
+   </tei:p>
+   <tei:p>
+    To meno mi je ťažko vypovedať. Cítim, že babkám.
+   </tei:p>
+   <tei:p>
+    — To ti ja neviem.
+   </tei:p>
+   <tei:p>
+    — A tvoja sestra nevie?
+   </tei:p>
+   <tei:p>
+    — Prečo chceš vedieť?
+   </tei:p>
+   <tei:p>
+    — Chcem vedieť, či pôjdu? Je na tom niečo?
+   </tei:p>
+   <tei:p>
+    — Á, Olinka, Olinka, Olinčiatko moje! — zaspieval, zvrtnúc sa na   opätku, pričom priložil si ruku na srdce. Smial sa mi do očú. Zasmial   som sa aj ja celkom hlúpo, ale chcelo sa mi udrieť ho po tvári... A   ešte i ten kupec s okuliarmi opováži sa rozťahovať ústa. Viac ma   nevidí, to je pravda . .. Vchodím k nemu a prosím golierik.
+   </tei:p>
+   <tei:p>
+    — Akýže rozkážete?
+   </tei:p>
+   <tei:p>
+    — Štyridsať.
+   </tei:p>
+   <tei:p>
+    —• Sedem centimetrový.
+   </tei:p>
+   <tei:p>
+    — Šesť.
+   </tei:p>
+   <tei:p>
+    — Vystrihnutý alebo spojený?
+   </tei:p>
+   <tei:p>
+    — Akýkoľvek.
+   </tei:p>
+   <tei:p>
+    Neišlo mi o golierik, len o to, či niečo brali do Matúšov. Kus   hodvábu, rukavičky, stužtičku.
+   </tei:p>
+   <tei:p>
+    — Neviete, či Matúšovci idú na koncert? Nebrali tu niečo pre   slečnu? — spýtal som sa odrazu a celkom nelogicky.
+   </tei:p>
+   <tei:p>
+    Kupcove oči pod ôkuliarmi s úsmevom dívajú sa na mňa. Úžia sa.   Líca rastú, ústa rozširujú sa. Smeje sa a ja červeniem . . . Stratil   by som sa od hanby. Hlúpe kupčisko. Ako sa on opovažuje smiať? Zvrelo   vo mne a predsa celkom nežne som sa odporúčal. Bál som sa druhý raz   sa ho spýtať.
+   </tei:p>
+   <tei:p>
+    Ked som odchádzal, zavolal za mnou:
+   </tei:p>
+   <tei:p>
+    — Ozaj, do Matúšov nič nebrali pre slečnu.
+   </tei:p>
+   <tei:p>
+    48
+   </tei:p>
+   <tei:p>
+    ﻿Zdalo sa mi, že sa kupec posmieva. Na ústach mi bolo príkre slovo,   ale vyšiel som ticho z obchodu. Dozvedieť sa niečo, nedaj Bože . .   .
+   </tei:p>
+   <tei:p>
+    A zas mi prišlo na um, keby ma teraz niekto pozoroval. Obrátil som   sa domov. Pozrel som do brány, do obchodu a do okna. Nič. Ticho ...   Hml~ celkom zhustla. V zaokrúhlenom svetle lámp bo‘ vidieť poletúvať   malinký, drobnušký sniežik. R( letúval sa zo samej hmly. Padal na   klobúk, plec rukávy, brnkal, do tvári a mrazil. Chlad cítil so už aj   na chrbte. Na veži odbilo sedem . . . Treba ešt*. zavečerať si a   obliecť sa na koncert. Ale neponáhľal som sa. V myšlienkach niesol   som Oľgu a — kytku. Malú, krásnu, náprsnú z rôznofarebných klincov.   Kvetinárka mala vo výklade také krásne klince. Nemôžem, nemôžem, —   dumal som, — tých niekoľko kvietkov. Ako by sa ona potešila. Víťazím,   myslela by. Už je môj A veď klince nedokazujú ničoho. Dnes by sa   držal proti nej ako zaľúbený. Taká krásna je, nežná a útla. Oči by   jej zasvietily od radosti. Od neho, od neho, zajasala by duša . . .   Ako by triumfovala . . . Ak príde na koncert, ešte obstarám. Druhé   budú mať kvieťa, musí aj ona . . . Potom sa jej zasmejem do očú...   Hlúpe kupčisko a ten Durol Ešte Ďuro, konečne, kolega. A len ten! Čo   sa má smiať? Nazdá sa, že keď má deväť okien do ulice z obchodu, že   môže všetko . .. Prečo sa oni smejú? Nič nevedia. Nazdávajú sa bohvie   čo, že som zaľúbený.
+   </tei:p>
+   <tei:p>
+    — Pane Rážnik — a kamže vy?
+   </tei:p>
+   <tei:p>
+    Za hlasom hneď i čiapočka mi bola známa, i kožuštek, i tvár, i   celá figúra. Oľga.
+   </tei:p>
+   <tei:p>
+    — Vy ste to?
+   </tei:p>
+   <tei:p>
+    — Ja, vráťte sa. Poďte ma odprevadiť, ale ] malý.
+   </tei:p>
+   <tei:p>
+    Podali sme si ruky a šli. Dlho bolo ticho met nami. Vo mne   vzprúdila sa nežnosť. Zas by bol rád
+   </tei:p>
+   <tei:p>
+    4. Novely
+   </tei:p>
+   <tei:p>
+    49
+   </tei:p>
+   <tei:p>
+    ﻿chytil jej kolembajúcu ruku, pritiahnuť ju ku sebe a povedať jej,   že ju rád, veľmi rád.
+   </tei:p>
+   <tei:p>
+    — Pôjdete na koncert? — spýtal som sa.
+   </tei:p>
+   <tei:p>
+    —- Nie, — povedala sucho, — príde na večer môj snúbenec, to jest   má byť zasnúbenie. Ale prosím vás ešte mlčať o tom. A vy?
+   </tei:p>
+   <tei:p>
+    — Vy sa chcete zasnúbiť? — spýtal som sa prekvapený a temer   zdesený.
+   </tei:p>
+   <tei:p>
+    — No áno.
+   </tei:p>
+   <tei:p>
+    — A nevysmiali ste toho pána?
+   </tei:p>
+   <tei:p>
+    — Nekľakal a nezalamoval rukami. Nebolo príčiny.
+   </tei:p>
+   <tei:p>
+    Premohol som sa úplne. — Koniec všetkému, — myslel som si, —■ načo   sú už teraz nežné pocity, láska . . . koniec.
+   </tei:p>
+   <tei:p>
+    —■ Teda vám gratulujem
+   </tei:p>
+   <tei:p>
+    Kývla hlavou na znak poďakovania. Zasa sme zmlkli a neprehovorili   viac slova až ku bráne, kde sme zastali, ako predtým, keď sme mamu   očakávali.
+   </tei:p>
+   <tei:p>
+    — A tak sa tedy skončil boj, — riekol som.
+   </tei:p>
+   <tei:p>
+    — Čie je víťazstvo? — podala mu ruku. Jej oči boly upreté na moju   tvár. V svetle lamnv zablysly kedy-tedy a pozdávaly sa mi vážnymi,   nie falošnými. Akýsi posiaľ nikdy nevidený pásik bol v nich. Dával im   nežnosti.
+   </tei:p>
+   <tei:p>
+    -— Čie je víťazstvo? — opýtala sa ešte raz. ■— Ale úprimne, celkom   úprimne.
+   </tei:p>
+   <tei:p>
+    Jej hlas znel ticho, žiaľne. Zrak nespúšťala s mojej tvári.   Priblížila sa celkom ku mne. Chytila aj moju ľavú ruku. Stisla mi ju   a nepustila.
+   </tei:p>
+   <tei:p>
+    — Úprimne, — opätovala, — prosím vás
+   </tei:p>
+   <tei:p>
+    Nikdy som jej posiaľ takej vážnej nevidel. Srdce mi tuhšie bilo ..   . Cítil som, že ak prehovorím, prezradím svoje vzrušenie. A veď sa   vydáva, čo ešte chce odo mňa? Keby jej i povedal, že ju rád, predsa   sa len zasnúbi, keby ma aj nevysmiala . . . Dookola
+   </tei:p>
+   <tei:p>
+    50
+   </tei:p>
+   <tei:p>
+    ﻿bolo ticho. Ani človiečika. Hmla sypala ešte svoj sneh. Obletúval   aj bledú tvár. Čiapočka, plecia a prsia belely sa jeho drobnými   ihličkami.
+   </tei:p>
+   <tei:p>
+    Zdvihol som jej ruku a bozkal. — Víťazstvo je vaše, — šepol   som.
+   </tei:p>
+   <tei:p>
+    Pritúlila sa ku mne. Videl som, že sa jej tvár usmieva, ale to bol   smiech blažený, tichý, neubližujúci.
+   </tei:p>
+   <tei:p>
+    Jej pery sa pohybovaly. Sklonil som k ním svoju hlavu. Ona náhle   objala mi ju a pritisla svoje pery na moje líce.
+   </tei:p>
+   <tei:p>
+    — Aj vaše! — povedala a odtrhnúc sa odo mňa, vbehla do brány.
+   </tei:p>
+   <tei:p>
+    — Do videnia na koncerte, — začul som ešte.
+   </tei:p>
+   <tei:p>
+    Od tých čias minulo päť rokov . . . Krátky čas, ale dosť dlhý na   zabudnutie a vymretie horúcich citov, na utíšenie najvrelejšej lásky,   ktorú človek môže pocítiť. Ale niet dosť času v živote ľudskom na   zabudnutie pokorenia, urazenia nežných citov výsmechom, ku komu ich   nesieme. Mne často príde na um koncert. Malá bočná chyža, ona a moje   roztúženie. Potom jej smiech, jej špatný, hnusný smiech triumfovania.   A i teraz po piatich rokoch ženie sa mi do líc pri spomienke. Hanbím   sa sám pred sebou.
+   </tei:p>
+   <tei:p>
+    51
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

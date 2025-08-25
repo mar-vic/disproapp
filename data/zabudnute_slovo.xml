@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194323" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Zabudnuté slovo, čo sa vráti : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     682
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Zabudnuté slovo, čo sa vráti
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Matica slovenská
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-25">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ZABUDNUTÉ SLOVO,
+     <tei:hi>
+      Č
+     </tei:hi>
+     O SA VRÁTI.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V metropole nad sivým Dunajom dokonávala stará pani, vdova po   známom publicistovi, Margita Lyppajová. Jej dobrý manžel zanechal ju   tu pred niekoľkými rokmi, dohárať ako pahrebu vedia cesty. Tri dobre   zaopatrené dcéry pohládzaly jej strieborné vlasy. Traja dobrí zaťovia   navštevovali ju a niekoľko švitorivých vnúčat usilovalo sa jej   osladiť posledné chvíle, ktorých so dňa na deň zdalo sa menej. —   Mama, stará mama, — náhly sa k jej posteli, — rozprávaj nám niečo. My   to tak rady počúvame. — I my ti budeme rozprávať, — hotová bola hneď   kučeravá, belovlasá Ilonka s červenou stužkou okolo čielka.
+   </tei:p>
+   <tei:p>
+    A stará mama rozprávala, kým vládala. Nehovorila o ohromnom meste,   o jeho rastúcom ruchu. Nezaujímaly jej hasnúcu myseľ úrodné roviny,   opierajúce sa o mohutné ramená Dunaja ako z nekonečna, rozprávala   zvedavým hlávkam o nebotyčných vrchoch, hlbokých dolinách, kypiacich   potokoch, tajomne rozšumených voňavých horách a o bielom malom   kostolíku, kde strávila svoju mladosť. Všetci ju naslúchali s   utajeným dychom, rodičia i deti. Zrak ich padal im na veľkú podobizeň   starého otca, umiestenú diskrétne na stene medzi záclonami, aby sa s   jej uschnutých perí. Sivé dobrácke oči ožijú ešte naposledy. Celá jej   vädnúca postava je
+   </tei:p>
+   <tei:p>
+    ešte za čas boli všetci spolu. Stará mama rozpráva. Tvár mala   bielu, oči sivé a chvejúce sa ruky zdaly sa jej priezračné ako z   tenkého papiera. Rozumeli jej všetci, veď hovorila rečou veľmesta, i   keď chybne. Tou rečou, v ktorej písal jej nebohý muž a získal svojej   rodine bohatstvo i dobré meno.
+   </tei:p>
+   <tei:p>
+    Na sivom velebnom Dunaji pod oknami plavily sa naložené lode,   jedny na sever, druhé kamsi do tajomného orientu. Stretaly sa ako   rozblúdené ľudské duše na ceste večnosti. Nik si ich nevšimol. Nikto   nepozoroval.
+   </tei:p>
+   <tei:p>
+    Stará mama rozpráva. Co deň však kríž jej zaťažel. Jej tichá reč   viazla, až zmĺkla. Tichý ston ozýval sa namiesto jej sladkého hlásku   s bieleho lôžka. Dcéry odvracaly oči, rozcítené pohnutím, a ušilo   valy sa ovládať rozbujnenú obraznosť. Mužskí členovia v rodine   zamíkli ako pred bielym oltárom. Deti vyjavené obracaly očká to na   starú mamu, to na ostatných. Cítily inštinktívne, že sa v   priestrannej svetlici deje voľačo vážneho, keď to i nevedely poňať.   Napokon maličká Ilonka sa pustila do plaču.
+   </tei:p>
+   <tei:p>
+    — Ticho, neplač, — lapí ju jej mladá mať za ruku a odťahuje. —   Starej mame je to zle. Poď do susednej. Zavoláme ti kamarátku.
+   </tei:p>
+   <tei:p>
+    — Nie, nechcem, — vykríkne, vzoprie sa odhodlane dievčatko. —   Chcem tu byť! — pri starej mame.
+   </tei:p>
+   <tei:p>
+    Prítomní pozrú významne na seba a obstanú ju pri priestrannom   okne. Pod ním, tam dolu, Dunaj sa valí a vlní majestátne, odnáša loď   za loďou, ako život za životom. Hodiny počuť tikať na stene, keď   odrazu stará mama len posbiera sily na lôžku a prevraví: slovo za   slovom nesie
+   </tei:p>
+   <tei:p>
+    ako z hmly, chce však ešte čosi povedať. Oči sa sústredia na jej   obličaji, hlavy sa nahnúkbielučkej hlavnici, vdačné ruky siahajú so   všetkých strán za priesvitnou rukou, oči okolo stretajú sa v napätí,   ale hlava za hlavou kloní sa rezignovane.
+   </tei:p>
+   <tei:p>
+    — Nerozumieť jej! — zašepce jedna z dcér. — Nerozumieme!!
+   </tei:p>
+   <tei:p>
+    — Ona iste hovorí svojou materinskou rečou, — poznamená jeden zo   zaťov. — Je to po slovensky. Kto jej rozumie?
+   </tei:p>
+   <tei:p>
+    — Ja nie... Ja nie... Nikto! Aká škoda!!
+   </tei:p>
+   <tei:p>
+    A umierajúca matka ukladá slovo za slovom dalej. Azda je zas v tom   krásnom rodnom kraji pod vysokými vrchmi v hlbokej doline. Počuje   spievať rozšumenú horu, hukotať kypiaci potok, nôtiť svoje niekdajšie   kamarátky. Díva sa azda na svoj biely kostolík a hovorí so svojou   vlastnou materou. Posvätnosť chvíle odrazí sa na všetkých tvárach v   akomsi ustrnutí. Dajedni z prítomných rozbehnú sa, či by nenašli   niekoho, kto by rozumel, čo sa ozýva z tajomstva odchádzajúcej,   drahej duše.
+   </tei:p>
+   <tei:p>
+    Nenašiel sa nikto ... nikto ... Tichý plač, pridusený niesol sa   izbou. I najkrajšia snaha ochotných detí svíjala sa kŕčovite, tisnúc   ruky, na pestrom vlastnom koberci, pri lôžku matkinom. Preklínala   trpký osud, ktorý sa vlní ako ten silný Dunaj, oddaleka a život   človeka nevie osladiť. Nikto ... nikto... nik...
+   </tei:p>
+   <tei:p>
+    Večer slnko zhaslo, ako vždy zhasína. Hviezdy sa odrazily v   hlbinách ranného Dunaja. Nad ránom zamĺkla staručká mať. Zanechala   svojich najdrahších v ťažkom smútku, bez toho, že by jej kto z nich   porozumel. Jej poslednému, najposlednejšiemu slovu.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
