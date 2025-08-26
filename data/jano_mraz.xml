@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910392" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Jano Mráz : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3778
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Jano Mráz
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Jano Mráz
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    74-ročný človiečik, riedke vlasy popolavej farby po staroslovenský   dlhé a hladko začesané na väzy, obstrihané a vždy mastné, že sa mu na   slnci až tak lisnú. Tvár vyholená, hladká ako zrkadlo. Drobných,   zelených, žmurkavých očiek mu skoro ani nevidieť; má ich hlboko pod   ryšavým obočím. Ináče na svoj vek je neobyčajne čerstvý, zdravý a   červený, zvlášte okolo nosa. Hádali by ste mu okolo 60.
+   </tei:p>
+   <tei:p>
+    Je sedliackeho rodu i kroja, ale tohto nedrží sa prísne podľa   módy. Nosí sa vyšnurovaný, ako naši starší kedysi, a hlavná vec, vždy   je sviatočne oblečený, aby bol svetu kedykoľvek naporúdzi. Pochádza z   majetného domu a po bratovi z učenej rodiny. Otec mal ich dvoch:   staršieho Ondriša a jeho. Pán farár zbadal chlapca a riešil, že bolo   by ho dať vyučiť, hoci i za kňaza. Ondriša totiž.
+   </tei:p>
+   <tei:p>
+    „Nuž keď za kňaza, nechže by šiel s Pánom Bohom,“ povedal otec a   materi sa to celkom páčilo.
+   </tei:p>
+   <tei:p>
+    Slzy sa jej zjavily v očiach, keď si pomyslela, že by tu mohol byť   kedysi ešte farárom. Aká by to bola radosť, sláva! Celý svet by jej   závidel. Ondriš kňazom a Jano by gazdoval. I ten by sa dobre mal, i   tomuto by bolo viac majetku.
+   </tei:p>
+   <tei:p>
+    Ondríka zaviezol pán farár do latinskej školy, Jano gaz-
+   </tei:p>
+   <tei:p>
+    186
+   </tei:p>
+   <tei:p>
+    ﻿doval. Ondriš učil sa dobre. Už mal byť o rok vysvätený, ale   prišla cholera a neúprosná smrť skosila Ondríka. Materi zostaly do   smrti slzy, otcovi žiaľ a Janovi hodný majetok i Ondrišove — knižky.   Bol chtivejší do nich ako do roboty. Knižky prezeral, čítal a s otcom   gazdoval. Potom sa oženil, otec umrel a Jano si — z čoho, z čoho nie   — smyslel chytro zbohatnúť. Nie tak robotou ako rozumom, fígľom.   Popustil sedliacku robotu a začal špekulovať, ako sa vraví.
+   </tei:p>
+   <tei:p>
+    Tým vás však nebudem dlho molestovať, lebo mi to iba rozprávali, a   ľudia povedia všeličo, a ja chcem písať o ňom len od tých čias, ako   ho ja poznám, od 20—25 rokov.
+   </tei:p>
+   <tei:p>
+    Je svätá pravda, že z toho veľkého majetku nemal vtedy už a nemá   ani dnes iba chyžku, i to hocijakú, že mu práve na hlavu netečie; v   poli záhonček, čo ho žaba preskočí. Ostatné všetko prešpekuloval.   Ako? Nie ľahko. Trvalo to 30 rokov, čo si mozog sušil, trápil sa, ako   by chytro zbohatol, a až v päťdesiatom roku veku jeho vyrátali mu   fiškáli, že prišiel o všetko.
+   </tei:p>
+   <tei:p>
+    Len dva-tri príklady.
+   </tei:p>
+   <tei:p>
+    Prišla neúroda, obilia sa neurodilo. On svoje posvážal do stohu a   dal vysoko poistiť.
+   </tei:p>
+   <tei:p>
+    „Ujček, veď vám stoh horí,“ zastavil ho v poli istý človek.
+   </tei:p>
+   <tei:p>
+    ,,A či už?“ zarazil sa Janko.
+   </tei:p>
+   <tei:p>
+    Nedokázali mu, že by sa bol sám podpálil, ale tak mu to vyrátali,   že iba škodoval.
+   </tei:p>
+   <tei:p>
+    Nakúpil 300 oviec, pobral lúky do árendy a aby sa ovce čím lepšie   vyplatily, neveľmi ich kázal odvracať od cudzieho. Platil pokuty. V   lete prišla suchota; tráva vyhorela, nebolo iba na mokradiach. Ovce   vydochly.
+   </tei:p>
+   <tei:p>
+    Nabral poľa do árendy. Nemal však dosť statku, hnoja málo,   neurodilo sa, a na árendu musel doplácať. Zadlžoval sa, potom i   odpredával po kuse. Vtedy už mával taký sta-
+   </tei:p>
+   <tei:p>
+    187
+   </tei:p>
+   <tei:p>
+    ﻿tok, že jeho kone, kravy boly povestne chudé, ako tie v Biblii.   Nažraly sa, iba keď paholok ukradol, či už z gazdovho, či z cudzieho.   Ako statku, čeľadi tiež tak uťahoval, a keď sa ohlásila, ešte jej i   nadal, vybil, odohnal.
+   </tei:p>
+   <tei:p>
+    Nakoniec premyslel si ešte takto. Nechal sedliactvo,   árendátorstvo, predal skoro všetku zem a postavil mlyn. V dedine   nebolo totiž ešte „novotného“ mlyna a ľudia chodili mlieť inam.
+   </tei:p>
+   <tei:p>
+    Ale mlyn sa nevydaril. Lebo sám sa do toho nerozumel a svet ho pri   mašinách a kadečom oklamal. To ho všetko vtiahlo do pravôt. Nečakal,   trovil, chodil po advokátoch, a hoci naučený neopíjať sa, ale jednako   len i strovil. Pritisnutý už takto k stene, ešte sa chytal rozumu.   Premyslel predať mlyn a vrátiť sa k hospodárstvu. A skutočne, mlyn   predal, ale lacno; nebolo kupcov. Na druhý-tretí deň však hlásil sa   nový kupec. Sľúbil niečo viac. Jano nepomyslel, či sa to dá tak ľahko   odvolať, závdavok vrátiť — predal mlyn druhý raz. Z toho povstala   taká pravota, ktorá nielen že ho doniesla o všetko, ale dostal sa i   do áreštu.
+   </tei:p>
+   <tei:p>
+    Keď mu všetko spredali, zostala mu práve tá chyžka, v ktorej teraz   býva a ktorú, keď už bolo zle, stačil dať prepísať na ženu.
+   </tei:p>
+   <tei:p>
+    On šiel do áreštu, žena do chyžky a deti sa rozišly po svete.
+   </tei:p>
+   <tei:p>
+    Ozaj! Musím vám doložiť, aby ste mi nevytkli stranníctvo, že žena   a deti nesmelý sa do obchodov otcových starieť. Uznávaly, že dobre   chce, majetky, bohatstvá im nadobudnúť.
+   </tei:p>
+   <tei:p>
+    „Ktože za to môže, že ide nešťastie za všetkým, čo začína otec,“   vyvrávala mať, ktorá poctivosť mužových úmyslov neskúmala.
+   </tei:p>
+   <tei:p>
+    Ak sa niekedy predsa, od žiaľu za niečím, ohlásila, i ju nabil, i   musela ticho byť. Lebo čím väčšie straty, tým bol
+   </tei:p>
+   <tei:p>
+    188
+   </tei:p>
+   <tei:p>
+    ﻿Jano horší, zlostnejší, niekedy ako blázon, najmä keď cd zlosti   viac vypil.
+   </tei:p>
+   <tei:p>
+    V árešte sa Janko celkom premenil.
+   </tei:p>
+   <tei:p>
+    Z dlhej chvíle prosil si nejaké čítanky. Dali mu Písmo sväté a   spevník. Zaprosil, že on má ešte i po bratovi knižky doma; dovolili   mu doniesť i tie.
+   </tei:p>
+   <tei:p>
+    Tu sa vlastne začína moja rozprávka.
+   </tei:p>
+   <tei:p>
+    Jano, príduc z áreštu, prvý svoj krok namieril do kostola. Iste   aby ukázal i pred svetom premenu svojho smýšľania, dal sa samojediný   v nedeľu pred celým svetom ospovedať.
+   </tei:p>
+   <tei:p>
+    Ľudia mu razom všetko odpustili a uznali ho za človeka ešte i nad   seba.
+   </tei:p>
+   <tei:p>
+    „Veď už ani nefajčí, nepije.“
+   </tei:p>
+   <tei:p>
+    Lebo v árešte odvykol a za čas sa mu nežiadalo. Ale možno že by   bol hádam i býval inakším človekom, ale prišiel medzi ľudí, ktorí   fajčili, pili, hrešili, vadili sa ozlomkrky — ako prv i Jano —   namáhali sa jedine o to, aby mali domy, zeme, peniaze, slovom,   bohatstvo.
+   </tei:p>
+   <tei:p>
+    Jano zvážnel, stíšil chôdzu. Začal chodiť každý deň do kostola,   ešte vše nebol ani otvorený. Šiel si sám k zvonárovi po kľúče. Modlil   sa, spieval; doma prehŕňal sa v Biblii a knižkách po bratovi. Začali   ho ľudia ctiť a držať za prvšieho prvých. Z predošlého života svojho   dával svetu príklady, ako by nemali robiť. Už ani to ľudí nezarážalo,   keď so zbožnou tvárou a hlasom kajúcnika chválil sa, že jemu už   odpustil Pán previnenia, aby Ho prosili i oni.
+   </tei:p>
+   <tei:p>
+    „Protož dékuji Tomu, kterýž se mne zmocnil, Kristu Ježiši, Pánu   našemu, že mne za verného soudil, aby mne v službe té postavil. Ježto   jsem prvé byl ruhač, protivník a ukrutník. Ale milosrdenství jsem   došel.“
+   </tei:p>
+   <tei:p>
+    189
+   </tei:p>
+   <tei:p>
+    ﻿Z pobožnosti však Jano ešte vyžiť nemohol. Bolo sa mu niečoho   chytiť. Roboty? Ej, tá ho netešila ani za mladi. Z roboty človek   nevyžije (ale z misky), vraví porekadlo.
+   </tei:p>
+   <tei:p>
+    Jano si premyslel. Začal sa ukazovať na ponocovaniach pri mŕtvych.   Tešil zarmútených slovami Písma a potom na kare povedal celú kázeň.   Domáci ho obdarovali, i sa za deň-dva prechoval.
+   </tei:p>
+   <tei:p>
+    „To bude,“ a Jano chytil sa toho po remeselnícky. Najradšej mal,   keď sa sišli dvaja-traja jeho ctitelia. Ponalieva najprv on, potom   druhý, tretí, a tak sa napijú a nevidieť to tak, ako keby jeden   meral. V taký čas mu potom celá Biblia, tisíce veršov schodilo na   pamäť a od roztúženia sa i poplakal nad vlastnými slovami. Ak sa   našiel i druhý niekto, kto sa do Písma rozumel, povstávaly hádky.   Jeho, pravda, nikto neprekabátil v citátoch. Za pol treťa roka v   árešte sa mohol naučiť.
+   </tei:p>
+   <tei:p>
+    „Ani človeka neuctia, a po dve noci sme tam boli.“ „Aby nás to   všade tak prijali, tak by sme zle boli.“
+   </tei:p>
+   <tei:p>
+    Poškodil mu onedlho tento nepatrný rozhovor s tiež takou ženou   „oplakávačkou“. Trochu mu seklo, trochu sa zháčil, spamätal: ale   vydržal i ohováranie, a tak si ho zas ľudia obľúbili a volávali ho   odbaviť ponocnú počestnosť pri mŕtvych, a dali mu i zaplatili.
+   </tei:p>
+   <tei:p>
+    Z toho však vyžiť predsa len sa nedá, lebo so smrťou nespravil sa   Jano na dni, a tá ver’ len i za dva týždne niekoho skosila.
+   </tei:p>
+   <tei:p>
+    Ale trafila sa v rodine svadba.
+   </tei:p>
+   <tei:p>
+    „Keď vy to viete na kare tak pekne odbaviť, vykonáte vy, čo sa   žiada, i na svadbe.“
+   </tei:p>
+   <tei:p>
+    Pozvali ho za starejšieho, a Jano sa vyznačil. Čo on tam navravel,   ani jeden starejší ešte nepovedal, svet nepočul. Toľko veršov z Písma   nespomenie iný ani na piatich svadbách. A len sa mu to tak sypalo:   kapitola, verš, kapitola, verš. Staré ženy plakaly nadšením, chlapi   ho obdivovali.
+   </tei:p>
+   <tei:p>
+    190
+   </tei:p>
+   <tei:p>
+    ﻿Len poniektorí nedôverčivo krútili hlavami, či ozaj tie verše sú   tam, kde ich Jano udáva. Čo i neboly všetky, to sláve jeho   starejšovskej neubralo. Pozdejšie, keď sa už veršov nasýtili, ľudia   zunovali stáť, sedieť, ale on nezunoval rečniť.
+   </tei:p>
+   <tei:p>
+    Znali ho, rozumie sa, i na okolí.
+   </tei:p>
+   <tei:p>
+    Šiel, a tak počal žiť so svetom svetsky. Keby ste ho boli videli,   keď zahrozil palicou proti muzikantom! Amen, zatíchli hoci v pol   pesničke.
+   </tei:p>
+   <tei:p>
+    Dosiaľ mal tri mená: otcovské Jano Mráz a podľa nového zamestnania   — pesničkár, kňazko; teraz dostal ešte jedno, pekné, hrdé: „pán   starejší“. Mal teda úrad v našsj veľkej dedine a väčšom ešte okolí   dosť výnosný a razom zatisol iných troch-štyroch starejších do tmy,   na nepoznanie.
+   </tei:p>
+   <tei:p>
+    Žena bola „pani starejšia“ a prestali jej dávať almužny, lebo Jano   „zarobil slovom božím“, ako si sám vravel, keď sa ho spýtali   prezpoľní, ako, z čoho žije.
+   </tei:p>
+   <tei:p>
+    Mrázovci zadovážili si prasa, svinku a neskoršie kúpili si i   záhonček.
+   </tei:p>
+   <tei:p>
+    Žena nasadila, koľko bolo treba, zeleniny; on, keď ho „riadne“   povinnosti neviazaly, viac pre vyrazenie, aby lepšie zjedol, spal —   hospodáril, pomáhal žene. Nadobudol si kolieska a vozil, nosil na   sebe do poľa i s poľa. Svet ho iba pošanoval, že na starosť „taký   gazda, ako on bol“, stal sa vlastným koníkom.
+   </tei:p>
+   <tei:p>
+    On zbožne poučoval: „V službu podrobil Buh každé telo, aby se   nechloubilo pred obličejem Jeho. Dal osteň do tela mého, aby se nad   míru nevyvyšoval. Bŕímé mé lehké jest a má úžitek svuj ku posvécení,   cíl pak život večný.“ A po ceste spieval, modlil sa, a svet ho uctil,   ani nejakého svätého, kde-kto pomohol mu a rád sa pri ňom zastavil.   Iba niektorí „bezbožníci“ opovážili sa pochybovať o jeho pravej   pobožnosti a šomrali naň. Týchto zavracal slovami
+   </tei:p>
+   <tei:p>
+    191
+   </tei:p>
+   <tei:p>
+    ﻿Písma: „Tak o mne smýšlej, človek, jako o služebníku Kristovu a   šafáŕu tajemství Božích.“
+   </tei:p>
+   <tei:p>
+    Jano Mráz, ako nový hospodár, prišiel do oštary s obcou,   richtárom. Zakázali po dedine pažite vypásať pomedzi domy a záhrady,   lebo že sa škoda robí. Náš Jano kedysi nedarmo premýšľal, premyslel   si i teraz. Hnal pomaly svinku na obecný dom. Pri každom schválne sa   pristavil, aby prípadne získal nejakú „malú povinnosť“, a keď sa ho   spýtali, kde ide, odpovedal, že na obecný dom, žs je svinka „akási   nespokojná“.
+   </tei:p>
+   <tei:p>
+    Keď tak jednou ulicou svinku prepásol, zahol za obecný dom druhou   ulicou domov, a vraviac, že bol na obecnom dome, že svinka je   „nespokojná“, došiel domov, práve keď už bolo načim svinku   zavrieť.
+   </tei:p>
+   <tei:p>
+    Prišli mu na fígeľ a zakázali mu to.
+   </tei:p>
+   <tei:p>
+    I taký starejší má nepriateľov, čo sa on ako pekne a dobre svetu   navinšuje.
+   </tei:p>
+   <tei:p>
+    Vozil teda svinke na kolieskach domov trávu, burinku.
+   </tei:p>
+   <tei:p>
+    Ale keď sa s jeho záhončeka minula, púšťal sa s poľa prázdny   domov, a dôjdúc — skladal i trávu, i ďatelinu, burgyňu, čo svine   veľmi rady.
+   </tei:p>
+   <tei:p>
+    I preto sa naň nahnevali poniektorí, hlavne jeho poľní susedí.   Pomýlil sa vše i do jačmeňa susedovho, a ten ho raz dochytil.
+   </tei:p>
+   <tei:p>
+    „Už je to veľa! Ja vás zažalujem,“ povedal sused. „I vlani som ja   badal, i predlanským, že mi na poli kape. Iným viete dávať príklady z   Písma, a vy sami na cudzie idete. Iným káže, sám je nešľachetný.“
+   </tei:p>
+   <tei:p>
+    „Ach, syn môj, nesúď, a nebudeš súdený! Hriech máš. Ale ak myslíš,   že som ti vzal, príď ku mne, dám ti i posledné zrnko, lebo: „Nie jsme   zajisté nepŕinesli na tento svet, bez pochyby že také nie odnésti   nemužeme. Chceš-li
+   </tei:p>
+   <tei:p>
+    192
+   </tei:p>
+   <tei:p>
+    ﻿zbohatnouti, upadáš v pokušení a v osídlo.“ Večer je a nevidím   dobre, starý človek, zmýlil som svoj záhon,“ vyhováral sa so svätou   tvárou starý Mráz.
+   </tei:p>
+   <tei:p>
+    „Vy vše tak: po svojom idete, a do cudzieho vojdete,“ zašomral   sused a nechal ho, lebo ho Mráz „zabil“ Písmom.
+   </tei:p>
+   <tei:p>
+    Dohováraly ženy i starej Mrázovke, a tá mu to vše povedala. On ju   však vždy slovami Písma uspokojil a ona ho uznala za   spravodlivého.
+   </tei:p>
+   <tei:p>
+    „Hospodine, proveď mne v spravedlnosti své, pro ty, jenž mne   stŕehou, neboť není v ústech jejich žádné úprimnosti,“ vzdychá val na   žaloby ženine.
+   </tei:p>
+   <tei:p>
+    Ale čím bol starší, tým viac zanechával i nechal gazdovanie a   oddal sa výlučne knihám a Písmu, ponocovaniam pri mŕtvych, karom,   staréjšovstvu, a začal spomínať púť do Jeruzalema.
+   </tei:p>
+   <tei:p>
+    Farár ráno na modlitbách oznámi, kto umrel, starý Mráz sadne si   pred dom, aby ho ľahšie našli, a večer je už tam, ak ho ešte prv   neprišli zavolať.
+   </tei:p>
+   <tei:p>
+    Mäkkou, sladkou rečou sa prihovorí a zostane. Spieva, vykladá   Písmo, rozberá verše a na smrť nebohého spomína. Cez polnoc rád sa   obzrie do kuchyne, či sa niečo chystá; lebo keď niekto umrie, on doma   nevečeriava.
+   </tei:p>
+   <tei:p>
+    Ak pozde nosia, ide vážne a pýta „svetu občerstvenia“: „Dejte   jísti zástupňm!“ A keď donesú niečo zjesť, vypiť, tým je nebohý   vychválenejší. Mráz rád si zapapká. „Ženy nebolo doma, mal som slabú   večeru,“ vyhovára sa.
+   </tei:p>
+   <tei:p>
+    Jemu nalejú prvému. Pozdvihne oči k nebesám a tenkým, ženským,   plačlivým hlasom, a podľa toho, ako bolo zvečera trúnku, tým   skrúšenejšie, sladšie zavinšuje nebohému večnú slávu, šťastlivé   vzkriesenie, živým zdravia, vdove napríklad potešenia, synovi hodnú   ženu, dievke
+   </tei:p>
+   <tei:p>
+    13 Mamka Pôstková.
+   </tei:p>
+   <tei:p>
+    193
+   </tei:p>
+   <tei:p>
+    ﻿muža, deťom chleba, statku od škody zachovania, na poli úrodu, a   nič nevynechá, čo je živé alebo mŕtve; ak niekde by viac dali, končí   z Písma: „Ako čítame v evanjeliume Jána v XV. kapitole, verši piatom:   ,Neboť ty jsi, Pane, ten vínny kmeň a my tvé ratolesti,“ a   vyprázdni pohár. Ak i pred polnocou donesú do skleničky, pretrhne   modlitbu, spev, chlipne si a spieva ďalej, alebo káže slabuškým,   trasľavým hlasom.
+   </tei:p>
+   <tei:p>
+    Býva taký zdĺhavý v svojich výkladoch a modlitbách a najmä v   speve, že neprestane, kým mu nepovedia: „Dosť, oddýchnime si.“
+   </tei:p>
+   <tei:p>
+    Stane sa, že ho i málo počúvajú a čo mladší začínajú sa šeptom   shovárať. Tu vzplanie hnevom spravodlivých: „Ticho! Neboť ne já   mluvím, ale Duch Boží, kterýž pŕebývá ve mne.“
+   </tei:p>
+   <tei:p>
+    Mladým zaťom a nevestám hneď po vere skladá veršované odobierky.   Dostane za to — podľa toho, komu — zlatku, dve. Za zlatku vítanka je   napríklad takáto:
+   </tei:p>
+   <tei:p>
+    „Žalosťme, radosťme v tomto dni znamení, v ktorom sa mi zmení môj   vienok zelený.
+   </tei:p>
+   <tei:p>
+    Z úprimného srdca sa k vám, apovka nový, nýni prihováram a od Pána   Boha všetko dobré žiadam.
+   </tei:p>
+   <tei:p>
+    Od tejto hodiny chcem vám priateľom byť
+   </tei:p>
+   <tei:p>
+    a vo vašom žiali, ktorý je tu s nami, vás vždycky potešiť. Nebo   ste zármutok, zármutok veľký skúsili,
+   </tei:p>
+   <tei:p>
+    když ste mému manželovi matku a vašu manželku do hrobu složili.   Každý rok vám je pamätný, ostatný deň v roku,
+   </tei:p>
+   <tei:p>
+    v ten čas ste sa rozlúčili s premilú manželku...“
+   </tei:p>
+   <tei:p>
+    A tak ďalej ešte za pol hodiny.
+   </tei:p>
+   <tei:p>
+    Vítanky za dve zlatky sú rozriedené tak, že je neraz do plaču   nevestám: lebo aby sa odobierku hneď po sľuboch začala učiť, ak   nechce obísť s posmechom. Či na kare, či na svadbe, dá si pozor a   nikdy sa tak neopije, že by nevládal svoje povinnosti starejšovské   vyko-
+   </tei:p>
+   <tei:p>
+    194
+   </tei:p>
+   <tei:p>
+    ﻿nať. Radšej dva razy, ako ani raz. Tak sa mu tu i tam bolo   prihodilo, že ho víno tak zmiatlo, že sa na istej svadbe po každom   jedle modlil, zabudnúc, či sa už a či nie. Vtedy i tancoval a začínal   spievať pesničky nechvalného obsahu. Ľudia si to však vyhovorili, že   dobre, tak má byť na svadbe, a čo je v piesni, nech sa kliesni. A že   sa štyri razy modlil, tým nehrešil. Ale starý Mráz pamätá na zadné   kolesá. Keď vidí, že je toho ponúkania už vyše hlavy, má slušný   spôsob, že ak chcú dať „v mene božom“, aby dali starejšej, jeho žene,   ktorá na svadbe vďačne nosila krčah s „osobášeným“ hriatym a koledák   (koláč) na chrbte.
+   </tei:p>
+   <tei:p>
+    Ako starejší, z povinnosti delí radostníky, mäso, a nadelí najprv   seba stehienkom a čo najlepšími kúsky, potom podá družbovi, aby   ponúkal. Čo zostane, zakrúti do papiera, ručníčka a celkom vážne   zavolá družbu, aby podal pani starejšej s citátom: „Dávejtež nuzným,   aby odmena vaše hojná byla v nebesích.“ Ak jej nebolo hodno prísť, na   chudobnejšom veselí popchá sám do vrecák: „Tej mojej starej, aby i   ona pamätala túto úctu, ktorú nám domáci v takej hojnej miere   preukázali, občerstvili nás ,mlékem a strdí‘.“
+   </tei:p>
+   <tei:p>
+    Na pohrebe rád sa pripojuje k pánu farárovi, učiteľovi a vedie s   nimi sväté rozhovory. Rád ich obslúži a je ich veľkým ctiteľom,   chváliteľom.
+   </tei:p>
+   <tei:p>
+    Najväčšiu radosť má, keď im môže peniažky, plácu, oferu, dary   zaniesť.
+   </tei:p>
+   <tei:p>
+    Domácim hovorí, aby neskúpili, ale dali delníkovi, lebo že „hoden   jest mzdy své“. Ale vediac, aká je štóla, dal len toľko, koľko   prichodilo.
+   </tei:p>
+   <tei:p>
+    „A vďačný manželský pár posiela pánu farárovi — korunu.“
+   </tei:p>
+   <tei:p>
+    Ťažko tam bolo badať vďačnosť, keď dali len, čo museli. Neraz ho   iba dopáli.
+   </tei:p>
+   <tei:p>
+    Ale stalo sa mu „zo zábudlivosti, moja hlava už stará“,
+   </tei:p>
+   <tei:p>
+    13*
+   </tei:p>
+   <tei:p>
+    195
+   </tei:p>
+   <tei:p>
+    ﻿že čo dali navyše štóly, to zadržal. To mu veľa pokazilo na   dôvere, keď to od farára alebo učiteľa vyšlo.
+   </tei:p>
+   <tei:p>
+    Ale starý Mráz nie preto špekuluje od mladi, aby sa vyvravieť,   očistiť nevedel. . . „Nečiním dobrého, kteréž chci, ale činím to zlé,   jehož nechci. Bídný ja človek! Kdo mne vysvobodí z toho tela   smrti?“
+   </tei:p>
+   <tei:p>
+    Pred dvoma rokmi, i predtým raz-dva, tak mu bol zárobok sekol, že   nevedel sa inde reparovať, iba na Svätej zemi. „Nyní pak berú se do   Jeruzaléma, službu čine svätým.“
+   </tei:p>
+   <tei:p>
+    „Pár zlatoviek mám a pár dajú dobrí ľudia, a pôjdem vo meno božie.   Lebo my sa tu od týchto Židov pravdy nedozvieme. V Písme svätom to   čítame, učíme sa, ale ja by to chcel na vlastné oči vidieť: svätú   zem, hrob, drevo, na ktorom Kristus Pán bol ukrižovaný, aby sme sa to   presvedčili na vlastné oči, kde to telo spočívalo . .. Ak mi   milostivý Boh bude na dobrej pomoci.“
+   </tei:p>
+   <tei:p>
+    Jedni mu nadali do neveriacich Tomášov, že chce prsty klásť v rany   Krista; druhí ho pobožne počúvali a skladali sa mu na cestu. On, keď   sa vráti odtiaľ, bude im rozprávať, čo na vlastné oči videl; lepšie   porozumejú, ako čo len tak od kňazov, ktorí tam neboli, z Písma   počujú. Ako vravím, niekde mu verili, niekde si i dočkal:
+   </tei:p>
+   <tei:p>
+    „Ja chodím na šichtu, môj muž slúži, a vy si pôjdete   három-fárom.“
+   </tei:p>
+   <tei:p>
+    On však s tichou pokorou niesol všetko: „Nebo tak za to mám, že   nejsou rovná utrpení nynéjší oné budoucí sláve, kteráž se zjeviti má   na mne.“
+   </tei:p>
+   <tei:p>
+    Začal si to tak bol sbierať podjeseň. Zašiel si i po susedných   dedinách, celú jeseň sa preživil a na fašiangy doniesol vyše tridsať   zlatých. Potom cez fašiangy odbavil ešte niektoré svadby, odobral sa   od všetkých, a že sa môže i nevrátiť, plakal a prosil, aby ho   prepustili v pokoji, lebo oči jeho chcú vidieť spasenie... Šiel na   spoveď a rozhlá-
+   </tei:p>
+   <tei:p>
+    196
+   </tei:p>
+   <tei:p>
+    ﻿sil, že ide do Svätej zeme. Svet ho vyprevadil až za dedinu a s   plačom sa s ním lúčili.
+   </tei:p>
+   <tei:p>
+    Starý Mráz v Svätej zemi síce celkom nebol, ale šťastlivé obišiel   dve stolice, čo ho nechytili. Pravda, nezačal s najbližšou dedinou,   ale držal sa piesne: „Poďme, šuhaj, k Dunaju, kde nás ľudia neznajú   ...“
+   </tei:p>
+   <tei:p>
+    O tri mesiace sa vrátil, cele zduchovnelý a — prepáčte —   zavšivavený. Ale mešec a kapsa plná. Na kuse šiel vo svojich čižmách,   ale potom našiel na ceste bačkory.
+   </tei:p>
+   <tei:p>
+    „Aha, to mne baba Dóra podhodila, Pán Boh jej daj zdravia,“ zvolal   vraj, vzal ich a preobul miesto čižiem. V tých že šiel potom ako   mladý, ustatosti celou cestou nepocítil.
+   </tei:p>
+   <tei:p>
+    Baba Dóra má byť striga. Má s ňou tajné spolky, a ja nemôžem vám   viac o tom napísať. I to som sa len v poslednú chvíľu dozvedel. Ale   keď je niekto ťažko chorý, alebo sa dievka nemôže vydať, za koho by   sa chcela, načim s tým teraz už len jemu sa zdôveriť, na 2—3 dni sa   stratí a potom už „pomáha“, niekedy i s dobrým výsledkom, najmä v   druhom prípade.
+   </tei:p>
+   <tei:p>
+    V kapse, ako som spomenul, doniesol starý Mráz zo „Svätej zeme“   celý šiator drobností — darov svojím známym, ktoré po pútoch nakúpil:   obrázky, figúrky z vosku, dreva, halúzky, olivy, kvety i palicu, kde   čo odlomil, zodvihol, a všelijakých neobyčajných kamienkov, a   rozdával, rozprávajúc, kde čo odkiaľ je: z hrobu, z kostola,   Getsemanskej záhrady, Olivetskej hory atď. Ľudia to brali do rúk ako   posvätné veci; niektoré ženy iba cez obrúsok alebo zásterku. Na krku   doniesol na stuhe drevený krížik a v ňom drobulinký-drobný krížiček.   To že je z toho, na ktorom Kristus bol ukrižovaný. Svet ho bozkával,   najmä chorí a deti, ktorým matere kázaly.
+   </tei:p>
+   <tei:p>
+    Mráz nosí kríž na svadby na belasej, na pohreby na čiernej   stuhe.
+   </tei:p>
+   <tei:p>
+    197
+   </tei:p>
+   <tei:p>
+    ﻿Doniesol i tabatierku, zvláštnu, vykladanú (ako áreštanti   robievajú). To bolo z libanonského cédra. Lebo vraj zpät idúc, aby sa   mu skorej čas minul, naučil sa smrkať, a doma potom, kto sa nemohol   nádchy zbaviť, dával mu z tej škatuľky štipku tabaku. Doniesol i kus   hrubej voskovej sviece, ktorá od dvoch rokov ešte nezhorela, lebo ju   starý Mráz vše doleje, a keď sa niekto dlho trápi, umrieť nemôže,   Mráz podá mu ju horiacu, a chorý ožije alebo umrie.
+   </tei:p>
+   <tei:p>
+    O Svätej zemi rozpráva (sprostejším) celý vo vytržení, ako by   blúznil. Vie toho veľa z Písma a bratových kníh. S múdrejšími,   neznámymi sa nerád púšťa do reči a hovorí len všeobecne: sú tam   vrchy, hory, skaly, roviny, vody. Šiel ta a odtiaľ pešo, na voze, na   železnici, na lodi, a niekedy dokladá, že bola búrka celkom taká, ako   keď Kristus zaspal na lodi, že im plachty len chytalo. Že už tam   myslel, oddaný Bohu, nájsť svoj hrob; ale ho Otec nebeský zachránil,   aby svetu mohol zvestovať, čo tam videl, zažil. Toto klamanie ľudí   stalo sa mu takým remeslom, do ktorého sa už tak vžil, tak ho verne a   často koná, že ani sám nevie, čo je z jeho rečí pravda a čo klam. Bol   by už vari náchylný uveriť sám sebe, že ozaj bol i v tej Svätej zemi,   lebo že veď bol veľmi ďaleko.
+   </tei:p>
+   <tei:p>
+    „Sláva, sláva, sláva! Stotisíckrát sláva!“ spína ruky, že videl   Svätú zem. Múdrejším zas, že tam nevedia po slovensky a tak že len   chodil, prizeral sa, modlil, ale, nevediac sa dohovoriť, len čo si z   Písma pripomínal, že je to vskutku tam všetko tak, ako to čítame.
+   </tei:p>
+   <tei:p>
+    Starý Mráz, ako sa vrátil odtiaľ, viac pije. Prvej sklenke   odvinšuje on, ale z radu sa potom nevytratí. „Stotisíckrát Bohu   sláva!“, že bol vo Svätej zemi, rozkladá potom v slzách, plači. Tak   sa rozcíti od spomienok (či trungu), že sa mladší i zasmejú. Pri   speve teraz už oči celkom zatvára, spieva hlasom ešte slabším,   trasľavejším a začína
+   </tei:p>
+   <tei:p>
+    198
+   </tei:p>
+   <tei:p>
+    ﻿vše tak ticho, že ho nepočuť, a vyjde z toho vše taká falošná   nôta, že sotva majú z toho v nebi radosť.
+   </tei:p>
+   <tei:p>
+    Ako sa vrátil zo Svätej zeme, starejšovstvo mu veľmi dobre ide.   Len by stačil, keď sa svadby začnú. Trhajú sa oň. Lebo i pri   najveselšej príležitosti tak vie ľudí rozplakať, že staré ženy, ktoré   veľa pamätajú, hovoria, že takého staréjšieho už nikdy u nás   nebude!
+   </tei:p>
+   <tei:p>
+    Možno, že i nie. Lebo mladý svet už tak sa oddal teraz na novinky,   knižky, spolky, že z hlúposti a poverčivosti ľudí bude už ťažko vyžiť   ešte i figliarskejšiemu človeku, ako je starý Jano Mráz!
+   </tei:p>
+   <tei:p>
+    (Zpod kosy, n. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    199
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

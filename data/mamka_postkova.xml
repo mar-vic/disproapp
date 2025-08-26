@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910131" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Mamka Pôstková : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5248
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Mamka Pôstková
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Mamka Pôstková
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Do banky pomaly otváraly sa ťažké dvere, ako keby sa dieťa bolo   borilo s nimi. Podobne ťažko, dva razy sa v nich otočiac, vošla   plachtičkou prihodená žena. V ruke šatôčka, okrútená okolo čohosi, na   spôsob, ako okrúcajú naše ženičky modlitebné knižky.
+   </tei:p>
+   <tei:p>
+    „Dobrý deň vinšujem,“ povedala tichým, bojazlivým hlasom; zarazene   pozrela po veľkej učtárni a neisto poberala sa k môjmu účtovníckemu   stolíku.
+   </tei:p>
+   <tei:p>
+    „Dobrý deň, mamka Pôstková! Vitajte! Čože ste nám doniesli?“   prihováram sa jej a idem v ústrety.
+   </tei:p>
+   <tei:p>
+    Ona vykrúcala zo šatôčky papier.
+   </tei:p>
+   <tei:p>
+    „Sem dajte,“ volá denný povereník, vidiac, že zo šatôčky vykrútila   zmenku.
+   </tei:p>
+   <tei:p>
+    Povereník volá, ja beriem z ruky, a ona nevie, kam, a hovorí, že   „ešte je nie vyrobená,“ to jest suma nie položená.
+   </tei:p>
+   <tei:p>
+    „Sadnite si a povedzte, na koľko vám ju vyrobiť?“ ponúkam a   spytujem sa jej.
+   </tei:p>
+   <tei:p>
+    „Len tak, prosím ponížene,“ hovorí, ako by hriešne slovo šla   vypustiť z úst, „ako bolo, na tri koruny. Nepredala som chlebíka, i   na dlžôbku pobrali..utiera si šatôčkou ústa.
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿„Dobre, mamka, len si sadnite,“ ponúkal som ju, ako by len vlastnú   starú mať, aby si už sadla konečne, a vezmúc zmenku, pero, priklonil   som sa nad stolík, roztiahol pokrčenú zmenku, a stavilo mi pravú ruku   i s perom.
+   </tei:p>
+   <tei:p>
+    „Tri koruny,“ hútam ši, „či vás napísať?“ Povinnosť káže. To je   jedno: zmenka ako zmenka, či tristo, či tridsať a či len tri koruny.   „I to sú peniaze.“ A nenapísal som, ale pozrel na starú ženu, aby   stačil uvážiť, čo robiť.
+   </tei:p>
+   <tei:p>
+    Predo mnou sedí okolo 65-ročná, neobyčajne zoschnutá, maličká   žena. Sedí na stoličke, visia jej nohy, obuté vo veľkých, na jej nohu   neprikrojených starých čižmách. Zpod plachtičky vykuká čierna,   smraštená, chudá tvár, vpadnuté, bezzubé ústa a trčia detsky malé   ruky. Nie je toľká ako stredne urastené 12—13-ročné dieťa.
+   </tei:p>
+   <tei:p>
+    Kým mi toto popred oči prebehlo, ustálil som sa, že zmenky   nevypíšem, viac ako zmenku neúčtujem. Čo však s ňou robiť? Vrátiť jej   ju? Zaplatiť a povedať jej, že je nie dlžná? Ak mi neporozumie, ak ju   urazím almužnou, ktorej nepýta? Lebo veď viem, že od 5—6 rokov každé   tri mesiace prichodí mi tá istá zmenka pod ruku. Mamka Pôstková vážne   chápe svoju povinnosť a s 12 korún pôžičky sišla za tie roky po   korunke, po pol už na 3 koruny, ale nikdy neprišlo jej na um   obnažovať svoju biedu a prosiť darovanie dlžoby.
+   </tei:p>
+   <tei:p>
+    „Opatrím si, len mi, prosím vás, dočkajte,“ keď na 2—3 termíny do   roka načas nedošla.
+   </tei:p>
+   <tei:p>
+    Nevedela ani čítať ani písať. Zmenku podpisoval majetný gazda,   dobrý človek, ktorý sa jej bol z milosrdenstva podpísal a bol ochotný   kedykoľvek za ňu zaplatiť; ale sme sa hanbili od neho pýtať a vlastne   mávali sme vždy posvätnú chvíľu z príkladu babky a jej chápania   uloženej si povinnosti, keď sa prišla veriť a prosiť zhovievavosť. Že   veď čo ako tvrdo, aby sme sa len nebáli, že kým ona žije, nebude   nikto za ňu platiť, ani banka škodovať. Len
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    ﻿by jej dal Pán Boh dožiť, aby si túto ťarchu shodila s hlavy, i   umierať bude ľahšie, končieva svoje vzdychy.
+   </tei:p>
+   <tei:p>
+    „Dotiaľ neumriem,“ dokladala, ako keby sa bohvie akého ťažkého   hriechu mala čím prv zbaviť.
+   </tei:p>
+   <tei:p>
+    „A keby sa i tak stalo, že by som umrela, nebojte sa, veď ja mám   viac medzi svetom, naložím, kde čo majú zaplatiť. Toť i Ondro Krnáče,   i Beta Vráble — a koľkí — vzali i dnes chlebíka... ,Nemám, mamka,   počkajte.“ .Počkám, deti moje, ale nezabudnite.“ I stará Betuliačka   už včera tretí raz ... .Nedám,“ povedala som. .Zaplať, čo si dlžná,   ja tiež musím, keď som si na múčičku požičala ...“ Ale zaprosila, že   keď pôjdu deti, ako že tie jej dievkine siroty, už čochvíľa húsky   pásť, že vyslúžia, zaplatia. Akože im nedať, keď zaprosia, a viem, že   nemajú, čo by na tej dlani,“ rozložila chudé ruky.
+   </tei:p>
+   <tei:p>
+    „Koľkože mi príde interesu?“ vstáva so stoličky netrpezlivá, že to   už chvíľu trvá a nevoláme ju platiť. „Chlebík mám na ulici. ..“
+   </tei:p>
+   <tei:p>
+    „Mamka, poďteže sem. Ja vám poradím. Aby ste nemuseli každú chvíľu   k nám a zmenky podpisovať, za žírantom chodiť, dajte šesták.   Zaplatíte si úroky naraz, a nemusíte prísť ani do roka, za dva k nám   platiť. Vyplatíte si napredok,“ opakujem jej, „a keď budete mať tri   koruny, donesiete naraz, už kedy bude, vtedy bude...“
+   </tei:p>
+   <tei:p>
+    A dlžobu prepísal som na drobných dlžníčkov, ako to už účtovníci   rozumejú.
+   </tei:p>
+   <tei:p>
+    „Tri koruny ...“ hovorí zmätená a zarazená babka, vyťahujúc zpod   pazuchy vrecko z handričky, „to mi naraz, prosím, veľa bude ...   Nevládzem toľko zarobiť ... Ja by si to po korunke, po pol skorej   odmrvila... Ale už čože budem robiť, keď ste mi tak odsúdili...   a iste nevďačne kladie mi na stolík šesták.
+   </tei:p>
+   <tei:p>
+    Nepomohol som jej, myslím si. Ona nevie, čo ja chcem. Zdá sa jej   to zrejmým obťažením.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿„Viete, nevyplatí sa vám zmenku každého štvrťroka kupovať, za   podpisom chodiť, a nám sa to zas nevyplatí do kníh zavádzať. Knihy   drahé...“ doložil som, snažiac sa ju uspokojiť.
+   </tei:p>
+   <tei:p>
+    „Vy viete, ako vám ľahšie. Teda nemám chodiť?“ spytuje sa, či ozaj   bolo by to možné. „Nie, nemusíte, za dva roky nemusíte,“ ubezpečujem   ju, mysliac si, že o dva roky bude už akiste rozsypaná...
+   </tei:p>
+   <tei:p>
+    Chudera, keby bola. Sama by si žiadala. Ale tu je i dnes medzi   nami.
+   </tei:p>
+   <tei:p>
+    Keby bola umrela, bol by žírant vďačne za ňu zaplatil, ja by tohto   nepísal. Ale takto iba keď vám príde tamtej jari, že jej hádam už   vypršaly dva roky, a ona peňazí nenosí.
+   </tei:p>
+   <tei:p>
+    A pustila sa do plaču, že už mala korunu, raz i dve opatrovala,   tajila ich, ale syn pýtal, druhý raz nevesta vydrankala, a čo raz   stisla a nám odložila, vydriapali jej, silou vzali, ,že vy dočkáte   ...‘ „Tak som sa prišla ohlásiť a doniesla som aspoň zas interes...“   a kládla šesták.
+   </tei:p>
+   <tei:p>
+    „Ešte vám tých stačí na rok. Teraz sú lacnejšie peniaze, ako   boly...“ sotva som si stačil chytro pripomenúť, že som pred dvoma   rokmi na drobných dlžníkov prepísal jej 3 koruny a zmenka je kdesi na   dne kasy...
+   </tei:p>
+   <tei:p>
+    „Keď stačí.. . Ale už by to vari nemalo. Veď len šesták som bola   dala. Či ste sa nepomýlili v rátaní?“
+   </tei:p>
+   <tei:p>
+    „Nie, mamka, to je dobre vyrátané ...“
+   </tei:p>
+   <tei:p>
+    „Len aby, prosím, do Všechsviat došlo. Lebo tak sa mi stalo, ruku   som si v jeseni zlomila, aha, tu za päsťou. Spadla som s pôjda, keď   som si hábočky vešala. Starý človek, hlava sa točí, iba keď som sa   našla na pitvore a ruka ako zvonec. Nemôžem na ňu, a jednou chlebíka   nezamiesiš. Ale pôjdem do repy, nuž zarobím a vrátim vám. Len
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿sa už nebojte. Kým žijem, ja zmenky nehodím. Už mi tak svet:   ,Hoďte im ju! Čože vám vezmú?“ Aba, deti moje. O statočnosť prísť na   starosť ... Ja už na to nemám svedomia. Keď bolo peniažky brať na   zmenku, vtedy ,prosím vás“, a teraz hodiť, ,plaťte si, mohli ste sa   nepodpísať, vedeli ste, že ja nič nemám“... Aba. To vy by ste možno   tak, ale ja nie. Kým žijem, neopustím sa, a keď umriem, zostanú háby,   perinka, truhla, posteľ, nech si predajú...“
+   </tei:p>
+   <tei:p>
+    Dopytoval som sa na celý život tejto neobyčajnej ženičky, ale   nikto mi to nevedel poriadkom rozpovedať. „A prosím vás, ktože si   toho kedy všímal, ako bola, čo bola ...“
+   </tei:p>
+   <tei:p>
+    Tak je, myslím si.
+   </tei:p>
+   <tei:p>
+    Slováci vedia veľa rozprávať o pánoch, grófoch, princoch; poznajú   celé rodokmene cisárov, ale medzi sebou málokoho zbadajú, a čoby bol   akého osobitnejšieho života a mravov človek. Medzi svojimi nikto   nehľadá príkladu. Ako by sme všetci boli rovnako zlí, alebo rovnako   dobrí, žeby sme sa nemohli jeden od druhého ničomu dobrému naučiť. A   len koľko-toľko si spomeňme, aký život prežila naša mamka Pôstková a   ako sa ho držala až do staroby, do večera, dodnes.
+   </tei:p>
+   <tei:p>
+    Muža mala onakvého. Boh vie, aký bol čudák. Nerád robil. Trocha,   trocha popaprať motykou, kosou, vidlami, a dosť! Keď horko-ťažko sa   vybral i s kapsou, naplnenou na týždeň, do roboty, na druhý, treti   večer už bol doma. Kapsa prázdna, a na robotu zle-nedobre, že ťažká,   planá, pláca malá, že on radšej bude pod pecou ležať o hlade ako za   3—4 šestáky cez deň robiť. A ono, keby ležať, nechže by ležal, ale   keď príde večer, chce sa jesť, keď ráno svitne, zas, a obed aby   nechybel. Keď som lačný, som nevládny; keď sa najem, spal by.   Polihoval. Keď ho žena durila,
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿spravil sa chorým. Ešte i fajčil. Vydriapal 2—3 krajciare i na   pálenku od nej a šiel do krčmy, na uhol, alebo druhých pri robote   zahovárať. Ona, blázon, vše uverila jeho chorobám, a potom mu už tak   zvykla, že on — ak chcel — zvŕšil jej robotu okolo domu, ona drhla po   zárobkoch, chovala ho. Vše ani len toho chlapca, čo jedného mali,   poriadne neprimerkoval. Vše prišlo doráňané domov.
+   </tei:p>
+   <tei:p>
+    Keď chlabča odrástlo, šlo do služby a za čas pomáhalo materi otca   chovať.
+   </tei:p>
+   <tei:p>
+    Ale potom sa odtrhlo od nich, že si mu načim odkladať na háby, že   sa bude ženiť, a viac nedal materi ničoho. Aby otec šli robiť.
+   </tei:p>
+   <tei:p>
+    Nebolo to celkom tak, ale syn počal mládenčiť a naučil sa svoj   zárobok i sám stroviť.
+   </tei:p>
+   <tei:p>
+    Otec preležal celé dni a, ako vravím, ešte i popíjal, i fajčil. Ba   prišli ho ešte i pozrieť, že ako chorého, a on dotiaľ nadŕľal ženu,   kým nedala na pálenku, i chlebíka ešte k nej.
+   </tei:p>
+   <tei:p>
+    Syn sa oženil, šiel do služby, a žena k svokre a chorému svokrovi,   že aspoň ľahšie zaplatia hospodu, keď i syn pomôže.
+   </tei:p>
+   <tei:p>
+    Ale horkýže!
+   </tei:p>
+   <tei:p>
+    Syn sotva čo žene dal, bola ešte i ona, i s roka na rok rodiacimi   sa deťmi materi na krku.
+   </tei:p>
+   <tei:p>
+    Vše nevesta šla do roboty, stará tiež, a chlapi: jeden stenal pod   stenou alebo na lavici, druhý sa ako bíreš každá druhú-tretiu nedeľu   prišiel so ženou, materou vyvadiť, s otcom opiť a všetkých vše   rozháňať po ulici.
+   </tei:p>
+   <tei:p>
+    Otec mu ešte nadŕžal, čo len i naoko, lebo sa ho bál, a opitý syn   prinášaval mu dohánu i skleničku ...
+   </tei:p>
+   <tei:p>
+    Detí bolo za pár rokov ako červíkov, že už nemohly obidve, mať s   nevestou, na zárobky. Šla len nevesta a mať chytila sa chlebík piecť   a v mestečku predávať.
+   </tei:p>
+   <tei:p>
+    12
+   </tei:p>
+   <tei:p>
+    ﻿Zpočiatku to šlo, chlebík dobre predávaly. Pekávaly v noci,   pomáhala i nevesta, keď z roboty došla. Ale o pár rokov vnúčatám   narástly také ústa, že zárobok i vyše z jedlý v pravom smysle slova   ešte „za horúca“. Stará Pôstková vše vyšla tak, že nemala na múku.   Požičala. Vrátila, ale nie vždy a všetko. Prišiel vše ešte i syn a   „požičal“ si od materi i posledný krajciar.
+   </tei:p>
+   <tei:p>
+    „Veď len do prvého.“
+   </tei:p>
+   <tei:p>
+    Zarobil, materi vrátil-nevrátil, pýtal i po iné razy, a keď mať   nedala alebo nemala, vyhádzal ju z chyžky na dvor, že za ňu árendy   platiť nebude, opil sa i s otcom, rozohnal ženy i deti, čo ho otec   vše ako prosil: ,,Nechájže ich, robia dosť, nech sú aspoň v teple.“   Syn ich jednako vše rozduril, lebo že by sa ho potom mohla žena nič   nebáť, a keď je on v službe, ešte niečo vyviesť mu na posmech.
+   </tei:p>
+   <tei:p>
+    „Ach, hriech pomyslieť, neubližujže jej. Nuž či nemá dosť tvojich?   Ešte má za druhými o deti chodiť? Eh, syn môj, zle to myslíš; pomodli   sa Bohu, aby ti vzal takú myseľ,“ učil otec, ale čože, keď i vtedy   spolu pili a jeho slovo bolo slabej váhy.
+   </tei:p>
+   <tei:p>
+    A syn ženu jednako vyobháňal, za vlasy vykvákal.
+   </tei:p>
+   <tei:p>
+    To už taký zákon medzi opitými.
+   </tei:p>
+   <tei:p>
+    Starej Pôstkovej predsa Pán Boh pomohol: umrel jej muž.
+   </tei:p>
+   <tei:p>
+    Syn sa na kare od žiaľu tak opil, že rozohnal celú rodinku,   „starej strige-materi“ sa vyhrážal, že keď ho ona nebíjala, bude ju   on. Prečo to vravel, Boh vie. Žiaľ, opilosť, či čo. Žena, deti sa   večer, v noci povracaly do chalupy, ale „stará striga“ viac neprišla.   Chodila za ňou nevesta, prosila, plakala, ale mať nešla.
+   </tei:p>
+   <tei:p>
+    „Dievka moja, nuž či si to žiadaš, aby ma dolomil a musela si ma   opatrovať, žobráka? Nebolo ti dosť za dvanásť rokov trápenia s   otcom?“
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿„Mamička moja, veď on už plakal, že vám ublížil, ale sa hanbí k   vám vojsť ...“
+   </tei:p>
+   <tei:p>
+    „No, len dal by Pán Boh, aby sa hanbil, dotiaľ bude dobrý...“
+   </tei:p>
+   <tei:p>
+    Mať si našla za tri zlaté komôrku, s nevestou preniesla starú   truhlu, posteľ a začala, už vyše šesťdesiatročná — sama žiť.
+   </tei:p>
+   <tei:p>
+    A že teraz už všade sú banky, poprosila gazdu, aby sa jej podpísal   na zmenku. Vyplatila drobné dlžôbky, piekla chlebík, predávala a   živila sa robotou a — biedou. Leba teraz už, keď čo stisla, nevzal   jej to syn, ale dala vnúčatám. Bola rada, že si „oddýchne“ od. toho   zlostníka — syna, a keď ho menej vídala, nazdávala sa, že je   lepší.
+   </tei:p>
+   <tei:p>
+    Chválila si život, len na zdraví aby Pán Boh neuťahoval.
+   </tei:p>
+   <tei:p>
+    Keď sa mať oddelila, nevesta vše len prišla s deťmi ju opáčiť,   volať k nim, a stará mať dala: i zjedly i domov si vzaly. Lebo „otec   nezarobili — prepili,“ hovorievaly za materou už i deti.
+   </tei:p>
+   <tei:p>
+    Pred pár rokmi zvrtly sa pomery. Pred 20 rokmi, pamätám, mal kosec   50—60 krajciarov, hrabáčka 16—20, slovom, za robotu platilo sa málo.   Dnes je to už napravené aspoň čiastočne.
+   </tei:p>
+   <tei:p>
+    Tento duch zavial predlanským i našu Pôstkovú. Na chlebíku   zarobila málo. Sháňali na jar ľudí do repy, kdesi na panstvo na   Dolniaky. Najala sa i stará Pôstková. Robiť vraj tuho nenačim, len   dobre, a na deň dostane 40 krajciarov, i chovu. Nevedela si vyrátať,   koľko ona do jesene peňazí zarobí.
+   </tei:p>
+   <tei:p>
+    I zarobila.
+   </tei:p>
+   <tei:p>
+    Ale aby si peniažky nestratila, dala si, ako i iné prostodušné   ženičky, zárobok schovať gazdovi, ktorý ich ta bol zaviedol. A ten   peniažky zčiastky prepil, zčiastky rozdal
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    ﻿fiškálom, aby mu vymáhali akýsi na licitácii nespravodlivo predaný   jeho majetok. Vziať mu nemali čo, ledva sa mnohí domov dostali.
+   </tei:p>
+   <tei:p>
+    Pôstková sa vyplakala za svojimi krajciarmi; ale čože bolo robiť?   „A gazda sľúbil, že keď zarobí, vráti,“ tešila sa v žiali. Nezúfala,   ale chytila sa znova chlebík piecť, a do banky bola doniesla šesták   na úroky.
+   </tei:p>
+   <tei:p>
+    V zime potom, štverigajúc sa s bielizňou na pôjd, spadla s rebríka   a zlomila si ruku.
+   </tei:p>
+   <tei:p>
+    Začaly ju liečiť ženy.
+   </tei:p>
+   <tei:p>
+    Ale komôrka bez piecky, jesť niet čo, smrť sa zmilovať nechce.   Našiel sa predsa ľudský človek a oznámil to obci.
+   </tei:p>
+   <tei:p>
+    Richtár s doktorom dali ju zobrať a previezť na hrobitov, do   „špitála“, vlastne do búdy, vystavenej na prípad cholery. Opatrovala   ju hrobárova žena.
+   </tei:p>
+   <tei:p>
+    Dopočul sa to syn, opil sa a tak sa mu materi uľútostilo, že   zaprosil svojho gazdu a prišiel i s vozom po ňu.
+   </tei:p>
+   <tei:p>
+    Pritom jej pohýbali ruku, ale syn silou vzal ju k žene. Plakal a   klial sa, že nezabudol, že mu je mať, že si rodiča máme uctiť, a   všetko by bol materi sniesol, od ženy pýtal, ale v dome nemali   ničoho. Predsa aspoň teplý kútik.
+   </tei:p>
+   <tei:p>
+    Mať ho z vďačnosti, opitého, hladila po hlave a on sa tak   rozľútostil, že nakoniec potom ešte vyvadil sa s materou, že ho   nepočúvala, od neho odišla: „tak sa jej vodí.“ Predsa on je jej syn,   a nie šteňa, a preto si ju opatrí.
+   </tei:p>
+   <tei:p>
+    Pôstková mala vše druhý kríž, keď syn v nedeľu, vo sviatok zo   služby na celý alebo pol dňa prišiel domov.
+   </tei:p>
+   <tei:p>
+    Aby v dome biedy nebolo a ona darmo nejedla, popredala svoje háby,   perie z perinky, a čo ani nevesta nevedela, dávala do hrnca. A   doniesli jej i dobrí ľudia. Boh im odplať!
+   </tei:p>
+   <tei:p>
+    Keď sa však i to minulo, nedalo jej srdce nevestu ďalej vyjedať,   pobrala sa pekne do svojej komôrky.
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿Tej jari zas šla do repy.
+   </tei:p>
+   <tei:p>
+    Ale že tamtých Všechsvätých nebola došla s peniažkami, prišla bola   prosiť, aby sme jej perinku aspoň cez zimu nechali, lebo že je   komôrka chladná.
+   </tei:p>
+   <tei:p>
+    Slzy sa mi tisly do očú a len som ju chytro hľadel upokojiť,   odpraviť. Šla.
+   </tei:p>
+   <tei:p>
+    Okolo Ďura iba keď príde Pôstková zas. „Čo chcete?“
+   </tei:p>
+   <tei:p>
+    „Prišla som si tú dlžôbku zaplatiť,“ a vykrúca peniažky.
+   </tei:p>
+   <tei:p>
+    „Nuž a veď ste ešte neboli v repe...“
+   </tei:p>
+   <tei:p>
+    „Ej, čo si tam zarobím, tie by som si chcela odložiť na pohreb. Na   túto dlžôbku predala som tú perinku, čo ste mi boli v jeseni   nechali... Koľkože mi už teraz príde tých interesov? Porátajteže si   dobre... Veľa som zameškala...“ a vykrúcala kyptavými ručičkami   peniažky z handričky.
+   </tei:p>
+   <tei:p>
+    (Zpod kosy, II. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    16
+   </tei:p>
+   <tei:p>
+    ﻿Mamka Pôstková
+   </tei:p>
+   <tei:p>
+    Do banky pomaly otváraly sa ťažké dvere, ako keby sa dieťa bolo   borilo s nimi. Podobne ťažko, dva razy sa v nich otočiac, vošla   plachtičkou prihodená žena. V ruke šatôčka, okrútená okolo čohosi, na   spôsob, ako okrúcajú naše ženičky modlitebné knižky.
+   </tei:p>
+   <tei:p>
+    „Dobrý deň vinšujem,“ povedala tichým, bojazlivým hlasom; zarazene   pozrela po veľkej učtárni a neisto poberala sa k môjmu účtovníckemu   stolíku.
+   </tei:p>
+   <tei:p>
+    „Dobrý deň, mamka Pôstková! Vitajte! Čože ste nám doniesli?“   prihováram sa jej a idem v ústrety.
+   </tei:p>
+   <tei:p>
+    Ona vykrúcala zo šatôčky papier.
+   </tei:p>
+   <tei:p>
+    „Sem dajte,“ volá denný povereník, vidiac, že zo šatôčky vykrútila   zmenku.
+   </tei:p>
+   <tei:p>
+    Povereník volá, ja beriem z ruky, a ona nevie, kam, a hovorí, že   „ešte je nie vyrobená,“ to jest suma nie položená.
+   </tei:p>
+   <tei:p>
+    „Sadnite si a povedzte, na koľko vám ju vyrobiť?“ ponúkam a   spytujem sa jej.
+   </tei:p>
+   <tei:p>
+    „Len tak, prosím ponížene,“ hovorí, ako by hriešne slovo šla   vypustiť z úst, „ako bolo, na tri koruny. Nepredala som chlebíka, i   na dlžôbku pobrali..utiera si šatôčkou ústa.
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿„Dobre, mamka, len si sadnite,“ ponúkal som ju, ako by len vlastnú   starú mať, aby si už sadla konečne, a vezmúc zmenku, pero, priklonil   som sa nad stolík, roztiahol pokrčenú zmenku, a stavilo mi pravú ruku   i s perom.
+   </tei:p>
+   <tei:p>
+    „Tri koruny,“ hútam ši, „či vás napísať?“ Povinnosť káže. To je   jedno: zmenka ako zmenka, či tristo, či tridsať a či len tri koruny.   „I to sú peniaze.“ A nenapísal som, ale pozrel na starú ženu, aby   stačil uvážiť, čo robiť.
+   </tei:p>
+   <tei:p>
+    Predo mnou sedí okolo 65-ročná, neobyčajne zoschnutá, maličká   žena. Sedí na stoličke, visia jej nohy, obuté vo veľkých, na jej nohu   neprikrojených starých čižmách. Zpod plachtičky vykuká čierna,   smraštená, chudá tvár, vpadnuté, bezzubé ústa a trčia detsky malé   ruky. Nie je toľká ako stredne urastené 12—13-ročné dieťa.
+   </tei:p>
+   <tei:p>
+    Kým mi toto popred oči prebehlo, ustálil som sa, že zmenky   nevypíšem, viac ako zmenku neúčtujem. Čo však s ňou robiť? Vrátiť jej   ju? Zaplatiť a povedať jej, že je nie dlžná? Ak mi neporozumie, ak ju   urazím almužnou, ktorej nepýta? Lebo veď viem, že od 5—6 rokov každé   tri mesiace prichodí mi tá istá zmenka pod ruku. Mamka Pôstková vážne   chápe svoju povinnosť a s 12 korún pôžičky sišla za tie roky po   korunke, po pol už na 3 koruny, ale nikdy neprišlo jej na um   obnažovať svoju biedu a prosiť darovanie dlžoby.
+   </tei:p>
+   <tei:p>
+    „Opatrím si, len mi, prosím vás, dočkajte,“ keď na 2—3 termíny do   roka načas nedošla.
+   </tei:p>
+   <tei:p>
+    Nevedela ani čítať ani písať. Zmenku podpisoval majetný gazda,   dobrý človek, ktorý sa jej bol z milosrdenstva podpísal a bol ochotný   kedykoľvek za ňu zaplatiť; ale sme sa hanbili od neho pýtať a vlastne   mávali sme vždy posvätnú chvíľu z príkladu babky a jej chápania   uloženej si povinnosti, keď sa prišla veriť a prosiť zhovievavosť. Že   veď čo ako tvrdo, aby sme sa len nebáli, že kým ona žije, nebude   nikto za ňu platiť, ani banka škodovať. Len
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    ﻿by jej dal Pán Boh dožiť, aby si túto ťarchu shodila s hlavy, i   umierať bude ľahšie, končieva svoje vzdychy.
+   </tei:p>
+   <tei:p>
+    „Dotiaľ neumriem,“ dokladala, ako keby sa bohvie akého ťažkého   hriechu mala čím prv zbaviť.
+   </tei:p>
+   <tei:p>
+    „A keby sa i tak stalo, že by som umrela, nebojte sa, veď ja mám   viac medzi svetom, naložím, kde čo majú zaplatiť. Toť i Ondro Krnáče,   i Beta Vráble — a koľkí — vzali i dnes chlebíka... ,Nemám, mamka,   počkajte.“ .Počkám, deti moje, ale nezabudnite.“ I stará Betuliačka   už včera tretí raz ... .Nedám,“ povedala som. .Zaplať, čo si dlžná,   ja tiež musím, keď som si na múčičku požičala ...“ Ale zaprosila, že   keď pôjdu deti, ako že tie jej dievkine siroty, už čochvíľa húsky   pásť, že vyslúžia, zaplatia. Akože im nedať, keď zaprosia, a viem, že   nemajú, čo by na tej dlani,“ rozložila chudé ruky.
+   </tei:p>
+   <tei:p>
+    „Koľkože mi príde interesu?“ vstáva so stoličky netrpezlivá, že to   už chvíľu trvá a nevoláme ju platiť. „Chlebík mám na ulici. ..“
+   </tei:p>
+   <tei:p>
+    „Mamka, poďteže sem. Ja vám poradím. Aby ste nemuseli každú chvíľu   k nám a zmenky podpisovať, za žírantom chodiť, dajte šesták.   Zaplatíte si úroky naraz, a nemusíte prísť ani do roka, za dva k nám   platiť. Vyplatíte si napredok,“ opakujem jej, „a keď budete mať tri   koruny, donesiete naraz, už kedy bude, vtedy bude...“
+   </tei:p>
+   <tei:p>
+    A dlžobu prepísal som na drobných dlžníčkov, ako to už účtovníci   rozumejú.
+   </tei:p>
+   <tei:p>
+    „Tri koruny ...“ hovorí zmätená a zarazená babka, vyťahujúc zpod   pazuchy vrecko z handričky, „to mi naraz, prosím, veľa bude ...   Nevládzem toľko zarobiť ... Ja by si to po korunke, po pol skorej   odmrvila... Ale už čože budem robiť, keď ste mi tak odsúdili...   a iste nevďačne kladie mi na stolík šesták.
+   </tei:p>
+   <tei:p>
+    Nepomohol som jej, myslím si. Ona nevie, čo ja chcem. Zdá sa jej   to zrejmým obťažením.
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿„Viete, nevyplatí sa vám zmenku každého štvrťroka kupovať, za   podpisom chodiť, a nám sa to zas nevyplatí do kníh zavádzať. Knihy   drahé...“ doložil som, snažiac sa ju uspokojiť.
+   </tei:p>
+   <tei:p>
+    „Vy viete, ako vám ľahšie. Teda nemám chodiť?“ spytuje sa, či ozaj   bolo by to možné. „Nie, nemusíte, za dva roky nemusíte,“ ubezpečujem   ju, mysliac si, že o dva roky bude už akiste rozsypaná...
+   </tei:p>
+   <tei:p>
+    Chudera, keby bola. Sama by si žiadala. Ale tu je i dnes medzi   nami.
+   </tei:p>
+   <tei:p>
+    Keby bola umrela, bol by žírant vďačne za ňu zaplatil, ja by tohto   nepísal. Ale takto iba keď vám príde tamtej jari, že jej hádam už   vypršaly dva roky, a ona peňazí nenosí.
+   </tei:p>
+   <tei:p>
+    A pustila sa do plaču, že už mala korunu, raz i dve opatrovala,   tajila ich, ale syn pýtal, druhý raz nevesta vydrankala, a čo raz   stisla a nám odložila, vydriapali jej, silou vzali, ,že vy dočkáte   ...‘ „Tak som sa prišla ohlásiť a doniesla som aspoň zas interes...“   a kládla šesták.
+   </tei:p>
+   <tei:p>
+    „Ešte vám tých stačí na rok. Teraz sú lacnejšie peniaze, ako   boly...“ sotva som si stačil chytro pripomenúť, že som pred dvoma   rokmi na drobných dlžníkov prepísal jej 3 koruny a zmenka je kdesi na   dne kasy...
+   </tei:p>
+   <tei:p>
+    „Keď stačí.. . Ale už by to vari nemalo. Veď len šesták som bola   dala. Či ste sa nepomýlili v rátaní?“
+   </tei:p>
+   <tei:p>
+    „Nie, mamka, to je dobre vyrátané ...“
+   </tei:p>
+   <tei:p>
+    „Len aby, prosím, do Všechsviat došlo. Lebo tak sa mi stalo, ruku   som si v jeseni zlomila, aha, tu za päsťou. Spadla som s pôjda, keď   som si hábočky vešala. Starý človek, hlava sa točí, iba keď som sa   našla na pitvore a ruka ako zvonec. Nemôžem na ňu, a jednou chlebíka   nezamiesiš. Ale pôjdem do repy, nuž zarobím a vrátim vám. Len
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿sa už nebojte. Kým žijem, ja zmenky nehodím. Už mi tak svet:   ,Hoďte im ju! Čože vám vezmú?“ Aba, deti moje. O statočnosť prísť na   starosť ... Ja už na to nemám svedomia. Keď bolo peniažky brať na   zmenku, vtedy ,prosím vás“, a teraz hodiť, ,plaťte si, mohli ste sa   nepodpísať, vedeli ste, že ja nič nemám“... Aba. To vy by ste možno   tak, ale ja nie. Kým žijem, neopustím sa, a keď umriem, zostanú háby,   perinka, truhla, posteľ, nech si predajú...“
+   </tei:p>
+   <tei:p>
+    Dopytoval som sa na celý život tejto neobyčajnej ženičky, ale   nikto mi to nevedel poriadkom rozpovedať. „A prosím vás, ktože si   toho kedy všímal, ako bola, čo bola ...“
+   </tei:p>
+   <tei:p>
+    Tak je, myslím si.
+   </tei:p>
+   <tei:p>
+    Slováci vedia veľa rozprávať o pánoch, grófoch, princoch; poznajú   celé rodokmene cisárov, ale medzi sebou málokoho zbadajú, a čoby bol   akého osobitnejšieho života a mravov človek. Medzi svojimi nikto   nehľadá príkladu. Ako by sme všetci boli rovnako zlí, alebo rovnako   dobrí, žeby sme sa nemohli jeden od druhého ničomu dobrému naučiť. A   len koľko-toľko si spomeňme, aký život prežila naša mamka Pôstková a   ako sa ho držala až do staroby, do večera, dodnes.
+   </tei:p>
+   <tei:p>
+    Muža mala onakvého. Boh vie, aký bol čudák. Nerád robil. Trocha,   trocha popaprať motykou, kosou, vidlami, a dosť! Keď horko-ťažko sa   vybral i s kapsou, naplnenou na týždeň, do roboty, na druhý, treti   večer už bol doma. Kapsa prázdna, a na robotu zle-nedobre, že ťažká,   planá, pláca malá, že on radšej bude pod pecou ležať o hlade ako za   3—4 šestáky cez deň robiť. A ono, keby ležať, nechže by ležal, ale   keď príde večer, chce sa jesť, keď ráno svitne, zas, a obed aby   nechybel. Keď som lačný, som nevládny; keď sa najem, spal by.   Polihoval. Keď ho žena durila,
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿spravil sa chorým. Ešte i fajčil. Vydriapal 2—3 krajciare i na   pálenku od nej a šiel do krčmy, na uhol, alebo druhých pri robote   zahovárať. Ona, blázon, vše uverila jeho chorobám, a potom mu už tak   zvykla, že on — ak chcel — zvŕšil jej robotu okolo domu, ona drhla po   zárobkoch, chovala ho. Vše ani len toho chlapca, čo jedného mali,   poriadne neprimerkoval. Vše prišlo doráňané domov.
+   </tei:p>
+   <tei:p>
+    Keď chlabča odrástlo, šlo do služby a za čas pomáhalo materi otca   chovať.
+   </tei:p>
+   <tei:p>
+    Ale potom sa odtrhlo od nich, že si mu načim odkladať na háby, že   sa bude ženiť, a viac nedal materi ničoho. Aby otec šli robiť.
+   </tei:p>
+   <tei:p>
+    Nebolo to celkom tak, ale syn počal mládenčiť a naučil sa svoj   zárobok i sám stroviť.
+   </tei:p>
+   <tei:p>
+    Otec preležal celé dni a, ako vravím, ešte i popíjal, i fajčil. Ba   prišli ho ešte i pozrieť, že ako chorého, a on dotiaľ nadŕľal ženu,   kým nedala na pálenku, i chlebíka ešte k nej.
+   </tei:p>
+   <tei:p>
+    Syn sa oženil, šiel do služby, a žena k svokre a chorému svokrovi,   že aspoň ľahšie zaplatia hospodu, keď i syn pomôže.
+   </tei:p>
+   <tei:p>
+    Ale horkýže!
+   </tei:p>
+   <tei:p>
+    Syn sotva čo žene dal, bola ešte i ona, i s roka na rok rodiacimi   sa deťmi materi na krku.
+   </tei:p>
+   <tei:p>
+    Vše nevesta šla do roboty, stará tiež, a chlapi: jeden stenal pod   stenou alebo na lavici, druhý sa ako bíreš každá druhú-tretiu nedeľu   prišiel so ženou, materou vyvadiť, s otcom opiť a všetkých vše   rozháňať po ulici.
+   </tei:p>
+   <tei:p>
+    Otec mu ešte nadŕžal, čo len i naoko, lebo sa ho bál, a opitý syn   prinášaval mu dohánu i skleničku ...
+   </tei:p>
+   <tei:p>
+    Detí bolo za pár rokov ako červíkov, že už nemohly obidve, mať s   nevestou, na zárobky. Šla len nevesta a mať chytila sa chlebík piecť   a v mestečku predávať.
+   </tei:p>
+   <tei:p>
+    12
+   </tei:p>
+   <tei:p>
+    ﻿Zpočiatku to šlo, chlebík dobre predávaly. Pekávaly v noci,   pomáhala i nevesta, keď z roboty došla. Ale o pár rokov vnúčatám   narástly také ústa, že zárobok i vyše z jedlý v pravom smysle slova   ešte „za horúca“. Stará Pôstková vše vyšla tak, že nemala na múku.   Požičala. Vrátila, ale nie vždy a všetko. Prišiel vše ešte i syn a   „požičal“ si od materi i posledný krajciar.
+   </tei:p>
+   <tei:p>
+    „Veď len do prvého.“
+   </tei:p>
+   <tei:p>
+    Zarobil, materi vrátil-nevrátil, pýtal i po iné razy, a keď mať   nedala alebo nemala, vyhádzal ju z chyžky na dvor, že za ňu árendy   platiť nebude, opil sa i s otcom, rozohnal ženy i deti, čo ho otec   vše ako prosil: ,,Nechájže ich, robia dosť, nech sú aspoň v teple.“   Syn ich jednako vše rozduril, lebo že by sa ho potom mohla žena nič   nebáť, a keď je on v službe, ešte niečo vyviesť mu na posmech.
+   </tei:p>
+   <tei:p>
+    „Ach, hriech pomyslieť, neubližujže jej. Nuž či nemá dosť tvojich?   Ešte má za druhými o deti chodiť? Eh, syn môj, zle to myslíš; pomodli   sa Bohu, aby ti vzal takú myseľ,“ učil otec, ale čože, keď i vtedy   spolu pili a jeho slovo bolo slabej váhy.
+   </tei:p>
+   <tei:p>
+    A syn ženu jednako vyobháňal, za vlasy vykvákal.
+   </tei:p>
+   <tei:p>
+    To už taký zákon medzi opitými.
+   </tei:p>
+   <tei:p>
+    Starej Pôstkovej predsa Pán Boh pomohol: umrel jej muž.
+   </tei:p>
+   <tei:p>
+    Syn sa na kare od žiaľu tak opil, že rozohnal celú rodinku,   „starej strige-materi“ sa vyhrážal, že keď ho ona nebíjala, bude ju   on. Prečo to vravel, Boh vie. Žiaľ, opilosť, či čo. Žena, deti sa   večer, v noci povracaly do chalupy, ale „stará striga“ viac neprišla.   Chodila za ňou nevesta, prosila, plakala, ale mať nešla.
+   </tei:p>
+   <tei:p>
+    „Dievka moja, nuž či si to žiadaš, aby ma dolomil a musela si ma   opatrovať, žobráka? Nebolo ti dosť za dvanásť rokov trápenia s   otcom?“
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿„Mamička moja, veď on už plakal, že vám ublížil, ale sa hanbí k   vám vojsť ...“
+   </tei:p>
+   <tei:p>
+    „No, len dal by Pán Boh, aby sa hanbil, dotiaľ bude dobrý...“
+   </tei:p>
+   <tei:p>
+    Mať si našla za tri zlaté komôrku, s nevestou preniesla starú   truhlu, posteľ a začala, už vyše šesťdesiatročná — sama žiť.
+   </tei:p>
+   <tei:p>
+    A že teraz už všade sú banky, poprosila gazdu, aby sa jej podpísal   na zmenku. Vyplatila drobné dlžôbky, piekla chlebík, predávala a   živila sa robotou a — biedou. Leba teraz už, keď čo stisla, nevzal   jej to syn, ale dala vnúčatám. Bola rada, že si „oddýchne“ od. toho   zlostníka — syna, a keď ho menej vídala, nazdávala sa, že je   lepší.
+   </tei:p>
+   <tei:p>
+    Chválila si život, len na zdraví aby Pán Boh neuťahoval.
+   </tei:p>
+   <tei:p>
+    Keď sa mať oddelila, nevesta vše len prišla s deťmi ju opáčiť,   volať k nim, a stará mať dala: i zjedly i domov si vzaly. Lebo „otec   nezarobili — prepili,“ hovorievaly za materou už i deti.
+   </tei:p>
+   <tei:p>
+    Pred pár rokmi zvrtly sa pomery. Pred 20 rokmi, pamätám, mal kosec   50—60 krajciarov, hrabáčka 16—20, slovom, za robotu platilo sa málo.   Dnes je to už napravené aspoň čiastočne.
+   </tei:p>
+   <tei:p>
+    Tento duch zavial predlanským i našu Pôstkovú. Na chlebíku   zarobila málo. Sháňali na jar ľudí do repy, kdesi na panstvo na   Dolniaky. Najala sa i stará Pôstková. Robiť vraj tuho nenačim, len   dobre, a na deň dostane 40 krajciarov, i chovu. Nevedela si vyrátať,   koľko ona do jesene peňazí zarobí.
+   </tei:p>
+   <tei:p>
+    I zarobila.
+   </tei:p>
+   <tei:p>
+    Ale aby si peniažky nestratila, dala si, ako i iné prostodušné   ženičky, zárobok schovať gazdovi, ktorý ich ta bol zaviedol. A ten   peniažky zčiastky prepil, zčiastky rozdal
+   </tei:p>
+   <tei:p>
+    14
+   </tei:p>
+   <tei:p>
+    ﻿fiškálom, aby mu vymáhali akýsi na licitácii nespravodlivo predaný   jeho majetok. Vziať mu nemali čo, ledva sa mnohí domov dostali.
+   </tei:p>
+   <tei:p>
+    Pôstková sa vyplakala za svojimi krajciarmi; ale čože bolo robiť?   „A gazda sľúbil, že keď zarobí, vráti,“ tešila sa v žiali. Nezúfala,   ale chytila sa znova chlebík piecť, a do banky bola doniesla šesták   na úroky.
+   </tei:p>
+   <tei:p>
+    V zime potom, štverigajúc sa s bielizňou na pôjd, spadla s rebríka   a zlomila si ruku.
+   </tei:p>
+   <tei:p>
+    Začaly ju liečiť ženy.
+   </tei:p>
+   <tei:p>
+    Ale komôrka bez piecky, jesť niet čo, smrť sa zmilovať nechce.   Našiel sa predsa ľudský človek a oznámil to obci.
+   </tei:p>
+   <tei:p>
+    Richtár s doktorom dali ju zobrať a previezť na hrobitov, do   „špitála“, vlastne do búdy, vystavenej na prípad cholery. Opatrovala   ju hrobárova žena.
+   </tei:p>
+   <tei:p>
+    Dopočul sa to syn, opil sa a tak sa mu materi uľútostilo, že   zaprosil svojho gazdu a prišiel i s vozom po ňu.
+   </tei:p>
+   <tei:p>
+    Pritom jej pohýbali ruku, ale syn silou vzal ju k žene. Plakal a   klial sa, že nezabudol, že mu je mať, že si rodiča máme uctiť, a   všetko by bol materi sniesol, od ženy pýtal, ale v dome nemali   ničoho. Predsa aspoň teplý kútik.
+   </tei:p>
+   <tei:p>
+    Mať ho z vďačnosti, opitého, hladila po hlave a on sa tak   rozľútostil, že nakoniec potom ešte vyvadil sa s materou, že ho   nepočúvala, od neho odišla: „tak sa jej vodí.“ Predsa on je jej syn,   a nie šteňa, a preto si ju opatrí.
+   </tei:p>
+   <tei:p>
+    Pôstková mala vše druhý kríž, keď syn v nedeľu, vo sviatok zo   služby na celý alebo pol dňa prišiel domov.
+   </tei:p>
+   <tei:p>
+    Aby v dome biedy nebolo a ona darmo nejedla, popredala svoje háby,   perie z perinky, a čo ani nevesta nevedela, dávala do hrnca. A   doniesli jej i dobrí ľudia. Boh im odplať!
+   </tei:p>
+   <tei:p>
+    Keď sa však i to minulo, nedalo jej srdce nevestu ďalej vyjedať,   pobrala sa pekne do svojej komôrky.
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿Tej jari zas šla do repy.
+   </tei:p>
+   <tei:p>
+    Ale že tamtých Všechsvätých nebola došla s peniažkami, prišla bola   prosiť, aby sme jej perinku aspoň cez zimu nechali, lebo že je   komôrka chladná.
+   </tei:p>
+   <tei:p>
+    Slzy sa mi tisly do očú a len som ju chytro hľadel upokojiť,   odpraviť. Šla.
+   </tei:p>
+   <tei:p>
+    Okolo Ďura iba keď príde Pôstková zas. „Čo chcete?“
+   </tei:p>
+   <tei:p>
+    „Prišla som si tú dlžôbku zaplatiť,“ a vykrúca peniažky.
+   </tei:p>
+   <tei:p>
+    „Nuž a veď ste ešte neboli v repe...“
+   </tei:p>
+   <tei:p>
+    „Ej, čo si tam zarobím, tie by som si chcela odložiť na pohreb. Na   túto dlžôbku predala som tú perinku, čo ste mi boli v jeseni   nechali... Koľkože mi už teraz príde tých interesov? Porátajteže si   dobre... Veľa som zameškala...“ a vykrúcala kyptavými ručičkami   peniažky z handričky.
+   </tei:p>
+   <tei:p>
+    (Zpod kosy, II. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    16
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

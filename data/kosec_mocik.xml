@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910175" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Kosec Môcik : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3801
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Kosec Môcik
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Kosec Môcik
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Lanského leta panovala v našom okolí taká nepohoda, že ľudia s   poľa iba poschytali. I to miesto sena navozili na šopy — hnoja, z   ktorého sa len tak kúrilo. Museli ho horko-ťažko znovu presúšať.   Obilie, zvalené, hnilo na koreni; zemiaky v zemi braly skazu. Pre   dažde nič sa poriadne neusušilo, nespravilo.
+   </tei:p>
+   <tei:p>
+    Gazdovia nariekali i hrešili. Mlynár i strieľal od zlosti do   oblakov. Robotníci po krčmách i doma sa len tak opíjali. Keď sa slnce   na deň-dva usmialo, i to len ako by cez plač:najímal kde-kto,ako   mohol,a robotníka dobrého i zlého preplácal. A robotníci, keď sa zas   čas premenil na dážď, postávali a prepíjali dobrý zárobok doma i po   krčmách ... Nie všetci, ale môj Môcik áno.
+   </tei:p>
+   <tei:p>
+    I.
+   </tei:p>
+   <tei:p>
+    Bola sobota. Gazda chcel mať trávu soťatú, aby cez nedeľu, ak bude   čas, preschla i na radkoch. Neželel trungu. A kosec Môcik, ktorý i so   16-ročným synom trávu dokášal, za každým radkom pýtal ,,na popľutie   rúk“ pálenky; gazda dával, len aby sa robotníci usilovali.
+   </tei:p>
+   <tei:p>
+    123
+   </tei:p>
+   <tei:p>
+    ﻿Dokosili, sadli piť a fajky pripekať. Večer, už potme, keď šli   kosci domov, div boží, že sa tackajúci po krivých chodníkoch poľom i   horou na kosy nepoprekálali pri padaní na klzkej hlinačke a   lístí.
+   </tei:p>
+   <tei:p>
+    Syn Môcikov chcel otca viesť. Vyplakal sa, keď otec padol, a kde   padol, tam — ako by sa schválne bol posadil — chcel „oddychovať“, a   kosu si s pleca predsa vziať nedal a neprestával sa s chlapcom   priečiť, že je cesta planá, ale nie že by on bol opitý... Že ho to   len ony, deti, učiac sa od materi, potupujú a pre skleničku pálenky   vše za ožrana uznávajú ...
+   </tei:p>
+   <tei:p>
+    Chlapci — lebo Môcikovci mali dvoch: 16-a 14-ročného a 9-ročné   dievča — ak s ním boli a v robote sa opil, v taký čas tak znenávideli   otca, že by ho neboli ľutovali do priepasti strčiť od žiaľu i zlosti.   Videli, vedeli, čo mať pri ňom vystojí, a že pred otcom predsa je len   planá a že keď otec začína hrešiť, to začne vždy od materi...
+   </tei:p>
+   <tei:p>
+    Keď došli do mestečka, otec že si ide kúpiť dohánu, s nevinnou   tvárou pobral sa do krčmy. Syn mu chcel poslúžiť, a keď si nedal,   vykričal otcovi, že nie po dohán si ide, ale že mu pitia ešte málo   bolo ... To Môcika pohlo, vymykol sa synovi a „just“ vošiel do   krčmy.
+   </tei:p>
+   <tei:p>
+    „A materi sa pozdrav, že sme šťastlivé došli...“ miernil sa   Môcik.
+   </tei:p>
+   <tei:p>
+    „Vy dôjdete...!“ zavolal syn a sám šiel domov. Bol mu žiaľ.
+   </tei:p>
+   <tei:p>
+    Mať a deti mu už poznaly po tvári, kde otec zostal. Rozumeli si   všetci štyria, ale nevraveli nič. Len mať, pre obyčaj, potvrdila, čo   všetci mysleli: „Otec nemohol obísť ...“
+   </tei:p>
+   <tei:p>
+    „Nemohli...“
+   </tei:p>
+   <tei:p>
+    U nás taká obyčaj: robotníci od soboty večera do pondelka do rána   sú v krčme, iba ak si idú „oddýchnuť“, vyspať sa a so ženou sa   povadiť, deti rozduriť, ak sa to už
+   </tei:p>
+   <tei:p>
+    124
+   </tei:p>
+   <tei:p>
+    ﻿nestalo večer v krčme alebo na ulici, keď napríklad poň   prišly...
+   </tei:p>
+   <tei:p>
+    Lenže keď to i ženy nevedia pekne. Len hneď: „Ty taký a taký...   Ožran! Niet čo do úst položiť, a on prežerie, čo zarobí. A pakuj sa   domov, lebo a lebo...“ Stavajú sa pred svetom a iba hanbu si utŕžia.   Viete, videli ste to, alebo i sami skúsili.
+   </tei:p>
+   <tei:p>
+    Kým boli mladí, Môcik presedel i celé noci v krčme a žene čo hodil   alebo mu vydrapila, na tom musela pristať a iba mala s ním oštaru:   vyvárať mu, opierať ho, obšívať, doma vyčkávať a vše nemohla ísť do   akej-takej roboty. Keď boly deti väčšie, Môcička prestala po otca do   krčmy chodiť. Bol by iba hriech väčší. Zarobí teraz už s deťmi a ešte   ony skorej otca chovajú, ako on ich, a aspoň v dome nemajú s ním   pekla, a Môcik je tam, dokiaľ chce, ale predsa nezostáva tam ako   driev „just, tebe napriek!“ i po celom, po dva dni.
+   </tei:p>
+   <tei:p>
+    II.
+   </tei:p>
+   <tei:p>
+    Kedy otec domov došiel, nezvedeli. Nevošiel do izby, ale ľahol pod   cieničku na seno... „Nejdem ich budiť, čo by som ich... Zrobení, i   mať chudera, žena moja,“ dudral si, keď o tretej, ako ukradomky,   ťahal sa do dvora.
+   </tei:p>
+   <tei:p>
+    Domáci — navyknutí na také soboty (i druhé dni) — pospali i bez   otca. A ráno, že bola nedeľa, mať povolila synkom dĺž ...
+   </tei:p>
+   <tei:p>
+    Kým v pitvorci navarila, vstaly i deti, a vyjdúc na dvor, našly   otca pod cieničkou, zaprteného v sene. Vstala od neho mačička a trela   sa im o bosé nohy.
+   </tei:p>
+   <tei:p>
+    Otca nezobudily.
+   </tei:p>
+   <tei:p>
+    „Nech sa vyzdochýna, nechajte ho,“ prikazovala mať. Ale povstal   šum na ulici, otec sa zobudil a hneď sa zba-
+   </tei:p>
+   <tei:p>
+    125
+   </tei:p>
+   <tei:p>
+    ﻿dal, kde je. Vytrie oči — deň; načúva — v dome sú už hore;   zodvihne sa — práve ide ktorési do dvorca. Spustil sa na seno a   zavrel oči, že bude premýšľať, ako a prečo sa sem dostal a prečo sa   nezobudil v izbe na posteli...
+   </tei:p>
+   <tei:p>
+    „—’som ti kycku!“ zahrešil v mysli. „Nečudo — bola sobota,“ a   škrabal si hlavu, hoci ho i nesvrbela. Mrzelo ho. Vytieral oči a   počúval, či niečo domáci o ňom nehovoria.
+   </tei:p>
+   <tei:p>
+    Mať postavila misku na stôl a poslala dievča po otca, aby šiel   jesť.
+   </tei:p>
+   <tei:p>
+    „A čože mati? Hnevá sa?“ spytuje sa šeptom otec.
+   </tei:p>
+   <tei:p>
+    „Nevravia, že by sa ...“
+   </tei:p>
+   <tei:p>
+    „Idem,“ riekol otec a dievča sa vrátilo. Proboval sa zodvihnúť.   Pre hlavu by to ľahko šlo, ale tí v izbe; žena, synovia dvaja. Kým   boli mladší, nehanbil sa tak, teraz ako by pred sudcov šiel za zlé   skutky Ak už odišli... Nevieš...“ Kým takto premýšľal, jedlo chladlo;   mať poslala staršieho syna poň.
+   </tei:p>
+   <tei:p>
+    „Nanka, aby ste šli jesť,“ sucho volal syn nad otcom.
+   </tei:p>
+   <tei:p>
+    Zodvihol hlavu, ale nehľadel naň. „A ktože ťa...? Mať?“
+   </tei:p>
+   <tei:p>
+    „Mať.“
+   </tei:p>
+   <tei:p>
+    „A vy ste už?“
+   </tei:p>
+   <tei:p>
+    „Za vami čakáme. Poďte!“ — a odišiel.
+   </tei:p>
+   <tei:p>
+    „Idem!“ a sadol si a zase sa len zamyslel... „A čože robí, že   nejde?“ bolo počuť materin hlas z pitvora a buchly dvercia.
+   </tei:p>
+   <tei:p>
+    Môcik si tíško ľahol, zažmúril oči a čakal, ako by mu šli sekerou   hlavu odťať. Vara naň šla.
+   </tei:p>
+   <tei:p>
+    „Čože sa dáš vyvolávať? Ani oriadiť, ani najesť, len piť, piť ...   Kedyže sa schystáme do kostola?“ začul Môcik pokojný, dobroprajný   hlas ženy. Už sa hanbil, ako holý v kúpeli ...
+   </tei:p>
+   <tei:p>
+    „I ja pôjdem, pôjdem veru do kostola. Aby dal Pán Boh dobrého   času,“ — nevedel, čo má múdrejšieho povedať.
+   </tei:p>
+   <tei:p>
+    126
+   </tei:p>
+   <tei:p>
+    ﻿„A jesť nemusím,“ doložil nesmelo, vstal a šiel za ženou do izby   mlčky.
+   </tei:p>
+   <tei:p>
+    „Máš zas otrávený žalúdok, preto nemusíš jesť,“ vedela o obyčajnej   biede mužovej žena.
+   </tei:p>
+   <tei:p>
+    „A mohol ma nepustiť,“ mienil otec staršieho syna, od ktorého sa   včera večer do krčmy odtrhol a teraz aspoň naoko jeho obviňoval.   „Keby ma nebol nechal, bol by som si kúpil dohánu a mohli sme pekne   spolu domov prísť,“ a sadol k stolu.
+   </tei:p>
+   <tei:p>
+    Žena potisla mu lyžicu a obstali stôl. „Ty i vieš domov prísť,“   odpovedala za syna. „Ako sa ti pridá...“ dopúšťala predsa, čo sa   mužovi zdalo veľkým ústupkom.
+   </tei:p>
+   <tei:p>
+    „Tak,“ chlipol sladkej polievky, že potom niečo povie. Ale sladká   polievka tak sa mu spriečila v ústach, že ju ťažko prežrel a položil   lyžicu.
+   </tei:p>
+   <tei:p>
+    Všetci to videli a mať po chvíli šla do pitvora. Už vedeli, že   zeliny treba variť.
+   </tei:p>
+   <tei:p>
+    Deti jedlý. Na otca len tak úkosom vše kukly, a on hľadel do kúta   a hľadal i našiel vo vrecku fajku a s tou sa začal zabávať. Nie aby   si pripálil, na to mu chuť teraz nešla, ale pre pripletú.
+   </tei:p>
+   <tei:p>
+    Žena oparila vratiča a hrnček mlčky položila pred otca. Otec sa   stúlil, pozrel, opáčil hrnček — horúce — počkal. Mať vzala misku so   stola, chlapci vyťahovali lepšie háby. Otec vyvrátil hrniec a fajku   odložil: „Ach...“ že sa ide riadiť i on, do čoho ho po triezvej   sobote musela žena duriť. Teraz ju chcel predísť a sám sa obslúžiť;   vzal si teplej vody na misku Ale musím sa i oholiť,“ a chystal sa do   holenia. Chlapci odišli, dievča pomohlo materi postaviť obed a šly sa   obliecť do kostola.
+   </tei:p>
+   <tei:p>
+    Otec mal variť, lebo by už i tak nedošiel a z kostola, čert vie,   kam by sa zatúlal...
+   </tei:p>
+   <tei:p>
+    127
+   </tei:p>
+   <tei:p>
+    ﻿m.
+   </tei:p>
+   <tei:p>
+    Môcik sa oholil, umyl a obliekol. Podložil pod hrnce a vyšiel pred   dom, aká sa vraj chvíľa ukazuje ... Cez noc padol dážď, teraz pomedzi   preháňajúce sa oblaky driape sa slnce. Vše zasvieti horúcim teplom,   vše sa skryje, že sa stmí.
+   </tei:p>
+   <tei:p>
+    „Zas len neistý čas ...“ dumá Môcik a hľadí ulicou ... Nikoho   nevidieť. Všetko ticho, iba lastovičky švitoria, sbierajú pilne blato   s cesty. Akýsi starký krivká o paličke a dievčatko, pozdraviac sa,   beží s fľaškou...
+   </tei:p>
+   <tei:p>
+    „Otcovi?“
+   </tei:p>
+   <tei:p>
+    „Mamke.“
+   </tei:p>
+   <tei:p>
+    „Pálenka?“ smeje sa Môcik.
+   </tei:p>
+   <tei:p>
+    „Ocot!“ chichoce sa dievča.
+   </tei:p>
+   <tei:p>
+    „Škoda. Dajže okúsiť,“ plaší Môcik. Ale dievča, usmievajúc sa,   beží ďalej ... Tu uhádnete všetci Môcikovu myšlienku. Čert vie, či ju   vzbudila v ňom fľaštička, či už sedela mu dávnejšie v mysli, len sa   poobzeral a v papučiach, bez kabáta, ako bol, poď popod samú stenu   voľne, nevinne, ako by sám nevedel, kam... A nebolo ďaleko.
+   </tei:p>
+   <tei:p>
+    „Otrávil červíka“ a kúpil si i dva paklíky dohánu, hoci si večer   tri vopchal do vrecka. Hja, dohán ho mal zakryť, ak by ho niekto   predsa videl. Ale stalo sa naopak: dohán ho zradil. Vrátivší sa z   kostola zbadali na obloku hŕbu paklíkov dohánu, a deti si s materou   pošuškaly a ona sa nezdržala.
+   </tei:p>
+   <tei:p>
+    „Už aspoň kým sú iní ľudia v kostole ...“ začala.
+   </tei:p>
+   <tei:p>
+    „Ja som si bol dohánu vziať. Vieš, že bez neho nemôžem byť, a ak   trafíme ďalej ísť kosiť, domov neprídem ..
+   </tei:p>
+   <tei:p>
+    Nepomohlo. Mať i obed dovarila, a otca len nepopustili. A bola mu   bieda: on sám a proti nemu traja-štyria, lebo i dievča sa už „od   matere“.
+   </tei:p>
+   <tei:p>
+    128
+   </tei:p>
+   <tei:p>
+    ﻿Ráno, že bol triezvy, mlčky sa pomerili všetci s ním, a hľa, už   zas nedôvera a zrada, nenávidenie sa. Mať podpálila kostolom, a teraz   už doň všetci, ako osy.
+   </tei:p>
+   <tei:p>
+    Sekal sa, bránil sa i on a v obrane vše materi i ublížil bez   príčiny, za čo zas deti by ho boly i z domu, z mestečka vyhnaly,   otcom viac nepozvaly a mu i teraz i vše nagrobianily i do očú. Otec   zato nechytal sa do bitky s nimi, ale že už mal zas v rožku — naopak   — práve sa poplakal, že tak vychované materou, od nej príklad vidia,   jej sa držia, a on ako by im ani otcom nebol... A že či sa on chce   opiť? A že keď sa mu pridá, ako iným, že by ho mali poľutovať, a nie   kolmi naň letieť. Bránil sa vážne. Druhý raz zas žartom, že aby len   sami sa probovali raz opiť, uvidia, aké má taký človek sám so sebou   biedy, a nevadili by sa s ním. Alebo zas vážne, že aký žiaľ chytá mu   i vtedy srdce, všetko nešťastie a čo len zažil, trápenie sa mu na   myseľ tisne a žena, deti mu s umu neschodia ... Že sa i vtedy, keď   pil, o nich trápil, o nich premýšľal, ako by im pomohol, aby im dobre   bolo. A za to, za to sa vyvadia s ním, jesť mu nedajú ...
+   </tei:p>
+   <tei:p>
+    „Preto som si bol vypiť!“ žiali teraz Môcik.
+   </tei:p>
+   <tei:p>
+    „A či som ti nenúkala...?“ zmiernila hlas mať.
+   </tei:p>
+   <tei:p>
+    „Ako vďačne... By si ma očima bola preklala,“ zveličoval   Môcik.
+   </tei:p>
+   <tei:p>
+    „Môžte si vypiť, ale sa nespravte na posmech,“ zastarel sa starší   syn.
+   </tei:p>
+   <tei:p>
+    ,,Že sa vy hanbiť musíte za mňa — však?“ prišlo ľúto otcovi.   „Pekne, pekne. Ako by som bol niekoho zabil, podpálil, ukradol niečo   ...“ a otec plakal, a mať sa rozžialila a synovia cítili sa vinnými   pred otcom a zvaľovali jeden na druhého, kto viac otcovi povedal, kto   mu viac ublížil. . .
+   </tei:p>
+   <tei:p>
+    A bolo dobre. Odpustili, zabudli mu všetko. Pomerili sa s ním   všetci, lebo otec bol teraz triezvy.
+   </tei:p>
+   <tei:p>
+    Potom sa mať nezdržala a deťom pred otcom dobro-
+   </tei:p>
+   <tei:p>
+    9 Mamka Pôstková.
+   </tei:p>
+   <tei:p>
+    129
+   </tei:p>
+   <tei:p>
+    ﻿srdečne pripamätala, že otec im je len predsa otcom, už aký je,   taký je ...
+   </tei:p>
+   <tei:p>
+    „Môžu vám krivdy nerobiť,“ vyhovárali sa zahanbení chlapci a už   milosrdne hľadeli na otca, ktorý s podopretou hlavou sedel v pitvore   na schodoch, ako by sa bol hanbil do izby vojsť.
+   </tei:p>
+   <tei:p>
+    „Ale vám nerobí! Na vás predsa len robil; ako som vás mala,   pomáhal mi vás odchovať.“
+   </tei:p>
+   <tei:p>
+    Otec, dojatý, zodvihol sa a vyšiel na dvor, mysliac si: „Predsa   len mám dobrú ženu, deti dobrú mať...“
+   </tei:p>
+   <tei:p>
+    Žena, keď zbadala, že otec vyšiel, šeptom ďalej poučovala: „A ja   ho už poznám, viem, že inakší nebude; tak hriech by sme mali, deti   moje, si ho znenávidieť. Sú ešte i horší, a zato deti na otca ruky   nedvíhajú...“
+   </tei:p>
+   <tei:p>
+    Po takýchto výčitkách sebe i deťom prichodilo smierenie, láska. A   keď vše synovia neradi šli len i do tej roboty, kde otec, že sa   museli za jeho pijatyku hanbiť, zlostiť, teraz by boli bývali ochotní   mu i sami trungu podať. A keď sa zajtra, pozajtre zas len opil,   prepáčili mu, zaň, čo vedeli, napravili, kým to zas v nich nedozrelo   na žiaľ a zlosť ...
+   </tei:p>
+   <tei:p>
+    Dievča na pokyn matere šlo volať „ňanku svojho“ jesť...
+   </tei:p>
+   <tei:p>
+    Konečne na dlhé vynukovanie, prosenie otec šiel jesť, práve takej   nálady, ako keď chlapca ubijú a potom ho ľutujú, že ho to bolí, a   predložia mu mištičku s jedlom . . .
+   </tei:p>
+   <tei:p>
+    Ale keď sa otec zas len opil, ako mať ústami, tak chlapci vskutku   hotoví by boli bývali otcovi do pálenky hoci ľuľku namiešať, aby   aspoň ochoreli a viac nepili. Nevedeli, že keď má človek od pitia   biedu, že to ani za biedu nedrží... narobil si jej sám. Ale nech by   mu druhý len tisícu čiastku toho na hlave, žalúdku, zdraví, hoci   nevinne, ublížil, dá ho na kriminál...
+   </tei:p>
+   <tei:p>
+    130
+   </tei:p>
+   <tei:p>
+    ﻿IV.
+   </tei:p>
+   <tei:p>
+    Popoludní dievča umylo riad, šlo sa ihrať. Chlapci odišli medzi   mládež. Otcovi položila mať na lavicu hlavnicu s postele a vyšla do   kmotrov...
+   </tei:p>
+   <tei:p>
+    Môcik si zdriemol. Potom mu sadla mucha na nos, pacol sa po ňom a   zobudil.
+   </tei:p>
+   <tei:p>
+    „Žena, deti, dajteže mi vody, ak ste ktoré doma.“
+   </tei:p>
+   <tei:p>
+    Nič, ticho.
+   </tei:p>
+   <tei:p>
+    Spustil nohy, sadol si a zíval „ááhá“ ... Nabehlo mu slín do úst.   Odpľul.
+   </tei:p>
+   <tei:p>
+    „Čože sa mi rozchľabujú ako vráta,“ pomyslel na ústa a vstal,   vyšiel, kde je kto.
+   </tei:p>
+   <tei:p>
+    Nikde nikoho.
+   </tei:p>
+   <tei:p>
+    Vzal fajočku, napchal ju, zaprel dvercia a pustil sa dvorom a   potom ulicou, že len tak, tak, sám nevie, kam... Trochu počuť hlasy   trúby, ale on toho nepočúva. A predsa, ak neuhádneme, kde zájde,   nepoznáme Môcika.
+   </tei:p>
+   <tei:p>
+    V našom mestečku mládež každú nedeľu v lete popoludní tancuje. I   vo dvoje: gazdovská a sluhovská osobitne. Sveta v krčme po izbách a   na dvore plno. Jedni sedia, fajčia, pijú a besedujú, iní o kolky   hrajú, tretí tancujú. Krik ako na jarmoku.
+   </tei:p>
+   <tei:p>
+    Ale nechoďme dnu ďaleko. Veď náš Môcik sedí hneď za prvým stolom,   aby sa zdalo, „ak by ktoré poň prišlo,“ že je len tak „na skoku“, ani   nie v krčme. Veď ani nehľadel, keď vošiel, kde sadne, a zasadol si,   kde boli mladší, ktorí ho znajú, ctia a mu miesto spravili. Lebo i v   krčme i korheli sa vám ctia, staršiemu dajú úctu, aká od nich   vystane.
+   </tei:p>
+   <tei:p>
+    Čo si rozprávajú, to sa v tomto huku hudby a dupotu, kriku a spevu   nedá vyrozumieť; miesi sa to. Tu hovoria razom niekoľkí, tam zas si   šuškajú; tu jeden druhého mykne za plece, tam tiesne dlaňou na stôl.   Nazrite sa...
+   </tei:p>
+   <tei:p>
+    131
+   </tei:p>
+   <tei:p>
+    9’
+   </tei:p>
+   <tei:p>
+    ﻿Môcik je ticho. Potisnutú skleničku síce prijal, ako sa patrí,   „ale pomaly“, pomyslel...
+   </tei:p>
+   <tei:p>
+    Pred krčmou mocú sa gazdovia a najímajú, jednajú koscov,   robotníkov. Niektorí vojdú i do krčmy a tam probujú, lebo, ako som   povedal, je tvrdo o robotníkov. „Ale sme vám teraz vzácni,“ myslia si   robotníci a v prvom rade krikľúni a leniví opilci. „Počkaj! Ty   zaplatíš teraz!“ a držia sa.
+   </tei:p>
+   <tei:p>
+    I Môcik s nimi hudie. Už je zas nie ten dobrý človek doma, už je v   inom „duchu“. Ale ešte je ticho. Fajká si a premýšľa, či dobre   urobil, keď odišiel z domu, nič nepovediac. „Prišiel za robotou,“   nemôže za to, že v krčme, a nie v kostole ľudí najímajú... Už bolo po   nevinnosti v mysli.
+   </tei:p>
+   <tei:p>
+    Príde gazda, či by nešiel kosiť.
+   </tei:p>
+   <tei:p>
+    „Na to čakám, aby sa najal. Pôjdem.“
+   </tei:p>
+   <tei:p>
+    „Za čo?“
+   </tei:p>
+   <tei:p>
+    „Za to, i fruštik, olovrant.“
+   </tei:p>
+   <tei:p>
+    „Tu máte závdavok — korunu.“
+   </tei:p>
+   <tei:p>
+    „Dobre, pôjdem. Ale oldomáš nejaký tiež... by sa len patrilo . ..“   a nedokončí, lebo sa ešte hanbí. .. Ale v hrdle ho svrbí, už povedal   slovo.
+   </tei:p>
+   <tei:p>
+    „Nalejte im za štyri,“ — a gazda ide ďalej iných robotníkov   hľadať; veď sú mu treba šiesti, a ešte sú iba traja.
+   </tei:p>
+   <tei:p>
+    Oldomáš sa vypije, i tento, i čo druhý dostal, i ten i onen.
+   </tei:p>
+   <tei:p>
+    Služobná mládež, že sa blíži večer, musí sa porozchodiť k statku,   opatriť ho ako-tak.
+   </tei:p>
+   <tei:p>
+    Hudci, čo jej hrali, vojdú si oddýchnuť. Teraz starší nedajú im   sadnúť a rozkážu húsť. I Môcik rád počuje hudbu, dvíha hlavu, usmieva   sa a otvára oči ako zo sna. Bol skutočne trochu zdriemol pri   otvorených očiach, len tak na ruke. Kdeže by: celý týždeň sa to len   „smrká“ tá „čečina“, a robí, kosí, nevyspí... Dnes do rána skoro   nič,
+   </tei:p>
+   <tei:p>
+    132
+   </tei:p>
+   <tei:p>
+    ﻿popoludní zase sa mu ulezlo — nie div, nadišla ho slabosť. Bol   zadriemal, či sa len zamyslel...
+   </tei:p>
+   <tei:p>
+    Medzitým ukáže sa druhý gazda, a Môcik počúva, čo sľubuje. Ide k   nemu, spýta sa na plácu ešte raz. Vidí, že je toto väčšia — pomyslí,   pomyslí — vráti korunu, i užil, i toľko zarobí... Hudci, huďte!
+   </tei:p>
+   <tei:p>
+    Tretí gazda... Sľúbil sa i tomu .. . Hudci, huďte!
+   </tei:p>
+   <tei:p>
+    Prepil rozum, a tak sa v tú nedeľu zjednal práve na pätoro a všade   závdavky prijal. Zpočiatku si myslel, že ich povracia, a ktorá   robota, kosba najlepšia, do tej pôjde. I tráva pod kosu nie rovnaká!   „Toto ako šalát, a tam psica a tam samá krtica...“ Potom už nemyslel   iba na to, aby čím viac korún do hrsti dostal.
+   </tei:p>
+   <tei:p>
+    Dva razy sa stalo i s porozumením gazdu, že Môcika predošlému   odviedol a posmeľoval ho v tom. „Dobre, vráť, keď si si málo zjednal,   a poď mne... I taký gazda sa nájde.
+   </tei:p>
+   <tei:p>
+    Môj Môcik, ako vravím, zpočiatku ešte dosť statočne si umienil   závdavky povracať ... Ale to hudci, to krčmár, kamaráti (už sa   chichotali), ešte väčší ľahtikári ako on: z piatich závdavkov do rána   dva prepil, za dva si rozkazoval akúsi „žiaľnu“ a ,,na žiaľ“ ...   pritom čosi cítil, utrel si oči a vychytil sa do tanca. Najprv v   pantofliach, že len tak lupkalo, a potom, keď ho pochválili, i   pantofle shodil s nôh a bosý dubil o milých päť, že mu svet tlieskal.   „To nech dokážu synovia, čo otec!“ pochvaľovali ho kamaráti. „Ľaptáci   takí...!“ mysleli na Môcikových synov. A podumali: tí, divná vec, sa   na otca nepodali.
+   </tei:p>
+   <tei:p>
+    Môcik drobčil, druhých objímal a ťahal do tanca, len radosť! A keď   mu konečne trafili na nôtu: „Povedzže mi, moja milá, povedz, kedy   bude našej láske koniec?“ — museli mu vždy len tú a len tú húsť, až   mu nezostalo vo vrecku ani haliera.
+   </tei:p>
+   <tei:p>
+    Hudci hrali už potom, ako hrali, a Môcik zas len okolo
+   </tei:p>
+   <tei:p>
+    133
+   </tei:p>
+   <tei:p>
+    ﻿tretej ráno dovliekol sa domov so spevom: „Povedzže mi, móla milá,   povedz ...“
+   </tei:p>
+   <tei:p>
+    Plakal, objímal ženu, bozkať ju chcel, a ona to pre pokoj nočný   vďačne prijala, hrala spokojnú zaľúbenú ženu.
+   </tei:p>
+   <tei:p>
+    Razom — iste spara v izbe — zvalilo Môcika na posteľ. Zaspal, tak   prevalený krížom, hneď, len čo mu pantofle spadly, a žena, synovia   stačili po biede kabát, nohavice stiahnuť.
+   </tei:p>
+   <tei:p>
+    V.
+   </tei:p>
+   <tei:p>
+    Žena s deťmi už potom do rána nespaly, vstaly a šly do roboty.
+   </tei:p>
+   <tei:p>
+    Otec sa nezobudil, ale chrápal, ako by drevo pílil.
+   </tei:p>
+   <tei:p>
+    „Nechajte ho, nech sa vyzdochýna,“ prikazovala mať, ale chlapci by   ho boli i na hnoj vytiahli. Tak v nich vrelo! Lebo videli, že mať   stojí to ťažké premáhanie, aby otca v návale zlosti a od žiaľu, že z   nich robí iba posmech, za vlasy neschytila, alebo mu piestom hlavu   neprebila, aby sa to večné cigánstvo už raz skončilo ...
+   </tei:p>
+   <tei:p>
+    „Bože ...“ vzdychne mať. „Pomyslíš, i čo nechceš ..
+   </tei:p>
+   <tei:p>
+    Chlapci stŕpli, stíchli v zlosti.
+   </tei:p>
+   <tei:p>
+    Môcik sa zobudil pozde.
+   </tei:p>
+   <tei:p>
+    „Deň, slnce!“ Sadol. Izba pustá.
+   </tei:p>
+   <tei:p>
+    Naľakal sa, ako včera, a tak zostal sedieť. Prvé, čo mu strelilo   do hlavy, bolo: rozhútať, komu sa sľúbil do roboty ...
+   </tei:p>
+   <tei:p>
+    „I tomu ... i tomu ... i...“ trápil sa, komu. „Prečo neboli po   mňa? prečo ma nezobudili?“
+   </tei:p>
+   <tei:p>
+    Vstal a vyšiel do pitvora. Dvere zavreté.
+   </tei:p>
+   <tei:p>
+    Kľúč vložila žena malým okienkom. Otvoril chytro, prichystal kosu,   riad a — chodí, ponáhľa sa, potom malomy-
+   </tei:p>
+   <tei:p>
+    134
+   </tei:p>
+   <tei:p>
+    ﻿seľne moce sa a moce a nemôže rozmyslieť, kde by mal ísť   kosiť.
+   </tei:p>
+   <tei:p>
+    „A už je neskoro!“ letí mu mysľou. Mal ísť pred piatou, a už bude   i osem...
+   </tei:p>
+   <tei:p>
+    Namrzený sám na seba, zašiel obchodom, bočnou uličkou, do krčmy,   že mu azda tam povedia, kde mal ísť...
+   </tei:p>
+   <tei:p>
+    Hádali, i s krčmárom hádali, s ktorým gazdom by sa bol Môcik   shováral, zjednal. No nijako nemohli uhádnuť posledného. Môcik dodal   si myšlienky skleničkou borovičky, ktorá mu iba žalúdok „napravila“,   a nie rozum. Zapálil si, dumal, hútal.
+   </tei:p>
+   <tei:p>
+    „Aby to čert vzal i s pijatykou!“ zlostil sa. I poludnie prišlo, a   nič, nič ... Trafil sa, ako v krčme, kto-ten, i sa zvečerilo, a   Môcikovi sa mala hlava puknúť, nie tak už preto, že by bol chcel   letieť do roboty, ako od zlosti, že si včera rozum prepil, že mu   nemôže posledný gazda sísť na um. Tisíc ráz sa chytil za čelo,   zlostil, klial už potom, zas Boha prosil, ani ten len nič a nič   nenašepne.
+   </tei:p>
+   <tei:p>
+    „Už musím dočkať i na poriadok prísť.“ Pôjde zajtra odrobiť. Darmo   je, keď sa mu tak stalo, ľutoval skutočne. „Ako by ti mozog vypadol,   ako by si pamäť tratil, ako by.. “
+   </tei:p>
+   <tei:p>
+    Konečne mu večer povedali. Šiel sa presvedčiť. Tak bolo. Gazda   dohováral. Môcik
+   </tei:p>
+   <tei:p>
+    uznal a prosil „pre tú slabosť ľudskú“ .. . odpustenie. Obsiahol   ho a šiel, hoci podpitý, ale teraz už „pri rozume“ domov.
+   </tei:p>
+   <tei:p>
+    Žene, deťom sa vyspovedal a shováral sa s nimi ako veľký, kajúci   hriešnik. Skoro ako včera ráno, na poludnie a vše...
+   </tei:p>
+   <tei:p>
+    Potom ľahol a ráno ešte pred svitom šiel s kosou
+   </tei:p>
+   <tei:p>
+    V poli od spokojnosti, že mu gazda prepáčil, opil sa zas milý   Môcik a od olovrantu už nemohol kosiť. Aby sa ne-
+   </tei:p>
+   <tei:p>
+    135
+   </tei:p>
+   <tei:p>
+    ﻿dokaličil, nuž len radky rozhadzoval a padal na smiech ostatným   hrabáčkam, ktoré si ho neprestávaly všelijakými výkrikmi, posmeškami   podávať s jazyka na jazyk.
+   </tei:p>
+   <tei:p>
+    Do večera vytrezvel a večer šiel rovno domov. Doniesol zlatku, dal   žene, aby šla vrátiť... tam i tam po korune. Ale z dvoch päť vrátiť   je nemožná vec. Toľko rátať vedel i on. I doložil:
+   </tei:p>
+   <tei:p>
+    „Ak sa vám nepáčim, zabite ma obuškom. Ale sa už ani nevaďte, ja   už lepší nebudem...“ a povedal, uznal, čo len zlého na seba vedel, a   s plačom ich vyzýval, aby ho zahlušili. Žena, deti vyplakaly sa, že   otec nebude lepší a že predsa obuškom ho zabiť škoda by bolo i   hriech...
+   </tei:p>
+   <tei:p>
+    A žena, aby statočnosť domu i pred svetom udržala, priložila z   toho, čo ona s deťmi zarobila, ešte dve koruny a pošla vracať   závdavky ...
+   </tei:p>
+   <tei:p>
+    Môcika gazdovia poznali, nemusela veľa vravieť, odpytovať. Všade   jej povedali: „Pre tvoju a tvojich detí statočnosť ...“
+   </tei:p>
+   <tei:p>
+    Jej však bolo muža hrozne ľúto, že ho už tak vytvárajú z radu   „statočných“, a tak sa jej ho uľútostilo ako nejakej biednej siroty,   ktorú len ona chráni pred zahynutím ...
+   </tei:p>
+   <tei:p>
+    Idúc domov, pomyslela, vošla do krčmy, kúpila deci rumu, a otec   ani nevedel, iba keď mu predložila hrnček lipového odvaru s rumom a   cukrom. Užili i synovia, i boli všetci ako med ... a nikto nevedel,   čo sa v materi pohlo, a ona zavádzala pri pití reč na inšie.   „Navarené je — vypi!“
+   </tei:p>
+   <tei:p>
+    A bolo im dobre, sladko, nevraveli, nemysleli, len cítili, že to   hádam láska bude medzi nimi, ktorá vraj hory-doly prenáša.
+   </tei:p>
+   <tei:p>
+    (Trpký, I. vyd., 1921.)
+   </tei:p>
+   <tei:p>
+    136
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

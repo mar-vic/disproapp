@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910778" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Stratená statočnosť : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3549
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      Stratená statočnosť
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Stratená statočnosť
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    „Staré hriechy — nové viny” (Nár. porekadlo)
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Matúš Adamkin, sluhovské dieťa, honelníčil, valaštil a dnes už   mohol byť bačom, keby nie pestvá, zbojstvá, ktorým sa od starších   naučil a ktoré neponechal, ani keď sa oženil, hoci už mal vyše 30   rokov. Do ženby Matúš bol už — po troške — odsedel pár mesiacov za   krádež, bitku, a oženiac sa, dvojnásobne púšťal sa na krivé   chodníčky… Detí nemali, nuž žili si do sveta, slobodne a radi   oblízali si prsty z cudzej baraniny, lebo žena Anča hodila sa k   Matúšovi znamenite! Nebála sa ani tmy, ani mátoh, ani hromu a, mocná,   odniesla v batohu, čo Matúš sám alebo s inými valachmi ukradol, či to   bol syr, či ovca, slanina, súkno, sekera, a kde sa čo pojať a užiť   alebo speňažiť dalo. Lepšie pojesť sa chce, Matúšovi fajčiť chutí a   pálenky vypiť tiež srdce žiada… A na ženu vše, vynovenú v peknej   sukni, vyštepovaných čižmách, tiež sa sladšie hľadí… A Anča — taká —   sama sebe sa páči, na závisť a zlosť iným ženám, ktoré síce   pošuškávaly si, ale nič nepovedaly, ako a za čo to má. Lenže zlosť do   času, a pravda naveky! 90
+    </tei:p>
+    <tei:p>
+     ﻿Pri istej krádeži, keď Matúš podával kamarátovi jahnence z   cudzieho košiara, strhla sa bitka a Matúš tak nešťastne ovalil   valaškou gazdu po hlave, že sa zvalil a umrel. Matúš sa dostal do   Lepoldu. Anča, čo bolo, predala na fiškála a potom — hrdá valaštianka   — alebo robiť, alebo žobrať! Šla k Židovi-krčmárovi do služby. Ale   onedlho sa jej tam tvrdá robota znevidela, šla po ľahšej do   mesta…
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Matúš, navyknutý na široké pole, čerstvé povetrie, slobodu, v   Lepolde pochorieval a neskoršie viac bol v špitáli ako v árešte. V   tých tmavých, úzkych, mokrých múroch dostal lámku, že mu všetky údy   okľavely. Žene dával často písať, ona jemu tiež, ale, odíduc do   mesta, prišiel mu list nazpät, a Anča mu viac nepísala, kde je, čo   je. To ho zronilo. Upadol i na mysli, duchu tak, že mu bolo strašné   to prenášať. Do zbláznenia! A že pochorieval, preto často pomyslel   si, prečo on tam hynie, a v duši nenachodil základu, pre ktorý by bol   vďačne trpel. Chybela mu, napríklad, pomsta, povedomie obrany,   príčina vážna alebo namyslená, pre ktorú by bol „právom” vraždil a   teraz za to v árešte sedel. On len to čím ďalej, tým lepšie videl, že   bez potreby, keď i tak kradol, zabil, k tomu ešte človeka, a tak   vrhol seba do áreštu, ženu vydal planému životu. Lebo dozvedel sa po   roku od istého krajana-áreštanta, že Anča bola odišla do mesta a že s   kadejakými galganmi panskými mrcha život vedie. Keď sa vše trochu   uspokojil, uzdravil, pomáhal v árešte pri debnárčine alebo, keď   chorobou oslabol, pri košikár- 91
+    </tei:p>
+    <tei:p>
+     ﻿štve. Z áreštu ťa pred časom vyslobodí iba smrť. Šiel za robotou,   aby zabúdal v nej duševný svoj stav. Mnohým to ide ľahko, mnohí sú   tam už vyprobovaní, zlí ľudia. Podajedni i pochvaľujú si život   rabský. Matúš, vidiac to, tým viac sa zamýšľal a klesal na mysli.   Hrozne mu bývalo, chcel si vziať život. Ale si zas pomyslel, že či   takto a tu má zhynúť? Že veď je mladý ešte, ak by mu predsa   zasvietilo niekedy ešte slnko, ovial ho svieži vietor, vystrel údy…   Pomysliac pritom na ženu, zúfal i dúfal, pokúšal čerta i Boha.   Bolesť, otázky, pochybnosti i nádej topil sám v svojej duši, tým   viac, že sa ani nemal, ani nesmel komu požalovať, lebo sa tam málo   obrátilo ľudí s citlivejšou dušou. Žene v srdci odpúšťal, lebo   presvedčil seba, že vlastne on ju zasotil do toho bahna, a zas   utvrdzoval sa, že ju on môže vytiahnuť z neho, len by sa vyslobodil z   áreštu …
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     V poslednom, siedmom roku Matúš, majúc sa už vyslobodiť,   myslieval, kam sa obrátiť. Kým len kradol, statočnosti síce ubývalo,   ale nerobil si z toho nič, lebo svedomie spalo. Kradnúť kradnú mnohí.   Ale keď už i človeka zabil, ženu planému životu vydal, prelomil sa   ľad na jeho duši a videl, že i pred chladným, necitným svetom   stratená je statočnosť. Takého obídu, o ňom dobre nepomyslia, neberú   ani do roboty, služby, a znova čaká naň árešt, väčší, horší — Ilava.   Matúš rozmyslel si ísť domov, do rodiska. Kde hriechov napáchal, tam   sa chce kajať. Vypustený, Matúš celý ostarený, oslabnútý, chorý,   ledva stojac na nohách, zastal pred bránou áreštu. Podvihol oči k   nebu a na duši začalo mu byť ťažšie ako pred 92
+    </tei:p>
+    <tei:p>
+     ﻿siedmimi rokmi, keď šiel do áreštu. Vtedy tiež bola jar, všetko   ožívalo, dýchalo novým, sviežim životom, a len jemu bolo pusto,   prázdno na duši. Vtedy toho nevidel, teraz to cítil a pomyslel si:   ako sa ukáže, ako pozrie svetu do očí, ako pôjde ženu hľadať a čo si   počnú vo svete? Všeličo letelo mu mysľou. Vrátil by sa vari zpät, že   už všetko neskoro začínať, smrť by bola najlepšia, keby — keby nebol   deň, nesvietilo slnce na polia, hory, lúky, ktoré nezostarely,   nezmenily sa ako on, ale zelené, veľké kývajú, volajú ho, že ho   prijmú, skryjú jeho hanbu, jeho žiaľ. Rozmyslel si bol, že svetu sa   ani neukáže, ale bude v hore robiť a žiť; myslel si tak i teraz a   hnul sa. Ľahký bol, a chodiť nemohol od choroby a slabosti. „A čo   žena, Anča?” tisla sa mu otázka. Pôjde za ňou, dovedie ju z mesta a   bude ako on; pokorná, tichá, s pečaťou na čele, že on, jej muž,   kradol a človeka zabil; ona, kým on sedel v árešte, páchala hriechy —   mrcha život viedla … „Ach, už iste vďačne odhodí parádu, pýchu, obuje   krpce, pritisne žalúdok .. Ale čože, ak ho zabudla, teraz sa mu   neprizná a bude jej iba protiveň, zlosť, že prišiel obnoviť jej pečať   hanby, pribiť jej druhú k nej …
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Nevedel, kde hľadať ženu v meste. Došiel o palici rovno do rodnej,   biednej, podhorskej dedinky svojej pod hoľami v jarnú teplú noc. Do   rodnej dedinky ho tiahlo ako k materi, ktorá odpúšťa i najťažšie   viny. Niže dediny hrobitov. Hej, keby vedel, kde mu hnije mater, šiel   by jej vyponosovať svoj život, vyspovedať svoje hriechy, ktorým ho   neučila. 93
+    </tei:p>
+    <tei:p>
+     ﻿Nedošiel ani k rodine, ale zabúchal hneď zkraja dedinky v otrhanej   kolibe bývajúcim žobrákom-manželom, ktorí živili sa z toho, že   chodili na púte a tam žobrali. Tak ich poznal; kto vie, či sú ešte   živí… Zabúchal. „Dobrí ľudia, či ste živí, či ste doma?” „Doma.   Kohože Pán Boh nesie?” ozval sa zdnuká starý žobrák, navyknutý na   podobné návštevy svoje u dvier cudzích ľudí, a šiel otvoriť. Bol sám,   žena jeho nebola došla domov. Pri mesačnom svetle sa uvítali. Žobráka   trochu premklo, ale vydýchol si a voviedol Matúša do chyžky. Kahanca   nenašiel, hodil trochu raždia na ohnisko za dverami v izbe,   prikľakol, podúchal, zasvietilo sa. Žobrák sadol si k ohňu na klátik,   Matúš stál a hľadel do ohniska. Obaja boli zarazení. „Sadni, synku,   sadni. Všetko od Boha, i dobré i zlé,” začínal žobrák. „Len keď si už   vytrpel svoje, teraz zas môžeš byť statočným človekom.” „Už nikdy,   strýčik môj, nikdy!” zažialil Matúš a pomyslel si na tú chvíľu, ako   sa ho žobrák predesil, ako zbojníka. „Nie som hoden toho kyjaka čo   prašivý pes. Život ľudský som vyhasil, ženu do záhuby uvalil, a teraz   prichodí zmárniť i svoj .. .” a plakal. „Pán Boh je milostivý. On ti   to odpustí, len sa k Nemu obráť,” tešil ho starec. „Kam sa obrátiť,   ako ho prosiť?” nariekal Matúš. „Všade, na každom kroku, i tu dúfam v   Neho, že je prítomný… A v kostolíčku, na púti tobôž,” hovoril starý   pútnik s hlbokým presvedčením. „Odpusťte, odpusťte mi pre Krista!”   hodil sa Matúš v zúfalosti svedomia na kolená a objímal starca s   plačom, ba revom. „Vy chodíte veľa k Bohu, vás prosím, vy ste   statočný starý človek, odpusťte! Veď som nevedel, čo robím, nechcel   som ho zabiť, nijak som ho nechcel zabiť .. 94
+    </tei:p>
+    <tei:p>
+     ﻿„Nech ti Boh odpustí,” vzal starec hlavu Matúšovu do oboch rúk a   dojatý tiež vzlykal. „Ja ti nemám čo odpúšťať, my ľudia sme všetci   hriešni, všetci máme čo odpúšťať jeden druhému… Vstaň, nie som hoden,   aby si kľačal predo mnou,” a dvíhal Matúša … „Škoda, že je žena kdesi   v ceste, tá vie povedať slovo potechy, i niečo by ti dala pojesť,   iste si dávno nejedol. Ale tu mám v kapsičke chlebíka a slaninky   škvarku ..šiel hľadať starec. Matúš sa poďakoval, že mu nedá jesť,   ale len musel prijať. „Ako, kedyže ťa pustili? Ako sa ti vodilo   cestou? Rozprávaj.” Ale Matúša, čo sa raz kabanicou poutieral, znova   zalialy slzy a nemohol hovoriť. Len potom, keď mu starý postlal na   lavicu, sadol si a rozprával starkému, ako sa mal v árešte, ako býval   chorý, ako si vše zúfal, do zbláznenia mu bývalo. Neťažkal si na   žalár, na ten s vykročením zabudol, ale to duševné hryzovisko, to by   bol chcel vypovedať … Rozprával, ako sa ešte ráno trápil, akým   nesúcim, nehodným, nespôsobným cítil sa na tento svet. Potom sa   opýtal starca na svoju ženu, či by niečo o nej nebol vo svete   slýchal. „Tá, synku … Málo som ju vídal… Všeličo bolo počuť … Ale   málo potešenia ..nevedel začať. „Zopsila sa, synku, zopsila. Darmo   je, pravda je, ako Boh nad nami, nechcem ublížiť, Bože ma uchovaj,   ale… Zahubili ste si boli život obidvaja .. V. Starkého žena ani do   rána nedošla. Matúš nespal, včas ráno s veľkou nádejou, neuvedomujúc   si, čo starý o Anči povedal, vybral sa do mesta ju vyhľadať, z kaluže   vytiah- 95
+    </tei:p>
+    <tei:p>
+     ﻿nuť; kam? — sám nevedel. Len z mesta von, von! Na duši mu bolo   ťažko, bál sa obrázka, ktorý si v mysli maľoval. Myslel, že ho žena   nepozná, neprizná sa mu pre seba i pre neho. Preňho preto, že iste je   stále spotupovaná od sveta, že mala muža vraha; pre seba preto, že   vyšla na takú potupu … V meste Anča slúžila ako kravská dievka. Pre   planý život z izieb, z kuchyne sišla až dolu k statku, kde druhé   dedinské začínajú. Matúš ju našiel. Anča napájala práve statok.   Zazrúc ho, naľakala sa. „Tu som, zabi ma, slova nepoviem, ľahšie mi   bude!” pustila sa do plaču. Matúš podával jej ruku a tiež plakal.   Razom zobudila sa v nich stará kamarátska oddanosť jeden ku druhému.   Pozrela naň a videla, že jej už odpustil. .. Vojdúc do chyže,   zamiešala sa i gazdiná a ľahko prehovárala, že sa to stáva, ona mala   takú rodinu, i hľa — bola by rozprávala histórie, že nešťastie   nechodí po horách, prihodilo sa i jemu i jej… a vyhovárala   neprecítene, ako by ich k vlastnému svedomiu schladiť chcela. Ale   Matúša nepohlo, len Anča sa triasla… Gazdinej našli druhú slúžku,   odišli do Matúšovej rodnej dedinky a najali si komôrku. Matúš bol   slabý, chorý, bolo sa mu treba zotaviť. Anča mu rozumela. Znovu bola   mu oddaná, nie z nejakej ľúbosti, ale že mnoho trpel, a spomínala si,   ako ju on kedysi rád videl, jej žičil, a teraz, v povedomí svojej   nevernosti, len to ju trápilo, prečo sa on nespýta nikdy na jej   život, kým bol v árešte. Tak rada by sa mu vyspovedať, a on nič, ani   slova. Či vie všetko a či nič? Ach, keby sa hneval aspoň, keby ju   dobil, odbíjal jej hriechy na chrbte, ale nič, ani slovom. 96
+    </tei:p>
+    <tei:p>
+     ﻿„Načo?” myslel si Matúš. On tiež videl, že ako on v árešte, tak   ona na slobode precitla na duši.. . Len by bolo v nej stálosti… Matúš   polihoval dlho, žena ho verne opatrovala. Keď sa peniažky, čo v   službe zgazdovala, minulý a Matúš nevládal robiť, čoho sa chytiť, kde   sa obrátiť? Hľadala ona robotu, ale v chudobnej dedine robotníka za   plácu nie vždy potrebujú, sami si spravia. Zakladala, predávala háby,   perinku, až nezostalo, čo bolo na nich. Ale konečne predsa zotavil sa   Matúš a vstal.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VI.
+    </tei:head>
+    <tei:p>
+     Keď sa vzchápal, vyšiel na ulicu a pomaly opovažoval sa i ďalej   medzi svet. Ale ani biedna jeho rodina (od hanby), ani dedina (od   strachu) nebola mu vďačná, čo sa on ako pokorne choval. Rodičia o ňom   rozprávali, deti od neho utekaly, že to je ten, čo zabil človeka,   ukazovaly naň prstom. Anča probovala zastať sa ho verejne, ale   vykričali podľa muža i ju. Videla, že zvadou nepomôže, a Matúš ju   vždy od takej obrany odhováral. Staré hriechy, nové viny. Bolo im   trpko, a predsa si umienili pevne: zostať tam, ale sa utiahnuť,   nechodiť medzi svet, nechodiť na zárobky. Čoho sa však chytia? Matúš   v árešte, keď nebol chorý, pomáhal pri debnárčine; keď bol slabší,   pri košikárstve. Nepôjdu do robôt medzi svet, kde sa pije, bije, kde   sa vadia, vyhadzujú na oči viny, ale Matúš chytí sa do debnárstva, i   do košikárstva by sa rozumel, ale treba do toho niečo riadu a dreva.   Anča predala posledné hlavničky, ktorúsi hábu, a Matúš si kúpil   sekeru, oberučný nôž a čo načim — riad. 7 Mamka Pôstková. 97
+    </tei:p>
+    <tei:p>
+     ﻿Ale dreva nebolo. Prešiel k lepším susedom, pýtal dvetri polená a   spravil im šaflík. Narezal vrbiny, uplietol košík a zaniesol starým   pútnikom konča dediny. Anča šla dedinou, a vidiac tu i tam na cestu,   na hnoj, do potoka vyhodený kôš, opálku, rozsypanú krhlu, šaflík,   vzala. Matúš podplietol, popravil, a Anča šla sa vďačiť. „Vari sa tam   naučil?” zahanbila neschválne gazdiná Anču. „Tam. I z dreva spraví, i   z prútia, zo slamy že upletie, čo vidí…” ponúkala sa Anča u jedných i   druhých su – sedov. Ale gazdinky nedôverčivé krútily hlavami a   „teraz” nič nepotrebovaly. Prišlo im totiž na um, že aký by to bol   chlieb, čo by vrah uplietol naň slamienku, aká košina do voza? „Veď   by sa muselo na prvom moste nešťastie stať, na prvom vŕšku sa voz   prevrhnúť …” A predsudkom nebolo konca-kraja. Matúšovej roboty   nechceli ani zadarmo. Anča od toho vše ustala, ale keď nemali čo jesť   a remeslo mužovo sa jej páčilo, len ďalej a ďalej do dediny sa   odvažovala, a kto dal, spravili všetko, z vďačnosti, iba ak im   zemiakov, kapusty dali, múčky do uzlíka vsypali, ako žobrákom. Vďačná   Anča však i z toho ešte čo-to u Židovky začarovala za paklík dohánu,   skleničku pálenky a ponúkala Matúša: „aby si bol silnejší.” Keď ich   však pár ráz hlad pritisol, Matúš odriekol sa i fajčenia a trúnok   zakázal žene donášať. A iste im lepšie šlo. I groš prišiel do domu.   Tu zas zabúdala Anča na kajanie, a spomínajúc si pred 8—10-ročný   život, nadobúdala do chyžky, kúpila nové šaty Matúšovi i sebe. Zašla   i medzi ženy, podrkotala, i klebetu vše doniesla, a takto neraz   skormútilá svojho muža, ktorý vynakladal svoje slabé zdravie, um a   všetko, len aby si bol mohol statočnosť, miesto aké-také, uznanie   vydobyť, živnosť vyhľadať. Bý- 98
+    </tei:p>
+    <tei:p>
+     ﻿val zamyslený, nevravný, čo keď Anča zbadala, pripomínal jej, v   čom boli, v čom sú, a ju upomínal na následky takéhoto života. Tu   Anča zas zabudla na seba a oddala sa celkom mužovi a jeho myšlienkam,   snahám, hoci sa podľa niektorých osmelil i širší svet dávať a   prijímať od nich robotu.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VII.
+    </tei:head>
+    <tei:p>
+     Tak žili s roka na rok, chudobne, ale nie biedne. Matúš poprával   krhly, putienky, šaflíky, plietol slamienky, podpletával košiny a   spravil i nové, ak komu v malej dedinke bolo treba. Vrbiny bolo dosť   na obecnom, a nikto nevedel to robiť. Anča pomáhala „pri remesle”,   ako si ona vravievala, a bola hrdá na Matúšovu prácu. Robili za   stravu, peňazí sotva čo dostali na soľ, ocot a svetlo. žili si ticho,   stisnutí do úzkych štyroch stien chalúpky, ale Matúš si len   pochvaľoval a nikam nevychodil. Anča sa vše zle cítila v chyžke,   chcela by bola steny na nej roztisnúť, nahovárala Matúša, aby robili   vraj po remeselnícky, za peniaze, lebo že takto nikdy k ničomu   neprídu, a keď vše prechorel a nevedela, čo do hrnca postaviť, ani   kde zarobiť, ani požičať, dohovárala mu, že sa pre jeho zatvrdilosť   musí ísť ponúkať s robotou svojou alebo jeho, len keby troška múčky,   zemiakov za to dali. Keď sa im uľahčilo, zas hneď zabudla na biedu,   vychodila na dedinu medzi svet, zastala, chválila sa mužom,   poľapotila, čo všetko ani pravda nebola, a Matúš nestačil ju vtedy   upomínať. Žena nemohla sa zdržať… V peniazoch Matúšova cena bola: od   menšej veci groš-dva, od väčšej dva-tri. Anča zapýtala toľko, jednala   sa, hnevala sa pritom a málo pomohla dobrotou, vľúdnosťou statočnosti   na- T 99
+    </tei:p>
+    <tei:p>
+     ﻿dobývať. Ba svojím jazykom, nerozumom vše i k zlým domnienkam   dávala podnet. Matúš, dozvediac sa o tom, zakaždým jej so slzami   pripomínal, aby nedriapala za robotu viac, ako prichodí, jazykom ľudí   neomáľala. „Hľa, dali a dajú, dobrý je svet, žijeme.” Anča jednako,   aby bolo mužovi lepšie pojesť („keď už vypiť nechce”), odvážila sa u   známejších požičať i peniaze a sľubovala dovtedy a dovtedy vrátiť.   Vše sa jej to nedalo, a tak prichádzali o ťažko vydobyté meno za   chvíľu. Matúš, dozvediac sa to, zakázal žene vôbec brať peňazí za   robotu, lebo videl, že peniaze ju kazia. Sám nebral, iba tam, kde   nasilu nechceli dať inšie, i to len: „čo z lásky dáte,” a zadržal   tri-štyri krajciare, zriedka šesť, a robil za to i celý deň. Preto sa   mu jedni divili, druhí ho chválili a tretí rozprávali si o ňom, že   hádam tam (v árešte) stratil rozum, keď nechce peňazí, len strovu,   váru. „Tam peňazí nevidel, teraz — hádam — nevie im ceny.” Ľutovali   ho, a idúc k nemu alebo popred neho, zastavovali sa pri ňom, i deti   sa už odvážily, i rodičia ich už posielali, a boli by mu zabudli,   odpustili minulosť, keby nie Anča. Ale ona do takej dokonalosti   zapierania to nikdy nedoviedla. Keď Matúš pobadal u nej peňazí,   dohováral jej, podchytával ju v cigánstve a posielal vracať peniaze.   Stalo sa, že i strmo, s vyhrážkami, že ju s robotou viac nepošle,   lebo že pre ňu sotva si nadobudnú, už prichodia o tú štipku   statočnosti, a musela ísť peniaze patričným vrátiť. „Detí nám Boh   nedal, komuže chceš nagazdovať? Nám má ísť o to, aby sme vyžili   hocijako po biede, ale statočnosť máme hľadať, lásku ľudí. Len tak   nám odpustí Boh i svet naše veľké viny a budeme spokojní,” poučoval   neraz Matúš. Anča uznala, spomenula si vtedy, že veru i ona kedysi   kradla, odnášala, mrzko žila, a pod vplyvom Matúša, čím staršia, tým   viac sa prikloňovala jeho mienke a životu. 100
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ﻿VIII.
+    </tei:head>
+    <tei:p>
+     „Opustili sa,” vravel o nich svet. „Ale nevidieť ani ju piť, ani   on vraj už od rokov v ústach trúnku nemal…” a hútali, prečo sú takí   biedni, takí otrhaní, zafúľaní, že im popuchly nohy a doráňané   kvasievaly sa im celé zimy. Anča stále krívala, lebo ona viac chodila   v blate, v nečase. Podaromnici, trepať prázdne reči nevyšli ani na   ulicu, ani ona, tým menej on. Slova planého nikomu nedali, ale žili   si, ako nejakí pustovníci, v dobrom priateľstve a práci. Modliť sa   nevedeli, iba Otčenáš, spievať iba 1—2 verše z 3—4 piesní, a tieto   vše spolu, vše osobitne, ale Matúš každý deň ich odspieval i po desať   ráz, a tak žili duchovne na tom mále, ako telesne na zemiakoch, repe,   kapuste a v lete na všelijakej zeline. Do kostola nešli, lebo   nenachodili tam miesta pre seba dosť posledného, a len keď neboly   služby, zašli vše pod bránu a modlili sa Otčenáš a odspievali, ako   vedeli, všetky verše, ako žobráci pri ceste, opakujúc stále-jeden   alebo druhý. Radi zachodili i na hrobitov, plakali, hľadali, hádali,   kde by ležali Matúšovi rodičia (Anča bola z druhej dediny a tiež   toľko vedela o svojich), opravovali hroby, shovárali sa s mŕtvymi, a   tak vracali sa spokojní domov, do tichej svojej kolíbky a slúžili   svetu vďačným slovom a usilovnou robotou, odpoly zadarmo, pre vieru,   že im Boh odpúšťa hriechy a pred svetom nachodia stratenú statočnosť.   Matúš istejšie, Anča za ním kuľhajúc, usilovali sa nájsť na tejto   ceste spokojnosť dušiam svojim … 101
+    </tei:p>
+    <tei:p>
+     ﻿IX Žili by si boli Matúš s Ančou takto i ďalej, keby neboly bývalý   už tu roky, staroba a bolo ešte zdravie slúžilo. Už by bol svet   zabudol, im privykol. Ale Matúš ochorel. Ani obuvi, ani odevu, ani   jedla poriadneho, ani ohrevu — a roky tu, stará choroba prevladzuje,   v chyžke smrad, mokro, chladno; ochorel na starú chorobu, lámku.   Pomaly vycivel, uschol, pokrčilo ho. Žena hneď bola hotová dohovárať,   že keby boli inak robili, brali od sveta, mohli mať, a teraz, hľa,   „ak umrieš, nebudem ťa mať ani za čo pochovať… a ja že kde, biedna   žena…?” Matúš na také dohováranie vše sa i v chorobe vzchápal, robil   pomaly, ale keď málo spravil, málo zapýtal, svet, naučený, ešte menej   dával. Anča, keď Matúš nevládal ani tak robiť, šla zas len požičať,   robotu pýtať, nasnášala putienok, košov, opálok a podobných vecí plnú   chyžku a pitvor. Matúš sa trápil a nedostačoval. Prišla zima. Svet im   uťahoval viac ako v jeseni, keď sa s poľa sberalo. Matúš, čo mál na   zimu porobiť gazdom a gazdinám, za čo už bola Anča i plácu vybrala,   stálo netknuté v pitvore, izbe. Robila i Anča, ale nešlo jej to.   Ľudia, ženy prichodily duriť, dohovárať. „Je chorý, nemôže; ale ako   mu dá Boh zdravia, porobí všetko,” uspokojovala žena. „Načože ste   nabrali od sveta, keď je chorý?” „Pojedli, potrovili, a teraz roboty   nijakej .. Keď Anča videla, že dohovárania idú častejšie, aby   ušetrila Matúša, sama šla po domoch prosiť o zhovenie. Prišla tuhá   zima. Ani dreva, ani jedla. Anča, nevediac si rady, spálila, čo bolo   na robotu, drevo i koše, putienky atď. Ale Matúš sa ani od toho   nezohrial viacej k životu 102
+    </tei:p>
+    <tei:p>
+     ﻿a o tomto výčine Ančinom, ďakovať Bohu, nezvedel. Večer takto ešte   prespievali: „Poďakujme Kristu Pánu a vzdávajme česť a chválu jemu,   lebo pre své umučení ráčil flám dať hriechov odpustení” — a ráno   našla ho Anča dreveného v handrách na lavici pod studenou pecou. Bol   už dokonal. (Zpod kosy, n. vyd., 1928.) 103
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

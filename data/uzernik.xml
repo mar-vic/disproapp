@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910644" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Ožerník : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4515
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Ožerník
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Úžerník
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Za môjho chlapectva náš starootcovský dom neoplýval síce   bohatstvom, ale zas ani takí biedni a chudobní sme neboli. Tri-štyri   kravičky, dvoch-troch bravčov, pár ovečiek ... a komora nebola   prázdna.
+   </tei:p>
+   <tei:p>
+    Rodičia boli pohostinní, nuž našiel u nás miesta, kto sa len v   dedine naďapil. A bývali sme hneď s kraja, teda i to prispievalo k   tomu, že zastavil sa u nás každý pocestný, a žobráci a Cigánky tiež   nikdy neodišli od starej matere prázdni.
+   </tei:p>
+   <tei:p>
+    Žobráci dostávali bez dlhého pýtania a Cigánky nedaly sa odbyt’,   dostaly tiež. Stará mať im už len vše dohovárala, že sa nevedia ani   pomodliť, len: „Dajteže, dajte, gazdinká!“ ale máloktorá že by nebola   vyžobrala „škvarku zapražiť“, a čo len „trocha múčičky“. Iba keď ju   vše starý otec — už vyše 70-ročný — okríkol, odbehla Cigánka i len s   „dvoma zemiačky“.
+   </tei:p>
+   <tei:p>
+    Cigáni ho, ako kováči, tisíc ráz oklamali v klincoch, v starom   železe, nuž keď ktorú Uľu poznal, sľuboval jej z chrbta bubon ...
+   </tei:p>
+   <tei:p>
+    „Lebo by sa ma už potom nič nebály,“ hovoril hrdo, keď mu predsa   vše niektorá ustúpila.
+   </tei:p>
+   <tei:p>
+    Jarmočníci, ak zastihla ich v dedine noc alebo nepohoda,
+   </tei:p>
+   <tei:p>
+    171
+   </tei:p>
+   <tei:p>
+    ﻿nocúvali u nás riadne. Vandrovník, idúci za robotou, ak sa   ohlásil, musel do izby. Nás, detí, bol kŕdeľ, obstaly sme ho, a starý   otec vypytoval sa na všetko možné.
+   </tei:p>
+   <tei:p>
+    A keď vše starý otec poslal ešte i po deci-dva pálenky a za   skleničku vypil, neraz sa vyplakal, nabožekal a natrápil, ako to   bude, keď už my, deti, kedysi budeme prinútené tak vandrovať za   kúskom chleba. On uveril každému vandrovníkovi, že by rád robil, len   by dostal robotu. A potulný brusič, hodinár mal u nás vždy   nocľah.
+   </tei:p>
+   <tei:p>
+    Raz, viem, istý Poliak, vraj remesla hodinárskeho, dva týždne   býval u nás so ženou a s dvoma malými deťmi. S nami jedli, spávali,   ani mať nenamietala proti tomu čo by len slova, len preto, že keď   Poliak so ženou kľakli a začali sa modliť a nábožné pesničky   vyspevovať, nebolo tomu konca-kraja. Ešte i starej materi sa to už   vše zunovalo, a tá predsa, keď večer o desiatej na stolček kľakla, o   jedenástej ju ešte na ňom našiel starý otec. (Pravda, už bola pár   „Otčenášov“ predriemala.) Pre veľkú nábožnosť i starý otec chválil   Poliakov, a keď im už nič inšieho dať nemohol, pobavil sa so starším   ich dievčatkom, alebo keď nám ona chcela niečo pomáhať, povaroval i   to mladšie v poduške. S plačom sme sa s nimi lúčili.
+   </tei:p>
+   <tei:p>
+    Košikár, sklár, sklenár, drotár, každý k nám trafil. Akže predsa   nestavil sa niektorý, starý otec pozeral za ním oknom a hovoril: „Ten   bude ešte len po prvý raz v dedine“. Ak prišiel s drotárom i   drotárik, sbehla sa nás na naše podstenie celá škola, a poď s   drotárikom do reči.
+   </tei:p>
+   <tei:p>
+    Starý otec zas vykutil nejaký rozbitý nepotrebný hrniec alebo   misku, starú mater presvedčil, že keď sa odrotuje, vydrží za novú, a   sadol s drotárom na lavičku.
+   </tei:p>
+   <tei:p>
+    O dva-tri roky, keď som už bol väčší, zaujímaly ma viac rozhovory   starých ako reči drotárika. Starý otec, ak ich do roka prišlo 20,   15-ich iste poznal, čo i pomenovať nevedel. No jednako každého sa   spýtal, odkiaľ je, ako sa
+   </tei:p>
+   <tei:p>
+    172
+   </tei:p>
+   <tei:p>
+    ﻿volá. To zato, aby pri jednaní nemenoval ho Mišom, ak je Jano. Keď   sa zjednali, sadli a starý otec vypytoval sa ďalej: koľko má rokov,   aké má gazdovstvo, či je ženatý, či jeho syn je tiež drotárik („mati,   dajže mu niečo zjesť“) a koľko má ešte detí, koľko to takto vytlčie,   kedy sa sberá domov atď. Najprv domácnosť, potom prešli na obec: či   majú kostol, či školu a či to i tam deti tak handrkujú len tú akúsi   maďarčinu, ako u nás, a že by to predsa nemalo byť, že materinský   jazyk je len predsa materinský; ako sa volá farár (to obyčajne   nevedel ani jeden), koľko majú statku, aký chotár, koľké dane platia   a či i od psa; koľko krčiem majú — a kto by to všetko vyrátal. Fajčil   — ponúkol i Jana Myšitu od Žiliny dohánom, a bol rád, keď drotárovi   robota čím dlhšie trvala.
+   </tei:p>
+   <tei:p>
+    Pri takejto príležitosti rozprával raz starý drotár toto: „ ...   Ja, veru tak. U nás: notár — Žid, richtár — Žid,
+   </tei:p>
+   <tei:p>
+    poštár — Žid, krčmár — Žid, kupec — Žid, árendátor — Žid, gazda —   Žid, doktor, fiškál — samý Žid. Rodia sa, i ešte cudzí prichádzajú. A   ako nás tí len držia za pačesy! Ani vydýchnuť, nie by sa im obrániť.   Počujte, čo sa stalo i lanského leta v našej dedine. A takých   príkladov je tam všade dosť. Veru Juro Čvrlík len pre Singera   vyhrýzol sa s tohto sveta, i umrel — Pán Boh mu daj ľahko duši! A   žena a dcéra? Toho leta už obe boly na výžinku, a dnes chodia do   nájmu. A mali predsa dom a gazdovstvo.“
+   </tei:p>
+   <tei:p>
+    „A čože, vzala im ho voda, oheň?“
+   </tei:p>
+   <tei:p>
+    „Veru oheň. Lenže ako! Ja vám to rozpoviem, ak ma vypočujete. Teda   v našej dedine je vám už sedem gazdov-Zidov. A akých gazdov! Majú   celé stráne, a ty potĺkaš sa po tom šírom svete, žena s deťmi doma   mozoli, a máš záhon na kosisko.“
+   </tei:p>
+   <tei:p>
+    „U nás toho niet. Nuž a akožé si toľko nadobudli?“ pýtal sa starý   otec.
+   </tei:p>
+   <tei:p>
+    „Majú oni sto fígľov! ... Teda akože by nie, na takýto
+   </tei:p>
+   <tei:p>
+    173
+   </tei:p>
+   <tei:p>
+    ﻿spôsob. Je krčmárom, má i sklep; ížena, taká krátka hrbaňa, ale   saňa! A majú chlapčiska 18—19-ročného. On bude mať do 50 rokov a   zarastený, otrhaný je ako vlk.
+   </tei:p>
+   <tei:p>
+    Teda pred štyrmi rokmi bola padla neúroda na náš kraj. Z jari   panovaly suchá, potom sa lialo a všetko, i čo Pán Boh požehnal, vyšlo   nanivoč. Celá dolina nariekala, že cez zimu nevydrží, a čo bude na   jar? Chlapi brali sa do sveta za zárobkom.
+   </tei:p>
+   <tei:p>
+    Pomerne zlú úrodu mal i Singer. Na 50—60 jutrách najlepšej   oráčiny, čo už bol za 20 rokov sedliakom na každý možný a nemožný   spôsob pobral, urodilo sa mu po 3—á centy, a inokedy mával po 6—8 na   jutre* Singer si však premyslel. Čo, taký človek! Či ten má svedomie,   dbá o suseda? Dal sa vysoko poistiť a na pravé poludnie zapálil   humno. A aby ho ani neupodozrievali, Rifka, ako jeho žena totiž,   lamentovala dva dni pred ohňom pred susedmi, že sa jej prisnilo o   červenom kohútovi a že ho na vlastnom dome videla. „Bože môj, ak nás   nejaký zlosyn podpáli... I najlepší človek má nepriateľov...“ Susedky   božekaly, babky sa žehnaly, ale predsa Rifkinmu snu takej váhy   nedodával nikto — len keď už blčalo.
+   </tei:p>
+   <tei:p>
+    Za chvíľu bolo všetko v plameňoch: humno, stajne i strecha na dome   — ale všetko poistené. Humno, pre páľu neprístupné, zhorelo na popol,   a pri ňom zblčal i dolný sused, Juro Čvrlík, so všetkým: drevený   domec, humienko, stajňa, ba i chlievik pre prasa.
+   </tei:p>
+   <tei:p>
+    Vyšetrovali. Vypočuli Singera, Rifku, syna Dávida i susedov, ale   že ničoho určitého nemohlo sa dokázať, vyplatili Singerovi, ako sa   vravelo, do päťdesiat stovák za humno, krm, zbožie, mláťačku, rajtár,   strechu a ostatné stavy. Zhorela v humne i sečkovica, i voz pod   vôdrom, veci nepoistené, len aby sa nepovedalo, že Singer podpálil sa   sám. Sto-dvesto zlatých toľko neučiní, a je krytý pred svetom i   poisťujúcou spoločnosťou.
+   </tei:p>
+   <tei:p>
+    174
+   </tei:p>
+   <tei:p>
+    ﻿O pár týždňov stály Singerove stavy novučičké-nové. Naoko božekal,   koľko škody on utrpel, ale málokto mu veril, čo i vždy a všade   dokladal voz a sečkovicu.
+   </tei:p>
+   <tei:p>
+    Syn Dávid choval sa pri ohni, ako keby barana piekli. Keď   najlepšie horelo, zapálil si cigarku a išiel ponúkať chlapov pálenkou   a cigarami, ako by im chcel povedať: „Ohňa nezahasíte, ja som dobre   podložil“; doložil však: „Za vaše veľké ustávame na posilnenie.“
+   </tei:p>
+   <tei:p>
+    To chlapov tak oduševnilo, že znova priskočili k pumpe, sekali   ňou, a čochvíľa odťalo jednému pol treťa prsta. Poliali ranu   pálenkou, dali mu glgnúť od bolesti, zaviazali, a on potom už len   chodil pomedzi svet ako nejaký víťaz, ukazujúc ruku farárovi,   učiteľovi a najmä pánom . ..
+   </tei:p>
+   <tei:p>
+    Singer si pomohol, ale nie tak suseď Juro Čvrlík, lebo nebol   poistený, ani nikto iný v dedine, a zhorelo mu všetko, iba čo   kravičku s teľaťom a bravca vypustili. V komore pohorely i šaty, i   hotových peňazí do sedem zlatých. Nad izbou prehorelo im tiež, povala   sa preborila a zhorelo i v izbe všetko.
+   </tei:p>
+   <tei:p>
+    S plačom obchodili všetci traja pohorenisko, vyťahovali hlavne,   mazali, lepili, a odvrchu tieklo. Povala preč, okná, dvere preč; ešte   šťastie, že to bolo v lete. Svet ich potešoval a už čo mohol, každý   doniesol. Ale postaviť dom, humno atď. — na to treba peňazí. A Čvrlík   ich nemal. Veď či taký človek môže si naodkladať? Len by vládal   vyžiť. S toľkého gruntíka chytro soberieš a ťažko sa to prikupuje. A   do sveta nemohol. Za mladi presilil si nohy, a býval i takto nie   nejaký obor, nuž chytil sa gazdovstva. Jednu kravu mal, druhú   pripožičiaval si na jar a oral, sial. Žena s dievčaťom dorobily   strovy, nuž tak-tak stačili zaplatiť potreby a prežiť dlhý rok. Lenže   on nepil, ale hľadel si len svojho; žena s dcérou drhly od rána do   noci a sporily. Len tak mohli sa udržať. A tu máš — razom taký úder!   Nie div, keby človek hlavu stratil. Ale plač,
+   </tei:p>
+   <tei:p>
+    175
+   </tei:p>
+   <tei:p>
+    ﻿trhaj si vlasy, čo ti to spomôže? A čo si počať? Krmu nič, groša   nič, hybaj teľa predať a postarať sa, aby ti netieklo aspoň na   hlavu.
+   </tei:p>
+   <tei:p>
+    Singer veľmi ľutoval suseda — aspoň naoko — a daroval mu odpadky   dreva i niektorý klinec, aby si nad hlavou pokryl ako-tak do času.   Viac že nemôže, lebo že i sám je v nešťastí. Ale že ak Čvrlík chce,   že on kúpi od neho ten grunt, a keď o tom Čvrlík nechcel ani počuť,   nuž že mu teda požičia na obligátor sto-dvesto zlatých na stavbu.   Radili Čvrlíkovi, aby si šiel do Žiliny požičať z banky; ale Singer,   dozvediac sa to, dôvodil, že v banke dajú síce, ale na termín musíš   vrátiť, čo by si ich kde vzal, a on, že keď nebude môcť, nie je taký   človek, aby mu nepočkal. Čvrlík premýšľal i so ženou deň-dva, ale   jednako si zle premyslel: podpísali Singerovi obligátor na sto   šesťdesiat zlatých, a ten si ho hneď dal na grunt zaintabulovať.
+   </tei:p>
+   <tei:p>
+    Čvrlík sa za sto šesťdesiat zlatých nepostavil, čo mu i   jeden-druhý kamarát alebo rodina dva-tri dni darmo alebo len za   stravu prišli pomôcť. Bolo toho málo, lebo každý má sa dosť čo   oháňať, aby svoje ratoval. A bolo to v lete. Čvrlík teda po pár   zlatých vše vypožičal od Singera, i kým sa stavalo, bral tam trúnok,   múku, chlieb i masť. Písať nevedel, len si tak v hlave držal,   koľko.
+   </tei:p>
+   <tei:p>
+    Keď po biede postavili, Čvrlík zašiel k Singerovi porátať sa. Že   čo tak náhli, či chce platiť? „Predsa chcem vedieť, koľko som vám   dlžen.“ Nuž rátali a narátali toho ešte do päťdesiat zlatých; ale že   však mu počká, dokiaľ chce, len aby mu ešte i na tých päťdesiat   zlatých podpísal obligátor. Čo budeš odťahovať, keď si dlžen, podpíš.   Z prvých sto šesťdesiat zlatých šlo asi dvanásť na trovy; druhý   obligátor vystavil o desať navyše, aby bolo na trovy, a Žid mal   istých päťdesiat zlatých. Teľa predal, aby, čo mali kosiť ešte otavy   a niečo ďateliny, bolo dosť kravičke na zimu.
+   </tei:p>
+   <tei:p>
+    176
+   </tei:p>
+   <tei:p>
+    ﻿„Ako sa my z toho vyslobodíme?“ pýtali sa neraz jeden druhého   Čvrlíkovci. „Nezaháľali sme ani dosiaľ, ale teraz ešte len prichodí   sa nám poupínať a vykasať rukávy.“ A nemali noci, nemali dňa. Obrobiť   svoje, vytĺcť na úroky, dane a na živobytie, to by len uvládali, ale   veď musia i splácať, chcú i budú, len by zdravia a sily Pán Boh   poprial, keď ich už tak navštívil. Ale otec Čvrlík jednako ostal   zachmúrený, tupý pod ťarchou toho bremena. Neshováral sa celé dni so   ženou a s dcérou, alebo len tak cez zuby, nakrátko, len aby   nezameškal niečo. Ženy tiež vstávaly o tretej ráno, porobily svoje a   o šiestej bežaly do nájmu. Na poludnie za hodinku chytro prihriať,   najesť sa, kravu oriadiť, prasa, a zas do práce cudzej alebo svojej.   Lenže aký u nás zárobok? Na raňajky chleba a pohár pálenky, na   olovrant to isté a deväť-desať groši. A jednako prídu tak tvrdo tomu,   kto ich zarobil, ako i tomu, kto ich platí. A len či ich môžeš   zarobiť každý deň? Každý pooháňa sa to radšej sám, len aby nemusel   vydať groša. Čvrlíkovcom skoro po ohni prišlo platiť tretiu rátu   daní. Nemali. O tri mesiace mali zaplatiť už i štvrtú rátu. Notár   kričal, že už nebude čakať ani tri dni. Čo robiť? Predať prasa a   zaplatiť. A Singerovi tiež už zas na štvrť roka úroky napredok. Za čo   múky kúpiť, nejakú handru na seba? Čo sa zarobí, je iba na soľ a na   škvarku omasty. Mäsa u nás nejedia. U nás veru, keď si zabije na   nedeľu zajačka, to je už hostina! ...“
+   </tei:p>
+   <tei:p>
+    „Och, och, neboráci!“ sústrastne vzdychol starý otec a od žiaľu   nevedel, čo má povedať. Jano Myšita pokračoval :
+   </tei:p>
+   <tei:p>
+    „Veru tak. My máme polia, na ktorých nežneme, lebo by sa to nedalo   poviazať, ale vyšklbeme i s koreňom a poviažeme, ako vy tu konope, do   hrstí. Ale aby som niť nestratil. Tak Čvrlíkovci mali smutné Vianoce.   Veď aby nevyhodili pár šestákov, stará upiekla zemiakovú babu, a   to
+   </tei:p>
+   <tei:p>
+    12 Mamka Pôstková.
+   </tei:p>
+   <tei:p>
+    177
+   </tei:p>
+   <tei:p>
+    ﻿boly osúchy, koláče. Mlieka nič, masti čo na nôž, to za groš,   krava skoro suchá, bravca zjedly úroky — tráp sa, hriešny   človeče.“
+   </tei:p>
+   <tei:p>
+    „Nuž ale nie ste všetci takí?“ mienil starý otec.
+   </tei:p>
+   <tei:p>
+    „Po väčšine, gazdíčko; ale nájde sa i majetnejší človek, lenže   čože je z neho? Nadobudne si drotár pár sto zlatých po svete, príde   domov a — bodaj by som klamal, ale pravda je — prepíja ich doma u   Žida. Karty vie hrať už od mala, a keď sa peniaze minú, ide zas za   grošom; i do Ameriky odchádzajú dnes už mnohí. Neviem, či je to i tu,   ale u nás si vám tak vie žena s mužom a s deťmi zasadnúť do krčmy a   rozkazovať akokoľvek páni vo veľkých mestách ... Ale, gazdíčko môj,   ak sa budeme takto od veci odchyľovať, to vám ja ani do večera   nedokončím rozprávku.“
+   </tei:p>
+   <tei:p>
+    „Veď ti ja ešte donesiem roboty, neboj sa,“ a starý otec vstal a   našiel kdesi v komore črepy zo starej misky; doniesol ich v klobúku   drotárovi. Ani sa už nejednali, len aby drotoval a pokračoval v reči,   ako bolo ďalej.
+   </tei:p>
+   <tei:p>
+    „Akože bolo? O fašiangoch mali už Čvrlíkovci všetky kúty humna   vymetené, a ani slamy, ani ďateliny; slama im bola i tak zhorela. „Je   na otelenie, predajme rysuľu, seno je po jednom zlatom šesťdesiat   krajciarov cent — to by sme jej ani všetci traja nevystačili“, mienil   gazda. Čvrlíková s dcérou spieraly sa dlho, ale konečne uznaly. Za   rysuľu, že bolo málo krmu a statok v meste bol odpoly zadarmo,   dostali, ak sa nemýlim, nie viac ako jeden alebo dvaapäťdesiat   zlatých. Nebola ani veľká, nuž kravička, akých u nás najviac. Teraz   čo s peniazmi? Bože, čo vraj! Dať ich Singerovi a na jeden obligátor   nebudú už dĺžni, iba desať zlatých. Prišli o kravu, ale majú menej   dlžoby. I plakali za rysuľou, i boli radi. Čvrlík zobral peniaze a   odčítal ich Singerovi. Singer vzal, a že mu dlžobný úpis vydá, aby sa   len pousilovali na tých desať zlatých, alebo že mu ich na jar   odrobia. Singer uctil Cvrliká kalíškom
+   </tei:p>
+   <tei:p>
+    178
+   </tei:p>
+   <tei:p>
+    ﻿slivovice, pričom sa Singer Čvrlíkovi a tento tomu vyžialili, aké   to bolo — ten požiar — pre nich nešťastie. „Verte mi, sused môj, ešte   jeden taký úder, a ja to nevydržím,“ žalostil Singer, a pritom si   myslel: „To by bol kšeft!“ A že čo teraz mieni sused Čvrlík? pýtal sa   Singer. Čvrlík prešiel si rukou cez vlasy a zúfalý bôľ iba nemý   vzdych bezpomoci pustil mu cez hrdlo.
+   </tei:p>
+   <tei:p>
+    „Ja vám chcem pomôcť, a viete, čo? Vezmite si na jar odo mňa dve   teľce — o rok, o dva bude krava, a vy si prichováte a budete mať   tiež.“ Dohodli sa chytro, keďže je to u nás v obyčaji. Kto si   nevládze kúpiť, vezme od Žida na chovu teľa, opatruje ho, pasie, má   hnoja, môže prípadne na hoviadku orať, a keď sa otelí, sedliačikovi   ostane teliatko a Žid vezme si kravu. Sú u nás Židia, čo majú po   sto-dvesto kusov i vyše medzi ľuďmi „na chove“. Pritom ešte odrába   Židovi niekoľko dní a od toho dňa volá už Žida — svojím   gazdíčkom.
+   </tei:p>
+   <tei:p>
+    Na jar, ako sa prvá trávička zjavila, Čvrlíková kúpila prasa zpod   cecka a Čvrlík vzal od Singera dve teľce, a dali sa kopať, sadiť, a   kedy len stačili, hybaj jeden-dvaja ná zárobky. Ale groša to   nedonieslo, lebo museli ísť Singerovi na teľce odrábäť a zaviazali sa   mu boli i tých desať zlatých odrobiť. Ale keď gazda chodí na jar   odrábať, kto mu porobí jeho? Usilovali sa, ale svoje brázdy jednako   len tak zapaprali, a bolo treba zaplatiť oráčovi, tiež zrno na siatie   — poď len k Singerovi. Večer za večerom rátali Čvrlíkovci, koľko sú   Singerovi dĺžni a či sa na jeseň vyplatia. Dúfali, a len aby Pán Boh   i niečo ovocia požehnal — „azda, azda...“ Čvrlík bol veľkým štepárom,   a hoci bol sad malý, keď obrodilo, dostal niektorý rok i päťdesiat   zlatých za ovocie. Ale tejto jari ani stromy nepočistil, len tak, aby   sa im odrátalo ...
+   </tei:p>
+   <tei:p>
+    Prišla žatva. Tak zle nebolo ako vlani, ale Čvrlíkovcom jednako   chybelo i žito, i jačmeň; iba polovník sa vydaril.
+   </tei:p>
+   <tei:p>
+    12*
+   </tei:p>
+   <tei:p>
+    179
+   </tei:p>
+   <tei:p>
+    ﻿„No, ten bude nám, ostatné prevezme Singer. Len keby bolo   zemiakov, kapusty; ovocia už veľa nebude, ale predsa niečo .. . Azda   len, azda ...“ Singer ponúkol Čvrlíkovcom, aby mu predali zbožie na   koreni, oni že môžu k nemu do výžinku, zaplatí tak ako druhým.   Čvrlíkovci nechceli na to pristať, ale keď Singer doložil, že im za   ovocie, na ktoré „ktovie, či ešte skaza nepríde a ja neoškodujem“,   ponúkol sraziť z dlhu dvadsať zlatých — pristali bez slova. „Dvadsať   zlatých nám smaže za ovocie, štyridsaťdva zlaté za jačmeň a raž,   slama nám ostane — nuž veď dlh bude obsahovať len okolo stovky!   „Dobrotivý Bože! Len nám pomôž to bremeno preniesť, aby sme mali na   staré kolená kde hlavu uchýliť a naše dieťa nemuselo svetom. Lebo   svet je zlý... nebolo by viac moje,“ bola každodenná modlitba   Čvrlíkovej. Čvrlík nevravel nahlas ničoho, ale to isté si myslel a   len drhol a drhol od rána do noci, že mu to už i najpilnejší za zle   mali, dohovárajúc mu, že bude na starosť žobrákom, keď je i tak na   nohy chytený. Ale on s tým väčšou chuťou hnal sa do práce. Žofka   pásala teľce, snášala im burinu, navyžínala pomedzi kružinu trávy,   sušila ju, že na zimu. Žihľavy a púpavy natrhať pre prasa, to bolo na   jej starosti. Húsatá pásť poprosili susedovie husiarku.
+   </tei:p>
+   <tei:p>
+    Stravu mali nanič. Och, chleba u nás v dedine veľmi málo! Ja viem   časy, čo sme si sami doma jačmeňa namleli a so zhnitými a usušenými   zemiakmi piekla nám mať v popole pagáče. Skoro tak bolo i u   Čvrlíkovcov, len aby si grunt a chalupu ratovali, očistili od   dlhov.
+   </tei:p>
+   <tei:p>
+    Hneď po žatve staral sa Singer o slúžky a sluhov, lebo starí   nechceli ostať. Každý rok im sľuboval, kým nevzali závdavku, že budú   mať dve nedele, „i tvoju, i moju“, a nemali ani jednej. Singer sa   teda opýtal i suseda Cvrliká, či by nevedel niekoho z druhej dediny,   lebo že ho domáci
+   </tei:p>
+   <tei:p>
+    180
+   </tei:p>
+   <tei:p>
+    ﻿sluhovia okrádajú. Že však vie, aká pláca. Čvrlík mu sľúbil, že sa   obzrie. Doma rozprával žene, že Singer hľadá sluhov za tú a za tú   plácu.
+   </tei:p>
+   <tei:p>
+    Ráno zobudila sa Čvrlíková a vraví mužovi, že sa jej prisnilo, že   veru oni všetci traja boli u Singera v službe.
+   </tei:p>
+   <tei:p>
+    „Veď som i ja myslel na to. Máme ešte do sto zlatých odplácať, či   by sme ich, reku, nemohli odslúžiť. Žena moja, prežrime za ten rok,   veď je nie taký dlhý, to sluhovstvo. Hanba nám to nebude, každý vie,   v čom sme a od čoho sa chceme oslobodiť. Takto to azda skorej pôjde.   Prechováme sa, a čo vyslúžime, bude na srážku — a o rok, dá Pán Boh,   bude všetko naše. Čo myslíš?“
+   </tei:p>
+   <tei:p>
+    Čvrlíkove j vyhŕkly slzy; myslí, myslí, ale ako by ťažkú hlinu   mala v hlave, nevie sa rozhodnúť, hoci už večer o tom v duši   premietala. Nebojí sa práce, nehanbí sa, gazdiná, sluhovstva, len aby   vedela, či bude tak lepšie. „A čo ty, dcéra moja, Žofka? Veď neplač,   dosť mi srdcom stíska,“ a hlas mu zadrhlo.
+   </tei:p>
+   <tei:p>
+    „Ňanka môj,“ priskočila Žofka k otcovi a slzy otcove zasekly jej   razom plač a ostala ako z kremeňa, „poďme do služby! Mamka, ja vám   budem pomáhať pri kravách, ani spávať nebudem. A veď by sme doma   bývali!“ doložila chytro.
+   </tei:p>
+   <tei:p>
+    „Aspoň nocúvali,“ odtušil otec.
+   </tei:p>
+   <tei:p>
+    „Tak ja pristanem. Mamka, povedzte i vy „áno“ — a ešte sa môžeme   poradiť, ak nemyslíte . ..“
+   </tei:p>
+   <tei:p>
+    „Ešte, ešte sa poraďme, čo kmotra...“ skončila mať.
+   </tei:p>
+   <tei:p>
+    Kmotra nenahovárala — kmotor bol vo svete — ale Čvrlíkove dôvody   uznala. Bolo rozhútané ísť do služby. Čvrlík zašiel k Singerovi a   rozpovedal mu vec. Singer mu nechcel veriť a poslal po mater, i Žofka   aby došla. Obe prisvedčily. Singer neveril sluchu a po nemecky vravel   žene, že veď ak títo ľudia budú robiť uňho len polovicu toľko
+   </tei:p>
+   <tei:p>
+    181
+   </tei:p>
+   <tei:p>
+    ﻿ako na svojom, vyťaží na nich do roka o dvesto zlatých viac ako na   starých sluhoch (hoci i za tými vždy chodil s palicou on alebo syn   Dávid).
+   </tei:p>
+   <tei:p>
+    Slovo na slovo, Singer dva razy ťapol Čvrlíkovi do dlane, Rifka   zas jednala Čvrlíkovú a Žofku — a zjednali sa: otec ku koňom a   dostane päťdesiat zlatých i patričnú konvenciu; mať ku kravám a   dostane štyridsať zlatých i čo k tomu patrí; Žofka že sa vidí Rifke   prislabá, dostane osemnásť zlatých a polovičku stravy ako mať.   Slovom, že po roku rozdriapu oba dlžobné úpisy. Doma budú nocúvať,   teľce tiež ostanú v Čvrlíkovej stajni, a aby im nebola zima, dá k nim   ešte jedno alebo dve — koľko sa zmestí.
+   </tei:p>
+   <tei:p>
+    Pole Čvrlíkových že obrobí Singer a s úrodou podelia sa na rovné   polovice. Teda zdalo sa, že na druhý rok budú mať čistý grunt,   polovicu úrody, ostane im ešte niečo i z konvencie — a sú pánmi vo   svojom. Tak dodával chuti Singer a tak mysleli si i Čvrlíkovci.
+   </tei:p>
+   <tei:p>
+    O tej službe čo povedať nakrátko? Na Všechsvätých prešli   Čvrlíkovci do roboty k Singerovi a, ako v službe, robili, čo sa im   kázalo. Len keď sa v noci po jednom, po dvoch domov poschodili na   odpočinok, natešili sa, že bude to ináč na takto rok. Teraz cítili sa   už akosi trochu voľnejšie, mysliac si, že im bremeno už spadlo s   väzov.
+   </tei:p>
+   <tei:p>
+    Ale rok je dlhý. Onedlho sa ukázalo, že Čvrlík, ak nechce zahynúť   kdesi v hore, musí mať nové šúchy-šaty. Čvrlíková tiež čo-to na zimu   a Žofka si nekúpila od roka ani šatôčky. Kde vziať na to peňazí?   Pýtali od Singera, že len požičať, kým predajú prasa. Dal im dvanásť   zlatých. Ale prišlo i dane platiť, kde vziať na ne? Požiadali   Singera, aby zaplatil. Prišlo platiť interes Singerovi, pripísal i   ten. Predali prasa, ale všetko nevyplatili, a čo aj, Žid nevytrel. Ak   to takto pôjde, už sa do roka nevyplatia — a počali si zúfať.
+   </tei:p>
+   <tei:p>
+    A čo bolo najhoršie, prišlo i to. Čvrlík v zime popreťa-
+   </tei:p>
+   <tei:p>
+    182
+   </tei:p>
+   <tei:p>
+    ﻿hoval sa pri dreve, presilil nohy ešte viac, prechladil, k tomu   duševná ťarcha, starosť o rodinu, to ubíjalo ho tak, že upadol   navidomoči, a do jari vypovedaly službu i pľúca
+   </tei:p>
+   <tei:p>
+    — dostal záduch. Singer mu počal dohovárať, že pomaly robí, a keď   to Čvrlíkovi nepomáhalo, bral k nemu paholka a povedal doprosta, že   keď si netrúfal, nemal sa brať do služby, a že on škodovať nemôže, že   veru čo dá paholkovi, pripíše to jemu.
+   </tei:p>
+   <tei:p>
+    Čvrlík bol už na duši zabitý, obľahol, a nebolo pomoci. Prv však,   než by skonal, žiadal si porátať sa so Židom. Singer porátal všetko,   čo dal na hotovom, čo poplatil, i kdejakú to škodu mu spravil z nich,   alebo vraj zapríčinil, potom čo dal paholkovi, a vysvitlo, že majú   ešte doplatiť dva zlaté šesťdesiat krajciarov; na konvenciu je im zas   on niečo povinný: ale dlh sa nezvyšuje, ako vidia, nič.
+   </tei:p>
+   <tei:p>
+    Čvrlík, ochromený touto zprávou, klesol na biednu posteľ a nastal   trojdňový zápas so smrťou ... Videli ste už človeka ťažko umierať nie   pre hriech, pre ťažké svedomie, ale preto, že chcel žiť, že chcel   dobre žene, dieťaťu? To je veľký rozdiel! A keď — máme všetko — už   ruky vystrieť nevládal, ústami už hlasu vydať nemohol a keď oči   stĺpom stávaly — nárek a trhanie ženino a Žofkino dva razy ho   vrátily, kým umrel. ..“
+   </tei:p>
+   <tei:p>
+    „Pán Boh mu daj večný odpočinok!“ utrel si starý otec päsťou slzu.   „A čo so ženami?“
+   </tei:p>
+   <tei:p>
+    „Pán Boh mu daj! ... So ženami? Teraz ukázal sa len ešte v nahej   podobe ten úžerník — bohdaj nemohol umrieť!“
+   </tei:p>
+   <tei:p>
+    „Nieže, pre Boha večného!“ prešiel mráz starého otca nad hroznou   kliatbou.
+   </tei:p>
+   <tei:p>
+    „Ba to by zaslúžil, aby aspoň neumrel ako človek. Žena s dcérou   div nezošalely nad nenahraditeľnou stratou manžela a otca. A úžerník?   Čo zameškaly pri chorom a mŕtvom otcovi, povedal, keď ich prišiel   duriť, aby sa už braly
+   </tei:p>
+   <tei:p>
+    183
+   </tei:p>
+   <tei:p>
+    ﻿do roboty, že im to: „darmo je, zameškaly ste, musíte uznať, ja   som musel najímať“, odráta z platu, a keď nechcely ísť viac v   zúfalstve do služby, dal im pohroziť od richtára, a keď ani potom   neprišly, prinútil ich žandármi vstúpiť nazad do slžby, lebo že ich   mal na rok zjednané, čomu ony prisvedčily. Svet sa ich proti   Singerovi nezastal. Ba každé si šuškalo: „Zjednaly sa na rok, sú   zjednané, malý by doslúžiť“.
+   </tei:p>
+   <tei:p>
+    A jednako nedoslúžily. Úžemíkov chalan Dávid chcel o najdrahšie, o   statočnosť, násilne, zbojnícky okradnúť Žofku, zatvoriac ju do   sypárne, ale predsa sa mu vyslobodila a Čvrlíková, vidiac síňavy   Žofkine, ako rozoštvaná levica, hnojnými vidlami-štvorkami vpálila do   pŕs darebáckemu galganovi. Smrteľne ho však neranila. Ale nestalo sa   ani jej nič, súd ju oslobodil a povedal, že nik ich neprinúti viac k   úžerníkovi do služby .. .“
+   </tei:p>
+   <tei:p>
+    „Zbojníka, nevedela ho už preklať! A kamže sa už potom vrhly?“   povedal nahnevane starý otec.
+   </tei:p>
+   <tei:p>
+    „Dnes chodia do sveta na robotu. Nemajú nič, iba čo si vyrobia.   Keď sú doma — cez zimu — bývajú v cudzom a vo svete zas v   cudzom.“
+   </tei:p>
+   <tei:p>
+    „Nuž a dom a pole?“ pýtal sa nepokojne starý otec, lebo bol   zvedavý na koniec.
+   </tei:p>
+   <tei:p>
+    „To je všetko Singerovo. Skrze fiškála vyzval ich, aby platily.   Nebolo odkiaľ. Odtajil všetky splátky, i za kravu, i všetko, keď   svedka nebolo a nebohý Čvrlík kvitancie na nič nepýtal. Dom a grunt   dal predať na licitácii, a kúpil to, rozumie sa, sám a za čo   chcel.“
+   </tei:p>
+   <tei:p>
+    „Nuž ale, pre Pána Boha, čo svet na to? Či bol mŕtvy? Ľudia predsa   o tom vedeli a videli, čo sa robí.“
+   </tei:p>
+   <tei:p>
+    „Vedeli i videli. Ale u nás vám je národ ešte ako dieťa
+   </tei:p>
+   <tei:p>
+    — nevie a či nechce si rady. Tak, napríklad, poviem vám toto.   Ťažko, ale predsa založili si v obci potravný spolok, i čítací kruh.   Dostali sme mladého kaplána — farár je
+   </tei:p>
+   <tei:p>
+    184
+   </tei:p>
+   <tei:p>
+    ﻿vyše sedemdesiatročný — tento to chytil do ruky, a jednako sa tým   spolkom nedarí. Ľud hromží na Židov, a predsa otrocký sa ich pridŕža,   lebo Židia, čo na ňom a u neho vidia, z úst jeho počujú — všetko   chvália; lenivcov za pilných, ožranov za triezvych vyhlasujú a všetko   hľadia naoko po vôli ľudu, v skutočnosti však — svojej kapse. Kaplán   pochváli, ale i poučuje, karhá, a preto nepáči sa. mnohým, a Židia   ich za to chvália. Vystríha, káže proti pijatyke, túlaniu sa po   nociach, a Žid hovorí: „Čo zješ, to vieš; čo vypiješ, to užiješ. Len   to máš, čo užiješ.“ A to sa nám páči.“
+   </tei:p>
+   <tei:p>
+    „A svedomie? A deti? Na to sa nepomyslí?“
+   </tei:p>
+   <tei:p>
+    „Pomyslieť sa len pomyslí, ale žije sa — ako predtým.“
+   </tei:p>
+   <tei:p>
+    (Do konca a iné rozprávky, II. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    185
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

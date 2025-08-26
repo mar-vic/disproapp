@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk191084" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Apoliena : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1191
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Apoliena
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Apoliena
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Ja a môj pán majster začali sme naraz robiť remeslo; lenže on ako   majster a ja zas ako učeň u neho. On sa potom hneď oženil, kdežto ja   dosiaľ nepoznám familiárnych radostí.
+   </tei:p>
+   <tei:p>
+    Potom sme si vzali ešte druhého učňa, Jana, a prvý rok   nepotrebovali sme slúžky. Po dome a v kuchyni vrteli sme sa s mladou   paňou, po meste behal som ja s Janom.
+   </tei:p>
+   <tei:p>
+    Druhý rok narodilo sa nám dieťa.
+   </tei:p>
+   <tei:p>
+    Probovali sme okolo neho zpočiatku len sami. Ale keď nám to s   Janom nešlo, hoci nás i pán majster oflinkami a remeňom, pani   majstrová zas metlou horlivé pobádali k tomu, aby vreštiak bol čisto   opatrený: radšej sme sa dali šticovať a plieskať, len aby sme   prinútili pána vziať k faganovi slúžku.
+   </tei:p>
+   <tei:p>
+    Prišla; lenže aká!
+   </tei:p>
+   <tei:p>
+    Nie to, že bolo dievča z hôr a sedliačťa, ale že malo vraj 15   rokov a bolo len ako päsť. Taký kŕč opálený a ruky ako zápalky. Oči   ako plánky, a ono zelené, biedne, začuchrané a hluché.
+   </tei:p>
+   <tei:p>
+    Pani by ho ani nebola vzala, ale jeho mať prosila, že sa ono   spraví a že pláca — aká bude; len na nejaké hábočky aby si   vyslúžilo.
+   </tei:p>
+   <tei:p>
+    2 Mamka Pôstková.
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿S Apolienou, či — ako sme ju my prezvali — s Polenom sme sa chytro   skamarátili, ale zato musela obsluhovať zpočiatku ešte i nás. Ak nám   niečo kázali, čo ktorý z toho mohol, rád potisol na ňu. A ona,   sprosták, všetko spravila, a keď bolo zle a nás vytĺkli, vyhrážali   sme sa jej, nadúvali proti nej líca, buchnátovali ju, alebo rozvrteli   na dvorci a — pustili.
+   </tei:p>
+   <tei:p>
+    Povážte, ako robia takí vybíjaní šarvanci, keď dostanú mača do   rúk: kutľujú ho, kým nezdochne alebo nejako neujde.
+   </tei:p>
+   <tei:p>
+    A nielen my učni, ale ako takého sprostáčika nemala ju rada ani   pani, že jej nemohla len povedať, rozkázať, ale musela všetko   ukazovať, ako sa čo robí.
+   </tei:p>
+   <tei:p>
+    Nakričala na ňu, namykala sa jej i ona dosť.
+   </tei:p>
+   <tei:p>
+    A Poleno bola rada, že sa môže najesť, a o pár dní naozaj bola   krajšia. Páčilo sa jej, kývla mi hlavou, keď som jej raz na to otázku   do ucha zatrúbil.
+   </tei:p>
+   <tei:p>
+    Na druhú či tretiu nedeľu prišlo druhé dievča k nám, ako by bolo   našej Apoliene z oka vypadlo, lenže bolo čistejšie a krajšie   oblečené, nie obrúsok, ale šatôčku malo na hlave. Ale ináč celkom   taká bočka.
+   </tei:p>
+   <tei:p>
+    Prišlo, zasmialo sa, zavolalo celým krikom pozdravenie a chcelo   panej ruku bozkať. Len sme tak oči vytriešťali, totiž ja s Janom.
+   </tei:p>
+   <tei:p>
+    „A kdeže je moja sestra?“ opýtala sa hrubým hlasom, ako by bola   mala zemiak v ústach.
+   </tei:p>
+   <tei:p>
+    ,,To bude nejaká pochabá, alebo ako naše Poleno,“ zasmial sa Jano,   ba i ja.
+   </tei:p>
+   <tei:p>
+    Ale Apoliena videla ju z kuchyne a vyšla von. Zasmialy sa jedna   proti druhej, tá vzala jej dieťa z rúk a bozkala ho. Apoliena ju   mykla za sukňu a vošly obe do kuchyne.
+   </tei:p>
+   <tei:p>
+    Už sme asi hádali, že i tá je hluchá, a veľká podobnosť našej   Apoliene utvrdila nás v tom, že budú sestry.
+   </tei:p>
+   <tei:p>
+    Z kuchyne na dvorec nebolo počuť slova, iba keď vše
+   </tei:p>
+   <tei:p>
+    18
+   </tei:p>
+   <tei:p>
+    ﻿zavrešťal malý Julík. Išli sme ich pozrieť; shováraly sa   posunkami.
+   </tei:p>
+   <tei:p>
+    Na druhú nedeľu prišla zas mať a pobrala Apoliene hábočky na   pranie.
+   </tei:p>
+   <tei:p>
+    O týždeň jej ich doniesla a prišlo s ňou i malé, asi 8-ročné   dievča, i to také ako tie dve, najmladšia sestrička. Toto ešte vedelo   pár slov trhano vypovedať, ale tiež viac kývalo hlavou, mihalo očkami   a ukazovalo, ako vravelo.
+   </tei:p>
+   <tei:p>
+    „To je, ženička, však tiež vaše?“ pýtala sa pani majstrová. (Pán,   ak by ste boli zvedaví, bol na kolkárni; hral kolky i karty razom. To   však nepatrí sem.)
+   </tei:p>
+   <tei:p>
+    „Aj to veru, aj.“
+   </tei:p>
+   <tei:p>
+    „Ale to azda počuje?“
+   </tei:p>
+   <tei:p>
+    „Počuje, ale od tejto a staršej, čo tu bola dnestýždeň, naučilo sa   tiež ukazovať, a teraz tiež — už ho vše i ubijem, a len, keď čo chce,   ukazuje a nepovie. I do školy som ho zaviedla, že sa tam naučí lepšie   hovoriť, ale ťažko mu to ide. A potom deti: keď im ono ukazuje,   ukazujú mu ony tobôž.“
+   </tei:p>
+   <tei:p>
+    „Ale váš muž — veď už má dva príklady — toto nebije?“
+   </tei:p>
+   <tei:p>
+    „Na hlavičku mu už tak neletí, ale horkýže i nie. Keď sa nahlce,   čože ten dbá, prečo udrie a kade, či poza uši, či po tvári, či po   chrbte. Taká som vše i ja, celá belasá,“ hovorila žena, ale tak   chladne, že sme jej to neuverili.
+   </tei:p>
+   <tei:p>
+    „Nuž ale prečože neujdete od neho, keď vás bije, i deti vám   ožobráčil?“
+   </tei:p>
+   <tei:p>
+    „A kdeže ujdem, mladá pani moja? Nuž či sa po dobrých ľuďoch   potĺkať, na zárobok chodiť, keď mám okolo svojho dosť roboty! Nuž   musím len prežrieť a dobre s ním. Veď je on nie vždy taký. Ba ešte i   horší sa nájdu. Len keď už začne hltať, potom je už bez všetkej   rozvahy: tlčie, bije, čo pochytí. Ale je už starší ako mladší: dá Pán   Boh, že na starosť, ak sa jej dožije, zíde mu to na um, čo sa nám
+   </tei:p>
+   <tei:p>
+    2*
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿naubližoval a nabil mňa i svojich detí, a koľko ráz bez všetkej   príčiny, ako by si dobrú vôľu plnil. Teraz ešte pije, ale keď už   nebude môcť a začne si to čistou mysľou rozvažovať ...“ hovorila s   takým presvedčením, ako by sa to muselo stať a otec musel sa   polepšiť.
+   </tei:p>
+   <tei:p>
+    „No, to si ja, žena moja,“ pretrhla ju pani majstrová, „raz neviem   ani pomyslieť, ako by mohol byť niektorý otec taký kat a tak bez   poriadku biť svoje deti, že ich ohluší... Ale vám sa divím; veď aby   sa ten môjho dieťaťa dotkol bez príčiny, ale čo by mal hneď i   najväčšiu príčinu, no deti by som si ožobráčiť predsa nedala!“   rozhorlila sa naša pani majstrová, že sme sa s Janom ani nehli, ako   by nás bola najprísnejšie hrešila.
+   </tei:p>
+   <tei:p>
+    „Bože, nuž veď či som sa s ním málo natrhala, alebo málo nautekala   s nimi, ako mačka s mladými pred psom, a prišiel za mnou, a ešte   cudzí ľudia mali s ním oštaru. A keď sa zle, pani moja, dlho   nerobí.“
+   </tei:p>
+   <tei:p>
+    „Jano,“ rečiem, „poďže sem. Počuješ, od čoho je naša Apoliena   hluchá?“
+   </tei:p>
+   <tei:p>
+    „Od bitky.“
+   </tei:p>
+   <tei:p>
+    „Tá jej iste viacej musela zniesť ako my.“
+   </tei:p>
+   <tei:p>
+    „Nás predsa tiež dosť hlušia, a ešte sme ani neokriveli, ani   neohluchli, ba ani ti len nepoznať,“ robil som náražku na včerajší   Janov výprask od pána, následkom ktorého mu ruka a plece obelasely, a   len preto, že zhltal Julíkovi cukor a pol rožka.
+   </tei:p>
+   <tei:p>
+    „No, i ty si nie ešte tovarišom.“
+   </tei:p>
+   <tei:p>
+    Vyšli sme na ulicu a počali sme sa prekárať, ako, kedy a koľko   ktorý dostal. Ja som tvrdil, že Jano viac, on zas, že ja lepšie, lebo   že mne už raz tiež vraj za dva dni v uchu cvendžalo.
+   </tei:p>
+   <tei:p>
+    „Len aby sme neohluchli, ako naša Apoliena, od bitky.“
+   </tei:p>
+   <tei:p>
+    „A ešte, chudera, od ruky otcovej. Ešte keď ťa cudzí, no, to je   cudzí, ale otec ..
+   </tei:p>
+   <tei:p>
+    20
+   </tei:p>
+   <tei:p>
+    ﻿A od tých čias, kým Apoliena u nás slúžila, i keď nás bili,   nebolelo nás to tak, lebo sme si pripomínali, že Apoliena viac   vystála, keď od zauškovania ohluchla, a prestali sme na ňu húkať a sa   jej posmievať.
+   </tei:p>
+   <tei:p>
+    Keď Julko mal počať hovoriť, vzali mu druhú slúžku, ale nám bolo   Apolieny srdečne ľúto.
+   </tei:p>
+   <tei:p>
+    Ba kde sa to ozaj, chúďa, tlčie ...?
+   </tei:p>
+   <tei:p>
+    Ale možno, že už má i isté miesto, len nikto o ňom nevie...
+   </tei:p>
+   <tei:p>
+    (Besednice, II. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

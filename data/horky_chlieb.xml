@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910871" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Horký chlieb : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1380
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Horký chlieb
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Horký chlieb
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Koniec fašiangov tu, a zima nepopúšťa. Slnko sa celý deň neukáže a   inovať so stromov ledva padá trochu o poludní. Činí sa, ako by sa   zima chcela vrátiť. Kto by si ju žiadal? Nikto! A jednako, keby sa   vrátila, keby sa vrátilo len pár týždňov, hej, či inak by to všetko   bolo u Turjanov. Žena a troje drobných detí malý by ešte otca. Čo i   pil, vadil sa, ale jednako ľahšie zarobili na živnosť. Aký bol, taký   bol, ale predsa len bol otec, a dnes je už pod zemou a Turjanka s   deťmi v biede. Svážal drevo so Žiaru, privalila ho fúra a v špitáli   dokonal. A dolámaného doktori ešte i porezali. Ako prosila žena, že   veď vidia: mŕtvy je, nech ho nekusujú… márne. Od tých čias, ako to   videla, nemôže jesť, stavia sa jej pred oči, nemôže spávať, a okrem   toho morí ju i s deťmi hlad a tuhá zima. Predtým otec slúžil ako   paholok, ona chodila prať, drhnúť dlážky po pánoch, byt mali u pána,   kurivo tiež, a teraz to všetko odpadlo. Za byt načim zaplatiť tri   zlatovky na 22
+    </tei:p>
+    <tei:p>
+     ﻿štvrť roka, a je to len stará, drevená, na chyžku prerobená   maštáľka za mestom na záhumní. Obrezkov na píle dajú za šesták, čo na   seba naberie. Má sa pretrhnúť, a za 3—4 dni ich spália. A kým ich   donesie, zamešká pol dňa. „Čo si ma tak, Bože, navštívil a nezmiloval   sa radšsj nad týmito deťmi…” žiali žena, keď zarobí groš a na nič   nedôjde. Deti večer častejšie ukladá sľubmi, spevom, ako chlebom, a   ešte i nocou musí na zárobky.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Sú fašiangy. Čas zábav, bálov, tancov. Volali ju páni, kde   nádenníčieva, na večer k deťom. Lebo hoci majú slúžku, učňa, tí môžu   zaspať, a deti samotné bola by neopatrnosť nechať. Turjanka sa   sľúbila, ale inak si myslela. Veď akože budú je] deti, kým ona bude   cudzie opatrovať? Veď ona tiež má rada svoje deti, ba azda radšej ako   páni, ktorí sa teraz od svojich na zábavu stroja. Nešla by ona od   svojich, keby sa nebála, že ju potom viac nebudú volať do roboty. A z   čohože vychová troje detí? A robotníčok, najmä cez zimu, hneď i tri   dostať miesto nej. Mať poukladala na posteľ všetky tri deti, veselé,   sýte, ktoré, chúďatká, nepostrádajú otca. Zabúdajú sa už i opytovať,   kedy príde otec. A keď im mať povie, že už nepríde, tešia sa a len   žalujú materi, že „Ondrík kope, Marka teto urobila a povedala na mňa   ..a berú sa s radosťou na posteľ, kde od otcovej smrti všetky tri   spávajú, a mať krčí sa na lavici pri železnom sporáčiku. Nie im je už   zima pod perinkou. Zaspia. Mať prihotoví vody, chlebíka, ak by sa   ktoré zobudilo, 23
+    </tei:p>
+    <tei:p>
+     ﻿nezahasí lampášik; najstaršej, Zuzke, sedemročnej, naloží opatriť   ostatné, ak bude im čo načim. Veď, vraj, len do polnoci budú páni v   divadle, na zábavu nezostanú. Turjanka na noc ešte nikdy nebola od   detí. Teraz prvý raz. „Jaj, už musím, zvonia sedem,” a zahodiac na   seba plachtičku, mohla by už ísť. Mohla, a len sa krúti, obzerá po   izbe, či niečo nezabudla. Hľadí na postieľku, prikazuje ešte raz   Zuzke šeptom (aby ostatné dve deti nepočuly a sa nebály), aby dala   pozor, ak sa pobudia, ona že príde hneď, aby spaly, a nemôže   vykročiť. Vyjde po prstoch, zamkne chalúpku, ide, ponáhľa sa, ale   nevidí, nedbá, kde kročí. Myslí: zakúrila dobre, deti nakŕmila hojne,   ale zima vytiahne hneď teplo; ak sa niektoré skope, prechladne, bude   ešte viac trápenia. „Ale akože nejsť, keď ma vždy volávajú a zarobím,   i vyspím sa dosť, dve pláce cez deň!” m. U pánov — bol to majetnejší   krajčír — už Turjanku netrpezlivé očakávali. Predstavenie malo sa   začať o pol ôsmej. „Kdeže ste tak dlho? Zameškáme,” dohovárala pani.   „Ukladala som svoje detváky… žeby všetko na noc malý, ak sa pobudia.”   „Oj, jej, budú vám spať! To nie ako naše, naučené s nami hore byť.”   Chlapec s dievčatkom, deti 6—8-ročné, iba sa obzreli na tetku Maru a   ďalej prehŕňali obrázkovú knižku, na stole sediac a sa prevaľujúc.   Slúžka prizerala sa na vyobliekanú paniu, podávala ihly, 24
+    </tei:p>
+    <tei:p>
+     ﻿špendlíky a učeň sedel ako drevený pri stole, nezvyknutý na takú   úlohu — dozerať odrastené deti, a cítiac prítomnosť pána, ktorého sa   bál. Pán zapálil si cigaru a netrpezlivé kúril, nemohúc vyčkať, kedy   sa pani už dooblieka. Konečne, vezmúc na prípad potreby ešte 2—3   špendlíky do opaska, šla za pánom, nakladajúc, aby dali pozor, deti,   keď budú chcieť spať, uložili. Mara pýtala si nejakú robotu. Aby   párali perie, odporúčala pani v náhlosti. Oni sa nezabavia, najviac   ak do polnoci. „Mlieko atď. je tam a tam,” vysvetľovala pani   vyprevádzajúcim ich Mare, slúžke a učňovi. Slúžka doniesla perie.   Deti porobily trochu protivne, pobavily sa a pýtaly sa spať. Tetka   Mara ich uložila. Slúžka tiež hneď zaspala pri stole. Učeň prezrel   obrázkovú knižku, poslabikoval si v nej, a istý, že sa páni hneď   nevrátia, vytratil sa, išiel nazerať cez oblok na pánov, čiže   predstavenie. Ako učeň. Mara párala perie, a keď učeň odišiel, slúžka   zaspala, tichosť, dýchanie detí nedalo jej vymôcť sa zpod myšlienky,   čo robia jej detičky. Či sa nepobudily, či neplačú, či nespadlo   niektoré, neskopalo sa, či neprechladne? Hodiny tupo šťukaly sem-tam,   sem-tam, a Mara Turjanka, zamýšľajúc sa nad svojím smutným stavom,   zaháňala rukou myšlienky, prihládzajúc si vlasy, podtískajúc ich pod   šatku, ale sĺz jednako nemohla udržať. Utierala ich hánkami, že sa   jej perie lepilo. Slúžka, zavalená na rukách na stole, sa vše strhla,   prebudila, začala párať, povedala pár slov o panej, pánovi, ale zas   len zaspala. 14—15-ročné, ešte viac dieťa, a zrobené, chúďa, nie div.   Mara nevydržala. Zobudila slúžku Marku, naložila jej nezaspať, kým sa   nevráti, a sama, nesvoja, bez všetkého, bežala — len cez oblok kuknúť   na deti. Netrpezlivé spiechala po zamrznutej ceste v tmavej noci.   25
+    </tei:p>
+    <tei:p>
+     ﻿Kukla, vbehla, deti spaly. Pobozkávala ich na obnažené rúčky,   tváričky, popravila im a tíško sa ich spytovala, ako sa im spí prvú   noc bez rodičov vôbec. Však zle bez otca, mamičky? Netrvalo ani   minúty, už zas, primknúc, bežala zpät, aby sa páni nenahnevali, že ju   najali, a nie je tam. (Veď slúžke povedala, že ide len von…) Hodín   bolo ešte len jedenásť. Učeň sa vrátil a uzimený zaspal.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Páni zabávali sa dobre. Ostali po divadle i tancovať. Prešla   polnoc, jedna, dve hodiny. Mare nedalo pokoja. Prichodilo jej na um   všetko zlé, čo sa deťom mohlo stať. Zabehla domov pozakrývať ich,   lebo im už iste vychladlo celkom. Ťažko jej bolo bez nich, ešte i cez   okno kukla dnu a behom sa vrátila. Bola už i hmla, tma a zima   treskúca. Prešly i štyri hodiny, a páni nedošli. Dobre sa cítili a   boli bezpeční: veď je tam „Marka”. Pán sa hral v karty, pani sa   vykrúcala v tanci. Mare sa celú noc ani nezadriemalo. Ba čím ďalej,   tým jej bolo teplejšie, hoci izba i tu chladla. Čím ďalej, tým bola   nepokojnejšia, sluchy jej už trhalo. „No, už čo ako, ale by som   radšej bola oželela tých dvadsať-tridsať krajciarov, ako doma nebyť.   Chúdence. Otca nemajú, a už i bez materi budú ostávať nielen vo dne,   ale i celé noci.” Netrpezlivé pozerala na hodiny, sadla, vstala,   prikrývala panské deti, ale i na svoje myslela. Čo všetko sa im mohlo   stať, hútala v mysli. Schytila ručník a, ani nevedela ako, vyšla von.   Obchodiac vržďavý sneh, ako by šla kradnúť, bežala ulicou. Bežala,   ako by deti pred nejakým nešťastím mala zachrániť. Izba bola   vychladla, rozložila rýchle ohňa, 26
+    </tei:p>
+    <tei:p>
+     ﻿naložila dreva, pookrúcala „sirôtky svoje”, no v láske a žiali nad   nimi zase si len spomenula na povinnosť. V. Páni došli konečne pred   piatou a Mara, referujúc, že sa deti sotva prebudily cez noc, dostala   40 krajciarov; zavrúc ich do dlane a stískajúc ich, naradostená   bežala domov. „Ako ma previalo.” Zima ju zdrgľovala, hoci hneď   priložila na oheň, deti pobudila a tešila sa v nich. „Ale čo mi je   taká zima? Huj!” Striaslo ju. Dnes je už druhý týždeň po bále, každú   noc sa tisne Turjanka k drobným trom svojim deťom ona štvrtá na   biednu posteľ, a len sa nemôže zohriať. Už i zelín sa napila, i   vypotila sa, ale keď sa večer z roboty vráti alebo i doma je, len ju   zima drví. Kašle, má ju zadusiť a v bokoch ju kole. „Bože, ešte azda   idem ochorieť…” myslí si každý večer, a len jej neprechodí… (Zpod   kosy, II. vyd., 1928.) 27
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

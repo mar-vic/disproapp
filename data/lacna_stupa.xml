@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910600" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Lacná Stúpa a predsa draho padla! : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4670
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Lacná Stúpa a predsa draho padla!
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ﻿Lacná Stúpa a predsa draho padla!
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ﻿Adam Kuvik z Chumáča od ŽilinySmá už tretí rok syna v   Amerike, a ten pamätá na svojho otca a vše mu pošle 20—80 zlatých. Ba   minulej zimy pred Yianociami poslal mu 60 zlatých, .aby si kúpil múky   u masti, alebo.i brava.
+   </tei:p>
+   <tei:p>
+    Starý Kuvik nevyberal sa na jarmok do Žiliny sám. Nikdy také niečo   nekupoval, musí mat pomoci
+   </tei:p>
+   <tei:p>
+    „Pochválen Ježiš Kristus,“ — ohlásil sa Adam u súseda a vrstovníka   svojho, Bartolomeja Čiapku.
+   </tei:p>
+   <tei:p>
+    „Na veky amen, susedko.“
+   </tei:p>
+   <tei:p>
+    „Ale, súsedko, prosil by som vás o maličkú vec.“
+   </tei:p>
+   <tei:p>
+    ﻿4
+   </tei:p>
+   <tei:p>
+    „Susedko, len mi povedzte, čo to má byt, veľmi vďačne.“
+   </tei:p>
+   <tei:p>
+    „Ale, susedko, pravda, keď tí Moravci, tí kupci, sem chodievajú na   jarmok a kupujú tie svine, čo vezú do Viedne na mäso, pravda, vy tie   svine vždy ženiete na stanicu, a tak vidíte všeliakó svine, aj také,   aj také. Nuž, reku, prosím vás, či ste mi nešli pomôct brava kúpiť.   Ja som väčšieho ešte nekupoval} vy, keď tým kupcom preháňate, lepšie   sa viete zjednať.“
+   </tei:p>
+   <tei:p>
+    „A, ba pôjdem, súsedko, s vami, veľmi vďačne, ale trošku   neskoršie. .Viete, som tým kostolníkom, nuž idem farára obliecť, v   kostole sa ukážem, ale prídem hneď a pôjdeme.“
+   </tei:p>
+   <tei:p>
+    „No, len sa teda ponáhľajte, a keď idete do kostola, vzdychnite,   aby nám Pán Boh pomohol dobre kúpiť.“
+   </tei:p>
+   <tei:p>
+    „Azda nám len Pán Boh pomôže,“ —■ uisťoval sused Čiapka Kuvika, a   rozišli sa.
+   </tei:p>
+   <tei:p>
+    Kuvik už bol vdovcom, musel si teda sám aj variť. Čiapka bol   ženatý, ale žena už včas ráno bola odišla do Žiliny na
+   </tei:p>
+   <tei:p>
+    ﻿jarmok. U Čiapkov bývala aj švagriná, chorľavá stará dievka, ale   tá už tiež bola v kostole, ked Kuvik k susedovi vkročil.
+   </tei:p>
+   <tei:p>
+    Adam prihrial si teda od večera kapustnicu a so zemiakmi tak si ju   ujedal, že mu až pot dolu tvárou tiekol.
+   </tei:p>
+   <tei:p>
+    „Ach, a keby tak bola ešte k nej klobáska!“ — myslel si pri   jedení. „No, ale však bude! Kúpim si sviňu, takú tučnejšiu a narobím   si klobás, ako mäsiar v Žiline.“
+   </tei:p>
+   <tei:p>
+    Rozochvený sladkou myšlienkou, jedol, kým čo videl. Len potom   zbadal, že sa ešte má obliecť, a peniaze dobre opatriť, lebo súsed už   aj tak ide. Nechal teda všetko na stole, natiahol lepšie šaty a zpoza   obrázka vzal peniaze, zaviazané v šatočke, a vložil za pás až na holé   telo. Vzal palicu, zavrel dvere, prežehnal dom a šiel k súsedovi   Čiapkovi, aby sa čím skôr schystal. Ten už bol vo dverách a sám stál   na tom, aby sa už teraz ponáhľali, že by dajak nestretli Čiapkovu   ženu, Katru.
+   </tei:p>
+   <tei:p>
+    Nebál sa jej síce, ked bol triezvy, ale opitého veru ho vše   vycuchtila. No ale
+   </tei:p>
+   <tei:p>
+    5
+   </tei:p>
+   <tei:p>
+    ﻿6
+   </tei:p>
+   <tei:p>
+    nemusíte všetko vedef, čo sa v dome robí, aby neboly z toho   klebety v Chumáči. Adam Kuvik a Bartolomej Čiapka, sviatočne   oblečení, s teplou baranicou na hlavo a s palicou v ruke, kráčali   dolu dedinou. Z úst jednomu i druhému visela fajočka. Zima nebola   veľká, bol padol odmäk. Kráčali strmo, haleny sa im len tak   rozvieyaly. Pred Markusom zadrhlo im krok. Ďalej ani kročif.
+   </tei:p>
+   <tei:p>
+    „Poďme, susedko, k Markúsovi, vypijeme si po deci, bude sa nám   lepšie kráčať,“ navrhol Kuvik.
+   </tei:p>
+   <tei:p>
+    „Yeru poďme, ja som dnes ešte aj tak ničoho nemal v hube.“
+   </tei:p>
+   <tei:p>
+    „Tak, štrngnime si, a nech nám dá Boh na zdravie a na dobrý   úžitok, aby sme, čo máme pred sebou, mohli šťastlivé pokonať.“
+   </tei:p>
+   <tei:p>
+    by som si ešte jednu vypil. A vy, súsedko, Adam?“
+   </tei:p>
+   <tei:p>
+    Vošli. Dali si naliať rascovice.
+   </tei:p>
+   <tei:p>
+    Súsed prisvedčil, a zopätoval tie samé reči. „Dobrá rascovička“,   hovorí Čiapka, „ja
+   </tei:p>
+   <tei:p>
+    „Ja vari tiež, keď je taká dobrá. Markusko,
+   </tei:p>
+   <tei:p>
+    ﻿dajte nám ešte raz po deci,“ pýtal znovu Kuvik.
+   </tei:p>
+   <tei:p>
+    „Ale potom, susedko,“ hovorí Čiapka, „zaraz pôjdeme.“
+   </tei:p>
+   <tei:p>
+    Štrngli si, aby bol Boh na pomoci pri jednaní, že by lacno   kúpili.
+   </tei:p>
+   <tei:p>
+    „A kamže sa tak náhlite a čo idete kupovať, Adamko?“ opýtal sa ho   zarastený starý Markus.
+   </tei:p>
+   <tei:p>
+    „Ale, ošípanú si idem kúpiť. Toť, cez zimu s kapustnicou klobáska,   alebo kapusta s údeninou a k nej zemiačik, musí to byt dobré. A   kapusty i tých zemiačkov, dakovať Bohu, mám dosť, nuž ešte tú svinku   dáku, čo by sa po nich — ako sa vraví — pováľala.“
+   </tei:p>
+   <tei:p>
+    „No, to je dobrá vec, kto to môže mat, ako vy, Adamko,“ prikývol   Markus lichotivé. „No, no, aj druhí by mohli..
+   </tei:p>
+   <tei:p>
+    „Mohli, keby každému syn posielal z Ameriky každú chvíľu 20—30   zlatých,“ pomyslel si Čiapka; ale nepovedal nič, len prisvedčil   Markusovi.
+   </tei:p>
+   <tei:p>
+    Kuvik platil vopred, ale ked vstávali, že
+   </tei:p>
+   <tei:p>
+    Yedel, že on musí častovať.
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿8
+   </tei:p>
+   <tei:p>
+    už idú, pre istotu pýtal sa Markusa, čo je dlžen.
+   </tei:p>
+   <tei:p>
+    „Už ste zaplatili; čo by ste boli dĺžni! Dĺžni ste — druhý   raz prísť,“ riekol Markus, ako vždy hovorieval, keď kto po zaplatení   ešte sa opýtal, čo je dlžen.
+   </tei:p>
+   <tei:p>
+    Zasmiali sa všetci, a Čiapka, ako človek od kostola, nábožne   doložil, že dá Boh, že ešte aj dnes prídu.
+   </tei:p>
+   <tei:p>
+    „Ale dajte nám ešte po cigare, Markusko,“ riekol Kuvik vo   dverách.
+   </tei:p>
+   <tei:p>
+    Zapálili si a šli. Trocha sa dlhšie zabavili, no ale teraz už   pôjdu ako mládenci: nohy zdužely; v ústach cigara, posotili trocha   čiapky do tyla a pod jedon za druhým a kde lepšie, aj povedia. „No,   susedko, ako ste spali?“ „A vy, súsedko, Adam?“
+   </tei:p>
+   <tei:p>
+    „Dobre som spal, dobré veru. Trocha som sa večer zabavil u   Markuska, ani som sa potom nezobudil až do rána.“
+   </tei:p>
+   <tei:p>
+    „Ja veru som zle spal. Znáte toho môjho chlapčiska, Jana. Prišlo   mi odkiaľsi napité, a už ked sa napije, neviete, čo je to za
+   </tei:p>
+   <tei:p>
+    ﻿potvora; druhej takej na svete nenájdete!“ žaloval sa Čiapka na   17-ročnóho syna.
+   </tei:p>
+   <tei:p>
+    „Ako mladý človek, aj my sme lepší neboli v tom veku,“ prehováral   Adam.
+   </tei:p>
+   <tei:p>
+    „Keď sa napije — však to nič nerobí, aj ja si rád upijem; ale keby   aspoň prišiel domov poriadne a ľahnul si pekne, nuž by som nič. Ale   prišiel v noci domov, iba keď zarinčí sklo na okne. Vyskočíme, iba   keď sa vám už tisne cez okno do izby. Ja som vyšiel von, a povedal   som mu, že čo robí. A on, že — ide si ľahnúť spať. — Ja mu vravím:   „Janko, cez okno nevojdeš, hybaj cez dvere dnu.“ Že však bol pri   dverách, a že keď boly zamknuté, že ide cez okno, a v tom vybil druhú   tablu, novú, v jaseni som ju dal za štyri groše zarezať. Mňa   pochytila zlosť, strhol som ho s okna a začal biť, že mi ho už potom   ani mať nemohla z ruky vydriapať. Nepolezie ten už viacej cez okno do   izby. Ja som si myslel, že s tej zeme nevstane! Ešte ma dosiaľ päsť   bolí. Teraz mi ho je už chudáka aj ľúto, lebo ten musí byť celý   počernetý. To ste,
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿10
+   </tei:p>
+   <tei:p>
+    súsedko, museli ozaj dobre spaf, ze sto rlíô nepočuli,“ rozprával   zdĺhavé Čiapka.
+   </tei:p>
+   <tei:p>
+    Adam vyhovoril sa na trúnok, ten že ho tak uspah
+   </tei:p>
+   <tei:p>
+    „Sused Adam, pozrite Sa, tu je pívováť, Á dobré pivo vám tu   šenkujú . ., Mne aspoň nikde tak nechutí, ako tu. Vidíte, tam ho   varia,, a tuto hned predávajú. A to bude hádam, parom ho vie, ale tak   to bude, že tam ho varia, a ten vrch z neho tu musia vyšenkovaf. A   keč soberieš vrch s polievky, už je to len lepšie, ako ten spodok.   Nuž tak to bude nebodaj aj s tým pivom. Tentošenkár je najbližšie,   ten soberie vrch, teda to najlepšie z celého piva, preto je tu také   dobré. Čert ho vie...“
+   </tei:p>
+   <tei:p>
+    „Teda podme, súsedko, dnu, okoštujeme ho,“ porozumel   Adam.
+   </tei:p>
+   <tei:p>
+    Adam málo piva popil v živote, ale totemu chutilo. Ponáhľali sa, a   nebolo veľmi studené a tá pena na ňom ako smotana.
+   </tei:p>
+   <tei:p>
+    Sišli do doliny.
+   </tei:p>
+   <tei:p>
+    Takto nahováral Čiapka Kuvika na pivo.
+   </tei:p>
+   <tei:p>
+    „Ej, súsedko, vy ste dobre vyštudovaný
+   </tei:p>
+   <tei:p>
+    ﻿v týchto veciach, viete, kde sa dobrý trúnok dostane“, usmial sa   Adam.
+   </tei:p>
+   <tei:p>
+    Mal pravdu. Už len takto pri fare prv zvie, čo je dobrý trúnok,   než u Markusa. Dali si ešte po pohári.
+   </tei:p>
+   <tei:p>
+    „Ba, na môj hriešnu, je lepšie, ako tá kapustnica!“ a mľasnul   sused Adam ústami, ako by dlaňou plesol. Čiapka sa len usmieval, že   Adam jeho výmysel’ ísf na pivo tak chváli.
+   </tei:p>
+   <tei:p>
+    Nemohol odolaf pokušeniu starý Adam. Boly tam aj slané rožky,   opýtali sa, či Je to na predaj, a vzali si po jednom.
+   </tei:p>
+   <tei:p>
+    „Ach, susedko, Bartolomej,“ — chválil ďalej Adam, — „to sa vám   pije, ako sladké mlieko, keď človeka záha páli!“
+   </tei:p>
+   <tei:p>
+    „Znamenite, Bartolomej môj,“ — a položil mu ruku na plece. — „Ale,   susedko, už musíme ísf. Máme ešte veľkú úlohu pred sebou.“
+   </tei:p>
+   <tei:p>
+    „Bodaj fa, dajte nám ešte po pohári.“
+   </tei:p>
+   <tei:p>
+    Oblizoval si spodnou vrchné gamby.
+   </tei:p>
+   <tei:p>
+    „Však som to dobre, susedko, premyslel?“
+   </tei:p>
+   <tei:p>
+    Zaplatili, zdvihli sa a šli, ešte ľahšie, než
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+   <tei:p>
+    ﻿12
+   </tei:p>
+   <tei:p>
+    od Markuska. Vo fajočkách ím už horelo, nuž kráčali si veselo   ďalej a v rozhovore ani nezbadali, len keď sa blížili k Salamú* novej   páleniek
+   </tei:p>
+   <tei:p>
+    „Tu je pálenica,“ — vysvetľoval sused Čiapka Kuvikovi, ako by ten   nikdy nebol býval v Žiline, ba ani von z dediny. „Dobrú, jaj, raz   dobrú borovičku vám tam páli akýsi Šalamún. Tú by ste dakedy, tak keď   vám od žalúdka zle príde, mali okoštovať, ale zlatku by ste   neľutovali daf za deci, na môj pravda, susedko. Poďte, koštujeme ju.   Deci spoločne: len aby ste nepovedali, že vás súsed Čiapka klame.   Nikdy, ja vás nikdy, susedko, neklamem; nech ma hneď čert vezme, ak   vás oklamem.“
+   </tei:p>
+   <tei:p>
+    Adam mal uši staré, ale citlivé. Stačilo by bolo slovo, nie toľká   kázeň.
+   </tei:p>
+   <tei:p>
+    Zalizli sa obidvaja, chutila im borovička lepšie, než   rascovica.
+   </tei:p>
+   <tei:p>
+    „Vypime si ešte po poldeci,“ — nahováral Adam.
+   </tei:p>
+   <tei:p>
+    „No, už nedbám“ — odvetil nepriečny Bartolomej.
+   </tei:p>
+   <tei:p>
+    ﻿Šalamún videl, že susedom borovička chutí, začal ju ešte chválif,   a že zvlášť ráno na lačnô za skleničku dobre padne, že to ako by   prsia pomastil. On že tiež každé ráno si vypije, a keby mal odísť   dakam ďalej, aj tamže si sebou vezme do skleničky. Lebo že takej   nikde inde nekúpi. Inde borovička driape, táto je ako olej, hojí. -—   Či nemá pravdu? Že veru hej, dosvedčili susedia. Adam počal hútať, že   či by si aj on nemal vziať pár deci na jeho staré pľúca, a keď ho vše   tak podúša, pustiť jej kvapku dolu hrdlom. Rozhodnul sa za to, že si   borovičky kúpi. Odporúčal mu to aj Čiapka, že veru aby si doprial na   staré dni, keď si môže, aby si ten biedny • život, na koľko Pán Boh   dá, predĺžil. Šalamún mal pečatené litrovky. Za zlatovku kúpil i Adam   jednu. Najprv pritisol ju k srdcu, ako dačo najdrahšie a strčil ju do   rukáva. Odporúčali sa a ťahali hore pod ten vrštek k Žiline.
+   </tei:p>
+   <tei:p>
+    „No, kadiaľ pôjdeme? či cez vrch, či po ceste? Cez vrch je   bližšie,“ riekol Čiapka.
+   </tei:p>
+   <tei:p>
+    13
+   </tei:p>
+   <tei:p>
+    ﻿14
+   </tei:p>
+   <tei:p>
+    „Kadia! je bližšie, tadiaľ pôjdeme,“ — a pustili sa hore   vrškom.
+   </tei:p>
+   <tei:p>
+    Už ich hodne točilo. Yše jedon ostal, vše druhý. Ale sa vždy   počkali. Sňah bol mäkký, chodník dobrý, aj slniečko svietilo. Už   mohlo byt tak desať hodín pred poludním.
+   </tei:p>
+   <tei:p>
+    Sused Adam počal si fažkaf, že nevládze, že sa potí, a že by bolo   lepšie bývalo ísf po ceste. Odfukovali obidvaja, až im hrdlo vyschlo.   Susedovi Adamovi sa už jazyk lepil na gamby. Po krátkom rozmýšľaní   otvorili nožíkom fľašku s borovičkou a občerstvili sa. Fľašku dal   Adam niesf Bartolomejovi, a ten niesol ju v oboch rukách pred sebou,   majúc palicu zavrznutú pod pazuchou, a vše ostal na 3—4 kroky a   ovlažil si jazyk. Uniesol viac, než Adam, alebo sa mu aspoň viac   žiadalo. Asi po tretí raz ho Adam dozrel, ale sa nepohnevali,   Bartolomej sľúbil to vynahradif a sľub potvrdili spoločne   občerstvením. Ale fľašku niesol už potom i piaty raz vypadla Adamovi   fľaška ubitý chodník a rozbila sa. Božekali sklom, počali ho sbieraf,   ale
+   </tei:p>
+   <tei:p>
+    ﻿márne, borovičku ostatnú vypil sňah. Zastal im však rozum, ak ešte   aký mali; dobre, že celkom nezúfali; len jednou rukou podvihli si   baranice, a druhou skoro trhali si vlasi. Bartolomej dohováral   Adamovi, že fľašku zle držal, Adam sa zase vyhováral, ako by bol   aspoň človeka zabil, a uznával, že nemal braf fľašku Ciapkovi z   rúk.
+   </tei:p>
+   <tei:p>
+    Konečne okolo poludnia dotackali sa do Žiliny a šli rovno na   jarmok.
+   </tei:p>
+   <tei:p>
+    „Je už okolo poludnia, kupci už odišli, len podme, kúpime dobre,“   — ubezpečoval Čiapka.
+   </tei:p>
+   <tei:p>
+    Na ceste stretli chlapca, ktorý hnal päť, či šesf bravov pred   sebou už z jarmoku.
+   </tei:p>
+   <tei:p>
+    „Súsedko, mne by sa ten na predku — nože ich zastav, chlapče —   hľa, ten prvý, pozdával,“ — hovoril Adam, a pošli obidvaja ku   bravom.
+   </tei:p>
+   <tei:p>
+    „Na predaj, chlapče ?“
+   </tei:p>
+   <tei:p>
+    „Na predaj.“
+   </tei:p>
+   <tei:p>
+    „A čieže sú?“
+   </tei:p>
+   <tei:p>
+    „Pána hrobárove.“
+   </tei:p>
+   <tei:p>
+    „ A kdeže sú pán ?
+   </tei:p>
+   <tei:p>
+    15
+   </tei:p>
+   <tei:p>
+    ﻿16
+   </tei:p>
+   <tei:p>
+    Toľko nedám, ale bude dosf otcu-materi 40 zlatých zaň.“
+   </tei:p>
+   <tei:p>
+    Zjednali sa za 45 a hrobár dá 2 litre vína na oldomáš. Brava   hrobár poznačil a zavolal susedov, že aby oldomáš vypili u neho. Má   aj fľašu, aj má kto poslúžiť. Uznali, že im bude ľahšie vymotať sa   ztadiaľ poza mesto domov, než pantať sa s bravom pomedzi jarmočníkov.   Chlapec zabehol po dva litre vína, hrobárka dala pohárik}’, Adam   vyplatil, potom si vypili, poshovárali sa, navinšovali šťastia,   zdravia, požehnania, vypýtali kus žínočky, zasídlili bravovi na nohu   a Adam, hrdý, že brava vedie, vše pobehol za ním, vše sa ho zase aj   dost brav naťahal, alebo ho zase obidvaja museli tiskať a po ceste   upravovať. Potom premysleli tak, že Adam brava držal na žínočke za   nohu, a Čiapka išiel pred ním a volal ho, vytŕčajúc mu prázdnu   baranicu. S ľuďmi, čo ich stretali,
+   </tei:p>
+   <tei:p>
+    „Tamto idú.“
+   </tei:p>
+   <tei:p>
+    Pozdravili sa, podali si ruky. „Čo pýtate za toho bravca? — Toho,   hej.“
+   </tei:p>
+   <tei:p>
+    „Ak mi dáte 50 zlatých, tak bude váš.“
+   </tei:p>
+   <tei:p>
+    ﻿alebo predišli, veľa sa neshovárali. Keď kto cenu uhádol, alebo mu   povedali, doložil že je lacný a šiel ďalej.
+   </tei:p>
+   <tei:p>
+    Prišli ku rieke na lávku. Brav, čo ho ako pekne vyvolávali,   tiskali, nechcel sa daf na lávku napraviť. Keby bola rieka ľadom   zakrytá, ľahko by prešli, ale je nie celá zamrznutá. A treba sa im   ponáhľať. Čo robiť? Poradili si. Sused Adam vyzul krpce, podal ich   Čiapkovi a šiel s bravom cez rieku. Ako k rieke sišli, brav počal piť   vodu.
+   </tei:p>
+   <tei:p>
+    Sused Bartolomej díval sa s lávky, a prehodil, že — „tá hrobárka   mu čosi dobrého musela dať, len hľaďte, aký je ten brav smädný; ten   hádam preto nechcel ísť po lávke, že sa chcel napiť. A vraj hovädo   nemá rozum. Ahm!“
+   </tei:p>
+   <tei:p>
+    Keď prešli cez vodu, sadol si Adam a obul krpce. Brava zatiaľ   podržal Čiapka.
+   </tei:p>
+   <tei:p>
+    „Ale, aký je nejaký tichý ten brav, susedko,“ — hovorí Čiapka. „A   ako na vás pozerá, či ste už hotový.“
+   </tei:p>
+   <tei:p>
+    „Ako vravíte, má svoj rozum,“ — doložil obutý už Adam.
+   </tei:p>
+   <tei:p>
+    17
+   </tei:p>
+   <tei:p>
+    ﻿18
+   </tei:p>
+   <tei:p>
+    Začali ďalej kráčať- Brava prevzal zase Adam.
+   </tei:p>
+   <tei:p>
+    „Ale, susedko,“ — riekol Adam, „ten hrobár musí byť najlepším   gazdom v Žiline, lebo akých pekných 6 kusov viedol nazpät a kto vie,   koľko ich predal.“
+   </tei:p>
+   <tei:p>
+    „Veru, veru“ — doložil Čiapka a kráčali pomaly ďalej, rozprávajúc   o všeličom, až dochodili k Šalamúnovej pálenici. „Lala, súsedko, už   sme pri Šalamúnovi,“ riekol Čiapka. „Ako chytro nám čas ušiel.“ „Ja,   ozaj, musím ísf Šalamúnovi zaplatiť za fľašu z tej borovičky. Brava   uviažeme predo dvermi a my poďme dnu,“ — bol návrh hotový.
+   </tei:p>
+   <tei:p>
+    „Vítajte, — už ste sa vrátili? No, ako sa vám vodilo? Kúpili ste   čo?
+   </tei:p>
+   <tei:p>
+    „No pravdaže. Však viete, čo si ja raz pred seba vezmem, to musím   vykonať.“
+   </tei:p>
+   <tei:p>
+    „Dobrý večer, Šalamúnko.“
+   </tei:p>
+   <tei:p>
+    „A či sa vám pošfastilo?“ „Poďte pozret, Salamúnko.“ Išli. „Dali   ste najmenej päťdesiat zlatých zaň.
+   </tei:p>
+   <tei:p>
+    ﻿Veď sa ten nemusí ani pokrmiť, len hned zaklat. Vy ste dobrý   kupec! To ste s Bartolomejkom tak vyňuchali, Adamko ? Čože ste predsa   dali zaň ?“
+   </tei:p>
+   <tei:p>
+    „To ste lacno kúpili, na môj pravdu, lacno. Ten brav je   otcu-materi päťdesiat zlatých hoden.“
+   </tei:p>
+   <tei:p>
+    „Šalamúnko, viete čo, nešťastie sa mi prihodilo. Vypadla mi tá   litrovka z rúk a zabila sa. Čo som za ňu dlžen? Či to bolo už aj za   fľašu zaplatené tou zlatovkou?“
+   </tei:p>
+   <tei:p>
+    „Nie, nebolo; ale ked ste mali škodu, nechajte tak, nebudem vám ja   druhú robiť. Nekoštuje vás tá fľaša nič.“
+   </tei:p>
+   <tei:p>
+    „Yy ste jedon poriadny človek, to vám hovorím, a preto, čo tá   fľaška stála, prepijeme, však súsedko Bartolomej?“
+   </tei:p>
+   <tei:p>
+    „Prečo by sme nepili, len by bolo čo!“ prisvedčil Čiapka.
+   </tei:p>
+   <tei:p>
+    „Ale už poďme, súsedko, lebo kým ešte prídeme domov, bude hlásnik   hádam aj jedenásť trúbiť.“
+   </tei:p>
+   <tei:p>
+    „Štyridsaťpäť zlatých, poviem vám pravdu.“
+   </tei:p>
+   <tei:p>
+    zase štyri ded borovičky.
+   </tei:p>
+   <tei:p>
+    19
+   </tei:p>
+   <tei:p>
+    ﻿20
+   </tei:p>
+   <tei:p>
+    Adam zaplatil, brava odviazali a kráčali tackajúc sa k domovu.
+   </tei:p>
+   <tei:p>
+    „Ale, susedko, aký je ten Šalamún poriadny človek, to by som nebol   myslel. Ani nechcel za tú fľašu vziaf.“
+   </tei:p>
+   <tei:p>
+    „A už za to je veru poriadny. A ešte ako povedal, že keď ste mali   škodu, nebude vám druhú robiť.“
+   </tei:p>
+   <tei:p>
+    „A toho brava šacuje aj on na 50 zlatých. Tak som podľa toho   predsa dnes zarobil 5 zlatých. To môžeme ešte piatku prepiť dnes.   Však aj tak načo sú mi ? Načo mám gazdovať? Nemám ženy, ani detí, a   ten tam v tej Amerike, Pán Boh mu pomáhaj, zarobí. A tak mi dal aj   napísať, aby som užil na svoje staré dni. Dobrý synak, čo ma aj   opustil, ale nezabúda na štvrté Božie prikázanie.“
+   </tei:p>
+   <tei:p>
+    Skoro sa obidvaja poplakali, že má Adam takého dobrého syna v   Amerike.
+   </tei:p>
+   <tei:p>
+    „Lala, susedko, v pivovári ešte svieťa, A počujte, aj muzika íirá.   A na trúbach, to bude vojenská, alebo hasičská. Poďme dnu na chvíľu,   budeme počúvať. Aspoň sa
+   </tei:p>
+   <tei:p>
+    ﻿flám trochu srdce obveselí. Brava niekde uviažeme. Však on   neprechladne, keď si aj vonku trochu postoji, hrobár ho iste dobrým   vychoval,“
+   </tei:p>
+   <tei:p>
+    „Aj mňa trocha smädí po tej borovičke, ľž som chcel ísf aj studňu   hľadať do dvora.“
+   </tei:p>
+   <tei:p>
+    „No, keď sme už tu, nepotrebujeme piť vodu. Mňa aj tak hneď brucho   od nej bolí.“
+   </tei:p>
+   <tei:p>
+    Vošli. Rozkázali si a pili. V druhej izbe hrala robotnícka hudba z   fabriky. Načúvali, ani sa za chvíľu neshovárali.
+   </tei:p>
+   <tei:p>
+    Pivo Adam chválil, akokoľvek aj ráno.
+   </tei:p>
+   <tei:p>
+    „Len vraj jednu chybu má,“ usmial sa Čiapka,
+   </tei:p>
+   <tei:p>
+    „Ja mu žiadnej nenachodím.“
+   </tei:p>
+   <tei:p>
+    „Ba jednu má, a veľkú chybu. Keď vám najlepšie chutí, musíte pohár   od úst odtiahnuť, lebo je už prázdny.“
+   </tei:p>
+   <tei:p>
+    máte rozum, súsedko; ale nečudo, keď mnoho chodíte okolo pána   farára, už sa to len aj na sprostého prilepí, keď s múdrym obcuje,“   chválil vtip Bartolomejov súsed Adam. Oba sa zasmiali a dali si znovu   naliať.
+   </tei:p>
+   <tei:p>
+    21
+   </tei:p>
+   <tei:p>
+    ﻿22
+   </tei:p>
+   <tei:p>
+    Po chvíli schytili sa do tancu. Ale to dalo by sa iba namaľovať.   Zabávala sa na nich celá spoločnosť. Vše jedon odpadol, Zase druhý.   Vše ten toho dvíhal, zase ten toho, a ked sa zodvihli, dubili dalej   až do ukonania. No smiechu bolo, ani na komédii počas jarmoku!
+   </tei:p>
+   <tei:p>
+    „Susedko, vypime a podme už, lebo je už čas, aby sme domov išli. A   potom aj to hovädo tiež si chce odpočinúť,“ volal Čiapka, ked sa už   dosť napili a natancovali.
+   </tei:p>
+   <tei:p>
+    „Na môj’ pravdu, keby nie ten brav, ja by som tu bol aj do rána,   tak sa mi tá hudba s tým pivom páči,“ doložil Adam.
+   </tei:p>
+   <tei:p>
+    „Ale sme si zaskočili, čo sme aj starí, aj sme si dobre zapili   toho piva! Ako sa to dobre po tej borovičke pivo pije,“ ču* doval sa   Adam.
+   </tei:p>
+   <tei:p>
+    „Hja. to vám je tak, susedko, — boro* vĺčka, tá suší hrtan aj   žalúdok, a pivo zase občerstvuje,“ vysvetľoval Bartolomej.
+   </tei:p>
+   <tei:p>
+    No pohli sa.
+   </tei:p>
+   <tei:p>
+    Idúc po ceste rozprávali si.
+   </tei:p>
+   <tei:p>
+    „Ved je to dobre, ked sa človek tak
+   </tei:p>
+   <tei:p>
+    ﻿ttlóžo kedykoľvek občerstviť,“ pochvaľoval Adam.
+   </tei:p>
+   <tei:p>
+    „Susedko, viete Čo? To pivo má akúsi Čertovskú silu. Už mi začína   do hlavy udierať,“ počal Sa ponosovať súsed Adam.
+   </tei:p>
+   <tei:p>
+    „A ja by som, súsedko, mohol ešte aj dva litre vypiť, takú silu   cítim a chuť by som tiež mal, ale len domov, lebo doma, hm, čo bude   moja žena . , zamlčal sa Čiapka,
+   </tei:p>
+   <tei:p>
+    Dobre, že bolo dosť vidno, snahu nie tak mnoho a chodník nepustil   súsedov, lebo by sa boli zatúlali. A vlastne brav Viedol predok, nuž   ľahko bolo súsedom kráčať, A kecľ ktorý zabil nosom do snahu, druhý   nebol taký, aby ho nepočkal, alebo nešiel dvíhať, Len brav vše   zakrochtal a inykol sa, keď mu súsed Adam Kuvik do zadnej čiastky   tela baranicu vrazil,
+   </tei:p>
+   <tei:p>
+    „Súsed, a ma čert vzal, horí,“ strhol sa Adam, keď počul akési   trúbenie.
+   </tei:p>
+   <tei:p>
+    „Ale nie, to vám tá muzika z pivováru V ušiach hučí,“
+   </tei:p>
+   <tei:p>
+    Šli ďalej,
+   </tei:p>
+   <tei:p>
+    Poobzerali sa, ale plameňa nikde nič,
+   </tei:p>
+   <tei:p>
+    23
+   </tei:p>
+   <tei:p>
+    ﻿24
+   </tei:p>
+   <tei:p>
+    „To hlásnik hlási, už sme doma,“ pochopil zvuk trúby Čiapka.
+   </tei:p>
+   <tei:p>
+    Počúvali, a skutočne po dlhšom hádaní poznali hlas ich obecnej   trúby. Bolo už jedenásť v noci.
+   </tei:p>
+   <tei:p>
+    Prišli do dediny. Poznávali domy a prvý rozoznali Markuskov.
+   </tei:p>
+   <tei:p>
+    „Skoda, že ten náš Markusko už spí, vypili by sme si tej rascovej   po deci na dobrý odpočinok, keď sme už doma,“ želel Adam.
+   </tei:p>
+   <tei:p>
+    „Nechajme ho, nech si pospí. Však, keď stojí, chudák, celý deň na   nohách, treba mu aj spať,“ odhováral Čiapka.
+   </tei:p>
+   <tei:p>
+    Súsedia kráčali ďalej, ako keby cestu vymeriavali, či je   široká.
+   </tei:p>
+   <tei:p>
+    Brava zavreli do chlieva a napoďakúvajúc sa jeden druhému, priali   si dobrú noc. Bartolomejova žena, keď muž dvermi vrzol, zobudila sa,   vstala zažala kahanec — a doňho! Šiel jej jazyk, ako mlynské koleso   alebo rapkáč.
+   </tei:p>
+   <tei:p>
+    „Ale nie. No, počujte!“
+   </tei:p>
+   <tei:p>
+    Zase* zastali a počúvali.
+   </tei:p>
+   <tei:p>
+    „Postojme že.“
+   </tei:p>
+   <tei:p>
+    ﻿„Ty korhelisko, ty lump, kdeže si celý deň blúdil aj s tým druhým   korkeľom?! Ty si včera syna zmlátil, teraz ak ja začnem (a hneď aj   začala!) teba rvať, vlasa ti neostane na hlave!“
+   </tei:p>
+   <tei:p>
+    Bartolomej chcel sa vyhovárať, ale nemohol k slovu prísť a brániť   sa nevládal. Y tom mykaní žena ho skoro sobliekla. Krpce si ani   nevyzúval, len tak sa prevalil a zaspal. Žena mu ešte dlho nadávala   pri boku, ale kto by ju počúval? Bartolomej zaspal.
+   </tei:p>
+   <tei:p>
+    Do rána, sám Pán Boh vie, od čoho, od čoho nie, či mu dakto dačo   pri Šalamúnovi, či v pivovári podal sožrať, alebo či si tou chladnou   vodou pľúca oparil, ale brav, ak neveríte, presvedčí vás celý Chumáč,   do rána — zdochol.
+   </tei:p>
+   <tei:p>
+    Hneď ráno sišli sa súsedia, aj cudzí, a už sa vyponosovali jedon   druhému, koľko kedy a akých nešťastí ich potkalo. Svet poradil, aby   hneď išli ku hrobárovi, že by Adamovi peniaze vrátil a vzal si   brava.
+   </tei:p>
+   <tei:p>
+    25
+   </tei:p>
+   <tei:p>
+    ﻿26
+   </tei:p>
+   <tei:p>
+    Stavili sa po ceste zase u Markusa, v pivovári, u Šalamúna, v   Žiline na dvoch miestach okrem hrobára, a všade sa už vyžalovali,   ako, čo kúpili, a čo sa do rána stalo.
+   </tei:p>
+   <tei:p>
+    Hrobár nechcel vyplatiť. Žalovali ho, súd ho osvobodil, lebo sami   nevedeli povedať, kto bol pri ňom, kým oni sedeli u Šalamúna, a potom   keď v pivovári tancovali. Nedali si pozor naň, a zato má byt   zodpovedný hrobár?
+   </tei:p>
+   <tei:p>
+    Nachodili sa po tri razy do súdu, až sa Adamovi všetky peniažky po   krčmách minulý.
+   </tei:p>
+   <tei:p>
+    Na ostatok, ked už videli, že prehrali, stavili sa u Markuska, a   povedali si, že brava nebolo, a ani nemusí byť. Človek si dosť   pomastí hrdlo aj borovičkou, alebo rascovicou.
+   </tei:p>
+   <tei:p>
+    U Čiapkov na večer bola zase zvada a bitka, ale Bartolomej Čiapka   si z toho nič nerobil.
+   </tei:p>
+   <tei:p>
+    „Darmo je, keď ma uvládze! Zato Adam Kuvik s Bartolomejom Čiapkom   vždy budú
+   </tei:p>
+   <tei:p>
+    ﻿verní súsedia. Bol som tri razy za svedka a — nepýtam ani   krajciara — a to moju ženu mrzí, že meškám! Meškám len svoj čas, a   nie tvoj, a ked na to príde, ja s Adamom Kuvikom kedykoľvek pôjdem   sviňu kupovať. Čo sa nám kúpa aj nevydarila, ale každý vravel, že som   ju lacno zjednal. A to si Adam Kuvik vždy bude vedeť uctiť.“
+   </tei:p>
+   <tei:p>
+    A Adam Kuvik i dalej ujedal si zemiačiky s nemastnou kapustnicou i   bez klobásky, lebo synove mozoľnó groše pre jeho smädný hrtan vyšly   na vnivoč a tá „lacná kúpa“ mu veľmi draho padla.
+   </tei:p>
+   <tei:p>
+    27
+   </tei:p>
+   <tei:p>
+    ﻿Odtlačeno z „Ľud. Nov.“
+   </tei:p>
+   <tei:p>
+    ﻿Poslednia tríesočka dohorievala . . . Ešte niekoľko jasných,   svetlých iskier, ktoré podobajú sa záchvatom umierajúceho, a žeravý   uhlík hasne, zanechávajúc po sebe len slabý kotúčik dymu. A dve   detské hlavičky klonia sa k ohnisku a vynasnažujú sa fúkaním   roznietil zhaslý uhoľ k novému žitiu. Ale márne. Len vychladlý popol   dvíha sa hore a sadá na detské tváre, od zimy osinuló. A vonku divoko   fučí severný vietor, bezzočive vtiera sa do poly papierom zalepenými   oknami a chladí všetky kúty chalupy. — Para od dýchania sadá na okná,   mení sa pomaly v podivnú miešaninu ľadových listov a kvetov, a   sftahové kotúče poletujú roztrhnutým papierom do izbičky. Deň, i tak   už krátky, vedie posledný zápas s tem-
+   </tei:p>
+   <tei:p>
+    Smutný obrázok.
+   </tei:p>
+   <tei:p>
+    ﻿30
+   </tei:p>
+   <tei:p>
+    ným súmrakom. Tmavé šero vždy viac a viac rozprestiera svoje   perute nad okolím a čo nevidef, bude noc.
+   </tei:p>
+   <tei:p>
+    Y maličkej nízkej komôrke je ešte vždy tak zima, takmrazno, že   človeku až trudno ... Nekúria, lebo nemajú čím; nerozžíhajú, lebo   nemajú čo, a v komôrke je vždy clivejšie, smutnejšie. A dvoje   detičiek dosiaľ sedí pri vyhaslom krbe a hľadí meravo do chladného   popola. Dlhý, ťažký vzdych ozval sa z pravého kúta. Keby v tom   okamihu záblesk svetla bol osvietil to miesto, odkiaľ ten vzdych   vyšiel, objavil by sa oku pozorovateľa smutný obraz; na chatrnej   postieľke, ktorá pri každom malom pohnutí boľastne zastená, leží   žena, zbedovaná, utrápená... Lícabľadé, vyschnuté, oči hlboko vpadlé,   pery stiahnuté, ako bez krve; vlasy rozpustené po vychudlých pleciach   ... a na núdznej lóži spočívajú sopätó kostnaté ruky. Ona spí. Prse   dmú sa, sotva pozorovať; len dakedy vylúdi sa hlboký chrapľavý ston a   zase začne nerovné, ťažko slyšateľnó dýchanie. Úbohá! pracovala, až   dopracovala. Ťažká práca, bieda, hlad a starosti uvrhly ju ta, kde je   teraz.— na smrteľnú posteľ . . . Zdá sa, že vedľa znamenia biedy   hľadá smrť vtiskla jej už i svoj znak; aspoň ten
+   </tei:p>
+   <tei:p>
+    ﻿zlovestný vzdych, na to kŕčovitý suchý kašeľ a žena prebúdza sa z   nepokojného sna. „Zima, Anička, zima . . .“ ozve sa tenký hlas.   „Prečo že nepodložíš?“ „Niet už dreva, mamička,“ odpovedá dcéra   tichučko.
+   </tei:p>
+   <tei:p>
+    „Teda aspoň rozsvieť, je tu tak tma, tak smutno . ..“
+   </tei:p>
+   <tei:p>
+    „Posledný olej spálili sme včera...“ „Bože môj! a niet ani   krajeiara. A čo že suseda? Popros ju, ona ti dá dreva i svetla, len   chod. Povedz jej, že otec djres príde a donesie peniaze.“ „Oh, ona   nedá, ona je zlá, veľmi zlá. Včera ma vystrčila cez dvere, keď som ju   prosila o trochu oleja,“ žaluje sa plačlivým hlasom dcéra a slzy   perlia sa jej po bľadých líčkach.
+   </tei:p>
+   <tei:p>
+    „Dobrý Pane Bože, bud nám milostivý !“ zalká žena a oči dvíhajú sa   k nebesiam, A zase je’ tak ticho, ako predtým, len vietor skučí v   komíne, až človeka hrôza prechodí...
+   </tei:p>
+   <tei:p>
+    Y krčme je veselo, hlučno. Kamaráti z mokrej štvrti pijú a   hulákajú; medzi nimi je aj Gábor Podhorský. Muzika hrá, fľaše sa   plnia a najviac rozkazuje Gábor. Aj zvady
+   </tei:p>
+   <tei:p>
+    31
+   </tei:p>
+   <tei:p>
+    ﻿32
+   </tei:p>
+   <tei:p>
+    je .(losí, aj sklenice lietajú a krčmár už daktorých aj von   vyhodil. Konečne zase všetko zatíchlo. Bolo už po polnoci, ked   Podhorský tackal sa domov, opustený od priateľov. „Eh, uži sveta, veď   len raz žiješ,“ mrmle Gábor sám pre seba. A v tom okamihu svalil sa   na zem. „Eh, Gábor, hanbi sa, veď si predsa bol vojakom!“ A zase sa   sviechal a kráčal tackajúc sa ďalej. Sňah vrždí pod nohami, studený,   mraživý vietor preniká až do kosti. Podhorského opúšťajú sily, nohy   sa podlamujú, až konečne umdlený zvalí sa do priekopy. Ešte pár ráz   odfúkne a — už spí pod šírym nebom.
+   </tei:p>
+   <tei:p>
+    V biednej chatrči, dosiaľ čaká úbohá žena na svojho muža s   výplatou, aby zajtra mohla nasýtiť dvoje drobných dietok. Bôľne hľadí   v tú stranu, kde sladko driemu a dve veľké slzy ronia sa jej z očú.   Ale na muža darmo čaká, ten nechodí. Na druhý deň za rána, rozniesla   sa zvesť, že známeho opilca Gábora Podhorského na*y*-v priekope   zamrznutého.
+   </tei:p>
+   <tei:p>
+    „Nár. Hl.“ r. 1897.
+   </tei:p>
+   <tei:p>
+    ﻿Krivá hus a,ručník. Rozprávka. Napísal August Horislav Skultéty.   Cena 16 halierov. Bláznivá a Ako sa naučil Miško kapustu jesť? Dve   rozpr. Napísala Z. Lojková. Druhé vyd. 16 hal. Choré deti a Kto z   mladi zvieratká muči, ten sa ľudí mučiť uči. Dve rozprávky Napísal   August Horislav Skultéty. Cena 16 halierov. Drotárik. Verný psíček.   Mátohy niet! Tri rozprávky. Napísal Anton E. Timko. Cena 16 halierov.   Potrestaná posmešnica. Odmenená vernosť. Malá Eva. Tri rozprávky.   Napísala Z. Lojková. 16 hal. Dobré dieťa poklad rodičov. Kto do teba   kameňom, ty do neho chlebom. Od Z. Lojkovej. Vo väzení. Od Antona E.   Timku. Tri rozpr. Cena 16 hal. Kde sa vzal? Rozprávka z terajších   časov. Napísala Ľudmila Podjavorinšká. Cena 1 2 halierov. S kroka na   krok. „Chodil po pánoch.“ Dve rozpr. Napísal Somolický. Cena 12   halierov. Husacie kosti. Obrázok z dedinského života. Napísal   Podtatranský. Cena 12 halierov. Striga a Doviedol somára miesto   kravy. Dve rozpr. zo života. Napísal Somolický. Cena 12 halierov.   Macocha a Všade dohre, doma najlepšie. Dve rozprávky. Napísal   Dunajský. Cena 12 halierov. Dvaja bratia a Nešťastie — povodcom   šťastia. Dve rozprávky. Napísala Podjavorinšká. Cena 16 hal. Čertove   kúsky. Ľahkomyseľná pravota, hotová psota. Reposicia. Tri rozprávky   zo života. Napísal Somolický. Cena 12 halierov. Lacná kúpa, a predsa   draho padlal Skutočná udalosť. Dľa S. napísal J. G. T., cena 16   halierov. Janíčko a jeho sánočky. Rozprávka. Poslovenčil B. J. H.   Cena 16 halierov.
+   </tei:p>
+   <tei:p>
+    Hrobár a Posledný deň v škole. Poslovenčil Podtatranský, cena 12   halierov.
+   </tei:p>
+   <tei:p>
+    ﻿Cena 16 halierov.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910747" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Majster Béčko : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3064
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Majster Béčko
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Majster Béčko
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V našom neveľkom mestečku sú iba traja ľudia, ktorí si nechávajú   brady rásť: učiteľ, šuster a stolár. Prví dvaja sú nevýznamní ľudia,   známi iba v mestečku a nablízku; ale tretieho, stolára, chýr letí   celou dolinou, ba dostal sa už i do stoličného mesta ...
+   </tei:p>
+   <tei:p>
+    A tak naraz roznieslo sa jeho meno, že všetci stolári v okolí   krútili hlavami, na znak, že sa im to neľúbi.
+   </tei:p>
+   <tei:p>
+    I.
+   </tei:p>
+   <tei:p>
+    Ktorejsi jesene prišla do stoličného mesta cholera. Nie síce tá   pravá, ale ako by tá: choreli a mreli starí i mladí na týfus tak, že   to neslýchať. Brány, vráta boly polepené červenými ceduľami, kňaz   pochovával už iba starých; deti vyprevádzal učiteľ, i to bez   odobierky, len ta a chytro! Vravelo sa, že je voda skazená. Boh vie,   čo bolo ...
+   </tei:p>
+   <tei:p>
+    Ale po meste plač, po nociach svetlo, hlavne po krčmách, u   chorých, záhradníka a v stolárskej dielni i celé noci.
+   </tei:p>
+   <tei:p>
+    Nemôžem povedať, že sa tomu stolári tešili, lebo ne-
+   </tei:p>
+   <tei:p>
+    160
+   </tei:p>
+   <tei:p>
+    ﻿mohli vedieť, ktorú truhlu sbíjajú prípadne sebe, ale zárobky mali   dobré.
+   </tei:p>
+   <tei:p>
+    Dopočul sa o cholere i náš pán majster Béčko, a že bol   životaschopný, podnikavý, ako sa vraví — čert vie, ako si to rozhútal   — ale jednako chytil sa do roboty, za dva-tri týždne iné nerobil so   ženou a dvoma chlapci, a na najbližší trh a či práve jarmok najal   veľký rebrinovec a inšie naň nenaložil, iba samé umrlčie truhly.
+   </tei:p>
+   <tei:p>
+    Na jarmok do mesta došiel, ešte iba svitalo. Zaujal miesto a že   bol suchý čas, nerobil ani šiatra, len rozložil svoj tovar: 15—20   bielych, čiernych, zlatých i obyčajných malých-veľkých truhál a   pokojne opravoval, o nikoho nedbajúc, čo sa na ceste odrelo, odlepilo   a — čakal kupcov.
+   </tei:p>
+   <tei:p>
+    Toho na jarmoku ešte nikdy nebolo.
+   </tei:p>
+   <tei:p>
+    Keď sa rozvidnievalo a trafilo sa prejsť povedľa nejakej ženičke,   prežehnala sa: „Ach, joj, Bože!“ a utekala, ako by sa jej bola smrť   na chrbát obesila.
+   </tei:p>
+   <tei:p>
+    Stolári-jarmočníci mali robotu so svojím tovarom, dochádzali,   rozkladali sa a, ako obyčajne, vítali sa vtipmi. Pozrie jeden — Béčko   iba truhly doniesol; pozrie druhý — Béčko iba truhly rozložil.   Neverili očiam a sišli sa traja-štyria, či ozaj truhly, a či Béčko   niečo nového vymyslel, či už čo . ..
+   </tei:p>
+   <tei:p>
+    „Čo vy to, čo to predávate?“ zadivený povie jeden.
+   </tei:p>
+   <tei:p>
+    „Nejaké divné skrine,“ rečie druhý a šuškajú si všetci vôkol i   ukazujú prstom.
+   </tei:p>
+   <tei:p>
+    „Také na koštiale,“ odpovedá Béčko. „Svadobných by som teraz i tak   nepredal,“ a nič si z toho nerobí, že si páni majstri okolo neho   akosi neobyčajne počínajú.
+   </tei:p>
+   <tei:p>
+    „Aha, iste ich mrzí, že nemali toľko rozumu ako ja, keď videli, čo   smrť v meste s ľuďmi robí... Budeže trh!“
+   </tei:p>
+   <tei:p>
+    11 Mamka POstková.
+   </tei:p>
+   <tei:p>
+    161
+   </tei:p>
+   <tei:p>
+    ﻿a kúriac nepokojne rozčúlením, hľadel na ľudí, čo sa obďaleč   zastavovali.
+   </tei:p>
+   <tei:p>
+    Ale pokazili mu trh. Roznieslo sa mestom, že na rínku i truhly   predávajú;
+   </tei:p>
+   <tei:p>
+    išli na mestský dom. Tu vec trochu zasekla, lebo policajného   kapitána tam ešte nebolo. Šli mu teda na byt oznámiť, a on vstal a   šiel na rínok s Béčkom poriadok spraviť. Sveta sa sbehlo ani na   komédiu.
+   </tei:p>
+   <tei:p>
+    Béčko sa nechcel dať; žiadal si, aby mu ukázali zákon, ktorý   nedovoľuje umrlčie truhly na jarmoku predávať. On si za miesto   zaplatil, furmana zaplatiť musí, zamešká deň, a nedal sa a nedal.   Sveta sa na zvadu shŕklo veľa. Kapitán mu vysvetľoval „humanizmus“,   ale to nijako pochopiť nemohol, a čo i z toho chápal, na to   pripomínal zas on ženu a štvoro hladných detí doma. Svet dovolil si   tiež kričať, že jeho, Béčku, by bolo treba zavrieť a dolu vodou   pustiť . ..
+   </tei:p>
+   <tei:p>
+    Na mestskom dome zápisnica, behanie, zlosť, posmech na ulici, a   Béčko spakoval a odišiel, že pôjde za odškodným k stolici, k   ministrovi...
+   </tei:p>
+   <tei:p>
+    Naložil a vrátil sa nazlostený domov, mysliac si, aký mohol mať   jarmok, keby nie ,,tí somári“!
+   </tei:p>
+   <tei:p>
+    Ale kým hútal, kde žalovať, predal i doma niektorú truhlu, a tak   sa utíšil a nešiel nikam. Vysvetliť si to nikým nedal, ale truhly   viac na jarmok predsa neviezol.
+   </tei:p>
+   <tei:p>
+    Od tých čias je známy, a keď niekto niečo neobyčajného na jarmok   dovezie, pána majstra Béčku tam iste pripomenú.
+   </tei:p>
+   <tei:p>
+    162
+   </tei:p>
+   <tei:p>
+    ﻿n.
+   </tei:p>
+   <tei:p>
+    Môj Béčko pochodí z remeselníckeho rodu. Jeho otec síce do smrti   robil len ako krajčírsky tovariš v meste, ale predsa... Mať chodila   po obsluhách a malý Jožko motal sa celé dni po ulici, alebo posedel u   starej mamky, ktorá predávala pod bránou pečivo, a iste od tejto — že   všetci spolu bývali — zdedil tie náreky, strach o hlad a biedu,   ktorých sa tak bojí, že je plná iba nimi jeho myseľ už aspoň 20   rokov. Trochu chodil i do školy, potom šiel za učňa, vyučený   povandroval a usadil sa v našom mestečku a začal stoláreiť — z   ničoho, ale na svoju ruku. Riadu si niečo bol zadovážil, niečo mu   dali na dlžobu a po známosti, zpočiatku len reparoval, alebo spravil   z cudzieho dreva. A darilo sa mu, lebo bol triezvy a gazdovlivý.   Dielňu mal síce neďaleko krčmy, ale on do nej nešiel, iba na oldomáš,   keď niečo komusi spravil a ten ho zavolal a zaplatil. V dielni jeho   však bývalo vždy teplo. Keď si teda chceli známi posedieť, vošli k   nemu a odtiaľ si dali doniesť do skleničky. On si pritom robil, od   nich z kamarátstva vždy dostal i nejakú robotu. Hovoril vždy, že on   tiež spraví tak ako v meste. Stisol pár zlatých, kúpil dreva, robil,   a keď pomyslel, že sa ožení, lebo takto s varením veľa mešká, alebo   sa nenaje, ktorú prvú — bábinu dcéru — zapýtal, šla zaň, ako na   med.
+   </tei:p>
+   <tei:p>
+    Mali skoro každý rok dieťa, ale nezostali z nich iba dvaja   chlapci, ktorí sa už pri otcovi učia. Chlapci boli dobrí a robotní   ako otec a matka. Poznať, že ich otec na biednom a skúpom chlebe   vychoval. Mať tiež pomáha pri remesle, lebo s domom a kuchyňou nemá   veľa oštary, farbí povestné truhly, okná, dvere a čo príde. A keď sa   jej niekto spýta, či to ona musí robiť, Béčko hneď odpovie, že veru   je mnoho práce a pláca slabá, preto že musí i ona
+   </tei:p>
+   <tei:p>
+    ll
+   </tei:p>
+   <tei:p>
+    163
+   </tei:p>
+   <tei:p>
+    ﻿pomáhať. V ponosách je úprimný, ale prehnane berie najmä biedu.   Vždy má strach pred hladom. Čo, ak by tak robota sekla, čo majú,   chytro by zjedli a potom... ? Má 40 rokov, ale je taký, ako by mal   60. A ako by mu už veku nedochodilo, probuje nejako chytro zmúdrieť i   zbohatnúť. Zodvihne kdejakú kovertu, handričku, myslí na špekuláciu,   priekupníctvo, ale nechytá sa ho, zas len od strachu, že ak vyjde na   mizinu. Od starosti je celý hrbatý a na hlave plešina ako dlaň;   ostatné vlasy dlhé, brada ako sito, len čo mu ju vše žena zaokrúhli.   Dobrá, mäkká tvár, chudých a veľkých kostí, nos čľapatý, ústa   sladkých, vďačných rečí.
+   </tei:p>
+   <tei:p>
+    Vidí, že svet vôkol už i číta, odoberá novinky. Keď nemá tak mnoho   práce, berie do rúk i noviny a mudruje a vysvetľuje z nich druhým.   Najviac ho dojíma, keď je v nich zpráva o nejakom nešťastí rodinnom.   O tom už potom každému rozpráva, kto mu len do cesty príde. Ako   vravím, hlavne v meste na ulici, na jarmokoch zodvihne kdejaký   podozrivý papierik, zdrap novín a hľadá, či by náhodou nebola v nich   dobrá, osožná vec, porada, liek na — chudobu. Podľa ženy má v rodine   nejakého úradníka, ktorý vyžije z toho, čo zarobí. Keď sa raz do roka   s ním síde v meste alebo uňho, nevie mu prenachváliť, aká je to   výhra, keď má mesačný plat.
+   </tei:p>
+   <tei:p>
+    Keď zavítaly Vianoce, Béčko svojim deťom nie, ale deťom tohto   úradníka kúpi pletku, hračku za 15—20 krajciarov, sbije peknú   truhličku a pošle po pošte s vinšom a nárekom na biedu, čakajúc na   Nový rok dary, ktorým tak privykol, že nesmú vystať. Sú to staré   háby. Žena ich trochu obšije, pri stolárstve veľa sa roztrhá. Béčko   chodí celú zimu bosý, totiž len v pantofliach, odrezaných zo starých   topánok. Zimník mu tiež poslal úradník, ale ho nenosí, lebo by si ho   zničil a môže byť synom, keď sa prepustia. V meste od starej Židovky   kupuje háby a klo-
+   </tei:p>
+   <tei:p>
+    164
+   </tei:p>
+   <tei:p>
+    ﻿búky. Vždy tvrdý cylinder, lebo ten obnosený je lacnejší, ako   akýkoľvek mäkký, keďže tvrdý nikto nekúpi, ani do daru nechce, iba ak   vandrovník alebo vagabund.
+   </tei:p>
+   <tei:p>
+    Stalo sa mu tak vyobliekanému, že ho v druhom meste na jarmoku   mali za podozrivého tuláka a nevediaceho sa hneď legitimovať zavreli   ho, kým došiel telegram, že je on skutočne stolárskym majstrom a že   on má také zvyky .. .
+   </tei:p>
+   <tei:p>
+    Robí deň a noc, i v nedeľu a vo sviatok. Robota vraj nie je   hriech. Do kostola nechodí, iba raz do roka — na Silvestra, a i to   sadne, kde ho nikto nevidí. Jemu je vraj práca modlitbou. No pre   kostol, školu, faru rád ponúkne reparáciu a zdarma napraví, za čo sa   mu dostane s kancľa pochvaly, a to je jeho rekláma, ako druhým   ohláška v novinách.
+   </tei:p>
+   <tei:p>
+    Zamyslený je vždy, len keď počuje, že je niekto chorý, ide ho   navštíviť, ponúknu ho pohárikom, dohánom, a je si istý, že ak   patričný umrie, nepobežia do mesta po truhlu. Ak počuje zvoniť na   umieráčku, rozošle celý dom, aby sa dozvedeli, kto umrel, a vezme kus   laty a ponáhľa sa do domu smútku. Je mäkkého srdca, plače s plačúcimi   a bez všetkého poverenia odmeria nebohého, ako by sa to samo sebou   rozumelo, že uňho dajú truhlu robiť. Tak to ozaj vše len vynúti. Len   keď ho vyprevádzajú, spýta sa, za čo a aké drevo chcú mať.
+   </tei:p>
+   <tei:p>
+    V takejto horlivosti stalo sa mu raz, že umieral starý, bohatý Žid   v mestečku a on šiel ponúknuť, na nemalé zadivenie a žiaľ rodiny,   truhlu. Že on spraví takú truhlu, čo potrvá veky, ale z duba. Musí sa   teda skorej chytiť do roboty, nie po smrti. Má krásny dub, bez hrčky;   dobre, že ho ešte nezrobil, a veru pýtali ho už, ale sa nemohli   pojednať. No, nebude draho rátať, len ako po známosti... A bol by sa   azda dotisol k starému chorému Židovi, aby ho odmeral, keby neboli s   ním prísne naložili. Prosím vás,
+   </tei:p>
+   <tei:p>
+    165
+   </tei:p>
+   <tei:p>
+    ﻿však vedel, že ak tú robotu dostane, zarobí čistých 10—12 zlatých.   A to je pekná sumička. Domec už kúpil, zreparoval, teraz by ešte rád   kus poľa kúpiť, aby mal pod zemiaky, kapustu, zeleninu ... Má už pár   zlatých. Ani žena o nich nevie. Ona vôbec nevie, koľko oni už peňazí   zarobili. Jej vydáva po krajciari, po dva, keď dobre uvážil, či to   alebo to je potrebné. Chlapci jeho svojich peňazí v ruke ešte nemali.   Ak niečo treba kúpiť, beží pre to sám. On sa nedá oklamať a jeho   synov by mohli ošudiť. Nemôže si nijako odpustiť, že sa za tovariša   naučil kúriť. S tým má biedu. Vojenský dohán je dosť lacný, papier   tenký z novín, ale mrzí ho, že už chlapci probujú za ním. Akože im   zabrániť? Mieša kvety z ruží a kadejakú vňať, višňové lístie, a tak   sa dusí.
+   </tei:p>
+   <tei:p>
+    Najväčšmi sa hnevá na účty! Keď niečo robí farárovi, do školy, na   obecný dom, žiadajú účty, a so štempľom ešte! Čo je to trápenia, kým   to s chlapcami napíše a nájde niekde starý štemplík, súci na   odlepenie. On myslí, že je to len zvyk, a nie daň. Málo píše, ale   všetko malými písmenami, bez čiarky, bez bodky. Chlapci chodili viac   do školy a ešte nedávno; oni ho opravujú. Nedá sa! Že je to len na   parádu, aby sa negazdovalo s atramentom, papierom a časom. Jeho list   že i beztoho možno prečítať, a prečíta ho celkom správne, že i mať   musí prisvedčiť, i chlapci sa nemôžu ďalej škriepiť.
+   </tei:p>
+   <tei:p>
+    Druhého prácu potupuje, ako každý remeselník. S remeselníkmi   nenadržuje. Sám chcel by byť na svete. Poohovára každého, keď jeho   prácu vidí, a ešte viac, keď sa prechádzajú, zabávajú, pekne šatia,   že je to len sprostá pýcha. Parádu že strúhajú na dlžobu. Kto za nich   len zaplatí ?
+   </tei:p>
+   <tei:p>
+    Ak niekto vezie do dediny cez mestečko kasňu, truhlu, beda   domácim! Prečo nevedia, kto sa žení?! Žena vie rozprávať, klebetiť   (chuderka, nikdy toho nerobí), ale aby
+   </tei:p>
+   <tei:p>
+    166
+   </tei:p>
+   <tei:p>
+    ﻿niečo doniesla do remesla, na to nemá jazyka... Chlapci tiež len   huncútstvo vedia vystrájať, ale... No, keď ich tak vyhreší, žene   sľubuje oddychu na starosť, chlapcom robí radosť zlatým prsteňom,   hodinkami, ktoré visia na perinke na klinčeku nad posteľou i so   striebornou retiazkou a kľúčikom. Bol si to na vandrovke nadobudol.   Hodiniek však už asi 15 rokov, ako je ženatý, nenaťahuje, lebo by čas   meškal a že by sa už boly zodraly. Len keď ide niekam na jarmok,   alebo keď je veľmi dobrej vôle, sníme ich a lakomí chlapcov. A   chlapci nemali ešte nikdy väčšej radosti, až plačú od túžby, aby si   ich mohli už raz pripäť na vestu, čo by len jednu nedeľu jeden, druhú   nedeľu druhý...
+   </tei:p>
+   <tei:p>
+    Otec ich uisťuje, že budú i oni hodinky nosiť, len nech sa usilujú   pri práci, a všetko budú mať.
+   </tei:p>
+   <tei:p>
+    m.
+   </tei:p>
+   <tei:p>
+    Dva roky. Béčko dosť sa bije sám, a ešte ho i Pán Boh prividel.   Umrela mu žena.
+   </tei:p>
+   <tei:p>
+    Bečková, chuderka, často bývala, pravda, len tak na nohách, chorá   a konečne umrela. Béčko spravil jej truhlu a robil celú noc a deň,   kým žena mŕtva ležala. Plakal, reval, robil na pretrhnutie.
+   </tei:p>
+   <tei:p>
+    O 5 týždňov Béčku naviedli oženiť sa druhý raz. Pravda, nebola to   svadba, ako svadby obyčajne bývajú. Totižto poradili Bečkovi nejakú   murársku vdovu, ktorá bola naučená cez leto hojne žiť a cez zimu —   ako bolo, od biedy i do nájmu chodiť s nebohým mužom, ktorý sa   konečne, ako sa vraví, vypil — a umrel.
+   </tei:p>
+   <tei:p>
+    S druhou ženou sa náš Béčko oklamal. Tá už teraz žiada prepisy, on   nechce dať a ona nechce „darmo“ robiť. Hneď na svadbe sa nerozumeli.   On do štvrtej robil, potom sa
+   </tei:p>
+   <tei:p>
+    167
+   </tei:p>
+   <tei:p>
+    ﻿schystal — sám, bez synov — na sobáš; po večeri, o polnoci,   povedal hosťom a neveste, aby sa zabávali, on že si ide ľahnúť, lebo   ráno treba do roboty vstávať. Ledva ho zdržali; nevesta musela sa do   plaču pustiť. A teraz, hľa! Čo z toho bude, nevedno; ale ja sa bojím,   že Béčko zabije ju, alebo seba. Odohnať sa mu totiž už nechce dať a   Béčko, v srdci dobrý človek, už vše vojde do najhoršej putikykrčmy a   rád sa lacno napije. On totiž žiali, a iní ho premáhajú nápojom. A ak   si lepší cit prepije, zabije, nebude dobre ani doma. Bodaj by som sa   mýlil!
+   </tei:p>
+   <tei:p>
+    Druhá žena ho nijako nemôže rozumieť. Len povážte: šla s ním raz   na voze do mesta na jarmok, ale potom po ulici hanbila sa s ním ísť   pre jeho divný kroj. Povadili sa, narobili kriku, prišiel policajt a   Béčku držali pol dňa na polícii, kým doletel telegram, že je to   skutočne on. Ona ho veru nešla vymáhať, lebo sa bála, že i ju   prichlopia za krik, a mužovi — dobre sa mu stalo! Len tak obchodila   pred bránou, kým ho nepustili, a keď jej dohováral, bránila sa i tým,   že musela byť pri tovare.
+   </tei:p>
+   <tei:p>
+    „Bože, aká inakšia bola moja prvá žena! Prečo len umrela skôr ako   on.“ Tak by sa bol mohol spoľahnúť na ňu s deťmi a ľahnúť pod zem.   Ako ho tá rozumela, spravila, čo mu len na očiach videla.
+   </tei:p>
+   <tei:p>
+    Táto najala slúžku, tá neumývala riadu ráno, lebo veď i na druhé   ráno budú z neho kávu piť, a z jedného taniera sa i traja najedli.   Neprala, len keď už nebolo čo obliecť, nuž vtedy po kúsku preplákala,   že ani nezvedeli, kedy. Tá pri lampe v záhrade plela, táto — číta   alebo drieme. Tá nikdy nehladila, ale ponaťahovala v rukách, a bolo   dobre za 13 rokov. On v dielni, po izbách, na oknách a všade, ako je   majstrom, všetky práce, všetky účty si tam kreslil, plánoval a rátal   — a táto nevidí tej jeho práce, nie je jej vzácna a dá každý týždeň   bieliť, šúchať a drať dlážku. I jeho preoblieka, strhá s neho odev, a   tiež i s chlapcov,
+   </tei:p>
+   <tei:p>
+    168
+   </tei:p>
+   <tei:p>
+    ﻿že nebudú ako prasce. Za nebohej sobliekli sa, keď už puklo a keď   bolo treba sošiť. Že sa ona ohovárať nedá a nemá pekného slova o   nebohej. Uznáva jej len to, že drhla s mužom ako kôň, a možno od   hladu umrela ...
+   </tei:p>
+   <tei:p>
+    Béčko bojí sa o dobrú pamiatku nebohej, bojí sa, že mu ju táto   baba zo srdca vyrve, myslí nad tým všetkým, je nevľúdny, uzavretý,   len v ňom to búri, v žilách kypí ako v poviazanom tigrovi. Jej sa   bojí, že ho dozlostí a on spraví strašnú vec, ktorú by nechcel   spraviť a za ktorú sa nikdy z áreštu nedostane. To by nerád. Ktovie,   čo s ním ešte bude. Už prichodí i svokra a s dcérou si vždy šuškajú .   . . Dosiaľ nechodila, lebo boli pohnevaní. Povedal jej totiž, po   niekoľkých návštevách, že ju rád vidí, ale aby tak často nechodila,   lebo že to veľa stojí, i čas sa mešká. Do roka potom ani nekukla v tú   stranu.
+   </tei:p>
+   <tei:p>
+    Žena nosí kamže, plyše, šály, hodváby — on šanuje i len tie   pantofle: keď je veľké blato, shodí ich s nôh a ide bosý. Ona nosí   šnurované topánky do pol kolien.
+   </tei:p>
+   <tei:p>
+    Prvá žena s paprikášu sobrala masť a na druhý deň navarila s ňou   zas paprikášu zemiakového, a chuť bola ako včera. Odrezala zo   slaniny, keď on dovolil. Ostatná bola zakrútená do handry, aby sa   nikto k nej nedostal. Táto vyvára, vypeká. Za nebohej sa vše niečo   zosmrdelo, prekyslo, že hladní boli všetci, ale vedeli si odoprieť,   do nemožnosti odoprieť.
+   </tei:p>
+   <tei:p>
+    No a čo robí táto s peniazmi! To je bohaprázdna márnivosť. Čo mali   iní ľudia, to i ona musela mať. Už role nekúpi! Pošly peniaze, a čo   zarobia, žena ich deň po deň odnáša do sklepov. Teraz sa blíži krst —   už role nekúpi; dom tiež pôjde, staroba je už tu. Narobil sa už za 30   rokov a ešte bude robiť, a koniec bude hlad a smrť . . .
+   </tei:p>
+   <tei:p>
+    ,,Otče nebeský! Ako túto skazu zastaviť?!“ zlosťou, zúfaním spína   ruky Béčko, ide do krčmy, do tej diery vlhkej, a pije, pije, a vše si   húta, že ženu, keď mu to nevinné dieťa
+   </tei:p>
+   <tei:p>
+    169
+   </tei:p>
+   <tei:p>
+    ﻿porodí, odoženie; ak nepôjde, nuž ju zabije. Zabije ju i seba, aby   aspoň deťom zostalo čo-to ...
+   </tei:p>
+   <tei:p>
+    Ale chlapci majú radi macochu, „mamou“ ju volajú, sú sýti,   oblečení, a čím viac — teraz už i za otca — robia, tým sú zdravší, a   nahovárajú otca, aby dal pol domu „na mamu“ prepísať.
+   </tei:p>
+   <tei:p>
+    I cudzí ľudia, na prvú ženu hany nepovediac, chvália mu drahú, že   je taká, aká má byť, a macocha je, ako by máloktorá bola... Len on,   Béčko, že zaostal, nevie spraviť lepšej roboty, nevie spraviť viac   groša, aby ho bolo nadostač, preto trovia z hotového.
+   </tei:p>
+   <tei:p>
+    „I chlapcov by mal trochu poslať do sveta, lebo i tí budú mať   kedysi biedu ako on,“ šuškal si remeselnícky svet, že sa to už i   Bečkovi dostáva do ušú ...
+   </tei:p>
+   <tei:p>
+    „Ký to čert?! Veď ma idú so všetkým prevrátiť...“ trhá si vlasy a   škrípe zubmi.
+   </tei:p>
+   <tei:p>
+    (Zpod kosy, II. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    170
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

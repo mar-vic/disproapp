@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk191029" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Ondrej : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2108
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Ondrej
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Ondrej
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Ondrej je Cigán a môj spoluväzeň.
+   </tei:p>
+   <tei:p>
+    Hoci už piate leto neoprelo naň slnce vyše hodiny denne, predsa je   ešte vždy čierny, ba so dňa na deň černejší, ako by mu krv   vyschýnala. A v tých plátenných, áreštantských hábach je ako za   mlynára preoblečený mladý čert: smiešny, a predsa strašný. Chudý ako   trieska, trčia mu všetky kosti. Hlboko v hlave sedia mu nehybné oči,   jedno slepé, zatiahnuté beľmom, a obe podbehnuté belasými žilkami.   Zuby ako koly hrubé, sinavé pery, na hrdle červená šatka, vraj „od   zdravia“, ruky skľavené, nohy veľké, široké, ako má hus, a k tomu   vyvrátené ako krtičie rylá.
+   </tei:p>
+   <tei:p>
+    Takýto je môj Ondro.
+   </tei:p>
+   <tei:p>
+    Robiť nevládze, lebo ho kole a sa znojí, uznali ho za chorého, a z   nariadenia lekárovho mal by sa prechádzať s nami „panskými“   áreštantmi dve hodiny denne, ale strážnici, aby nemuseli dva razy   dvere zatvárať, vezmú mu z prechádzky týždenne čo len 3—4 hodiny,   lebo je „len Cigán“, rád sedáva na posteli (čo mu je vždy zima), a   tak sa hnevajú naň, že vždy musia s ním krik robiť.
+   </tei:p>
+   <tei:p>
+    Ale neradi ho vidia i ostatní Cigáni s ním v cele zavretí, lebo je   málovravný, nesadá s nimi do kola, nenávidí smiech, je zlostný, rád   sa bije a každý týždeň je v „čiernej“ na
+   </tei:p>
+   <tei:p>
+    104
+   </tei:p>
+   <tei:p>
+    ﻿holej zemi a bez jedla. Tam potom zmäkne, poplače si a na druhý   deň je tamtým „krotší“, mne sdielnejší, keď sa mu na prechádzke   prihovorím, poľutujem ho a mu niečo podám.
+   </tei:p>
+   <tei:p>
+    Ondro je chorý, suchotinár; ale to ešte z áreštu nevyslobodzuje.   Tu ti pred časom nepomôže iba — smrť.
+   </tei:p>
+   <tei:p>
+    História Ondrova je veľmi krátka, kratšia, ako sa on sám nazdáva,   lebo nepríde už k nej iba jeden punkt.
+   </tei:p>
+   <tei:p>
+    Má 23 rokov, ale vojakom nebol. No vyslúžil si on svoju   „kapituláciu“ v árešte. Ženatý je tak po cigánsky, ale z čistej   lásky, už sedem rokov. A keby jeho Róza bola taká verná ako on,   nebolo by krajšieho manželstva.
+   </tei:p>
+   <tei:p>
+    On vlastne nemôže jej byť neverným, o to dbajú žandári, ktorí ho   už štyri razy odovzdali súdu, a tento zas áreštu, kde Ondrej vysedel   už spolu pol piata roka a teraz mal by ešte pol štvrtá. To by ho tak   netrápilo, ako to, že Róza už dávno má druhého muža a jemu, ako z   áreštu vyšla, ani nepísala.
+   </tei:p>
+   <tei:p>
+    Ondro mi rozprával, že si zpočiatku myslel, že pán veľkomožný   fiškál neposiela Róze jeho listy, že je ako nie sobášený s ňou, preto   jej písal potom ako „sestre“, ale ani tak nič, až mu noví   áreštanti-Cigáni povedali, že Róza naň viac ani nepomyslí... Preto   jej už teraz odkazuje, aby ho nečakala v dedine, lebo ju zabije, ak   sa k nemu nevráti. On jej uzná, odpustí, ale len ak bude zas jeho   ženou, ináč čaká ju smrť! Lebo on vlastne viac pre ňu, ako pre seba,   dostal sa už po štvrtý raz do áreštu. Pre ňu ukradol plátna, čižmy, a   ak i čo na zjedenie vzal, vždy prvô na ňu myslel.
+   </tei:p>
+   <tei:p>
+    Hriechy jeho počínajú sa s „jednou hnusnou husou“, za ňu i Róza   odsedela 8 týždňov. I tie dostala iba náhodou, lebo už i vtedy bola   „prešibaná“, posielala iba jeho kradnúť. Ale raz išli v noci céz   akúsi dedinu, ohlásila sa na nešťastie hus zo dvora, do Ondra ako by   strelil, nezdržal
+   </tei:p>
+   <tei:p>
+    105
+   </tei:p>
+   <tei:p>
+    ﻿sa, Róza ho ešte podvihla cez plot a Ondro šťastlivé zapchal husi   gágor, že sa viac neohlásila, iba ak krídlom trepla, nôžkou trhla.   Psa na dvore nebolo, gazdiná nezbadala. Vzala Róza hus pod sukňu a   ponáhľali sa behom preč. Prišlo im cez horu. Tu im prišlo na um, že   ak pôjdu do koliby, bude pýtať i otec (mať bola v Nostre) *, i   sestra, švagriná s deťmi — nedostane sa im nič. Vošli do hory (noc   bola jasná), Ondro rozložil ohňa, Róza zatiaľ ošklbala hus, rozrezali   na dvoje a poď na ražeň. Perie spálili, aby nebolo ani znaku po husi.   Nebolo im treba ani soli, ani chleba, a húsku spoločne strovili, keď   — tuliby! — horár. Prišiel za nosom čiže dymom.
+   </tei:p>
+   <tei:p>
+    Ondro s Rózou sa rozbehli, ale horár, že ak nestoja, strelí.   Nedbali, len v nohy! Strelil, len tak lístie nad nimi sprašťalo, ako   sám Ondro rozprával.
+   </tei:p>
+   <tei:p>
+    „Ten nešpašuje“ — myslí si Ondro. „Róza, štoj! Máš len jeden   život, ak ti ten vežme, čože už potom bude ž toho šveta? Ja vežmem na   šeba“ — a zastali.
+   </tei:p>
+   <tei:p>
+    Horár zaviedol ich na obecný dom, odtiaľ k žandárom. Tí ich vzali   natvrdo. Ale keby Róza nie, Ondro by bol tajil, čo by ho boli   „žabili“. Cím mu viac kládli poza uši, tým bol tichší. On len tvrdil,   že hus našli v priekope zdochnutú. Ale Róza sa priznala, lebo hneď   ráno zvedelo sa, čia bola hus, a ju nalakomili, že sa jej nič   nestane, ak zradí, ako čo bolo, kto ukradol a ako.
+   </tei:p>
+   <tei:p>
+    Už hneď tu sa začína jej nestálosť k Ondrovi; aby seba vytiahla,   zamočila jeho.
+   </tei:p>
+   <tei:p>
+    Ondro teda vzal všetko na seba, ba ešte zastával Rózu, že ona je   celkom nevinná; „tú nech hneď puštia domov.“
+   </tei:p>
+   <tei:p>
+    Keď im súd vyšiel, Róza musela odsedieť 8 týždňov, Ondro 6   mesiacov.
+   </tei:p>
+   <tei:p>
+    Vo väzení sa aspoň vídali, usmiali jeden druhému, a Róza, keď vše   dlážky po kanceláriách umývala, nasbie-
+   </tei:p>
+   <tei:p>
+    * Mária Nostra, trestnica pre ženské.
+   </tei:p>
+   <tei:p>
+    106
+   </tei:p>
+   <tei:p>
+    ﻿rala Ondrovi močky a povedala po cigánsky, kde ju „na lufte“   (prechádzke vo dvore) položí, a ľahko niesli pokutu. Ale Róza odišla   domov a hneď si našla druhého muža; tento chýr doniesli noví   áreštanti-Cigáni.
+   </tei:p>
+   <tei:p>
+    Ondro, keď sa vyslobodil, aby si Rózu znovu získal, chcel spraviť   nejaké príchodné — hostinu. Slaninu už bol z komory cez oblok   vyložil, ešte chcel trochu múky zo suda načrieť. Ale bola tam kdesi   sliepka na vajciach, drgol nohou trochu do koša, sliepka zaškriekala,   gazdiná vybehla z izby, že tchor, porobila krik, gazda bežal na dvor,   ledva stačil Ondro z komory vyskočiť — gazdovi do náručia.
+   </tei:p>
+   <tei:p>
+    Dostal rok.
+   </tei:p>
+   <tei:p>
+    Po roku zas len Róze odpustil a už na ceste domov idúc hútal, čím   by sa jej zavďačil. Akémusi plátenníkovi s voza šťastlivé pojal 3   rífy plátna, ale pri čižmách s krásnymi žltými podkovičkami ho   dochytili a našli v uzlíku i plátno.
+   </tei:p>
+   <tei:p>
+    Nebol ani doma, a dostal sa znovu na pol treťa roka do Lepoldu,   kde ho naučili i trochu čítať a písať. A robil tam pri kováčoch,   vrátil sa teda po železnici, riadne oblečený, i ešte 7 korún vo   vrecku. Tie dá všetky Róže, len aby ho chcela.
+   </tei:p>
+   <tei:p>
+    Róza trochu ho i mala rada, kým trvalý peniaze a hostiny. Po   hostine strhla sa medzi ním a Róziným frajerom zvada, bitka, a Ondro   tak trafil mlatkom udrieť po hlave Fera, že hneď ohluchol. Ondro sa   naľakal, odišiel na lúku do senníka nocovať, opitý rozkladal oheň a   podpálil senník.
+   </tei:p>
+   <tei:p>
+    Dostal štyri roky. Dosť sa on pri pojednávaní bránil „pani   veľkomožnej šedrii“, že bol opitý, že len náhodou podpálil senník, že   bol prázdny; potom i tak proboval, že veď on v tej dedine, kde sa   narodil i kde za mladi býval, neukradol ani za necht, ale nič mu to   nepomohlo, ako ani tajenie, že nebol ešte len raz trestaný. V súde   majú jeho
+   </tei:p>
+   <tei:p>
+    107
+   </tei:p>
+   <tei:p>
+    ﻿životopis na papieri, a kde aký významnejší punkt, všetko   vypísané, lepšie, ako by sa na to on chcel pamätať; len to mu nejde   do hlavy, ako to tí páni všetko o ňom vedia.
+   </tei:p>
+   <tei:p>
+    Apeloval (ako každý Cigán vždy), pri tabule zarátali mu   vyšetrovacie väzenie, a teraz je už na kúrii jeho vec. Sedí už pol   roka a strojí sa zas do Lepoldu.
+   </tei:p>
+   <tei:p>
+    Jednu vec by on rád povedal ešte kúrii. Že totiž hoci i nebol   sobášený s Rózou, ale bol s ňou ako muž so ženou
+   </tei:p>
+   <tei:p>
+    — prečo mu ju Fero odviedol? Že keby nie Fero, nebol by šiel do   senníka, nebol by podpálil. (Lebo že sa s Ferom pobili, to pri súde   neprišlo ani do reči, keď Fero ani nežaloval.)
+   </tei:p>
+   <tei:p>
+    Rózu, pravda, vyhlási tým za nestatočnú, ale mu je predsa len   zunované sedieť, bez nádeje, že kedysi ešte predsa Róza bude   jeho.
+   </tei:p>
+   <tei:p>
+    Aby som mu dal nejakú radu.
+   </tei:p>
+   <tei:p>
+    „Pýtaj sa pred fiškála a rozpovedz mu; uvidíš, čo ti povie.“
+   </tei:p>
+   <tei:p>
+    Keby on len Rózu nemusel do toho zapliesť!
+   </tei:p>
+   <tei:p>
+    Proboval už i päť ráz, ale pre tú Rózinu „statočnosť“, kým sa   priberie k veci, začnúc strážnikovi veľmi okúňavo, prívetivé a   pomaly:
+   </tei:p>
+   <tei:p>
+    „Pán vachman, pán N., ja by šom váš prošil ponížene pekne krášne,   keby šte ma pred veľkomožného pána fiškáľa predviedli..
+   </tei:p>
+   <tei:p>
+    „A čože chceš, čo?“
+   </tei:p>
+   <tei:p>
+    Strážnik je už netrpezlivý, lebo má inú robotu, a Cigána ktože   počuje, kto poľutuje, keď sú medzi nimi i oplani, čo sa postavia i do   očú, že je jemu už jedno, či ho zastrelia alebo obesia ...
+   </tei:p>
+   <tei:p>
+    „Ja by šom ša rád š nimi pošhovárať ..A nie že by chytro doložil:   svedčiť, alebo — apelovať, ako mu ja radím.
+   </tei:p>
+   <tei:p>
+    108
+   </tei:p>
+   <tei:p>
+    ﻿„Nuž akože, pán fiškál nemá inej roboty, iba sa s tebou shovárať   —“ posmešne odbaví ho strážnik, a Ondro je už zapretý.
+   </tei:p>
+   <tei:p>
+    Krúti hlavou, pretiera si oči, čelo a pustí sa do plaču, len tak   hučí. Taký žiaľ ho nadíde. Vše sa mu zas za to „revanie“ dostane, a   musí byť ticho. A tu si rozmyslí, že neurobí Róze tú „hanbu“, že ešte   má muža živého, a už s druhým žije atď.
+   </tei:p>
+   <tei:p>
+    „Probuj písať tvojim domov, otcovi, materi...“ „Mať už umreli, a   otec nedbajú o nás, deti. Majú druhú
+   </tei:p>
+   <tei:p>
+    ženu.“
+   </tei:p>
+   <tei:p>
+    Ach, cigánsky svete!
+   </tei:p>
+   <tei:p>
+    „Nuž píš na obec, kde si sa narodil alebo kde si býval, aby tá   prosila za teba o milosť, keď si takýto chorý,“ potešujem ho, ako   viem.
+   </tei:p>
+   <tei:p>
+    Rozhodol sa. Svedčiť na Rózu už nepôjde, ale že ozaj ak by „milosť   dostal!“ A môj Ondro plakal od radosti nad dobrou radou, a jednu   nedeľu (kedy smieme písať), pýtal si i on papiera. Zavolal si i mňa   na pomoc, a tak sme spoločne vysokoctenému pánu richtárovi a slávnemu   výboru pekne, úctivé napísali a ich pre všetko drahé a sväté prosili,   že on je nehodný, hriešny človek, ale aby slávna obec poslala prosbu,   aby jej verný syn a obyvateľ Ondro Baláž dostal milosť.
+   </tei:p>
+   <tei:p>
+    Nasľuboval im, že sa bude za nich modliť, zdravia od Boha prosiť,   len aby si ho vymáhali, lebo že je chorý a že škoda ešte v takom   mladom veku atď., že sa odslúži, a nakoniec niekoľko stotisíckrát dal   pozdraviť celú obec a, čo nezabudol, niektorých gazdov i podľa   mena.
+   </tei:p>
+   <tei:p>
+    Celá strážnica sa smiala na Ondrovom liste, a poslali ho na obec,   aby sa azda i tam zabavili na mojom Ondrovi, neborákovi.
+   </tei:p>
+   <tei:p>
+    Ktorúsi noc sa mu snívalo, že ho len na hodinu pustili
+   </tei:p>
+   <tei:p>
+    109
+   </tei:p>
+   <tei:p>
+    ﻿domov sa odobrať a potom že do Lepoldu. Róze chcel prvé slovo   povedať, ale tá že ho už nechcela poznať. Počal sa s ňou vadiť — vtom   sa zobudil.
+   </tei:p>
+   <tei:p>
+    „Ej, škoda, bol by ja tej vyviedol! Bol by ja tú ždriapal...“
+   </tei:p>
+   <tei:p>
+    „A či je pekná?“
+   </tei:p>
+   <tei:p>
+    „Veru pekná, akých málo na švete! ...“ Rastie Róza so dňa na deň v   Ondrových očiach, a rád by
+   </tei:p>
+   <tei:p>
+    ju vraj na špatu spraviť, aby si taká skorej i naňho spomenula   ...
+   </tei:p>
+   <tei:p>
+    Na list ktože vie, aká odpoveď príde, a či vôbec i príde, lebo je   už 6 týždňov, ako list šiel. Ale Ondro úfa sa tomu najlepšiemu (od   „švätej pani kúrii“ veľa nečaká), a keď príde nový áreštant, vyzvedá   sa, či nepočul. Keď idú ľudia do súdu, driape sa na oblok a vyzerá   richtára ...
+   </tei:p>
+   <tei:p>
+    Nejde, len nejde. Ale on sa úfa, a ja ho teším, že to potrvá i 3—4   mesiace, aby bol trpezlivý, a to drží v ňom dušu.
+   </tei:p>
+   <tei:p>
+    „Oj, Boženko môj, ja vari škorej žomriem, ako to dožijem!“ narieka   Ondrej a nevedomky cíti svoje položenie, svoj blízky koniec.
+   </tei:p>
+   <tei:p>
+    Ja mu v duchu prisviedčam, že umrie iste za tie 3—4 mesiace, ale   naoko ho teším a spomínam mu „spravodlivosť“, že nemožno, aby jemu   pre jeho „statočnosť“ a „otrhaný senník“ dali „šmutne (ako si on   vraví) žahynúť ...“
+   </tei:p>
+   <tei:p>
+    A veru tak, môj Ondro, tvoja história so dňa na deň blíži sa viac   k poslednému punktu. Bez svetla, povetria a v tých vlhkých studených   múroch, bez slobody vädne, schne. Zlomili i jeho tvrdú prírodu. Už je   po ňom. On toho, hoci si zaopatril kúštik zrkadla a prizerá sa doň   každú chvíľu, nepozoruje predsa na sebe, ako rýchle hasne. Boh s   ním!
+   </tei:p>
+   <tei:p>
+    Potom ťa už, Ondro, vytrú hádam i v súde z lajstrov, v ktorých máš   zapísané, že si ukradol: hus, 3 rífy plátna,
+   </tei:p>
+   <tei:p>
+    110
+   </tei:p>
+   <tei:p>
+    ﻿čižmy, že vlámal si sa do komory a podpálil senník v poli.   Ošacované to bolo všetko spolu na 37 korún 40 halierov a okrem toho   senníka všetko sa navrátilo, ale štát stál si niekoľko sto   zlatých.
+   </tei:p>
+   <tei:p>
+    Dal si im za to 23-ročný, od rodu biedny, od sveta zanedbaný   cigánsky svoj život.
+   </tei:p>
+   <tei:p>
+    Neveľa! Ale celý árešt nedozvie sa, že si už pod zemou, a nebude   človeka, kto by ťa poľutoval. Ani tí tvoji kamaráti-väzni, ani tá, za   ktorú si trpel a ktorú si na svoj spôsob tak vysoko postavil...
+   </tei:p>
+   <tei:p>
+    (Smutné nôty, n. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    111
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

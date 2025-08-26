@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1910100" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Čo ho zabilo? : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3104
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Čo ho zabilo?
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1910
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Čo ho zabilo?
+    </tei:head>
+    <tei:head>
+     (Udalosť)
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Od tých čias, ako sa to stalo, budú štyri roky. V kosbe to bolo,   ale už ku koncu, keď sa viac viaže, ako suší. My sme už mali všetko   seno doma. Počkajte ...
+   </tei:p>
+   <tei:p>
+    Ba áno, tak to bolo, v pondelok, keď je v našom meste trh.   Horúčosť bola od rána veľká. Prach po ceste za vozmi dvíhal sa ako   hustý oblak a ľudia, zaprášení od päty do hlavy, poberali sa hore   dedinou, vedúc na retiazke nepredanú alebo novokúpenú kravičku, aby   bola kvapka i toho mliečka, keď už Pán Boh senca požehnal a suché,   zelené doviezlo sa domov. Bolo vidieť i ľudí takto prázdnych, len čo   hlavy mali obťažkané a nohy sa im podlamovaly, že sa museli viesť za   ruky, okolo hrdla, alebo práve žena viedla muža ako teľa nie síce za   žinku, ale za palicou (ako slepých vodievajú), stobohujúc i Židovi, u   ktorého sa muž opil, len čo ho „ako na mak“ s očú pustila, kým kdečo   kupovala. Že by muž bol ženu viedol, nemôžem povedať. Šli, pravda, i   ľudia triezvi, ale ak ma oči neklamaly, viac som videl podpitých.
+   </tei:p>
+   <tei:p>
+    Toto všetko šlo už z mesta. Dolu dedinou iba čo vozy hrčaly, s   nich podperení paholci pokrikovali na podpitých, alebo hrabáčky   vyspevovaly, akže práve dohrabaly a viezly sa domov.
+   </tei:p>
+   <tei:p>
+    5 Mamka Pôstková.
+   </tei:p>
+   <tei:p>
+    65
+   </tei:p>
+   <tei:p>
+    ﻿Popoludní, sotva som poobedoval, vyšiel som na priedomie a utieral   si ústa od jedla a tvár od potu. Stal som si do dvier, aby ma   previalo. Z horného konca dediny kráčal vysoký chlap pod širočizným   klobúkom a niesol na pleci valaškou zachytený, bielym obrúskom   obviazaný väčší košík. Vedľa neho, stále sa pristavujúc, kráčalo ako   teľa veľké psisko, biele, chlpaté. Pes opálal jazykom a obkračoval   celé polienko dreva, čo sa mu hompálalo na klincami vybíjanom   obojku.
+   </tei:p>
+   <tei:p>
+    V chlapovi poznával som baču zpoza vrchu, ktorý každý týždeň čo   len raz prešiel našou dedinou do mesta a zpät.
+   </tei:p>
+   <tei:p>
+    Došiel, pýtal sa ma, či nekúpime oštiepky alebo parenice. Mali sme   i my ovce a ja som mu povedal, že nie. Bača pošepol si košík, utrel   rukávom košele pot, kročil dolu dedinou a zašiel. Bol to chlap   výšava, silný ako peň, vyholená tvár — a ostatné ako každý bača;   mohlo mu byť tak okolo 45—50 rokov, ani hádam nie.
+   </tei:p>
+   <tei:p>
+    Ja žatým vošiel som do izby a šiel za chvíľu po práci.
+   </tei:p>
+   <tei:p>
+    Podvečer, vracajúc sa zo záhrady, stretli sme toho istého baču už   zas v dedine.
+   </tei:p>
+   <tei:p>
+    „No, predali ste?“ pýtal som sa ho ako už známy. „Predal všetko,   ta, do hostinca,“ odpovedal bača.
+   </tei:p>
+   <tei:p>
+    Bol trochu podnapitý, fajčil a niesol ovesenú hlavu, kráčajúc   pomaly veľkými, ale jednako neistými krokmi. Šli sme každý po   svojom.
+   </tei:p>
+   <tei:p>
+    Bača, ako sa to potom vysvetlilo, zahol do krčmy, vypil ešte dva   razy po tri deci pálenky („Čo by si nie, dobre som predal,“ dodal si   chuti k druhej skleničke), vzal si funt slaniny, za šesť chleba a do   fľašky pol litra špiritusu, štyri paklíky tabaku a už skoro potme   vzal kôš na valašku, odišiel z krčmy. Psa mu zatiaľ naháňali naši   dedinskí psi, ale kým bača od skleničky vstal, Dunčo stačil dobehnúť   ku krčme, a keď sa gazda počal poberať, pozvoľne pobehol vyše dediny   a tam dočkal svojho pána.
+   </tei:p>
+   <tei:p>
+    66
+   </tei:p>
+   <tei:p>
+    ﻿Bača, znova posilnený, ešte ako-tak kráčal po ceste, ale ako mu   prišlo ísť chodníkom, ten mu už bol priúzky, socalo ho zboka nabok, a   keď mu kôš tri razy spadol, vzal ho na ruku, valaškou sa podopieral a   šomrajúci dostal sa z kriakov na lučinu. Špiritus, tabak a slanina   boly dobre opatrené v rukáve haleny.
+   </tei:p>
+   <tei:p>
+    Tak na pol druhej hodiny nad dedinou, čo bačovi trvalo i tak tri,   nocovali dvaja paholci v rovnom veku, okolo 20-roční, a kládli oheň.   Bačovi sa v očiach zablyslo, a že „si zapečie do fajočky“, držal sa   cez kopce a jamy rovno proti ohňu, pohadzujúc košom, ktorý ho nijako   nechcel poslúchať. Hneď by ho niekomu daroval, keby bol koho stretol   a keby nie „tá rebrina“ — žena; ale tá by mu dočinila, že by to ani   za kôš nestálo. A iste by ho upodozrievala, že bol opitý, a on predsa   podíval by sa do očú tomu, kto by sa mu opovážil povedať, že on,   panský bača Jano Trúfaj, bol by napitý. Takto premietal v mysli a už   len niesol neposlušný kôš ďalej. Veď len dôjde za chvíľu. Tam si   oddýchne, zapečie a pôjde domov; už je i tak skoro o polnoci, treba   ráno ovce dojiť, odvárať a aj iné bačovské povinnosti ho čakajú. Šiel   ďalej.
+   </tei:p>
+   <tei:p>
+    Paholci celý deň svážali cudzím ľuďom seno, nuž vodilo sa im   dobre. Už na lačnô bol pohár pálenky, chleba a slaniny; na raňajky   halušky, že len tak plávaly; na poludnie a večer baranina a medzitým   za každým vozom na ochladenie tej „našej“; no a že pálenka je predsa   fundament, vedia u nás už i deti.
+   </tei:p>
+   <tei:p>
+    Gazda poslal paholkov ešte večer „na noc“, aby včas ráno nabrali   do vozov a popásli kone, on že im príde naproti.
+   </tei:p>
+   <tei:p>
+    Ležia pod bukom pri ohni. V jame pasú sa sputnané štyri kone,   vypriahnuté z vozov, zatiahnutých ku kopám sena, ktoré budú ráno   brať. Ležia si na boku, proti sebe tvárami, kúria, a keď jedenia a   pitia bolo dosť a i so sebou
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    67
+   </tei:p>
+   <tei:p>
+    ﻿majú ešte nejakú tú „slzu“, ak by chceli, nuž shovárajú sa, že   keby toho Zuza a toho Mara bola teraz tu atď.
+   </tei:p>
+   <tei:p>
+    Pes zaštekal, kone zafŕkaly. Paholci zdvihli hlavy: kto je to? Ich   gazda so psom nechodieval.
+   </tei:p>
+   <tei:p>
+    „Neboj sa, Dunčo, neboj,“ prihováral sa bača psovi a driapal sa   hore briežkom pod buka, kde sa svietilo, šmýkajúc sa veľmi v krpcoch   po spálenej kosienke.
+   </tei:p>
+   <tei:p>
+    Paholci popravili si vo fajkách a hľadeli do tmy. Zbadali psa,   ktorý okúňavo blížil sa k nim, a zatristobohujúc i jeho gazdovi, po   vyskakovali s miest.
+   </tei:p>
+   <tei:p>
+    „Neboj sa, neboj,“ a pes zaštekal, pokrútil chvostom a vrátil sa k   svojmu gazdovi.
+   </tei:p>
+   <tei:p>
+    „Pán Boh pomáhaj!“ volal bača svojím hrubým hlasom ešte na pätnásť   krokov od ohňa, ani nevediac komu, a štverigal sa vyššie. Pes díval   sa zopodiaľ.
+   </tei:p>
+   <tei:p>
+    „By on pomohol, keby ste niečo dali!“ privolali paholci neznámemu   bačovi, ako ho po kroji pri slabom svetle poznali.
+   </tei:p>
+   <tei:p>
+    „Niečo z toho koša!“ volal jeden, kým druhý popichal do pahreby,   aby sa lepšie rozsvietilo, lebo nebo bolo zaoblačené a mesiac nemohol   zpoza chmár. „Tak hrudu syra, a čo už i len oštiepok a tej vozdajšej   za dúšok.“ (Pod „vozdajšou“ rozumejte pálenku, a nie vodu.)
+   </tei:p>
+   <tei:p>
+    Bača došiel.
+   </tei:p>
+   <tei:p>
+    „No, len strpenie — či vari nemám, si myslíte? A ma čert vzal —   mám veru!“ a hodil s ruky kôš, s pliec halenu. „Tisíc hromov, aká je   ešte horúčosť!“ utieral si rukávom tvár a sadol či zvalil sa na   trávnik. „Bysťubohu, i tak je už po nej!“ vyťahoval zpod seba halenu,   lebo ho rovno na ňu stiahlo. „Nože, hľaďte, či je celá?“
+   </tei:p>
+   <tei:p>
+    Paholci vzali halenu a počali ju ohmatávať. Bača hneď významne   dodal:
+   </tei:p>
+   <tei:p>
+    „To je špiritus!“
+   </tei:p>
+   <tei:p>
+    68
+   </tei:p>
+   <tei:p>
+    ﻿„Špiritus?“ vytiahol jeden s radosťou fľašku a druhý sa spýtal   baču, zkade je.
+   </tei:p>
+   <tei:p>
+    „Či ma nepoznávaš — panského baču zpoza vrchu?“
+   </tei:p>
+   <tei:p>
+    „Ťažko, keď je tma,“ a hodil hrsť sena na oheň. „Ba ste to vy!   Akože by nie?“ povedal paholok, ako keby mu bača už aspoň deväť rokov   bol býval strýcom.
+   </tei:p>
+   <tei:p>
+    Nikdy sa nevideli, ani neshovárali. Ale ožrani poznajú sa   hneď.
+   </tei:p>
+   <tei:p>
+    „Prisámbohu, je špiritus!“ zaklial sa druhý, keď ochutnal.
+   </tei:p>
+   <tei:p>
+    „Len teda rozrob, i mne už pípeť uschol, kým som sa sem dostal,“   nakladal bača. „A akože sa ktorý menuješ?“ „Ja som Martin a toto je   Ďuro.“
+   </tei:p>
+   <tei:p>
+    „A ja Jano.“
+   </tei:p>
+   <tei:p>
+    Poznali sa už i po mene.
+   </tei:p>
+   <tei:p>
+    „Rozrobiť, ale ako?“ pýtal sa Martin. „Daj to naše najprv, a   potom...“ navrhuje Ďuro. „Veď kdeže ho máš?“ a štuchol Ďura. „Mlč —   máme
+   </tei:p>
+   <tei:p>
+    toto, nedáme si naše vyžrať,“ šepol mu do ucha. Bača vytiahol   fajku a tabak zpoza širokého opaska. „No, veďže daj!“ „Nemáme ako   rozrobiť.“
+   </tei:p>
+   <tei:p>
+    „Oj, sto bohov sa mu do materi, či si taký sprostý? Tu máš!“ podal   mu klobúk. „Prehni, naber vody a dolej špiritusu. Neboj sa,   nevytečie, je mastný,“ učil bača.
+   </tei:p>
+   <tei:p>
+    Paholci dávno znali tento spôsob, len im nesišiel na um; urobili   teda tak, a na ražni upiekli ešte bačovu slaninu, sadli, jedli a pili   z klobúka a potom si pozapaľovali.
+   </tei:p>
+   <tei:p>
+    Bača medzitým rozpovedal, kde čo bol, ako sa mu vodilo, a   medziiným pripomenul, že má druhú ženu, po prvej troje detí a s touto   tiež troch zurvalcov, len vraj žrať aby bolo. Rozprával, že nosil do   mesta 48 oštiepkov, že chytro predal a že mu vyplatili po 19 groši za   jeden. Paholci dlho
+   </tei:p>
+   <tei:p>
+    69
+   </tei:p>
+   <tei:p>
+    ﻿počítali, koľko to učiní: 48 ráz 19 groši, a narátali, že bača mal   by mať do 15 zlatých, ba vyše.
+   </tei:p>
+   <tei:p>
+    „To vy máte peňazí ako pliev,“ prehodil Martin.
+   </tei:p>
+   <tei:p>
+    „Veru iste, tri piatky ako list nesiem domov, a i drobných bude   ešte niečo.“
+   </tei:p>
+   <tei:p>
+    „Keby ste nejakú zlatovku-dve dali, ani by vám neubudlo.“
+   </tei:p>
+   <tei:p>
+    „Čerta nie, veď by ma tá mrcina (žena) doma skántrila za ne.“
+   </tei:p>
+   <tei:p>
+    „Nuž ale na pol litra ešte — zabehneme niektorý do dediny,“ povie   Ďuro.
+   </tei:p>
+   <tei:p>
+    „Vari by si šiel — veďže nežviakaj, teraz, už je i tak o   polnoci.“
+   </tei:p>
+   <tei:p>
+    „Vari že Žid spí, sa bojíte. Ak mu na dvere zatrieskam oblokom   vyskočí, nie by neotvoril.“
+   </tei:p>
+   <tei:p>
+    „Nuž na to by som ešte mal chuť, keď som sa s vami tak   zabavil.“
+   </tei:p>
+   <tei:p>
+    „Tak sem peniaze“ — a Ďuro štuchol Martina.
+   </tei:p>
+   <tei:p>
+    Bača neváhal. Sadol si k ohňu, vytiahol z opaska mešec, a knísajúc   sa do pahreby a od nej, vybral korunu a podal. Ďuro vzal, a obidvaja   paholci skočili, nechajúc baču pri ohni. Na strelenie sa uradili, ako   by od baču vylákali ešte nejaký groš, ba keby mu mohli všetky   peniažky vziať.
+   </tei:p>
+   <tei:p>
+    „A keď nie po dobrom, pôjde po zlom; len pobehni.“ „A ty próbu j,   či dá dobrovoľne.“
+   </tei:p>
+   <tei:p>
+    Ďuro cválal do dediny a Martin sa vrátil k bačovi, že bol kone   pozrieť a že kým Ďuro príde, môžu si políhať. Bačovi už i tak hlava   visela ako zvon ťažká, len oči privrieť.
+   </tei:p>
+   <tei:p>
+    „Hm, no, čo, e — spi — ktože ..a siahol si vo sne rukou na opasok   a natrafil na ruku Martinovu, ale sa neprebudil.
+   </tei:p>
+   <tei:p>
+    Martin utiahol sa mu za chrbát a bača umíkol, nevediac, čo sa s   ním robí. Martin však peňazí ešte nemal, lebo
+   </tei:p>
+   <tei:p>
+    70
+   </tei:p>
+   <tei:p>
+    ﻿bača ležal na boku, a Martinovi bolo ťažko opasok otvoriť a   peniažky vziať. Proboval ešte druhý i tretí raz, ale nešlo to, a bača   sa neprevalil. Spal ako poleno. O dve hodiny, zadychčaný, ako   horársky pes, dobehol i Ďuro.
+   </tei:p>
+   <tei:p>
+    „Máš?“ bolo prvé jeho slovo. Martin peňazí nemal.
+   </tei:p>
+   <tei:p>
+    „Eh, nešika, počkaj ...“ a zareval nad bačom: „Hore, bača, už som   tu!“
+   </tei:p>
+   <tei:p>
+    „Hrmen!“ strhol sa bača. „Povedal by ti niečo, keď si tu, ale vieš   to i sám.“
+   </tei:p>
+   <tei:p>
+    Počali piť znova. „Len mu prilej,“ posmeľoval Ďuro Martina, aby   dolial
+   </tei:p>
+   <tei:p>
+    bačovi špiritusu. „Ožerie sa, peniažky sú naše — nech si potom   hľadá. Prišiel v noci, povieme, hádam stratil, ak nejaké mal.“
+   </tei:p>
+   <tei:p>
+    Bača pil a Ďuro zapiekol mu ešte do fajky, polejúc tabak silnou   pálenkou, „aby ho lepšie sobrala“.
+   </tei:p>
+   <tei:p>
+    „No, čo, už máte dosť?“ smiali sa paholci, lebo oni, ushovorení,   menej pili, hoci sklenicu prihybovali k ústam tak ako on.
+   </tei:p>
+   <tei:p>
+    „Už dosť, e ...“ striaslo bačom. Odpľul dlhú slinu a prevalil   sa.
+   </tei:p>
+   <tei:p>
+    „No, teraz dáte niečo od cesty z tých peňazí,“ doložil Ďuro.
+   </tei:p>
+   <tei:p>
+    „By si chcel? Eh, dosť som vám už dal — viac ani bičíkom.“
+   </tei:p>
+   <tei:p>
+    „Nono, len sa nezapovedajte. My vám nechceme všetky. Nuž podeľme   sa.“
+   </tei:p>
+   <tei:p>
+    „Ba čertovu mater! Nuž či si ty alebo ten ovce dojil za mňa a   oštiepky robil? To by bolo!“ a popravil si opasok.
+   </tei:p>
+   <tei:p>
+    „Len sa nie háčiť! Natiahneme vás!
+   </tei:p>
+   <tei:p>
+    „Ba!“ a bača mrzko zahrešil. „Len sprobuj, uvidíš, čo som ja!“ a   chcel si sadnúť, ale padol. „A môj Dunčo?“
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿Bača, ako som už povedal, bol silný, obor-chlapisko, a triezvy by   iste bol prevládal oboch paholkov, ale tak ...
+   </tei:p>
+   <tei:p>
+    „Dunčo — toho vám srazíme ako muchu.“
+   </tei:p>
+   <tei:p>
+    „Nuž keď ho srazíte, znáte bačovu moc?“ zoprel sa rukami do   trávnika a i v opilstve počal chápať, kam sa dostal. „Veď ak sa ma   tkneš ktorý, ja ti nič neurobím, ale za dva týždne na triesku   vyschneš, keď ja chcem!“ bil sa v prse. „Veru, prisám vám!“
+   </tei:p>
+   <tei:p>
+    „Vy že takú moc máte?“ triaslo zlosťou a strachom paholkov.
+   </tei:p>
+   <tei:p>
+    „Isteže ju mám, keď chceš vedieť,“ dodal povýšeným hlasom, „a   pokoj, pokoj,“ počal strkať Ďura, keď ho chytil za plece po tej   otázke. „Nedorážaj, na moj’ dušu, nedorážaj! Ja nežartujem! Dunčo,   kdeže si?“
+   </tei:p>
+   <tei:p>
+    Pes už vrčal, len ešte slovo, a skočí.
+   </tei:p>
+   <tei:p>
+    „Ideš!“ zareval Martin na psa. „A už ako bude, keď sa tak   vyhrážate!“
+   </tei:p>
+   <tei:p>
+    Paholci sa rozsrdili a razom prevalili baču a počali ho tantušiť.   Jeden mu kľakol na prse a držal mu ruky, druhý sa mu hodil na nohy a   chytal sa opaska; ale prekážali jeden druhému a bača posunul si bol   opasok otvorom na chrbát.
+   </tei:p>
+   <tei:p>
+    „Dunčo, drž ho!“ volá bača zpod paholkov.
+   </tei:p>
+   <tei:p>
+    Pes skočil, a kým sa paholci stačili ohnať, rozdrapil Ďurovi na   pleci košeľu a zapustil mu zuby hodne hlboko do pleca. Martin   vytiahol zpoza sáry nôž a chcel psa pichnúť. Dunčo odskočil, ale hneď   skočil znova, a dlb! Martina za tvár. On pichol ho do prednej   lopatky.
+   </tei:p>
+   <tei:p>
+    Bača kričal, pes štekal a driapal ako besný. Paholci, ako pocítili   krv, čo sa vyvalila z nosa a útrob bačových, zdiveli a, hrešiac, dali   sa biť, pichať baču nožmi, že už len tak chrčal. Pes, už tiež celý   dopichaný, kým čul hlas gazdov, len ešte-ešte vrhal sa na paholkov,   kým ho jeden
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿z nich neovalil sekerou po hlave, že sa ledva mohol odvliecť.
+   </tei:p>
+   <tei:p>
+    Bača už bol zadusený, lebo ho i škrtili, no srdce ešte bilo, ale   kým paholci bačovi odobrali peniaze, prestalo tĺcť i to.
+   </tei:p>
+   <tei:p>
+    „Sto bohov — veď ti ten už zdochýna! Ale sme ti zverský počarili!“   chechtali sa paholci.
+   </tei:p>
+   <tei:p>
+    „Ba je už nebohý! Čože s ním?“ „Do kružiny! Ta ho ber! ... Či je   ťažký!“ kliali paholci,
+   </tei:p>
+   <tei:p>
+    kým odvliekli mŕtveho baču na strelenie do kruhu.
+   </tei:p>
+   <tei:p>
+    Dunčo ich po strane sprevádzal, a keď baču hodili na zem, čo ho i   odbíjali, priblížil sa ku kruhu.
+   </tei:p>
+   <tei:p>
+    Už svitalo. Paholci len teraz videli na sebe samú krv a z rán ešte   krvácali. Sbehli do potôčika a počali sa umývať. Krv smyli, ale nie   rany.
+   </tei:p>
+   <tei:p>
+    „Ale sme mu počarili,“ uspokojovali sa ohavným skutkom. „Len aby   to najavo nevyšlo. Ale počkaj, vieš čo? Zanesieme ho na chodník, bude   sa svet nazdávať, že ho niekto na ceste zabil.“
+   </tei:p>
+   <tei:p>
+    „Ej, sto bohov, to je kus! Nuž ale teda poď.“ Šli a odvliekli baču   na chodník ku kríku. V jarku zas
+   </tei:p>
+   <tei:p>
+    smývali krv.
+   </tei:p>
+   <tei:p>
+    „Počuj, kdeže sú nám kone? Aby sme nakladali. Príde gazda, aby nás   nedostihol pri tomto.“
+   </tei:p>
+   <tei:p>
+    „Aha, tamto v jame!“ skočili a priviedli dva kone.
+   </tei:p>
+   <tei:p>
+    Ale druhé dva?
+   </tei:p>
+   <tei:p>
+    „No, počkaj, tam ťa zahluším, kde ťa dochytím!“
+   </tei:p>
+   <tei:p>
+    Hvízdali, volali, ale koní nikde. Hľadali pol hodiny, hodinu, ten   v tú stranu, ten v tú, ale veľmi ich zdržiavalo, že krv s košele a   nohavíc nedala sa tak ľahko smyť. Koní nenašli. Na obzore stávalo už   slnko, keď sa paholci sišli.
+   </tei:p>
+   <tei:p>
+    „Poďme naberať,“ a dali sa chytro hádzať seno do vozov.
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿„Martin, ale hádam čo by sme i peniaze zaniesli do opaska?“
+   </tei:p>
+   <tei:p>
+    „I ja myslím, aby ani podozrenie — i či ešte niečo nieto pod   bukom, lebo ozaj by mohlo z toho niečo povstať.“
+   </tei:p>
+   <tei:p>
+    Skočili obaja, a čo ešte našli po bačavi (mechúr s tabakom,   fajku), zaniesli i s peniazmi bačovi do opaska.
+   </tei:p>
+   <tei:p>
+    „A vieš ešte, čo? Rozložíme si ohňa pod tamtým bukom, aby gazda   neprišiel na krv, a tam ešte pošklbeme trávnik, aby to nebolo   vidieť.“
+   </tei:p>
+   <tei:p>
+    Len na spustlé svedomie svoje nestačili ešte myslieť.
+   </tei:p>
+   <tei:p>
+    Prišiel gazda, ako bol večer sľúbil.
+   </tei:p>
+   <tei:p>
+    „Kýho hroma že robíte? Ešte nemáte ani len na vozy naložené!“   volal zďaleka.
+   </tei:p>
+   <tei:p>
+    „Jaj, zle sa nám stalo, gazda: pospali sme a dva kone nám ušly,“   vyhovárali sa paholci. „Tri hodiny ich už hľadáme.“
+   </tei:p>
+   <tei:p>
+    „Veď tak .. . Ale, chlapci, veď ste vy akísi dodriapaní i jeden i   druhý.“ Videl podriapané ich tváre a ruky, keď sa k vozu priblížil.   „Vy ste sa akiste bili.“
+   </tei:p>
+   <tei:p>
+    „No, len tak sme sa trochu pováľali tamto po tŕní.“ „Čože by ste   vy inšie vedeli — keď nie s druhými, tak
+   </tei:p>
+   <tei:p>
+    sami medzi sebou. No, len sa už teraz ta, chytro, a haleny dolu!   Ktože to videl tak nakladať! Ešte rukavice ste si mali ponaťahovať.   Ja pozriem kone.“
+   </tei:p>
+   <tei:p>
+    „Ba poďte na voz.“
+   </tei:p>
+   <tei:p>
+    „No, len už... Teraz sa budem driapať — do vrstvy!“ a zvrtol sa,   že ide kone pozrieť, netušiac ničoho strašného.
+   </tei:p>
+   <tei:p>
+    Sišiel do potoka na druhú stranu, volal kone, ale nič. Už ho to   hnevalo.
+   </tei:p>
+   <tei:p>
+    „Čože, ktože to tamto?“ zazrel na chodníku bieleho Dunča. „Niekto   ide hore, povie mi, či nie sú v tie strany,“ myslel si a pošiel   smerom ku psovi.
+   </tei:p>
+   <tei:p>
+    Dunčo vstal, a tupo zaštekajúc, dal sa žalostne vyť.
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿„Tuto, na,“ a hľadal v kapse nejakú omrvinu chleba.
+   </tei:p>
+   <tei:p>
+    Dunčo nešiel, ale zaobišiel kruh a kukal s druhej strany. Gazda   príde na chodník.
+   </tei:p>
+   <tei:p>
+    „Čože je toto?“ zadivil sa veľmi, keď videl na chodníku zaschnutú   krv.
+   </tei:p>
+   <tei:p>
+    Obzerá sa a konečne pozrie na kruh.
+   </tei:p>
+   <tei:p>
+    „Aha, tak ste sa vy v tŕní váľali!“ Drgne do baču — nič; pomyká ho   — nič. „Veď je ten zabitý. Ach, zbojníci, zbojníci, veď vám dajú!   Počkaj, nasedíš sa ty v Ilave!“ Videl a vedel už dobre, čo bolo. „Ale   aby neodbehli, nepoviem nič,“ a hľadal ďalej kone.
+   </tei:p>
+   <tei:p>
+    Zamyslený nad ohavnosťou, zašiel ďaleko od doliny. Tam konečne   ktorýsi kôň zarehtal a gazda za hlasom sbehol do doliny na mláku a   našiel kone. Pásly sa na šarine.
+   </tei:p>
+   <tei:p>
+    Paholci, keď gazda kone priviedol, tŕpli, ale gazda ani slova viac   o tom.
+   </tei:p>
+   <tei:p>
+    Naložili, zapriahli a pomaly sviezli seno do dediny.
+   </tei:p>
+   <tei:p>
+    Kým paholci shadzovali s vozov, gazda nemeškal, sám prešiel k   richtárovi, a ten behom poslal sluhu po žandárov, a kým paholci seno   shodili, obriadili kone a najedli sa, už boli žandári tu.
+   </tei:p>
+   <tei:p>
+    Paholci rozhodne tajili, že baču ani len nevideli, že veď oni   ďaleko od neho nocovali, no pri súde pomaly poplietli si reč a všetko   vyšlo najavo.
+   </tei:p>
+   <tei:p>
+    Baču doviezli ešte predpoludním; potom prišli z mesta doktori a   jeden chlap bol poslaný za vrch k žene zavraždeného. Keď baču doktori   prezreli, odniesli ho chlapi pod zvonicu do komory.
+   </tei:p>
+   <tei:p>
+    Verný Dunčo sa ani len nehol od zvonice a na druhý deň po pohrebe,   od hladu a hryzený dedinskými psami, na hrobitove zdochol.
+   </tei:p>
+   <tei:p>
+    Na pohreb prišla žena bačova, i z rodiny ktosi, a bolest-
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿ne vykladala, čo si počne so šiestimi deťmi, z ktorých najväčší   chlapec bol iba honelníkom pri otcovi a najmladšie musela cudzej žene   k prsiam zaniesť, kým sa vráti.
+   </tei:p>
+   <tei:p>
+    Paholkov odsúdili na šesť a šesť rokov. Sedia v Ilave už na štvrtý   rok; ale Boh vie, či ich to napraví a či, keď sa vrátia, z pomsty   najbližšie nezabijú alebo aspoň nepodpália svojho gazdu preto, že ich   udal.
+   </tei:p>
+   <tei:p>
+    Tak biedne zahynul bača. A čo ho zabilo? Verte mi, milí moji, že   nájde sa hodne ožranov, ktorí, keby ste im toto rozprávali, povedali   by, že baču zabili paholci, a nie pálenka.
+   </tei:p>
+   <tei:p>
+    (Do konca a iné rozprávky, n. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
