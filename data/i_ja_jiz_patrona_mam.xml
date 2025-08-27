@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949602" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿„i já již patróna mám…“ : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1271
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿„i já již patróna mám…“
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     „i já již patróna mám...“
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Hľadím na kalendár.
+   </tei:p>
+   <tei:p>
+    16. máj. Sviatok. „Hej, vtedy bolo dobre, keď bolo päťšesť   sviatkov do týždňa a každú sobotu výplata,“ povedajú v Tajove.   „Ktoréhože predsa nechali tí socialisti?“
+   </tei:p>
+   <tei:p>
+    „Svätého Jána Nepomuckého.“
+   </tei:p>
+   <tei:p>
+    „Ale to je český svätý,“ upozorňuje ma prednosta. My budeme robiť.   Niekedy to mohol byť sviatok i na Slovensku, ale čo sme boli pod   Maďarmi, dostali vrch kráľovskí svätí: Ištván, Imre, Lásló kiráľ ...   Čo máme Republiku, sme my Slováci bez svätých. Ba z nášho rodu vraj   ani jedného dosiaľ nebolo.
+   </tei:p>
+   <tei:p>
+    „Tak teda: Slováci vyhlasujú Čechov za bezbožných, a predsa oni   svätých majú a my nie,“ omína ma rozkaz, že budeme robiť.
+   </tei:p>
+   <tei:p>
+    „Ináč bolo niekedy, pred stá rokmi, keď sme boli zajedno s Čechmi.   Slávieval sa i na Slovensku Ján Hus, a keď sa ten ľuďom zunoval a   roku 1729 postavili si nového patróna, Jána Nepomuckého, i my Slováci   sme sa tiež bratom Čechom naň utisli.“
+   </tei:p>
+   <tei:p>
+    Koľko Slovákov bolo v Prahe na procesiách, keď pred dvesto rokmi   vyhlasovali Jána Nepomuckého za svätého, neviem, ale isteže tam boli   aj s hudbami, keďže sa dedom
+   </tei:p>
+   <tei:p>
+    6*
+   </tei:p>
+   <tei:p>
+    83
+   </tei:p>
+   <tei:p>
+    ﻿našim tak zapáčil, že si ho postavili na každý most, aby upomínal:   Pozor, tu je voda!
+   </tei:p>
+   <tei:p>
+    Zamýšľam sa, spomínam.
+   </tei:p>
+   <tei:p>
+    „Ba na mnohých miestach, ako napr. v Trnave, v Bratislave, stojí   na moste a pod ním ani kvapky vody.“
+   </tei:p>
+   <tei:p>
+    „Chceli ho mať, nuž prosto nasklepili most a sv. Jána Nepomuckého   postavili naň. To bola bratská československá láska! Kým takej   nebude, budeme vždy na 15. mája robiť a Česi budú svätiť,“ skončil   prednosta a vchádzal do svojej izby. „A to všetko zavinili nám Maďari   a teraz ľudáci!“ a tresol zlostne dverami, lebo práve by sa mu tiež   bolo hodilo na tri dni odísť do Liptova pstruhov lapať... „Keď ľudáci   nechcú, nech nesvätia, ale ja som Čechoslovák a robím si na sviatok   Jána Nepomuckého historické právo, ktoré v mojom rodnom Tajove nie je   ani tak dávno prerušené.“
+   </tei:p>
+   <tei:p>
+    Za môjho detstva bývala v predvečer procesia na most, kde s jednej   strany stál sv. Ján Nepomucký a s druhej sv. Florián s džberíkom, z   ktorého sa mu namaľovaná voda liala, lebo ho krivo držal. Chodievali   sme ich prosiť, aby nás chránili pred požiarom a potopou. I chránili   verne, iba sv. Florián bol — Boh vie prečo — trochu zabudol na dedinu   a dopustil, aby ju pred pätnástimi rokmi oheň spálil. (Ktorí   nevyhoreli, tí teraz ľutujú, že majú staré domy.) Svätý Ján Nepomucký   drží sa verne. Od nepamäti potopy v Tajove nebolo. A mal by sa čo i   hnevať na našich dedinčanov, lebo ho po prevrate akýsi zaťatý   autonomista preto, že bol sv. Ján Nepomucký Čechom, z kaplnky   vystrčil do potoka, aby šiel domov. Ale svätý Ján nie, iba si pri   páde rozbil nos, čoho znak dosiaľ znáša, aby učil, že Česi majú   trpezlivo od Slovákov všetko zniesť v mene pokory a bratstva.
+   </tei:p>
+   <tei:p>
+    Okrem procesie s litániami k sv. Jánovi Nepomuckému
+   </tei:p>
+   <tei:p>
+    84
+   </tei:p>
+   <tei:p>
+    ﻿(z ktorých sa však už nepamätám ani na jednu prosbu
+   </tei:p>
+   <tei:p>
+    a nemám ju ani z čoho vypísať, lebo „Zlatého nebe klíče“ našiel   som už iba polovičku v starootcovskom dome) ctili si naši starí Jána   Nepomuckého ešte aj ináč. Tak tajovský rechtor, dobrý Slovák, pred   tridsať-štyridsať rokmi, keď ho maďarón-farár vytískal do predčasnej   penzie, že neučí dostatočne maďarsky a farár sa nemôže šplhať, každý   týždeň raz, ledva dočkajúc pondelka, pustil ticho organ a tým   hlasnejšie spievaval po pol omši sólo:
+   </tei:p>
+   <tei:p>
+    „Boha svého vzývám, píseň si zaspivám
+   </tei:p>
+   <tei:p>
+    k potčšení;
+   </tei:p>
+   <tei:p>
+    k radosti ctitelúm a svým neprátelúm
+   </tei:p>
+   <tei:p>
+    k zahanbení.
+   </tei:p>
+   <tei:p>
+    Já již Patróna mám, a to jest svätý Ján
+   </tei:p>
+   <tei:p>
+    Nepomucký.“
+   </tei:p>
+   <tei:p>
+    A že mu česť skrze zlých ľudí a bezbožné jazyky odňatá jest.
+   </tei:p>
+   <tei:p>
+    Bolo to „nevlastenecké“, že sa rechtor utiekal pod ochranu svätého   Čecha, a nie Maďara, farár tým viac zatvrdol a učiteľ predsa len   musel ísť do penzie. Nebol v tých dobách sám, čo tak pochodil.
+   </tei:p>
+   <tei:p>
+    Dávnejšie dávali i krstné mená chlapcom po sv. Jánovi Nepomuckom.   Tak i posledný riečanský farár, ktorý okolo roku 1820 umrel v   Podkoniciach, menoval sa Ján Nepomucký a jeho nástupca tiež tak.
+   </tei:p>
+   <tei:p>
+    Ba tiež moji dvaja ujčekovia, hoci obidvaja boli Štefanovia, ako   dobrí Slováci, dali si doniesť z Prahy ešte i hodiny na stenu s   obrazom sv. Jána Nepomuckého na pražskom moste. Neviem, či by také   teraz kto v Čechách ešte mal, ale jedny ešte štrkajú náhodou u môjho   brata v Ta-
+   </tei:p>
+   <tei:p>
+    85
+   </tei:p>
+   <tei:p>
+    ﻿jove. Ako chlapec vídal som ich u ujčeka v tmavom kúte vysoko pod   povalou so štyrmi pondusmi a motúzkom, za ktorý, keď — na veľké   prosenie — ujček potiahol, bily mi na jeden zvonček štvrte, na druhý   hodiny, čo sa mi zdalo neslýchanou hudbou a zázrakom. Takých viac v   tej dobe v šírom okolí nebolo, keďže hodín i tak mnoho na dedinách   nebývalo, lebo starí naši držali sa v robote hodín slnečných: „Ráno   svitne a večer príde sám.“ Tieto nepomucké hodiny trochu ostarly, ako   ujčekovi už asi pred dvadsiatimi rokmi odbily poslednú. Štvrte   nebijú, ani hodiny; už iba ukazujú, lebo olovené pondusy vystrieľaly   sa cez vojnu na líšky a srny. I ciferník stmavel celkom, iba biela   košeľa (alba) sv. Jána pod XII. hodinou a čierny biret, fúzy a brada   vyrážajú sa ešte určite, no sv. Ján už starobou naklonil hlavu a rád   by už vari aj s hodinami do múzea, lebo má veľmi ťažkú službu. Stráži   totižto nového gazdu, aby nebýval dlho v hostinci, od čoho už ustáva   horšie ako od služby na moste, lebo na most chodia ľudia predsa len   opatrnejšie ako do krčmy.
+   </tei:p>
+   <tei:p>
+    Ale vydrží i tu na mostoch po Slovensku. Vie, že keď budeme   lepšími Čechoslovákmi, aspoň takými, ako boli dedovia naši, že znova   zaspievame mu k pocte aspoň 16. mája s bratmi Čechmi piesne, ktoré sú   i dnes ešte po povalách a v starých modlitebných knižkách už i   roztrhané, myšiam napospas nechané, ale strašne dojemné, ako sú napr.   tie, čo som ja našiel v starootcovskom dome.
+   </tei:p>
+   <tei:p>
+    Už pred dvadsiatimi — dvadsiatimi piatimi rokmi poslal som sbierku   nábožných piesní do martinského múzea; teraz znova som zduloval kúty   a povaly i našiel ešte dve knižočky rozličných nábožných piesní   náhodile sošitých. V jednom sväzočku malý byť štyri ku cti a chvále   sv. Jána Nepomuckého, ale dve chybia celkom, tretia sa začína tretím   veršom a znie i so všetkými tlačovými chybami takto:
+   </tei:p>
+   <tei:p>
+    86
+   </tei:p>
+   <tei:p>
+    ﻿3. „Viveden si bil ven z mésta,
+   </tei:p>
+   <tei:p>
+    abis život stratil z mosta,
+   </tei:p>
+   <tei:p>
+    ponajprv Té zvázali,
+   </tei:p>
+   <tei:p>
+    zvázali, do Moldavi hodili.
+   </tei:p>
+   <tei:p>
+    4. Domníval se Venceslav kral, že Ti život tvúj odobral,
+   </tei:p>
+   <tei:p>
+    než když videl zazraki,
+   </tei:p>
+   <tei:p>
+    zazraki, jine počal misleti.“
+   </tei:p>
+   <tei:p>
+    „Čtwrta“ pieseň je celá a má pätnásť veršov. Začína sa:
+   </tei:p>
+   <tei:p>
+    „Ja na svéte zarmútení, odevšech sem opusténí, nemám v svéte   žádneho, žádneho krome Jana svätého. Aby za mne orodoval,
+   </tei:p>
+   <tei:p>
+    Memoriál Bohu podal, proti Utrhačŕim mím,
+   </tei:p>
+   <tei:p>
+    bezbožnim, ukrutním, bohapraznim.“
+   </tei:p>
+   <tei:p>
+    Piata pieseň je tiež celá, tá, čo tajovský rechtor spievaval v   pondelok, a šiesta je vytlačená v Skalici 1835 a má štrnásť veršov,   začína sa: „Tisíckrát buď pozdravený“, ale ja uvádzam verš   šiesty:
+   </tei:p>
+   <tei:p>
+    „V tom svété se nynéjší čas všecko na opak déje,
+   </tei:p>
+   <tei:p>
+    Bratr sestry nelituje, v neštéstí se vysméje;
+   </tei:p>
+   <tei:p>
+    necht’ jest známý, pŕítel dobrý, nevšímá si chudého,
+   </tei:p>
+   <tei:p>
+    ten kdo s koho jen múž být, šidí jeden druhého.“
+   </tei:p>
+   <tei:p>
+    Veľmi prípadný verš i po sto rokoch.
+   </tei:p>
+   <tei:p>
+    Je isté, že sa tieto a iné piesne rozliehajú v tieto dni po   Čechách a na Morave, ale najmä v Prahe po kostoloch
+   </tei:p>
+   <tei:p>
+    87
+   </tei:p>
+   <tei:p>
+    ﻿i uliciach a najmä pri hrobe sv. Jána Nepomuckého na Hradčanoch a   na moste nad Vltavou. Konečne možno, že ešte alebo už niekde i na   slovenskom moste ozval sa čo len veršík, a tak sa nevedome-vedome   nadväzuje na starú spoločnú československú kultúru, ktorá postavila i   na Slovensku iste tisíce sôch a obrazov sv. Jánovi Nepomuckému a v   Prahe ho uložila, ako mi stará mať zbožne rozprávala, do trojnásobnej   zlatej, medenej a striebornej truhly...
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

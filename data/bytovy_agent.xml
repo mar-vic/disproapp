@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949661" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Bytový agent : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1929
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Bytový agent
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Bytový agent
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    ,Dvadsaťpäť rokov, a už si mám zaviazať svet s jednou ... Tri roky   som bol na vojne... ničoho neužil. A toto už zase tri roky, čo som   zaťažený, ako muľa u guľometčíkov.. .*
+   </tei:p>
+   <tei:p>
+    Takýmito dumami vyrušuje sa posledné tri mesiace poručík Lajko   Čemý i v spoločnosti veselých druhov „pod viechou“, i v kaviarni, kde   Cigáni hrávajú i tú: „...keď jednu opustím, desať ich mám!“
+   </tei:p>
+   <tei:p>
+    A sediac celý opadnutý, s ovesenou hlavou, s opustenými dlhými   rukami na tenkom bruchu, trhne sebou, prebudí sa iba, keď doň   „zaryjú“, dlbnú. Trie si dvoma prstmi sholené fúzy od nosa po ústa,   odráža podozrenie, pričom však červenie mu bledá tvár i uši.   Spoločnosti často prichodí, ako by iné hovoril a iné myslel. Osamote   hľadí oknom od stolíka na živú ulicu hlavného mesta, a vlastne   nevidí. Krásny živý ženský svet prechádza sa po korze a Lajkovi ako   by šly iba tiene po biografickom plátne. I ten mladý ženský svet,   vymaľovaný v rozličných humoristických časopisoch, ktoré prehŕňa v   myšlienkach, pripadá mu, ako by čítal — politiku, o ktorú sa jakživ   nestaral. Proste, nerozumie, nevníma; ani obrázky „holušiek“ ho   nevzrušujú.
+   </tei:p>
+   <tei:p>
+    111
+   </tei:p>
+   <tei:p>
+    ﻿Čo je s ním?
+   </tei:p>
+   <tei:p>
+    Vyšívaný slovenský kožuštek, oravská čiapka s čertovými rožkami   stavajú sa mu pred oči... Z ulice, z obrázkov hľadí naň vážna,   pobledlá, ustrašená tvár slečny Anče, ktorej ústa mlčia, ale únrimné   oči vyčítajú... hoci je na tisíc kilometrov od neho. Však vždy   nebola.
+   </tei:p>
+   <tei:p>
+    Pred troma rokmi preložili Lajka, ešte poručíka, do Bratislavy.   Bytov nebolo. V službe v kasárni, mimo služby býval a spával, čert   vie, kde všade. Zpočiatku i v hoteli v spoločnej izbe s dvoma   dôstojníkmi, staršími, ženatými, rozdelenými v čas rodinných návštev   posteľnými plachtami — záclonami ako u chudobného holiča. Teda,   rozumie sa, že Lajko zo šetrnosti nechodil vtedy na sprelámaný diván,   ale prežíval svoj voľný čas v kaviarni s kamarátmi a po kanapách u   jedného, u druhého priateľa, vše každý týždeň a vše i každú noc inde,   a najviac v kasárni, kde konečne otvoria kedykoľvek. Pomáhal si i   tak, že hodne času rozmárnil „pod viechou“, vo vinárni, v parku, na   korze a ulici vôbec. I ľahko bolo sa mu spoznať s úradníčkami,   pisárkami, ktoré tiež bytov nemalý, alebo tri-štyri v jednej izbe sa   musely zniesť a zo zdvorilosti podobne dve-tri musely na ulicu, keď   jedna mala návštevu. Kaviareň, ulica, park, divadlo a zase kaviareň,   a tak, chcej-nechcej, zaväzovaly sa nové známosti.
+   </tei:p>
+   <tei:p>
+    V takej bytovej núdzi, čisto z tej družby, aby sa mohli požalovať,   že ani jeden, ani druhý nemá svojho bytu, priľnuli k sebe Lajko a   Anča, banková úradníčka, dvadsaťročná deva, jedna z prvých   absolventiek nových slovenských škôl. Zvyk stretať sa a z bytovej   núdze robiť si vtipy, stal sa im každodennou potrebou a zábavou. Veď   sú sami, opustení a bez bytu. Užijú aspoň ulice, parku, kaviarne,   biografu, vychádzky za mesto. Dievča milé, Lajko vďačný, zaľúbili sa   oddane. Mohli by sa i sobrať, ale — niet bytu. Ony bývajú štyri   spolu, on je so svojím
+   </tei:p>
+   <tei:p>
+    112
+   </tei:p>
+   <tei:p>
+    ﻿divánom len ako by na milosti u dvoch kolegov, nijak nevymyslíš,   ako z týchto dvoch izieb uvoľniť jednu manželom tak, aby ostatní, či   slobodní, či ženatí, zostali bez úhony.
+   </tei:p>
+   <tei:p>
+    Ale veď Lajko s Ančou bavia sa i tak, ako chcú, nuž tým sladšie   čakanie, Lajko svadbu nenáhli. Sľúbili si, že sa vezmú, keď sa nájde   predbežne aspoň jedna izbička s kuchynkou bez odstupného, lebo peňazí   nemajú. Veď pri všetkej šetrnosti strovia i jeho i jej plácu, a to i   bez bálov a toaliet zbytočných, drahých.
+   </tei:p>
+   <tei:p>
+    Lenže Anči známosť poškodila. Opozdievala sa do úradu,   podriemkavala, v úrade roztržitou bývala.
+   </tei:p>
+   <tei:p>
+    „Prečo?“ háda sekretár.
+   </tei:p>
+   <tei:p>
+    Bratislava je veľké mesto, ale s tajnou láskou sa neskryješ ani v   Amerike.
+   </tei:p>
+   <tei:p>
+    „A je to vážna známosť?“ spýtal sa slečny Anče otcovsky   direktor.
+   </tei:p>
+   <tei:p>
+    Anča mala odpovedať, že „vážna“, hoci je Lajko poručík, vojak; že   len čo byt nájdu, aby bol pán direktor milostivý pre tých päť minút a   jednu-dve chyby v korešpondencii. Anča, chcejúc byť veľkomestskou   slečnou, zaprela Lajka a povedala, že to len taká známosť nevážna, z   divadla, z koncertu a prednášok ... Direktorovi však doniesli, že   Anču vlastne vídajú v kaviarni, vo vinárni, v biografe, v parku, na   ulici a menej, kde ona hovorí... Dal Anči otcovské naučenie. Prísny   tajomník po čase zase oznámil direktorovi, že slečna Anča chybne   korešponduje, že istú firmu proti naznačenej úprave dva razy uznala   za stotisícovú splátku, že neskoro chodí do úradu a potom už náhli,   rada odbehne a často privátne telefonuje — s mužskými hlasmi, ako to   počuť z telefónu.
+   </tei:p>
+   <tei:p>
+    „Dva razy uznala za stotisícovú splátku!“ direktor sa zhrozil a s   náležitou školou, v ktorej bolo i slovo „prepustenie“, preložil Anču   do filiálky užhorodskej.
+   </tei:p>
+   <tei:p>
+    S Žliebky.
+   </tei:p>
+   <tei:p>
+    113
+   </tei:p>
+   <tei:p>
+    ﻿Anča si poplakala, ale keď Lajo sľúbil, že sa tiež dá ta preložiť,   bolo dobre, šla.
+   </tei:p>
+   <tei:p>
+    Či žiadal preloženie, či nie, to neviem, ale je stále v   Bratislave, skoro slobodný ako vtáčik už dva roky. Užíva mládeneckej   slobody a nahrádza vo vojne stratené tri roky. Raz polročne na   dovolenej sa schodia a Lajo Anči sľubuje manželstvo, len by tá bytová   núdza popustila. Inak žije si v nových známostiach, verný síce sľubu,   ale tie tri roky na vojne, tie nemôže dohoniť, nahradiť si všetku   sladkosť, čo mu ušla na frontoch. A že bytová núdza ešte trvá, ľahko   sa soznamuje s dievčatmi, so spoločnosťou, vysúdenou na ulicu, park,   kaviareň, viechu, a nezmohol sa na izbu, iba že býva s kolegom v   jednej izbe, i to na kanape a zo šetrnosti jeden k druhému často v   kasárni.
+   </tei:p>
+   <tei:p>
+    Anču Užhorod už dávno omrzel. Píše, že tí sekretári sú všade   rovnakí grobiani, a že rada by už variť, starať sa o domácnosť, o   Lajka, v tom že vidí svoje povolanie. Že iste mu je už zle od stravy   vojenskej, hostinskej. Ústav snížil platy, Lajo však postúpil a pri   jej šetrnosti a kuchárskom umení, čo ju ešte mama učila, budú sa mať   dobre, len ten byt aby hľadal, hľadal, hľadal...
+   </tei:p>
+   <tei:p>
+    Lajo posiela jej všetky výstrižky, čo číta o bytových núdzach z   celej republiky, o zbojníkoch, keťasoch bytových, odstupnom... len   aby predĺžil svoj mládenecký život. Veď nemá ešte dvadsaťpäť rokov a   tri roky bol na vojne. A kamaráti sú takí milí, vtipní, najmä starší   páni, čo bez rodín tiež musia s mládežou krátiť si čas tu i tam, pri   vínku, pivci, vo veselých spoločnostiach.
+   </tei:p>
+   <tei:p>
+    Anči, pravda, píše, že stojí jej v slove, čo by dokiaľ mali na byt   čakať.
+   </tei:p>
+   <tei:p>
+    „Hej, tebe je ľahko čakať, keď ti je len dvadsaťpäť, ale mne už   bude dvadsaťtri, budem stará... Tak dokiaľ, dokiaľ čakať?.. “
+   </tei:p>
+   <tei:p>
+    114
+   </tei:p>
+   <tei:p>
+    ﻿A slečna Anča začala hľadať byt z Užhorodu v Bratislave sama.
+   </tei:p>
+   <tei:p>
+    Teraz v jeseni si vzala dovolenú a prišla do Bratislavy presvedčiť   sa o láske Lajovej.
+   </tei:p>
+   <tei:p>
+    „Som muž a dôstojník, slovo držím, len by sa byt našiel.“
+   </tei:p>
+   <tei:p>
+    Pod tým sľubom strávili spolu krásne tri dni, direktorovi a   zlostnému sekretárovi sa ani neukázali. Lajo Anču vodil po   predmestských uliciach, kde stavajú, a v meste, ako si Anča žiadala a   v novinách našla, po bytových kanceláriách.
+   </tei:p>
+   <tei:p>
+    Konečne Lajo Anču vyprevadil na stanicu, posadil do vozňa a čakali   odchod vlaku.
+   </tei:p>
+   <tei:p>
+    „Kedy, Lajko drahý, kedy?“ spytuje sa Anča, hľadiac mu do očú tak   mäkko, ako dieťa.
+   </tei:p>
+   <tei:p>
+    „Len čo byt nájdem, milá Anča,“ i Lajo tak úprimne hľadí, že Anča,   i keď sa vlak pohol a zostala sama, prvé, čo pomyslela, bolo: „Ľúbi   ma, ľúbi.“
+   </tei:p>
+   <tei:p>
+    Pomyslela, ako ochotne vodil ju po novostavbách, keď i bez   výsledku, i po agentoch. A celé tri dni nepohol sa od nej z hotelu.   Nechodí vraj nikam, iba do divadla na vážne činohry. „Vojenská služba   je pekná, ale ťažká. No, až bude plukovníkom... to bude byt! Inakší,   ako teraz hľadáme,“ uvažuje Anča. Vytiahla notes a hľadela na   agentúrske adresy, že im ešte i sama napíše, aby, ak čo nájdu, i jej   oznámili. Veď nebude toho Laja už toľko trápiť; čo aký kútik bude   dobrý. Veď Lajko tak vážne smýšľa. Všetky tri večery šiel o polnoci   spať. V sladkej dume vezie sa Anča do Užhorodu.
+   </tei:p>
+   <tei:p>
+    Lajovi zišlo sa po tie tri noci vyspať, lebo, ako i Anča zbadala,   od tej služby v daždi, v blate je bledý, chudý. I tie veľké dobré oči   má podbehnuté ...
+   </tei:p>
+   <tei:p>
+    Tri dni stačil si Lajo oddýchnuť a potom na rodinný
+   </tei:p>
+   <tei:p>
+    8*
+   </tei:p>
+   <tei:p>
+    115
+   </tei:p>
+   <tei:p>
+    ﻿byt a agentov zase „predbežne“ nepomyslel. Anča ho videla, bude   trpezlivejšie čakať na sľub, ktorý splní, ale tak... tak, až mu bude   okolo tridsať. Ak by sa Anča dotiaľ vydala, no Boh s ňou, poželá jej   všetkého šťastia, lásky a pohodlia. Nech užije, čo svet dáva.
+   </tei:p>
+   <tei:p>
+    A pošiel medzi starých kamarátov, ktorí si ho doberali, ale ľahko   ho prijali zase do kruhu. Lajo adresy agentov, všelijaké reklámy   vyhodil z vrecka, aby mu nič nepripomínaly.
+   </tei:p>
+   <tei:p>
+    Anča poslala tri pozdravy z cesty, jeden z Užhorodu a potom dlhší   čas nepísala. Azda sa na ceste oboznámila s nejakým príjemným   človekom, možno, dôstojníkom... „Ale ona je nie taká, ako ja...“   doznal si Lajo. Dobré dievča. Seriózne chápe úlohu ženy, kuchárky a   tak ďalej... Ako vypočítala, že z mojich tisíc päťsto Kčs lepšie   vyjdeme dvaja než ja sám. Poznať, že je v banke. Ale nepíše. Či by sa   bola na niečo nahnevala v duši, či by jej bol nejaký kamarát niečo   ... Ale veď som ju ani neukázal nikomu.
+   </tei:p>
+   <tei:p>
+    Na desiaty deň dostal Lajo od Anči list, z ktorého vynímam:   „...Dostala som už tri nabídky, ale si nemysli, že k sňatku. Oj, to   nie, môj drahý! Okrem Teba nikto mi tej nabídky nespraví! Ale som   dostala nabídky na náš rodinný byt. Iď hneď pozrieť a presvedčiť sa:   Štefánikova ulica číslo 23, Palackého sady 21, Nový svet 526. Už by   som Ti tak rada halušiek s bryndzou navariť, takých, akých v nijakom   bratislavskom hostinci nedostaneš! Takých, čo Ti budú chutiť, ako keď   Ti pucer Mišo navaril za frontom, keď ste utekali z Ruska a dva   týždne zelenú ďatelinu a surovú kapustu jedli... ako si mi rozprával.   Hrozné, Lajko drahý, keď si na to pomyslím, čo si Ty, chudáčik,   vystál na vojne. Ale ja Ti všetko nahradím, zabudneš i tie hrozné tri   roky... Len tie byty choď hneď
+   </tei:p>
+   <tei:p>
+    116
+   </tei:p>
+   <tei:p>
+    ﻿a hneď pozrieť, a čo budú len ako škatuľky, najmi. Ja podľa toho   napíšem rodičom ... Ba už im píšem ...“
+   </tei:p>
+   <tei:p>
+    Dosiaľ ani jej, ani jeho rodičia o ničom nevedeli. Ich láska bola   ich tajnosť.
+   </tei:p>
+   <tei:p>
+    „Moji rodičia sú poctiví... Iste i jej rodičia... ,Nasľuboval si,   synak, dodrž slovo, ber. Tráp sa.‘ To mám isté, že mi tak povedia.   Veď áno, ale až by som bol aspoň kapitánom, štábnym ... Akýže to   vojak! Taký mladý, a už ženatý, a ak budeme mať deti jeden rok,   druhý, tretí...“ Vedie samomluvu Lajko, ale list sa nedá odkladať.   Ide pozrieť aspoň jeden ten byt.
+   </tei:p>
+   <tei:p>
+    Chvála Bohu! „Novostavba — mokrý!“
+   </tei:p>
+   <tei:p>
+    Tak to Anči napísal a vytiahol dva týždne mládeneckého života.
+   </tei:p>
+   <tei:p>
+    „Choď pozrieť druhý!“ znie rozkaz z Užhorodu.
+   </tei:p>
+   <tei:p>
+    Hospodine! „Starý dom — byt tmavý!“
+   </tei:p>
+   <tei:p>
+    Vytiahol dva týždne ďalšie.
+   </tei:p>
+   <tei:p>
+    „Tretí!“ hučí z Užhorodu.
+   </tei:p>
+   <tei:p>
+    Pane Bože! „Suchý i vidný, ale pre nás — drahý.“
+   </tei:p>
+   <tei:p>
+    O dva týždne dostal novú ulicu, nové číslo od Anče a súrne pokyny,   aby nepremeškal.
+   </tei:p>
+   <tei:p>
+    Bol by šiel podplatiť agenta, ale čert ho vie, ktorý je taký   ochotný, a je ich plné mesto. Šiel pozrieť byt.
+   </tei:p>
+   <tei:p>
+    „Zaspievalo vtáča na kosodrevine;
+   </tei:p>
+   <tei:p>
+    čo komu súdené, veru ho neminie ...
+   </tei:p>
+   <tei:p>
+    hvízdal si pod nos Lajo, zastavil sa pred bytom a chytiac nádobu   múdrosti do dlaní, pritláča si sluchy, čo si počať.
+   </tei:p>
+   <tei:p>
+    „I suchý, i vidný, i cena primeraná.“
+   </tei:p>
+   <tei:p>
+    Sedí zlomený v kaviarni, nevidí, nečuje, iba tupo myslí: „Bože, čo   si počať, aby som sa v dvadsiatom piatom roku veku svojho ... Veď je   umrieť žiaľ v tom veku, nie sa oženiť. Veď ja čestne chcem splniť   slovo, ale tak... okolo tridsiateho...“
+   </tei:p>
+   <tei:p>
+    117
+   </tei:p>
+   <tei:p>
+    ﻿Tri byty, čo našla Anča, zmaril. Čo bude s tým štvrtým?
+   </tei:p>
+   <tei:p>
+    Myslím, že nadporučík Lajko je už v slepej uličke.
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

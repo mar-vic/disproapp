@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949816" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Na kolieskach : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     955
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Na kolieskach
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na kolieskach
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Listy, telegramy, telefóny — volajú i tisnú ma do okresu.. Bratia   oznamujú mojím menom shromaždenia, čakajú ma.
+   </tei:p>
+   <tei:p>
+    „Musíš sa ukázať!“
+   </tei:p>
+   <tei:p>
+    Vzal som kufrík a poď. Veď som tak neraz prešiel Slovensko.   Pravda, vtedy len ukradmo a zastaviac sa iba tam, kde práve žil   povedomý Slovák, ktorý sa odvážil byť členom Muzeálnej slovenskej   spoločnosti, alebo opovážil sa odberať niektorý časopis, kúpiť   knižku. To sa chytro obišlo. Teraz, na slobodnom Slovensku, pred   voľbami k tomu, voľno mi vojsť do každej dediny, mesta, do každého   domu.
+   </tei:p>
+   <tei:p>
+    „Koľkože je to dedín? Koľko miest? Koľko domov?“ Rátam si v mysli   a vychodí, že volebný okres, tri župy, neobídem ani do Vianoc.
+   </tei:p>
+   <tei:p>
+    „Ukázať sa! Nuž, reku, kým podrážky vydržia, zostanem. Aspoň   poznám obnovený svet slovenský. Veď som ho päť rokov nevidel,   vysotený ďaleko do Ruska a na Sibír, odkiaľ často zapochyboval som,   že nebude pre nás návratu.“
+   </tei:p>
+   <tei:p>
+    Ale tajný sen sa splnil!
+   </tei:p>
+   <tei:p>
+    Vezú ma na československej železnici, lístok mi dali na slovenské   slovo, stanice smyly si maďarskú farbu i meno;
+   </tei:p>
+   <tei:p>
+    79
+   </tei:p>
+   <tei:p>
+    ﻿slovenské a české slovo smelo, ako doma, znie na staniciach, vo   vlaku, z úst cestujúcich i zamestnaných.
+   </tei:p>
+   <tei:p>
+    Nový svet! Ktože by ho nevidel, neprecítil v hĺbke srdca, kto   srovnáva predvojenné časy, keď sme za slovenské slovo vždy dávali   nervy, reskírovali srážku, neraz i pokutu. Kto už z toho samého nemá   radosti a necíti oslobodenia zpod klady, ten si pod Maďarmi nikdy po   slovensky lístka železničného nekupoval.
+   </tei:p>
+   <tei:p>
+    Po staniciach noviny, knižky našské vyložené celkom otvorene,   hrdo; ba i chlapec do okien vytŕča, do vozňov lezie a jarmočnícky   vykrikuje mená časopisov. „Keby si ty to, synku, bol zavolal   osemnásteho roku na jar, boli by ťa obesili,“ dumám si v mysli, „a   teba iste dnes mrzí, že časopisov ešte málo predáš.“ „Sem daj, z   každého čísla po jednom!“ Natešený do odchodu vlaku sčitúva, koľko mu   za ne príde peňazí, československých peňazí, na ktoré hľadím, hľadím   a neviem sa nadívať. Nie pre hodnotu, ale pre to československé   slovo. Veď na starých maďarsko-nemeckých nebolo slovíčka nášho!   Obecenstvo je ako by oživené, obrodené: každý hovorí a zná slovensky;   kšeftári so svojou nemčinou, alebo maďarčinou sú tichí, utiahnutí,   ako by cítili, že nehodí sa to už pre tento číry slovenský kraj. Dosť   bolo! — Veď svieti slnce, nový život strojí i príroda, nového ducha   sbiera, hľa, i tento, tu vo vlaku národ, a vôkol celý svet slovenský.   Dosť bolo potupy! Čušte, kuvičí! A stíchajú, lámu sa v mysli, lámu   náš jazyk, ktorý dosiaľ každý zaznával.
+   </tei:p>
+   <tei:p>
+    Pozorujem besedujúcich, čítam — cesta uletí a prichodí mi   vystúpiť. Sišla mi na myseľ povinnosť. Tri župy, kde začať, ako,   kedyže vás prejsť?
+   </tei:p>
+   <tei:p>
+    Začneme v meste. Ale ľudia mesta, ktorí žili z ruky do úst a nikdy   nepozreli na Tatry, nikdy neprežili bôľov rodenia sa národnej slobody   — nedali mi hovoriť. Oni už mali svojich „ruských“ prorokov... A bol   by som azda niečo
+   </tei:p>
+   <tei:p>
+    80
+   </tei:p>
+   <tei:p>
+    ﻿nového povedal i z Ruska, na vzor ktorého chceli by zariadiť i   našu Republiku.
+   </tei:p>
+   <tei:p>
+    Keď nie v meste, zájdem na dediny, tam sú azda nie ešte všetci   takí múdri ako v Ružomberku, a poprajú mi sluchu.
+   </tei:p>
+   <tei:p>
+    Do týždňa obišiel som iba niekoľko dedín. Strašne zastaralým   spôsobom: pešky, čím zmárnil som hodiny a celé poldni na cestách.   Chlapci, bubeníci obecní svolávali mi svet, a svet neprišiel. Bolo to   v týždni, tak chlapi a mladý národ bol v robote, v poli. Prišli   starci, babky a deti.
+   </tei:p>
+   <tei:p>
+    „Čo vám, starkí a deti, hovoriť o politike? Rád som, že vás vidím,   že ste zdraví, na slnci! Opatrujte dobre deti; prídu do školy,   dostanú knižky, naučia sa čítať, bude potom už v dedine knižnica,   beseda, prídu im do rúk časopisy, azda pán učiteľ, azda niekto iný   prichodiť bude k nim s prednáškou, porozprávajú sa, rozhľadia — a   bude možno hovoriť i o politike. Ale vy, starkí a babky, sa už toho   nedožijete. Budem vám teda čítať rozprávky, zapáľte si do fajočiek,   posadajte si na podstenia vôkol.“ Zarazia sa nad touto rečou a   niektorí sadnú, niektorí nie a chlapci nazerajú mi do knižočky.   Počúvajú, potom z ničoho nič začnú pokašliavať, deti drobné sa mrštiť   a babky i starci posunkami, očami, šuškaním vyrušovať ma.
+   </tei:p>
+   <tei:p>
+    „Čože sa vám nepáči? Je to veselé,“ myslím na humoresku a sám sa   jej smejem.
+   </tei:p>
+   <tei:p>
+    „Ach, to sú len také taľafatky!“
+   </tei:p>
+   <tei:p>
+    „A o nás!“
+   </tei:p>
+   <tei:p>
+    „My to dávno vieme!“
+   </tei:p>
+   <tei:p>
+    „Povedzte nám, čo sme ešte nepočuli.“
+   </tei:p>
+   <tei:p>
+    „Nám tak ľahko hlavu neprekrútite. Tu už boli všelijakí páni, čo   by chceli naše hlasy. Darmo nedáme!“
+   </tei:p>
+   <tei:p>
+    „Povedzte, za koho stojíte!“
+   </tei:p>
+   <tei:p>
+    „Ak ste za chudobu ...“
+   </tei:p>
+   <tei:p>
+    „Na nohách som k vám prišiel.“
+   </tei:p>
+   <tei:p>
+    „Mohli ste sa doviezť.“
+   </tei:p>
+   <tei:p>
+    í Žliebky.
+   </tei:p>
+   <tei:p>
+    81
+   </tei:p>
+   <tei:p>
+    ﻿„Radšej by som vám bol doviezol vagón múky a voz slaniny.“
+   </tei:p>
+   <tei:p>
+    „Niečo hovoríte! To je už reč! Tak povedzte svoj program.“
+   </tei:p>
+   <tei:p>
+    Povedal som. Spomenul slobodu, slovenčinu, zeme, fabriky ...   Páčilo sa všetkým. Chválili do očú. Deti hľadely, ako si starkí   utierajú tu i tam oči, najmä keď som hovoril o slobode a slovenčine v   časoch predvojenných a dnešných.
+   </tei:p>
+   <tei:p>
+    „Vy ste náš!“
+   </tei:p>
+   <tei:p>
+    „Za vás naše hlasy!“
+   </tei:p>
+   <tei:p>
+    A starkí a babky mi prišli ruky podávať, rukáv hladkať. Deti,   chlapci, vyskakovali, ako barance na pažiti.
+   </tei:p>
+   <tei:p>
+    Keď som sa porúčal a sberal preč, šli za mnou na koniec dediny,   podávali mi ruky, dôverne sa ma spytovali:
+   </tei:p>
+   <tei:p>
+    „A koľko vy máte koliesok?“
+   </tei:p>
+   <tei:p>
+    Málokedy bol som tak zmätený, ako na túto otázku. Prebehly mi vari   všetky porekadlá o „kolieskach“ mysľou.
+   </tei:p>
+   <tei:p>
+    „Ľudia moji, prepáčte, ale ja nie som blázon!“
+   </tei:p>
+   <tei:p>
+    „Božechráň! Počuli sme vás. My chceme vedieť, koľko koliesok   máte?“
+   </tei:p>
+   <tei:p>
+    „Kde?“
+   </tei:p>
+   <tei:p>
+    „Na voze.“ „Akom?“
+   </tei:p>
+   <tei:p>
+    „Nuž čo vás zvezieme do snemu Vydýchol som si.
+   </tei:p>
+   <tei:p>
+    „To ja neviem, moji milí.“ „Tak akože vám budeme hlasy   oddávať? „Po mene.“
+   </tei:p>
+   <tei:p>
+    „Po mene, po mene... My nevieme všetci čítať,“ dohovárali mi s   výčitkou, ako môžem byť taký nevedomý, keď to dosiaľ každý rečník   vedel, a iba ja — nie.
+   </tei:p>
+   <tei:p>
+    Zaslúžene dostal som v tejže dedine dva hlasy a do snemu sa   nezviezol.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

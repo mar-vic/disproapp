@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949472" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Kšo, Kšo! : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1124
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Kšo, Kšo!
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Kšo, Kšo!
+    </tei:head>
+    <tei:head>
+     alebo „Kto má škodu, má i posmech.“
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V Hladoviciach ochorel obecný kanec. Čo sa mu prihodilo na zdraví,   dosiaľ nevedno, hoci je už sedem rokov, ako ho obec zjedla, vlastne   len pol obce, lebo druhá polovička nechcela k mäsu ani privoňať.
+   </tei:p>
+   <tei:p>
+    Maško prechorel. Hlava obce — richtár dal povolať slávny obecný   výbor a sviniar vyviedol kanca, aby sa presvedčili na vlastné oči, či   je s ním ozaj tak zle. Boli by zavolali i zverolekára, ale to by   stálo peniaze, a ak sa mu už nedá pomôcť — načo teda dvojaké výdavky?   Čo by dali zverolekárovi, to môžu obrátiť i na inšie, ak slávny výbor   odhlasuje, že maško už nemôže vyzdravieť.
+   </tei:p>
+   <tei:p>
+    Boli by sa ešte poradili i s lekárom, čo ľudí lieči, lebo pán   notár tvrdil, že brav má veľmi podobné vnútornosti človeku; ale   lekára už na jedenásty rok nieto v obci, a to z tej jednoduchej   príčiny, že keď starý umrel, učil sa na doktora jeden z ich synkov už   štvrtý rok, a oni si umienili, že radšej počkajú na toho svojho synka   ešte rok-dva, ako by mali cudzieho pripustiť do obce. Miešal sa už do   toho i slúžny, i viceišpán, ale obec odkázala, že radšej vymrie na   choleru, ako by sa dala liečiť cudziemu človeku! Oni majú všetko   svojich: od farára, rechtora až po toho svi-
+   </tei:p>
+   <tei:p>
+    30
+   </tei:p>
+   <tei:p>
+    ﻿niara. A oni by uvideli, kto by im rozkázal pustiť cudzinca k   chorej žene!
+   </tei:p>
+   <tei:p>
+    Maškovi pohodili kukurice a obzerali ho. Sišla sa celá dedina.   Maško ovesil hlavu, prižmúril oči, ako opitý, a ani tá kukurica mu   nechutila tak, ako kedysi. Po chvíli si kľakol a potom i ľahol, a   viac nežral.
+   </tei:p>
+   <tei:p>
+    „Sviniar, hádam je tvrdá tá kukurica,“ poznamenal jeden z pánov   výborníkov.
+   </tei:p>
+   <tei:p>
+    „A či mu ju ja mám prežúvať?“ zlostne odvrkol sviniar.
+   </tei:p>
+   <tei:p>
+    Maška začalo triasť a hlavou mu mykať. Jedni mienili, že má   lámku.
+   </tei:p>
+   <tei:p>
+    „Je prestydnutý, neprirovnávajúc, ako keď sa i ty prechladíš,“   obrátil sa druhý výborník k tretiemu.
+   </tei:p>
+   <tei:p>
+    ,,A ja si ho nebudem na noc do postele brávať,“ začal reč sviniar   a veľmi sa zlostil. Lebo to ako keby prstom boli naň ukazovali, že je   on vinný maškovej lámke a prestydnutiu.
+   </tei:p>
+   <tei:p>
+    Pán rechtor bol kdesi-čosi čítal o novej chorobe a furtácky   prehovoril, že maško má influenzu, keď je taký dolomený, na nohy   vstať nevládze a slzy mu tečú, a ktovie, či ho i hlava nebolí.   Niektorí sa zasmiali, ostatní tomu nerozumeli, ale zasmiali sa   tiež.
+   </tei:p>
+   <tei:p>
+    Notár prehodil zase, že či maško nemá migrénu, čo je vraj dosť   možné, lebo že býval veľmi kúsavý, zlostný.
+   </tei:p>
+   <tei:p>
+    Občania medzitým obzerali, obťapkávali maska, prihovárali sa mu,   ale maško nič, len bol zarmútený, očká mal prižmúrené a ako by slzy v   nich. Ešte sviniarovi ohlásil sa koľko-toľko, ale na ostatné   obecenstvo, ba ani len na slávny výbor sa ani neobzrel. Ako by bol   cítil, že v hlavách výboru rodí sa ukrutná myšlienka — sniesť ho s   tohto sveta.
+   </tei:p>
+   <tei:p>
+    A skutočne: richtár, notár, rechtor a úradskí si čosi
+   </tei:p>
+   <tei:p>
+    31
+   </tei:p>
+   <tei:p>
+    ﻿pošuškali, potom to povedali nahlas, a tak čochvíľa pol obce s   úradom bolo za to, aby sa maško odpravil.
+   </tei:p>
+   <tei:p>
+    „Ale neberte mu ten biedny život, nuž nech zdochne,“ zamiešala sa   akási ľútostivá stará ženička. Povedala to takým hlasom, že sa to   mnohých dotklo a títo jej dali za pravdu: „Áno, nech radšej zdochne,   ako ho máme zabiť.“
+   </tei:p>
+   <tei:p>
+    Obec sa roztrhla. Jedni kričali: zaklať ho a užiť, kým je ešte   niečo z neho, druhí volali, že treba ho nechať, či zdochne, alebo   nie.
+   </tei:p>
+   <tei:p>
+    ,,Próbujme mu ešte mlieka a horkej soli
+   </tei:p>
+   <tei:p>
+    „A studený obkladok na jazyk,“ ozval sa posmešne richtár.
+   </tei:p>
+   <tei:p>
+    „Ten by sa zišiel vám, aby ste sa nelakomili na obecný majetok,“   ohlásil sa ktosi zo zástupu. Richtárovi len tak trhlo bradou i   palicou, vyvalil oči, kto sa to opovážil, ale notár ho zadržal.
+   </tei:p>
+   <tei:p>
+    „Poďte, páni, my sme hlava,“ volali úradskí okolo richtára a   notára, „a urobíme, ako sa nám páči.“ Šli na obecný dom. Tam sa   uradili, že maška zakolú.
+   </tei:p>
+   <tei:p>
+    Druhá strana rozišla sa však s hlasným protestom a s hrozbou   žaloby.
+   </tei:p>
+   <tei:p>
+    Uzavreté!
+   </tei:p>
+   <tei:p>
+    Do večera maška pred obecným domom zaklali a obriadili. Sviniar   dostal všetky vnútornosti a bol im rád ako Cigán dieťaťu. Slaniny   súcej na odobratie nemal maško na svojich starých rebrách. Mäso z   neho rozsekali, vykúrili obecnú pec a na ťapšách dali sa piecť   neboráka maška, dorezaného na nepoznanie.
+   </tei:p>
+   <tei:p>
+    Notár napísal kartičku, pán richtár udrel na ňu obecnú pečať, a   dalo sa od Žida doniesť niekoľko litrov vína i špiritusu. Prišli i   dedinskí traja Cigáni, ktorí okrem kradnúť, klince kuvať, vedeli i   hrať, a začalo sa dýnom-dánom. Mäsko v peci škvrčal ako Cigán na base   a obecný sluha prikladal zánet a svietil do pece, skúmajúc, ktorý   kúštik je
+   </tei:p>
+   <tei:p>
+    32
+   </tei:p>
+   <tei:p>
+    ﻿už upečený. Vytiahli dve ťapše, zaniesli do izby a veselo začali   si ujedať, keď si už vínka pro apetitórium boli povypíjali. Pán notár   povedal pekný prípitok na nebohého maška a Cigáni spustili tuš.
+   </tei:p>
+   <tei:p>
+    Druhá strana chodila hore-dolu dedinou, vykrikovala, búrila   kde-koho, a čo zvedavejší nazerali do okien a postávali na dvore   obecného domu.
+   </tei:p>
+   <tei:p>
+    Kým obecný sluha s ťapšou meškal v izbe, potom rozrábal špiritus,   chodil pre vodu, ktosi otvoril dvere na pitvore, šibol zánet do pece   — a bík, bík! chytilo sa v nej biedne mäso maškovo. Ešte sa mu i to   muselo stať!
+   </tei:p>
+   <tei:p>
+    Že to už bolo večer, chcel si obecný hlásnik čím včaššie odspievať   deviatu, aby tiež mohol medzi hodujúcich, a keďže bol na veži a   schválne tvárou obrátený k obecnému domu, zazrel hneď vybúšiť plameň   z komína, i začal kričať: „Horí, horí!“ a pár ráz udrel na hranu   zvona.
+   </tei:p>
+   <tei:p>
+    Šťastie, že i tak bola celá dedina na nohách, voda tiež naporúdzi,   nuž nestalo sa nič horšieho, ako že maško v peci zhorel, tí v izbe   poprevŕhali si víno i pálenku a Cigáni sa rozleteli.
+   </tei:p>
+   <tei:p>
+    „Ci zhorel, či nie, dosť na tom, že ho o život pripravili,“   hovorili nespokojne a na druhý deň šli k slúžnemu žalovať obecný úrad   pre kanca i pre neopatrnosť.
+   </tei:p>
+   <tei:p>
+    Slúžny došiel, vyšetroval a posúdil žalobníkov — čertvie, na akom   základe a paragrafe — na dvadsať zlatých pokuty. Posúdení apelovali   na vicišpána, ale vicišpán bez všetkých dôvodov potvrdil výrok   slúžneho. Apelovali na stolicu. Stolica vyslala toho istého slúžneho   ešte raz vyšetrovať a potom — potvrdila prvý výrok. Na toto vzbúrila   sa celá dedina, a že si ona musí pravdu nájsť: apelovala rovno na   ministra. Minister apelátu vrátil, že neprišla k nemu riadnou cestou.   Vyššej apeláty nebolo, iba ak ešte interpelácia na sneme, ale o tom   obec nevedela.
+   </tei:p>
+   <tei:p>
+    3 Žliebky.
+   </tei:p>
+   <tei:p>
+    33
+   </tei:p>
+   <tei:p>
+    ﻿„Pomstíme sa sami na úrade, keďže vrana vrane oka nevykole!“
+   </tei:p>
+   <tei:p>
+    A od tých čias na tých, čo sa na maškovom kare zúčastnili, začali   vykrikovať: „Kšo, kšo!“ a tí sa na to veľmi hnevali. Okolití však   nevedeli, kto drel kanca, kto nie, preto začali volať na každého   Hladovčana: „Kšo, kšo!“ a dnes, ak si kto chce dať chrbát namastiť,   nech len ide do Hladovíc a zavolá v dedine: „Kšo, kšo!“
+   </tei:p>
+   <tei:p>
+    (Besednice, II. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

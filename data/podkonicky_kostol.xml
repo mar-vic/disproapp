@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949814" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Podkonický kostol : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2211
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Podkonický kostol
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Podkonický kostol
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Podľa kanonickej vizitácie z r. 1804 dňa 24. mája podkonickí   obyvatelia dobrovoľne zaviazali sa zem kostolnú, „Za vĺčkom“ rečenú,   „kedykoľvek bude potrebné, povážati a dokonale zrábati“.
+   </tei:p>
+   <tei:p>
+    Päť rokov plnili podkonickí farníci svojmu pánu farárovi, Jánovi   Nepomuckému Kontošovi, obligátor statočoe. Aspoň nemáme dôkazov, že   by záväzok neboli plnili, a tak nebolo by pekne, keby som dnes   priťažil ich dušiam, radujúcim sa v nebi, a podozrievaním alebo ničím   nedokázanou klebetou vrátil ich do očistca. My sa jedine domnievať   môžeme, že veriacich svojich Podkoničanov pán farár iba napomínať   mohol, aby — hádam — hustejšie povážali a niektorý rok poviezť vôbec   nepozabudli. Prv dôverne, potom — ako to býva — pripomenul im   kanonickú vizitáciu a dobrovoľný sľub, a to pred Pánom Bohom, totižto   s kancľa. A preto, aby pán farár mal lepšiu istotu, dali mu   Podkoničania 19. apríla 1810 „písmo“, ktorým richtár a prísažní obce   „známo činili, komukoľvek by o tomto znáti aneb vedeti potrebno   bylo“, že oni pri slávnej vizitácii zem kostolnú, „Za vĺčkom“ rečenú,   povážati a dokonale zrábati sa podvolili a zavážali. Že „dobrovoľne“,   to už v p nespomínajú. Načo ? Pri slávnej vizitácii bol   osvícený pán
+   </tei:p>
+   <tei:p>
+    119
+   </tei:p>
+   <tei:p>
+    ﻿biskup a dvanásť kňazov, komorský gróf zo zámku ako patrón, a 19.   apríla 1810 už iba pán dekan, pán farár a zo zámku iba úradník. Vtedy   sa nesvedčilo nariekať a ponosovať, veď bola veľká slávnosť, hučaly i   doliny od streľby z mažiarov — teraz ťažké, všedné časy, možno   úprimnejšie si pohovoriť i do „písma“ zapísať. Lebo im nikto neuzná.   Ani pán farár. A predsa, kto neumrel, každý vie, že zo snehov a   dažďov vše a v roku 1810-tom najmä na jar tak boly v Podkoniciach   rozmokly lúky a zeme, že by sa bola „veliká škoda činila“, keby boli   chceli ,,Za vĺčka“, na farskú zem, hnoj vyvážať. „Než jaknáhle nám   Pán Buh spomúže z lúk a zemí zrobiti a domov zebrati, hned na túže   zem 30 fúrov hnoja se vyvézti zaväzujeme. Pročež pro lepšú bezpečnosť   dávame toto písmo ze seba, a svojíma vlastnýma jmenama a + (krížiky)   potvrzujeme. Richtár Jano Plaška, polgári Jano Slobodník, Jano Gila,   starší Martin Mrva, Juro Potraš, Ondrej Očenáš.“
+   </tei:p>
+   <tei:p>
+    Richtár a Mrva spravili veľké a tenké krížiky, Gilovci brko   pritisli, ostatní ľahko niesli ruky po papieri, ale vlastnoručne   svoje meno nepodpísal ani jeden. Písať nevedel vtedy v Podkoniciach   ešte ani richtár.
+   </tei:p>
+   <tei:p>
+    Písmo složil a schoval pán farár, mysliac i s dekanom a   patronátskym úradníkom zo zámku, že teraz už bude v tom hnojení   poriadok. Täk mysleli aj richtár a prísažní a úctivo sa odporúčali,   aby zase mohli s prosbami a ponosami na zámok a k osvícenému   biskupovi, lebo tam im už bol pán farár všetky brány a dvere   pozatváral žalobami, že o kráľovstvo nebeské a jeho rozmnoženie   nedbajú a nepečujú... a keď sa do kostola nevmestia, stoja okolo, ale   priložiť ruky k dielu — nedajbože. Na oferu, do zvončeka ani každý   desiaty... a o jednej veľkej veci počuť ani vo sne nechcú.
+   </tei:p>
+   <tei:p>
+    Podkoničania už tak boli vychýrení, že ľupčianski páni nožiari,   debnári a stolári hľadeli na nich ako na zbojníkov,
+   </tei:p>
+   <tei:p>
+    120
+   </tei:p>
+   <tei:p>
+    ﻿ktorí iba spásajú ovcami cudzie polia, a že by to poznať nebolo,   sbierajú ovčie bobky do klobúkov; radi jedia z cudzieho mäsa, ba sa   bolo stalo, že i včely vykradli a znivočili.
+   </tei:p>
+   <tei:p>
+    Ale veď oni tiež majú ústa a vedia prosiť i žalovať. A nebolo   treba ani dlho čakať. 12. júna 1810 bola v Podkoniciach birmovka,   prišiel osv. pán biskup Szerdahelyi, pred ktorého odvážili sa   Podkoničania, že pán farár veľa na nich, na chudobných ľuďoch, vymáha   pre seba, ba ešte i pre rechtora; že už i kostol mu je malý, cintorín   neohradený ; kaplnky, kríže by budoval a staval. Že sú oni horliví   katolíci, veď vrátili sa už i všetci luteráni do cirkvi, čo v   Podkoniciach kedy boli, ale také ťarchy, ako na nich pán farár   vymýšľa, to neunesú, a preto a pre svätý pokoj v cirkvi, ponížene   prosia osvíceného pána biskupa, aby ich pána farára preložil medzi   možnejší národ; oni že z tých holých brehov, kam ich panstvo vyhnalo,   viac nevládzu než dávajú. I nedávno že sa zaviazali tridsať fúr hnoja   „Za vĺčka“ farárovi vyvážať...
+   </tei:p>
+   <tei:p>
+    Ale pán biskup pochválil Podkoničanom ich farára do očú a úmyslom   jeho sľúbil požehnanie a pomoc; prítomný pán komorovský gróf zo zámku   sľúbil dať všetko, všetko: kameň, vápno i drevo. Deputácia, pokorne   bozkávajúc ruky, hrbila sa naporad do háčika, tisla klobúky na prsia   a račkajúo vychádzala z fary na dedinu so žalostným vzdychaním: Už sa   im neobránime, neobránime. Iba budovať... Bože, Bože!
+   </tei:p>
+   <tei:p>
+    Či v jeseni „Za vĺčkom“ pohnojili, neviem; ale sotva. Zase bolo   „mokro“ a bola by sa veľká škoda činila. Súdim to z toho, že milých   Podkoničanov 9. januára 1812 dal si svolať úradník zo zámku, obnovil   s nimi sľub z 19. apríla 1810, a to na obligátore, i zapísal, po   latinsky, takto asi: Napomenutá bola obec plniť kontrakt a hnojiť   kostolnú zem „Za vĺčkom“. Franc Hrdina. Toto napomenutie patró-
+   </tei:p>
+   <tei:p>
+    121
+   </tei:p>
+   <tei:p>
+    ﻿na vari osožilo, lebo viac v podkonickej histórii hnojenie zeme   „Za vĺčkom“ sa nespomína. S patrónom a panstvom neradno bolo vtedy   ťahať sa za prsty, lebo Podkoničania i všetkých štrnásť obcí, čo pod   zámok patrilo, dobre si pamätali z vlastnej skúsenosti, alebo aspoň z   rozprávok otcov, aké boly na zámku Ľupčianskom žaláre, mučiareň,   suchý mlyn, ktorý točili väznení poddaní.
+   </tei:p>
+   <tei:p>
+    Svojmu veľkému snu, aby Podkoničania mali väčší kostol i vežu,   nedal pán farár Ján Nepomucký Kontoš zapadnúť. Podkonice spomínajú sa   no prvý raz v listine z r. 1340; potom v listine z r. 1434 nazývané   sú Podgonicami. Malý už r. 1692 kostolík sv. Martina, 24’ (stôp)   dlhý, 24’ široký i vysoký, s gotickým oltárom bl. P. Márie. Ale vtedy   a ešte temer za sto rokov boly a zostaly fíliou ľupčianskou. Však   baníctvo, hutníctvo a uhliarstvo vtedy ešte kvitlo na celom okolí a   Podkoničania, hoci ani pitnej vody nemali, od mlieka, žinčice, syra a   ražného chleba, ktorý sa rodil i na terajších lúkach a pasienkoch na   Drndáči, vo výške iste tisíc metrov, množili sa tak krásne, že ich už   bolo tisíc duší. Patrí sa na takú obec, aby mala kostol, vežu i   školu. Počúvali to doma od pána farára, počuli si to v Ľupči, na   zámku, v Bystrici.
+   </tei:p>
+   <tei:p>
+    — Rozmnoží-li vám Hospodár nebeský ovečky — každá má košiarik; ale   keď milosť božia rozmnožila duše teito farnosti pre česť a slávu   svoju, tie nechávate blúdiť okolo božieho košiarika-kostolíka, aby   prepadly vlkom, to jest večnému zatrateniu. Ale príde hodina, keď   budete vy richtár, starší obce a polgári, otcovia a matky vydávať   počet pred Bohom, a bude plač a škrípanie zubov, lebo vám bude   povedané: Podkoničania het, lebo vy ste viac pečovali o ovce, ako o   svoje duše ...
+   </tei:p>
+   <tei:p>
+    Tak kázaval rozhorlene a neúnavne pán farár, nie preto, že mu zem   „Za vĺčkom“ nehnojili, ale že mal vnútornú srdečnú starosť o boží   príbytok, o kostol a vežu.
+   </tei:p>
+   <tei:p>
+    122
+   </tei:p>
+   <tei:p>
+    ﻿Klop oči, zakrývaj si tvár kabanicou, vyhováraj sa na biedu,   chudobu, jednak detí-duší pribúda.
+   </tei:p>
+   <tei:p>
+    „Neubránime sa,“ šepkal si svet a vzdychal, čo to bude.
+   </tei:p>
+   <tei:p>
+    Vrchnosti už dávno robily prípravy a roku 1813 skutočne rozhodly   postaviť vežu a zväčšiť kostol.
+   </tei:p>
+   <tei:p>
+    Zo zámku prišiel úradník s rozkazom lámať kameň, kresať tuf, páliť   vápno i tehlu, rúbať jedle i buky na lešenie, väzbu, krov i schody.   Len koľko tisíc šindľov okresali, vystrúhali a napáhali starí   Podkoničania, a vždy ho bolo málo, lebo zatekaly i vlastné staviská.   A čo robiť? Muselo sa pribiť niečo z neho i na tie. Podkonické   strechy belely sa ako nové.
+   </tei:p>
+   <tei:p>
+    Remeselníci zo štrnástich, zámku poddaných obcí, od Dubovej po   Bystricu, museli do Podkoníc, a tak svorne s Podkoničanmi dudrali a   veľmi boli zvedaví, či to budú zadarmo robiť, len pre česť a slávu   božiu, a či im odrátajú z poddanskej roboty.
+   </tei:p>
+   <tei:p>
+    Pochybovači mienili, že musia spraviť „i túto i tú“.
+   </tei:p>
+   <tei:p>
+    „Odrátajú, akože, odrátajú,“ sľuboval uradostený pán farár, že sa   ide splniť jeho veľký sen, a sľuboval primlúvať sa na zámku, u   biskupa a kde len pomysleli.
+   </tei:p>
+   <tei:p>
+    Ale veru jednak bolo treba zrobiť polia, lúky, lesy a naplniť   stodoly, sypárne, komory a pivnice na zámku, aby mali hojnosť   kráľovskí kapitáni, direktori, úradníci a čeľaď; obrobiť svoje, dať   deviatok panstvu, desiatok kňazovi, k tomu „pohnojiť“ a zrobiť   farské, rechtorské a ešte i kostol a vežu budovať ...
+   </tei:p>
+   <tei:p>
+    Nuž akokoľvek horlil pán farár a prosil, kázal každú nedeľu,   hrmiac im do duší, že ani oni, Podkoničania, nebudú mať stánku u Otca   nebeského, ak Jemu oni v Podkoniciach nezbudujú. A sám šichty písal a   rechtora pos k murárom a iným remeselníkom, aby sa vždy   neobzerali, kde je krpka s „ražovým páleným“. Predsa len stavba šla   pomaly; už sa zdalo, že ju ani nedokončia, a farár plakal,
+   </tei:p>
+   <tei:p>
+    123
+   </tei:p>
+   <tei:p>
+    ﻿že zostane v hanbe pred Pánom Bohom, nevediac mu ani za päť rokov   nie postaviť chrám nový, ale pristaviť iba k starému kostolíku novú,   42’ dlhú loďku a nevysokú vežičku. Každý rok zodral o jedny čižmy   viac, čo vše krížom poľom letel na zámok žalovať patrónovi a pánovi   na remeselníkov, i že Podkoničania zase nechali božiu prácu a šli za   svojou. Zajtra prišli hajdúsi a sháňali, vyháňali i mlátili.
+   </tei:p>
+   <tei:p>
+    14. novembra 1819. roku, v nedeľu, bola v Podkoniciach slávna   posviacka kostola a veže s biskupom a dvanástimi kňazmi. Bolo veľké   Te Deum: „Teba, Bože, chválime“, že je kostol konečne zbudovaný. Pán   farár v kázni spínal ruky o siahu vyššie a širšie, než skľúčený za   celých tých šesť rokov.
+   </tei:p>
+   <tei:p>
+    Národ zabudol hneď na mozole a hajdúske palice a od radosti jedli   v každom dome hus a v kapuste solenú baraninu. Poznali, že sú to veci   dobré, a preto i dosiaľ chovajú v každom dome húsky a ovečky. Húsky,   čo na Martina nezvládzu, pomôže im zjesť Bystrica, ale oštiepky   podkonické máme i v Bratislave a v Prahe.
+   </tei:p>
+   <tei:p>
+    Pán farár Ján Nepomucký Kontoš hlásal slovo božie v novom   kostolíku ešte dvanásť rokov. Založil knihu „História domus“, a či   pre trpkosti, ktoré pri stavbe kostola a veže zažil, a či pre   pamiatku začal ju písať, pravda, latinsky, históriou o stavbe   kostola, že veru Podkoničania boli studení, nevďační a neochotní.   Vozili, nosili, podávali kameň, maltu a čo prišlo, ale neradi, a   pritom mrmľali, ťažkali si. Ba keď boli sami, ešte i preklínali   pôvodcov a budovateľov chrámu božieho.
+   </tei:p>
+   <tei:p>
+    Dnes má pán farár už len radosť i so svojimi Podkoničanmi, ktorých   do neba priviedol, keď si pozrú na podkonický kostol a vidia, že im   patrón, minister Hodža z Prahy, neposlal hajdúchov, ale tisíce na   obnovenie kostola, fary i školy, a majú radosť zo svojich potomkov,   ktorí od veľ-
+   </tei:p>
+   <tei:p>
+    124
+   </tei:p>
+   <tei:p>
+    ﻿kého prevratu vynaložiť vládali aspoň dvestotisíc korún na tieto   budovy a dali holé steny zamaľovať majstrami Kernom a Mallým ohromne   krásnymi a veľkými obrazmi, a pre maličkých zbudovali i druhú školu,   aby sa doma i vo svete ľahšie vyznali, poučovaní lepšími učiteľmi,   než bol ten ich, ktorému pán farár meno pred potomstvom síce zakryl,   ale veľkú chybu jeho do histórie zapísal predsa.
+   </tei:p>
+   <tei:p>
+    Rechtor pri stavbe kostola a veže postával najviac pri murároch, a   či už vedel piť, a či sa tam naučil, ale zapísané je, že ho opilstvo   stálo službu. 26. januára 1820 farár, dekan a občania napomínali   rechtora prvý raz, aby pitie popustil; nepomohlo. 21. januára 1821   napomínali ho vo fare druhý raz, aby nepil, lebo že ho odstránia. 26.   marca tohože roku napomenuli ho tretí raz a o tri dni musel   rechtor-učiteľ skutočne odísť.
+   </tei:p>
+   <tei:p>
+    Mal dobrý farár Ján Nep. Kontoš teda starosť nielen o kostol, ale   i o školu. Za oboje sa mu konečne vďační farníci odmenili už na tomto   svete, a to 23. mája 1822.
+   </tei:p>
+   <tei:p>
+    Aby ste nemysleli, že to iba ja smýšľam, aby som túto rozprávku   dojemne a oproti farárovi Kontošovi vďačne zakončil, nech tu stojí na   dôkaz doslovne odpísané československé „Svedectví“ celej obce,   potvrdené i obecnou pečaťou.
+   </tei:p>
+   <tei:p>
+    „My richtár, prísažní úrad svedectví toto vydávame, že včas   vizitácii kanonickej v meste Lupčanském držanej, povolaní sme boli   straniva roli anebožto kopanici nad Moštenicou v chotári našom   ležícej, o kterej osvícený pán biskup nás presvedčil, že taková rola   skutečne patrí pánu farárovi lupčanskému, my ale velmo ťažko sme   uznávali, ale za našu vlastnú sme privlastňovali; mezi tím ale aby sa   pokoj mezi nami začas urobil, privolili sme na žiadosť jeho   osvícenosti pána biskupa, že chceme do smrti lupčanského pána farára   Imricha Stránovszky každoročne, když sa šiat bude, 1 fl. 30 kr. v   šajnách platit, vynímajíce past-
+   </tei:p>
+   <tei:p>
+    125
+   </tei:p>
+   <tei:p>
+    ﻿vu: a to síce tým lakší zme privolili, že jeho osvícenost pán   biskup nás ujistil, že po smrti pána farára lupčanského našemu pánu   farárovi taková rola anebožto kopanica do užitku pripadne.“
+   </tei:p>
+   <tei:p>
+    Na lásku Podkoničanov a či na boží súd musel pán farár čakať celé   štyri roky. Konečne ľupčiansky farár umrel a podkonický mohol vstúpiť   do úžitku. Ale ktovie, či vstúpil, hóci mu za Podkoničanov 7. marca   1826 Jano Kostur, richtár, Martin Valent a Martin Slobodník,   prísažní, zase dávajú „Svedectví“, k tomu aj prísahu, „kdyžby potreba   bola, hotoví sú zložiť“, ale podpísať sa ešte ani tí nevedia.
+   </tei:p>
+   <tei:p>
+    Ak užíval, tak len krátke štyri roky, i to len tak, jestli mu   kopanicu vlastní farníci nespásli, lebo právo na pastvu si boli   vyňali hneď pri kanonickej vizitácii. Bačovia a valasi sú   Podkoničania i dnes chýrni.
+   </tei:p>
+   <tei:p>
+    Pána farára Jána Nep. Kontoša svetské statky už od roku 1831   nemrzia. Teší sa v nebi z nového kostola, ktorý ho stál mnoho dúm,   práce a ešte viac kázní! A že by radosť bola úplná, prijal k sebe i   očisteného opitého rechtora, ktorý je tam spokojný celý rok, iba na   Martina prechodí ho tajná túžba zaletieť si do Podkoníc na hostinu   ...
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

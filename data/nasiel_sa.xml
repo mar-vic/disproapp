@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194926" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Našiel sa : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3783
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Našiel sa
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Našiel sa
+    </tei:head>
+    <tei:head>
+     (Tľryvok z denníka bývalého spisovateľa)
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Kamarát, márne mi dohováraš, darmo ma povzbudzuješ — ja už písať   nebudem.
+   </tei:p>
+   <tei:p>
+    Nie že by som spisovateľstvo ponižoval, nie že by ma nevábilo, ale   prosto preto, že som si nad prácami spisovateľskými za tie roky dušu   temer umučil, rozum vysušil a že dnes „nemám už čo povedať“, a že   keby som ešte zo starých notesov i niečo navyberal, posošíval, nebude   to stáť za čítanie a — nakladateľ za to nezaplatí... A úrad som   nechal, treba sa mi obzerať za chlebíkom iným.
+   </tei:p>
+   <tei:p>
+    A ja to už mám premyslené. Ba už to konám. Nebudem, ako dosiaľ, z   toho žiť, čo iní vyrobia a mi dajú či už ako plácu, alebo honorár,   ale sám si chcem od matičky prírody dostať, čo mi k živobytiu   treba.
+   </tei:p>
+   <tei:p>
+    Slovom, presťahoval som sa na dedinu a začal hospodáriť, viac   robiť a menej troviť. Preto som ti tak dlho ani nepísal.
+   </tei:p>
+   <tei:p>
+    Koľké je to šťastie, spokojnosť v duši mojej, že nezavadziam,   neprekážam nikomu; nikomu zpred úst hotového chleba nevezmem, groša   neprijmem, ale vyrobím si ho rovno zo zeme, ktorá je taká štedrá a   sýti ma a pri usilovnosti ešte i groš bude, i iným, utisnutým,   biednym,
+   </tei:p>
+   <tei:p>
+    66
+   </tei:p>
+   <tei:p>
+    ﻿chorým, budem môcť dávať, i keď nie darmo, aspoň lacno — bez   úrokov.
+   </tei:p>
+   <tei:p>
+    A tá moja rovnováha duševná! Ba čo — radosť, slasť, že som sa   konečne našiel! Veď mňa i do školy len silou dali, a dobre sa   pamätám, ako ma mať ubila, keď som prvý raz začal „poza školu“ a   dochytený vravel som, že sa učiť nebudem. A len na veľké bubnovanie   päsťami po chrbte i hlave dal som sa ďalej do školy nakriatnuť.
+   </tei:p>
+   <tei:p>
+    Ako deväťročný začal som chodiť z dediny do mesta do „polgárky“.   Ráno po šiestej som šiel, večer pred šiestou sa vracal a obed — ak   bol hustejší, halušky — nosil som si v kapsičke v hrnčeku, alebo mi   ho — váru — zaniesla slúžka, čo šla každý deň s mliekom do mesta, k   školskému sluhovi, u ktorého viac takých chlapcov prihrievalo si   obed, za čo sluha nemal sa zle. Ba bol „pán“ a vo vzácnosti, obsýpaný   darmi, lebo dedinskí rodičia si mysleli, že každý musí mať patróna, a   hoci sluha, ale predsa veľa môže i prehovoriť s pánmi profesormi,   alebo ešte i s direktorom, že ten Janko Chumajovie, aký to poriadny,   tichý šuhaj a vždy v knihách sedí... U dedinských ľudí začína sa   protekcia: v súde od sluhu, v slúžnovskej od hajdúcha, v škole od   školského sluhu, a ten ozaj i môže niečo, ak chce a rozumie. Tak i   moju stranu našiel v knihách a na Všechsvätých a potom pred Vianocami   tajnostne povedal materi, v čom som „slabý“, a mať už vedela, čo to   znamená... A sluha povedal, zaviedol, ukázal, kde „ten“ pán profesor   býva a či je slobodný, či ženatý. Podľa toho nosila mať profesorovej   panej kačky, žlté ani vosk, smotany, masla, syra hrudu, alebo   hrušiek, jabĺčok, medu plást, oštiepky, čo prehryzne i človek   neženatý... Vše to i kúpila a povedala, že z domáceho ... Bol v tom   nevinný fígeľ: dve-tri zlaté mu vtisnúť do dlane nemôžeš, ale za ne   kúpené vďačne prijme...
+   </tei:p>
+   <tei:p>
+    67
+   </tei:p>
+   <tei:p>
+    5*
+   </tei:p>
+   <tei:p>
+    ﻿Do školy dali ma bez môjho privolenia. „Pôjdeš do školy,“ a   zaviedli ma. Ako sa budem učiť, to sa netrápili. „Čo sa naučí, to mu   na škodu nebude, i keď sa nedoučí. A je taký slabý, malých kostí, do   roboty by nebol.“ A o školu stál najmä starý otec, ktorý ma rád mal,   ako vďačného chlapca. Kdeže by nie! Ešte v kabani potrafil som mu po   dohán, ba po špiritus, a väčší neťahal som sa za chlapci do pestiev,   ale rád chodil so starým otcom a „murkom“ (psíkom) na lúky, do hory,   a starý otec mi celou cestou rozprával, vykladal povesti, histórie   radostné i smutné, aké kde koho potkaly; učil ma poznávať huby,   ovocie poľné, stromy, zvery po stope alebo lajne, vtákov po speve   alebo perí. Srdce a duša naplnily sa i povesťami o Jánošíkovi a jeho   pokladoch zakliatych, o strigách, vodných pannách, lesných duchoch,   že časom, kam som oči obrátil, všetko mi ožívalo, najmä večer; bál   som sa strachom velikým, a predsa na ďalšie zvedavý som bol ako   chlapec, a v noci som kríkaval, že ma prekladať, budiť vstávali.   Neskoršie v škole učili inak, ale dojmy zo starého otcových výkladov   boly silnejšie, ako knižné suché slová: „Stríg niet.“
+   </tei:p>
+   <tei:p>
+    „Akože by ich nebolo, keď i moja mať rozprávali, i ja som ich   videl, i tvoj otec, i koľkí ľudia ...“ hovorili domáci.
+   </tei:p>
+   <tei:p>
+    A otec hneď prevzal slovo, že raz na Štedrý večer, keď šiel si ku   kmotrovi v karty zahrať, aby utiereň neodspali, prišlo mu kuknúť pod   most, a čo tam videl? Striga, sukne vykasané do pása, tancovala nad   šechtárom ... I poznal ju. Nepovie však, ktorá žena to bola, lebo by   ho ešte mohly zahubiť, ale že je dobrá gazdiná... Ku kmotrovi nevie   ani či na nohách došiel, či ako; ani nedýchal a celý vyzváraný, že sa   ho všetci naľakali a začali vyzvedať, čo sa stalo, ale on nezradil,   iba že im to povedať nemôže, čo videl... A všetci vedeli, že   strigy... a viac sa nevyzvedali. Iba kmotra šla pozrieť do pitvora,   či je nie omelo hore čečinou ...
+   </tei:p>
+   <tei:p>
+    68
+   </tei:p>
+   <tei:p>
+    ﻿V dvanástom roku spravil mi starý otec kosičku. Vybral, akú   najmenšiu predávali, a keď sa po Jáne vakácie začaly, počal ma starý   otec priúčať kosiť. Naučil ma za pár rokov tak — lepšie, ako sám   vedel, lebo už bol starý, slabý. Vzal ma i do hory a naučil píliť   veľkou bruchatou pílou. I stromy sme spolu podpiľovali. So starým   otcom sme vysádzali plánky po záhradách, jadierka siali, s otcom   preštepovali.
+   </tei:p>
+   <tei:p>
+    Keď som sa slabšie učil, vyhovoril som sa na „robotu“, a tak ma   potom šetrili a viac do učenia „tisli“. „Čože bude z teba, keď sa   učiť nechceš?“ zúfali a leteli mi vše na hlavu hánkami zaťatej   pästi.
+   </tei:p>
+   <tei:p>
+    „Budem robiť! Na pílu chodiť, do fabriky...“
+   </tei:p>
+   <tei:p>
+    A nesmierne mi bývalo ľúto, že moji vrstovníci z dediny šli ráno o   piatej do fabrík do mesta, a ja o pol siedmej sám, alebo s inými   žiakmi musel som do školy. Tí zarobili, mali vždy peniaze, ja len keď   som si vyprosil alebo vyklamal krajciar-dva.
+   </tei:p>
+   <tei:p>
+    Ako študentík trinásť-štrnásťročný ciachoval som s horárom a   rubármi drevo v hore, bil čísla na úrezy a po troch týždňoch nebolo   šťastnejšieho človeka nado mňa, keď som vyčítal materi päť zlatých v   striebre — a štyridsať krajciarov mne nechala... To bola prvá a   posledná pláca, čo som ja rodičom doniesol; potom už nikdy, iba ak   som pomohol robiť, ale to sa nerátalo tak na zlaté ani im, ani mne, a   jednako ma len do školy tisli, i keď si na ňu sebe od úst   odtrhli.
+   </tei:p>
+   <tei:p>
+    Po biede vychodil som štyri triedy a tri kupecké.
+   </tei:p>
+   <tei:p>
+    Mohol by som ešte i teraz ísť do fabriky, ale tam by som   predchytil, možno, inému kúštik chleba, preto nie, budem gazdovať.   Myslel som i za gazdu do väčšieho hospodárstva, ale to by mohli mať   robotníci mrcha oko na mňa, keď by ich chcel učiť a robotu ukazovať.   Nie. Ja už gazdujem sám pre seba. A ako!
+   </tei:p>
+   <tei:p>
+    No jedno sa ti musím priznať: žena mi ťažko zvyká na
+   </tei:p>
+   <tei:p>
+    69
+   </tei:p>
+   <tei:p>
+    ﻿dedine. Ale však si ju ona zamiluje, keď príde na moje   stanovisko.
+   </tei:p>
+   <tei:p>
+    Teda, ak chceš, prehrň môj kalendár, do ktorého, kým cele   odvyknem, zapisujem s času na čas svoje skúsenosti, aby som ti a tebe   podobným svojim priateľom dokázal, že nešiel som na dedinu na penziu,   leňošiť, ale robiť. A môžeš z kalendára i niečo uverejniť pre tých,   ktorí sa trápia — ako som sa i sám dosiaľ — ako by niečo napísali, a   nemôžu, a nemajú pokoja, chleba, radosti zo života, zožierajú sa a sú   na ťarchu iným a najmä svojmu obecenstvu. „Za mnou sa!“ volám im z   mojej dediny. „Do roboty!“ Ja tvorím báječné veci, platné pre každého   smrteľníka.
+   </tei:p>
+   <tei:p>
+    Ale kalendár mi vráť, lebo by som prišiel o dôležité pre hospodára   dáta a mal by som z toho škodu.
+   </tei:p>
+   <tei:p>
+    1. apríla.
+   </tei:p>
+   <tei:p>
+    Dnes som sa poďakoval za úrad. Direktorovi som neodôvodnil, prečo,   a tak vyjavený spýtal sa ma, koľkého je dnes. On — vážny starý pán —   iste nemyslel na prvého apríla, a spýtal sa len preto, či mi vyjde   podľa stanov banky mesiac výpovede, keďže som oznámil, že 1. mája   odchodím. Ale úradníci, kamaráti, ktorým som výpoveď spomenul,   pokladali ma ozaj za prvého apríla (blázna), lebo sme dlhý čas mávali   hádky o tom, či je môj krok premyslený. Všetci tvrdili, že nie, a že   opustiť dvestokorunový mesačný plat — „pre fixnú ideu“ — to je   potvrdené bláznovstvo. Všetci mi prorokujú, že sa prídem prosiť, a   direktor spýtal sa sekretára a ten úradníkov, kam inam idem, a   odkázal mi, že úradníka miesto mňa za mesiac nebude hľadať, aby som   si vec rozmyslel a sa vrátil.
+   </tei:p>
+   <tei:p>
+    Urazilo ma, že ma nikto vážne nebral, hoci mám už tridsaťpäť rokov   a fígľov nevystrájam. Pokladajú moje rozhodnutie prosto za nemožné,   hoci znajú môj život a vedia,
+   </tei:p>
+   <tei:p>
+    70
+   </tei:p>
+   <tei:p>
+    ﻿že som sa kožucha nikdy nedržal, a čo by bol aký teplý býval.
+   </tei:p>
+   <tei:p>
+    Môj život, moja práca sa iba teraz začne, a ja vám dokážem! Veď či   by nebola škoda ubiť vo mne za stolíkom či úradníckym, či   spisovateľským silu a dedičnú spôsobnosť, od rokov sbieranú roľnícku   dedovizeň duchovnú, a chcieť ma pretvoriť, ako by zo Žida — rodeného   kupca — chcieť spraviť roľníka? Som svoj!
+   </tei:p>
+   <tei:p>
+    Konečne chytám sa práce najkrajšej: tvoriť nové, pre seba i   každého človeka platné hodnoty — chlieb. Pomáhaj Pán Boh!
+   </tei:p>
+   <tei:p>
+    28. apríla.
+   </tei:p>
+   <tei:p>
+    Skoro celý mesiac som sa v nedeľu — ďalej, po úradných hodinách v   týždni — bližšie motal po susedných dedinách, kde by najať príhodný   byt. Naše deti, dvanásťročné dievča, desaťročný chlapec a zas dievča   sedemročné, zpočiatku s veľkou radosťou chodily so mnou vše jedno,   zas druhé, alebo i dvoje razom; ale najmladšie uštipla hus, na   chlapca vyceril zuby psík a najstaršie, kde sme len vošli, všade   mrdilo nosom: „Otecko, tu je blato,“ „tu smrad,“ „to je ďaleko do   mesta... mne do školy...“
+   </tei:p>
+   <tei:p>
+    Žena sa zapovedala, že ona hľadať nepôjde, len mi doma nakazovala,   aké čo má byť: aspoň dve izby a blízko hory, a predsa nie v divom   kraji; v osobitnej záhrade, lebo že s domovými pánmi mala už dosť v   meste zvady a klebiet... A z ohľadu na deti, či školu:
+   </tei:p>
+   <tei:p>
+    „Však si otec, uváž, čo bude na zimu
+   </tei:p>
+   <tei:p>
+    „Anča má dvanásť rokov, nepôjde do školy a bude pomáhať!“ strmo   som si zastal proti žene.
+   </tei:p>
+   <tei:p>
+    „No, už s chlapcom si rozkáž, ale dievča je moje, to si ja   vychovám a dám vyučiť,“ zpätila sa žena. „Teda: dobre sa učí, prvá   žiačka, a on by chcel mať z nej slúžku!“
+   </tei:p>
+   <tei:p>
+    71
+   </tei:p>
+   <tei:p>
+    ﻿„Ba sa jej dedina hnusí!“ zlostil som sa. „Blato, drevené chyže,   malé okná, dedinskí ľudia... To!“
+   </tei:p>
+   <tei:p>
+    „No, veď aby si ozaj... Ja do nejakej drevenej klietky tiež   nepôjdem, a čo sa hneď rozídeme!“ vyhodila tromf a žena.
+   </tei:p>
+   <tei:p>
+    No, myslím si, žena z mesta, dievča na ňu podané. .. Ozaj, dobre   rozmyslieť ... A najal som byt len na štyri kilometre od mesta, aby   dievčaťu bolo blízko do „polgárky“, lebo z toho už dobrá sedliačka   nebude; je na mater, spanštené. A keď sa chce učiť, nech sa trápi.   Mladších dvoje dám v dedine ešte do školy. Chlapec mi poslúži, po   dvanástom roku ho vezmem k hospodárstvu, a s najmenším sa ukáže,   čo.
+   </tei:p>
+   <tei:p>
+    So ženou skrsla hádka, či staršie dievča má z dediny chodiť do   mesta do školy. Ona má rodinu, dá si dievča k tej ...
+   </tei:p>
+   <tei:p>
+    „A ja platiť nebudem, lebo nebude z čoho!“ ponáhľal som sa vyraziť   i zlosť, i dôvod. „I ja, i koľkí sme z dedín chodili do mesta do   školy, a tvoja slečna-dcéra by už nevládala ...“ (A takô je, ako by   ho umiesil.)
+   </tei:p>
+   <tei:p>
+    Ale žena, že si ona dieťa umoriť nedá, že radšej i ona zostane v   meste šiť, či už kýho čerta robiť. „A ty si choď sedliačiť, kopať,   svine chovať, keď sa ti tak žiada...“
+   </tei:p>
+   <tei:p>
+    Zjednali sme sa, že v pekný čas príde dievča s ostatnými deťmi   domov, a keď bude piano, zostane u ženinej rodiny. (,Budeš,   myslím si, ,i platiť, i dary nosiť a ešte si budeš musieť myslieť, že   to všetko z lásky ti dávajú ...‘)
+   </tei:p>
+   <tei:p>
+    Byt som najal. Celý dom, murovaný, s dvoma izbami a všetkými   gazdovskými stavmi. Stavy užívajú z lásky, bezplatne, susedí, čo majú   pole v árende, ale chyža prázdna, okná doskami zabité. Gazda v   Amerike už na tretí rok i so ženou a deťmi.
+   </tei:p>
+   <tei:p>
+    „Sotva sa už vrátia. Ak vám bude vôľa: dom, záhradu,
+   </tei:p>
+   <tei:p>
+    72
+   </tei:p>
+   <tei:p>
+    ﻿záhumnie si kúpite vy, role poberú naši,“ povzbudzuje ma gazdov   krstný otec, poverený opatriť role i dom. Závdavku som nedával, lebo   dom nestál „v záhrade“ (ako mi žena predpísala), ale, hoci od susedov   oddelený, predsa pri ceste. A ženine nároky boly mi na mysli, i keď   som ich rešpektovať ani nechcel.
+   </tei:p>
+   <tei:p>
+    Premyslel som teda tak: so ženou a deťmi vyviezol som hneď i   doktora, aby im to zo zdravotného ohľadu schválil. Dolu cestou popred   dom totižto tieklo trochu hnojnice. To je i škoda i špina, a preto   dal som susedovmu paholkovi korunu, aby mláčky trochu   pozasýpal...
+   </tei:p>
+   <tei:p>
+    „Krstný otec“ dal chyžu obieliť, vyšúchať, okná povešať a   poumývať, plot od ulice kde o jednu, kde o dve dosky zodvihnúť, „aby   vám každý sopliak nevidel do záhrady a dvora“. Zo starého včelína   vyniesli z páraných liesok filigránsky sbité a zdobené stolce, kanapu   pod zakvitnutú veľkú divú hrušku, susedovie sliepky vyhnali zo   záhrady, a tak nás čakali a privítali veľmi srdečne. Už celá dedina   vedela, že príde si ten pán zo „Sporiteľne“ pozrieť dom Tomáše, a   tešili sa, že tam budeme čo len letovať a predajú nám či hydiny, či   masla, mlieka a čo budeme potrebovať šiesti ľudia (so slúžkou). Jedni   boli mi i preto radi, že pribudne im „vľúdny“ človek do dediny, ako   ma z úradu poznali a mi lichotili.
+   </tei:p>
+   <tei:p>
+    Žene sa nevidelo to i to — ani vyratovať, čo — ale krstný otec   sľúbil „ponaprávať“. Že — konečne — i hora ďaleko; ale na to jej   múdry doktor odpovedal:
+   </tei:p>
+   <tei:p>
+    „Milosťpani, a z mesta je vám práve o štyri kilometre ďalej ako   odtiaľto ..
+   </tei:p>
+   <tei:p>
+    „Heej?“ začervenala sa žena, a doktor pokračoval:
+   </tei:p>
+   <tei:p>
+    „A tu máte prechádzky už na záhumní, netreba ani do hory.“
+   </tei:p>
+   <tei:p>
+    Doktor sa zlostil, ako ja, a uštípal ženu a vo všetkom
+   </tei:p>
+   <tei:p>
+    73
+   </tei:p>
+   <tei:p>
+    ﻿mne nadŕžal, lebo to bolo i jedine rozumné, a tak potom žena len   sa dula a naoko starala, kde, ako umiestime náradie ... Ale ja som sa   sľúbil i pred doktorom veľmi ochotne náradie po izbách prekladať hoci   tri-štyri razy, a tak nenašlo sa vytáčky a sme sa pomerili ...
+   </tei:p>
+   <tei:p>
+    Vyplatil som na štvrť roka árendu, a dnes, 28. apríla, boli sme so   slúžkou sadiť ružiaky a siať semiačka ... Náradie prevezie len po   prvom — špeditér. Tak si žiada žena, lebo na dedinských vozoch by sa   jej „polámalo, odrelo a na zkazu vyšlo“ ...
+   </tei:p>
+   <tei:p>
+    Nadýchal som sa v záhradke vône zeme, kvetu, v kopaní upotil,   ukonal, že ma zbolely všetky údy a že natlačil som si mozoľov až   radosť! Slúžka, ktorá je len prvý rok z dediny v meste, tiež sa dobre   cítila, spievala, a ja za ňou kontroval. Tá sa ešte ľahko vráti do   dedinského života a práce. Veď nad panským štopkaním pančúch iba   drieme .. . A keď nie — bude druhá. Ťažšie bolo so ženou a deťmi. .   .
+   </tei:p>
+   <tei:p>
+    Teplo bolo, slnce hrialo, vtáčatá nám vôkol na stromoch štebotaly;   posmeváčik čisto-jasne: Pokopte, nasejte: bude vám, bude nám.   Jajajáj! Národ nám privolával „Pán Boh pomáhaj“, a my sme chceli i   kopať, i zahrabovať, i siať, i burinu vytriasať, i všetko by som bol   chcel porobiť. Ale sme i veľa spravili! Zasadili sme košík zemiakov,   vrecko fazuľky na paličky, päť riadkov mrkvy, päť petržlenu, cibuľky,   cesnaku (že som si mimovoľne pomyslel už na baraninku pečenú a   cesnakom špikovanú).
+   </tei:p>
+   <tei:p>
+    A tí vďační susedí!
+   </tei:p>
+   <tei:p>
+    My sme všetko vyniesli v košíku a vrecúškach, a o chvíľu   známi-neznárni, kde len vošla slúžka pýtať, tam nám požičali alebo   bežali požičať: rýľa, motyky, drevených, železných hrabličiek, opálky   na vytrasenú burinku . .. ani sme nevedeli večer, kam čo vracať,   zavreli sme i to do komory, že veď zas prídeme, zíde sa nám to,   nemusíme znova požičiavať . ..
+   </tei:p>
+   <tei:p>
+    74
+   </tei:p>
+   <tei:p>
+    ﻿Mali sme prísť o šiestej domov, a my sme sa pohli potme. Žena   musela si ohňa rozložiť, sama večeru prichystať a vítala nás   namrzená, a my prišli sme ako obživení; veselo mi bolo, dievča muselo   spievať cestou, ako keď sa u nás s poľa ide; ja som mu piesne, verše   pripomínal, lebo sám mám planý hlas ... Ale v duši som spieval   radosťou tam kdesi s tým posmeváčom, lenže iné verše:
+   </tei:p>
+   <tei:p>
+    Dobre nám, sedliakom; beda vám, páni! My bez vás budeme, chvíľku   vy ani —
+   </tei:p>
+   <tei:p>
+    bez nás, nás ..
+   </tei:p>
+   <tei:p>
+    A dôjduc domov, na nič som sa nemohol nahnevať, a čím bola žena   chladnejšia ku mne, tým som ju viac tuľkal, za briadku bral, ľúbať   chcel, deti na lono si usadzoval, smial sa im (ony mne),predkladal si   bohatú úrodu dnešnej práce, hovoril som veľa o plánoch: ako ja, čo   ja... Ja budem „odborne“ gazdovať, učiť i druhých, a večer zhľadúval   som hospodárske knihy po policiach, a keď predtým uspával som sa   novinkami, fajkou, teraz bez všetkého zaspím ako v oleji, a preto   nechám i tieto značky „bývalého spisovateľa“ a prajem všetkým ľuďom   pokojnú dobrú noc!
+   </tei:p>
+   <tei:p>
+    „Len si sa mal okúpať ... smrdíš hnojom.“
+   </tei:p>
+   <tei:p>
+    „Netáraj, žena. Zemou voniam!“ hrdo som odsekol, ale šiel som si   už tretí raz umyť ruky i tvár, a šaty, topánky slúžka hneď večer   musela vyniesť. Inokedy robila to ráno.
+   </tei:p>
+   <tei:p>
+    Predsa: dobrú noc! Mne ju také maličkosti nepokalia
+   </tei:p>
+   <tei:p>
+    3. mája.
+   </tei:p>
+   <tei:p>
+    Včera sme sa previezli
+   </tei:p>
+   <tei:p>
+    Všetko je vykladené na dvore. Je pekne, sucho, teplo.
+   </tei:p>
+   <tei:p>
+    Susedovie sliepky mi trochu popapraly hriadky, i som sa chcel   hnevať, ale som ich iba vyobháňal, nakričiac im, a kým sa odučia,   musím hriadky zakrývať haluzinou. Dosť jej bude, keď začnem stromy   čistiť. Mám päťdesiat slivák,
+   </tei:p>
+   <tei:p>
+    75
+   </tei:p>
+   <tei:p>
+    ﻿štyri hrušky a dve jablone. Kvitne to až radosť a vôňa ani balzam   na ranu. To ľúbi sa i žene, a keď pre niečo počína dudrať, pripomínam   jej zdravie na dedine: povetrie, vodu, mlieko, jahody už budú, potom   maliny, lekvár, šťava, čučoriedky, brusnice, huby... a všetko   zadarmo! už skoro spievam radosťou. A ovocia azda tiež Pán Boh   požehná, keď je také zakvitnuté stromovie ...
+   </tei:p>
+   <tei:p>
+    „Veď len či bude? Lebo aby sme mali všetkého, keď sme už na   dedine, a nemuseli chodiť do mesta kupovať,“ zastrája sa žena, ako by   som ja bol za to zodpovedný, či sa urodí alebo nie.
+   </tei:p>
+   <tei:p>
+    „Malo by zostať,“ dokladám v úfnosti a strachu pred ženiným   jazykom.
+   </tei:p>
+   <tei:p>
+    Aspoň kým sa neukáže, či čo zostane, budem mať pokoj. Bože, aby   len mrazy neboly. Ale tí zamrznutí svätí... sháňam v mysli, kedy   bývalo u nás v dedine Serváca, Bonifáca a Pankráca ...
+   </tei:p>
+   <tei:p>
+    Chytáme sa medzitým do ťažkej práce ukladania. Som úplne bez vôle,   bez žiadosti i bez návrhu... Všetko som nechal na ženu.
+   </tei:p>
+   <tei:p>
+    „Diriguj, ja spravím.“
+   </tei:p>
+   <tei:p>
+    Boli by nám náradie i špeditérovi sluhovia hneď vniesli, ale žena   nedovolila, aby dlážku — novofarbenú — nezagebrili, i — ona si musí   premerať steny, vyzrieť, kde čo postaviť. Žena inžinierskym okom   premeriava, potom slúžka podá špagát, pristupuje, odstupuje, a   meriame. Ja som iba sluhom, ktorý kolíky roznáša, ani nie bije ...   Zariaďujeme spálňu, do ktorej sa vchodí z jedálne. Vymerala, a   vnášali sme. Ja som to mal hneď tak isto okom prezreté (a vlastne   diktovaly nám to okná a dvere), ale nech sa „upracuje“, bude tichšia,   zásluh povedomejšia, a ja ju pochválim, ešte mi i bozk „hodí“ a   nebude kriku. Na susedov musíme predsa dobrý dojem hľadieť spraviť.   Ten nám môže potrvať, i keď by horšie bolo ...
+   </tei:p>
+   <tei:p>
+    76
+   </tei:p>
+   <tei:p>
+    ﻿Vnášal som teda ako somár, prekladal, preťahoval, až ma zaťal   úsad.
+   </tei:p>
+   <tei:p>
+    Obedu sme nevarili, len kávy dali, a začali usporadovať v jedálni.   Vlečúc kufor s bielizňou, slúžka so ženou a s deťmi nevládaly na   jednej strane, ja sám na druhej, naddvihol som, aby im bolo ľahšie, a   tak ma zaťalo v krížoch, že som potom do večera už skoro štvornožky   chodil... ale chodil som, ani nemukol, len som sa chytal stien a bol   by si ľahol ... Ale žena premyslela ešte obrázky povešať, a tak nikdy   som s takou bolestnou tvárou nevešal a nehľadel na Krista na kríži   ako dnes. A kdejaké krajinky, fotografie bol by som do ohňa hodil a   zaprel všetkých priateľov, spolužiakov, s ktorými som sa kedy dal   fotografovať ... A to všetko pre ten úsad.
+   </tei:p>
+   <tei:p>
+    „Len mi ešte toto pomôž, Janíčko,“ volala ma žena, „a toto;   navarím ti halušiek s bryndzou ...“
+   </tei:p>
+   <tei:p>
+    „Janíčkom“ ma žena už roky nepozvala, ba mena mi vôbec nedávala,   len: „ty, poď, daj, na“ atď. Za také meno som pomáhal: uložené   náradie probovali sme inak; podľa toho musel som na stolce a   pridržiaval som obrázky — „inak“. Keď sme sa už utíšili, prišiel   večer, a žena, že niet záclon na oknách, ako sa budeme sobliekať? ...   To je strašné! Bol by som jej chcel sniesť všetky dedinské domy, 11a   ktorých niet záclon, ale nebolo možné, a ja, hoci len niečo vo vyše   dvojmetrovej výške, musel som vbíjať klince na naše riedke, ale   predsa aké-také záclony na — päť okien. Že len na spálňu.
+   </tei:p>
+   <tei:p>
+    „Už keď si v tom, pribi i v jedálni, aspoň sa nám nepokrčia ..
+   </tei:p>
+   <tei:p>
+    A ja som vbíjal kliny tak trpko, ako keby sebe na zavesenie... Ten   úsad, ten úsad! Schodiac so stola, prenášaného od okna k oknu (kde   sa, pravda, dalo!), už som sa nevládal premôcť, zjajkal som a   odvliekol sa ako pošinutý do spálne.
+   </tei:p>
+   <tei:p>
+    77
+   </tei:p>
+   <tei:p>
+    ﻿Halušky som už 11a posteli zjedol. Čo robiť? Veď mám pred sebou   toľko práce, a ja v prvej tvrdšej vyľahnem ...
+   </tei:p>
+   <tei:p>
+    „Nebude z teba dobrý sedliak,“ posmievala sa mi žena, ale ja som   sa obránil, že prekladať náradie, to je nie sedliacka robota, ale   práve panská, a ešte naostatok mi musí zle byť od nej ...
+   </tei:p>
+   <tei:p>
+    Na šťastie spomenul som si, ako sme úsad doma liečievali, i ľahol   som si na zem na pokrovec a všetky tri deti musely po mne kolenkovať,   a ja som reval, čo deťom robilo báječnú radosť ... Odvlečúc sa do   postele, deťom sa takýto dedinský liek tak zapáčil, že sa mi zas   prišly dubasiť po krížoch, až som sa spotil, ale vari sa mi uľavilo   ... Žena podľa Kneippa premyslela studený obkladok, že ma mal čert   vziať, ale vyskočiť som nevládal, keď mi ho chladný prikladala na   kríže, a — striga — zatiahla až na chrbát. Ale ma ubezpečila, že mi   to najskorej pomôže, a tak aby sa mi deň dôstojne dovŕšil, dal som si   obkladok pri veľkom rehote detí i ženy — škodoradostníka — priložiť a   s ním som i zaspal... Nemám protivnejšej veci, ako studený obkladok!   To sa na dedinách iba v najnovšom čase zavádza akousi panštinou ...   Predtým sme my poznali iba teplé obkladky: uvarenú slaninu na bolenie   hrdla, vriacu kašu na žalúdkové kŕče, horúcu skalu na žranie v   črevách atď. A toto teraz studenú handru na najcitlivejšie údy,   ktorých sa ináče chladná voda ani do roka nedotkne... Bodaj ťa i s   úsadom! A najhoršie bolo, že som i kvôli a pre príklad deťom nesmel   ukázať, aký mi je obkladok protivný, a nezahodil všetko do kúta   ...
+   </tei:p>
+   <tei:p>
+    („S Bohom“, I. vyd., 1929.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

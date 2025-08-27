@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949703" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Pani urodzená : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4762
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Pani urodzená
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Pani urodzená
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    U Milanov od jesene bolo ako na súdnom dni. Hrčaly mašiny, krik,   spev sa ozývaly, svetlo až do pozdnej noci...
+   </tei:p>
+   <tei:p>
+    Sily najmladšej dcére výbavu.
+   </tei:p>
+   <tei:p>
+    A keď bola hotová, v osobitnej izbe poukladaná, chodily ju pozerať   pani sestry, susedky, slúžky, a kdekto prišiel kus tlače kúpiť alebo   doniesol plátno do mangľa, každého zaviedli pozrieť výbavu.
+   </tei:p>
+   <tei:p>
+    V nedeľu ráno, idúc do kostola, musela sa staviť i pani advokátová   u Milanov.
+   </tei:p>
+   <tei:p>
+    „Kedyže sa to už stane, pani Milanka ?“ spýtala sa advokátka,   javiac účastenstvo, vskutku sa však mrziac sama na seba, prečo nešla   druhou stranou ujice.
+   </tei:p>
+   <tei:p>
+    „Na utorok, milosťpani, sa oslobodím. Kamže? Do kostola. Ach, ja   by sa tiež rada Bohu pomodliť, ale nestačím. Aké ja mám trápenie,   starosti, a mne nikto neuzná,“ pustila sa plakať na ulici stará pani   Milanka, farbiarska vdova. „A či nevojdete?“ doložila pani   advokátovej v slzách a chytala ju za rukáv.
+   </tei:p>
+   <tei:p>
+    Hoci už boli odzvonili, nebolo možno nevojsť.
+   </tei:p>
+   <tei:p>
+    Pozerali výbavu a pani Milanka nariekala, čo to stojí, čo sa   natrápila od jesene ...
+   </tei:p>
+   <tei:p>
+    4 Žllebky.
+   </tei:p>
+   <tei:p>
+    49
+   </tei:p>
+   <tei:p>
+    ﻿„A keby aspoň bolo komu! Ale handár, žobrák, po uši v dlžobách   sedí, a platu tri stovky, a príde po moju dcéru!“
+   </tei:p>
+   <tei:p>
+    „Pani ’rodzená, pani ’rodzená!“ zavolala v tom slúžka do   dvier.
+   </tei:p>
+   <tei:p>
+    „Jaj, aby ťa . .. Čože reveš? Ako ma trhlo. Čože chceš?“ stavala   sa, ako obyčajne, nazlostenou stará pani Milanka, že ju vytrhla   slúžka, keď mala takú vzácnu návštevu.
+   </tei:p>
+   <tei:p>
+    Slúžka, privyknutá na taký hlas panej, nezaradila sa, povedala   pani advokátovej „ruky bozkávam“ a šepkala panej, že by sa páčilo do   veľkej izby, že poštár doniesol telegram, treba podpísať.
+   </tei:p>
+   <tei:p>
+    Inokedy boly telegramy a poštári vôbec pani Milanke dosť nemilé   prekvapenia, lebo donášali obchodné veci, obyčajne zdraženie tovaru   surového, upomienky na dlžoby, zmenky, protesty atď., teraz však, čo   vydáva tretiu dcéru, vše priletí od nastávajúceho zaťka telegram, i   listy každý deň, i dva.
+   </tei:p>
+   <tei:p>
+    „Či ma čert po ňom!“ vrkla slúžke, ale vstala predsa a pani   advokátová použila príležitosti a ponáhľala sa do kostola, lebo keby   nie telegramu, bola by iste u Milanov musela ak nie odbaviť, aspoň   zameškať pol kázne.
+   </tei:p>
+   <tei:p>
+    Kým sa rozlúčily, poštár už bol odišiel. Telegram odobrala mladá   nevesta a už ho i prečítala. Slúžka vlastne vbehla k starej panej iba   z prílišnej horlivosti a preto, že poštár mal v obyčaji volať hneď vo   dverách: „Podpísať!“
+   </tei:p>
+   <tei:p>
+    „Mama, Greško že už dnes príde, telegrafuje ...,“ víta, schválne   ľahostajnou robiaca sa Božena, mať, nevediac, čo lepšieho povedať   materi, keď vošla do „veľkej“.
+   </tei:p>
+   <tei:p>
+    „Preto ma unúvaš .. . Moje nohy ustaté . .vytkla plačlivým hlasom   mať. „Čo ma po ňom! Príde — nepríde. No veru! Má i kto prísť! Mal   prečo telegrafovať. Trhan, bedár,“ popudzovala sa vlastnými slovami   pani Milanka. Ovšem všetky jej kriky a hnevy boly len naoko, o čom   každý v dome dobre vedel. „Nie že by si radšej na dlžoby
+   </tei:p>
+   <tei:p>
+    50
+   </tei:p>
+   <tei:p>
+    ﻿odložil pár šestákov. Príde, bude tu. Aký pán! Ešte ti telegrafuje   ... Ba poletíme ti všetci naproti! Zavriem dom a pôjdeme ťa vítať,   rechtora, bedára. Hanbiť by som sa musela ...“
+   </tei:p>
+   <tei:p>
+    Ešte i viac nelichotivých poznámok spravila na budúceho zaťka, že   Božene slzy zalialy oči, svet sa jej zakrútil nad toľkým znevážením   svojho vyvoleného. Ale vypočula, slovom ho nebránila, len si   pomyslela, že on už tri roky čaká za ňou, a ona nepočula, že by bol   taký, ako ho mať spomína. A predsa jej „všetko“ povedal, i kde akú   kedy „lásku“ mal. Ešte do „spevu“ chodila, keď sa mu sľúbila, a teraz   čím bližšie svadba, tým ho mať viac prezývala, tak že pred ňou ani   jeho mena spomenúť. Ale bude už i tomu koniec na utorok . ..
+   </tei:p>
+   <tei:p>
+    Mať, vidiac, že dcére ublížila, stavala sa ešte vždy nahnevanou,   ale spýtala sa, kedy príde.
+   </tei:p>
+   <tei:p>
+    „Rýchlikom,“ musela zjaviť Bočka, hoci by príchod svojho snúbenca   v tejto chvíli, kvôli materi, bola odložila na lacnejší „osobný“ a   hoci do večera. Nemýlila sa.
+   </tei:p>
+   <tei:p>
+    „Jaj, rýchlikom! Máš peňazí...“ Ale tu nestrelil do umu pani   Milanke dosť ostrý výraz, nemohla v tom tóne pokračovať. Zvrtla. „A   čo už ide? Čo tu bude za tri dni robiť?“
+   </tei:p>
+   <tei:p>
+    „Len za dva,“ dovolila si skromne poznamenať Bežka, dobre majúc   vyrátané, že od nedele do utorka sú najviac ak dva dni. Veď v utorok   už nebude materina ...
+   </tei:p>
+   <tei:p>
+    Mať pozrela na ňu; ktovie, čo si pomyslela, a pokračovala viac pre   seba:
+   </tei:p>
+   <tei:p>
+    ,,Ba budem ti vyvárať, chystať... Počkaj! Naješ sa, čo ti dám   ...“
+   </tei:p>
+   <tei:p>
+    Zvrtla sa a vyšla, lebo v skutočnosti prišlo jej na myseľ, že keď   už príde, musí spraviť lepší obed. I aby sa preukázala, že i môže i   vie, už nech je, ako chce. Vyšla.
+   </tei:p>
+   <tei:p>
+    Boženka, nevediac v žiali čo lepšieho začať, vytiahla ešte
+   </tei:p>
+   <tei:p>
+    4*
+   </tei:p>
+   <tei:p>
+    51
+   </tei:p>
+   <tei:p>
+    ﻿raz skrčený telegram, prečítala si ho, a predstavil sa jej Greško   ako živý, že by som sa márne usiloval ho opísať. Slovom pekný, milý!   A ešte jedno: hoci učiteľ, ale aký učiteľ! V „Pohľadoch“ verše, v   „Národných“ besednice. Koľko ich už i jej venoval... V Sporiteľni   vraj čosi dlhu, priznal sa jej po zasnúbení, ale ju že neberie pre   peniaze, o tom si je istá. Veď nevie, či mama niečo dá. Sberajú sa z   čistej, ideálnej lásky! A ona ide zaň a budú skromne žiť, ona bude   robiť, bude učiť dievčatá šiť, vyšívať, vyžijú, dlhy poplatia i   nagazdujú si.
+   </tei:p>
+   <tei:p>
+    „Zuza, kde si s tým drevom?“ rozčuľuje sa z kuchyne pani Milanka,   preháňa slúžku, nemôže nájsť „štrimfľu“ s drobnými peniazmi a durí   slúžku po mäso, lebo je už desať hodín.
+   </tei:p>
+   <tei:p>
+    „A Joža, paholka, mi pošli dnu! A že by si si nezastala niekde,   lebo ti hlavu prebijem!“ vyhráža sa Zuzke, pätnásťročnej slúžke,   dobrému decku, ktoré, poznajúc panine spôsoby, s dobrou vôľou lieta a   iba sa smeje tým vyhrážkam a ponáhľa sa i bez toho, lebo vie, že tým   i slečinke spraví po vôli. Ona slečinku veľmi rada. Čo pani na nich,   alebo na „mladého pána“ (rechtora) povedali, všetko im vybľabotala,   či to bolo dobré, či plané.
+   </tei:p>
+   <tei:p>
+    „Pani vás volajú!“ zavolala, búšiac do dvier na stajni paholkovi,   ktorý ležal hore na posteli nad teliatkami.
+   </tei:p>
+   <tei:p>
+    Lebo že sú fašiangy a nedeľa, oriadil kone, statok, pekne sa   vyobliekal, vymastil vlasy i čižmy, a majúc od panej vyjednaný na   každú nedeľu šesták, šiel si i dnes poň, ešte neboli vstali a na   lačný žalúdok ho prepil a teraz „oddychuje“ (trezvie). Posedel by si   bol ešte v krčme, ale nebolo peňazí. Šiel by bol do kuchyne, ale tam   by musel robiť horšie služby, najlepší pokoj má — v stajni.
+   </tei:p>
+   <tei:p>
+    Keď Jožko na krik otvoril oči, cítil, že má v ústach planú chuť.   „Hja, ale bola dobrá za rána, kým šesták trval,“
+   </tei:p>
+   <tei:p>
+    52
+   </tei:p>
+   <tei:p>
+    ﻿pomyslel si. Eh, čo bude gazdovať! A teraz ešte v dome všetko   štedré! Pán tovariš alebo slečinka požičajú mu, ak by potreboval.   Pani sú tiež dobrá, čo i krik robia. No a slečinka taká sú teraz   štedrá a nepýtajú — vrátiť. Mohol by i odtajiť, nevedia, koľko mu už   dali. Malý, ostarok-paholok. V jeseni ho trochu na nohu drevo   pritislo, od tých čias vždy kríva, a čím bol viac opitý, tým väčšmi.   Dokyvkal sa i teraz do pitvora, a spraviac veľmi nevinnú, sprostú   tvár, spýtal sa:
+   </tei:p>
+   <tei:p>
+    „Čo rozkážete, pani urodzená?“
+   </tei:p>
+   <tei:p>
+    „Jožko, veď ste vy otrieblený!“ víta ho pani, zalomiac proti nemu   rukami, ako pri počutí nejakej neslýchanej hrôzy, hoci Jožko býval   vždy opitý, keď len mohol k nápoju prísť.
+   </tei:p>
+   <tei:p>
+    Jožko tituloval pani Milanku „pani urodzená“, lebo bola zemianka;   ona mu tiež v riadnych okolnostiach dvojila, hoci mal len nejakých   tridsať rokov a bol slobodný. Len keď sa hnevali, bolo „ty“ a „pani   majstrová“.
+   </tei:p>
+   <tei:p>
+    „A čo by bol, pani urodzená,“ bral Jožko panej poznámku úplne   ľahostajne. „Vypil som za štyri krajciare na fruštik, nuž vari to by   mi vošlo do hlavy? A keby aj, nuž ak na lačnô,“ doložil.
+   </tei:p>
+   <tei:p>
+    „Veď ťa nohy nedržia, ty korheľ, kdeže pôjdeš takýto? Ja sa ani   neobzriem!“ plačlivým hlasom a s hnevom riekla pani Milanka a zvrtla   sa do kuchyne, lebo zas ju nadišla nálada robiť krik a ukazovať sa   ustarostenou.
+   </tei:p>
+   <tei:p>
+    „Keby od trungu, bolo by chvalabohu, ale (chytil si nohu niže   kolena) nebudem ja na túto svoju čaptu už azda nikdy pravo chodiť,“   zažialil Jožko a na dôkaz chcel pokročiť, ale sa potočil.
+   </tei:p>
+   <tei:p>
+    „I vtedy si bol ožratý!“ hodila mu z kuchyne do pitvora pani   Milanka.
+   </tei:p>
+   <tei:p>
+    „Azda od tých mrvancov, čo som ráno zjedol... Len
+   </tei:p>
+   <tei:p>
+    53
+   </tei:p>
+   <tei:p>
+    ﻿potom mi dali od bolesti, pani moja urodzená. Lebo som sa nazdal,   že azda zamdliem od bôľu,“ pripomínal a bránil sa Jožko.
+   </tei:p>
+   <tei:p>
+    „Nože sa mi pakuj ta, do stajne. Ja si najmem, aby si vedel! Ty,   ty ...“ okríkla ho pani.
+   </tei:p>
+   <tei:p>
+    I takej hanby sa už dožil, že keď nemohol, najali miesto neho, a   nezhorel od nej. Kývol plecom a vyšiel. Keď bol na dvore, vybehla za   ním pani Milanka do dvier a kričala naň menom, len sa tak ozývalo   :
+   </tei:p>
+   <tei:p>
+    „Jožko! Kdeže idete? Nuž či som vás na to dala volať? Ale mňa len   zlostiť, trápiť každé v dome, ešte i ten, ten . .. Ani je tu nie a už   čo mám trápenia preň.. .“ nariekajúc, vošla do kuchyne, potisla   hrniec, že voda z neho vyčľapla na platňu, zovrela a narobilo sa pary   a smradu.
+   </tei:p>
+   <tei:p>
+    Boženka, chúďa, všetko do izby počula, ale si našla nejakú vážnu   robotu, a cítiac úzkosť, ako kedysi pred buchnátom, ani sa nepohla,   nedýchala.
+   </tei:p>
+   <tei:p>
+    Jožko sa vrátil a zastal v pitvore urazený.
+   </tei:p>
+   <tei:p>
+    „Nuž čože neriadite kone a vozík? Čože ste si zastali ako pán   veľkomožný?“ miernila sa pani.
+   </tei:p>
+   <tei:p>
+    „Ako ste rozkázali, pani urodzená. Kone čisté, vozík tiež. Len   rozkážte, spraví sa ...“
+   </tei:p>
+   <tei:p>
+    Slovo „rozkážte“ pani Milanku obmäkčilo. Premenila hlas a ticho,   dobrácky doložila Jožkovi, aby o jedenástej zapriahol do vozíka, že   pôjde po „mladého pána“ na stanicu.
+   </tei:p>
+   <tei:p>
+    „Po ktorého, pani urodzená? Vari toho — nového?“ spýtal sa Jožko z   vďačnosti za dobré slovo.
+   </tei:p>
+   <tei:p>
+    „Jaj, ešte sa ma  i ty!“ zase hnevala sa naoko pani   Milanka.
+   </tei:p>
+   <tei:p>
+    Jožko vyšiel, lebo Zuzka doniesla mäso a pani Milanka jej ho   vychytila. Obzrúc ho, hodila ho zpät do košíka a buchla dievča do   chrbta, aby si ho zjedla, alebo šla hodiť mäsiarovi.
+   </tei:p>
+   <tei:p>
+    54
+   </tei:p>
+   <tei:p>
+    ﻿Vyšla Božka.
+   </tei:p>
+   <tei:p>
+    „No, len hľaď,“ vraví jej mať a Zuzku tak točila, ako keby ju bol   na „ringlšpíľ“ uchytil, „či to také mäso má doniesť, mäsiar takú   zdochlinu má poslať?“
+   </tei:p>
+   <tei:p>
+    Tri razy ho vyňala, ukázala a hádzala do košíka. A horekovala, čo   ona z toho odreže, komu to bude, komu to dá, a konečne hodila mäso   posledný raz do košíka.
+   </tei:p>
+   <tei:p>
+    Slúžka ho uchytila a bežala. Ale keď bola na sto krokov na ulici,   vybehla za ňou pani urodzená, a pomysliac si azda, že len by i také   mal niekedy ten otrhaný zaťko-rechtor, kričala za slúžkou, aby sa   vrátila. „Čože sa budem s ním oškliviť, a keď dá vše i bez peňazí a   kedykoľvek pošlem...“ šepkala si pani Milanka, ináče dobrá osoba,   mäkkého, dobrého srdca, ale tvrdej ostrej reči, pritom úprimná až   prostoreká.
+   </tei:p>
+   <tei:p>
+    Preto ide o nej chýr, že je jazyčná, klebetná. A ona má iba tú   chybu, že napočúva tých rečí doma i po jarmokoch, nepamätá si, čo kde   počula, nevie, čo doložila, a preto o nej ten chýr. Zlého nič nikomu   nemyslí, nechce, a jednako často vyhorí. A kde sa bráni, tam sa zas   len zamoce, lebo si popletie ľudí a ich reči. Čo poslednú, tretiu   dcéru vydáva, už radšej ani nikde nejde na posedenie a je veľmi   opatrná, aby nepovstaly nejaké klebety, lebo i zaťko i jeho rodičia   sa jej páčia. Sú majetní. „Pobeseduje si“ radšej takto s   domácimi.
+   </tei:p>
+   <tei:p>
+    O chvíľu len taký pleskot-treskot stál v kuchyni. Pani Milanka   chystala svoj kuchársky „majsterštuk“ — sekané šnicle. Slúžka sháňala   všetko behom. Bočka vyšla k Jožkovi, ktorý robil sa hlúpym, aby od   nej prvej zvedel, že už prídu mladý zať.
+   </tei:p>
+   <tei:p>
+    „Telegrafovali! Hm, to je už isto ... keď telegrafuje. Dobrý pán,   slečinka naša, a aký...! Bude vám sveta žiť! A Božka počala   odstupovať, aby Jožko nepovedal niečo, za čo by sa musela červenať.   „Korunu mi dali...
+   </tei:p>
+   <tei:p>
+    55
+   </tei:p>
+   <tei:p>
+    ﻿A čo som doniesol vydať — nechali mi. To sú pán! ... Ale i   slečinka sú dobrá stvora. Dohovárajú pre tú pálenku, ale mi jej   neutiahnu,“ lichotil.
+   </tei:p>
+   <tei:p>
+    „Len keď stará meria, i preleje, i len predsa na pol prsta chybí z   pohára, tak ho rovno drží,“ myslel si ďalej. A to preháňanie! Ale keď   i podstúpi na tých jarmokoch, predsa len i užije. Takto dumal a   dudral Jožko a čistil kone i vozík.
+   </tei:p>
+   <tei:p>
+    Slečna Boženka, keď počula, že mama neprirodzene silne mäso seká,   nevedela od strachu, čo. Inokedy ona varila, ale jej veľmi rozpaľuje   tvár pri sporáku, nuž ju od pár čias a tak i dnes odmieňa mama.   Šiplala sa okolo materi, posluhovala jej a že počula kone, vozík   spomenúť, veľmi by bola chcela vyskúmať mamu, či niekto a kto pôjde   Greškovi naproti.
+   </tei:p>
+   <tei:p>
+    „Pomôžem ti aspoň posekať, mama,“ ponúkala sa Boženka a Chytala   sa.
+   </tei:p>
+   <tei:p>
+    Pani Milanka, stavajúc sa zahanbenou, nič jej nekázala spraviť,   ale od vďačnosti Boženkinej ponežnela predsa. „Dievka moja, tomu   galganovi tvojmu aby šiel hádam i niekto naproti...“ začala sama. „Ja   nejdem, ja nemôžem. Kdeže sa ja pohnem od tých hrncov? (Varilo sa i   čeľadi.) A mňa hlava bolí, ja si musím ľahnúť. Donesže mi chladný   uterák.“
+   </tei:p>
+   <tei:p>
+    „Nemusela si sa trápiť, mama; ja by som bola navarila,“ vďačne   povedala Boženka a už máčala uterák do chladnej vody. „Alebo ak by si   myslela, aby šla...“
+   </tei:p>
+   <tei:p>
+    Len to jej bolo treba povedať!
+   </tei:p>
+   <tei:p>
+    „Ani na krok! Do rečí sa chceš doniesť? Ty odídeš, ja budem   počúvať? Len mňa budú obviňovať, že som ťa pustila. Nie dosť, že sa   ty pochabíš za ním, ešte i mňa vezmú ľudia v reč ... Nech ide tovariš   ... Stiahni... Jožko ho dovezie. Pozná ho, i on kone.“
+   </tei:p>
+   <tei:p>
+    Boženka uväzovala mame uterák na čelo, ale radšej by
+   </tei:p>
+   <tei:p>
+    56
+   </tei:p>
+   <tei:p>
+    ﻿jej ho bola cez ústa, ani nie od zlosti, ale od žiaľu. Na mokrý   uterák suchý, potom ručník, zas vlniak, a mama bola, ako keby hodnú   červenú burgyňu do uzla zaviazal. Zo všetkého trčal jej iba končitý   nos a hlboko kdesi v hlave mihaly sa čierne prenikavé oči.
+   </tei:p>
+   <tei:p>
+    „Už ti je jedno, mama, prosím ťa. Či dnes, či zajtra sa poveziem s   ním ...“ ako k ťažkému hriechu odvažovala sa Boženka na próbu, či mať   nezmäkne od vďačnej obsluhy.
+   </tei:p>
+   <tei:p>
+    A skutočne!
+   </tei:p>
+   <tei:p>
+    „Urob si, ako chceš. Už som ťa mu zadrhla, mne je už jedno ... Mám   sa ja naplakať, natrápiť, nasužovať, navykladať nad tebou ... Ale čo   si robíš, sebe robíš. Ja už dlho žiť nebudem ...“
+   </tei:p>
+   <tei:p>
+    ,Čože by si mala plakať?...“
+   </tei:p>
+   <tei:p>
+    „No, ja už budem plakať. To mi ty nepovedz! Teraz ja len zviem, čo   je plač a žiaľ... a zadrhlo jej reč, pustila sa do fikania, lebo   jej prišlo na um, že ešte jeden-dva dni a bude sama — iba cudzia   čeľaď jej zostane ...
+   </tei:p>
+   <tei:p>
+    Boženka objala mať a plakaly obe: mať, že ju dcéra nechá, dcéra   zas kvôli materi, no nie veľmi citne ...
+   </tei:p>
+   <tei:p>
+    Jožko prišiel oznámiť, že kone sú už zapriahnuté.
+   </tei:p>
+   <tei:p>
+    „Tovariša niet doma,“ pohútala pani Milanka, a či sa patrí, či   nie, oželela a povedala Božke:
+   </tei:p>
+   <tei:p>
+    „Nuž teda choď si ho vítať.“
+   </tei:p>
+   <tei:p>
+    Božka si vydýchla, ale ako by nebola dobre počula. Nehla sa,   nebola si istá, či to mať myslí naozaj.
+   </tei:p>
+   <tei:p>
+    „Mama, veď som ja nie tak oblečená. A už treba ísť,“ povedala   vzrušene.
+   </tei:p>
+   <tei:p>
+    „Už som vám očistila bundu i kapce,“ zastarela sa slúžka.
+   </tei:p>
+   <tei:p>
+    „A ty čože papuľuješ? Čože sa starieš? Teda pomysli si: ona ti nás   špehuje, počúva, čo sa shovárame, a vykročí,, už bude vykladať, čo   počula ...“
+   </tei:p>
+   <tei:p>
+    „Tak mám ísť?“ spýtala sa Božka.
+   </tei:p>
+   <tei:p>
+    57
+   </tei:p>
+   <tei:p>
+    ﻿„A či ma čert po vás!“ povedala mať. „Len keby ja mala navarené,“   starala sa ďalej o hrnce pani Milanka.
+   </tei:p>
+   <tei:p>
+    Božka ako osprostená vošla do izby a zastala. Obliecť sa — čo bude   s mamou? Nejsť — čo povie Greško? Predsa si pomyslela, že pre milého   nič ťažkého, a chytro sa schystala.
+   </tei:p>
+   <tei:p>
+    „Mama, ja idem,“ oznámila v pitvore a čakala ešte búrku.
+   </tei:p>
+   <tei:p>
+    „Nuž a či ste ešte doma? Veď nedôjdete na stanicu ...“ hľadí na   staré hodiny, ktoré v kúte štrkotaly, ako by skalky v truhlici   presýpal.
+   </tei:p>
+   <tei:p>
+    „Koníkom je zima,“ prišiel znovu Jožko.
+   </tei:p>
+   <tei:p>
+    „Sadajme!“ bežala už veselá Božka, nečakajúc na bundu a pokrovee,   s ktorým mama poslala slúžku.
+   </tei:p>
+   <tei:p>
+    „Pohnite, Jožko! Dám vám vína na utorok.“
+   </tei:p>
+   <tei:p>
+    Jožko šibol podľa koní, že len tak vytrhly, a len potom začal   rozberať Božkine slová:
+   </tei:p>
+   <tei:p>
+    „Nepomyslíte na mňa v utorok, keď budete mať muža,“ vtipkoval.
+   </tei:p>
+   <tei:p>
+    Ako sa Božka s Greškom uvítali, ako jej do vozíka chcel pomáhať,   no ona obehla a vyskočila sťa pierko, hoci dosť ťažká, s druhej   strany — tým by som rozprával známe veci zamilovaných.
+   </tei:p>
+   <tei:p>
+    Jediné, čo zaznačujem, je, že sa Boženka odťahovala; ani objať,   ani bozkať sa nedala, nie pre seba, ale sa bála, že za každým stromom   a uhlom strežie na ňu mať alebo nejaké iné okále.
+   </tei:p>
+   <tei:p>
+    Jožko zabudol krívať, vypäl sa, vyložil si podľa seba kufrík   „mladého“ a vyleteli so stanice do mesta.
+   </tei:p>
+   <tei:p>
+    So stanice pešo idúci sa obzerali a istá kamarátka Boženkina   zavolala jej:
+   </tei:p>
+   <tei:p>
+    „Ej, ty striga, ani sa neobzrieš?“
+   </tei:p>
+   <tei:p>
+    Božka sa obzrela a privolala „Servus“ a dievčatá kývaly si   ručníčkami „Pá-pá“. Figliarky, ktovie, čo si ktorá myslela.
+   </tei:p>
+   <tei:p>
+    58
+   </tei:p>
+   <tei:p>
+    ﻿Blížiac sa k domu, Greško zvážnel, a že mal z minulosti, ako sa   vraví, maslo na hlave, o ktorom pani Milanka iste počula, choval sa k   nej nadmieru úctivo, bozkal jej ruku a vďačne sa usmieval.
+   </tei:p>
+   <tei:p>
+    „Vitajte,“ prehovorila srdečne.
+   </tei:p>
+   <tei:p>
+    ,Tento papek,“ myslela potom sladko v kuchyni pani Milanka, ,kde   to len nabral tých panských spôsobov m sprostej dedine? Ale či to   doma obsedí? Veď každý týždeň bol tu, kým nás nepodviedol,“ hútala   pani mama a brale, na misky.
+   </tei:p>
+   <tei:p>
+    Božka s Greškom vo veľkej izbe prikrývali stôl; Božke riad v   rukách veľmi hrčal a ona sa bála, že ťnať otvorí dvere. Verejne mu   „vykala“, teraz „tykala“ i ona, a Greško bol tým smelší.
+   </tei:p>
+   <tei:p>
+    Slúžkou zavolaný, došiel pán tovariš, starý robotník, Čech. Veľký   národovec, ktorý vše nadával na Maďarov, v hostinci vyspevoval „Hej,   Slované“ a stalo sa, že i na ulici v noci, až ho raz dal slúžny i   zavrieť. Potom vravieval, že neumrie, kým nepôjde do Prahy a nepovie   tam, akí sú Maďari národ... Držal si i svoje novinky, „Politiku“.
+   </tei:p>
+   <tei:p>
+    Slúžka otvorila dvere dokorán pred pani Milankou; tá ju okríkla,   že skoro vraj do nej vrazila, pochábeľ pochabý, a sladkým hlasom   doložila:
+   </tei:p>
+   <tei:p>
+    „Nechže sa vám páči. Božka, ponaberaj. Mne nie, len vy jedzte   ...“
+   </tei:p>
+   <tei:p>
+    „Ale, mama, polievočky akej si dobrej navarila,“ naberala jej   prvej Božka.
+   </tei:p>
+   <tei:p>
+    „Znamenitá!“ doložil Greško, hoci nebol ešte ani okúsil, a len   chcel zalichotiť, vtip spraviť a Božke sa uškrnúť.
+   </tei:p>
+   <tei:p>
+    Pani Milanke však skutočne zalichotilo, doniesla mäso, šnicle i   palacinky a tak ponúkala, že nezostalo skoro nič.
+   </tei:p>
+   <tei:p>
+    „Žráč!“ myslí si pani Milanka. „Čo by si ho desať ráz ponúkla,   desať ráz si vezme. Prejedia moje mozole. Čože
+   </tei:p>
+   <tei:p>
+    59
+   </tei:p>
+   <tei:p>
+    ﻿z rechtorskeho platu ? Vyhladovený, zadlžený... Vydávam ťa ...“   pomyslela na dcéru, ale len ponúkla ešte.
+   </tei:p>
+   <tei:p>
+    „No, teraz prejdite do druhej izby. Ja si jarmok neopustím,“   trápila sa mať, vzpomenúc si, že zajtra má byť na jarmoku v Ž.
+   </tei:p>
+   <tei:p>
+    Mladí len to čakali. Greško ponúkol tovariša, zapálili si a vyšli   do druhej izby shovárať sa o národných veciach slovenských i   českých.
+   </tei:p>
+   <tei:p>
+    „Ja ti pomôžem, mama,“ ponúkala sa z povinnosti Božka.
+   </tei:p>
+   <tei:p>
+    „Pomôž, keď chceš,“ smutne prehovorila mama, pomysliac si, že   posledný raz jej Božka pomôže. Potom už len jej prichodí naťahovať sa   s plátnom, tlačou po jarmokoch.
+   </tei:p>
+   <tei:p>
+    Keď Božka nechodila, Greško prišiel za ňou, a aby boli skorej   sami, pomáhal testinej ukladať do truhly, obskakujúc, a čo slovo, to   „mama“, „mamička naša“ a „ruky bozkávam“ a samá stelesnená vďačnosť a   úsmev. Naložili. Truhlu si pani Milanka zamkla a hľadajúc v spodnej   sukni vrecko, že sa Božka až zapýrila, položila si doň kľúč:
+   </tei:p>
+   <tei:p>
+    Do večera boli mladí sami, lebo pani Milanku rozbolela hlava ešte   väčšmi od „trápenia“. Tak povedala zkrátka, keď sa jej pýtali, od   čoho. Greškovi by radšej bola povedala: „Pre teba, ty nehodník!“ ale   už vedela, že tej „záhuby“ od dcéry neodvráti. Ľahla po večeri do   postele a dala sa obkladať studenými handrami.
+   </tei:p>
+   <tei:p>
+    Božka obsluhovala mať ako vždy, starostlivo; ale vše vybehla ku   Greškovi a jeho spoločníkovi, tovarišovi, ktorí rozprávali o Prahe.   Greško už bol i tam, chválil, preto si ho tovariš razom obľúbil a   opustil dnes večer i pivo, alebo pôjde neskoršie. Tak sa i stalo. Mať   navrhla, aby Božka radšej zavolala toho „forgoňa“, lebo iba dverami   sa vrázdi.
+   </tei:p>
+   <tei:p>
+    Božka, neveriac sluchu, červenala sa, že ju mať zbadala, prečo   toľko chodí prelievať studenú vodu na obkladky. Tovariš sberal sa „na   pivo“, Greško vážne vošiel a bozkal
+   </tei:p>
+   <tei:p>
+    60
+   </tei:p>
+   <tei:p>
+    ﻿materi ruku, sadnúc si k posteli, a trápil sa hlasne, od čoho by   ju prestala hlava bolieť.
+   </tei:p>
+   <tei:p>
+    Pani Milanke nesmierne lichotilo, keď sa niekto s ňou zamestnával,   ju ľutoval aspoň rečou.
+   </tei:p>
+   <tei:p>
+    „Povedzteže mi, deti moje, keď sa už tak stalo, z čoho vy budete   žiť ?“
+   </tei:p>
+   <tei:p>
+    Božka veru nevedela a bola by odpovedala, že „z lásky“, ale Greško   pochopil, že na to sa mať nevyzvedá, a rozprával čo už má všetko v   komore a v chlievcoch: dal zomlieť na chlieb, na varenie z vlastného   zrna; otruby už prasa žerie, čaká na Božku, budú zabíjať. Má aspoň   sto kíl. Masti budú mať do roka dosť. Tri mládky. Nenesú ešte, ale   jedna už krákorí, budú sedieť, budú kuriatka, nemusia kúpiť. Strovy:   bôbu, hrachu, sušienok nanosily novej gazdinej ženy už plnú komoru, a   vychválil sa, ako vedel, nedoložiac, že zrno vzal si z platu   napredok, že je za bravca dlžen a z tých darov že do týždňa   nevyžijú.
+   </tei:p>
+   <tei:p>
+    Pani Milanka myslela si v duši, že predsa len nebude zaťko taký,   ako ho maľujú, ako si sama dosiaľ o ňom myslela, keď teda má také   gazdovstvo. Dávala im naučenia, pritom si i poplakala, Božka s ňou, a   Greško mal príležitosť sľúbiť všetky sľuby. Na spečatenie bozkal   materi ruku, Božke uplakané líčko a ešte sľúbil, že už bude dobrý,   nebude piť, nebude fajčiť, karát do ruky nevezme, do krčmy nevkročí   atď., odriekal sa všetkých spáchaných i nespáchaných hriechov a   nešľachetností.
+   </tei:p>
+   <tei:p>
+    „Vďačne to opustím pre svoju Božku! Ona mi bude náhradou za   všetko. Uvidíte, mama naša, že tak bude!“
+   </tei:p>
+   <tei:p>
+    Pani Milanka pripomenula mu opäť vážnosť stavu manželského a   poučovala ich, ako by mali gazdovať, ako treba Greškovi zachodiť s   Božkou.
+   </tei:p>
+   <tei:p>
+    „Ona je naučená robiť. Chodila na jarmoky, keď som ja nemohla a   dobre vykonala,“ vzdychala mať.
+   </tei:p>
+   <tei:p>
+    „Mama moja, ak by si dovolila, ja by som šla i zajtra
+   </tei:p>
+   <tei:p>
+    61
+   </tei:p>
+   <tei:p>
+    ﻿ešte do Ž. za teba, keď si chorá, aby si na utorok nebola horšie,“   predišla Božka mať.
+   </tei:p>
+   <tei:p>
+    „I ja pôjdem! Aspoň uvidím, ako je to. Budem mať z toho   besednicu,“ ponúkal sa Greško.
+   </tei:p>
+   <tei:p>
+    Dobre, deti moje, choďte, ešte naposledy za mňa. Veď som sa ja   dosť natrápila za vás,“ plakala mať. „Aby ste si vedeli tých pár   zlatých zašanovať, čo ti mám dať . ..“ hovorila dcére. „Bože, keď som   sa ja vydala! Na tretí deň poď na jarmok a nie na železnici, ako   teraz chodíme, ale v predvečer na voze. Ideme s pol hodiny, a nebohý   otec vraví: „Marka moja, tu sídeme, pôjdeme hore vŕškom,“ a poď po   snehu do kolien. Vydriapali sme sa po biede. Voz zastane. Ja sa   driapem naň. Otec vraví: „Nesadaj, je veľmi strmo a nad vodou, ak by   sa niečo stalo na voze ... Keď sídeme do doliny.“ Neplačže už potom   ... A tak celú noc. Čože vy viete, čo som ja za vás vystála ... A   potom: jedno na rukách, druhé v živote a: „Len iď, a ja pôjdem ta   alebo ta. Na dvoje viac utŕžime.“
+   </tei:p>
+   <tei:p>
+    Rozprávala, ako bolo, dávajúc dobré príklady, od ktorých sa mladí   červenali a neboli by pozreli na seba ani za svet.
+   </tei:p>
+   <tei:p>
+    Keď mať povedala, aby vyšli, že oprobuje driemať, Greško odobral   sa a chcel ísť do hostinca nocovať.
+   </tei:p>
+   <tei:p>
+    „Netrovte si, dieťa moje; šanujte si tie krajciare. V druhej izbe   máte postlané. Božka pôjde k Ľudmilke do susedov,“ doložila, aby   vyrazila Greškovi akúkoľvek myšlienku a aby si svet nemyslel, že   nevie, čo sa patrí. (O tom sa už boly mať s dcérou hneď zvečera   dohovorily.)
+   </tei:p>
+   <tei:p>
+    Božka bozkala mamu, Greško jej ruku a šiel Božku vyprevadiť do   susedov. Zima bola a museli si, kým tých pár krokov prešli, i ruky   pchať pod pazuchy — ovšem splietli si vlastné. U Ľudmilky ešte   svietili, čakali Božku. Dôjduc musela im vykladať o Greškovi a mame.   Nespaly s Ľud-
+   </tei:p>
+   <tei:p>
+    62
+   </tei:p>
+   <tei:p>
+    ﻿milkou celú noc a ráno o šiestej bolo treba sa hýbať za Jožkom na   jarmok.
+   </tei:p>
+   <tei:p>
+    Prvý raz sami pocestujú. „Bude to ako by svadobná cesta,“ snívala   Božka a zababušená do flanelu, kožucha, vlniakov a kapcov (lebo bude   celý deň stáť a dnes píše sa jedenásteho februára!) vyšla s Greškom   na stanicu. Greško vymenil lístky na druhú triedu.
+   </tei:p>
+   <tei:p>
+    Čo bolo po ceste, to sa volá „cez sklo med lízať“. Cestujúcich,   jarmočníkov nával!
+   </tei:p>
+   <tei:p>
+    Božka vedela, kde Jožka v Ž. hľadať: v krčme, kde obyčajne   nocúval. Našli ho, a Jožko už veľmi kríval, ponosujúc sa na planú,   chladnú noc, zimu. V skutočnosti, ako došli po polnoci, paholci   presedeli za stolom. Greško porozumel náražku a dal mu šesták. Jožko   pozrel naň, potom na šesták a pomyslel si ako vždy v taký čas, že   prepije ho čím skorej, aby ho nestratil a sa zohrial.
+   </tei:p>
+   <tei:p>
+    Pani Milankin šiator bol složený v krčme v cieni, kde i iní   jarmočníci mávali svoje. Bolo už osem-deväť hodín, svet sa spytoval,   či tá, čo tú tlač predáva, Milanka, nepríde.
+   </tei:p>
+   <tei:p>
+    „Tu má tovar,“ ukazovali susedí na truhlu, ktorú bol nad ránom   Jožko zaviezol pod bránu, kde stávali.
+   </tei:p>
+   <tei:p>
+    „Jožko, chytro šiator!“ nakladá Božka, prechádzajúc sa po podlubí   s Greškom.
+   </tei:p>
+   <tei:p>
+    „Už, už, pani slečinka,“ chcel ju uctiť Jožko. „Len táto moja noha   ma už azda nikdy dobre nosiť nebude,“ zažialil a chytil sa za   zasneženú, zamrznutú čižmu, znak, že už mal hodne pod čiapkou.
+   </tei:p>
+   <tei:p>
+    „Zavolajte si niekoho,“ ponúkol mu Greško.
+   </tei:p>
+   <tei:p>
+    „To, pán rechtor, to. Hneď bude,“ a pustil sa, obzerajúc sa,   ulicou.
+   </tei:p>
+   <tei:p>
+    O chvíľu pechorili sa už traja so šiatrom. Boli to ako by vyberaní   uličníci, otrhaní, v handrách, špinaví a opití, že
+   </tei:p>
+   <tei:p>
+    63
+   </tei:p>
+   <tei:p>
+    ﻿žŕdky, dosky po ulici vliekli, tratili, pokrikovali jeden na   druhého a Jožko padal. A boli by ste ich videli šiator stavať !   Všetko popremieňané, chybné, staré, dolámané — trápenie pre   triezvych, a nad opilými zlosť a smiech. Šťastie, že nebolo veľa   jarmočníkov, a čo i boli, keď im Božka povedala, aby len počkali, že   hneď vypakujú, že je ona dcérou tej Milanky, ženičky nedôverčivé   pozeraly na ňu a vidiac pri nej Grešku točiť sa s bradou, pokladaly   ju i s ním za Židov. Ony poznaly len starú majstrovú, Milanku, od   tridsať rokov, ktorá ich vše i metrom bila, keď na posmech za tovar   sľubovaly.
+   </tei:p>
+   <tei:p>
+    Konečne žart prešiel a bolo treba trochu sa i hanbiť za ten   šiator, paholka a jeho pomocníkov. Pomohol i Greško stavať, i Božka i   susedí: podopreli ho truhlou, uviazali o dvere na bráne, priťažili   plátnom, a tak sa udržal.
+   </tei:p>
+   <tei:p>
+    Do poludnia utŕžili okolo dvanásť zlatých. Premrznutí (zvlášte   Greško) spakovali, šiator ani neviem, či tam nechali, či dali odniesť   a šli si niečo kúpiť do gazdovstva. Strovili všetky peniaze.
+   </tei:p>
+   <tei:p>
+    „Čo povieme mame?“ zľakla sa Božka. „Že sme nič neutŕžili,“   narádzal so smiechom Greško.
+   </tei:p>
+   <tei:p>
+    „A čo som kúpila, to že si mi ty...“ Sadli na železnicu a šli   domov.
+   </tei:p>
+   <tei:p>
+    „No, akože sa vám vodilo, deti moje?“ spytovala sa mať vo   dverách.
+   </tei:p>
+   <tei:p>
+    „Planý jarmok, nič sme neutŕžili,“ začal Greško.
+   </tei:p>
+   <tei:p>
+    „Koľko?!“ preľakla sa Milanka a už sa hnevala, že sama nešla.
+   </tei:p>
+   <tei:p>
+    „Dvanásť zlatých iba,“ šla s pravdou Božka, no už bolo zle.
+   </tei:p>
+   <tei:p>
+    „Nemožná vec! Veď ja tam utŕžim sto-sto dvadsať zlatých.“
+   </tei:p>
+   <tei:p>
+    „Vás i dovedaly, mama,“ zalichotil Greško.
+   </tei:p>
+   <tei:p>
+    „Teda ja, že si zajtrajší deň tým odbavím, a tu máš!
+   </tei:p>
+   <tei:p>
+    64
+   </tei:p>
+   <tei:p>
+    ﻿Dvanásť zlatých... To sa mi nepáči, dievka moja. Ty si inakšia   bývala. Ty si teraz o jarmok nedbala, ty si si na mňa a moje výdavky   nemyslela. A to si čoho nakúpila? Pletky: čipky, vejár, koralky,   slnečník, daromnosti... Kde sú peniaze?“ vyhŕkla mať. „Ukáž   pudilár!“
+   </tei:p>
+   <tei:p>
+    Božka vyložila tri zlaté a hľadela na Greška; ten, ofľasnutý,   hľadal chytro peňaženku, ale mať už neverila.
+   </tei:p>
+   <tei:p>
+    „No, to sa vy pekne chystáte gazdovať! Ja sa dožijem radosti z   vás. Ja sa vám tu osvedčujem, že čo som si to ako rozmyslela,“   nariekala pani Milanka, „ja vám peňazí nedám. Akože — zmárniť! Čo som   ti nadelila (obrátila sa k Božke), nebude vám. Trápte sa, keď sa   chcete sobrať. Ja nedám! Nepoviem, vašim deťom — ale vám nedám,   nedám!“
+   </tei:p>
+   <tei:p>
+    Greško, stúlený, žmolil cigaretu, Božka, ako podlomená, hľadela do   zeme a za svet by nebola pozrela na nikoho.
+   </tei:p>
+   <tei:p>
+    Bola to nálada, ako po lumpovaní. Napravila sa až večer. Pani   Milanka sa naoko ešte i vtedy hnevala, že prvý deň sami a už   potrovili, kde aké peniaze mali.
+   </tei:p>
+   <tei:p>
+    Na druhý deň predsa odbavili svadbu. Jožko sa objedol, opil a   spieval, tancoval na krivej nohe, ako medveď na svorke.
+   </tei:p>
+   <tei:p>
+    Po roku prišli Greškovci už i s malou Božou na návštevu k starej   materi — ako im bola prisľúbila, po materino veno. Stará mať knižku   od peňazi vydala. Ale čo? Je na nej poznámka, že sa vklad vypláca len   na jej dovolenie ... Či to všetko pre ten nešťastný jarmok?
+   </tei:p>
+   <tei:p>
+    Ale Greškovcov to nezarmútilo, neurazilo, a to uspokojuje i pani   Milanku a hýčka na rukách jedno s druhým už vari pätnáste vnúča,   cmuká mu a usudzuje, že je pekné ako mať a múdre ako otec.
+   </tei:p>
+   <tei:p>
+    (Trpký, X. vyd., 1921.)
+   </tei:p>
+   <tei:p>
+    5 ŽUebky.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

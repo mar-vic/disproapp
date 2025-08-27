@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949429" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Česi prekliati : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1323
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Česi prekliati
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     „Česi prekliati...“
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Starká Greškovie tiež sa hnevá na Čechov. Ona chodila iba dve zimy   do školy a vie sa z knižky pomodliť i sa porátať so slúžkou za   mlieko, ovocie a čo sa z domu predáva. A vnúčatá, čo by jej teraz,   keď už má vyše sedemdesiat rokov a z domu nemôže pre lámku a záduch,   iba do kostola a na záhumnie, čo by — reku — starkej malý pomáhať,   aspoň kurence, húsky dozrieť, za žihľavou pod ploty zabehnúť, nie;   ona sa musí hrbiť a deti si sedia pekne v škole, hoci je už dávno po   Ďure. Čosi sa jej síce marí v mysli, že potom bolo prísnejšie, že už   i ona musela chodiť za svoje deti prosiť pána učiteľa. Ale vtedy   púšťali; keď bolo dieťa treba, zanieslo sa pol funta masla učiteľovi   a už bolo dieťa doma od Ďura do Všechsvätých. A teraz čo by si mu dva   funty poslala, nevezme, nepustí. Bol syn, bola nevesta — nie a nie.   Šla starká sama a ukázala skľavené ruky i sa dusila. Ale učiteľa to   nepohlo.
+   </tei:p>
+   <tei:p>
+    „Ja by vám deti pustil, ale zákon nepustí...“
+   </tei:p>
+   <tei:p>
+    „Akýže je to už zákon, že dva-tri týždne nepopustí. Len čo by sme   posadili. Veď ja musím variť, keď sú mladí v poli... a nemá mi kto   ani vody doniesť. Že to len tí Česi vymysleli taký zákon!“ vy hrkla   starká, keď videla, že ani ona učiteľa neuprosí, aby vnúčatá zo školy   pustil.
+   </tei:p>
+   <tei:p>
+    7*
+   </tei:p>
+   <tei:p>
+    99
+   </tei:p>
+   <tei:p>
+    ﻿„Česi, Česi,“ povráva si učiteľ, ktorý by tiež radšej bol od Ďura   do Všechsvätých v záhrade, vo včelíne, ako v škole.
+   </tei:p>
+   <tei:p>
+    „Bodaj sa prepadli!“ kľaje Čechov i starká, ako iných počuje okolo   pri všetkom kliať Čechov: farára v kázniach, syna pri daniach, suseda   pri odvode, a každého temer Slováka, ktorý sa do štátnej služby a   práce dostať nemôže.
+   </tei:p>
+   <tei:p>
+    „Česi! Prekliati Česi! Idete mi ho von!“ schytí starká haluz a   týmito slovami vyháňa kvočku z hriadok, húsky z priesady, kde   zabehly, kým ona zašla do školy k učiteľovi.
+   </tei:p>
+   <tei:p>
+    A kurence, húsky sa skutočne ľakly tohto novotného kriku a utiekly   zo záhrady... Ale starká ešte i keď sa cez plot pretisly,   kričala:
+   </tei:p>
+   <tei:p>
+    „Česi, prekliati Česi!“
+   </tei:p>
+   <tei:p>
+    Sotva sa takto na jar s hydinou potrápila, doniesly vnúčatá, Miško   a Anička, novú zlú zvesť, že pán učiteľ im hovoril, že veru od   septembra budú už aj siedmy rok chodiť do školy a na rok i ôsmy.
+   </tei:p>
+   <tei:p>
+    „Či by to bolo možné, deti moje?!“ zalomila proti deťom staré   svoje ruky Grešková. „Veď takto sa ty, dievka moja, nevymôžeš z tej   školy do vydaju. Ach, Česi, prekliati Česi! Ale ja to už ani veriť   nemôžem, že by to už bolo možné na svete ... Ja už radšej umriem, ako   sa toho mám dožiť, aby si ty, dievka moja, celý svoj mladý vek mala v   škole zmárniť. Nuž kedyže sa naučíš robiť? Čože z vás bude? Veď   zleňošíte nadosmrti. Takto my vyjdeme na mizinu. Takto nás tí   prekliati Česi o všetko pripravia. Len porcie navaľovať, deti osem   rokov mučiť! A keď vás iba slovensky učia, akíže z vás páni budú?“   Nejasne sporní la Grešková, že keď už chodily deti toľko do školy,   ako teraz, že sa shovárali aspoň s pánom farárom, s učiteľom, n tárom   tak, ako ona nerozumela. To už bolo niečo! Ale teraz
+   </tei:p>
+   <tei:p>
+    100
+   </tei:p>
+   <tei:p>
+    ﻿iba slovensky, slovensky. „To nemôže byť, to ste vy zle rozumely,“   nedopustila zlú novotu starká, a deti ju nemohly presvedčiť.
+   </tei:p>
+   <tei:p>
+    Na nedeľu počuli to však všetci rodičia s kancľa, od samého pána   farára, ktorý svolával školský výbor, aby sa poradil, ako, kde   popchať deti do 7. ročníka, keď je škola malá a príde o dvanásť detí   viac než vlani do prvej triedy.
+   </tei:p>
+   <tei:p>
+    „Vláda nariadila,“ vykladá pán farár.
+   </tei:p>
+   <tei:p>
+    „Bodaj sa prepadla!“ dudrú chlapi, ženy i stará Grešková hneď do   kázne a jedna druhej šepce: „To tí Česi, prekliati Česi...“
+   </tei:p>
+   <tei:p>
+    Na druhú nedeľu prišiel agent ľudovej strany, zahrmel na ministra,   zahrmel, že vláda neuvážila, či obce, cirkvy majú dosť miesta pre   toľké deti; zahrmel na vládu a Čechov tak, že sa to všetkým páčilo a   celá dedina i Grešková dala sa zapísať do ľudovej strany a agenta   pozvala na kyslé mlieko a dobre masielce.
+   </tei:p>
+   <tei:p>
+    „Ja už nič, nič nežiadam, len keby ste tie školy prekazili tým   Čechom prekliatym!“
+   </tei:p>
+   <tei:p>
+    „Aj to máme v programe. Mnoho je škôl, a ani jedna katolícka!“   spustil veľkým hlasom ľudový agent. „Česi nám berú vieru, berú   porcie, berú školy, berú, berú ... Ale keď vy budete s nami: Čechov   vyženieme a bude, ako si sami budete žiadať.“
+   </tei:p>
+   <tei:p>
+    Grešková s celou dušou pridala sa k agentovi, a teraz už   trpezlivejšie bude čakať nový prevrat a zrušenie vlády i jej   nariadenia o večnej škole, akou sa jej zdá už dnešná, nie to, Bože,   keby mala trvať až sedem-osem rokov.
+   </tei:p>
+   <tei:p>
+    Práce má stále plné ruky, hoci v dome vstávajú o štvrtej ráno, ale   s letom pribýva i roboty. Syn, nevesta, slúžka v poli, deti v škole,   na starkej je varenie, hydina, prasce, teliatko, ba ešte i mačka sa   okotila a pod chvíľou pýta
+   </tei:p>
+   <tei:p>
+    101
+   </tei:p>
+   <tei:p>
+    ﻿mlieka, a hocičo nezožerie... Drie ako Cigánka. Trápenia vyše   práva, v ktorom by sa jej zišli Anička i Miško, ale
+   </tei:p>
+   <tei:p>
+    — sú v škole. „Prekliati Česi!“
+   </tei:p>
+   <tei:p>
+    Do toľkej práce a starosti nová bieda. Zamykaj všetko. Do dediny   prišli Cigáni. Nasýpajú cesty, tlčú skálie vyše dediny. Žijú tam v   kolibách, s rodinami, deťmi. Ale predsa vše, ako duch, príde bosá   Cigánka a pýta:
+   </tei:p>
+   <tei:p>
+    „Dajteže, dajte, gazdinká.“
+   </tei:p>
+   <tei:p>
+    „Dajteže, dajte,“ posmieva sa jej Grešková, že nevie inak   zaprosiť.
+   </tei:p>
+   <tei:p>
+    „Máme kŕdeľ detí, musíme im zaniesť do našej dediny. Stará mať im   málo vyžobre ...“
+   </tei:p>
+   <tei:p>
+    „No, ja nedám. Deťom dám, ale vy si zarobíte na cestách. .. Keď   prídu deti pýtať ... potom.“
+   </tei:p>
+   <tei:p>
+    „Nemôžu, prosím vás. V nedeľu sa nepatrí... Iba ak v sobotu   popoludní...“
+   </tei:p>
+   <tei:p>
+    „Tak nech prídu na sobotu!“ okrikuje Grešková Cigánku. „A daj mi   pokoj, mám robotu. Nestoj, choď. Ja pred tebou nebudem zamykať. Mám   dosť druhej roboty!“ Kúskom chleba odpráva Cigánku ...
+   </tei:p>
+   <tei:p>
+    Na sobotu prišly Cigánčatá a pýtaly. Dostaly, hoci boly tri.
+   </tei:p>
+   <tei:p>
+    Na druhú sobotu prišly štyri. Dostaly tiež.
+   </tei:p>
+   <tei:p>
+    Na tretiu sobotu prišiel Cigánčiat celý kŕdeľ. Vošly tri. Dostaly.   Druhé tri. Dostaly. Tretie tri. „Vy ste už boly. Nedám viac.“
+   </tei:p>
+   <tei:p>
+    „My sme neboly, to boly iné
+   </tei:p>
+   <tei:p>
+    Grešková sa neškriepi, nestačila sa im veľmi prizerať. Dáva, veď   deti prišly pekne: „Pochválen Ježiš Kristus!“
+   </tei:p>
+   <tei:p>
+    „Ale dosť. To by ste vy mne za pekársku pec chleba zjedly.“
+   </tei:p>
+   <tei:p>
+    Na sobotu prišly deti cigánske zase, veď chodily na-
+   </tei:p>
+   <tei:p>
+    102
+   </tei:p>
+   <tei:p>
+    ﻿proti svojim rodičom a rodinám, ktoré robily cesty a sa na nedeľu   vracaly do susednej dediny.
+   </tei:p>
+   <tei:p>
+    „Pochválen Ježiš Kristus!“ a Cigánča stojí, ako v známom dome,   smelo.
+   </tei:p>
+   <tei:p>
+    „Pán Boh zaplať!“ a beží s kúskom chleba.
+   </tei:p>
+   <tei:p>
+    „Pochválen Ježiš Kristus!“ a druhé Cigánča stojí, vyvaľujúc bielka   očú z pitvora do kuchyne na Greškovú, ktorá zavára halušky, lebo im   nosia hnoj ženy.
+   </tei:p>
+   <tei:p>
+    „Teraz som ti dala!“
+   </tei:p>
+   <tei:p>
+    ,Možno, že bolo toto, možno, že iné,‘ myslí starká a hodí smidku   chleba.
+   </tei:p>
+   <tei:p>
+    „Pán Boh zaplať!“
+   </tei:p>
+   <tei:p>
+    Nové Cigánča. Ešte jedno. Ešte dve.
+   </tei:p>
+   <tei:p>
+    „Nedám! Už som vám pol chleba rozkrájala. „Prosím pekne . ..“ pýta   Cigánča.
+   </tei:p>
+   <tei:p>
+    „Prosím pekne ... Ale či sa vieš modliť?!“
+   </tei:p>
+   <tei:p>
+    „Ve meno Boha Otca i Syna i Ducha ... Otčenáš ... Zdravas ...“ a   Cigánča sa modlí, ani keby hrachom sypal.
+   </tei:p>
+   <tei:p>
+    Dostane okruštek chleba.
+   </tei:p>
+   <tei:p>
+    Iné Cigánča začína sa hneď v pitvore modliť. Dostane i to.
+   </tei:p>
+   <tei:p>
+    Prídu dve-tri naraz a modlia sa.
+   </tei:p>
+   <tei:p>
+    Greškovej sa chlieb minul, a Cigánčatá sa ešte modlia. Už sa   trochu i pomiešaly, prišly i po druhý raz.
+   </tei:p>
+   <tei:p>
+    „Tu máte poslednú smidku. Už nedám ani kúska! Berte sa von!“
+   </tei:p>
+   <tei:p>
+    „Otče náš, ktorý si na nebesiach...“ začína malé Cigánča a   Grešková hľadí bokom, či ozaj vie i to. Veď to kedysi kdeže by   Cigánka modliť sa! Len skorej „dajte, dajte“, a toto i deti znajú .   ..
+   </tei:p>
+   <tei:p>
+    „A ktože vás naučil modliť?“ „Pán učiteľ v škole! ..
+   </tei:p>
+   <tei:p>
+    Grešková, ako zúfalá, zalomí rukami a iba vzdychá:
+   </tei:p>
+   <tei:p>
+    „Ach, teda ešte i Cigánov poberú do školy. Ach, tí Česi,
+   </tei:p>
+   <tei:p>
+    103
+   </tei:p>
+   <tei:p>
+    ﻿prekliati Česi... Nuž kdeže už potom nemá takéto naše dieťa chodiť   sedem-osem rokov, keď i Cigánčatá tisnú do školy... Stará som, ale čo   sa to robí na tom svete, to je už vyše mojej hlavy..
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

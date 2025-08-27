@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk194951" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Rechtor-kapitalista : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1289
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      Rechtor-kapitalista
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Rechtor-kapitalista
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Svet ani nevidel, ani neslýchal, že by kedy rechtor bol mohol   požičať niekomu peniaze. Veď mu vždy chybely dva krajciare do groša,   a iste starší, než táto rozprávka, je veršík:
+   </tei:p>
+   <tei:p>
+    „Čo rechtor vybľaCl, rechtorka vyvláči.
+   </tei:p>
+   <tei:p>
+    A „nabľačal“ sa veru starý rechtor mnoho; viac ako dnešný. Dnes   intonuje už iba v kostole, na pohreboch, raz-dva razy do roka na   procesii. Teraz i sviatkov i procesií menej, než bývalo pred   sto-dvesto rokmi. Vtedy veru celé živobytie rechtorskej rodiny   záviselo od rechtorovho hlasu, za ktorý ho viac platili, ako za   vyučovanie dietok, ktoré chodily do školy ako chcely, trochu v zime;   prečo starí ľudia do nedávna hovorievali, že chodili „jednu-dve zimy“   do školy a to obyčajne stačilo, aby sa vedeli z knižky pomodliť. I to   viac chlapci, ako dievčatá, preto staré ženy modlievaly sa iba   „pátričky“. Rechtor teda musel využívať hlavne svojho hlasu, a to   veľmi často, pri všelijakom „žobraní“, ktoré raz sa nazývalo   kantácie, raz festivácie (sviatkové), raz koledy, Gregora, Blažeja   atď. Bolo to vždy žobranie, v čom mu verne pomáhali mendíci (po   slo-
+   </tei:p>
+   <tei:p>
+    127
+   </tei:p>
+   <tei:p>
+    ﻿-vensky žobráci), kostolníci, ktorí sa pri škole, fare, kostole   priživovali a s vrecami po dedine chodili vyberať a sbierať to pre   farára, to pre rechtora i na seba.
+   </tei:p>
+   <tei:p>
+    Slová „rechtorka vyvláči“ treba brať iste v dobrom smysle:   „vyvláči“ totižto deťom svojim, lebo Pán Boh rechtorské rodiny rád   mával a nikdy ešte nedopustil, aby rechtorský rod vymrel.
+   </tei:p>
+   <tei:p>
+    Kdeže by teda bol mohol rechtor nasporiť toľko, aby mal väčší   peniaz a mohol z neho požičiavať!
+   </tei:p>
+   <tei:p>
+    A predsa! Dávno síce, ale okolo roku 1780 stalo sa, a to vo   zvolenskej Dubovej.
+   </tei:p>
+   <tei:p>
+    Zpočiatku sa iba zaručil, keď po desaťročnom účinkovaní nadobudol   poctivého mena u obce i farára. Píše o tom otec Jano Brcko takto:   „... upadnúce do škody v dobytku rožnom, nevedíce a nemohúce sobe   jinej porady dat k dalšímu mého hospodárství zadržaní, pristúpil sem   pred jejich milost pána velebného našeho farára a vypýtal som si z   kostolných peňazí pätnásť zlatých. Poneváč ale pán farár bez   poručníkov nechceli mi dat, tak tehda postavujem sobe dvuch, rectora   dubovskího a ryehtára nemečianskeho ..To sa stalo 9. februára   1759.
+   </tei:p>
+   <tei:p>
+    S rodinou Brckov šiel rechtor dubovský i ďalej, ale iste toho   kroku oželel neraz ... Syn Janov, „... Georgius Brcko nemohúce sobe   nikde veritela dostat, který by mu požičal na tovar niektorý zlatý,   tak tehda vzhlednúce na jeho úzkost, rektor dubovský, Joannes   Kubančík, požičal mu zlatých nemeckých dvacat...“
+   </tei:p>
+   <tei:p>
+    Duro Brcko „putovaní svého úžitek činil“, to jest bol „čipkárom“.   Teraz sa to nazýva „podomové kupectvo“, z čoho Dubová, Zámostie,   Nemecká a okolné obce čiastočne živia sa ešte i dnes. Vtedy z každého   domu boli chlapi temer celý rok vo svete na kupectve a vracali sa   domov iba na kosbu a žatvu, odrábať panštinu, ako i odbavovat svadby   a krstenia.
+   </tei:p>
+   <tei:p>
+    128
+   </tei:p>
+   <tei:p>
+    ﻿Z požičaných peňazí dal Brcko niektorý zlatý „domášnemu   hospodárství“, t. j. strovilo sa v dome, taktiež i porcie na niekoľko   rokov dlžné vyplatil, za zvyšné kúpil tovaru a že pôjde s ním do   sveta. Ale človek mieni a Pán Boh mení, hovorili Slováci už i vtedy,   a na Brckovi sa to navlas splnilo. Nešiel do sveta, ale do postele.   Ochorel, obľahol.
+   </tei:p>
+   <tei:p>
+    Smutných tešiť, nemocných navštevovať bolo ctnosťou i starého   rechtora, a preto navštívil Brčku a potešil ho, že „do nemoci   padnúce“ mu to, dá Boh všemohúci, ešte vyslúži. Ale keďže sme ľudia   predsa len smrteľní, on dôverne ešte i „ako veriteľ sa ohlásil, kde   sú jeho peníze? a kde je interes z osohu, který z nich za niekoľko   rokov bral, to jest užitek činil?“
+   </tei:p>
+   <tei:p>
+    Nemocný Brcko myslel tiež, že z choroby vyjde, neprichodilo sa mu   už priznávať, že strovilo sa z peňazí v domácnosti i že dlžné porcie   poplatil, a tak veriteľovi odpovedal podľa zápisu:
+   </tei:p>
+   <tei:p>
+    ,,Za tie isté peníze je tovar nakúpený,“ múdry a učený pán rechtor   náš milý!
+   </tei:p>
+   <tei:p>
+    „Jestli si poležíte, tovar vezme skazu, preto múdre bude, keď   miesto peňazí vezmem si tovar,“ mienil rechtor.
+   </tei:p>
+   <tei:p>
+    Peňazí Brcko nemal, teda rechtor prinútený bol vziať tovar. Ale že   bol múdry, učený a opatrný, na prevzatie tovaru zavolal brata   Burovho, Jozefa, s ktorým žili v spoločnom nerozdelenom ešte dome   otcovskom, ale čipkáril už každý na svoju ruku. Rechtor ponúkol, aby   brat Jozef tovar odkúpil. Jozef, dobrý brat, chcel zakryť chorého   brata Ďura a tovar od rechtora vzal. „2e pak do toho tovaru se   nenašlo víc než za 13 zlatých, rechtorovi peníze složil, to jest   trinásť zlatých.“
+   </tei:p>
+   <tei:p>
+    Sedem bolo v pekle.
+   </tei:p>
+   <tei:p>
+    Rechtor sa hneval sám na seba, že sa ulakomil na šesťpercentový   interes, a teraz čertvie, kedy dostane i len
+   </tei:p>
+   <tei:p>
+    9 Žliebky.
+   </tei:p>
+   <tei:p>
+    129
+   </tei:p>
+   <tei:p>
+    ﻿kapitál, sedem zlatých bol vtedy veľký peniaz, za ktorý r. 1770   dali jalovičku.
+   </tei:p>
+   <tei:p>
+    Starý rechtor nie pre pletku súril teda Ďura Brčku i brata Jozefa,   pripomínajúc im, že ešte ani z poručníctva za ich otca Jana nie je z   farských kníh a obligátorov vytretý, lebo že nebohý ich otec bol   zaplatil iba desať zlatých na pätnásť dlžoby a tri zlaté interesu   pripísať tiež farár nezameškal. Synovia uznávali a Jozef nástojil na   deľbe domu a ostredkov otcovských, aby si Duro dlžobu zaplatil, veď z   choroby je už dávno von, ďakovať Pánu Bohu. Lenže Duro sa už viac   nezmohol na groši. Preto starý rechtor stále sa chodil k staršiemu   žalovať, že brat Duro neplatí. Keď toho upomínanie pre bratovu dlžobu   asi domrzelo, napísal 2. júla 1769 rechtorovi: „Pcneváč muoj brat   Georg Brcko v dedictví otcovskom dokonalý gazda zostal, techda on   povinovatý je tých sedem zlatých platiť ...“
+   </tei:p>
+   <tei:p>
+    Potechy z toho písemka starý rechtor mal málo, lebo Duro Brcko ani   z čipkárstva, ani z gazdovstva dlžobu zaplatiť nevládal ešte ani za   desať rokov. Iba čo Brcková zaniesla do školy nejakú tú húsku na   interes a odkladala s jarmoku na jarmok, s jari na jeseň. Hus! Čože   to bolo, keď vtedy stály dve husi iba sedem groši!
+   </tei:p>
+   <tei:p>
+    „Mladý môže, starý musí,“ pocítil rechtor Kubančík blízkosť smrti,   a — Brcko neplatí.
+   </tei:p>
+   <tei:p>
+    Rechtor Kubančík nemohol smrť, ako Brcko dlh, odkladať; aby však   nestratil desať zlatých, totižto tri, čo poručníkoval starému Brckovi   a ešte sedem z požičaných synovi Duroví, vzal ich do testamentu a   poručil z nich šesť zl. kostolu a štyri zl. na sväté omše za spásu   svojej duše a dňa 25. februára r. 1778 po tridsaťročnom rechtorovaní   umrel, ustanoviac exekútorom svojho testamentu Martina Hinku, ktorý   mal desať zl. od Brčku zinkasovať, ak by však Hinko tiež umrel, má   ich ako dobrý pastier a opatrovník kostolných peňazí vymáhať   farár.
+   </tei:p>
+   <tei:p>
+    130
+   </tei:p>
+   <tei:p>
+    ﻿Farár Brčku predvolával, ale ten sa vyhováral a konečne 30.   októbra 1779 na faru predvolaný, k istej dlžobe sa priznal síce,   poprel však pravdu testamentu Kubančíkovho a uznal dlžoby len tri   zlaté.
+   </tei:p>
+   <tei:p>
+    Ale pochybujem, že by bol dal i tie. Zápisu o nich niet ani v   počtoch kostolných peňazí, ani vo farských príjmoch.
+   </tei:p>
+   <tei:p>
+    Testament rechtora Jána Kubančíka uložený bol vo fare; ale synovia   jeho, vojaci, Ignác a Imrich, testament otcov, bohvie prečo, ľsťou,   tak stojí v Histórii domus, od farára vydriapali a nikdy viac   nevrátili. Tak prepadlo i poručenstvo.
+   </tei:p>
+   <tei:p>
+    Statočne sa zachoval Jozef Brcko, ktorý dlh otcov, päť zlatých,   spravený ešte, ako sme čítali, 9. februára 1759 a dosiaľ nezaplatený,   r. 1784 uznal, ba i za brata Ďura dlžné tri zlaté, teda spolu osem   zlatých na seba prevzal a zaplatiť sa zaviazal.
+   </tei:p>
+   <tei:p>
+    Nuž tak, hľa, pomýlil sa zo starých rechtorov jeden požičať tvrdo   naskladané krajciare.
+   </tei:p>
+   <tei:p>
+    Poučení, dnešní rechtori už viac nepožičiavajú
+   </tei:p>
+   <tei:p>
+    My dobrému rechtorovi Kubančíkovi odpúšťame i hlúposť, že keď   „Georgius Brcko nemohúce sobe nikde veritela dostať, který by mu   požičal, tehda vzhlednuce na jeho úzkosť“, naletel mu práve múdry a   učený rechtor. Akiste mal viac citu v srdci ako rozumu v hlave. Tak   pochodil na svete. Teraz je ešte otázka, čo pri smrti? Ako mu   zapísali v bráne nebeskej také pochybné poručenstvo? Ja verím, že za   to „vzhliadnutie“ na úzkosť biedneho Brčku je spasený i keď kostol a   farár neprišli k poručenstvu.
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    9*
+   </tei:p>
+   <tei:p>
+    131
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

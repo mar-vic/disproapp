@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949483" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Žliebky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1311
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      Žliebky
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    <tei:hi>
+     Žliebky
+    </tei:hi>
+   </tei:p>
+   <tei:p>
+    Keď mi bolo jedenásť rokov, polámal nám sneh žliebky pod   strechou.
+   </tei:p>
+   <tei:p>
+    Sneh boli sme — ako opatrní gazdovia — poschraňovali, ale napadal   v noci.
+   </tei:p>
+   <tei:p>
+    Stalo sa.
+   </tei:p>
+   <tei:p>
+    Starý otec síce hneď v noci, ako žliebky druzgly, volal na   mňa:
+   </tei:p>
+   <tei:p>
+    „Synku, polámal sneh žliebky; aby nám nie strechu ...“
+   </tei:p>
+   <tei:p>
+    „Azda len nie do rána. A boly už zhnité
+   </tei:p>
+   <tei:p>
+    A vtiahol som sa hlbšie pod perinu od strachu, že starý otec   navrhne, aby sme sa obliekli a hneď šli sneh poschraňovať. Zaspal som   od strachu ako snop.
+   </tei:p>
+   <tei:p>
+    „Nedaj mi zabudnúť: keď okopnie a pôjdeme na lúku, podtneme v   obecnom a na leto svlečieme,“ pripomínal mi starý otec, keď sme ráno   sneh ohreblom schraňovali.
+   </tei:p>
+   <tei:p>
+    Okopnelo a chodili sme na lúku ramať. Starý otec nosil so sebou   obyčajne sekerku a ja hrdú valaštičku.
+   </tei:p>
+   <tei:p>
+    Obecnému hájnemu to deň po deň oči klalo a nechcel ani takého   cteného občana, ako bol môj starý otec — ktorému ešte i pán farár   vraveli „vy Števko,“ a nie „ty Štefan“ — cez horu na lúku pustiť. Iba   vraj s motykou.
+   </tei:p>
+   <tei:p>
+    Starý otec sa síce dosť a dosť s ním nahádal, že „len
+   </tei:p>
+   <tei:p>
+    7
+   </tei:p>
+   <tei:p>
+    ﻿podopierať“ sa bude na sekerku, ale hájnik, čo sa ako silil,   predsa mu to uznať nemohol:
+   </tei:p>
+   <tei:p>
+    „Že by vám sekera v hore pokoj dala, a keď je len toť   poostrená...“
+   </tei:p>
+   <tei:p>
+    Ako by nám bol v mysli čítal a bolo sa nám alebo vrátiť, alebo   horu obísť.
+   </tei:p>
+   <tei:p>
+    „Keď nie, nuž nie. Obídeme ..
+   </tei:p>
+   <tei:p>
+    „Ale naším syrom si halušky posýpať nebudeš,“ zastrájal sa mu   starý otec hneď na jar, ako sme počali viac na lúky chodiť, nie teda   horou, ale poľom. „A čo budeš na nej sedieť, ešte ti ju podtnem! A ja   žliebky musím mať. I rebríky sú už nanič. Aj — aj —,“ a uhľadeli sme   si chvíľu, vybrali šesť-osem štíhlych, tenkých jedlíc a majstrovsky   podťali.
+   </tei:p>
+   <tei:p>
+    Ja som tak podtínať, priznám sa, nevedel; lebo to boly len tri   seky do jednej, pri samej zemi, a i to sa ešte prihrabalo, a už   musela byť odťatá a bez ívera. Na to treba istej ruky. Jedlica   zostala jednako na vlastnom pni až do jesene — kým neuschla.
+   </tei:p>
+   <tei:p>
+    Cez leto, pravda, nám ich polovičku pobrali cudzí, ale keď sme   našli, vzali sme zas i my. Tak „podtínať“ vie u nás celá obec!
+   </tei:p>
+   <tei:p>
+    „Synku, dnes sa vyberieme na dva dni. A ty, mati, ak do polnoci   nedôjdeme, nečakaj nás iba zajtra večer. Donesieme hádam tie   žliebky... Svrbí ma ľavé oko a od samej polnoci štiepalo ma v pravej   nohe —- bude akiste pršať,“ doložil starý otec.
+   </tei:p>
+   <tei:p>
+    A stará mať nachystala nám do kapsy: slaninky, chleba, cesnaku,   deci-dva špiritusu, starému otcovi tabaku za tri krajciare, mne za   tri cigaretle, lebo mne z fajky ešte nechutilo. My zatiaľ obliekli   sme najhoršie nohavice, širice, šunkovou masťou natreli dobre krpce,   aby sa ich tak voda nechytila, a šli sme, po vôli hájnikovi, poľom na   lúku. Ba
+   </tei:p>
+   <tei:p>
+    8
+   </tei:p>
+   <tei:p>
+    ﻿ja som sa ešte zpoza dediny musel vrátiť po druhý paklík zápaliek,   lebo starý otec nevedel zapáliť jednu, ba i po dve sa mu lomily pod   ťažkou rukou, a tak málil sa mu paklík.
+   </tei:p>
+   <tei:p>
+    Napoludnie už bolo celé nebo zatiahnuté a podvečer počalo pršať.   Vidíte, starého otcov kalendár — ľavé oko a pravá noha —   nesklamal.
+   </tei:p>
+   <tei:p>
+    Keď sa sotmelo, spustili sme sa do hory hľadať podťaté jedlice.   Kde bola ktorá, ja som nevedel, ale starý otec mal na to veľmi dobrú   pamäť. Len pozrel po nej, a už sa domyslel, že sme „túto“ alebo my,   alebo druhí podťali.
+   </tei:p>
+   <tei:p>
+    Čosi-kamsi bola jedlica na zemi, obťatá či vlastne len tak ako   najjemnejším dlátkom tíško obkliesnená, pníček prihrabaný lístím,   halúzky odnesené na dvadsať-tridsať krokov — aby sa hájnik zmiatol —   a: „Pane Bože, ešte jednu tak šťastlivo,“ naddvihol si starý otec   klobúk, a čochvíľa už boly dve na pleciach: za hrubší koniec on, za   tenší ja.
+   </tei:p>
+   <tei:p>
+    „A prečo ste nevy vliekli? Ale vynášať!“
+   </tei:p>
+   <tei:p>
+    Nerob sa, milý čitateľu, múdrejším, ako si. Poznať, že si ty   žliebkov ešte nekradol. Lebo vtedy aby človek vedel lietať, nie že by   vliekol a svláčil horu i chodník a hájnika ako za motúzom doviedol si   do dvora. Ci ty vieš, že ak je veľmi mäkko, že sa v taký čas ešte len   i krpce pyskami na päty obúvajú ?...
+   </tei:p>
+   <tei:p>
+    Už ako ja vravím, tak bolo. A tak bolo dobre, lebo starý otec už   nepredarmo bol „starý“ a naučil sa týmto veciam od svojho dobrého   nebožkého otca, ktorý ho priúčal tak kradnúť, ako zas on mňa a ja   teba... Lebo, viete, u nás je to nie nijaký hriech v hore kradnúť,   lebo hora je vraj božia, rastie sama a v nej drevo, ako v potoku voda   ... pi!
+   </tei:p>
+   <tei:p>
+    Kým sme vyšli z hory, ešte bolo suchej nitky na nás, pod holým   nebom nám ešte i do kapsy natieklo. Stará mať si vše myslela, že sa   nám pálené rozlialo, čomu sme ža-
+   </tei:p>
+   <tei:p>
+    9
+   </tei:p>
+   <tei:p>
+    ﻿lostne prisvedčili (aspoň kým nepostavila na stôl skleničku), a   druhý raz radšej nám dala vše o slzu viac, aby bolo i na rozliatie, i   na vypitie.
+   </tei:p>
+   <tei:p>
+    Poľom bola hlinačka a k tomu dolu vŕškom. A tu — už viete, čo sa   stalo starému otcovi.
+   </tei:p>
+   <tei:p>
+    „Upiekol koláč — padol na..
+   </tei:p>
+   <tei:p>
+    „Prepytujem, krajším navrch,“ máte povedať.
+   </tei:p>
+   <tei:p>
+    Ale ste neuhádli. Lebo krpce sa mu šmýkaly ako na ľade, a ja, idúc   za ním, ešte som ho potískal (hľa, štvrté božie prikázanie!), a mal z   toho smiech, keď ho nieslo, nieslo i na siahu — až ho raz, chudáka,   hodilo rovno na ústa a žliebky ho ešte pritlačily.
+   </tei:p>
+   <tei:p>
+    Položil som druhý koniec žliebkov, urobil sa „svätým“ a bežal ho   dvíhať.
+   </tei:p>
+   <tei:p>
+    „Hrmen bohov... Hneď mi slzy vyskočily. Len mi pozri, synku, či   mám ešte nos.“
+   </tei:p>
+   <tei:p>
+    Teraz ma už premrazilo, zbojníka, keď starého otca krv   zaliala.
+   </tei:p>
+   <tei:p>
+    Ale zamočil som do mláčky ručník, oslobodil tvár od hliny a   starému otcovi ukázalo sa ešte čosi na tvári, podobné nosu. I sám si   to pomackal.
+   </tei:p>
+   <tei:p>
+    „No, keď je len tu! Ja, že je už celý rozmliaždený. Ber, že sme   skorej doma. Tam stiha na apatieku ...“
+   </tei:p>
+   <tei:p>
+    Hoci som sa neradoval starého otcovej bolesti, ale keď som si   pomyslel, ako letel, letel — vychytil ma smiech a celou cestou som sa   chichotal, až mi slzy tiekly — ako starému otcovi.
+   </tei:p>
+   <tei:p>
+    Horšie sa nám nič nestalo.
+   </tei:p>
+   <tei:p>
+    Hájnik nás nevidel, lebo pršalo a bola tma, že keby mi bol dal   niekto zaucho, ani by nebol videl, komu sa poďakovať. A bol by som   zaslúžil.
+   </tei:p>
+   <tei:p>
+    Za domom shodili sme žliebky a vošli do izby. Už bolo rozsvietené.   Čakali nás. Starý otec cítil, že mu navrel nos
+   </tei:p>
+   <tei:p>
+    10
+   </tei:p>
+   <tei:p>
+    ﻿ako trúba, a preto si hneď pýtal okuliare a zrkadlo, a hybaj k   lampe. Nos ako hodný zemiak — lenže z mäsa. Stará mať, slúžka a deti   sa ľakly, a klnúc na žliebky, stará mať, aby nos odmäkol, namastila   mu ho starým svinským sadlom, žltučkým ako vosk, potom namočila   uterák a so slovami: „A už ty máš za ňufák!“ obviazala nos, okrútila   uterák okolo hlavy a malé naše deti malý z „boba“ dosť strachu i   smiechu, najmä keď si starý otec našiel popod šatku dierku a vopchal   do zubov fajočku.
+   </tei:p>
+   <tei:p>
+    Cudzím sa povedalo, že sa starý otec opil a padol.. Čert vie, ale   celá dedina uverila!
+   </tei:p>
+   <tei:p>
+    Na tretí deň však už znova zasvrbelo starého otca ľavé oko ... a   večer doniesli sme také dve jedlice — na štyriadvadsať šteblíkov.
+   </tei:p>
+   <tei:p>
+    Že sme kradli, to nás netrápilo, len sme sa hájnika báli.
+   </tei:p>
+   <tei:p>
+    „O žliebkoch že ticho, aby nezvedel!“
+   </tei:p>
+   <tei:p>
+    A keď sa všetko spravilo, utíšilo sa, čušalo i svedomie, ako diera   pod záplatou ...
+   </tei:p>
+   <tei:p>
+    Ja ešte i dnes želiem, že už nikdy viac nepôjdem so svojím starým   otcom žliebky podtínať. Už by ho, na moj’ pravdu, nepostrčil!
+   </tei:p>
+   <tei:p>
+    A on? Chudák!
+   </tei:p>
+   <tei:p>
+    Vtedy, aby si zachránil chyžku, dal sa i na také veci a dnes mu   tečie iste už i za väzy, a nemôže sa ani hnúť ... Ba ani si len   pomyslieť, že hájnikovi syra nedá!
+   </tei:p>
+   <tei:p>
+    Ale na jeseň mu ho len jednako dal. Sám som mu ho nosil.
+   </tei:p>
+   <tei:p>
+    Škoda života i mladosti!..
+   </tei:p>
+   <tei:p>
+    {Do konca a iné rozprávky, n. vyd., 1928.)
+   </tei:p>
+   <tei:p>
+    11
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949626" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     V nefajčiarskom : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     966
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      V nefajčiarskom
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     V „nefajčiarskom“
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Napoludnie v pondelok, po trhu, v Bystrici, sotva stačil dobehnúť   strýčik z Hiadla na hlavnú staniéu. Na pleci s hombáľajúcim košom na   valaške predieral sa národom, čo sa tisol od kasy, i priamo z ulice   na perón.
+   </tei:p>
+   <tei:p>
+    „Pusťte ma, bysťu! Ja mám retúrku!“
+   </tei:p>
+   <tei:p>
+    Mašina už odfukovala, len sa hnúť.
+   </tei:p>
+   <tei:p>
+    Strýčik nosil Židovi oštiepky. Keď predal, vošiel si zajesť   studená; od údenára šiel do krčmy omáčať jazyk do deci slivovičky, a   spoliehajúc sa na „retúrku“, zapálil si do zapekačky a sa zahovoril.   Iba keď v krčme sveta zredlo, zbadal sa a musel bežať ulicou,   páckajúc z fajky, ani tá mašina, čo sa, hľa, obzerá naň, či už   vysadol. Rád, že dobehol, vovalil sa s ostatným svetom do   najbližšieho vozňa, a to do oddelenia nefajčiarov. Kôš vopchal pod   seba, valašku medzi kolená, na ostrie obe ruky a bradu na ne. — Fú,   fú — duje strýčko dym svetu do tvárí.
+   </tei:p>
+   <tei:p>
+    „Strýčko, tu sa nefajčí. — Chytia vás. — Bude vás to stáť päť   korún.“ Poučujú ho najbližší.
+   </tei:p>
+   <tei:p>
+    „Len sis’ sedím ... Panské nosy! Teraz vari skočím hľadať druhý   vagón, aby som ostal na ľade.“
+   </tei:p>
+   <tei:p>
+    „To nemusíte; ale vám poradím: fajku vopchajte dovrecka.“
+   </tei:p>
+   <tei:p>
+    89
+   </tei:p>
+   <tei:p>
+    ﻿„Ba! — Aby sa mi bok chytil... Veď ešte nejde,“ myslí na   sprievodcu vlaku a pätí sa rozpálený strýčik, vyfúkne kúdeľ dymu a   srkne si pod nohy riedku slinu, utrúc však hneď dlaňou ústa a krpcom   dlážku.
+   </tei:p>
+   <tei:p>
+    Vlak sa hnul a vtom už sprievodčí i otvára dvere, vidí dym i   strýca s fajkou. Zastane pred ním, spustiac obe ruky na mašinku,   ktorou preštíka kartičky.
+   </tei:p>
+   <tei:p>
+    „Vite vy čítať?“ ukazuje na tabuľku, zavesenú na okne. Spytuje sa   slovensky, ale po reči poznať, že je Čech.
+   </tei:p>
+   <tei:p>
+    „A čo by nevedel!? Aj písať viem!“
+   </tei:p>
+   <tei:p>
+    „Aj počítať?“
+   </tei:p>
+   <tei:p>
+    „?“ hľadí strýčko.
+   </tei:p>
+   <tei:p>
+    „Či aj rátať?“ pomáhajú mu porozumieť otázku.
+   </tei:p>
+   <tei:p>
+    Neisto prikyvuje, vytiahne čútorku z úst a mykajúc jedným, druhým   plecom, odvracia hlavu a díva sa preč, ako by mu bolo už dosť   rečí.
+   </tei:p>
+   <tei:p>
+    „Tak narátajte päť korún a odložte fajku,“ rozkazuje   sprievodčí.
+   </tei:p>
+   <tei:p>
+    „Ale ja, bysťubohu, nie!“
+   </tei:p>
+   <tei:p>
+    „Tak vás v.Šalkovej vyložím.“
+   </tei:p>
+   <tei:p>
+    „To už radšej v Ľupči. Zo Šalkovej ešte ďaleko k nám,“ berie   strýčik žartom.
+   </tei:p>
+   <tei:p>
+    „Tak skryte fajku!“
+   </tei:p>
+   <tei:p>
+    „A už keď päť korún zaplatiť, aj ma vyložiť — tak do Lučatína   neskryjem. Nie ja! Bysťubohu, nie! A čo všetci Česi prídu. Za pol   oštiepka mi moja chuť a tá komejdija bude stáť. Ale si vezmite aspoň   dvoch, čo ma budú vykladať, lebo ak sa mi nohy sprieča...“ drží   strýčka slivovička na koni.
+   </tei:p>
+   <tei:p>
+    Svet sa smeje a zasmeje sa „siláctvu“ starého strýčka i sprievodčí   a ide ďalej, doložiac:
+   </tei:p>
+   <tei:p>
+    „To ste statný Slovák! Takí by ste boli mali byť všetci niekedy   proti Maďarom, a teraz húkať si na niekoho iného, nie na mňa,   služobníka štátu a poriadku.“
+   </tei:p>
+   <tei:p>
+    90
+   </tei:p>
+   <tei:p>
+    ﻿„Na Židov, pane, na Židov,“ ľúbi sa strýčkovi reč sprievodčieho,   „lebo tí nám dávajú, čo chcú, za naše mozole ...“
+   </tei:p>
+   <tei:p>
+    Mnohí prisvedčia a železnica pomaly hrkoce s nimi hore Hronom.
+   </tei:p>
+   <tei:p>
+    „Mali ste povedať, že neviete čítať,“ poučuje nejaký chytrý človek   strýčka, ktorý dymiacu fajku už bol vložil do opaska. Rozľahlo sa mu   v hlave, že päť korún a dve-tri hodiny kráčať a keď má zaplatené   predsa len vari nestojí za fajku dymu, a i tá poznámka sprievodčieho   zavŕtala mu do hlavy.
+   </tei:p>
+   <tei:p>
+    „Klamať. Akože sa to svedčí na starého človeka? Nemal som sem   liezť, pane. Ale keď mi bolo náhlo,“ vyhovára sa strýčik.
+   </tei:p>
+   <tei:p>
+    Blíži sa stanička. Pozná po horách i že kolesá stišujú. „Šalková!“   volá sprievodčí. ,Čo bude so mnou?“ dumá strýčik a kosom hľadí na
+   </tei:p>
+   <tei:p>
+    dvere.
+   </tei:p>
+   <tei:p>
+    Nič. Nikto ho nejde sťahovať. Železnica hne sa ďalej. ,Hádam v   Ľupči...‘ myslí si a obracia sa k tomu, čo mu radil klamať, že nevie   čítať.
+   </tei:p>
+   <tei:p>
+    „Kým bolo napísané „nekuráci“, mohol si sa vyštekať, že   nerozumieš, ale huncúti Česi prešli nám močkárom cez rozum. Napísali   „nefajčiari“, — tak akože povieš, že nevieš slovensky, keď si   Slovák... a musel si rozumieť, keď nebolo ani tak, ani tak, ale „ňem   doháni“ (maďarsky). Zákaz je zákaz. A keď prestúpiš, to je ako keď   ovca alebo krava vojde do zahájeného. A ty si nie ovca, ale človek,   teda dbaj zákazu. A keď nie, daj sa poučiť za päť korún, ako ja,   sprostá hlava. Ale nie, už nebudem piť. Sto ráz som sa už zapovedal,   že iba doma, v ceste nikdy nie, a zase som sa nezdržal,“ žmolí   strýčko opasok, kde cíti korunky, utŕžené za oštiepky, za ktoré   slúži.
+   </tei:p>
+   <tei:p>
+    Vojde sprievodčí a vidí, že strýčik už nefajčí.
+   </tei:p>
+   <tei:p>
+    „Tak už nefajčíte, strýčko?“ spytuje sa žartom.
+   </tei:p>
+   <tei:p>
+    91
+   </tei:p>
+   <tei:p>
+    ﻿Strýčik pozrie úkosom naň a vytiahne päťkoruník.
+   </tei:p>
+   <tei:p>
+    „Tak tu máte hájovné. Ale ma neskladajte, iba v Lučatíne. Mohlo by   ma to v Ľupči stáť viac, ak by som sa musel zastaviť, aby nohy   posilniť... A práve teraz sa zariekam piť.“
+   </tei:p>
+   <tei:p>
+    „Tak si zapáľte,“ a sprievodčí sníma tabuľku s okna (aby ju azda   prevesil do oddelenia, kde náhodou napchaly sa samé ženy), a neberie   peniaz.
+   </tei:p>
+   <tei:p>
+    „Nie ja! A päť korún si berte,“ podáva, ba tisne mu ju do   ruky.
+   </tei:p>
+   <tei:p>
+    „Pobafčite si, keď vám chutná, a päť korún nechajte deťom na   knižky.“
+   </tei:p>
+   <tei:p>
+    „Ja už detí (rozumie drobných) nemám, iba vnukov,“ hodí plecom a   pchá ako ohrdený peniaz do opaska. Keď sprievodčí popreštíka dve-tri   kartičky, ide skutočne ďalej, ako by sa nič nebolo stalo. Svet sa   čuduje. Je ticho, šepce. Až strýčko preruší hlasne:
+   </tei:p>
+   <tei:p>
+    „Predsa sú len tí Česi poriadni ľudia,“ a hlása strýčko až po   Hiadeľ dobré meno Cechov a snáša príklady zo svojho valaského a   kupeckého života: kedy si vypili četníci Česi kyslej na salaši, kedy   hľadali a nič nenašli; čo, kedy a ako Čechovi v Bystrici predal, a to   nielen maslo, oštiepky, ale i barance, ovce, ba i sviňu, a statočne   mu zaplatili...
+   </tei:p>
+   <tei:p>
+    V Lučatíne ešte šiel podať sprievodčiemu ruku a že sa mu pekne   poďakúva, a sľúbil mu, že keby ho tak raz viezol dolu do Bystrice,   dal by mu oštiepok, keby ho poznal...
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

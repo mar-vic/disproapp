@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949804" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Prehriali : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1430
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Prehriali
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Prehriali
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Pán Jozef Palička, mešťan a kanonier, Banská Bystrica. Drahí   rodičia! Na Štedrý večer prídem na štyri dni do-
+   </tei:p>
+   <tei:p>
+    mov. Dostal som dovolenku. Chvála Bohu! V Lučenci, 23. decembra   1924. Verný syn
+   </tei:p>
+   <tei:p>
+    Adam Palička, delostrelec
+   </tei:p>
+   <tei:p>
+    Adam, októbrový regrút, bol tri-štyri razy písal, že dovolenky   nedostane, lebo mu jazdenie na koni ťažko ide, a pán rotmíster sa   osvedčil, že takému delostrelcovi dovolenú nedá. Preto Adam vrúcne   doložil tú „Bohu chválu“.
+   </tei:p>
+   <tei:p>
+    „Z kanonierskeho je rodu, a nevie sa na koni nosiť!“ búchal otec   Jozef päsťou a nemohol pochopiť. „Mám šesťdesiat rokov, a ešte by som   rád vidieť toho koňa, na ktorom by som neobsedel, keď dva deci vina   prežriem.“
+   </tei:p>
+   <tei:p>
+    „Veď už ty, pýcha kanonierska! Chlapec je slabý, tichý. Ale si   vymýšľal: za kanoniera ho, keď mohol byť v kancelárii,“ žialila mať,   že Adam môže ešte i s koňa spadnúť, keď je slabý a tichý...
+   </tei:p>
+   <tei:p>
+    „To nie je vojak, kto sedí v kancelárii. Kanonier! Pozri si ma,   mama, na obšite,“ ukázal otec na stenu, „že sa ti
+   </tei:p>
+   <tei:p>
+    105
+   </tei:p>
+   <tei:p>
+    ﻿ešte i teraz páčim?! A preto i žiadam, aby mi môj syn písal   ,mešťan a kanonier Do smrti!“
+   </tei:p>
+   <tei:p>
+    „Ale sa ti, tata, smejú, aj ujček, aj strýc, aj ...“
+   </tei:p>
+   <tei:p>
+    „Smejú sa, aby zakryli svoju hanbu, že boli iba honvédi,“ odrazil   starý Palička poznámku osemnásťročnej dcérky Zlatice.
+   </tei:p>
+   <tei:p>
+    Keď Zlatica kartu na chvat prečítala, mama pustila sa do   radostného plaču a otec vybehol za listonošom podať mu cigaru a   sľúbiť pohár vína.
+   </tei:p>
+   <tei:p>
+    V kuchyni nastal nový shon, mama so Zlaticou sa objímaly, že večer   príde milý Adam; slúžku Anku rozháňaly po meste, lebo Zlatica   vytiahla hneď receptnú knižku sladkostí, aby bratovi ešte nejakých   novotných cukroviniek namiesila.
+   </tei:p>
+   <tei:p>
+    Tata vkĺzol do kuchyne, do komory a v tichej radosti snímal ešte   jednu klobásku do kapustnice. Keď to mama videla, rozcítila sa znova   do sĺz a povedala s radostným plačom:
+   </tei:p>
+   <tei:p>
+    „Tata náš, koľkože je hodín? Choď ty tomu chlapcovi naproti.“
+   </tei:p>
+   <tei:p>
+    „Na stanicu?“
+   </tei:p>
+   <tei:p>
+    „Keby si až do Zvolena, tata drahý...“
+   </tei:p>
+   <tei:p>
+    „Tata, práve na večeru dôjdete; my vám prídeme na stanicu v   ústrety.“
+   </tei:p>
+   <tei:p>
+    „Aj Anka aby prišla po kufrík,“ rozkazoval tata, uchytil zimník,   palicu a bežal.
+   </tei:p>
+   <tei:p>
+    Na rínku pozrel na hodiny. Pol štvrtej. O pol piatej vo Zvolene, o   pol šiestej nazad v Bystrici. Najlepšie! Ešte budem stačiť vziať u   Petráňov vína. Koľkože? dumal, keď hnal rínkom k svätému Janu   (Nepomuckému), ako on, nábožný človek, nazýval dôsledne „malú   stanicu“, ležiacu poblíž kaplnky.
+   </tei:p>
+   <tei:p>
+    106
+   </tei:p>
+   <tei:p>
+    ﻿Ulicou bol by ho chcel zastaviť i ten i onen, ale tata Palička   fúkol na každého iba kúdeľ dymu z cigary, hodil napravo-naľavo rukou   a s radostným krikom opakoval: „Nezdržujte ma! Idem do Zvolena!   Svojmu kanonierovi oproti. Príde! O pol šiestej prídeme spolu   ...“
+   </tei:p>
+   <tei:p>
+    Starý kanonier sa vezie do Zvolena a takto premýšľa: „Aby ja teba,   synku, na veľkej stanici neprepásol, lebo tam bude tma, stisk, shon   na všetky strany, dočkám ťa ja na malej mestskej stanici. Prisadnem a   o pol šiestej sme doma, len čo toho vínka vezmem. A že je chladno,   mama ho musí uvariť a tak si štrngneme s naším, s naším   delostreleckým kanonierom,“ nepúšťal tata Palička starý názov a tak   chytal i nový, československý. „Delostrelecký kanonier,“ šepkal si,   sám sebe sa usmieval, rozkladajúc známym-neznámym, že takého má syna   a beží mu oproti do Zvolena — mesta, zakrúcajúc si biele fúzy na   plnej, červenej vyholenej tvári, necítiac nijako šesťdesiat   rokov.
+   </tei:p>
+   <tei:p>
+    „Adam! Palička! Adam! Československý kanonier Palička!   Delostrelecký kanonier Palička!“ vykrikoval starý kanonier na dva-tri   vagóny.
+   </tei:p>
+   <tei:p>
+    Ale tam bol stisk ani na radvanskom jarmoku, krik ešte väčší, tma,   ľudia skákali a vyskakovali po pamäti a vlak sa hnul, tata Palička   zostal, lebo sa mu syn Adam neozval. Možno, v poslednej chvíli ho   zadržali, že hádam na tom koni neobsedel... Zašiel ho žiaľ a nahneval   sa na všetkých Čechov.
+   </tei:p>
+   <tei:p>
+    „Bohdaj ste ani jeden Štedrého večera nemali, ak ho môj chlapec   mať nebude! ... Ale keď čisto napísal .prídem, už by ho len   nezdržali. Iba ak sa k tomuto vlaku nedostal z Lučenca ..
+   </tei:p>
+   <tei:p>
+    Bolo treba chytro myslieť, chytro konať, lebo sa tmilo,
+   </tei:p>
+   <tei:p>
+    107
+   </tei:p>
+   <tei:p>
+    ﻿večer sa blížil, a kdeže je Bystrica! Zabehne na veľkú stanicu a   tam sa prepýta. Veď i on pozná i jeho znajú. S malej stanice na veľkú   je behom štvrť hodiny. Starý kanonier sa vypotil, lebo i na chodníku   grieždilo sa blato, no a potme beží dobre iba zver, a ešte ho   pristavovať chceli, čo sa mu stalo.
+   </tei:p>
+   <tei:p>
+    „Syna som stratil!“ nedomyslel ani sám, akú strašnú vec hovorí,   ale v srdci skutočne cítil, ako keby mu bol aspoň ranený kdesi ďaleko   vo vojne.
+   </tei:p>
+   <tei:p>
+    „Alebo ma už čaká na hlavnej.“
+   </tei:p>
+   <tei:p>
+    Vytrčí oči môj milý Adam!
+   </tei:p>
+   <tei:p>
+    Utierajúc pot s hlavy a rozopnutý na košeľu, behá starý kanonier   po stanici a spytuje sa vojakov, železničiarov, strážnikov,   hostinského a kdekoho, či nevideli delostreleckého kanoniera Adama   Paličku, jeho syna, ktorý mal prísť z Lučenca na dovolenú a   nedošiel.
+   </tei:p>
+   <tei:p>
+    „Keby to otca, toho poznáme,“ zalichotili mu mnohí, „ale pána syna   Adama sme nevideli. Možno, že i šiel, ale v tom návale vojska ktože   by ich všetkých poznal, keď sú ako jeden. Najlepšie bude, keď starý   pán Palička sadne na železnicu a zabehne do Lučenca presvedčiť sa, či   syn skutočne dovolenku dostal a odišiel.“
+   </tei:p>
+   <tei:p>
+    Tak urobí. To bude najmúdrejšie, keď je už vo Zvolene, a Lučenec   nie je na tri svety. Prv však vbehol starý kanonier ešte do   kancelárie a s veľkým rozčúlením vykladal a telegrafoval domov:
+   </tei:p>
+   <tei:p>
+    „Adama som vo Zvolene čakal, ale nedošiel.“
+   </tei:p>
+   <tei:p>
+    Starý pán chytal sa až za srdce, keď stačil ešte na vlak do   Lučenca, premáhajúc sa nádejou, že syna tam nájde, vyprosí si ho od   pána kapitána čo len na tento Štedrý večer a zajtra že mu ho pošle,   aby sa učil nosiť na koni.
+   </tei:p>
+   <tei:p>
+    Na telegram nepomyslel doložiť, že ide do Lučenca.
+   </tei:p>
+   <tei:p>
+    108
+   </tei:p>
+   <tei:p>
+    ﻿Kým v Lučenci chodil po kasárňach, u pána kapitána a zvedel, že   syn Adam dostal skutočne štyri dni dovolenej a že ani v tej jazde nie   je najhorší, ináče že je dobrý, tichý, poslušný chlapec, — chválil ho   pán kapitán, — že starému pánovi i ukonaním i vďačnosťou zalievaly sa   oči, došiel do Zvolena hostinskému na hlavnej stanici tento   telegram:
+   </tei:p>
+   <tei:p>
+    „Adam došiel, nech sa otec hneď vráti.“
+   </tei:p>
+   <tei:p>
+    Letel na nádražie hostinský, pobehal všetky čakalne a nenašiel   nikde priateľa Paličku. Telegrafoval do Bystrice.
+   </tei:p>
+   <tei:p>
+    „Otca už tu niet.“
+   </tei:p>
+   <tei:p>
+    Mama, Zlatica a Adam prečítali telegram a potešili sa, že keď otca   vo Zvolene niet, iste už bude na ceste do Bystrice. Šli behom na   stanicu k sv. Jánu a len Anka, slúžka, mala znova prihrievať   kapustnicu a dbať, aby koláče v rúre neprihorely, lebo keď tata   príde, budú večerať. Veď akože by to bolo, aby oni večerali a tata,   chudák, Pán Boh vie, kde sa o nich trápi. Iba stojačky brali po   kúsku, aby zúrivý hlad zadusili, lebo od rána, ako dobrí katolíci,   nejedli a pripravovali štedrú večeru. Ošomraly i Adamovi preto, že   tatu vo Zvolene nevyzeral, ale utiahnutý čertvie, v ktorom vozni na   veľkú otcovu lásku nepomyslel.
+   </tei:p>
+   <tei:p>
+    Bola už noc, pol desiatej, a tak keď vlak dojachal, roztrhli sa na   troje a kričali ako tata vo Zvolene:
+   </tei:p>
+   <tei:p>
+    „Tata! Palička! Jožko!“
+   </tei:p>
+   <tei:p>
+    A mladý delostrelec, že už bol i doma i sýty, dovolil si   vykrikovať:
+   </tei:p>
+   <tei:p>
+    „Kanonier! Kanonier Palička!“
+   </tei:p>
+   <tei:p>
+    Starého kanoniera nikde nič. Vrátili sa domov a od žiaľu si ľahli.   Ale mama nemohla zaspať od trápenia, „kde je ten starý blázon?“
+   </tei:p>
+   <tei:p>
+    109
+   </tei:p>
+   <tei:p>
+    ﻿„Neprezývaj, mama, lebo ty si poslala tatu. Dobre, že si od   radosti sama nešla. To by si nám bola navarila kasičky ...“
+   </tei:p>
+   <tei:p>
+    „Tata je už, možno, niekde vo Vlkanovej na utiemi,“ vtipkuje   Adam.
+   </tei:p>
+   <tei:p>
+    „Tam ani kostola nieto,“ zakrikuje ho Zlatica.
+   </tei:p>
+   <tei:p>
+    „Ježiško môj milý, čože ma tak trápiš? Veď si ty maličký a ja som   ti celé srdce obetovala,“ nariekala v slzách mama a nespali,   počúvajúc na každý šum na ulici, či im tatu nejaký osobitný vlak   alebo voz nedoviezol. Nie.
+   </tei:p>
+   <tei:p>
+    Starý kanonier bežal v Lučenci na stanicu, ale vlak na Zvolen už   nešiel. Preváľal sa tam v jedálni, pri pohári vínka, s ľuďmi, ktorí,   nemajúc svojej strechy a rodiny, tam smutne sedeli, popíjali,   driemali. Aby im nadelil zo svojej radosti, zaplatil liter vína,   rozdával cigarky a rozprával im svoju príhodu so synkom,   delostreleckým kanonierom, a o jednej po polnoci mohol sa pohnúť do   Zvolena.
+   </tei:p>
+   <tei:p>
+    Vo Zvolene v hostinci ešte bolo otvorené. Priateľ hostinský podal   mu telegram.
+   </tei:p>
+   <tei:p>
+    „Keď je len už doma môj Adam, môj syn dobrý! Ja už dôjdem, keď nie   na utiereň, aspoň na pastiersku (omšu), a skutočne o tretej ráno u   Paličkov pod oknami bolo počuť zachrípnutým hlasom nôtiť starodávnu   československú pieseň:
+   </tei:p>
+   <tei:p>
+    „Čas radosti, veselosti svetu nastal nyni...“
+   </tei:p>
+   <tei:p>
+    Delostrelecký kanonier, syn Adam, vyskočil a ešte vo dverách sa   objali, zbozkávali, na radosť sebe i „malému pacholiatku na zime“,   ktorá drgľovala už i starého kanoniera.
+   </tei:p>
+   <tei:p>
+    Ženy skákaly s postieľ prihrievať štedrú večeru.
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

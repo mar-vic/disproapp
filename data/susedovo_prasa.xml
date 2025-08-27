@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949685" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Susedovo prasa : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4171
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      Susedovo prasa
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Susedovo prasa
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    „Nemaj nič — zle je; maj niečo — i tak je zle.“ Sused
+   </tei:p>
+   <tei:p>
+    Moji susedí, mladí manželia, po Novom roku sa iba sobrali, a z   lásky veru — už sa pohnevali a žena s krpcom na chrbte odišla a od   poludnia do rána pri materi plakala, preklínala prasa i muža a   zariekala sa, že sa k mužovi nikdy viac nevráti. Slovom, taký jej bol   žiaľ, že by sa bola radšej pod tou čiernou zemou videla... Ale poďme   po poriadku.
+   </tei:p>
+   <tei:p>
+    U chudobných dedinských ľudí je to nie ako pri pánoch: manželstvo   je nie — samé medovníky. Chudobný človek musí sa trápiť, čo dá zajtra   do úst, a láska je len ako by hriech, márnenie drahého času. Ani to   už nepristane — dospelým ľuďom také maznácke ihry! Gazdovať,   nadobúdať, odkladať na staré dni, to je najvyšší cieľ mladých   dedinských manželov.
+   </tei:p>
+   <tei:p>
+    Preto môj sused, ináč sluha v panskom dvore na dedine, ešte bol v   tôňach za humnami sneh, už — po panskej robote — zhľadával, snášal   stĺpy, laty, dosky, kresal, zapiľoval, a iba keď ho dobre zoziabalo,   prišiel si vše ruky zohriať: prikladať ich žene k lícu, alebo pchať   ich jej pod pazuchu. Ale ona ho vypáckala, zastrčila k sporáku a   neprijímala nijakých takých nežností, či, ako to u nás vravia,   zakazovala mu „pestvá“ vystrájať.
+   </tei:p>
+   <tei:p>
+    3*
+   </tei:p>
+   <tei:p>
+    35
+   </tei:p>
+   <tei:p>
+    ﻿V kútiku na hofierskom dvorci zarúbil sused štyri stĺpy, dva rožky   na to, a počal obíjať doskami. Už sme videli, čo to bude — chlievik   pre prasa. Chudobní ľudia najradšej začínajú gazdovstvo s prasaťom a   deťmi. Keď bol hotový, zavolal, šli sme i s jeho ženou pozrieť   robotu. Žena počala nachodiť chyby, aby ho „dopálila“; ale dielo sa   skutočne vydarilo, chválil som ja.
+   </tei:p>
+   <tei:p>
+    „A válovček je pribitý,“ upozornil ma sused, „aby si žrádlo   neprevrhlo.“
+   </tei:p>
+   <tei:p>
+    „To je múdro. Chlievik síce mohol byť i menší...“
+   </tei:p>
+   <tei:p>
+    „Veru zmestia sa doň i dve,“ mienil hrdo sused.
+   </tei:p>
+   <tei:p>
+    „Jaj, len by si mal na jedno peňazí,“ starala sa žena. „Druhé ...   iba ak teba budem pritvárať ...“
+   </tei:p>
+   <tei:p>
+    „No, vieš, také reči mi tuto pred mladým pánom nevrav, Ja som nie   nejaký ožran...!“ — zamrzely tie slová suseda.
+   </tei:p>
+   <tei:p>
+    Nie veru! Môj sused je poriadny človek, striezlivý. Raz už síce   vylihoval pol druha dňa na pažiti, ale i to od piva. Ale ani vtedy   nič nezameškal! Boly dva sviatky, vozil súdky na majáles, a keď mu   dali výčapkov, „to by komukoľvek žalúdok pokazilo“. On si ho nekúpil,   vyhováral sa žene, keď mu kázeň čítala a zeliny nechcela variť, že   „dobre ti tak, aby si pamätal, kedy si bol ožratý“, a podala mu   hrnček s vratičom a palinou, čo mu už prv, ako si kázal, navarila.   Horké to bolo ako blen, ale vyrútil do seba (žena mu hneď podala   kúštik cukru), a tuším sa zariekol ešte kedy opiť, lebo ani predtým,   ani potom som ho viac pod „forgom“ nevidel. Uňho je to iba zvláštna   náhoda, keď totiž darmo dajú — nevyčrpne do krpca.
+   </tei:p>
+   <tei:p>
+    O týždeň bol v meste jarmok; žena kúpila prasa. Ale že bolo len   ako rukavica, mohlo by sa ešte v slame zaprtiť, zadusiť, alebo potkan   ublíži, svet uškodí... A tiež treba ešte cez dvercia železný zápor   pretiahnuť a nejakú poriadnu zámku kúpiť. A ešte je i chladno, najmä   v noci...
+   </tei:p>
+   <tei:p>
+    36
+   </tei:p>
+   <tei:p>
+    ﻿„Nič by nám neporástlo,“ hovorila žena, a sused chytro musel   spraviť prasaťu cárček v pitvorci.
+   </tei:p>
+   <tei:p>
+    Prasiatko bolo „na zjedenie“, chcem povedať „na bozkáme“ pekné,   ale to sa o prasati nevraví. Biele, čisté, chvostík na písané „e“,   ušká hore ako veverička, drobné čierne oči a pyštek trocha ružový,   krátky ako kŕčik a na nošteku biele fúzky, ktoré mu pri pití vždy   zmokly, lebo nevedelo ešte samé žrať a musela ho suseda z mištičky po   prste nadájať, a vše ho už skoro čľapla, keď ju uhryzlo, vytrhlo prst   a rozčaplo žrádlo. Prasa sa susedovi nepáčilo. I že taká   „negazdovská“ sorta, také pľuhavstvo fúzaté (on si celú tvár holil),   ale žene práve preto padlý naň oči a kúpila ho za pol tretej   zlatovky. Sused by bol radšej počkal do druhého jarmoku, i tak sú   vraj májske a marské najlepšie. Suseda ani nepočúvala, jej sa páčilo,   vzala prasa do lona, roztiahla mu pyštek a sused musel po lyžičke   dávať. Zpočiatku kvičalo, mľaskotilo, keď však okúsilo, že sa mu   mliečko leje, utíšilo sa a smrčkalo. Potom mu ešte dva-tri razy   podlomili predné nôžky nad mištičkou, že drelo hlavou do žrádla, a   tak za tri dni naučili ho žrať. Suseda mu zakaždým utrela do dlane   pyštek a pustila po pitvore, izbe behať, naťahovať handry. V cárku   iba spávalo. Dali sme mu meno podľa nosa — krčko; ale nepočúvalo naň,   viac na obyčajné mliazganie ústami. Chovali ho dobre, každý deň   kúpili mu žajdlík mlieka, potom srvátky, aby mu polievčička voňala,   že bolo od toho až samopašné. Keď kto dvere otvoril, vyskočilo,   zastalo, poňuchalo, pobehalo po pitvore alebo cárku, zase zastalo,   počúvalo chvály o sebe, uchytilo handru a zas pobehalo, zakrochkalo.   Nasmiali sme sa mu, suseda sa s ním shovárala, vše ho vyhrešila a vše   veru i chľapla, keď ju počalo za sukňu nadŕľať. Ináč bolo krotké, len   na ruky nechcelo ísť, a keď sme ho silou brali, tak sa vše   rozvrešťalo, ako by už malo aspoň metrák a bolo pred Vianocami...
+   </tei:p>
+   <tei:p>
+    37
+   </tei:p>
+   <tei:p>
+    ﻿Prasa rástlo ako z vody. Kdeže by i nie! Na fruštik navarila mu   suseda trepuše, na obed, i keď by boli ešte sami zjedli, ponáhľali sa   jeden pred druhým čím skorej odložiť lyžicu a nechať čím viac na   miske.
+   </tei:p>
+   <tei:p>
+    „Nože prasaťu,“ hovorieval sused.
+   </tei:p>
+   <tei:p>
+    „Veď ešte jedz, najedz sa, i prasa má,“ ponúkala suseda.
+   </tei:p>
+   <tei:p>
+    „No, len mu daj, bude lepšie rásť,“ a odložil lyžicu.
+   </tei:p>
+   <tei:p>
+    Žena už prv odložila, aby bolo čím viac mužovi a prasaťu. Zahryzli   si vše radšej chleba i mimo termínu, i tajne jeden pred druhým, len   aby prasa malo ... Bolo teda ako guľka, očká mu zatislo, a zlenivelo   už i preto, že v pitvore počalo bývať teplo, a prasa sa vystrelo vše   naprostred pitvora, ako pes na pazderí, že susedom vše len tak srdce   šklblo od strachu, že je už zdochnuté, keď ho znenazdania našli tak   ležať.
+   </tei:p>
+   <tei:p>
+    Chlievik najprv vystlali slamou; na to vrece, starý kabát, a keď   mrazy popustily, poď krčko do chlievika. Keď ho sused dvorom niesol,   suseda šla za ním, a keď či panskí, či cudzí híkali, aké je pekné,   suseda stále odpľúvala, aby ho neuriekli.
+   </tei:p>
+   <tei:p>
+    „To je dobre, aby ho svet očami nezjedol; lebo už je potom po   poprávke.“
+   </tei:p>
+   <tei:p>
+    Viem, mali sme raz i my teľa v izbe, krásne, prisadiť sme ho   chceli. Bolo za sporákom a ešte handrou sme mu hlavu prihadzovali.   Susedi vedeli o ňom a neprichádzali k nám, alebo len do pitvora; iba   stará Strechová, oči ako striga, nevedela, príde, kukne, pochváli —   už bolo po teľati. Stará mať ho hneď močom umyla, soli do papule —   nič nepomohlo. Strechová uriekla teľa. Bežal som strapov pýtať z nej,   okadili sme ho pekne tri razy — všetko márne. Dostalo vodu do kolien,   ani žrať, ani vstať, i sme ho museli dorezať.
+   </tei:p>
+   <tei:p>
+    Preto moja suseda, ako opatrná gazdiná, celým dvorom odpľúvala, a   keď druhí chválili, ona hanila. Na chlieviku
+   </tei:p>
+   <tei:p>
+    38
+   </tei:p>
+   <tei:p>
+    ﻿bol už popreky železný zápor, ako býva na drahých pivniciach, a   zámka divného, neobyčajného stroja, kúpená za celú korunu. U nás nie   je mrcha svet, ani nie zbojnícky, ale predsa báli sa oň, ako o nejaký   drahocenný poklad.
+   </tei:p>
+   <tei:p>
+    „Už sme ho vytrápili, no aby nám ho... — pre hrúzu zamlčané   slovo radšej ani z úst nevypustila, keď prasa najmä na noc   pozamykali.
+   </tei:p>
+   <tei:p>
+    Hja, chudobný človek na deväť uzlov zaviaže krajciar a ešte ho pod   pazuchu vopchá... Ale i treba! Toť, prosím vás, onehdy u nás horelo.   Z druhého panského dvora hofieri vynosili sa do panskej záhrady.   Požiar na šťastie udusili. Po ohni vnáša sa svet do príbytkov —   hofierke chybí motyka a sekera. Hrady, ostredky, všetko bolo zanosené   truhlami, debnami, posteľami, stolmi, ba ešte i raždím na chrbte z   hory navláčeným; sama nevie, kam motyku so sekerou vyhodila: či do   uhoriek, tekvíc, či medzi kapustu, kel, karfiol, rajčiaky — v tom   ľaku, čo by si ju zabil, nespomenie si. „Už ju niekto uchytil, bodaj   mu ruka uschla...! Nikde nič.“ Chodí, hľadá, prehŕňa, ponosuje sa;   pribehne k nej dievča s akousi otázkou, vrkne mu, to nerozumie a   opýta sa ešte raz; rozbehne sa k nemu, chytí, vybuchnátuje; to reve,   zastarie sa druhá hofierka, nadá i tej, aby sa do svojich štencov   starala, a len ak chodí, tak volá a narieka: „Motyka štyridsať   krajciarov a sekera sedemdesiat, bohdaj ti ruka!... Motyka štyridsať   krajciarov a sekera sedemdesiat, bohdaj ti noha!... Motyka ...“   Prevzdychala, prevzdychala, prekliala všetkých dobrých i planých   ľudí, zbojníkov, naupodozrievala sa celej dediny i cudzích,   podlávila, ako bez rozumu chodiac, za päť motýk a tri sekery uhoriek,   tekvíc, kapusty, rajčiakov, už slnce sadlo, stmilo sa — ale sekeru a   motyku predsa konečne našla v pôlčí... Chmatla po nej, razom sa   udobrila, ako keby našla šťastie, a bojí sa, že jej uletí; pritúlila   dievča a odpýtala druhú hofierku a celý svet, že im toľko naubli-
+   </tei:p>
+   <tei:p>
+    39
+   </tei:p>
+   <tei:p>
+    ﻿žovala, a vyhovárala sa na sprostý ženský rozum a nešťastnú   minútu, ľaknutie.
+   </tei:p>
+   <tei:p>
+    Tak si cení chudobný človek i malé svoje veci, nie by prasa! Nie   div teda, že sa mojim susedom s prasaťom vše i prisnilo, a veru   neľutovali si vstať a ísť mu klepať na chlievik: „Či si tu?“ Tam bolo   vždy.
+   </tei:p>
+   <tei:p>
+    „No, spi, noc je, idem si ešte i ja ľahnúť,“ pristavoval sa sused   pri krčkovi, keď vše v noci s vozom došiel a šiel od koní na   odpočinok.
+   </tei:p>
+   <tei:p>
+    Ba susední hofieri boli by rozniesli chýr, že im akási biela pani   popod oblok v noci chodila (hofierku kŕč lomil, nemohla spať), keby   nebolo hneď vysvitlo, že to moja suseda bola prasa pozerať. Ale sa   jej i skorej ozvalo, ako jemu. Suseda nepotrebovala i takto na dvore   len slovo preriecť, už zagrúlilo, ohlásilo sa jej. A dosť mu vše i   nagrobianila, keď si válovček nečisto držalo, šlo nohami do žrádla,   alebo špinilo do hniezda, ustlatého zo slamy, vreca a starého   kabáta.
+   </tei:p>
+   <tei:p>
+    Príduc z roboty odkiaľkoľvek a kedykoľvek, prvé bolo prasa a potom   len muž. Najprv to nakŕmiť a potom seba.
+   </tei:p>
+   <tei:p>
+    „Ty máš rozum, dočkáš, ale to pýta, kvičí,“ hovorila suseda, keď   sa vše sused náhlil.
+   </tei:p>
+   <tei:p>
+    Ako prvá zelina sa zjavila, suseda sbierala, varila, i pomyje si   vykonala, chodila po dedine s putienkami a napájala prasa. Sused zas   proboval jačmeňa, ovsíka mu pohodiť („panské kone si pomyslia, že to   pán utiahol, keď paholok vezme“, vyhováral sa sused, keď vše vysýpal   z rukáva), suseda však, keď šla do sklepú, alebo do mesta, vzala vše   „na próbu“ za hrsť kukurice, a po druhé šla zas inam, a tak ho   peľhali. Cez leto mal sa krčko ako princ! V hojnosti všetkého, čo sa   len urodilo. Už nebol prasa, ale bravec, brav! A hlásil sa i mäsiar,   ale mu ho ani neukázali, že ho ešte pochovajú, keď jesto čím. O   mesiac zas potreboval mäsiar bravca. Prišiel i k susedom. Najprv, že   ešte
+   </tei:p>
+   <tei:p>
+    40
+   </tei:p>
+   <tei:p>
+    ﻿nie, ale mäsiar pripomenul im, že prídu horúčosti, a naviedol   susedov, aby mu ho ukázali a zacenili. Tridsať zlatých! Mäsiar im   skoro nagrobianil, že či ho za blázna držia? Že im ho preplatí   dvadsiatimi. Ani počuť! Odišiel, ale o tri dni zas prišiel.   Horúčosti, ako mäsiar prorokoval, stále väčšie a väčšie.
+   </tei:p>
+   <tei:p>
+    Zavolali ma prasa ošacovať, i sami podľa iných (sused bol vari tri   v dedine predaté bravce piaďou merať a podvihovať za uši a chvostík)   spustili štyri zlaté, mäsiar prihodil dve, potom sa skoro dojednali:   oni dvadsaťpäť — on dvadsaťtri; ale ďalej nedajbože! Suseda by i bola   spustila zlatovku, keby bola vedela, že mäsiar prihodí zlatovku. Ale   sused sa držal, že nedá niže dvadsaťpäť ani o krajciar! Mäsiar   odišiel a viac k susedovi neprišiel.
+   </tei:p>
+   <tei:p>
+    Ale tie horúčosti!... Koncom júla a augusta aké boly, starí ľudia   nepamätajú. A kto ste hospodárom, viete, ako je to: dažďa nespŕchne,   rosy nepadne, tráva uschne, statok na papule, paprčky... zakážu pašu,   jarmoky, i doktori majú robotu, a predsa, vše len príde nehoda. A   brav je veľmi chúlostivý. Nasmrká sa vody, dáš mu teplejšie,   zapálenie tak, či tak. Už viete, čo idem povedať — susedovcom ochorel   bravec, krčko. Takto mu nebolo nič, nažral sa, napil, iba že bol   trochu smutný, ľahol, a ráno ani do pysku vziať. Pribehne suseda po   mňa, ponúka, múti rukou, otŕča mu na dlani, prileje srvátky,   prehovára, škrabká ... vstal a šiel k válovcu, omočil pysk, ale   odvrátil sa k dverciam. Volá ho von, nejde. Oči mútne, uši ovisly, a   chvost spustil ako krava.
+   </tei:p>
+   <tei:p>
+    „Naraz, ako by ho zaklial!“ lamentuje suseda a myslí, že v dedine   je už sedem bravov chorých, jeden už zdochol a jedného len čo   doklali, i to mu krv nevyšla.
+   </tei:p>
+   <tei:p>
+    Sused bol odišiel včasráno úhoriť, nevedel o ničom. Suseda nechala   v izbe a kuchyni všetko tak, ako ráno vstali, neriadila, nevarila   obeda, len chodila k prasaťu a po de-
+   </tei:p>
+   <tei:p>
+    41
+   </tei:p>
+   <tei:p>
+    ﻿dine rozprávať a vypytovať sa sveta na rady a lieky. Na ceste o   chvíľu objavili sa Cigáni, suseda im nadala a jednu cudziu Cigánku,   čo prišla pýtať, bez všetkého obliala; a keď prasa nič, ani do pysku   viac, rozbehla sa po muža na roľu. Po ceste sa dohadovali, vytýkali   si, čo ktorému na um sišlo, a pribehli oba ako bez duše, ako by sa   boli pohnevali. Sused letí rovno k chlieviku, suseda, slzy v očiach,   za ním, a ponúkajú a prehovárajú, miešajú, prihrievajú žrádlo,   chladia, probujú husté, riedke, zrno, kukuricu — bravec nič, len na   veľa-veľa vše „kroch-kroch“. Rozpovedali si, čím ho včera nakŕmili.   Ako obyčajne. Teraz mu dali ľanového oleja v mlieku a mydla. Sbehlo   sa nás plný dvor; každý pomáhal, radil; jeden úfal, druhý zúfal. S   cesty škerili zuby Cigáni. Sused sa rozbehol proti nim,   zatristobohoval „vlkom“, svet im naštekal, a Cigáni cúfli.
+   </tei:p>
+   <tei:p>
+    „Ešte je bystrý dosť,“ mienil ktosi dobroprajné, ale krčko bol   naopak.
+   </tei:p>
+   <tei:p>
+    „Veď takto je, ale čože, keď nežerie,“ uveril sused, a ako by bol   o dva majetky prišiel, jednou rukou podvihol si klobúk a druhou   škrabal sa na temene, ako by chcel vyškrabnúť kus rozumu, ktorý by   poradil, ako prasaťu pomôcť.
+   </tei:p>
+   <tei:p>
+    „Že sme ho radšej nepredali!“ vyslovil múdru, ale pozdnú myšlienku   sused.
+   </tei:p>
+   <tei:p>
+    „To už keď ho mäsiarovi ukážeš, aby si mu ho i dával,“ mienila   stará babka, s vnúčaťom na rukách, a „achkala“, ako by jej bolo   bývalo; „lebo vraj, nič nemáš z neho, dcéra moja“ — dokončila,   obracajúc sa k uslzenej susede.
+   </tei:p>
+   <tei:p>
+    „Zavonia krv, a je po chuti,“ dodal ešte ktosi ako na vysvetlenie   tým, čo nerozumeli, alebo neverili v tajnú moc mäsiarovej   zástery.
+   </tei:p>
+   <tei:p>
+    Zavolali kováča i Tarku, starého gazdu, ako takých, čo sa   najlepšie v dedine vyznali v statku; kováč z kníh a no-
+   </tei:p>
+   <tei:p>
+    42
+   </tei:p>
+   <tei:p>
+    ﻿vín, Tarko zas od nátury a čo od baču za vrchom pochytil, keď   kedysi valašil. Tí prišli, premakávali bravca: Tarko odtiahol na bok   susedu a radil čary, kováč lieky.
+   </tei:p>
+   <tei:p>
+    Suseda letela do mesta do apatieky, a dali mu po tri razy do rána:   za šesták odmladu, za šesták ľanového, za dva ricínového oleja, mydla   po kúsku a všetko v letnom mliečku; ale bravec nechce a len nasilu   smrká. Sused stojí, ako by si mu kolom za väzy, susede padajú slzy;   už ho prosí, krčkom svojím ho zovie, vychvaľuje lieky a sľubuje, že   mu prejde od nich, a potom ho chytia a nasilu vlejú do pysku.
+   </tei:p>
+   <tei:p>
+    Na krštení nieto toľko roboty, čo jej bolo u susedov v ten deň a   celú noc potom. Už že doklať; ale akýže je to úžitok!
+   </tei:p>
+   <tei:p>
+    „Budeme ho musieť jesť, kým bude trvať, lebo, ako v lete, skazí   sa,“ vravela suseda a probovali predsa len ešte, čo i Tarko radil:   uvarila čistca, umyli ho ním, zakryli mokrým vrecom, i ho zas čistcom   okadili. Bravec sa trochu pod vrecom prebral a od smradu zbystrel.   Cez noc a pri čarách i ich zoziabalo, vošli do izby; už svitalo.
+   </tei:p>
+   <tei:p>
+    „Nemaj nič — zle je; maj niečo — i tak je zle,“ mrzí sa sused.
+   </tei:p>
+   <tei:p>
+    „Sám čo máš zjesť, dáš mu, len aby bolo ... a máš, hľa,“ žiali   suseda.
+   </tei:p>
+   <tei:p>
+    „Vraveli nám, že májske a marské sú najlepšie, ale ty si už nemala   pomešku, len kúpiť...“ hľadá sused vinu, na koho by zvaliť.
+   </tei:p>
+   <tei:p>
+    „Mohol si rozhodne povedať: nie,“ bráni sa suseda.
+   </tei:p>
+   <tei:p>
+    „Nechcel som ti vôľu zlomiť, ale sama si mala na to prísť,“   nadmieta sused.
+   </tei:p>
+   <tei:p>
+    „Som ti — predajme.“
+   </tei:p>
+   <tei:p>
+    „A či si chcela ?! .Predaj si, darmo ho daj/ keď som sa ťa, či   spustíme ešte korunu.“
+   </tei:p>
+   <tei:p>
+    43
+   </tei:p>
+   <tei:p>
+    ﻿„Nože nemäť! Ja by som bola ešte i zlatovku ... nech by ho už bol   čert vzal!“ fikala žena. „Ale či si nepovedal: Jen ho už odmárni, keď   ti tak ľahko prišlo?“
+   </tei:p>
+   <tei:p>
+    „To už cigániš! To som ja nepovedal, ani v ume nemal!“
+   </tei:p>
+   <tei:p>
+    „Nuž ba si... Ešte si ma takto trhol za sukňu,“ ukázala suseda, a   hnevali sa obaja, že jeden i druhý tají svoje reči.
+   </tei:p>
+   <tei:p>
+    A tak slovo na slovo, nie tak od zlosti ako od žiaľu, že prasa,   toľké trápenie, Parom vezme, susedí sa povadili, najmä suseda tak   dopichala muža, že si už ani neľahol, ale znovu počal sa obúvať a   vyslovil mienku, že ak bude horšie, bude treba prasa doklať, na čo mu   suseda sekla:
+   </tei:p>
+   <tei:p>
+    „Hľa ti ho, gazdu, žiada sa ti pečienky!“
+   </tei:p>
+   <tei:p>
+    To ho tak razom podpálilo, že sa zmrvil na stolčeku, nedoobutý   krpec strhol s nohy a hodil žene prosto do chrbta. Ona začala revať,   nie od bolesti, ale pre urážku a že sa jej už i tak chcelo plakať za   prasaťom. Sused vyšiel na dvor a do stajne, zapriahol do plužných   koliesok, šľahol medzi kone a šiel úhoriť. Ona plakala, nariekala,   hnevala sa, zlostila a konečne dala sa do preklínania, takže,   navariac raňajky, hrnce len tak po sporáku tancovaly, a hodila jedlo   na stôl. Sused neprišiel raňajkovať. To susedu ešte väčšmi   rozžialilo. A čo takto? a ešte ak prasa zdochne? Myslela si, že je už   skončený dobrý život s mužom a teraz že už čo ? Musí odísť ta, domov,   k materi, a viac sa ani nevrátiť „do takého pekla“. Keby sa bol sused   vrátil, boli by sa štyrmi slovami pomerili, ale on sa hanbil seba a   hlavne sveta, a tak žena hnala sa do žiaľu a hnevu, nabrala do batoha   z truhly šiat, modlitebnú knižku do šatôčky, po truhlu a periny že   zajtra, zamkla izbu, položila kľúč na svoje miesto a s veľkým plačom   vyšla na dvor. Videli ju druhí sluhovia. Požalovala sa im. Ženy ju   prehováraly, chlapi sa jej smiali a suseda, čo by jej bol batoh   strhol a zasotil ju do izby, ako sa ona úfala, nikde nič, ten už
+   </tei:p>
+   <tei:p>
+    44
+   </tei:p>
+   <tei:p>
+    ﻿oral, a ona nevedela. Keby jej tí boli povedali, aby šla, bola by   doma zostala, ale tí jej, aby nešla, a tu žieňa, ani osemnásťročné,   hanbilo sa už doma ostať, keď raz povedala, že ide. Šla ešte raz   pozrieť brava. Ležal ako zdochnutý. To ju ešte viac pohlo, i poď   domov na tretiu dedinu k materi s prenikavým plačom, že už nikdy   panského dvora neuvidí, ani že sa mu ona zabiť nedá atď.
+   </tei:p>
+   <tei:p>
+    „Dobil ma,“ začala revať, otvárajúc dvere.
+   </tei:p>
+   <tei:p>
+    Mať sa preľakla, čo sa stalo. Prečo, začo? Prišly stryná i stará   mať, a suseda moja musela rozprávať o prasati, mužovi a zvade.   Nadŕžali jej, len keď prišlo na bitku, suseda pustila sa do plaču a   ďalej nič. .Konečne sa dozvedely, že to bol iba krpec. Nechápaly a   skoro sa jej pustily do smiechu. Na dedine medzi manželmi vyššie sa   berie telesné ublíženie ako mravná urážka, a najmä slovná. Ale tu   nebolo siniek, ani zaucha, chrbát netknutý... Mať hneď, i tie, že je   to nič.
+   </tei:p>
+   <tei:p>
+    „To ťa len z lásky...“ „Čože by to! To ty musíš k mužovi. To ti   teraz treba
+   </tei:p>
+   <tei:p>
+    privykať už i na chlieb, keď sa koláče minulý... Akože bolo so   mnou, alebo s kmotrou? Čo som sa ja doma nanocúvala ... Pán Boh mu   tam viny odpusť! Ešteže čo — pre akési prasčisko sa rozchádzať! ...   Muž so ženou, ako deti pod stenou: v jednom kúte sa povadia a v   druhom pomeria.“
+   </tei:p>
+   <tei:p>
+    „To sa ty len hneď vráť, dcéra moja,“ hovorí krstná mať, „aby ani   nezvedel, že si bola za materou.“ „Škoda bude len najväčšia tá, ak   vám prasa zdochne, keď si z domu odišla,“ pliesnila stryná, „a keď ti   neublížil...“
+   </tei:p>
+   <tei:p>
+    Ale suseda ani počuť a viedla svoje; o bitke, zabití, a plač a   „nikdy“.
+   </tei:p>
+   <tei:p>
+    „Taraje!“ povedaly jej na to všetky tri.
+   </tei:p>
+   <tei:p>
+    „Prenocovať ti dám a ráno pôjdem i ja s tebou, a on ťa nesmie biť   a ty nesmieš utekať.“
+   </tei:p>
+   <tei:p>
+    45
+   </tei:p>
+   <tei:p>
+    ﻿A ráno poď voľky-nevoľky k mužovi i s materou, aby sa   nerozchýrilo, že odišla od neho. Ale horký vaše nie!
+   </tei:p>
+   <tei:p>
+    Sused zas, keď mu povedali, že jeho žena odišla, hanbil sa, potom   sa zlostil, a aby to i druhí hofieri videli, večer vyhádzal z postele   ženine periny na izbu a ľahol na holú slamu. Ráno vstal, nejedol už   druhý deň, iba čo večer kúštik chleba a tie raňajky, čo žena na stôl   hodila, po troche, neochotne minul, a vyšiel ku koňom. Bol by šiel i   k bravovi, ale sa bol zapovedal a bol by ho vari sám ovalil od jedu,   že preň prišiel do oštary so ženou. Ani sa neobzrel, nech zdochne,   keď má!
+   </tei:p>
+   <tei:p>
+    Na obed prišla mať s dcérou. Sused miesto obeda podoprel si hlavu   a premýšľal, čo to bude.
+   </tei:p>
+   <tei:p>
+    „A čože vy toto?...“ s tým otvorila dvere stará, rezká ešte   vdovica. „Pán Boh daj ...“
+   </tei:p>
+   <tei:p>
+    „Vitajte,“ a sused pozrel jej okúňave do očú. „Čože s tou   posteľou?“ a vykládla na ňu periny. Sused sa zahanbil. On zabudol,   nevidel perín, málo bol
+   </tei:p>
+   <tei:p>
+    v izbe, a keď aj, to v hlave ako by hlina, obchodil ich ako skalu.   Teraz nevedel slova povedať.
+   </tei:p>
+   <tei:p>
+    „Akože je prasa?“ spytuje sa mať.
+   </tei:p>
+   <tei:p>
+    „Opýtajte sa gazdinej,“ a ostal sedieť.
+   </tei:p>
+   <tei:p>
+    Suseda stála v pitvore, batoh na chrbte. Stará otvorila dvere.
+   </tei:p>
+   <tei:p>
+    „No, čože nejdeš dnu? Držíš ten batoh ako hluchý dvere. Sem, a   zoči-voči!“ veliteľským hlasom nakladala stará.
+   </tei:p>
+   <tei:p>
+    Susede kvapkaly slzy, mlčky vošla a nevoľne skladala batoh. Jedným   vrzom tá dnu a stará von k bravčovi. Susedi úkosom kukli po raze   jeden na druhého, odtrhli oči a hanbu cítili obidvaja, i boli by si   čosi povedali, ale plná hlava myšlienok, čo skorej? Mlčky vyšiel von   sused, a za ním po chvíli i ona.
+   </tei:p>
+   <tei:p>
+    „Veď grúli,“ hovorí mať, „len mu niečo dajte. To vám
+   </tei:p>
+   <tei:p>
+    46
+   </tei:p>
+   <tei:p>
+    ﻿bolo iba zapečené. Trochu mlieka mu, aby sa mu črevcia   omastily.“
+   </tei:p>
+   <tei:p>
+    Pozrú, hľadia, bravec ozaj pýta, krochká, tisne sa von. Zlosť   prechodí, žiaľ mizne, susedom stretly sa vyjasnené oči. Niet sa už   prečo hnevať. Suseda odbehla po mlieko; dali mu, žerie, pýta. Stará   nekázala do večera nič, a potom len trochu. Teraz do izby a   zoči-voči. Mať nadŕžala vše dcére, zas zaťovi. Suseda sa vraj preto   nahnevala, že susedova chyba, že ho nepredali, a ona musela pred   väčším hriechom z domu. To ju bolelo, zlostilo. On jej zas vytýkal,   že keď bolo najhoršie, odišla, jemu i sebe takú hanbu vyviedla!
+   </tei:p>
+   <tei:p>
+    „Nie ste prví! Len by nikdy nebolo horšie,“ vyhovárala mať a   pripomenula im snášanlivosť v šťastí i nešťastí, pripomenula Pána   Boha a božie požehnanie.
+   </tei:p>
+   <tei:p>
+    Sused šiel odpoludnia po práci. Stará podvečer odišla, hoc ju   dcéra i nechcela pustiť, že ak ju teraz už ozaj dobije. Ale mať že má   robotu, a že i tak nezadlho musí k nej.
+   </tei:p>
+   <tei:p>
+    „Ako sa pohneváte, tak sa pomeríte. S Bohom!“
+   </tei:p>
+   <tei:p>
+    Na večeru navarila suseda zapražených zemiakov, nových, s hubami,   čo sused veľmi rád, a ktorýsi i omastila.
+   </tei:p>
+   <tei:p>
+    „Budeš zapražených zemiakov a či...“
+   </tei:p>
+   <tei:p>
+    „Čo jesto, to budem,“ staval sa sused chladným.
+   </tei:p>
+   <tei:p>
+    „I som omastila.“
+   </tei:p>
+   <tei:p>
+    Neodpovedal. Jedol to i to. Žena nabrala si osebe z misky na   tanierik a tak jedla. Sused pregígal, ale zdržal sa jej povedať   slova. Potom si ľahli, lenže suseda na truhlu, vzala si hlavnicu,   pokrčila pod ucho a sama sa stiahla do hŕbky, lebo truhla bola   kratšia. „Však ťa to domrzí,“ myslí si sused. Na ráno pár slov, na   obed, na večeru sa jej sused spýtal, či sa jej hnusí jesť s ním z   jednej misky; na ráno jedli spolu a na večer jej zas, že „či bude   dlho brložiť na
+   </tei:p>
+   <tei:p>
+    47
+   </tei:p>
+   <tei:p>
+    ﻿truhle,“ a žena šla do postele, ale veľmi hanblivo, ako v prvú noc   po svadbe.
+   </tei:p>
+   <tei:p>
+    „Sa ťa bojím,“ povedala suseda starým dobrým hlasom.
+   </tei:p>
+   <tei:p>
+    „Buď, ako máš byť, a nemusíš sa ma báť,“ smierlivo povedal   sused.
+   </tei:p>
+   <tei:p>
+    ,Ale ono je vždy dobre, keď sa muža žena bojí,‘ počúval od mala a   myslel si to teraz i sám. Na dedine ktokoľvek je vinný, ale poddať sa   musí skoro vždy žena, ,lebo si predsa len žena, poučuje mať, a   ,chlap je len predsa chlap a hlava.
+   </tei:p>
+   <tei:p>
+    A zopakovali si, ako hnev povstal, čo kto povedal, a uznali si —   ľahko! keď prasa ozdravelo ...
+   </tei:p>
+   <tei:p>
+    Dnes už moji susedí o prasa nestoja, iba čo mu žrať dajú a k   Vianociam stroja sa ho predať.
+   </tei:p>
+   <tei:p>
+    Dnes už majú iné potešenie. Požehnal im Pán Boh chlapca ako buka.   Idú ho láskou zadusiť, že nestačí dosť škrečať, aby ho bozkávaním,   trhaním z rúk do rúk a hompáľaním toľko nepridúšali. Suseda neverí   mužovým tvrdým, zrobeným rukám, a čo ho raz berie, vždy mu šepce:   „Nechajže ho, teraz zaspalo.“
+   </tei:p>
+   <tei:p>
+    A suseda privykla na chlieb. Nemôžem však o nich zle povedať.   Medzi nimi je i dnes láska; ale taká dedinská, neumelkovaná, úprimná,   prostá. Keď ktorý zaslúži a či i nezaslúži, nadajú si zo žartu i   vážne, vypáckajú sa, tiež tak, pohnevajú sa, myslel by si do smrti —   a ono na deňdva; lebo život je život, a nie hračky, a niet komína, z   ktorého by dymu nevyšlo!
+   </tei:p>
+   <tei:p>
+    (Smutné nôty, I. vyd., 1921.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

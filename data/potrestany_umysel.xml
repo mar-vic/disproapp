@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949887" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Potrestaný úmysel : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1282
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      Potrestaný úmysel
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Potrestaný úmysel
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    No a prihodilo sa, že nečakal ani do soboty, ale vyplatil hneď. To   sa, pravda, tisíc a tisíc ráz už stalo a mne tiež podobnú príhodu   rozprávala moja stará mať. Ak chcete, prečítajte si.
+   </tei:p>
+   <tei:p>
+    „Je od tých čias — a veru už bude i tridsať rokov, ale čo, viac!   nuž i mera (40) rokov to už bude od tých čias.
+   </tei:p>
+   <tei:p>
+    Bolo to takto: Keď vše u nás hojne obrodilo a v našom meste   (Banskej Bystrici) nemalo ovocie takej ceny, najali sme voz, nasypali   jabĺk do vriec a i len tak do slamy, a poď niže Lučenca. Stromovia   teraz už hádam i tam bude po dedinách, ale vtedy iba kde-tu, a my sme   veru dobre popredali. Niečo za peniaze, ostatné za pšenicu, kukuricu.   Jačmeňa sme už tak nechceli a ovsa nebrali.
+   </tei:p>
+   <tei:p>
+    Veď to len i bolo smiešno! Kričali sme idúcky dedinou: „Jablká,   kúpte jablká!“
+   </tei:p>
+   <tei:p>
+    Tak nás poznali, lebo voz sme mali plachtou zakrytý, aby nám   nejako vrece nepotiahli. A kde sme už zastali, sbehla sa okolo nás   celá dedina: deti, ženy i chlapi. A už potom ako na ruvačky-mačky!   Nestačili sme presýpať pšenicu a zas nasýpať jablká. Lebo koľko   doniesli pše-
+   </tei:p>
+   <tei:p>
+    25
+   </tei:p>
+   <tei:p>
+    ﻿nice, za toľko sme im nasypali jabĺk. Ak za vrece, tak za vrece,   to bolo najľahšie.
+   </tei:p>
+   <tei:p>
+    No, ale to ani tak nepatrí sem; to už len, aby si vedel, ako to   bolo. Čo ti rozpoviem, to sa stalo až potom, keď sme šli nazpät   domov.
+   </tei:p>
+   <tei:p>
+    Do večera boli sme už všetko popredali a že začalo sa mračiť,   zatiahli sme voz plachtou — vieš, ako to mávajú Liptáci — a pomaly   pustili sme sa hore dedinou pod Kriváň. Voz som mala najatý Mazákov a   bol so mnou Ondro, paholok, čo nedávno umrel — veď si ho poznal. Taký   glemba, kydaj už i vtedy, a ešte bol mladý! Nepovedal slova, len ,mh‘   a ,dajte — mäsa a pálenky keby bolo bývalo za putňu a tabaku za   mechúr. Ale čo po ňom — už je tam, prijmi ho, Bože, na milosť! Nuž s   tým som ja bola.
+   </tei:p>
+   <tei:p>
+    Večer, ale už neskoro mohlo byť, prišli sme už do tej hlbokej   doliny — ak si to videl, keď si sa tade viezol. A počalo i   poprchávať. Nuž ale na voze pod plachtou nebude nám, reku, nič.   Oprela som si hlavu a driemala. Ondro kadil z fajky a poháňal. Sedel   nižšie nad ojom.
+   </tei:p>
+   <tei:p>
+    Ja už neviem, ako dlho som driemala, keď ma Ondro zobudil. Nuž ale   bola ešte noc a pršalo už hodne.
+   </tei:p>
+   <tei:p>
+    „Čože je?“
+   </tei:p>
+   <tei:p>
+    „Nuž tuto nás akýsi vandrovník prosí, aby sme ho vraj na kuse   odviezli, kým prestane, svrchu ...
+   </tei:p>
+   <tei:p>
+    „Ja neviem, či ho“ — a trochu ma premklo, ak reku nejaký ... Môže   nás ešte obrať. Nakukla som zpod plachty, nuž ale ako potme a v daždi   nevidela som, iba čosi čierno. Ba ešte som rozpoznala, že má na boku   kapsu, alebo uzol.
+   </tei:p>
+   <tei:p>
+    „Ak niečo dáte na fruštik, nuž vás i vezmeme, ale darmo nie,“   nadhodil mu Ondro.
+   </tei:p>
+   <tei:p>
+    „Ale, prosím vás, ľudia dobrí, chudobný pocestný — nemám ani   krajciara.“
+   </tei:p>
+   <tei:p>
+    „Nuž tak prídete i pešo. — Hijó!“
+   </tei:p>
+   <tei:p>
+    26
+   </tei:p>
+   <tei:p>
+    ﻿No, myslím si, nebude už taký nestatočný.
+   </tei:p>
+   <tei:p>
+    „A už ho len vezmime. Ondro, postoj!“ „Keď ste vy gazdiná a   kážete, nech si sadne, čo ma doň.“
+   </tei:p>
+   <tei:p>
+    Ondrovi sa nevidelo a mrmlal ešte čosi pod nos.
+   </tei:p>
+   <tei:p>
+    Vandrovný ma pekne pozdravil a ak „pani moja, tak pani moja“, a ja   v kožuchu a plachte. Rozpovedal mi, čo je a zkade ide, že z Lučenca,   je hrnčiarsky tovariš a hľadá robotu. Koľko má rokov a zkade je   rodom, to som už veru zabudla za toľké roky. Ale mohlo mu byť i tak   už štyridsať, a čo bol mokrý, len ho tak triaslo od zimy. No a toho   by sme, reku, neboli vzali? Rád je, že sa vezie, nie že by ešte niečo   ukradol. Nuž a čo som mala chleba i ešte niektoré jablko, vykrútila   som mu z nášho batôžka. Pojedol a vtiahol sa ďalej pod plachtu, ba   som ho ešte sama nahovorila, aby sa prevalil na vrecia.
+   </tei:p>
+   <tei:p>
+    Šli sme pomaly ďalej. Ja som zas zadriemala.
+   </tei:p>
+   <tei:p>
+    „Tetka, a čože ma nejdete ... Nože ma poďte na chvíľu odmeniť,“   zobudil ma zas Ondro.
+   </tei:p>
+   <tei:p>
+    „Už som ťa i mohla, kieže vravíš,“ a sišla som s voza, vzala mu z   ruky bič a liace a šla vedľa koní, lebo nad ojom som ja nemohla   sedieť.
+   </tei:p>
+   <tei:p>
+    Ondro prekročil oje na druhú stranu a potom som ho už nevidela.   Dážď už prestával. Šli sme s kroka na krok. I ťažké, i hore vŕškom, i   tým koníkom ako by sa bolo driemalo. Ideme, a mne, ja už neviem, či   vnuknutím, či už ako, prišlo po chvíli obzrieť sa nazad —a, ľudia   boží, čosi čierno vidím, driape sa hore na voz a už je do pása pod   plachtou. Liace som už bola pustila, len bič mi ostal v ruke, a dala   som sa do kriku.
+   </tei:p>
+   <tei:p>
+    „Ondro, Ondro, kdeže si, veď nás idú obkradnúť! Ondro!“
+   </tei:p>
+   <tei:p>
+    Ale ani ozveny.
+   </tei:p>
+   <tei:p>
+    „Ježišmáriajozef, čože si počnem?! Ondro, Ondro-o!“
+   </tei:p>
+   <tei:p>
+    27
+   </tei:p>
+   <tei:p>
+    ﻿kričím, volám, nikto nič. V úzkostiach chytila som bič za vrchovec   a pác, pác — i pätnásť, ako som vládala oboma rukami, kde dopadlo,   tam bolo.
+   </tei:p>
+   <tei:p>
+    Koníky trhly strmšie. Od kriku.
+   </tei:p>
+   <tei:p>
+    „Pán hrnčiar, pán hrnčiar!“ volala som už i na toho vo voze, i   zase: „Ondro-o, hybaj!“
+   </tei:p>
+   <tei:p>
+    „Oj, veďže už nie ako na koňa,“ ozval sa konečne známy hlas —   Ondrov, a soskočivší hrnčiar pomohol mu zpod plachty, ba strhol   ho.
+   </tei:p>
+   <tei:p>
+    „Nuž či si to ty?! Bodaj ťa metalo!“
+   </tei:p>
+   <tei:p>
+    „Ja, a bijete ako na hovädo. Kríže moje,“ a Ondro chytal sa za   ne.
+   </tei:p>
+   <tei:p>
+    „Nuž čože si tam išiel?!“ zlostila som sa, že ma tak naľakal.
+   </tei:p>
+   <tei:p>
+    „Nuž — ľahnúť som si chcel... TľTj, či som sťatý!“
+   </tei:p>
+   <tei:p>
+    „To nemôže byť pravda, že si si chcel ľahnúť. To by si bol šiel   odpredku.“ Vedela som, že klame. „Ale hádam si chcel zase odsypať na   tú žranicu, to bude to,“ upodozrievala som Ondra, lebo pálenky mu   nikdy nebolo dosť.
+   </tei:p>
+   <tei:p>
+    „Na moj’ dušu, nie. Len, no iba nastrašiť som vás chcel,“ plietol   sa mu jazyk.
+   </tei:p>
+   <tei:p>
+    „A vidíš, ako si ty nastrašil — seba, že ti je hádam i do plaču,“   smiali sme sa s hrnčiarom, a bola som rada, že sa to tak   skončilo.
+   </tei:p>
+   <tei:p>
+    „Teraz sa mi ešte chichocte, ešte i vy!“ okríkol vandrovníka.   „Viac na voz nie! Ja ani koňa nepohnem!“ osopil sa na pocestného, keď   sa mne štekať neopovážil.
+   </tei:p>
+   <tei:p>
+    ,Čo sa budem s tebou priečiť, pomyslela som si a vandrovníka   sme nechali, ba šiel popredku. Poďakoval sa i za to a ja som ho aspoň   potešila, že už neprší a skoro bude svitať.
+   </tei:p>
+   <tei:p>
+    Ondrovi som sa prihovárala: ako?, načo?, čo chcel?, ale ani slova.   Len že: „I tak mám kríže odrené.“
+   </tei:p>
+   <tei:p>
+    28
+   </tei:p>
+   <tei:p>
+    ﻿„Oj, jej, zahoja sa ti — počkaj, keď si zaraňajkuješ,“ už som ho i   ľutovala.
+   </tei:p>
+   <tei:p>
+    „Tak sa i patrí, za bolesť zaplatiť,“ potešil sa Ondro pálenke.   Pri nej mi potom vyznal: „Tetka, gazdiná, a či sa ozaj nazdávate, že   som si chcel ľahnúť?“
+   </tei:p>
+   <tei:p>
+    „To som ti už tam neverila.“ „Vari že som žita chcel odsypať?“   „Ktože ťa vie, hádam aj.“
+   </tei:p>
+   <tei:p>
+    „Nie, tetka, aby ste si nemysleli; ale dajte pol holby — dáte? —   zradím vám.“
+   </tei:p>
+   <tei:p>
+    „Nedám, mal si dosť! Zas by si sa ohltal.“ „No, tak vám to teda už   i tak poviem.“ „Ja vravím, že si čertov smýšľal.“
+   </tei:p>
+   <tei:p>
+    „Nuž hádam ... Ja som vám chcel tomu do tej kapsy kuknúť, čo má v   nej.“
+   </tei:p>
+   <tei:p>
+    „Človeče hriešny, a bol by si mu azda niečo ukradol z nej,   chudákovi? Ondro, majže svedomie!“
+   </tei:p>
+   <tei:p>
+    „Len som si myslel, reku, či neklame ... Čo sa bude darmo voziť   ...“
+   </tei:p>
+   <tei:p>
+    „Tak ťa neľutujem, že som ťa tak vypáckala; to ťa Pán Boh   potrestal za tvoj skrivodlivý úmysel.“
+   </tei:p>
+   <tei:p>
+    „A ktože ho vie, či i nie..doložil Ondro, vycedil ešte raz prázdnu   skleničku a pohli sme sa ďalej k domovu.
+   </tei:p>
+   <tei:p>
+    (Do konca a iné rozprávky, II. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

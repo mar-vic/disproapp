@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1949528" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     ﻿Pomsta : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34587416">
+     Tajovský, Jozef-Gregor (1874 - 1940)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1682
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Tajovský, Jozef-Gregor
+     </tei:author>
+     <tei:title>
+      ﻿Pomsta
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1949
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-08-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Pomsta
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Dlhé roky sbierali na oferách i vyrubovali na duše, kým napokon   pred štyridsiatimi rokmi mohli si stahovskí farníci zavolať maliara a   prvý raz dať vymaľovať kalváriu a obnoviť všetky sochy a kaplnky,   ktoré za stáročia povstaly.
+   </tei:p>
+   <tei:p>
+    Zavolali Adama Páčku, po šírom bystrickom okolí veľmi pochvalne   známeho maliara, ktorý učil sa kedysi maľovať iba izby. Ale mal   talent a početnú rodinu. Aby mohol talent rozviť a rodinu uživiť, v   lete maľoval izby, v zime však strúhal, lepil a maľoval betlehemy,   sošky svätých a svätíc božích a konečne i boží hrob do ich dedinskej   kaplnky. Predával to pobožným a majetnejším kresťanom a niečo vzali i   do kostolov. Lebo slovenským valachom do betlehema vedel pán Pačko   vykrútiť také fúzy a také krpce im obuť a návlakmi do kolien obtočiť,   ani keby si bol všetkých detvianskych bačov na „mustru“ bral, a on to   robil všetko „z hlavy“. Jeho rímskych vojakov, ich okáľov jastrabích,   sme sa, chlapci, báli, i keď sme zvoniť chodili, a štyria rímski   vojaci od božieho hrobu tam pod vežou, i hoci poopieraní o stenu,   gánili na nás a čakali na novú Veľkú noc. Na doline od Bystrice po   Staré Háje premaľoval z lásky a zbožnosti dva-tri obrázky pri ceste,   a keď
+   </tei:p>
+   <tei:p>
+    93
+   </tei:p>
+   <tei:p>
+    ﻿sa to svetu zapáčilo, za peniaze dávali mu páni farári premaľúvať   kríže, obnovovať obrazy v kaplnkách, ba i v kostoloch. Pán Pačko   radom rokov sa vypracoval za povestného kostolného maliara a izby už   ani nemaľoval, iba ak farské alebo panské, notárovi, lesnému a   bohatému krčmárovi. A predsa robil lacno: „Len aby som sa so svojou   štetôčkou zabávať mohol,“ hovorieval si sám. A potom už, keď sa lacno   chytil na nejakú cirkevnú maľbu, sám chodil po dedine sbierať vajcia,   mlieko, vraj do — farby. Známi robili si z neho žarty, že majú len   kyslé mlieko. Prisadol, pojedol a dymiac zo svojej po brade spustenej   veľkej nemky, rád pobesedoval o svojom kumšte a poučoval sedliakov,   že on je nie „pán majster“, ako každý čižmár, ale „pán maliar“, alebo   aspoň „pán Pačko“ (keď mu sprostí inak povedať nevedia). Pritom   neodvrhol ani kalištek slivovice, ako že ju rád vypije i natierač,   nie by taký skutočný „maliar“. A najmä keď už síl ubýva, ako nášmu   pánu Pačkovi, lebo roky letia a už mu je ťažko po rebríkoch a   lešeniach driapať sa za svätými, a svet všetko by to chcel mať čím   vyššie, ba „v oblakoch“, ako i nejedného svätého namaľoval už na   všelijaké sklepenia a podnebia. Nie div, šesťdesiatpäť rokov tu. Žena   umrela, deti sa rozišly. Žije i varí si v dedinke Podanovej sám,   pravda, iba v zime, ináče od jari do mrazov po dedinách pri svojom   maliarstve. Robotu rád preťahuje a dá času vidieť a posúdiť ju   všetkým ľuďom. Rád prijme radu od kňaza, i s učiteľom naším sa   shováral odborne, lebo učiteľ bol, na pochvalu Páčkovú, premaľoval   sochu sv. Jána Nepomuckého a sv. Floriána na moste, a nikto si ich   nesplietol, nezamenil.
+   </tei:p>
+   <tei:p>
+    Ako som spomenul, keď Stahovčania dvanásťsto zlatých po krajciari   a šestáku složili, zavolali pána Páčku, či to bude dosť na farby.   Koscovi platia šesťdesiat krajciarov na šichtu, jemu budú platiť tri   šichty a stravu u učiteľa. Po-
+   </tei:p>
+   <tei:p>
+    94
+   </tei:p>
+   <tei:p>
+    ﻿stavia mu i „na poriadky“ rebríky a lešenia. Chlapcov, čo mu budú   farby trieť i miešať a posluhovať, tých je plná škola. Keď sa   spravili, durili pána maliara nie tak pre tie tri šichty a stravu,   ale že sa blížila Veľká noc, kalvária musí byť! Márne sa Pačko   vyhováral, že sú ešte mrazy, fujavice, že farby neschnú, doniesli   dreveného uhlia na plechu a vysúšali. Náhlil sa i Pačko sám, lebo na   Starých Hájoch mal tiež ešte do Veľkej noci premaľovať opršané kríže   na kalvárii, tohto veľkého pútnického miesta.
+   </tei:p>
+   <tei:p>
+    V sobotu pred Kvetnou nedeľou náhlil domov, pod Staré Háje, ani   nie cestou na Bystricu, ale chodníčkami cez hory, hoci bola pľušť,   dážď so snehom a vietor.
+   </tei:p>
+   <tei:p>
+    A večer v tú sobotu, bohvie, či ho kto videl, ale akiste pomaly   šiel od Kremnice na Bystricu i druhý akýsi maliar neznámeho mena, ale   ako by blíženec Pačko v. Nedošiel však do mesta, ale vyše vojenského   skladu „na žliebku“, pri vodičke dokonal a spadol k válovu pod   žliebkom do mláky a blata, rozmieseného ľuďmi a napájaným statkom.   Našli ho tam zaviateho snehom strážni vojaci ešte v noci, keď si boli   na žliebku po vodu. Ohlásili do mesta a svet, čo tadiaľ včasráno   šiel, povedal, že je to veru chudák pán Pačko, ktorý maľoval v   Stahove.
+   </tei:p>
+   <tei:p>
+    Policajný kapitán hneď vystrojil strážmajstra mestských hajdúchov   a spýtal sa ho, kto by ešte Adama Páčku poznal.
+   </tei:p>
+   <tei:p>
+    „Ktože lepšie, ako pán Pavlička a Cipciar,“ hovorí strážmajster,   „tí už tridsať rokov píjavajú spolu, „dva deci“, od soboty do   pondelka, keď Pačko ide na Bystricu domov.“
+   </tei:p>
+   <tei:p>
+    „Dajte zapriahnuť a že ich prosím,“ rozkázal kapitán, a v   polhodine na mestskom koči vyviezli sa všetci traja „na žliebok“   poznávať Adama Páčku, a ľúto im bolo starého kamaráta veľmi.
+   </tei:p>
+   <tei:p>
+    „Od náhlej a nenadálej smrti zachovaj nás, Pane!“
+   </tei:p>
+   <tei:p>
+    95
+   </tei:p>
+   <tei:p>
+    ﻿vzdychli hlasne všetci traja, keď zastali nad válovom, nad   mŕtvolou, zaviatou od večera prudkou snehovou fujavicou.
+   </tei:p>
+   <tei:p>
+    „On je!“
+   </tei:p>
+   <tei:p>
+    „On.“
+   </tei:p>
+   <tei:p>
+    „Pačko, Pán Boh ti daj slávu večnú!“ „Zaslúžil si ju za svoju   svätú prácu.“
+   </tei:p>
+   <tei:p>
+    „Nejedna obec má pamiatku po ňom.“ „Čo si sa nám nasľuboval, že   nás ženám našim vyma-
+   </tei:p>
+   <tei:p>
+    ľuješ ... Už si vymaľoval...“
+   </tei:p>
+   <tei:p>
+    „Pačko, Pačko, že ti Pán Boh nedoprial ani zabiť sa s lešenia, ale   tu si sa musel zatopiť v blate a vo vode... Teraz sa už pustí farba   tvojich šiat... keď ťa nemal kto oprať... Ba sám bol hrdý na ňu, na   farbu!“
+   </tei:p>
+   <tei:p>
+    Vojaci odtiahli ho na briežok, prikryli šedivú bradu klobúkom,   strážmajster pozrel i do kapsy, ktorú starý Pačko vždy nosieval na   boku, a našiel v nej kúsok chlebíka, škvarku slaninky, ale ináče plnú   surových zemiakov.
+   </tei:p>
+   <tei:p>
+    „Že sa mu to chcelo niesť zo Stahova do Podanovej. Zemiaky,“   divili sa priatelia.
+   </tei:p>
+   <tei:p>
+    „Nech ich nevlečie, možno by sa bol dotiahol do mesta medzi nás.   Veď už bol tak blízko. A žilu seknúť...“
+   </tei:p>
+   <tei:p>
+    „Hádam nechcel ublížiť, nuž prijal i tie od niektorej pobožnej   stahovskej gazdinej, vďačnej, že im tak pekne maľuje.“
+   </tei:p>
+   <tei:p>
+    „Ba či mu zaplatili?“
+   </tei:p>
+   <tei:p>
+    „Nie; ak mu nikto neukradol, vo vreckách nemá ničoho,“ zistil   strážmajster, a sadli si na koč, ponáhľajúc sa oznár miť, že skutočne   umrel starý Adam Pačko.
+   </tei:p>
+   <tei:p>
+    „Poznali sme ho. Naozaj je on, on sám, a nikto iný.“
+   </tei:p>
+   <tei:p>
+    Kapitán hneď rozkázal mŕtvolu dať do truhly a doviezť do mesta, a   priatelia, najmä Jozef Pavlička, mešťan a povestný pernikár, odkázal   bratovi Pačkovmu na Staré Háje, čo sa stalo a či ho prídu pochovať do   mesta, alebo či si ho dajú previezť domov. Aby prišli hneď!
+   </tei:p>
+   <tei:p>
+    96
+   </tei:p>
+   <tei:p>
+    ﻿Posol narobil iba žiaľu na Starých Hájoch a nevediac nič o   podrobnostiach, šiel zpät. Brat Pačkov sa hneď schystal do Bystrice,   ale hoci mu prichodilo zabočiť, stavil sa jednako v Podanovej povedať   rodine a priateľom, čo sa stalo.
+   </tei:p>
+   <tei:p>
+    Podanová. Dom bratov, Adamov. Z komína sa dymí. Kto cudzí v   bratovom dome?! zarazí sa. Habne na kľučku — a brat Adam vstáva od   pece.
+   </tei:p>
+   <tei:p>
+    „Ty žiješ?“ objíma brat brata, ako nikdy.
+   </tei:p>
+   <tei:p>
+    „Chvalabohu!“ bráni sa Adam. „Hoci čertovsky zlá cesta bola včera   večer zo Stahova horami.“
+   </tei:p>
+   <tei:p>
+    „Ale ja ti idem na pohreb,“ usmieva sa mladší brat.
+   </tei:p>
+   <tei:p>
+    „Len by som ja tebe nešiel,“ uráža sa Adam.
+   </tei:p>
+   <tei:p>
+    „Krome všetkých žartov ...“
+   </tei:p>
+   <tei:p>
+    A brat rozpráva Adamovi, čo o jeho smrti vie, čo do niesol   posol.
+   </tei:p>
+   <tei:p>
+    „A ktože ti to odkázal?“
+   </tei:p>
+   <tei:p>
+    „Nuž Pavlička.“
+   </tei:p>
+   <tei:p>
+    „Pohanský žart. To už, že som sa nezastavil včera v meste na „dva   deci“, do pondelka. Plno! Je pôst, a ja mám ešte tento týždeň   vymaľovať Krista Pána i dvoch lotrov u vás na Kalvárii.“
+   </tei:p>
+   <tei:p>
+    „Sme ťa čakali... Nuž ja už neľutujem chôdze, idem im povedať, že   planý žart vymysleli. To sa nerobí ani na fašiangy, nie by vo veľkom   pôste.“
+   </tei:p>
+   <tei:p>
+    Šiel a všetko sa vyjasnilo. Neznámeho pochovali, a pán Pačko ešte   dlho maľoval. Tento týždeň práve spomenuté kríže, na ne Krista a   dvoch lotrov.
+   </tei:p>
+   <tei:p>
+    Kým maľoval Krista, stále myslel na sv. Písmo, krútil hlavou a   šepkal si: „Ale mňa nepoznať... mňa nepoznať ... ty, Jozef   Pavlička... Na koryte by sme sa už mohli splaviť do Dunaja, čo sme my   už spolu vína vypili, a ty že si ma nepoznal? Lotor si ty, Jozef, a   ja ti to nedarujem, už len za tú zlosť, čo sa ľuďom naduplikujem, že   veď, hľa, žijem a chcem ešte Bohu i svetu poslúžiť
+   </tei:p>
+   <tei:p>
+    7 Žlieblcy.
+   </tei:p>
+   <tei:p>
+    97
+   </tei:p>
+   <tei:p>
+    ﻿svojou hlavou i rukou ...“ zmárnomyseľnel starý maliar a sišla mu   na um lotrovská myšlienka.
+   </tei:p>
+   <tei:p>
+    „Keď si ty mňa nepoznal, ja ťa poznám, a ja ťa trafím, čo sa ani   dívať nebudem na teba!“ a starý maliar na rebríku zatiera na kríži   lotra jedného i druhého, aby ich premaľoval.
+   </tei:p>
+   <tei:p>
+    „Dám ho na ľavicu! Na ľavicu ho dám. Áno, hej, ten sa porúhal   Kristu Pánu, keď s ním visel a nepoznal, neuznal Spasiteľa ...“
+   </tei:p>
+   <tei:p>
+    Pačko zatiera lotra na pravici Kristovej, aby ten na ľavici zatiaľ   uschol a myslí: „Dal by som ho na ľavicu, lenže som kresťan-katolík   ... Nemôžem ho tak zatratiť ... večne; veď bol kamarát dobrý.   Klobásku uvaril, po vínko poslal, keď som sa len ukázal v meste, po   farby sbehol... A keď sme si zašli pod „Zelenú lipu“ k nebohému   Krížikoví ... To bol tiež vták dobrý... Tých fígľov a kuchárok, čo   vie pospomínať, keď sme mladí boli a remeslu sa učili... Hanba na to   i pomyslieť. Je pôst. Počkaj, budeš sa kajať i so mnou... Akože je to   ? ,Pane, rozpomeň sa na mne, když prídeš do království   svého“
+   </tei:p>
+   <tei:p>
+    A starý Pačko z vďačnosti, že ho Boh zachránil od náhlej smrti, i   aby sa po kresťansky, mierne pomstil Pavličkovi, chcel namaľovať   lotrovi na pravici pol svojej tvári a pol Pavličkovej, ale veru nikto   ich nerozoznal, a len keď sa po Veľkej noci v meste sišli a všetci   traja ohliadači „jeho“ mŕtvoly vypili po „dva deci“ na večnú slávu   neznámemu maliarovi a na dlhé zdravie Pačkovi, rozprával im Pačko,   aké hriešne úmysly mal s Pavličkom, ale že „sa mu srdce pohlo ... nad   tebou, i nad sebou ... za naše hriechy. Vieš...“
+   </tei:p>
+   <tei:p>
+    „Keby to nie, bol by si tam, na ľavici, naveky.“
+   </tei:p>
+   <tei:p>
+    „Len kým by to dážď nesmyl. Dávaš málo firnajzu ...“
+   </tei:p>
+   <tei:p>
+    „No, či si nie lotor, Jozef? Nech nás Pán Boh živí!“ a štrngli si   na ďalšie bratstvo ...
+   </tei:p>
+   <tei:p>
+    (Obrázky nové i staré, I. vyd., 1928.)
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
