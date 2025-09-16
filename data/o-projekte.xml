@@ -64,6 +64,30 @@
                 <item>interaktívne vizualizácie a prístup k metadátam.</item>
             </list>
 
+            <p>
+              Okrem samotných textov portál obsahuje aj sprievodné odborné a metodologické
+              materiály, ktoré užívateľom poskytujú rámec pre interpretáciu a ďalšie využitie.
+              Web projektu DISPRO je archívom, ale aj aktívnym výskumným prostredím. 
+            </p>
+
+            <p>Budovanie zbierky prebiehalo v niekoľkých fázach:</p>
+
+            <list rend="bulleted">
+                <item>cielené zostavenie bibliografického zoznamu slovenskej prózy do r. 1955,</item>
+                <item>digitalizácia a OCR spracovanie diel, ktoré doposiaľ neboli dostupné v elektronickej podobe,</item>
+                <item>export dát,anotovanie textov a tvorba metadát v súlade s TEI a ELTeC,</item>
+                <item>testovanie metodológie na pilotnom korpuse a jej implementácia na celý súbor.</item>
+            </list>
+
+            <p>
+              Kľúčovou otázkou bola reprezentatívnosť – zbierka bola koncipovaná
+              tak, aby pokrývala rôzne žánrové, autorské a časové vrstvy
+              približujúc sa štandardom európskych digitálnych zbierok v rámci
+              ELTeC. Dôležitou súčasťou metodiky sa stali aj úvahy o národnom
+              kánone, autorských korpusoch či rodovej vyváženosti a možnostiach
+              feministickej literárnej kritiky v slovenskom kontexte.
+            </p>
+
          </div>
       </body>
   </text>
