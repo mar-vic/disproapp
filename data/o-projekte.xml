@@ -57,7 +57,7 @@
              ktorý sprístupňuje anotovanú databázu diel slovenskej prózy.
              Platforma umožňuje:
  
-            <list type="syllogism" rend="bulleted">
+            <list rend="bulleted">
                 <item>fulltextové vyhľadávanie a prehliadanie,</item>
                 <item>filtrovanie podľa rôznych kritérií (autor, obdobie, žáner, rozsah),</item>
                 <item>export dát,</item>
