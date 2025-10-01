@@ -116,7 +116,7 @@
     "paste": "Pre testovanie vložte do vstupného poľa"
   },
   "login": {
-    "login": "Prihlásiť sa",
+    "login": "Administrácia",
     "as": "Prihlásený ako {{user}}",
     "user": "Užívateľ",
     "password": "Heslo",
