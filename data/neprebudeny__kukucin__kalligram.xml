@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk2009358" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk2009358" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -61,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T3"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -1356,7 +1356,7 @@
     <tei:p>
      Totka tiež zostala smutná, nevediac pomoci. Rozmýšľala, ako   prekaziť, aby jej chlapec neurobil posmech i sebe i druhým. No rady,   pomoci nikde. Čím väčšmi blížila sa svadba, tým väčšmi bledla nádej   na dobrý koniec.
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -1458,7 +1458,7 @@
     <tei:p>
      Koniec prísahe, sobášu. Čuvy utíchli, ukolísali sa v riadny stav –   prelud zmizol. Mladucha vydýchla – akoby jej kameň z hrudi padol!   Ach, sobáš, tá prísaha, tí diváci, to všetko rozčuľuje fantáziu   nevesty: nie div, že ukazujú sa jej strašidlá. No, keď vážny okamih   minie, nastane rovnováha, i chladný rozum príde k svojmu právu.
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -1656,7 +1656,7 @@
     <tei:p>
      „Nuž nech sa stane vôľa Božia. Ja všetko porúčam Bohu. On   najlepšie vie, čo treba.“
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -1944,7 +1944,7 @@
     <tei:p>
      Špáry zamazali a o chvíľu striekačka bola plná. Dvanásť chlapov   ťahalo sochor; hrubý prúd vody lial sa na šinkový krov. O zadné stavy   neobzrel sa už nik. Tým nebolo pomoci.
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>

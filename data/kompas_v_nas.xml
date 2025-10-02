@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk1949976" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1949976" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -47,17 +47,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="long"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T4"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="long" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -72,7 +72,7 @@
     <tei:head>
      KOMPAS V NÁS
     </tei:head>
-    <tei:head/>
+    <tei:head />
    </tei:div>
   </tei:front>
   <tei:body>

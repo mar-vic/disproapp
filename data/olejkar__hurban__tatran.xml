@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk1977151" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1977151" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -61,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T1"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -86,7 +86,7 @@
     <tei:head>
      Olejkár
     </tei:head>
-    <tei:head/>
+    <tei:head />
    </tei:div>
   </tei:front>
   <tei:body>
@@ -94,10 +94,10 @@
     <tei:head>
      1
     </tei:head>
-    <quote>
-      <l>Juž konie w stajnie wzieto, juž im hojnie dano,</l>
-      <l>jako w porzadnym domu i obrok i siano.</l>
-    </quote>
+    <tei:quote>
+      <tei:l>Juž konie w stajnie wzieto, juž im hojnie dano,</tei:l>
+      <tei:l>jako w porzadnym domu i obrok i siano.</tei:l>
+    </tei:quote>
     <tei:p>A. Mickiewicz</tei:p>
     <tei:p>
      Bolo to v posledný deň roku 1299. A ten deň bol plný hrôzy. Vonku   duli vetry, krútili sa chumelice a v oblakoch, zdalo sa, že čosi   hučí; v ľudských dušiach hýbalo sa akési tráplivé tušenie. Ako by aj   nie, veď chýlil sa silvestrovský večer, v ktorom sa mali stretnúť dve   storočia. Povesti slovenského ľudu o tomto večere rozletúvali sa s   hukotom vetrov a chumelíc po celom Považí. Sám slávny a nádherný   Trenčín bol ako zakliaty; ticho a pusto bolo po jeho uliciach,   inokedy živých a preplnených ľudom. Veď tieto časy boli časy   trenčianskej slávy, tieto chvíle boli chvíľami statočnosti a sily   meštanov pyšného Trenčína. A predsa spomenutého dňa bol Trenčín skoro   taký smutný ako teraz, keď z jeho múrov zmizla a vyletela sláva   minulých dní a poodchodili tie postavy pamätných osôb.
@@ -126,7 +126,7 @@
     <tei:p>
      - Ho-ho-ho! Ilenka moja, ja vám... ej, čo! Ja ti zaspievam, že ti   srdce poskočí!
     </tei:p>
-    <quote>
+    <tei:quote>
       <tei:l>
         Pod Inovcom Meluzína
       </tei:l>
@@ -145,7 +145,7 @@
       <tei:l>
         Pre Ďura, Ilena, maškrty rob!
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      - Tachoďte...! Vy furták! - Mala sa k nemu s pekným úsmevom a   udrela ho ľahko po pleciach. Ilena bola stará slúžka bohatého   zlatníka, ku ktorému bol prišiel náš neznámy so svojím paholkom. Ďuro   opatril kone a Ilena sa mu hľadela v teplej chyžke pod bránou zaľúbiť   čo najlepšími vecami.
     </tei:p>
@@ -154,14 +154,14 @@
     <tei:head>
      2
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Verruchter! hehe dich von hinnen
       </tei:l>
       <tei:l>
         und nenne nicht das schöne Weib!
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      Goethe
     </tei:p>
@@ -278,14 +278,14 @@
     <tei:head>
       3
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Mesiac na ňu nesvieti, slniečko nehreje,
       </tei:l>
       <tei:l>
         a nemá viac na svete krem jednej nádeje.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
       J. Kráľ
     </tei:p>
@@ -378,7 +378,7 @@
     <tei:head>
      4
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Za jeho času na veži trenčianskej
       </tei:l>
@@ -391,7 +391,7 @@
       <tei:l>
         zlatú vraj žiaru rozlieval.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      Ludovít Štúr
     </tei:p>
@@ -427,7 +427,7 @@
     <tei:head>
      5
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Veď sa podplavíme
       </tei:l>
@@ -440,7 +440,7 @@
       <tei:l>
         vedie cesta slávy.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      J. Rimavský
     </tei:p>
@@ -524,14 +524,14 @@
     <tei:head>
      6
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Na jejich čele postava veliká
       </tei:l>
       <tei:l>
         silou aj duchom nad všetkých vyniká.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      J. Rimavský
     </tei:p>
@@ -675,14 +675,14 @@
     <tei:head>
      7
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Z ktorých postavy, držania a chodu
       </tei:l>
       <tei:l>
         poznať, že božstva musia byť sluhovia.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      J. Rimavský
     </tei:p>
@@ -745,7 +745,7 @@
     <tei:head>
      8
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Jeśli się kiedy wydarzy,
       </tei:l>
@@ -767,7 +767,7 @@
       <tei:l>
         nežil mu duch, dýchnuť sa bojí.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      K. Kuzmány.
     </tei:p>
@@ -863,7 +863,7 @@
     <tei:head>
      9
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Tmí sa...
       </tei:l>
@@ -876,11 +876,11 @@
       <tei:l>
         a padne na čiernu zem od žiaľu veľkého.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      J. Kráľ
     </tei:p>
-    <quote>
+    <tei:quote>
       <tei:l>
         Predsa si došiel po tak dlhom čase,
       </tei:l>
@@ -893,7 +893,7 @@
       <tei:l>
         srdce plakalo... ja sa bála straty.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      J. Matuška
     </tei:p>
@@ -959,14 +959,14 @@
     <tei:head>
      10
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Blízke nešťastie tajná
       </tei:l>
       <tei:l>
         zvestuje mi vláda.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      Schiller
     </tei:p>
@@ -1047,7 +1047,7 @@
     <tei:head>
      11
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Kto idzie? Swój. - Co za swój? Brat, brat,
       </tei:l>
@@ -1057,7 +1057,7 @@
       <tei:l>
         Mów hasí i znak podaj, bo inaczej strzelę.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      Medzi Vsetínom z moravskej strany a Lazmi, dedinkou na strane   uhorskej, naváľalo mocné zbúrenie prírody veľkých, strmých, teraz   hustou dubinou a bučinou pozarastaných vrchov a kopcov. Akoby si sa   mal na strechu driapať, tak príkro, tak strmo sa ti pnú Lazovské   hory. Na druhej strane leží Vsetín. Kto šiel odtiaľ, vie, že známym   chodníkom nejde človek zadlho z Lazov do Vsetína, ale kto stadiaľ   blúdi, vie, že táto cesta sa dá veľmi nadlžiť a sťažiť.
     </tei:p>
@@ -1099,7 +1099,7 @@
     <tei:head>
      12
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Samučká je, sama,
       </tei:l>
@@ -1112,7 +1112,7 @@
       <tei:l>
         sedáva sivými.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      M. J. H.
     </tei:p>
@@ -1142,7 +1142,7 @@
     <tei:head>
      13
     </tei:head>
-    <quote>
+    <tei:quote>
       <tei:l>
         Sieň sa prestiera čierno pristrojená
       </tei:l>
@@ -1155,11 +1155,11 @@
       <tei:l>
         privodí volaných, vlastizradných škodcov.
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      M. J. H.
     </tei:p>
-    <quote>
+    <tei:quote>
       <tei:l>
         Kliatba ležala v tom stolíčku
       </tei:l>
@@ -1172,7 +1172,7 @@
       <tei:l>
         bože, buď im milostivý!
       </tei:l>
-    </quote>
+    </tei:quote>
     <tei:p>
      J. Kráľ
     </tei:p>

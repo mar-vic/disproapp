@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk1956627" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1956627" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -61,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T2"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -94,12 +94,12 @@
   <tei:body>
    <tei:p>
     Vladislav
-    <tei:ref target="#N1"/>
+    <tei:ref target="#N1" />
     , hrdinský kráľ Uhorska, leží už šesť   rokov vstred svojich, za slávu kresťanstva a samostatnosť kresťanskej   Európy padlých víťazov slovenského a maďarského pôvodu, na rovinách   Varny pochovaný.
    </tei:p>
    <tei:p>
     Nad Uhorskom vedie správu Ján Huňad
-    <tei:ref target="#N2"/>
+    <tei:ref target="#N2" />
     , bohatier,   ktorému ani vo víťaznej udatnosti, ani v šľachetnomyseľnosti, ani v   bezzištnosti páru v Uhrách ešte nebolo — ba asnáď ani nebude.
    </tei:p>
    <tei:p>
@@ -107,20 +107,20 @@
    </tei:p>
    <tei:p>
     Jiskra
-    <tei:ref target="#N3"/>
+    <tei:ref target="#N3" />
     , povolaný do Uhier   Alžbetou
-    <tei:ref target="#N4"/>
+    <tei:ref target="#N4" />
     , vdovou po Albertovi zostalou, aby   zastával korunné práva jej pohrobka syna Ladislava
-    <tei:ref target="#N5"/>
+    <tei:ref target="#N5" />
     proti Vladislavovi, zakorenil sa ľahko so svojím chrabrým vojom v   Hornom Uhorsku, v lone svojich pobratimov Slovákov; lež bársako   prísne drží svoje zmužilé voje — predsa tieto už či jedine len z pudu   po dobrodružstvách a zisku, či snáď že to samo v sebe tajná Jiskrova   vôľa, ktorú jeho podriadení vodcovia mysleli si vyskúmať z jeho   držania, reči, posunkov atď. — miesto aby pri boku hrdinského Huňada   pomstili stratu uhorského kráľa pri Varne, vychodia na zboje, lúpia   pokojných obyvateľov
-    <tei:ref target="#N6"/>
+    <tei:ref target="#N6" />
     a v svojom obchode   cestujúcich kupcov.
    </tei:p>
    <tei:p>
     Ako hovoríme, Jiskra svojim podveliteľom hľadí veľmi cez prsty.   Prívrženci jeho, ktorých je sila, tajne síce, lež tým dôraznejšie   robia útoky na jeho slabú stránku, na jeho ctižiadosť, ktorá sa zračí   v caesarovskom hesle
-    <tei:ref target="#N7"/>
+    <tei:ref target="#N7" />
     — „Alebo Jiskrom, alebo   ničím“. Bodlo ho to — ako to všeobecná mienka — že ho Huňad vytisol   zo spolusprávy krajiny; bodlo to i pánov Garu a Ujlakiho, toho času   mohutných oligarchov
-    <tei:ref target="#N8"/>
+    <tei:ref target="#N8" />
     , ktorí si na svojom pôvode   mnoho zakladajú — a následkom tohoto sú tajnými nepriateľmi slávneho   Huňada, ako takého, ktorý sa len nedávno vyšvihol z prachu na   správcovský stolec. A títo páni dľa ich rázu radšej pod plášťom   ustrájajú kunšty, ako čo by otvorene chceli čelo v čelo hrdinovi   pozrieť do očú. Majú oni plášť, pána Jiskru, taktiež hrdinu, ktorý   jedinký toho veku, ba snáď i napotom, môže sa Huňadovi vyrovnať.
    </tei:p>
    <tei:p>
@@ -128,7 +128,7 @@
    </tei:p>
    <tei:p>
     Kráľa niet, ten je pod dozorstvom úskočného, podlocitného Ulricha   Cilleyho
-    <tei:ref target="#N9"/>
+    <tei:ref target="#N9" />
     v rukách cisára Fridricha i so svätou   kráľovskou korunou. Dá sa myslieť, akého panovníka chcú títo páni z   neho vychovať: bábku, prvšiemu za prostriedok ustavičného vykonávania   krajinskej moci za cudzím chrbtom, druhému za vazala, ba asi za   rebrík, po ktorom mohol by tú krásnu uhorskú krajinu s pripojenými   čiastkami ako zrelé jabĺčko odtrhnúť a k veľkej, lež roztrepanej   nemeckej ríši privteliť.
    </tei:p>
    <tei:p>
@@ -209,7 +209,7 @@
     </tei:p>
     <tei:p>
      „Ha, junák, drahý môj pán Krask, vy rytier od Sinai, či ako vy   povedáte — od Tábora, to je, čert mi do duše a sto striel do mojej   Strely, nech som nie Hrabinom, ak je nie pravda — to je vám, prisahám   na kalich, kúr z Huňadovho tábora; to mu náš čertovský vojvoda, jeho   milosť pán Talafúz
-     <tei:ref target="#N10"/>
+     <tei:ref target="#N10" />
      tak podkúril!“
     </tei:p>
     <tei:p>
@@ -253,7 +253,7 @@
     </tei:p>
     <tei:p>
      „Len pomaly, pán z Tábora a z Krasku; lebo čert mi do duše, takto   je z nás nič. To bola Rozgoňova
-     <tei:ref target="#N11"/>
+     <tei:ref target="#N11" />
      ruka!“
     </tei:p>
     <tei:p>
@@ -583,9 +583,9 @@
     </tei:p>
     <tei:p>
      „Mirko môj, ako vidíš, u nás je všetko v poriadku. V páde   nešťastného výsledku včerajšej bitky boli sme úplne prihotovení k   vytrvalej obrane. Jeho milosť pán Jiskra žiada, aby sme zostali v   tomto obrannom položení i naďalej. Píše mi, že onedlho sám k nám   príde, a to v spoločnosti Pankráca
-     <tei:ref target="#N12"/>
+     <tei:ref target="#N12" />
      , Talafúza a   Komorovského
-     <tei:ref target="#N13"/>
+     <tei:ref target="#N13" />
      . Huňadovi neverí. Tento velikán   nezabudne na pomstu. Má nás v oku ako soľ, i nazdá sa, že sme   nešťastím krajiny. Hja, darmo je, každý žije, ako vie ¦ a víťazstvo   kalicha sa musí šíriť, a národ československý zveličovať. Či nie tak,   otče Brožko?“
     </tei:p>
     <tei:p>
@@ -659,7 +659,7 @@
     </tei:p>
     <tei:p>
      „Ha — na Žižku! — otče, tvoj plán je veľký!“ zvolal naostatok,   prsia sa mu vzdmuli a v slobodnom lete obrazotvornosti videl sa už na   vrchole slávy, ligotajúcej sa v spojení s Huňadovským domom. „Milica   je deva zvláštnej krásy a hrdinského ducha, súca k boku Lacka   Huňada
-     <tei:ref target="#N14"/>
+     <tei:ref target="#N14" />
      . No a Mirko Krask… pravdu máš, otče, srdce   si rozkazovať nedá. Sám som zbadal, že Milica od neho bočí, bárs   dávno vie, že jej je matkou súdený. No, dáme jej po vôli! Tvoj plán,   otče, ja síce nebudem verejne napomáhať, lež mu ani prekážky v ceste   klásť. Rob, čo za dobré uznáš, lež — na Žižku! — opatrne, aby   Valgathovo meno nevyšlo na posmech.“
     </tei:p>
     <tei:p>
@@ -726,7 +726,7 @@
     </tei:p>
     <tei:p>
      Nadšené slová starca neminuli sa v Miliciných ňadrách žiadaným   účinkom. Nevysloviteľná vznešenosť preletela deviným výrazne-krásnym   obličajom, oči žblnkotali ohňom nebeského nadšenia a celá postava   devy vztýčila sa v junónskej
-     <tei:ref target="#N15"/>
+     <tei:ref target="#N15" />
      hrdosti, povedomá   svojho veľkého určenia.
     </tei:p>
     <tei:p>
@@ -1089,7 +1089,7 @@
     </tei:p>
     <tei:p>
      „Gottes Blut und alle Heiligen
-     <tei:ref target="#N16"/>
+     <tei:ref target="#N16" />
      … Nič sa nám   nedarí! Ani včera, ani dnes. Zajtra príde Cilley a — nemáme ani jednu   v rukách.“
     </tei:p>
     <tei:p>
@@ -1121,7 +1121,7 @@
     </tei:p>
     <tei:p>
      Sotva z bučiny vystúpil, letela na koni proti nemu jedna štíhla,   hybkých pohybov tela amazona
-     <tei:ref target="#N17"/>
+     <tei:ref target="#N17" />
      , švihla ho po hlave   malým remenným korbáčom a s hnevivým výrazom v tvári a očiach,   brnkajúc hromžila tenkým síce, lež rozkazujúcim tónom:
     </tei:p>
     <tei:p>
@@ -1153,7 +1153,7 @@
     </tei:p>
     <tei:p>
      „Pravdu máte!“ odvetil naostatok, „málo chybí, že som sa už pri   vás nestal babou; ale — na Matúša z Trenčína
-     <tei:ref target="#N18"/>
+     <tei:ref target="#N18" />
      ,   ktorý mi bol po starej matke pradedom — vašej ľubovôli sa nedám vodiť   ako psík na svorke!“
     </tei:p>
     <tei:p>
@@ -1260,7 +1260,7 @@
     </tei:p>
     <tei:p>
      „Gut, gut
-     <tei:ref target="#N19"/>
+     <tei:ref target="#N19" />
      , hovor ďalej!“
     </tei:p>
     <tei:p>
@@ -1268,7 +1268,7 @@
     </tei:p>
     <tei:p>
      „Gottes Blut! V hrsti vám je, a ja vám ho chytať mám? Ihr   Memmen
-     <tei:ref target="#N20"/>
+     <tei:ref target="#N20" />
      , keby to Meluzína, ale — Krask!“
     </tei:p>
     <tei:p>
@@ -1276,7 +1276,7 @@
     </tei:p>
     <tei:p>
      „Či tak, Sperber?“ homral tento v strašnom rozbúrení krvi a   modrozelené okále divo gúľal za odchádzajúcim. „Chichichi… a tomuto   oplanovi Cilley najviac verí? Höll und Tod!
-     <tei:ref target="#N21"/>
+     <tei:ref target="#N21" />
      … On   veliteľ, ten podlý oplznutý pes, ten zradca Habsburského domu…,   ktorý, kým ja za slávu a rozšírenie Nemectva nosím potupný šat   zbrojnoša, dovtedy sa zháňa po lúpežných Češkách? Rozumiem ťa,   Krahulec, nie Cilley, ale ty sám za Meluzínou pasieš! Ach, prašinák!   Utri si ty i s vychrtlým naším grófom od nej zuby. Meluzínu Ritter   Wölfel ľúbi!“
     </tei:p>
     <tei:p>
@@ -1304,7 +1304,7 @@
     </tei:p>
     <tei:p>
      „Skutočne!“ odvetil prekvapený Brožko, keď skúmajúci pozor k   Balogu bol obrátil. „Skutočne, čierno-žltá zástava! Náš dobrý priateľ   Ulrich sa istotne pri Krahulcovi uhostil, a par nobile   fratrum
-     <tei:ref target="#N22"/>
+     <tei:ref target="#N22" />
      — i Krahulcovi z každého pohybu tela   zakuklené Nemčisko vyzerá.“
     </tei:p>
     <tei:p>
@@ -1465,7 +1465,7 @@
     </tei:p>
     <tei:p>
      „Otče Jiskra, slávny vodca náš!“ prehovoril po dlhšom mlčaní Peter   Aksamit
-     <tei:ref target="#N23"/>
+     <tei:ref target="#N23" />
      , nadveliteľ Spišského hradu, postava   temného to a zasmušilého, ba temer divého výzoru, „uctím tvoje   náhľady, ale pretože si smelé slovo dovolil, upomínam ťa a vás   všetkých, páni, rytierstvo, na cieľ nášho príchodu do krajiny.   Pretože sme povolaní Alžbetou, ovdovelou kráľovnou Uhorska, spojenou   s cisárom Fridrichom, náš účel inší byť nemôže, nesmie, ako upevniac   a rozširujúc naše panstvo, zlomiť nadvládu Huňadovu a jeho   prívržencov, čeliacu k vyvráteniu Ladislavových práv. My sme do   Uhorska vtrhli, aby sme tieto práva zastávali — a tak o miere s   Huňadom nemôže byť reči.“
     </tei:p>
     <tei:p>
@@ -1482,7 +1482,7 @@
     </tei:p>
     <tei:p>
      Tak sipeli Aksamit, Uderský
-     <tei:ref target="#N24"/>
+     <tei:ref target="#N24" />
      , Komorovský,   Hraško a druhí, ktorí si týchto názvov najlepšie boli povedomí.
     </tei:p>
     <tei:p>
@@ -1582,7 +1582,7 @@
     </tei:p>
     <tei:p>
      „Tölpel
-     <tei:ref target="#N25"/>
+     <tei:ref target="#N25" />
      ,“ zmrmlal Ulrich. „A ty, Habicht,   získal si Valgathovu dôveru?“
     </tei:p>
     <tei:p>
@@ -1653,7 +1653,7 @@
     </tei:p>
     <tei:p>
      Milý, drahý! Vyjavujem urodzenosti vašej súcit nad stratou pri   Lučenci, ktorú jedine zrada našich obapolných nepriateľov   zapríčinila. Náš odporca Jiskra so svojimi lúpežnými rotami, opojený   svojím víťazstvom, chce Uhorsko — ako toho mám isté dôkazy — podmaniť   svojej moci. Ba prepych a ctižiadosť jeho je tak veľká, že so   zapredaním svätých práv koruny nášho maloletého zverenca Ladislava —   mieni túto položiť na svoju zradnú hlavu. Prisahal zničenie statného   maďarského národa, prisahal zahladenie vášho hrdinského rodu.   Urodzenosť vaša zná dobre oceniť toto nebezpečenstvo, ktoré hrozí   drahému Uhorsku. Pretože naše záujmy či občianske, či rodinné — slúži   mi to k hrdosti a k potešeniu, že moja dcéra zasnúbená je vášmu   mladšiemu synovi Matejovi
-     <tei:ref target="#N26"/>
+     <tei:ref target="#N26" />
      — sú totožné, vyzývam   vás: by ste bez odkladu, zoberúc všetky možné sily, uderili na lupiča   krajiny Jiskru a jeho roty, pomstiac našu stratu pri Lučenci a   oslobodiac nešťastné Uhorsko od jeho zradcov a utláčateľov. Zničenie   týchto podarí sa nám teraz istotne, mám v ich službe našich ľudí,   ktorí nám k ich zahladeniu dopomôžu. S týmto vašu urodzenosť bližšie   zoznámi oddávateľ tohto listu, rytier Wölfenburg, ktorého ako   dôverníka môjho vašej milosti snažne odporúčam. Cilley.“
     </tei:p>
     <tei:p>
@@ -1732,12 +1732,12 @@
     </tei:head>
     <tei:p>
      Piesočnatou púšťou medzi Böszörményom
-     <tei:ref target="#N27"/>
+     <tei:ref target="#N27" />
      a   Debrecínom brodila sa koňmo jedna asi zo šesť osôb záležajúca   družina; bola unavená síce, ale predsa napredovala vo veselom   zhovore.
     </tei:p>
     <tei:p>
      Boli to Jiskrovi vyslanci Krask a Brezovický v sprievode Meluzíny   Hraškovej, ktorá, v rytiersky šat oblečená, javila vo svojom štíhlom,   ohebnom vzraste príjemnú, mladistvú postavu panoša. Vyslanstvo viedol   Lacko Kanižay
-     <tei:ref target="#N28"/>
+     <tei:ref target="#N28" />
      , maďarský junák výraznej tváre,   ktorého jeho priateľ Lacko Huňad tomuže potajomne v ústrety bol   poslal.
     </tei:p>
     <tei:p>
@@ -1745,7 +1745,7 @@
     </tei:p>
     <tei:p>
      „Ej, Jánoš koma“
-     <tei:ref target="#N29"/>
+     <tei:ref target="#N29" />
      ,“ prihováral sa náš Matej   lámanou maďarčinou svojmu súdruhovi opálenej tváre a čiernych   vysúkaných fúzov, „to sú vám, čert mi a vám do duše, biedne kraje.   Len nebo a piesok, a miesto povetria lapaj do pažeráka prach —   ebadta!“
     </tei:p>
     <tei:p>
@@ -1753,11 +1753,11 @@
     </tei:p>
     <tei:p>
      „Napite sa, komám! My na Dolnej zemi   hortobáďsky
-     <tei:ref target="#N30"/>
+     <tei:ref target="#N30" />
      prach s   érmelléckym
-     <tei:ref target="#N31"/>
+     <tei:ref target="#N31" />
      zalievame. A, Isten az   atyám
-     <tei:ref target="#N32"/>
+     <tei:ref target="#N32" />
      , tak vám pažerák vyplákne ani vaša hronská   voda.“
     </tei:p>
     <tei:p>
@@ -1900,7 +1900,7 @@
     </tei:p>
     <tei:p>
      I biskup Vitéz
-     <tei:ref target="#N33"/>
+     <tei:ref target="#N33" />
      i Székely zdieľali radosť   otcovou a stavali na Lackovi budúcnosť Uhorska.
     </tei:p>
     <tei:p>
@@ -2344,7 +2344,7 @@
     </tei:p>
     <tei:p>
      Darmo ho uspokojoval otec Brožko. Márne ho uisťoval, že Lacko   Huňad šľachetnejšie zmýšľa, žeby jeho dom pohaniť chcel; že nemožno,   aby podvrhnutý list od neho pochádzal, lebo — ako istotne zná — Lacko   teraz mešká v Debrecíne, a krem neho na zámku Drienčanoch žiadneho   dôverníka nemá. I darmo preukazoval, že Lackov otec Ján Huňad o   tajnej náklonnosti svojho syna doteraz nič nezná a tak ani lásku jeho   nemohol prekliať. Áno, daromné boli všetky dôvody, lebo Valgatha,   vidiac ctižiadosť svoju Huňadom na pranier posmechu položenú, v čom   ho Krahulec utvrdzoval, zúril ešte väčšmi, nadával starcovi do   zvodičov
-     <tei:ref target="#N34"/>
+     <tei:ref target="#N34" />
      , preklínal jeho tajnostkárstvo, a vždy   po takomto výjave ukázal na dvere.
     </tei:p>
     <tei:p>
@@ -2469,7 +2469,7 @@
     </tei:p>
     <tei:p>
      Milica skríkla, potom pozrúc na starca zrakom plným výčitky, sadla   si k harfe i zaspievala smutne, žiaľne ako   Artemisia
-     <tei:ref target="#N35"/>
+     <tei:ref target="#N35" />
      nad mauzóleom nezapomenuteľného   muža:
     </tei:p>
     <tei:p>
@@ -2644,7 +2644,7 @@
     </tei:p>
     <tei:p>
      Mirko, vidiac, že je tu každý odpor márny a že aspoň na tento čas   nie je vstave rozviazať gordický uzol
-     <tei:ref target="#N36"/>
+     <tei:ref target="#N36" />
      Valgathovo   držania sa, vyňal Huňadovu odpoveď a oddajúc ju Kudlákovi, hovoril   vážne a tak hlasne, že ho i Valgatha mohol rozumieť:
     </tei:p>
     <tei:p>
@@ -2847,7 +2847,7 @@
     </tei:p>
     <tei:p>
      „Dcéra Slovanstva, žehnaj boh kroky tvoje ako kroky Judity   Betulskej
-     <tei:ref target="#N37"/>
+     <tei:ref target="#N37" />
      , ktorá oslobodila svoju vlasť od poroby   a jarma cudzincov. Poď, dcéra Slovanstva, rob poriadky, aby sa tvoje   snahy čím skôr uskutočnili.“
     </tei:p>
     <tei:p>
@@ -3022,7 +3022,7 @@
     </tei:p>
     <tei:p>
      „Ha — na Žižku!“ zamrmlal naostatok. „To žiaden mam, to pravda!   Len kto sa o mňa tak pečlivo stará? Moja nepodarená dievka, či Brožko   — a Krask? Ach, to sú zradcovia, neverníci, ktorým na mojom dobre nič   nezáleží! Žebych sa vraj Krahulca varoval — toho jediného, ktorý mi   sám zostal verný, ktorý mi otvoril oči, aby som videl diabolské   siete, do ktorých ma moji najbližší chceli vrhnúť na ujmu mojej cti a   slávy. Neverím vám, vy tajné moci — bo nepodávate dôkazy svojho   utŕhania! Čo spravil Alexander Veľký
-     <tei:ref target="#N38"/>
+     <tei:ref target="#N38" />
      na bolestnej   posteli, keď utŕhačstvo vinilo jeho lekára úmyslom otrávenia? Vypil s   dôverou týmtože mu podaný liek a — ozdravel! Ani mňa dôvera v   Krahulca nezanechá!“
     </tei:p>
     <tei:p>
@@ -3233,7 +3233,7 @@
     </tei:p>
     <tei:p>
      „Jánoš mešter
-     <tei:ref target="#N39"/>
+     <tei:ref target="#N39" />
      , či je pivnica v poriadku?“
     </tei:p>
     <tei:p>
@@ -3331,7 +3331,7 @@
     </tei:p>
     <tei:p>
      Pri ostatných slovách pozrel zostra na Lacka, vystúpil von,   vyšvihol sa na svojho koňa havranej srsti, i cválal hore-dolu   táborom, riadiac voje k čakanému útoku. Székelyovi oddal stred, v   ktorom sedmohradskí Rumuni so Slovačou, čo huňadovcom zostala verná,   tvorili neporovnateľnú, múropevnú pechotu, Rozgoňovi ľavé krídlo   jazdcov z hajdúckych miest
-     <tei:ref target="#N40"/>
+     <tei:ref target="#N40" />
      a Kumánov, pravé však,   záležajúce z jazdy maďarského zemianstva, svojmu synovi Lackovi,   nechajúc Kanižayho ako veliteľa dolnozemských vetroskorých čikóšov   vzadu čo rezervu púšti synov.
     </tei:p>
     <tei:p>
@@ -3482,7 +3482,7 @@
     </tei:p>
     <tei:p>
      „Moje voje vystali najviac od útoku Kumánov
-     <tei:ref target="#N41"/>
+     <tei:ref target="#N41" />
      a   hajdukov. To sú čerti, na slobodnom poli im ani peklo neodolá.“
     </tei:p>
     <tei:p>
@@ -3861,7 +3861,7 @@
     </tei:p>
     <tei:p>
      „I ja som vykonal. Balog je v Huňadových rukách. Môžeme sa oba   bezpečne vrátiť do Štajerska k obdržaniu nám sľúbenej odmeny. Vstred   týchto prekliatych Maďarov a Čechov nám jednako nekvitnú ruže! Gottes   Blut, zunoval som túto nevzdelanú barbarskú háveď až do smrti. Niet   národa nad Teutónov
-     <tei:ref target="#N42"/>
+     <tei:ref target="#N42" />
      , niet krajiny nad   Germániu!“
     </tei:p>
     <tei:p>
@@ -3914,12 +3914,12 @@
     </tei:p>
     <tei:p>
      „Neviem, akú by tu mohol lesť previesť,“ namietol veliteľ, „tu sme   my nie na slobodnom poli — a v mojich chrabrých istotne nieto   zradcov. Asnáď nás chce hladom vymoriť, hahaha! Bude z toho čert, môj   preudatný Sibiňanin Janko
-     <tei:ref target="#N43"/>
+     <tei:ref target="#N43" />
      ! Chvalabohu, v mojom   hrade je na celý rok potravy nadostač.“
     </tei:p>
     <tei:p>
      „Hľaďteže, pane, hľaďte, ký sa to hrom pri úžine robí! Tam tých   Rumunov ako mravcov. Dákesi priekopy kopú
-     <tei:ref target="#N44"/>
+     <tei:ref target="#N44" />
      ,   istotne chcú obšiancovať tábor.“
     </tei:p>
     <tei:p>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk2012956" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk2012956" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -61,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T2"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -83,8 +83,8 @@
  <tei:text>
   <tei:front>
    <tei:div type="titlepage">
-    <tei:head/>
-    <tei:head/>
+    <tei:head />
+    <tei:head />
    </tei:div>
   </tei:front>
   <tei:body>
@@ -148,7 +148,7 @@
      <tei:p>
       Móric Seben bol skoro každodenným hosťom u Javoričov; po svojom   otcovi zdedil blízku dedinku, v ktorej teraz sám hospodáril. Za časov   svojho jurátstva v Pešti aj on novomódne idey, ktoré veru lahodili   jeho povrchnej vzdelanosti, nabral do seba a teraz ich usilovne   rozširoval. U Javoričov našiel úrodné pole; matka súhlasila s ním,   dcéra od detinstva matkou prevrátene vychovávaná sa neprotivila, a   otec i mal, i nemal z toho radosť. Pravda, Móric so svojimi   návštevami aj iný cieľ spájal. Dedičstvo otcovské bolo zadlžené, bolo   mu treba bohatej žienky; krásna Irma lahodila oku, ľúbila sa srdcu a   záletník vidiac, že ako otec, tak i matka sú mu naklonení, pevne   veril v uskutočnenie svojej nádeje.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -247,7 +247,7 @@
      <tei:p>
       „No, to daromné nádeje, ale skús, uvidíš, ako sa popáliš.“
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -400,7 +400,7 @@
      <tei:p>
       Medzitým pozrime, čo naši žiaci robia u Javoriča.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -520,7 +520,7 @@
      <tei:p>
       A zase umĺkla celá spoločnosť – i pán Seben si netrúfal slova   preriecť a pán Javorič bol rád, že mohol mlčať; lebo on bol medzi   dvoma ohňami a musel sa len tak držať, aby sa ani na jednom, ani na   druhom nepopálil. Hoci Davorín sa ešte raz osmelil predniesť svoju   žiadosť, museli naši druhovia odísť bez zjavného výsledku.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -592,7 +592,7 @@
      <tei:p>
       A trojka táto, opustiac záhradu, poberala sa do domu.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -655,7 +655,7 @@
      <tei:p>
       Ale vzápätí nasledovala nová starosť – bolo treba vybaviť   povolenie u vrchnosti. I toto Davorín prevzal na seba. Darmo bránil,   darmo sa vyhováral pán mešťanosta na hrozby Sebena, i Davorín hrozil   novinami a na koniec navrhol, že na svoju zodpovednosť i bez   povolenia budú hrať a tým že len vážnosť pána mešťanostu utrpí; tak   už len dostali i to povolenie. Prenajali potom priestrannú, ich   zámeru zodpovedajúcu chyžu, postavili asi na pol siahy vysoké pódium,   miesto kortinov a kulís zastúpili vkusné španielske steny, jednoduché   zelené plátno roztiahlo sa miesto opony a improvizované divadlo stálo   hotové. Skúšky šli dobre až radosť, o podarení hry nikto   nepochyboval; len ako ešte privábiť početnejšie obecenstvo k tomuto   úkazu nevídanému v Lipovanoch? I z tohto ohľadu prišla Davorínovi na   um dobrá myšlienka. Znal on, že mládež oboch pohlaví rada sa baví a   najmä tancuje; zaopatril teda hudbu a na pozvánkach oznamovala sa   hneď aj tanečná zábava, čím biela pleť a s ňou spolu všetko bolo   popredku získané.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -871,7 +871,7 @@
      <tei:p>
       „Pôjdeš, pôjdeš! Čože si bez teba počneme? A Marinka Javoričovie   by naostatok ešte bola proti nám, a bez nej tvrdo v Lipovanoch niečo   počínať.“
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -947,7 +947,7 @@
      <tei:p>
       So študentstvom zašli i zábavy v Lipovanoch; všetko bolo zase tak,   ako bývalo bez študentov, s tým jediným rozdielom, že miesto dosiaľ   tu panujúcej baživosti po cudzom zaujalo národné povedomie. I Seben   sa ukázal svetu a mienil naspäť dočarovať časy vystúpením slovenského   žiactva zmútené, zmarené. Nevďačná to práca, nenachodiaca nikde   súhlas a účasť. Navštevoval Javoričov, ale i v tomto dome duch celkom   iný panoval; Máriu obyčajne doma nenachodil, lebo sa mu vyhýbala,   hoci ho Javoričovci vždy milo a vďačne prijímali. Ale toto živorenie   mu nebolo po vôli. On len v najnovších časoch pocítil, ako vrelo a   veľmi miluje Máriu, keď ho šípy žiarlivosti ranili a ani vo dne, ani   v noci pokoja mu nepriali. Žiadal si nadobudnúť istotu. Pýtal znovu   Máriu. Ona ale nechcela o ňom ani počuť. Otec a matka sa zhrozili, že   dcéra takú dobrú partiu opúšťa; žiadali čas, mysliac, že čas   študentskú lásku vyhojí a Mária na neprítomného Davorína zabudne. I   musel Seben znovu oddať sa na čakanie a tešiť sa budúcnosťou. Ako   Mária na Davorína zabúdala, svedčilo dopisovanie medzi nimi, ktoré   si, ako hovorili, len preto začali, aby sa Mária trocha v slovenskom   slohu pocvičila, keď dosiaľ len po maďarsky a po nemecky písavala. Do   tohto však my nakuknúť nepotrebujeme, domýšľaví čitatelia i tak ľahko   jeho obsah uhádnu.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>
@@ -1019,7 +1019,7 @@
      <tei:p>
       Mária bola síce oslobodená od neodbytného ženícha, ktorý by ju bol   svojou nehanblivosťou o všetko šťastie, ba o život pripravil, bo   konečne by skôr bola od žiaľu umrela, ako nenávidenému Sebenovi ruku   podala; ale pri tom všetkom ona ešte nebola šťastná, lebo červík   neistoty ohľadom Davorína zožieral jej srdce. Kde sa podel? Či žije?   A keď žije, či na ňu nezabudol? Takéto myšlienky nedali jej pokoja   dňom i nocou a ona vädla navidomoči. Tak vädne kvietok na slnečnom   sparne; ale ako náhle ho rosa pokropí, hneď zase hlávku pozdvihne a   utešene sa rozvíja.
      </tei:p>
-     <tei:p/>
+     <tei:p />
     </tei:div>
     <tei:div type="chapter">
      <tei:head>

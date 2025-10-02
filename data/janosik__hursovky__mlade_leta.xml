@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk1987295" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1987295" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -64,17 +64,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="long"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T4"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="long" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -89,7 +89,7 @@
     <tei:head>
      Jánošík
     </tei:head>
-    <tei:head/>
+    <tei:head />
    </tei:div>
   </tei:front>
   <tei:body>
@@ -149,8 +149,8 @@
      Sedel s krásnou verenicou medzi obidvoma grófskymi osvietenosťami.   Už zďaleka svietila jeho plešina, no ak si niekto myslel, že podľa   zvyku všetkých zamilovaných snúbencov nedbá o celé okolie a len do   zrakov modrookej kontesy sa pohrúža, tak sa veľmi mýlil. Pohrúžal sa   predovšetkým do ozrutného kamenného džbána a neprestajne mľaskal, aké   je to vínčisko znamenité, také by sa v Mošovciach nikdy   neurodilo.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Ruka mu nezastala. Keď nedvíhala džbán k ústam alebo k všeobecnému   štrngotu, tak celkom iste siahala po misiách, ktoré sa pred ním so   zázračnou rýchlosťou vyprázdňovali, a jeho jedácka pozornosť sa   sústreďovala najmä na husacinu.
@@ -450,8 +450,8 @@
      Nie dereš, to vymyslí každý hlupák. Človek musí mať trochu   vynaliezavosti, novota je soľou života, vždy musíme hľadieť vynájsť   niečo nové, čo nikdy predtým nebolo. Ja som kázal natĺcť tomu   chlapovi triesky za nechty, to veru na mošovskom zámku dosiaľ ešte   nebolo!
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Ale to už v panne Zuzanke všetko zovrelo, nemohla sa viac ovládať.   Vyskočila, líca jej vzplanuli a pred všetkými sa na baróna Révaya   hlasno oborila:
@@ -2502,8 +2502,8 @@
      Rákóczi však pokračoval:
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – K tomu svätému cieľu som sa usiloval zmobilizovať všetky národné   sily: šľachtu, meštianstvo i poddanstvo, lebo všetky tri stavy majú   na našom víťazstve rovnaký záujem: oslobodenie spod habsburského   panstva. Myslím, že sa mi mobilizácia podarila: ako ráčia byť vaše   milosti svedkom, pod moje zástavy sa prihlásili všetky tri stavy v   utešenej jednote, a ak stoja tieto tri stavy pri nás, aké potom   pochybnosti o budúcnosti?
@@ -2859,8 +2859,8 @@
      – Tu leží, spí, len tíško, aby sa neprebudila.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Keď si Ďurko trochu navykol na tmu, videl, že stojí pred   rodičovskou posteľou a z belosti perín dívala sa naňho biedna,   prepadnutá, ustarostená tvár matky. V tej chvíli sa mu vydral z hrude   synovský vzlyk, ktorý otriasol jeho mocným telom, kolená sa mu   podlomili a stálo ho mnoho úsilia, aby neklesol k peľasti rodičovskej   postele.
@@ -3307,8 +3307,8 @@
      Ale Uhorčík sa nehýbal.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Viem dokonca i to, že si bol u starého Pongráca popýtať ho o radu   a ten ti ju nevedel dať, čo zas prezrádza tvoja tvár. Čo by si chodil   po pánoch? Tí ti nepomôžu, všetci držia za jeden povraz. Zato ti   pomôžem ja, Uhorčík. Nechaj všetko tak a poď so mnou na zboj, dobre   sa nám povodí…
@@ -3739,8 +3739,8 @@
      Jedného májového predpoludnia toho roku rezko si vykračoval   chodníkom vedľa hradskej medzi Kraľovanmi a Stankovanmi vysoký,   plecnatý, zarastený chlap s hrubou bakuľou v ruke, hoci sa nijako   nemusel ponáhľať – nikde ho nečakali a nikde ho nepoznali. Tvár mal   mladú, bohatierska postava už z diaľky musela budiť rešpekt a v   týchto neistých časoch aj strach, naskrze neodôvodnený, lebo kto sa   mu podíval do miernych, priateľských očí, hneď spoznal, že má pred   sebou človeka dobrého, človeka spravodlivého, ktorý by ani muške   neublížil. Taký dojem robil Ďurko Jánošík – lebo veď to bol on na   každého, pravdaže, iba vo chvíľach, keď nemal v duši oheň a neoddával   sa chmúrnym dumám o svojej budúcnosti.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Bol utešený, slnečný deň, povieval osviežujúci vetrík a z lesov   vedľa hradskej prinášal omamujúcu vôňu, zatiaľ čo po druhej veselo   šumeli a spievali priehľadné, krištáľovočisté vody Váhu.
@@ -4173,8 +4173,8 @@
      Ďurko bol unavený, len čo je pravda. Iba teraz to cítil v nohách,   keď si sadol. Ale aká jasná chlapská radosť v duši! Byť najlepším   chlapom medzi chlapmi!
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Som teda zbojník, – šomral si sám pre seba.
@@ -5358,8 +5358,8 @@
      Ľutujem, Ďurko, ale je to moja povinnosť, – odpovedal pokojne   Uhorčík.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Tvoja povinnosť? – začudoval sa napriek veľkému rozhorčeniu   Jánošík.
@@ -5878,8 +5878,8 @@
      Žiadosť to bola iste čudná, a keby ju nebol vyslovil práve ich   kapitán, mohli by v ich hlavách vzniknúť všelijaké myšlienky o zrade.   Takto len mlčky poslúchli a utiahli sa dolu k hradskej, zanechajúc   oboch osamote.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Révay sa s úzkosťou díval za vzďaľujúcimi sa zbojníkmi. Teraz tu   ostane osamote s ich kapitánom, a keď toho zase schytí hnev… „Ale   nie,“ hútal barón, „možno, že Jánošík má niečo za lubom, o čom sa   jeho chlapi nesmú dozvedieť, iste si chce zaistiť pre seba osobitné   výkupné a potom s peniazmi ujsť.“
@@ -6269,8 +6269,8 @@
      Páni, keďže išlo o spoločné stavovské záujmy a o ochranu   nedotknuteľnosti zemianskych výsad, mali náhľady vonkoncom   zhodné.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Za všetkých ich vyjadril veľkomožný pán Ignác Rakovský z   Liptovskej Štiavnice, keď hovoril o urovnaní cesty k trónu, najmä keď   vystríhal pred mizerným plebsom, ktorý sa znovu začína dvíhať proti   svojmu zemepánovi. Povedal: – Áno, páni, poddaný sa začína búriť,   vznikajú zbojnícke bandy, ktoré sú namierené proti nám i proti nášmu   majetku. Ak nepritiahneme vzdornému poddanému uzdy, v dohľadnom čase   máme sedliacke povstanie na krku, a to ešte krvavejšie, ako bolo   Dóžovo.
@@ -6696,8 +6696,8 @@
      Mara si tiež dobre všimla cudzích chlapov a nevdojak jej preletelo   mysľou, že by to mohli byť hôrni chlapci, veď sú ich plné hory. A   ktovie, či dakedy nezbojníčili spolu s jej Surovcom…
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Kamaráti v tichosti zjedli praženicu, zaliali ju vínkom a potom sa   mlčky dívali von oblokom.
@@ -7037,8 +7037,8 @@
      Len čo oravský zeman opustil kaštieľ, zadným vchodom sa vytratila   do záhrady vysoká ženská postava, zahalená do priesvitného hodvábneho   šálu. Keď chcela pani Zuzanka nepozorovane navštíviť Haničku, išla   záhradou a záhumním, ktoré bolo podvečer už úplne opustené. Od   záhumnia sa vkradla záhradou do neveľkého dvorca a zaklopala na dvere   skromného príbytku, v ktorom bývali Haničkini rodičia.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Dobrý večer, strýko, stryná, – pozdravila vľúdne starého   kušniera a jeho ženu, ktorí sa práve chystali k skromnej haluškovej   večeri.
@@ -7422,8 +7422,8 @@
      Keď sa drábi ráno s boľavými hlavami prebúdzali a spod stolov   vyliezli, na svoj úľak museli zistiť, že sú bez zbraní. Všetko preč.   A urodzenému pánu Čillagovi chýbal navyše i mešec zlata, ktorý dostal   od baróna Révaya na uhradenie nákladov drábskej výpravy proti   jánošíkovcom. Namiesto mešca našiel lístok, na ktorom stálo:
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      <tei:emph>
@@ -7636,18 +7636,18 @@
      Veľké plány
     </tei:head>
     <tei:quote>
-     <l>Nad horou na skale perečko sa belie:</l>
-     <l>kloňte sa, chalupy, traste sa, kaštiele!</l>
-     <l>Bo kohos‘ Jánošík na paloš načiara,</l>
-     <l>tomu nespomôžu ani tria cisára;</l>
-     <l>a komu odpíše lístoček trirohý,</l>
-     <l>toho nezachráňa múry do oblohy!</l>
-     <l>Raz junák zapískne – z dvanásť pušiek blyskne;</l>
-     <l>druhý raz zapískne – tisíc chlapov zvýskne;</l>
-     <l>tretí raz zapískne – šabličky zazvonia</l>
-     <l>zhora od Považia, zhora od Pohronia –</l>
-     <l>a jedným sa hlasom ozvú štyri strany:</l>
-     <l>„My sme u nás doma – my sme tuná páni!“</l>
+     <tei:l>Nad horou na skale perečko sa belie:</tei:l>
+     <tei:l>kloňte sa, chalupy, traste sa, kaštiele!</tei:l>
+     <tei:l>Bo kohos‘ Jánošík na paloš načiara,</tei:l>
+     <tei:l>tomu nespomôžu ani tria cisára;</tei:l>
+     <tei:l>a komu odpíše lístoček trirohý,</tei:l>
+     <tei:l>toho nezachráňa múry do oblohy!</tei:l>
+     <tei:l>Raz junák zapískne – z dvanásť pušiek blyskne;</tei:l>
+     <tei:l>druhý raz zapískne – tisíc chlapov zvýskne;</tei:l>
+     <tei:l>tretí raz zapískne – šabličky zazvonia</tei:l>
+     <tei:l>zhora od Považia, zhora od Pohronia –</tei:l>
+     <tei:l>a jedným sa hlasom ozvú štyri strany:</tei:l>
+     <tei:l>„My sme u nás doma – my sme tuná páni!“</tei:l>
      <tei:p>
        (Ján Botto: Smrť Jánošíkova)
      </tei:p>
@@ -7848,8 +7848,8 @@
      – Doparoma, – žasol Gajdošík, – to sme natrafili na nejakú veľmi   vzácnu spoločnosť. Nemali by sme to radšej vrátiť?
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Nevrátime, – ozval sa v tej chvíli pokojný hlas Ďurka Jánošíka.   Práve bol dočítal veľkú pergamenovú listinu, ktorú našiel v krásnom   červenom dolománe, najkrajšom a najbohatšom zo všetkých.
@@ -8224,8 +8224,8 @@
      – Vy ste ten hlupák! – znela rozhorčená barónova odpoveď.   Jánošíkovci v blízkom obloku sa skoro prehýbali od smiechu a veľmi   ľutovali, že po tomto prekvapujúcom označení nemohli vidieť   Bánfalviho tvár.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Podžupan nechcel veriť svojim ušiam. Akože? To špinavé zbojníčisko   sa opováži jemu, gemerskému vicišpánovi nadať do hlupákov? To si   odpyká.
@@ -9325,8 +9325,8 @@
      – Neverím, – mienil napokon, – že by to pani Zuzanke pomohlo. Skôr   si myslím, že jej len poškodíš, keď sa do veci zamiešaš. Predstav si   len, ako bude barón zúriť a ako sa bude na pani Zuzanke mstiť, keď mu   niečo spravíš. Ak tu môže niekto zakročiť, tak je to len barónkin   otec, starý Pongrác, ten by iste vykonal všetko možné, aby spolužitie   svojej dcéry s oplanom manželom urobil znesiteľnejším.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      V tom, čo hovoríš, je mnoho pravdy, – povedal napokon. – A jednako   len musím do Mošoviec. Volajú ma na pomoc, a ak mám trochu chlapskej   cti v sebe, musím poslúchnuť. Nehnevaj sa, ináč nemôžem.
@@ -9437,8 +9437,8 @@
      – Milosť! – skríkol chrapľavým hlasom a v hrôze klesol na kolená.   – Milosť! Vezmi si, čo chceš, i ženu ti darujem, len život mi   nechaj!
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Všetko márne. Nič nemohlo zastaviť neúprosného obra. Ako detskú   hračku zdvihol baróna zo zeme, divo ním zatriasol a potom mu zviazal   ruky a povraz pripevnil na kľučku.
@@ -9887,8 +9887,8 @@
      Prichádzalo to smerom do Bystrice a k hradskej sa začali hrnúť   zvedavci, aby videli, čo sa sem blíži. Dupot kopýt, čo by mohla byť   jedine jazda, a hrčanie kolies znamenalo iste panský kočiar,   sprevádzaný silným, obzrojeným sprievodom.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Páni sa boja, – povedal ktosi z tábora zvedavcov významným   hlasom. – Bez drábov a husárov už ani krok.
@@ -10317,8 +10317,8 @@
      – Dvanásť dní… – mrmlal Ďurko Jánošík, zamyslene opekajúc nad   pahrebou kúsok slaninky. – A kde sa asi potuluje náš Gajdošík? Či sa   mu podarí prehovoriť chlapov k príchodu na Borovú? A keď prídu, koľko   ich asi bude? Päťsto? Alebo len päťdesiat?
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Netráp sa, Ďurko, – vytrhol kapitána zo zadumania Hrajnoha. –   Nejako už len bude. Verím, že Gajdošík vykoná všetko, aby mal u ľudí   úspech. Veď ho poznáš. Keď ten raz otvorí svoju medovú papuľku,   prehovoril by i satana, aby sa obrátil v anjela. Uvidíš, že na Borovú   prídu stá a stá, len aby si každý priniesol celú svoju výzbroj, aby   sme ju nemuseli kupovať…
@@ -11265,8 +11265,8 @@
      – Nenavrhujem nijaké spojenectvo so zbojníkmi, lebo oheň a voda sa   nemôžu spájať, ja len toľko hovorím, že za dnešných okolností bolo by   nenapraviteľnou hlúposťou spájať sa znovu s Rákóczim, ktorý ostatne   ušiel z krajiny. Jeho hviezda už celkom zhasla, a kto by sa chcel s   ním spájať, spájal by sa s mŕtvolou, ktorá by ho stiahla so sebou do   hrobu.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Páni bratia sa zarazene podívali na seba. Starý Révay povedal veru   pravdu.
@@ -11620,8 +11620,8 @@
      Na to sa Jánošík pozrel na zemana:
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Vaša česť, urodzený pán hlavný notárius? – povedal s úsmeškom na   perách. – Stratili ste ju už vtedy, keď ste v Andiciach kázali na   smrť ubiť úbožiaka, ktorý chytil na vašich poliach do oka zajaca, aby   nasýtil svoje deti.
@@ -12115,8 +12115,8 @@
      – A potom je nevyhnutné, aby všetka faloš bola odložená nabok. My   sme tu zvyknutí hrať s otvorenými kartami. Čo na srdci, to na   jazyku.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – To sa mi páči, – vykríkol veselo kuriér. – Síce takí   vyjednávači, ako som ja, musia veľmi často ísť krivými chodníčkami k   cieľu, ale radšej som, keď sedíme proti sebe dvaja priami chlapi a   vykladáme otvorene svoje tromfy.
@@ -12635,8 +12635,8 @@
      – Neviem sám, ale mám také zlé tušenie. Mali sme azda ísť   vlastnými chodníkmi a nestarať sa o nikoho. Nech sa bijú cisárski s   Bercsényiho ľuďmi, my by sme boli tým tretím, ktorý sa má pri tom   najlepšie.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Možno máš pravdu, Hrajnoha, sám začínam pochybovať, či som dobre   spravil, keď som sa pridal k cisárskym, ale človek, ak chce niečo   dosiahnuť, musí riskovať.
@@ -13712,8 +13712,8 @@
      – Aká ohyzda! – šomral Ilčík a chystal sa von pred krčmu strigu   odohnať.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Nechaj ju, – mávol rukou Jánošík, – nech sa len díva, nám tým   neublíži a ani nás neruší.
@@ -13992,8 +13992,8 @@
      – Hej, krčmárka! – zavolal cez dupot a lomoz šabľami i flintami   bezcieľne šibrinkujúcich pandúrov. – Poďte sem!
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Pozor, Ďurko, – zvolal v kúte ležiaci Uhorčík. – Niečo stroja   proti tebe.
@@ -14574,8 +14574,8 @@
      Prvá sa spamätala Anička.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      – Nie! – skríkla zdesene. – To sa nesmie nikdy stať! Ďurko Jánošík   nesmie zahynúť takou hanebnou smrťou. Radšej ho usmrtím sama týmito   rukami, než by mala siahnuť naňho katova špinavá ruka!
@@ -15022,8 +15022,8 @@
      Takéto a podobné reči viedli mikulášski a vidiecki občania na   rozvírenom námestí, keď sa Ďurko Jánošík v sprievode dvoch tuctov   pandúrov zjavil na námestí a so vztýčenou hlavou kráčal, rinčiac   okovami.
     </tei:p>
     <tei:p>
-     <!-- a picture in the original has been omitted-->
-     <tei:gap unit="graphic"/>
+     
+     <tei:gap unit="graphic" />
     </tei:p>
     <tei:p>
      Pandúri museli vynaložiť všetku silu, aby zvedavcov udržali v   náležitej vzdialenosti od Jánošíka. I strach veru mali, že hôrni   chlapci sú niekde nablízku. Keby sa tak náhle na nich vrhli, bolo by   im hračkou v tejto strašnej tlačenici vyrvať väzňa a zmiznúť s ním v   neprehľadnom dave, ktorý aj tak stál viac na strane Jánošíka, než na   strane pánov.

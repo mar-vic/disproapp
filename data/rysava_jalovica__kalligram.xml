@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk2009511" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk2009511" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -61,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T3"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -371,7 +371,7 @@
     <tei:p>
      „Veď je to bohaprázdny svet. Keď ja predávam kapce na šajny,   kupujú ako med, ale keď chcem i kravu tak kúpiť, zahudú mi, že to   vraj len sprostáci robia. Nuž či tak budeme žiť. Há? Za starodávna   bola krava za štyridsaťdeväť šajnov, a teraz pýtajú za ňu   stodvadsaťtri i dvadsať grajciarov. Nuž či to tak?“ A staval sa   Šmálkovi do očú len chytiť a chytiť. No Šmálok sa poriadne držal. Po   dlhom hádaní Krt zhrnul vyčítané peniažky nazad do mešteka i bolo po   znamenitej kúpe. Meštek oľahčel o dva šajnové rýnske, vyplatené za   mastný oldomáš; napojený Šmálok a švec konečne odišli, potešujúc sa   aspoň tým, že tak darmo k oldomášu prišli.
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -446,7 +446,7 @@
     <tei:p>
      To, hľa, stalo sa zalanským na Michala, a už minuli dva roky, čo   susedia nestratili k sebe ani slova, a to je už dosť málo!
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -503,7 +503,7 @@
     <tei:p>
      Eva Trnková sa obrátila a s hnevom odišla preč.
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -857,7 +857,7 @@
     <tei:p>
      A hore celým mestom ohlášalo sa: „Kikirikí!“ A zápäť za tým:   „Me-e-ek!“
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>
@@ -1019,7 +1019,7 @@
     <tei:p>
      Dlhá cesta, prekonané námahy, nemierne užitý nápoj a náhla premena   náteplia dotkli sa Krta mocne, takže upadal pomaly v ťažký sen. A   preto čo by koľko žena kričala, on z toho nerozumie nič, len z   polosna zamumle pod nosom pár nesúvislých slov. Mihalnice sú ako z   olova, zaťaželi jedna na druhú, a milý Krt si už odfukuje, ani čo by   ho bol ukolísal. Nevyzlečený vyvalí sa na lavicu za stôl a chrápe,   ani čo by drapačky driapali. Zarmútená Eva tiež zadusila svetlo a   ľahla si. No dlho roj nepokojných a trápnych myšlienok zaháňal jej   žiaduci sen z oka. Konečne nado dňom čosi zasnula, ale i to bol sen   viac unavujúci než občerstvenie poskytujúci.
     </tei:p>
-    <tei:p/>
+    <tei:p />
    </tei:div>
    <tei:div type="chapter">
     <tei:head>

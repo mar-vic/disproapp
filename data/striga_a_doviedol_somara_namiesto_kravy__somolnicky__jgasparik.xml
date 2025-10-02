@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk1918293" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1918293" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -24,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -61,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
-  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+  <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T4"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T4" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -135,21 +135,21 @@
     <tei:p>
      Brdár zase pil rozóliš a tak sa opil, že ho Icíkov paholok musel   domov zaviesť. Žena zase hromžila; Brdár, poslúchnúc Icíka, začal   rozhadzovať stolce, v kuchyni rozbil niekoľko krncov a nastalo ticho.   Žena a syn ušli do komory. A ďalej? Čert vie, čo ten Icík namiešal do   toho rozólišu: od toho času Brdár deň i noc vysedával v krčme. Zprvu   pil rozóliš, potom pálenku, neskôr mu bol i špiritus slabý.
     </tei:p>
-    <tei:p/>
+    <tei:p />
     <tei:p>
      Brdárovo gazdovstvo stálo už na veľmi slabých nohách, keď syn   Jozef odberal sa k vojsku. Otec nešiel ani len odprevadiť syna: sedel   v krčme a pil. Odprevadila ho matka a Sytárova dcéra Zuzka. Smutné to   bolo lúčenie, i od matky, i od Zuzky, ktorú mal tak veľmi rád!
     </tei:p>
     <tei:p>
      „Zuzka, len sa nevydaj. Tie tri roky chytro sa minú a potom sa   soberieme,“ prosil Jožko svoju holubičku. Ona namiesto odpovede   objala ho a plakala. Nepotreboval jej slov, rozumel, čo ten plač   znamená. Vlak odletel a Jožkova matka so Zuzkou od žiaľu ani   nevedely, ako sa dostaly domov.
     </tei:p>
-    <tei:p/>
+    <tei:p />
     <tei:p>
      Minul rok, čo mladý Brdár odišiel k vojsku; ďaleko ho poslali, do   Dalmácie. U Brdárov nastaly krušné časy. Gazdiná ťažko ochorela a   exekútor bol u nich skoro každodenným hosťom. Brdár býval už zväčša v   krčme a keď prišiel neskoro v noci domov, trýznil svoju chorú ženu.   Konečne dotrpela. Jeden deň ju pochovali a na druhý predali na   licitácii Brdárovský majetok. Chcel ho kúpiť Icík, ale Zuzka   Sytárovie do tých čias prosila otca, kým tento neodhodlal sa kúpiť   ho. O niekoľko dní našli starého Brdára v jarku zatopeného. Idúcky z   krčmy padol do jarku a zadusil sa vo vode, ktorá je iba po   členky.
     </tei:p>
     <tei:p>
      Zuzka písala o nešťastí Jožkovi, ale ho prosila, aby nezúfal, že   však gazdovstvo kúpil jej otec a to je len preňho, lebo „keď my   budeme svoji, i to bude naše. Som ti verná až do tvojej a mojej   smrti. Zuzka.“
     </tei:p>
-    <tei:p/>
+    <tei:p />
     <tei:p>
      Ale Zuzka mýlila sa veľmi. Syn najbo­hatšieho gazdu zo súsednej   dediny hlásil sa do Sytárov za zaťa. Sytárovi zapáčil sa mládenec.   Zuzka plakala, vyhrážala sa, že sa zmárni, ale starý Sytár   nepopustil.
     </tei:p>

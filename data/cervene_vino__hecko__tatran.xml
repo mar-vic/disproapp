@@ -1,4 +1,5 @@
-<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1968588" xml:lang="slk">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1968588" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -23,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -60,17 +61,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
   <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="long"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T4"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="long" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -85,7 +86,7 @@
     <tei:head>
      Červené víno
     </tei:head>
-    <tei:head/>
+    <tei:head />
    </tei:div>
   </tei:front>
   <tei:body>
@@ -13998,7 +13999,7 @@
      <tei:p>
       Koncom decembra naozaj nič, lebo hneď po Všechsvätých priviedol   výkonný rotmajster školy k frekventantom návštevu: „majitele chvalně   známe krejčovské dílny pro výrobu vojenských stejnokrojů“ a   „vedoucího závodu Holínka na zhotovovaní vysokých jezdeckých bot“.   Prv než sa majiteľ „krejčovské dílny“ s vedúcim „závodu Holínka“ dali   merať telesné výšky a hrúbky frekventantov, začínajúc po krajčírsky   od krkov nadol a končiac po ševcovsky od šliap nahor – rotmajster   vysvetlí svojim zverencom, že „je zajisté také přáním pána   podplukovníka generálního štábu jakožto velitele Školy pro výchovu   důstojníku jezdectva v záloze, aby každý frekventant měl čo nejdříve   a pokud možno úplný svůj vlastní extrovní stejnokroj, protože vedle   povinností čistě služebních čekají na aspiranty neméně důležité   povinnosti společenské, representativní... a tak dále a tak dále.“   Ukážu sa frekventantom aj vzorníky uniformových látok a prvotriednych   koží na obuv, ba aj obrázky lanských ašpirantov v ich „extrovních“   uniformách, aby nebolo otázok čo do akosti ponúkaného tovaru a čo do   celkového vzhľadu šťastlivca, ktorý si šaty oblečie a boty obuje. Ba   zájde sa ešte ďalej: rozdá sa frekventantom aj spoločný rozpočet   „krejčovské dílny“ a „závodu Holínka“, rozmnožený cyklostylom, aby sa   vyhlo dopytom po cenách. Vidieť, že sa „majiteľ krejčovské dílny“ s   „vedoucím závodu Holínka“ vyznajú „v tlačenici“. Majú plné ruky   merania. Marek Habdža prežíva trpké chvíle, a to celkom zbytočne,   lebo vie, že „extrovní“ uniformu mať nebude. Aby sa trochu uspokojil,   študuje aspoň cyklostylovaný rozpočet. Vo chvíľach rozčúlenia dobre   je dívať sa aspoň – do papiera.
      </tei:p>
-     <tei:p/>
+     <tei:p />
      <tei:p>
       Součástky
      </tei:p>

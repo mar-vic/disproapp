@@ -1,4 +1,5 @@
-<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1953983" xml:lang="slk">
+<?xml version='1.0' encoding='utf8'?>
+<tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1953983" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -23,7 +24,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p/>
+    <tei:p />
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -62,17 +63,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p/>
+   <tei:p />
   </tei:encodingDesc>
   <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk"/>
+    <tei:language ident="slk" />
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M"/>
-    <eltec:size key="short"/>
-    <eltec:canonicity key="unspecified"/>
-    <eltec:timeSlot key="T1"/>
+    <eltec:authorGender key="M" />
+    <eltec:size key="short" />
+    <eltec:canonicity key="unspecified" />
+    <eltec:timeSlot key="T6" />
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -99,12 +100,12 @@
     </tei:head>
     <tei:p>
      Keď vidíme nejaké zaujímavé dieťa, celkom pochopiteľne sa   prezvedáme na jeho otca. — Kto je pôvodcom tejto aventuriády? Pravda,   on sám to vie najlepšie. Nazval sa P. P—s, ale mne, prekladateľovi,   tak sa zdá, že je to len obyčajný fígeľ, po akom siaha anonymita.   Nemôžem teda nič iného povedať, než to, čo mi udrelo do očú pri   čítaní rytierskeho románu, čo pôvodca sám prezradil. Každý čitateľ,   ktorý prečítal knižku sine ira et amore
-     <tei:ref target="#N1"/>
+     <tei:ref target="#N1" />
      dá mi za   pravdu, že je táto humoristická hlúposť, ako by ju nazvala redakcia   Pressburger Zeitungu, zriedkavým plodom maďarskej literatúry. — Zdá   sa, že pôvodca žije v Prešporku a že zanevrel na Ährenlese tamojších   novín. Iste veľmi dobre pozná aj Pešť, nevynímajúc ani isté podozrivé   miesta, čo mu neslúži práve na česť. Vôbec, prezrádza sa ako človek,   — — nechcem sa o ňom bližšie vyjadrovať. — Rozhodne je to mnoho   cestovavší Ulyxes, keď ešte aj len Hajnáčku tak dobre pozná. Ale ako   len prišiel do Berlína a do Bambergu? Vari len nesprevádzal   francúzske vyslanectvo alebo grófku Voroncovovú? Nuž a človek takého   kalibru ako môže poznať ešte aj len oždianske Múzy? Rozhodne študoval   v Gemeri. Iste žil vo Viedni nielen veselo, ale až neviazane, keď tak   dobre pozná hostince.
     </tei:p>
     <tei:p>
      Ale kde ho čert zavliekol do Mehádie? Obdivujeme to u neho tým   viac, že sa zároveň zdá byť teológom, človekom, ktorý vôbec veľa vie   bez dôkladných vedomostí. Maďarom rozhodne nie je, lebo sme našli v   rukopise niekoľko takých gramatických chýb, aké by rodený Maďar nikdy   nespravil. A je hodne pravdepodobné, že je to Turčan, ktorý chodil do   školy v Banskej Bystrici. Od svojich právnických rokov sotva videl   Debrecín, inak by nehovoril toľko o jeho blate. Ak aj práve tam nebol   ako právnik, možno mal príležitosť brodit sa debrecínskym blatom ako   vychovávateľ niektorého šľachtického chovanca. — V akom vzťahu by   mohol byť k terajšiemu krupinskému vyslancovi na krajinskom sneme?   Gyarmat a Soroksár navštívil iste len pred nedávnom. Je to naozajstný   Všadebol, polyhistor, znalec niekoľkých rečí, veselý kompan, možno až   bonviván.
-     <tei:ref target="#N2"/>
+     <tei:ref target="#N2" />
      Skoro by som uveril, že svojho otca,   ktorý je istotne mäsiarom, sprevádzal do Valašska a vystál kontumáciu   pri priesmyku Červená veža, keby sa nebol dopustil istej chyby pri   Karolíninej ceste. Možno ho pri tom len pamät sklamala. —Ako badám,   príliš mnoho sníva o turčianskych krásaviciach, z čoho vyrozumievam,   že ich dobre pozná, ak sa nedal ešte aj nahovoriť na nejakú službu v   Necpaloch.
     </tei:p>
     <tei:p>
@@ -141,7 +142,7 @@
     </tei:p>
     <tei:p>
      Prešťastnému manželovi sa túžobná nádej čoskoro zmenila v istotu,   že jeho kmeň neuschne, ale v synovi a ak Boh tak chce, vo vnukovi   pevne zakorenený bude sa ďalej zelenať až do toho dňa, keď sa na jeho   veľkú mrzutosť pominie rozdiel medzi sedliakom a šľachtou. Zárukou   lásky, pýchou otca, radosťou matky bol práve náš hrdina. Prišiel na   svet už v deviatom mesiaci ich manželstva a jeho otec nemálo si na   tom zakladal, že v tejto veci pretromfol najväčšieho hrdinu   devätnásteho storočia, lebo rímsky kráľ alebo barthélemyovský „le   fils de ľhomme“
-     <tei:ref target="#N3"/>
+     <tei:ref target="#N3" />
      narodil sa až v jedenástom   mesiaci Napoleonovho manželstva s Lujzou, čo si mohol veľmi ľahko   vyrátať podľa kalendára nášho Palkoviča. Krst by sa bol skoro stal   prvým popudom na manželskú neshodu, keby stoličná baba bola bývala   menej rozumnou ženskou. Gyulovou kapricou bolo, mať zo syna Kazimíra,   naproti tomu matka, aby nezaprela svoj pôvod, na ktorý bola hrdá,   chcela ho dať pokrstiť na Arpáda. Ani jeden nechcel popustiť a Gyula   vzdorovito trval na svojom práve. Nakoniec urovnali dlhý spor, ktorý   by bol trval celú noc, diplomatickou cestou, ako im to navrhla baba,   druhý Talleyrand. Shodli sa, že dieťa dostane obidve mená, ktoré bude   mať v abecednom poriadku a z nich po umretí jednej alebo druhej   smluvnej strany si podrží to, ktoré navrhla preživšia stránka. O   desať rokov umrel muž a s ním zároveň pochovali aj Kazimíra. Zostal   na žive Arpád, kým aj jeho nezamenil Bendeguz, keď šuhaj prišiel do   takého veku, keď mohol voľne rozhodovať o svojej osobe.
     </tei:p>
    </tei:div>
@@ -157,24 +158,24 @@
     </tei:p>
     <tei:p>
      Maďarskej matke nemožno zazlievať, že svojho prvorodeného   uprostred zarytých Slovákov učila, keď aj nie prvé slová maďarsky   bľabotať (lebo to robil, na jej mrzutosť, po slovensky), ale predsa   neskoršie dobre po maďarsky dobré ráno zaželať a maďarský Otčenáš sa   pomodliť. Maďarsky kliať sa naučil, hoci nie so správnym prízvukom,   od Štefana, ktorého syn lipol za Arpádom Kazimírom ako za vlastným   bratom. Od otca nemohol nič získať, okrem slovenského prízvuku vo   výslovnosti, lebo otec hovoril len lámanou maďarčinou, ktorej sa   priučil na insurekcii a od svojej manželskej polovičky, najmä za   medových týždňov. Mladý pán hovoril, pravda, viac ako otecko, ale   jeho gramatika, najmä ortoepia, predsa prezrádzala polovicu vplyvu,   ktorý mal otec na jeho bytie. Hovoril napríklad na matkinu veľkú   zlosť „Jo napot kivánom“.
-     <tei:ref target="#N4"/>
+     <tei:ref target="#N4" />
      Keď sa niekoho   spytoval, ako sa má, znelo to: „Egissiges van asz ur?“
-     <tei:ref target="#N5"/>
+     <tei:ref target="#N5" />
      Od otca sa naučil povedať po jedle: „Kedves   egissigire kévánom,“
-     <tei:ref target="#N6"/>
+     <tei:ref target="#N6" />
      a pred spaním: „Nugodalmas   joitcakát kévánom.“
-     <tei:ref target="#N7"/>
+     <tei:ref target="#N7" />
      . Podobné maličkosti nebral   tak prísne a mohol sa vždy potešovať príkladom Berlínčana,   hovoriaceho: „Ich habe ihnen gesehen“,
-     <tei:ref target="#N8"/>
+     <tei:ref target="#N8" />
      alebo:   „Kommen sie morgen zu mich“.
-     <tei:ref target="#N9"/>
+     <tei:ref target="#N9" />
      Nemáme aspoň na ume   odpustiť mu niečo takého, lebo sa lepšie nevodí ani latinskej reči,   keď naši štylisti hodia deponens aj ta, kde by mali použiť pasívum,   alebo miesto particípia prepašujú gerundium. A okrem toho mladý Maďar   nahrádzal túto povrchnosť tým väčšou horlivosťou za svoju materinskú   reč, id est
-     <tei:ref target="#N10"/>
+     <tei:ref target="#N10" />
      za reč svojej matky. Ona sa totiž   odjakživa namáhala vzbudiť v ňom odpor proti slovenskej reči, čo na   chlapca, vnímavého pre všetko dobré, malo ten želaný účinok, že s   výnimkou jednotlivých kliatieb zriedkakedy a len z prinútenia   vypustil z úst slovenské slová, ba aj tie sa usiloval zohyzdiť, aby   vzbudzoval zdanie, ako toľkí jemu podobní, že nevie po slovensky.
     </tei:p>
     <tei:p>
      Jeho oblek mal od čias, keď prvý raz do nohavíc — —, maďarský   strih. Po otcovi z čias Jozefa II. pozostavšia garderóba zostala en   reserve
-     <tei:ref target="#N11"/>
+     <tei:ref target="#N11" />
      : „Nech nosí nemecké plundre, keď raz,   aby nebol horší ako ostatní, pôjde do Dobšinej, aby sa pokúsil aj v   znalosti nemčiny.“ Vlasy mal každú nedeľu nabalzamované bravčovou   masťou a zvyšok si poroztieral po čižmách. Na nich mal pripevnené   železné ostrohy a keď mladý pán niekam vyšiel, hrmot, ktorý robily   pri každom kroku, nezadal v ničom rachotu, aký denne počúvame v   Prešporku, kedykoľvek sa pohne nejaký nákladný voz.
     </tei:p>
     <tei:p>
@@ -182,9 +183,9 @@
     </tei:p>
     <tei:p>
      Keďže už bol najvyšší čas odísť aj do nejakej maďarskej školy,   zistilo sa, že mladý pán dosť dobre číta, natoľko, nakoľko to len   bolo možné pri najlepšej vôli učiteľa, ktorý sa za polročného pobytu   v Nireďháze natoľko naučil maďarsky, aby medzi Maďarmi hladom   neumrel. V písaní nijako nepokročil, ale učiteľ matku tým potešoval,   že to príde časom, že sa to vynútiť nedá a Žebrákovice sa tiež len   pomaly staly tým, čím práve sú. Pre matku však bolo príjemným   prekvapením (ktoré si psychologický učiteľ nechal na koniec) počuť   chlapca preštebotať krát až po etszer et huszon et,
-     <tei:ref target="#N12"/>
+     <tei:ref target="#N12" />
      pričom nelapal po vzduchu viac ako tri razy.   Prvým aprílom dovŕšil štrnásty rok a teraz bol naozaj čas ísť do   cudzieho sveta a tak sa vzdelať, aby mohol, ako kedysi Cincinnatus,   pluh tak nechať a zo strmeňa so zaprášenými sandálmi vojsť do   shromaždenia, v ktorom sa radia, čo urobiť, ne quid detrimenti capiat   res publica.
-     <tei:ref target="#N13"/>
+     <tei:ref target="#N13" />
     </tei:p>
    </tei:div>
    <tei:div type="chapter">
@@ -196,20 +197,20 @@
     </tei:p>
     <tei:p>
      Ako sa povznášalo srdce nášho Arpáda, ako svietily jeho radosťou   opojené oči, ako sa šírily jeho nosné dierky, keď jedno za druhým   obracal chrbát slovenským hniezdam, ako ich nazýval. Z jeho   spolucestujúcich ani jeden nerozumel jediného uhorského (maďarského)   slova, pre čo bol Arpád hodne namyslený. Nerozumeli ani len maďarské   kliatby, ktorými je naučený Slovák svoju reč tak husto popretkávať,   ako by išlo o nevinné citoslovcia.
-     <tei:ref target="#N14"/>
+     <tei:ref target="#N14" />
     </tei:p>
     <tei:p>
      Keď už pri Tisovci schňapol niekoľko maďarských slov, dobre z kože   nevyskočil od ohromnej radosti. V duchu videl už blízky Muráň, prvú   maďarskú dedinu v Gemerskej stolici, ako sa nazdával. Keď ho zazrel,   ten kamenný zámok, nadšenie ho zdvihlo do hmlistých oblastí, ta, kde   hniezdi orol na príkrych skalách. Obraz Wesselényiho a Márie, o   ktorých mu jeho prastrýc čosi rozprával v detstve, vznášal sa pred   ním spolu s ich ľúbostnými dobrodružstvami, a zahĺbený do pozorovania   týchto scén z minulosti, prišiel konečne práve sem. Jednako, ako sa   môže sklamať človek vo svojich najkrajších nádejách! V Muráni a   ďalších po sebe nasledujúcich dedinách nepočul nič inšieho, ako   odporný slovenský hovor, zohyzdený niekoľkými maďarskými slovami,   alebo smiešaný s prekrútenými maďarskými slovami; maďarský pozdrav   slovenských školských detí nemohol ho odškodniť za sklamané   očakávanie. Jednako ho však smierila sila prostého človeka, ktorá sa   mu zdala podobnou sile maďarského prostého človeka, maďarské mená   slovenských volov a koní, maďarský tvar sedliackych vozov, maďarský   spôsob stavieb s ich obyvateľmi, a tento úkaz vedel si už vo svojich   chlapčenských rokoch predstaviť ako dôležitý začiatok budúceho   pomaďarčenia tamojšej Slovače.
     </tei:p>
     <tei:p>
      Na mestečko Jelšavu bol by rád svolal oheň s neba, keď aj tam sa   mu pritrafilo počuť slovenskú kázeň, ako hoci v Slovenskom Právne. No   toto napnuté očakávanie nemalo dlho trvať. Ako kedysi Kolumbus z letu   vtákov usudzoval na blízku zem, cieľ svojich žiadostí — a sám otec   Noe z olivovej halúzky u holuba videl, že vody potopy opadly: tak   ovoňal aj Arpád, že sa každým konským krokom významne približuje k   zasľúbenej zemi, keďže čoskoro stretávali Maďarov, ktorí ich   pozdravovali „Isten áldjon meg“ (Boh vás pozdrav). Jeho oči sa pozdĺž   cesty stŕpnuto dívaly po okolí, kde sa každú chvíľu mohol zjaviť   Gemer. Ale práve tu musel krotiť svoju túžbu, lebo kočiš musel zastať   pri Dolinke, krčme, aby si glgom okorenenej pálenky utíšil koliku.   Arpád sa medzitým vyškriabal na dub, ale neuspokojil svoju zvedavosť,   ba bolo jeho šťastím, že keď spadol, nezlámal si krk a škodoval len   pravé krídlo svojho kabáta, ktoré zostalo visieť na suchej haluzi.   Ani táto strata, ani neviazaný smiech jeho spolupútnikov nemohly ho   vyviesť z rovnováhy, lebo všetky jeho myšlienky a city sa v   najbližšej chvíli sústredily na Gemer. Teraz prišli na bod, s ktorého   bolo vidieť turčiansky Jeruzalem, no, ako by si nejaká nešťastná   hviezda chcela s naším Arpádom zahrávať, zdvihol sa oblak prachu a   zastrel každý výhľad jeho vytrešteným očiam. Svinský pastier totiž   práve bol daroval slobodu svojim chovancom a chovaniciam, ktoré sa   domov vracaly, čo ony využily ako nevychovaná školská mládež: každé   indivíduum utekalo domov, ako najlepšie vládalo. Za stratu výhľadu, o   ktorý pripravil nášho Arpáda prach, odškodnený bol príjemným   spôsobom. Dohonili svinského pastiera. Arpádovi sa zdal stelesneným   ideálom celého Maďarstva: tak mu matka vyobrazila Maďara. Hlavným   oblekom chlapa bolo: klobúk so širokou strechou, z ktorého masť   kvapkala; košeľa, čierna ako zem, ktorú nedal so seba, odkedy si ju   obliekol v deň svojej investitúry, bola by dávala pupku voľný výhľad,   keby ho nebol sputnal široký kožený opasok, krátke konopné gate, toho   istého veku, tej istej farby ako košeľa. Od kolien nadol, tam, kde   prestaly gate, boly holenné kosti tesno ovinuté remeňom a pevno   držaly prikrytie nôh, skladajúce sa len z podošvy, ktoré by bol Homér   síce nazval sandálmi, ale každý Maďar ich menuje len bocskor.
-     <tei:ref target="#N15"/>
+     <tei:ref target="#N15" />
      Na širokom, mastnom remeni, vybitom podobne ako   opasok mosadznými gombičkami rozdielneho tvaru, visela mu s chrbta   mastná tanistra (kapsa) a na ľavom boku mešec na tabak (köstök). V   opasku väzel dýke podobný nôž a krátku fajku mal zastrčenú za   golierom košele. Lesklá sekera s krátkou rukoväťou blýskala sa na   ľavom pleci. Zo všetkého toho, čo videl na človekovi, predovšetkým   ona oslepila rozkošou opojené oči mladého pána. Hneď s ním nadviazal   rozhovor, ktorý začal otázkou: „Eszt á falu van Gömer?“
-     <tei:ref target="#N16"/>
+     <tei:ref target="#N16" />
      „Gömör hát“,
-     <tei:ref target="#N17"/>
+     <tei:ref target="#N17" />
      odpovedal   tamten, bol však rozhorčený nad tým, že mestečko pokladá za dedinu a   svojím spôsobom mu vyčítal túto bezočivosť. Jednako však zostali   dobrými priateľmi a šli spolu. Ba čo viac, Arpád si dovolil vziať mu   z ruky lesklú baltu
-     <tei:ref target="#N18"/>
+     <tei:ref target="#N18" />
      a svinský pastier bol taký   ochotný, že ho nechal s ňou sa hrať a okrem toho spravil si žart, že   zamenil svoj zamazaný klobúk za Arpádovu čiernu čiapku z capiny. A   keď sa svinský ježko chystal napchať si fajku, Arpád sa poponáhľal   ponúknuť mu svoj mešec na tabak. To bola smluva priateľstva, ktorá   neoslabene trvala, kým len zostával v Gemeri. Teraz sa už stal s ním   natoľko familiárnym, že si mohol všetko dovoliť. Sosňal mu kapsu, aby   skúsil, ako pristane jemu samému. V tom momente sa spolucestujúci   hrozitánsky rozrehotali a gondáš (svinský pastier) sa tiež spolu s   nimi potuteľne uškŕňal. Šuhaj skutočne pôsobil komickým dojmom. Keďže   matka práve nemala dosť peňazí, aby ho riadne vystrojila, dala mu zo   starootcovskej garderóby žlté nohavice a višňovočervený kabát, ktorý   mu siahal až po členky. Veľké medené gombíky, bolo ich šesť, boly   dobre konzervované, ale jedno krídlo, ako už vieme, zostalo visieť na   dube. Mladý pán išiel bosý, aby si zašanoval nové čižmy, ktoré mu   musely vydržať do Kvetnej nedele. Klobúk, sekera a kapsa tak svedčily   k tomuto obleku, ako úradný oblek speakera v dolnej snemovni k   špinavej košeli a ku kapse svinského pastiera. Arpád sa však nedal   mýliť, ale sa smial spolu s nimi a robil figliarske kotrmelce,   striedajúce sa so zúfalými úškľabkami. Tak prišli až k mestečku.   Teraz bolo treba dokončiť žart. Svinský pastier siahol po svojom   klobúku, vzal Arpádovu kapsu a musel mu vytrhnúť z ruky sekeru, ktorú   asi štyri razy bezvýsledne od neho pýtal. Už vtedy prišlo na myseľ   nášmu Arpádovi, že si pomaličky usporí toľko peňazí, aby si mohol   zaopatriť takú istú sekeru. Aj to si zaumienil, že cez letné   prázdniny bude strážiť malé stádo svojej matky, ktoré bolo, pravdaže,   aj jeho, v takom obleku, ale že si najprv osvojí maniere maďarského   svinského pastiera. Pastier sa bez mnohých okolkov a bez jediného   slova na rozlúčku rýchle vzdialil. Arpád pobehol za ním a aký už bol   celý nadšený, vtisol mu do hrsti, prvému Maďarovi, s ktorým sa v   živote shováral, lesklý desaťkrajciarnik. Dala mu ho mama, a   doložila, že keď príde na veľkonočné prázdniny domov, aby jej ho   vedel ukázať. Vtedy mu aj to sľúbila, že mu najbližšie na jarmoku   kúpi husle, ak sa pousiluje naučiť sa okrem Otčenáša aj vyznanie   viery a desať prikázaní po maďarsky. Pre neho, nadšenca, mimochodom   povedané, bola to maličkosť, hoci mal inak ťažkú hlavu. Keď prišiel   domov, prekvapil pani matku tým, že jej nazpamäť vyrapotal aj príbeh   o márnotratnom synovi, ktorý ho hlavne preto priťahoval, lebo aj   márnotratný syn strážil svine a on si ho inak nevedel predstaviť, ako   v podobe svojho obľúbeného svinského pastiera.
     </tei:p>
    </tei:div>
@@ -225,11 +226,11 @@
     </tei:p>
     <tei:p>
      Sotva sa našich sedem mudrcov zjavilo v meste, už ich začaly   niektoré ženy prenasledovať a ponúkaly im dobrý a lacný byt. Všetci   sedeli ešte na voze a mali čo možno najsprostejší výzor, okrem   jediného Arpáda, ktorý nikomu nezostal dlžen odvetou a vedel sa veľmi   dobre správať aj oproti samovoľným študentom, ktorí si robili žart,   spočitujúc príchodzích, hádžuc na nich ohryzené strapce hrozna, alebo   sa vysmievajúc z ich povozu. Keď už konečne sosadli, aby sa tu a tam   usalašili, boli v takom pomykove, že hľadali možnosť a príležitosť   stratiť sa čo najrýchlejšie. Celé kŕdle detí utekaly za Arpádom,   prena—sledovaly ho a volaly: „Német! Német!“,
-     <tei:ref target="#N19"/>
+     <tei:ref target="#N19" />
      až   kým sa mu nepodarilo ujsť do hostinca. Keď otvoril ústa a chcel sa   vydávať za Maďara, robil to tak dokonale zle, že nebolo človiečika,   ktorý by mu to uveril. Kedykoľvek sa zjavil na ulici, opakovala sa tá   istá scéna. Bolo to tak s ním po celé tri dni. Nakoniec musel svoje   kožené nohavice odčachrovať Židovi a dať si skrátiť kabát, aby sa   aspoň približne podobal atile, akú môže mať chudobný študent. Tým   zároveň získal toľko súkna, že mu z dvoch handár vyšla vlastenecká   čiapka a la Dvernicky a ani sa nemusel obávať, že by prišiel do   pomykova, keby z atily, čo býva pri každej starine, vystupovaly isté   nekryté miesta, najmä na lakťoch. Čo sa ešte malo na jeho obleku   pomaďarčiť, to sa všetko muselo pomaly podrobiť premene. Prirodzene,   jeho vrecko to pocítilo a prv, než sa nazdal, mal prázdnu pokladnicu,   takže musel dlhy narobiť, ktoré do Vianoc vystúpily na 25 grošov a   preto musel domov zabehnúť, aby si ochránil úver. Ako sa zdalo, od   týchto čias každej móde prisahal smrteľnú nenávisť, lebo odvtedy až   do svojho blaženého konca nosil belasé uhorské nohavice, vyzdobené   troma radmi čiernych šnúr; vestu z červeného súkna s veľkými   gombíkmi, za slobodna striebornými, neskôr cínovými; keď mohol voľne   nakladať so svojimi grošmi, sviatočným oblekom mu bol atilový kabát,   zelený ako tráva; v robotné dni nosil belasý dolomán a keď išiel do   stoličného shromaždenia, vzal si od otca zdedený kožuch fialkovej   farby, lemovaný lišacou kožušinou; no, kde sa musel ukázať v plnej   paráde, tam si vzal svoj kalpak, ako aj ináč, podľa toho, aké bolo   počasie, striedavo nosil plstený klobúk alebo čiernu čiapku, ktorá mu   za celého pobytu v Gemeri, či v lete, či v zime, dobrú službu konala.   My sme sa však neočakávane zatúlali do jeho neskoršieho života, čo   nie je práve obvyklou chybou historikov. Vrátime sa teda z toho   anachronizmu k jeho skoršej histórii. Arpád zostal v Gemeri celých   šesť rokov, odrátajúc od toho čas, ktorý strávil inde. Lebo   pravidelne tri razy do roka odbehol domov, aby si zakaždým obnovil   zásoby. Za toľké roky mal dosť kedy, okrem všetkého toho, čo bolo   hodno vedieť, poobzerať sa aj in jure privato,
-     <tei:ref target="#N20"/>
+     <tei:ref target="#N20" />
      čo sa vtedy, pravda, in nuce
-     <tei:ref target="#N21"/>
+     <tei:ref target="#N21" />
      po maďarsky   prednášalo. To ho uspôsobilo, aby neskoršie u stolice perom narábal,   ale len v kancelárii. Keď ho vymenovali za asesora, nehrozilo mu   nebezpečenstvo, že by si zadal a že by pri rokovaniach X pokladal za   U. Vždy je dobre, keď sa niečo naučíme, lebo — nedá sa vedieť. —   Jednako jeho najhlavnejším štúdiom zostala maďarčina, a keby nebol tu   na nič lepšieho, ako si namýšľal, mohla sa maďarská akadémia dočkať z   neho živého technologického slovníka, lebo u neho by boly v zásobe   uložené všetky slová, ktoré musí maďarská reč čiastočne zo vzduchu   lapať. Nepokladal totiž pod svoju dôstojnosť, byť po ruke svojmu   domácemu pánovi, podľa remesla hrnčiarovi, tak pri jeho remesle, ako   aj pri skladaní kukurice a pomáhať mu vo všetkých hospodárskych   odvetviach. Tak sa naučil, počínajúc od prác pri voloch v maštali až   po logomachie rodného práva nahor a po hlbiny metafyziky nadol,   vyjadriť všetko po maďarsky. Zavše čítal Rontó Pála, Kartigam,   Peleskei notáriusa, a keď sa chcel nadchnúť, nedostihnuteľný Kis   Koszorú.
     </tei:p>
    </tei:div>
@@ -260,26 +261,26 @@
     </tei:p>
     <tei:p>
      Čo mal teraz urobiť? „Uxor est ducenda“,
-     <tei:ref target="#N22"/>
+     <tei:ref target="#N22" />
      povedal mu miestny farár s veľkým bruchom a malými očkami, pri čom sa   skoro mal zájsť od smiechu nad touto dôvtipnou myšlienkou, takže   ronil slzy ako hrachy. Táto myšlienka uzrela v ňom vlastne už na   zpiatočnej ceste z Gemera. Pomyslel si, že pri hospodárstve je žena   nevyhnutným zlom. „Asszony nélkül sántít a gazdaság,“
-     <tei:ref target="#N23"/>
+     <tei:ref target="#N23" />
      čítal v jednej Kisfaludyho veselohre — a ten má   pravdu.
     </tei:p>
     <tei:p>
      Zostaly mu dve kravy, jedna sviňa s trinástimi prasiatkami, dve   ovce a z maštale nebohého otca dva kone. Hydina, najmä morky, div ho   nesožrala, kedykoľvek sa ukázal na dvore. Nuž a na čeľaď nieto   spoľahnutia. Role a lúky tiež boly tu. Vďačne by bol predal celú   dedinu, lebo z tridsiatich dielov dvadsaťdeväť bolo založených. Páni   Hladosfalvay, Ovsenický a rytier Miseria, pôvodom Talian, boli jeho   najhlavnejší komposesori.
-     <tei:ref target="#N24"/>
+     <tei:ref target="#N24" />
      Tu mu mohla pomôcť   dobrá partia. Keby bol svoje aviticum
-     <tei:ref target="#N25"/>
+     <tei:ref target="#N25" />
      vykúpil a   ploštice, ako tých troch zemských pánov nazýval, vypudil, mohol sa o   toľko voľnejšie pohybovať v dominium purum.
-     <tei:ref target="#N26"/>
+     <tei:ref target="#N26" />
      Nikto mu nebránil, a to bola pravá príčina jeho predsavzatia,   škandalózne meno dediny premeniť na Koldusfalu,
-     <tei:ref target="#N27"/>
+     <tei:ref target="#N27" />
      no neskôr zo závažných dôvodov od toho odstúpil a najviac súkromne ju   nazýval Kolompérfalu,
-     <tei:ref target="#N28"/>
+     <tei:ref target="#N28" />
      lebo zemiaky skutočne boly   najvýdatnejším zdrojom jeho príjmov. Používal ich na chlieb, na   vypálenie páleného, neskôr na vykrmovanie volov a svíň a ako   stereotypne pevnú tému denných variácií v kuchyni. Zdroj tejto výživy   bol ešte výdatnejší, keď ho Ährenlese nášho Pressburger Zeitungu   priviedlo na veľkolepú myšlienku piecť chlieb aj zo zemiakových   kožiek, aký sa potom predkladal jeho čeľadi. Z vďačnosti si zaumienil   odmeniť sa redakcii niekoľkými vrecami svojich najlepších zemiakov.   Že svoje hniezdo nenazval Krumplovice alebo Zemiaky, ale   Kolompérfalu, bolo celkom podľa pravidla. Keď sa Miškovec zmenil na   Miskolc, Ostrihom na Esztergom (alebo podľa novoshobľovaného   pravopisu na Esztergam), hádam sa nijako neprehrešil proti analógii,   keď on, pretože teraz Žebrákovice musely zmiznúť z jeho zemepisu,   svoje hniezdo nazval Kolompérfalu, a nie Krumplovo. Chcel tým aj   holdovať rozhodnutiu jednej stolice, smerujúcemu k výzve všetkých   dvojnohých bytostí mužského pohlavia, okrem hydiny, aby si   priezviská, ak boly cudzieho pôvodu, preložily do maďarčiny. On,   rodený Maďar, ako si o sebe namýšľal, mal dôležité poslanie, vyplniť,   čo výzva požadovala. Ba urobil ešte viac, rozšíril to aj na svoj   domáci personál. Totiž svojho koňa, olim
-     <tei:ref target="#N29"/>
+     <tei:ref target="#N29" />
      Hanzo,   nazval Pogány a kobyla Judka musela strpieť meno Szikra. Štefan, jeho   od otca zdedený verný sluha, beztak sa volal Pišta, odkedy matka   vkročila do domu, ale jeho priezvisko Drobný zmenilo sa na   Kurtaforint. Chlpatý Belko musel si vo svojom pokročilom veku zvykať   na Bodroga, lenže neprežil dlho túto maďarizáciu a pominul sa na   srdcovú chybu. Druhému psovi, Phylaxovi, práve v tom istom veku,   páčilo sa jeho nové meno a čoskoro si zvykol na Farkasa. Jeho čeľaď   musela sa maďarsky obliekať, čo týmto sansculottom pri turčianskej   temperatúre už okolo Michala bolo neznesiteľné. „Uxor est ducenda“,   pán farár má pravdu, pomyslel si, a Kisfaludyho slová so dňa na deň   sa mu stávaly jasnejšími. Porozmýšľal, zhodnotil turčianske   krásavice, nakoľko mu boly známe a čoskoro bol sám so sebou na   čistom, že si musí vziať jedinú dcéru istého susedného šľachtica, už   aj kvôli tým päťdesiattisíc zlatým. „Veni, vidi, vici“,
-     <tei:ref target="#N30"/>
+     <tei:ref target="#N30" />
      pomyslel si a v ten istý deň dosiahol skoro   všetko; prišiel, videl dievča, vypýtal ho a dostal — kôš. Nešlo mu to   do hlavy, a to tým viac, že si už cestou vyrátal, ako ľahko by sa   mohol zbaviť svojich komposesorov. Rozumne urobil, že sa nikomu   nezdôveril a poponáhľal sa s druhým krokom, prv než by sa udalosť   rozniesla. Potom si vzal najstaršiu zo siedmich pekných dcér jedného   svojho suseda. Styky, ktoré získal týmto zdanlivo bezvýznamným   manželstvom, zaopatrily mu pri nastávajúcej reštaurácii miesto   kancelistu, ktorého sa po roku vzdal, aby mohol žiť svojej   domácnosti. Jurasorom bol len zakrátko a prepadol pri najbližšej   reštaurácii.
     </tei:p>
    </tei:div>
@@ -325,9 +326,9 @@
     </tei:p>
     <tei:p>
      Bendeguz hovoril: „Ideme ďalej, ďalej na perutiach žeravej lásky k   drahej otčine, opretí o dôveru v Boha Maďarov (a magyarok Istene),   sprevádzaní srdečnými želaniami ľudí, vrelé srdce ktorých podobne,   ako naše, varí sa a vrie za materinskú reč, ideme ta, kde maďarské   slnko osvecuje materinskú zem Maďarov, až na koniec sveta, na okraj   okruhu tohto sveta, na Kaukaz, do Tibetu, kam nás predišiel pravý syn   vlasti…“, tu mu vyšiel dych, zbledol, oči sa mu prekrútily, ústa   spenily, a aký bol dlhý, vystrel všetky štyri končatiny. Pišta   preľaknuto vyskočil a povedal: „Čo sa vám robí, pán urodzený; nerobte   predsa žarty, pán urodzený!“ Mykal ho za ruky, za nohy, za nos,   staval ho na nohy, kričal — všetko nadarmo. V úzkosti siahol za   súdočkom, aby mu zvyšok z neho vylial do hrdla, ale všetka námaha   bola daromná. Bendeguz mal zuby stisnuté, takže sa nedalo k nemu   priblížiť. Teraz musel Pišta podniknúť chirurgickú operáciu. V potu   tvári vstrčil mu vreckový nožík a potom ocieľku medzi zuby a vynútil   tak otvor, cez ktorý mu mohol nakvapkať pálenky. A, div divúci!   Bendeguz otvoril oči a srdečne chytil Hipokrata za ruku. „Ako to mám   rozumieť, pane“, povedal Pišta, „čo sa to stalo?“ Po dlhej prestávke   Bendeguz napokon povedal temným a zlomeným hlasom: „Kde som? Kde som   bol? Videl som hunského kráľa Atilu a nášho otca Arpáda v žiare   nesmrteľnosti, Každý z nich mal ako Isten ostora (bič Boží) v rukách   bič, Arpád aj Lehelovu trúbu. Obidvaja sedeli na bielych koňoch, tie   ako by pochádzaly z rodu bieleho koňa, ktorým naši otcovia vydobyli   Maharániu, ktorého zvečnil Dugonics a ktorým sám sebe postavil   nehynúci pomník. Arpád mi podal palmovú korunu, bola spletená zo   zelených tabakových listov a kvetov cibule, a slávnostne povedal:   Vzmuž sa! Si na to vyvolený, aby si vyhľadal moje deti, svojich   bratov, na stepiach Eufratu, na Urale, na Kaukaze, alebo kdekoľvek   ich budeš môcť nájsť, tu si vyvolený, kde raz babylonská veža naša   panenskú reč znetvorila miešaninou latinskej, nemeckej, ba aj   slovenskej reči, a päťdesiatimi inými rečami. Tam, doložil Arpád,   vypočuješ v harmonických tónoch a v rachote hromov uchom, rozkošou   spitým, čistý zvuk nebeskej reči svojich predkov, ktorou kedysi had   Evu zviedol a ktorou rečou ju anjel spolu s Adamom vyhnal z raja.   Tiahni ta, ty vyvolenec, a neotáľaj! Ani strach, ani láska, ani   ťažkostí dlhej cesty, ani pohodlný život v krajine, o ktorej sa   právom hovorí: Extra Hungariam non est vita,
-     <tei:ref target="#N31"/>
+     <tei:ref target="#N31" />
      —   nič na svete nech ťa od tohto úmyslu neodláka alebo neodstraší; na čo   ťa teraz týmto slávnostne vysviacame— Dal mi úder ostrohou a   pasoval ma na strmeňového rytiera. Uzrel som, ako sa môj erb vznáša v   povetrí, načo sa rozplynul. Zdalo sa mi, že je to uhorské sedlo v   červenom poli, s týmto pre mňa významným nápisom: EB A KI NEM.
-     <tei:ref target="#N32"/>
+     <tei:ref target="#N32" />
      Atila práve zdvihol ruku, pravdepodobne aby mi   uštedril svoje požehnanie, keď si ma vyburcoval z tohto nebeského   sna, z ktorého by som sa nikdy nebol chcel zobudiť. Pišta, nemal si   ma vyrušovať z mojej blaženosti; pamätaj si, Pišta, aby si svojho   blížneho nikdy neolúpil o blúznenie, ktoré ho robí blaženým. Ty si to   predsa dobre myslel, môj statočný Pišta. Preto ťa teraz aj ja týmto   vysviacam za svojho sprievodcu na ceste (položil mu ruku na hlavu) a   týmto posvätením udeľujem ti oprávnenie mať podiel na mojej   vznešenosti.“
     </tei:p>
     <tei:p>
@@ -338,11 +339,11 @@
     </tei:p>
     <tei:p>
      Pišta sa zatiaľ vzdialil a prešiel už hodný kus, nevediac, či má   kone hľadať na severnej alebo na južnej strane. Jednotlivé stopy ich   prítomnosti, ktoré náhodile utrúsily slúžily mu za magnetickú ihlu a   podľa tohto kompasu tak sa ponoril do húštia, že ani z jeho malej   postavy nebolo už nič vidno. Bendeguz medzitým, s tvárou obrátenou   smerom k Sedmohradsku, vymaľoval si svoju cestu až do Tibetu, a   navrhol, pravdaže nedokonalú, poštovú dopisnicu so všetkými   stanicami, ktorá by mu, ako sa nazdával, vystačila po Mehádiu.   Chladný vzduch zadul do chrbta dobrému mužovi, čo ho prebralo z jeho   snov. Zatiaľ nastala noc. Darmo namáhal oči, aby niečo videl, a darmo   natŕčal uši, darmo volal na plné hrdlo. Večerný zvon zo Sv. Martina   práve vyzváňal jeho obyvateľom na noc. Teraz sa ponáhľal za Pištom a   občas zavolal jeho meno, ale iba ozvena mu odpovedala. Práve zapišťal   netopier, preletiac mu okolo fúzov a na ktorejsi dedinskej veži   opakovala sova svoje uhúkanie. Vlasy sa mu naježily a bolo mu trochu   úzko okolo srdca. Čoskoro sa zase vzmužil a hanbil za svoj strach,   nedôstojný muža, takého muža, ktorý mal prekonať určité   nebezpečenstvá, prv, než dosiahne cieľ svojich žiadostí. „Napred,   Bendeguz!“ povedal si s Blücherom a išiel smelo za nosom, mohutne   vyvolávajúc. Zrazu počul Pištov hlas, ale sebe za chrbtom, a teraz už   celkom nevedel, na čom je. Obrátil sa a znova zavolal. Pišta   odpovedal už trochu bližšie, až sa konečne v nočnom tichu na malú   diaľku jasne mohli dorozumieť. „Kde ťa čerti niesli?“ zvolal namrzene   Bendeguz. „Ticho!“ zašepkal ten priduseným hlasom. „Hneď vám všetko   poviem.“ Keď už boli tete a tete,
-     <tei:ref target="#N33"/>
+     <tei:ref target="#N33" />
      povedal Pišta:   „Ale sa tie dosýta nažraly! Lenže chlap sa nám nepoďakuje; ovos je   strašne spustošený. Len ticho, pán môj, musíme sa poponáhľať, aby sme   ztadeto zmizli.“ Bendeguz bol človek až príliš pokojamilovný, než by   bol pripustil, aby došlo k skúške, či sa niekto opováži šľachtica in   flagranti
-     <tei:ref target="#N34"/>
+     <tei:ref target="#N34" />
      zmlátiť, preto pokladal za prospešné   kone čo najrýchlejšie osedlať a zmiznúť odtiaľ. Niesli sa na koňoch   už dobrú hodinu, keď Pišta zbadal, že zablúdili: „Pán urodzený“,   povedal, „noc nie je nikomu priateľom, poblúdili sme: cesta sa mi zdá   príliš dlhou.“ Bendeguzovi cesta nebola dlhá, lebo zaspal na Szikre.   Dobré zviera už si osvojilo pánove obyčaje a už často dokázalo svoju   opatrnosť, keď opitého pána celkom jemne donieslo domov a zostalo   stáť so svojou ťarchou až pred bránou. „A čo myslíš, kde si vlastne?“   spýtal sa Bendeguz. „Ak to nebo nevie lepšie ako ja, nemáme sa   najlepšie a nemôžeme sa s miesta rušiť, kým sa nerozvidní.“ Stáli   ticho a pokúsili sa orientovať. Mesiac ešte nebol vyšiel, ale už   začínalo byť vidnejšie, „Už to mám“, ohlásil sa konečne Pišta,   „vidíte tamten kríž?“ „A potom?“ zašomral Bendeguz. „Ten nám ukáže   správnu cestu.“ S tým Pišta sosadol a vložil pánovi uzdu do ruky. „Čo   vlastne chceš?“ „Hneď som tu.“ „Ale ma predsa nenecháš samého?“   Nepočúvajúc ho, Pišta išiel vopred a kone za ním. Sotva spravil pár   krokov, spadol,“ ale hneď sa posbieral, nepovediac ani slova. Do tej   istej priekopy sa zrútil aj jazdec, no neublížil si. V strachu   spustil krik a Pišta sa náhlivo obrátil, aby ratoval človeka aj koňa.   Prijali ho s teremtettom,
-     <tei:ref target="#N35"/>
+     <tei:ref target="#N35" />
      lebo Bendeguz zbadal,   že sa mu rozbila obľúbená fajka. „Tu to mám!“ zašomral Pišta. „Všetci   ľudia sú rovnakí, to je vďaka za dobrú vôľu.“ „A akúže vôľu si to   mal?“ „To sa hneď dozviete, a potom ma pekne odprosíte. Pozrite, kríž   nám poslúži a ukáže cestu.“ „Či chceš naň zaklopať, aby ti cestu   ukázal?“ „Vy to nerozumiete, ja si už dám rady.“ Išiel a Bendeguz   videl, ako sa vyškriabal na kríž. Chlap je šialený, pomyslel si   Bendeguz; rád by bol vedel, čo tým chce. „Už to mám!“ zvolal Pišta s   kríža, „sem sa, pán urodzený; už viem, kde som.“ S tým sliezol dolu.   „Držme sa napravo cez lúky a keď nás niečo nezájde, musíme byť za   hodinu tam, kde sme mali byť, pravdaže, už pred dvoma hodinami.“ „Ako   si to urobil?“ „Najjednoduchšie.“ „Ale predsa ako?“ „Vy viete, že nám   kríž býva za chrbtom, a tak musíme ísť cestou poza jeho chrbát, aby   sme prišli domov. Idúc rovno, prišli by sme už na svitaní asi do   Mošoviec.“ „A ako si vedel v noci, keď je tma ako v rohu, rozoznať   tvár krucifixa? Máš ty predsa len oči ako mačka.“ „Práve preto som sa   vyškriabal, aby som obrázok nahmatal a vyznal sa na okolí.“ Rozumný   chlap, pomyslel si Bendeguz, môže sa zísť na tej dlhej ceste, išiel   teraz popredku, proti každej zdvorilosti, a Bendeguz ho bojazlivo   nasledoval.
     </tei:p>
     <tei:p>
@@ -365,7 +366,7 @@
     </tei:p>
     <tei:p>
      „Brat môj, teraz sme sami a môžeme si zo srdca podiškurovať. Ako   som povedal, všetci sme boli nadšení, či starí, či mladí, s výnimkou   niekoľko málo zarytých Slovákov. Zradcovia! Pereat!“
-     <tei:ref target="#N36"/>
+     <tei:ref target="#N36" />
      zvolal Gyula, pričom prehltol za pohár   slivovice. „Pereat celý svet, ktorý nesúhlasí s nami. Ubezpečujem ťa,   brat môj,“ hovoril ďalej, „keby som bol mladší, čo len vo svojich   jurátskych rokoch, divy by ste videli.“ „Milý môj priateľ, ja som   dnes dobrý štyridsiatnik, a jednako — neviem, čo by sa mohlo stať. —   Čítal si zprávy od nášho nesmrteľného Csomu, aby si pritom nebol   zatúžil ísť do prasídlisk našich otcov? Ja, nakoľko ťa poznám…“ „Áno,   poznáš ma,“ odpovedal Gyula, „len moje jurátske roky sem a chlap musí   von do nepriateľského sveta! (Gyula, ktorý všetko dve na tri   prečítal, okúsil aj Schillera.) Statočnému Csomovi som už často   závidel, nie tak pre jeho slávu, ktorú istotne zasluhuje, — a hanbím   sa, že ho Anglicko musí vydržiavať, — ale pre potešenie, ktoré mu   kedysi poskytnú jeho objavy. Všetko svoje imanie a majetok by som   vďačne s ním čaroval, keby mi mohol dať svoje skúsenosti a pocit,   ktorý jeho oduševňuje.“
     </tei:p>
     <tei:p>
@@ -417,13 +418,13 @@
     </tei:p>
     <tei:p>
      Priniesli jedlo a najlepšie víno, ktoré bolo zahrabané v pivnici,   vyniesli na denné svetlo. — Keď farár zjedol polievku, vykrámil im   pomaličky všetky svoje vedomosti, o ktorých myslel, že im nimi dobre   poslúži. Vyslovoval isté pochybnosti o tom, či sídlo Maďarov treba   tam hľadať, kde ho obyčajne tušia. — Prišla na rad kyslá kapusta, a   keďže bola jeho obľúbeným jedlom, podržal si svoju hypotézu a — viac   ju nespomenul. Miesto nej predložil rozličné náhľady o pôvode,   prasídle a o poslednom sídle Maďarov, prv než sa prisťahovali do   Uhorska, a vyrátal ich na prstoch, nerozlúštiac tieto dve otázky.   Učený pán nemusel s tým ani prísť, keďže výsledok bol, že ich to   všetko iba zmiatlo. Nevedeli teraz, komu majú veriť, či Jozefovi   Hagerovi, či Spittlerovi, alebo Horváth Istvánovi, alebo nášmu   Dankovskému a Palkovičovi. Odteraz sa v ich mozgových skrinkách aj   pohybovali jedno cez druhé: Konštantín Porfyrogeneta a pôvodca   Philisteriany spolu s Juhriou a Schlötzerom, Atelkuzom a Uralom,   Kaukazom, pričom vlastne nevedeli, čo si majú myslieť pri každom tom   mene, či je to muž a či žena, mesto alebo krajina. Pravda, neskôr im   trochu svitlo, keď im dal pán farár prečítať prvé číslo z Ährenlese,   prílohy Pressburger Zeitungu, kde našli pohromade rôzne mienky o tej   veci. Bol to však len úsvit, súci iba na to, aby niekoho zaviedol, a   nijaké slnečné svetlo, za ktorého by boli mohli prísť na Ural alebo   na Kaukaz. Farár sám bol presvedčený, že praotcovia žili kočovným   životom na úpätí Uralu čo zrejme vidno i zo slova „uralkodni“.
-     <tei:ref target="#N37"/>
+     <tei:ref target="#N37" />
      Na to poukazuje i jednoduchý slovný koreň „ur“,
-     <tei:ref target="#N38"/>
+     <tei:ref target="#N38" />
      a, ako sa vyjadril, značilo by to Iliadem post   Homerum cantare,
-     <tei:ref target="#N39"/>
+     <tei:ref target="#N39" />
      , keby sa niekto i nabudúce   odvážil ukovať nejakú novú hypotézu, keď on postaví tú svoju, majúcu   pevný základ v reči samej a stojacu na vlastných nohách. Umienil si   totiž, napísať o tom vlastnú úvahu, len čo Akadémia vypíše súbeh o   cenu toho druhu a jemu sa tak otvorí pekná cesta, môcť zarobiť sto   dukátov. Ináč bol tej mienky, že jedlom starých Maďarov nebola   slanina, ale kobylie mlieko a že oni boli tí Galaktophagi a   Hippomolgi, o ktorých rozpráva Stobäus. Povaha prípon v ich reči robí   pravdepodobnou príbuznosť tej reči s hebrejčinou, pre čo sa nikto   nemusí hanbiť, naopak, je to česť, byť v príbuzenstve s vyvoleným   národom Božím. A keďže sa my, hovoril ďalej, tiež pokladáme za ľud,   znamenite uprednostený od Boha, a veríme v magyarok Istena,
-     <tei:ref target="#N40"/>
+     <tei:ref target="#N40" />
      nachádzam v tom nový dôkaz pre svoju domnienku,   ktorú mám v úmysle vyložiť onedlho v Tudományos Gyüjteményi. Okrem   toho môže sa odvolať aj na mienku významného človeka, ktorý, pravda,   len po mnohých iných opakoval, že Uhorsko treba pokladať za Kanaán   Európy.
     </tei:p>
     <tei:p>
@@ -431,7 +432,7 @@
     </tei:p>
     <tei:p>
      Usporíme nášmu čitateľstvu ďalšie debaty, čo môžeme spraviť s   dobrým svedomím. Náhle totiž víno ochromilo ich jazyky a zahmlilo ich   horné poschodie, v ich rozhovore bolo tak málo súvisu, že nebolo   možno nitky zadržať a dialóg autenticky reprodukovať. Trojica   nakoniec zaspala, a pán duchovný vykradol sa odtiaľ na mrku, pri čom   bolo badať na ňom veľmi neistý krok. Bendeguz sa zobudil až na druhé   ráno a kázal sedlať. Gyula ho vyprevadil až po studničku na ceste,   kde sa navzájom rozlúčili so slovami: „Eb a ki nem!“
-     <tei:ref target="#N41"/>
+     <tei:ref target="#N41" />
     </tei:p>
    </tei:div>
    <tei:div type="chapter">
@@ -458,7 +459,7 @@
     </tei:p>
     <tei:p>
      Deň predtým sa Bendeguz schystal na cestu, na ktorú sa denne   pripravoval, odkedy si na jarmoku v Sučanoch kúpil nové čižmy pre   seba a svojho jazdeckého sluhu. Kone celý týždeň šetril a dostalo sa   im lepšieho žrádla. Pišta ponaprával postroje a namastil ich, pričom   pamätal i na svoje čižmy. Kata mu schystala dva páry bielizne.   Bendeguz si vzal tri páry. Pre seba a svojho jazdeckého sluhu, ako   začal teraz nazývať Pištu, dal ušiť zelené košele a zelené gate, ako   najpohodlnejší odev do ázijských horúčav. Ostatnú garderobu si   zabalil do vaku, spolu s maďarskou modlitebnou knižkou, prístrojom na   holenie a dvoma hrebeňmi. Pišta nakrájal toľko tabaku, koľko   predvídateľne postačovalo pre nich, tuhých dvoch fajčiarov, po   Rimavskú Sobotu, kde sa chceli zásobiť na ďalšiu cestu. Na hruške   sedla visel každému z nich fokoš a vzadu kulač. Pišta sobral okrem   toho drevený hrniec s kyslou kapustou a malý súdok borovičky. Chleba   a slaniny mali dostať až u pána Kolomposa. Tak sa volal totiž od   prvého mája pán de Szlanina alias
-     <tei:ref target="#N42"/>
+     <tei:ref target="#N42" />
      Szalonnay.   Pišta dostal široký klobúk, ktorý mu konal dobré služby, či za dažďa,   či proti slnku. Pán sa mal horšie, keďže si vzal kalpak, ktorý nosil   ešte jeho starý otec za Márie Terézie ako patvarista. Kalpak bol ešte   dobre zachovaný, okrem podšívky a toho miesta, ktoré mole   vyžraly.
     </tei:p>
     <tei:p>
@@ -466,9 +467,9 @@
     </tei:p>
     <tei:p>
      „Osedlal si kone?“ „Áno, pán urodzený, môžeme nasadať.“ „Teda:   Lóra katona!“
-     <tei:ref target="#N43"/>
+     <tei:ref target="#N43" />
      Ako druhý Hektor sosňal kalpak,   ale nie preto, že by sa ho bol jeho Astyanax bál, práve naopak, lebo   kalpak bol jeho deťom predmetom posmechu. Tie samopašily okolo   otecka, ba Lehel sa vyštveral na stôl, aby mu strhol čiapku s hlavy.   Preto si odokryl hlavu, s plačom pobozkal manželku, nakladajúc jej,   aby sviňu dobre kŕmila, aby, až sa vrátia okolo Nového roku, ako   traja mudrci od východu, pečená už ležala pripravená. Sľúbil, že jej   donesie pár pekných topánok z tureckého kordovánu, svojmu synovi   pomaľovanú šabľu a dcére modré korale. — Pišta sa so slzami rozlúčil   so svojou šestonedieľkou. Neskoro mu sišlo na um, že sa jeho staré   kosti nehodia už na takú solídnu cestu. Nápoj na rozlúčku ho jednako   omladil a, aký bol rozohnený, chcel nasadnúť ako vo svojich   insurgentských rokoch. Zrazu sa mu strmeň odtrhol a on odkväcol na   zem ako nejaké vrece a utieral si nos. Bendeguz zbadal, že sa mu krv   z nosa pustila a zarazene sa díval na odtrhnutý strmeň. Nech má   inakšiu odvahu, bol by vysypal celú zásobu maďarských kliatieb, ktorú   za mladi nasbieral. Pišta veril na znamenia a nesľuboval si od cesty   nič dobrého. Bendeguz, aby obodril malomyseľného, uisťoval ho, že to   nič neznamená, že sa čosi podobného prihodilo už Juliovi Caesarovi,   čo si veľmi dobre zapamätal ešte z rétoriky. S tým sa vyšvihol na   Szikru. Pišta mal prijazdiť hneď za ním, keď si remeň sošije. Bodol   koňa ostrohami, zatisol si kalpak na oči a vyletel medzi nemými   poklonami, aby čím skôr prešiel popri obzízajúcom zástupe. Keď sa mu   dedina stratila z obzoru, zostal stáť, sosadol, priviazal koňa o   akýsi plot, vykresal si oheň a začal fajčiť. Dalo sa predvídať, že   Pišta bude potrebovať aspoň pol hodiny, aby prišiel za ním. Bendeguz   preto nasbieral suchého dreva a rozložil oheň v tôni jednej z vŕb.   Sadol si k ohňu a v tej chvíli sa cítil celkom šťastným, okúsiac prvý   pôžitok slávy, ktorá mala prevážiť všetky ťažkosti, aké pravdepodobne   bude musieť znášať. Ešte pri Žebrákoviciach zasníval sa do   citrónových lesov Tibetu, ako mu ich z cestopisov opísal jeho   priateľ, terajší Kolompos, vulgo
-     <tei:ref target="#N44"/>
+     <tei:ref target="#N44" />
      Slanina. Pišta   čoskoro prišiel, doplaziac sa, lebo chudák Pogány svesil uši, keď   zbadal, že zostal sám. Sotva však zazrel svoju spoločnicu na cestách,   respektíve dcéru, zaerdžal a zdvojnásobil kroky. Pišta bol rád   ohníčku a podal svoju fajku pánovi s poznámkou, aby mu ju dal do   pahreby. Bendeguz pokrútil hlavou, ako by sa mu nepozdávalo, že si   sluha niečo takého dovoľuje voči svojmu pánovi, ale musel teraz   všeličo prehltnúť, aby si ho udržal pri dobrej vôli. Čas bol príliš   vzácny, aby sa narobilo veľa parády s fajkou jednako mu ju len   pripálil a jazdilo sa ďalej. Gyula im prišiel naproti na koni,   ustrojený celkom tak, ako chcel byť na ceste. Od klobúka až dolu po   ostrohy všetko sa ponášalo na oblek csikósa (pastiera koni), lenže   všetko to mal vznešenejšie. Ba vzal si ešte aj ovčí kožuch,   oplývajúci červenými a zelenými ozdobami, a to hoci bola horúčava,   ktorá prišla aj do Turca koncom apríla. Bendeguz, vidiac to, umienil   si kúpiť gubu v Debrecíne pre seba a Pišta sa mal za chladných nocí   postarať o seba, ako najlepšie bude vedieť. Gyula si vzal dve dobré   pištole, Bendeguz a Pišta si jeden pár podelili medzi sebou. Gyulovo   vrecko na tabak s dlhými remennými pruhmi bolo majstrovské dielo,   ktorým istý kožušník z Miškovca získal majstrovské právo. Obyčajná,   žltým plechom okutá a mosadzným vrchnákom dobre zaistená fajka, s   krátkym pipasárom z kosodreviny, mala mu byť milou. Bez kulača sa   nedalo cestovať v šírych bezvodných stepiach Uhorska. Jeho Susette mu   okrem bielizne pribalila aj ihlu a niť, spolu so zrkadielkom v   puzdre. Do opaska si vložil peňaženku nabitú papierovými peniazmi, a   zmenku, na ktorú si mohol v Pešti vyzdvihnúť peniaze. Do Kluže mu   mali dodať novú zásobu turčianski kramári (šafraníci). Úfal sa aj   tomu, že sa v Turecku alebo v Ázijskom Rusku stretne s olejkármi,   ktorým usporí námahu, aby vláčili zlato domov, keďže si ho mohli   vyzdvihnúť na jeho poukážku u jeho Žida, ktorému na tri roky prenajal   svoje imanie a majetok. Svoju Susettu spolu so štyrmi poľovníckymi   psami dal na stravu k farárovi, ktorý sa ako veľký poľovník mohol o   psov najlepšie postarať. Slovom, všetko bolo pripravené na odchod a   na druhý deň vydali sa na cestu.
     </tei:p>
    </tei:div>
@@ -520,14 +521,14 @@
     </tei:p>
     <tei:p>
      „Kde ste vypriadli tú sprostosť?“ spýtal sa Bendeguz celý   namrzený. Pišta odvetil, že sa pieseň naučil od študentov, keď sa   vrátili z Gemera domov. „Tí mohli doniesť aj niečo lepšieho: Drága   kincsem, galambocskám,
-     <tei:ref target="#N45"/>
+     <tei:ref target="#N45" />
      alebo: Ez az élet úgy se   sok.“
-     <tei:ref target="#N46"/>
+     <tei:ref target="#N46" />
      „Pravda, brat Bendeguz, však je to pekná   pieseň, — naučil som sa ju z kalendára Fejérpa—takyho, — celkom ma   preniesla do mojich študentských rokov, …“. „…a ja ju viac nechcem   počuť,“ prerušil ho Bendeguz. „Nebudeme predsa spievať turíčne   piesne, a vrtochy si predsa len musíme zaháňať.“ „Ja sa radšej vrátim   nazad,“ skríkol Bendeguz, „ako by som mal vypustiť z úst slovenskú   pieseň; radšej sa diablovi telom i dušou zapíšem, ako by som dal   hrtan na niečo takého. Ó, ja potrebujem svoje hrdlo na čosi inšieho.   Nech vás čert vezme, aj všetky slovenské piesne, čo. tam v Pešti   vyšlý, spoju aj s autorom Kocúrkova!“ „Ja som myslel.. .“ „Aj ja si   myslím, a čo si myslím, to si nedám vziať nijakému Slovákovi, na to   nech mi nikto nesiaha. Rozumel si? Ak ma chceš nazlostiť, tak mi len   rozbúr žlč slovenskou piesňou. Prosím, aby si mi dal pokoj so   slovenčinou.“
     </tei:p>
     <tei:p>
      Nech je Gyula nie taký dobromyseľný a flegmatický, už by sa bola   celá expedícia rozbila na tomto úskalí. On však poznal svojich ľudí a   nechal ich vybúriť sa. „Priateľ, poznáš pieseň: Nem vagyok en   káromkodó?“
-     <tei:ref target="#N47"/>
+     <tei:ref target="#N47" />
      „Zbytočná otázka, na ktorú netreba   odpovedať,“ zahundral Bendeguz. Gyula začal spievať, Bendeguz spieval   spolu s ním a prv než prišli do Čremošného, mier bol obnovený.
     </tei:p>
    </tei:div>
@@ -549,11 +550,11 @@
     </tei:p>
     <tei:p>
      Slnce pražilo, poludnie už prešlo. Za Čremošným našli zelené,   zatônené miestečko, ktoré ako by ich volalo. Bendeguz, dobrý jedák,   vyhladol spolu s koňom. Zastavil sa. „Ani krok ďalej!“ povedal.   „Príroda tiež požaduje svoje. Sem kapsu! Dávno som už nebol taký   lačný.“ A s tým išiel ako na hotové: „Pišta, kde je kapsa?“ Pišta sa   tváril veľmi hlúpo, škrabal si hlavu a začal kliať. „Veď si predsa   zabalil naše zásoby?“ „Pán môj,“ odvetil Pišta, „a čo mi hneď hlavu   pred nohy položíte, nemôžem vám povedať, či som ju vzal aj len do   rúk.“ „Chlap je ožratý: hovorím o kapse, o kapse s chlebom, slaninou   a pečienkou — kde ju máš?“ Pišta mlčal. „Aby ťa hrom spálil, ty si už   len vykonal!“ „Nie … ja …“. Pišta dlho nerozmýšľal — vpravo bok — a   uháňal. Bendeguz kričal za ním ako len vládal, ale to nič nepomáhalo,   lebo Pišta za moment zmizol. Bendeguza div čert nevzal a keď sa mu   teraz nič nestalo, môžu sa čitatelia úfať, že cestu šťastne dokončí.   Gyula znášal všetko pokojne, sosňal uzdu svojmu Csinosovi a dal mu   slobodu. Bendeguz nasledoval jeho príklad, mlčal, fajčil, ľahol si a   zaspal. Gyula strážil kone. Slnko zapadalo a Pištu ešte nebolo.   Bendeguz sa konečne zobudil a vyskočil. „Kde je ten darebák?“ volal,   pretierajúc si oči. „Ešte neprišiel? Nemožno!“ „Veru je tak a nie   inak.“ „Čo teda urobíme? Musíme tu prenocovať a zamrzneme!“ „Už si   dáme rady, takto, pozri, brat môj.“ Gyula nahromadil suchého lístia,   pohľadal suché drevo a rozložil vatru. Bendeguz musel k tomu tiež   privoliť. Koňom dali voľnosť a rytieri sa striedali v strážení. Už sa   rozvidnievalo. Bendeguz nemohol spať od zimy, prehrabal oheň a   fajčil. Obidvaja zívali opreteky od zimy a hladu. Zrazu sa im   zazdalo, že počuť v diaľke kroky. Bendeguz si ľahol na zem a počúval.   Ktosi prichádzal čoraz bližšie. Gyula zapískal a niekto mu z diaľky   odpovedal. Nebol to Pištov hlas a bolo ho počuť s opačnej strany.   Bendeguz sišiel na cestu a zbadal, že sa sklamal vo svojom očakávaní.   „Nemáte niečo na jedenie?“ spýtal sa sedliaka, len čo ho zazrel. „Pán   môj, to musíte mať prekliaty hlad,“ odvetil sedliak. „Veď ktože by   tak včas raňajkoval?“ „Nešpekulujte,“ povedal namrzene Bendeguz,   žiadajúc krátku odpoveď, bez vykrúcačiek: „Máte niečo zahryznúť? To   sa spytujem.“ „Áno, áno, len majte strpenie. Tu je kus chleba, ale,   pravda, len ovseného — pánom niečo takého nebude chutiť. A tu mi moja   stará dala so sebou údenej baraniny, ale to nie je pre takých pánov.“   „Nijaké ale, ak smiem prosiť, a sem s tým!“ „Stačila by vám hádam   polovička, ja som za hodinu doma.“ „Čo žiadate za všetko?“ .Za   všetko? Medzi bratmi je to hodno štyri groše.“ „Tu máte päť.“   Uzavreli obchod a sedliak išiel svojou cestou. S akým chvatom siahol   po jedle Bendeguz, keď si Gyula odlomil kúsok chleba! Napokon sa   zjavil, keď už bol pochovaný i posledný kúsok, aj Pišta, a tu sa   začalo da capo.
-     <tei:ref target="#N48"/>
+     <tei:ref target="#N48" />
      Gyula a Pišta nedali sa nútiť.   Pohľad na hrniec s kyslou kapustou Bendeguza tak oduševnil, že   neurobil Pištovi jedinkej výčitky. Bol ako znovuzrodený a na miesto   nrrzútskeho správania nastúpila veselá nálada. Gyula sa teraz odvážil   naliehavo mu predstaviť, ako v budúcnosti musí byť odhodlaný na oveľa   väčšie strádanie, a to tak na kečkemétskej puste, ako aj na Urale;   ako bude musieť znášať hlad a smäd, prv, než prídu do Kanaánu na   Kaukaze. Takí chlapci, ako oni, mali by sa hanbiť, že zmalomyseľneli   pre niekoľko lyžíc kyslej kapusty. Bendeguz ako kajúcnik so sklopenou   hlavou vypočul káravú kázeň a sľúbil, že sa polepší. Pišta im za   raňajok vyrozprával, ako sa za noci a hmly vkradol do maštale, corpus   delicti
-     <tei:ref target="#N49"/>
+     <tei:ref target="#N49" />
      v tom kúte našiel, kam ho zastrčil, vzal   ho spolu s otepou sena a zmizol. Podľa jeho rozprávania v celom dome   sa veselili. Dvorskí úradníci spolu s čeľaďou robili po svojom,   najali si muzikantov a tancovali ostopäť. Dvorský sudca, ako Pišta   dobre zazrel cez oblok, sa tackal, a Susette tancovala s rechtorom.   Tu Gyula vstal a pískal pesničku, pri čom sa odvrátil. „Lóra katona!“   privolal Bendeguz Gyulovi a Pišta, ktorý sa ako integrálna časť   trojlístku od istého času stal veľmi familiárnym, odvážil sa k tomu   doložiť: „Tehénre a hajdu!“
-     <tei:ref target="#N50"/>
+     <tei:ref target="#N50" />
      Bendeguz významne   pokýval hlavou a mlčal. Bláznovi treba robiť po vôli, pomyslel si,   veď ako často sa blázni trpezlivo znášajú, keď ich možno použiť na   svoje ciele.
     </tei:p>
    </tei:div>
@@ -562,7 +563,7 @@
      11. Per aspera ad prospera.   Etymologický diškurz na Harmanci.
     </tei:head>
     <tei:p>
-     <tei:ref target="#N51"/>
+     <tei:ref target="#N51" />
     </tei:p>
     <tei:p>
      Kereke forgását látom szerencsének.
@@ -584,7 +585,7 @@
     </tei:p>
     <tei:p>
      „Braček, ak to takto pôjde s nami, sotva zájdeme do Ulmanky,   nechcem hovoriť do Tibetu.“ „Každý začiatok je ťažký,“ odvetil   Bendeguz, doložiac k tomu reminiscenciu z Gemera: Dabit Deus his   quoque finem.
-     <tei:ref target="#N52"/>
+     <tei:ref target="#N52" />
      O Pištovi napochytro nevedeli, kde   je a nepokladali za múdre, volaním zbojníkov na neho upozorňovať.   Pokračovali teda vo svojej ceste, spoliehajúc sa na Boha Maďarov, až   prišli k osamelému hostincu.
     </tei:p>
     <tei:p>
@@ -592,9 +593,9 @@
     </tei:p>
     <tei:p>
      Krčmár poprosil, aby sa im páčilo dnu. Na cudzom pánovi bolo   vidieť, že je asi Maďar, preto ho Bendeguz pozdravil s Alázatos   szolgája,
-     <tei:ref target="#N53"/>
+     <tei:ref target="#N53" />
      a na svoju nevysloviteľnú radosť počul   maďarské poďakovanie na pozdrav. Vymenili medzi sebou obyčajné otázky   a odpovede, aby boli z nich múdri, koho majú pred sebou. Tu sa   dozvedeli naši cestovatelia, že ten Maďar je ich krajan a okrem toho   pravý turčiansky zeman, ktorého priezvisko sa končilo na —y, odkedy   si ho preložil do maďarčiny. Aký bol rád Bendeguz nešťastiu, ktoré   ich zastihlo i pri utrpenej škode, lebo nešťastie im dalo popud, aby   tu sosadli. Stretly sa tu tri príbuzné duše, rozumely si navzájom, a   keby pán —y bol býval taký voľný a nesviazaný, ako bol au contraire
-     <tei:ref target="#N54"/>
+     <tei:ref target="#N54" />
      úradom viazaný, boli by v ňom našli rovnorodého,   rovnako smýšľajúceho spolucestovateľa.
     </tei:p>
     <tei:p>
@@ -602,39 +603,39 @@
     </tei:p>
     <tei:p>
      Cudzí pán zaviedol rozhovor na Széchenyiho mnohočítané spisy, a   najmä na jeho Világ. Bol z tých ľudí, ktorí alebo nechápu veľký   význam tohto spisu, alebo sám ten významný človek nie je im po chuti,   keďže siaha na ich zakorenené predsudky. Ale ako jednako všetci,   priatelia i nepriatelia, nachádzajú niečo u neho, čo predsa len   schvaľujú, tak i tento vedel spozorovať to, čo sa najmä jemu páčilo.   „Széchenyi má pravdu,“ povedal, „že čo chce prekážať rozvoju,   rozšíreniu a obohateniu našej reči — „a to sú všetci prekliati   Slováci a Nemci“, vpadol do reči Bendeguz — „usiluje sa nás olúpiť o   najdrahocennejší majetok vlasti a zasluhuje za to, ako urážateľ, ako   nepriateľ nášho národa nie pochvalu, ale kliatbu a trest.““ Nášho   Bendeguza tak dojaly tieto slová s ťažkým obsahom, že dal zaznieť na   ríf dlhému zvučnému Éljen!
-     <tei:ref target="#N55"/>
+     <tei:ref target="#N55" />
      So slovami „Igyunk   egyet!“
-     <tei:ref target="#N56"/>
+     <tei:ref target="#N56" />
      tak tuho štrngol o pohár pána —y, že   jeho síce zostal celý, ale za ten druhý musel zaplatiť päť   krajciarov. Keby bol krčmár rozumel po. maďarsky, bol by Széchenyimu   nakrátko odporoval, lebo na to nie je potrebný okrem triezveho   ľudského rozumu nijaký iný logický aparát a nijaká syllogistická   forma. Flegmatický Gyula krútil hlavou, čo Bendeguz nemilo prijal a   žiadal o vysvetlenie. „Tým vám nezostanem dlžen,“ odvetil Gyula. „Mne   leží v žalúdku celý Széchenyi, lebo keby jeho mydlové bubliny neboly   mydlovými bublinami, nezachovali by sme si ani svoje štyri hlavné   slobody. Ale nechajme to bokom, nepamätáte sa, priateľ, s akým   posmechom hovoril o panenskosti našej reči? Oj, ja som si dobre   povšimol, čo tu hovorí: ,Panenskosť a čistota, ktorú mnohí   excentrickí pseudopuristi obdivujú pri našej reči, je len námyseľ“.   Bendeguz sa zdesil a spolu so stoličkou posunul sa o pol siahy nazad.   Gyula pokračoval: „On nazýva ideu panenskosti našej reči nešťastnou   ideou a je, navzdory svojmu predstieranému vlastenectvu, natoľko   nevlasteneckým, že ju, predstavte si len, milý priateľ, nazýva   zakrpatenou pannou“. „A skutočne to povedal?“ spýtal sa ten druhý,   pri čom sa ešte viac posunul nazad. „Práve preto mi leží v žalúdku,“   odpovedal Gyula. „Tak by som sa potom musel mýliť o celom svete! On,   ktorý urobil viac pre maďarskú reč, ako všetci ostatní od   Pázmányových čias, by sa bol natoľko pozabudol?“ „Tak a nie ináč.“ „A   vám sa to zdá divným?“ ohlásil sa pán —y, „je to predsa obyčajná   opotrebovaná námietka všetkých, ktorí nežičia nám a našej materinskej   reči. Myslím, že treba týmto ľuďom napraviť hlavy, lebo im ich   poplietol ničomný Leškov Elenchus a teraz výstredný hrdina etymológie   a dorábateľ slabík Dankovský. Predstavte si, páni moji, ešte len aj   každodenné slová nám chce jeden aj druhý z týchto bláznov odškriepiť.   Slová, bez ktorých sa vôbec nezaobídeme, ak chceme s čeľaďou hovoriť   a obyčajné veci označiť. Ak príde ešte tretí blázon, bude aj to   tvrdiť, že naši slávou ovenčení predkovia nemí prišli na koňoch do   krajiny. Ani požívanie slaniny nechcú nám nechať bez popierania, a   slovo szalonna privlastňujú Slovákom, ktorí predsa miesto slaniny   radšej žerú zemiaky a múku, vrelou vodou oparenú a ovsený chlieb.   Nech mi z iných rečí vykážu koreň szal, z ktorého sa utvorila   szalonna. Veď im môžem oči vyklať slovami aszalni, szállani,   szaladni, szalonka, szalma a inými. Dobre ja viem, že by nám radi   vytrhli aj slovo szalma,
-     <tei:ref target="#N57"/>
+     <tei:ref target="#N57" />
      ale nedám im ho, práve   tak, ako ani slová széna a szerda.
-     <tei:ref target="#N58"/>
+     <tei:ref target="#N58" />
      Szerdény sa   volal u Maďarov Merkúr a tak sme szerda už našli. Szalma? Môj ty   Bože, už koncovka rozhoduje o tom, že je toto slovo práve také   maďarské, ako hagyma, kucsma, csizma, korcsma. — Korcsma
-     <tei:ref target="#N59"/>
+     <tei:ref target="#N59" />
      že by bolo slovenské slovo? Môj ty Bože, to   predsa pochádza od korcsmáros, a kdeže majú Slováci koncovky na os,   ako našinec, napr. mészáros, fokos, táncos,
-     <tei:ref target="#N60"/>
+     <tei:ref target="#N60" />
      a   iné. Tánc
-     <tei:ref target="#N61"/>
+     <tei:ref target="#N61" />
      si ja nedám odikriepiť ani Nemcovi,   ani Francúzovi, a v najmenšej miere Slovákovi; nikto na povrchu zeme   netancuje predsa tak pekne, ako Maďar. — Čo iného je predsa ablak,   ako eblyuk?
-     <tei:ref target="#N62"/>
+     <tei:ref target="#N62" />
      A kto by bol natoľko bezočivý, nech   je to aj sám Dankovský, aby nám odňal náš eblyuk? Čo chcú tí blázni   urobiť so slovom asztal? Veru pekné slovenské slovo! Misa patrí   predsa na stôl, a tak je hotové az tál.
-     <tei:ref target="#N63"/>
+     <tei:ref target="#N63" />
      Pukol by   som od zlosti, keď ani náš bajusz nie je ušetrený; baj a úsz
-     <tei:ref target="#N64"/>
+     <tei:ref target="#N64" />
      predsa sú pôvodné slová, a keď Maďar vykrúti   svoje fúzy, zabudne na každú nepríjemnosť, a baj úszik benne.
-     <tei:ref target="#N65"/>
+     <tei:ref target="#N65" />
      Betyár?
-     <tei:ref target="#N66"/>
+     <tei:ref target="#N66" />
      Nie, ani to si   nedám vziať, aj keď ho neviem hneď ex tempore
-     <tei:ref target="#N67"/>
+     <tei:ref target="#N67" />
      odvodzovať, ale koncovka ár dáva mu pečať maďarského slova, ako sa aj   patrí. — Bün,
-     <tei:ref target="#N68"/>
+     <tei:ref target="#N68" />
      to Dankovský vindikuje pre   Slovanov, veľmi dobre; ale svoj virtus, svoje jus, svoj templom
-     <tei:ref target="#N69"/>
+     <tei:ref target="#N69" />
      si už budem vedieť obrániť. Kto by predsa vedel   vyrátať všetky hlúposti, ktoré nám tí páni predkladajú, aby z našej   panenskej reči urobili neviestku, ktorá sa každému bez okolkov   zavesí, alebo sovu, ktorá sa vychvaľuje cudzím perím. Náš Tudományos   Gyüjtemény a Magyar Kurir niekoľkých z nich už zahnali. Len sa mi   zdá, že tí ľudia neupotrebujú správne zbrane. Ja idem ďalej a trúfam   si to matematicky dokázať, že naši prarodičia, Adam a Eva, nehovorili   ináč ako po maďarsky. Adam je predsa minulý čas nedokonalý od adok,
-     <tei:ref target="#N70"/>
+     <tei:ref target="#N70" />
      a on je ten, ktorý všetkým nám dal život. Ev je   koreň, vyskytujúci sa len v našej reči, a naozaj netreba veľa   rozumovať, aby sa z toho urobila Eva, takrečeno „év a“;
-     <tei:ref target="#N71"/>
+     <tei:ref target="#N71" />
      ona je čas, to znamená, matka všetkých vecí.“   Boli by učeného lingvistu sožrali s kožou a kosťami, tak im po chuti   hovoril pán —y, a nepočul ešte vo svojom živote toľko výkrikov   „bravo“, ako práve dnes. Bendeguz ho vrelo objal.
     </tei:p>
     <tei:p>
@@ -668,13 +669,13 @@
     </tei:p>
     <tei:p>
      Gyula ako znalec dejín Banskej Bystrice, v ktorej sa dva roky   nemecky učil, preniesol sa do čias, keď z úst nočného strážnika so   zámockej veže odznievaly sotva tieto dve maďarské slová: Szalaj   virasztaj! Vedel z Bela, že je to spotvorené zvolanie nočných stráží   z čias kurucvilágu,
-     <tei:ref target="#N72"/>
+     <tei:ref target="#N72" />
      ktorým sa navzájom   kontrolovaly, a ktorý pôvodne znel „Szóljál virrasztó!“
-     <tei:ref target="#N73"/>
+     <tei:ref target="#N73" />
      „Neverili by ste, ako by sa tým pozdvihla   národnosť,“ povedal Gyula, „keby sa toto zvolanie zaviedlo po celej   krajine, a bola by to predsa len nevinná vec, ktorá by sa dala tak   uskutočniť, aby to nikoho nebolelo.“
     </tei:p>
     <tei:p>
-     <tei:ref target="#N74"/>
+     <tei:ref target="#N74" />
     </tei:p>
     <tei:p>
      Bendeguz s ním síce súhlasil, ale tentoraz ho učené diškurovanie   málo zaujímalo, lebo, ako vieme, stál tu hladný a myslel jedine na   čerstvé pečivo, ktoré v myšlienkach videl nahromadené hneď za   zamknutou bránou, a na ktoré sa zúrivo vrhne, len čo sa strážnikovi   veže uráči ich vpustiť. Dobré prepitné im bránu síce otvorilo, ale   museli na tržišti tak dlho postávať, kým najprv neprecitly bystrické   kravy a slúžky a kým sa pomaličky aj sedmospáči neukázali v oblokoch.   Mesto ožilo dnes včaššie o celú hodinu. Ľud stál hromadne tu i tam,   celá hŕba neučesaných chlapcov, s rukami vo vreckách, obkolesila   podivných cestovateľov, ktorí celkom nenútene jedli svoje raňajky.   Ukazovali na nich prstom, nevedeli, čo si majú o nich myslieť. Celé   mesto sa sbehlo. Polícia, skoncentrovaná v osobe mestského kapitána,   nemohla odohnať nijakého záhaľčivého diváka, a múdrosť vyžadovala   takých podozrivých ľudí, ako boli oni, v prípade potreby vstrčiť do   chládku. Mestský strážnik prišiel a žiadal od nich pasy. Milí   čitatelia, mali ste vidieť, akú tvár spravil Bendeguz na túto   bezočivú žiadosť. Polovica divákov ušla, aby sa jej neušlo niečo z   toho, čo im veštily hrozivé tváre celého triumvirátu. „Povedzte   policajnému ministrovi,“ ako opovržlivo nazval Bendeguz mestského   kapitána, „že je to prvý raz, čo uhorský zeman vo vlastnej krajine   nesmie cestovať voľne ako vták. Mal najprv zďaleka vyskúmať, s kým má   vlastne do roboty, aby sa mu nestalo niečo takého, čo by mu nebolo   veľmi príjemné. Mal by len prísť do Turca, tam by mu napísali taký   pas, čo by naň celý život pamätal.“ S tým bodol svojho koňa ostrohami   a všetci traja sa s triumfom vzdialili. Ľud vytriešťal oči za nimi, a   najzvedavejší zo zvedavcov ich odprevádzali až po bránu, kde im   Bendeguz taký pozdrav povedal, že ho okrem opakovaného   teremtettovania, na jeho veľké šťastie živá duša nerozumela.
@@ -684,7 +685,7 @@
     </tei:p>
     <tei:p>
      Keď prišli bližšie k zámku, Gyula zastal a porobil naň svoje   historicko—archeologické poznámky. Bendeguz uisťoval Pištu, že pri   svojej ceste na Kaukaz uvidia mnoho podobných stôp zašlej maďarskej   veľkosti. Zasnívali sa do zlatých čias Matiaša kráľa a pochopiteľne   ich vychvaľovali v porovnaní s prítomnosťou, Gyula najmä i preto, ako   sa vyjadril, vrhnúc bokom posmešný pohľad na Bendeguza, že vtedy   bedárske zemiaky ešte neškodily pšenici. Ten porozumel úderu, ale bol   dosť rozumným a nedal to na sebe poznať. Zaviedol reč na turecké   vojny, na Kara Mustafu, bitku pri Moháči, a tak prišli do osamelej   krčmy za Vígľašom, kde hodlali oddychovať, lebo chceli sa dať koňom   popásť. Rytieri odpočívali v tôni, dali si predložiť zásoby a   objednali víno, ktoré však musel vypiť Pišta, keď už bolo zaplatené a   nechceli ho vyliať. „Nech nám je to na poučenie“, hovoril Gyula,   „kedykoľvek prídeme odteraz na dobré víno, aby sme si ním naplnili   jeden kulač.“ Bendeguz schválil úmysel, proti ktorému sa nedalo nič   namietať a umienil si, že keď prídu do šťastného maďarského kraja,   všetko si dožičí, čo tu musel postrádať. Už sa mu sbiehaly sliny v   ústach na bravčovú pečenú, ktorá sa na tržišti v Rimavskej Sobote   parí vedľa obra z najrozkošnejšieho pšeničného chleba a hladnému nosu   tak príjemne vonia. V myšlienkach si už vzal celý čerstvo upečený   chlieb, no len taký menších rozmerov, a už teraz cítil predbežnú chuť   dobrého vína, ktorým chcel zapíjať pečienku. Zatiaľ sa však chcel v   Mýtnej vyrozprávať, lenže namrzená krčmárka, prichádzajúca práve z   kostola, zavrela im dvere pred nosom, ani neodpovediac na otázku, či   by mohli dostať polievku. Bendeguz zvíril a i jej sa zastrájal   Turcom, keby sa ta dostala s banskobystrickým policajným ministrom.   Gyula ho uchlácholil a vysvetlil mu, že hlupaňa tým sama seba   poškodila a im eo ipso
-     <tei:ref target="#N75"/>
+     <tei:ref target="#N75" />
      zostane pár groší na   ďalšiu dispozíciu.
     </tei:p>
    </tei:div>
@@ -738,14 +739,14 @@
     </tei:p>
     <tei:p>
      Konečne vyšli z hory na jednu lúku. V úzadí bolo vidieť študentský   tábor. Všetky oči sa uprely na príchodzích a niektorí Turčania ich   hneď poznali. Jeden z nich bežal proti nim s radostným výkrikom: „Ako   ste sa sem zatárali, domine perillustris?“
-     <tei:ref target="#N76"/>
+     <tei:ref target="#N76" />
      ,   spytoval sa a Bendeguz mu odpovedal po maďarsky. Študent sa na chvíľu   zmiatol, ale keď sa aj druhý prihlásil, že to je ozajstný pán zo   Žebrákovíc a tretí poznal pána Slaninu, museli sa snížiť ku   slovenským Múzam, a pretvárka nič nepomáhala.
     </tei:p>
     <tei:p>
      Medzitým náhly neviazaný smiech jedného gramatistu obrátil oči   všetkých prítomných, ktorí ta pomaličky poprichádzali, na Bendeguza.   Chlapec sa od smiechu váľal po zemi a ukazoval prstom na Bendeguza.   Každý, kto sa obzrel za ním, rozrehotal sa. Bendeguz sa obzrel   napravo, naľavo a nenašiel na svojej osobe nič smiešneho. „Tu, tu,   tu! Nože sa sem obzrite, domine perillustris!“ Pišta soskočil a tiež   sa smial. „Pán môj, čo sa vám robí?“ zvolal drsno na pána, „soskočte,   lebo ináč spadnete spolu s kobylou.“ Bendeguz, nevediac, prečo to   chce, soskočil, aby sa aj sám podíval, o čo ide. Ach, videl, a pri   pohľade na to bol by sa od hanby skryl pod zem. Čierna hlava, spolu s   konskou nohou, vykúkala zpoza kobyliných nôh a tá, keď sa zbavila   svojho bremena, vydala zo seba aj ostatné, pričom jej Pišta ako   akušér
-     <tei:ref target="#N77"/>
+     <tei:ref target="#N77" />
      bol na dobrej pomoci, pravda, pri   neprestajnom rehote milej školskej mládeže, prítomnej pri operácii.   Niekoľko dievčat, prilákaných zvedavosťou, vrodenou tomuto pohlaviu,   zas utieklo odtiaľ so zahanbením. Bendeguz a Gyula nevedeli, ako sa   majú zachovať v tejto nesnádzi a Gyula bol tak nevrlý, že vyjadril   pred kolegom ľútosť, prečo sa hýbal z domu. Pišta sa zachoval omnoho   múdrejšie: smial sa s ostatnými a žartoval so študentmi. Úprimne sa   radoval malému Betyárovi, ako ho, keď sa po prehliadke zistilo jeho   pohlavie, nazval s pánovým povolením. „Nech ja to viem,“ povedal   Bendeguz namrzene, „bol by som potvoru nechal doma, alebo …“. „Pre   pánajána,“ odpovedal nahnevane Gyula, „aký si ty domáci pán, keď si   nevedel, že ti je kobyla žrebná?“ „Spytoval som sa ju na to?“ odvetil   Bendeguz ešte nedotklivejšie. „Treba dať pozor na svojich ľudí.“ „To   sa najlepšie ukáže pri tvojej kľučiarke, či si ju mal dobre pod   dozorom, ako si to o mne namýšľaš pri mojej kobyle.“ To bolo viac než   dosť, Gyula sa obrátil a chcel odísť. Ale jeden opitý muž schytil mu   uzdu; prišiel druhý a podotkol, ž šestonedieľke treba dožičiť jej   práva, pri čom sa neviazane smial; tretí zas požadoval hostinu, aby   sa mohlo pripiť novorodencovi na zdravie. Na odchod nebolo ani   pomyslenia a museli si urobiť pohodlie a tu prenocovať. Hudba urobila   svoje a Gyula pri jej tónoch zabudol na svoju namrzenosť. Niekoľko   známych z Dražkoviec zaviedlo Bendeguza na miesto, kde bol tanec,   podali mu plný pohár a hneď na to druhý, a – omne trinum perfectum.
-     <tei:ref target="#N78"/>
+     <tei:ref target="#N78" />
      Chlap sa oduševnil a keď Bunkó začal ťahať   melancholickú Rákócziho nôtu s cigánskym prízvukom, Bendeguz sa začal   roztápať, rozkázal si svoju obľúbenú nôtu a tancoval sólo, celou   mládežou obkolesený, ktorá ho čoraz väčšmi rozohňovala svojimi   pochvalnými potleskami a volaním „bravo“. Gyula tiež zanechal svoju   flegmatickosť a zostal hore celú noc. Bendeguza nakoniec premohlo,   musel sa vzdialiť a oprel sa o dubový peň, kde pohostinnosti svojich   krajanov všetko vrátil, čo dobrého bol príliš mnoho užil. Ráno ho tak   našli, ako čo by bol chcel nosom skúmať dno potoka, pri ktorom sa   uložil. Pišta ho obrátil a umyl mu tvár. Prebral sa zlej vôle a   zarmútený, zavrúc znova mdlé oči. Jednako sa so zavretými očami   opýtal, ako sa má Szikra a novorodenec. Pišta zodpovedal obidve   otázky na jeho úplnú spokojnosť. Ich spoločnosť sa potom skladala,   ako Pišta vhodne podotkol z jednej dámy a pol tucta indivíduí   mužského pohlavia. Gyula duril na odchod a Pišta dostal rozkaz   sedlať. Študenti sa preháňali okolo so žriebäťom. Istý veselý kamarát   urobil na to poznámku, aké je to divné, vidieť tu behať žriebä, ktoré   má sotva pol dňa, kým doma u neho deti v desiatom mesiaci sotva   vládzu stáť na nohách. Študenti vystrájali samopaš s Bendeguzom,   ktorého figúra bola naozaj terčom všeobecného posmechu. Bol dlhý ani   tyčka do chmeľu, jeho vlasy, hoci mal úradnícku parochňu ani   Brougham, boly zbrčkavené a červenkasté. Dlhé strapaté fúzy boly   vernou kópiou lišacieho chvosta. Náhlivo kráčal, s nohami vyvrátenými   na vonkajšiu stranu, a ruky, ktoré ani keby si bol vypožičal od   orangutana, obyčajne kládol za chrbát. Jeho veľké, obyčajne zaslzené   oči a dlhý krk veľmi dobre pristaly k jeho ostatnej figúre a k   obleku, ktorý už poznáme, ešte lepšie. Gyula bol krátky, ale dobre   urastený, a na mieru iba o tri päste menší ako generál Napoleon. Jeho   hnedá tvár nedávala výhodnejšie vyniknúť žltej tvári rytiera   Bendeguza. Zato popri vyziablej postave svojho kolegu urobil veľmi   dobrý dojem. Pišta bol o niečo menší od Gyulu. Z nôh, ohnutých   dovnútra, správne uzatvárali študenti, že bol kedysi husárom. Jeho   skutočný vek sa nedal na ňom rozoznať, asi preto, že nežil príliš   včas.
     </tei:p>
    </tei:div>
@@ -770,7 +771,7 @@
     </tei:p>
     <tei:p>
      Do Rimavskej Soboty by sa boli mohli dobre dostať, lenže museli z   ohľadu na Betyárove útle nohy často oddychovať. Aj červené víno v   poslednej dedine ich dlho zdržalo. Ba, keď už chceli nasadať, Pištu   nikde nebolo. Zmizol, aby si vynahradil, čo škodoval minulej veselej   noci. Po dlhom bezvýslednom hľadaní našli ho temer zaduseného pod   viazanicou slamy. Veľmi sa zľakli, keď videli jeho tvár, na modro   domlátenú. Neskôr vyšlo najavo, že ho jedna Maďarka sadzou s pece   takto dolitografovala, aby sa vypomstila na jeho počestnej tvári,   keďže pristúpil blízko k jej poctivosti a chcel s ňou vstúpiť do   krvného príbuzenstva. So smiechom mu predložili zrkadlo. Všetky   maďarské a slovenské kliatby, ktoré vedel, vysypal, zazrúc svoju   tetovanú tvár, aby uľahčil svojmu hnevu. „Čože sa smejete,“ obrátil   sa na Bendeguza, „teraz ste vy na rade, aby ste ma umyli, lebo dnes   ráno som vám ja ešte nepríjemnejšiu službu musel preukázať.“ S tým sa   utrel, čím napokon dostal výzor kominára a okolostojaci mali podnet   zvýšiť svoj smiech o celú oktávu. Pišta preklínajúc odišiel k studni,   kde sa umyl, poutierajúc si tvár do košele, osedlal a šiel napred,   nedočkajúc pánov. Tí ho dohonili, až keď slnko zapadlo, na vrchu a   chceli nadpriasť s ním rozhovor, ale nedostali z neho jedinkého   slova, takže nakoniec museli páni obmedziť rozhovor na dilógiu. „Keď   dosiahneme svoj cieľ v Hajnáčke,“ povedal Bendeguz, „vyhrali sme   všetko.“ „Potom veru nepotrebujeme nijakého Csomu, aby nám ukazoval   cestu.“ „Ale ako sa môžeme na to do—pýtať?“ „Mne sa tá vec zdá   báječnou. Pokladám za dokázané, že Kaukaz bol prasídlom našich   predkov, alebo hoci aj Ural, ale ako by mohol niekto odtiaľ prísť do   Hajnáčky?“ „Ja v tom vidím niečo síce neobyčajného,“ odvetil   Bendeguz, „ale nie nemožného.“ „A to ako?“ „Ako naši Turčania so   svojimi fľaškami oleja preniknú do Moskvy a Paríža, ba možno až do   Jeruzalema, a ako pláteníci z Oravy navštevujú Káhiru a Alexandriu,   tak sa mohol aj niekto z Ázie k nám zatárať.“ „Neusudzuješ zle,   priateľ Bendeguz.“ „Ja aspoň dúfam, že náš úmysel bude korunovaný   dobrým výsledkom.“ Za ten čas sa zotmilo a ako by sa noc bola proti   nim sriekla, zas museli prenocovať v hore, čo sa im však zdalo   istejšie, ako zastaviť sa v osamelej krčme, popri ktorej prešli, lebo   nemohli nič dobrého čakať od surových tvárí, ktoré odtiaľ cez oblok   vykukly a troch rytierov zvučným posmechom sprevádzaly. Niekoľko   minút predtým videli síce v istej vzdialenosti svetlo, ale to im zase   zmizlo. Mysleli, že sú neďaleko Sabadky, ale v hrozne tmavej noci   nemohli len tak naverímboha ďalej ísť. Pišta sa nestaral veľa o to,   ako páni rozhodnú, zašomral čosi pod nos, sosadol a naznačil aj   svojim spoločníkom, aby nasledovali jeho príklad. To bolo hádam   najlepšie, čo mohli urobiť vo svojom položení; to, pravdaže, nemohli   uhádnuť, čo ich zastihne. Ach, krátkozraký človek nevidí ďalej, len   pokiaľ mu nos siaha, a keď si namyslíme, že sme niečo najlepšie   spravili, vtedy diabol zahrá svoju hru a naša opatrnosť vyjde na   posmech. Pišta sviazal Pogánya s Csinosom, celkom podľa vôle svojich   vysokých pánov. O Szikru sa nebolo treba starať, tá sa so svojím   žriebäťom nemohla ďaleko zatúlať. Teraz sa už bezstarostne uložili na   odpočinok a všetci pospali, hoci sa bránili spánku. Oheň vyhasol a   zima nedala dlho chrápať Bendeguzovi; prvý sa zobudil. Pištu sotva   bolo možno zburcovať. „No, čo je už zase?“ spýtal sa celkom namrzene,   „či už človek ani jednu noc nemôže mať pokoj?“ „Drž hubu a choď   pozrieť kone.“ Pišta sa narovnal a obzrel po hviezdach. Podľa oja na   Voze súdil, že polnoc už prešla, lebo podľa hodiniek sa nemohli   spravovať, keďže tie padly zbojníkom do rúk. Popretieral si oči a keď   skončil modlitbu, ktorú len tak zo seba vyrazil, vstal a zavolal na   kone. Szikra na to zaerdžala, ale ostatné kone nebolo počuť. „Staraj   sa, aby si ich našiel,“ zahrmel na neho Bendeguz, „lebo …“ „Nemohly   predsa zmiznúť so sveta,“ zašomral Pišta a išiel. Gyula stále spal a   Bendeguz si tiež ľahol, keď sa najprv postaral o oheň. Keď sa Gyula   prebudil, už bolo slnce hore. Pošteklil svojho spoločníka v spaní   steblom trávy pod nosom, načo sa ten zobudil a vyskočil. „Pišta,   kdeže si?“, zvolal, ale o Pištovi nebolo ani chýru, ani slychu. „No   to bude pekná paráda! Stavím sa, že pôjdeme pešo: kone vzal čert!“   Vedeli, že je v Rimavskej Sobote jarmok, preto bolo všade po okolí   mnoho ľudí. Gyula sa tiež nemálo preľakol, keď sa dozvedel, ako včas   sa Pišta vybral hľadať kone. Sišlo im na um, že sú už v takom kraji,   kde možno najkrajším spôsobom prísť o koňa, a nepochybovali o strate.   Teraz išli obidvaja, jeden smerom na sever a druhý smerom na juh,   lebo Pišta odišiel smerom na západ. S času na čas mali jeden na   druhého zavolať a kto prvý niečo nájde, oznámiť to s „hurrá!“   Bendeguz na plné pľúca volal Pištu po mene, ale odpovedala mu iba   ozvena z hory. Priateľovo volanie počul síce, ale nijaké „hurrá“ a po   Pištovi tiež nebolo ani stopy. Nakoniec počul na jednej stráni   nariekanie a išiel tým smerom. Čoskoro zreteľne rozoznal nariekanie   zarmúteného Pištu. „Čo je, Pišta?“ „Pečienka je tu, pán urodzený,   ktorá vám nebude veľmi chutiť. Veru noc nie je nikomu priateľom. Ach,   môj dobrý Pogány, ako ja len prežijem tvoju smrť!“ Táto krátka   parentácia ako nôž prenikla srdce nášho Bendeguza, nepotreboval už   nič viacej vedieť, aby uhádol svoje nešťastie. Šiel bližšie a zazrel,   ako Pogány, zvaliac sa, zostal na jednom kmeni dolu hlavou visieť a   Csinos ležal na druhej strane, tento nepoškodený, tamten v poslednom   ťažení. Pogány bol takrečeno slepý, musel spraviť chybný krok a   stiahol so sebou Csinosa. Pišta prišiel v pravý čas, takže mohol ešte   aspoň polovičku ochrániť. Csinos sa pokúsil vstať, keď ho odviazali,   ale išlo mu to ťažko, noha, ktorú mal sputnanú, zdala sa trochu   vytknutou. Nakoniec vstal a šiel trojnožky priamou cestou k ohňu.   Bendeguz zvolal „hurrá“, aj keď mu nešlo od srdca. Ako u Homéra   hrdinov, tak parentoval Pišta šľachetného koňa a Bendeguz súhlasil s   jeho nárekom. „Nebolo ho možno nijako zachrániť? Možno by boly   pomohly teplé obklady.“ „Ach, úbohé zviera, ako ťažko zápasilo!   Neuvidíš ty už viacej svoju Szikru!“ Zatiaľ dobehol Gyula a svojím   „hurrá“ dosvedčoval radosť nad šťastným nálezom. Ale ako sa zarazil,   keď videl porážku. „Čo máme teraz urobiť?“ „To sa dá ľahko uhádnuť,“   odpovedal Gyula, „musíme mrcinu, ako s tvojím dovolením nazvem   Pogánya, tu nechať a kúpiť niečo lepšieho. Pišta predsa nemôže pešo   behať a jarmok v Rimavskej Sobote mi prišiel práve a propos“.
-     <tei:ref target="#N79"/>
+     <tei:ref target="#N79" />
      „To sa ľahko povie,“ odvetil Bendeguz. „Aj ja   tak myslím.“ „A so škodou čo?“ „Tú treba znášať.“ „Ako to ľahostajne   hovorí! Tento nemilosrdník! Nie, priateľ, ty máš srdce z kameňa!“   „Blažený, kto zabudne na to, čo sa nemôže zmeniť.“
     </tei:p>
     <tei:p>
@@ -778,14 +779,14 @@
     </tei:p>
     <tei:p>
      Keď prišli na miesto ohňa, našli oba kone spolu so žriebäťom   dôverne pospolu. Bendeguz preniesol meno starého otca na malého vnuka   a od tej chvíle mu bol o toľko milší. „Osirela si, úbohá Szikra,   svojho dlhoročného druha si tak mal a propos
-     <tei:ref target="#N80"/>
+     <tei:ref target="#N80" />
      utratila.“ Schystali sa, keďže už prišiel aj Pišta so stiahnutou   kožou. Jeho ústne visum repertum
-     <tei:ref target="#N81"/>
+     <tei:ref target="#N81" />
      potvrdilo, že   jeho jazdecký kôň mal zdravé vnútornosti, a tak sa videlo, že sa bude   musieť poriadne činiť, aby vydržal útrapy cesty. Kožu vyložili na   Szikru a Pišta, nespytujúc sa mnoho, obťažil sa jazdeckým náčiním a   šiel vopred. Gyula zaostal, lebo sa nemohol zdržať smiechu pri   pohľade na spoločníka svojej cesty; nech to Bendeguz zbadá, bolo by   to mohlo mať vážne následky pre ich podujatie. Pišta bol veľmi   namrzený a s veľkou neľúbosťou prijal žart Gyulu, ktorý mu sľuboval,   že mu kúpi na jarmoku červeno maľovaného koníka s trúbkou na zadku. A   Gyula sa naozaj musel poponáhľať s uistením, že mu o niekoľko hodín   dopomôže k dobrému plnokrvnému koňovi. „Priateľ Pišta,“ ohlásil sa   konečne Bendeguz, keď Pišta zastal, „nie je to po prvý raz v tvojom   živote, čo ty, ako každý poriadny husár, ktorému koňa zpod tela   od—strelili, zamieňaš si úlohu s chudákom Pogányom. Predsa si mi sám   rozprával podobný prípad zo svojich insurgentských rokov, a mne sa   môže to isté prihodiť. Dnes mne, zajtra tebe! Vždy sa môžeš tým   potešiť. Buďme na všetko pripravení, o toľko ľahšie to potom budeme   znášať“.
     </tei:p>
     <tei:p>
      Za tejto parakletickej parenézy tiahli ďalej, Gyula vpredu a Pišta   ako zadný voj. „Čert si s nami tvrdo zahral,“ povedal Bendeguz a   Gyula dodal: „Et haec olim meminisse juvabit!“
-     <tei:ref target="#N82"/>
+     <tei:ref target="#N82" />
      Jeho kôň ešte nemohol riadne kráčať, no jednako ho popchol ostrohami,   aby sa od tohto podivného sprievodu dostal na takú diaľku, aby   neznášal spolu s ním hanbu, ktorá im, ako sa nazdával, hrozila na   oživenej krajinskej ceste. Kto tú cestu pozná, ako autor, ktorý ňou   často prešiel od Lučenca, netreba mu hovoriť, aký shon je tam v   jarmočný čas. Nie div, že naši úbohí cestovatelia museli zniesť   nejaký ten posmech, kým by sa v prvom hostinci neurobili   neviditeľnými. „Kdeže, páni, do Emauz?“ opýtal sa ich mladý zvedavec,   idúc na koni okolo nich. „Páni iste utrpeli porážku v bitke,“   poznamenal druhý, ktorý išiel okolo na voze. Onedlho sa dotackali   oproti nim dvaja opití Maďari. „Hej, krajan, kamže?“ Pišta namrzene   odpovedal, čo tu nemôžeme reprodukovať. Dvaja opilci odpovedali na to   ešte drsnejšie a zahrozili sa mu výpraskom. Bendeguza nahnevala táto   nevychovanosť a divo priskočil k nim, pričom prenikavý pohľad   zosilnil dlhočizným účelne pristrihnutým teremtettom. To sedliakov   ešte väčšmi podráždilo a jeden z nich udrel Szikru, čo by bol   Bendeguz radšej sám zniesol. V oprávnenom hneve siahol po fokoši,   načo opozícia ustúpila za most. Znova sa však vzmužili a obsadili   most, kde získali dobrý oporný bod, aby boli chránení od chrbta.   Gyula sa na krik obrátil a došiel, keď už Bendeguz ležal na zemi. Na   to vystrelil zo svojich pištolí a tým nahnal toľko strachu víťazom,   že zutekali odtiaľ, nakoľko mohli utekať pod dvojitou ťarchou, bundou   totiž a preplnenou hlavou. Jeden z nich spadol a skotúľal sa z   hradskej na lúku. Pišta složil svoje bremeno, pribehol k nemu a   počastoval ho dôkladnou porciou bitky, až kým neustal. Pán a sluha   odišli odtiaľ s krvavými hlavami a pán sa zaprisahal, že sa pomstí a   chlapov hneď dá stíhať zatykačmi.
     </tei:p>
     <tei:p>
@@ -810,22 +811,22 @@
     </tei:p>
     <tei:p>
      Keď prišli na začiatok mosta, pokladali za múdre sosadnúť v   najbližšom hostinci, keďže ich obkolesil húf zvedavcov, nevediacich,   čo si majú o nich myslieť. Pištovi až tak podskočilo srdce, keď všade   videl, že sa hemžia kone. Len čo sa postaral o kone, vyšiel s Gyulom,   aby sa poobzeral po konskom trhu. Bendeguz si dal na hlavu obkladok z   teplého vína, okrútil si hlavu, vypil žajdlík vína a zostal strážiť,   aby sa dva kone nestratily. Navzdory chuti, ktorú pomyslenie na   bravčovú pečienku ešte väčšmi podráždilo, bál sa opustiť svoje   stanovisko. Bolo okolo poludnia, keď došiel Pišta, vyskakujúc na   svojom Rigóvi. Bol síce na jedno oko slepý, no jednako sa zdalo, že   ešte môže vykonať dobré služby. Vyjednali ho za 35 zlatých   viedenského čísla od jedného Cigána. Gyula prišiel za Pištom a pozval   Bendeguza do kaviarne, kde sa podľa uisťovania jedného známeho,   ktorého tu našiel, síce draho, ale dobre dalo najesť. „To všetko ja   nepotrebujem,“ podotkol Bendeguz. „Pišta, s miesta sa ani nepohni. Tu   máš, vypi si jednu slivovicu, a dostaneš taký kus pečene, že sa ešte   aj na Kaukaze naň rozpomenieš.“ S tým vstal a šiel rovno na námestie,   kde zo sto mís rozvoniavala bravčová pečienka. Už zďaleka gratis
-     <tei:ref target="#N83"/>
+     <tei:ref target="#N83" />
      vťahoval do seba vôňu a potom sa vrhol na kus   bravčoviny, vykrojenej do kocky v rozmeroch jednej stopy, kúpil si   celý chlieb a jedol z toho, kým mu len hrdlo ráčilo. Pišta dostal   tiež svoju dvojitú dávku a Bendeguz šiel potom za Gyulom, aby holbou   jágerského vína neutralizoval mastnú pečienku. Kolégu našiel pri   stole, zahĺbeného do novín. Práve čítal Jelenkor. „Čo nového?“ opýtal   sa náhlivo Bendeguz. „Si to ty, braček? Sem pozri! Neveril som svojim   očiam — už nás dali sem.“ „Naozaj! To asi farár ta dal, ten figliar!   Tajomstvo to, pravda, nie je, ani nemá byť, ani nebude.“
     </tei:p>
     <tei:p>
      Za tým istým stolom sedel beťár (asi nie kôň), s dlhými   namastenými vlasmi, v košeli so širokými rukávmi, zlatom obšitým   nákrčníkom, ohromnými ostrohami, s krátkou debrecínskou fajkou v   hube. Zvedavo nazrel do časopisu. „Je to možné?“ zvolal, vyskočil a   obidvoch dotuha vybozkával. „Je to možné? Sú to tí, ktorí z lásky k   našej drahej vlasti podnikli túto dlhú, obťažnú, drahú cestu, bez   pomoci Anglicka, na vlastnú päsť? Hej, sem dve holby vína! Ja by som   to nedal za svoje štyri kone, že sa mi prihodilo také šťastie! Kto by   bol smel snívať o takomto šťastí, keď sme túto zprávu pred dvoma   hodinami prijali s takým vivatom, že sa zem pod nami zatriasla. Ty,   Andris!“ zavolal do susednej izby, zahalenej oblakmi dymu a   preplnenej mladými ľuďmi, ktorí náležité popíjali. „Čo chceš?“   ohlásil sa ten a doložil k tomu u Maďarov obvyklú nadávku, dotackajúc   sa k nemu. Keď vyrozumel, koho má pred sebou, objal oboch okolo krku   a málo chýbalo, že chudého chlapa nestiahol na zem. Ani neupustil od   toho objatia, kým Bendeguzovi dych nedošiel a kým jazyk nevyplazil.   „Sem víno!“ zvolal i tento a privolal celú spoločnosť. Žiarili od   radosti nad neočakávaným pohľadom. „Víno sem, víno sem!“ kričalo sa   zo všetkých hrdiel bez ladu a skladu. „Z toho za dvanásť krajciarov!   Z jágerského!“ „Šesť buteliek tokajčiny!“ Bola to scéna, ktorá   odškodnila našich rytierov za všetky nepríjemnosti, ktoré sa im   dosiaľ prihodily. „Húzzad cigány!“
-     <tei:ref target="#N84"/>
+     <tei:ref target="#N84" />
      zvolalo jedno   zachrípnuté hrdlo a hneď spustil Dombi takú maďarskú, že Bendeguz   vyronil slzy a Gyula začínal byť dojatým, lebo svoju flegmu utopil v   jágerskom. A keď sa nakoniec chystali ďalej ísť, jeden z tlčhubov im   zastal do cesty a druhý chytil odzadu Gyulu a tak ho stiahol nazad,   že mu prešla chuť opúšťať spoločnosť, ktorá svoju priazeň prejavuje   takým drsným spôsobom. Jeden z rimavskosobotských vlastencov otvoril   im svoju maštaľ, svoj senník a svoju truhlu s ovsom. Pištovi dali v   mene jeho pánov rozkaz, aby sa presťahoval.
     </tei:p>
     <tei:p>
      Spoločnosť sa v dôvernom rozhovore dozvedela, ako prišiel Bendeguz   k zaviazanej hlave a k sinkám. Zhrozili sa nad tým a istý tam   prítomný jurasor sľúbil im príkladné zadosťučinenie. Dal si   vyrozprávať species facti
-     <tei:ref target="#N85"/>
+     <tei:ref target="#N85" />
      a spísal dôkladný   popis osoby, o ostatné sa chcel sám postarať. Na šťastie justiciár   zabudol na to a Bendeguz, v pevnom presvedčení, že zlosyni dostali   svoju odplatu, bol práve tak spokojný, ako keby bol tie palice   skutočne počítal.
     </tei:p>
     <tei:p>
      Popoludnie a polovicu noci s oduševnením prelumpovali. Hovorilo sa   mnoho, a to všetko alebo na vlastnú chválu, alebo na pohanenie   Nemaďarov (idegenajakú emberek). Chrlili oheň na ničomného autora   istej brošúry, ktorý sa opovážil z toho robiť otázku, v čom sami   odjakživa boli svorní, či totiž máme byť Maďarmi. Celkom vďačne by   boli oči vypichli tomu básnikovi, ktorý vymyslel bájku o speve sovy,   ktorou sa končí tá talafatka, ako ju nazývali. Jeden z exaltovanej   spoločnosti bol hneď hotový podniknúť križiacku vojnu proti   idegenajakúakom
-     <tei:ref target="#N86"/>
+     <tei:ref target="#N86" />
      , alebo zahrať úlohu Petra   Pustovníka a jeho osla. Inému, v ktorom podľa výslovnosti jasne bolo   poznať pomaďarčeného Slováka, klaly oči najmä prekliate ploštice,   Slováci, ktorých nemožno vyničiť, kde sa raz zahniezdia. Istý Maďar,   ktorého pred niekoľkými rokmi vylúčili z levočskej školy, nehovoril   dobre o Nemcoch a dokázal výrokmi svojho starého otca, dokazujúceho   to z dejín, že Nemci odjakživa vyciciavali špik z Uhorska, kŕmili sa   ako cudzopasné rastliny a na nohy si pomáhali, kým za ten čas Maďari   čoraz väčšmi klesali, takže ich len viditeľná milosť ich Boha až   doteraz zachovala od úplného zániku. Židov a Rácov hádzali do jednej   a tej istej triedy. Rozohnený takým diškurovaním, ktoré sprevádzaly   hrozivé posunky a hrmavica kliatieb, jeden jakobín chcel v druhom   modifikovanom vydaní zopakovať vraždu betlehemských detí, alebo   krvavú svadbu parížsku, alebo salzburské vysťahovanie. S fľašou v   ruke istý pomaďarčený Slovák, povolaním bezvýznamný profesor,   vyhľadal a povedal tieto slová, ktoré predstavoval za svoj výplod,   prijatý s pochvalným rehotom:
     </tei:p>
     <tei:p>
@@ -833,11 +834,11 @@
     </tei:p>
     <tei:p>
      #TAB#Haldoklik a buta tót.“
-     <tei:ref target="#N87"/>
+     <tei:ref target="#N87" />
     </tei:p>
     <tei:p>
      Zkrátka, títo hrdinovia s plnou hlavou všetko dali ex stapede
-     <tei:ref target="#N88"/>
+     <tei:ref target="#N88" />
      do poriadku, čo mohlo Uhorsko šťastným urobiť a   pri tejto príležitosti dostal gróf Štefan Széchenyi viacej úderov,   ktoré mu však ani najmenej nemohly ublížiť.
     </tei:p>
     <tei:p>
@@ -845,7 +846,7 @@
     </tei:p>
     <tei:p>
      Pišta včas prišiel a potichu zobudil svojich pánov. Nechceli rušiť   ostatných v spánku, tak sa vykradli, keď kriedou na dvere napísali   Vale,
-     <tei:ref target="#N89"/>
+     <tei:ref target="#N89" />
      spolu s poďakovaním za dobré prijatie a so   srdečnou prosbou, aby sa rozpomínali na nich.
     </tei:p>
    </tei:div>
@@ -867,11 +868,11 @@
     </tei:p>
     <tei:p>
      Rozohriati ako slnko, ktoré práve vyšlo, popchli kone ostrohami a   vyčíňali rozličné kavalkády. Pišta, od veľkej radosti, že ho kôň   zbavil včerajšej ťarchy, svojho Rigóva objal ostrohami nie práve   jemne, lebo ten vyhodil zadkom a Pišta ležal na piesku, ktorým bola   cesta nanovo vysypaná. Gyula naskutku chytil koňa za uzdu, keď ten už   mal úmysel osožné použiť nadobudnutú slobodu. Pišta prišiel k nemu,   pokrivkávajúc udrel ho pár razy po hlave päsťou a mlčiac vyliezol na   neho. „Je to len zatiaľ, kým sa naučím na zvyky tejto mršiny,“   povedal, chtiac okrášliť svoj pád. „Darebák, viac ma už tak   nedostaneš,“ riekol a vtĺkol mu to naučenie, ako múdri pedagógovia,   päsťou, načo sa víťazne ďalej niesol na koni. Prišli na jeden most,   na ktorom Rigó tvrdohlavo zastal, vzpínal sa, vyhadzoval kopytami,   ale starý insurgent pevne sedel v sedle. Kôň sa obrátil a Pišta mal   dosť roboty, udržať sa na ňom. Bendeguz pribehol nazad, chytil Rigóvi   uzdu a chcel pomôcť. Všetko nadarmo: Pišta musel sosadnúť a pekne   peškujúc ho cez most previesť. Teraz mu už svitlo a teraz, ale už   neskoro, porozumel, čo tým Cigán myslel, keď už bol obchod hotový, že   má kôň, okrem slepého oka, jedinú chybu, totiž že nechce vystúpiť po   nijakom drevenom lešení. Pišta vtedy myslel, že predsa nebude robiť   takú krkolomnú prácu, ale teraz sa mu otvorily oči a zbadal, ako sa   dal obalamutiť Cigáňovým vtipom. Kedykoľvek prišli na nejaký most,   vždy sa scéna opakovala, nech už Pišta bodal a mlátil, koľko chcel.   „Ak by to tak malo trvať čo len do Koložváru, radšej sa hneď obrátim   a pôjdem pešo do Žebrákovíc, aby si zo mňa blázna nerobil tento   slepý, skostrbatený naničhodník.“ Odkazovali ho na najbližší konský   jarmok, na ktorom tohto podivína vyčarujú za niečo lepšieho. Pišta   bol s tým spokojný, pod podmienkou, že všetci budú striedavo jazdiť   na Rigóvi a každý skúsi s ním šťastie. S tým už aj soskočil s neho,   ešte prv, než bola smluva podpísaná, a poprosil svojho pána, aby   urobil skúšku. Bendeguz proti tomu nič nenamietal, pohnal vzácneho   koňa, a ten šiel. Vedľa sa pásla črieda koni a Rigó začal prejavovať   nespokojnosť. Keď sa na jeho zaerdžanie ozvala jedna kobyla, nič ho   nemohlo zadržať, svesil hlavu medzi nohy a ako slepý uháňal do tlupy,   takže jazdec díval sa ako teľa na nové vráta. Dobrý človek zažil pri   tejto príležitosti škandál, ktorý by Chronique scandaleuse
-     <tei:ref target="#N90"/>
+     <tei:ref target="#N90" />
      nebola zmeškala zaznačiť, keby csikós
-     <tei:ref target="#N91"/>
+     <tei:ref target="#N91" />
      nebol zakročil a nezvanému hosťovi neprekazil   vyjadriť kobyle svoje ľúbostné city. Ohnivého Rigóva mohli len po   biede upokojiť a potom sa všetko darilo. „Kto by to bol očakával od   tejto mršiny?“ povedal Bendeguz po svojom víťaznom návrate. „Je to   dar, ktorý dlho vytrvá,“ poznamenal Pišta, „keď sa s ním v mladosti   sporí.“ „Dobre si to povedal, Pišta,“ smial sa Gyula. „A to zo   skúsenosti,“ doložil ten, lebo bol dobrej vôle, odkedy svojho pána   dostal na to. „Zdá sa mi,“ ohlásil sa Bendeguz, „že rozmarín, ktorý   som zbadal na tvojom klobúku, práve na niečo takého poukazuje.“ Pišta   mlčal. „Pravdepodobne jeho dobýjanie malo krajší výsledok ako   posledný raz, keď ho to tak nekresťanský zmazali,“ riekol Gyula; a   Bendeguz: „Zdá sa mi, že tá počerná bola veľmi skormútená, keď jej   podával ruku na rozlúčku. Vari si sa len nevydával za mládenca?“ Z   Pištu nemohli vytiahnuť ani slova. „Pišta, povedz úprimne, nesľúbil   si jej manželstvo? Aby sme vedeli, na čom sme, lebo môže utekať za   nami a prv než sa nazdáme, pozvú nás pred konzistórium, lebo páni po   ničom tak nebažia, ako po tom, a potom ti ani tvoje zemianstvo   nepomôže.“ „Bol by náš Pišta ozaj šľachtic?“ „Je to tak, a nie inak,   toho my nesmieme zauchami častovať.“ Pišta si nôtil melancholickú   maďarskú pieseň, ako by sa tentoraz viac zaoberal s černušou, ako so   svojím zemianskym diplomom, a urobil niekoľko skokov, keďže Szikru   jemne pošteklil ostrohami. Zostal zamĺkly a všetky pokusy   spolucestovateľov boly bezvýsledné. Bendeguz na to zaviedol rozhovor   na pohostinstvo, ktoré v plnej miere zakúsili v Rimavskej Sobote, ako   v krajine nie neznámi ľudia. Len tomu sa divili, že toto mesto, v   ktorom býva predsa i mnoho kalvínov, ešte vždy nemohlo vyničiť   slovenskú reč, a že sa tu maďarské nočné hlásenie ešte neukázalo v   plnej svojej sile, podľa ktorého by sa všetko nacionalizovalo. „Maj   len strpenie,“ povedal Gyula, „čím ďalej, tým viac dôjde i na to, až   nás jedna reč spojí v jeden slávny národ, aj keď sme tak veľmi   rozdelení na Židov a luteránov, kalvínov a sociniánov, na katolíkov a   spojených i nespojených grékov.“ Nota bene,
-     <tei:ref target="#N92"/>
+     <tei:ref target="#N92" />
      neslobodno zabudnúť, že od Rimavskej Soboty až po Bukurešť a nazad   Bendeguz sa priznával ku kalvínskej viere, Gyula a Pišta zostali   verní svojej viere, tento katolíckej a tamten luteránskej. Na tomto   príklade vidieť, ako sa i pri rozdielnosti kultov môže udržať shoda,   keď sa sleduje všeobecný cieľ a keď jeden druhého neruší.
     </tei:p>
     <tei:p>
@@ -914,17 +915,17 @@
     </tei:p>
     <tei:p>
      Ako prichádzali k miškovským šibeniciam, zastali a podišli k nim   bližšie. Práve sa na nich kolísalo, rozhýbané prievanom, omne trinum   perfectum,
-     <tei:ref target="#N93"/>
+     <tei:ref target="#N93" />
      ktoré v tmavých väzeniach Miškovca   dozrelo na toto povýšenie. Dvaja z nich boli zbojníci na hrddských   cestách, tretí bol povestný zlodej koní. Tomuto Pišta povedal   veľkolepú parentáciu v podobe kázne za trest, akú by ani sám Schiller   nebol vedel dať do úst svojim kapucínom. Od Pogányovej straty naučil   sa totiž cítiť, že sa mu nič horšieho nemôže prihodiť, ako keby   konský kupec podobného druhu odkúpil jeho Rigóva. Vlastne Gyula si   umienil tohto koňa, ktorý sa bojí mostov, vymeniť za všedného. Šli na   trh, kde stály stovky vozov, plodinami. Tu zaerdžal   Rigó na jedného, ako sa čoskoro ukázalo, známeho koňa. Vlastník sa   obzrel a ako blesk zdrapil Pištovi uzdu. „Stoj, darebák, konečne ťa   mám, nepohneš sa odtiaľto!“ Gyula a Bendeguz priskočili, chtiac si   dodať vážnosti. Miesto toho ich zástup prijal s posmechom a keď   chceli použiť násilie, tak ich obkolesil, že sa nemohli pohnúť. „K   sudcovi, k sudcovi!“ kričali so všetkých strán. „Ja som zeman!“   zvolal Bendeguz a zamával fokošom, „chcem vidieť toho, kto sa opováži   dotknúť sa mojej slobody!“ S touto nečasovou demonštráciou vec ešte   väčšmi pokazil. Sedliaci boli natoľko zaslepení, že sa nazdávali, že   šľachtického ^zlodeja in flagranti pristihli a mysleli si, že   preukážu dosť šetrnosti voči takýmto zlodejom, keď ich všetkých troch   odvlečú k sudcovi. Sudca ich odkázal na príslušné fórum, na   stoličného sudcu, ktorý síce po prísnom výsluchu sua forma
-     <tei:ref target="#N94"/>
+     <tei:ref target="#N94" />
      uznal sedliaka za pravého vlastníka otázneho   Rigóva, ale spor o náhradu škody nechcel rozhodnúť len tak brevi   manu.
-     <tei:ref target="#N95"/>
+     <tei:ref target="#N95" />
      Bendeguz žiadal náležité zadosťučinenie za   násilie, ktoré ho postihlo od takej ničomnej luzy. Stoličný sudca bol   veľmi promptný v tomto druhu súdnej starostlivosti a dal úbohému   sanscullotovi, ktorý mal hlavnú úlohu pri tejto scéne, za tento   protipolicajný atentát (ako nazval zmierneným výrazom tento actus   majoris potentiae),
-     <tei:ref target="#N96"/>
+     <tei:ref target="#N96" />
      vyplatiť netto päťadvadsať   palíc. Jednoduchí figuranti boli radi, že vyšli z veci so zdravou   kožou a nevyrobenou kožkou. Kôň bol, ako corpus delicti,
-     <tei:ref target="#N97"/>
+     <tei:ref target="#N97" />
      až do ďalšieho rozhodnutia ponechaný ad manus   justitiarias,
-     <tei:ref target="#N98"/>
+     <tei:ref target="#N98" />
      a zostal tam tak dlho, kým   nesožral dva razy toľko sena, koľko bola jeho skutočná reálna   hodnota, nerátajúc do toho vodu a obsluhu, lebo sudca bol dosť slušný   a tieto výdavky zapísal a conto služieb, ktoré mu zajatec denne   vykonával.
     </tei:p>
     <tei:p>
@@ -932,7 +933,7 @@
     </tei:p>
     <tei:p>
      V dome pohostinného muža bolo ako u opravdivého vlastenca, a to až   do bieleho dňa. V kuchyni rinčalo šesť párov ražňov, ktoré maly dodať   šestorakú rozdielnu pečienku na stôl, obťažený vínnymi fľašami a   pohármi všetkých možných kalibrov. Sud budínskeho vína dokotúľali z   pivnice do jedálne a v rohu stály tri batérie buteliek, naplnené   pravým tokajským, rustským a ménešským vínom. Pišta ešte nikdy   nevidel toľko dobre okutých fajok, ako tu v predizbe, kde stál aj   otvorený, rezaným tabakom naplnený sud, pripravený k ľubovoľnej   dispozícii pre kohokoľvek. Ako hosť dôkladne to využil a naplnil   tabakom všetky tri mešce. Myslel, že má predovšetkým pamatať na seba   a kým jeho köstök
-     <tei:ref target="#N99"/>
+     <tei:ref target="#N99" />
      vydržal, neprestal ho   natriasať a stláčať, pri čom si pomáhal pravým kolenom. Iba že i tu   lakomosť zmarila svoj vlastný zámer, lebo pružnosť mešca mala   nakoniec svoje hranice, naposledy sa rozpukol a zas vydal všetko zo   seba, takže si Pišta, aby neobišiel nakrátko, musel naplniť tabakom   vrecká. Na väčšie odškodnenie naplnil si fajku, ktorú si hneď   pripálil, keď ho postavili k jednému ražňu s pečienkou, aby ho   krútil, keďže nestačili na to dvaja psi, ktorí boli ako skúsení   obracači pečienok odsúdení na tento druh galejného trestu.
     </tei:p>
     <tei:p>
@@ -940,19 +941,19 @@
     </tei:p>
     <tei:p>
      Celkom pochopiteľne prišla na pretras otázka, ktorá bola práve v   tom čase na dennom poriadku, ako by sa asi najlepšie pomohlo na nohy   maďarskej reči, a ako by tým eo ipso
-     <tei:ref target="#N100"/>
+     <tei:ref target="#N100" />
      bolo možno   doraziť ostatné reči v krajine. Jednému z miernych chceli tí krajní   dať premerať oknom cestu dolu na ulicu, nech pán nepoužije svoje   domové právo a nech si nevyprosí takéto české zvyklosti. Nie preto,   že by bol odchodnejšie smýšľal ako ostatná rota, ale preto, že mu   záležalo na tom, aby zamedzil takýto škandál.
     </tei:p>
     <tei:p>
      Patričný sa vedel vzpamätať navzdory zúreniu množstva, a keď krik   utíchol, vstal a žiadal o dovolenie prehovoriť. „Halljuk, halljuk!“
-     <tei:ref target="#N101"/>
+     <tei:ref target="#N101" />
      kričali jeden cez druhého. Ten človek   hovoril:
     </tei:p>
     <tei:p>
      „Nie tak, atyámfiai,
-     <tei:ref target="#N102"/>
+     <tei:ref target="#N102" />
      nie. Násilím sa s rečou   práve tak nič nevykoná, ako s náboženstvom. Práve prenasledovaniami   silnieme a tlak vzbudzuje protitlak. Čo vykonal Jozef s celou svojou   kráľovskou mocou? Jeho násilie roznietilo uhasnutý plameň lásky k   našej reči, a ešte i dnes by sme driemali, keby nás nebol vyburcoval.   Práve tak ste vy urobili so všetkými národmi Uhorska.“ „Čo, národy?!“   zvolalo jedno zachrípnuté hrdlo, „kto sa tu opovažuje hovoriť o   národoch, keď je len jeden národ, ku ktorému my, a žiaľ, i vy, máme   šťastie patriť. Kto sú to tie národy, smiem prosiť? Sú to Cigáni,   alebo Valasi? Keď je reč o našej milej vlasti, ako možno hovoriť o   inom národe, než maďarskom? Vy naozaj musíte byť miešancom Maďarky a   Cigána, alebo Rusniaka, mulat, kreol, alebo, alebo …“ „Bravo!“   vyjachtal ktorýsi ochromený jazyk, „ten s ním urobil krátky proces,   hehehe! Tak treba odbaviť každého, kto sa natoľko pozabudne …“ „Nech   odvisnú zradcovia!“ zahrmela jedna basa, pri čom svojmu hrubému tónu   dala úderom päste taký surový dôraz, že prázdne poháre a fľaše   zatancovaly. „Tento pán tu by bol taký ochotný a ešte raz nám   nastolil tú bezvýznamnú otázku, či chceme byť Maďarmi?“ povedal s   úsmeškom pomaďarčený Slovák z duchovného stavu; ostatní sa rehotali s   ním. „Zdá sa mi,“ ozval sa nejaký hlások, „že všetku svoju múdrosť   vyčerpal zo slátaniny, ktorú dal dovedna akýsi nepomenovaný Nemec pod   lákavým názvom, aby vypľúval proti nám tým surovšie hlúposti. »Mit   Speck fängt man Mäuse«
-     <tei:ref target="#N103"/>
+     <tei:ref target="#N103" />
      , to rozumiete, pán   brat?“ spýtal sa ktosi. „Pravdaže, aby toho naničhodníka myši a   potkany…“ ďalej nevedel pokračovať a každý si môže vetu tak doplniť,   ako sa mu páči.
     </tei:p>
     <tei:p>
@@ -960,9 +961,9 @@
     </tei:p>
     <tei:p>
      „Pane, ako to teda zamýšľate začať, ak smiem prosiť? Nie ste   predsa múdrejší ako toľkí iní, ktorí tiež majú hlavu na pleciach. Čo   teda treba urobiť?“ „Na to sa nedá tak ľahko odpovedať, ako ľahko sa   dáva otázka. Sme aj príliš rozpálení, než by sme mohli chladnokrvne   porokovať o takej závažnej otázke.“ „Hneď som to myslel,“ zamumlal   istý inak ohnivý tlčhuba, ktorý sotva vládal držať oči napolo   otvorené, „všetci ste vy takí, keď vás vženú do úzkeho, potom už   neviete, ako by ste mali odpovedať.“ „Moje vyznanie viery máte,“   odpovedal tamten, „a negatívnu čiastku odpovede tiež. Pozitívnou   zostávam dlžen a len čo sa vyparí lieh, ktorý vošiel z buteliek do   našich hláv, zodpoviem na otázku.“ „Ten myslí, že sme celkom opití,“   povedal nahnevane ktorýsi, taký, čo sa mohol dobre pripodobniť k   ťave. „Veru, je to dehonestácia
-     <tei:ref target="#N104"/>
+     <tei:ref target="#N104" />
      pre našinca,“   povedal ktosi iný. „Von s kazateľom mravnosti!“ skríkol tretí a už si   popľuval do dlaní, aby ho chytil. Iní šiesti si vyhrnuli rukávy,   hotoví hneď mu pomôcť. Vtedy mal ktosi dobrú myšlienku, s pohárom v   ruke zanôtiť pieseň: Ez a pohár bujdosik.
-     <tei:ref target="#N105"/>
+     <tei:ref target="#N105" />
      Všetci vpadli do toho so svojím škrekom a pohár koloval. Medzitým   domáci pán dal prívržencovi juste milieu, t. j. „správnej strednej   cesty“ pokyn a nepozorovane mu pomohol do susednej izby, kde sa   patričný zatvoril na závoru.
     </tei:p>
     <tei:p>
@@ -973,9 +974,9 @@
     </tei:p>
     <tei:p>
      „Čo sa mňa týka,“ hovoril ten (s mnohými na príslušné miesta   zapletenými teremtettami), „bola by moja nepatrná mienka, ktorú   ostatne nechcem natískať nikomu, že by bolo treba načať vec zároveň   zpredu i zozadu.“ „Ako to možno urobiť?“ opýtal sa ktosi žartovne. Na   rečníkovi bolo badať, že sa ho nemilo dotklo toto prerušenie. Miesto   neho ohlásil sa mestský fyzik: „Kutya teremtette!
-     <tei:ref target="#N106"/>
+     <tei:ref target="#N106" />
      Muszáj
-     <tei:ref target="#N107"/>
+     <tei:ref target="#N107" />
      vypočuť a   neprerušovať medzi čestnými ľuďmi.“ Onen prostoreký človek zmíkol a   rečník pokračoval: „Zpredu a zozadu sa musí chytiť vec, hovorím, a   nijako nenechať otvorené bočné dvere, aby sa nimi mohol vkradnúť   indiferentizmus, alebo odpor, alebo nebodaj otvorená zášť proti našej   drahej materinskej reči. Ako za mojich čias cigánske deti vytrhali z   biedy a dávali ich vychovávať sedliakom, tak je teraz nevyhnutne   potrebné, ak nechceme zostať stáť pri polovičatých opatreniach,   všetky cudzie jazyky alebo pery, ako ich nazývame, hneď, len čo   začínajú žvatlať, presadiť medzi Maďarov, aby zabudly svoju ničomnú   materinskú reč a navykly si časom na naše ö a ü, prv než sa ich   nemeckým, slovenským, chorvátskym žargónom skazí ľubozvučnosť našej   božskej reči. Keby som mohol vliať svoj rozum najvyšším krajinským   úradom, tak by som prekliatu latinskú reč, ktorá ma stála toľko   úderov prútom, síz a toľko prebdených nocí, aspoň na najbližšie   desaťročie vyhnal zo všetkých vlasteneckých škôl a jej
     </tei:p>
     <tei:p>
@@ -983,9 +984,9 @@
     </tei:p>
     <tei:p>
      „Hej, čo som chcel povedať? Zato nič — kdeže som zastal? Áno,   kalendáre zdanlivo majú nepatrnú úlohu, ale ja vidím ďalej od nosa a   nazdávam sa, že by sme mnoho získali, keby sa všetky kalendáre   tlačily v jedinej krajinskej reči. Tým by sa práve v jednoduchom ľude   urobily nevypočitateľné pokroky. — Smrť nemeckým novinám a Kaschauer   Bote a capite!“
-     <tei:ref target="#N108"/>
+     <tei:ref target="#N108" />
      „Veru áno, tomu predovšetkým!“   zvolal ktosi, kto bol pred niekoľkými dňami v Košiciach, kde na   vlastné oči videl, ako tam opozícia postavila svoju jazdnú   delostreľbu, aby zamedzila vlastenecké úsilia lepšej čiastky. V   rýchlosti hovorilo sa o tejto veci ako o intermezze a so všetkých   strán vyniesli rozsudok, aby sa všetky spisy podobnej tendencie,   počnúc od Sollen wir Magyaren werden? až po Magyarismus in Ungarn
-     <tei:ref target="#N109"/>
+     <tei:ref target="#N109" />
      , každoročne v deň založenia Maďarskej akadémie   spálily a ich popol vysypal do štyroch hlavných riek Uhorska.
     </tei:p>
     <tei:p>
@@ -993,9 +994,9 @@
     </tei:p>
     <tei:p>
      Bendeguz myslel vo svojej prostote: načo toto táranie? Ako by sa   už neboly bývaly uskutočnily všetky tieto návrhy, ktoré ten ošedivelý   vlastenec nebodaj ešte počítal len medzi pia desideria.
-     <tei:ref target="#N110"/>
+     <tei:ref target="#N110" />
      Keď sa tá reč skončila, istý všetečník sa   opýtal, ako sa má premenovať Miškovec. „Ako keby už nebol   premenovaný!“ odpovedal ktosi trochu nahnevane. „A Poloma ako?“ „Milý   priateľ, neprečítali ste svojho Bartholomaeidesa, keď sa nehanbíte,   klásť také hlúpe otázky.“ „Prosím, aby ste sa nerozčuľovali. Môžem sa   predsa na niečo takého opýtať a dať sa poučiť. Ako sa budú volať   Medovarce? Nespytujem sa na to nadarmo. Neďaleko nich som prežil viac   rokov mladosti, prv, než ma ustanovili u tunajšieho soľného úradu.“   „Tým väčšia hanba pre vás, keď neviete, že sa to hniezdo odteraz volá   Méznevelő.“ „Nože, no, nemôžeme všetko vedieť. Že sa Mladnice volajú   Mladonya, to viem dobre, a Nanince — Lukanénye, tam som bol za krátky   čas, a že sú Peresľany — Pereszlény, ale …“ „A viete, kde je   Bolondvár?“
-     <tei:ref target="#N111"/>
+     <tei:ref target="#N111" />
      opýtal sa ho ktosi, ktorého hnevalo   toto zdĺhavé hovorenie. „Hehehe!“ ohlásil sa istý flegmatik. Iný   odpovedal: „Keby som bol taký netaktný, ako ste vy, pán môj, naozaj   veľmi netaktný, aby som urazil už vymretú rodinu Bánffych, vzal by   som na seba tú česť, pán môj, vindikovať vašej rodine práva na tú   pozostalosť.“ „Dobrá odpoveď!“ zvolal nejaký holohlavý vtipkár. „Zlá   odpoveď!“ zvolal akýsi grobian a — obidvaja mali pravdu. Boli by sa   dali jeden druhému do vlasov a Bendeguz chcel stranu chytiť, ale   nevedel komu, a tak len zdvihol ruku, aby ňou bil okolo. Tu zaznela   hudba, ktorú objednal ochotný domáci pán, a potvrdila sa pravda   starej povesti, podľa ktorej Orfeus vedel skrotiť hudbou i divé   zvery.
     </tei:p>
     <tei:p>
@@ -1003,7 +1004,7 @@
     </tei:p>
     <tei:p>
      Obidvaja hostia spali ako potkany. Niektorí z večerňajšej   spoločnosti využili to, aby týmto hrdinom zaobstarali nejakú   pamiatku. Dlho sa nevedeli dohodnúť, čo to má byť. Nakoniec mal jeden   z nich dobrú myšlienku, keďže práve prišli valašskí Cigáni, každému z   nich dať vyryť pečať na jeho fokoš. Keď sa to stalo, zobudil domáci   pán sedmospáčov a odovzdal im dary v mene vlasteneckej spoločnosti.   Bendeguz sa poďakoval za dar aj v mene svojho spoluspáča, keďže ten   ešte stále nevládal oči otvoriť. Nato ich pozvali do divadla. Malo sa   hrať Béla futása.
-     <tei:ref target="#N112"/>
+     <tei:ref target="#N112" />
      Nuž, to je práve a propos,   pomysleli si páni. Medzi nami povedané, schválne to tak zariadili,   lebo i v Miškovci sa už vedelo, že turčianska šľachta najviac má čo   ďakovať práve Belovmu úteku. Pišta šiel s nimi do divadla a na druhý   deň nebolo konca kraja rozprávaniu, keď pokračovali vo svojej ceste.   Bendeguz zúrivo žiadal, aby opakovali niektoré scény, búrlivo im   tlieskal a veľmi spokojný odišiel z divadla. Keď sa vrátili domov,   zasadli za stôl. Po včerajšom ochabnutí boli by bývali hodne zamĺkli,   keby im Belov útek nebol poskytol dostatočnú látku na poučný   rozhovor, ako v historickom, tak i dramatickom ohľade. Gyula myslel,   že by divadlo bolo oveľa účelnejším prostriedkom ako všetky kostoly   dovedna, ktorým by sa dala aj najzaťatejším Slovákom vštepiť láska k   maďarčine. Bendeguz, ešte stále nadšený tým, čo videl a počul, až   dosiaľ mlčal, no teraz sa ohlásil a potvrdil pravdivosť priateľovho   tvrdenia zo skúsenosti, ktorú sám získal. „Odkedy prišla do Liptova   spoločnosť maďarských hercov,“ povedal, „urobila tam maďarizácia   veľké pokroky najmä u krásneho pohlavia a donútila mlčať tamojších   ochotníkov s ich úbohou Trasorítkou.“
     </tei:p>
     <tei:p>
@@ -1040,7 +1041,7 @@
     </tei:p>
     <tei:p>
      Nášmu Pištovi sišlo na um známe príslovie: Pest és Búda közt csak   Duna foly, mégis Hatvan hat mértföld.
-     <tei:ref target="#N113"/>
+     <tei:ref target="#N113" />
      A   Bendeguz podľa toho správne usúdil, že na druhý deň prídu do Pešti.   Zabudol však, že všetko na svete je relatívne. Pustili sa síce včas   na cestu a do poludnia prešli hodný kus, no jednako slnce už zapadalo   a Kerepes nechali za sebou sotva pred štvrťhodinkou. Tam sa spýtali,   ako asi ďaleko majú ešte do Pešti, na čo dostali obvyklú neurčitú   odpoveď, že ta je ešte darab (kus). Keďže taký kus mohol byť dôkladný   kus, páni sa náležité usilovali prejsť aj ten. Jednako ich nakoniec v   tejto nehostinnej pustatine prikvačila noc, čierna ako havran, a   museli s tým súhlasiť, že tam prenocujú, lebo i za samého bieleho dňa   im hrozilo nebezpečenstvo, že poblúdia. Kone sa maly dobre, lebo na   tom okolí je bujná paša, ale naši hrdinovia museli si ľahnúť o hlade   a smäde, keďže boli veľmi neopatrní a vyjedli si zásoby na poludnie;   mysleli totiž, že v Pešti nájdu niečo lepšieho. Pišta si teraz s   celou vážnosťou zaumienil, že si z toho vezme výstrahu. Usniesli sa,   že budú strážiť kone po skončenej ceste a Bendeguz navrhol abecedný   poriadok, podľa ktorého on sám prvý nastúpil do zbrane: urobil to   preto, aby mohol potom nepretržite chrápať až do bieleho dňa. Okolo   polnoci zobudil Gyulu, ktorého potom vystriedal Kurtaforint, a ten   súčasne dostal rozkaz sedlať pred východom slnka. Nedal na seba dlho   čakať a ešte prv, než Gyula zaspal, ochotný Pišta mu vzal zpod hlavy   sedlo a svojmu pánovi urobil to isté. Prv než sa začalo rozvidnievať,   boli schystaní na cestu. Keď sa natoľko rozvidnelo, že sa dalo   orientovať, našli stratenú cestu a šli napred ostrým klusom, lebo   horko—ťažko uchlácholili prázdne žalúdky. Oči mali upreté tým smerom,   kde sa úfali zazrieť v diaľke veľkolepý budínsky hrad. Tu sa   trblietal v slnečnom lesku Starý Budín, tu vysoko vyčnievala Hviezdna   stráž na Hrade, tu sa rozprestieral Jeruzalem Uhorska, vznešené mesto   Pešť, pred slasťou opojenými očami, tu sa v majestátnom Dunaji prudko   preč valily jeho vlny. Ako bilo srdce všetkým trom! Ako radi by boli   ta zaleteli! Akou zdĺhavou sa im zdala krátka cesta, oddeľujúca ich   od cieľa ich žiadostí!
     </tei:p>
    </tei:div>
@@ -1065,7 +1066,7 @@
     </tei:p>
     <tei:p>
      Teraz bola dobrá rada drahá. Kdeže mali páni sosadnúť? Budapešť sa   mení každým rokom a Gyulov predošlý pobyt tu bol len krátky. Čo   nazýval svojimi jurátskymi rokmi, to bolo niekoľko mesiacov,   strávených na patvarii. Za ten čas si raz vyšiel so svojím   principálom, aby mu bol naporúdzi pri jeho obchodoch, to znamená, pri   nákupe liptovskej bryndze. K takému obchodu sa utiekal doktor juris,
-     <tei:ref target="#N114"/>
+     <tei:ref target="#N114" />
      odkedy sa advokáti rozmnožili ako huby po   daždi, a svoje pôvodné zamestnanie tým menej mohol odhodiť, ak chcel   žiť podľa svojho stavu. Páni sa teda opýtali prvého lepšie oblečeného   človeka, kde by mohli sosadnúť. Ten si chcel urobiť žart s týmito   dobrodružnými postavami a upravil ich na Lakeť, ba bol taký ochotný,   že ich ta aj zaviedol. Prijali ich tam práve tak, ako by si ich boli   žiadali, a najmä dámy z domu sa zdaly zvlášť priateľské. Gyula   zavoňal, o čo ide, a vedel, s kým má šťastie, ale Bendeguz ich   pokladal za práve také bohyne z mytologických čias, aké si vyčaril   ešte v rétorike. Zdaly sa mu aspoň dámami z vyšších stavov a oveľa   vznešenejšími, než aké vídaval v Turci. Keď sa vzdialily, nevedel   dosť prenachváliť ich vľúdnosť a láskavosť. Najmä jedna ho nebodaj   zaľúbeným pohľadom takrečeno prevŕtala a podľa jeho vlastného   priznania jej dlhý stisk ruky ho elektricky prenikol.
     </tei:p>
     <tei:p>
@@ -1093,7 +1094,7 @@
     </tei:p>
     <tei:p>
      „Čo je vlastne to Kasíno?“ opýtal sa Bendeguz Gyulu, keď zostali   sami. „Musí to byť nejaký veľký dom,“ odpovedal Gyula, „lebo som   počul o veľkej pivnici, ktorá je vraj naplnená všetkými druhmi vína z   našej drahej vlasti. Tam sa vraj lepšie a lacnejšie dá jesť ako v   samom Wurmovom dvore. Čítať, fajčiť a šnupať môžeš do vôle. Do   ohromnej striebornej tabačnice (Orrláda) môže každý gratis siahnuť,   kto vypotí ročne päťdesiat zlatoviek. A vôbec, má tam byť prebytok   všetkého, čo si len srdce zažiada.“ Bendeguzovi voňala bravčovina,   ktorú mu tam mali predložiť, a dúfal, že ako vehikel
-     <tei:ref target="#N115"/>
+     <tei:ref target="#N115" />
      bude môcť poslať za ňou holbu villányskeho   vína. Á conto toho chcel sa dobre vyhladovať a na dobrý kúsok účelne   byť pripravený.
     </tei:p>
     <tei:p>
@@ -1101,19 +1102,19 @@
     </tei:p>
     <tei:p>
      Večer prišiel ochotný jurát a dal predviesť tri kone. Vysadli na   ne, a keďže Kasíno bolo ešte prázdne, pustili sa nadol popri Dunaji.   Obidvom sa to veľmi páčilo, lebo na takých koňoch ešte nejazdili. Ich   sprievodca to zbadal a ubezpečil ich, že dva kone si môžu ponechať   ako svoje vlastníctvo, len čo po šťastlivo skončenej ceste zase prídu   do Pešti a keď nájdu to, čo hľadajú. „Tak potom tento beluš musí byť   môj,“ povedal Bendeguz, maznajúc sa s ním. Popchol ho ostrohami,   ostatní urobili to isté a tak leteli po piesočnatej rovine a boli by   zabehli až do Soroksáru, keby nebol už býval najvyšší čas obrátiť sa.   Prijazdili pomaly až pred impozantnú sieň burzy, kde Bendeguz dúfal   nájsť v Kasíne svoju bravčovinu. Zaviedli ich do veľkej, skvele   osvetlenej siene, kde ich privítala Beethovenova symfónia. Nevedeli,   čo sa s nimi deje. Keď doznel posledný tón, privítali ich vivatom zo   stopäťdesiatich hrdiel. Nato jeden člen spoločnosti spustil bez   prípravy takú maďarskú reč, tak husto popretkávanú slovami   novopečenými, zo zbrojnice vytiahnutými a zastaralými, ktoré všetky   ani v Szófüzéri nemožno nájsť a k tomu olemovanú takým neskroteným   orientálnym bombastom, maďarskému togátovi vlastným, že naše obidve   celebrity vospolok stály a nič z toho nerozumely. Preto aj za celej   reči, ale ešte viac po jej skončení mali taký sprostý výzor, akého   nebolo badať na nich ani za slovenského rozhovoru v Lakti. Spoločnosť   láskavo pripísala tieto rozpaky ich omráčeniu, aké im spôsobilo   skvelé prijatie. Nato si sadli, fajčili a rozprávali o učených   veciach, o ruskej vojne, o kniežaťu Milošovi, o parných vozoch, o   nastávajúcich dostihoch a podozrivej knižke Mi kell a magyarnak?
-     <tei:ref target="#N116"/>
+     <tei:ref target="#N116" />
      To dalo tom celkom prirodzený popud viesť každý   ďalší rozhovor o výbornosti maďarskej reči a o Csomových prácach.   Vychvaľovali najmä jeho tibetskú gramatiku, ktorú ešte nevideli, ale   ktorá už dostala svoje určené miesto v knižnici Kasína, a to vedľa   Anthology Cheskian from Bowring
-     <tei:ref target="#N117"/>
+     <tei:ref target="#N117" />
      a vedľa   obľúbenej brošúry Mit Speck fängt man Mäuse. Pri tejto príležitosti   dozvedeli sa naši vysokí cestujúci, kde majú hľadať Csomu, totiž v   Kalkute, kde sa na trovy anglickej vlády a kde pod vlastným dozorom   dáva tlačiť svoju tibetskú gramatiku spolu so slovníkom. kBendeguz si   zapísal meno Kalkuta do svojho zápisníka, aby ho nezabudol. V ďalšom   rozhovore Kasínu hrozilo nebezpečenstvo, že schizmou v ňom vznikne   taká roztržka, ktorá by alebo celú spoločnosť rozdelila na dve   komory, a vtedy sa nedalo ani myslieť na nijakú ďalšiu shodu, alebo   na jednu komoru, s ľavou a pravou stranou, ktoré tak nemožno spojiť,   ako nemožno spojiť svetlo a tmu. Ktosi zo spoločnosti tvrdil, že   Kőrösi vykonal omnoho viac ako Csoma, a nedal sa zmiasť druhému,   ktorý dával prednosť svojmu zbožňovanému Csomovi. Obidve mená dostaly   svojich zúrivých obrancov, a prívrženci Kőrösiho nadávali na Csomu,   ktorý vstúpil do služieb Angličanov. „Je to naša vlastná hanba,“   odpovedala druhá strana, „že sa vlasť tak málo stará o svoje vlastné   dieťa.“ Hovorili zle i na maďarskú akadémiu, ktorá tak dobre platí   svojich členov, a tí pri teplej peci alebo pri kőbányskom víne   pracujú na náučnom slovníku, kým Csoma prahne po teple, alebo by   musel hladom umrieť, keby sa ho neujal šľachetný anglický národ. Bolo   tým príliš mnoho povedané, a podobné rozumovanie bolo by tomu   premúdremu celkom istotne pritiahlo zaucho od pohotovej ruky kohosi   zozadu, keby istý rozumný človek ešte v pravý čas nebol ukončil   zvadu. Bol to flegmatický Maďar starého typu, ktorý vedel zaimponovať   i všetečnej mládeži. Vstal a keď rozfúkal dym okolo seba, povedal:   „Neviem, ako možno hovoriť také sprosté reči. Je to, Bože odpusť   hriechy, taký boj de lana caprina,
-     <tei:ref target="#N118"/>
+     <tei:ref target="#N118" />
      aký som ešte   v živote nepočul.“ „Ani jedno latinské slovo viac, ak je pánovi huba   milá!“ rozkríkol sa ktosi, ktorého ešte len pred troma dňami zvolili   za člena Kasína a tak sa ešte nenaučil nijaký móres. „Dobre, dobre,“   odpovedal tamten, „milšie mi je, keď sa všetci usilujú hovoriť v   čistej maďarčine, bez primiešania nezáživných latinských omrviniek. O   toľko dôraznejšie sa teda vyjadrím. Hovorím dobre po maďarsky: Csoma   és Kőrösi az mind egy kutya,
-     <tei:ref target="#N119"/>
+     <tei:ref target="#N119" />
      to znamená, Csoma   a Kőrösi je jedna a tá istá osoba. Kőrösi Csoma nie je nič inšie, ako   Csoma de Kőrös, to je predsa jasné ako, ako …“. „Ako Arpád zo   Žebrákovíc,“ doložil Gyula a neviazane sa zasmial. Ostatní sa smiali   s ním par compagnie,
-     <tei:ref target="#N120"/>
+     <tei:ref target="#N120" />
      nevediac, prečo sa smejú.   Páni to isteže sami od seba mohli vedieť, že Kőrösi a Csoma putujú v   jednej osobe, ale, prepánajána, či sa lepšie vedie iným učeným   kresťanom, ktorí zaviňujú logomachie iného druhu a podnecujú perom na   vojny, pri ktorých netečie krv, ale atrament? Keď sa boj skončil,   prišlo sa za rozhovoru aj na okolnosť, že z rozlúštenia egyptských   hieroglyfov možno oprávnene očakávať dôležité závery pre najstaršie   dejiny Maďarov, a že maďarskú reč bez ďalšieho možno pokladať za   sestru egyptskej a etiópskej reči. To podnietilo nášho Bendeguza   podržať si in petto
-     <tei:ref target="#N121"/>
+     <tei:ref target="#N121" />
      predsavzatie, že len čo sa   vráti z Kaukazu alebo Tibetu, s prvým lepším oravským pláteníkom   prepraví sa do Egypta. Pán J. B. tiež pokladal za osožné nateraz   podržať u seba svoje A magyarok emléke,
-     <tei:ref target="#N122"/>
+     <tei:ref target="#N122" />
      hoci už   bol vyslal misionára sbierať na dielo predplatiteľov
     </tei:p>
     <tei:p>
@@ -1124,11 +1125,11 @@
     </tei:p>
     <tei:p>
      Cestou stretli opitých jurátov, ktorí lumpovali u Marokána. Čo ako   sa Bendeguz náhlil domov, musel sa podrobiť vôli týchto veselých   druhov a dať sa dokola vodiť. Vlastenecká horlivosť kričala zo   zachrípnutých hrdiel: „Nech žijú Maďari! Smrť Slovákom a Nemcom!“   „Áno, smrť a skaza!“ kričal i Bendeguz, a koľko kliatieb len vedel   zohnať, všetky vysypal na ostatné národy Uhorska. Revali vlastenecké   piesne, shrabli v rýchlosti zvyšky v Bihariho búde a zaviedli   vzácnych hostí do Zriniho. Spoločnosť sa nechcela len tak ľahko   rozísť a zdalo sa, že sa ešte len začína dobre usalašovať, keď prišla   polícia, aby zaplašila týchto nočných vtákov. Keďže stráž bola na   počet toľká, že vynucovala rešpekt a mohlo sa stať to, že by ináč   neústupných pánov po pároch odviedla, bez prelievania krvi sa   podrobili príkazom červených rakov a pokojne sa rozišli. Bendeguz   mohol teraz so svojím žalúdkom nakladať podľa vôle, keďže mu už nebol   ďaleko od toho, aby sa vzdal svojho tráviaceho zamestnania s   kŕčovitými šklbaniami. Len čo zďaleka zavoňal plnenú sliepku, ktorú   si objednal, už aj pochytil nôž a očami sprevádzal misu od dvier až   po stôl. Mocným a istým rezom, ktorý by bol na česť asistentovi   profesora anatómie na krajinskej univerzite, každý kus rozrezal na   štvoro, a prv než Gyula siahol po krídle, Bendeguz už zjedol obidve   nohy. Na podobné delenie nebolo pomyslenia, a Bendeguz nijako   nepomýšľal robiť také viditeľné zásahy do práv svojho kolegu, aby ho   aspoň pro forma
-     <tei:ref target="#N123"/>
+     <tei:ref target="#N123" />
      nepožiadal o dovolenie. Gyula   sa musel uspokojiť s jedným krídlom, trtáčom a dvoma krkmi. Chceli   porciu opakovať, ale okrem uhorských jarabíc, ako to čašník nazval,   nebolo už nič dostať. „Tým lepšie,“ pomyslel Bendeguz, a Gyula   polohlasne povedal: „Je to ozajstný somár, ten Viedenčan, keď pokladá   jarabice len tak en bagatelle.“
-     <tei:ref target="#N124"/>
+     <tei:ref target="#N124" />
      Ach, ako sa   podivili obidvaja, keď čašník doniesol čosi, čo sa tak málo ponášalo   na jarabicu, ako Soroksár na mesto Paríž, „Čo si nám to za ono,   prepytujem, doniesol?“ zakričal Bendeguz, pri čom tanier zdvihol, ako   by chcel, aby jarabice odletely. V skutočností aj odletely na hlavu   nemeckému Michlovi. Na nešťastie čašník nebol nijaký Viedenčan, ale   nesporný uhorský šľachtic, a tomu neslobodno nič o hlavu otrepať, ak   sa človek nechce zamotať do mrzutého procesu. Taký proces sa obyčajne   rozhodne za krátky čas, ale tento sa ešte neskončil, hoci polovica   zúčastnených už hnije v hrobe. Autor nemohol síce prezrieť spisy, ale   môže o tom ubezpečiť, že advokát žalobníka z bromatologického   slovníka, z Dictionnaire des gourmands
-     <tei:ref target="#N125"/>
+     <tei:ref target="#N125" />
      a z   jedálnych lístkov viedenských hostincov K zlatej hruške, K bielemu   vlkovi a K hnedému jeleňovi nepodvratne dokázal, že je právo na jeho   strane. Bendeguz sám videl od samého začiatku, že spravil chybu, ale   z čoho by potom žili advokáti, keby nerozumeli, ako sa má upriasť   dlhá niť. Pochopil, že sa umele pripravené volské nohy a chvosty   práve takým právom môžu volať uhorskými jarabicami, ako sa jedia   mníšske plnky a parené rezance, a pri tom nejde o nijaké rezance z   pary, alebo nebodaj o isté pary z mníšok. Nech toto slúži za   poučenie, že nie je také ľahostajné, ako sa obyčajne myslieva, aké   meno sa dá decku.
     </tei:p>
    </tei:div>
@@ -1144,17 +1145,17 @@
     </tei:p>
     <tei:p>
      Keď sa Bendeguz po temer bezsennej noci okolo šiestej hodiny   prebral k novému životu, ponáhľal sa do maštale, aby dal sedlať kone.   Pišta ešte chrápal, lebo Maritornes pravdepodobne i túto noc prišla   na rendezvous.
-     <tei:ref target="#N126"/>
+     <tei:ref target="#N126" />
      Bendeguz trochu nevľúdne stúpil   na nohu Pištovi a viac nebolo treba, aby ho zobudili. Vzchopil sa a   kým si trel napuchnuté oči, dal sa do práce okolo koní nepovediac ani   slova. Bendeguz sa pajedil a pomáhal mu kone osedlať. Kým Pišta   pokračoval vo svojej práci, Bendeguz a Gyula sa ustrojili, aby sa   dôstojne zjavili pri patriotickej hre. Kone, ktoré tentoraz maly   bežať o závod, boly už na mieste a naši traja králi museli strpieť   nejedno domŕzanie od samopašných csikósov. Zavalitý, silný chlap,   hnedý ako škvarka zo slaniny, pustil sa do Pištu a figliarsky sa ho   spýtal, či by tiež nemal chuť skúsiť svoje šťastie, aby mu neušla   Széchenyiho šabľa. Ľud sa smial na tomto žarte, a Pišta si tentoraz   všetko vstrčil do vrecka, nedajúc znať neľúbosť ani pohľadom. Na jeho   pánov len ukradomky požmurkávali alebo ich ťahali zozadu. Aj oni dali   so sebou všetko robiť, lebo nemohli vzdorovať sarkastickému množstvu.   O toľko pyšnejšie sa tvárili potom, keď prišli vysokí páni a našim   rytierom, nevynímajúc ani Pištu, polichotili.
     </tei:p>
     <tei:p>
      Bol pekný deň (23. mája 1833), celkom na to súci, aby napomohol   peknému divadlu. Bojovníci sa usporiadali. Každý jazdec bol rodený   Maďar. Mérges z Vasadskej pustatiny, Turcsi, Whiskey, Szárcsa, Bátor,   Rozalina, Csinos, Betyár, Gildroy, žrebec, hneď hotový kurizovať   Rozaline všetko to tu stálo v plnej životnej sile. Ľudia mohli veriť,   že každé z týchto ušľachtilých zvierat musí vyhrať prvú patriotickú   cenu, sto dukátov. Lenže dama praecedit,
-     <tei:ref target="#N127"/>
+     <tei:ref target="#N127" />
      a tak   ju získala Rozalina. Bolo to aj veľmi a propos, že dámsku cenu   získala kobyla, Szárcsa, Peštianka. Gildroy sa pokúsil získať si   priazeň Rozaliny, a tiež získal dámsku cenu, pohár, ktorý bol hoden   stopäťdesiat dukátov. Ach, ako vďačne by ho bol daroval svojej   milovanej Rozaline, ale ešte nebol emancipovaný, aby bol mohol voľne   nakladať so svojím právoplatne nadobudnutým majetkom. Whiskey teraz   pretromfol sám seba, získal dva razy Széchenyiho šabľu a Batthyániho   pohár. Možno si predstaviť, akým závistivým pohľadom hľadeli praví   Maďari, Csinos, Turcsi a spoločníci, na cudzie mená Rozaliny,   Gildroya a Whiskeya. Referent, ktorý sa tiež tak díval na vec,   nezdržal sa a verejne poznamenal, že by sa mala dať len vlasteneckým   koňom príležitosť na obohatenie, tak, ako sa trpia len maďarskí   jazdci. Mená z cudzích rečí vypožičané možno tým menej trpieť medzi   koňmi, lebo v jednej stolici nástoja na tom, aby sa všetky priezviská   preložily do maďarčiny. Táto nedôslednosť nie je nijakým potešiteľným   časovým zjavom a dokazuje, ako málo vedia ľudia so všetkých strán   ponímať vlastenecký význam. Bendeguz dal za pravdu referentovi a   navrhol premenovať Whiskeya na Pajkosa, Rozalinu na Szikru a Gildroya   na Pogánya. Ako vidno, mal záujem na veci: chcel tak zvečniť svoje   dva kone.
     </tei:p>
     <tei:p>
      Dostihy sa skončily rujnou, skutočne maďarskou hostinou, na ktorej   nebola núdza o dobrú hovädzinu, kyslú kapustu, klobásy a papriku.   Víno k tomu dodala pivnica Kasína, takže bolo pravé. „Nech žije   Štefan Széchenyi!“ volala rozohnená spoločnosť. Nasledujúce tri   zdravice platily cestujúcemu triumvirátu a pro coronide
-     <tei:ref target="#N128"/>
+     <tei:ref target="#N128" />
      volali na slávu i trom najznamenitejším   víťazom, a to už pod ich práve pomaďarčenými menami. Tak prešiel   našim trom rytierom znova jeden z najkrajších dní ich života. Večer   veselo strávili v budínskom divadle, kde pre potechu drahých hostí   hrali A pártütők, na čom sa Pišta temer do popuku nasmial.
     </tei:p>
     <tei:p>
@@ -1179,15 +1180,15 @@
     </tei:p>
     <tei:p>
      Ach, po tomto dôkaze veľkej vážnosti, ktorý im dali najrozumnejší   z ľudu, nasledovala taká mrzutosť, ktorú Bendeguz nemôže oželieť do   dnešného dňa. Vyšiel si celkom sám, aby niečo, nevedno čo, pohľadal   za večerného súmraku na dunajskom moste. Aj našiel, čo hľadal, a   keďže za tovar čestne zaplatil, quasi re bene gesta,
-     <tei:ref target="#N129"/>
+     <tei:ref target="#N129" />
      vyšiel sa na most poprechádzať. Vykresal si   oheň a fajčil. Strážnik mu tak grobiansky vytrhol fajku z úst, že si   opáčil zuby, aby sa presvedčil, či ich nepotratil. „Ty darebák!“   zvolal rozhnevaný a chcel chlapa chytiť. Ten nepoznal žarty a vyvolal   stráž. Tá rišla a milého Bendeguza vstrčila do basy, navzdory jeho   protestovaniu, ktorým sa optima forma
-     <tei:ref target="#N130"/>
+     <tei:ref target="#N130" />
      ohradil,   čo mu okrem toho vynieslo niekoľko surových úderov kolbou pušky.   Gyula nevedel, kam odišiel Bendeguz, a vyčkával ho až neskoro do   noci. Ráno ho musel dať vybubnovať a okrem toho dal ešte opis jeho   osoby vylepiť po všetkých nárožných domoch, spolu so sľubom, že   statočný nálezca dostane dobré prepitné. Nakoniec prišiel Bendeguz   celý skľúčený do Zriniho, kam sa boli presťahovali z Lakťa. Sotva sa   dal pohnúť, aby vyrozprával svoje dobrodužstvo, i to len so zatajením   druhej strany, ktorá sa nezdala vhodnou, aby o nej vedel niekto iný.   Gyula sa sotva mohol zdržať smiechu, no vynaložil všetku námahu na   to, aby ho uspokojil. Urazené veličenstvo teraz už nechcelo zostať   dlhšie v meste, kde sa také význačné osoby, ako je on, nemôžu   slobodne pohybovať Chválil svoj Martinopolis,
-     <tei:ref target="#N131"/>
+     <tei:ref target="#N131" />
      kde by on takému žráčovi železa dal riadne ponaučenie, ako si má   uctiť toho, komu patrí úcta. Gyula len horko—ťažko prehovoril   utrápeného človeka, aby si mesto ešte raz obzrel. Vzali si   Blaschnekov plán za sprievodcu a vysadli na kone. Bendeguz by ináč   sotva bol namáhal svoje chudé nohy, no čo tu videl, nebol by dal za   nič na svete. Keď idúcky domov vytriešťali oči na skvelé budovy,   zazrel Bendeguz s jedného obloka na prvom poschodí čosi visieť, čo   jeho hlúpe oči nevedely rozoznať. Upozornil na to Gyulu, ktorý sa   rozrehotal. „To je dobré,“ povedal, „je to dobrá myšlienka, žart bez   konkurencie.“ Bendeguz vytiahol okuliare, ktoré si kúpil v druhý deň   svojho pobytu u Calderoniho, a čítal: „Ne bántsd a magyart!“
-     <tei:ref target="#N132"/>
+     <tei:ref target="#N132" />
      „To je skvelé!“ zvolal aj on. „To je hodno   desať dukátov. Musím mať tú vec, nech stojí čokoľvek.“ „Čo to bolo?“   počujem, ako sa spytujú moji zvedaví čitatelia. Pešťania vedia veľmi   dobre, že to bol poriadny kyjak, ktorý jeden rozohnený jurát vyvesil   z okna svojho bytu, aby vhodným nápisom inojazyčným ľuďom vtĺkol   úzkosť pred Maďarmi. „Daj Maďarom pokoj!“ znamenal tento kyjovy   symbol, ako asi nápis radu Železnej koruny, založeného Napoleonom:   „Guai a chi le tocca.“
-     <tei:ref target="#N133"/>
+     <tei:ref target="#N133" />
      Náš rytier sa hneď   pobral, navštívil smelého človeka, a bol taký šťastný, že dostal do   daru dôležitý kyjak. Vzal si ho so sebou a od toho dňa kyjak visel   vedľa fokoša na hruške jeho sedla. Dnes visí medzi hrdzavými šabľami   a puškami, ktorými si Bendeguz vyčalúnil stenu svojej spálne, a raz   poputuje s ním do chladného hrobu, kde bude na pokoji, ktorý si   nebude musieť vynucovať kyjakom.
     </tei:p>
     <tei:p>
@@ -1218,9 +1219,9 @@
     </tei:p>
     <tei:p>
      Ešte raz si dali od hostinského ukázať, kde leží Debrecín, aby si   nezmýlili cestu. Videli totiž na vlastné oči, že sa naďalej budú   musieť orientovať len za nosom, lebo na nesmiernych stepiach nebolo   vidieť nijakú cestu, Alebo, lepšie povedané, mali pred sebou sto   ciest, takže museli ísť, len tak naverímboha. Pišta myslel, že by   museli byť zmyslov pozbavení, keby si mali cestu zmýliť a už sa aj   chcel staviť, že by ju musel nájsť so zaviazanými očami, a veď traja   beztak ďalej vidia ako jeden. „Len nás nechajte ako len možno   najvčaššie sa vydať na cestu,“ povedal Gyula, „aby sme tie štyri míle   predpoludním vykonali, a nevyprahli v horúčave.“ „A naozaj tu nieto   až do Debrecína nijakej krčmy, kde by človek mohol zaklopať v prípade   potreby?“ „Ani len koliby,“ odpovedal hostinský, „ani stromček, v   tôni ktorého by sa dalo odpočinúť, ani pramienka, aby si mohol smäd   uhasiť.“ „Pišta, nezabudni kulač!“ ohlásil sa Bendeguz. „Nech naplní   všetky tri ešte dnes,“ doložil Gyula. „Trovy ešte dnes vyplatíme a   hneď po polnoci allons enfants de la patrie!“
-     <tei:ref target="#N134"/>
+     <tei:ref target="#N134" />
      S   týmto predsavzatím si ľahli, a miesto osobitnej izby okupovali si   maštaľ. Bendeguz si ešte dal svoje nové kordovánky namazať zvyšnou   svinskou masťou. Od horúčosti mu príliš stvrdly, lebo pri prevážaní   zo Szolnoku skočil do vody, keď chcel s kompy vyskočiť na breh. Práve   tým si však zle narobil a sotva by bol utrpel takú nenahraditeľnú   škodu, aká ho práve zastihla. Keďže sa ráno prvý zobudil a chcel sa   obliecť, po dlhom šmátraní sotva mohol nájsť jednu čižmu. Prudko   vošiel do nej nohou. Svätý Nepomuk, rád by som bol videl oči, aké   vyvalil, keď sa mu celá noha prekĺzla bočnou dierou. „Čože je to?   Kutya teremtette!
-     <tei:ref target="#N135"/>
+     <tei:ref target="#N135" />
      Pišta, sú to tvoje handry?   Nájdi predsa moje čižmy!“ „Svoje mám na nohách,“ odpovedal Pišta, „to   budú predsa len vaše, pán urodzený!“ „Lajno, a nie moje celkom nové   čižmy,“ odvrkol pán urodzený, „to je roztrhaná žobrácka handra , aby   ju čert vzal. Otvor dvere, aby sme aspoň trochu videli.“ V pološere   sa mu ukázala jeho strata v celej hrôze: oh, čižma bola celkom   rozhryzená. Z druhej, ktorú po dlhom hľadaní našli kdesi v kúte,   zostala len podošva s ostrohou. Zápach z pečienky, lákal potkany,   ktorý prešiel do čižiem, podľa všetkého prilákal potkany, a tie maly   výbornú večeru. Bendeguz sedel ako skamenelý na dlážke a rozmýšľal.   „Pišta, milý môj Pišta,“ povedal napokon, „nieto inšej pomoci: budeš   musieť ísť bosý.“ „Ale …“ „Tu ti nepomôže ani pápež, ani kardinál.“   „To by bola pekná robota!“ hundral Pišta. „Pekná alebo nepekná, to je   jedno. Ja sa natoľko uponížim, že si obujem čižmy svojho sluhu a hoci   som pán, budem hrať jeho úlohu. A ty, dúfam, vôbec a celkom nič   nestratíš na svojej cti.“ „Ale, povážte len, pán môj, veď tie vy ani   len neobujete.“ „Hneď to uvidíme.“ „Počkajte aspoň trochu, pán môj,   kým kone oriadim, ináč mi tie mršiny poriadne postúpajú po nohách.“   „Nečakám ani chvíľky! Nehnevaj ma, ty naničhodník!“ „Áno, ale tá   horúčosť!“ „Nuž, ty chlape, vari ja pôjdem miesto teba bosý?“   zvrieskol Bendeguz a zdvihol sa so svojho miesta. Pišta porozumel   tónu, v akom jeho pán hovoril, a zmĺkol. „Sadaj a vyzúvaj sa!“   zahrmel Bendeguz. Pišta sa tváril, ako by si chcel vyzuť čižmu, čo sa   mu však nechcelo podariť. „Pozrite, pán môj, nemôžem ich dolu   dostať.“ „Len si sadni, ja ich už sčarujem dolu!“ Pišta poslúchol.   Bendeguz začal šklbať čižmu a Pišta nohu tak zvrtol, že znemožňovala   Bendeguzovi dosiahnuť zamýšľaný cieľ. Ten však napäl všetky svoje   sily a povláčil ho po maštali, až Pišta nakoniec povolil. Zatiaľ   Gyula tlieskal a voľne vybuchol smiechom, ktorý už nevládal v sebe   potlačiť. Tak bol Bendeguz zachránený, ale tým horšie bolo s Pištom,   a preto i dlho vzdoroval, nevydajúc zo seba ani slova. Krčmár nemal   nijaké prebytočné čižmy a v ceste predsa museli pokračovať. Čo mal   .robiť Pišta? Z pozostatkov Bendeguzových čižiem urobil si, nakoľko   to len bolo možné, akési podošvice, ktorej si motúzmi popriväzoval na   nohy. Sedel na koni ani nejaký orabovaný kozák. Bendeguz v   nemotorných čižmáth svojho zbrojnoša nevyzeral ani trochu k svetu a   na Gyulu účinkoval pohľad na tieto dve postavy tak smiešne, že často   musel zaostať a vybuchnúť smiechom, ktorý už začal omŕzať   Bendeguza.
     </tei:p>
     <tei:p>
@@ -1248,24 +1249,24 @@
     </tei:p>
     <tei:p>
      Škoda nových čižiem! Hoci sa sedelo na koňoch, čižmy boly za   krátkej cesty po hostinec tak nepekne doriadené, že nič nezostalo z   ich mladosti. Kráľovské mesto Debrecín v tom čase sa totiž podobalo   zablatenej plavárni, takže museli celú cestu preplávať. S Pištom bolo   celkom zle, i musel volať o pomoc, keď zapadol do bahna nad kolená.   Jeho síce vytiahli, ale jedna čižma mu tam zostala trčať a bola   nenávratne stratená. Pišta prišiel do hostinca ani druhý Jason   monosandalos
-     <tei:ref target="#N136"/>
+     <tei:ref target="#N136" />
      a tam sa potom odškodnili za   pretrpené trampoty posledných dvoch dní. Pišta si stiahol jedinú   čižmu a vyhodil ju von oblokom. So skríženými nohami sedel na lavici   ako nejaký Turek, usilovne popíjal z fľaše, pochutnával si na   klobásach a fajčil zo svojej fajočky. Jeho páni sklonili sa k nemu a   tiež tak po pansky sa správali. Pišta šiel do maštale a spal, oni si   sadli predo dvere a fajčili. Práve vychádzaly múzy z kolégia a   zvedavo okukávaly cudzincov. Zašepkaly si čosi do ucha. Menšie a   väčšie grupy sa shromaždily nablízku i v diaľke a čoskoro sa ushodly,   že to môžu byť asi tí cestovatelia, ktorých slávu roztrúbily skoro   všetky noviny. Ich individualitu noviny natoľko presne opísaly, že   študenti mali ľahkú prácu a originál hneď poznali. Keď sa popoludní   zase začínalo školské vyučovanie, milá školská mládež zastala si pred   hostincom a zaznelo prenikavé vivat z tristo päťdesiatich hrdiel,   ktoré sa pomaličky shromaždily. Mládež si žiadala vidieť   cestovateľov, ktorí vystrčili hlavy z obidvoch oblokov. Pri pohľade   na nich zaznelo trojnásobné hurrá. Bendeguz nevedel nič lepšieho   odpovedať, než že si dal natočiť plný pohár a potom ho s gestom vďaky   vyprázdnil. Mládež sa tým uspokojila a šla ďalej. Ako sa tým cítily   polichotené naše tri znamenitosti! A čo ešte mohly očakávať, až sa, a   la William Edward Parry z expedície na severný pól, vrátia so svojej   cesty prinajmenej s niekoľkými novými hypotézami! Bendeguz povedal   ešte sebe samému i svojmu kolegovi panegyrik, ktorý bol veľmi dobrý,   keďže bol ozvenou jeho najvnútornejšieho presvedčenia a jeho citov.   Večer nezameškali debrecínski kantori poctiť spevom význačných   cestovateľov. Bendeguz bol až k slzám dojatý, keď zanôtili Csokonaiho   Földiekkel játszó,
-     <tei:ref target="#N137"/>
+     <tei:ref target="#N137" />
      a umienil si, hoci bolo   nesmierne blato, navštíviť jeho hrob. Gyula ešte pol hodiny po   doznení spevu spieval: legdrágább kincs a szabadság
-     <tei:ref target="#N138"/>
+     <tei:ref target="#N138" />
      a Pišta: három csillag van az égen.
-     <tei:ref target="#N139"/>
+     <tei:ref target="#N139" />
     </tei:p>
     <tei:p>
      Ráno prišlo pre nich niekoľko pomaďarčených turčianskych   právnikov, aby ich predstavili celému togátskemu obyvateľstvu   ohromného kolégia a aby im ukázali nádheru, na ktorú je právom hrdý   každý skutočný kalvín. Bendeguz, hoci sa priznával k Formula   consensus helvetici,
-     <tei:ref target="#N140"/>
+     <tei:ref target="#N140" />
      mal toľko samostatného   úsudku, že sa mu zdal trochu prepiatym náhrobný nápis maďarského   Vergilia, Horáca a Ovidia, totiž Csokonaiho, podľa ktorého v nebohom   Csokonaim žila nie menej ako tá trojica rímskych básnikov, a,   prirodzene, spolu s ním bola i pochovaná. Gyulovi sa tu tak veľmi   páčilo, že hoci bol tvrdý luterán, prišiel do pokušenia dať si   našepkať náuku o predestinácii, ktorá by mu bola v Turecku ozaj dobre   poslúžila, Úfal sa i tomu, že svojou apostáziou prinesie jednotu   viery do ich malej cestujúcej spoločnosti, ale Pišta, ako tuhý   katolík, s nevôľou odmietol takú domnienku, hoci mu Bendeguz   predniesol vec odpoly žartom. „No, no, nič po zlom, môj milý Pišta,“   povedal mu jezuitský strojca prozelytov, „za to nič. Ja ťa chválim,   že si taký oddaný svojej viere: hoci máme rozdielne náhľady a dvojitý   Otčenáš, môžeme zostať jednotní a budeme i ďalej takí dobrí   priatelia, ako dosiaľ. Tá istá reč, jedna a tá istá srdečná láska k   vlasti a spoločný cieľ spája nás predsa bratsky do trojlístku.“ O   takýchto ľudí (pripomíname to mimochodom, aby sme túto históriu   urobili aj pragmatickou a seba eo ipso priradili k Thukydidovi)   netreba sa báť, že by sa v Turecku dali obrezať, zriekli sa požívania   vína, vrátili sa ako renegáti do Turca a zaviedli mnohoženstvo pri   nebeskom pohľade tamojších rozkošných krásavíc.
     </tei:p>
     <tei:p>
      Musíme sa ponáhľať, i keď dejiny pobytu v Debrecíne nepodáme ako   zaokrúhlený celok, a Philocallia nech hovorí v § 249, čo sa jej páči,   našich cestovateľov ďalej pohnať, lebo nakoniec by nám mohly uplynúť   najkrajšie mesiace ešte prv, než by sme ich premiestili za hranicu.   Sedmohradsko musia tiež navštíviť, aby sa soznámili s tamojším   nárečím, o ktorom vedeli iba o jedinom rozdiele, že tollvivő
-     <tei:ref target="#N141"/>
+     <tei:ref target="#N141" />
      tam značí toľko, ako jegyző
-     <tei:ref target="#N142"/>
+     <tei:ref target="#N142" />
      v Turčianskej stolici. Jednako sa im zdala reč   Sikulov preto príbuznejšia prareči Maďarov, že bola o dobrých   šesťdesiat míľ bližšia k prasídlu Maďarov, ako skomolené nárečie s   tamtej strany Dunaja, ktoré nesvedomite pribralo toľko rakúskych   slov.
     </tei:p>
     <tei:p>
@@ -1293,21 +1294,21 @@
     </tei:p>
     <tei:p>
      Z Veľkého Varadína vedie cesta do Sedmohradska cez Királyhágó.   Cisár Jozef II. veľmi sa zaslúžil o Bendeguza a spoločníkov, ako i o   tisíce tisícov tým, že dal vybudovať cestu cez tento Balkán. Ach,   keby bol dal vyničiť i zbojníkov ktorí sa tu zdržujú. Naši rytieri   mali i tak všetok rešpekt pred Valachmi, bývajúcimi v tom okolí. Čo,   keby tak vyrazili z niektorej húštiny! Gyula uznal za potrebné   pištole nabiť a byť v pohotovosti. Dve fľaše vína, ktoré každý   vydúchol, tiež vykonaly svoje. Pišta urobil koňom krížik, ako to   robieva každý nábožný kočiš, a modlitbou, v rýchlosti zo seba   vyrazenou, odporúčal sa do ochrany svojho svätého. Nemálo si na tom   zakladal, keď napokon medzi úzkosťou a nádejou šťastne dorazili do   Bánffyhunyadu. Možno i preto, že s času na čas a opätovne salvou   vystrelené pištole im konaly dobré služby ako nejaká strážna garda. V   Sedmohradsku ich ani zďaleka neprijali tak, ako očakávali. Dosť   chladne prijali ich úmysel, podľa všetkého z národnej žiarlivosti,   lebo sa obávali, že oni traja, tak, ako sú, zatienia Csomovu slávu.   Traja predsa viac vidia ako jeden a okrem toho môžu sa mu vyškriabať   na plece. Čím vyššie sa vystúpi, tým väčšmi sa rozširuje obzor, vo   vedeckom svete práve tak, ako vo fyzickom. To im dali pocítiť, a s   posmešnými bočnými pohľadmi, najmä v Kluži. Keď sa však dokonca   vydávali za Maďarov, zasmial sa im rovno do tváre Klužan starého   typu, a celá spoločnosť v kaviarni sa spolu s ním posmešne zasmiala.   Bendeguz by sa bol radšej videl na Hortobáďskej pustatine, než tu   medzi týmito Kalmukmi, ako ich trochu nejemne nazval vo svojom   oprávnenom hneve. „Čo vlastne myslíte?“ opýtal sa ich akýsi grobian.   „Reč takzvaných Maďarov vo vašom Uhorsku tak málo sa ponáša na   desiatu čiastku maďarskej reči, akou hovorí našinec, ako hoci vaša   slovenčina na maďarčinu od Steinamangera.“ „Na pánoch dobre vidno   (povedal ktosi z cechu učených v Písme, pravdepodobne profesor z   unitárskeho kolégia, Mezzofanti Sedmohradska), že sú z krajiny   podomových obchodníkov, ktorí zo Slovenska prenikajú k nám v celých   kŕdľoch ako jastrabi a zaopatrujú nás divotvorným olejom alebo   strižným tovarom. Ich prízvuk je vášmu taký podobný, ako jedno vajce   druhému. Môžem teda asi, s vaším dovolením, páni moji, i tak dôvodiť,   ako v tom evanjeliu služobná, keď pred ňou prisadnuvší si Peter   zaprel Pána Ježiša.“ Každé slovo bolo pre Bendeguza ako pichnutie   dýkou, ktoré poranilo nielen jeho pericardium, ale cez pravú srdečnú   cievu vniklo mu až do ľavej srdečnej komory, pre Gyulu však ako   obliatie vrelou vodou, ktoré mu oparilo celé telo. Boli by sa radi   odtiaľ vytratili, keby sa to bolo dalo príhodné urobiť, lenže na   tento večierok ich pozvali. Čo mali urobiť? Poddať sa, prezradiť   svoju namrzenosť? Urobili bonne mine au mauvais jeu,
-     <tei:ref target="#N143"/>
+     <tei:ref target="#N143" />
      a museli text ďalej počúvať. „A kde vlastne   chcete ísť, páni moji?“ spýtal sa shovorčivý znalec Písma. „Máte   dobre ujasnené, čo chcete? A kde teda predpokladáte, pro primo,
-     <tei:ref target="#N144"/>
+     <tei:ref target="#N144" />
      prasídla našich otcov? A, pro secundo,
-     <tei:ref target="#N145"/>
+     <tei:ref target="#N145" />
      kde sídlili naposledy, pred príchodom do   Užhorodu? Lebo, páni moji, to sú dve celkom rozdielne otázky.   Prisťahovali sa sem z Atelkuzu, či z Uralu? Bývali kedysi na Urale,   či na Kaukaze alebo v Iguhrii? Viete vy, čo je fínsky svet? Ak, nota   bene,
-     <tei:ref target="#N146"/>
+     <tei:ref target="#N146" />
      veríte, že Maďari mali tam svoje   prasídla. Študovali ste Horváthove Rajzolatok, a piaristu   Deserviciusa? Viete asi dobre, čo vyčítal Peter Veľký Fraňovi   Rákóczimu, kým žil v Poľsku: že Maďari sú jeho poddaní, lebo sa   vykradli z jeho provincie Juhrie. Áno, páni moji, tak treba vec brať   a so všetkých strán ju pozorovať, dobre vyvariť a pretrepať.   Predovšetkým je však potrebný zrelo premyslený plán, a ten ťažko   možno navrhnúť, keď niekto nie je doma v zemepise, miestopise a   chronológii, teda i v astronómii, a predovšetkým v dejinách, ako vo   všeobecných, tak i v dejinách jednotlivých ázijských národov, najmä   Kirgizov, Turkmenov, Tatárov, Fínov a Laponcov.“ Chudákovi   Bendeguzovi vlasy dubkom vstávaly, keď ten človek povyťahoval tieto   učené veci. „Ako to zamýšľate vykonať,“ pokračoval ďalej, „aký plán   cesty ste si vlastne spravili?“ Bendeguz si odkašlal, prv než   odpovedal, že z istých dôvodov sa vzdajú ďalšej cesty Sedmohradskom,   a hneď pôjdu cez Mehádiu do Oršovy. „Tam, ku katovi,“ zamrmlal pisár,   zamestnaný na guberniu, ktorý sa tiež chcel zúčastniť na rozhovore,   „do Oršovy? Chcete si zvoliť pravdepodobne najkratšiu cestu, hehehe!“   „Aj na to máme svoje príčiny, ktoré nie sme povinní vysypať každému   posmešníkovi,“ povedal uštipačne Bendeguz. „To sú naozaj číri   tajnostkári,“ povedal ktosi, vyklepávajúc si fajku. „Pre našinca to   nie je také veľké tajomstvo, ako si myslia istí páni. K nášmu   Szőllősimu chcete ísť? Nie je tak, k nášmu Szőllősimu?“ „Nikdy som   nepočul o nijakom Szőllősim.“ „Ale predsa o istom agovi Selimovi,   ktorý na inú vieru prestúpil? Ó, ja ho dobre poznám, som s ním v   rodine. Ab anno 1809
-     <tei:ref target="#N147"/>
+     <tei:ref target="#N147" />
      nie je on už Szőllősi. A   čo chcete u neho?“ „To je naša vec.“ „Aj tak dobre, ale čo chcete   ďalej robiť?“ „Myslíme, že bude najistejšie tak cestovať, keď najprv   vyhľadáme Csomu v Tibete, aby sme sa od neho poučili a dozvedeli…“.   „Kde má syn Kíšov hľadať oslice?“ pretrhol reč unitár otázkou a   srdečne sa zasmial na vtipe, ktorému však nikto zo spoločnosti   nerozumel, lebo okrem neho nebolo tam nijakého teológa. „Ďalej!“   ,.Potom,“ povedal Bendeguz, „Atelkuz sa už dá nájsť. Keby sa tam nič   nenašlo, urobí sa odbočka na Ural, kde, aspoň ja celkom iste, dúfame,   že nájdeme, čo práve hľadáme.“ „Veľmi pekne!“ odpovedal posmievač,   obzrúc sa dookola s figliarskym úsmevom, „a čo myslíte, za aký čas   budeme mať zase to potešenie, stretnúť sa s vami?“ ,.Pán môj, to   potešenie už nebudete mať,“ odvetil namrzený Bendeguz, ktorému už   dochádzala trpezlivosť, „ale domov prídeme celkom istotne okolo   Nového roku.“ „Ak, páni, pôjdete ako doteraz i ďalej na svojich   mršinách, je naozaj možné, že sa okolo Nového roku, ale určite o dva   roky, vrátite domov. Zatiaľ môžete, páni moji, pekne—rúče pomrieť, a   s vami je potom pochovaná všetka nádej, že sa vysliedia prasídla   Maďarov, hoci práve to je obľúbenou témou dnešných našich bádateľov v   dejinách. Ja ináč dávam za pravdu Széchenyimu a iným vlastencom,   ktorí myslia, že sa nemusí vždy vyvodzovať, odkiaľ sme prišli, ale   ako sme tu, a kam vlastne chceme ísť vedľa ostatných európskych   národov. Mi kell a magyarnak“?
-     <tei:ref target="#N148"/>
+     <tei:ref target="#N148" />
      Ako vidno,   unitár mal svoje lucida intervalla,
-     <tei:ref target="#N149"/>
+     <tei:ref target="#N149" />
      a tentoraz   správne hovoril. Istý cestujúci, ktorý to všetko počúval, nezdržal sa   a vyjadril svoju nerozhodujúcu mienku, ktorá bola celkom spôsobilá,   aby odradila od ďalšej cesty každého iného, ktorý menej rojčil za   maďarčinu ako naši rytieri Šťasteny. „Zdá sa mi,“ povedal, „že je   celkom márna námaha, kdekoľvek na zemskom obvode znovu nájsť ľud,   ktorý kedysi bol Maďarom rečove a kmeňove príbuzný.“ „Nová   heterodoxia, čujme ju!“ povedal teológ. „Ja sa naproti tomu odvažujem   tvrdiť,“ povedal istý mladý pán, „že my svojich predkov zase nájdeme   na celom zemskom obvode, keď sa chytíme Ariadninej niti, myslím   dejín. Nečítali ste Rajzolatok Štefana Horvátha?“ „Oj, áno, spolu s   Philisterianami,“ doložil tamten, „ale jednako zostávam pri svojom   tvrdení.“ „A to prečo?“ „Preto,“ povedal cudzinec, „že zo slovníka,   ktorý kedysi horda pod Arpádom priniesla so sebou do Uhorska, zostalo   práve len to,—čo im Dankovský vo svojom slovníku ponechal. No, a z   týchto chudobných omrviniek naozaj nemožno utvoriť nijakého   spoľahlivého ukazovateľa cesty, ktorý by mohol i ten najjemnejší nos   priviesť na stopu nejakého pranároda. A keby sa predpokladalo, že   Arpád so svojimi spoločníkmi hovoril tou rečou, ktorou sa dnes hovorí   v Kluži alebo Šahách, v Karcagu alebo Alacke, bolo by sa treba pekne   poddať a bez ďalšieho ocitnúť sa v príbuzenstve s Rusmi, Poliakmi,   Čechmi, Rácmi, Chorvátmi a Rusnákmi, ba i s Nemcami, lebo je predsa   jasné, že materiál maďarskej reči je čisto slovanský.“ „Quod erat   demonstrandum,“
-     <tei:ref target="#N150"/>
+     <tei:ref target="#N150" />
      zvolal niekto zo spoločnosti.   Tak sa rozveselil nad tým paralogizmom, že niektorí zase spustili   zdvihnutú päsť, ktorou chceli rukolapne vyvracať omyly toho   vlastizradcu. Sprosté žarty, ktoré ten hlupák adresoval na   prostorekého človeka, zdaly sa im pre neho dosť pokorujúcimi, a   všetci sa spokojne rozišli, keď ktosi vyriekol záver: Vidno, že je   pán všetkým inším na svete, ale Maďarom vôbec nie. Nad týmto žartom   jasal každý, kto sa menoval vlastencom, a všetci šli spať. Bol už   veru najvyšší čas urobiť koniec táraniu, lebo hlásnik práve vyvolával   jedenástu hodinu.
     </tei:p>
     <tei:p>
@@ -1332,7 +1333,7 @@
     </tei:p>
     <tei:p>
      S týmito peknými snami, ktoré ich čarovne opantávaly pri   otvorených očiach, kolegovia si ľahli a obidvaja ďalej bdejúc   snívali. A prevracali sa v posteliach, hoci si tam náhodilá ženská   ľahla a neusporiadala ani istú poľovačku. „Nespíš?“ opýtal sa Gyula   kamaráta spoluspáča. „Ani ty nespíš?“ opýtal sa Bendeguz a zároveň si   odpovedal. „Neviem“ povedal Gyula, „čím by som si skrátil dlhú   chvíľu.“ „Ja som myslel práve na svoju ženu,“ povedal Bendeguz.   „Magna ingenia conveniunt,“
-     <tei:ref target="#N151"/>
+     <tei:ref target="#N151" />
      odpovedal Gyula so   smiechom, „myslel som práve na svoju Susettu. Neviem, ale pochytila   ma akási clivota za domovom a istá túžba, ale ma nevysmej!“ „Neviem,   čo by bolo na tom smiešneho. Viem, ako mi je pri srdci, keď si   pomyslím na svojho malého Lehela a na svoju Etelku.“ „Myslím, že sa   tieto hnutia môjho vnútra dajú vysvetliť naničhodným zaobchádzaním,   ktorého sa nám dostalo medzi týmito ľuďmi.“ „Veru áno, z takejto   atmosféry človek túži vyjsť na čerstvý vzduch, človek by bol   náchylný, hneď sa obrátiť zpät, keby mal vždy dočinenia s ľuďmi tohto   druhu.“ Pre pánajána, ako je človek hneď hotový pre niekoľkých   zatratiť všetkých. Kluž je predsa ozajstné vlastenecké mesto, ktorému   práve tak leží na srdci jeden a ten istý cieľ, ako Belej na Spiši,   Sarvašu, Komlóšu a nášmu milému Blumentálu spolu s Lubelou. Naši   rytieri však boli už raz zaslepení, a keď boly kone podkované, už aj   sadali na ne.
     </tei:p>
     <tei:p>
@@ -1343,7 +1344,7 @@
     </tei:p>
     <tei:p>
      Za nočného rozhovoru jeden z nich v oprávnenom hneve utrúsil   niekoľko slov o ohni a hromade popola, ktoré markér zachytil.   Podozrenie i tak padalo na cestovateľov a markér sa poponáhľal   oznámiť, čo počul, policajnému poručíkovi, ktorý nelenil a zaujal sa   verejnej bezpečnosti. Oheň uhasili a zatvorených podrobili novému   výsluchu. Odvolali sa na svoje zemianstvo, ale s tváre sa im to   nedalo vyčítať, a preto bolo rozhodnuté opýtať sa na to na príslušnom   mieste. Zatiaľ mali obvinení zostať vo väzbe. Medzitým už na tretí   deň zistili skutočného páchateľa a tak sa poponáhľali nevinných   vypustiť, pri čom ich veľmi zdvorilo poprosili o prepáčenie. Bendeguz   a Gyula boli príliš hrdí, než by stratili čo len jediné slovo;   opovržlivo pozreli na municipalitu a Pišta si urobil žart, nadávajúc,   že si jeho páni podobnú urážku len tak vstrčia do vrecka. „Všetko má   svoj čas,“ odpovedal mu na to jeho pán a ponáhľal sa preč; ostatní za   ním. Z najbližšej stanice odoslali na mestský magistrát ďakovný   prípis, ktorý si páni, ako povedal Gyula, iste neuložia do archívu.   Podržali si i právo toto nezákonné konanie sua forma
-     <tei:ref target="#N152"/>
+     <tei:ref target="#N152" />
      potrestať.
     </tei:p>
     <tei:p>
@@ -1380,7 +1381,7 @@
     </tei:p>
     <tei:p>
      Gyula neúmyselne nasadil Pištovi chrobáka do hlavy. Odteraz ho   často mučila tá strašná myšlienka, že by tiež mohol, podľa   doterajších skúseností, prísť do podobného položenia, že by ho jeho   páni mohli práve tak dobre predať, aby sami seba chránili v čas   núdze, ako ho odsúdili, aby namáhavú cestu pešo konal a okrem toho   ešte i sedlo vláčil. Na takých sebcov nemohol sa teraz riadne   spoľahnúť. Keby sa dostali do najkrajnejšej núdze, nemal by už v   tejto časnosti nikdy viac vidieť ženu, deti? Mal slúžiť nejakému   pohanovi ako otrok, alebo nebodaj, mal sa dať obrezať? Neprezradil   svoje obavy, ale také a podobné myšlienky mu vŕtaly v hlave a   nechýbalo mnoho a bol by s kmotrom odtiaľ zutekal. Gyula mu však   sľúbil pro fidelibus servitiis
-     <tei:ref target="#N153"/>
+     <tei:ref target="#N153" />
      jedno sedliacke   sedenie a niečo takého nebolo na zahodenie. Zištnosť tentoraz ešte   prevládala nad túžbou po domove a strachom. Poslal svojim deťom dary,   jednému dreveného koníka, druhému za dva groše sladkého koreňa.   Bendeguz poslal manželke vejár a deťom harmoniku, spolu s párom   čižiem z červeného kordovánu. Aj Gyula pamätal na svoju Susette a   poslal jej po olejkároch turecký šál. Pišta prelial celú rieku sĺz,   keď sa lúčil s kmotrom, a obidvom pánom bolo tiež ťažko okolo srdca,   keď sa v ten istý čas odlúčili od krajanov, i od vlasti. Dlho šli   zamyslení, a najmä Pišta. Ach, jeho by nebolo možno potešiť, nech   nezamlčia pred ním, čo im rozprával aga o Arnautoch, ako sú pre nich   neisté cesty, ako sa raz tu, raz tam, a to i na miestach, kde by ich   najmenej očakávali, zjavia ozbrojení a vraždia a pália.
     </tei:p>
     <tei:p>
@@ -1411,9 +1412,9 @@
     </tei:p>
     <tei:p>
      Teraz bola dobrá rada drahá, čo majú robiť. Majú ďalej cestovať a   ísť rovno do nebezpečenstva, kde ich pohlušia alebo sa dostanú do   zajatia, či sa s nevybavenou vecou vrátiť zpät a vystaviť sa   posmechu? Divan sa shromaždil v maštali a Pišta navrhoval to druhé,   vynaložiac celú svoju výrečnosť. Oproti tomu Bendeguz bol pevne   odhodlaný .pred hanbou dať radšej prednosť smrti alebo otroctvu.   Gyula, nedbajúc ináč veľa na Júlovú revolúciu, pridŕžal sa systému   juste milieu
-     <tei:ref target="#N154"/>
+     <tei:ref target="#N154" />
      a hlasoval za to, keďže tu vraj   nevidieť ešte nijaké ohne, aby sa preniklo aspoň po Bukurešť, kde by   sa počkalo na vývin veľkej drámy. Bendeguz si pomyslel, qui habet   tempus, habet vitam,
-     <tei:ref target="#N155"/>
+     <tei:ref target="#N155" />
      a súhlasil s Gyulom tým   radšej, čím väčšmi dúfal, že sa zmení smýšľanie Pištovo, ktorý sa   chcel zpät vrátiť a ich nechať v kaši. Myslel, že sú pri zrejmom   nebezpečenstve dostatočne slepí, aby vbehli Arnautom do pazúrov, a   jeho, starého človeka, nechali odvliecť na jatku. Aj Pištovi sa páčil   Gyulov návrh, z čoho pre nás plynie poučenie, že si Lafayette môže   hovoriť čo chce, a Odillon Barrot ešte viac, že sa však predsa len   najlepšie vychádza so juste milieu. Keby sa museli vzdať svojho   úmyslu, získal by Pišta aspoň toľko, že sa bude môcť pochváliť, že   videl Bukurešť. Po skončení konferencie sa rozlúčili a Bendeguz si   vyprosil od pohostinného bojara ten priateľský sľub, že keby azda v   týchto nepokojných časoch musel utekať, bez všetkého príde k nemu do   Turca, kde istotne môže rátať na také dobré prijatie, aké mal raz   kráľ Bela u jeho praprastarého otca. Bojar sľúbil, že keby až k tomu   došlo, že by musel až do Turca utekať, zastaví sa u neho. S tým sa   rozlúčili ako najlepší priatelia.
     </tei:p>
     <tei:p>
@@ -1421,9 +1422,9 @@
     </tei:p>
     <tei:p>
      Slnce zapadlo a naši traja páni poháňali svoje kone, lebo naokolo   nebolo vidieť nijaké hniezdo, kde by boli mohli prenocovať. Cesta sa   z doterajšej rovnej čiary rozchádzala a keď prišli na miesto, kde   chceli zahnúť doľava, naraz zbadali v diaľke, ktorú odhadovali na   polhodinu, oblak prachu, ktorý sa čoraz väčšmi približoval. Naši   hrdinovia stŕpli a každému z nich by bolo dobre urobilo seknutie   žilou. Čo inšieho to mohlo byť ako jazda pritiahnuvších povstalcov.   Pišta sa nazdával, že vidí, ako sa ich zbrane lesknú v odblesku   zapadajúceho slnka. Každý si vykreslil niečo strašného, ako mu to   podávala jeho obraznosť. Úzkosť bola čoraz väčšia. Keď napokon prišli   k húštine, uznali za lepšie zaliezť do nej a búrku nechať prejsť   popri sebe. Oblak prachu mohutnel a nebezpečenstvo sa čoraz väčšmi   približovalo. Zdalo sa, že sa oddiely pomaly hýbu. Na čele videli   niečo, čo sa ponášalo na jazdca, a niečo sa mu blýskalo v ruke, ale   zreteľne sa nič nedalo rozoznať. Potom počuli už aj hlas veliteľa, čo   znelo ani po turecky. Napokon sa sprievod natoľko priblížil, že bolo   zreteľne počuť ako vodca dobre po slovensky rozkazoval, aby zadnú   časť lepšie poháňali, lebo čoskoro bude noc a majú pred sebou ešte   hodný kus cesty, a vraj si aj myslí, že tu nie je bezpečne. Našim   ľuďom búchalo srdce. „Čo to znamená?“ opýtal sa Bendeguz potichu, a   Gyula mu práve tak odpovedal: „Myslí asi na zadný voj.“ „Ale odkiaľ   vie po slovensky?“ „Arnauti sú slovanský ľud, alebo aspoň ako susedia   Slavóncov mali príležitosť naučiť sa dostatočne po slovensky.“ Teraz   začal zástup, obkľúčený oblakom prachu, celkom blízko nich   pochodovať. A, koľká to radosť, skoro naraz všetci poznali v jazdcovi   bohatého mäsiara z ich susedstva a s krikom sa vyrútili z húštiny.   Mäsiar sa nazdával, že ide o zbojnícky útok, vystrelil z pištole, ale   na šťastie nikoho nezasiahol, a naskutku zdvihol i fokoš na svoju   obranu. Ani nevedel, čo sa robí, keď ho Bendeguz zavolal po mene, a   keď ho zazrel, poznal urodzeného pána zo Žebrákovíc. „Nuž, či ste to   vy, pán urodzený? Hľa, ako vás mohou človek obkaličiť! Kde sa tu   beriete? Skôr by som sa bol nazdal, že tu zazriem svojho nebohého   otca, ako vás. Ej, ej, aj vy ste tu?“ zvolal na Gyulu. „Pišta, milý   môj priateľ, pozdrav ťa Pán Boh! Ej, ej, to by sa mi ani vo sne   nebolo zazdalo! Naozaj neviem, čo mám na to povedať. Naozaj nechcem   myslieť, že páni kupčia s baranmi, hehehe, a na inšie neviem na čo   myslieť.“ Pomaly a navzájom sa dorozumievaly obidve strany. Strašní   arnautskí jazdci premenili sa na päťsto valašských baranov, za   ktorými nasledoval menší transport asi tristo kusov, ktoré ten človek   nakúpil za Bukurešťou a teraz viedol do Uhorska, aby nimi zásobil   celý Turiec. Sprievod končili dvaja mäsiari z Podolínca, ktorých si   pribral za pomocníkov. Tí pribehli na výstrel a boli by sa riadne   bili, keby im náčelník nebol včas vec vysvetlil. „A vy, páni, kde   chcete byť ešte dnes?“ spytoval sa mäsiar. „To práve ešte sami   nevieme, kde nájdeme nejakú krčmu, tam zostaneme.“ „To sa, páni, dnes   budete nadarmo ustávať. Neradím vám to, lebo tu je veľa mrcha ľudí,“   ako sa vyjadril. „Čo teda máme urobiť?“ „Obráťte sa a prenocujte s   nami pod holým nebom. Spravíme si dobrý deň. Mäsa máme dosť. Bol to   poriadny baran, ktorý sa odvážil na iných dvoch, ale mi okrivel a tak   som ho musel zarezať. Výborný gulyáshús,
-     <tei:ref target="#N156"/>
+     <tei:ref target="#N156" />
      uisťujem vás!“ Kto bol radšej, ako páni, že noc strávia isto a bez   nebezpečenstva, a okrem toho sa dosýta budú môcť najesť v okolí, kde   okrem mamaligy nič iného nebolo dostať. O pol hodiny zastali. Stádo   sa páslo pod dozorom honcov, ktorí v noci zamieňavo strážili. Pod   touto ochranou boly isté aj kone. Jedlo pripravili v prenosnom kotli   a o toľko žiadostivejšie siahli po ňom, o koľko ho dlhšie videli   variť sa. Spoločnosť si posadala okolo ohňa a Pišta v duchu rojčil o   turčianskych lúkách a lesoch kde často takto trávieval noci. Veľmi   nástojčivo sa vyptoval, aké sú ďalej cesty, či sa naozaj tak   nebezpečne cestuje, ako sa hovorí, aké ťažkosti by mohly na nich   prísť, atď. Obraz, aký mu nakreslil jeden z honcov, ktorého tete a   tete examenoval,
-     <tei:ref target="#N157"/>
+     <tei:ref target="#N157" />
      nebol práve súci, aby mu dodal   odvahy. Počul, ako je človek na každom kroku v nebezpečenstve, že ho   nejaká zbojnícka banda orabuje a zahluší, že je strava veľmi biedna a   horúčosť na nevydržanie. Kto vraj nie je navyknutý na tento kraj,   nech je len na to pripravený, že si prinesie domov neznesiteľnú   horúčku, ak vôbec nesloží kosti v Turecku. On sám sa s takou horúčkou   dva roky vláčil po svete, po tom, čo zostal ležať u Milosrdných v   Strážoch, lebo v košickej nemocnici nemohol dlhšie vydržať pre hlad.   A keď počul, že Pištovi páni chcú ísť až cez Čierne more, radil mu,   aby svojej žene po ňom odkázal svoju poslednú vôľu, lebo na návrat sa   nedá ani myslieť. On sám bude veľmi rád, keď sa vráti domov a bude sa   chrániť tretí raz sa podívať za Tisu, aj keby mu darovali celý tento   kŕdeľ, tak, ako je tu.
     </tei:p>
     <tei:p>
@@ -1465,12 +1466,12 @@
     </tei:p>
     <tei:p>
      Gyulovi sa za dlhého pochodu zdalo, ako by bol počul jednotlivé   maďarské zvuky. Ach, pomyslel si, bola to asi len šiaľba mojej   fantázie, lebo „čo sa babe chtilo, to sa babe snilo“. Keď sa však   dvaja chlapci s knihami pod pazuchou začali ruvať a keď premožený   privolal víťazovi: „Megállj, szamár, majd megmondom a rektor úrnak!“,
-     <tei:ref target="#N158"/>
+     <tei:ref target="#N158" />
      všetkým trom poskočilo srdce od radosti.   Bendeguz sa náhlivo spýtal chlapcov, či sú Maďari. „Áno!“ zaznelo   odrazu z desiatich hrdiel. Prešťastní zatknutí nechceli veriť svojim   ušiam a ich radosť, ktorú pocítili, bola nesmierna. Ach, ale tá hneď   zmizla. Prišli pred kriminálnu budovu, kde práve boly na oštepoch   vystavené hlavy troch popravených. Bol to strašný pohľad pre našu   trojicu. Každému z nich sa zdalo, že tam vidí svoju vlastnú hlavu,   lebo nevedeli, čo môžu očakávať od tureckej spravodlivosti. Pišta   sotva vládal sosadnúť, keď ich viedli k ispravnikovi, ktorý ich dal   odviesť do väznice, lebo mal práve u seba vznešenú spoločnosť.
     </tei:p>
     <tei:p>
      Nechajme teda svoju mnohoskúšanú trpezlivosť prahnúť jednu noc vo   väznici a Pištu dvanásť nekonečne dlhých hodín skoro bez sna stráviť   medzi strachom a nádejou,“ lebo kedykoľvek začal driemať, už aj stály   pred ním tri krvavé hlavy. Bolo ho počuť striedavo vzlykať, stenať a   vrieskať, nedal sa vôbec ničím potešiť. Bendeguz mal i pri svojich   úzkostiach toľko rozvahy, že sa vedel shovárať s Gyulom o včerajšom   objave. „Je to možné, že sme tu, v krajine neveriacich, skutočne   objavili svojich rečove príbuzných? Lebo naozaj, ja to môžem tým   istým, ba ešte väčším právom nazvať objavom, ako si Kolumbus   osoboval, že on objavil Ameriku, čo som si ešte z Gemera veľmi dobre   zachoval. Bolo dané niektorému smrteľníkovi pred nami urobiť tento   objav v Bukurešti? Kým pred Kolumbom bolo to už mnohým dané a za nimi   mu len stačilo ísť. „Mal už isté stopy a na tých založil svoju   domnienku. My však sme prišli do tohto tak nevinne, ako Pilát do   Kréda. Bertold Schwarz k svojmu pušnému prachu a iní k svojim   vynálezom a objavom.“ „Bendeguz, hovoríš ako z knihy, rozvíjaš tu   takú učenosť, akú by som u teba nikdy nebol hľadal.“ „Nabok s   lichôtkami. Predo mnou sa však trbliece nádej, keď si pomyslím na   bijúcich sa školákov, že tam, kde sa ešte maďarsky hovorí, nemáme sa   čo obávať. I tu musí predsa vládnuť Boh Maďarov a na neho sa   spolieham. Pišta, spíš? Ako môžeš byť taký malomyseľný, akže veríš v   Pána Boha? Nepoznávaš v týchto Maďaroch našich bratov? Áno, mám chuť   veriť, že sme možno už dosiahli cieľ svojich túžob a že sme už tam,   kde sme chceli ísť. Načo my máme ísť až k Volge, keď máme všetko, čo   hľadáme, pred nosom?“ „Ja tomu pravdaže neverím, a to by znamenalo   vieru príliš prepínať.“ „To som nevedel“, odpovedal Bendeguz, „vari   by to bol prvý prípad, kde ľudia pre samé stromy nevidia les? Čo   všetko vo svete nevidíme jedine preto, že to máme pred nosom? Áno,   opakujem, mne sa zdá, že sme pri cieli svojej cesty. (Pišta si   vzdychol.) Naozaj neviem, prečo by sme s takýmto dôležitým výťažkom   nemohli domov tiahnuť. Preváži to tak mnoho iných zpráv, ktoré   roztrúbia cestovatelia. Našej zpráve rozhodne patrí prvá strana v   Magyar Kurire, Jelenkore, Tudományos Gyüjteményi, v almanachoch   Akadémie, v Tudománytáre, Magyarországi Minerve, v Kritkai Lapok, v   Aurore, nepriateľskej im obidvom, a ako sa všetky tie haraburdy   volajú. Uvidíš, všetky chvatne siahnu po tom, ako malé dieťa po   hračke, a naša sláva je hotová. Len čo budeme na slobode (Pišta si   vzdychol), na čo mám najpevnejšiu nádej, soberieme sa a zašleme svoju   druhú a pravdepodobne aj poslednú zprávu do Tudományos Gyüjteményu. A   teraz dobrú noc!“ Gyula už odpoly spal a obidvaja by boli na pokoji   spali, keby Pišta, ktorého zlé vízie ľakaly, nebol s času na čas   vyskakoval ako bez rozumu. S tým je zle, pomyslel si Bendeguz, ak mu   nepomôže seknutie žilou. Ráno musím mu dať odčapovať trochu krvi, to   je nevyhnutné. Ráno ešte spali, keď im dvere väznice otvorili a   oznámili, že sú slobodní. Pre Pištu to bolo miesto akéhokoľvek   seknutia žilou. Vyskočil, pomodlil sa krátku modlitbu a šiel za   svojimi koňmi. Hospodár sa dopočul o ich uväznení, dal si vyrozprávať   celý prípad, zistil, že je pas správny, keďže uznal za dobre   rešpektovať podpis agu Selima z Oršovy, nakoľko nota bene
-     <tei:ref target="#N159"/>
+     <tei:ref target="#N159" />
      vtedy Hospodár ešte nebol potvrdený vo svojej   hodnosti od Vysokej porty. Pas im vrátili s návodom, aby sa obrátili   na rakúsky generálny konzulát, ak chcú pokračovať v ceste nerušene a   bez podobných nepríjemností. Mohli si nájsť byt podľa vôle a s tým im   vypovedali nočné ubytovanie. Boli ešte takí ochotní, že im ukázali   hostinec, v ktorom síce museli zaplatiť za drahý účet, ale bojarom   ich druhu, ktorí iste majú peniaze, bolo ľahko niečo takého oželieť,   len keď ich obslúžia podľa ich stavu. Tam našli nemeckého čašníka, s   ktorým sa Gyula dal do rozhovoru. Horel túžbou dozvedieť sa, ako je   tu s maďarskou rečou, a teraz spolu s Bendeguzom veľmi rád počul, že   je tu veľký maďarský sbor, omnoho väčší ako obidva maďarské sbory v   Pešti, ktoré vraj majú len jedného farára a učiteľa. Gyula zpočiatku   nebol ochotný všetko veriť, ale rozprávanie čašníka, ktorého by bol   chcel vybozkávať, bolo také podrobné a pritom nepredpojaté, že už   nepochyboval o správnosti jeho výpovede. Teraz si už nič túžobnejšie   neželal, ako navštíviť pána farára a na vlastné oči a uši sa o tom   presvedčiť. Bendeguz už ako chlapec mal dosť rozumu, aby pochopil, že   Tomáš nebol tak celkom v nepráve, keď požadoval rukolapné a očividné   dôkazy pre Ježišovo zmŕtvychvstanie, akže mal v to uveriť.
     </tei:p>
     <tei:p>
@@ -1494,7 +1495,7 @@
      32. Que faire?
     </tei:head>
     <tei:p>
-     <tei:ref target="#N160"/>
+     <tei:ref target="#N160" />
     </tei:p>
     <tei:p>
      A nemzeti nóta pereg.
@@ -1513,9 +1514,9 @@
     </tei:p>
     <tei:p>
      Teraz sa musel každý starať o svojho koňa. Rozmaznanému Gyulovi to   nebolo milé, ale Bendeguz si nič z toho nerobil a ochotne obidvom   koňom donášal vodu. Kým boli večer hore, jediným predmetom ich   rozhovoru bol neverný Pišta, ktorý zatlačil zatiaľ všetky z fary   prinesené city. O toľko včaššie šli spať, o koľko nepokojnejšia bola   predošlá noc, a ešte spali, keď už slnko vysoko stálo. Kone, žiaľ,   nespaly zároveň s nimi a musely sa postiť, kým Bendeguz nevstal a   neobliekol sa. Aj teraz usporil Gyulovi námahu. No stále tak nemohlo   byť. Bola len otázka, kde vziať takého sluhu, tu v cudzine, na   ktorého by sa dalo spoľahnúť. Hneď po raňajkách šli k farárovi a   oznámili mu svoje ťažkosti, ale ten im nevedel pomôcť. Poprosili ho,   aby sa prihovoril za nich u generálneho konzula, ale na svoje veľké   zhrozenie počuli, že ten odcestoval, aby užil morské kúpéle a že sa   sotva vráti včaššie, ako za šesť týždňov. „Nie, proti nám sa musely   sprisahať nebo a zem a všetky živly,“ bedákal Bendeguz, bijúc sa do   čela. „Jedna ťažkosť podáva druhej ruku,“ doložil Gyula. ,.Naozaj. už   naše doterajšie utrpenia by postačovaly na bohatú látku pre   jeremiádu.“ „Čo máme robiť?“ spytoval sa Bendeguz, chodiac hore a   dolu, s rukami založenými za chrbát. „Šesť týždňov máme naskrze   stratených!“, povedal Gyula. „A čo tu budeme tak dlho robiť? Alebo,   myslíte, pán farár, že sa dostaneme do Carihradu i bez pasu?“ „Páni   moji, najlepšou odpoveďou vám je predvčerajší prípad a myslím, že na   vlastnej škode možno zmúdrieť. Moja výstraha by vám bola preto celkom   zbytočná.“ Nastala prestávka, keď si farár šiel do svojej študovne   napchať do fajky. „Delibera cito, fac diu!“
-     <tei:ref target="#N161"/>
+     <tei:ref target="#N161" />
      povedal vstupujúc. „Rozumiete latinsky, páni moji?“ „Oj, áno, do nás   ešte vbíjali latinčinu, ale naše deti sa už nebudú s ňou trápiť.   Ľudia moji, ako sa časy menia! Kto by to bol uveril, že latinčina tak   neslávne skončí a že sa dožijeme šťastných čias, keď príde rad na   maďarčinu, aby tú vbíjali do našich detí, v školách aj mimo nich.“   „Áno, áno, bol už najvyšší čas prestať so starým šlendriánstvom.   Uhorsko sa so svojou latinčinou zosmiešnilo pred celým svetom. A   zatiaľ sa nedalo myslieť na nijakú národnosť, kým reč, ktorá sama   seba prežila, mala prednosť pred našou nebeskou materčinou. Malo by   sa však už konečne,“ pokračoval farár dosť prudko, „s celou vážnosťou   i na to pomýšľať, aby sme prekliatych Nemcov a Slovákov všetkých   farieb buď vyhnali z krajiny, alebo ich bez milosti a zľutovania   pretvorili na Maďarov!“ „Hovorili ste mi ako z duše, velebný pane,“   ohlásil sa Bendeguz, ,.a musím povedať na vašu potechu, že i v tom sa   napreduje, ako počúvame.“ „Túžim o tom počuť.“ „Čo výborného sa   uzavrelo, o tom viete, a s tým by som bol vcelku spokojný, je to   všetko pekné, čo snem urobil, ale ja by som chcel, aby sa vec ďalej   hnala. Preto musely pomôcť niektoré stolice, aby sa nezastalo na   polceste. Tu sa musí prekliatym Slovákom kázať po maďarsky; tam   dostanú povoľní učitelia isté vyznačenia. Celý Sarvaš chcú pomaďarčiť   pomocou milej školskej mládeže. Náš pán duchovný, ten mi môže všeličo   vyhútať, je to horlivý človek, nech ho len Boh pri zdraví udrží! A   vôbec Spiš dodáva dobrých Maďarov. Dobšiná, pane, kto by to bol   uveril, je seminárom pre dobrých maďarských farárov, profesorov a   učiteľov. Predstavte si len, velebný pane, v istej stolici, ktorej   meno som zabudol, zemanovi nič nepomáhajú jeho štyri náležité získané   hlavné slobody: musí svoje kuchynské účty viesť po maďarsky, ak mu   majú byť niečo platné ako hodnoverná obchodná kniha, ináč nie sú ani   toľko hodny, ako najobyčajnejšia makulatúra. Všetky úrady, až po   hlásnika nadol, ktorý iste nie je v bezvýznamnom úrade, a, akže   nezaspí, zasluhuje si viac úcty ako ten, ktorý vo dne vždy stráži —   ako hovorím, všetky úrady, podľa rozhodnutia jednej stolice, po istom   krátko vymeranom čase budú môcť zastávať len takí ľudia, ktorí   zabudli svoju materinskú reč.“ „Materinská reč, čože, materinská   reč?“ povedal Gyula nahnevano, „kdeže majú idegenajakuak materinskú   reč? Vo všetkých úradných spisoch je materinská reč totožná s   maďarskou rečou, ako by som ja mohol takto nerozumne hovoriť?“   „Lingua praecurrit mentem!
-     <tei:ref target="#N162"/>
+     <tei:ref target="#N162" />
      nemusíš sa preto tak   roztrpčovať. Teda, ako som povedal, po roku budete počuť v celej   krajine iba jedno a to isté maďarské nočné hlásenie, čo pre mňa nie   je také bezvýznamné, ako sa to zdá niektorým posmievačom. Jednota, i   keby záležala iba v strihu nohavíc, je tiež dobrá, je to prvý krok k   jednote v dôležitejších veciach. A počujte len, peštianske nemecké   divadlo sa tiež skôr či neskôr zmení na sklad uhlia pre naše parné   lode. V každom prípade stratí svoje určenie, keďže už sú tu také   uzavretia, ktoré nás oprávňujú na túto nádej. Odteraz sa už nestrpia   v krajine cudzorečoví potulní komedianti.“ „Áno, nech idú kopať alebo   žobrať,“ povedal pán farár, „a nás nech nechajú na pokoji so svojou   Máriou Stuartovou a so svojím zlodejským Elsterom. Náš Vérnász so   svojimi sto dukátmi preváži sto takých kusov, ako je Don Carlos a   Lumpacivagabundus.“
     </tei:p>
     <tei:p>
@@ -1523,7 +1524,7 @@
     </tei:p>
     <tei:p>
      Bol však už čas, aby mali jasno i vo veci svojho rozhodnutia.   „Delibera cito, fac diu!, to Vám opakujem, páni moji, vyvarte si tú   vec a podľa toho konajte. Do rána je dosť času a teraz nemôžete ísť   ďalej nijakým činom.“ Farár mal niektoré úradné povinnosti a poprosil   o prepáčenie. Oni sa sobrali do hostinca. Keďže tam pri jedení sem i   tam rozmýšľali, pri fľaši vína rezonovali,
-     <tei:ref target="#N163"/>
+     <tei:ref target="#N163" />
      debatovali, schvaľovali a zavrhovali, nakoniec sa rozhodli nastúpiť   zpiatočnú cestu.
     </tei:p>
     <tei:p>
@@ -1541,7 +1542,7 @@
      33. Tropicus capricorni. Pekný   návrat.
     </tei:head>
     <tei:p>
-     <tei:ref target="#N164"/>
+     <tei:ref target="#N164" />
     </tei:p>
     <tei:p>
      De most mar menni kell.
@@ -1557,11 +1558,11 @@
     </tei:p>
     <tei:p>
      O Pištovi sa nevyjadrovali pekne, keďže trojlístku chýbal celý   list a Gyulovi ťažko padlo hrať úlohu odbehnuvšieho darebáka. Ináč   šlo všetko podľa ich želania, až na maličkosť, ktorá sa musela   prihodiť, aby cesta bola zaujímavejšia. Čašník ich upravil cez   Tergovište do Brašova, a to by bola bývala najkratšia cesta do   Žebrákovíc. Hodinu pred potokom, oddeľujúcim Turecko od Sedmohradska,   začalo byť úzko našim hrdinom. V istej vzdialenosti, nedalo sa však   prezrieť celé okolie, videli postavené šiatre a tu a tam dym   vystupovať. Mohli celkom rozoznať kone, spolu s čiernymi tvárami, a   nevedeli, čo majú spraviť. Mysleli, že prišli medzi Tatárov a   Bendeguz vo svojej úzkosti by sa bol radšej zase vrátil, ale keď si   nasadil okuliare, jasne videl, koho má pred sebou. Bola to banda   valašských Cigánov, ktorí sa na svojom kočovníckom pochode utáborili   v tejto doline. Keď k nim došli, Bendeguz si pýtal ohňa, aby si dodal   zdania smelosti, ale. dôverne povediac, bolo mu úzko okolo srdca.   Hovoril maďarsky a dali mu maďarskú odpoveď. To bolo dobre. Pustil sa   s nimi do reči a opytoval sa ich na cestu do Sibína. Tu sa k nim   prikradla stará Cigánka, ale tá len valašský hovorila. Z jej tváre a   posunkov súdil, že mu chce veštiť z ruky. Nemohol jej to odmietnuť už   z politiky, a otrčil jej ruku. Oznámila mu pomocou tlmočníka, mladej   peknej Cigánky, ktorú Gyula s úľubou pozoroval, lebo našiel podobnosť   medzi ňou a svojou Susettou, také veci, ktoré zanechaly v ňom hlboký   dojem, lebo, čo hovorila o jeho domácich pomeroch, bola všetko pravda   a počúval ju s veľkým obdivom. Či sa nemal obávať, že i jej veštenia   budú pravdivé? Odkiaľ vedela, že Pišta ušiel? Mal vari na nose   napísané, že má dve deti? O Gyulovi povedala, že sa oženil a predsa   sa neoženil. Jedného i druhého pripravovala na mrzutosť, aká ich doma   očakáva. Jeden nenájde, čo by si želal, iný nájde viac, ako myslel.   Gyulovi trepala čosi o nastávajúcej svadbe a ešte iné podobné veci.   Veštici zaplatili a poobzerali sa trochu po tábore. Tu kľučala celá   rodina pri ohni a Cigánka sberala penu s hrnca. Dve dcéry fúkaly   mechy a patriarcha
-     <tei:ref target="#N165"/>
+     <tei:ref target="#N165" />
      bil kladivom na nebožiec. V   jednom šiatri ryli pečate. Jedna Cigánka plietla povrazy a   zurvalskému dojčaťu, ktoré jej čupelo na chrbte, prehodila cez plece   prsník, ponášajúci sa na vrecko s tlčou. Otec a syn narábali kladivom   a plátali panvy. Všade sa družilo zamestnanie a far niente.
-     <tei:ref target="#N166"/>
+     <tei:ref target="#N166" />
      Keď chlapi skončili svoju prácu, šiesti   zpomedzi nich pochytili husle a začali na nich vrzúkať. Každý tón   prenikal špikom a kosťami našich chorých za domovom. Bola to maďarská   nôta, akú len Bihary vedel správne zahrať. Bendeguz sa roztápal a   vybozkával driečnu brunetu, ktorú mu Gyula priviedol, aby s ňou   tancoval. Napokon hodil hudobníkom za hrsť piastrov k nohám. Potom   privádzali Cigáni svoje kone, aby ich napojili. Boly to vyschnuté   mršiny. Jedna z nich zaerdžala na Bendeguza, keď prechádzal popri   nej, a keď obrátila hlavu k Bendeguzovi, ten si ju všimol a poznal,   ó, divy, svoju Szikru in origine.
-     <tei:ref target="#N167"/>
+     <tei:ref target="#N167" />
      Malý Pogány   bežal vzadu. Bendeguz bol celý preč od radosti, ale musel byť ticho.   Šiel za malým kŕdľom až k blízkej rieke. Bendeguz a Gyula si boli vo   svojej veci istí a prvý bol rozhodnutý ísť až do krajností, dúfajúc,   že vo Valašsku možno nájsť spravodlivosť celkom tak, ako v Miškovci.   „Odkiaľ máte tú kobylu? Pekné zviera!“ „Za—čarali sme ju na poslednom   debrecínskom jarmoku,“ odpovedal cigánsky mladík. „Čo ste na ňu   doplatili?“ „Pekná otázka,“ odpovedal mladík, „zdá sa mi, že sa pán   veľa nerozumie do obchodu s koňmi.“ „Podľa toho, v akom stave bol váš   kôň.“ „My sme ho dva týždne predtým kúpili na jarmoku v Rimavskej   Seči za dvadsaťpäť zlatých a na kobylu sme doplatili štyridsať.“ „To   by teda bolo šesťdesiatpäť zlatých,“ povedal Gyula. „Keby sme sa   chceli s vami čarať, dáte nám ju za tamtoho beluša?“ „To by ste sa   museli opýtať môjho otca, práve tu ide.“ Predniesli mu svoj návrh a   on s ním súhlasil, ale iba za doplatok tridsať zlatých. Jednali sa   ešte naoko, ale Cigán nespustil a tak napokon čaru uzavreli. Bendeguz   neváhal Szikru osedlať a šli ďalej celí naradovaní. Keby bol chcel   uplatňovať pred vrchnosťou svoje nároky, pravdepodobne by sa nebol   dostal z veci s takou ľahkou kúpou. My v ňom znova poznávame múdreho   človeka, ako sme ho takého vždy poznali.
     </tei:p>
    </tei:div>
@@ -1612,16 +1613,16 @@
     </tei:p>
     <tei:p>
      Keďže si už naši rytieri, len čo prekročili v Sedmohradsku   hranicu, nepísali nijaký denník, ani vo verejných novinách už nič   nedali o sebe vedieť, autor tiež nie je povinný viac povedať, než čo   vie. Prejavil by málo životnej múdrosti, keby čitateľov zavádzal   cestovnými dobrodružstvami, ktoré sám vymyslel, a okrem toho by tým   knihu zdražil. Toľko vie naisto povedať, že Gyula nevidel nadarmo   peknú Podgorskú. Požiadal ju o ruku, lebo keď sa vrátil, zistil, že   mu Cigánka povedala pravdu: jeho Susette ušla totiž s učiteľom. Gyula   teraz šťastne žije ako ženatý a už sa nikdy nerozhodne, že si pôjde   hľadať stratených bratov. Bendeguzovi sa ešte horšie povodilo, a   našiel doma viac, než mu to bolo milé. Jeho žena sa mu zdala trochu   podozrivou, ale chcel mať s ňou strpenie. Podľa jeho rátania decko   prišlo na svet o celý mesiac neskoršie, ako je to možné na ľudský   spôsob, a ten desiaty mesiac mu vŕtal v hlave. Ale múdry farár vedel,   aby v platnosti udržal manželský mier, obrátiť jeho pozornosť na   sedemmesačné dieťa u jeho známych, presvedčiac ho o pravdepodobnosti   toho, že aj desaťmesačné dieťa môže byť autentické. Z dejín Bourbonov   mu však dodal príklad, kde príroda potrebovala jedenásť mesiacov na   to, o čo sa pri nás, obyčajných smrteľníkoch, pričiní iba za   sedem—deväť mesiacov. Dokázal mu aj z lekárskych análov, že takéto   anomálie (v manželstve, ako si myslel s jezuitskou reservatio   mentalis,
-     <tei:ref target="#N168"/>
+     <tei:ref target="#N168" />
      a v prírode, ako sa vyjadril)   odjakživa bývaly. Chlapec, ktorý prišiel na svet, bol okrem toho   zdatným udržovateľom kmeňa. Aj svedomie sa ozvalo v Bendeguzovi a   upamätalo ho na Lakeť a na peštiansky most. Preto pokladal za   potrebné: faire bonne mine au mauvais jeu,
-     <tei:ref target="#N169"/>
+     <tei:ref target="#N169" />
      hoci   sa domáca pani zjavila pri jeho príchode celá zarazená a muža prijala   chladnými slovami: „No, či ste už tu? Akože sa vám tam vodilo?“ Pišta   najviac získal na žarte, lebo páni dodržali slovo, a on si   bezstarostne žije vo svojej kúrii, ako nazval svoje sedliacke   sedenie. Ani raz neprejavil chuť, celú cestu od začiatku znova   zopakovať.
     </tei:p>
     <tei:p>
      Len čo sa roznieslo, že sa hrdinovia vrátili, pribehol farár,   sotva dych lapajúc a svoje otázky vysypal bez prípravy tak rýchlo a   jedno za druhým, že všetci traja mu nemohli na ne odpovedať. Zpráva   letela z obce do obce a ešte v ten istý deň večer shromaždili sa   všetci, ktorí sa lúčili s nimi pred štyrmi mesiacmi. Teraz nebolo   konca kraja jedeniu, pitiu a rozprávaniu. Za dobrých osem dní po   celom Turci nehovorili o inšom, ako o Bendeguzovi, Gyulovi   Kolomposovi a Pištovi Kurtaforintovi. Farár si zaumienil zachrániť   pamiatku na túto svetodejinnú výpravu pred zánikom tak, že jej   históriu vlastnoručne zapíše do análov svojho sboru. Svojim nástupcom   v úrade na srdce položí, aby túto pamiatku ústnym podaním s otca na   syna a najmä zo školy dolu medzi ľud rozširovali in omnia secula   seculorum.
-     <tei:ref target="#N170"/>
+     <tei:ref target="#N170" />
      Ak dá Boh nášmu Bendeguzovi zdravia   a života, dá sa očakávať, že bude pokračovať vo svojich objavoch, aby   sa v análoch vlasteneckej Akadémie videl zvelebený a zvečnený. Autor   ostatne takým čitateľom, ktorí by sa opovážili túto aventuriádu vo   svojom areopagu príliš prísno odsudzovať, dáva na uváženie tieto   slová, ktoré Goldsmith predosiela svojmu dielu Vicar of Wakefield:   There are an hundred faults in this thing, and an hundred things   might be said to prove them beauties. But it is needles. A book may   amusing with numerous errors, or it may be very dull without a single   absurdity.
-     <tei:ref target="#N171"/>
+     <tei:ref target="#N171" />
      V tejto veci je sto chýb a sto vecí   možno tak povedať, aby sa im priznaly krásy, ale to je zbytočné.   Kniha môže byť zábavná i s početnými omylmi, alebo môže byť celkom   sprostá, hoci niet v nej ani jedinej nemožnosti.
     </tei:p>
    </tei:div>
