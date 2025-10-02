@@ -186,6 +186,8 @@ declare variable $config:facets := [
                 case "T2" return "T2 (1860 - 1879)"
                 case "T3" return "T3 (1880 - 1899)"
                 case "T4" return "T4 (1900 - 1920)"
+                case "T5" return "T5 (1921 - 1940)"
+                case "T6" return "T6 (1941 - )"
                 default return $label
         }
     }
