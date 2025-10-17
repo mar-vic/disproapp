@@ -106,7 +106,7 @@
         </model>
                     <model predicate="rPr/(u|i|caps|b|strike) or $parameters?cstyle(.)/rPr/(u|i|caps|b|strike)" behaviour="inline">
             <param name="rend" value="(rPr/(u|i|caps|b|strike), $parameters?cstyle(.)/rPr/(u|i|caps|b|strike)) ! local-name(.)"/>
-            <pb:template xmlns="" xml:space="preserve"><hi xmlns="http://www.tei-c.org/ns/1.0" rend="[[rend]]">[[content]]</hi></pb:template>
+            <pb:template xmlns="" xml:space="preserve"><tei:hi xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="[[rend]]">[[content]]</tei:hi></pb:template>
         </model>
                     <model behaviour="inline"/>
                 </elementSpec>

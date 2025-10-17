@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <tei:TEI xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="slk1987295" xml:lang="slk">
  <tei:teiHeader>
   <tei:fileDesc>
@@ -24,7 +23,7 @@
     </tei:measure>
    </tei:extent>
    <tei:publicationStmt>
-    <tei:p />
+    <tei:p/>
    </tei:publicationStmt>
    <tei:sourceDesc>
     <tei:bibl type="printSource">
@@ -64,17 +63,17 @@
    </tei:sourceDesc>
   </tei:fileDesc>
   <tei:encodingDesc n="eltec-1">
-   <tei:p />
+   <tei:p/>
   </tei:encodingDesc>
   <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="slk" />
+    <tei:language ident="slk"/>
    </tei:langUsage>
    <tei:textDesc>
-    <eltec:authorGender key="M" />
-    <eltec:size key="long" />
-    <eltec:canonicity key="unspecified" />
-    <eltec:timeSlot key="T6" />
+    <eltec:authorGender key="M"/>
+    <eltec:size key="long"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T6"/>
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
@@ -89,7 +88,7 @@
     <tei:head>
      Jánošík
     </tei:head>
-    <tei:head />
+    <tei:head/>
    </tei:div>
   </tei:front>
   <tei:body>
@@ -150,7 +149,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Ruka mu nezastala. Keď nedvíhala džbán k ústam alebo k všeobecnému   štrngotu, tak celkom iste siahala po misiách, ktoré sa pred ním so   zázračnou rýchlosťou vyprázdňovali, a jeho jedácka pozornosť sa   sústreďovala najmä na husacinu.
@@ -451,7 +450,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Ale to už v panne Zuzanke všetko zovrelo, nemohla sa viac ovládať.   Vyskočila, líca jej vzplanuli a pred všetkými sa na baróna Révaya   hlasno oborila:
@@ -2503,7 +2502,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – K tomu svätému cieľu som sa usiloval zmobilizovať všetky národné   sily: šľachtu, meštianstvo i poddanstvo, lebo všetky tri stavy majú   na našom víťazstve rovnaký záujem: oslobodenie spod habsburského   panstva. Myslím, že sa mi mobilizácia podarila: ako ráčia byť vaše   milosti svedkom, pod moje zástavy sa prihlásili všetky tri stavy v   utešenej jednote, a ak stoja tieto tri stavy pri nás, aké potom   pochybnosti o budúcnosti?
@@ -2860,7 +2859,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Keď si Ďurko trochu navykol na tmu, videl, že stojí pred   rodičovskou posteľou a z belosti perín dívala sa naňho biedna,   prepadnutá, ustarostená tvár matky. V tej chvíli sa mu vydral z hrude   synovský vzlyk, ktorý otriasol jeho mocným telom, kolená sa mu   podlomili a stálo ho mnoho úsilia, aby neklesol k peľasti rodičovskej   postele.
@@ -3308,7 +3307,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Viem dokonca i to, že si bol u starého Pongráca popýtať ho o radu   a ten ti ju nevedel dať, čo zas prezrádza tvoja tvár. Čo by si chodil   po pánoch? Tí ti nepomôžu, všetci držia za jeden povraz. Zato ti   pomôžem ja, Uhorčík. Nechaj všetko tak a poď so mnou na zboj, dobre   sa nám povodí…
@@ -3740,7 +3739,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Bol utešený, slnečný deň, povieval osviežujúci vetrík a z lesov   vedľa hradskej prinášal omamujúcu vôňu, zatiaľ čo po druhej veselo   šumeli a spievali priehľadné, krištáľovočisté vody Váhu.
@@ -4174,7 +4173,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Som teda zbojník, – šomral si sám pre seba.
@@ -5359,7 +5358,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Tvoja povinnosť? – začudoval sa napriek veľkému rozhorčeniu   Jánošík.
@@ -5879,7 +5878,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Révay sa s úzkosťou díval za vzďaľujúcimi sa zbojníkmi. Teraz tu   ostane osamote s ich kapitánom, a keď toho zase schytí hnev… „Ale   nie,“ hútal barón, „možno, že Jánošík má niečo za lubom, o čom sa   jeho chlapi nesmú dozvedieť, iste si chce zaistiť pre seba osobitné   výkupné a potom s peniazmi ujsť.“
@@ -6270,7 +6269,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Za všetkých ich vyjadril veľkomožný pán Ignác Rakovský z   Liptovskej Štiavnice, keď hovoril o urovnaní cesty k trónu, najmä keď   vystríhal pred mizerným plebsom, ktorý sa znovu začína dvíhať proti   svojmu zemepánovi. Povedal: – Áno, páni, poddaný sa začína búriť,   vznikajú zbojnícke bandy, ktoré sú namierené proti nám i proti nášmu   majetku. Ak nepritiahneme vzdornému poddanému uzdy, v dohľadnom čase   máme sedliacke povstanie na krku, a to ešte krvavejšie, ako bolo   Dóžovo.
@@ -6697,7 +6696,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Kamaráti v tichosti zjedli praženicu, zaliali ju vínkom a potom sa   mlčky dívali von oblokom.
@@ -7038,7 +7037,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Dobrý večer, strýko, stryná, – pozdravila vľúdne starého   kušniera a jeho ženu, ktorí sa práve chystali k skromnej haluškovej   večeri.
@@ -7423,7 +7422,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      <tei:emph>
@@ -7849,7 +7848,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Nevrátime, – ozval sa v tej chvíli pokojný hlas Ďurka Jánošíka.   Práve bol dočítal veľkú pergamenovú listinu, ktorú našiel v krásnom   červenom dolománe, najkrajšom a najbohatšom zo všetkých.
@@ -8225,7 +8224,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Podžupan nechcel veriť svojim ušiam. Akože? To špinavé zbojníčisko   sa opováži jemu, gemerskému vicišpánovi nadať do hlupákov? To si   odpyká.
@@ -9326,7 +9325,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      V tom, čo hovoríš, je mnoho pravdy, – povedal napokon. – A jednako   len musím do Mošoviec. Volajú ma na pomoc, a ak mám trochu chlapskej   cti v sebe, musím poslúchnuť. Nehnevaj sa, ináč nemôžem.
@@ -9438,7 +9437,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Všetko márne. Nič nemohlo zastaviť neúprosného obra. Ako detskú   hračku zdvihol baróna zo zeme, divo ním zatriasol a potom mu zviazal   ruky a povraz pripevnil na kľučku.
@@ -9888,7 +9887,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Páni sa boja, – povedal ktosi z tábora zvedavcov významným   hlasom. – Bez drábov a husárov už ani krok.
@@ -10318,7 +10317,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Netráp sa, Ďurko, – vytrhol kapitána zo zadumania Hrajnoha. –   Nejako už len bude. Verím, že Gajdošík vykoná všetko, aby mal u ľudí   úspech. Veď ho poznáš. Keď ten raz otvorí svoju medovú papuľku,   prehovoril by i satana, aby sa obrátil v anjela. Uvidíš, že na Borovú   prídu stá a stá, len aby si každý priniesol celú svoju výzbroj, aby   sme ju nemuseli kupovať…
@@ -11266,7 +11265,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Páni bratia sa zarazene podívali na seba. Starý Révay povedal veru   pravdu.
@@ -11621,7 +11620,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Vaša česť, urodzený pán hlavný notárius? – povedal s úsmeškom na   perách. – Stratili ste ju už vtedy, keď ste v Andiciach kázali na   smrť ubiť úbožiaka, ktorý chytil na vašich poliach do oka zajaca, aby   nasýtil svoje deti.
@@ -12116,7 +12115,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – To sa mi páči, – vykríkol veselo kuriér. – Síce takí   vyjednávači, ako som ja, musia veľmi často ísť krivými chodníčkami k   cieľu, ale radšej som, keď sedíme proti sebe dvaja priami chlapi a   vykladáme otvorene svoje tromfy.
@@ -12636,7 +12635,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Možno máš pravdu, Hrajnoha, sám začínam pochybovať, či som dobre   spravil, keď som sa pridal k cisárskym, ale človek, ak chce niečo   dosiahnuť, musí riskovať.
@@ -13713,7 +13712,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Nechaj ju, – mávol rukou Jánošík, – nech sa len díva, nám tým   neublíži a ani nás neruší.
@@ -13993,7 +13992,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Pozor, Ďurko, – zvolal v kúte ležiaci Uhorčík. – Niečo stroja   proti tebe.
@@ -14575,7 +14574,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      – Nie! – skríkla zdesene. – To sa nesmie nikdy stať! Ďurko Jánošík   nesmie zahynúť takou hanebnou smrťou. Radšej ho usmrtím sama týmito   rukami, než by mala siahnuť naňho katova špinavá ruka!
@@ -15023,7 +15022,7 @@
     </tei:p>
     <tei:p>
      
-     <tei:gap unit="graphic" />
+     <tei:gap unit="graphic"/>
     </tei:p>
     <tei:p>
      Pandúri museli vynaložiť všetku silu, aby zvedavcov udržali v   náležitej vzdialenosti od Jánošíka. I strach veru mali, že hôrni   chlapci sú niekde nablízku. Keby sa tak náhle na nich vrhli, bolo by   im hračkou v tejto strašnej tlačenici vyrvať väzňa a zmiznúť s ním v   neprehľadnom dave, ktorý aj tak stál viac na strane Jánošíka, než na   strane pánov.
